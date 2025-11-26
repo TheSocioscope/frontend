@@ -70,6 +70,7 @@ export default defineNuxtConfig({
 
   // App configuration
   app: {
+    baseURL: process.env.NODE_ENV === 'production' ? '/frontend/' : '/',
     head: {
       htmlAttrs: {
         lang: 'en'
