@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "insights": "Análisis",
+    "partners": "Socios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "EL SOCIOSCOPE",
+    "subtitle": "Ver cómo se transforman las sociedades",
+    "tagline": "Una iniciativa innovadora para comprender y mapear cómo las comunidades crean futuros alimentarios sostenibles"
+  },
+  "microscope": {
+    "icon": "🔬",
+    "title": "El primer microscopio social del mundo",
+    "description1": "Así como el microscopio revolucionó la biología al revelar el mundo oculto de las células, el Socioscope está revelando los patrones ocultos de transformación social.",
+    "description2": "Estamos construyendo una forma sistemática de ver lo que antes era invisible: cómo las acciones individuales se conectan para formar un cambio colectivo."
+  },
+  "vision": {
+    "title": "Por qué esto importa",
+    "statement": "Nos enfrentamos a desafíos existenciales: colapso climático, desigualdad, fragilidad democrática. Necesitamos comprender cómo se transforman realmente las sociedades, no en teoría, sino en la práctica.",
+    "details1": "El Socioscope está documentando transformaciones reales en los sistemas alimentarios en todo el mundo: más de 1,000 iniciativas en más de 30 países. Cada una es un estudio de caso sobre cómo ocurre el cambio.",
+    "details2": "Lo que estamos aprendiendo no es solo sobre alimentos. Se trata de los mecanismos fundamentales de transformación social que se aplican en todos los dominios."
+  },
+  "contributions": {
+    "card1": {
+      "icon": "📊",
+      "title": "Datos",
+      "description": "Recopilación sofisticada de datos en persona en 29 países, capturando no solo lo que hacen las iniciativas, sino cómo transforman los sistemas económicos, ecológicos, culturales y de gobernanza.",
+      "description2": "Nuestros investigadores realizan trabajo de campo etnográfico, entrevistas estructuradas y observación participativa para construir el conjunto de datos más completo sobre transformaciones de sistemas alimentarios.",
+      "link": ""
+    },
+    "card2": {
+      "icon": "🤖",
+      "title": "Tecnología",
+      "description": "Estableciendo una metodología de investigación impulsada por LLM que puede procesar datos cualitativos a escala mientras preserva los matices contextuales y la especificidad cultural.",
+      "description2": "Construido sobre Sleipnir, nuestro marco analítico permite el reconocimiento de patrones en cientos de casos—encontrando lo que los métodos tradicionales pierden.",
+      "link": "Explorar Sleipnir →"
+    },
+    "card3": {
+      "icon": "🌾",
+      "title": "Análisis",
+      "description": "Desarrollando nuevos marcos para entender la transformación de sistemas, particularmente en sistemas alimentarios donde las dimensiones económicas, ecológicas, culturales y políticas se intersectan.",
+      "description2": "Nuestra metodología de cuadrícula de transacciones mapea cómo el cambio se mueve a través de estas dimensiones—revelando los mecanismos de transformación societal.",
+      "link": ""
+    }
+  },
+  "breakthroughs": {
+    "title": "Avances científicos",
+    "subtitle": "No solo estamos recopilando historias. Estamos descubriendo las leyes fundamentales de cómo las sociedades se transforman.",
+    "card1": {
+      "title": "Patrones universales entre culturas",
+      "description": "A pesar de las grandes diferencias de contexto, encontramos patrones similares de transformación desde Tokio hasta Tanzania."
+    },
+    "card2": {
+      "title": "El papel de las redes",
+      "description": "Cómo las conexiones entre personas y organizaciones crean las condiciones para que el cambio se propague."
+    },
+    "card3": {
+      "title": "Umbrales críticos",
+      "description": "Identificar los puntos de inflexión donde las iniciativas individuales se convierten en transformación sistémica."
+    },
+    "card4": {
+      "title": "Mecanismos de escalamiento",
+      "description": "Comprender cómo las innovaciones locales se propagan y adaptan en diferentes contextos."
+    }
+  },
+  "map": {
+    "title": "Alcance global, impacto local",
+    "subtitle": "Explore nuestra red de iniciativas alimentarias sostenibles en todo el mundo. Cada ubicación representa comunidades reales trabajando hacia un cambio transformador.",
+    "tooltip": {
+      "cases": "casos"
+    },
+    "legend": {
+      "title": "Número de casos",
+      "range1": "1-5 casos",
+      "range2": "6-15 casos",
+      "range3": "16-30 casos",
+      "range4": "31-50 casos",
+      "range5": "51-100 casos",
+      "range6": "100+ casos",
+      "noData": "Sin datos"
+    }
+  },
+  "stats": {
+    "card1": {
+      "number": "1000+",
+      "label": "Casos documentados"
+    },
+    "card2": {
+      "number": "30+",
+      "label": "Países"
+    },
+    "card3": {
+      "number": "5",
+      "label": "Continentes"
+    }
+  },
+  "stories": {
+    "title": "Historias del campo",
+    "subtitle": "Vea cómo las comunidades de todo el mundo están transformando sus sistemas alimentarios",
+    "videoPlaceholder": "▶",
+    "video1": {
+      "title": "Agricultura urbana en Tokio",
+      "description": "Cómo los jardines en azoteas están transformando los sistemas alimentarios urbanos"
+    },
+    "video2": {
+      "title": "Bosques comunitarios en Kenia",
+      "description": "Regenerando ecosistemas mientras se construyen economías locales"
+    },
+    "video3": {
+      "title": "Redes cooperativas en Colombia",
+      "description": "Pequeños agricultores creando poder de mercado colectivo"
+    },
+    "video4": {
+      "title": "Conocimiento tradicional en Perú",
+      "description": "Preservando sistemas alimentarios indígenas para el futuro"
+    },
+    "video5": {
+      "title": "Sistemas alimentarios circulares en Dinamarca",
+      "description": "Cerrando ciclos y eliminando desperdicios"
+    },
+    "video6": {
+      "title": "Agroecología en Francia",
+      "description": "Escalando prácticas sostenibles en las regiones"
+    }
+  },
+  "newsletter": {
+    "title": "No te pierdas las nuevas iniciativas",
+    "subtitle": "Suscríbete para recibir actualizaciones sobre nuevos proyectos en tu región o área de interés.",
+    "emailPlaceholder": "Ingresa tu correo electrónico",
+    "button": "Suscribirse"
+  },
+  "leadingResearch": {
+    "title": "Liderando la investigación",
+    "eth": {
+      "title": "ETH Zurich",
+      "description": "Cátedra de Redes Sociales"
+    },
+    "ulb": {
+      "title": "Universidad Libre de Bruselas",
+      "description": "Centro Leo Apostel"
+    },
+    "nomis": "Apoyado por la Fundación NOMIS"
+  },
+  "footer": {
+    "about": {
+      "title": "Acerca de",
+      "about": "Acerca del Socioscope",
+      "methodology": "Metodología",
+      "team": "Equipo",
+      "publications": "Publicaciones"
+    },
+    "explore": {
+      "title": "Explorar",
+      "database": "Base de datos de casos",
+      "stories": "Historias",
+      "insights": "Análisis"
+    },
+    "resources": {
+      "title": "Recursos",
+      "publications": "Publicaciones",
+      "news": "Noticias y eventos",
+      "faq": "Preguntas frecuentes",
+      "contact": "Contáctanos"
+    },
+    "connect": {
+      "title": "Conectar",
+      "newsletter": "Boletín",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "copyright": "© 2025 El Socioscope • Comprender cómo se transforman las sociedades",
+    "team": "Equipo",
+    "publications": "Publicaciones",
+    "stories": "Historias",
+    "newsEvents": "Noticias y eventos"
+  },
+  "pages": {
+    "methodology": "Metodología",
+    "partners": "Socios",
+    "publications": "Publicaciones",
+    "newsEvents": "Noticias y eventos",
+    "faq": "Preguntas frecuentes",
+    "contact": "Contáctanos",
+    "newsletter": "Boletín",
+    "credits": "Créditos",
+    "privacy": "Política de privacidad",
+    "about": "Acerca de"
+  }
+}

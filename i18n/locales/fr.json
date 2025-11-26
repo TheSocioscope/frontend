@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "about": "À propos",
+    "projects": "Projets",
+    "insights": "Analyses",
+    "partners": "Partenaires",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "LE SOCIOSCOPE",
+    "subtitle": "Voir comment les sociétés se transforment",
+    "tagline": "Une initiative révolutionnaire pour comprendre et cartographier comment les communautés créent des futurs alimentaires durables"
+  },
+  "microscope": {
+    "icon": "🔬",
+    "title": "Le premier microscope social au monde",
+    "description1": "Tout comme le microscope a révolutionné la biologie en révélant le monde caché des cellules, le Socioscope révèle les modèles cachés de transformation sociale.",
+    "description2": "Nous construisons une méthode systématique pour voir ce qui était auparavant invisible : comment les actions individuelles se connectent pour former un changement collectif."
+  },
+  "vision": {
+    "title": "Pourquoi c'est important",
+    "statement": "Nous faisons face à des défis existentiels : effondrement climatique, inégalités, fragilité démocratique. Nous devons comprendre comment les sociétés se transforment réellement, pas en théorie, mais en pratique.",
+    "details1": "Le Socioscope documente des transformations réelles des systèmes alimentaires dans le monde entier—plus de 1 000 initiatives dans plus de 30 pays. Chacune est une étude de cas sur la façon dont le changement se produit.",
+    "details2": "Ce que nous apprenons ne concerne pas seulement l'alimentation. Il s'agit des mécanismes fondamentaux de transformation sociale qui s'appliquent à tous les domaines."
+  },
+  "contributions": {
+    "card1": {
+      "icon": "📊",
+      "title": "Données",
+      "description": "Collecte de données sophistiquée sur le terrain dans 29 pays, capturant non seulement ce que font les initiatives, mais comment elles transforment les systèmes économiques, écologiques, culturels et de gouvernance.",
+      "description2": "Nos chercheurs effectuent du travail de terrain ethnographique, des entretiens structurés et de l'observation participative pour construire l'ensemble de données le plus complet sur les transformations des systèmes alimentaires.",
+      "link": ""
+    },
+    "card2": {
+      "icon": "🤖",
+      "title": "Technologie",
+      "description": "Établissement d'une méthodologie de recherche pilotée par LLM qui peut traiter des données qualitatives à grande échelle tout en préservant les nuances contextuelles et la spécificité culturelle.",
+      "description2": "Construit sur Sleipnir, notre cadre analytique permet la reconnaissance de motifs sur des centaines de cas—trouvant ce que les méthodes traditionnelles manquent.",
+      "link": "Explorer Sleipnir →"
+    },
+    "card3": {
+      "icon": "🌾",
+      "title": "Analyse",
+      "description": "Développement de nouveaux cadres pour comprendre la transformation des systèmes, en particulier dans les systèmes alimentaires où les dimensions économiques, écologiques, culturelles et politiques se croisent.",
+      "description2": "Notre méthodologie de grille de transactions cartographie comment le changement se déplace à travers ces dimensions—révélant les mécanismes de transformation sociétale.",
+      "link": ""
+    }
+  },
+  "breakthroughs": {
+    "title": "Percées scientifiques",
+    "subtitle": "Nous ne collectons pas seulement des histoires. Nous découvrons les lois fondamentales de la façon dont les sociétés se transforment.",
+    "card1": {
+      "title": "Modèles universels entre cultures",
+      "description": "Malgré de vastes différences de contexte, nous trouvons des modèles similaires de transformation de Tokyo à la Tanzanie."
+    },
+    "card2": {
+      "title": "Le rôle des réseaux",
+      "description": "Comment les connexions entre les personnes et les organisations créent les conditions pour que le changement se propage."
+    },
+    "card3": {
+      "title": "Seuils critiques",
+      "description": "Identifier les points de basculement où les initiatives individuelles deviennent une transformation systémique."
+    },
+    "card4": {
+      "title": "Mécanismes de mise à l'échelle",
+      "description": "Comprendre comment les innovations locales se répandent et s'adaptent dans différents contextes."
+    }
+  },
+  "map": {
+    "title": "Portée mondiale, impact local",
+    "subtitle": "Explorez notre réseau d'initiatives alimentaires durables à travers le monde. Chaque emplacement représente de vraies communautés travaillant vers un changement transformateur.",
+    "tooltip": {
+      "cases": "cas"
+    },
+    "legend": {
+      "title": "Nombre de cas",
+      "range1": "1-5 cas",
+      "range2": "6-15 cas",
+      "range3": "16-30 cas",
+      "range4": "31-50 cas",
+      "range5": "51-100 cas",
+      "range6": "100+ cas",
+      "noData": "Pas de données"
+    }
+  },
+  "stats": {
+    "card1": {
+      "number": "1000+",
+      "label": "Cas documentés"
+    },
+    "card2": {
+      "number": "30+",
+      "label": "Pays"
+    },
+    "card3": {
+      "number": "5",
+      "label": "Continents"
+    }
+  },
+  "stories": {
+    "title": "Histoires du terrain",
+    "subtitle": "Regardez comment les communautés du monde entier transforment leurs systèmes alimentaires",
+    "videoPlaceholder": "▶",
+    "video1": {
+      "title": "Agriculture urbaine à Tokyo",
+      "description": "Comment les jardins sur les toits transforment les systèmes alimentaires urbains"
+    },
+    "video2": {
+      "title": "Forêts communautaires au Kenya",
+      "description": "Régénérer les écosystèmes tout en construisant des économies locales"
+    },
+    "video3": {
+      "title": "Réseaux coopératifs en Colombie",
+      "description": "Les petits agriculteurs créent un pouvoir de marché collectif"
+    },
+    "video4": {
+      "title": "Savoirs traditionnels au Pérou",
+      "description": "Préserver les systèmes alimentaires indigènes pour l'avenir"
+    },
+    "video5": {
+      "title": "Systèmes alimentaires circulaires au Danemark",
+      "description": "Fermer les boucles et éliminer les déchets"
+    },
+    "video6": {
+      "title": "Agroécologie en France",
+      "description": "Mise à l'échelle des pratiques durables dans les régions"
+    }
+  },
+  "newsletter": {
+    "title": "Ne manquez pas les nouvelles initiatives",
+    "subtitle": "Abonnez-vous pour recevoir des mises à jour sur les nouveaux projets dans votre région ou domaine d'intérêt.",
+    "emailPlaceholder": "Entrez votre email",
+    "button": "S'abonner"
+  },
+  "leadingResearch": {
+    "title": "Mener la recherche",
+    "eth": {
+      "title": "ETH Zurich",
+      "description": "Chaire des réseaux sociaux"
+    },
+    "ulb": {
+      "title": "Université Libre de Bruxelles",
+      "description": "Centre Leo Apostel"
+    },
+    "nomis": "Soutenu par la Fondation NOMIS"
+  },
+  "footer": {
+    "about": {
+      "title": "À propos",
+      "about": "À propos du Socioscope",
+      "methodology": "Méthodologie",
+      "team": "Équipe",
+      "publications": "Publications"
+    },
+    "explore": {
+      "title": "Explorer",
+      "database": "Base de données des cas",
+      "stories": "Histoires",
+      "insights": "Analyses"
+    },
+    "resources": {
+      "title": "Ressources",
+      "publications": "Publications",
+      "news": "Actualités et événements",
+      "faq": "FAQ",
+      "contact": "Nous contacter"
+    },
+    "connect": {
+      "title": "Se connecter",
+      "newsletter": "Newsletter",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "copyright": "© 2025 Le Socioscope • Comprendre comment les sociétés se transforment",
+    "team": "Équipe",
+    "publications": "Publications",
+    "stories": "Histoires",
+    "newsEvents": "Actualités et événements"
+  },
+  "pages": {
+    "methodology": "Méthodologie",
+    "partners": "Partenaires",
+    "publications": "Publications",
+    "newsEvents": "Actualités et événements",
+    "faq": "FAQ",
+    "contact": "Nous contacter",
+    "newsletter": "Newsletter",
+    "credits": "Crédits",
+    "privacy": "Politique de confidentialité",
+    "about": "À propos"
+  }
+}

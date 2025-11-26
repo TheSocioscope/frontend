@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "about": "Über uns",
+    "projects": "Projekte",
+    "insights": "Erkenntnisse",
+    "partners": "Partner",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "DAS SOZIOSKOP",
+    "subtitle": "Sehen, wie sich Gesellschaften transformieren",
+    "tagline": "Eine bahnbrechende Initiative, um zu verstehen und zu kartieren, wie Gemeinschaften nachhaltige Ernährungssysteme schaffen"
+  },
+  "microscope": {
+    "icon": "🔬",
+    "title": "Das erste soziale Mikroskop der Welt",
+    "description1": "So wie das Mikroskop die Biologie revolutionierte, indem es die verborgene Welt der Zellen offenbarte, enthüllt das Sozioskop die verborgenen Muster sozialer Transformation.",
+    "description2": "Wir entwickeln eine systematische Methode, um zu sehen, was zuvor unsichtbar war: wie individuelle Handlungen sich verbinden, um kollektiven Wandel zu bilden."
+  },
+  "vision": {
+    "title": "Warum dies wichtig ist",
+    "statement": "Wir stehen vor existenziellen Herausforderungen: Klimakollaps, Ungleichheit, demokratische Fragilität. Wir müssen verstehen, wie sich Gesellschaften tatsächlich transformieren—nicht in der Theorie, sondern in der Praxis.",
+    "details1": "Das Sozioskop dokumentiert echte Transformationen in Ernährungssystemen weltweit—über 1.000 Initiativen in über 30 Ländern. Jede ist eine Fallstudie darüber, wie Wandel geschieht.",
+    "details2": "Was wir lernen, betrifft nicht nur Ernährung. Es geht um die grundlegenden Mechanismen sozialer Transformation, die über alle Bereiche hinweg gelten."
+  },
+  "contributions": {
+    "card1": {
+      "icon": "📊",
+      "title": "Daten",
+      "description": "Hochentwickelte persönliche Datenerfassung in 29 Ländern, die nicht nur erfasst, was Initiativen tun, sondern wie sie wirtschaftliche, ökologische, kulturelle und Governance-Systeme transformieren.",
+      "description2": "Unsere Forscher führen ethnografische Feldarbeit, strukturierte Interviews und teilnehmende Beobachtung durch, um den umfassendsten Datensatz über Transformationen von Lebensmittelsystemen aufzubauen.",
+      "link": ""
+    },
+    "card2": {
+      "icon": "🤖",
+      "title": "Technologie",
+      "description": "Etablierung einer LLM-gesteuerten Forschungsmethodik, die qualitative Daten im großen Maßstab verarbeiten kann, während kontextuelle Nuancen und kulturelle Spezifität erhalten bleiben.",
+      "description2": "Aufgebaut auf Sleipnir ermöglicht unser analytischer Rahmen die Mustererkennung über Hunderte von Fällen hinweg—und findet, was traditionelle Methoden verpassen.",
+      "link": "Sleipnir erkunden →"
+    },
+    "card3": {
+      "icon": "🌾",
+      "title": "Analyse",
+      "description": "Entwicklung neuer Rahmenwerke zum Verständnis von Systemtransformationen, insbesondere in Lebensmittelsystemen, wo wirtschaftliche, ökologische, kulturelle und politische Dimensionen zusammentreffen.",
+      "description2": "Unsere Transaktionsgitter-Methodik kartiert, wie sich Veränderungen über diese Dimensionen bewegen—und enthüllt die Mechanismen gesellschaftlicher Transformation.",
+      "link": ""
+    }
+  },
+  "breakthroughs": {
+    "title": "Wissenschaftliche Durchbrüche",
+    "subtitle": "Wir sammeln nicht nur Geschichten. Wir entdecken die grundlegenden Gesetze, wie sich Gesellschaften selbst transformieren.",
+    "card1": {
+      "title": "Universelle Muster über Kulturen hinweg",
+      "description": "Trotz großer Kontextunterschiede finden wir ähnliche Transformationsmuster von Tokio bis Tansania."
+    },
+    "card2": {
+      "title": "Die Rolle von Netzwerken",
+      "description": "Wie Verbindungen zwischen Menschen und Organisationen die Bedingungen schaffen, damit sich Wandel ausbreitet."
+    },
+    "card3": {
+      "title": "Kritische Schwellenwerte",
+      "description": "Identifizierung der Kipppunkte, an denen individuelle Initiativen zu systemischer Transformation werden."
+    },
+    "card4": {
+      "title": "Skalierungsmechanismen",
+      "description": "Verstehen, wie sich lokale Innovationen ausbreiten und in verschiedenen Kontexten anpassen."
+    }
+  },
+  "map": {
+    "title": "Globale Reichweite, lokale Wirkung",
+    "subtitle": "Erkunden Sie unser Netzwerk nachhaltiger Ernährungsinitiativen auf der ganzen Welt. Jeder Standort repräsentiert echte Gemeinschaften, die auf transformativen Wandel hinarbeiten.",
+    "tooltip": {
+      "cases": "Fälle"
+    },
+    "legend": {
+      "title": "Anzahl der Fälle",
+      "range1": "1-5 Fälle",
+      "range2": "6-15 Fälle",
+      "range3": "16-30 Fälle",
+      "range4": "31-50 Fälle",
+      "range5": "51-100 Fälle",
+      "range6": "100+ Fälle",
+      "noData": "Keine Daten"
+    }
+  },
+  "stats": {
+    "card1": {
+      "number": "1000+",
+      "label": "Dokumentierte Fälle"
+    },
+    "card2": {
+      "number": "30+",
+      "label": "Länder"
+    },
+    "card3": {
+      "number": "5",
+      "label": "Kontinente"
+    }
+  },
+  "stories": {
+    "title": "Geschichten aus dem Feld",
+    "subtitle": "Sehen Sie, wie Gemeinschaften auf der ganzen Welt ihre Ernährungssysteme transformieren",
+    "videoPlaceholder": "▶",
+    "video1": {
+      "title": "Urbane Landwirtschaft in Tokio",
+      "description": "Wie Dachgärten städtische Ernährungssysteme transformieren"
+    },
+    "video2": {
+      "title": "Gemeinschaftswälder in Kenia",
+      "description": "Ökosysteme regenerieren und gleichzeitig lokale Wirtschaften aufbauen"
+    },
+    "video3": {
+      "title": "Genossenschaftsnetzwerke in Kolumbien",
+      "description": "Kleinbauern schaffen kollektive Marktmacht"
+    },
+    "video4": {
+      "title": "Traditionelles Wissen in Peru",
+      "description": "Bewahrung indigener Ernährungssysteme für die Zukunft"
+    },
+    "video5": {
+      "title": "Kreislauf-Ernährungssysteme in Dänemark",
+      "description": "Kreisläufe schließen und Abfall eliminieren"
+    },
+    "video6": {
+      "title": "Agrarökologie in Frankreich",
+      "description": "Skalierung nachhaltiger Praktiken über Regionen hinweg"
+    }
+  },
+  "newsletter": {
+    "title": "Verpassen Sie keine neuen Initiativen",
+    "subtitle": "Abonnieren Sie, um Updates über neue Projekte in Ihrer Region oder Ihrem Interessensgebiet zu erhalten.",
+    "emailPlaceholder": "E-Mail eingeben",
+    "button": "Abonnieren"
+  },
+  "leadingResearch": {
+    "title": "Die Forschung leiten",
+    "eth": {
+      "title": "ETH Zürich",
+      "description": "Lehrstuhl für soziale Netzwerke"
+    },
+    "ulb": {
+      "title": "Freie Universität Brüssel",
+      "description": "Zentrum Leo Apostel"
+    },
+    "nomis": "Unterstützt von der NOMIS-Stiftung"
+  },
+  "footer": {
+    "about": {
+      "title": "Über uns",
+      "about": "Über das Sozioskop",
+      "methodology": "Methodik",
+      "team": "Team",
+      "publications": "Publikationen"
+    },
+    "explore": {
+      "title": "Erkunden",
+      "database": "Falldatenbank",
+      "stories": "Geschichten",
+      "insights": "Erkenntnisse"
+    },
+    "resources": {
+      "title": "Ressourcen",
+      "publications": "Publikationen",
+      "news": "Nachrichten & Veranstaltungen",
+      "faq": "FAQ",
+      "contact": "Kontakt"
+    },
+    "connect": {
+      "title": "Verbinden",
+      "newsletter": "Newsletter",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn",
+      "github": "GitHub"
+    },
+    "copyright": "© 2025 Das Sozioskop • Verstehen, wie sich Gesellschaften transformieren",
+    "team": "Team",
+    "publications": "Publikationen",
+    "stories": "Geschichten",
+    "newsEvents": "Nachrichten und Veranstaltungen"
+  },
+  "pages": {
+    "methodology": "Methodik",
+    "partners": "Partner",
+    "publications": "Publikationen",
+    "newsEvents": "Nachrichten und Veranstaltungen",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "newsletter": "Newsletter",
+    "credits": "Credits",
+    "privacy": "Datenschutzerklärung",
+    "about": "Über uns"
+  }
+}

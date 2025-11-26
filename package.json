@@ -1,0 +1,44 @@
+{
+  "name": "nuxt_frontend",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/content": "3.8.2",
+    "@nuxt/eslint": "1.10.0",
+    "@nuxt/fonts": "0.12.1",
+    "@nuxt/hints": "1.0.0-alpha.2",
+    "@nuxt/image": "2.0.0",
+    "@nuxt/scripts": "0.13.0",
+    "@nuxt/test-utils": "3.20.1",
+    "@unhead/vue": "^2.0.3",
+    "better-sqlite3": "^12.4.6",
+    "decap-cms-app": "^3.9.0",
+    "eslint": "^9.0.0",
+    "nuxt": "^4.2.1",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "@mdi/font": "^7.4.47",
+    "@nuxtjs/i18n": "10.2.1",
+    "@nuxtjs/sitemap": "^7.4.7",
+    "@types/d3": "^7.4.3",
+    "@types/topojson-client": "^3.1.5",
+    "d3": "^7.9.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.4",
+    "nuxt-site-config": "^3.2.11",
+    "prettier": "^3.6.2",
+    "sass": "^1.94.2",
+    "topojson-client": "^3.1.0",
+    "vue-tsc": "^3.1.5",
+    "vuetify": "^3.11.0-beta.1"
+  }
+}

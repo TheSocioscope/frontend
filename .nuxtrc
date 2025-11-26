@@ -1,0 +1,56 @@
+{
+  "name": "The Socioscope",
+  "description": "Seeing How Societies Transform",
+  "icon": "🔬",
+  "locales": [
+    "en",
+    "fr",
+    "es",
+    "de"
+  ],
+  "defaultLocale": "en",
+  "collections": {
+    "pages": {
+      "name": "Pages",
+      "icon": "📄",
+      "path": "content/pages",
+      "template": "page"
+    },
+    "projects": {
+      "name": "Projects",
+      "icon": "🚀",
+      "path": "content/projects",
+      "template": "project"
+    },
+    "stories": {
+      "name": "Stories",
+      "icon": "📖",
+      "path": "content/stories",
+      "template": "story"
+    },
+    "publications": {
+      "name": "Publications",
+      "icon": "📚",
+      "path": "content/publications",
+      "template": "publication"
+    },
+    "news": {
+      "name": "News & Events",
+      "icon": "📰",
+      "path": "content/news",
+      "template": "news"
+    },
+    "faq": {
+      "name": "FAQ",
+      "icon": "❓",
+      "path": "content/faq",
+      "template": "faq"
+    },
+    "partners": {
+      "name": "Partners",
+      "icon": "🤝",
+      "path": "content/partners",
+      "template": "partner"
+    }
+  }
+}
