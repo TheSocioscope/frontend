@@ -151,7 +151,7 @@ onMounted(async () => {
         selectedLocation.value = null
       })
 
-    // Add zoom behavior
+    /*  // Add zoom behavior
     const zoom = d3
       .zoom()
       .scaleExtent([1, 8])
@@ -160,7 +160,7 @@ onMounted(async () => {
         svg.selectAll('g').attr('transform', event.transform)
       })
 
-    svg.call(zoom)
+    svg.call(zoom)*/
   } catch (error) {
     console.error('Error loading map data:', error)
   }
