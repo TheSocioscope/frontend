@@ -86,6 +86,15 @@ const breakthroughs = computed(() => {
 .breakthrough-title {
   margin-bottom: $spacing-3xl;
 }
+.breakthrough-subtitle {
+  font-size: 1.4rem;
+  color: $brown-medium;
+  margin-bottom: $spacing-4xl;
+
+  @media (max-width: 768px) {
+    font-size: 1.2rem;
+  }
+}
 
 .breakthrough-grid {
   font-size: 1.3rem;

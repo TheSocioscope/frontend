@@ -198,7 +198,15 @@ onMounted(() => {
   background: linear-gradient(135deg, $surface-cream 0%, $cream-light 100%);
   padding: $spacing-4xl 0;
 }
+.map-subtitle {
+  font-size: 1.5rem;
+  color: $brown-medium;
+  margin-bottom: $spacing-xl;
 
+  @media (max-width: 768px) {
+    font-size: 1.2rem;
+  }
+}
 .map-description {
   font-size: 1.3rem;
   color: $brown-dark;
