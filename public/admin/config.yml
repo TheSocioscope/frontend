@@ -20,6 +20,31 @@ i18n:
   default_locale: en
 
 collections:
+  # Translations Collection
+  - name: 'translations'
+    label: 'Translations'
+    files:
+      - label: 'English'
+        name: 'en'
+        file: 'i18n/locales/en.json'
+        fields:
+          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
+      - label: 'French'
+        name: 'fr'
+        file: 'i18n/locales/fr.json'
+        fields:
+          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
+      - label: 'Spanish'
+        name: 'es'
+        file: 'i18n/locales/es.json'
+        fields:
+          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
+      - label: 'German'
+        name: 'de'
+        file: 'i18n/locales/de.json'
+        fields:
+          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
+
   # Partners Collection
   - name: 'partners'
     label: 'Partners'
