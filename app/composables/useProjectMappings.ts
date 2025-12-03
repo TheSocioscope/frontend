@@ -18,21 +18,18 @@ export const useProjectMappings = () => {
   }
 
   const getThematicLabel = (thematicIndex: number) => {
-    const thematics = t('projects.thematics') as any[]
-    const thematic = thematics.find((t: any) => t[thematicIndex])
-    return thematic ? thematic[thematicIndex] : ''
+    // Vue i18n converts arrays to objects, so access via index
+    return t(`projects.thematics.${thematicIndex}.${thematicIndex}`)
   }
 
   const getTypeLabel = (typeIndex: number) => {
-    const types = t('projects.types') as any[]
-    const type = types.find((t: any) => t[typeIndex])
-    return type ? type[typeIndex] : ''
+    // Vue i18n converts arrays to objects, so access via index
+    return t(`projects.types.${typeIndex}.${typeIndex}`)
   }
 
   const getStateLabel = (stateValue: number) => {
-    const states = t('projects.state') as any[]
-    const state = states.find((s: any) => s[stateValue])
-    return state ? state[stateValue] : ''
+    // Vue i18n converts arrays to objects, so access via index
+    return t(`projects.state.${stateValue}.${stateValue}`)
   }
 
   const getPeriodicityLabel = (periodicityKey: string) => {

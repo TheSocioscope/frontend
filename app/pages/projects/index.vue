@@ -48,7 +48,7 @@
       <!-- Project list -->
       <v-row v-if="filteredProjects.length > 0">
         <v-col v-for="project in paginatedProjects" :key="project.pubId" cols="12" md="6" lg="4">
-          <v-card :to="`/projects/${project.pubId}`" class="h-100" hover>
+          <v-card class="h-100" hover style="cursor: pointer" @click="handleProjectClick(project)">
             <v-card-title class="text-h6">
               {{ project.name }}
             </v-card-title>
@@ -131,6 +131,10 @@ const projects = computed(() => {
   // Nuxt Content returns data collections as an array directly
   const data = Array.isArray(projectsData.value) ? projectsData.value : []
   console.log(`Loaded ${data.length} projects`)
+  if (data.length > 0) {
+    console.log('First project stem:', data[0].stem)
+    console.log('First project pubId:', data[0].pubId)
+  }
   return data
 })
 
@@ -206,6 +210,23 @@ const paginatedProjects = computed(() => {
 watch([searchQuery, selectedContinent, selectedStatus], () => {
   currentPage.value = 1
 })
+
+// Navigation handler
+const handleProjectClick = async (project: any) => {
+  const projectId = project.stem.replace('projects/', '')
+  const targetPath = `/projects/${projectId}`
+  console.log('=== NAVIGATION ATTEMPT ===')
+  console.log('Project:', project.name)
+  console.log('Project stem:', project.stem)
+  console.log('Project pubId:', project.pubId)
+  console.log('Target path:', targetPath)
+  try {
+    await navigateTo(targetPath)
+    console.log('Navigation successful')
+  } catch (error) {
+    console.error('Navigation error:', error)
+  }
+}
 
 // Status color helper
 const getStatusColor = (status: number) => {

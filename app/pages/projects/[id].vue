@@ -1,6 +1,14 @@
 <template>
   <div>
-    <v-container v-if="project" class="py-16">
+    <!-- Loading state -->
+    <v-container v-if="!project && !projectError" class="py-16">
+      <div class="text-center">
+        <v-progress-circular indeterminate color="primary" size="64" />
+        <p class="text-h6 mt-4">{{ $t('projects.loading', 'Loading project...') }}</p>
+      </div>
+    </v-container>
+
+    <v-container v-else-if="project" class="py-16">
       <!-- Breadcrumbs -->
       <v-breadcrumbs :items="breadcrumbs" class="px-0" />
 
@@ -221,32 +229,46 @@ const {
 
 const projectId = computed(() => route.params.id as string)
 
-// Fetch the specific project by its pubId
-const { data: project, error } = await useAsyncData(`project-${projectId.value}`, async () => {
-  try {
-    const result = await queryCollection('projects')
-      .where('pubId', '=', Number(projectId.value))
-      .first()
-    if (import.meta.client) {
-      console.log('Project loaded:', result?.name || 'Not found')
-    }
-    return result
-  } catch (e) {
-    if (import.meta.client) {
-      console.error('Error loading project:', e)
-    }
-    return null
-  }
-})
+// First, let's try fetching all projects to see what stems actually exist
+const { data: project, error: projectError } = await useAsyncData(
+  `project-${projectId.value}`,
+  async () => {
+    try {
+      // Get all projects to debug
+      const allProjects = await queryCollection('projects').all()
+      console.log('Total projects in collection:', allProjects.length)
+      console.log('Looking for project with ID:', projectId.value)
 
-// Handle not found
-if (!project.value) {
-  throw createError({
-    statusCode: 404,
-    statusMessage: 'Project not found',
-    fatal: true
-  })
-}
+      // Try to find by pubId instead of stem
+      const foundByPubId = allProjects.find((p: any) => String(p.pubId) === String(projectId.value))
+
+      if (foundByPubId) {
+        console.log('Found project by pubId:', foundByPubId.name)
+        console.log('Project stem:', foundByPubId.stem)
+        return foundByPubId
+      }
+
+      // Try by stem as fallback
+      const stemPath = `projects/${projectId.value}`
+      const foundByStem = allProjects.find((p: any) => p.stem === stemPath)
+
+      if (foundByStem) {
+        console.log('Found project by stem:', foundByStem.name)
+        return foundByStem
+      }
+
+      console.error('Project not found with pubId or stem:', projectId.value)
+      console.log(
+        'Sample stems from collection:',
+        allProjects.slice(0, 3).map((p: any) => ({ pubId: p.pubId, stem: p.stem }))
+      )
+      return null
+    } catch (e) {
+      console.error('Error loading project:', e)
+      return null
+    }
+  }
+)
 
 // Breadcrumbs
 const breadcrumbs = computed(() => [
