@@ -45,6 +45,7 @@ interface CountryStats {
 
 const { t: $t } = useI18n()
 const router = useRouter()
+const config = useRuntimeConfig()
 const { countryCodeToMapName, getCountryCode } = useCountryMapping()
 const mapContainer = ref<HTMLElement | null>(null)
 const svgMap = ref<SVGElement | null>(null)
@@ -58,7 +59,8 @@ const dataLoaded = ref(false)
 
 onMounted(async () => {
   try {
-    const response = await fetch('/data/country-stats.json')
+    const baseURL = config.app.baseURL || '/'
+    const response = await fetch(`${baseURL}data/country-stats.json`)
     countryStats.value = await response.json()
 
     console.log('Loaded country stats:', Object.keys(countryStats.value).length, 'countries')

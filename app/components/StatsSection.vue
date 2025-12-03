@@ -25,13 +25,15 @@ interface OverallStats {
 }
 
 const { t: $t } = useI18n()
+const config = useRuntimeConfig()
 
 // Load real stats
 const overallStats = ref<OverallStats | null>(null)
 
 onMounted(async () => {
   try {
-    const response = await fetch('/data/overall-stats.json')
+    const baseURL = config.app.baseURL || '/'
+    const response = await fetch(`${baseURL}data/overall-stats.json`)
     overallStats.value = await response.json()
     console.log('Loaded overall stats:', overallStats.value)
   } catch (error) {
