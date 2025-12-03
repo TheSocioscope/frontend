@@ -189,5 +189,516 @@
     "credits": "Credits",
     "privacy": "Datenschutzerklärung",
     "about": "Über uns"
+  },
+  "projects": {
+    "status": {
+      "0": "WIRD BEARBEITET",
+      "1": "VERÖFFENTLICHT",
+      "2": "VERALTET",
+      "3": "VERIFIZIERT",
+      "4": "xFEATURED",
+      "5": "ENTFERNT",
+      "6": "GESPERRT",
+      "7": "NEU"
+    },
+    "continents": {
+      "0": "Asien",
+      "1": "Europa",
+      "2": "Nordafrika",
+      "3": "Nordamerika",
+      "4": "Südamerika",
+      "5": "Afrika, südlich der Sahara",
+      "6": "Ozeanien",
+      "7": "Weltweit / Interkontinental"
+    },
+    "countries": {
+      "0": "Afghanistan",
+      "1": "Bahrain",
+      "2": "Bangladesch",
+      "3": "Bhutan",
+      "4": "Brunei",
+      "5": "Burma (Myanmar)",
+      "6": "Kambodscha",
+      "7": "China",
+      "8": "Osttimor",
+      "9": "Indien",
+      "10": "Indonesien",
+      "11": "Iran",
+      "12": "Irak",
+      "13": "Israel",
+      "14": "Japan",
+      "15": "Jordanien",
+      "16": "Kasachstan",
+      "17": "Korea, Nord",
+      "18": "Korea, Süd",
+      "19": "Kuwait",
+      "20": "Kirgisistan",
+      "21": "Laos",
+      "22": "Libanon",
+      "23": "Malaysia",
+      "24": "Malediven",
+      "25": "Mongolei",
+      "26": "Nepal",
+      "27": "Oman",
+      "28": "Pakistan",
+      "29": "Philippinen",
+      "30": "Katar",
+      "31": "Russische Föderation",
+      "32": "Saudi-Arabien",
+      "33": "Singapur",
+      "34": "Sri Lanka",
+      "35": "Syrien",
+      "36": "Tadschikistan",
+      "37": "Thailand",
+      "38": "Türkei",
+      "39": "Turkmenistan",
+      "40": "Vereinigte Arabische Emirate",
+      "41": "Usbekistan",
+      "42": "Vietnam",
+      "43": "Jemen",
+      "44": "Angola",
+      "45": "Benin",
+      "46": "Botswana",
+      "47": "Burkina",
+      "48": "Burundi",
+      "49": "Kamerun",
+      "50": "Kap Verde",
+      "51": "Zentralafrikanische Republik",
+      "52": "Chad",
+      "53": "Komoren",
+      "54": "Kongo",
+      "55": "Kongo, Demokratische Republik",
+      "56": "Dschibuti",
+      "57": "Äquatorial-Guinea",
+      "58": "Eritrea",
+      "59": "Äthiopien",
+      "60": "Gabun",
+      "61": "Gambia",
+      "62": "Ghana",
+      "63": "Guinea",
+      "64": "Guinea-Bissau",
+      "65": "Elfenbeinküste",
+      "66": "Kenia",
+      "67": "Lesotho",
+      "68": "Liberia",
+      "69": "Madagaskar",
+      "70": "Malawi",
+      "71": "Mali",
+      "72": "Mauretanien",
+      "73": "Mauritius",
+      "74": "Mosambik",
+      "75": "Namibia",
+      "76": "Niger",
+      "77": "Nigeria",
+      "78": "Ruanda",
+      "79": "Sao Tome und Principe",
+      "80": "Senegal",
+      "81": "Seychellen",
+      "82": "Sierra Leone",
+      "83": "Somalia",
+      "84": "Süd-Afrika",
+      "85": "Südsudan",
+      "86": "Sudan",
+      "87": "Swasiland",
+      "88": "Tansania",
+      "89": "Togo",
+      "90": "Uganda",
+      "91": "Sambia",
+      "92": "Simbabwe",
+      "93": "Algerien",
+      "94": "Ägypten",
+      "95": "Libyen",
+      "96": "Marokko",
+      "97": "Tunesien",
+      "98": "Albanien",
+      "99": "Andorra",
+      "100": "Armenien",
+      "101": "Österreich",
+      "102": "Aserbaidschan",
+      "103": "Weißrussland",
+      "104": "Belgien",
+      "105": "Bosnien und Herzegowina",
+      "106": "Bulgarien",
+      "107": "Kroatien",
+      "108": "Zypern",
+      "109": "Tschechische Republik",
+      "110": "Dänemark",
+      "111": "Estland",
+      "112": "Finnland",
+      "113": "Frankreich",
+      "114": "Georgien",
+      "115": "Deutschland",
+      "116": "Griechenland",
+      "117": "Ungarn",
+      "118": "Island",
+      "119": "Irland",
+      "120": "Italien",
+      "121": "Lettland",
+      "122": "Liechtenstein",
+      "123": "Litauen",
+      "124": "Luxemburg",
+      "125": "Mazedonien",
+      "126": "Malta",
+      "127": "Moldawien",
+      "128": "Monaco",
+      "129": "Montenegro",
+      "130": "Niederlande",
+      "131": "Norwegen",
+      "132": "Polen",
+      "133": "Portugal",
+      "134": "Rumänien",
+      "135": "San Marino",
+      "136": "Serbien",
+      "137": "Slowakei",
+      "138": "Slowenien",
+      "139": "Spanien",
+      "140": "Schweden",
+      "141": "Switzerland",
+      "142": "Ukraine",
+      "143": "Vereinigtes Königreich",
+      "144": "Vatikanstadt",
+      "145": "Australien",
+      "146": "Fidschi",
+      "147": "Kiribati",
+      "148": "Marshallinseln",
+      "149": "Mikronesien",
+      "150": "Nauru",
+      "151": "Neuseeland",
+      "152": "Palau",
+      "153": "Papua-Neuguinea",
+      "154": "Samoa",
+      "155": "Salomoninseln",
+      "156": "Tonga",
+      "157": "Tuvalu",
+      "158": "Vanuatu",
+      "159": "Argentinien",
+      "160": "Bolivien",
+      "161": "Brasilien",
+      "162": "Chile",
+      "163": "Kolumbien",
+      "164": "Ecuador",
+      "165": "Guyana",
+      "166": "Paraguay",
+      "167": "Peru",
+      "168": "Surinam",
+      "169": "Uruguay",
+      "170": "Venezuela",
+      "171": "Antigua und Barbuda",
+      "172": "Bahamas",
+      "173": "Barbados",
+      "174": "Belize",
+      "175": "Kanada",
+      "176": "Costa Rica",
+      "177": "Kuba",
+      "178": "Dominica",
+      "179": "Dominikanische Republik",
+      "180": "El Salvador",
+      "181": "Grenada",
+      "182": "Guatemala",
+      "183": "Haiti",
+      "184": "Honduras",
+      "185": "Jamaika",
+      "186": "Mexiko",
+      "187": "Nicaragua",
+      "188": "Panama",
+      "189": "St. Kitts und Nevis",
+      "190": "St. Lucia",
+      "191": "St. Vincent und die Grenadinen",
+      "192": "Trinidad und Tobago",
+      "193": "Vereinigte Staaten"
+    },
+    "fields": {
+      "0": "Anthropologie",
+      "1": "Kunst, Architektur und Museologie",
+      "2": "Kommunikations- und Medienwissenschaft",
+      "3": "Demografie",
+      "4": "Design",
+      "5": "Wirtschaft & Statistik",
+      "6": "Erziehungswissenschaften",
+      "7": "Gender Studies",
+      "8": "Geographie",
+      "9": "Geschichte",
+      "10": "Literatur und Sprachen",
+      "11": "Jura",
+      "12": "Linguistik",
+      "13": "Management & Öffentliche Verwaltung",
+      "14": "Philosophie inkl. Ethik",
+      "15": "Politikwissenschaft",
+      "16": "Psychologie, Verhaltens- und Kognitive Wissenschaften",
+      "17": "Religion und Theologie",
+      "18": "Soziologie",
+      "19": "Andere Sozial- und Geisteswissenschaften",
+      "20": "Biologie",
+      "21": "Chemie & Physik",
+      "22": "Computerwissenschaften",
+      "23": "Geowissenschaften",
+      "24": "Ökologie & Umweltwissenschaften",
+      "25": "Ingenieurwesen und Technologie",
+      "26": "Epidemiologie",
+      "27": "Informationstechnologie",
+      "28": "Mathematik",
+      "29": "Medizin",
+      "30": "Systemwissenschaft",
+      "socialSciencesAndHumanities": "Sozial- und Geisteswissenschaften",
+      "otherSciences": "Andere Wissenschaften"
+    },
+    "thematics": [
+      {
+        "1": "Alterung, Demographie"
+      },
+      {
+        "2": "Landwirtschaft, Lebensmittel"
+      },
+      {
+        "3": "Big Data, Künstliche Intelligenz"
+      },
+      {
+        "4": "Städte, Mobilität, Stadtplanung"
+      },
+      {
+        "5": "Verbrauchs- und Produktionsmuster"
+      },
+      {
+        "6": "Kunst und Kultur"
+      },
+      {
+        "7": "Demokratie, Zivilgesellschaft, Governance"
+      },
+      {
+        "8": "Digitale Geisteswissenschaften"
+      },
+      {
+        "9": "Bildung"
+      },
+      {
+        "10": "Umweltveränderungen, Ökologie"
+      },
+      {
+        "11": "Studien zu Gleichberechtigung und Diversität"
+      },
+      {
+        "12": "Firmen, Märkte, Finanzen"
+      },
+      {
+        "13": "Menschliches Verhalten, soziale Beziehungen"
+      },
+      {
+        "14": "Ungleichheit, Armut, Entwicklung"
+      },
+      {
+        "15": "Innovation, Forschung & Entwicklung"
+      },
+      {
+        "16": "Internationale Beziehungen und Kooperation"
+      },
+      {
+        "17": "Freizeit, Tourismus"
+      },
+      {
+        "18": "Migration und Diasporas"
+      },
+      {
+        "19": "Öffentlicher Diskurs, Rhetorik, Kommunikation"
+      },
+      {
+        "20": "Public Health"
+      },
+      {
+        "21": "Public Policy, Bewertung, Impact"
+      },
+      {
+        "22": "Risiken, Krisenmanagement"
+      },
+      {
+        "23": "Religionen und Weltanschauungen"
+      },
+      {
+        "24": "Gewalt, Kriminalität, Sicherheit"
+      },
+      {
+        "25": "Arbeit, Wohlfahrt, Sozialschutz"
+      },
+      {
+        "label": "Thematik"
+      }
+    ],
+    "types": [
+      {
+        "0": "Quantitative Erhebung"
+      },
+      {
+        "1": "Qualitative Analyse"
+      },
+      {
+        "2": "Fallstudie"
+      },
+      {
+        "3": "Fragebogen"
+      },
+      {
+        "4": "Simulation / Modellierung"
+      },
+      {
+        "5": "Datensatz, Data Mining"
+      },
+      {
+        "6": "Action Research"
+      },
+      {
+        "7": "Aufruf zur Einreichung von Forschungsproposals"
+      },
+      {
+        "8": "Aufruf zur Zusammenarbeit"
+      },
+      {
+        "9": "Bürgerwissenschaft / Partizipative Wissenschaft"
+      },
+      {
+        "10": "Grassroots-Aktion"
+      },
+      {
+        "11": "Wissenschaftliches Paper"
+      },
+      {
+        "12": "Bericht"
+      },
+      {
+        "13": "Policydokument"
+      },
+      {
+        "14": "Regelung"
+      },
+      {
+        "15": "Konferenz / Webinar"
+      },
+      {
+        "16": "Video"
+      },
+      {
+        "17": "Blog"
+      },
+      {
+        "18": "Presseartikel"
+      },
+      {
+        "19": "Forschungstracker"
+      },
+      {
+        "20": "Andere Ressource"
+      },
+      {
+        "26": "Aufruf zur Einreichung von Beiträgen"
+      },
+      {
+        "21": "Archivmaterial"
+      },
+      {
+        "22": "Kunstausstellungen"
+      },
+      {
+        "23": "Code und Software"
+      },
+      {
+        "24": "Bibliographie"
+      },
+      {
+        "25": "Bücher und Buchkapitel"
+      },
+      {
+        "27": "Kochrezept"
+      },
+      {
+        "28": "Lernobjekt"
+      },
+      {
+        "29": "Bilder und Fotos"
+      },
+      {
+        "30": "Lektionen"
+      },
+      {
+        "31": "Manuskripte und Vorabdrucke"
+      },
+      {
+        "32": "Karten"
+      },
+      {
+        "33": "Lehrmaterial"
+      },
+      {
+        "34": "Geschäftsmodell"
+      },
+      {
+        "35": "Kompetenzangebot"
+      },
+      {
+        "36": "Kulturelle Praxis"
+      },
+      {
+        "37": "Öffentliche Diashow"
+      },
+      {
+        "38": "Rezension"
+      },
+      {
+        "39": "Scores"
+      },
+      {
+        "40": "Seminare"
+      },
+      {
+        "41": "Lieferkette"
+      },
+      {
+        "42": "Umfragedaten"
+      },
+      {
+        "43": "Textuelle Materialien"
+      },
+      {
+        "44": "Dissertation"
+      },
+      {
+        "45": "Web Page"
+      },
+      {
+        "46": "Verpflegung"
+      }
+    ],
+    "state": [
+      {
+        "0": "Geplantes Projekt"
+      },
+      {
+        "1": "Laufendes Projekt"
+      },
+      {
+        "2": "Abgeschlossenes Projekt"
+      }
+    ],
+    "misc": {
+      "frequency": {
+        "daily": "Täglich",
+        "weekly": "Wöchentlich",
+        "every2Weeks": "Alle 2 Wochen",
+        "monthly": "Monatlich"
+      }
+    },
+    "score": "Bewertung",
+    "noProjects": "Keine Projekte gefunden",
+    "periodicity": "Periodizität",
+    "links": "Links",
+    "description": "Beschreibung",
+    "projectState": "Projektstatus",
+    "filterByContinent": "Nach Kontinent filtern",
+    "video": "Video",
+    "backToList": "Zurück zu Projekten",
+    "notFound": "Projekt nicht gefunden",
+    "filterByStatus": "Nach Status filtern",
+    "contact": "Kontakt",
+    "website": "Webseite",
+    "projectsFound": "Projekte gefunden",
+    "search": "Projekte suchen",
+    "geography": "Geographie"
   }
 }

@@ -1,13 +1,17 @@
+# Use 'local_backend: true' in development to work with local files
+# Comment out when deploying to production
+local_backend: true
+
 backend:
   name: github
   repo: TheSocioscope/frontend
   branch: main
   base_url: https://85o05b11ri.execute-api.eu-west-2.amazonaws.com/
-  auth_endpoint: "/dev/auth"
-  cms_label_prefix: "TheSocioscope/"
+  auth_endpoint: '/dev/auth'
+  cms_label_prefix: 'TheSocioscope/'
 
-media_folder: "public/uploads"
-public_folder: "/uploads"
+media_folder: 'public/uploads'
+public_folder: '/uploads'
 
 # Internationalization
 i18n:
@@ -17,111 +21,225 @@ i18n:
 
 collections:
   # Partners Collection
-  - name: "partners"
-    label: "Partners"
-    folder: "content/partners"
+  - name: 'partners'
+    label: 'Partners'
+    folder: 'content/partners'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Lead", name: "lead", widget: "string", i18n: true, required: false}
-      - {label: "Description", name: "description", widget: "markdown", i18n: true, required: false}
-      - {label: "Logo", name: "logo", widget: "image", i18n: duplicate, required: false}
-      - {label: "Website", name: "website", widget: "string", i18n: duplicate, required: false}
-      - {label: "Order", name: "order", widget: "number", default: 0, i18n: duplicate}
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Lead', name: 'lead', widget: 'string', i18n: true, required: false }
+      - {
+          label: 'Description',
+          name: 'description',
+          widget: 'markdown',
+          i18n: true,
+          required: false
+        }
+      - { label: 'Logo', name: 'logo', widget: 'image', i18n: duplicate, required: false }
+      - { label: 'Website', name: 'website', widget: 'string', i18n: duplicate, required: false }
+      - { label: 'Order', name: 'order', widget: 'number', default: 0, i18n: duplicate }
 
   # Stories Collection
-  - name: "stories"
-    label: "Stories"
-    folder: "content/stories"
+  - name: 'stories'
+    label: 'Stories'
+    folder: 'content/stories'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Description", name: "description", widget: "text", i18n: true}
-      - {label: "Location", name: "location", widget: "string", i18n: duplicate}
-      - {label: "Featured Image", name: "image", widget: "image", i18n: duplicate, required: false}
-      - {label: "Video URL", name: "video", widget: "string", i18n: duplicate, required: false}
-      - {label: "Date", name: "date", widget: "datetime", i18n: duplicate}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
-      - {label: "Challenge", name: "challenge", widget: "markdown", i18n: true, required: false}
-      - {label: "Innovation", name: "innovation", widget: "markdown", i18n: true, required: false}
-      - {label: "Impact", name: "impact", widget: "markdown", i18n: true, required: false}
-      - {label: "Lessons", name: "lessons", widget: "markdown", i18n: true, required: false}
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Description', name: 'description', widget: 'text', i18n: true }
+      - { label: 'Location', name: 'location', widget: 'string', i18n: duplicate }
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          i18n: duplicate,
+          required: false
+        }
+      - { label: 'Video URL', name: 'video', widget: 'string', i18n: duplicate, required: false }
+      - { label: 'Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+      - { label: 'Challenge', name: 'challenge', widget: 'markdown', i18n: true, required: false }
+      - { label: 'Innovation', name: 'innovation', widget: 'markdown', i18n: true, required: false }
+      - { label: 'Impact', name: 'impact', widget: 'markdown', i18n: true, required: false }
+      - { label: 'Lessons', name: 'lessons', widget: 'markdown', i18n: true, required: false }
 
   # FAQ Collection
-  - name: "faq"
-    label: "FAQ"
-    folder: "content/faq"
+  - name: 'faq'
+    label: 'FAQ'
+    folder: 'content/faq'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Question", name: "question", widget: "string", i18n: true}
-      - {label: "Order", name: "order", widget: "number", default: 1, i18n: duplicate}
-      - {label: "Answer", name: "body", widget: "markdown", i18n: true}
+      - { label: 'Question', name: 'question', widget: 'string', i18n: true }
+      - { label: 'Order', name: 'order', widget: 'number', default: 1, i18n: duplicate }
+      - { label: 'Answer', name: 'body', widget: 'markdown', i18n: true }
 
   # Pages Collection
-  - name: "pages"
-    label: "Pages"
-    folder: "content/pages"
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content/pages'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Description", name: "description", widget: "text", i18n: true, required: false}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
-      - {label: "Featured Image", name: "image", widget: "image", i18n: duplicate, required: false}
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Description', name: 'description', widget: 'text', i18n: true, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          i18n: duplicate,
+          required: false
+        }
 
-  # Projects Collection
-  - name: "projects"
-    label: "Projects"
-    folder: "content/projects"
+  # Projects Collection (JSON)
+  - name: 'projects'
+    label: 'Projects'
+    folder: 'content/projects'
+    extension: 'json'
+    format: 'json'
     create: true
-    slug: "{{slug}}"
-    i18n: true
+    slug: '{{pubId}}'
+    identifier_field: 'pubId'
+    summary: '{{pubId}} - {{name}}'
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Description", name: "description", widget: "text", i18n: true}
-      - {label: "Location", name: "location", widget: "string", i18n: duplicate}
-      - {label: "Country", name: "country", widget: "string", i18n: duplicate}
-      - {label: "Date", name: "date", widget: "datetime", i18n: duplicate}
-      - {label: "Featured Image", name: "image", widget: "image", i18n: duplicate, required: false}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
-      - {label: "Tags", name: "tags", widget: "list", i18n: false, required: false}
+      - { label: 'Project ID', name: 'pubId', widget: 'number', required: true }
+      - { label: 'Name', name: 'name', widget: 'string', required: true }
+      - { label: 'Description', name: 'description', widget: 'text', required: true }
+      - {
+          label: 'Language',
+          name: 'lang',
+          widget: 'select',
+          options: ['en', 'fr', 'es', 'de'],
+          default: 'en',
+          required: false
+        }
+      - { label: 'Location', name: 'location', widget: 'string', required: false }
+      - { label: 'Website URL', name: 'url', widget: 'string', required: false }
+      - { label: 'YouTube URL', name: 'yt', widget: 'string', required: false }
+      - label: 'Contact'
+        name: 'contact'
+        widget: 'object'
+        required: false
+        fields:
+          - { label: 'Entity', name: 'entity', widget: 'string', required: false }
+          - { label: 'First Name', name: 'firstname', widget: 'string', required: false }
+          - { label: 'Last Name', name: 'lastname', widget: 'string', required: false }
+      - {
+          label: 'Continents',
+          name: 'continent',
+          widget: 'list',
+          field: { label: 'Continent ID', name: 'continent', widget: 'number' },
+          required: false
+        }
+      - {
+          label: 'Countries',
+          name: 'country',
+          widget: 'list',
+          field: { label: 'Country ID', name: 'country', widget: 'number' },
+          required: false
+        }
+      - {
+          label: 'Fields/Disciplines',
+          name: 'field',
+          widget: 'list',
+          field: { label: 'Field ID', name: 'field', widget: 'number' },
+          required: false
+        }
+      - {
+          label: 'Thematics',
+          name: 'thematic',
+          widget: 'list',
+          field: { label: 'Thematic ID', name: 'thematic', widget: 'number' },
+          required: false
+        }
+      - {
+          label: 'Types',
+          name: 'type',
+          widget: 'list',
+          field: { label: 'Type ID', name: 'type', widget: 'number' },
+          required: false
+        }
+      - {
+          label: 'Dates',
+          name: 'date',
+          widget: 'list',
+          field: { label: 'Date', name: 'date', widget: 'string' },
+          required: false
+        }
+      - { label: 'State', name: 'state', widget: 'number', required: false }
+      - { label: 'Status', name: 'status', widget: 'number', required: false, default: 0 }
+      - { label: 'Score', name: 'score', widget: 'number', required: false }
+      - { label: 'Created At', name: 'createdAt', widget: 'number', required: false }
+      - { label: 'Removed At', name: 'removedAt', widget: 'number', required: false }
+      - label: 'Team'
+        name: 'team'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: 'Entity', name: 'entity', widget: 'string', required: false }
+          - { label: 'First Name', name: 'firstname', widget: 'string', required: false }
+          - { label: 'Last Name', name: 'lastname', widget: 'string', required: false }
 
   # Publications Collection
-  - name: "publications"
-    label: "Publications"
-    folder: "content/publications"
+  - name: 'publications'
+    label: 'Publications'
+    folder: 'content/publications'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Authors", name: "authors", widget: "list", i18n: false}
-      - {label: "Publication Date", name: "date", widget: "datetime", i18n: duplicate}
-      - {label: "Journal/Conference", name: "venue", widget: "string", i18n: duplicate, required: false}
-      - {label: "Abstract", name: "abstract", widget: "text", i18n: true, required: false}
-      - {label: "DOI", name: "doi", widget: "string", i18n: duplicate, required: false}
-      - {label: "PDF Link", name: "pdf", widget: "string", i18n: duplicate, required: false}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true, required: false}
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Authors', name: 'authors', widget: 'list', i18n: false }
+      - { label: 'Publication Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - {
+          label: 'Journal/Conference',
+          name: 'venue',
+          widget: 'string',
+          i18n: duplicate,
+          required: false
+        }
+      - { label: 'Abstract', name: 'abstract', widget: 'text', i18n: true, required: false }
+      - { label: 'DOI', name: 'doi', widget: 'string', i18n: duplicate, required: false }
+      - { label: 'PDF Link', name: 'pdf', widget: 'string', i18n: duplicate, required: false }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true, required: false }
 
   # News Collection
-  - name: "news"
-    label: "News & Events"
-    folder: "content/news"
+  - name: 'news'
+    label: 'News & Events'
+    folder: 'content/news'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     i18n: true
     fields:
-      - {label: "Title", name: "title", widget: "string", i18n: true}
-      - {label: "Date", name: "date", widget: "datetime", i18n: duplicate}
-      - {label: "Event Date", name: "event_date", widget: "datetime", i18n: duplicate, required: false}
-      - {label: "Type", name: "type", widget: "select", options: ["news", "event", "announcement"], i18n: duplicate}
-      - {label: "Location", name: "location", widget: "string", i18n: duplicate, required: false}
-      - {label: "Featured Image", name: "image", widget: "image", i18n: duplicate, required: false}
-      - {label: "Body", name: "body", widget: "markdown", i18n: true}
+      - { label: 'Title', name: 'title', widget: 'string', i18n: true }
+      - { label: 'Date', name: 'date', widget: 'datetime', i18n: duplicate }
+      - {
+          label: 'Event Date',
+          name: 'event_date',
+          widget: 'datetime',
+          i18n: duplicate,
+          required: false
+        }
+      - {
+          label: 'Type',
+          name: 'type',
+          widget: 'select',
+          options: ['news', 'event', 'announcement'],
+          i18n: duplicate
+        }
+      - { label: 'Location', name: 'location', widget: 'string', i18n: duplicate, required: false }
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          i18n: duplicate,
+          required: false
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown', i18n: true }
