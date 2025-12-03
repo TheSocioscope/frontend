@@ -25,11 +25,6 @@ interface OverallStats {
 }
 
 export default defineNitroPlugin(async (nitroApp) => {
-  // Only run during development or build
-  if (process.env.NODE_ENV === 'production' && !process.env.PRERENDER) {
-    return
-  }
-
   console.log('🗺️  Generating country statistics from projects...')
 
   try {
