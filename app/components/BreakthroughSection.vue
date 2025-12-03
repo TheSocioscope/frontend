@@ -1,10 +1,10 @@
 <template>
   <section class="section breakthrough-section">
     <v-container>
-      <h2 class="section-title text-center">
+      <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-4">
         {{ $t('breakthroughs.title') }}
       </h2>
-      <p class="breakthrough-subtitle text-center">
+      <p class="text-body-1 text-center mb-12 breakthrough-subtitle">
         {{ $t('breakthroughs.subtitle') }}
       </p>
 
@@ -16,8 +16,8 @@
             :to="card._path ? localePath(card._path) : undefined"
           >
             <v-card-text>
-              <h4 class="mb-4">{{ card.title }}</h4>
-              <p>{{ card.description }}</p>
+              <h4 class="text-h5 font-weight-medium mb-4">{{ card.title }}</h4>
+              <p class="text-body-2">{{ card.description }}</p>
             </v-card-text>
           </v-card>
         </v-col>
@@ -83,29 +83,11 @@ const breakthroughs = computed(() => {
   background: white;
 }
 
-.breakthrough-title {
-  margin-bottom: $spacing-3xl;
-}
 .breakthrough-subtitle {
-  font-size: 1.4rem;
   color: $brown-medium;
-  margin-bottom: $spacing-4xl;
-
-  @media (max-width: 768px) {
-    font-size: 1.2rem;
-  }
-}
-
-.breakthrough-grid {
-  font-size: 1.3rem;
-  color: $brown-dark;
   max-width: 900px;
-  margin: 0 auto $spacing-3xl;
+  margin: 0 auto;
   line-height: 1.7;
-
-  @media (max-width: 768px) {
-    font-size: 1.1rem;
-  }
 }
 
 .breakthrough-card {
@@ -120,15 +102,12 @@ const breakthroughs = computed(() => {
   }
 
   h4 {
-    font-size: 1.8rem;
     color: $brown-medium;
-    font-weight: 500;
   }
 
   p {
-    font-size: 1.1rem;
     color: $brown-dark;
-    line-height: 1.7;
+    line-height: 1.6;
   }
 }
 </style>

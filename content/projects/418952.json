@@ -5,10 +5,10 @@
     "lastname": "Nicklaus"
   },
   "continent": [
-    1
+    "europe"
   ],
   "country": [
-    113
+    "france"
   ],
   "createdAt": 1658418401,
   "date": [
@@ -16,17 +16,17 @@
   ],
   "description": "CA-SYS est une plateforme de recherche et d’expérimentation portée par INRAE pour expérimenter l’agroécologie à différentes échelles. Projet collaboratif de l’UMR agroécologie et de l’U2E INRAE Domaine d’Époisses, CA-SYS propose de tester sur 120 ha une diversité de systèmes agro-écologiques en semis direct ou avec travail du sol possible, tous sans pesticides, afin d’éprouver la pertinence de la réduction d’usage des intrants de synthèse au profit d’une valorisation des interactions biotiques au sein d’un environnement parcellaire riche en infrastructures paysagères (bandes enherbées, bandes fleuries, quelques haies).\n\nLes objectifs de CA-SYS sont pluriels :\n\n    Conception et évaluation de systèmes agro-écologiques\n    Étude de la transition vers ces systèmes\n    Sélection de variétés adaptées\n    Compréhension des processus biologiques inhérents à une conduite agro-écologique\n    Développement et renouvellement des méthodes expérimentales visant la production de connaissances en systèmes agro-écologiques",
   "field": [
-    24,
-    20,
-    23
+    "ecology-environmental-sciences",
+    "biology",
+    "earth-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
   "name": "Plateforme CA-SYS",
   "pubId": 418952,
   "score": 520.9842105263108,
-  "state": 1,
-  "status": 3,
+  "state": "ongoing-project",
+  "status": "verified",
   "team": [
     {
       "entity": "INRAE",
@@ -35,15 +35,15 @@
     }
   ],
   "thematic": [
-    2
+    "food-agriculture-fishery"
   ],
   "time": "",
   "type": [
-    5,
-    4,
-    10,
-    12,
-    19
+    "dataset-data-mining",
+    "simulation-modeling",
+    "grassroot-action",
+    "report",
+    "research-tracker"
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",

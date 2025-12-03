@@ -4,11 +4,11 @@
       <v-row>
         <v-col v-for="(stat, index) in stats" :key="index" cols="12" md="4">
           <div class="stat-card">
-            <div class="stat-number">
+            <div class="text-h2 text-md-h1 font-weight-bold stat-number">
               <span v-if="isVisible">{{ animatedValues[index] }}</span>
               <span v-else>{{ stat.number }}</span>
             </div>
-            <div class="stat-label">
+            <div class="text-body-2 text-uppercase font-weight-medium stat-label">
               {{ stat.label }}
             </div>
           </div>
@@ -19,25 +19,66 @@
 </template>
 
 <script setup lang="ts">
+interface OverallStats {
+  totalProjects: number
+  totalCountries: number
+}
+
 const { t: $t } = useI18n()
 
-const stats = computed(() => [
-  {
-    number: $t('stats.card1.number'),
-    label: $t('stats.card1.label'),
-    target: 1000
-  },
-  {
-    number: $t('stats.card2.number'),
-    label: $t('stats.card2.label'),
-    target: 30
-  },
-  {
-    number: $t('stats.card3.number'),
-    label: $t('stats.card3.label'),
-    target: 5
+// Load real stats
+const overallStats = ref<OverallStats | null>(null)
+
+onMounted(async () => {
+  try {
+    const response = await fetch('/data/overall-stats.json')
+    overallStats.value = await response.json()
+    console.log('Loaded overall stats:', overallStats.value)
+  } catch (error) {
+    console.error('Error loading overall stats:', error)
   }
-])
+})
+
+const stats = computed(() => {
+  if (!overallStats.value) {
+    // Return placeholder values while loading
+    return [
+      {
+        number: '...',
+        label: $t('stats.card1.label'),
+        target: 0
+      },
+      {
+        number: '...',
+        label: $t('stats.card2.label'),
+        target: 0
+      },
+      {
+        number: '...',
+        label: $t('stats.card3.label'),
+        target: 0
+      }
+    ]
+  }
+
+  return [
+    {
+      number: `${overallStats.value.totalProjects}+`,
+      label: $t('stats.card1.label'),
+      target: overallStats.value.totalProjects
+    },
+    {
+      number: `${overallStats.value.totalCountries}+`,
+      label: $t('stats.card2.label'),
+      target: overallStats.value.totalCountries
+    },
+    {
+      number: '6',
+      label: $t('stats.card3.label'),
+      target: 6
+    }
+  ]
+})
 
 const isVisible = ref(false)
 const animatedValues = ref(['0', '0', '0'])
@@ -114,24 +155,13 @@ onMounted(() => {
 }
 
 .stat-number {
-  font-size: 3.5rem;
-  font-weight: bold;
   color: white;
+  line-height: 1.2;
   margin-bottom: $spacing-sm;
-
-  @media (max-width: 768px) {
-    font-size: 2.5rem;
-  }
 }
 
 .stat-label {
-  font-size: 1.1rem;
   color: rgba(255, 255, 255, 0.95);
-  text-transform: uppercase;
-  letter-spacing: 1px;
-
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
+  letter-spacing: 0.05em;
 }
 </style>

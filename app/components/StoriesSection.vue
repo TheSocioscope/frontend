@@ -2,8 +2,8 @@
   <section class="section stories-section">
     <v-container>
       <div class="section-header text-center">
-        <h2 class="section-title">{{ $t('stories.title') }}</h2>
-        <p class="section-subtitle">{{ $t('stories.subtitle') }}</p>
+        <h2 class="text-h3 text-md-h2 font-weight-medium mb-4">{{ $t('stories.title') }}</h2>
+        <p class="text-body-1 section-subtitle">{{ $t('stories.subtitle') }}</p>
       </div>
 
       <v-row>
@@ -21,8 +21,8 @@
             </div>
 
             <v-card-text>
-              <h4 class="mb-2">{{ story.title }}</h4>
-              <p>{{ story.description || story.excerpt }}</p>
+              <h4 class="text-h6 font-weight-medium mb-2">{{ story.title }}</h4>
+              <p class="text-body-2">{{ story.description || story.excerpt }}</p>
             </v-card-text>
           </v-card>
         </v-col>
@@ -99,17 +99,38 @@ const displayedStories = computed(() => {
   background: white;
 }
 
-.section-header {
-  margin-bottom: $spacing-3xl;
+.section-subtitle {
+  color: $brown-medium;
+  line-height: 1.7;
+  margin-bottom: $spacing-xl;
 }
 
-.section-subtitle {
-  font-size: 1.3rem;
-  color: $brown-dark;
-
-  @media (max-width: 768px) {
-    font-size: 1.1rem;
+.story-card {
+  h4 {
+    color: $brown-dark;
   }
+
+  p {
+    color: $brown-medium;
+    line-height: 1.6;
+  }
+}
+
+.story-placeholder {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: $cream-light;
+
+  .play-icon {
+    font-size: $font-size-display-2;
+    color: white;
+  }
+}
+
+.section-header {
+  margin-bottom: $spacing-3xl;
 }
 
 .story-card {

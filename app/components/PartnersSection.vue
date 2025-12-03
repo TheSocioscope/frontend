@@ -1,20 +1,22 @@
 <template>
   <section class="section partners-section">
     <v-container>
-      <h2 class="section-title text-center mb-12">{{ $t('leadingResearch.title') }}</h2>
+      <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-12">
+        {{ $t('leadingResearch.title') }}
+      </h2>
 
       <v-row justify="center">
         <v-col v-for="(partner, index) in displayedPartners" :key="index" cols="12" md="6">
           <v-card class="partner-card" elevation="2">
             <v-card-text class="text-center pa-8">
-              <h4 class="mb-4">{{ partner.title }}</h4>
-              <p>{{ partner.lead }}</p>
+              <h4 class="text-h5 font-weight-medium mb-4">{{ partner.title }}</h4>
+              <p class="text-body-2">{{ partner.lead }}</p>
             </v-card-text>
           </v-card>
         </v-col>
       </v-row>
 
-      <p class="nomis-support text-center mt-8">
+      <p class="text-body-1 font-italic text-center mt-8 nomis-support">
         {{ $t('leadingResearch.nomis') }}
       </p>
     </v-container>
@@ -73,13 +75,7 @@ const displayedPartners = computed(() => {
 }
 
 h2 {
-  font-size: 3rem;
   color: $brown-medium;
-  font-weight: 400;
-
-  @media (max-width: 768px) {
-    font-size: 2rem;
-  }
 }
 
 .partner-card {
@@ -87,25 +83,16 @@ h2 {
   height: 100%;
 
   h4 {
-    font-size: 1.4rem;
     color: $brown-medium;
-    font-weight: 500;
   }
 
   p {
     color: $brown-dark;
-    font-size: 1.1rem;
     line-height: 1.6;
   }
 }
 
 .nomis-support {
-  font-size: 1.2rem;
   color: $brown-medium;
-  font-style: italic;
-
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
 }
 </style>

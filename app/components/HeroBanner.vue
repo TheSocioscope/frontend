@@ -24,13 +24,13 @@
     <v-container class="hero-overlay">
       <v-row justify="center">
         <v-col cols="12" class="text-center">
-          <h1 class="hero-title text-shadow letter-spacing-wide">
+          <h1 class="text-h2 text-md-h1 font-weight-light hero-title text-shadow">
             {{ $t('hero.title') }}
           </h1>
-          <p class="hero-subtitle text-shadow">
+          <p class="text-h5 text-md-h4 font-weight-light hero-subtitle text-shadow">
             {{ $t('hero.subtitle') }}
           </p>
-          <p class="hero-tagline">
+          <p class="text-body-1 text-md-h6 font-weight-regular hero-tagline">
             {{ $t('hero.tagline') }}
           </p>
         </v-col>
@@ -121,35 +121,18 @@ onMounted(() => {
 
 .hero-title {
   color: #ffffff;
-  font-size: 4rem;
-  font-weight: 300;
-  letter-spacing: 2px;
   margin-bottom: $spacing-lg;
-
-  @media (max-width: 768px) {
-    font-size: 2.5rem;
-  }
+  letter-spacing: 0.05em;
 }
 
 .hero-subtitle {
-  font-size: 1.8rem;
-  font-weight: 300;
   margin-bottom: $spacing-md;
   opacity: 0.95;
-
-  @media (max-width: 768px) {
-    font-size: 1.4rem;
-  }
 }
 
 .hero-tagline {
-  font-size: 1.2rem;
   opacity: 0.9;
   max-width: 700px;
   margin: 0 auto;
-
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
 }
 </style>

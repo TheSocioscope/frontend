@@ -2,10 +2,10 @@
   <section class="newsletter-section gradient-green">
     <v-container>
       <div class="newsletter-content">
-        <h2 class="section-title white">
+        <h2 class="text-h3 text-md-h2 font-weight-medium mb-4 white--text">
           {{ $t('newsletter.title') }}
         </h2>
-        <p class="newsletter-subtitle">
+        <p class="text-body-1 newsletter-subtitle">
           {{ $t('newsletter.subtitle') }}
         </p>
 
@@ -86,13 +86,9 @@ const handleSubmit = () => {
 }
 
 .newsletter-subtitle {
-  font-size: 1.3rem;
   margin-bottom: $spacing-xl;
   opacity: 0.95;
-
-  @media (max-width: 768px) {
-    font-size: 1.1rem;
-  }
+  line-height: 1.7;
 }
 
 .newsletter-form {

@@ -5,10 +5,10 @@
     "lastname": "Nicklaus"
   },
   "continent": [
-    1
+    "europe"
   ],
   "country": [
-    113
+    "france"
   ],
   "createdAt": 1658417867,
   "date": [
@@ -16,16 +16,16 @@
   ],
   "description": "En 2023, les entreprises de plus de 250 salariés auront l’obligation de publier un reporting extra-financier et devront afficher leur \"écoscore\". Food Pilot a pour ambition de structurer les données agricoles et les données relatives à la responsabilité sociétale et environnementale (RSE) des entreprises agroalimentaires et de leurs fournisseurs. L’objectif est donc bien d’intégrer la performance sociale et environnementale de l’ensemble de la chaîne de valeurs, et d’améliorer ainsi la transparence. Une nécessité quand on sait que près des trois quarts des Français sont soucieux de l’origine des produits qu’ils consomment, que 70% n’ont plus confiance dans les marques et que la moitié s’estime mal informée.",
   "field": [
-    27,
-    24
+    "information-technology",
+    "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
   "name": "Food Pilot",
   "pubId": 418752,
   "score": 1904.3842105263086,
-  "state": 1,
-  "status": 3,
+  "state": "ongoing-project",
+  "status": "verified",
   "team": [
     {
       "entity": "INRAE",
@@ -34,16 +34,16 @@
     }
   ],
   "thematic": [
-    5,
-    2
+    "consumption-and-production-patterns",
+    "food-agriculture-fishery"
   ],
   "time": "",
   "type": [
-    0,
-    1,
-    5,
-    14,
-    39
+    "quantitative-survey",
+    "qualitative-analysis",
+    "dataset-data-mining",
+    "regulation",
+    "scores"
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",

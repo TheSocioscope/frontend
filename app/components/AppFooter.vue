@@ -125,6 +125,7 @@ const connectLinks = [
   font-size: 1.2rem;
   margin-bottom: $spacing-md;
   letter-spacing: 1px;
+  padding-left: 1rem;
 }
 
 .footer-link {

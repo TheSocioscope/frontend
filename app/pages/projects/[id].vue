@@ -43,6 +43,20 @@
       <v-row>
         <!-- Main content -->
         <v-col cols="12" md="8">
+          <!-- YouTube Video Embed -->
+          <v-card v-if="project.yt" class="mb-6 video-card" elevation="4">
+            <div class="video-container">
+              <iframe
+                :src="getYouTubeEmbedUrl(project.yt)"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen
+                class="youtube-embed"
+              />
+            </div>
+          </v-card>
+
           <!-- Description -->
           <v-card class="mb-4">
             <v-card-title>{{ $t('projects.description', 'Description') }}</v-card-title>
@@ -51,12 +65,11 @@
             </v-card-text>
           </v-card>
 
-          <!-- Links -->
-          <v-card v-if="project.url || project.yt" class="mb-4">
+          <!-- Website Link -->
+          <v-card v-if="project.url" class="mb-4">
             <v-card-title>{{ $t('projects.links', 'Links') }}</v-card-title>
             <v-card-text>
               <v-btn
-                v-if="project.url"
                 :href="project.url"
                 target="_blank"
                 variant="outlined"
@@ -65,28 +78,6 @@
               >
                 {{ $t('projects.website', 'Website') }}
               </v-btn>
-              <v-btn
-                v-if="project.yt"
-                :href="project.yt"
-                target="_blank"
-                variant="outlined"
-                prepend-icon="mdi-youtube"
-                color="red"
-                class="mb-2"
-              >
-                {{ $t('projects.video', 'Video') }}
-              </v-btn>
-            </v-card-text>
-          </v-card>
-
-          <!-- Contact -->
-          <v-card v-if="project.contact" class="mb-4">
-            <v-card-title>{{ $t('projects.contact', 'Contact') }}</v-card-title>
-            <v-card-text>
-              <p class="text-body-1">
-                <v-icon class="mr-2">mdi-account</v-icon>
-                {{ project.contact.firstname }} {{ project.contact.lastname }}
-              </p>
             </v-card-text>
           </v-card>
         </v-col>
@@ -130,7 +121,7 @@
                 v-for="fieldId in project.field"
                 :key="fieldId"
                 size="small"
-                color="blue-lighten-4"
+                color="blue-darken-2"
                 class="mr-1 mb-1"
               >
                 {{ getFieldLabel(fieldId) }}
@@ -146,7 +137,7 @@
                 v-for="thematicId in project.thematic"
                 :key="thematicId"
                 size="small"
-                color="green-lighten-4"
+                color="green-darken-2"
                 class="mr-1 mb-1"
               >
                 {{ getThematicLabel(thematicId) }}
@@ -162,7 +153,7 @@
                 v-for="typeId in project.type"
                 :key="typeId"
                 size="small"
-                color="purple-lighten-4"
+                color="purple-darken-2"
                 class="mr-1 mb-1"
               >
                 {{ getTypeLabel(typeId) }}
@@ -174,7 +165,7 @@
           <v-card v-if="project.state !== undefined" class="mb-4">
             <v-card-title>{{ $t('projects.projectState', 'Project State') }}</v-card-title>
             <v-card-text>
-              <v-chip color="orange-lighten-4">
+              <v-chip color="orange-darken-2">
                 {{ getStateLabel(project.state) }}
               </v-chip>
             </v-card-text>
@@ -289,19 +280,33 @@ const formatDate = (timestamp: number) => {
 
 // Status color helper
 const getStatusColor = (status: number) => {
-  switch (status) {
-    case 0:
-      return 'grey'
-    case 1:
-      return 'blue'
-    case 2:
-      return 'orange'
-    case 3:
-      return 'green'
-    case 7:
-      return 'purple'
-    default:
-      return 'grey'
+  // Only verified (status 3) is green, all others are gray
+  return status === 3 ? 'green' : 'grey'
+}
+
+// Extract YouTube video ID from various URL formats or return if already an ID
+const getYouTubeEmbedUrl = (urlOrId: string) => {
+  // If it's already just a video ID (no URL format), use it directly
+  if (!urlOrId.includes('/') && !urlOrId.includes('http')) {
+    return `https://www.youtube.com/embed/${urlOrId}`
+  }
+
+  // Otherwise parse as URL
+  try {
+    const urlObj = new URL(urlOrId)
+    let videoId = ''
+
+    // Handle different YouTube URL formats
+    if (urlObj.hostname.includes('youtube.com')) {
+      videoId = urlObj.searchParams.get('v') || ''
+    } else if (urlObj.hostname.includes('youtu.be')) {
+      videoId = urlObj.pathname.slice(1)
+    }
+
+    return `https://www.youtube.com/embed/${videoId}`
+  } catch (e) {
+    // If URL parsing fails, assume it's a video ID
+    return `https://www.youtube.com/embed/${urlOrId}`
   }
 }
 
@@ -314,5 +319,27 @@ useHead({
 <style scoped>
 .gap-2 {
   gap: 0.5rem;
+}
+
+.video-card {
+  overflow: hidden;
+  background: #000;
+}
+
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.youtube-embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
 }
 </style>

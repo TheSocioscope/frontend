@@ -16,7 +16,7 @@
                 hide-details
               />
             </v-col>
-            <v-col cols="12" md="4">
+            <v-col cols="12" md="3">
               <v-select
                 v-model="selectedContinent"
                 :items="continentOptions"
@@ -25,7 +25,19 @@
                 hide-details
               />
             </v-col>
-            <v-col cols="12" md="4">
+            <v-col cols="12" md="3">
+              <v-autocomplete
+                v-model="selectedCountries"
+                :items="countryOptions"
+                :label="$t('projects.filterByCountry', 'Filter by country')"
+                multiple
+                chips
+                closable-chips
+                clearable
+                hide-details
+              />
+            </v-col>
+            <v-col cols="12" md="3">
               <v-select
                 v-model="selectedStatus"
                 :items="statusOptions"
@@ -98,7 +110,9 @@
 
 <script setup lang="ts">
 const { t: $t, locale } = useI18n()
-const { getStatusLabel, getContinentLabel } = useProjectMappings()
+const route = useRoute()
+const router = useRouter()
+const { getStatusLabel, getContinentLabel, getCountryLabel } = useProjectMappings()
 
 // Fetch all projects from the collection
 const { data: projectsData, error } = await useAsyncData('projects', async () => {
@@ -140,31 +154,81 @@ const projects = computed(() => {
 
 // Filter state
 const searchQuery = ref('')
-const selectedContinent = ref<number | null>(null)
-const selectedStatus = ref<number | null>(null)
+const selectedContinent = ref<string | null>(null)
+const selectedCountries = ref<string[]>([])
+const selectedStatus = ref<string | null>(null)
 const currentPage = ref(1)
 const itemsPerPage = 12
 
+// Initialize filters from URL query
+onMounted(() => {
+  if (route.query.countries) {
+    const countriesParam = route.query.countries
+    selectedCountries.value = Array.isArray(countriesParam)
+      ? countriesParam
+      : [countriesParam as string]
+  }
+  if (route.query.continent) {
+    selectedContinent.value = route.query.continent as string
+  }
+  if (route.query.status) {
+    selectedStatus.value = route.query.status as string
+  }
+})
+
+// Update URL when filters change
+watch([selectedCountries, selectedContinent, selectedStatus], () => {
+  const query: Record<string, string | string[]> = {}
+  if (selectedCountries.value.length > 0) {
+    query.countries = selectedCountries.value
+  }
+  if (selectedContinent.value) {
+    query.continent = selectedContinent.value
+  }
+  if (selectedStatus.value) {
+    query.status = selectedStatus.value
+  }
+  router.push({ query })
+})
+
 // Continent options for filter
 const continentOptions = computed(() => {
-  const options = []
-  for (let i = 0; i <= 7; i++) {
-    options.push({
-      value: i,
-      title: getContinentLabel(i)
-    })
-  }
-  return options
+  return [
+    { value: 'asia', title: getContinentLabel('asia') },
+    { value: 'europe', title: getContinentLabel('europe') },
+    { value: 'north-africa', title: getContinentLabel('north-africa') },
+    { value: 'north-america', title: getContinentLabel('north-america') },
+    { value: 'south-america', title: getContinentLabel('south-america') },
+    { value: 'sub-saharian-africa', title: getContinentLabel('sub-saharian-africa') },
+    { value: 'oceania', title: getContinentLabel('oceania') },
+    { value: 'worldwide-intercontinental', title: getContinentLabel('worldwide-intercontinental') }
+  ]
+})
+
+// Country options for filter - get unique countries from all projects
+const countryOptions = computed(() => {
+  const countries = new Set<string>()
+  projects.value.forEach((project) => {
+    if (project.country && Array.isArray(project.country)) {
+      project.country.forEach((c: string) => countries.add(c))
+    }
+  })
+  return Array.from(countries)
+    .sort()
+    .map((code) => ({
+      value: code,
+      title: getCountryLabel(code)
+    }))
 })
 
 // Status options for filter
 const statusOptions = computed(() => {
   return [
-    { value: 0, title: getStatusLabel(0) },
-    { value: 1, title: getStatusLabel(1) },
-    { value: 2, title: getStatusLabel(2) },
-    { value: 3, title: getStatusLabel(3) },
-    { value: 7, title: getStatusLabel(7) }
+    { value: 'pending', title: getStatusLabel('pending') },
+    { value: 'published', title: getStatusLabel('published') },
+    { value: 'stale', title: getStatusLabel('stale') },
+    { value: 'verified', title: getStatusLabel('verified') },
+    { value: 'new', title: getStatusLabel('new') }
   ]
 })
 
@@ -185,7 +249,14 @@ const filteredProjects = computed(() => {
 
   // Continent filter
   if (selectedContinent.value !== null) {
-    filtered = filtered.filter((p) => p.continent?.includes(selectedContinent.value as number))
+    filtered = filtered.filter((p) => p.continent?.includes(selectedContinent.value as string))
+  }
+
+  // Country filter
+  if (selectedCountries.value.length > 0) {
+    filtered = filtered.filter((p) =>
+      p.country?.some((c: string) => selectedCountries.value.includes(c))
+    )
   }
 
   // Status filter
@@ -229,17 +300,17 @@ const handleProjectClick = async (project: any) => {
 }
 
 // Status color helper
-const getStatusColor = (status: number) => {
+const getStatusColor = (status: string) => {
   switch (status) {
-    case 0:
+    case 'pending':
       return 'grey'
-    case 1:
+    case 'published':
       return 'blue'
-    case 2:
+    case 'stale':
       return 'orange'
-    case 3:
+    case 'verified':
       return 'green'
-    case 7:
+    case 'new':
       return 'purple'
     default:
       return 'grey'

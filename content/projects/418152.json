@@ -5,25 +5,25 @@
     "lastname": "Nicklaus"
   },
   "continent": [
-    1
+    "europe"
   ],
   "country": [
-    113
+    "france"
   ],
   "createdAt": 1658414592,
   "date": null,
   "description": "La restauration scolaire de la ville de Dijon fait l’objet d’un programme de recherche scientifique porté par INRAE. Ce programme repose sur un dispositif destiné à évaluer la satisfaction des enfants à la sortie de la cantine : une borne de satisfaction sur laquelle les élèves choisissent un des cinq icônes pour dire s’ils ont aimé ou pas le plat principal. L’évaluation porte notamment sur l’acceptation des repas végétariens ou sur les \"néophobies alimentaires\" (la répulsion face à un plat inédit). Les enseignements de ce programme intéresseront l’ensemble des acteurs de la filière, du champ à l’assiette.",
   "field": [
-    13,
-    16
+    "management-public-administration",
+    "psychology-behavioural-and-cognitive-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
   "name": "Dispositif \"Chouette cantine\"",
   "pubId": 418152,
   "score": 1955.2842105263155,
-  "state": 1,
-  "status": 3,
+  "state": "ongoing-project",
+  "status": "verified",
   "team": [
     {
       "entity": "INRAE",
@@ -32,18 +32,18 @@
     }
   ],
   "thematic": [
-    9,
-    2,
-    13
+    "education",
+    "food-agriculture-fishery",
+    "human-behaviours-social-relations"
   ],
   "time": "",
   "type": [
-    1,
-    0,
-    3,
-    5,
-    39,
-    42
+    "qualitative-analysis",
+    "quantitative-survey",
+    "questionnaire",
+    "dataset-data-mining",
+    "scores",
+    "survey-data"
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",

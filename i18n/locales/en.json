@@ -69,6 +69,8 @@
   "map": {
     "title": "Global Reach, Local Impact",
     "subtitle": "Explore our network of sustainable food initiatives across the world. Each location represents real communities working towards transformative change.",
+    "projects": "projects",
+    "clickToView": "Click to view projects",
     "tooltip": {
       "cases": "cases"
     },
@@ -192,491 +194,339 @@
   },
   "projects": {
     "status": {
-      "0": "PENDING",
-      "1": "PUBLISHED",
-      "2": "STALE",
-      "3": "VERIFIED",
-      "4": "xFEATURED",
-      "5": "REMOVED",
-      "6": "BLOCKED",
-      "7": "NEW"
+      "pending": "PENDING",
+      "published": "PUBLISHED",
+      "stale": "STALE",
+      "verified": "VERIFIED",
+      "xfeatured": "xFEATURED",
+      "removed": "REMOVED",
+      "blocked": "BLOCKED",
+      "new": "NEW"
     },
     "continents": {
-      "0": "Asia",
-      "1": "Europe",
-      "2": "North Africa",
-      "3": "North America",
-      "4": "South America",
-      "5": "Sub-Saharian Africa",
-      "6": "Oceania",
-      "7": "Worldwide / Intercontinental"
+      "asia": "Asia",
+      "europe": "Europe",
+      "north-africa": "North Africa",
+      "north-america": "North America",
+      "south-america": "South America",
+      "sub-saharian-africa": "Sub-Saharian Africa",
+      "oceania": "Oceania",
+      "worldwide-intercontinental": "Worldwide / Intercontinental"
     },
     "countries": {
-      "0": "Afghanistan",
-      "1": "Bahrain",
-      "2": "Bangladesh",
-      "3": "Bhutan",
-      "4": "Brunei",
-      "5": "Burma (Myanmar)",
-      "6": "Cambodia",
-      "7": "China",
-      "8": "East Timor",
-      "9": "India",
-      "10": "Indonesia",
-      "11": "Iran",
-      "12": "Iraq",
-      "13": "Israel",
-      "14": "Japan",
-      "15": "Jordan",
-      "16": "Kazakhstan",
-      "17": "Korea, North",
-      "18": "Korea, South",
-      "19": "Kuwait",
-      "20": "Kyrgyzstan",
-      "21": "Laos",
-      "22": "Lebanon",
-      "23": "Malaysia",
-      "24": "Maldives",
-      "25": "Mongolia",
-      "26": "Nepal",
-      "27": "Oman",
-      "28": "Pakistan",
-      "29": "Philippines",
-      "30": "Qatar",
-      "31": "Russian Federation",
-      "32": "Saudi Arabia",
-      "33": "Singapore",
-      "34": "Sri Lanka",
-      "35": "Syria",
-      "36": "Tajikistan",
-      "37": "Thailand",
-      "38": "Turkey",
-      "39": "Turkmenistan",
-      "40": "United Arab Emirates",
-      "41": "Uzbekistan",
-      "42": "Vietnam",
-      "43": "Yemen",
-      "44": "Angola",
-      "45": "Benin",
-      "46": "Botswana",
-      "47": "Burkina",
-      "48": "Burundi",
-      "49": "Cameroon",
-      "50": "Cape Verde",
-      "51": "Central African Republic",
-      "52": "Chad",
-      "53": "Comoros",
-      "54": "Congo",
-      "55": "Congo, Democratic Republic of",
-      "56": "Djibouti",
-      "57": "Equatorial Guinea",
-      "58": "Eritrea",
-      "59": "Ethiopia",
-      "60": "Gabon",
-      "61": "Gambia",
-      "62": "Ghana",
-      "63": "Guinea",
-      "64": "Guinea-Bissau",
-      "65": "Ivory Coast",
-      "66": "Kenya",
-      "67": "Lesotho",
-      "68": "Liberia",
-      "69": "Madagascar",
-      "70": "Malawi",
-      "71": "Mali",
-      "72": "Mauritania",
-      "73": "Mauritius",
-      "74": "Mozambique",
-      "75": "Namibia",
-      "76": "Niger",
-      "77": "Nigeria",
-      "78": "Rwanda",
-      "79": "Sao Tome and Principe",
-      "80": "Senegal",
-      "81": "Seychelles",
-      "82": "Sierra Leone",
-      "83": "Somalia",
-      "84": "South Africa",
-      "85": "South Sudan",
-      "86": "Sudan",
-      "87": "Swaziland",
-      "88": "Tanzania",
-      "89": "Togo",
-      "90": "Uganda",
-      "91": "Zambia",
-      "92": "Zimbabwe",
-      "93": "Algeria",
-      "94": "Egypt",
-      "95": "Libya",
-      "96": "Morocco",
-      "97": "Tunisia",
-      "98": "Albania",
-      "99": "Andorra",
-      "100": "Armenia",
-      "101": "Austria",
-      "102": "Azerbaijan",
-      "103": "Belarus",
-      "104": "Belgium",
-      "105": "Bosnia and Herzegovina",
-      "106": "Bulgaria",
-      "107": "Croatia",
-      "108": "Cyprus",
-      "109": "Czech Republic",
-      "110": "Denmark",
-      "111": "Estonia",
-      "112": "Finland",
-      "113": "France",
-      "114": "Georgia",
-      "115": "Germany",
-      "116": "Greece",
-      "117": "Hungary",
-      "118": "Iceland",
-      "119": "Ireland",
-      "120": "Italy",
-      "121": "Latvia",
-      "122": "Liechtenstein",
-      "123": "Lithuania",
-      "124": "Luxembourg",
-      "125": "Macedonia",
-      "126": "Malta",
-      "127": "Moldova",
-      "128": "Monaco",
-      "129": "Montenegro",
-      "130": "Netherlands",
-      "131": "Norway",
-      "132": "Poland",
-      "133": "Portugal",
-      "134": "Romania",
-      "135": "San Marino",
-      "136": "Serbia",
-      "137": "Slovakia",
-      "138": "Slovenia",
-      "139": "Spain",
-      "140": "Sweden",
-      "141": "Switzerland",
-      "142": "Ukraine",
-      "143": "United Kingdom",
-      "144": "Vatican City",
-      "145": "Australia",
-      "146": "Fiji",
-      "147": "Kiribati",
-      "148": "Marshall Islands",
-      "149": "Micronesia",
-      "150": "Nauru",
-      "151": "New Zealand",
-      "152": "Palau",
-      "153": "Papua New Guinea",
-      "154": "Samoa",
-      "155": "Solomon Islands",
-      "156": "Tonga",
-      "157": "Tuvalu",
-      "158": "Vanuatu",
-      "159": "Argentina",
-      "160": "Bolivia",
-      "161": "Brazil",
-      "162": "Chile",
-      "163": "Colombia",
-      "164": "Ecuador",
-      "165": "Guyana",
-      "166": "Paraguay",
-      "167": "Peru",
-      "168": "Suriname",
-      "169": "Uruguay",
-      "170": "Venezuela",
-      "171": "Antigua and Barbuda",
-      "172": "Bahamas",
-      "173": "Barbados",
-      "174": "Belize",
-      "175": "Canada",
-      "176": "Costa Rica",
-      "177": "Cuba",
-      "178": "Dominica",
-      "179": "Dominican Republic",
-      "180": "El Salvador",
-      "181": "Grenada",
-      "182": "Guatemala",
-      "183": "Haiti",
-      "184": "Honduras",
-      "185": "Jamaica",
-      "186": "Mexico",
-      "187": "Nicaragua",
-      "188": "Panama",
-      "189": "Saint Kitts and Nevis",
-      "190": "Saint Lucia",
-      "191": "Saint Vincent and the Grenadines",
-      "192": "Trinidad and Tobago",
-      "193": "United States"
+      "afghanistan": "Afghanistan",
+      "bahrain": "Bahrain",
+      "bangladesh": "Bangladesh",
+      "bhutan": "Bhutan",
+      "brunei": "Brunei",
+      "burma-myanmar": "Burma (Myanmar)",
+      "cambodia": "Cambodia",
+      "china": "China",
+      "east-timor": "East Timor",
+      "india": "India",
+      "indonesia": "Indonesia",
+      "iran": "Iran",
+      "iraq": "Iraq",
+      "israel": "Israel",
+      "japan": "Japan",
+      "jordan": "Jordan",
+      "kazakhstan": "Kazakhstan",
+      "korea-north": "Korea, North",
+      "korea-south": "Korea, South",
+      "kuwait": "Kuwait",
+      "kyrgyzstan": "Kyrgyzstan",
+      "laos": "Laos",
+      "lebanon": "Lebanon",
+      "malaysia": "Malaysia",
+      "maldives": "Maldives",
+      "mongolia": "Mongolia",
+      "nepal": "Nepal",
+      "oman": "Oman",
+      "pakistan": "Pakistan",
+      "philippines": "Philippines",
+      "qatar": "Qatar",
+      "russian-federation": "Russian Federation",
+      "saudi-arabia": "Saudi Arabia",
+      "singapore": "Singapore",
+      "sri-lanka": "Sri Lanka",
+      "syria": "Syria",
+      "tajikistan": "Tajikistan",
+      "thailand": "Thailand",
+      "turkey": "Turkey",
+      "turkmenistan": "Turkmenistan",
+      "united-arab-emirates": "United Arab Emirates",
+      "uzbekistan": "Uzbekistan",
+      "vietnam": "Vietnam",
+      "yemen": "Yemen",
+      "angola": "Angola",
+      "benin": "Benin",
+      "botswana": "Botswana",
+      "burkina": "Burkina",
+      "burundi": "Burundi",
+      "cameroon": "Cameroon",
+      "cape-verde": "Cape Verde",
+      "central-african-republic": "Central African Republic",
+      "chad": "Chad",
+      "comoros": "Comoros",
+      "congo": "Congo",
+      "congo-democratic-republic-of": "Congo, Democratic Republic of",
+      "djibouti": "Djibouti",
+      "equatorial-guinea": "Equatorial Guinea",
+      "eritrea": "Eritrea",
+      "ethiopia": "Ethiopia",
+      "gabon": "Gabon",
+      "gambia": "Gambia",
+      "ghana": "Ghana",
+      "guinea": "Guinea",
+      "guinea-bissau": "Guinea-Bissau",
+      "ivory-coast": "Ivory Coast",
+      "kenya": "Kenya",
+      "lesotho": "Lesotho",
+      "liberia": "Liberia",
+      "madagascar": "Madagascar",
+      "malawi": "Malawi",
+      "mali": "Mali",
+      "mauritania": "Mauritania",
+      "mauritius": "Mauritius",
+      "mozambique": "Mozambique",
+      "namibia": "Namibia",
+      "niger": "Niger",
+      "nigeria": "Nigeria",
+      "rwanda": "Rwanda",
+      "sao-tome-and-principe": "Sao Tome and Principe",
+      "senegal": "Senegal",
+      "seychelles": "Seychelles",
+      "sierra-leone": "Sierra Leone",
+      "somalia": "Somalia",
+      "south-africa": "South Africa",
+      "south-sudan": "South Sudan",
+      "sudan": "Sudan",
+      "swaziland": "Swaziland",
+      "tanzania": "Tanzania",
+      "togo": "Togo",
+      "uganda": "Uganda",
+      "zambia": "Zambia",
+      "zimbabwe": "Zimbabwe",
+      "algeria": "Algeria",
+      "egypt": "Egypt",
+      "libya": "Libya",
+      "morocco": "Morocco",
+      "tunisia": "Tunisia",
+      "albania": "Albania",
+      "andorra": "Andorra",
+      "armenia": "Armenia",
+      "austria": "Austria",
+      "azerbaijan": "Azerbaijan",
+      "belarus": "Belarus",
+      "belgium": "Belgium",
+      "bosnia-and-herzegovina": "Bosnia and Herzegovina",
+      "bulgaria": "Bulgaria",
+      "croatia": "Croatia",
+      "cyprus": "Cyprus",
+      "czech-republic": "Czech Republic",
+      "denmark": "Denmark",
+      "estonia": "Estonia",
+      "finland": "Finland",
+      "france": "France",
+      "georgia": "Georgia",
+      "germany": "Germany",
+      "greece": "Greece",
+      "hungary": "Hungary",
+      "iceland": "Iceland",
+      "ireland": "Ireland",
+      "italy": "Italy",
+      "latvia": "Latvia",
+      "liechtenstein": "Liechtenstein",
+      "lithuania": "Lithuania",
+      "luxembourg": "Luxembourg",
+      "macedonia": "Macedonia",
+      "malta": "Malta",
+      "moldova": "Moldova",
+      "monaco": "Monaco",
+      "montenegro": "Montenegro",
+      "netherlands": "Netherlands",
+      "norway": "Norway",
+      "poland": "Poland",
+      "portugal": "Portugal",
+      "romania": "Romania",
+      "san-marino": "San Marino",
+      "serbia": "Serbia",
+      "slovakia": "Slovakia",
+      "slovenia": "Slovenia",
+      "spain": "Spain",
+      "sweden": "Sweden",
+      "switzerland": "Switzerland",
+      "ukraine": "Ukraine",
+      "united-kingdom": "United Kingdom",
+      "vatican-city": "Vatican City",
+      "australia": "Australia",
+      "fiji": "Fiji",
+      "kiribati": "Kiribati",
+      "marshall-islands": "Marshall Islands",
+      "micronesia": "Micronesia",
+      "nauru": "Nauru",
+      "new-zealand": "New Zealand",
+      "palau": "Palau",
+      "papua-new-guinea": "Papua New Guinea",
+      "samoa": "Samoa",
+      "solomon-islands": "Solomon Islands",
+      "tonga": "Tonga",
+      "tuvalu": "Tuvalu",
+      "vanuatu": "Vanuatu",
+      "argentina": "Argentina",
+      "bolivia": "Bolivia",
+      "brazil": "Brazil",
+      "chile": "Chile",
+      "colombia": "Colombia",
+      "ecuador": "Ecuador",
+      "guyana": "Guyana",
+      "paraguay": "Paraguay",
+      "peru": "Peru",
+      "suriname": "Suriname",
+      "uruguay": "Uruguay",
+      "venezuela": "Venezuela",
+      "antigua-and-barbuda": "Antigua and Barbuda",
+      "bahamas": "Bahamas",
+      "barbados": "Barbados",
+      "belize": "Belize",
+      "canada": "Canada",
+      "costa-rica": "Costa Rica",
+      "cuba": "Cuba",
+      "dominica": "Dominica",
+      "dominican-republic": "Dominican Republic",
+      "el-salvador": "El Salvador",
+      "grenada": "Grenada",
+      "guatemala": "Guatemala",
+      "haiti": "Haiti",
+      "honduras": "Honduras",
+      "jamaica": "Jamaica",
+      "mexico": "Mexico",
+      "nicaragua": "Nicaragua",
+      "panama": "Panama",
+      "saint-kitts-and-nevis": "Saint Kitts and Nevis",
+      "saint-lucia": "Saint Lucia",
+      "saint-vincent-and-the-grenadines": "Saint Vincent and the Grenadines",
+      "trinidad-and-tobago": "Trinidad and Tobago",
+      "united-states": "United States"
     },
     "fields": {
       "socialSciencesAndHumanities": "Social Sciences and Humanities",
-      "0": "Anthropology",
-      "1": "Arts, Architecture and Museology",
-      "2": "Communication and Media studies",
-      "3": "Demography",
-      "4": "Design",
-      "5": "Economics & Statistics",
-      "6": "Education Sciences",
-      "7": "Gender Studies",
-      "8": "Geography",
-      "9": "History",
-      "10": "Literature and Languages",
-      "11": "Law",
-      "12": "Linguistics",
-      "13": "Management & Public Administration",
-      "14": "Philosophy incl. Ethics",
-      "15": "Political Science",
-      "16": "Psychology, Behavioural and Cognitive Sciences",
-      "17": "Religion and Theology",
-      "18": "Sociology",
-      "19": "Other social sciences and humanities",
       "otherSciences": "Other sciences",
-      "20": "Biology",
-      "21": "Chemistry & Physics",
-      "22": "Computer Sciences",
-      "23": "Earth Sciences",
-      "24": "Ecology & Environmental Sciences",
-      "25": "Engineering and Technology",
-      "26": "Epidemiology",
-      "27": "Information Technology",
-      "28": "Mathematics",
-      "29": "Medicine",
-      "30": "Systems Science",
-      "31": "Nutrition"
+      "anthropology": "Anthropology",
+      "arts-architecture-and-museology": "Arts, Architecture and Museology",
+      "communication-and-media-studies": "Communication and Media studies",
+      "demography": "Demography",
+      "design": "Design",
+      "economics-statistics": "Economics & Statistics",
+      "education-sciences": "Education Sciences",
+      "gender-studies": "Gender Studies",
+      "geography": "Geography",
+      "history": "History",
+      "literature-and-languages": "Literature and Languages",
+      "law": "Law",
+      "linguistics": "Linguistics",
+      "management-public-administration": "Management & Public Administration",
+      "philosophy-incl-ethics": "Philosophy incl. Ethics",
+      "political-science": "Political Science",
+      "psychology-behavioural-and-cognitive-sciences": "Psychology, Behavioural and Cognitive Sciences",
+      "religion-and-theology": "Religion and Theology",
+      "sociology": "Sociology",
+      "other-social-sciences-and-humanities": "Other social sciences and humanities",
+      "biology": "Biology",
+      "chemistry-physics": "Chemistry & Physics",
+      "computer-sciences": "Computer Sciences",
+      "earth-sciences": "Earth Sciences",
+      "ecology-environmental-sciences": "Ecology & Environmental Sciences",
+      "engineering-and-technology": "Engineering and Technology",
+      "epidemiology": "Epidemiology",
+      "information-technology": "Information Technology",
+      "mathematics": "Mathematics",
+      "medicine": "Medicine",
+      "systems-science": "Systems Science",
+      "nutrition": "Nutrition"
     },
-    "thematics": [
-      {
-        "1": "Aging, Demography"
-      },
-      {
-        "2": "Food, Agriculture, Fishery"
-      },
-      {
-        "3": "Data, information and Computing"
-      },
-      {
-        "4": "Cities, Mobility, Urban Planning"
-      },
-      {
-        "5": "Consumption and Production Patterns"
-      },
-      {
-        "6": "Culture and The Arts"
-      },
-      {
-        "7": "Governance, Democracy, Civil Society"
-      },
-      {
-        "8": "Digital Humanities"
-      },
-      {
-        "9": "Education"
-      },
-      {
-        "10": "Ecology, Environmental change"
-      },
-      {
-        "11": "Equality, Diversity Studies and social justice"
-      },
-      {
-        "12": "Economy, Business, Markets, Finance"
-      },
-      {
-        "13": "Human Behaviours, Social Relations"
-      },
-      {
-        "14": "Inequalities, Poverty, Development"
-      },
-      {
-        "15": "Innovation, R&D"
-      },
-      {
-        "16": "International Relations and Co-operation"
-      },
-      {
-        "17": "Leisure, Tourism"
-      },
-      {
-        "18": "Migrations and Diasporas"
-      },
-      {
-        "19": "Communication, Public sphere, Rhetorics"
-      },
-      {
-        "20": "Public Health"
-      },
-      {
-        "21": "Public Policy, Evaluation, Impact"
-      },
-      {
-        "22": "Risks, Crisis Management"
-      },
-      {
-        "23": "Worldviews and Religion"
-      },
-      {
-        "24": "Security, Violence, Crime"
-      },
-      {
-        "25": "Welfare, Work, Social protection"
-      },
-      {
-        "26": "Industry"
-      }
-    ],
-    "types": [
-      {
-        "0": "Quantitative survey"
-      },
-      {
-        "1": "Qualitative analysis"
-      },
-      {
-        "2": "Case Study"
-      },
-      {
-        "3": "Questionnaire"
-      },
-      {
-        "4": "Simulation / Modeling"
-      },
-      {
-        "5": "Dataset, Data Mining"
-      },
-      {
-        "6": "Action Research"
-      },
-      {
-        "7": "Call for Research Proposals"
-      },
-      {
-        "8": "Call for Collaboration"
-      },
-      {
-        "9": "Citizen / Participatory Science"
-      },
-      {
-        "10": "Grassroot Action"
-      },
-      {
-        "11": "Scientific Paper"
-      },
-      {
-        "12": "Report"
-      },
-      {
-        "13": "Policy Document"
-      },
-      {
-        "14": "Regulation"
-      },
-      {
-        "15": "Conference / Webinar"
-      },
-      {
-        "16": "Video"
-      },
-      {
-        "17": "Blog"
-      },
-      {
-        "18": "Press article"
-      },
-      {
-        "19": "Research tracker"
-      },
-      {
-        "20": "Other Resource"
-      },
-      {
-        "21": "Archival materials"
-      },
-      {
-        "22": "Art exhibitions"
-      },
-      {
-        "23": "Code and Software"
-      },
-      {
-        "24": "Bibliography"
-      },
-      {
-        "25": "Books and book chapters"
-      },
-      {
-        "26": "Call for Papers"
-      },
-      {
-        "27": "Recipe"
-      },
-      {
-        "28": "Learning Object"
-      },
-      {
-        "29": "Images and photos"
-      },
-      {
-        "30": "Lessons"
-      },
-      {
-        "31": "Manuscripts and preprints"
-      },
-      {
-        "32": "Maps"
-      },
-      {
-        "33": "Instructional Materials"
-      },
-      {
-        "34": "Business model"
-      },
-      {
-        "35": "Expertise offer"
-      },
-      {
-        "36": "Cultural Practice"
-      },
-      {
-        "37": "Public slideshow"
-      },
-      {
-        "38": "Review"
-      },
-      {
-        "39": "Scores"
-      },
-      {
-        "40": "Seminars"
-      },
-      {
-        "41": "Supply chain"
-      },
-      {
-        "42": "Survey data"
-      },
-      {
-        "43": "Textual materials"
-      },
-      {
-        "44": "Thesis"
-      },
-      {
-        "45": "Web Page"
-      },
-      {
-        "46": "Catering"
-      }
-    ],
-    "state": [
-      {
-        "0": "Planned project"
-      },
-      {
-        "1": "Ongoing project"
-      },
-      {
-        "2": "Completed project"
-      }
-    ],
+    "thematics": {
+      "aging-demography": "Aging, Demography",
+      "food-agriculture-fishery": "Food, Agriculture, Fishery",
+      "data-information-and-computing": "Data, information and Computing",
+      "cities-mobility-urban-planning": "Cities, Mobility, Urban Planning",
+      "consumption-and-production-patterns": "Consumption and Production Patterns",
+      "culture-and-the-arts": "Culture and The Arts",
+      "governance-democracy-civil-society": "Governance, Democracy, Civil Society",
+      "digital-humanities": "Digital Humanities",
+      "education": "Education",
+      "ecology-environmental-change": "Ecology, Environmental change",
+      "equality-diversity-studies-and-social-justice": "Equality, Diversity Studies and social justice",
+      "economy-business-markets-finance": "Economy, Business, Markets, Finance",
+      "human-behaviours-social-relations": "Human Behaviours, Social Relations",
+      "inequalities-poverty-development": "Inequalities, Poverty, Development",
+      "innovation-rd": "Innovation, R&D",
+      "international-relations-and-co-operation": "International Relations and Co-operation",
+      "leisure-tourism": "Leisure, Tourism",
+      "migrations-and-diasporas": "Migrations and Diasporas",
+      "communication-public-sphere-rhetorics": "Communication, Public sphere, Rhetorics",
+      "public-health": "Public Health",
+      "public-policy-evaluation-impact": "Public Policy, Evaluation, Impact",
+      "risks-crisis-management": "Risks, Crisis Management",
+      "worldviews-and-religion": "Worldviews and Religion",
+      "security-violence-crime": "Security, Violence, Crime",
+      "welfare-work-social-protection": "Welfare, Work, Social protection",
+      "industry": "Industry"
+    },
+    "types": {
+      "quantitative-survey": "Quantitative survey",
+      "qualitative-analysis": "Qualitative analysis",
+      "case-study": "Case Study",
+      "questionnaire": "Questionnaire",
+      "simulation-modeling": "Simulation / Modeling",
+      "dataset-data-mining": "Dataset, Data Mining",
+      "action-research": "Action Research",
+      "call-for-research-proposals": "Call for Research Proposals",
+      "call-for-collaboration": "Call for Collaboration",
+      "citizen-participatory-science": "Citizen / Participatory Science",
+      "grassroot-action": "Grassroot Action",
+      "scientific-paper": "Scientific Paper",
+      "report": "Report",
+      "policy-document": "Policy Document",
+      "regulation": "Regulation",
+      "conference-webinar": "Conference / Webinar",
+      "video": "Video",
+      "blog": "Blog",
+      "press-article": "Press article",
+      "research-tracker": "Research tracker",
+      "other-resource": "Other Resource",
+      "archival-materials": "Archival materials",
+      "art-exhibitions": "Art exhibitions",
+      "code-and-software": "Code and Software",
+      "bibliography": "Bibliography",
+      "books-and-book-chapters": "Books and book chapters",
+      "call-for-papers": "Call for Papers",
+      "recipe": "Recipe",
+      "learning-object": "Learning Object",
+      "images-and-photos": "Images and photos",
+      "lessons": "Lessons",
+      "manuscripts-and-preprints": "Manuscripts and preprints",
+      "maps": "Maps",
+      "instructional-materials": "Instructional Materials",
+      "business-model": "Business model",
+      "expertise-offer": "Expertise offer",
+      "cultural-practice": "Cultural Practice",
+      "public-slideshow": "Public slideshow",
+      "review": "Review",
+      "scores": "Scores",
+      "seminars": "Seminars",
+      "supply-chain": "Supply chain",
+      "survey-data": "Survey data",
+      "textual-materials": "Textual materials",
+      "thesis": "Thesis",
+      "web-page": "Web Page",
+      "catering": "Catering"
+    },
+    "state": {
+      "planned-project": "Planned project",
+      "ongoing-project": "Ongoing project",
+      "completed-project": "Completed project"
+    },
     "misc": {
       "frequency": {
         "daily": "Daily",
@@ -692,6 +542,7 @@
     "description": "Description",
     "projectState": "Project State",
     "filterByContinent": "Filter by continent",
+    "filterByCountry": "Filter by country",
     "video": "Video",
     "backToList": "Back to projects",
     "notFound": "Project not found",

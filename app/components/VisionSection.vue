@@ -2,15 +2,17 @@
   <section class="section vision-section">
     <v-container>
       <div class="vision-content">
-        <h2 class="section-title text-center mb-8">{{ $t('vision.title') }}</h2>
-        <p class="vision-statement text-center">
+        <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-8">
+          {{ $t('vision.title') }}
+        </h2>
+        <p class="text-h5 text-md-h4 font-weight-light text-center vision-statement">
           {{ $t('vision.statement') }}
         </p>
-        <p class="vision-details text-center">
+        <p class="text-body-1 text-center vision-details">
           {{ $t('vision.details1') }}
         </p>
-        <p class="vision-details text-center" style="margin-top: 30px">
-          <strong>{{ $t('vision.details2') }}</strong>
+        <p class="text-body-1 text-center font-weight-medium mt-8 vision-details">
+          {{ $t('vision.details2') }}
         </p>
       </div>
 
@@ -19,12 +21,18 @@
           <v-card class="contribution-card h-100" elevation="2">
             <v-card-text>
               <div class="contribution-icon">{{ $t(`contributions.card${i}.icon`) }}</div>
-              <h3 class="mb-4">{{ $t(`contributions.card${i}.title`) }}</h3>
-              <p class="mb-3">{{ $t(`contributions.card${i}.description`) }}</p>
-              <p v-if="$t(`contributions.card${i}.description2`)" class="mb-3">
+              <h3 class="text-h5 font-weight-medium mb-4">
+                {{ $t(`contributions.card${i}.title`) }}
+              </h3>
+              <p class="text-body-2 mb-3">{{ $t(`contributions.card${i}.description`) }}</p>
+              <p v-if="$t(`contributions.card${i}.description2`)" class="text-body-2 mb-3">
                 {{ $t(`contributions.card${i}.description2`) }}
               </p>
-              <a v-if="$t(`contributions.card${i}.link`)" href="#" class="contribution-link">
+              <a
+                v-if="$t(`contributions.card${i}.link`)"
+                href="#"
+                class="contribution-link text-body-2 font-weight-medium"
+              >
                 {{ $t(`contributions.card${i}.link`) }}
               </a>
             </v-card-text>
@@ -49,41 +57,21 @@ const { t: $t } = useI18n()
 .vision-content {
   max-width: 900px;
   margin: 0 auto;
-  text-align: center;
 
   h2 {
-    font-size: 3rem;
     color: $brown-medium;
-    margin-bottom: $spacing-xl;
-    font-weight: 400;
-
-    @media (max-width: 768px) {
-      font-size: 2rem;
-    }
   }
 }
 
 .vision-statement {
-  font-size: 1.5rem;
   color: $brown-dark;
   margin-bottom: $spacing-lg;
-  line-height: 1.7;
-  font-weight: 300;
-
-  @media (max-width: 768px) {
-    font-size: 1.2rem;
-  }
+  line-height: 1.5;
 }
 
 .vision-details {
-  font-size: 1.2rem;
   color: $brown-dark;
-  line-height: 1.8;
-  margin-bottom: $spacing-md;
-
-  @media (max-width: 768px) {
-    font-size: 1rem;
-  }
+  line-height: 1.7;
 }
 
 .contributions-grid {
@@ -111,26 +99,21 @@ const { t: $t } = useI18n()
 }
 
 .contribution-card h3 {
-  font-size: 1.8rem;
   color: $brown-dark;
-  margin-bottom: $spacing-md;
-  font-weight: 500;
 }
 
 .contribution-card p {
-  font-size: 1.1rem;
   color: $brown-medium;
-  line-height: 1.7;
-  margin-bottom: $spacing-md;
+  line-height: 1.6;
 }
 
 .contribution-link {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  color: #2e7d32;
+  color: $green-medium;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: $font-weight-medium;
   margin-top: 10px;
   transition: gap 0.3s;
 

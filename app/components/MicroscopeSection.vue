@@ -12,7 +12,7 @@
         <!-- Content -->
         <v-col cols="12" md="6">
           <div class="microscope-content">
-            <h2 class="mb-6">{{ $t('microscope.title') }}</h2>
+            <h2 class="text-h3 text-md-h2 font-weight-medium mb-6">{{ $t('microscope.title') }}</h2>
             <p class="text-body-1 mb-4">
               {{ $t('microscope.description1') }}
             </p>
@@ -49,25 +49,12 @@ const { t: $t } = useI18n()
 
 .microscope-content {
   h2 {
-    font-size: 3rem;
     color: $brown-medium;
-    margin-bottom: $spacing-lg;
-    font-weight: 400;
-
-    @media (max-width: 768px) {
-      font-size: 2rem;
-    }
   }
 
   p {
-    font-size: 1.3rem;
     color: $brown-dark;
-    margin-bottom: $spacing-md;
     line-height: 1.7;
-
-    @media (max-width: 768px) {
-      font-size: 1.1rem;
-    }
   }
 }
 </style>

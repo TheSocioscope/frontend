@@ -123,27 +123,33 @@ export default defineContentConfig({
         location: z.string().optional(),
         url: z.string().optional(),
         yt: z.string().optional(),
-        contact: z.object({
-          entity: z.string().optional(),
-          firstname: z.string().optional(),
-          lastname: z.string().optional()
-        }).optional(),
-        continent: z.array(z.number()).optional(),
-        country: z.array(z.number()).optional(),
-        field: z.array(z.number()).optional(),
-        thematic: z.array(z.number()).optional(),
-        type: z.array(z.number()).optional(),
+        contact: z
+          .object({
+            entity: z.string().optional(),
+            firstname: z.string().optional(),
+            lastname: z.string().optional()
+          })
+          .optional(),
+        continent: z.array(z.string()).optional(),
+        country: z.array(z.string()).optional(),
+        field: z.array(z.string()).optional(),
+        thematic: z.array(z.string()).optional(),
+        type: z.array(z.string()).optional(),
         date: z.array(z.string()).nullable().optional(),
-        status: z.number().optional(),
-        state: z.number().optional(),
+        status: z.string().optional(),
+        state: z.string().optional(),
         score: z.number().optional(),
         createdAt: z.number().optional(),
         removedAt: z.number().nullable().optional(),
-        team: z.array(z.object({
-          entity: z.string().optional(),
-          firstname: z.string().optional(),
-          lastname: z.string().optional()
-        })).optional()
+        team: z
+          .array(
+            z.object({
+              entity: z.string().optional(),
+              firstname: z.string().optional(),
+              lastname: z.string().optional()
+            })
+          )
+          .optional()
       })
     })
   }
