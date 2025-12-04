@@ -7,8 +7,8 @@
       <v-card class="mb-8">
         <v-card-text>
           <v-row>
-            <!-- Row 1: Search and Geography -->
-            <v-col cols="12" md="6" lg="3">
+            <!-- Row 1 -->
+            <v-col cols="12" md="4">
               <v-text-field
                 v-model="searchQuery"
                 :label="$t('projects.search', 'Search projects')"
@@ -18,7 +18,7 @@
                 density="comfortable"
               />
             </v-col>
-            <v-col cols="12" sm="6" md="3" lg="2">
+            <v-col cols="12" sm="6" md="4">
               <v-select
                 v-model="selectedContinent"
                 :items="continentOptions"
@@ -28,7 +28,7 @@
                 density="comfortable"
               />
             </v-col>
-            <v-col cols="12" sm="6" md="3" lg="2">
+            <v-col cols="12" sm="6" md="4">
               <v-autocomplete
                 v-model="selectedCountries"
                 :items="countryOptions"
@@ -41,7 +41,9 @@
                 density="comfortable"
               />
             </v-col>
-            <v-col cols="12" sm="6" md="3" lg="2">
+            
+            <!-- Row 2 -->
+            <v-col cols="12" sm="6" md="3">
               <v-select
                 v-model="selectedStatus"
                 :items="statusOptions"
@@ -51,9 +53,7 @@
                 density="comfortable"
               />
             </v-col>
-            
-            <!-- Row 2: Taxonomy filters -->
-            <v-col cols="12" sm="6" md="4" lg="3">
+            <v-col cols="12" sm="6" md="3">
               <v-autocomplete
                 v-model="selectedThematics"
                 :items="thematicOptions"
@@ -66,7 +66,7 @@
                 density="comfortable"
               />
             </v-col>
-            <v-col cols="12" sm="6" md="4" lg="5">
+            <v-col cols="12" sm="6" md="3">
               <v-autocomplete
                 v-model="selectedFields"
                 :items="fieldOptions"
@@ -79,7 +79,7 @@
                 density="comfortable"
               />
             </v-col>
-            <v-col cols="12" md="4" lg="4">
+            <v-col cols="12" sm="6" md="3">
               <v-autocomplete
                 v-model="selectedTypes"
                 :items="typeOptions"
