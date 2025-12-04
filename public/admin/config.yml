@@ -487,11 +487,28 @@ collections:
           field: { label: 'Date', name: 'date', widget: 'string' },
           required: false
         }
-      - { label: 'State', name: 'state', widget: 'number', required: false }
-      - { label: 'Status', name: 'status', widget: 'number', required: false, default: 0 }
-      - { label: 'Score', name: 'score', widget: 'number', required: false }
-      - { label: 'Created At', name: 'createdAt', widget: 'number', required: false }
-      - { label: 'Removed At', name: 'removedAt', widget: 'number', required: false }
+      - label: 'Project State'
+        name: 'state'
+        widget: 'select'
+        required: false
+        options:
+          - { label: 'Planned project', value: 'planned-project' }
+          - { label: 'Ongoing project', value: 'ongoing-project' }
+          - { label: 'Completed project', value: 'completed-project' }
+      - label: 'Status'
+        name: 'status'
+        widget: 'select'
+        required: false
+        default: 'pending'
+        options:
+          - { label: 'Pending', value: 'pending' }
+          - { label: 'Published', value: 'published' }
+          - { label: 'Stale', value: 'stale' }
+          - { label: 'Verified', value: 'verified' }
+          - { label: 'xFeatured', value: 'xfeatured' }
+          - { label: 'Removed', value: 'removed' }
+          - { label: 'Blocked', value: 'blocked' }
+          - { label: 'New', value: 'new' }
       - label: 'Team'
         name: 'team'
         widget: 'list'
