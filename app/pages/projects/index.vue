@@ -7,25 +7,28 @@
       <v-card class="mb-8">
         <v-card-text>
           <v-row>
-            <v-col cols="12" md="4">
+            <!-- Row 1: Search and Geography -->
+            <v-col cols="12" md="6" lg="3">
               <v-text-field
                 v-model="searchQuery"
                 :label="$t('projects.search', 'Search projects')"
                 prepend-inner-icon="mdi-magnify"
                 clearable
                 hide-details
+                density="comfortable"
               />
             </v-col>
-            <v-col cols="12" md="3">
+            <v-col cols="12" sm="6" md="3" lg="2">
               <v-select
                 v-model="selectedContinent"
                 :items="continentOptions"
                 :label="$t('projects.filterByContinent', 'Filter by continent')"
                 clearable
                 hide-details
+                density="comfortable"
               />
             </v-col>
-            <v-col cols="12" md="3">
+            <v-col cols="12" sm="6" md="3" lg="2">
               <v-autocomplete
                 v-model="selectedCountries"
                 :items="countryOptions"
@@ -35,15 +38,58 @@
                 closable-chips
                 clearable
                 hide-details
+                density="comfortable"
               />
             </v-col>
-            <v-col cols="12" md="3">
+            <v-col cols="12" sm="6" md="3" lg="2">
               <v-select
                 v-model="selectedStatus"
                 :items="statusOptions"
                 :label="$t('projects.filterByStatus', 'Filter by status')"
                 clearable
                 hide-details
+                density="comfortable"
+              />
+            </v-col>
+            
+            <!-- Row 2: Taxonomy filters -->
+            <v-col cols="12" sm="6" md="4" lg="3">
+              <v-autocomplete
+                v-model="selectedThematics"
+                :items="thematicOptions"
+                :label="$t('projects.filterByThematic', 'Filter by thematics')"
+                multiple
+                chips
+                closable-chips
+                clearable
+                hide-details
+                density="comfortable"
+              />
+            </v-col>
+            <v-col cols="12" sm="6" md="4" lg="5">
+              <v-autocomplete
+                v-model="selectedFields"
+                :items="fieldOptions"
+                :label="$t('projects.filterByField', 'Filter by fields')"
+                multiple
+                chips
+                closable-chips
+                clearable
+                hide-details
+                density="comfortable"
+              />
+            </v-col>
+            <v-col cols="12" md="4" lg="4">
+              <v-autocomplete
+                v-model="selectedTypes"
+                :items="typeOptions"
+                :label="$t('projects.filterByType', 'Filter by types')"
+                multiple
+                chips
+                closable-chips
+                clearable
+                hide-details
+                density="comfortable"
               />
             </v-col>
           </v-row>
@@ -157,6 +203,9 @@ const searchQuery = ref('')
 const selectedContinent = ref<string | null>(null)
 const selectedCountries = ref<string[]>([])
 const selectedStatus = ref<string | null>(null)
+const selectedThematics = ref<string[]>([])
+const selectedFields = ref<string[]>([])
+const selectedTypes = ref<string[]>([])
 const currentPage = ref(1)
 const itemsPerPage = 12
 
@@ -174,22 +223,48 @@ onMounted(() => {
   if (route.query.status) {
     selectedStatus.value = route.query.status as string
   }
+  if (route.query.thematics) {
+    const thematicsParam = route.query.thematics
+    selectedThematics.value = Array.isArray(thematicsParam)
+      ? thematicsParam
+      : [thematicsParam as string]
+  }
+  if (route.query.fields) {
+    const fieldsParam = route.query.fields
+    selectedFields.value = Array.isArray(fieldsParam) ? fieldsParam : [fieldsParam as string]
+  }
+  if (route.query.types) {
+    const typesParam = route.query.types
+    selectedTypes.value = Array.isArray(typesParam) ? typesParam : [typesParam as string]
+  }
 })
 
 // Update URL when filters change
-watch([selectedCountries, selectedContinent, selectedStatus], () => {
-  const query: Record<string, string | string[]> = {}
-  if (selectedCountries.value.length > 0) {
-    query.countries = selectedCountries.value
+watch(
+  [selectedCountries, selectedContinent, selectedStatus, selectedThematics, selectedFields, selectedTypes],
+  () => {
+    const query: Record<string, string | string[]> = {}
+    if (selectedCountries.value.length > 0) {
+      query.countries = selectedCountries.value
+    }
+    if (selectedContinent.value) {
+      query.continent = selectedContinent.value
+    }
+    if (selectedStatus.value) {
+      query.status = selectedStatus.value
+    }
+    if (selectedThematics.value.length > 0) {
+      query.thematics = selectedThematics.value
+    }
+    if (selectedFields.value.length > 0) {
+      query.fields = selectedFields.value
+    }
+    if (selectedTypes.value.length > 0) {
+      query.types = selectedTypes.value
+    }
+    router.push({ query })
   }
-  if (selectedContinent.value) {
-    query.continent = selectedContinent.value
-  }
-  if (selectedStatus.value) {
-    query.status = selectedStatus.value
-  }
-  router.push({ query })
-})
+)
 
 // Continent options for filter
 const continentOptions = computed(() => {
@@ -232,6 +307,56 @@ const statusOptions = computed(() => {
   ]
 })
 
+// Thematics options for filter - get unique thematics from all projects
+const { getThematicLabel, getFieldLabel, getTypeLabel } = useProjectMappings()
+
+const thematicOptions = computed(() => {
+  const thematics = new Set<string>()
+  projects.value.forEach((project) => {
+    if (project.thematic && Array.isArray(project.thematic)) {
+      project.thematic.forEach((t: string) => thematics.add(t))
+    }
+  })
+  return Array.from(thematics)
+    .sort()
+    .map((code) => ({
+      value: code,
+      title: getThematicLabel(code)
+    }))
+})
+
+// Fields options for filter - get unique fields from all projects
+const fieldOptions = computed(() => {
+  const fields = new Set<string>()
+  projects.value.forEach((project) => {
+    if (project.field && Array.isArray(project.field)) {
+      project.field.forEach((f: string) => fields.add(f))
+    }
+  })
+  return Array.from(fields)
+    .sort()
+    .map((code) => ({
+      value: code,
+      title: getFieldLabel(code)
+    }))
+})
+
+// Types options for filter - get unique types from all projects
+const typeOptions = computed(() => {
+  const types = new Set<string>()
+  projects.value.forEach((project) => {
+    if (project.type && Array.isArray(project.type)) {
+      project.type.forEach((t: string) => types.add(t))
+    }
+  })
+  return Array.from(types)
+    .sort()
+    .map((code) => ({
+      value: code,
+      title: getTypeLabel(code)
+    }))
+})
+
 // Filtered projects
 const filteredProjects = computed(() => {
   let filtered = projects.value.filter((p) => !p.removedAt)
@@ -264,6 +389,25 @@ const filteredProjects = computed(() => {
     filtered = filtered.filter((p) => p.status === selectedStatus.value)
   }
 
+  // Thematics filter
+  if (selectedThematics.value.length > 0) {
+    filtered = filtered.filter((p) =>
+      p.thematic?.some((t: string) => selectedThematics.value.includes(t))
+    )
+  }
+
+  // Fields filter
+  if (selectedFields.value.length > 0) {
+    filtered = filtered.filter((p) =>
+      p.field?.some((f: string) => selectedFields.value.includes(f))
+    )
+  }
+
+  // Types filter
+  if (selectedTypes.value.length > 0) {
+    filtered = filtered.filter((p) => p.type?.some((t: string) => selectedTypes.value.includes(t)))
+  }
+
   // Sort by score (descending)
   return filtered.sort((a, b) => (b.score || 0) - (a.score || 0))
 })
@@ -278,9 +422,20 @@ const paginatedProjects = computed(() => {
 })
 
 // Reset page when filters change
-watch([searchQuery, selectedContinent, selectedStatus], () => {
-  currentPage.value = 1
-})
+watch(
+  [
+    searchQuery,
+    selectedContinent,
+    selectedCountries,
+    selectedStatus,
+    selectedThematics,
+    selectedFields,
+    selectedTypes
+  ],
+  () => {
+    currentPage.value = 1
+  }
+)
 
 // Navigation handler
 const handleProjectClick = async (project: any) => {
