@@ -69,6 +69,8 @@
   "map": {
     "title": "Alcance global, impacto local",
     "subtitle": "Explore nuestra red de iniciativas alimentarias sostenibles en todo el mundo. Cada ubicación representa comunidades reales trabajando hacia un cambio transformador.",
+    "projects": "proyectos",
+    "clickToView": "Haga clic para ver los proyectos",
     "tooltip": {
       "cases": "casos"
     },
@@ -540,14 +542,21 @@
     "description": "Descripción",
     "projectState": "Estado del proyecto",
     "filterByContinent": "Filtrar por continente",
+    "filterByCountry": "Filtrar por país",
+    "filterByThematic": "Filtrar por temáticas",
+    "filterByField": "Filtrar por disciplinas",
+    "filterByType": "Filtrar por tipos",
+    "filterByStatus": "Filtrar por estado",
     "video": "Video",
     "backToList": "Volver a proyectos",
     "notFound": "Proyecto no encontrado",
-    "filterByStatus": "Filtrar por estado",
     "contact": "Contacto",
     "website": "Sitio web",
-    "projectsFound": "proyectos encontrados",
+    "projectsFound": "{count} proyecto encontrado | {count} proyectos encontrados",
     "search": "Buscar proyectos",
-    "geography": "Geografía"
+    "geography": "Geografía",
+    "continents": "Continentes",
+    "countries": "Países",
+    "loading": "Cargando proyecto..."
   }
 }

@@ -69,6 +69,8 @@
   "map": {
     "title": "Portée mondiale, impact local",
     "subtitle": "Explorez notre réseau d'initiatives alimentaires durables à travers le monde. Chaque emplacement représente de vraies communautés travaillant vers un changement transformateur.",
+    "projects": "projets",
+    "clickToView": "Cliquez pour voir les projets",
     "tooltip": {
       "cases": "cas"
     },
@@ -468,7 +470,8 @@
       "risks-crisis-management": "Risques, gestion de crise",
       "worldviews-and-religion": "Religions et visions du monde",
       "security-violence-crime": "Violence, criminalité, sécurité",
-      "welfare-work-social-protection": "Travail, Bien-être, Protection sociale"
+      "welfare-work-social-protection": "Travail, Bien-être, Protection sociale",
+      "industry": "Industrie"
     },
     "types": {
       "undefined": "AUTRE",
@@ -540,14 +543,21 @@
     "description": "Description",
     "projectState": "État du projet",
     "filterByContinent": "Filtrer par continent",
+    "filterByCountry": "Filtrer par pays",
+    "filterByThematic": "Filtrer par thématiques",
+    "filterByField": "Filtrer par disciplines",
+    "filterByType": "Filtrer par types",
+    "filterByStatus": "Filtrer par statut",
     "video": "Vidéo",
     "backToList": "Retour aux projets",
     "notFound": "Projet non trouvé",
-    "filterByStatus": "Filtrer par statut",
     "contact": "Contact",
     "website": "Site web",
-    "projectsFound": "projets trouvés",
+    "projectsFound": "{count} projet trouvé | {count} projets trouvés",
     "search": "Rechercher des projets",
-    "geography": "Géographie"
+    "geography": "Géographie",
+    "continents": "Continents",
+    "countries": "Pays",
+    "loading": "Chargement du projet..."
   }
 }

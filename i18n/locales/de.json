@@ -69,6 +69,8 @@
   "map": {
     "title": "Globale Reichweite, lokale Wirkung",
     "subtitle": "Erkunden Sie unser Netzwerk nachhaltiger Ernährungsinitiativen auf der ganzen Welt. Jeder Standort repräsentiert echte Gemeinschaften, die auf transformativen Wandel hinarbeiten.",
+    "projects": "Projekte",
+    "clickToView": "Klicken Sie, um Projekte anzuzeigen",
     "tooltip": {
       "cases": "Fälle"
     },
@@ -539,14 +541,21 @@
     "description": "Beschreibung",
     "projectState": "Projektstatus",
     "filterByContinent": "Nach Kontinent filtern",
+    "filterByCountry": "Nach Land filtern",
+    "filterByThematic": "Nach Themen filtern",
+    "filterByField": "Nach Disziplinen filtern",
+    "filterByType": "Nach Typen filtern",
+    "filterByStatus": "Nach Status filtern",
     "video": "Video",
     "backToList": "Zurück zu Projekten",
     "notFound": "Projekt nicht gefunden",
-    "filterByStatus": "Nach Status filtern",
     "contact": "Kontakt",
     "website": "Webseite",
-    "projectsFound": "Projekte gefunden",
+    "projectsFound": "{count} Projekt gefunden | {count} Projekte gefunden",
     "search": "Projekte suchen",
-    "geography": "Geographie"
+    "geography": "Geographie",
+    "continents": "Kontinente",
+    "countries": "Länder",
+    "loading": "Projekt wird geladen..."
   }
 }
