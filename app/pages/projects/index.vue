@@ -41,7 +41,7 @@
                 density="comfortable"
               />
             </v-col>
-            
+
             <!-- Row 2 -->
             <v-col cols="12" sm="6" md="3">
               <v-select
@@ -123,11 +123,6 @@
               }"
             />
 
-            <!-- Title overlay (always visible) -->
-            <div class="project-card-title">
-              <h3 class="text-h6">{{ project.name }}</h3>
-            </div>
-
             <!-- Content overlay (visible on hover) -->
             <div class="project-card-overlay">
               <div class="overlay-content">
@@ -155,11 +150,7 @@
                   >
                     {{ getContinentLabel(continentId) }}
                   </v-chip>
-                  <v-chip
-                    v-if="(project.continent?.length || 0) > 3"
-                    size="x-small"
-                    class="mb-1"
-                  >
+                  <v-chip v-if="(project.continent?.length || 0) > 3" size="x-small" class="mb-1">
                     +{{ (project.continent?.length || 0) - 3 }}
                   </v-chip>
                 </div>
@@ -309,7 +300,14 @@ onMounted(() => {
 
 // Update URL when filters change
 watch(
-  [selectedCountries, selectedContinent, selectedStatus, selectedThematics, selectedFields, selectedTypes],
+  [
+    selectedCountries,
+    selectedContinent,
+    selectedStatus,
+    selectedThematics,
+    selectedFields,
+    selectedTypes
+  ],
   () => {
     const query: Record<string, string | string[]> = {}
     if (selectedCountries.value.length > 0) {
@@ -568,7 +566,9 @@ useHead({
   height: 280px;
   cursor: pointer;
   overflow: hidden;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
 }
 
 .project-card-video:hover {
@@ -645,7 +645,9 @@ useHead({
 .project-card-traditional {
   height: 280px;
   cursor: pointer;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.3s ease,
+    box-shadow 0.3s ease;
   display: flex;
   flex-direction: column;
 }
