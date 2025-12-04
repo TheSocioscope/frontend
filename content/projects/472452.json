@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754908286,
   "date": null,
-  "description": "Crisalim is an initiative founded in 2021-2022 aimed at empowering young people and vulnerable communities through food and cooking. It offers workshops that combine discussions on nutrition with shared meals, addressing food resilience and promoting healthy eating habits. Key projects include \"Parcours Alim\" for students and \"ANAP,\" a solidarity restaurant program. By fostering community engagement and collaboration, Crisalim seeks to tackle food insecurity and enhance social connections among participants.",
+  "description": {
+    "en": "Crisalim is an initiative founded in 2021-2022 aimed at empowering youth and vulnerable communities through food and cooking. It offers workshops combining nutrition discussions with shared meals, addressing food resilience and promoting healthy eating habits. Key projects include \"Parcours Alim\" for students and \"ANAP,\" a solidarity restaurant program. By fostering community engagement and collaboration, Crisalim aims to address food insecurity and improve social connections among participants.",
+    "fr": "Crisalim est une initiative fondée en 2021-2022 qui vise à responsabiliser les jeunes et les communautés vulnérables par le biais de la nourriture et de la cuisine. Elle propose des ateliers combinant des discussions sur la nutrition et des repas partagés, abordant la résilience alimentaire et promouvant des habitudes alimentaires saines. Parmi les principaux projets, citons \"Parcours Alim\" pour les étudiants et \"ANAP\", un programme de restaurants solidaires. En encourageant l'engagement communautaire et la collaboration, Crisalim vise à lutter contre l'insécurité alimentaire et à améliorer les liens sociaux entre les participants.",
+    "es": "Crisalim es una iniciativa fundada en 2021-2022 destinada a empoderar a los jóvenes y las comunidades vulnerables a través de la alimentación y la cocina. Ofrece talleres que combinan debates sobre nutrición con comidas compartidas, abordando la resiliencia alimentaria y promoviendo hábitos alimentarios saludables. Los proyectos clave incluyen \"Parcours Alim\" para estudiantes y \"ANAP\", un programa de restaurantes solidarios. Al fomentar el compromiso y la colaboración de la comunidad, Crisalim pretende hacer frente a la inseguridad alimentaria y mejorar las conexiones sociales entre los participantes.",
+    "de": "Crisalim ist eine 2021-2022 gegründete Initiative, die junge Menschen und benachteiligte Gemeinschaften durch Essen und Kochen stärken möchte. Sie bietet Workshops an, die Diskussionen über Ernährung mit gemeinsamen Mahlzeiten verbinden, die Widerstandsfähigkeit von Lebensmitteln adressieren und gesunde Essgewohnheiten fördern. Zu den wichtigsten Projekten gehören \"Parcours Alim\" für Studenten und \"ANAP\", ein solidarisches Restaurantprogramm. Durch die Förderung des Engagements und der Zusammenarbeit in der Gemeinschaft will Crisalim die Ernährungsunsicherheit bekämpfen und die sozialen Beziehungen unter den Teilnehmern stärken."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Crisalim",
+  "name": {
+    "en": "Crisalim",
+    "fr": "Crisalim",
+    "es": "Crisalim",
+    "de": "Crisalim"
+  },
   "pubId": 472452,
   "score": -28.63202641324122,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "FvGUlanwF1E",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760065200,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1760065200
     }
   ],
-  "lastEvent": {
-    "at": 1760065200,
-    "by": "contact"
-  },
   "updatedAt": [
     1760065200
-  ]
+  ],
+  "originalLang": "fr"
 }

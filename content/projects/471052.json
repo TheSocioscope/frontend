@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754663485,
   "date": null,
-  "description": "Pasture and Profit in Protected Landscapes is a UK-based initiative that promotes pasture-fed livestock, founded 15 years ago by farmers seeking to bridge the knowledge gap in sustainable farming practices. The organization focuses on certifying farms, facilitating knowledge exchange among farmers, and providing consultancy services. With around 1,500 members, it operates on a non-profit model, relying on membership fees and grants to support its activities, while fostering a community committed to regenerative agriculture.",
+  "description": {
+    "en": "Pasture and Profit in Protected Landscapes is a UK-based initiative promoting grass-fed livestock farming, founded 15 years ago by farmers seeking to fill the knowledge gap on sustainable farming practices. The organization focuses on certifying farms, facilitating knowledge sharing among farmers and providing consultancy services. With some 1,500 members, it operates on a non-profit model, relying on membership dues and grants to fund its activities, while fostering a community committed to regenerative agriculture.",
+    "fr": "Pasture and Profit in Protected Landscapes est une initiative britannique visant à promouvoir l'élevage de bétail à l'herbe, fondée il y a 15 ans par des agriculteurs désireux de combler le manque de connaissances sur les pratiques agricoles durables. L'organisation se concentre sur la certification des exploitations, la facilitation des échanges de connaissances entre agriculteurs et la fourniture de services de conseil. Comptant quelque 1 500 membres, elle fonctionne selon un modèle à but non lucratif, s'appuyant sur les cotisations des membres et les subventions pour financer ses activités, tout en encourageant une communauté engagée en faveur de l'agriculture régénératrice.",
+    "es": "Pasture and Profit in Protected Landscapes es una iniciativa con sede en el Reino Unido que promueve la ganadería alimentada con pastos, fundada hace 15 años por ganaderos que pretendían colmar la laguna de conocimientos sobre prácticas agrarias sostenibles. La organización se centra en certificar explotaciones, facilitar el intercambio de conocimientos entre ganaderos y prestar servicios de consultoría. Con unos 1.500 miembros, funciona con un modelo sin ánimo de lucro, que depende de las cuotas de sus miembros y de subvenciones para financiar sus actividades, al tiempo que fomenta una comunidad comprometida con la agricultura regenerativa.",
+    "de": "Pasture and Profit in Protected Landscapes ist eine britische Initiative zur Förderung von Weidevieh, die vor 15 Jahren von Landwirten gegründet wurde, um die Wissenslücke bei nachhaltigen landwirtschaftlichen Praktiken zu schließen. Die Organisation konzentriert sich auf die Zertifizierung von Betrieben, die Erleichterung des Wissensaustauschs unter Landwirten und die Bereitstellung von Beratungsdiensten. Mit rund 1.500 Mitgliedern arbeitet sie auf gemeinnütziger Basis und verlässt sich auf Mitgliedsbeiträge und Zuschüsse, um ihre Aktivitäten zu unterstützen, während sie gleichzeitig eine Gemeinschaft fördert, die sich für eine regenerative Landwirtschaft einsetzt."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pasture and Profit in Protected Landscapes",
+  "name": {
+    "en": "Pasture and Profit in Protected Landscapes",
+    "fr": "Pasture and Profit in Protected Landscapes",
+    "es": "Pastos y beneficios en paisajes protegidos",
+    "de": "Weidewirtschaft und Profit in geschützten Landschaften"
+  },
   "pubId": 471052,
   "score": 43.15895616783736,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "pMItWuD9xHE",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1756735584,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1756735584
     }
   ],
-  "lastEvent": {
-    "at": 1756735584,
-    "by": "contact"
-  },
   "updatedAt": [
     1756735584
-  ]
+  ],
+  "originalLang": "fr"
 }

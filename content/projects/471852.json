@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754675531,
   "date": null,
-  "description": "The initiative focuses on sustainable pest control through conservation biological control, in Almería, Spain. By utilizing natural predators and creating a balanced ecosystem within her greenhouses, she minimizes the need for chemical pesticides. This innovative approach not only promotes biodiversity but also enhances crop health. Esther's work, supported by research institutions, aims to educate others in the agricultural sector about alternative pest management methods, fostering a more sustainable farming community.",
+  "description": {
+    "en": "The initiative focuses on sustainable pest control through conservation biological pest management in Almeria, Spain. By using natural predators and creating a balanced ecosystem in its greenhouses, it minimizes the need for chemical pesticides. This innovative approach not only promotes biodiversity, but also improves crop health. Esther's work, supported by research institutions, aims to educate others in the agricultural sector about alternative methods of pest management, fostering a more sustainable farming community.",
+    "fr": "L'initiative se concentre sur la lutte durable contre les parasites grâce à la gestion biologique de la conservation des parasites à Almeria, en Espagne. En utilisant des prédateurs naturels et en créant un écosystème équilibré dans ses serres, elle minimise le recours aux pesticides chimiques. Cette approche innovante favorise non seulement la biodiversité, mais améliore également la santé des cultures. Le travail d'Esther, soutenu par des instituts de recherche, vise à sensibiliser d'autres acteurs du secteur agricole aux méthodes alternatives de lutte contre les parasites, favorisant ainsi une communauté agricole plus durable.",
+    "es": "La iniciativa se centra en el control sostenible de plagas mediante la lucha biológica de conservación, en Almería (España). Utilizando depredadores naturales y creando un ecosistema equilibrado en sus invernaderos, reduce al mínimo la necesidad de plaguicidas químicos. Este enfoque innovador no sólo fomenta la biodiversidad, sino que también mejora la salud de los cultivos. El trabajo de Esther, apoyado por instituciones de investigación, pretende educar a otros en el sector agrícola sobre métodos alternativos de gestión de plagas, fomentando una comunidad agrícola más sostenible.",
+    "de": "Die Initiative konzentriert sich auf nachhaltige Schädlingsbekämpfung durch biologische Naturschutzmaßnahmen in Almería, Spanien. Durch den Einsatz natürlicher Feinde und die Schaffung eines ausgewogenen Ökosystems innerhalb ihrer Greenhouses minimiert sie den Bedarf an chemischen Pestiziden. Dieser innovative Ansatz fördert nicht nur die Artenvielfalt, sondern verbessert auch die Gesundheit der Pflanzen. Esthers Arbeit, die von Forschungseinrichtungen unterstützt wird, zielt darauf ab, andere in der Landwirtschaft über alternative Schädlingsbekämpfungsmethoden aufzuklären und so eine nachhaltigere Landwirtschaft zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Alvelal",
+  "name": {
+    "en": "Alvelal",
+    "fr": "Alvelal",
+    "es": "Alvelal",
+    "de": "Alvelal"
+  },
   "pubId": 471852,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

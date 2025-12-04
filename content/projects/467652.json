@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754480727,
   "date": null,
-  "description": "Finca Macaní is a permaculture-based farm in Sotaquirá, Boyacá, dedicated to food sustainability and community engagement. The initiative emphasizes working harmoniously with nature while promoting local trade and education. Visitors can participate in workshops, learn about traditional food practices, and experience the farm's diverse agricultural processes. Macaní aims to foster a deeper understanding of food production and its cultural significance, contributing to a more sustainable future for the community.",
+  "description": {
+    "en": "Finca Macaní is a permaculture-based farm in Sotaquirá, Boyacá, dedicated to food sustainability and community engagement. The initiative emphasizes working in harmony with nature while promoting local commerce and education. Visitors can participate in workshops, learn about traditional food practices and experience the farm's diverse agricultural processes. Macaní aims to foster a deeper understanding of food production and its cultural significance, contributing to a more sustainable future for the community.",
+    "fr": "Finca Macaní est une ferme en permaculture située à Sotaquirá, Boyacá, qui se consacre à la durabilité alimentaire et à l'engagement communautaire. L'initiative met l'accent sur le travail en harmonie avec la nature tout en promouvant le commerce local et l'éducation. Les visiteurs peuvent participer à des ateliers, se familiariser avec les pratiques alimentaires traditionnelles et découvrir les divers processus agricoles de la ferme. Macani vise à favoriser une meilleure compréhension de la production alimentaire et de son importance culturelle, contribuant ainsi à un avenir plus durable pour la communauté.",
+    "es": "Finca Macaní es una granja basada en la permacultura en Sotaquirá, Boyacá, dedicada a la sostenibilidad alimentaria y al compromiso con la comunidad. La iniciativa hace hincapié en trabajar en armonía con la naturaleza al tiempo que promueve el comercio local y la educación. Los visitantes pueden participar en talleres, aprender sobre prácticas alimentarias tradicionales y experimentar los diversos procesos agrícolas de la granja. Macaní pretende fomentar una comprensión más profunda de la producción de alimentos y su significado cultural, contribuyendo a un futuro más sostenible para la comunidad.",
+    "de": "Die Finca Macaní ist ein Permakultur-Bauernhof in Sotaquirá, Boyacá, der sich der Nachhaltigkeit von Lebensmitteln und dem Engagement der Gemeinschaft verschrieben hat. Die Initiative legt Wert darauf, harmonisch mit der Natur zu arbeiten und gleichzeitig den lokalen Handel und die Bildung zu fördern. Besucher können an Workshops teilnehmen, etwas über traditionelle Ernährungspraktiken lernen und die vielfältigen landwirtschaftlichen Prozesse des Hofes erleben. Macaní möchte ein tieferes Verständnis der Lebensmittelproduktion und ihrer kulturellen Bedeutung fördern und so zu einer nachhaltigeren Zukunft für die Gemeinde beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca Macaní",
+  "name": {
+    "pt": "Finca Macaní",
+    "en": "Finca Macaní",
+    "fr": "Finca Macaní",
+    "es": "Finca Macaní",
+    "de": "Finca Macaní"
+  },
   "pubId": 467652,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

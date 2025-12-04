@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755005327,
   "date": null,
-  "description": "The initiative revolves around Tucuy, a company that produces healthy frozen products made from guinea pig, a traditional Peruvian meat. Founded by a passionate entrepreneur, the brand offers items like hamburgers, sausages, and nuggets, targeting health-conscious consumers, including those with anemia and oncology patients. The initiative aims to promote the nutritional benefits of guinea pig meat while innovating its presentation to appeal to a broader audience, thus creating new consumption opportunities in Peru.",
+  "description": {
+    "en": "The initiative revolves around Tucuy, a company that produces healthy frozen products made from guinea pig, a traditional Peruvian meat. Founded by a passionate entrepreneur, the brand offers items like hamburgers, sausages, and nuggets, targeting health-conscious consumers, including those with anemia and oncology patients. The initiative aims to promote the nutritional benefits of guinea pig meat while innovating its presentation to appeal to a broader audience, thus creating new consumption opportunities in Peru.",
+    "fr": "L'initiative s'articule autour de Tucuy, une entreprise qui fabrique des produits surgelés sains à base de cochon d'Inde, une viande péruvienne traditionnelle. Fondée par un entrepreneur passionné, la marque propose des produits tels que des hamburgers, des saucisses et des nuggets, ciblant les consommateurs soucieux de leur santé, notamment les personnes souffrant d'anémie et les patients en oncologie. L'initiative vise à promouvoir les avantages nutritionnels de la viande de cochon d'Inde tout en innovant dans sa présentation afin d'attirer un public plus large, créant ainsi de nouvelles opportunités de consommation au Pérou.",
+    "es": "La iniciativa gira en torno a Tucuy, una empresa que elabora productos congelados saludables a base de cuy, una carne tradicional peruana. Fundada por un empresario apasionado, la marca ofrece artículos como hamburguesas, salchichas y nuggets, dirigidos a consumidores preocupados por su salud, incluidos los que padecen anemia y los pacientes oncológicos. La iniciativa pretende promover los beneficios nutricionales de la carne de cuy e innovar su presentación para atraer a un público más amplio, creando así nuevas oportunidades de consumo en Perú.",
+    "de": "Die Initiative dreht sich um Tucuy, ein Unternehmen, das gesunde Tiefkühlprodukte aus Meerschweinchen, einem traditionellen peruanischen Fleisch, herstellt. Die von einem leidenschaftlichen Unternehmer gegründete Marke bietet Produkte wie Hamburger, Würstchen und Nuggets an und richtet sich an gesundheitsbewusste Verbraucher, darunter Menschen mit Anämie und Onkologiepatienten. Die Initiative zielt darauf ab, die ernährungsphysiologischen Vorteile von Meerschweinchenfleisch zu fördern und gleichzeitig seine Präsentation zu erneuern, um ein breiteres Publikum anzusprechen und so neue Verbrauchsmöglichkeiten in Peru zu schaffen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Tucuy",
+  "name": {
+    "en": "Tucuy",
+    "fr": "Tucuy",
+    "es": "Tucuy",
+    "de": "Tucuy"
+  },
   "pubId": 494152,
   "score": 32.92823832629502,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

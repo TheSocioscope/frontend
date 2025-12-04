@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755002003,
   "date": null,
-  "description": "Spirux is a company dedicated to cultivating and selling spirulina, addressing food safety and combating anemia. Originating from a Rotary Club project, the venture emphasizes social responsibility and innovation by creating appealing spirulina products, such as gummies, to encourage consumption among children and other demographics. The company operates by managing farms, employing local families, and exploring business-to-business sales channels, while also addressing challenges related to brand differentiation and environmental sustainability in spirulina production.",
+  "description": {
+    "en": "Spirux is a company dedicated to cultivating and selling spirulina, addressing food safety and combating anemia. Originating from a Rotary Club project, the venture emphasizes social responsibility and innovation by creating appealing spirulina products, such as gummies, to encourage consumption among children and other demographics. The company operates by managing farms, employing local families, and exploring business-to-business sales channels, while also addressing challenges related to brand differentiation and environmental sustainability in spirulina production.",
+    "fr": "Spirux est une entreprise qui se consacre à la culture et à la vente de spiruline, à la sécurité alimentaire et à la lutte contre l'anémie. Issue d'une action du Rotary Club, l'entreprise met l'accent sur la responsabilité sociale et l'innovation en créant des produits attrayants à base de spiruline, tels que des gommes, afin d'encourager la consommation chez les enfants et d'autres groupes démographiques. L'entreprise gère des exploitations agricoles, emploie des familles locales et explore les canaux de vente interentreprises, tout en relevant les défis liés à la différenciation des marques et à la durabilité environnementale dans la production de spiruline.",
+    "es": "Spirux es una empresa dedicada al cultivo y venta de espirulina, a la seguridad alimentaria y a la lucha contra la anemia. Surgida de un proyecto del Club Rotario, la empresa hace hincapié en la responsabilidad social y la innovación creando atractivos productos a base de espirulina, como gominolas, para fomentar su consumo entre los niños y otros grupos demográficos. La empresa gestiona granjas, emplea a familias locales y explora canales de venta entre empresas, al tiempo que aborda retos relacionados con la diferenciación de marcas y la sostenibilidad medioambiental en la producción de espirulina.",
+    "de": "Spirux ist ein Unternehmen, das sich dem Anbau und dem Verkauf von Spirulina widmet und sich für Lebensmittelsicherheit und die Bekämpfung von Anämie einsetzt. Das aus einem Projekt des Rotary Clubs hervorgegangene Unternehmen setzt auf soziale Verantwortung und Innovation, indem es ansprechende Spirulina-Produkte wie Gummibärchen herstellt, um den Konsum bei Kindern und anderen Bevölkerungsgruppen zu fördern. Das Unternehmen betreibt landwirtschaftliche Betriebe, beschäftigt lokale Familien und erkundet Business-to-Business-Vertriebskanäle, während es sich gleichzeitig den Herausforderungen der Markendifferenzierung und der ökologischen Nachhaltigkeit bei der Spirulina-Produktion stellt."
+  },
   "field": [
     "nutrition",
     "medicine"
   ],
   "lang": "en",
   "location": "",
-  "name": "Spirux",
+  "name": {
+    "en": "Spirux",
+    "fr": "Spirux",
+    "es": "Spirux",
+    "de": "Spirux"
+  },
   "pubId": 482652,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

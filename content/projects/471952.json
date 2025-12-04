@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754675937,
   "date": null,
-  "description": "EcoCentral is an initiative that connects organic food producers with school canteens in Catalonia, promoting sustainable and healthy eating. Founded by a former chef, the organization emphasizes transparency in pricing and fosters direct relationships between producers and canteens. By organizing workshops and planning sessions, EcoCentral ensures that schools receive quality organic products while supporting local farmers. Their model prioritizes fair pricing and aims to enhance children's connection to food origins.",
+  "description": {
+    "en": "EcoCentral is an initiative that connects organic food producers with school canteens in Catalonia, promoting sustainable and healthy food. Founded by a former chef, the organization emphasizes price transparency and encourages direct relationships between producers and canteens. By organizing workshops and planning sessions, EcoCentral ensures that schools receive quality organic products while supporting local farmers. Its model prioritizes fair prices and aims to improve children's connection to the origin of food.",
+    "fr": "EcoCentral est une initiative qui met en relation les producteurs d'aliments biologiques et les cantines scolaires de Catalogne, afin de promouvoir une alimentation durable et saine. Fondée par un ancien chef cuisinier, l'organisation met l'accent sur la transparence des prix et encourage les relations directes entre les producteurs et les cantines. En organisant des ateliers et des sessions de planification, EcoCentral veille à ce que les écoles reçoivent des produits biologiques de qualité tout en soutenant les agriculteurs locaux. Son modèle privilégie les prix équitables et vise à améliorer le lien entre les enfants et l'origine des aliments.",
+    "es": "EcoCentral es una iniciativa que pone en contacto a productores de alimentos ecológicos con comedores escolares de Cataluña, promoviendo una alimentación sostenible y sana. Fundada por un antiguo chef, la organización hace hincapié en la transparencia de los precios y fomenta las relaciones directas entre productores y comedores. Mediante la organización de talleres y sesiones de planificación, EcoCentral garantiza que las escuelas reciban productos ecológicos de calidad al tiempo que apoyan a los agricultores locales. Su modelo da prioridad a los precios justos y pretende mejorar la conexión de los niños con el origen de los alimentos.",
+    "de": "EcoCentral ist eine Initiative, die Bio-Lebensmittelproduzenten mit Schulkantinen in Katalonien verbindet und so nachhaltiges und gesundes Essen fördert. Die von einem ehemaligen Koch gegründete Organisation betont die Transparenz bei der Preisgestaltung und fördert direkte Beziehungen zwischen Erzeugern und Kantinen. Durch die Organisation von Workshops und Planungssitzungen stellt EcoCentral sicher, dass Schulen qualitativ hochwertige organische Produkte erhalten und gleichzeitig lokale Bauern unterstützt werden. Ihr Modell priorisiert faire Preise und zielt darauf ab, die Verbindung der Kinder zu ihren Lebensmitteln zu stärken."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "EcoCentral",
+  "name": {
+    "en": "EcoCentral",
+    "fr": "EcoCentral",
+    "es": "EcoCentral",
+    "de": "EcoCentral"
+  },
   "pubId": 471952,
   "score": -49.60310012198546,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

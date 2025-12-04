@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754954121,
   "date": null,
-  "description": "Eco Finca Kanari focuses on transforming traditional coffee farming into a sustainable agroecological model. Since 2008, they have diversified their production to include specialty coffee, cocoa, and bananas, while also emphasizing environmental conservation. By establishing a nature reserve and engaging in community tourism, they aim to educate consumers about sustainable practices and promote biodiversity, all while navigating the challenges of agroecological markets and maintaining profitability.",
+  "description": {
+    "en": "Eco Finca Kanari focuses on transforming traditional coffee farming into a sustainable agroecological model. Since 2008, they have diversified their production to include specialty coffee, cocoa, and bananas, while also emphasizing environmental conservation. By establishing a nature reserve and engaging in community tourism, they aim to educate consumers about sustainable practices and promote biodiversity, all while navigating the challenges of agroecological markets and maintaining profitability.",
+    "fr": "Eco Finca Kanari se concentre sur la transformation de la culture traditionnelle du café en un modèle agroécologique durable. Depuis 2008, l'entreprise a diversifié sa production pour y inclure le café de spécialité, le cacao et les bananes, tout en mettant l'accent sur la conservation de l'environnement. En créant une réserve naturelle et en s'engageant dans le tourisme communautaire, elle vise à éduquer les consommateurs aux pratiques durables et à promouvoir la biodiversité, tout en relevant les défis des marchés agroécologiques et en maintenant la rentabilité.",
+    "es": "Eco Finca Kanari se centra en transformar el cultivo tradicional del café en un modelo agroecológico sostenible. Desde 2008, han diversificado su producción para incluir cafés especiales, cacao y plátanos, al tiempo que hacen hincapié en la conservación del medio ambiente. Mediante la creación de una reserva natural y la participación en el turismo comunitario, pretenden educar a los consumidores sobre prácticas sostenibles y promover la biodiversidad, al tiempo que sortean los retos de los mercados agroecológicos y mantienen la rentabilidad.",
+    "de": "Eco Finca Kanari konzentriert sich auf die Umwandlung des traditionellen Kaffeeanbaus in ein nachhaltiges agroökologisches Modell. Seit 2008 hat die Finca ihre Produktion auf Spezialitätenkaffee, Kakao und Bananen ausgeweitet und legt dabei auch Wert auf den Umweltschutz. Durch die Einrichtung eines Naturschutzgebiets und die Förderung des Tourismus in der Gemeinde sollen die Verbraucher über nachhaltige Praktiken aufgeklärt und die Artenvielfalt gefördert werden, während gleichzeitig die Herausforderungen agrarökologischer Märkte bewältigt und die Rentabilität aufrechterhalten werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eco Finca Kanari ",
+  "name": {
+    "it": "Eco Finca Kanari ",
+    "en": "Eco Finca Kanari",
+    "fr": "Eco Finca Kanari",
+    "es": "Eco Finca Kanari",
+    "de": "Öko-Finca Kanari"
+  },
   "pubId": 485752,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

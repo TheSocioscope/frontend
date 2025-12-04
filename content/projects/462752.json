@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754567554,
   "date": null,
-  "description": "The Drive Inn project, initiated in 1999, is a collective of farmers who transformed a former dumping site into a thriving urban farm in Dar es Salaam. This group of 19 farmers cultivates a variety of vegetables, selling directly to customers, including local restaurants and hotels. They emphasize sustainable farming practices, utilizing organic fertilizers and natural remedies. Over the years, they have faced challenges related to land value and water access but remain committed to food sustainability and community engagement.",
+  "description": {
+    "en": "The Drive Inn project, started in 1999, is a collective of farmers who transformed a former landfill into a thriving urban farm in Dar es Salaam. This group of 19 farmers grows a variety of vegetables, which they sell directly to customers, including local restaurants and hotels. They emphasize sustainable farming practices, using organic fertilizers and natural remedies. Over the years, they have faced challenges related to land value and access to water, but remain committed to food sustainability and community involvement.",
+    "fr": "Le projet Drive Inn, lancé en 1999, est un collectif d'agriculteurs qui a transformé une ancienne décharge en une ferme urbaine prospère à Dar es Salaam. Ce groupe de 19 agriculteurs cultive une variété de légumes qu'il vend directement aux clients, notamment aux restaurants et aux hôtels locaux. Ils mettent l'accent sur des pratiques agricoles durables, en utilisant des engrais organiques et des remèdes naturels. Au fil des ans, ils ont dû relever des défis liés à la valeur des terres et à l'accès à l'eau, mais ils restent attachés à la durabilité alimentaire et à l'implication de la communauté.",
+    "es": "El proyecto Drive Inn, iniciado en 1999, es un colectivo de agricultores que transformaron un antiguo vertedero en una próspera granja urbana en Dar es Salaam. Este grupo de 19 agricultores cultiva diversas hortalizas, que vende directamente a los clientes, incluidos restaurantes y hoteles locales. Hacen hincapié en las prácticas agrícolas sostenibles, utilizando fertilizantes orgánicos y remedios naturales. A lo largo de los años, se han enfrentado a retos relacionados con el valor de la tierra y el acceso al agua, pero siguen comprometidos con la sostenibilidad alimentaria y la participación de la comunidad.",
+    "de": "Das 1999 ins Leben gerufene Drive Inn-Projekt ist eine Gruppe von Landwirten, die in Daressalam eine ehemalige Dumping-Anlage in einen lebendigen städtischen Bauernhof verwandelt haben. Diese Gruppe von 19 Landwirten baut eine Vielzahl von Gemüsesorten an und verkauft direkt an Kunden, darunter lokale Restaurants und Hotels. Sie setzen auf nachhaltige Landwirtschaftspraktiken und verwenden Düngemittel und natürliche Heilmittel. Im Laufe der Jahre haben sie Herausforderungen im Zusammenhang mit dem Landwert und dem Wasserzugang bewältigt, bleiben aber der Nachhaltigkeit von Lebensmitteln und dem Engagement der Gemeinschaft verpflichtet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "The Drive Inn",
+  "name": {
+    "en": "The Drive Inn",
+    "fr": "The Drive Inn",
+    "es": "El Drive Inn",
+    "de": "The Drive Inn"
+  },
   "pubId": 462752,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

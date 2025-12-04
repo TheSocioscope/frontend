@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754406216,
   "date": null,
-  "description": "Las Quinas is an innovative initiative that combines organic honey production with social responsibility. Founded by a former corporate professional, the company collaborates with local producers and cooperatives, fostering trust and mutual benefits. Over the years, Las Quinas has expanded its product line to include dulce de leche and jams, while also engaging in community projects that empower vulnerable groups, particularly women. Their commitment to sustainability and social impact has garnered recognition both locally and internationally.",
+  "description": {
+    "en": "Las Quinas is an innovative initiative that combines organic honey production with social responsibility. Founded by a former business professional, the company collaborates with local producers and cooperatives, fostering trust and mutual benefits. Over the years, Las Quinas has expanded its product line to include dulce de leche and jams, while engaging in community projects that empower vulnerable groups, particularly women. Their commitment to sustainability and social impact has earned them local and international recognition.",
+    "fr": "Las Quinas est une initiative innovante qui associe la production de miel biologique à la responsabilité sociale. Fondée par un ancien professionnel des affaires, l'entreprise collabore avec des producteurs et des coopératives locaux, ce qui favorise la confiance et les avantages mutuels. Au fil des ans, Las Quinas a élargi sa gamme de produits pour y inclure le dulce de leche et les confitures, tout en s'engageant dans des projets communautaires qui renforcent l'autonomie des groupes vulnérables, en particulier des femmes. Son engagement en faveur de la durabilité et de l'impact social lui a valu une reconnaissance locale et internationale.",
+    "es": "Las Quinas es una iniciativa innovadora que combina la producción de miel ecológica con la responsabilidad social. Fundada por un antiguo profesional del mundo empresarial, la empresa colabora con productores y cooperativas locales, fomentando la confianza y los beneficios mutuos. A lo largo de los años, Las Quinas ha ampliado su línea de productos para incluir dulce de leche y mermeladas, al tiempo que participa en proyectos comunitarios que empoderan a los grupos vulnerables, en particular a las mujeres. Su compromiso con la sostenibilidad y el impacto social les ha valido el reconocimiento local e internacional.",
+    "de": "Las Quinas ist eine innovative Initiative, die organische Honigproduktion mit sozialer Verantwortung verbindet. Das Unternehmen wurde von einem ehemaligen Unternehmensberater gegründet und arbeitet mit lokalen Produzenten und Genossenschaften zusammen, um Vertrauen und gegenseitigen Nutzen zu fördern. Im Laufe der Jahre hat Las Quinas seine Produktlinie um Dulce de Leche und Schinken erweitert und engagiert sich außerdem in Gemeinschaftsprojekten, die benachteiligte Gruppen, insbesondere Frauen, stärken. Ihr Engagement für Nachhaltigkeit und soziale Auswirkungen hat sowohl lokal als auch international Anerkennung gefunden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Las Quinas",
+  "name": {
+    "es": "Las Quinas",
+    "en": "Las Quinas",
+    "fr": "Las Quinas",
+    "de": "Las Quinas"
+  },
   "pubId": 450852,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1663232984,
   "date": null,
-  "description": "The characterization of food heritage may be issued from a combination of products (ingredients), know-how and methods (cooking techniques) in domestic, social and cultural contexts. The choice of ingredients and practices are mainly driven by ecological, economic, cultural and societal constraints and reflect specificities that may be claimed as heritage. Food heritage has been so far studied by social scientists. In this project, we cross the social sciences approach with the food science approach in order to understand better the physico- and bio-chemical ground of the food techniques that produce specific types of cuisines. At a longer term perspective, we aim at building an interdisciplinary network to set the basis for a comprehensive collection of food practices around the world (including beverage), which is of high interest in the perspective of food sciences and would be the first immaterial and international collection linked to food culture and heritage. \nBy providing the basis for a comprehensive and accessible landscape of food practices and heritage, this project should greatly facilitate future investigations related to food issues, including fields such as economics, politics, health, nutrition, art, culture, agriculture, ecology, food safety/security and others.\n",
+  "description": {
+    "en": "The characterization of food heritage can arise from a combination of products (ingredients), know-how and methods (culinary techniques) in domestic, social and cultural contexts. The choice of ingredients and practices is mainly due to ecological, economic, cultural and social constraints, and reflects specificities that can be claimed as heritage. So far, food heritage has been studied by social scientists. In this project, we cross the social science approach with the food science approach to better understand the physical and biochemical basis of food techniques that produce specific types of cuisines. In a longer-term perspective, our goal is to create an interdisciplinary network that will lay the foundation for a comprehensive collection of food practices around the world (including beverages), which would be of great interest from a food science perspective and would constitute the first intangible and international collection linked to food culture and heritage.\nBy laying the foundation for a comprehensive and accessible overview of food practices and heritage, this project should greatly facilitate future research related to food issues, including fields such as economics, politics, health, nutrition, art, culture, agriculture, ecology, food security and others.",
+    "fr": "La caractérisation du patrimoine alimentaire peut résulter d'une combinaison de produits (ingrédients), de savoir-faire et de méthodes (techniques culinaires) dans des contextes domestiques, sociaux et culturels. Le choix des ingrédients et des pratiques est principalement guidé par des contraintes écologiques, économiques, culturelles et sociales, et reflète des spécificités qui peuvent être revendiquées en tant que patrimoine. Jusqu'à présent, le patrimoine alimentaire a été étudié par des chercheurs en sciences sociales. Dans ce projet, nous croisons l'approche des sciences sociales avec celle des sciences alimentaires afin de mieux comprendre les bases physiques et biochimiques des techniques alimentaires qui produisent des types de cuisines spécifiques. À plus long terme, notre objectif est de créer un réseau interdisciplinaire qui jettera les bases d'une collection complète de pratiques alimentaires à travers le monde (y compris les boissons), qui serait d'un grand intérêt du point de vue des sciences alimentaires et constituerait la première collection immatérielle et internationale liée à la culture et au patrimoine alimentaires.\nEn jetant les bases d'une vue d'ensemble complète et accessible des pratiques et du patrimoine alimentaires, ce projet devrait grandement faciliter les recherches futures liées aux questions alimentaires, notamment l'économie, la politique, la santé, la nutrition, l'art, la culture, l'agriculture, l'écologie, la sécurité alimentaire et d'autres encore.",
+    "es": "La caracterización del patrimonio alimentario puede surgir de una combinación de productos (ingredientes), conocimientos técnicos y métodos (técnicas culinarias) en contextos domésticos, sociales y culturales. La elección de ingredientes y prácticas obedece principalmente a condicionantes ecológicos, económicos, culturales y sociales, y refleja especificidades que pueden reivindicarse como patrimonio. Hasta ahora, el patrimonio alimentario ha sido estudiado por científicos sociales. En este proyecto, cruzamos el enfoque de las ciencias sociales con el de las ciencias de la alimentación para comprender mejor el fundamento físico y bioquímico de las técnicas alimentarias que producen tipos específicos de cocinas. En una perspectiva a más largo plazo, nuestro objetivo es crear una red interdisciplinar que siente las bases de una colección exhaustiva de prácticas alimentarias en todo el mundo (incluidas las bebidas), de gran interés desde la perspectiva de las ciencias de la alimentación y que constituiría la primera colección inmaterial e internacional vinculada a la cultura y el patrimonio alimentarios.\nAl sentar las bases de un panorama exhaustivo y accesible de las prácticas y el patrimonio alimentarios, este proyecto debería facilitar en gran medida futuras investigaciones relacionadas con cuestiones alimentarias, incluidos campos como la economía, la política, la salud, la nutrición, el arte, la cultura, la agricultura, la ecología, la seguridad alimentaria y otros.\n",
+    "de": "Die Charakterisierung von Lebensmitteln als Kulturgut kann aus einer Kombination von Produkten (Zutaten), Know-how und Methoden (Kochtechniken) in häuslichen, sozialen und kulturellen Kontexten abgeleitet werden. The choice of ingredients and practices are mainly driven by ecological, economic, cultural and societal constraints and reflect specificities that may be claimed as heritage. Food Heritage wurde bislang von Sozialwissenschaftlern untersucht. In this project, we cross the social sciences approach with the food science approach in order to understand better the physico- and bio-chemical ground of the food techniques that produce specific types of cuisines. At a longer term perspective, we aim at building an interdisciplinary network to set the basis for a comprehensive collection of food practices around the world (including beverage), which is of high interest in the perspective of food sciences and would be the first immaterial and international collection linked to food culture and heritage.\nDurch die Bereitstellung der Grundlage für eine umfassende und zugängliche Landschaft der Lebensmittelpraktiken und des Kulturerbes dürfte dieses Projekt zukünftige Untersuchungen im Zusammenhang mit Lebensmittelfragen erheblich erleichtern, darunter Bereiche wie Wirtschaft, Politik, Gesundheit, Ernährung, Kunst, Kultur, Landwirtschaft, Ökologie, Lebensmittelsicherheit und andere.\n"
+  },
   "field": [
     "anthropology",
     "biology",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "PALIM",
+  "name": {
+    "en": "PALIM",
+    "fr": "PALIM",
+    "es": "PALIM",
+    "de": "PALIM"
+  },
   "pubId": 411952,
   "score": 473.7271739130367,
   "state": "ongoing-project",
@@ -52,27 +62,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663250374,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663250374,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

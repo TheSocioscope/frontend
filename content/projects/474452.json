@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754574395,
   "date": null,
-  "description": "Joka Farm Resources focuses on waste management in the sugarcane industry, aiming to produce safe, healthy drinks for children. The initiative transforms sugarcane waste into valuable products like biofertilizers and animal feeds, promoting a circular economy. By collaborating with local farmers and juice processors, Joka Farm not only addresses waste disposal issues but also enhances soil health and agricultural productivity. The project exemplifies sustainability and innovation in food systems, benefiting both the environment and the community.",
+  "description": {
+    "en": "Joka Farm Resources focuses on waste management in the sugarcane industry, with the aim of producing safe and healthy beverages for children. The initiative transforms sugarcane waste into valuable products such as biofertilizer and animal feed, promoting a circular economy. By collaborating with local farmers and juice processors, Joka Farm not only addresses waste disposal issues, but also improves soil health and agricultural productivity. The project exemplifies sustainability and innovation in food systems, benefiting both the environment and the community.",
+    "fr": "Joka Farm Resources se concentre sur la gestion des déchets dans l'industrie de la canne à sucre, dans le but de produire des boissons sûres et saines pour les enfants. L'initiative transforme les déchets de la canne à sucre en produits de valeur tels que le biofertilisant et les aliments pour animaux, promouvant ainsi une économie circulaire. En collaborant avec les agriculteurs locaux et les transformateurs de jus de fruits, Joka Farm ne se contente pas de résoudre les problèmes d'élimination des déchets, mais améliore également la santé des sols et la productivité agricole. Le projet est un exemple de durabilité et d'innovation dans les systèmes alimentaires, qui bénéficie à la fois à l'environnement et à la communauté.",
+    "es": "Joka Farm Resources se centra en la gestión de residuos en la industria de la caña de azúcar, con el objetivo de producir bebidas seguras y saludables para los niños. La iniciativa transforma los residuos de la caña de azúcar en productos valiosos como biofertilizantes y piensos, promoviendo una economía circular. Al colaborar con agricultores y procesadores de zumos locales, Joka Farm no solo aborda los problemas de eliminación de residuos, sino que también mejora la salud del suelo y la productividad agrícola. El proyecto ejemplifica la sostenibilidad y la innovación en los sistemas alimentarios, beneficiando tanto al medio ambiente como a la comunidad.",
+    "de": "Joka Farm Resources konzentriert sich auf das Abfallmanagement in der Zuckerrohrindustrie, um sichere, gesunde Getränke für Kinder zu produzieren. Die Initiative verwandelt Zuckerrohrabfälle in wertvolle Produkte wie Biofertilizide und Tierfutter und fördert so eine zirkuläre Wirtschaft. Durch die Zusammenarbeit mit lokalen Bauern und Saftverarbeitern löst Joka Farm nicht nur Probleme bei der Abfallentsorgung, sondern verbessert auch die Bodengesundheit und die landwirtschaftliche Produktivität. Das Projekt ist ein Beispiel für Nachhaltigkeit und Innovation in Lebensmittelsystemen, was sowohl der Umwelt als auch der Gemeinde zugute kommt."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Joka Farm Resources",
+  "name": {
+    "en": "Joka Farm Resources",
+    "fr": "Joka Farm Resources",
+    "es": "Recursos de la granja Joka",
+    "de": "Joka Farm Resources"
+  },
   "pubId": 474452,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ],
   "editedAt": 1754575148,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1754575148
     }
   ],
-  "lastEvent": {
-    "at": 1754575148,
-    "by": "contact"
-  },
   "updatedAt": [
     1754575148
-  ]
+  ],
+  "originalLang": "fr"
 }

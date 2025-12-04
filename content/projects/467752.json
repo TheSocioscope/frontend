@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754480866,
   "date": null,
-  "description": "Pan Rebelde (Rebel Bread) is an initiative by the Educar de Ida y Vuelta Foundation that promotes food sovereignty through the culinary use of traditional fruits from the Quindío region. Launched in 2014, it fosters community engagement by inviting families and individuals to share recipes and participate in culinary workshops. The initiative aims to raise awareness about dietary heritage, support local food producers, and encourage sustainable eating practices, creating a space for collective learning and resistance against homogenized diets.",
+  "description": {
+    "en": "Pan Rebelde is an initiative of Fundación Educar de Ida y Vuelta that promotes food sovereignty through the culinary use of traditional fruits from the Quindío region. Launched in 2014, it encourages community engagement by inviting families and individuals to share recipes and participate in culinary workshops. The initiative aims to raise awareness of dietary heritage, support local food producers and encourage sustainable food practices, creating a space for collective learning and resistance against homogenized diets.",
+    "fr": "Pan Rebelde est une initiative de la Fondation Educar de Ida y Vuelta qui promeut la souveraineté alimentaire à travers l'utilisation culinaire des fruits traditionnels de la région du Quindío. Lancée en 2014, elle encourage l'engagement communautaire en invitant les familles et les individus à partager des recettes et à participer à des ateliers culinaires. L'initiative vise à sensibiliser au patrimoine alimentaire, à soutenir les producteurs alimentaires locaux et à encourager les pratiques alimentaires durables, en créant un espace d'apprentissage collectif et de résistance contre les régimes alimentaires homogénéisés.",
+    "es": "Pan Rebelde es una iniciativa de la Fundación Educar de Ida y Vuelta que promueve la soberanía alimentaria a través del uso culinario de frutas tradicionales de la región del Quindío. Lanzada en 2014, fomenta el compromiso de la comunidad invitando a familias y personas a compartir recetas y participar en talleres culinarios. La iniciativa pretende sensibilizar sobre el patrimonio dietético, apoyar a los productores locales de alimentos y fomentar prácticas alimentarias sostenibles, creando un espacio de aprendizaje colectivo y resistencia contra las dietas homogeneizadas.",
+    "de": "Pan Rebelde (Rebel Bread) ist eine Initiative der Educar de Ida y Vuelta Foundation, die die Nahrungsmittelsouveränität durch die kulinarische Verwendung traditioneller Früchte aus der Region Quindío fördert. Die 2014 ins Leben gerufene Initiative fördert das Engagement der Gemeinschaft, indem sie Familien und Einzelpersonen dazu einlädt, Rezepte zu teilen und an kulinarischen Workshops teilzunehmen. Die Initiative zielt darauf ab, das Bewusstsein für das Ernährungserbe zu schärfen, lokale Lebensmittelproduzenten zu unterstützen und nachhaltige Esspraktiken zu fördern, indem sie einen Raum für kollektives Lernen und Widerstand gegen homogenisierte Diäten schafft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pan Rebelde",
+  "name": {
+    "nl": "Pan Rebelde",
+    "en": "Pan Rebelde",
+    "fr": "Pan Rebelde",
+    "es": "Pan Rebelde",
+    "de": "Pan Rebelde"
+  },
   "pubId": 467752,
   "score": 41.009742087181166,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

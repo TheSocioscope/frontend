@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754384375,
   "date": null,
-  "description": "The Banco de Alimentos in Paraguay, established in the 1990s and formalized in 2004, aims to combat food waste and hunger. With a dedicated team of six, they collect and distribute food surpluses to over 100 organizations, primarily serving vulnerable communities. Their operations rely on donations, partnerships, and international cooperation, focusing on logistics and advocacy to enhance their impact. Future plans include expanding collection centers and improving food processing capabilities. ",
+  "description": {
+    "en": "The Food Bank of Paraguay, created in the 1990s and formalized in 2004, aims to combat food waste and hunger. With a dedicated team of six people, they collect and distribute surplus food to more than 100 organizations, serving mainly vulnerable communities. Their operations are based on donations, partnerships and international cooperation, focusing on logistics and advocacy to enhance their impact. Future plans include expanding collection centers and improving food processing capacity.",
+    "fr": "La Banque alimentaire du Paraguay, créée dans les années 1990 et officialisée en 2004, a pour objectif de lutter contre le gaspillage alimentaire et la faim. Avec une équipe dévouée de six personnes, elle collecte et distribue les excédents alimentaires à plus de 100 organisations, principalement au service des communautés vulnérables. Ses opérations sont basées sur les dons, les partenariats et la coopération internationale, et se concentrent sur la logistique et le plaidoyer afin d'améliorer leur impact. Les projets futurs comprennent l'expansion des centres de collecte et l'amélioration de la capacité de traitement des aliments.",
+    "es": "El Banco de Alimentos de Paraguay, creado en la década de 1990 y formalizado en 2004, tiene como objetivo combatir el despilfarro de alimentos y el hambre. Con un equipo dedicado de seis personas, recogen y distribuyen excedentes de alimentos a más de 100 organizaciones, que atienden principalmente a comunidades vulnerables. Sus operaciones se basan en donaciones, asociaciones y cooperación internacional, centrándose en la logística y la promoción para mejorar su impacto. Sus planes de futuro incluyen ampliar los centros de recogida y mejorar la capacidad de procesamiento de alimentos.",
+    "de": "Die Banco de Alimentos in Paraguay, die 1990 gegründet und 2004 formalisiert wurde, zielt darauf ab, Lebensmittelabfälle und Hunger zu bekämpfen. Mit einem engagierten Team von sechs Mitarbeitern sammeln und verteilen sie Lebensmittelüberschüsse an über 100 Organisationen, die vor allem gefährdete Gemeinden bedienen. Ihre Operationen basieren auf Spenden, Partnerschaften und internationaler Zusammenarbeit, wobei sie sich auf Logistik und Advocacy konzentrieren, um ihre Wirkung zu steigern. Zukünftige Pläne beinhalten die Erweiterung von Sammelzentren und die Verbesserung der Lebensmittelverarbeitungskapazitäten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Banco de Alimentos",
+  "name": {
+    "pt": "Banco de Alimentos",
+    "en": "Food Bank",
+    "fr": "Banque alimentaire",
+    "es": "Banco de alimentos",
+    "de": "Lebensmittelbank"
+  },
   "pubId": 457852,
   "score": 74.00000000000034,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

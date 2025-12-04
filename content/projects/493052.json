@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755002635,
   "date": null,
-  "description": "The initiative, Cocina Optimista, focuses on developing programs like \"Kind Kitchens\" and \"Optimal Cooking\" to enhance food education and reduce waste in culinary practices. Originating in 2015, the initiative aims to empower communities, including those in prisons, by teaching efficient cooking techniques that utilize all parts of ingredients. This approach not only promotes better nutrition but also fosters optimism and skills among participants, ultimately contributing to social change.      ",
+  "description": {
+    "en": "The initiative, Cocina Optimista, focuses on developing programs like \"Kind Kitchens\" and \"Optimal Cooking\" to enhance food education and reduce waste in culinary practices. Originating in 2015, the initiative aims to empower communities, including those in prisons, by teaching efficient cooking techniques that utilize all parts of ingredients. This approach not only promotes better nutrition but also fosters optimism and skills among participants, ultimately contributing to social change.      ",
+    "fr": "L'initiative, Cocina Optimista, se concentre sur le développement de programmes tels que \"Kind Kitchens\" et \"Optimal Cooking\" pour améliorer l'éducation alimentaire et réduire le gaspillage dans les pratiques culinaires. Lancée en 2015, l'initiative vise à responsabiliser les communautés, y compris dans les prisons, en enseignant des techniques de cuisine efficaces qui utilisent toutes les parties des ingrédients. Cette approche favorise non seulement une meilleure alimentation, mais aussi l'optimisme et les compétences des participants, contribuant ainsi au changement social.      ",
+    "es": "La iniciativa, Cocina Optimista, se centra en el desarrollo de programas como \"Kind Kitchens\" y \"Optimal Cooking\" para mejorar la educación alimentaria y reducir el desperdicio en las prácticas culinarias. Creada en 2015, la iniciativa pretende empoderar a las comunidades, incluidas las penitenciarias, enseñando técnicas culinarias eficientes que utilicen todas las partes de los ingredientes. Este enfoque no solo promueve una mejor nutrición, sino que también fomenta el optimismo y las habilidades entre los participantes, contribuyendo en última instancia al cambio social.      ",
+    "de": "Die Initiative Cocina Optimista konzentriert sich auf die Entwicklung von Programmen wie \"Kind Kitchens\" und \"Optimal Cooking\", um die Lebensmittelerziehung zu verbessern und die Verschwendung in der Küche zu reduzieren. Die 2015 ins Leben gerufene Initiative zielt darauf ab, Gemeinschaften - auch in Gefängnissen - zu stärken, indem sie effiziente Kochtechniken vermittelt, bei denen alle Bestandteile der Zutaten verwendet werden. Dieser Ansatz fördert nicht nur eine bessere Ernährung, sondern auch den Optimismus und die Fähigkeiten der Teilnehmer, was letztlich zu einem sozialen Wandel beiträgt.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cocina Optimista",
+  "name": {
+    "es": "Cocina Optimista",
+    "en": "Optimistic Kitchen",
+    "fr": "Cuisine optimiste",
+    "de": "Optimistische Küche"
+  },
   "pubId": 493052,
   "score": 39.5422701998776,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

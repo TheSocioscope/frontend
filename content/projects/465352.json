@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754475546,
   "date": null,
-  "description": "The Armonía Ambiental initiative, based in Providencia de Dota, began in the early 2000s with support from the Spanish government. It focuses on sustainable tourism and agricultural practices, emphasizing community involvement and environmental harmony. The project aims to provide visitors with authentic experiences of Costa Rican rural life while promoting healthy living through organic food production. By fostering local collaborations and sharing knowledge, it seeks to inspire others and create a positive impact on both the community and the environment.",
+  "description": {
+    "en": "The Environmental Harmony initiative, based in Providencia de Dota, began in the early 2000s with support from the Spanish government. It focuses on sustainable tourism and agricultural practices, emphasizing community participation and environmental harmony. The project aims to offer visitors authentic experiences of rural Costa Rican life, while promoting healthy living through organic food production. By fostering local collaboration and knowledge sharing, it aims to inspire others and create a positive impact on both the community and the environment.",
+    "fr": "L'initiative Armonía Ambiental, basée à Providencia de Dota, a été lancée au début des années 2000 avec le soutien du gouvernement espagnol. Elle se concentre sur le tourisme durable et les pratiques agricoles, en mettant l'accent sur la participation de la communauté et l'harmonie environnementale. Le projet vise à offrir aux visiteurs des expériences authentiques de la vie rurale costaricienne, tout en promouvant un mode de vie sain grâce à la production d'aliments biologiques. En encourageant la collaboration locale et le partage des connaissances, il vise à inspirer les autres et à créer un impact positif à la fois sur la communauté et sur l'environnement.",
+    "es": "La iniciativa Armonía Ambiental, con sede en Providencia de Dota, comenzó a principios de la década de 2000 con el apoyo del Gobierno español. Se centra en el turismo sostenible y las prácticas agrícolas, haciendo hincapié en la participación de la comunidad y la armonía medioambiental. El proyecto pretende ofrecer a los visitantes experiencias auténticas de la vida rural costarricense, promoviendo al mismo tiempo una vida sana mediante la producción de alimentos orgánicos. Mediante el fomento de la colaboración local y el intercambio de conocimientos, pretende inspirar a otros y crear un impacto positivo tanto en la comunidad como en el medio ambiente.",
+    "de": "Die in Providencia de Dota ansässige Initiative Armonía Ambiental begann in den frühen 2000er Jahren mit Unterstützung der spanischen Regierung. Sie konzentriert sich auf nachhaltigen Tourismus und landwirtschaftliche Praktiken und betont dabei die Einbindung der Gemeinschaft und die Harmonie der Umwelt. Das Projekt zielt darauf ab, Besuchern authentische Erfahrungen mit dem Landleben in Costa Rica zu vermitteln und gleichzeitig ein gesundes Leben durch die Herstellung von Bio-Lebensmitteln zu fördern. Durch die Förderung lokaler Kooperationen und den Austausch von Wissen sollen andere inspiriert und positive Auswirkungen auf die Gemeinde und die Umwelt geschaffen werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Armonía Ambiental",
+  "name": {
+    "es": "Armonía Ambiental",
+    "en": "Environmental Harmony",
+    "fr": "Harmonie environnementale",
+    "de": "Ökologische Harmonie"
+  },
   "pubId": 465352,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1754477224,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1754477224
     }
   ],
-  "lastEvent": {
-    "at": 1754477224,
-    "by": "contact"
-  },
   "updatedAt": [
     1754477224
-  ]
+  ],
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755002436,
   "date": null,
-  "description": "The Biomateriales initiative, launched in late 2024, focuses on repurposing waste products from the Central restaurant to create innovative alternatives for consumers. Led by a dedicated team, the project aims to maximize resource use and reduce waste while providing unique culinary experiences. By utilizing local ingredients, such as cocoa husks, the initiative emphasizes sustainability and community engagement, showcasing a commitment to environmental responsibility and culinary innovation.   ",
+  "description": {
+    "en": "The Biomateriales initiative, launched in late 2024, focuses on repurposing waste products from the Central restaurant to create innovative alternatives for consumers. Led by a dedicated team, the project aims to maximize resource use and reduce waste while providing unique culinary experiences. By utilizing local ingredients, such as cocoa husks, the initiative emphasizes sustainability and community engagement, showcasing a commitment to environmental responsibility and culinary innovation.   ",
+    "fr": "L'initiative Biomateriales, lancée fin 2024, se concentre sur la réutilisation des déchets du restaurant Central pour créer des alternatives innovantes pour les consommateurs. Mené par une équipe dédiée, le projet vise à maximiser l'utilisation des ressources et à réduire les déchets tout en offrant des expériences culinaires uniques. En utilisant des ingrédients locaux, tels que les coques de cacao, l'initiative met l'accent sur la durabilité et l'engagement communautaire, mettant en évidence un engagement en faveur de la responsabilité environnementale et de l'innovation culinaire.   ",
+    "es": "La iniciativa Biomateriales, lanzada a finales de 2024, se centra en la reutilización de productos de desecho del restaurante Central para crear alternativas innovadoras para los consumidores. Dirigido por un equipo especializado, el proyecto pretende maximizar el uso de los recursos y reducir los residuos al tiempo que ofrece experiencias culinarias únicas. Mediante la utilización de ingredientes locales, como la cáscara de cacao, la iniciativa hace hincapié en la sostenibilidad y la participación de la comunidad, mostrando un compromiso con la responsabilidad medioambiental y la innovación culinaria.   ",
+    "de": "Die Ende 2024 gestartete Initiative Biomateriales konzentriert sich auf die Wiederverwendung von Abfallprodukten aus dem Central Restaurant, um innovative Alternativen für die Verbraucher zu schaffen. Unter der Leitung eines engagierten Teams zielt das Projekt darauf ab, die Ressourcennutzung zu maximieren und Abfälle zu reduzieren und gleichzeitig einzigartige kulinarische Erlebnisse zu bieten. Durch die Verwendung lokaler Zutaten, wie z. B. Kakaoschalen, betont die Initiative die Nachhaltigkeit und das Engagement für die Gemeinschaft und unterstreicht das Engagement für ökologische Verantwortung und kulinarische Innovation.   "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Biomateriales",
+  "name": {
+    "es": "Biomateriales",
+    "en": "Biomaterials",
+    "fr": "Biomatériaux",
+    "de": "Biomaterialien"
+  },
   "pubId": 482852,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

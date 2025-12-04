@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754475373,
   "date": null,
-  "description": "Valle Escondido focuses on fostering community engagement and education through a nonprofit organization, AVER, which operates alongside a hospitality business. This dual structure allows for the integration of regenerative agriculture principles into both the farm and restaurant operations. The aim is to promote sustainable practices while providing training and resources to visitors, ultimately inspiring them to contribute positively to environmental stewardship and community well-being.      ",
+  "description": {
+    "en": "Valle Escondido focuses on fostering community engagement and education through a non-profit organization, AVER, which runs parallel to a hospitality business. This dual structure allows the principles of regenerative agriculture to be integrated into both the farm and the restaurant. The goal is to promote sustainable practices while offering training and resources to visitors, ultimately inspiring them to contribute positively to environmental stewardship and community well-being.      ",
+    "fr": "Valle Escondido s'attache à favoriser l'engagement et l'éducation de la communauté par l'intermédiaire d'une organisation à but non lucratif, AVER, qui fonctionne parallèlement à une entreprise d'hôtellerie. Cette double structure permet d'intégrer les principes de l'agriculture régénératrice à la fois dans la ferme et dans le restaurant. L'objectif est de promouvoir des pratiques durables tout en offrant une formation et des ressources aux visiteurs, afin de les inciter à contribuer positivement à la protection de l'environnement et au bien-être de la communauté.      ",
+    "es": "Valle Escondido se centra en fomentar el compromiso y la educación de la comunidad a través de una organización sin ánimo de lucro, AVER, que funciona paralelamente a un negocio de hostelería. Esta doble estructura permite integrar los principios de la agricultura regenerativa tanto en la granja como en el restaurante. El objetivo es promover prácticas sostenibles al tiempo que se ofrece formación y recursos a los visitantes, inspirándoles en última instancia para que contribuyan positivamente al cuidado del medio ambiente y al bienestar de la comunidad.      ",
+    "de": "Valle Escondido konzentriert sich auf die Förderung des Engagements der Gemeinschaft und der Bildung durch eine gemeinnützige Organisation, AVER, die neben einem Gastgewerbebetrieb tätig ist. Diese duale Struktur ermöglicht es, regenerative Landwirtschaftsprinzipien sowohl in den landwirtschaftlichen als auch in den Restaurantbetrieb zu integrieren. Ziel ist es, nachhaltige Praktiken zu fördern und gleichzeitig den Besuchern Schulungen und Ressourcen zur Verfügung zu stellen, um sie letztendlich dazu zu inspirieren, einen positiven Beitrag zum Umweltschutz und zum Wohlbefinden der Gemeinschaft zu leisten.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Valle Escondido",
+  "name": {
+    "es": "Valle Escondido",
+    "en": "Hidden Valley",
+    "fr": "Vallée cachée",
+    "de": "Verborgenes Tal"
+  },
   "pubId": 465152,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1754477175,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1754477175
     }
   ],
-  "lastEvent": {
-    "at": 1754477175,
-    "by": "contact"
-  },
   "updatedAt": [
     1754477175
-  ]
+  ],
+  "originalLang": "fr"
 }

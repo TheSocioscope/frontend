@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739458351,
   "date": null,
-  "description": "Urban Farmers Pro is an innovative agro-technology startup based in Bogotá that specializes in hydroponic agriculture, utilizing artificial intelligence for centralized control of its production systems. This initiative allows for urban farming in limited spaces, maximizing the use of water and fertilizers while producing vegetables in a clean and chemical-free manner. The startup operates hydroponic production units, initially housed in cargo containers, which have been adapted to optimize space and resources. With a focus on high productivity, they can yield the equivalent of traditional agriculture's output from a much smaller area, while also ensuring that their products are free from pesticides and irrigated with clean drinking water. As they scale their operations to include vertical farming, Urban Farmers Pro aims to expand its market reach, targeting both individual consumers and businesses in the hospitality sector, while also exploring partnerships to bring their sustainable farming model to regions with limited access to fresh produce.",
+  "description": {
+    "en": "Urban Farmers Pro is an innovative agri-tech startup based in Bogota that specializes in hydroponic agriculture, using artificial intelligence for the centralized control of its production systems. This initiative enables urban agriculture in limited spaces, maximizing the use of water and fertilizers and producing vegetables cleanly and without chemicals. The startup operates hydroponic production units, initially housed in shipping containers, which have been adapted to optimize space and resources. Focusing on high productivity, they are able to produce the equivalent of traditional agriculture on a much smaller footprint, while ensuring that their produce is pesticide-free and irrigated with clean drinking water. As they expand their operations to include vertical farming, Urban Farmers Pro aims to broaden their market reach, targeting both individual consumers and businesses in the hospitality sector, while exploring partnerships to bring their sustainable farming model to regions with limited access to fresh produce.",
+    "fr": "Urban Farmers Pro est une startup agro-technologique innovante basée à Bogota, spécialisée dans l'agriculture hydroponique, qui utilise l'intelligence artificielle pour le contrôle centralisé de ses systèmes de production. Cette initiative permet de pratiquer l'agriculture urbaine dans des espaces limités, en maximisant l'utilisation de l'eau et des engrais et en produisant des légumes de manière propre et sans produits chimiques. La startup exploite des unités de production hydroponique, initialement installées dans des conteneurs d'expédition, qui ont été adaptées pour optimiser l'espace et les ressources. En se concentrant sur une productivité élevée, elle peut produire l'équivalent de l'agriculture traditionnelle sur une surface beaucoup plus petite, tout en s'assurant que ses produits sont exempts de pesticides et irrigués avec de l'eau potable. En étendant ses activités à l'agriculture verticale, Urban Farmers Pro vise à élargir son marché, en ciblant à la fois les consommateurs individuels et les entreprises du secteur de l'hôtellerie, tout en explorant des partenariats pour apporter son modèle d'agriculture durable dans les régions où l'accès aux produits frais est limité.",
+    "es": "Urban Farmers Pro es una innovadora startup de agrotecnología con sede en Bogotá especializada en agricultura hidropónica, que utiliza inteligencia artificial para el control centralizado de sus sistemas de producción. Esta iniciativa permite la agricultura urbana en espacios limitados, maximizando el uso de agua y fertilizantes y produciendo verduras de forma limpia y sin productos químicos. La startup opera unidades de producción hidropónicas, inicialmente alojadas en contenedores de carga, que han sido adaptadas para optimizar el espacio y los recursos. Centrándose en la alta productividad, pueden producir el equivalente de la agricultura tradicional en una superficie mucho menor, garantizando al mismo tiempo que sus productos no contienen pesticidas y se riegan con agua potable limpia. A medida que amplían sus operaciones para incluir la agricultura vertical, Urban Farmers Pro pretende ampliar su alcance de mercado, dirigiéndose tanto a consumidores particulares como a empresas del sector de la hostelería, al tiempo que explora asociaciones para llevar su modelo de agricultura sostenible a regiones con acceso limitado a productos frescos.",
+    "de": "Urban Farmers Pro ist ein innovatives Agrotechnologie-Start-up aus Bogotá, das sich auf hydroponische Landwirtschaft spezialisiert hat und künstliche Intelligenz zur zentralen Steuerung seiner Produktionssysteme nutzt. Diese Initiative ermöglicht urbane Landwirtschaft auf begrenztem Raum, maximiert die Nutzung von Wasser und Düngemitteln und produziert gleichzeitig Gemüse in einer sauberen und chemikalienfreien Weise. Das Startup betreibt hydroponische Produktionseinheiten, die ursprünglich in Frachtcontainern untergebracht waren und nun so angepasst wurden, dass Platz und Ressourcen optimal genutzt werden. Mit einem Fokus auf hohe Produktivität können sie aus einem viel kleineren Gebiet die gleiche Leistung wie die traditionelle Landwirtschaft erbringen und gleichzeitig sicherstellen, dass ihre Produkte frei von Pestiziden sind und mit sauberem Trinkwasser bewässert werden. Die Urban Farmers Pro wollen ihre Marktreichweite ausbauen, indem sie sowohl Einzelverbraucher als auch Unternehmen im Gastgewerbe ansprechen und gleichzeitig Partnerschaften erkunden, um ihr nachhaltiges Landwirtschaftsmodell in Regionen mit begrenztem Zugang zu frischen Produkten zu bringen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Urban Farmers Pro",
+  "name": {
+    "en": "Urban Farmers Pro",
+    "fr": "Urban Farmers Pro",
+    "es": "Agricultores urbanos profesionales",
+    "de": "Urban Farmers Pro"
+  },
   "pubId": 440252,
   "score": 127.60196078431308,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.urbanfarmerspro.com/",
   "yt": "gP1mV_82Uso",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

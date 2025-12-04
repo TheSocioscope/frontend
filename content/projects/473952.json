@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754573564,
   "date": null,
-  "description": "The Kibois breeders are a rural empowerment project in Kenya, providing quality breeding stock to smallholder farmers across ten counties. The initiative aims to enhance livestock genetics, enabling farmers to achieve better weight gain in sheep, thus improving their livelihoods. The project began in 2020 and has since expanded, with partnerships from the government and NGOs. The initiative emphasizes the importance of proper breeding practices, record-keeping, and community training to ensure sustainable farming. The farm has grown to about five acres, housing 200 to 500 sheep, and aims to become a model for breeding practices in the region. Isaac's vision includes expanding Kibois' reach nationally and internationally, promoting quality livestock and supporting local economies.",
+  "description": {
+    "en": "Kibois Breeders is a rural training project in Kenya that provides quality breeding stock to smallholder farmers in ten counties. The initiative aims to improve livestock genetics, enabling farmers to achieve greater weight gain in sheep, thereby improving their livelihoods. The project began in 2020 and has since expanded, with government and NGO collaboration. The initiative emphasizes the importance of proper husbandry practices, record keeping and community training to ensure sustainable livestock farming. The farm has grown to about five hectares and is home to 200-500 sheep, and aims to become a model for husbandry practices in the region. Isaac's vision includes expanding Kibois' reach nationally and internationally, promoting quality livestock and supporting local economies.",
+    "fr": "Kibois Breeders est un projet d'autonomisation rurale au Kenya qui fournit des animaux reproducteurs de qualité aux petits exploitants agricoles dans dix comtés. L'initiative vise à améliorer la génétique du bétail, permettant aux agriculteurs d'obtenir un gain de poids plus important chez les moutons, améliorant ainsi leurs moyens de subsistance. Le projet a démarré en 2020 et s'est développé depuis, avec la collaboration du gouvernement et des ONG. L'initiative souligne l'importance de pratiques d'élevage appropriées, de la tenue de registres et de la formation de la communauté pour garantir un élevage durable. La ferme s'est agrandie pour atteindre environ cinq hectares et abrite entre 200 et 500 moutons. Elle vise à devenir un modèle de pratiques d'élevage dans la région. La vision d'Isaac consiste à étendre la portée de Kibois au niveau national et international, à promouvoir l'élevage de qualité et à soutenir les économies locales.",
+    "es": "Los criadores de Kibois son un proyecto de capacitación rural en Kenia que proporciona ganado reproductor de calidad a pequeños agricultores de diez condados. La iniciativa tiene como objetivo mejorar la genética del ganado, permitiendo a los ganaderos lograr un mayor aumento de peso en las ovejas, mejorando así sus medios de vida. El proyecto comenzó en 2020 y desde entonces se ha ampliado, con la colaboración del gobierno y de ONG. La iniciativa hace hincapié en la importancia de unas prácticas de cría adecuadas, el mantenimiento de registros y la formación de la comunidad para garantizar una ganadería sostenible. La granja ha crecido hasta ocupar unas cinco hectáreas y alberga entre 200 y 500 ovejas, y aspira a convertirse en un modelo de prácticas de cría en la región. La visión de Isaac incluye ampliar el alcance de Kibois a escala nacional e internacional, promoviendo la ganadería de calidad y apoyando las economías locales.",
+    "de": "Die Kibois-Züchter sind ein Projekt zur Stärkung des ländlichen Raums in Kenia, das Kleinbauern in zehn Bezirken mit qualitativ hochwertigem Zuchtmaterial versorgt. Die Initiative zielt auf die Verbesserung der Viehzuchtgenetik ab, wodurch die Landwirte eine bessere Gewichtszunahme bei ihren Tieren erreichen und so ihren Lebensunterhalt verbessern können. Das Projekt begann im Jahr 2020 und wurde seitdem durch Partnerschaften mit der Regierung und NGOs ausgeweitet. Die Initiative betont die Bedeutung von guten Zuchtpraktiken, Rekordhaltung und Gemeinschaftsausbildung, um eine nachhaltige Landwirtschaft zu gewährleisten. Der Hof ist auf etwa fünf Hektar angewachsen, beherbergt 200 bis 500 Schafe und soll zu einem Vorbild für Zuchtpraktiken in der Region werden. Isaacs Vision umfasst die Ausweitung von Kibois' Reichweite auf nationaler und internationaler Ebene, die Förderung von Qualitätsvieh und die Unterstützung der lokalen Wirtschaft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kibois Breeders",
+  "name": {
+    "nl": "Kibois Breeders",
+    "en": "Kibois Breeders",
+    "fr": "Éleveurs de Kibois",
+    "es": "Criadores de Kibois",
+    "de": "Kibois Züchter"
+  },
   "pubId": 473952,
   "score": 14.058837192753758,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

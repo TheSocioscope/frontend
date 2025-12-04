@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754649908,
   "date": null,
-  "description": "The initiative, Karobia Njai, focuses on reconnecting individuals with their cultural roots and promoting the use of indigenous herbs for health and wellness. Through education and community engagement, it encourages self-acceptance and sustainable practices, emphasizing the importance of natural remedies over pharmaceutical solutions. By teaching people about the benefits of traditional nutrition and environmental stewardship, the initiative aims to foster a holistic approach to health and well-being.",
+  "description": {
+    "en": "The initiative, Karobia Njai, focuses on reconnecting individuals with their cultural roots and promoting the use of indigenous herbs for health and wellness. Through education and community engagement, it encourages self-acceptance and sustainable practices, emphasizing the importance of natural remedies over pharmaceutical solutions. By teaching people about the benefits of traditional nutrition and environmental stewardship, the initiative aims to foster a holistic approach to health and well-being.",
+    "fr": "L'initiative, Karobia Njai, vise à reconnecter les individus avec leurs racines culturelles et à promouvoir l'utilisation d'herbes indigènes pour la santé et le bien-être. Par l'éducation et l'engagement communautaire, elle encourage l'acceptation de soi et les pratiques durables, en soulignant l'importance des remèdes naturels par rapport aux solutions pharmaceutiques. En enseignant les avantages de la nutrition traditionnelle et de la gestion de l'environnement, l'initiative vise à favoriser une approche holistique de la santé et du bien-être.",
+    "es": "La iniciativa, Karobia Njai, se centra en reconectar a las personas con sus raíces culturales y promover el uso de hierbas autóctonas para la salud y el bienestar. Mediante la educación y la participación de la comunidad, fomenta la autoaceptación y las prácticas sostenibles, haciendo hincapié en la importancia de los remedios naturales frente a las soluciones farmacéuticas. Enseñando a la gente los beneficios de la nutrición tradicional y la gestión medioambiental, la iniciativa pretende fomentar un enfoque holístico de la salud y el bienestar.",
+    "de": "Die Initiative Karobia Njai konzentriert sich darauf, die Menschen wieder mit ihren kulturellen Wurzeln zu verbinden und die Verwendung einheimischer Kräuter für Gesundheit und Wohlbefinden zu fördern. Durch Aufklärung und Engagement in der Gemeinschaft fördert sie Selbstakzeptanz und nachhaltige Praktiken und betont die Bedeutung von Naturheilmitteln gegenüber pharmazeutischen Lösungen. Indem sie die Menschen über die Vorteile traditioneller Ernährung und des Umweltschutzes aufklärt, will die Initiative einen ganzheitlichen Ansatz für Gesundheit und Wohlbefinden fördern."
+  },
   "field": [
     "medicine"
   ],
   "lang": "en",
   "location": "",
-  "name": "Karobia Njai",
+  "name": {
+    "pl": "Karobia Njai",
+    "en": "Njai Carobia",
+    "fr": "Njai carob",
+    "es": "Algarroba Njai",
+    "de": "Njai Johannisbrot"
+  },
   "pubId": 477752,
   "score": 19.70250005183063,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "pl"
 }

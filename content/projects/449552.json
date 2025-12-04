@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739456958,
   "date": null,
-  "description": "Landworks is a resettlement charity located in Totnes, England, dedicated to providing a pathway back into employment for individuals at risk of incarceration or those who have recently been released from prison. The initiative operates on a 2 to 3-acre site and focuses on creating a supportive environment where participants can develop hands-on skills, gain self-worth, and reintegrate into society.\n\nFounded by Chris, who initially aspired to be a farmer, Landworks emphasizes the importance of acceptance and community. The program fosters a safe space where individuals can work together, learn various trades such as gardening, pottery, and woodworking, and share meals, which is central to building relationships and trust. The initiative has successfully reintegrated over 250 individuals into society since its inception in 2017.\n\nLandworks operates on a model that prioritizes social rehabilitation over profit, relying on multiple funding sources, including the National Lottery and various charitable foundations. The organization also engages with the local community through open days and educational visits, aiming to change perceptions about ex-prisoners and promote understanding.",
+  "description": {
+    "en": "Landworks is a re-integration charity based in Totnes, England, dedicated to providing a pathway back into employment for people at risk of imprisonment or recently released from prison. The initiative operates on a 2-3 acre site and focuses on creating a supportive environment in which participants can develop practical skills, gain self-esteem and reintegrate into society. Founded by Chris, who initially aspired to be a farmer, Landworks emphasizes the importance of acceptance and community. The program fosters a safe space where people can work together, learn various trades such as gardening, pottery and carpentry, and share meals, which is essential for building relationships and trust. The initiative has successfully reintegrated more than 250 people back into society since its inception in 2017. Landworks operates on a model that prioritizes social rehabilitation over profit, and relies on multiple funding sources, such as the National Lottery and various charitable foundations. The organization also engages with the local community through open days and educational visits, with the aim of changing perceptions about ex-prisoners and promoting understanding.",
+    "fr": "Landworks est une organisation caritative de réinsertion basée à Totnes, en Angleterre, qui se consacre à la réinsertion professionnelle des personnes risquant d'être incarcérées ou récemment libérées de prison. L'initiative fonctionne sur un site de 2 à 3 hectares et se concentre sur la création d'un environnement favorable dans lequel les participants peuvent développer des compétences pratiques, gagner en estime de soi et se réinsérer dans la société. Fondée par Chris, qui aspirait à l'origine à devenir agriculteur, Landworks met l'accent sur l'importance de l'acceptation et de la communauté. Le programme crée un espace sûr où les gens peuvent travailler ensemble, apprendre divers métiers tels que le jardinage, la poterie et la menuiserie, et partager des repas, ce qui est essentiel pour nouer des relations et instaurer un climat de confiance. L'initiative a permis de réintégrer avec succès plus de 250 personnes dans la société depuis sa création en 2017. Landworks fonctionne selon un modèle qui donne la priorité à la réhabilitation sociale plutôt qu'au profit, et s'appuie sur de multiples sources de financement, notamment la Loterie nationale et diverses fondations caritatives. L'organisation s'engage également auprès de la communauté locale par le biais de journées portes ouvertes et de visites éducatives, dans le but de changer les perceptions sur les anciens détenus et de promouvoir la compréhension.",
+    "es": "Landworks es una organización benéfica de reinserción situada en Totnes (Inglaterra), dedicada a ofrecer una vía de reinserción laboral a personas en riesgo de ser encarceladas o que acaban de salir de prisión. La iniciativa funciona en un terreno de 2 a 3 acres y se centra en crear un entorno de apoyo en el que los participantes puedan desarrollar habilidades prácticas, adquirir autoestima y reintegrarse en la sociedad.\n\nFundada por Chris, que inicialmente aspiraba a ser agricultor, Landworks hace hincapié en la importancia de la aceptación y la comunidad. El programa fomenta un espacio seguro en el que las personas pueden trabajar juntas, aprender diversos oficios como jardinería, alfarería y carpintería, y compartir las comidas, lo que es fundamental para crear relaciones y confianza. La iniciativa ha logrado reintegrar en la sociedad a más de 250 personas desde su creación en 2017.\n\nLandworks funciona con un modelo que prioriza la rehabilitación social sobre los beneficios, y depende de múltiples fuentes de financiación, como la Lotería Nacional y varias fundaciones benéficas. La organización también se compromete con la comunidad local a través de jornadas de puertas abiertas y visitas educativas, con el objetivo de cambiar las percepciones sobre los ex reclusos y promover la comprensión.",
+    "de": "Landworks ist eine gemeinnützige Einrichtung in Totnes, England, die sich der Aufgabe widmet, Menschen, die von einer Inhaftierung bedroht sind oder kürzlich aus dem Gefängnis entlassen wurden, einen Weg zurück in die Beschäftigung zu bieten. Die Initiative arbeitet an einem 2-3-Acre-Standort und konzentriert sich auf die Schaffung eines unterstützenden Umfelds, in dem die Teilnehmer handwerkliche Fähigkeiten entwickeln, Selbstvertrauen gewinnen und sich wieder in die Gesellschaft integrieren können.\n\nLandworks wurde von Chris gegründet, der ursprünglich Bauer werden wollte, und betont die Bedeutung von Akzeptanz und Gemeinschaft. Das Programm schafft einen sicheren Raum, in dem Menschen zusammenarbeiten, verschiedene Berufe wie Gärtner, Töpfer und Holzarbeiter erlernen und Mahlzeiten gemeinsam einnehmen können, was für den Aufbau von Beziehungen und Vertrauen von zentraler Bedeutung ist. Die Initiative hat seit ihrer Einführung 2017 über 250 Menschen erfolgreich wieder in die Gesellschaft integriert.\n\nLandworks operiert nach einem Modell, das soziale Rehabilitation über Profit stellt und sich auf mehrere Finanzierungsquellen stützt, darunter die National Lottery und verschiedene wohltätige Stiftungen. Die Organisation engagiert sich auch in der lokalen Gemeinschaft durch offene Tage und Bildungsbesuche, um die Wahrnehmung von Ex-Gefängnisinsassen zu ändern und das Verständnis zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Landworks",
+  "name": {
+    "en": "Landworks",
+    "fr": "Landworks",
+    "es": "Landworks",
+    "de": "Landworks"
+  },
   "pubId": 449552,
   "score": 167.5019607843148,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.landworks.org.uk/",
   "yt": "zFAXAVeUTHk",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

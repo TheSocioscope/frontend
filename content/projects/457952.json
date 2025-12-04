@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754384542,
   "date": null,
-  "description": "High Farm is an innovative urban farm founded in 2019, focusing on sustainable food production through vertical farming techniques. By cultivating microgreens, edible flowers, and greens in controlled environments, High Farm aims to bring fresh, pesticide-free produce closer to urban consumers. The initiative emphasizes harmony between technology, nature, and society, promoting gastronomic diversity while minimizing environmental impact. With a commitment to research and development, High Farm aspires to be a leader in sustainable agricultural practices in Latin America.",
+  "description": {
+    "en": "High Farm is an innovative urban farm founded in 2019, focused on sustainable food production using vertical farming techniques. By growing microgreens, edible flowers and vegetables in controlled environments, High Farm aims to bring fresh, pesticide-free produce to urban consumers. The initiative emphasizes the harmony between technology, nature and society, promoting gastronomic diversity while minimizing environmental impact. With a commitment to research and development, High Farm aspires to be a leader in sustainable agricultural practices in Latin America.",
+    "fr": "High Farm est une ferme urbaine innovante fondée en 2019, axée sur la production alimentaire durable à l'aide de techniques d'agriculture verticale. En cultivant des microgreens, des fleurs comestibles et des légumes dans des environnements contrôlés, High Farm vise à apporter des produits frais et sans pesticides aux consommateurs urbains. L'initiative met l'accent sur l'harmonie entre la technologie, la nature et la société, en promouvant la diversité gastronomique tout en minimisant l'impact sur l'environnement. Grâce à son engagement dans la recherche et le développement, High Farm vise à devenir un leader en matière de pratiques agricoles durables en Amérique latine.",
+    "es": "High Farm es una innovadora granja urbana fundada en 2019, centrada en la producción sostenible de alimentos mediante técnicas de cultivo vertical. Mediante el cultivo de microgreens, flores comestibles y verduras en entornos controlados, High Farm pretende acercar los productos frescos y sin pesticidas a los consumidores urbanos. La iniciativa hace hincapié en la armonía entre tecnología, naturaleza y sociedad, fomentando la diversidad gastronómica al tiempo que se minimiza el impacto medioambiental. Con un compromiso con la investigación y el desarrollo, High Farm aspira a ser líder en prácticas agrícolas sostenibles en América Latina.",
+    "de": "High Farm ist ein 2019 gegründeter innovativer städtischer Bauernhof, der sich auf die nachhaltige Lebensmittelproduktion durch vertikale Anbautechniken konzentriert. Durch den Anbau von Mikrogreens, essbaren Blumen und Greens in kontrollierten Umgebungen will High Farm frische, pestizidfreie Produkte näher an die städtischen Verbraucher heranbringen. Die Initiative betont die Harmonie zwischen Technologie, Natur und Gesellschaft und fördert die gastronomische Vielfalt bei gleichzeitiger Minimierung der Umweltauswirkungen. High Farm hat sich der Forschung und Entwicklung verschrieben und strebt eine führende Rolle bei nachhaltigen landwirtschaftlichen Praktiken in Lateinamerika an."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "High Farm",
+  "name": {
+    "en": "High Farm",
+    "fr": "High Farm",
+    "es": "Granja Alta",
+    "de": "High Farm"
+  },
   "pubId": 457952,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

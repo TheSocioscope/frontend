@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739456677,
   "date": null,
-  "description": "The Zero Dig initiative, based in Stroud, is a non-profit organization focused on sustainable agriculture through a method known as \"zero dig\" or \"no dig.\" This approach emphasizes minimal disturbance to the soil, preserving the mycelium network and promoting biodiversity, which enhances nutrient density in crops. Founded by philanthropist Mario, who sought to utilize his wealth meaningfully post-COVID, the initiative aims to produce high-quality food locally while fostering community engagement and job creation.\n\nThe organization operates on a model that combines scientific research with entrepreneurial strategies, allowing it to explore commercial partnerships and expand its reach. Zero Dig has established relationships with local eateries and has begun to attract attention from larger entities, including potential collaborations with supermarkets and housing developments. The initiative is also focused on educating the community about the benefits of nutrient-dense food and sustainable farming practices.",
+  "description": {
+    "en": "The Stroud-based Zero Dig initiative is a non-profit organization focused on sustainable agriculture using an approach known as \"zero dig\" or \"no dig\". This approach emphasizes minimal soil disturbance, preserving the mycelium network and encouraging biodiversity, which improves nutrient density in crops. Founded by philanthropist Mario, who was looking to use his wealth in a meaningful way post-crisis, the initiative aims to produce high-quality food locally, while fostering community engagement and job creation. The organization operates on a model that combines scientific research with business strategies, allowing it to explore commercial partnerships and expand its reach. Zero Dig has established relationships with local restaurants and has begun to attract the attention of larger entities, including potential collaborations with supermarkets and housing developments. The initiative also focuses on educating the community about the benefits of nutrient-rich foods and sustainable farming practices.",
+    "fr": "L'initiative Zero Dig, basée à Stroud, est une organisation à but non lucratif qui se consacre à l'agriculture durable en utilisant une méthode connue sous le nom de \"zero dig\" ou \"no dig\". Cette approche met l'accent sur une perturbation minimale du sol, la préservation du réseau mycélien et l'encouragement de la biodiversité, ce qui améliore la densité des nutriments dans les cultures. Fondée par le philanthrope Mario, qui cherchait à utiliser sa fortune de manière utile après la crise, l'initiative vise à produire localement des aliments de haute qualité, tout en encourageant l'engagement communautaire et la création d'emplois. L'organisation fonctionne selon un modèle qui combine la recherche scientifique et les stratégies commerciales, ce qui lui permet d'explorer des partenariats commerciaux et d'étendre son champ d'action. Zero Dig a établi des relations avec des restaurants locaux et a commencé à attirer l'attention d'entités plus importantes, y compris des collaborations potentielles avec des supermarchés et des lotissements. L'initiative se concentre également sur l'éducation de la communauté aux avantages des aliments riches en nutriments et des pratiques agricoles durables.",
+    "es": "La iniciativa Zero Dig, con sede en Stroud, es una organización sin ánimo de lucro centrada en la agricultura sostenible mediante un método conocido como \"excavación cero\" o \"sin excavación\". Este enfoque hace hincapié en la mínima perturbación del suelo, preservando la red de micelio y fomentando la biodiversidad, lo que mejora la densidad de nutrientes en los cultivos. Fundada por el filántropo Mario, que buscaba utilizar su riqueza de forma significativa después de la crisis, la iniciativa pretende producir alimentos de alta calidad a nivel local, fomentando al mismo tiempo el compromiso de la comunidad y la creación de empleo.\n\nLa organización funciona con un modelo que combina la investigación científica con estrategias empresariales, lo que le permite explorar asociaciones comerciales y ampliar su alcance. Zero Dig ha establecido relaciones con restaurantes locales y ha empezado a atraer la atención de entidades más grandes, incluidas posibles colaboraciones con supermercados y urbanizaciones. La iniciativa también se centra en educar a la comunidad sobre los beneficios de los alimentos ricos en nutrientes y las prácticas agrícolas sostenibles.",
+    "de": "Die in Stroud ansässige Zero Dig Initiative ist eine gemeinnützige Organisation, die sich auf nachhaltige Landwirtschaft durch eine Methode konzentriert, die als \"zero dig\" oder \"no dig\" bekannt ist. Dieser Ansatz betont die minimale Störung des Bodens, bewahrt das Myzelium-Netzwerk und fördert die Artenvielfalt, die die Nährstoffdichte in den Kulturen erhöht. Die Initiative wurde von dem Philanthropen Mario gegründet, der sein Vermögen nach dem Tod des Präsidenten sinnvoll einsetzen wollte. Ziel der Initiative ist es, hochwertige Lebensmittel vor Ort zu produzieren und gleichzeitig das Engagement der Gemeinschaft und die Schaffung von Arbeitsplätzen zu fördern.\n\nDie Organisation arbeitet nach einem Modell, das wissenschaftliche Forschung mit unternehmerischen Strategien verbindet und es ihr ermöglicht, kommerzielle Partnerschaften zu erforschen und ihre Reichweite zu erweitern. Zero Dig hat Beziehungen zu lokalen Restaurants aufgebaut und begonnen, die Aufmerksamkeit größerer Unternehmen auf sich zu ziehen, darunter potenzielle Kooperationen mit Supermärkten und Wohnungsbauprojekten. Die Initiative konzentriert sich auch auf die Aufklärung der Gemeinde über die Vorteile von nährstoffreichem Essen und nachhaltigen landwirtschaftlichen Praktiken."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zero Dig",
+  "name": {
+    "en": "Zero Dig",
+    "fr": "Zero Dig",
+    "es": "Cero Dig",
+    "de": "Zero Dig"
+  },
   "pubId": 449352,
   "score": 223.3019607843136,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://zerodig.earth/",
   "yt": "4eDEhkyVytk",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

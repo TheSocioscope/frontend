@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754480088,
   "date": null,
-  "description": "Troutco is an innovative aquaculture initiative focused on exporting high-quality rainbow trout while promoting sustainability and social responsibility. Established over 16 years ago, it operates primarily in Colombia's central western region, empowering local rural women and utilizing water resources efficiently. With a commitment to circular economy practices, Troutco produces various trout products, ensuring 80% of its output is exported, primarily to the USA and Canada, while also contributing to local communities through food donations and educational support.",
+  "description": {
+    "en": "Troutco is an innovative aquaculture initiative focused on exporting high-quality rainbow trout while promoting sustainability and social responsibility. Founded more than 16 years ago, it operates primarily in the central-western region of Colombia, empowering local rural women and using water resources efficiently. With a commitment to circular economy practices, Troutco produces various trout products, ensuring that 80% of its production is exported, mainly to the US and Canada, while contributing to local communities through food donations and educational support.",
+    "fr": "Troutco est une initiative aquacole innovante qui vise à exporter des truites arc-en-ciel de haute qualité tout en promouvant la durabilité et la responsabilité sociale. Fondée il y a plus de 16 ans, elle opère principalement dans la région centre-ouest de la Colombie, en responsabilisant les femmes rurales locales et en utilisant les ressources en eau de manière efficace. S'engageant à respecter les pratiques de l'économie circulaire, Troutco fabrique divers produits à base de truite et veille à ce que 80 % de sa production soit exportée, principalement vers les États-Unis et le Canada, tout en contribuant aux communautés locales par le biais de dons alimentaires et de soutien à l'éducation.",
+    "es": "Troutco es una innovadora iniciativa de acuicultura centrada en la exportación de trucha arco iris de alta calidad al tiempo que promueve la sostenibilidad y la responsabilidad social. Fundada hace más de 16 años, opera principalmente en la región centro-occidental de Colombia, empoderando a las mujeres rurales locales y utilizando los recursos hídricos de manera eficiente. Con un compromiso con las prácticas de economía circular, Troutco produce varios productos de trucha, asegurando que el 80% de su producción se exporte, principalmente a los EE.UU. y Canadá, al tiempo que contribuye a las comunidades locales a través de donaciones de alimentos y apoyo educativo.",
+    "de": "Troutco ist eine innovative Aquakulturinitiative, die sich auf den Export hochwertiger Regenbogenforellen konzentriert und dabei Nachhaltigkeit und soziale Verantwortung fördert. Sie wurde vor 16 Jahren gegründet und operiert hauptsächlich in Kolumbiens zentralem Western, stärkt lokale Landfrauen und nutzt die Wasserressourcen effizient. With a commitment to circular economy practices, Troutco produces various trout products, ensuring 80% of its output is exported, primarily to the USA and Canada, while also contributing to local communities through food donations and educational support."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Troutco",
+  "name": {
+    "en": "Troutco",
+    "fr": "Troutco",
+    "es": "Troutco",
+    "de": "Troutco"
+  },
   "pubId": 467252,
   "score": 30.40974208718123,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

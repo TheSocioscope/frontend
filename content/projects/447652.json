@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739452770,
   "date": null,
-  "description": "Les Râteleurs is an association that focuses on promoting food sovereignty and social development in a region facing significant socio-economic challenges. The initiative aims to empower local residents, particularly those in precarious situations, through initiatives centered around self-production and food education.\n\nLes Râteleurs aims to restore individuals' sense of ownership over their food by providing resources, skills training, and fostering connections between residents, local producers, and authorities. Their approach includes establishing shared gardens, conducting door-to-door surveys to assess food practices, and creating cooking workshops that encourage community engagement and knowledge sharing.",
+  "description": {
+    "en": "Les Râteleurs is an association focused on promoting food sovereignty and social development in a region facing significant socio-economic challenges. Its goal is to empower local residents, especially those in precarious situations, through initiatives focused on self-production and food education. Les Râteleurs aims to give individuals back a sense of ownership over their food by providing them with resources, training and fostering connections between residents, local producers and authorities. Their approach includes creating shared gardens, conducting door-to-door surveys to assess food practices, and creating cooking workshops that encourage community participation and knowledge sharing.",
+    "fr": "Les Râteleurs est une association qui vise à promouvoir la souveraineté alimentaire et le développement social dans une région confrontée à des défis socio-économiques majeurs. Les Râteleurs ont pour objectif de redonner aux individus le sentiment d'être propriétaires de leur alimentation en leur fournissant des ressources, des formations et en favorisant les liens entre les habitants, les producteurs locaux et les autorités. Leur approche comprend la création de jardins partagés, des enquêtes en porte-à-porte pour évaluer les pratiques alimentaires et la création d'ateliers de cuisine qui encouragent la participation de la communauté et le partage des connaissances.",
+    "es": "Les Râteleurs es una asociación centrada en promover la soberanía alimentaria y el desarrollo social en una región que se enfrenta a importantes retos socioeconómicos. Su objetivo es empoderar a los residentes locales, especialmente a aquellos en situación precaria, mediante iniciativas centradas en la autoproducción y la educación alimentaria.\n\nLes Râteleurs pretende devolver a los individuos el sentido de propiedad sobre sus alimentos proporcionándoles recursos, formación y fomentando las conexiones entre residentes, productores locales y autoridades. Su enfoque incluye la creación de huertos compartidos, la realización de encuestas puerta a puerta para evaluar las prácticas alimentarias y la creación de talleres de cocina que fomenten la participación de la comunidad y el intercambio de conocimientos.",
+    "de": "Les Râteleurs ist ein Verein, der sich auf die Förderung der Nahrungsmittelsouveränität und der sozialen Entwicklung in einer Region konzentriert, die mit erheblichen sozioökonomischen Herausforderungen konfrontiert ist. Die Initiative zielt auf die Stärkung der lokalen Bevölkerung, insbesondere derjenigen in prekären Situationen, durch Initiativen, die sich auf Selbstversorgung und Ernährungserziehung konzentrieren.\n\nLes Râteleurs aims to restore individuals' sense of ownership over their food by providing resources, skills training, and fostering connections between residents, local producers, and authorities. Ihr Ansatz umfasst die Einrichtung von Gemeinschaftsgärten, die Durchführung von Haus-zu-Haus-Befragungen, um die Ernährungspraktiken zu bewerten, und die Einrichtung von Kochworkshops, die das Engagement der Gemeinschaft und den Wissensaustausch fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Rateleurs",
+  "name": {
+    "fr": "Les Rateleurs",
+    "en": "Les Rateleurs",
+    "es": "Los Ratoneros",
+    "de": "Die Rattenfänger"
+  },
   "pubId": 447652,
   "score": 76.70196078431324,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.lesrateleurs.org/presentation.html",
   "yt": "o29jIXMFnyg",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

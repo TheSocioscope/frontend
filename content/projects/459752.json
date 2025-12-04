@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403531,
   "date": null,
-  "description": "The Ecuador Pacchar initiative focuses on regenerative agriculture, specifically through the production of biochar to enhance soil health. Founded by a team of agronomists, the project aims to convert organic waste into biochar, improving carbon capture and soil fertility. They collaborate with local farmers and municipalities, providing training and equipment while promoting sustainable practices. Their goal is to address soil degradation and contribute to carbon footprint reduction, ultimately benefiting both the environment and local communities.",
+  "description": {
+    "en": "The Ecuadorian initiative Pacchar focuses on regenerative agriculture, specifically through the production of biochar to improve soil health. Founded by a team of agronomists, the project aims to convert organic waste into biochar, improving carbon sequestration and soil fertility. They collaborate with farmers and local municipalities, providing them with training and equipment while promoting sustainable practices. Their goal is to address soil degradation and contribute to the reduction of the carbon footprint, ultimately benefiting both the environment and local communities.",
+    "fr": "L'initiative équatorienne Pacchar se concentre sur l'agriculture régénératrice, notamment par la production de biochar pour améliorer la santé des sols. Fondé par une équipe d'agronomes, le projet vise à convertir les déchets organiques en biochar, améliorant ainsi la séquestration du carbone et la fertilité des sols. Il collabore avec les agriculteurs et les municipalités locales, en leur fournissant une formation et des équipements tout en promouvant des pratiques durables. Il vise à lutter contre la dégradation des sols et à contribuer à la réduction de l'empreinte carbone, pour le plus grand bénéfice de l'environnement et des communautés locales.",
+    "es": "La iniciativa ecuatoriana Pacchar se centra en la agricultura regenerativa, concretamente mediante la producción de biocarbón para mejorar la salud del suelo. Fundado por un equipo de agrónomos, el proyecto pretende convertir los residuos orgánicos en biocarbón, mejorando la captura de carbono y la fertilidad del suelo. Colaboran con agricultores y municipios locales, proporcionándoles formación y equipos al tiempo que promueven prácticas sostenibles. Su objetivo es hacer frente a la degradación del suelo y contribuir a la reducción de la huella de carbono, beneficiando en última instancia tanto al medio ambiente como a las comunidades locales.",
+    "de": "Die Initiative Ecuador Pacchar konzentriert sich auf regenerative Landwirtschaft, insbesondere durch die Produktion von Biokohle zur Verbesserung der Bodengesundheit. Das von einem Team von Agrarwissenschaftlern gegründete Projekt zielt darauf ab, organische Abfälle in Biokohle umzuwandeln und so die Kohlenstoffbindung und die Bodenfruchtbarkeit zu verbessern. Sie arbeiten mit lokalen Landwirten und Gemeinden zusammen, bieten Schulungen und Geräte an und fördern nachhaltige Praktiken. Ihr Ziel ist es, die Bodendegradation zu bekämpfen und zur Reduzierung des Kohlenstoffausstoßes beizutragen, was letztendlich sowohl der Umwelt als auch den lokalen Gemeinden zugute kommt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pacchar",
+  "name": {
+    "en": "Pacchar",
+    "fr": "Pacchar",
+    "es": "Pacchar",
+    "de": "Pacchar"
+  },
   "pubId": 459752,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

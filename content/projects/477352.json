@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754649169,
   "date": null,
-  "description": "Organic Fields Limited, established in 2018, is a Kenyan initiative focused on transforming food waste into organic fertilizer. The project addresses market cleanliness issues by collecting and composting waste from local markets. With a commitment to sustainability, they produce high-quality organic fertilizer, employing over 70 staff and collaborating with cooperatives and agricultural institutions. Their innovative approach not only enhances soil health but also promotes community engagement and environmental responsibility.",
+  "description": {
+    "en": "Organic Fields Limited, established in 2018, is a Kenyan initiative focused on transforming food waste into organic fertilizer. The project addresses market cleanliness issues by collecting and composting waste from local markets. With a commitment to sustainability, they produce high-quality organic fertilizer, employing over 70 staff and collaborating with cooperatives and agricultural institutions. Their innovative approach not only enhances soil health but also promotes community engagement and environmental responsibility.",
+    "fr": "Organic Fields Limited, créée en 2018, est une initiative kényane axée sur la transformation des déchets alimentaires en engrais organique. Le projet s'attaque aux problèmes de propreté des marchés en collectant et en compostant les déchets des marchés locaux. Avec un engagement pour la durabilité, ils produisent des engrais organiques de haute qualité, en employant plus de 70 personnes et en collaborant avec des coopératives et des institutions agricoles. Leur approche innovante permet non seulement d'améliorer la santé des sols, mais aussi de promouvoir l'engagement communautaire et la responsabilité environnementale.",
+    "es": "Organic Fields Limited, creada en 2018, es una iniciativa keniana centrada en transformar los residuos de alimentos en abono orgánico. El proyecto aborda los problemas de limpieza de los mercados mediante la recogida y el compostaje de los residuos de los mercados locales. Con un compromiso con la sostenibilidad, producen fertilizante orgánico de alta calidad, empleando a más de 70 personas y colaborando con cooperativas e instituciones agrícolas. Su enfoque innovador no sólo mejora la salud del suelo, sino que también promueve el compromiso de la comunidad y la responsabilidad medioambiental.",
+    "de": "Organic Fields Limited, gegründet 2018, ist eine kenianische Initiative, die sich auf die Umwandlung von Lebensmittelabfällen in organischen Dünger konzentriert. Das Projekt befasst sich mit Fragen der Marktreinheit, indem es Abfälle von lokalen Märkten sammelt und kompostiert. Mit ihrem Engagement für Nachhaltigkeit stellen sie hochwertigen organischen Dünger her, beschäftigen über 70 Mitarbeiter und arbeiten mit Kooperativen und landwirtschaftlichen Einrichtungen zusammen. Ihr innovativer Ansatz verbessert nicht nur die Bodengesundheit, sondern fördert auch das Engagement der Gemeinschaft und die Verantwortung für die Umwelt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Organic Fields Limited",
+  "name": {
+    "en": "Organic Fields Limited",
+    "fr": "Organic Fields Limited",
+    "es": "Organic Fields Limited",
+    "de": "Organic Fields Limited"
+  },
   "pubId": 477352,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "en"
 }

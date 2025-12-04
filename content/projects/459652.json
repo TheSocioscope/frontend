@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754403425,
   "date": null,
-  "description": "Biocompost is a qualified waste management company based in Quito, established in 2018. We focus on transforming organic waste into compost, promoting a circular economy model. By collecting waste from households and businesses, we not only reduce landfill contributions but also return compost to our clients for reforestation and sustainable practices. Our initiative emphasizes environmental education and community involvement, aiming to foster a collective commitment to reducing carbon footprints and enhancing food sustainability.",
+  "description": {
+    "en": "Biocompost is a qualified waste management company based in Quito, established in 2018. We focus on transforming organic waste into compost, promoting a circular economy model. By collecting waste from households and businesses, we not only reduce contributions to landfills, but also return the compost to our clients for reforestation and sustainable practices. Our initiative emphasizes environmental education and community involvement, with the goal of fostering a collective commitment to reduce our carbon footprint and improve food sustainability.",
+    "fr": "Biocompost est une entreprise de gestion des déchets qualifiée basée à Quito, établie en 2018. Nous nous concentrons sur la transformation des déchets organiques en compost, en promouvant un modèle d'économie circulaire. En collectant les déchets des ménages et des entreprises, nous réduisons non seulement les contributions aux décharges, mais nous retournons également le compost à nos clients pour la reforestation et les pratiques durables. Notre initiative met l'accent sur l'éducation à l'environnement et l'engagement communautaire, dans le but de favoriser un engagement collectif pour réduire l'empreinte carbone et améliorer la durabilité alimentaire.",
+    "es": "Biocompost es una empresa de gestión de residuos calificada con sede en Quito, establecida en 2018. Nos centramos en transformar los residuos orgánicos en compost, promoviendo un modelo de economía circular. Mediante la recolección de residuos de hogares y empresas, no solo reducimos las contribuciones a los vertederos, sino que también devolvemos el compost a nuestros clientes para la reforestación y las prácticas sostenibles. Nuestra iniciativa hace hincapié en la educación medioambiental y la implicación de la comunidad, con el objetivo de fomentar un compromiso colectivo para reducir la huella de carbono y mejorar la sostenibilidad alimentaria.",
+    "de": "Biocompost ist ein qualifiziertes Abfallentsorgungsunternehmen mit Sitz in Quito, das 2018 gegründet wurde. Wir konzentrieren uns auf die Umwandlung von organischen Abfällen in Kompost und fördern damit ein zirkuläres Wirtschaftsmodell. Durch das Sammeln von Abfällen aus Haushalten und Unternehmen reduzieren wir nicht nur die Deponiebeiträge, sondern geben auch Kompost an unsere Kunden zur Wiederaufforstung und für nachhaltige Praktiken zurück. Our initiative emphasises environmental education and community involvement, aiming to foster a collective commitment to reducing carbon footprints and enhancing food sustainability."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Biocompost",
+  "name": {
+    "it": "Biocompost",
+    "en": "Biocompost",
+    "fr": "Biocompost",
+    "es": "Biocompost",
+    "de": "Biokompost"
+  },
   "pubId": 459652,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

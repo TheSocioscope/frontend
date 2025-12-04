@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718366299,
   "date": null,
-  "description": "Feedbac se spécialise dans la gestion des déchets alimentaires, offrant des services de mise en place et d'accompagnement au tri pour les professionnels producteurs de déchets, les entreprises ayant des collaborateurs déjeunant sur place, et les collectivités.\n\nL'objectif est d'effectuer un diagnostic des déchets alimentaires, comprendre leur origine, leur quantité et leur localisation. Feedbac fournit le matériel nécessaire et organise les collectes en fonction de la production, pouvant aller jusqu'à six fois par semaine. Ensuite, ils effectuent un suivi et fournissent des informations aux professionnels sur leur production de déchets.\n\nEn tant qu'intermédiaire, Feedbac travaille avec des professionnels de la valorisation qui transforment les déchets en compost, ensuite redistribué aux agriculteurs, aux espaces verts urbains et sur des plateformes de vente en ligne pour les particuliers.",
+  "description": {
+    "fr": "Feedbac se spécialise dans la gestion des déchets alimentaires, offrant des services de mise en place et d'accompagnement au tri pour les professionnels producteurs de déchets, les entreprises ayant des collaborateurs déjeunant sur place, et les collectivités.\n\nL'objectif est d'effectuer un diagnostic des déchets alimentaires, comprendre leur origine, leur quantité et leur localisation. Feedbac fournit le matériel nécessaire et organise les collectes en fonction de la production, pouvant aller jusqu'à six fois par semaine. Ensuite, ils effectuent un suivi et fournissent des informations aux professionnels sur leur production de déchets.\n\nEn tant qu'intermédiaire, Feedbac travaille avec des professionnels de la valorisation qui transforment les déchets en compost, ensuite redistribué aux agriculteurs, aux espaces verts urbains et sur des plateformes de vente en ligne pour les particuliers.",
+    "en": "Feedbac specializes in food waste management, offering set-up and sorting support services for waste-producing professionals, companies with employees who lunch on site, and local authorities.\n\nThe aim is to diagnose food waste and understand its origin, quantity and location. Feedbac provides the necessary equipment and organizes collections according to production, up to six times a week. They then follow up and provide information to professionals on their waste production.\n\nAs an intermediary, Feedbac works with waste recovery professionals who transform the waste into compost, which is then redistributed to farmers, urban green spaces and online sales platforms for private individuals.",
+    "es": "Feedbac está especializada en la gestión de residuos alimentarios y ofrece servicios de instalación y ayuda a la clasificación para profesionales que producen residuos, empresas con empleados que almuerzan in situ y autoridades locales.\n\nEl objetivo es realizar un diagnóstico de los residuos alimentarios, conociendo su origen, cantidad y localización. Feedbac proporciona el equipo necesario y organiza las recogidas en función de la producción, hasta seis veces por semana. A continuación, realizan un seguimiento y facilitan información a los profesionales sobre su producción de residuos.\n\nComo intermediario, Feedbac trabaja con profesionales de la recuperación de residuos que los transforman en compost, que luego se redistribuye a agricultores, espacios verdes urbanos y plataformas de venta en línea para particulares.",
+    "de": "Feedbac hat sich auf die Entsorgung von Lebensmittelabfällen spezialisiert und bietet Dienstleistungen zur Einrichtung und Begleitung der Mülltrennung für abfallerzeugende Gewerbetreibende, Unternehmen mit Mitarbeitern, die dort zu Mittag essen, und Kommunen an.\n\nZiel ist es, eine Diagnose der Lebensmittelabfälle zu erstellen und deren Herkunft, Menge und Standort zu verstehen. Feedbac stellt die erforderliche Ausrüstung zur Verfügung und organisiert die Abholungen entsprechend der Produktion, die bis zu sechsmal pro Woche stattfinden können. Anschließend führen sie ein Monitoring durch und versorgen die Gewerbetreibenden mit Informationen über ihre Abfallproduktion.\n\nAls Vermittler arbeitet Feedbac mit professionellen Verwertern zusammen, die den Abfall zu Kompost verarbeiten, der dann an Landwirte, städtische Grünflächen und auf Online-Verkaufsplattformen für Privatpersonen weitergegeben wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Feedbac",
+  "name": {
+    "en": "Feedbac",
+    "fr": "Feedbac",
+    "es": "Feedbac",
+    "de": "Feedbac"
+  },
   "pubId": 444852,
   "score": 103.89999999999793,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "w0iyIUDuB9c",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530084,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1739530084
     }
   ],
-  "lastEvent": {
-    "at": 1739530084,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530084
-  ]
+  ],
+  "originalLang": "fr"
 }

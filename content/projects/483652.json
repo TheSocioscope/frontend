@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754910077,
   "date": null,
-  "description": "Les Récoltants is a unique initiative founded by three partners, focusing on a direct-from-producer restaurant model. Located in Bordeaux, it emphasizes seasonal, organic produce sourced from local farms. The project aims to enhance food traceability and sustainability by adapting menus based on available ingredients, fostering a close relationship with producers. By eliminating intermediaries, Les Récoltants supports local agriculture while offering customers fresh, diverse culinary experiences that celebrate regional flavors and biodiversity.",
+  "description": {
+    "en": "Les Récoltants is a unique initiative founded by three partners, focusing on a direct-from-producer restaurant model. Located in Bordeaux, it emphasizes seasonal, organic produce sourced from local farms. The project aims to enhance food traceability and sustainability by adapting menus based on available ingredients, fostering a close relationship with producers. By eliminating intermediaries, Les Récoltants supports local agriculture while offering customers fresh, diverse culinary experiences that celebrate regional flavors and biodiversity.",
+    "fr": "Les Récoltants est une initiative unique fondée par trois partenaires, qui se concentre sur un modèle de restaurant en direct des producteurs. Situé à Bordeaux, il met l'accent sur les produits biologiques de saison provenant d'exploitations agricoles locales. Le projet vise à améliorer la traçabilité et la durabilité des aliments en adaptant les menus en fonction des ingrédients disponibles et en favorisant une relation étroite avec les producteurs. En éliminant les intermédiaires, Les Récoltants soutient l'agriculture locale tout en offrant aux clients des expériences culinaires fraîches et diversifiées qui célèbrent les saveurs régionales et la biodiversité.",
+    "es": "Les Récoltants es una iniciativa única fundada por tres socios, que se centra en un modelo de restaurante directo del productor. Situado en Burdeos, hace hincapié en los productos ecológicos de temporada procedentes de granjas locales. El proyecto pretende mejorar la trazabilidad y sostenibilidad de los alimentos adaptando los menús a los ingredientes disponibles y fomentando una estrecha relación con los productores. Al eliminar intermediarios, Les Récoltants apoya la agricultura local al tiempo que ofrece a los clientes experiencias culinarias frescas y diversas que celebran los sabores regionales y la biodiversidad.",
+    "de": "Les Récoltants ist eine einzigartige Initiative, die von drei Partnern gegründet wurde und sich auf ein Restaurantmodell konzentriert, bei dem die Produkte direkt vom Erzeuger kommen. Das Restaurant mit Sitz in Bordeaux legt den Schwerpunkt auf saisonale, biologische Produkte, die von lokalen Bauernhöfen bezogen werden. Das Projekt zielt darauf ab, die Rückverfolgbarkeit und die Nachhaltigkeit von Lebensmitteln zu verbessern, indem die Speisekarten auf der Grundlage der verfügbaren Zutaten angepasst werden und eine enge Beziehung zu den Erzeugern gefördert wird. Durch den Wegfall von Zwischenhändlern unterstützt Les Récoltants die lokale Landwirtschaft und bietet seinen Gästen frische, vielfältige kulinarische Erlebnisse, die den regionalen Geschmack und die Artenvielfalt hervorheben."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Récoltants",
+  "name": {
+    "fr": "Les Récoltants",
+    "en": "The Harvesters",
+    "es": "Los segadores",
+    "de": "Die Erntehelfer"
+  },
   "pubId": 483652,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754569346,
   "date": null,
-  "description": "Eco Scapes is an innovative agroecological initiative. Established in 2015, it focuses on organic farming and wildlife conservation around Lake Naivasha. Eco Scapes combines organic vegetable production with wildlife conservation, operating on 150 acres, of which 20 are under organic cultivation. The farm aims to provide healthy food for local families while addressing environmental issues related to pesticide use and climate change.  The initiative also serves as a demonstration farm, showcasing diverse crops and offering educational opportunities to the community about organic farming and conservation efforts.",
+  "description": {
+    "en": "Eco Scapes is an innovative agro-ecological initiative. Established in 2015, it focuses on organic farming and wildlife conservation around Lake Naivasha. Eco Scapes combines organic vegetable production with wildlife conservation, operating on 150 acres, 20 of which are organically farmed. The farm aims to provide healthy food for local families while addressing environmental issues related to pesticide use and climate change.  The initiative also serves as a demonstration farm, showcasing various crops and providing educational opportunities to the community about organic farming and conservation efforts.",
+    "fr": "Eco Scapes est une initiative agro-écologique innovante. Créée en 2015, elle se concentre sur l'agriculture biologique et la conservation de la faune et de la flore autour du lac Naivasha. Eco Scapes combine la production de légumes biologiques avec la conservation de la faune et de la flore, opérant sur 150 acres, dont 20 sont cultivés biologiquement. La ferme a pour objectif de fournir des aliments sains aux familles locales tout en s'attaquant aux problèmes environnementaux liés à l'utilisation des pesticides et au changement climatique.  L'initiative sert également de ferme de démonstration, présentant diverses cultures et offrant à la communauté des possibilités d'éducation sur l'agriculture biologique et les efforts de conservation.",
+    "es": "Eco Scapes es una iniciativa agroecológica innovadora. Creada en 2015, se centra en la agricultura ecológica y la conservación de la vida salvaje en torno al lago Naivasha. Eco Scapes combina la producción ecológica de hortalizas con la conservación de la vida silvestre, operando en 150 acres, de los cuales 20 son de cultivo ecológico. El objetivo de la granja es proporcionar alimentos sanos a las familias locales al tiempo que se abordan cuestiones medioambientales relacionadas con el uso de pesticidas y el cambio climático.  La iniciativa también sirve como granja de demostración, que exhibe diversos cultivos y ofrece oportunidades educativas a la comunidad sobre agricultura ecológica y esfuerzos de conservación.",
+    "de": "Eco Scapes ist eine innovative agroökologische Initiative. Sie wurde 2015 gegründet und konzentriert sich auf organischen Landbau und Wildtierschutz in der Umgebung des Lake Naivasha. Eco Scapes verbindet organische Pflanzenproduktion mit dem Schutz von Wildtieren und ist auf 150 Acres tätig, von denen 20 unter organischem Anbau stehen. Der Betrieb zielt darauf ab, gesunde Lebensmittel für lokale Familien zu liefern und gleichzeitig Umweltprobleme im Zusammenhang mit dem Einsatz von Pestiziden und dem Klimawandel anzugehen.  Die Initiative dient auch als Demonstrationsbetrieb, der verschiedene Feldfrüchte vorführt und der Gemeinde Bildungsmöglichkeiten über den ökologischen Landbau und Naturschutzbemühungen bietet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eco Scapes",
+  "name": {
+    "it": "Eco Scapes",
+    "en": "Eco Scapes",
+    "fr": "Paysages écologiques",
+    "es": "Paisajes ecológicos",
+    "de": "Öko-Landschaften"
+  },
   "pubId": 473552,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

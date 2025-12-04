@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754504125,
   "date": null,
-  "description": "Honeyland is an innovative initiative focused on sustainable beekeeping and honey production. It emphasizes the development of genetically modified queen bees to enhance honey yield while promoting inclusivity in the industry, particularly for women. Founded by César Palacio, the project combines academic research with practical application, offering free knowledge sharing to aspiring beekeepers. Despite its potential, Honeyland faces challenges due to its reliance on a single individual and limited commercial viability.",
+  "description": {
+    "en": "Honeyland is an innovative initiative focused on sustainable beekeeping and honey production. It emphasizes the development of genetically modified queen bees to improve honey yields, while promoting inclusion in the sector, especially for women. Founded by César Palacio, the project combines academic research with practical application, offering free knowledge sharing to aspiring beekeepers. Despite its potential, Honeyland faces challenges due to its dependence on a single person and limited commercial viability.",
+    "fr": "Honeyland est une initiative innovante axée sur l'apiculture durable et la production de miel. Elle met l'accent sur le développement de reines d'abeilles génétiquement modifiées afin d'améliorer les rendements en miel, tout en favorisant l'intégration dans le secteur, en particulier pour les femmes. Fondé par César Palacio, le projet associe la recherche universitaire à l'application pratique, offrant un échange de connaissances gratuit aux apiculteurs en herbe. Malgré son potentiel, Honeyland est confronté à des difficultés liées à sa dépendance à l'égard d'une seule personne et à sa viabilité commerciale limitée.",
+    "es": "Honeyland es una iniciativa innovadora centrada en la apicultura y la producción de miel sostenibles. Hace hincapié en el desarrollo de abejas reinas modificadas genéticamente para mejorar el rendimiento de la miel, al tiempo que promueve la inclusión en el sector, especialmente de las mujeres. Fundado por César Palacio, el proyecto combina la investigación académica con la aplicación práctica, ofreciendo gratuitamente el intercambio de conocimientos a los aspirantes a apicultores. A pesar de su potencial, Honeyland se enfrenta a retos debidos a su dependencia de una sola persona y a su limitada viabilidad comercial.",
+    "de": "Honeyland ist eine innovative Initiative, die sich auf nachhaltige Bienenhaltung und Honigproduktion konzentriert. Sie konzentriert sich auf die Entwicklung genetisch veränderter Bienen, um die Honigproduktion zu steigern und gleichzeitig die Inklusivität in der Branche, insbesondere für Frauen, zu fördern. Das von César Palacio gegründete Projekt verbindet akademische Forschung mit praktischer Anwendung und bietet aufstrebenden Bienenhaltern einen kostenlosen Wissensaustausch. Trotz seines Potenzials hat Honeyland aufgrund seiner Abhängigkeit von einer Einzelperson und seiner begrenzten kommerziellen Tragfähigkeit mit Herausforderungen zu kämpfen."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Honeyland",
+  "name": {
+    "en": "Honeyland",
+    "fr": "Honeyland",
+    "es": "Honeyland",
+    "de": "Honeyland"
+  },
   "pubId": 469752,
   "score": 30.40974208718123,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

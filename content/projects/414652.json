@@ -12,7 +12,12 @@
   ],
   "createdAt": 1656402374,
   "date": null,
-  "description": "La thématique de l'emballage est un axe d'innovation de Vitagora pour répondre aux besoins de la filière agroalimentaire. Vitagora a souhaité travailler sur le système de réemploi des emballages en verre en Bourgogne Franche-Comté, hors bouteilles, avec le projet CircuVerreBFC. \nUne étude de faisabilité et un état des lieux ont permis d'étudier le contexte local, les acteurs à impliquer et les modèles économiques possibles et viables.\nL’objectif général de ce projet était de faire émerger une dynamique collective autour d’une filière de réemploi d’emballages en verre, et de structurer cette démarche à partir d’un état des lieux réalisé avec les  protagonistes de l’ensemble de la filière et d’une étude de faisabilité, en concertation et avec l’implication de toutes les parties.",
+  "description": {
+    "fr": "La thématique de l'emballage est un axe d'innovation de Vitagora pour répondre aux besoins de la filière agroalimentaire. Vitagora a souhaité travailler sur le système de réemploi des emballages en verre en Bourgogne Franche-Comté, hors bouteilles, avec le projet CircuVerreBFC. \nUne étude de faisabilité et un état des lieux ont permis d'étudier le contexte local, les acteurs à impliquer et les modèles économiques possibles et viables.\nL’objectif général de ce projet était de faire émerger une dynamique collective autour d’une filière de réemploi d’emballages en verre, et de structurer cette démarche à partir d’un état des lieux réalisé avec les  protagonistes de l’ensemble de la filière et d’une étude de faisabilité, en concertation et avec l’implication de toutes les parties.",
+    "en": "Packaging is one of Vitagora's key areas of innovation to meet the needs of the agri-food industry. With the CircuVerreBFC project, Vitagora decided to work on a system for reusing glass packaging in Burgundy Franche-Comté, excluding bottles.\nA feasibility study and an inventory of the situation enabled us to study the local context, the players to be involved and the possible, viable economic models.\nThe overall aim of this project was to create a collective dynamic around a glass packaging reuse sector, and to structure this approach on the basis of an inventory carried out with the protagonists of the entire sector and a feasibility study, in consultation and with the involvement of all parties.",
+    "es": "El envasado es uno de los principales ámbitos de innovación de Vitagora para responder a las necesidades de la industria agroalimentaria. Con el proyecto CircuVerreBFC, Vitagora ha querido trabajar en un sistema de reutilización de envases de vidrio en Borgoña Franco Condado, excluidas las botellas.\nUn estudio de viabilidad y un inventario de la situación permitieron estudiar el contexto local, los agentes que debían intervenir y los modelos económicos posibles y viables.\nEl objetivo general del proyecto era crear una dinámica colectiva en torno a un sector de reutilización de envases de vidrio y estructurar este enfoque a partir de un inventario realizado con los protagonistas de todo el sector y un estudio de viabilidad, en concertación y con la participación de todas las partes.",
+    "de": "Das Thema Verpackung ist ein Innovationsschwerpunkt von Vitagora, um den Bedürfnissen der Lebensmittelbranche gerecht zu werden. Vitagora wollte mit dem Projekt CircuVerreBFC an einem System zur Wiederverwendung von Glasverpackungen in der Region Bourgogne Franche-Comté arbeiten, die nicht aus Flaschen bestehen.\nIm Rahmen einer Machbarkeitsstudie und einer Bestandsaufnahme wurden der lokale Kontext, die zu beteiligenden Akteure sowie mögliche und tragfähige Wirtschaftsmodelle untersucht.\nDas allgemeine Ziel dieses Projekts bestand darin, eine kollektive Dynamik rund um eine Wiederverwendungskette für Glasverpackungen entstehen zu lassen und diesen Ansatz auf der Grundlage einer mit den Protagonisten der gesamten Kette durchgeführten Bestandsaufnahme und einer Machbarkeitsstudie in Absprache und unter Einbeziehung aller Parteien zu strukturieren."
+  },
   "field": [
     "ecology-environmental-sciences",
     "engineering-and-technology",
@@ -20,7 +25,13 @@
   ],
   "lang": "fr",
   "location": "Bourgogne Franche-Comté",
-  "name": "CircuVerreBFC",
+  "name": {
+    "it": "CircuVerreBFC",
+    "en": "CircuVerreBFC",
+    "fr": "CircuVerreBFC",
+    "es": "CircuVerreBFC",
+    "de": "CircuVerreBFC"
+  },
   "pubId": 414652,
   "score": 4122.328571428568,
   "state": "completed-project",
@@ -44,10 +55,6 @@
   ],
   "url": "https://www.vitagora.com/centre-de-veille/ressources/webinaire-cloture-ciruverre-inno/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1656406582,
   "feedback": [
     {
@@ -55,27 +62,8 @@
       "at": 1656406582
     }
   ],
-  "lastEvent": {
-    "at": 1656411716,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
   "updatedAt": [
     1656406582
   ],
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1656411716,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

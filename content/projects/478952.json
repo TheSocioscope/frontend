@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653620,
   "date": null,
-  "description": "Eko Land Produce is an eco-friendly export company based in Sri Lanka, specializing in organically grown spices such as pepper, cinnamon, and nutmeg. Founded during the pandemic, it aims to support local farmers by ensuring fair prices and sustainable practices. The initiative emphasizes environmental protection and community welfare, while also promoting agri-tourism. By integrating organic farming with eco-tourism, Eko Land seeks to showcase Sri Lanka's potential for high-quality spice production and foster a responsible supply chain.",
+  "description": {
+    "en": "Eko Land Produce is an eco-friendly export company based in Sri Lanka, specializing in organically grown spices such as pepper, cinnamon, and nutmeg. Founded during the pandemic, it aims to support local farmers by ensuring fair prices and sustainable practices. The initiative emphasizes environmental protection and community welfare, while also promoting agri-tourism. By integrating organic farming with eco-tourism, Eko Land seeks to showcase Sri Lanka's potential for high-quality spice production and foster a responsible supply chain.",
+    "fr": "Eko Land Produce est une société d'exportation respectueuse de l'environnement basée au Sri Lanka, spécialisée dans les épices cultivées de manière biologique, telles que le poivre, la cannelle et la noix de muscade. Fondée pendant la pandémie, elle vise à soutenir les agriculteurs locaux en leur garantissant des prix équitables et des pratiques durables. L'initiative met l'accent sur la protection de l'environnement et le bien-être de la communauté, tout en promouvant l'agrotourisme. En intégrant l'agriculture biologique à l'écotourisme, Eko Land cherche à mettre en valeur le potentiel du Sri Lanka en matière de production d'épices de haute qualité et à favoriser une chaîne d'approvisionnement responsable.",
+    "es": "Eko Land Produce es una empresa de exportación ecológica con sede en Sri Lanka, especializada en especias de cultivo ecológico como pimienta, canela y nuez moscada. Fundada durante la pandemia, su objetivo es apoyar a los agricultores locales garantizándoles precios justos y prácticas sostenibles. La iniciativa hace hincapié en la protección del medio ambiente y el bienestar de la comunidad, al tiempo que promueve el agroturismo. Al integrar la agricultura ecológica con el ecoturismo, Eko Land pretende mostrar el potencial de Sri Lanka para la producción de especias de alta calidad y fomentar una cadena de suministro responsable.",
+    "de": "Eko Land Produce ist ein umweltfreundliches Exportunternehmen mit Sitz in Sri Lanka, das sich auf biologisch angebaute Gewürze wie Pfeffer, Zimt und Muskatnuss spezialisiert hat. Das Unternehmen wurde während der Pandemie gegründet und hat sich zum Ziel gesetzt, die lokalen Landwirte zu unterstützen, indem es für faire Preise und nachhaltige Praktiken sorgt. Die Initiative legt den Schwerpunkt auf den Umweltschutz und das Wohlergehen der Gemeinschaft, fördert aber auch den Agrotourismus. Durch die Verbindung von ökologischem Landbau und Ökotourismus will Eko Land das Potenzial Sri Lankas für die Produktion hochwertiger Gewürze aufzeigen und eine verantwortungsvolle Lieferkette fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eko Land ",
+  "name": {
+    "en": "Eko Land",
+    "fr": "Eko Land ",
+    "es": "Eko Land",
+    "de": "Eko Land"
+  },
   "pubId": 478952,
   "score": 55.687898089172144,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739392815,
   "date": null,
-  "description": "Bandes de Cheffes is a social and eco-responsible catering initiative, aimed at providing paid employment to exiled women, particularly refugee cheffes. Established in September 2021, the initiative focuses on professional integration within a sustainable framework, emphasizing organic, local, and seasonal food sourcing, as well as minimizing waste and single-use packaging.\n\nThe organization operates as a service provider for events, catering to both corporate clients (B2B) and the general public (B2C), with a mission to raise awareness about sustainable catering and migration issues. It seeks to challenge stereotypes surrounding refugee women by showcasing their culinary skills through innovative adaptations of traditional recipes into high-quality offerings.\n\nBandes de Cheffes also emphasizes the personal and professional development of its chefs, encouraging them to take on various responsibilities beyond cooking, such as logistics and customer service. The initiative has formed partnerships with cultural institutions, where it provides brunch services and engages with the public to promote its mission.",
+  "description": {
+    "en": "Bandes de Cheffes is a social and eco-responsible catering initiative aimed at providing paid employment to exiled women, in particular refugee chefs. Created in September 2021, the initiative focuses on professional integration within a sustainable framework, with an emphasis on sourcing organic, local and seasonal food, as well as minimizing waste and single-use packaging. The organization operates as an event service provider, catering to both corporate clients (B2B) and the general public (B2C), with a mission to raise awareness of sustainable catering and migration issues. It aims to challenge stereotypes surrounding refugee women by showcasing their culinary skills through innovative adaptations of traditional recipes into high-quality offerings. Bandes de Cheffes also emphasizes the personal and professional development of its chefs, encouraging them to take on various responsibilities beyond the kitchen, such as logistics and customer service. The initiative has partnered with cultural institutions, where it offers brunch services and engages with the public to promote its mission.",
+    "fr": "Bandes de Cheffes est une initiative de restauration sociale et éco-responsable visant à fournir un emploi rémunéré aux femmes exilées, en particulier aux chefs cuisiniers réfugiés. Créée en septembre 2021, l'initiative se concentre sur l'intégration professionnelle dans un cadre durable, en mettant l'accent sur l'approvisionnement en aliments biologiques, locaux et de saison, ainsi que sur la réduction des déchets et des emballages à usage unique. L'organisation opère en tant que prestataire de services événementiels, servant à la fois des clients professionnels (B2B) et le grand public (B2C), avec une mission de sensibilisation à la restauration durable et aux questions de migration. Bandes de Cheffes met également l'accent sur le développement personnel et professionnel de ses chefs, en les encourageant à assumer diverses responsabilités au-delà de la cuisine, telles que la logistique et le service à la clientèle. L'initiative s'est associée à des institutions culturelles, où elle propose des services de brunch et s'engage auprès du public pour promouvoir sa mission.",
+    "es": "Bandes de Cheffes es una iniciativa de restauración social y eco-responsable, destinada a proporcionar empleo remunerado a mujeres exiliadas, en particular a cheffes refugiadas. Creada en septiembre de 2021, la iniciativa se centra en la integración profesional dentro de un marco sostenible, haciendo hincapié en el abastecimiento de alimentos orgánicos, locales y de temporada, así como en la minimización de residuos y envases de un solo uso.\n\nLa organización opera como proveedor de servicios para eventos, atendiendo tanto a clientes corporativos (B2B) como al público en general (B2C), con la misión de concienciar sobre la restauración sostenible y las cuestiones migratorias. Su objetivo es cuestionar los estereotipos que rodean a las mujeres refugiadas mostrando sus habilidades culinarias a través de adaptaciones innovadoras de recetas tradicionales en ofertas de alta calidad.\n\nBandes de Cheffes también hace hincapié en el desarrollo personal y profesional de sus chefs, animándoles a asumir diversas responsabilidades más allá de la cocina, como la logística y el servicio al cliente. La iniciativa se ha asociado con instituciones culturales, donde ofrece servicios de brunch y se relaciona con el público para promover su misión.",
+    "de": "Bandes de Cheffes ist eine soziale und öko-responsible Catering-Initiative, die darauf abzielt, exilierten Frauen, insbesondere Flüchtlingsköchinnen, bezahlte Arbeit zu verschaffen. Die Initiative, die im September 2021 gegründet wurde, konzentriert sich auf die berufliche Integration innerhalb eines nachhaltigen Rahmens und betont die organische, lokale und saisonale Beschaffung von Lebensmitteln sowie die Minimierung von Abfall und Einwegverpackungen.\n\nDie Organisation fungiert als Dienstleister für Veranstaltungen, der sowohl Unternehmenskunden (B2B) als auch die breite Öffentlichkeit (B2C) bewirtet, mit dem Ziel, das Bewusstsein für nachhaltiges Catering und Migrationsfragen zu schärfen. Sie fordert die stereotypen Vorstellungen von Flüchtlingsfrauen heraus, indem sie ihre kulinarischen Fähigkeiten durch innovative Anpassungen traditioneller Rezepte in qualitativ hochwertige Angebote demonstriert.\n\nBandes de Cheffes betont auch die persönliche und berufliche Entwicklung ihrer Köche und ermutigt sie, über das Kochen hinaus verschiedene Aufgaben wie Logistik und Kundenservice zu übernehmen. Die Initiative hat Partnerschaften mit kulturellen Einrichtungen geschlossen, wo sie Brunch-Dienste anbietet und sich an die Öffentlichkeit wendet, um ihre Mission zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Bande de Cheffes",
+  "name": {
+    "fr": "Bande de Cheffes",
+    "en": "Band of Cheffes",
+    "es": "Banda de Cheffes",
+    "de": "Cheffes-Bande"
+  },
   "pubId": 446452,
   "score": 624.4107843137251,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://bande-de-cheffes.eatbu.com/?lang=fr",
   "yt": "C_KungcwLPw",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

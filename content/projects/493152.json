@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755002722,
   "date": null,
-  "description": "Frigorífico Manu, established in 1985 in Puerto Maldonado, Peru, is a family-owned meat production company focused on ensuring the safety and quality of meat protein. Under the leadership of Paul Pacheco, the company has grown significantly, achieving sales of approximately 54 million soles in 2024. Committed to environmental sustainability, Frigorífico Manu is working towards zero carbon meat certification and collaborates with various stakeholders, including universities and government entities, to enhance its practices.",
+  "description": {
+    "en": "Frigorífico Manu, established in 1985 in Puerto Maldonado, Peru, is a family-owned meat production company focused on ensuring the safety and quality of meat protein. Under the leadership of Paul Pacheco, the company has grown significantly, achieving sales of approximately 54 million soles in 2024. Committed to environmental sustainability, Frigorífico Manu is working towards zero carbon meat certification and collaborates with various stakeholders, including universities and government entities, to enhance its practices.",
+    "fr": "Frigorífico Manu, créée en 1985 à Puerto Maldonado, au Pérou, est une entreprise familiale de production de viande dont l'objectif est de garantir la sécurité et la qualité des protéines de viande. Sous la direction de Paul Pacheco, l'entreprise s'est considérablement développée, atteignant un chiffre d'affaires d'environ 54 millions de soles en 2024. Engagée dans la durabilité environnementale, Frigorífico Manu s'efforce d'obtenir la certification \"viande sans carbone\" et collabore avec diverses parties prenantes, notamment des universités et des entités gouvernementales, afin d'améliorer ses pratiques.",
+    "es": "Frigorífico Manu, fundada en 1985 en Puerto Maldonado, Perú, es una empresa familiar de producción de carne centrada en garantizar la seguridad y la calidad de la proteína cárnica. Bajo el liderazgo de Paul Pacheco, la empresa ha crecido significativamente, alcanzando ventas de aproximadamente 54 millones de soles en 2024. Comprometido con la sostenibilidad medioambiental, Frigorífico Manu trabaja para conseguir la certificación de carne con cero emisiones de carbono y colabora con diversas partes interesadas, incluidas universidades y entidades gubernamentales, para mejorar sus prácticas.",
+    "de": "Frigorífico Manu wurde 1985 in Puerto Maldonado, Peru, gegründet und ist ein Fleischproduktionsunternehmen in Familienbesitz, das sich auf die Gewährleistung der Sicherheit und Qualität von Fleischeiweiß konzentriert. Unter der Leitung von Paul Pacheco ist das Unternehmen erheblich gewachsen und hat im Jahr 2024 einen Umsatz von rund 54 Millionen Soles erzielt. Frigorífico Manu hat sich der ökologischen Nachhaltigkeit verschrieben, strebt eine Zertifizierung für kohlenstofffreies Fleisch an und arbeitet mit verschiedenen Interessengruppen, darunter Universitäten und Regierungsstellen, zusammen, um seine Verfahren zu verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Frigorifico Manu",
+  "name": {
+    "it": "Frigorifico Manu",
+    "en": "Manu Refrigeration",
+    "fr": "Manu Refrigeration",
+    "es": "Manu Refrigeración",
+    "de": "Manu Kältetechnik"
+  },
   "pubId": 493152,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

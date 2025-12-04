@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754574871,
   "date": null,
-  "description": "Wangechi Kuria focuses on promoting agricultural innovation, sustainability, and sustainable food systems among local consumers and small-scale farmers in Kenya. The initiative aims to empower these communities, particularly young people, by sharing knowledge and practical solutions that enhance climate resilience and improve income. Wangechi Kuria emphasizes the importance of accessible information, addressing the gaps in understanding agricultural practices and sustainability concepts.  The initiative seeks to create a global impact, particularly in the Global South, by fostering conversations around food systems and encouraging communities to leverage their existing resources for sustainable development.",
+  "description": {
+    "en": "Wangechi Kuria focuses on promoting agricultural innovation, sustainability and sustainable food systems among local consumers and smallholder farmers in Kenya. The initiative aims to empower these communities, especially the youth, by sharing knowledge and practical solutions that increase climate resilience and improve incomes. Wangechi Kuria emphasizes the importance of accessible information, which addresses existing gaps in the understanding of agricultural practices and sustainability concepts.  The initiative seeks to create global impact, particularly in the Global South, by fostering conversations around food systems and encouraging communities to leverage their existing resources for sustainable development.",
+    "fr": "Wangechi Kuria se concentre sur la promotion de l'innovation agricole, de la durabilité et des systèmes alimentaires durables parmi les consommateurs locaux et les petits exploitants agricoles au Kenya. L'initiative vise à responsabiliser ces communautés, en particulier les jeunes, en partageant des connaissances et des solutions pratiques qui renforcent la résilience climatique et améliorent les revenus. Wangechi Kuria souligne l'importance d'une information accessible, qui comble les lacunes existantes dans la compréhension des pratiques agricoles et des concepts de durabilité.  L'initiative cherche à avoir un impact global, en particulier dans les pays du Sud, en favorisant les conversations autour des systèmes alimentaires et en encourageant les communautés à exploiter leurs ressources existantes pour le développement durable.",
+    "es": "Wangechi Kuria se centra en promover la innovación agrícola, la sostenibilidad y los sistemas alimentarios sostenibles entre los consumidores locales y los pequeños agricultores de Kenia. La iniciativa pretende empoderar a estas comunidades, sobre todo a los jóvenes, compartiendo conocimientos y soluciones prácticas que aumenten la resiliencia climática y mejoren los ingresos. Wangechi Kuria hace hincapié en la importancia de una información accesible, que aborde las lagunas existentes en la comprensión de las prácticas agrícolas y los conceptos de sostenibilidad.  La iniciativa busca crear un impacto global, particularmente en el Sur Global, fomentando conversaciones en torno a los sistemas alimentarios y animando a las comunidades a aprovechar sus recursos existentes para el desarrollo sostenible.",
+    "de": "Wangechi Kuria konzentriert sich auf die Förderung von landwirtschaftlicher Innovation, Nachhaltigkeit und nachhaltigen Lebensmittelsystemen unter lokalen Verbrauchern und Kleinbauern in Kenia. Die Initiative zielt darauf ab, diese Gemeinschaften, insbesondere junge Menschen, durch die Weitergabe von Wissen und praktischen Lösungen zu stärken, die die Klimaresistenz erhöhen und das Einkommen verbessern. Wangechi Kuria betont die Bedeutung zugänglicher Informationen, die die Lücken im Verständnis von landwirtschaftlichen Praktiken und Nachhaltigkeitskonzepten adressieren.  Die Initiative strebt eine globale Wirkung an, insbesondere im Globalen Süden, indem sie Gespräche über Ernährungssysteme fördert und Gemeinden dazu ermutigt, ihre vorhandenen Ressourcen für eine nachhaltige Entwicklung zu nutzen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Wangechi Kuria",
+  "name": {
+    "id": "Wangechi Kuria",
+    "en": "Wangechi Kuria",
+    "fr": "Wangechi Kuria",
+    "es": "Wangechi Kuria",
+    "de": "Wangechi Kuria"
+  },
   "pubId": 474652,
   "score": 46.89192114123524,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "NKD-81R8hd8",
-  "zone": [
-    1,
-    5
-  ],
   "editedAt": 1755737177,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1755737177
     }
   ],
-  "lastEvent": {
-    "at": 1755737177,
-    "by": "contact"
-  },
   "updatedAt": [
     1755737177
-  ]
+  ],
+  "originalLang": "fr"
 }

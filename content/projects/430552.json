@@ -13,7 +13,12 @@
   ],
   "createdAt": 1687432823,
   "date": null,
-  "description": "Caresà is a type B social cooperative (NGO) and social farm established in 2008 whose primary aim is to help and integrate adults with disabilities into the world of work through organic farming. It has vegetable fields, greenhouses, a farmhouse and a sales point. Its agriculture methods are devoted to proper water management, crop rotation, production suspension with the green manure technique, and oriented towards more and better production in terms of both quality and quantity. Caresà produces 50-60 vegetable varieties per year and has a total area of 22 hectares. Four of them are oriented towards the production of ancient grains, the grains of which are milled by third-party mills with stone grinders and the flour used and sold in Caresà. 70% of the horticultural production is sold at the point of sale, 15% is sold wholesale and the remainder is used by the farm. Caresà is one of the most eminent social farms in the Veneto region and its members were students at the Practice Based Itinerant School in Organic Farming and were apprentices of Luca Conte and Andrea Giubilato. ",
+  "description": {
+    "en": "Caresà is a social cooperative (NGO) type B and a social farm created in 2008 whose main objective is to help and integrate adults with disabilities into the world of work through organic farming. It has vegetable fields, greenhouses, a farm and a point of sale. Its agricultural methods are dedicated to proper water management, crop rotation, suspension of production with the green manure technique, and are oriented towards more and better production in terms of both quality and quantity. Caresà produces between 50 and 60 varieties of vegetables per year and has a total area of 22 hectares. Four of them are oriented to the production of ancient cereals, whose grains are milled by third-party mills with stone grinders and the flour used and sold in Caresà. Seventy percent of the horticultural production is sold at the point of sale, 15% is sold wholesale and the rest is used by the farm. Caresà is one of the most eminent social farms in the Veneto region and its members were students of the Itinerant Practical School of Organic Farming and apprentices of Luca Conte and Andrea Giubilato.",
+    "fr": "Caresà est une coopérative sociale (ONG) de type B et une ferme sociale créée en 2008 dont l'objectif principal est d'aider et d'intégrer des adultes handicapés dans le monde du travail par le biais de l'agriculture biologique. Elle dispose de champs de légumes, de serres, d'une ferme et d'un point de vente. Ses méthodes agricoles sont axées sur une bonne gestion de l'eau, la rotation des cultures, la suspension de la production avec la technique de l'engrais vert, et visent à produire plus et mieux, tant en termes de qualité que de quantité. Caresà produit entre 50 et 60 variétés de légumes par an et dispose d'une superficie totale de 22 hectares. Quatre d'entre eux sont orientés vers la production de céréales anciennes, dont les grains sont moulus par des moulins tiers avec des meules en pierre et la farine utilisée et vendue à Caresà. Soixante-dix pour cent de la production horticole est vendue au point de vente, 15 % est vendue en gros et le reste est utilisé par l'exploitation. Caresà est l'une des fermes sociales les plus éminentes de la région de Vénétie et ses membres étaient des élèves de l'école pratique itinérante d'agriculture biologique et des apprentis de Luca Conte et d'Andrea Giubilato.",
+    "es": "Caresà es una cooperativa social (ONG) de tipo B y una granja social creada en 2008 cuyo objetivo principal es ayudar e integrar a adultos con discapacidad en el mundo laboral a través de la agricultura ecológica. Cuenta con campos de hortalizas, invernaderos, una granja y un punto de venta. Sus métodos agrícolas se dedican a la gestión adecuada del agua, la rotación de cultivos, la suspensión de la producción con la técnica del abono verde, y se orientan hacia una mayor y mejor producción tanto en términos de calidad como de cantidad. Caresà produce entre 50 y 60 variedades de hortalizas al año y cuenta con una superficie total de 22 hectáreas. Cuatro de ellas están orientadas a la producción de cereales antiguos, cuyos granos son molidos por molinos de terceros con muelas de piedra y la harina utilizada y vendida en Caresà. El 70% de la producción hortícola se vende en el punto de venta, el 15% se vende al por mayor y el resto es utilizado por la explotación. Caresà es una de las granjas sociales más eminentes de la región del Véneto y sus miembros fueron alumnos de la Escuela Itinerante Práctica de Agricultura Ecológica y aprendices de Luca Conte y Andrea Giubilato.",
+    "de": "Caresà ist eine 2008 gegründete Typ-B-Sozialgenossenschaft (NGO) und ein sozialer Bauernhof, dessen Hauptziel darin besteht, Erwachsenen mit Behinderungen durch organischen Landbau zu helfen und sie in die Arbeitswelt zu integrieren. Sie verfügt über Gemüsefelder, Greenhouses, ein Farmhaus und eine Verkaufsstelle. Seine landwirtschaftlichen Methoden sind der ordnungsgemäßen Wasserwirtschaft, der Fruchtfolge, der Aussetzung der Produktion mit der Technik der grünen Gülle gewidmet und auf mehr und bessere Produktion in Bezug auf Qualität und Quantität ausgerichtet. Caresà produziert 50-60 Gemüsesorten pro Jahr und hat eine Gesamtfläche von 22 Hektar. Vier davon sind auf die Produktion von altem Getreide ausgerichtet, dessen Körner von Drittparteien mit Steinschleifern gemahlen werden und dessen Mehl in Caresà verwendet und verkauft wird. 70% der Gartenbauproduktion werden am Verkaufsort verkauft, 15% werden im Großhandel verkauft und der Rest wird auf dem Hof verwendet. Caresà ist einer der prominentesten sozialen Bauernhöfe in der Region Venetien und seine Mitglieder waren Studenten der Practice Based Itinerant School in Organic Farming und Lehrlinge von Luca Conte und Andrea Giubilato."
+  },
   "field": [
     "biology",
     "sociology",
@@ -22,7 +27,13 @@
   ],
   "lang": "fr",
   "location": "Veneto, Brugine (PD)",
-  "name": "Società Cooperativa Sociale Agricola Caresà",
+  "name": {
+    "it": "Società Cooperativa Sociale Agricola Caresà",
+    "en": "Caresà Agricultural Cooperative Society",
+    "fr": "Société coopérative agricole et sociale de Caresà",
+    "es": "Sociedad Cooperativa Social Agrícola Caresà",
+    "de": "Landwirtschaftliche Sozialgenossenschaft Caresà"
+  },
   "pubId": 430552,
   "score": -2487.015317132209,
   "state": "ongoing-project",
@@ -46,8 +57,5 @@
   ],
   "url": "https://www.caresa.it/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

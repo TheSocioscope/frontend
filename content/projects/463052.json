@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754423028,
   "date": null,
-  "description": "La Troja, a family-owned business in Oncativo, Córdoba, has been dedicated to adding value to Argentine grains for over 25 years. Founded by Lucas Marín Salda and his father, the company specializes in deactivated soya and a variety of plant-based ingredients, including gluten-free flours. They export to countries like Chile and Uruguay and are developing new business units, including legume flours and gluten-free products. Committed to sustainability and innovation, La Troja aims to enhance the food chain by providing high-quality, differentiated products for both domestic and international markets.",
+  "description": {
+    "en": "La Troja, a family-owned company in Oncativo, Córdoba, has been dedicated to adding value to Argentine grains for more than 25 years. Founded by Lucas Marín Salda and his father, the company specializes in deactivated soybeans and various plant-based ingredients, including gluten-free flours. It exports to countries such as Chile and Uruguay and is developing new business units, such as pulse flours and gluten-free products. Committed to sustainability and innovation, La Troja aims to improve the food chain by offering high quality and differentiated products for domestic and international markets.",
+    "fr": "La Troja, une entreprise familiale située à Oncativo, dans la province de Córdoba, se consacre depuis plus de 25 ans à la valorisation des céréales argentines. Fondée par Lucas Marín Salda et son père, l'entreprise est spécialisée dans le soja désactivé et divers ingrédients d'origine végétale, y compris les farines sans gluten. Elle exporte vers des pays tels que le Chili et l'Uruguay et développe de nouvelles unités commerciales, telles que les farines de légumineuses et les produits sans gluten. Engagée dans le développement durable et l'innovation, La Troja vise à améliorer la chaîne alimentaire en offrant des produits de haute qualité et différenciés pour les marchés nationaux et internationaux.",
+    "es": "La Troja, una empresa familiar de Oncativo, Córdoba, lleva más de 25 años dedicada a añadir valor a los cereales argentinos. Fundada por Lucas Marín Salda y su padre, la empresa está especializada en soja desactivada y diversos ingredientes de origen vegetal, incluidas harinas sin gluten. Exporta a países como Chile y Uruguay y está desarrollando nuevas unidades de negocio, como harinas de legumbres y productos sin gluten. Comprometida con la sostenibilidad y la innovación, La Troja aspira a mejorar la cadena alimentaria ofreciendo productos de alta calidad y diferenciados para los mercados nacional e internacional.",
+    "de": "La Troja, ein familiengeführtes Unternehmen in Oncativo, Córdoba, widmet sich seit über 25 Jahren der Wertsteigerung von argentinischem Getreide. Das von Lucas Marín Salda und seinem Vater gegründete Unternehmen spezialisiert sich auf deaktivierten Soja und eine Vielzahl von pflanzlichen Zutaten, darunter glutenfreie Flours. Das Unternehmen exportiert in Länder wie Chile und Uruguay und baut neue Geschäftsbereiche auf, darunter Gemüseflocken und glutenfreie Produkte. La Troja ist der Nachhaltigkeit und Innovation verpflichtet und möchte die Lebensmittelkette durch die Bereitstellung hochwertiger, differenzierter Produkte für den inländischen und internationalen Markt verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Troja",
+  "name": {
+    "en": "La Troja",
+    "fr": "La Troja",
+    "es": "La Troja",
+    "de": "La Troja"
+  },
   "pubId": 463052,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

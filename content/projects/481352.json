@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754993928,
   "date": null,
-  "description": "The initiative, Santo Aroma, focuses on transforming cocoa into high-quality chocolate products, providing farmers with a sustainable alternative to traditional coffee cultivation. Shifting from coffee to cocoa due to climate challenges, the project emphasizes local production, artisanal methods, and community engagement. By participating in fairs and leveraging family expertise, Santo Aroma aims to enhance visibility and market reach, promoting healthy chocolate options while supporting the local economy.",
+  "description": {
+    "en": "The initiative, Santo Aroma, focuses on transforming cocoa into high-quality chocolate products, providing farmers with a sustainable alternative to traditional coffee cultivation. Shifting from coffee to cocoa due to climate challenges, the project emphasizes local production, artisanal methods, and community engagement. By participating in fairs and leveraging family expertise, Santo Aroma aims to enhance visibility and market reach, promoting healthy chocolate options while supporting the local economy.",
+    "fr": "L'initiative Santo Aroma se concentre sur la transformation du cacao en produits chocolatés de haute qualité, offrant aux agriculteurs une alternative durable à la culture traditionnelle du café. Passant du café au cacao en raison des défis climatiques, le projet met l'accent sur la production locale, les méthodes artisanales et l'engagement communautaire. En participant à des foires et en tirant parti de l'expertise familiale, Santo Aroma vise à améliorer la visibilité et la portée du marché, en promouvant des options de chocolat saines tout en soutenant l'économie locale.",
+    "es": "La iniciativa, Santo Aroma, se centra en transformar el cacao en productos de chocolate de alta calidad, proporcionando a los agricultores una alternativa sostenible al cultivo tradicional del café. Al pasar del café al cacao debido a los problemas climáticos, el proyecto hace hincapié en la producción local, los métodos artesanales y la participación de la comunidad. Participando en ferias y aprovechando la experiencia familiar, Santo Aroma pretende aumentar la visibilidad y el alcance del mercado, promoviendo opciones saludables de chocolate y apoyando al mismo tiempo la economía local.",
+    "de": "Die Initiative Santo Aroma konzentriert sich auf die Verarbeitung von Kakao zu hochwertigen Schokoladenprodukten und bietet den Bauern eine nachhaltige Alternative zum traditionellen Kaffeeanbau. Das Projekt, das aufgrund der klimatischen Herausforderungen von Kaffee auf Kakao umgestellt wurde, legt den Schwerpunkt auf lokale Produktion, handwerkliche Methoden und das Engagement der Gemeinschaft. Durch die Teilnahme an Messen und die Nutzung des Fachwissens der Familie will Santo Aroma die Sichtbarkeit und die Marktreichweite erhöhen, gesunde Schokoladenoptionen fördern und gleichzeitig die lokale Wirtschaft unterstützen."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Santo Aroma ",
+  "name": {
+    "pt": "Santo Aroma ",
+    "en": "Santo Aroma",
+    "fr": "Santo Aroma",
+    "es": "Santo Aroma",
+    "de": "Santo Aroma"
+  },
   "pubId": 481352,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

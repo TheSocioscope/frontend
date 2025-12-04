@@ -13,14 +13,24 @@
   "date": [
     "2021-04-24"
   ],
-  "description": "COOP14 est un magasin coopératif, citoyen et engagé, ouvert en 2021, qui fonctionne grâce à plus de 200 bénévoles (données début 2023). Il est situé au 70 boulevard Jourdan dans le 14e arrondissement de Paris (métro Porte d'Orléans). \n\nIl est tourné vers les produits locaux, bio et responsables à faible impact environnemental. Les coopérateurs maîtrisent mieux la chaîne d'approvisionnement des produits que dans un modèle de distribution classique, ce qui permet de sélectionner des produits au plus près de leurs valeurs. Les produits vendus dans le magasin sont achetés soit auprès de grossistes sélectionnés, soit en direct producteur. Le modèle coopératif, qui prend la forme juridique d'une SCIC, assure la prise en compte de l'avis de tous dans les décisions de la coopérative. ",
+  "description": {
+    "fr": "COOP14 est un magasin coopératif, citoyen et engagé, ouvert en 2021, qui fonctionne grâce à plus de 200 bénévoles (données début 2023). Il est situé au 70 boulevard Jourdan dans le 14e arrondissement de Paris (métro Porte d'Orléans). \n\nIl est tourné vers les produits locaux, bio et responsables à faible impact environnemental. Les coopérateurs maîtrisent mieux la chaîne d'approvisionnement des produits que dans un modèle de distribution classique, ce qui permet de sélectionner des produits au plus près de leurs valeurs. Les produits vendus dans le magasin sont achetés soit auprès de grossistes sélectionnés, soit en direct producteur. Le modèle coopératif, qui prend la forme juridique d'une SCIC, assure la prise en compte de l'avis de tous dans les décisions de la coopérative. ",
+    "en": "COOP14 is a cooperative, civic-minded and committed store, opening in 2021, and run by over 200 volunteers (data from early 2023). It is located at 70 boulevard Jourdan in the 14th arrondissement of Paris (metro Porte d'Orléans).\n\nIt focuses on local, organic and responsible produce with low environmental impact. Co-operators have greater control over the product supply chain than in a conventional distribution model, enabling them to select products that are as close to their values as possible. Products sold in the store are purchased either from selected wholesalers or direct from the producer. The cooperative model, which takes the legal form of a SCIC, ensures that everyone's opinion is taken into account in the cooperative's decisions.",
+    "es": "COOP14 es una tienda cooperativa, cívica y comprometida que abrirá sus puertas en 2021, gestionada por más de 200 voluntarios (cifras de principios de 2023). Está situada en el 70 del bulevar Jourdan, en el distrito 14 de París (estación de metro Porte d'Orléans).\n\nSe centra en productos locales, ecológicos y responsables con bajo impacto ambiental. Los cooperativistas tienen un mayor control sobre la cadena de suministro de productos que en un modelo de distribución tradicional, lo que les permite seleccionar productos lo más cercanos posible a sus valores. Los productos que se venden en la tienda se compran a mayoristas seleccionados o directamente al productor. El modelo cooperativo, que adopta la forma jurídica de SCIC, garantiza que la opinión de todos se tenga en cuenta en las decisiones de la cooperativa.",
+    "de": "COOP14 ist ein genossenschaftlicher, bürgerschaftlicher und engagierter Laden, der 2021 eröffnet wird und mithilfe von über 200 Freiwilligen funktioniert (Angaben Anfang 2023). Er befindet sich am 70 Boulevard Jourdan im 14. Arrondissement von Paris (Metro Porte d'Orléans).\n\nEr ist auf lokale, biologische und verantwortungsvolle Produkte mit geringen Auswirkungen auf die Umwelt ausgerichtet. Die Genossenschaftsmitglieder haben die Lieferkette der Produkte besser im Griff als bei einem herkömmlichen Vertriebsmodell, sodass sie Produkte auswählen können, die ihren Werten am nächsten kommen. Die im Laden verkauften Produkte werden entweder von ausgewählten Großhändlern oder direkt von den Erzeugern gekauft. Das Genossenschaftsmodell, das die Rechtsform einer SCIC annimmt, gewährleistet, dass die Meinung aller in die Entscheidungen der Genossenschaft einfließt."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "fr",
   "location": "Paris",
-  "name": "COOP14",
+  "name": {
+    "en": "COOP14",
+    "fr": "COOP14",
+    "es": "COOP14",
+    "de": "COOP14"
+  },
   "pubId": 437652,
   "score": 388.4277777777792,
   "state": "completed-project",
@@ -51,27 +61,6 @@
   ],
   "url": "coop14.fr",
   "yt": "",
-  "zone": [
-    3
-  ],
-  "lastEvent": {
-    "at": 1698243205,
-    "by": "contact"
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1681468116,
-      "content": null
-    }
-  ],
   "editedAt": 1698243205,
   "feedback": [
     {
@@ -81,5 +70,6 @@
   ],
   "updatedAt": [
     1698243205
-  ]
+  ],
+  "originalLang": "fr"
 }

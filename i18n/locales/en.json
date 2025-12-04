@@ -6,6 +6,11 @@
     "partners": "Partners",
     "contact": "Contact"
   },
+  "labels": {
+    "fields": "Fields",
+    "thematics": "Thematics",
+    "types": "Types"
+  },
   "hero": {
     "title": "THE SOCIOSCOPE",
     "subtitle": "Seeing How Societies Transform",
@@ -552,8 +557,15 @@
     "filterByStatus": "Filter by status",
     "contact": "Contact",
     "website": "Website",
-    "projectsFound": "projects found",
+    "projectsFound": "No projects found | One project found | {count} projects found",
     "search": "Search projects",
-    "geography": "Geography"
+    "geography": "Geography",
+    "continentsLabel": "Continents",
+    "countriesLabel": "Countries",
+    "loading": "Loading project...",
+    "translationDisclaimer": "This content has been automatically translated to {language}.",
+    "viewInOriginal": "View in {language}",
+    "viewingOriginal": "Viewing content in original language ({language}).",
+    "viewTranslated": "View translation"
   }
 }

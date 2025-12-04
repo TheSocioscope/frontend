@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403621,
   "date": null,
-  "description": "Divina Papaya is a women-led social bio-enterprise focused on creating dehydrated foods from plants and edible flowers. Committed to holistic health, the initiative promotes regenerative agroecological practices that benefit both consumers and the land. Collaborating with organizations like the World Food Programme, Divina Papaya aims to strengthen agroecological supply chains and foster food sustainability, while also advocating for the conservation of biodiversity and the empowerment of local communities in Ecuador.",
+  "description": {
+    "en": "Divina Papaya is a women-led social bioenterprise dedicated to creating dehydrated foods from edible plants and flowers. Committed to holistic health, the initiative promotes regenerative agroecological practices that benefit both consumers and the earth. In collaboration with organizations such as the World Food Program, Divina Papaya aims to strengthen agroecological supply chains and promote food sustainability, while advocating for biodiversity conservation and empowering local communities in Ecuador.",
+    "fr": "Divina Papaya est une bio-entreprise sociale dirigée par des femmes qui se consacre à la création d'aliments déshydratés à partir de plantes et de fleurs comestibles. Engagée en faveur de la santé holistique, l'initiative promeut des pratiques agroécologiques régénératrices qui profitent à la fois aux consommateurs et à la terre. En collaboration avec des organisations telles que le Programme alimentaire mondial, Divina Papaya vise à renforcer les chaînes d'approvisionnement agroécologiques et à promouvoir la durabilité alimentaire, tout en plaidant en faveur de la conservation de la biodiversité et de l'autonomisation des communautés locales en Équateur.",
+    "es": "Divina Papaya es una bioempresa social dirigida por mujeres que se dedica a crear alimentos deshidratados a partir de plantas y flores comestibles. Comprometida con la salud integral, la iniciativa promueve prácticas agroecológicas regenerativas que benefician tanto a los consumidores como a la tierra. En colaboración con organizaciones como el Programa Mundial de Alimentos, Divina Papaya pretende reforzar las cadenas de suministro agroecológicas y fomentar la sostenibilidad alimentaria, al tiempo que aboga por la conservación de la biodiversidad y la capacitación de las comunidades locales de Ecuador.",
+    "de": "Divina Papaya ist ein frauengeführtes soziales Bio-Unternehmen, das sich auf die Herstellung von Trockenfutter aus Pflanzen und essbaren Blumen konzentriert. Die der ganzheitlichen Gesundheit verpflichtete Initiative fördert regenerative agroökologische Praktiken, die sowohl den Verbrauchern als auch dem Land zugutekommen. Divina Papaya arbeitet mit Organisationen wie dem Welternährungsprogramm zusammen, um die agroökologischen Versorgungsketten zu stärken und die Nachhaltigkeit der Ernährung zu fördern, während sie sich gleichzeitig für die Erhaltung der biologischen Vielfalt und die Stärkung der lokalen Gemeinschaften in Ecuador einsetzt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Divina Papaya",
+  "name": {
+    "es": "Divina Papaya",
+    "en": "Divine Papaya",
+    "fr": "Papaye divine",
+    "de": "Göttliche Papaya"
+  },
   "pubId": 459852,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

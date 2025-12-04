@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718366601,
   "date": null,
-  "description": "Nona est une initiative qui a pour objectif d'outiller les cuisiniers de la restauration collective pour les aider à optimiser leur fonctionnement et à proposer une alimentation plus durable grâce à un logiciel de gestion.\n\nL'ambition de Nona est de tirer parti du potentiel considérable de la restauration collective en France, où 7 enfants sur 10 sont concernés, soit 14 millions de repas par jour, représentant 3,4 milliards de repas par an et 12% des repas consommés en France chaque année. Nona vise à répondre aux attentes des citoyens et aux exigences réglementaires, notamment celles des lois EGAlim 1 et 2, du climat et de la résilience, ainsi que des décrets associés.\n",
+  "description": {
+    "fr": "Nona est une initiative qui a pour objectif d'outiller les cuisiniers de la restauration collective pour les aider à optimiser leur fonctionnement et à proposer une alimentation plus durable grâce à un logiciel de gestion.\n\nL'ambition de Nona est de tirer parti du potentiel considérable de la restauration collective en France, où 7 enfants sur 10 sont concernés, soit 14 millions de repas par jour, représentant 3,4 milliards de repas par an et 12% des repas consommés en France chaque année. Nona vise à répondre aux attentes des citoyens et aux exigences réglementaires, notamment celles des lois EGAlim 1 et 2, du climat et de la résilience, ainsi que des décrets associés.\n",
+    "en": "Nona is an initiative aimed at equipping cooks in the catering industry with management software to help them optimize their operations and offer more sustainable food.\n\nNona's ambition is to capitalize on the considerable potential of collective catering in France, where 7 out of 10 children are involved, or 14 million meals a day, representing 3.4 billion meals a year and 12% of meals consumed in France every year. Nona aims to meet the expectations of citizens and regulatory requirements, notably those of the EGAlim 1 and 2, climate and resilience laws, and associated decrees.\n",
+    "es": "Nona es una iniciativa diseñada para proporcionar a los cocineros del sector de la restauración un software de gestión que les ayude a optimizar sus operaciones y ofrecer alimentos más sostenibles.\n\nLa ambición de Nona es aprovechar el considerable potencial de la restauración colectiva en Francia, donde participan 7 de cada 10 niños, lo que representa 14 millones de comidas al día, es decir, 3.400 millones de comidas al año y el 12% de las comidas consumidas en Francia cada año. Nona pretende responder a las expectativas del público y a las exigencias reglamentarias, en particular las de las leyes EGAlim 1 y 2, sobre el clima y la resiliencia, y los decretos asociados.\n",
+    "de": "Nona ist eine Initiative, die Köchen in der Gemeinschaftsverpflegung das nötige Rüstzeug an die Hand geben will, damit sie ihre Betriebsabläufe optimieren und mithilfe einer Verwaltungssoftware nachhaltigere Lebensmittel anbieten können.\n\nNona hat den Ehrgeiz, das beträchtliche Potenzial der Gemeinschaftsverpflegung in Frankreich zu nutzen, wo 7 von 10 Kindern betroffen sind, was 14 Millionen Mahlzeiten pro Tag, 3,4 Milliarden Mahlzeiten pro Jahr und 12 % der jährlich in Frankreich verzehrten Mahlzeiten entspricht. Nona soll die Erwartungen der Bürger und die regulatorischen Anforderungen erfüllen, insbesondere die Gesetze EGAlim 1 und 2, Klima und Resilienz sowie die dazugehörigen Dekrete.\n"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nona",
+  "name": {
+    "en": "Nona",
+    "fr": "Nona",
+    "es": "Nona",
+    "de": "Nona"
+  },
   "pubId": 444952,
   "score": 225.60000000000227,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754673056,
   "date": null,
-  "description": "Pescartes is an association of artisanal fishermen in Cabo de Gata, Spain, representing small-scale fishers who use sustainable practices. Established 18 years ago, it aims to amplify the voices of these fishermen in discussions with authorities, particularly regarding fishing regulations and marine conservation. The association faces challenges, including limited access to decision-making tables and funding, while striving to preserve traditional fishing knowledge and promote local seafood within the community.",
+  "description": {
+    "en": "Pescartes is an association of artisanal fishermen from Cabo de Gata (Spain) that represents small-scale fishermen using sustainable practices. Created 18 years ago, its objective is to make the voice of these fishermen heard in discussions with the authorities, especially in relation to fishing regulations and marine conservation. The association faces challenges such as limited access to decision-making tables and funding, while striving to preserve traditional fishing knowledge and promote local seafood within the community.",
+    "fr": "Pescartes est une association de pêcheurs artisanaux de Cabo de Gata (Espagne) qui représente les petits pêcheurs utilisant des pratiques durables. Créée il y a 18 ans, son objectif est de faire entendre la voix de ces pêcheurs dans les discussions avec les autorités, notamment en ce qui concerne la réglementation de la pêche et la conservation du milieu marin. L'association est confrontée à des défis tels que l'accès limité aux tables de décision et au financement, tout en s'efforçant de préserver les connaissances traditionnelles en matière de pêche et de promouvoir les produits de la mer locaux au sein de la communauté.",
+    "es": "Pescartes es una asociación de pescadores artesanales de Cabo de Gata (España) que representa a los pescadores a pequeña escala que utilizan prácticas sostenibles. Creada hace 18 años, su objetivo es hacer oír la voz de estos pescadores en los debates con las autoridades, sobre todo en relación con la normativa pesquera y la conservación marina. La asociación se enfrenta a retos como el acceso limitado a las mesas de toma de decisiones y a la financiación, al tiempo que se esfuerza por preservar los conocimientos pesqueros tradicionales y promover los productos del mar locales dentro de la comunidad.",
+    "de": "Pescartes ist eine Vereinigung von handwerklichen Fischern in Cabo de Gata, Spanien, die kleinbäuerliche Fischer vertritt, die nachhaltige Praktiken anwenden. Die vor 18 Jahren gegründete Organisation zielt darauf ab, die Stimmen dieser Fischer in Gesprächen mit den Behörden zu verstärken, insbesondere in Bezug auf Fischereiregelungen und den Schutz der Meere. Der Verband steht vor Herausforderungen, darunter ein begrenzter Zugang zu Entscheidungstischen und Finanzmitteln, und bemüht sich gleichzeitig um die Erhaltung des traditionellen Fischfangwissens und die Förderung des lokalen Seafoods in der Gemeinde."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pescartes",
+  "name": {
+    "en": "Peccartes",
+    "fr": "Pescartes",
+    "es": "Peccartes",
+    "de": "Pescartes"
+  },
   "pubId": 471352,
   "score": -44.495912361627965,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

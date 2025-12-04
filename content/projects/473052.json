@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754568353,
   "date": null,
-  "description": "Zuhura Solutions is an innovative initiative focused on creating smart street vending trolleys, known as the Hallease Trolley, to empower food vendors in Kenya. These trolleys utilize renewable energy, including solar power and ethanol, to provide a sustainable cooking solution while enhancing food safety and hygiene. By offering a pay-as-you-go model, Zuhura enables vendors to transition from charcoal to cleaner energy, ultimately improving their income and contributing to environmental sustainability.",
+  "description": {
+    "en": "Zuhura Solutions is an innovative initiative focused on creating smart street vending carts, known as Hallease carts, to empower food vendors in Kenya. These carts use renewable energy, such as solar power and ethanol, to provide a sustainable cooking solution while improving food safety and hygiene. By offering a pay-as-you-go model, Zuhura enables vendors to switch from charcoal to cleaner energy, ultimately improving their income and contributing to environmental sustainability.",
+    "fr": "Zuhura Solutions est une initiative innovante axée sur la création de chariots de vente de rue intelligents, connus sous le nom de chariots Hallease, afin d'autonomiser les vendeurs de nourriture au Kenya. Ces chariots utilisent des énergies renouvelables, telles que l'énergie solaire et l'éthanol, pour fournir une solution de cuisson durable tout en améliorant la sécurité et l'hygiène alimentaires. En proposant un modèle de paiement à l'utilisation, Zuhura permet aux vendeurs de passer du charbon de bois à une énergie plus propre, ce qui améliore leurs revenus et contribue à la durabilité de l'environnement.",
+    "es": "Zuhura Solutions es una iniciativa innovadora centrada en la creación de carritos inteligentes de venta ambulante, conocidos como carritos Hallease, para empoderar a los vendedores de alimentos de Kenia. Estos carritos utilizan energías renovables, como la energía solar y el etanol, para ofrecer una solución de cocina sostenible al tiempo que mejoran la seguridad y la higiene de los alimentos. Al ofrecer un modelo de pago por uso, Zuhura permite a los vendedores pasar del carbón vegetal a una energía más limpia, mejorando en última instancia sus ingresos y contribuyendo a la sostenibilidad medioambiental.",
+    "de": "Zuhura Solutions ist eine innovative Initiative, die sich auf die Entwicklung intelligenter Straßenverkaufstrolleys, den sogenannten Hallease Trolley, konzentriert, um die Lebensmittelverkäufer in Kenia zu stärken. Diese Trolleys nutzen erneuerbare Energie, einschließlich Solarenergie und Ethanol, um eine nachhaltige Kochlösung zu bieten und gleichzeitig die Lebensmittelsicherheit und -hygiene zu verbessern. Durch das Angebot eines Pay-as-you-go-Modells ermöglicht Zuhura den Verkäufern den Übergang von Kohle zu sauberer Energie, was letztendlich ihr Einkommen verbessert und zur ökologischen Nachhaltigkeit beiträgt."
+  },
   "field": [
     "engineering-and-technology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zuhura Solutions",
+  "name": {
+    "en": "Zuhura Solutions",
+    "fr": "Zuhura Solutions",
+    "es": "Soluciones Zuhura",
+    "de": "Zuhura Lösungen"
+  },
   "pubId": 473052,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

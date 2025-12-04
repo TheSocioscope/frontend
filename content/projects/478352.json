@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754651298,
   "date": null,
-  "description": "The Terre et Humanisme Maroc association, founded in 2005, focuses on promoting agroecology and sustainable agriculture in Morocco. With a commitment to respecting all living beings, the initiative trains farmers in sustainable practices, preserves local seeds, and enhances food security. The association also emphasizes education, working with various age groups to foster knowledge about ecological farming. By integrating traditional methods with modern science, it aims to create resilient rural communities and safeguard natural resources.",
+  "description": {
+    "en": "The Terre et Humanisme Maroc association, founded in 2005, focuses on promoting agroecology and sustainable agriculture in Morocco. With a commitment to respecting all living beings, the initiative trains farmers in sustainable practices, preserves local seeds, and enhances food security. The association also emphasizes education, working with various age groups to foster knowledge about ecological farming. By integrating traditional methods with modern science, it aims to create resilient rural communities and safeguard natural resources.",
+    "fr": "L'association Terre et Humanisme Maroc, fondée en 2005, se concentre sur la promotion de l'agroécologie et de l'agriculture durable au Maroc. Dans le respect de tous les êtres vivants, l'initiative forme les agriculteurs à des pratiques durables, préserve les semences locales et renforce la sécurité alimentaire. L'association met également l'accent sur l'éducation, en travaillant avec différents groupes d'âge pour favoriser la connaissance de l'agriculture écologique. En intégrant les méthodes traditionnelles à la science moderne, elle vise à créer des communautés rurales résilientes et à sauvegarder les ressources naturelles.",
+    "es": "La asociación Terre et Humanisme Maroc, fundada en 2005, se dedica a promover la agroecología y la agricultura sostenible en Marruecos. Con el compromiso de respetar a todos los seres vivos, la iniciativa forma a los agricultores en prácticas sostenibles, preserva las semillas locales y mejora la seguridad alimentaria. La asociación también hace hincapié en la educación, trabajando con diversos grupos de edad para fomentar el conocimiento de la agricultura ecológica. Al integrar los métodos tradicionales con la ciencia moderna, pretende crear comunidades rurales resistentes y salvaguardar los recursos naturales.",
+    "de": "Der 2005 gegründete Verein Terre et Humanisme Maroc setzt sich für die Förderung der Agrarökologie und der nachhaltigen Landwirtschaft in Marokko ein. Mit der Verpflichtung, alle Lebewesen zu respektieren, schult die Initiative Landwirte in nachhaltigen Praktiken, bewahrt lokales Saatgut und verbessert die Ernährungssicherheit. Die Vereinigung legt auch großen Wert auf Bildung und arbeitet mit verschiedenen Altersgruppen zusammen, um das Wissen über ökologische Landwirtschaft zu fördern. Durch die Verknüpfung traditioneller Methoden mit moderner Wissenschaft sollen widerstandsfähige ländliche Gemeinschaften geschaffen und die natürlichen Ressourcen geschützt werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Terre et Humanisme",
+  "name": {
+    "fr": "Terre et Humanisme",
+    "en": "Terre et Humanisme",
+    "es": "Tierra y Humanismo",
+    "de": "Erde und Humanismus"
+  },
   "pubId": 478352,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    2,
-    2
-  ]
+  "originalLang": "fr"
 }

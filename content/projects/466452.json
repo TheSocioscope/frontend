@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754477825,
   "date": null,
-  "description": "The initiative, Verdenergia, is a community-focused project in Costa Rica that combines sustainable farming with a vision for a healthy lifestyle. Co-owned by Joshua and a group of friends and family, it aims to regenerate the land while fostering positive relationships with local farmers. The project emphasizes permaculture practices, community engagement, and educational opportunities, all while promoting biodiversity and food security. Verdana serves as a model for integrating ecological sustainability with social responsibility.",
+  "description": {
+    "en": "The initiative, Verdenergia, is a community-centered project in Costa Rica that combines sustainable agriculture with the vision of a healthy lifestyle. Co-owned by Joshua and a group of friends and family, it aims to regenerate the land while fostering positive relationships with local farmers. The project emphasizes permaculture practices, community involvement and educational opportunities while promoting biodiversity and food security. Verdana serves as a model for integrating ecological sustainability with social responsibility.",
+    "fr": "L'initiative, Verdenergia, est un projet communautaire au Costa Rica qui associe l'agriculture durable à la vision d'un mode de vie sain. Copropriété de Joshua et d'un groupe d'amis et de membres de sa famille, elle vise à régénérer la terre tout en favorisant des relations positives avec les agriculteurs locaux. Le projet met l'accent sur les pratiques de permaculture, l'implication de la communauté et les possibilités d'éducation, tout en promouvant la biodiversité et la sécurité alimentaire. Verdana est un modèle d'intégration de la durabilité écologique et de la responsabilité sociale.",
+    "es": "La iniciativa, Verdenergia, es un proyecto centrado en la comunidad de Costa Rica que combina la agricultura sostenible con la visión de un estilo de vida saludable. Copropiedad de Joshua y un grupo de amigos y familiares, su objetivo es regenerar la tierra al tiempo que se fomentan las relaciones positivas con los agricultores locales. El proyecto hace hincapié en las prácticas de permacultura, la participación de la comunidad y las oportunidades educativas, al tiempo que promueve la biodiversidad y la seguridad alimentaria. Verdana sirve de modelo para integrar la sostenibilidad ecológica con la responsabilidad social.",
+    "de": "Die Initiative, Verdenergia, ist ein gemeindebasiertes Projekt in Costa Rica, das nachhaltige Landwirtschaft mit einer Vision für einen gesunden Lebensstil verbindet. Das von Joshua und einer Gruppe von Freunden und Familie mitbetriebene Projekt zielt darauf ab, das Land zu regenerieren und dabei positive Beziehungen zu lokalen Bauern zu fördern. Das Projekt betont Permakultur-Praktiken, kommunales Engagement und Bildungsmöglichkeiten, während es gleichzeitig die Artenvielfalt und die Lebensmittelsicherheit fördert. Verdana dient als Modell für die Integration von ökologischer Nachhaltigkeit und sozialer Verantwortung."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Verdenergia",
+  "name": {
+    "de": "Verdenergia",
+    "en": "Verdenergia",
+    "fr": "Verdenergia",
+    "es": "Verdenergia"
+  },
   "pubId": 466452,
   "score": 71.88356030934725,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

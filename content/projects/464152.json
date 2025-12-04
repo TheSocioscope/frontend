@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754426701,
   "date": null,
-  "description": "The Ecas initiative, established 12 years ago, aims to connect local farmers with consumers in Greater Buenos Aires, providing affordable, healthy produce. It began with a small group transporting vegetables to a neighborhood fair and has evolved into a cooperative that supports local producers while ensuring fair pricing for consumers. Ecas focuses on strengthening the agricultural sector, promoting agroecological practices, and creating sustainable livelihoods for both farmers and community members.",
+  "description": {
+    "en": "The Ecas initiative, created 12 years ago, aims to connect local farmers with consumers in Greater Buenos Aires, providing them with affordable and healthy produce. It started with a small group transporting vegetables to a neighborhood fair and has evolved into a cooperative that supports local producers while ensuring fair prices for consumers. Ecas focuses on strengthening the agricultural sector, promoting agroecological practices and creating sustainable livelihoods for both farmers and community members.",
+    "fr": "L'initiative Ecas, créée il y a 12 ans, vise à mettre en relation les agriculteurs locaux et les consommateurs du Grand Buenos Aires, en leur fournissant des produits sains et abordables. Au départ, un petit groupe transportait des légumes pour une foire de quartier. L'initiative s'est transformée en une coopérative qui soutient les producteurs locaux tout en garantissant des prix équitables aux consommateurs. Ecas se concentre sur le renforcement du secteur agricole, la promotion des pratiques agro-écologiques et la création de moyens de subsistance durables pour les agriculteurs et les membres de la communauté.",
+    "es": "La iniciativa Ecas, creada hace 12 años, pretende conectar a los agricultores locales con los consumidores del Gran Buenos Aires, proporcionándoles productos asequibles y saludables. Empezó con un pequeño grupo que transportaba verduras a una feria de barrio y ha evolucionado hasta convertirse en una cooperativa que apoya a los productores locales al tiempo que garantiza precios justos para los consumidores. Ecas se centra en fortalecer el sector agrícola, promover prácticas agroecológicas y crear medios de vida sostenibles tanto para los agricultores como para los miembros de la comunidad.",
+    "de": "Die Ecas-Initiative, die vor 12 Jahren gegründet wurde, zielt darauf ab, lokale Bauern mit Verbrauchern in Greater Buenos Aires zu verbinden und erschwingliche, gesunde Produkte anzubieten. Es begann mit einer kleinen Gruppe, die Gemüse zu einer Nachbarschaftsmesse transportierte, und hat sich zu einer Genossenschaft entwickelt, die lokale Produzenten unterstützt und gleichzeitig faire Preise für die Verbraucher sicherstellt. Ecas konzentriert sich auf die Stärkung des Agrarsektors, die Förderung agroökologischer Praktiken und die Schaffung nachhaltiger Lebensgrundlagen für Landwirte und Gemeindemitglieder."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ecas",
+  "name": {
+    "en": "Ecas",
+    "fr": "Ecas",
+    "es": "Ecas",
+    "de": "Ecas"
+  },
   "pubId": 464152,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

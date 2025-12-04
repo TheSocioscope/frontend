@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754652555,
   "date": null,
-  "description": "MAD Agriculture is an organization dedicated to helping farmers transition to regenerative agriculture through three main pillars: MAD Lands, which offers land management advice; MAD Capital, providing flexible financing solutions; and MAD Markets, connecting farmers with buyers interested in sustainable produce. By fostering a community-oriented approach, MAD Agriculture aims to create a supportive ecosystem for farmers while promoting environmental sustainability and resilience in agriculture.",
+  "description": {
+    "en": "MAD Agriculture is an organization dedicated to helping farmers transition to regenerative agriculture through three main pillars: MAD Lands, which offers land management advice; MAD Capital, providing flexible financing solutions; and MAD Markets, connecting farmers with buyers interested in sustainable produce. By fostering a community-oriented approach, MAD Agriculture aims to create a supportive ecosystem for farmers while promoting environmental sustainability and resilience in agriculture.",
+    "fr": "MAD Agriculture est une organisation qui a pour mission d'aider les agriculteurs à passer à une agriculture régénératrice en s'appuyant sur trois piliers principaux : MAD Lands, qui offre des conseils en matière de gestion des terres ; MAD Capital, qui propose des solutions de financement flexibles ; et MAD Markets, qui met en relation les agriculteurs et les acheteurs intéressés par les produits durables. En favorisant une approche orientée vers la communauté, MAD Agriculture vise à créer un écosystème de soutien pour les agriculteurs tout en promouvant la durabilité environnementale et la résilience dans l'agriculture.",
+    "es": "MAD Agriculture es una organización dedicada a ayudar a los agricultores en su transición hacia una agricultura regenerativa a través de tres pilares principales: MAD Lands, que ofrece asesoramiento sobre gestión de tierras; MAD Capital, que proporciona soluciones de financiación flexibles; y MAD Markets, que conecta a los agricultores con compradores interesados en productos sostenibles. Mediante el fomento de un enfoque orientado a la comunidad, MAD Agriculture pretende crear un ecosistema de apoyo para los agricultores al tiempo que promueve la sostenibilidad medioambiental y la resiliencia en la agricultura.",
+    "de": "MAD Agriculture ist eine Organisation, die Landwirten bei der Umstellung auf eine regenerative Landwirtschaft hilft und sich dabei auf drei Säulen stützt: MAD Lands, das Beratung zur Landbewirtschaftung anbietet, MAD Capital, das flexible Finanzierungslösungen bereitstellt, und MAD Markets, das Landwirte mit Käufern zusammenbringt, die an nachhaltigen Produkten interessiert sind. Durch die Förderung eines gemeinschaftsorientierten Ansatzes will MAD Agriculture ein unterstützendes Ökosystem für Landwirte schaffen und gleichzeitig die ökologische Nachhaltigkeit und Widerstandsfähigkeit der Landwirtschaft fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "MAD Agriculture ",
+  "name": {
+    "en": "MAD Agriculture ",
+    "fr": "MAD Agriculture",
+    "es": "MAD Agricultura",
+    "de": "MAD Landwirtschaft"
+  },
   "pubId": 478452,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "en"
 }

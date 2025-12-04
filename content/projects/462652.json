@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754567090,
   "date": null,
-  "description": "The TESO Women Development Initiative focuses on empowering local communities in Uganda through sustainable practices. They recycle agricultural waste into clean cooking briquettes, provide capacity building for smallholder farmers, and develop irrigation systems using locally sourced materials. The initiative also promotes women's financial literacy through savings groups and supports the production of improved cooking stoves. By enhancing food security and resilience, they aim to improve household nutrition and reduce deforestation.",
+  "description": {
+    "en": "TESO's Women's Development Initiative focuses on empowering local communities in Uganda through sustainable practices. They recycle agricultural waste into clean briquettes for cooking, train smallholder farmers and develop irrigation systems using local materials. The initiative also promotes financial education for women through savings groups and supports the production of improved cookstoves. By increasing food security and resilience, they aim to improve household nutrition and reduce deforestation.",
+    "fr": "L'initiative de développement des femmes de TESO se concentre sur l'autonomisation des communautés locales en Ouganda par le biais de pratiques durables. Ils recyclent les déchets agricoles en briquettes propres pour la cuisine, forment les petits exploitants agricoles et développent des systèmes d'irrigation en utilisant des matériaux locaux. L'initiative promeut également l'éducation financière des femmes par le biais de groupes d'épargne et soutient la production de fourneaux améliorés. En renforçant la sécurité alimentaire et la résilience, elle vise à améliorer la nutrition des ménages et à réduire la déforestation.",
+    "es": "La Iniciativa de Desarrollo de la Mujer de TESO se centra en capacitar a las comunidades locales de Uganda mediante prácticas sostenibles. Reciclan residuos agrícolas para convertirlos en briquetas limpias para cocinar, capacitan a pequeños agricultores y desarrollan sistemas de riego con materiales locales. La iniciativa también promueve la educación financiera de las mujeres a través de grupos de ahorro y apoya la producción de cocinas mejoradas. Al aumentar la seguridad alimentaria y la resiliencia, pretenden mejorar la nutrición de los hogares y reducir la deforestación.",
+    "de": "Die TESO Women Development Initiative konzentriert sich auf die Stärkung lokaler Gemeinschaften in Uganda durch nachhaltige Praktiken. Sie recyceln landwirtschaftliche Abfälle zu sauberen Kochbriketts, bauen Kapazitäten für Kleinbauern auf und entwickeln Bewässerungssysteme aus lokal gewonnenen Materialien. Die Initiative fördert außerdem die Finanzkompetenz von Frauen durch Spargruppen und unterstützt die Produktion von verbesserten Kochöfen. Durch die Verbesserung der Ernährungssicherheit und der Widerstandsfähigkeit sollen die Ernährung der Haushalte verbessert und die Entwaldung verringert werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "TESO Women Development Initiative",
+  "name": {
+    "en": "TESO Women Development Initiative",
+    "fr": "TESO Women Development Initiative",
+    "es": "Iniciativa TESO para el desarrollo de la mujer",
+    "de": "TESO Women Development Initiative"
+  },
   "pubId": 462652,
   "score": -48.16472956592904,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

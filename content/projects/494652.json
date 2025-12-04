@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755006744,
   "date": null,
-  "description": "The Janus Integrating Rural Project, initiated by two agronomists, aims to revitalize abandoned agricultural land in the Alto Valle de Río Negro, Neuquén. Established in 2009, the project focuses on biodynamic and agroecological practices to produce healthy food while promoting rural living. By fostering community-supported agriculture (CSA), Janus connects urban consumers with local farmers, encouraging sustainable practices and enhancing the relationship between cities and the countryside.    ",
+  "description": {
+    "en": "The Janus Integrating Rural Project, initiated by two agronomists, aims to revitalize abandoned agricultural land in the Alto Valle de Río Negro, Neuquén. Established in 2009, the project focuses on biodynamic and agroecological practices to produce healthy food while promoting rural living. By fostering community-supported agriculture (CSA), Janus connects urban consumers with local farmers, encouraging sustainable practices and enhancing the relationship between cities and the countryside.    ",
+    "fr": "Le projet Janus Integrating Rural, initié par deux agronomes, vise à revitaliser les terres agricoles abandonnées dans l'Alto Valle de Río Negro, à Neuquén. Établi en 2009, le projet se concentre sur les pratiques biodynamiques et agroécologiques pour produire des aliments sains tout en promouvant la vie rurale. En encourageant l'agriculture soutenue par la communauté (CSA), Janus met en relation les consommateurs urbains avec les agriculteurs locaux, encourageant ainsi les pratiques durables et renforçant la relation entre les villes et les campagnes.    ",
+    "es": "El Proyecto Rural Integrador Janus, iniciado por dos agrónomos, tiene como objetivo revitalizar tierras agrícolas abandonadas en el Alto Valle de Río Negro, Neuquén. Creado en 2009, el proyecto se centra en prácticas biodinámicas y agroecológicas para producir alimentos sanos y promover la vida rural. Mediante el fomento de la agricultura apoyada por la comunidad (CSA), Janus conecta a los consumidores urbanos con los agricultores locales, fomentando prácticas sostenibles y mejorando la relación entre las ciudades y el campo.    ",
+    "de": "Das von zwei Agrarwissenschaftlern initiierte Projekt Janus Integrating Rural Project zielt auf die Wiederbelebung verlassener landwirtschaftlicher Flächen im Alto Valle de Río Negro, Neuquén. Das 2009 gegründete Projekt konzentriert sich auf biodynamische und agrarökologische Praktiken, um gesunde Lebensmittel zu erzeugen und gleichzeitig das Leben auf dem Land zu fördern. Durch die Förderung der gemeinschaftsgetragenen Landwirtschaft (CSA) bringt Janus die städtischen Verbraucher mit den örtlichen Landwirten zusammen, fördert nachhaltige Praktiken und verbessert die Beziehung zwischen Stadt und Land.    "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Janus",
+  "name": {
+    "en": "Janus",
+    "fr": "Janus",
+    "es": "Janus",
+    "de": "Janus"
+  },
   "pubId": 494652,
   "score": -59.86027323992614,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

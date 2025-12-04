@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754566685,
   "date": null,
-  "description": "Zoe Farms and Fisheries, founded in 2021, began as a small backyard garden, growing vegetables for home consumption, and has grown into a thriving four-acre farm. The initiative focuses on vegetable farming and community empowerment, particularly for women, by providing training and resources. By reinvesting profits, the farm aims to combat hunger and improve food security in the community, while also addressing gender-based violence through economic independence.                                   ",
+  "description": {
+    "en": "Zoe Farms and Fisheries, founded in 2021, started as a small backyard garden, growing vegetables for home consumption, and has grown into a thriving four-acre farm. The initiative focuses on growing vegetables and empowering the community, particularly women, by providing them with training and resources. By reinvesting profits, the farm aims to combat hunger and improve food security in the community, while addressing gender-based violence through economic independence.                                   ",
+    "fr": "Zoe Farms and Fisheries, fondée en 2021, a commencé comme un petit jardin d'arrière-cour, cultivant des légumes pour la consommation domestique, et s'est transformée en une ferme prospère de quatre acres. L'initiative se concentre sur la culture de légumes et l'autonomisation de la communauté, en particulier des femmes, en leur fournissant une formation et des ressources. En réinvestissant les bénéfices, la ferme vise à lutter contre la faim et à améliorer la sécurité alimentaire de la communauté, tout en s'attaquant à la violence sexiste par le biais de l'indépendance économique.                                   ",
+    "es": "Zoe Farms and Fisheries, fundada en 2021, empezó como un pequeño huerto en el patio trasero, cultivando hortalizas para consumo doméstico, y ha crecido hasta convertirse en una próspera granja de cuatro acres. La iniciativa se centra en el cultivo de hortalizas y el empoderamiento de la comunidad, en particular de las mujeres, proporcionándoles formación y recursos. Mediante la reinversión de los beneficios, la granja pretende combatir el hambre y mejorar la seguridad alimentaria de la comunidad, al tiempo que aborda la violencia de género a través de la independencia económica.                                   ",
+    "de": "Zoe Farms and Fisheries, gegründet 2021, begann als kleiner Hinterhofgarten, in dem Gemüse für den Hausgebrauch angebaut wurde, und hat sich zu einem dreistöckigen Vier-Acker-Hof entwickelt. Die Initiative konzentriert sich auf den Gemüseanbau und die Stärkung der Gemeinschaft, insbesondere von Frauen, durch die Bereitstellung von Schulungen und Ressourcen. Durch die Reinvestition von Gewinnen will die Farm den Hunger bekämpfen und die Ernährungssicherheit in der Gemeinde verbessern, wobei auch die Bekämpfung von geschlechtsspezifischer Gewalt durch wirtschaftliche Unabhängigkeit im Vordergrund steht.                                   "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zoe Farms",
+  "name": {
+    "en": "Zoe Farms",
+    "fr": "Zoe Farms",
+    "es": "Granjas Zoe",
+    "de": "Zoe Farms"
+  },
   "pubId": 462452,
   "score": 96.4,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "qGCYgATLuyU",
-  "zone": [
-    1,
-    5
-  ],
   "editedAt": 1755737263,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755737263
     }
   ],
-  "lastEvent": {
-    "at": 1755737263,
-    "by": "contact"
-  },
   "updatedAt": [
     1755737263
-  ]
+  ],
+  "originalLang": "fr"
 }

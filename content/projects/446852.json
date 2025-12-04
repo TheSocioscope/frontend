@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739451043,
   "date": null,
-  "description": "Reffettorio Paris is a cultural and artistic initiative that operates as a solidarity restaurant. The project aims to provide high-quality meals to individuals in vulnerable or precarious situations, referred to as \"guests.\" The restaurant serves semi-gastronomic meals prepared by volunteer chefs, focusing on dignity and conviviality by offering a seated dining experience rather than traditional soup kitchen-style service.\n\nBeyond meal provision, Reffettorio Paris also engages in educational activities, offering workshops and cultural visits to museums, thereby intertwining food with art. The initiative relies on a network of over 450 associations, private sponsors, and volunteers, fostering a community spirit while addressing the growing issue of food insecurity. The project aims to restore dignity to its guests through the experience of enjoying gourmet meals in a restaurant setting, while also tackling the challenges of funding and resource management in the face of increasing demand for food aid.",
+  "description": {
+    "en": "Reffettorio Paris is a cultural and artistic initiative that functions as a solidarity restaurant. The project aims to offer high quality meals to people in vulnerable or precarious situations, called \"guests\". The restaurant serves semi-gastronomic meals prepared by volunteer cooks, focusing on dignity and conviviality by offering a seated dining experience rather than traditional soup kitchen-style service. In addition to providing meals, Reffettorio Paris also engages in educational activities, offering workshops and cultural visits to museums, thus intertwining food with art. The initiative relies on a network of more than 450 associations, private sponsors and volunteers, fostering community spirit while addressing the growing problem of food insecurity. The project aims to restore dignity to its guests through the experience of enjoying gourmet meals in a restaurant, while addressing the challenges of funding and resource management in the face of growing demand for food aid.",
+    "fr": "Reffettorio Paris est une initiative culturelle et artistique qui fonctionne comme un restaurant solidaire. Le projet vise à offrir des repas de haute qualité aux personnes en situation de vulnérabilité ou de précarité, appelées \"hôtes\". Le restaurant sert des repas semi-gastronomiques préparés par des cuisiniers bénévoles, privilégiant la dignité et la convivialité en offrant une expérience de repas assis plutôt qu'un service traditionnel de type soupe populaire. En plus de fournir des repas, Reffettorio Paris s'engage également dans des activités éducatives, en proposant des ateliers et des visites culturelles dans des musées, mêlant ainsi l'alimentation à l'art. L'initiative s'appuie sur un réseau de plus de 450 associations, sponsors privés et bénévoles, encourageant l'esprit communautaire tout en s'attaquant au problème croissant de l'insécurité alimentaire. Le projet vise à redonner de la dignité à ses hôtes en leur permettant de déguster des repas gastronomiques dans un restaurant, tout en relevant les défis du financement et de la gestion des ressources face à la demande croissante d'aide alimentaire.",
+    "es": "Reffettorio Paris es una iniciativa cultural y artística que funciona como restaurante solidario. El proyecto pretende ofrecer comidas de alta calidad a personas en situación vulnerable o precaria, denominadas \"huéspedes\". El restaurante sirve comidas semigastronómicas preparadas por cocineros voluntarios, centrándose en la dignidad y la convivencia al ofrecer una experiencia gastronómica sentados en lugar de un servicio tradicional al estilo de los comedores de beneficencia.\n\nAdemás de ofrecer comidas, Reffettorio Paris también participa en actividades educativas, ofreciendo talleres y visitas culturales a museos, entrelazando así la comida con el arte. La iniciativa cuenta con una red de más de 450 asociaciones, patrocinadores privados y voluntarios, que fomentan el espíritu de comunidad al tiempo que abordan el creciente problema de la inseguridad alimentaria. El proyecto pretende devolver la dignidad a sus huéspedes a través de la experiencia de disfrutar de comidas gourmet en un restaurante, al tiempo que aborda los retos de la financiación y la gestión de recursos ante la creciente demanda de ayuda alimentaria.",
+    "de": "Reffettorio Paris ist eine kulturelle und künstlerische Initiative, die als solidarisches Restaurant betrieben wird. Das Projekt zielt darauf ab, Menschen in vulnerablen oder prekären Situationen, die als \"Gäste\" bezeichnet werden, qualitativ hochwertige Mahlzeiten zu liefern. Das Restaurant serviert halbgastronomische Gerichte, die von ehrenamtlichen Köchen zubereitet werden, und konzentriert sich dabei auf Würde und Geselligkeit, indem es eine gesessene Ess-Erfahrung anstelle eines traditionellen soup kitchen-style service anbietet.\n\nBeyond meal provision, Reffettorio Paris also engaged in educational activities, offering workshops and cultural visits to museums, thereby intertwining food with art. Die Initiative stützt sich auf ein Netzwerk aus über 450 Vereinen, privaten Sponsoren und Freiwilligen und fördert so einen Gemeinschaftsgeist, während sie gleichzeitig das wachsende Problem der Ernährungsunsicherheit angeht. The project aims to restore dignity to its guests through the experience of enjoying gourmet meals in a restaurant setting, while also tackling the challenges of funding and resource management in the face of increasing demand for food aid."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Refettorio",
+  "name": {
+    "it": "Refettorio",
+    "en": "Refectory",
+    "fr": "Réfectoire",
+    "es": "Refectorio",
+    "de": "Refektorium"
+  },
   "pubId": 446852,
   "score": 116.6019607843139,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "U3kC06f9xKI",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

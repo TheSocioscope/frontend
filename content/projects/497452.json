@@ -13,7 +13,12 @@
   ],
   "createdAt": 1755089065,
   "date": null,
-  "description": "Bio Flash is an innovative initiative founded in 2017, aimed at addressing the challenges of organic waste management in Peru. By utilizing a unique microbial consortium, Bio Flash accelerates the composting process, transforming organic waste into nutrient-rich compost in just 30 to 35 days. The initiative not only supports sustainable agriculture but also empowers local farmers and businesses to manage their waste effectively, contributing to a circular economy and environmental sustainability.",
+  "description": {
+    "en": "Bio Flash is an innovative initiative founded in 2017, aimed at addressing the challenges of organic waste management in Peru. By utilizing a unique microbial consortium, Bio Flash accelerates the composting process, transforming organic waste into nutrient-rich compost in just 30 to 35 days. The initiative not only supports sustainable agriculture but also empowers local farmers and businesses to manage their waste effectively, contributing to a circular economy and environmental sustainability.",
+    "fr": "Bio Flash est une initiative innovante fondée en 2017, visant à relever les défis de la gestion des déchets organiques au Pérou. En utilisant un consortium microbien unique, Bio Flash accélère le processus de compostage, transformant les déchets organiques en un compost riche en nutriments en seulement 30 à 35 jours. L'initiative soutient non seulement l'agriculture durable, mais donne également aux agriculteurs et aux entreprises locales les moyens de gérer efficacement leurs déchets, contribuant ainsi à l'économie circulaire et à la durabilité environnementale.",
+    "es": "Bio Flash es una iniciativa innovadora fundada en 2017, destinada a abordar los desafíos de la gestión de residuos orgánicos en Perú. Mediante la utilización de un consorcio microbiano único, Bio Flash acelera el proceso de compostaje, transformando los residuos orgánicos en compost rico en nutrientes en tan solo 30 a 35 días. La iniciativa no solo apoya la agricultura sostenible, sino que también capacita a los agricultores y empresas locales para gestionar sus residuos de manera eficaz, contribuyendo a una economía circular y a la sostenibilidad medioambiental.",
+    "de": "Bio Flash ist eine innovative Initiative, die 2017 gegründet wurde, um die Herausforderungen der Bewirtschaftung organischer Abfälle in Peru zu bewältigen. Durch den Einsatz eines einzigartigen mikrobiellen Konsortiums beschleunigt Bio Flash den Kompostierungsprozess und verwandelt organische Abfälle in nur 30 bis 35 Tagen in nährstoffreichen Kompost. Die Initiative unterstützt nicht nur die nachhaltige Landwirtschaft, sondern befähigt auch lokale Landwirte und Unternehmen, ihre Abfälle effektiv zu bewirtschaften und so zu einer Kreislaufwirtschaft und ökologischen Nachhaltigkeit beizutragen."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Bio Flash",
+  "name": {
+    "en": "Bio Flash",
+    "fr": "Bio Flash",
+    "es": "Bio Flash",
+    "de": "Bio Flash"
+  },
   "pubId": 497452,
   "score": -180.55942403237387,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

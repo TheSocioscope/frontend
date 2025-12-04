@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754475470,
   "date": null,
-  "description": "The initiative at Hotel Belmar focuses on sustainability and community engagement, transforming the hotel into a high-end eco-friendly destination. Founded by a Costa Rican family, the hotel emphasizes quality over quantity, reducing room numbers while enhancing guest experiences. Their sustainability efforts include a farm-to-table restaurant, organic gardening, and partnerships with local organizations. The hotel aims to connect guests with nature while actively contributing to the community through various educational and conservation initiatives.",
+  "description": {
+    "en": "Hotel Belmar's initiative focuses on sustainability and community engagement, transforming the hotel into a high-end eco-friendly destination. Founded by a Costa Rican family, the hotel places quality over quantity, reducing the number of rooms and enhancing the guest experience. Its sustainability efforts include a farm-to-table restaurant, organic gardening and partnerships with local organizations. The hotel aims to connect guests with nature and actively contribute to the community through various educational and conservation initiatives.",
+    "fr": "L'initiative de l'hôtel Belmar se concentre sur la durabilité et l'engagement communautaire, transformant l'hôtel en une éco-destination haut de gamme. Fondé par une famille costaricienne, l'hôtel privilégie la qualité à la quantité, en réduisant le nombre de chambres et en améliorant l'expérience des clients. Ses efforts en matière de développement durable comprennent un restaurant \"de la ferme à la table\", des jardins biologiques et des partenariats avec des organisations locales. L'hôtel vise à rapprocher les clients de la nature et à contribuer activement à la communauté par le biais de diverses initiatives éducatives et de conservation.",
+    "es": "La iniciativa del Hotel Belmar se centra en la sostenibilidad y el compromiso con la comunidad, transformando el hotel en un destino ecológico de gama alta. Fundado por una familia costarricense, el hotel prima la calidad sobre la cantidad, reduciendo el número de habitaciones y mejorando la experiencia de los huéspedes. Sus esfuerzos de sostenibilidad incluyen un restaurante de la granja a la mesa, jardinería orgánica y asociaciones con organizaciones locales. El hotel pretende conectar a los huéspedes con la naturaleza y contribuir activamente a la comunidad mediante diversas iniciativas educativas y de conservación.",
+    "de": "Die Initiative im Hotel Belmar konzentriert sich auf Nachhaltigkeit und Engagement für die Gemeinschaft und verwandelt das Hotel in ein umweltfreundliches High-End-Reiseziel. Gegründet von einer Familie aus Costa Rica, legt das Hotel Wert auf Qualität statt Quantität, indem es die Anzahl der Zimmer reduziert und gleichzeitig die Gästeerlebnisse steigert. Ihre Nachhaltigkeitsbemühungen umfassen ein Bauernhofrestaurant, organischen Gartenbau und Partnerschaften mit lokalen Organisationen. Das Hotel möchte seine Gäste mit der Natur verbinden, während es durch verschiedene Bildungs- und Naturschutzinitiativen aktiv zur Gemeinschaft beiträgt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Hotel Belmar",
+  "name": {
+    "nl": "Hotel Belmar",
+    "en": "Hotel Belmar",
+    "fr": "Hôtel Belmar",
+    "es": "Hotel Belmar",
+    "de": "Hotel Belmar"
+  },
   "pubId": 465252,
   "score": 31.751296141235226,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "vqKFX6Cm3p4",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1755739285,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1755739285
     }
   ],
-  "lastEvent": {
-    "at": 1755739285,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739285
-  ]
+  ],
+  "originalLang": "fr"
 }

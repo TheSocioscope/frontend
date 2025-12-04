@@ -10,14 +10,24 @@
   "country": [],
   "createdAt": 1663677280,
   "date": null,
-  "description": "This issue of the Urban Agriculture Magazine is a joint effort of the RUAF Foundation and the Centre for Agroecology Water and Resilience (CAWR). It aims to articulate and document the emerging field of urban agroecology. The Magazine was launched at the occasion of the 8th AESOP conference on Sustainable Food Planning, titled “Re-imagining sustainable food planning, building resourcefulness: food movements, insurgent planning and heterodox economics” (14-15 November 2017), hosted at CAWR in Coventry, UK.",
+  "description": {
+    "en": "This issue of the Revista de Agricultura Urbana is a joint effort of the RUAF Foundation and the Center for Agroecology, Water and Resilience (CAWR). It aims to articulate and document the emerging field of urban agroecology. The journal was launched on the occasion of the 8th AESOP conference on Sustainable Food Planning, entitled \"Reimagining sustainable food planning, building ingenuity: food movements, insurgent planning and heterodox economics\" (14-15 November 2017), held at CAWR in Coventry, UK.",
+    "fr": "Ce numéro du Journal de l'agriculture urbaine est le fruit d'un effort conjoint de la Fondation RUAF et du Centre pour l'agroécologie, l'eau et la résilience (CAWR). Il vise à articuler et à documenter le domaine émergent de l'agroécologie urbaine. Le journal a été lancé à l'occasion de la 8e conférence de l'AESOP sur la planification alimentaire durable, intitulée \"Reimagining sustainable food planning, building ingenuity : food movements, insurgent planning and heterodox economics\" (14-15 novembre 2017), qui s'est tenue au CAWR à Coventry, au Royaume-Uni.",
+    "es": "Este número de la Revista de Agricultura Urbana es un esfuerzo conjunto de la Fundación RUAF y el Centro de Agroecología, Agua y Resiliencia (CAWR). Su objetivo es articular y documentar el campo emergente de la agroecología urbana. La revista se lanzó con motivo de la 8ª conferencia de la AESOP sobre Planificación Alimentaria Sostenible, titulada \"Reimaginar la planificación alimentaria sostenible, construir el ingenio: movimientos alimentarios, planificación insurgente y economía heterodoxa\" (14-15 de noviembre de 2017), celebrada en el CAWR en Coventry, Reino Unido.",
+    "de": "Diese Ausgabe des Urban Agriculture Magazine ist eine gemeinsame Anstrengung der RUAF Foundation und des Centre for Agroecology Water and Resilience (CAWR). Es zielt darauf ab, das aufstrebende Feld der urbanen Agrarökologie zu artikulieren und zu dokumentieren. Das Magazin wurde anlässlich der 8. AESOP-Konferenz über nachhaltige Lebensmittelplanung mit dem Titel \"Re-imagining sustainable food planning, building resourcefulness: food movements, insurgent planning and heterodox economics\" (14.-15. November 2017), die im CAWR in Coventry, UK, veranstaltet wurde, veröffentlicht."
+  },
   "field": [
     "ecology-environmental-sciences",
     "arts-architecture-and-museology"
   ],
   "lang": "fr",
   "location": "",
-  "name": "Urban Agriculture Magazine no. 33 – Urban Agroecology",
+  "name": {
+    "en": "Urban Agriculture Magazine no. 33 – Urban Agroecology",
+    "fr": "Urban Agriculture Magazine no. 33 – Urban Agroecology",
+    "es": "Revista Agricultura Urbana nº 33 - Agroecología urbana",
+    "de": "Urban Agriculture Magazine Nr. 33 - Urban Agroecology"
+  },
   "pubId": 425252,
   "score": 371.5000000000084,
   "state": "completed-project",
@@ -39,27 +49,5 @@
   ],
   "url": "https://ruaf.org/document/urban-agriculture-magazine-no-33-urban-agroecology/",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663679311,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663679311,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754480326,
   "date": null,
-  "description": "Setas Fresh is a family-owned initiative in Colombia that specializes in cultivating orellanas, a nutritious fruit. Founded in 2015, it emerged from the resilience of its founder's mother after losing her flower crop in 2009. The project emphasizes sustainability and circular economy practices, utilizing waste for compost and reusing water. With support from Fondo Emprender, Setas Fresh has established a stable market presence, focusing on both fresh and processed products while promoting health benefits associated with orellanas.",
+  "description": {
+    "en": "Setas Fresh is a Colombian family initiative specializing in the cultivation of orellanas, a nutritious fruit. Founded in 2015, it grew out of the resilience of its founder's mother after losing her flower crop in 2009. The project emphasizes sustainability and circular economy practices, using waste for compost and reusing water. With support from the Emprender Fund, Setas Fresh has established a stable presence in the market, focusing on both fresh and processed products, while promoting the health benefits associated with orellanas.",
+    "fr": "Setas Fresh est une initiative familiale colombienne spécialisée dans la culture d'orellanas, un fruit nutritif. Fondée en 2015, elle est née de la résilience de la mère de son fondateur après avoir perdu sa récolte de fleurs en 2009. Le projet met l'accent sur la durabilité et les pratiques d'économie circulaire, en utilisant les déchets pour le compost et en réutilisant l'eau. Avec le soutien du Fonds pour l'entrepreneuriat, Setas Fresh a établi une présence stable sur le marché, en se concentrant sur les produits frais et transformés, tout en promouvant les avantages pour la santé associés aux orellanas.",
+    "es": "Setas Fresh es una iniciativa familiar colombiana especializada en el cultivo de orellanas, una fruta nutritiva. Fundada en 2015, surgió de la resiliencia de la madre de su fundador tras perder su cultivo de flores en 2009. El proyecto hace hincapié en la sostenibilidad y las prácticas de economía circular, utilizando los residuos para compost y reutilizando el agua. Con el apoyo del Fondo Emprender, Setas Fresh ha establecido una presencia estable en el mercado, centrándose tanto en productos frescos como procesados, al tiempo que promueve los beneficios para la salud asociados a las orellanas.",
+    "de": "Setas Fresh ist eine familiengeführte Initiative in Kolumbien, die sich auf den Anbau der nahrhaften Orellanas-Frucht spezialisiert hat. Das 2015 gegründete Unternehmen entstand aus der Widerstandsfähigkeit seiner Gründerin und Mutter, die 2009 ihre Blumenzucht verloren hatte. Das Projekt betont Nachhaltigkeit und zirkuläre Wirtschaftspraktiken, indem es Abfall für Kompost verwendet und Wasser wiederverwendet. Mit Unterstützung von Fondo Emprender hat Setas Fresh eine stabile Marktpräsenz aufgebaut und konzentriert sich sowohl auf frische als auch auf verarbeitete Produkte, wobei die gesundheitlichen Vorteile, die mit Orellanas verbunden sind, propagiert werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Setas Fresh Sas",
+  "name": {
+    "id": "Setas Fresh Sas",
+    "en": "Setas Fresh Sas",
+    "fr": "Setas Fresh Sas",
+    "es": "Setas Fresh Sas",
+    "de": "Setas Frisch Sas"
+  },
   "pubId": 467352,
   "score": 30.509742087181227,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

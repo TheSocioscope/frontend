@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754991419,
   "date": null,
-  "description": "The initiative focuses on transforming a family-owned cocoa farm into a sustainable business that prioritizes environmental responsibility and community engagement. By cultivating cocoa and creating high-quality chocolate products, the farm aims to educate consumers about the benefits of cocoa while promoting sustainable agricultural practices. The initiative also emphasizes the importance of direct consumer relationships, ensuring that the economic benefits of cocoa production support the local community and contribute to the farm's long-term viability.",
+  "description": {
+    "en": "The initiative focuses on transforming a family-owned cocoa farm into a sustainable business that prioritizes environmental responsibility and community engagement. By cultivating cocoa and creating high-quality chocolate products, the farm aims to educate consumers about the benefits of cocoa while promoting sustainable agricultural practices. The initiative also emphasizes the importance of direct consumer relationships, ensuring that the economic benefits of cocoa production support the local community and contribute to the farm's long-term viability.",
+    "fr": "L'initiative vise à transformer une exploitation familiale de cacao en une entreprise durable qui donne la priorité à la responsabilité environnementale et à l'engagement communautaire. En cultivant le cacao et en créant des produits chocolatés de haute qualité, la ferme vise à éduquer les consommateurs sur les avantages du cacao tout en promouvant des pratiques agricoles durables. L'initiative met également l'accent sur l'importance des relations directes avec les consommateurs, en veillant à ce que les avantages économiques de la production de cacao soutiennent la communauté locale et contribuent à la viabilité à long terme de l'exploitation.",
+    "es": "La iniciativa se centra en transformar una explotación cacaotera familiar en una empresa sostenible que da prioridad a la responsabilidad medioambiental y al compromiso con la comunidad. Mediante el cultivo de cacao y la creación de productos de chocolate de alta calidad, la granja pretende educar a los consumidores sobre los beneficios del cacao al tiempo que promueve prácticas agrícolas sostenibles. La iniciativa también hace hincapié en la importancia de las relaciones directas con los consumidores, garantizando que los beneficios económicos de la producción de cacao apoyen a la comunidad local y contribuyan a la viabilidad de la granja a largo plazo.",
+    "de": "Die Initiative konzentriert sich darauf, eine Kakaofarm in Familienbesitz in ein nachhaltiges Unternehmen umzuwandeln, bei dem die Verantwortung für die Umwelt und das Engagement für die Gemeinschaft im Vordergrund stehen. Durch den Anbau von Kakao und die Herstellung hochwertiger Schokoladenprodukte will die Farm die Verbraucher über die Vorteile von Kakao aufklären und gleichzeitig nachhaltige landwirtschaftliche Praktiken fördern. Die Initiative betont auch die Bedeutung direkter Verbraucherbeziehungen, um sicherzustellen, dass die wirtschaftlichen Vorteile der Kakaoproduktion die lokale Gemeinschaft unterstützen und zur langfristigen Lebensfähigkeit der Farm beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cinco Cacao",
+  "name": {
+    "pt": "Cinco Cacao",
+    "en": "Cinco Cacao",
+    "fr": "Cinco Cacao",
+    "es": "Cinco Cacao",
+    "de": "Cinco Kakao"
+  },
   "pubId": 480452,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

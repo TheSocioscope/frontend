@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754909774,
   "date": null,
-  "description": "Défis Foyers is an initiative organized by the Sungo territorial food project in Southern Alsace. Its goal is to educate families about positive eating habits through various workshops, including farm visits, cooking sessions, and discussions on food waste and local sourcing. Over four months, participants earn points by engaging in activities that promote sustainable food practices, ultimately aiming to transform their dietary habits while demonstrating that healthy eating can be budget-friendly.",
+  "description": {
+    "en": "Défis Foyers is an initiative organized by the Sungo territorial food project in Southern Alsace. Its goal is to educate families about positive eating habits through various workshops, including farm visits, cooking sessions, and discussions on food waste and local sourcing. Over four months, participants earn points by engaging in activities that promote sustainable food practices, ultimately aiming to transform their dietary habits while demonstrating that healthy eating can be budget-friendly.",
+    "fr": "Défis Foyers est une initiative organisée par le projet alimentaire territorial Sungo dans le sud de l'Alsace. Son objectif est d'éduquer les familles à des habitudes alimentaires positives par le biais de divers ateliers, notamment des visites de fermes, des séances de cuisine et des discussions sur le gaspillage alimentaire et l'approvisionnement local. Pendant quatre mois, les participants gagnent des points en s'engageant dans des activités qui promeuvent des pratiques alimentaires durables, dans le but ultime de transformer leurs habitudes alimentaires tout en démontrant qu'une alimentation saine peut être économique.",
+    "es": "Défis Foyers es una iniciativa organizada por el proyecto alimentario territorial Sungo, en el sur de Alsacia. Su objetivo es educar a las familias en hábitos alimentarios positivos a través de diversos talleres, que incluyen visitas a granjas, sesiones de cocina y debates sobre el desperdicio de alimentos y el abastecimiento local. A lo largo de cuatro meses, los participantes ganan puntos participando en actividades que promueven prácticas alimentarias sostenibles, con el objetivo último de transformar sus hábitos alimentarios y demostrar que una alimentación sana puede ser asequible.",
+    "de": "Défis Foyers ist eine Initiative, die von dem territorialen Ernährungsprojekt Sungo im Südelsass organisiert wird. Ihr Ziel ist es, Familien durch verschiedene Workshops, darunter Besuche auf Bauernhöfen, Kochkurse und Diskussionen über Lebensmittelverschwendung und lokale Beschaffung, zu positiven Ernährungsgewohnheiten zu erziehen. Über einen Zeitraum von vier Monaten sammeln die Teilnehmer Punkte, indem sie an Aktivitäten teilnehmen, die nachhaltige Ernährungspraktiken fördern, um ihre Ernährungsgewohnheiten zu ändern und gleichzeitig zu zeigen, dass eine gesunde Ernährung budgetfreundlich sein kann."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Défis Foyers",
+  "name": {
+    "fr": "Défis Foyers",
+    "en": "Défis Foyers",
+    "es": "Foyers Défis",
+    "de": "Herausforderungen Foyers"
+  },
   "pubId": 483352,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

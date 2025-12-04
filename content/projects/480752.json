@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754991959,
   "date": null,
-  "description": "Mamma Mia is a restaurant which emphasizes the importance of quality and personalized service, opting for a small restaurant with only two tables. It focuses on offering a limited but special menu, with lobster becoming a signature dish due to its popularity among tourists. The restaurant operates on a reservation basis, allowing her to manage the number of guests and maintain high service standards. The restaurant aims to maintain the restaurant's exclusivity and reputation as a must-visit spot in Providencia. ",
+  "description": {
+    "en": "Mamma Mia is a restaurant which emphasizes the importance of quality and personalized service, opting for a small restaurant with only two tables. It focuses on offering a limited but special menu, with lobster becoming a signature dish due to its popularity among tourists. The restaurant operates on a reservation basis, allowing her to manage the number of guests and maintain high service standards. The restaurant aims to maintain the restaurant's exclusivity and reputation as a must-visit spot in Providencia. ",
+    "fr": "Mamma Mia est un restaurant qui met l'accent sur la qualité et le service personnalisé, optant pour un petit restaurant avec seulement deux tables. Il propose un menu limité mais spécial, le homard devenant un plat emblématique en raison de sa popularité auprès des touristes. Le restaurant fonctionne sur réservation, ce qui lui permet de gérer le nombre de clients et de maintenir des normes de service élevées. Le restaurant vise à maintenir l'exclusivité et la réputation du restaurant en tant qu'endroit incontournable de Providencia.",
+    "es": "Mamma Mia es un restaurante que hace hincapié en la importancia de la calidad y el servicio personalizado, optando por un restaurante pequeño con sólo dos mesas. Se centra en ofrecer un menú limitado pero especial, con la langosta como plato estrella debido a su popularidad entre los turistas. El restaurante funciona con reservas, lo que le permite gestionar el número de comensales y mantener un alto nivel de servicio. El restaurante pretende mantener su exclusividad y su reputación como lugar de visita obligada en Providencia.",
+    "de": "Mamma Mia ist ein Restaurant, das Wert auf Qualität und persönlichen Service legt und sich für ein kleines Restaurant mit nur zwei Tischen entschieden hat. Es konzentriert sich darauf, eine begrenzte, aber spezielle Speisekarte anzubieten, wobei Hummer aufgrund seiner Beliebtheit bei den Touristen zu einem typischen Gericht wird. Das Restaurant arbeitet auf Reservierungsbasis, was es ihr ermöglicht, die Anzahl der Gäste zu kontrollieren und einen hohen Servicestandard aufrechtzuerhalten. Das Restaurant ist bestrebt, seine Exklusivität und seinen Ruf als ein Muss in Providencia aufrechtzuerhalten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Mamma Mia",
+  "name": {
+    "en": "Mamma Mia",
+    "fr": "Mamma Mia",
+    "es": "Mamma Mia",
+    "de": "Mamma Mia"
+  },
   "pubId": 480752,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

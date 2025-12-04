@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754574041,
   "date": null,
-  "description": "Kuza is a social enterprise focused on empowering young agripreneurs in Kenya and beyond. Founded by a visionary couple, it leverages technology and microlearning to enhance agricultural practices and business acumen among youth. With a decentralized model, Kuza connects young entrepreneurs with farmers, fostering a supportive ecosystem that promotes agency, dignity, and choice. Their mission is to create sustainable impact by transforming agriculture into a viable business for the next generation.",
+  "description": {
+    "en": "Kuza is a social enterprise focused on empowering young agricultural entrepreneurs in Kenya and beyond. Founded by a visionary couple, it leverages technology and microlearning to improve young people's farming practices and entrepreneurial vision. With a decentralized model, Kuza connects young entrepreneurs with farmers, fostering a supportive ecosystem that promotes agency, dignity and choice. Its mission is to create sustainable impact by transforming agriculture into a viable business for the next generation.",
+    "fr": "Kuza est une entreprise sociale dont l'objectif est d'autonomiser les jeunes entrepreneurs agricoles au Kenya et au-delà. Fondée par un couple visionnaire, elle s'appuie sur la technologie et le microapprentissage pour améliorer les pratiques agricoles et la vision entrepreneuriale des jeunes. Grâce à un modèle décentralisé, Kuza met en relation les jeunes entrepreneurs et les agriculteurs, favorisant ainsi un écosystème de soutien qui encourage l'action, la dignité et le choix. Sa mission est de créer un impact durable en transformant l'agriculture en une activité viable pour la prochaine génération.",
+    "es": "Kuza es una empresa social centrada en capacitar a jóvenes empresarios agrícolas de Kenia y otros países. Fundada por una pareja visionaria, aprovecha la tecnología y el microaprendizaje para mejorar las prácticas agrícolas y la visión empresarial de los jóvenes. Con un modelo descentralizado, Kuza conecta a jóvenes emprendedores con agricultores, fomentando un ecosistema de apoyo que promueve la agencia, la dignidad y la elección. Su misión es crear un impacto sostenible transformando la agricultura en un negocio viable para la próxima generación.",
+    "de": "Kuza ist ein soziales Unternehmen, das sich auf die Befähigung junger Landwirte in Kenia und darüber hinaus konzentriert. Das von einem visionären Paar gegründete Unternehmen setzt Technologie und Mikroschulungen ein, um landwirtschaftliche Praktiken und unternehmerische Fähigkeiten unter Jugendlichen zu fördern. Mit einem dezentralisierten Modell verbindet Kuza Jungunternehmer mit Landwirten und fördert ein unterstützendes Ökosystem, das Selbstbestimmung, Würde und Wahlmöglichkeiten fördert. Ihre Mission ist es, nachhaltige Auswirkungen zu schaffen, indem sie die Landwirtschaft in ein lebensfähiges Geschäft für die nächste Generation umwandeln."
+  },
   "field": [
     "engineering-and-technology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kuza One",
+  "name": {
+    "en": "Kuza One",
+    "fr": "Kuza One",
+    "es": "Kuza Uno",
+    "de": "Kuza One"
+  },
   "pubId": 474252,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755007639,
   "date": null,
-  "description": "Niya Casablanca, Morocco's first vegan restaurant, is part of an international initiative focused on sustainable food projects. The restaurant aims to transform eating habits by promoting ethical consumption and environmental awareness. Through innovative vegan cuisine, Nia seeks to challenge misconceptions about plant-based diets while fostering a community around healthy, sustainable living. The initiative highlights the intersection of food, culture, and social responsibility in a rapidly changing culinary landscape.",
+  "description": {
+    "en": "Niya Casablanca, Morocco's first vegan restaurant, is part of an international initiative focused on sustainable food projects. The restaurant aims to transform eating habits by promoting ethical consumption and environmental awareness. Through innovative vegan cuisine, Nia seeks to challenge misconceptions about plant-based diets while fostering a community around healthy, sustainable living. The initiative highlights the intersection of food, culture, and social responsibility in a rapidly changing culinary landscape.",
+    "fr": "Niya Casablanca, le premier restaurant végétalien du Maroc, fait partie d'une initiative internationale axée sur des projets d'alimentation durable. Le restaurant vise à transformer les habitudes alimentaires en promouvant une consommation éthique et une sensibilisation à l'environnement. Grâce à une cuisine végétalienne innovante, Nia cherche à remettre en question les idées fausses sur les régimes à base de plantes tout en encourageant une communauté autour d'un mode de vie sain et durable. L'initiative met en lumière l'intersection de la nourriture, de la culture et de la responsabilité sociale dans un paysage culinaire en rapide évolution.",
+    "es": "Niya Casablanca, el primer restaurante vegano de Marruecos, forma parte de una iniciativa internacional centrada en proyectos de alimentación sostenible. El restaurante pretende transformar los hábitos alimentarios fomentando el consumo ético y la concienciación medioambiental. A través de una cocina vegana innovadora, Niya pretende cuestionar los conceptos erróneos sobre las dietas basadas en plantas, al tiempo que fomenta una comunidad en torno a una vida sana y sostenible. La iniciativa pone de relieve la intersección entre alimentación, cultura y responsabilidad social en un panorama culinario en rápida evolución.",
+    "de": "Niya Casablanca, das erste vegane Restaurant Marokkos, ist Teil einer internationalen Initiative, die sich auf nachhaltige Lebensmittelprojekte konzentriert. Ziel des Restaurants ist es, die Essgewohnheiten durch die Förderung von ethischem Konsum und Umweltbewusstsein zu verändern. Mit innovativer veganer Küche will Nia falsche Vorstellungen über pflanzliche Ernährung widerlegen und gleichzeitig eine Gemeinschaft für ein gesundes, nachhaltiges Leben aufbauen. Die Initiative beleuchtet die Überschneidung von Essen, Kultur und sozialer Verantwortung in einer sich schnell verändernden kulinarischen Landschaft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Niya",
+  "name": {
+    "en": "Niya",
+    "fr": "Niya",
+    "es": "Niya",
+    "de": "Niya"
+  },
   "pubId": 495152,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    2,
-    2
-  ]
+  "originalLang": "fr"
 }

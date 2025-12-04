@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754993631,
   "date": null,
-  "description": "Beeco, founded by an environmental engineer in 2021, is an integrated organic waste management company based in Colombia. The initiative transforms organic waste from households and businesses into high-quality compost, promoting environmental education and sustainable practices. Operating in cities like Manizales and Villa María, Beeco provides containers for waste separation, collects organic materials, and educates clients on proper waste management, fostering a community committed to reducing landfill waste and enhancing agricultural practices.",
+  "description": {
+    "en": "Beeco, founded by an environmental engineer in 2021, is an integrated organic waste management company based in Colombia. The initiative transforms organic waste from households and businesses into high-quality compost, promoting environmental education and sustainable practices. Operating in cities like Manizales and Villa María, Beeco provides containers for waste separation, collects organic materials, and educates clients on proper waste management, fostering a community committed to reducing landfill waste and enhancing agricultural practices.",
+    "fr": "Beeco, fondée par un ingénieur en environnement en 2021, est une entreprise de gestion intégrée des déchets organiques basée en Colombie. L'initiative transforme les déchets organiques des ménages et des entreprises en compost de haute qualité, tout en promouvant l'éducation à l'environnement et les pratiques durables. Présente dans des villes comme Manizales et Villa María, Beeco fournit des conteneurs pour le tri des déchets, collecte les matières organiques et sensibilise ses clients à une gestion correcte des déchets, favorisant ainsi l'émergence d'une communauté engagée dans la réduction des déchets de décharge et l'amélioration des pratiques agricoles.",
+    "es": "Beeco, fundada por un ingeniero ambiental en 2021, es una empresa de gestión integral de residuos orgánicos con sede en Colombia. La iniciativa transforma los residuos orgánicos de hogares y empresas en compost de alta calidad, promoviendo la educación ambiental y las prácticas sostenibles. Beeco, que opera en ciudades como Manizales y Villa María, proporciona contenedores para la separación de residuos, recoge materiales orgánicos y educa a los clientes sobre la gestión adecuada de los residuos, fomentando una comunidad comprometida con la reducción de los residuos de los vertederos y la mejora de las prácticas agrícolas.",
+    "de": "Beeco wurde 2021 von einem Umweltingenieur gegründet und ist ein integriertes Unternehmen für die Entsorgung organischer Abfälle mit Sitz in Kolumbien. Die Initiative verwandelt organische Abfälle aus Haushalten und Unternehmen in hochwertigen Kompost und fördert die Umwelterziehung und nachhaltige Praktiken. In Städten wie Manizales und Villa María stellt Beeco Container für die Mülltrennung zur Verfügung, sammelt organische Materialien und klärt die Kunden über die richtige Abfallbewirtschaftung auf, um eine Gemeinschaft zu fördern, die sich für die Reduzierung von Deponieabfällen und die Verbesserung landwirtschaftlicher Praktiken einsetzt."
+  },
   "field": [
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Beeco",
+  "name": {
+    "en": "Beeco",
+    "fr": "Beeco",
+    "es": "Beeco",
+    "de": "Beeco"
+  },
   "pubId": 481152,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

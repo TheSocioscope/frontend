@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718362914,
   "date": null,
-  "description": "EcoTable accompagne le secteur de la restauration dans sa transition écologique depuis cinq ans. Leur mission couvre la restauration commerciale, collective, événementielle, et les traiteurs. Ils commencent par un audit environnemental pour évaluer l'impact des restaurateurs et identifier les domaines d'amélioration. Ils offrent également des formations sur la transition alimentaire, y compris dans les écoles hôtelières pour former les futurs restaurateurs.\n\nEcoTable aide les restaurateurs à se connecter avec des fournisseurs engagés via un annuaire incluant agriculteurs, grossistes, éleveurs, sociétés de recyclage, et gestion des biodéchets. Ils assistent aussi les restaurateurs à communiquer leurs démarches écologiques à travers un label à trois niveaux (un écotable, deux écotables, trois écotables) en fonction de l'empreinte écologique, visible sur les devantures des restaurants labellisés et sur leur site ecotable.fr.\n\nEn plus de ces activités, EcoTable a créé la Communauté Ecotable, une association fondée en 2019. Cette association a pour missions principales de créer un réseau de restaurateurs, leur offrant un espace pour échanger et sortir de leur isolement.",
+  "description": {
+    "fr": "EcoTable accompagne le secteur de la restauration dans sa transition écologique depuis cinq ans. Leur mission couvre la restauration commerciale, collective, événementielle, et les traiteurs. Ils commencent par un audit environnemental pour évaluer l'impact des restaurateurs et identifier les domaines d'amélioration. Ils offrent également des formations sur la transition alimentaire, y compris dans les écoles hôtelières pour former les futurs restaurateurs.\n\nEcoTable aide les restaurateurs à se connecter avec des fournisseurs engagés via un annuaire incluant agriculteurs, grossistes, éleveurs, sociétés de recyclage, et gestion des biodéchets. Ils assistent aussi les restaurateurs à communiquer leurs démarches écologiques à travers un label à trois niveaux (un écotable, deux écotables, trois écotables) en fonction de l'empreinte écologique, visible sur les devantures des restaurants labellisés et sur leur site ecotable.fr.\n\nEn plus de ces activités, EcoTable a créé la Communauté Ecotable, une association fondée en 2019. Cette association a pour missions principales de créer un réseau de restaurateurs, leur offrant un espace pour échanger et sortir de leur isolement.",
+    "en": "EcoTable has been supporting the catering sector in its ecological transition for the past five years. Their mission covers commercial, collective, event and catering catering. They start with an environmental audit to assess the impact of restaurateurs and identify areas for improvement. They also offer training courses on the food transition, including in hotel schools to train future restaurateurs.\n\nEcoTable helps restaurateurs connect with committed suppliers via a directory including farmers, wholesalers, breeders, recycling companies and biowaste management. They also help restaurateurs to communicate their ecological approach through a three-level label (one eco-table, two eco-tables, three eco-tables) based on ecological footprint, visible on the shop fronts of labeled restaurants and on their ecotable.fr website.\n\nIn addition to these activities, EcoTable has created the Ecotable Community, an association founded in 2019. The association's main mission is to create a network of restaurateurs, offering them a place to exchange ideas and break out of their isolation.",
+    "es": "EcoTable lleva cinco años apoyando al sector de la restauración en su transición ecológica. Su misión abarca la restauración comercial, colectiva y de eventos, así como los servicios de catering. Empiezan con una auditoría medioambiental para evaluar el impacto de los servicios de restauración e identificar áreas de mejora. También ofrecen cursos de formación sobre la transición alimentaria, incluso en escuelas de hostelería para formar a futuros restauradores.\n\nEcoTable ayuda a los restauradores a ponerse en contacto con proveedores comprometidos a través de un directorio que incluye agricultores, mayoristas, ganaderos, empresas de reciclaje y gestión de biorresiduos. También ayudan a los restauradores a comunicar su enfoque ecológico a través de una etiqueta de tres niveles (una eco-mesa, dos eco-mesas, tres eco-mesas) basada en la huella ecológica, que puede verse en las fachadas de los restaurantes etiquetados y en su sitio web ecotable.fr.\n\nAdemás de estas actividades, EcoTable ha creado la Comunidad Ecotable, una asociación fundada en 2019. El principal objetivo de esta asociación es crear una red de restauradores, ofreciéndoles un lugar donde intercambiar ideas y salir de su aislamiento.",
+    "de": "EcoTable begleitet die Gastronomiebranche seit fünf Jahren bei ihrem ökologischen Wandel. Ihr Auftrag umfasst die kommerzielle Gastronomie, die Gemeinschaftsverpflegung, Veranstaltungen und Caterer. Sie beginnen mit einer Umweltprüfung, um die Auswirkungen der Gastronomen zu bewerten und Bereiche für Verbesserungen zu identifizieren. Sie bieten auch Schulungen zum Ernährungswandel an, unter anderem in Hotelfachschulen, um zukünftige Restaurantfachleute auszubilden.\n\nEcoTable hilft Restaurantbesitzern, sich über ein Verzeichnis, das Landwirte, Großhändler, Viehzüchter, Recyclingunternehmen und Bioabfallmanagement umfasst, mit engagierten Lieferanten in Verbindung zu setzen. Sie helfen den Restaurants auch dabei, ihre ökologischen Bemühungen durch ein dreistufiges Siegel (ein Öko-Tisch, zwei Öko-Tische, drei Öko-Tische) zu kommunizieren, das vom ökologischen Fußabdruck abhängt und auf den Schaufenstern der Restaurants mit dem Siegel und auf ihrer Website ecotable.de zu sehen ist.\n\nZusätzlich zu diesen Aktivitäten hat EcoTable die Ecotable Community ins Leben gerufen, einen Verein, der 2019 gegründet wurde. Die Hauptaufgaben dieses Vereins bestehen darin, ein Netzwerk von Restaurantbesitzern zu schaffen und ihnen einen Raum zu bieten, in dem sie sich austauschen und aus ihrer Isolation herauskommen können."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "EcoTable",
+  "name": {
+    "en": "EcoTable",
+    "fr": "EcoTable",
+    "es": "EcoTable",
+    "de": "EcoTable"
+  },
   "pubId": 444752,
   "score": 135.8000000000001,
   "state": "ongoing-project",
@@ -38,10 +48,6 @@
   ],
   "url": "",
   "yt": "yrph9YDWXxw",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530065,
   "feedback": [
     {
@@ -49,11 +55,8 @@
       "at": 1739530065
     }
   ],
-  "lastEvent": {
-    "at": 1739530065,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530065
-  ]
+  ],
+  "originalLang": "fr"
 }

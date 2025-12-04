@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718368804,
   "date": null,
-  "description": "Merci les Algues est une association qui s'engage à promouvoir les diverses applications des algues, que ce soit dans l'agriculture ou dans l'alimentation. Leur animatrice coordonne les actions visant à sensibiliser le grand public sur les multiples utilisations des algues, que ce soit en agriculture pour réduire l'usage de pesticides ou dans l'alimentation pour en faire découvrir les bénéfices nutritionnels et culinaires. Ils travaillent à construire des filières complètes, de l'agriculteur au consommateur, où les algues sont intégrées comme solution écologique et source d'innovation.",
+  "description": {
+    "fr": "Merci les Algues est une association qui s'engage à promouvoir les diverses applications des algues, que ce soit dans l'agriculture ou dans l'alimentation. Leur animatrice coordonne les actions visant à sensibiliser le grand public sur les multiples utilisations des algues, que ce soit en agriculture pour réduire l'usage de pesticides ou dans l'alimentation pour en faire découvrir les bénéfices nutritionnels et culinaires. Ils travaillent à construire des filières complètes, de l'agriculteur au consommateur, où les algues sont intégrées comme solution écologique et source d'innovation.",
+    "en": "Merci les Algues is an association committed to promoting the diverse applications of seaweed, both in agriculture and in food. Their leader coordinates actions aimed at raising public awareness of the many uses of seaweed, whether in agriculture to reduce pesticide use, or in food to discover its nutritional and culinary benefits. They are working to build complete supply chains, from farmer to consumer, in which seaweed is integrated as an ecological solution and a source of innovation.",
+    "es": "Merci les Algues es una asociación comprometida con la promoción de las diversas aplicaciones de las algas, tanto en agricultura como en alimentación. Su coordinador se encarga de sensibilizar a la opinión pública sobre los múltiples usos de las algas, ya sea en la agricultura para reducir el uso de pesticidas, o en la alimentación para promover sus beneficios nutricionales y culinarios. Trabajan para construir cadenas de suministro completas, del agricultor al consumidor, en las que las algas se integren como solución ecológica y fuente de innovación.",
+    "de": "Merci les Algues ist ein Verein, der sich für die Förderung der verschiedenen Anwendungen von Algen einsetzt, sei es in der Landwirtschaft oder in der Ernährung. Ihre Moderatorin koordiniert Aktionen, um die breite Öffentlichkeit für die vielfältigen Einsatzmöglichkeiten von Algen zu sensibilisieren, sei es in der Landwirtschaft, um den Einsatz von Pestiziden zu reduzieren, oder in der Ernährung, um die ernährungsphysiologischen und kulinarischen Vorteile der Algen aufzuzeigen. Sie arbeiten daran, komplette Wertschöpfungsketten vom Landwirt bis zum Verbraucher aufzubauen, in denen Algen als ökologische Lösung und Innovationsquelle integriert sind."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Merci les Algues",
+  "name": {
+    "fr": "Merci les Algues",
+    "en": "Thank you Algae",
+    "es": "Gracias Algas",
+    "de": "Danke Algen"
+  },
   "pubId": 445252,
   "score": 137.1000000000001,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "fi2DrNbsxv8",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530153,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1739530153
     }
   ],
-  "lastEvent": {
-    "at": 1739530153,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530153
-  ]
+  ],
+  "originalLang": "fr"
 }

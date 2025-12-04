@@ -14,14 +14,24 @@
   "date": [
     "2030-01-01"
   ],
-  "description": "Ce projet fait partie du programme ProDij 2030.\nAméliorer la qualité de l’offre et donc la satisfaction des usagers de la RHF (restauration scolaire et restauration d’entreprise concédée), tel est l’objectif de ce projet. Il s’agit d’améliorer la qualité des repas servis en renforçant la part des produits locaux de qualité, respectueux de l’environnement. L’objectif est  d’atteindre une hausse de 5% de la qualité nutritionnelle et de 25% de la provenance locale des plats servis en restauration collective. Les augmentations attendues sont respectivement de 15% et de 25% en restauration d’entreprise. L’empreinte carbone devrait s’en trouver diminuée de 40% à l’école et de 30% en entreprise. Dans le même temps, le prix et le niveau de satisfaction des usagers seront restés identiques. Le changement dans l’assiette s’accompagne d’un dispositif de communication et d’un programme de formation des personnels de la restauration hors foyer.",
+  "description": {
+    "fr": "Ce projet fait partie du programme ProDij 2030.\nAméliorer la qualité de l’offre et donc la satisfaction des usagers de la RHF (restauration scolaire et restauration d’entreprise concédée), tel est l’objectif de ce projet. Il s’agit d’améliorer la qualité des repas servis en renforçant la part des produits locaux de qualité, respectueux de l’environnement. L’objectif est  d’atteindre une hausse de 5% de la qualité nutritionnelle et de 25% de la provenance locale des plats servis en restauration collective. Les augmentations attendues sont respectivement de 15% et de 25% en restauration d’entreprise. L’empreinte carbone devrait s’en trouver diminuée de 40% à l’école et de 30% en entreprise. Dans le même temps, le prix et le niveau de satisfaction des usagers seront restés identiques. Le changement dans l’assiette s’accompagne d’un dispositif de communication et d’un programme de formation des personnels de la restauration hors foyer.",
+    "en": "This project is part of the ProDij 2030 program.\nThe aim of this project is to improve the quality of the offer and thus the satisfaction of users of the RHF (school catering and company catering under concession). The aim is to improve the quality of the meals served by increasing the proportion of high-quality, environmentally-friendly local produce. The aim is to achieve a 5% increase in nutritional quality and a 25% increase in the local origin of meals served in collective catering. The expected increases are 15% and 25% respectively in company catering. The carbon footprint should be reduced by 40% in schools and 30% in companies. At the same time, prices and user satisfaction levels will remain unchanged. The change in the plate is accompanied by a communication campaign and a training program for catering staff.",
+    "es": "Este proyecto forma parte del programa ProDij 2030.\nEl objetivo de este proyecto es mejorar la calidad de la oferta y, por tanto, la satisfacción de los usuarios del servicio de restauración (catering escolar y catering de empresa en régimen de concesión). El objetivo es mejorar la calidad de las comidas servidas aumentando la proporción de productos locales de alta calidad y respetuosos con el medio ambiente. El objetivo es aumentar en un 5% la calidad nutricional y en un 25% el origen local de las comidas servidas en los servicios de restauración colectiva. Los aumentos previstos son del 15% y el 25% respectivamente en el catering de empresa. La huella de carbono debe reducirse un 40% en las escuelas y un 30% en las empresas. Al mismo tiempo, los precios y los niveles de satisfacción de los usuarios se mantendrán sin cambios. El cambio en el plato va acompañado de una campaña de comunicación y un programa de formación para el personal de restauración.",
+    "de": "Dieses Projekt ist Teil des Programms ProDij 2030.\nDie Qualität des Angebots und damit die Zufriedenheit der Nutzer der RHF (Schulverpflegung und konzessionierte Betriebsverpflegung) zu verbessern, ist das Ziel dieses Projekts. Es geht darum, die Qualität der servierten Mahlzeiten zu verbessern, indem der Anteil an hochwertigen, umweltfreundlichen lokalen Produkten erhöht wird. Ziel ist es, die Ernährungsqualität um 5% und die lokale Herkunft der in der Gemeinschaftsverpflegung servierten Gerichte um 25% zu steigern. In der Betriebsverpflegung werden Steigerungen von 15% bzw. 25% erwartet. Der CO2-Fußabdruck soll dadurch in der Schule um 40 % und im Unternehmen um 30 % gesenkt werden. Gleichzeitig werden der Preis und die Zufriedenheit der Nutzer gleich geblieben sein. Die Veränderung auf dem Teller wird von einer Kommunikationsmaßnahme und einem Schulungsprogramm für das Personal der Außer-Haus-Verpflegung begleitet."
+  },
   "field": [
     "management-public-administration",
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Mieux manger en collectivité / ProDij 2030",
+  "name": {
+    "fr": "Mieux manger en collectivité / ProDij 2030",
+    "en": "Eating well in the community / ProDij 2030",
+    "es": "Comer mejor en comunidad / ProDij 2030",
+    "de": "Besser essen in der Gemeinschaft / ProDij 2030"
+  },
   "pubId": 417952,
   "score": 512.0842105263099,
   "state": "ongoing-project",
@@ -49,28 +59,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495358,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495358,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

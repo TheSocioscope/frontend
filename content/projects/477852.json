@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754650670,
   "date": null,
-  "description": "The Green Walker Farm (GWF), established in 2017, focuses on sustainable agriculture through innovative practices like Black Soldier Fly (BSF) farming. GWF produces plantain, banana, poultry, and animal feeds while aiming to enhance productivity and mechanize operations. Collaborating with experts and institutions, the farm addresses food system challenges by reducing competition for resources like soy and fish meal, promoting environmental sustainability and economic growth in the community.   ",
+  "description": {
+    "en": "The Green Walker Farm (GWF), established in 2017, focuses on sustainable agriculture through innovative practices like Black Soldier Fly (BSF) farming. GWF produces plantain, banana, poultry, and animal feeds while aiming to enhance productivity and mechanize operations. Collaborating with experts and institutions, the farm addresses food system challenges by reducing competition for resources like soy and fish meal, promoting environmental sustainability and economic growth in the community.   ",
+    "fr": "La Green Walker Farm (GWF), créée en 2017, se concentre sur l'agriculture durable grâce à des pratiques innovantes telles que l'élevage de la mouche soldat noire (BSF). GWF produit du plantain, de la banane, de la volaille et des aliments pour animaux tout en visant à améliorer la productivité et à mécaniser les opérations. En collaborant avec des experts et des institutions, la ferme relève les défis du système alimentaire en réduisant la concurrence pour les ressources telles que le soja et la farine de poisson, en favorisant la durabilité environnementale et la croissance économique dans la communauté.   ",
+    "es": "La Green Walker Farm (GWF), creada en 2017, se centra en la agricultura sostenible mediante prácticas innovadoras como el cultivo de la mosca soldado negra. La GWF produce plátanos, bananas, aves de corral y piensos para animales con el objetivo de mejorar la productividad y mecanizar las operaciones. En colaboración con expertos e instituciones, la granja aborda los retos del sistema alimentario reduciendo la competencia por recursos como la soja y la harina de pescado, promoviendo la sostenibilidad medioambiental y el crecimiento económico de la comunidad.   ",
+    "de": "Die Green Walker Farm (GWF) wurde 2017 gegründet und konzentriert sich auf nachhaltige Landwirtschaft durch innovative Praktiken wie die Bekämpfung der Schwarzen Soldatenfliege (BSF). Die GWF produziert Kochbananen, Bananen, Geflügel und Tierfutter und strebt dabei eine höhere Produktivität und eine Mechanisierung der Abläufe an. In Zusammenarbeit mit Experten und Institutionen geht die Farm die Herausforderungen des Lebensmittelsystems an, indem sie den Wettbewerb um Ressourcen wie Soja und Fischmehl reduziert und die ökologische Nachhaltigkeit und das Wirtschaftswachstum in der Gemeinde fördert.   "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Green Walker Farm",
+  "name": {
+    "de": "Green Walker Farm",
+    "en": "Green Walker Farm",
+    "fr": "Ferme Green Walker",
+    "es": "Granja Green Walker"
+  },
   "pubId": 477852,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "de"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754560470,
   "date": null,
-  "description": "Almacén Andante, founded in 2008-2009 in Guaymayén, Mendoza, is a project dedicated to marketing and distributing products from small producers, cooperatives, and social organizations. Initially starting as a stand at the National University of Cuyo, it has evolved into a walking warehouse that emphasizes fair trade, food sovereignty, and responsible consumption. The initiative fosters local consumption and sustainability while providing a platform for marginalized producers to reach consumers directly.",
+  "description": {
+    "en": "Almacén Andante, founded in 2008-2009 in Guaymayén, Mendoza, is a project dedicated to the commercialization and distribution of products from small producers, cooperatives and social organizations. It initially began as a stand at the Universidad Nacional de Cuyo, but has evolved into a traveling store that emphasizes fair trade, food sovereignty and responsible consumption. The initiative encourages local consumption and sustainability, while providing a platform for marginalized producers to reach consumers directly.",
+    "fr": "Almacén Andante, fondé en 2008-2009 à Guaymayén, Mendoza, est un projet dédié à la commercialisation et à la distribution de produits de petits producteurs, de coopératives et d'organisations sociales. Au départ, il s'agissait d'un stand à l'Université nationale de Cuyo, mais il a évolué pour devenir un magasin mobile qui met l'accent sur le commerce équitable, la souveraineté alimentaire et la consommation responsable. L'initiative promeut la consommation locale et la durabilité, tout en offrant aux producteurs marginalisés une plateforme leur permettant d'atteindre directement les consommateurs.",
+    "es": "Almacén Andante, fundado en 2008-2009 en Guaymayén, Mendoza, es un proyecto dedicado a la comercialización y distribución de productos de pequeños productores, cooperativas y organizaciones sociales. Inicialmente comenzó como un stand en la Universidad Nacional de Cuyo, pero ha evolucionado hasta convertirse en un almacén ambulante que hace hincapié en el comercio justo, la soberanía alimentaria y el consumo responsable. La iniciativa fomenta el consumo local y la sostenibilidad, al tiempo que proporciona una plataforma para que los productores marginados lleguen directamente a los consumidores.",
+    "de": "Almacén Andante wurde 2008-2009 in Guaymayén, Mendoza, gegründet und ist ein Projekt, das sich der Vermarktung und dem Vertrieb von Produkten kleinerer Produzenten, Genossenschaften und sozialer Organisationen widmet. Ursprünglich als Stand an der Nationalen Universität von Cuyo gestartet, hat es sich zu einem Laufhaus entwickelt, das fairen Handel, Nahrungsmittelsouveränität und verantwortungsvollen Konsum betont. Die Initiative fördert den lokalen Konsum und die Nachhaltigkeit und bietet gleichzeitig eine Plattform für marginalisierte Produzenten, um direkt mit den Verbrauchern in Kontakt zu treten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Almacén Andante",
+  "name": {
+    "es": "Almacén Andante",
+    "en": "Almacén Andante",
+    "fr": "Almacén Andante",
+    "de": "Almacén Andante"
+  },
   "pubId": 460252,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

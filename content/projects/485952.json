@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754954373,
   "date": null,
-  "description": "Delicis Del Platano is an initiative focused on producing innovative banana and plantain-based products, including snacks, sandwiches, and cocadas, with an emphasis on health and quality. The business aims to provide sugar-free alternatives that cater to health-conscious consumers, particularly those with diabetes. The products are made using natural ingredients, with a commitment to maintaining the essence of the fruit without the use of chemicals. The business operates with a focus on quality, sustainability, and community support, providing occasional work to local mothers in need.",
+  "description": {
+    "en": "Delicis Del Platano is an initiative focused on producing innovative banana and plantain-based products, including snacks, sandwiches, and cocadas, with an emphasis on health and quality. The business aims to provide sugar-free alternatives that cater to health-conscious consumers, particularly those with diabetes. The products are made using natural ingredients, with a commitment to maintaining the essence of the fruit without the use of chemicals. The business operates with a focus on quality, sustainability, and community support, providing occasional work to local mothers in need.",
+    "fr": "Delicis Del Platano est une initiative axée sur la production de produits innovants à base de banane et de plantain, notamment des snacks, des sandwiches et des cocadas, en mettant l'accent sur la santé et la qualité. L'entreprise vise à fournir des alternatives sans sucre qui répondent aux besoins des consommateurs soucieux de leur santé, en particulier ceux qui souffrent de diabète. Les produits sont fabriqués à partir d'ingrédients naturels, avec l'engagement de préserver l'essence du fruit sans utiliser de produits chimiques. L'entreprise met l'accent sur la qualité, la durabilité et le soutien à la communauté, en offrant des emplois occasionnels à des mères locales dans le besoin.",
+    "es": "Delicis Del Platano es una iniciativa centrada en la elaboración de productos innovadores a base de plátano y banana, incluidos aperitivos, bocadillos y cocadas, haciendo hincapié en la salud y la calidad. El objetivo de la empresa es ofrecer alternativas sin azúcar dirigidas a los consumidores preocupados por su salud, especialmente los diabéticos. Los productos se elaboran con ingredientes naturales, con el compromiso de mantener la esencia de la fruta sin utilizar productos químicos. La empresa se centra en la calidad, la sostenibilidad y el apoyo a la comunidad, ofreciendo trabajo ocasional a madres locales necesitadas.",
+    "de": "Delicis Del Platano ist eine Initiative, die sich auf die Herstellung innovativer Produkte auf Bananen- und Kochbananenbasis konzentriert, darunter Snacks, Sandwiches und Cocadas, wobei der Schwerpunkt auf Gesundheit und Qualität liegt. Ziel des Unternehmens ist es, zuckerfreie Alternativen anzubieten, die sich an gesundheitsbewusste Verbraucher richten, insbesondere an Diabetiker. Die Produkte werden unter Verwendung natürlicher Zutaten hergestellt, wobei darauf geachtet wird, die Essenz der Frucht ohne den Einsatz von Chemikalien zu erhalten. Das Unternehmen legt den Schwerpunkt auf Qualität, Nachhaltigkeit und Unterstützung der Gemeinschaft, indem es bedürftigen Müttern in der Region gelegentlich Arbeit anbietet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Delicis Del Platano",
+  "name": {
+    "it": "Delicis Del Platano",
+    "en": "Delicis Del Platano",
+    "fr": "Delicis Del Platano",
+    "es": "Delicis Del Platano",
+    "de": "Delicis Del Platano"
+  },
   "pubId": 485952,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

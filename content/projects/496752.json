@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755087898,
   "date": null,
-  "description": "Greencycle is an innovative startup, focused on revolutionizing the agricultural sector in Peru. By providing digital identifications, or \"food passports,\" for agricultural products, Greencycle ensures the safety, quality, and sustainability of food throughout the production chain. Collaborating with 25,000 farmers, the initiative aims to improve farmers' incomes, combat deforestation, and enhance food safety, ultimately contributing to a healthier food system and better quality of life for communities.",
+  "description": {
+    "en": "Greencycle is an innovative startup, focused on revolutionizing the agricultural sector in Peru. By providing digital identifications, or \"food passports,\" for agricultural products, Greencycle ensures the safety, quality, and sustainability of food throughout the production chain. Collaborating with 25,000 farmers, the initiative aims to improve farmers' incomes, combat deforestation, and enhance food safety, ultimately contributing to a healthier food system and better quality of life for communities.",
+    "fr": "Greencycle est une startup innovante dont l'objectif est de révolutionner le secteur agricole au Pérou. En fournissant des identifications numériques, ou \"passeports alimentaires\", pour les produits agricoles, Greencycle garantit la sécurité, la qualité et la durabilité des aliments tout au long de la chaîne de production. En collaborant avec 25 000 agriculteurs, l'initiative vise à améliorer les revenus des agriculteurs, à lutter contre la déforestation et à renforcer la sécurité alimentaire, contribuant ainsi à un système alimentaire plus sain et à une meilleure qualité de vie pour les communautés.",
+    "es": "Greencycle es una startup innovadora, centrada en revolucionar el sector agrícola en Perú. Al proporcionar identificaciones digitales, o \"pasaportes alimentarios\", para los productos agrícolas, Greencycle garantiza la seguridad, calidad y sostenibilidad de los alimentos a lo largo de toda la cadena de producción. Colaborando con 25.000 agricultores, la iniciativa pretende mejorar los ingresos de los agricultores, combatir la deforestación y mejorar la seguridad alimentaria, contribuyendo en última instancia a un sistema alimentario más sano y a una mejor calidad de vida para las comunidades.",
+    "de": "Greencycle ist ein innovatives Start-up-Unternehmen, das sich darauf konzentriert, den Agrarsektor in Peru zu revolutionieren. Durch die Bereitstellung digitaler Identifikationen oder \"Lebensmittelpässe\" für landwirtschaftliche Produkte gewährleistet Greencycle die Sicherheit, Qualität und Nachhaltigkeit von Lebensmitteln in der gesamten Produktionskette. Durch die Zusammenarbeit mit 25 000 Landwirten will die Initiative die Einkommen der Landwirte verbessern, die Abholzung der Wälder bekämpfen und die Lebensmittelsicherheit erhöhen, was letztlich zu einem gesünderen Lebensmittelsystem und einer besseren Lebensqualität für die Gemeinschaften beiträgt."
+  },
   "field": [
     "information-technology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Greencycle",
+  "name": {
+    "en": "Greencycle",
+    "fr": "Recyclage écologique",
+    "es": "Ciclo verde",
+    "de": "Greencycle"
+  },
   "pubId": 496752,
   "score": 66.1646016200006,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "lFl_Kv_yMnQ",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1755739578,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1755739578
     }
   ],
-  "lastEvent": {
-    "at": 1755739578,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739578
-  ]
+  ],
+  "originalLang": "en"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754989900,
   "date": null,
-  "description": "Grupo Smile, founded in 2019, is a restaurant group in Bogotá that emphasizes sustainability and quality dining experiences. With four diverse restaurants and a catering service, the initiative aims to provide healthy food while positively impacting the community. The group focuses on responsible sourcing, employee growth, and environmental practices, striving to become a certified B Corp. Their mission is to nurture people through quality food and experiences that foster personal and social development.",
+  "description": {
+    "en": "Grupo Smile, founded in 2019, is a restaurant group in Bogotá that emphasizes sustainability and quality dining experiences. With four diverse restaurants and a catering service, the initiative aims to provide healthy food while positively impacting the community. The group focuses on responsible sourcing, employee growth, and environmental practices, striving to become a certified B Corp. Their mission is to nurture people through quality food and experiences that foster personal and social development.",
+    "fr": "Grupo Smile, fondé en 2019, est un groupe de restaurants à Bogota qui met l'accent sur la durabilité et les expériences gastronomiques de qualité. Avec quatre restaurants diversifiés et un service de restauration, l'initiative vise à fournir des aliments sains tout en ayant un impact positif sur la communauté. Le groupe se concentre sur l'approvisionnement responsable, la croissance des employés et les pratiques environnementales, et s'efforce de devenir une entreprise certifiée B Corp. Sa mission est de nourrir les gens grâce à une nourriture de qualité et à des expériences qui favorisent le développement personnel et social.",
+    "es": "Grupo Smile, fundado en 2019, es un grupo de restaurantes en Bogotá que hace hincapié en la sostenibilidad y las experiencias gastronómicas de calidad. Con cuatro restaurantes diversos y un servicio de catering, la iniciativa tiene como objetivo proporcionar alimentos saludables al tiempo que impacta positivamente en la comunidad. El grupo se centra en el abastecimiento responsable, el crecimiento de los empleados y las prácticas ambientales, esforzándose por convertirse en una B Corp certificada. Su misión es nutrir a las personas mediante alimentos de calidad y experiencias que fomenten el desarrollo personal y social.",
+    "de": "Die 2019 gegründete Grupo Smile ist eine Restaurantgruppe in Bogotá, die Wert auf Nachhaltigkeit und hochwertige Essenserlebnisse legt. Mit vier verschiedenen Restaurants und einem Cateringservice will die Initiative gesundes Essen anbieten und gleichzeitig einen positiven Einfluss auf die Gemeinschaft ausüben. Die Gruppe konzentriert sich auf verantwortungsvolle Beschaffung, Mitarbeiterentwicklung und Umweltpraktiken und strebt an, eine zertifizierte B-Corp zu werden. Ihr Ziel ist es, Menschen durch qualitativ hochwertiges Essen und Erlebnisse, die die persönliche und soziale Entwicklung fördern, zu unterstützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Grupo Smile",
+  "name": {
+    "es": "Grupo Smile",
+    "en": "Smile Group",
+    "fr": "Groupe Smile",
+    "de": "Gruppe Lächeln"
+  },
   "pubId": 489452,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754568713,
   "date": null,
-  "description": "Dudu Master is an innovative initiative focused on sustainable farming through insect farming, particularly black soldier flies and red earthworms. Founded by Jennifer, a trained entomologist, the project transforms organic waste into valuable resources like organic fertilizer and animal feed. Dudu Master also offers training and starter kits to empower farmers and households, promoting a circular economy that enhances soil health and food security while reducing reliance on synthetic fertilizers.",
+  "description": {
+    "en": "Dudu Master is an innovative initiative focused on sustainable agriculture through the rearing of insects, particularly black soldier flies and red worms. Founded by Jennifer, an entomologist by training, the project transforms organic waste into valuable resources such as organic fertilizer and animal feed. Dudu Master also offers training and starter kits to empower farmers and households, promoting a circular economy that improves soil health and food security while reducing reliance on synthetic fertilizers.",
+    "fr": "Dudu Master est une initiative innovante axée sur l'agriculture durable grâce à l'élevage d'insectes, en particulier de mouches soldat noires et de vers rouges. Fondé par Jennifer, entomologiste de formation, le projet transforme les déchets organiques en ressources précieuses telles que des engrais organiques et des aliments pour animaux. Dudu Master propose également des formations et des kits de démarrage pour responsabiliser les agriculteurs et les ménages, en promouvant une économie circulaire qui améliore la santé des sols et la sécurité alimentaire tout en réduisant la dépendance à l'égard des engrais synthétiques.",
+    "es": "Dudu Master es una iniciativa innovadora centrada en la agricultura sostenible mediante la cría de insectos, en particular moscas soldado negras y lombrices rojas. Fundado por Jennifer, entomóloga de formación, el proyecto transforma los residuos orgánicos en valiosos recursos como fertilizantes orgánicos y piensos para animales. Dudu Master también ofrece formación y kits de iniciación para capacitar a los agricultores y los hogares, promoviendo una economía circular que mejora la salud del suelo y la seguridad alimentaria al tiempo que reduce la dependencia de los fertilizantes sintéticos.",
+    "de": "Dudu Master ist eine innovative Initiative, die sich auf nachhaltige Landwirtschaft durch Insektenfarming konzentriert, insbesondere schwarze Soldatenfliege und rote Erdraupen. Das Projekt wurde von Jennifer, einer ausgebildeten Insektenforscherin, gegründet und verwandelt organische Abfälle in wertvolle Ressourcen wie organischen Dünger und Tierfutter. Dudu Master bietet auch Schulungen und Starterkits an, um Landwirte und Haushalte zu stärken und eine Kreislaufwirtschaft zu fördern, die die Bodengesundheit und Nahrungsmittelsicherheit verbessert und gleichzeitig die Abhängigkeit von künstlichen Düngemitteln verringert."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Dudu Master",
+  "name": {
+    "et": "Dudu Master",
+    "en": "Dudu Master",
+    "fr": "Maître Dudu",
+    "es": "Maestro Dudu",
+    "de": "Dudu Meister"
+  },
   "pubId": 473252,
   "score": 157.62418530934744,
   "state": "ongoing-project",
@@ -42,10 +53,6 @@
   ],
   "url": "",
   "yt": "JUihGr5ut5M",
-  "zone": [
-    1,
-    5
-  ],
   "editedAt": 1760066647,
   "feedback": [
     {
@@ -53,11 +60,8 @@
       "at": 1760066647
     }
   ],
-  "lastEvent": {
-    "at": 1760066647,
-    "by": "contact"
-  },
   "updatedAt": [
     1760066647
-  ]
+  ],
+  "originalLang": "fr"
 }

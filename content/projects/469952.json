@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754559704,
   "date": null,
-  "description": "Agrocalidad in Ecuador oversees the regulation and control of organic production, established by a ministerial agreement in 2003 and formalized in 2013. It promotes sustainable production models, including organic, ecological, and agroecological practices. With over 2,300 certified organic products, Ecuador is a leading exporter to the European Union and the second globally. The initiative aims to enhance domestic consumption, ensure product integrity, and support producers through training and certification.",
+  "description": {
+    "en": "Agrocalidad in Ecuador oversees the regulation and control of organic production, established by a ministerial agreement in 2003 and formalized in 2013. It promotes sustainable production models, including organic, ecological and agroecological practices. With more than 2,300 certified organic products, Ecuador is one of the main exporters to the European Union and the second worldwide. The initiative aims to boost domestic consumption, ensure product integrity and support producers through training and certification.",
+    "fr": "En Équateur, Agrocalidad supervise la réglementation et le contrôle de la production biologique, établis par un accord ministériel en 2003 et officialisés en 2013. Elle promeut des modèles de production durable, y compris des pratiques biologiques, écologiques et agroécologiques. Avec plus de 2 300 produits biologiques certifiés, l'Équateur est l'un des principaux exportateurs vers l'Union européenne et le deuxième exportateur mondial. L'initiative vise à stimuler la consommation intérieure, à garantir l'intégrité des produits et à soutenir les producteurs par la formation et la certification.",
+    "es": "Agrocalidad en Ecuador supervisa la regulación y el control de la producción orgánica, establecida por un acuerdo ministerial en 2003 y formalizada en 2013. Promueve modelos de producción sostenibles, incluidas prácticas orgánicas, ecológicas y agroecológicas. Con más de 2.300 productos orgánicos certificados, Ecuador es uno de los principales exportadores a la Unión Europea y el segundo a nivel mundial. La iniciativa pretende potenciar el consumo interno, garantizar la integridad de los productos y apoyar a los productores mediante la formación y la certificación.",
+    "de": "Agrocalidad in Ecuador überwacht die Regulierung und Kontrolle der ökologischen Produktion, die durch ein Ministerialabkommen im Jahr 2003 eingeführt und 2013 formalisiert wurde. Sie fördert nachhaltige Produktionsmodelle, einschließlich organischer, ökologischer und agroökologischer Praktiken. Mit über 2.300 zertifizierten Bio-Produkten ist Ecuador ein führender Exporteur in die Europäische Union und der zweitgrößte weltweit. Die Initiative zielt darauf ab, den Inlandsverbrauch zu steigern, die Produktintegrität zu gewährleisten und die Erzeuger durch Schulungen und Zertifizierungen zu unterstützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agrocalidad",
+  "name": {
+    "pt": "Agrocalidad",
+    "en": "Agrocalidad",
+    "fr": "Agrocalidad",
+    "es": "Agrocalidad",
+    "de": "Agrocalidad"
+  },
   "pubId": 469952,
   "score": -48.16472956592904,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

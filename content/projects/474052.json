@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754573714,
   "date": null,
-  "description": "Samwana Natural Foods is an initiative aimed at addressing food insecurity in Kenya by connecting smallholder farmers with consumers. Founded by a farmer who transitioned from selling fresh produce to creating value-added products, the business focuses on preserving indigenous foods. By processing items like cassava and mango into flour, ketchup, and dried snacks, Samwana ensures that farmers receive fair prices while reducing post-harvest losses. The initiative promotes sustainable practices and aims to formalize its operations for greater impact.",
+  "description": {
+    "en": "Samwana Natural Foods is an initiative aimed at addressing food insecurity in Kenya by connecting smallholder farmers with consumers. Founded by a farmer who moved from selling fresh produce to creating value-added products, the company focuses on preserving indigenous foods. By transforming products such as cassava and mango into flour, tomato sauce and dried snacks, Samwana ensures that farmers receive fair prices while reducing post-harvest losses. The initiative promotes sustainable practices and aims to formalize its operations for greater impact.",
+    "fr": "Samwana Natural Foods est une initiative visant à lutter contre l'insécurité alimentaire au Kenya en mettant en relation les petits exploitants agricoles et les consommateurs. Fondée par un agriculteur qui est passé de la vente de produits frais à la création de produits à valeur ajoutée, l'entreprise se concentre sur la conservation des aliments indigènes. En transformant des produits tels que le manioc et la mangue en farine, en sauce tomate et en snacks séchés, Samwana s'assure que les agriculteurs reçoivent des prix équitables tout en réduisant les pertes post-récolte. L'initiative promeut des pratiques durables et vise à formaliser ses opérations pour un plus grand impact.",
+    "es": "Samwana Natural Foods es una iniciativa destinada a hacer frente a la inseguridad alimentaria en Kenia conectando a los pequeños agricultores con los consumidores. Fundada por un agricultor que pasó de vender productos frescos a crear productos de valor añadido, la empresa se centra en la conservación de alimentos autóctonos. Al transformar productos como la mandioca y el mango en harina, salsa de tomate y aperitivos secos, Samwana garantiza que los agricultores reciban precios justos al tiempo que reduce las pérdidas posteriores a la cosecha. La iniciativa promueve prácticas sostenibles y aspira a formalizar sus operaciones para lograr un mayor impacto.",
+    "de": "Samwana Natural Foods ist eine Initiative zur Überwindung der Ernährungsunsicherheit in Kenia, indem sie Kleinbauern mit Verbrauchern verbindet. Das von einem Landwirt gegründete Unternehmen, das vom Verkauf von Frischprodukten zur Herstellung von Mehrwertprodukten überging, konzentriert sich auf den Erhalt einheimischer Lebensmittel. Durch die Verarbeitung von Gegenständen wie Kassava und Mango zu Mehl, Ketchup und getrockneten Snacks stellt Samwana sicher, dass die Bauern faire Preise erhalten und gleichzeitig die Verluste nach der Ernte verringern. Die Initiative fördert nachhaltige Praktiken und strebt eine Formalisierung ihrer Operationen an, um eine größere Wirkung zu erzielen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Samwana Natural Foods",
+  "name": {
+    "en": "Samwana Natural Foods",
+    "fr": "Samwana Natural Foods",
+    "es": "Samwana Natural Foods",
+    "de": "Samwana Natural Foods"
+  },
   "pubId": 474052,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

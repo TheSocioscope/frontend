@@ -13,13 +13,23 @@
   ],
   "createdAt": 1698155091,
   "date": null,
-  "description": "GreenLab is the green industrial park of the future for companies that want to contribute to the green transition.\nHere, sustainable energy is generated and supplied to the park’s companies (soon) via a direct connection, and the companies in the park can share their surplus energy and resources with each other through the SymbiosisNet™ - an intelligent network of energy and data. The GreenLab model demonstrates how different energy sectors can be integrated in a unique interplay between green hydrogen, industry, and energy infrastructure.\n\nhttps://www.greenlab.dk/\n",
+  "description": {
+    "en": "GreenLab is the green industrial park of the future for companies that want to contribute to the ecological transition. Here, sustainable energy is generated and supplied to the companies in the park (coming soon) via a direct connection, and the companies in the park can share their surplus energy and resources with each other through SymbiosisNet™, a smart energy and data network. The GreenLab model demonstrates how different energy sectors can be integrated in a unique interaction between green hydrogen, industry and energy infrastructure. https://www.greenlab.dk/",
+    "fr": "GreenLab est le parc industriel vert du futur pour les entreprises qui veulent contribuer à la transition verte. Ici, l'énergie durable est générée et fournie aux entreprises du parc (bientôt) via une connexion directe, et les entreprises du parc peuvent partager leur surplus d'énergie et de ressources les unes avec les autres via SymbiosisNet™, un réseau intelligent d'énergie et de données. Le modèle GreenLab démontre comment différents secteurs énergétiques peuvent être intégrés dans une interaction unique entre l'hydrogène vert, l'industrie et l'infrastructure énergétique. https://www.greenlab.dk/",
+    "es": "GreenLab es el parque industrial ecológico del futuro para empresas que quieren contribuir a la transición ecológica.\nAquí, la energía sostenible se genera y suministra a las empresas del parque (próximamente) a través de una conexión directa, y las empresas del parque pueden compartir sus excedentes de energía y recursos entre sí a través de la SymbiosisNet™, una red inteligente de energía y datos. El modelo GreenLab demuestra cómo pueden integrarse distintos sectores energéticos en una interacción única entre el hidrógeno verde, la industria y la infraestructura energética.\n\nhttps://www.greenlab.dk/\n",
+    "de": "GreenLab ist der grüne Industriepark der Zukunft für Unternehmen, die zum grünen Übergang beitragen wollen.\nHier wird nachhaltige Energie erzeugt und über eine direkte Verbindung an die (baldigen) Unternehmen des Parks geliefert, und die Unternehmen im Park können ihre überschüssige Energie und Ressourcen über das SymbiosisNet™ - ein intelligentes Energie- und Datennetzwerk - untereinander austauschen. Das GreenLab-Modell demonstriert, wie verschiedene Energiebereiche in einem einzigartigen Zusammenspiel von grünem Wasserstoff, Industrie und Energieinfrastruktur integriert werden können.\n\nhttps://www.greenlab.dk/\n"
+  },
   "field": [
     "chemistry-physics"
   ],
   "lang": "fr",
   "location": "Skive",
-  "name": "Greenlab",
+  "name": {
+    "en": "Greenlab",
+    "fr": "Greenlab",
+    "es": "Greenlab",
+    "de": "Greenlab"
+  },
   "pubId": 443252,
   "score": -1998.3890171275925,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "https://www.greenlab.dk/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

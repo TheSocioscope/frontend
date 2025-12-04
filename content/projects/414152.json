@@ -12,14 +12,24 @@
   ],
   "createdAt": 1655940960,
   "date": null,
-  "description": "Le projet Foodscapes s'intègre dans un programme plus vaste de la Chaire Unesco Alimentations du Monde \"Sustainable Urban Food Systems\" (Surfood). Il propose d’analyser les effets des paysages alimentaires urbains (commerces alimentaires, marchés, jardins, etc.) sur les styles alimentaires des individus (consommations, pratiques et représentations) et leur durabilité.\nLe terrain d’étude est le Grand Montpellier, à savoir la ville de Montpellier et une quarantine de communes avoisinantes. \nStructure du projet\nLe projet s'organise autour de cinq axes de recherche :\na) Les paysages alimentaires du point de vue des habitants (approche sociologique)\n b) Les relations entre paysages alimentaires et pratiques spatiales d’approvisionnement des habitants (approche géographique)\nc) Les jardins partagés et leur impact sur la durabilité des styles de vie des citadins (approche nutritionnelle)\nd) Les effets du développement de la commande alimentaire par Internet (approche sociologique)\ne) Les effets des paysages alimentaires sur les comportements alimentaires  (approche interdisciplinaire autour d'une enquête par questionnaire sur échantillon représentatif de la population)\n\n",
+  "description": {
+    "fr": "Le projet Foodscapes s'intègre dans un programme plus vaste de la Chaire Unesco Alimentations du Monde \"Sustainable Urban Food Systems\" (Surfood). Il propose d’analyser les effets des paysages alimentaires urbains (commerces alimentaires, marchés, jardins, etc.) sur les styles alimentaires des individus (consommations, pratiques et représentations) et leur durabilité.\nLe terrain d’étude est le Grand Montpellier, à savoir la ville de Montpellier et une quarantine de communes avoisinantes. \nStructure du projet\nLe projet s'organise autour de cinq axes de recherche :\na) Les paysages alimentaires du point de vue des habitants (approche sociologique)\n b) Les relations entre paysages alimentaires et pratiques spatiales d’approvisionnement des habitants (approche géographique)\nc) Les jardins partagés et leur impact sur la durabilité des styles de vie des citadins (approche nutritionnelle)\nd) Les effets du développement de la commande alimentaire par Internet (approche sociologique)\ne) Les effets des paysages alimentaires sur les comportements alimentaires  (approche interdisciplinaire autour d'une enquête par questionnaire sur échantillon représentatif de la population)\n\n",
+    "en": "The Foodscapes project is part of a wider program of the Unesco Chair in World Food \"Sustainable Urban Food Systems\" (Surfood). It aims to analyze the effects of urban food landscapes (food shops, markets, gardens, etc.) on people's eating styles (consumption, practices and representations) and their sustainability.\nThe field of study is the Greater Montpellier area, i.e. the city of Montpellier and forty neighboring communes.\nProject structure\nThe project is organized around five lines of research:\na) Food landscapes from the point of view of local residents (sociological approach)\n b) Relationships between food landscapes and spatial supply practices (geographical approach)\nc) Shared gardens and their impact on the sustainability of city-dwellers' lifestyles (nutritional approach)\nd) The effects of the development of Internet food ordering (sociological approach)\ne) The effects of food landscapes on eating habits (interdisciplinary approach based on a questionnaire survey of a representative sample of the population)\n\n",
+    "es": "El proyecto Foodscapes forma parte de un programa más amplio dirigido por la Cátedra Mundial UNESCO de Sistemas Alimentarios Urbanos Sostenibles (Surfood). Su objetivo es analizar los efectos de los paisajes alimentarios urbanos (tiendas de alimentación, mercados, jardines, etc.) en los estilos alimentarios de la población (consumo, prácticas y representaciones) y su sostenibilidad.\nEl ámbito de estudio es el Gran Montpellier, es decir, la ciudad de Montpellier y cuarenta municipios vecinos.\nEstructura del proyecto\nEl proyecto se organiza en torno a cinco líneas de investigación:\na) Los paisajes alimentarios desde el punto de vista de los residentes locales (enfoque sociológico)\n b) La relación entre los paisajes alimentarios y las prácticas de aprovisionamiento espacial de los residentes locales (enfoque geográfico)\nc) Los huertos compartidos y su impacto en la sostenibilidad de los modos de vida urbanos (enfoque nutricional)\nd) Los efectos del desarrollo de los pedidos de comida por Internet (enfoque sociológico)\ne) Efectos de los paisajes alimentarios en los hábitos alimentarios (enfoque interdisciplinario basado en una encuesta por cuestionario a una muestra representativa de la población).\n\n",
+    "de": "Das Projekt Foodscapes ist Teil eines umfassenderen Programms des Unesco-Lehrstuhls für Welternährung \"Sustainable Urban Food Systems\" (Surfood). Es soll die Auswirkungen städtischer Lebensmittellandschaften (Lebensmittelgeschäfte, Märkte, Gärten usw.) auf die Ernährungsstile der Menschen (Konsum, Praktiken und Vorstellungen) und deren Nachhaltigkeit analysieren.\nDas Untersuchungsgebiet ist der Großraum Montpellier, d. h. die Stadt Montpellier und rund 40 umliegende Gemeinden.\nStruktur des Projekts\nDas Projekt gliedert sich in fünf Forschungsschwerpunkte:\na) Nahrungslandschaften aus der Sicht der Bewohner (soziologischer Ansatz).\n b) Die Beziehungen zwischen Nahrungslandschaften und räumlichen Versorgungspraktiken der Einwohner (geografischer Ansatz).\nc) Gemeinschaftsgärten und ihre Auswirkungen auf die Nachhaltigkeit des Lebensstils von Stadtbewohnern (ernährungswissenschaftlicher Ansatz).\nd) Die Auswirkungen der Entwicklung von Lebensmittelbestellungen über das Internet (soziologischer Ansatz).\ne) Die Auswirkungen von Lebensmittellandschaften auf das Ernährungsverhalten (interdisziplinärer Ansatz rund um eine Fragebogenerhebung in einer repräsentativen Bevölkerungsstichprobe)\n\n"
+  },
   "field": [
     "geography",
     "sociology"
   ],
   "lang": "fr",
   "location": "Montpellier",
-  "name": "Surfood - Foodscapes",
+  "name": {
+    "en": "Surfood - Foodscapes",
+    "fr": "Surfood - Foodscapes",
+    "es": "Surfood - Paisajes alimentarios",
+    "de": "Surfood - Foodscapes"
+  },
   "pubId": 414152,
   "score": 5229.700000000037,
   "state": "completed-project",
@@ -85,28 +95,5 @@
   ],
   "url": "https://www.foodscapes.fr/",
   "yt": "https://vimeo.com/686775240",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1656085619,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1656085619,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

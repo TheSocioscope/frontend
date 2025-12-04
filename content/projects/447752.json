@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739452958,
   "date": null,
-  "description": "Réseau Marguerite is an initiative based in Lyon that focuses on enhancing agricultural and food education in secondary schools. It supports teachers in developing educational projects related to food justice, sustainability, and the agri-food system. The network currently assists 17 schools in the Lyon region and aims to foster critical awareness among students regarding food issues.\n\nRéseau Marguerite also aims to create accessible educational resources, such as downloadable guides and activity kits, to empower teachers and students to address food-related issues. The initiative seeks to give teenagers a voice in food education and empower them to engage with local food systems and issues.",
+  "description": {
+    "en": "Réseau Marguerite is a Lyon-based initiative focused on improving agricultural and food education in secondary schools. It helps teachers develop educational projects related to food justice, sustainability and the agri-food system. The network currently helps 17 schools in the Lyon region and aims to foster students' critical awareness of food issues. Réseau Marguerite also aims to create accessible educational resources, such as downloadable guides and activity kits, to empower teachers and students to address food-related issues. The initiative aims to give adolescents a voice in food education and empower them to engage with local food systems and issues.",
+    "fr": "Le Réseau Marguerite est une initiative lyonnaise qui vise à améliorer l'éducation agricole et alimentaire dans les écoles secondaires. Il aide les enseignants à développer des projets éducatifs liés à la justice alimentaire, à la durabilité et au système agroalimentaire. Le Réseau Marguerite a également pour objectif de créer des ressources pédagogiques accessibles, telles que des guides et des kits d'activités téléchargeables, afin de permettre aux enseignants et aux élèves d'aborder les questions liées à l'alimentation. L'initiative vise à donner aux adolescents une voix dans l'éducation alimentaire et à leur donner les moyens de s'engager dans les systèmes alimentaires locaux et les questions qui s'y rapportent.",
+    "es": "Réseau Marguerite es una iniciativa con sede en Lyon que se centra en mejorar la educación agrícola y alimentaria en los centros de secundaria. Ayuda a los profesores a desarrollar proyectos educativos relacionados con la justicia alimentaria, la sostenibilidad y el sistema agroalimentario. La red ayuda actualmente a 17 escuelas de la región de Lyon y su objetivo es fomentar la conciencia crítica de los estudiantes respecto a las cuestiones alimentarias.\n\nRéseau Marguerite también pretende crear recursos educativos accesibles, como guías descargables y kits de actividades, para capacitar a profesores y alumnos a abordar cuestiones relacionadas con la alimentación. La iniciativa pretende dar voz a los adolescentes en la educación alimentaria y capacitarlos para comprometerse con los sistemas y problemas alimentarios locales.",
+    "de": "Réseau Marguerite ist eine in Lyon ansässige Initiative, die sich auf die Verbesserung der Agrar- und Ernährungserziehung in Sekundarschulen konzentriert. Sie unterstützt Lehrkräfte bei der Entwicklung von Bildungsprojekten zu den Themen Lebensmittelgerechtigkeit, Nachhaltigkeit und das Agrar- und Ernährungssystem. Das Netzwerk unterstützt derzeit 17 Schulen in der Region Lyon und zielt darauf ab, unter den Schülern ein kritisches Bewusstsein für Lebensmittelfragen zu fördern.\n\nRéseau Marguerite zielt auch darauf ab, zugängliche Bildungsressourcen wie herunterladbare Leitfäden und Aktivitätskits zu erstellen, um Lehrer und Schüler zu befähigen, ernährungsrelevante Fragen anzugehen. Die Initiative will Teenagern eine Stimme in der Ernährungserziehung geben und sie dazu befähigen, sich mit lokalen Ernährungssystemen und -fragen auseinanderzusetzen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Reseau Marguerite",
+  "name": {
+    "fr": "Reseau Marguerite",
+    "en": "Reseau Marguerite",
+    "es": "Reseau Marguerite",
+    "de": "Marguerite-Netzwerk"
+  },
   "pubId": 447752,
   "score": 106.10196078431456,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://reseaumarguerite.org/Association-Alimentation-durable",
   "yt": "JGieV0eshh0",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

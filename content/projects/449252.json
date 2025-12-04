@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739456110,
   "date": null,
-  "description": "Eaternity is an initiative based in Zurich, Switzerland, focused on calculating the CO2 emissions associated with food. The organization aims to promote sustainable practices by providing tools that help individuals and businesses make informed decisions regarding their food consumption. The initiative began with a pilot project at ETH University, which garnered recognition and support, leading to the development of a software platform that allows restaurants and other clients to calculate their food-related carbon footprints.\n\nEaternity operates as a social enterprise, balancing its mission of environmental sustainability with the need to generate revenue. The organization has successfully engaged with various clients, including city canteens and restaurants, by offering a subscription-based service that covers operational costs and provides detailed reports on CO2 emissions. Their software has evolved from a DIY approach using Excel to a more sophisticated open-source system that emphasizes transparency and accuracy in calculations",
+  "description": {
+    "en": "Eaternity is an initiative based in Zurich, Switzerland, focused on calculating the CO2 emissions associated with food. The organization aims to promote sustainable practices by providing tools to help individuals and companies make informed decisions about their food consumption. The initiative began with a pilot project at ETH University, which gained recognition and support, leading to the development of a software platform that enables restaurants and other customers to calculate their food-related carbon footprints. Eaternity operates as a social enterprise, balancing its mission of environmental sustainability with the need to generate revenue. The organization has successfully engaged with a number of clients, including municipal canteens and restaurants, offering a subscription-based service that covers operating costs and provides detailed reporting on CO2 emissions. Its software has evolved from a do-it-yourself approach using Excel to a more sophisticated open source system that emphasizes transparency and accuracy of calculations.",
+    "fr": "Eaternity est une initiative basée à Zurich (Suisse) qui se concentre sur le calcul des émissions de CO2 liées à l'alimentation. L'organisation vise à promouvoir des pratiques durables en fournissant des outils pour aider les individus et les entreprises à prendre des décisions éclairées sur leur consommation alimentaire. L'initiative a débuté par un projet pilote à l'université ETH, qui a gagné en reconnaissance et en soutien, conduisant au développement d'une plateforme logicielle qui permet aux restaurants et autres clients de calculer leur empreinte carbone liée à l'alimentation. Eaternity fonctionne comme une entreprise sociale, conciliant sa mission de durabilité environnementale avec la nécessité de générer des revenus. L'organisation s'est engagée avec succès auprès d'un certain nombre de clients, notamment des cantines municipales et des restaurants, en proposant un service sur abonnement qui couvre les coûts opérationnels et fournit des rapports détaillés sur les émissions de CO2. Son logiciel a évolué, passant d'une approche de bricolage utilisant Excel à un système open source plus sophistiqué qui met l'accent sur la transparence et la précision des calculs.",
+    "es": "Eaternity es una iniciativa con sede en Zúrich (Suiza) centrada en el cálculo de las emisiones de CO2 asociadas a los alimentos. La organización pretende promover prácticas sostenibles proporcionando herramientas que ayuden a particulares y empresas a tomar decisiones informadas sobre su consumo de alimentos. La iniciativa comenzó con un proyecto piloto en la Universidad ETH, que obtuvo reconocimiento y apoyo, lo que llevó al desarrollo de una plataforma de software que permite a restaurantes y otros clientes calcular sus huellas de carbono relacionadas con la alimentación.\n\nEaternity funciona como una empresa social, equilibrando su misión de sostenibilidad medioambiental con la necesidad de generar ingresos. La organización se ha comprometido con éxito con varios clientes, incluidos comedores municipales y restaurantes, ofreciendo un servicio por suscripción que cubre los costes operativos y proporciona informes detallados sobre las emisiones de CO2. Su software ha evolucionado desde un enfoque de bricolaje utilizando Excel a un sistema de código abierto más sofisticado que hace hincapié en la transparencia y la precisión de los cálculos",
+    "de": "Eaternity ist eine in Zürich, Schweiz, ansässige Initiative, die sich auf die Berechnung der mit Lebensmitteln verbundenen CO2-Emissionen konzentriert. Die Organisation möchte nachhaltige Praktiken fördern, indem sie Tools zur Verfügung stellt, die Einzelpersonen und Unternehmen dabei helfen, informierte Entscheidungen über ihren Lebensmittelkonsum zu treffen. The initiative began with a pilot project at ETH University, which garnered recognition and support, leading to the development of a software platform that allows restaurants and other clients to calculate their food-related carbon footprints.\n\nEaternity operiert als soziales Unternehmen und balanciert seine Mission der ökologischen Nachhaltigkeit mit der Notwendigkeit, Einnahmen zu generieren. Die Organisation hat erfolgreich mit verschiedenen Kunden, darunter Stadtkantinen und Restaurants, zusammengearbeitet, indem sie einen abonnierten Service anbietet, der die Betriebskosten deckt und detaillierte Berichte über CO2-Emissionen liefert. Ihre Software hat sich von einem Do-it-yourself-Ansatz mit Excel zu einem ausgefeilteren Open-Source-System entwickelt, das Transparenz und Genauigkeit bei den Berechnungen betont."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eaternity",
+  "name": {
+    "en": "Eaternity",
+    "fr": "Eaternity",
+    "es": "Eaternidad",
+    "de": "Eaternity"
+  },
   "pubId": 449252,
   "score": 76.70196078431324,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://eaternity.org/",
   "yt": "ZtiE-StatYo",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

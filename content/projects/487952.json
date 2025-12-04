@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754987015,
   "date": null,
-  "description": "The initiative focuses on transforming organic waste into humus through various composting methods, including anaerobic composting, aerobic composting, and vermiculture. It emphasizes community involvement, sustainability, and the importance of maintaining good relationships with neighbors and family. By fostering cooperation and awareness, the initiative aims to promote food sovereignty and environmental responsibility, ultimately reconnecting individuals with nature and their role within the ecosystem.",
+  "description": {
+    "en": "The initiative focuses on transforming organic waste into humus through various composting methods, including anaerobic composting, aerobic composting, and vermiculture. It emphasizes community involvement, sustainability, and the importance of maintaining good relationships with neighbors and family. By fostering cooperation and awareness, the initiative aims to promote food sovereignty and environmental responsibility, ultimately reconnecting individuals with nature and their role within the ecosystem.",
+    "fr": "L'initiative se concentre sur la transformation des déchets organiques en humus grâce à diverses méthodes de compostage, notamment le compostage anaérobie, le compostage aérobie et la lombriculture. Elle met l'accent sur l'implication de la communauté, la durabilité et l'importance de maintenir de bonnes relations avec les voisins et la famille. En encourageant la coopération et la prise de conscience, l'initiative vise à promouvoir la souveraineté alimentaire et la responsabilité environnementale, pour finalement reconnecter les individus avec la nature et leur rôle au sein de l'écosystème.",
+    "es": "La iniciativa se centra en transformar los residuos orgánicos en humus mediante diversos métodos de compostaje, como el anaeróbico, el aeróbico y la lombricultura. Hace hincapié en la participación de la comunidad, la sostenibilidad y la importancia de mantener buenas relaciones con los vecinos y la familia. Al fomentar la cooperación y la concienciación, la iniciativa pretende promover la soberanía alimentaria y la responsabilidad medioambiental, reconectando en última instancia a las personas con la naturaleza y su papel dentro del ecosistema.",
+    "de": "Die Initiative konzentriert sich auf die Umwandlung von organischen Abfällen in Humus durch verschiedene Kompostierungsmethoden, darunter anaerobe Kompostierung, aerobe Kompostierung und Vermiculture. Der Schwerpunkt liegt auf der Einbeziehung der Gemeinschaft, der Nachhaltigkeit und der Bedeutung guter Beziehungen zu Nachbarn und Familie. Durch die Förderung der Zusammenarbeit und des Bewusstseins zielt die Initiative darauf ab, Ernährungssouveränität und ökologisches Verantwortungsbewusstsein zu fördern und letztlich den Einzelnen wieder mit der Natur und seiner Rolle im Ökosystem zu verbinden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Sembramos",
+  "name": {
+    "en": "Sembramos",
+    "fr": "Sembramos",
+    "es": "Sembramos",
+    "de": "Sembramos"
+  },
   "pubId": 487952,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

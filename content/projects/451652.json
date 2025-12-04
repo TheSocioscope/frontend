@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754421048,
   "date": null,
-  "description": "Wakas is a mass consumption company based in Argentina that specializes in producing gluten-free pasta using non-traditional ingredients such as beans, quinoa, amaranth, chia, and kale. The company aims to enhance food security by transforming these nutritious but less commonly consumed ingredients into easily accessible pasta products. Wakas sources 100% of its ingredients from local producers, fostering relationships with various communities across Argentina to support local agriculture. Wakas not only focuses on the domestic market but has also expanded its reach internationally, exporting products to countries like Chile, Paraguay, Brazil, and the USA. The company emphasizes innovation and quality, participating in international food fairs to showcase its unique offerings and build brand recognition.\n\n",
+  "description": {
+    "en": "Wakas is a mass consumption company based in Argentina that specializes in the production of gluten-free pasta with non-traditional ingredients such as beans, quinoa, amaranth, chia and kale. The company's goal is to improve food safety by transforming these nutritious but less consumed ingredients into easily accessible pasta products. Wakas sources 100% of its ingredients from local producers, fostering relationships with diverse communities in Argentina to support local agriculture. Wakas not only focuses on the domestic market, but has also expanded its international reach, exporting products to countries such as Chile, Paraguay, Brazil and the United States. The company emphasizes innovation and quality, and participates in international food fairs to showcase its unique offering and build brand recognition.",
+    "fr": "Wakas est une entreprise de grande consommation basée en Argentine, spécialisée dans la production de pâtes sans gluten à partir d'ingrédients non traditionnels tels que les haricots, le quinoa, l'amarante, le chia et le chou frisé. L'objectif de l'entreprise est d'améliorer la sécurité alimentaire en transformant ces ingrédients nutritifs mais peu consommés en pâtes facilement accessibles. Wakas s'approvisionne à 100 % auprès de producteurs locaux et entretient des relations avec diverses communautés en Argentine afin de soutenir l'agriculture locale. Wakas ne se concentre pas uniquement sur le marché national, mais a également étendu sa portée internationale, exportant des produits vers des pays tels que le Chili, le Paraguay, le Brésil et les États-Unis. L'entreprise met l'accent sur l'innovation et la qualité, et participe à des foires alimentaires internationales pour présenter son offre unique et renforcer la reconnaissance de la marque.",
+    "es": "Wakas es una empresa de consumo masivo con sede en Argentina especializada en la producción de pasta sin gluten con ingredientes no tradicionales como judías, quinoa, amaranto, chía y col rizada. El objetivo de la empresa es mejorar la seguridad alimentaria transformando estos ingredientes nutritivos pero menos consumidos en productos de pasta de fácil acceso. Wakas obtiene el 100% de sus ingredientes de productores locales, fomentando las relaciones con diversas comunidades de Argentina para apoyar la agricultura local. Wakas no sólo se centra en el mercado nacional, sino que también ha ampliado su alcance internacional, exportando productos a países como Chile, Paraguay, Brasil y Estados Unidos. La empresa hace hincapié en la innovación y la calidad, y participa en ferias internacionales de alimentación para mostrar su oferta única y crear reconocimiento de marca.\n\n",
+    "de": "Wakas ist ein in Argentinien ansässiges Massenkonsumunternehmen, das sich auf die Herstellung von glutenfreier Pasta aus nicht-traditionellen Zutaten wie Bohnen, Quinoa, Amaranth, Chia und Grünkohl spezialisiert hat. Das Unternehmen möchte die Ernährungssicherheit erhöhen, indem es diese nahrhaften, aber weniger häufig verzehrten Zutaten in leicht zugängliche Pastaprodukte umwandelt. Wakas bezieht 100% seiner Zutaten von lokalen Bauern und baut Beziehungen zu verschiedenen Gemeinden in ganz Argentinien auf, um die lokale Landwirtschaft zu unterstützen. Wakas konzentriert sich nicht nur auf den heimischen Markt, sondern hat seine Reichweite auch international ausgeweitet und exportiert seine Produkte in Länder wie Chile, Paraguay, Brasilien und die USA. Das Unternehmen legt Wert auf Innovation und Qualität und nimmt an internationalen Lebensmittelmessen teil, um seine einzigartigen Angebote zu präsentieren und Markenbekanntheit aufzubauen.\n\n"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Wakas",
+  "name": {
+    "en": "Wakas",
+    "fr": "Wakas",
+    "es": "Wakas",
+    "de": "Wakas"
+  },
   "pubId": 451652,
   "score": -22.063037807246126,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754564728,
   "date": null,
-  "description": "Bowline was a collaborative initiative formed during the COVID-19 crisis, bringing together restaurant owners, chefs, students, and academics in Copenhagen. The project aimed to support local restaurants facing unprecedented challenges. Through workshops, surveys, and shared resources, Bowline fostered a spirit of community and collaboration, addressing industry issues that had been overlooked before the pandemic. Although the organization has since dissolved, its legacy of cooperation continues among its members.",
+  "description": {
+    "en": "Bowline was a collaborative initiative that emerged during the COVID-19 crisis, bringing together restaurateurs, chefs, students and academics in Copenhagen. The goal of the project was to support local restaurants facing unprecedented challenges. Through workshops, surveys and resource sharing, Bowline fostered a spirit of community and collaboration, addressing industry issues that had been overlooked prior to the pandemic. Although the organization has since disbanded, its legacy of cooperation continues among its members.",
+    "fr": "Bowline est une initiative de collaboration qui a vu le jour pendant la crise du COVID-19, réunissant des restaurateurs, des chefs cuisiniers, des étudiants et des universitaires à Copenhague. L'objectif du projet était de soutenir les restaurants locaux confrontés à des défis sans précédent. Par le biais d'ateliers, d'enquêtes et de partage de ressources, Bowline a favorisé un esprit de communauté et de collaboration, en abordant des questions sectorielles qui avaient été négligées avant la pandémie. Bien que l'organisation ait été dissoute depuis, l'héritage de la coopération se perpétue parmi ses membres.",
+    "es": "Bowline fue una iniciativa de colaboración surgida durante la crisis de COVID-19, que reunió a restauradores, chefs, estudiantes y académicos de Copenhague. El objetivo del proyecto era apoyar a los restaurantes locales que se enfrentaban a retos sin precedentes. A través de talleres, encuestas y recursos compartidos, Bowline fomentó un espíritu de comunidad y colaboración, abordando cuestiones del sector que se habían pasado por alto antes de la pandemia. Aunque la organización se ha disuelto desde entonces, su legado de cooperación continúa entre sus miembros.",
+    "de": "Bowline war eine kollaborative Initiative, die während der COVID-19-Krise gegründet wurde und Restaurantbesitzer, Köche, Studenten und Akademiker in Kopenhagen zusammenbrachte. Das Projekt zielte darauf ab, lokale Restaurants zu unterstützen, die mit außergewöhnlichen Herausforderungen konfrontiert waren. Durch Workshops, Umfragen und gemeinsam genutzte Ressourcen förderte Bowline einen Geist der Gemeinschaft und Zusammenarbeit und befasste sich mit Branchenfragen, die vor der Pandemie übersehen worden waren. Obwohl die Organisation mittlerweile aufgelöst wurde, besteht das Erbe der Zusammenarbeit unter den Mitgliedern weiter."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Bowline",
+  "name": {
+    "en": "Bowline",
+    "fr": "Bowline",
+    "es": "Bowline",
+    "de": "Bowline"
+  },
   "pubId": 461852,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

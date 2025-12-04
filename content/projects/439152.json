@@ -15,7 +15,12 @@
   "date": [
     "2016-01-01"
   ],
-  "description": "En France, le nombre des agriculteurs urbains augmente chaque année sans pour autant qu'ils rentrent dans une case administrative ou bien réglementaire. C'est en partant de ce constat que l'AFAUP, association française d'agriculture urbaine professionnelle, a été créée en 2016 à l'initiative de cinq agriculteurs urbains ou chercheurs en agriculture urbaine. Forme unique dans le domaine de l'agriculture urbaine, l'association s'organise à l'échelle nationale afin de faciliter l'installation et la reconnaissance de l'agriculture urbaine en tant que levier incontournable des villes dans leurs transitions écologiques. \n\nPour cela trois actions sont menées par l'AFAUP sur le territoire français. Tout d'abord l'association vise à \"fédérer\" les agriculteurs urbains professionnels pour qu'ils puissent échanger sur les bonnes pratiques et les problèmes qu'ils rencontrent au quotidien. L'association cherche également à \"valoriser\" les initiatives des agriculteurs urbains et les rendre accessibles au grand public, aux collectivités territoriales et aux institutions publiques. Enfin, l'AFAUP a un rôle central pour \"outiller\" le réseau national en créant de la connaissance et en collectant la connaissance déjà présente sur l'agriculture urbaine via leur site internet.\n",
+  "description": {
+    "fr": "En France, le nombre des agriculteurs urbains augmente chaque année sans pour autant qu'ils rentrent dans une case administrative ou bien réglementaire. C'est en partant de ce constat que l'AFAUP, association française d'agriculture urbaine professionnelle, a été créée en 2016 à l'initiative de cinq agriculteurs urbains ou chercheurs en agriculture urbaine. Forme unique dans le domaine de l'agriculture urbaine, l'association s'organise à l'échelle nationale afin de faciliter l'installation et la reconnaissance de l'agriculture urbaine en tant que levier incontournable des villes dans leurs transitions écologiques. \n\nPour cela trois actions sont menées par l'AFAUP sur le territoire français. Tout d'abord l'association vise à \"fédérer\" les agriculteurs urbains professionnels pour qu'ils puissent échanger sur les bonnes pratiques et les problèmes qu'ils rencontrent au quotidien. L'association cherche également à \"valoriser\" les initiatives des agriculteurs urbains et les rendre accessibles au grand public, aux collectivités territoriales et aux institutions publiques. Enfin, l'AFAUP a un rôle central pour \"outiller\" le réseau national en créant de la connaissance et en collectant la connaissance déjà présente sur l'agriculture urbaine via leur site internet.\n",
+    "en": "In France, the number of urban farmers is increasing every year, yet they don't fit into any administrative or regulatory box. It was with this in mind that AFAUP, the French association for professional urban agriculture, was created in 2016 on the initiative of five urban farmers or urban agriculture researchers. A unique form in the field of urban agriculture, the association is organizing on a national scale to facilitate the installation and recognition of urban agriculture as an essential lever for cities in their ecological transitions.\n\nTo this end, AFAUP is carrying out three actions in France. Firstly, the association aims to \"federate\" professional urban farmers so that they can share best practices and problems they encounter on a daily basis. The association also seeks to \"promote\" the initiatives of urban farmers and make them accessible to the general public, local authorities and public institutions. Finally, AFAUP plays a central role in \"equipping\" the national network by creating knowledge and collecting existing knowledge on urban agriculture via their website.\n",
+    "es": "En Francia, el número de agricultores urbanos aumenta cada año, pero siguen sin encajar en ningún cajón administrativo o normativo. Con esta idea se creó en 2016 AFAUP, la asociación francesa de agricultura urbana profesional, por iniciativa de cinco agricultores urbanos o investigadores en agricultura urbana. Forma única en el ámbito de la agricultura urbana, la asociación se organiza a escala nacional para facilitar la instalación y el reconocimiento de la agricultura urbana como palanca esencial para las ciudades en sus transiciones ecológicas.\n\nPara lograrlo, la AFAUP lleva a cabo tres acciones en Francia. En primer lugar, la asociación pretende \"federar\" a los agricultores urbanos profesionales para que puedan compartir las mejores prácticas y los problemas que encuentran a diario. Por otra parte, la asociación pretende \"promover\" las iniciativas de los agricultores urbanos y hacerlas accesibles al público en general, a las autoridades locales y a las instituciones públicas. Por último, la AFAUP desempeña un papel central en el \"equipamiento\" de la red nacional mediante la creación de conocimientos y la recopilación de los ya existentes sobre agricultura urbana a través de su página web.\n",
+    "de": "In Frankreich nimmt die Zahl der städtischen Landwirte jedes Jahr zu, ohne dass sie in eine administrative oder regulatorische Schublade passen. Ausgehend von dieser Feststellung wurde 2016 auf Initiative von fünf urbanen Landwirten oder Forschern im Bereich der urbanen Landwirtschaft die AFAUP, Association française d'agriculture urbaine professionnelle, gegründet. Als einzigartige Form im Bereich der urbanen Landwirtschaft organisiert sich der Verband auf nationaler Ebene, um die Einrichtung und Anerkennung der urbanen Landwirtschaft als unumgänglichen Hebel der Städte bei ihrem ökologischen Wandel zu erleichtern.\n\nZu diesem Zweck führt die AFAUP drei Aktionen in Frankreich durch. Zunächst einmal will der Verband professionelle städtische Landwirte \"zusammenführen\", damit sie sich über bewährte Verfahren und Probleme, denen sie im Alltag begegnen, austauschen können. Der Verband versucht außerdem, die Initiativen der Stadtlandwirte \"aufzuwerten\" und sie der breiten Öffentlichkeit, den Gebietskörperschaften und öffentlichen Institutionen zugänglich zu machen. Schließlich spielt die AFAUP eine zentrale Rolle bei der \"Werkzeugausstattung\" des nationalen Netzwerks, indem sie Wissen schafft und das bereits vorhandene Wissen über die urbane Landwirtschaft über ihre Website sammelt.\n"
+  },
   "field": [
     "management-public-administration",
     "sociology",
@@ -23,7 +28,12 @@
   ],
   "lang": "fr",
   "location": "France, ici zoom sur Paris et sa région",
-  "name": "AFAUP",
+  "name": {
+    "en": "AFAUP",
+    "fr": "AFAUP",
+    "es": "AFAUP",
+    "de": "AFAUP"
+  },
   "pubId": 439152,
   "score": 761.3999999999932,
   "state": "ongoing-project",
@@ -54,10 +64,6 @@
   ],
   "url": "https://www.afaup.org/",
   "yt": "InMRgaqh5Go",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1684255713,
   "feedback": [
     {
@@ -65,27 +71,8 @@
       "at": 1684255713
     }
   ],
-  "lastEvent": {
-    "at": 1684849948,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
   "updatedAt": [
     1684255713
   ],
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1684849948,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

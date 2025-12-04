@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754425173,
   "date": null,
-  "description": "Taxon is a pioneering technology-based startup in Argentina, founded by a biotechnologist specializing in artificial intelligence. Located in Rosario, the heart of the country's biotechnology sector, Taxon focuses on enhancing soil productivity through innovative biodevices and AI-driven solutions. With a strong emphasis on sustainability, the company collaborates with agricultural producers to analyze soil samples and develop environmentally friendly practices, aiming to improve agricultural outcomes while adhering to international regulations.",
+  "description": {
+    "en": "Taxon is a pioneering technology-based startup in Argentina, founded by a biotechnologist specialized in artificial intelligence. Located in Rosario, the heart of the country's biotech sector, Taxon focuses on improving soil productivity through innovative bio-devices and AI-based solutions. With a strong emphasis on sustainability, the company collaborates with agricultural producers to analyze soil samples and develop environmentally friendly practices, with the aim of improving agricultural results while complying with international regulations.",
+    "fr": "Taxon est une startup technologique pionnière en Argentine, fondée par un biotechnologue spécialisé dans l'intelligence artificielle. Située à Rosario, au cœur du secteur biotechnologique du pays, Taxon se concentre sur l'amélioration de la productivité des sols grâce à des bio-dispositifs innovants et à des solutions basées sur l'intelligence artificielle. Mettant fortement l'accent sur la durabilité, l'entreprise collabore avec des producteurs agricoles pour analyser des échantillons de sol et développer des pratiques respectueuses de l'environnement, dans le but d'améliorer les rendements agricoles tout en se conformant aux réglementations internationales.",
+    "es": "Taxon es una startup de base tecnológica pionera en Argentina, fundada por un biotecnólogo especializado en inteligencia artificial. Situada en Rosario, el corazón del sector biotecnológico del país, Taxon se centra en mejorar la productividad del suelo mediante biodispositivos innovadores y soluciones basadas en IA. Con un fuerte énfasis en la sostenibilidad, la empresa colabora con productores agrícolas para analizar muestras de suelo y desarrollar prácticas respetuosas con el medio ambiente, con el objetivo de mejorar los resultados agrícolas al tiempo que se cumplen las normativas internacionales.",
+    "de": "Taxon ist ein bahnbrechendes technologiebasiertes Startup in Argentinien, das von einem Biotechnologen gegründet wurde, der sich auf künstliche Intelligenz spezialisiert hat. Taxon befindet sich in Rosario, dem Zentrum des Biotechnologiesektors des Landes, und konzentriert sich auf die Steigerung der Bodenproduktivität durch innovative Biodienste und kI-gesteuerte Lösungen. Mit einem starken Fokus auf Nachhaltigkeit arbeitet das Unternehmen mit Landwirten zusammen, um Bodenproben zu analysieren und umweltfreundliche Praktiken zu entwickeln, die darauf abzielen, die landwirtschaftlichen Ergebnisse zu verbessern und gleichzeitig die internationalen Vorschriften einzuhalten."
+  },
   "field": [
     "ecology-environmental-sciences",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Taxon",
+  "name": {
+    "en": "Taxon",
+    "fr": "Taxon",
+    "es": "Taxón",
+    "de": "Taxon"
+  },
   "pubId": 463752,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

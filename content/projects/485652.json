@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754953974,
   "date": null,
-  "description": "The initiative focuses on creating eco-friendly products, specifically germinable plates made from agricultural waste. Launched in 2009, the project aims to reduce pollution caused by traditional disposable items. With a commitment to sustainability, the initiative also empowers vulnerable populations, including single mothers and incarcerated individuals, by providing job opportunities. Over the years, it has garnered multiple awards and recognition for its innovative approach to environmental protection and social responsibility.",
+  "description": {
+    "en": "The initiative focuses on creating eco-friendly products, specifically germinable plates made from agricultural waste. Launched in 2009, the project aims to reduce pollution caused by traditional disposable items. With a commitment to sustainability, the initiative also empowers vulnerable populations, including single mothers and incarcerated individuals, by providing job opportunities. Over the years, it has garnered multiple awards and recognition for its innovative approach to environmental protection and social responsibility.",
+    "fr": "L'initiative se concentre sur la création de produits respectueux de l'environnement, notamment des assiettes germinables fabriquées à partir de déchets agricoles. Lancé en 2009, le projet vise à réduire la pollution causée par les articles jetables traditionnels. Engagée dans une démarche de développement durable, l'initiative permet également aux populations vulnérables, notamment les mères célibataires et les personnes incarcérées, de se prendre en charge en leur offrant des opportunités d'emploi. Au fil des ans, le projet a été récompensé et reconnu pour son approche innovante de la protection de l'environnement et de la responsabilité sociale.",
+    "es": "La iniciativa se centra en crear productos ecológicos, concretamente platos germinables fabricados con residuos agrícolas. Lanzado en 2009, el proyecto pretende reducir la contaminación causada por los artículos desechables tradicionales. Con su compromiso con la sostenibilidad, la iniciativa también ayuda a poblaciones vulnerables, como madres solteras y personas encarceladas, ofreciéndoles oportunidades laborales. A lo largo de los años, ha cosechado múltiples premios y reconocimientos por su enfoque innovador de la protección del medio ambiente y la responsabilidad social.",
+    "de": "Die Initiative konzentriert sich auf die Herstellung umweltfreundlicher Produkte, insbesondere keimfähiger Teller aus landwirtschaftlichen Abfällen. Das 2009 gestartete Projekt zielt darauf ab, die durch herkömmliche Einwegartikel verursachte Umweltverschmutzung zu verringern. Mit ihrem Engagement für Nachhaltigkeit unterstützt die Initiative auch sozial schwache Bevölkerungsgruppen, darunter alleinerziehende Mütter und inhaftierte Personen, indem sie ihnen Arbeitsmöglichkeiten bietet. Im Laufe der Jahre hat die Initiative mehrere Auszeichnungen und Anerkennungen für ihren innovativen Ansatz in Sachen Umweltschutz und soziale Verantwortung erhalten."
+  },
   "field": [
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Lifepack",
+  "name": {
+    "en": "Lifepack",
+    "fr": "Lifepack",
+    "es": "Lifepack",
+    "de": "Lifepack"
+  },
   "pubId": 485652,
   "score": -5.373810450799947,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "BjaD_b-1T3c",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1760453597,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1760453597
     }
   ],
-  "lastEvent": {
-    "at": 1760453597,
-    "by": "contact"
-  },
   "updatedAt": [
     1760453597
-  ]
+  ],
+  "originalLang": "fr"
 }

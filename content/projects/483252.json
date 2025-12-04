@@ -13,7 +13,12 @@
   ],
   "createdAt": 1754909681,
   "date": null,
-  "description": "Veragrow is an innovative start-up based in Normandy, founded in 2019 by three engineers passionate about ecological impact. They specialize in creating biostimulants derived from earthworm compost, aiming to enhance agricultural productivity while promoting sustainability. Their flagship products, Veraspida and Veralif, improve plant growth and resilience against environmental stresses. With a focus on research and collaboration, Veragro is poised for growth, targeting both local and international markets to revolutionize agricultural practices.",
+  "description": {
+    "en": "Veragrow is an innovative start-up based in Normandy, founded in 2019 by three engineers passionate about ecological impact. They specialize in creating biostimulants derived from earthworm compost, aiming to enhance agricultural productivity while promoting sustainability. Their flagship products, Veraspida and Veralif, improve plant growth and resilience against environmental stresses. With a focus on research and collaboration, Veragro is poised for growth, targeting both local and international markets to revolutionize agricultural practices.",
+    "fr": "Veragrow est une start-up innovante basée en Normandie, fondée en 2019 par trois ingénieurs passionnés par l'impact écologique. Ils se spécialisent dans la création de biostimulants dérivés du compost de vers de terre, visant à améliorer la productivité agricole tout en favorisant la durabilité. Leurs produits phares, Veraspida et Veralif, améliorent la croissance des plantes et leur résilience face aux stress environnementaux. En mettant l'accent sur la recherche et la collaboration, Veragro est prête à se développer, en ciblant les marchés locaux et internationaux pour révolutionner les pratiques agricoles.",
+    "es": "Veragrow es una start-up innovadora con sede en Normandía, fundada en 2019 por tres ingenieros apasionados por el impacto ecológico. Se especializan en la creación de bioestimulantes derivados del compost de lombriz, con el objetivo de mejorar la productividad agrícola al tiempo que promueven la sostenibilidad. Sus productos estrella, Veraspida y Veralif, mejoran el crecimiento de las plantas y su resiliencia frente al estrés ambiental. Centrada en la investigación y la colaboración, Veragro está preparada para crecer, dirigiéndose a los mercados locales e internacionales para revolucionar las prácticas agrícolas.",
+    "de": "Veragrow ist ein innovatives Start-up-Unternehmen mit Sitz in der Normandie, das 2019 von drei Ingenieuren gegründet wurde, die sich für ökologische Auswirkungen begeistern. Sie haben sich auf die Entwicklung von Biostimulanzien auf Basis von Regenwurmkompost spezialisiert, um die landwirtschaftliche Produktivität zu steigern und gleichzeitig die Nachhaltigkeit zu fördern. Ihre Vorzeigeprodukte, Veraspida und Veralif, verbessern das Pflanzenwachstum und die Widerstandsfähigkeit gegenüber Umweltbelastungen. Mit dem Schwerpunkt auf Forschung und Zusammenarbeit ist Veragro auf Wachstum eingestellt und zielt sowohl auf lokale als auch internationale Märkte ab, um die landwirtschaftlichen Praktiken zu revolutionieren."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Veragrow",
+  "name": {
+    "en": "Veragrow",
+    "fr": "Veragrow",
+    "es": "Veragrow",
+    "de": "Veragrow"
+  },
   "pubId": 483252,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754500282,
   "date": null,
-  "description": "ATTA is an initiative focused on promoting the sustainable consumption of the culona ant, a traditional food in Santander, Colombia. By transforming this unique protein source into innovative products like biscuits, ATTA aims to enhance food sustainability while preserving cultural heritage. The project not only highlights the nutritional benefits of the ant but also seeks to create a strong regional identity, encouraging local consumption and supporting farmers through sustainable practices.    ",
+  "description": {
+    "en": "ATTA is an initiative focused on promoting the sustainable consumption of the culona ant, a traditional food from Santander, Colombia. By transforming this unique source of protein into innovative products such as cookies, ATTA aims to enhance food sustainability while preserving cultural heritage. The project not only highlights the nutritional benefits of the ant, but also seeks to create a strong regional identity, encouraging local consumption and supporting farmers through sustainable practices.    ",
+    "fr": "ATTA est une initiative visant à promouvoir la consommation durable de la fourmi culona, un aliment traditionnel de Santander (Colombie). En transformant cette source unique de protéines en produits innovants tels que des biscuits, ATTA vise à renforcer la durabilité alimentaire tout en préservant le patrimoine culturel. Le projet ne se contente pas de mettre en avant les avantages nutritionnels de la fourmi, il cherche également à créer une identité régionale forte, en encourageant la consommation locale et en soutenant les agriculteurs grâce à des pratiques durables.    ",
+    "es": "ATTA es una iniciativa centrada en promover el consumo sostenible de la hormiga culona, un alimento tradicional de Santander (Colombia). Mediante la transformación de esta fuente única de proteínas en productos innovadores como las galletas, ATTA pretende potenciar la sostenibilidad alimentaria preservando al mismo tiempo el patrimonio cultural. El proyecto no sólo destaca los beneficios nutricionales de la hormiga, sino que también busca crear una fuerte identidad regional, fomentando el consumo local y apoyando a los agricultores mediante prácticas sostenibles.    ",
+    "de": "ATTA ist eine Initiative, die sich auf die Förderung des nachhaltigen Konsums des Culona-Ant, eines traditionellen Nahrungsmittels in Santander, Kolumbien, konzentriert. Durch die Umwandlung dieser einzigartigen Proteinquelle in innovative Produkte wie Kekse will ATTA die Nachhaltigkeit der Ernährung verbessern und gleichzeitig das kulturelle Erbe bewahren. Das Projekt hebt nicht nur die ernährungsphysiologischen Vorteile des Ants hervor, sondern zielt auch darauf ab, eine starke regionale Identität zu schaffen, den lokalen Konsum zu fördern und Landwirte durch nachhaltige Praktiken zu unterstützen.    "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "ATTA",
+  "name": {
+    "en": "ATTA",
+    "fr": "ATTA",
+    "es": "ATTA",
+    "de": "ATTA"
+  },
   "pubId": 468952,
   "score": 17.007089721111974,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

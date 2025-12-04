@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755006847,
   "date": null,
-  "description": "The initiative at the Universidad Nacional del Litoral (UNL) focuses on producing fortified foods through a social food program that began in response to emergencies, such as the 2003 flooding in Santa Fe. The food plant aims to enhance nutrition for vulnerable populations by developing dehydrated, nutrient-rich products. It emphasizes education on food preparation and nutrition, collaborating with local communities to ensure the food meets their needs while promoting sustainable practices and food security.",
+  "description": {
+    "en": "The initiative at the Universidad Nacional del Litoral (UNL) focuses on producing fortified foods through a social food program that began in response to emergencies, such as the 2003 flooding in Santa Fe. The food plant aims to enhance nutrition for vulnerable populations by developing dehydrated, nutrient-rich products. It emphasizes education on food preparation and nutrition, collaborating with local communities to ensure the food meets their needs while promoting sustainable practices and food security.",
+    "fr": "L'initiative de l'Universidad Nacional del Litoral (UNL) se concentre sur la production d'aliments enrichis dans le cadre d'un programme alimentaire social qui a été mis en place en réponse à des situations d'urgence, telles que les inondations de 2003 à Santa Fe. L'usine alimentaire vise à améliorer la nutrition des populations vulnérables en développant des produits déshydratés et riches en nutriments. Elle met l'accent sur l'éducation à la préparation des aliments et à la nutrition, en collaborant avec les communautés locales pour s'assurer que les aliments répondent à leurs besoins tout en promouvant des pratiques durables et la sécurité alimentaire.",
+    "es": "La iniciativa de la Universidad Nacional del Litoral (UNL) se centra en la producción de alimentos fortificados a través de un programa de alimentación social que comenzó como respuesta a emergencias, como las inundaciones de 2003 en Santa Fe. El objetivo de la planta de alimentos es mejorar la nutrición de las poblaciones vulnerables mediante la elaboración de productos deshidratados ricos en nutrientes. Hace hincapié en la educación sobre la preparación de alimentos y la nutrición, colaborando con las comunidades locales para garantizar que los alimentos satisfagan sus necesidades al tiempo que se promueven prácticas sostenibles y la seguridad alimentaria.",
+    "de": "Die Initiative an der Universidad Nacional del Litoral (UNL) konzentriert sich auf die Herstellung angereicherter Lebensmittel im Rahmen eines sozialen Lebensmittelprogramms, das als Reaktion auf Notfälle wie die Überschwemmungen in Santa Fe im Jahr 2003 ins Leben gerufen wurde. Die Nahrungsmittelfabrik zielt darauf ab, die Ernährung gefährdeter Bevölkerungsgruppen durch die Entwicklung dehydrierter, nährstoffreicher Produkte zu verbessern. Der Schwerpunkt liegt auf der Aufklärung über Lebensmittelzubereitung und Ernährung, wobei mit den lokalen Gemeinschaften zusammengearbeitet wird, um sicherzustellen, dass die Lebensmittel ihren Bedürfnissen entsprechen und gleichzeitig nachhaltige Praktiken und Ernährungssicherheit gefördert werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Planta Alimentos Nutritivos UNL",
+  "name": {
+    "pt": "Planta Alimentos Nutritivos UNL",
+    "en": "Planta Nutritious Foods UNL",
+    "fr": "Planta Nutritious Foods UNL",
+    "es": "Planta Alimentos nutritivos UNL",
+    "de": "Planta Nutritious Foods UNL"
+  },
   "pubId": 494752,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

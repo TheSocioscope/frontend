@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754986667,
   "date": null,
-  "description": "Gaia Way is an initiative born from a deep-rooted need to reconnect human activity with nature, addressing environmental degradation in the Cabrita farm area. Established 30 years ago, it focuses on sustainable practices, organic farming, and community involvement. The project emphasizes holistic health through nutritious food, leveraging permaculture and agroecology principles. Gaia also participates in local organic markets, promoting awareness of the benefits of organic produce while fostering a culture of ecological responsibility.",
+  "description": {
+    "en": "Gaia Way is an initiative born from a deep-rooted need to reconnect human activity with nature, addressing environmental degradation in the Cabrita farm area. Established 30 years ago, it focuses on sustainable practices, organic farming, and community involvement. The project emphasizes holistic health through nutritious food, leveraging permaculture and agroecology principles. Gaia also participates in local organic markets, promoting awareness of the benefits of organic produce while fostering a culture of ecological responsibility.",
+    "fr": "Gaia Way est une initiative née d'un besoin profond de reconnecter l'activité humaine avec la nature, en s'attaquant à la dégradation de l'environnement dans la région agricole de Cabrita. Créé il y a 30 ans, le projet se concentre sur les pratiques durables, l'agriculture biologique et l'implication de la communauté. Le projet met l'accent sur la santé holistique par le biais d'une alimentation nutritive, en s'appuyant sur les principes de la permaculture et de l'agroécologie. Gaia participe également aux marchés biologiques locaux, afin de faire connaître les avantages des produits biologiques tout en encourageant une culture de la responsabilité écologique.",
+    "es": "Gaia Way es una iniciativa nacida de la arraigada necesidad de reconectar la actividad humana con la naturaleza, abordando la degradación medioambiental en la zona de la finca Cabrita. Fundada hace 30 años, se centra en las prácticas sostenibles, la agricultura ecológica y la participación de la comunidad. El proyecto hace hincapié en la salud holística a través de alimentos nutritivos, aprovechando los principios de la permacultura y la agroecología. Gaia también participa en mercados orgánicos locales, promoviendo la concienciación sobre los beneficios de los productos orgánicos y fomentando al mismo tiempo una cultura de responsabilidad ecológica.",
+    "de": "Gaia Way ist eine Initiative, die aus dem tief verwurzelten Bedürfnis heraus entstanden ist, menschliches Handeln wieder mit der Natur in Einklang zu bringen und die Umweltzerstörung im Gebiet der Cabrita Farm zu bekämpfen. Sie wurde vor 30 Jahren gegründet und konzentriert sich auf nachhaltige Praktiken, biologische Landwirtschaft und die Einbeziehung der Gemeinschaft. Das Projekt legt den Schwerpunkt auf ganzheitliche Gesundheit durch nährstoffreiche Lebensmittel und nutzt die Prinzipien der Permakultur und Agrarökologie. Gaia nimmt auch an lokalen Biomärkten teil, um das Bewusstsein für die Vorteile von Bioprodukten zu schärfen und gleichzeitig eine Kultur der ökologischen Verantwortung zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Gaia Way",
+  "name": {
+    "en": "Gaia Way",
+    "fr": "Gaia Way",
+    "es": "Vía Gaia",
+    "de": "Gaia Way"
+  },
   "pubId": 487652,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

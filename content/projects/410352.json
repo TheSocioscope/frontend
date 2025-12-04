@@ -12,14 +12,24 @@
   "date": [
     "2021-05-15"
   ],
-  "description": "Depuis une vingtaine d’années, des chercheurs essaient de produire, en laboratoire, des cultures de cellules animales pour la consommation alimentaire. Ce projet de « viande in vitro » est présenté comme une innovation disruptive répondant aux différents défis attachés à l’élevage. D’où vient-il et par qui est-il promu ? Quels sont les obstacles techniques au passage à l’échelle industrielle, les stratégies de recherche, et les enjeux de mise sur le marché ? Cette note apporte des éléments de réponse ",
+  "description": {
+    "fr": "Depuis une vingtaine d’années, des chercheurs essaient de produire, en laboratoire, des cultures de cellules animales pour la consommation alimentaire. Ce projet de « viande in vitro » est présenté comme une innovation disruptive répondant aux différents défis attachés à l’élevage. D’où vient-il et par qui est-il promu ? Quels sont les obstacles techniques au passage à l’échelle industrielle, les stratégies de recherche, et les enjeux de mise sur le marché ? Cette note apporte des éléments de réponse ",
+    "en": "For the past twenty years, researchers have been trying to produce animal cell cultures for food consumption in the laboratory. This \"in vitro meat\" project is presented as a disruptive innovation addressing the various challenges facing livestock farming. Where does it come from and who is promoting it? What are the technical obstacles to industrial scale-up, the research strategies and the stakes involved in bringing it to market? This note provides some answers.",
+    "es": "Desde hace unos veinte años, los investigadores intentan producir en laboratorio cultivos de células animales para consumo alimentario. Este proyecto de \"carne in vitro\" se presenta como una innovación disruptiva que dará respuesta a los diversos retos a los que se enfrenta la ganadería. ¿De dónde procede y quién lo promueve? ¿Cuáles son los obstáculos técnicos para su escalado a escala industrial, las estrategias de investigación y los retos para llevarla al mercado? Esta nota ofrece algunas respuestas",
+    "de": "Seit etwa zwanzig Jahren versuchen Forscher, im Labor tierische Zellkulturen für den Verzehr als Lebensmittel herzustellen. Das Projekt \"In-vitro-Fleisch\" wird als bahnbrechende Innovation angepriesen, mit der die verschiedenen Herausforderungen, die mit der Viehzucht verbunden sind, angegangen werden sollen. Woher kommt es und von wem wird es gefördert? Was sind die technischen Hindernisse bei der Umsetzung in den industriellen Maßstab, die Forschungsstrategien und die Herausforderungen bei der Markteinführung? Dieser Beitrag liefert Antworten auf diese Fragen"
+  },
   "field": [
     "engineering-and-technology",
     "sociology"
   ],
   "lang": "fr",
   "location": "",
-  "name": "La « viande in vitro » : cultiver des cellules musculaires à destination alimentaire",
+  "name": {
+    "fr": "La « viande in vitro » : cultiver des cellules musculaires à destination alimentaire",
+    "en": "In vitro meat\": cultivating muscle cells for food use",
+    "es": "Carne in vitro\": cultivo de células musculares para uso alimentario",
+    "de": "In-vitro-Fleisch\": Züchtung von Muskelzellen für die Ernährung"
+  },
   "pubId": 410352,
   "score": 1492.4999999999923,
   "state": "completed-project",
@@ -42,27 +52,5 @@
   ],
   "url": "https://agriculture.gouv.fr/vitro-meat-growing-muscle-cells-food-analysis-ndeg164",
   "yt": "",
-  "zone": [
-    1
-  ],
-  "lastEvent": {
-    "at": 1662802017,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1662802017,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755005248,
   "date": null,
-  "description": "Boss Woman is an initiative by the NGO APPB, Asociación Protección Vulnerable, aimed at empowering vulnerable women, particularly migrants, through a structured program. It offers psychological support via group therapy, educational resources on human rights and feminism, and practical training in livelihoods, including financial education. Participants can choose from modules on employability, entrepreneurship, or food security, fostering personal growth and self-sufficiency among women who have faced significant challenges.",
+  "description": {
+    "en": "Boss Woman is an initiative by the NGO APPB, Asociación Protección Vulnerable, aimed at empowering vulnerable women, particularly migrants, through a structured program. It offers psychological support via group therapy, educational resources on human rights and feminism, and practical training in livelihoods, including financial education. Participants can choose from modules on employability, entrepreneurship, or food security, fostering personal growth and self-sufficiency among women who have faced significant challenges.",
+    "fr": "Boss Woman est une initiative de l'ONG APPB, Asociación Protección Vulnerable, qui vise à autonomiser les femmes vulnérables, en particulier les migrantes, grâce à un programme structuré. Il offre un soutien psychologique par le biais d'une thérapie de groupe, des ressources éducatives sur les droits de l'homme et le féminisme, ainsi qu'une formation pratique sur les moyens de subsistance, y compris l'éducation financière. Les participantes peuvent choisir parmi des modules sur l'employabilité, l'esprit d'entreprise ou la sécurité alimentaire, ce qui favorise l'épanouissement personnel et l'autosuffisance des femmes qui ont dû faire face à des défis importants.",
+    "es": "Boss Woman es una iniciativa de la ONG APPB, Asociación Protección Vulnerable, destinada a empoderar a las mujeres vulnerables, especialmente las inmigrantes, mediante un programa estructurado. Ofrece apoyo psicológico mediante terapia de grupo, recursos educativos sobre derechos humanos y feminismo, y formación práctica en medios de subsistencia, incluida la educación financiera. Las participantes pueden elegir entre módulos sobre empleabilidad, espíritu empresarial o seguridad alimentaria, fomentando el crecimiento personal y la autosuficiencia de mujeres que se han enfrentado a retos importantes.",
+    "de": "Boss Woman ist eine Initiative der NRO APPB (Asociación Protección Vulnerable), die darauf abzielt, gefährdete Frauen, insbesondere Migrantinnen, durch ein strukturiertes Programm zu stärken. Sie bietet psychologische Unterstützung durch Gruppentherapie, Bildungsressourcen zu Menschenrechten und Feminismus sowie praktische Schulungen zur Existenzsicherung, einschließlich Finanzbildung. Die Teilnehmerinnen können aus Modulen zur Beschäftigungsfähigkeit, zum Unternehmertum oder zur Ernährungssicherheit wählen, um die persönliche Entwicklung und die Selbstversorgung von Frauen zu fördern, die mit großen Herausforderungen konfrontiert waren."
+  },
   "field": [
     "gender-studies",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Boss Woman",
+  "name": {
+    "en": "Boss Woman",
+    "fr": "Femme patronne",
+    "es": "Mujer Jefa",
+    "de": "Boss Frau"
+  },
   "pubId": 494052,
   "score": -132.57936472562918,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "en"
 }

@@ -10,14 +10,24 @@
   "country": [],
   "createdAt": 1664781097,
   "date": null,
-  "description": "\"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al. , International Journal of Gastronomy and Food Science 25 (2021) 100381\n\nThe role of diet in the prevention of chronic non-communicable diseases has been demonstrated in numerous studies and attributed to various nutrients and bioactive compounds, naturally present in foods. It is therefore important to preserve the nutritional quality of the dishes served in hospital settings where the prevalence of malnutrition is particularly frequent. The experimental and interdisciplinary research project “IN-Nutritional Intelligence” was born to verify the possibility, the efficacy and the efficiency of adopting less aggressive gastronomic techniques in food services to minimize the loss of nutritional properties of food.",
+  "description": {
+    "en": "\"Cooking techniques and nutritional quality of food: comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381 The role of diet in the prevention of chronic non-communicable diseases has been demonstrated in numerous studies and attributed to various nutrients and bioactive compounds, naturally present in food. Therefore, it is important to preserve the nutritional quality of the dishes served in hospital environments, where the prevalence of malnutrition is particularly frequent. The experimental and interdisciplinary research project \"IN-Nutritional Intelligence\" was born to test the possibility, efficacy and efficiency of adopting less aggressive gastronomic techniques in food services to minimize the loss of nutritional properties of food.",
+    "fr": "\"Techniques de cuisson et qualité nutritionnelle des aliments : comparaison entre les modes de cuisson traditionnels et innovants\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381 Le rôle de l'alimentation dans la prévention des maladies chroniques non transmissibles a été démontré dans de nombreuses études et attribué à divers nutriments et composés bioactifs, naturellement présents dans les aliments. Il est donc important de préserver la qualité nutritionnelle des plats servis en milieu hospitalier, où la prévalence de la malnutrition est particulièrement élevée. Le projet de recherche expérimentale et interdisciplinaire \"IN-Nutritional Intelligence\" est né pour tester la possibilité, l'efficacité et l'efficience de l'adoption de techniques gastronomiques moins agressives dans les services de restauration afin de minimiser la perte des propriétés nutritionnelles des aliments.",
+    "es": "\"Técnicas de cocción y calidad nutricional de los alimentos: comparación entre formas tradicionales e innovadoras de cocinar\" - S. Lobefaro et al , Revista Internacional de Gastronomía y Ciencias de la Alimentación 25 (2021) 100381\n\nEl papel de la dieta en la prevención de enfermedades crónicas no transmisibles ha sido demostrado en numerosos estudios y atribuido a diversos nutrientes y compuestos bioactivos, presentes de forma natural en los alimentos. Por ello, es importante preservar la calidad nutricional de los platos que se sirven en los entornos hospitalarios, donde la prevalencia de la malnutrición es especialmente frecuente. El proyecto de investigación experimental e interdisciplinar \"IN-Inteligencia Nutricional\" nació para comprobar la posibilidad, la eficacia y la eficiencia de adoptar técnicas gastronómicas menos agresivas en los servicios de comidas para minimizar la pérdida de propiedades nutricionales de los alimentos.",
+    "de": "\"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al. , International Journal of Gastronomy and Food Science 25 (2021) 100381\n\nThe role of diet in the prevention of chronic non-communicable diseases has been demonstrated in numerous studies and attributed to various nutrients and bioactive compounds, naturally present in foods. Es ist daher wichtig, die Ernährungsqualität der Speisen zu erhalten, die in Krankenhäusern serviert werden, in denen Unterernährung besonders häufig vorkommt. The experimental and interdisciplinary research project \"IN-Nutritional Intelligence\" was born to verify the possibility, the efficacy and the efficiency of adopting less aggressive gastronomic techniques in food services to minimize the loss of nutritional properties of food."
+  },
   "field": [
     "biology",
     "medicine"
   ],
   "lang": "fr",
   "location": "",
-  "name": "Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking",
+  "name": {
+    "en": "Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking",
+    "fr": "Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking",
+    "es": "Técnicas culinarias y calidad nutricional de los alimentos: comparación entre formas tradicionales e innovadoras de cocinar",
+    "de": "Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking"
+  },
   "pubId": 426452,
   "score": 523.1999999999935,
   "state": "completed-project",
@@ -96,27 +106,5 @@
   ],
   "url": "https://www.sciencedirect.com/science/article/abs/pii/S1878450X21000809",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1666276719,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1666276719,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

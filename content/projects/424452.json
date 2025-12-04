@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1663674601,
   "date": null,
-  "description": "2018 Cabannes Y. and Marocchino, C. Food challenges faced by an urbanising world, in Integrating Food into Urban Planning. UCL Press: London; FAO: Rome pp 1-17\n\nWhile urbanisation worldwide sets up unprecedented challenges for feeding cities with accessible, affordable food and healthy diets, urban food security and food systems are receiving growing attention at an international level and in a growing number of cities of all sizes. However, the issue of food and urban planning is insufficiently covered in existing literature. How food is produced, processed, distributed, consumed, recovered and wasted and how local food systems complement rural agricultural production are issues that relate closely to urban planning, which can be either an opportunity to feed cities better or an obstacle to making food systems work...",
+  "description": {
+    "en": "2018 Cabannes Y. and Marocchino, C. Food challenges faced by an urbanising world, in Integrating Food into Urban Planning. UCL Press: London; FAO: Rome pp 1-17 As urbanization around the world poses unprecedented challenges to feeding cities with accessible and affordable food and healthy diets, urban food security and food systems are receiving increasing attention internationally and in a growing number of cities of all sizes. However, the issue of food and urban planning is not sufficiently addressed in the existing literature. How food is produced, processed, distributed, consumed, recovered and wasted and how local food systems complement rural agricultural production are issues closely related to urban planning, which can be both an opportunity to better feed cities and an obstacle to making food systems work....",
+    "fr": "2018 Cabannes Y. et Marocchino, C. Food challenges faced by an urbanising world, in Integrating Food into Urban Planning. UCL Press : Londres ; FAO : Rome pp 1-17 Alors que l'urbanisation dans le monde pose des défis sans précédent pour alimenter les villes avec des aliments accessibles et abordables et des régimes alimentaires sains, la sécurité alimentaire urbaine et les systèmes alimentaires font l'objet d'une attention croissante à l'échelle internationale et dans un nombre croissant de villes de toutes tailles. Cependant, la question de l'alimentation et de la planification urbaine n'est pas suffisamment abordée dans la littérature existante. La façon dont les aliments sont produits, transformés, distribués, consommés, récupérés et gaspillés et la manière dont les systèmes alimentaires locaux complètent la production agricole rurale sont des questions étroitement liées à la planification urbaine, qui peut être à la fois une opportunité de mieux nourrir les villes et un obstacle au bon fonctionnement des systèmes alimentaires....",
+    "es": "2018 Cabannes Y. y Marocchino, C. Food challenges faced by an urbanising world, en Integrating Food into Urban Planning. UCL Press: Londres; FAO: Roma pp 1-17\n\nMientras que la urbanización en todo el mundo plantea retos sin precedentes para la alimentación de las ciudades con alimentos accesibles y asequibles y dietas saludables, la seguridad alimentaria urbana y los sistemas alimentarios están recibiendo una atención creciente a nivel internacional y en un número cada vez mayor de ciudades de todos los tamaños. Sin embargo, la cuestión de la alimentación y la planificación urbana no está suficientemente tratada en la bibliografía existente. Cómo se producen, procesan, distribuyen, consumen, recuperan y desperdician los alimentos y cómo los sistemas alimentarios locales complementan la producción agrícola rural son cuestiones estrechamente relacionadas con la planificación urbana, que puede ser tanto una oportunidad para alimentar mejor a las ciudades como un obstáculo para que los sistemas alimentarios funcionen...",
+    "de": "2018 Cabannes Y. and Marocchino, C. Food challenges faced by an urbanising world, in Integrating Food into Urban Planning. UCL Press: London; FAO: Rom pp 1-17.\n\nWhile urbanisation worldwide sets up unprecedented challenges for feeding cities with accessible, affordable food and healthy diets, urban food security and food systems are receiving growing attention at an international level and in a growing number of cities of all sizes. Das Thema Lebensmittel und Stadtplanung wird in der vorhandenen Literatur jedoch nur unzureichend behandelt. How food is produced, processed, distributed, consumed, recovered and wasted and how local food systems complement rural agricultural production are issues that relate closely to urban planning, which can be either an opportunity to feed cities better or an obstacle to making food systems work..."
+  },
   "field": [
     "demography",
     "economics-statistics",
@@ -19,7 +24,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Food challenges faced by an urbanising world",
+  "name": {
+    "en": "Food challenges faced by an urbanising world",
+    "fr": "Food challenges faced by an urbanising world",
+    "es": "Retos alimentarios de un mundo en proceso de urbanización",
+    "de": "Food challenges faced by an urbanising world"
+  },
   "pubId": 424452,
   "score": 308.1999999999954,
   "state": "completed-project",
@@ -48,27 +58,5 @@
   ],
   "url": "https://doi.org/10.14324/111.9781787353763",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663679174,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663679174,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

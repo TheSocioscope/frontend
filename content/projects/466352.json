@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754477725,
   "date": null,
-  "description": "Rewild Organics is a brand focused on creating and selling turmeric-based health products, including golden milk powders and tinctures. Operating primarily in Costa Rica, they emphasize fair compensation for farmers and sustainable practices. Their mission is to promote health while ensuring ethical sourcing and production, targeting high-end markets in the U.S. and Canada. Despite challenges in scaling and market visibility, they remain committed to responsible consumerism and the integrity of their supply chain.",
+  "description": {
+    "en": "Rewild Organics is a brand focused on creating and selling turmeric-based health products such as golden milk powder and tinctures. They operate primarily in Costa Rica and emphasize fair compensation to farmers and sustainable practices. Their mission is to promote health while ensuring ethical sourcing and production, and to target high-end markets in the United States and Canada. Despite the challenges of market expansion and visibility, they remain committed to responsible consumption and the integrity of their supply chain.",
+    "fr": "Rewild Organics est une marque qui se consacre à la création et à la vente de produits de santé à base de curcuma, tels que le lait doré en poudre et les teintures. Elle opère principalement au Costa Rica et met l'accent sur une rémunération équitable des agriculteurs et sur des pratiques durables. Sa mission est de promouvoir la santé tout en garantissant un approvisionnement et une production éthiques, et de cibler les marchés haut de gamme aux États-Unis et au Canada. Malgré les défis liés à l'expansion et à la visibilité du marché, l'entreprise reste attachée à une consommation responsable et à l'intégrité de sa chaîne d'approvisionnement.",
+    "es": "Rewild Organics es una marca centrada en la creación y venta de productos para la salud a base de cúrcuma, como leche dorada en polvo y tinturas. Operan principalmente en Costa Rica y hacen hincapié en la compensación justa a los agricultores y en las prácticas sostenibles. Su misión es promover la salud garantizando al mismo tiempo un abastecimiento y una producción éticos, y dirigirse a los mercados de gama alta de Estados Unidos y Canadá. A pesar de las dificultades de ampliación y visibilidad en el mercado, siguen comprometidos con el consumo responsable y la integridad de su cadena de suministro.",
+    "de": "Rewild Organics ist eine Marke, die sich auf die Herstellung und den Verkauf von Kurkuma-Gesundheitsprodukten konzentriert, darunter Goldmilchpulver und Tinkturen. Sie sind hauptsächlich in Costa Rica tätig und legen Wert auf faire Entschädigungen für Bauern und nachhaltige Praktiken. Ihr Ziel ist es, die Gesundheit zu fördern und gleichzeitig die ethische Beschaffung und Produktion sicherzustellen, wobei sie sich an High-End-Märkte in den USA und Kanada richten. Trotz Herausforderungen bei der Skalierung und Marktvisibilität bleiben sie einem verantwortungsvollen Konsumverhalten und der Integrität ihrer Lieferkette verpflichtet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Rewild Organics",
+  "name": {
+    "de": "Rewild Organics",
+    "en": "Rewild Organics",
+    "fr": "Rewild Organics",
+    "es": "Rewild Organics"
+  },
   "pubId": 466352,
   "score": 43.17845588487109,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

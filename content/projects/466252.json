@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754477616,
   "date": null,
-  "description": "Santa Anita Estate Coffee is a family-run coffee producer in Costa Rica, focusing on high-quality coffee through sustainable practices. While not fully organic, they implement regenerative methods, such as efficient irrigation and soil biodiversity enhancement. The estate prioritizes quality over quantity, producing specialty coffee primarily for export. They aim to reduce their environmental impact while maintaining commercial viability, and they are exploring further value addition by potentially roasting their own coffee in the future.",
+  "description": {
+    "en": "Santa Anita Estate Coffee is a family-owned coffee producer in Costa Rica, focused on high quality coffee through sustainable practices. Although not fully organic, they apply regenerative methods, such as efficient irrigation and soil biodiversity enhancement. The farm prioritizes quality over quantity, and produces specialty coffee primarily for export. Their goal is to reduce environmental impact while maintaining commercial viability, and they are exploring the possibility of adding value by roasting their own coffee in the future.",
+    "fr": "Santa Anita Estate Coffee est un producteur de café familial du Costa Rica qui se concentre sur un café de haute qualité grâce à des pratiques durables. Bien qu'elle ne soit pas entièrement biologique, elle applique des méthodes de régénération, telles que l'irrigation efficace et l'amélioration de la biodiversité du sol. L'exploitation privilégie la qualité à la quantité et produit des cafés de spécialité principalement destinés à l'exportation. Elle vise à réduire l'impact sur l'environnement tout en maintenant la viabilité commerciale, et envisage d'ajouter de la valeur en torréfiant son propre café à l'avenir.",
+    "es": "Santa Anita Estate Coffee es una empresa familiar productora de café en Costa Rica, centrada en el café de alta calidad mediante prácticas sostenibles. Aunque no son totalmente orgánicos, aplican métodos regenerativos, como el riego eficiente y la mejora de la biodiversidad del suelo. La finca da prioridad a la calidad sobre la cantidad, y produce café especial principalmente para la exportación. Su objetivo es reducir el impacto ambiental manteniendo la viabilidad comercial, y están estudiando la posibilidad de añadir valor tostando su propio café en el futuro.",
+    "de": "Santa Anita Estate Coffee ist ein familiengeführter Kaffeeproduzent in Costa Rica, der sich auf qualitativ hochwertigen Kaffee durch nachhaltige Praktiken konzentriert. Auch wenn sie nicht vollständig organisch sind, setzen sie regenerative Methoden wie effiziente Bewässerung und die Förderung der biologischen Vielfalt des Bodens ein. The estate prioritizes quality over quantity, producing specialty coffee primarily for export. They aim to reduce their environmental impact while maintaining commercial viability, and they are exploring further value addition by potentially roasting their own coffee in the future."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Santa Anita Estate Coffee ",
+  "name": {
+    "it": "Santa Anita Estate Coffee ",
+    "en": "Santa Anita Estate Coffee",
+    "fr": "Café du domaine Santa Anita",
+    "es": "Café de la finca Santa Anita",
+    "de": "Santa Anita Estate Kaffee"
+  },
   "pubId": 466252,
   "score": 31.751296141235226,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "QDOIwUYpQHw",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1755739340,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1755739340
     }
   ],
-  "lastEvent": {
-    "at": 1755739340,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739340
-  ]
+  ],
+  "originalLang": "fr"
 }

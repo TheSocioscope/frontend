@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754564527,
   "date": null,
-  "description": "The initiative focuses on sustainable agriculture through a market garden model, emphasizing organic produce and community engagement. It combines vegetable cultivation with public education, offering field walks and workdays in collaboration with local organizations. The project aims to create a cooperative farming environment, allowing participants to explore alternative farming methods while fostering a sense of community. By prioritizing local connections and education, the initiative seeks to redefine agricultural practices and promote sustainable living.",
+  "description": {
+    "en": "The initiative focuses on sustainable agriculture through a garden model, emphasizing organic produce and community participation. It combines vegetable growing with public education, offering field trips and work days in collaboration with local organizations. The project aims to create a cooperative agricultural environment, allowing participants to explore alternative farming methods while fostering a sense of community. By prioritizing local connections and education, the initiative aims to redefine agricultural practices and promote sustainable living.",
+    "fr": "L'initiative se concentre sur l'agriculture durable par le biais d'un modèle de jardin maraîcher, en mettant l'accent sur les produits biologiques et la participation de la communauté. Elle associe la culture de légumes à l'éducation du public, en proposant des excursions et des journées de travail en collaboration avec des organisations locales. Le projet vise à créer un environnement agricole coopératif, permettant aux participants d'explorer des méthodes agricoles alternatives tout en favorisant un sentiment d'appartenance à la communauté. En donnant la priorité aux relations locales et à l'éducation, l'initiative vise à redéfinir les pratiques agricoles et à promouvoir un mode de vie durable.",
+    "es": "La iniciativa se centra en la agricultura sostenible a través de un modelo de huerta, haciendo hincapié en los productos ecológicos y la participación de la comunidad. Combina el cultivo de hortalizas con la educación pública, ofreciendo paseos por el campo y jornadas de trabajo en colaboración con organizaciones locales. El proyecto pretende crear un entorno agrícola cooperativo, que permita a los participantes explorar métodos de cultivo alternativos al tiempo que se fomenta el sentido de comunidad. Al dar prioridad a las conexiones locales y a la educación, la iniciativa pretende redefinir las prácticas agrícolas y promover una vida sostenible.",
+    "de": "Die Initiative konzentriert sich auf nachhaltige Landwirtschaft durch ein Marktgartenmodell, das organische Produkte und kommunales Engagement betont. Sie verbindet Gemüseanbau mit öffentlicher Bildung, indem sie Feldspaziergänge und Arbeitstage in Zusammenarbeit mit lokalen Organisationen anbietet. The project aims to create a cooperative farming environment, allowing participants to explore alternative farming methods while fostering a sense of community. Durch die Priorisierung von lokalen Verbindungen und Bildung will die Initiative landwirtschaftliche Praktiken neu definieren und ein nachhaltiges Leben fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Jordbruget Soldug",
+  "name": {
+    "da": "Jordbruget Soldug",
+    "en": "Agriculture Sun dew",
+    "fr": "Agriculture Rosée du soleil",
+    "es": "Agricultura Rocio solar",
+    "de": "Landwirtschaft Sonnentau"
+  },
   "pubId": 461752,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

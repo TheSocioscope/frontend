@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754986425,
   "date": null,
-  "description": "Hugo Restrepo, a family business founded nearly 50 years ago, specializes in producing and exporting chilli paste for the food industry, particularly hot sauces. The company operates a unique model where they secure contracts with clients before cultivating the necessary crops, ensuring farmers receive guaranteed prices and technical support. Committed to sustainability, they monitor agricultural practices and have implemented initiatives like solar energy and responsible water management.      ",
+  "description": {
+    "en": "Hugo Restrepo, a family business founded nearly 50 years ago, specializes in producing and exporting chilli paste for the food industry, particularly hot sauces. The company operates a unique model where they secure contracts with clients before cultivating the necessary crops, ensuring farmers receive guaranteed prices and technical support. Committed to sustainability, they monitor agricultural practices and have implemented initiatives like solar energy and responsible water management.      ",
+    "fr": "Hugo Restrepo, une entreprise familiale fondée il y a près de 50 ans, est spécialisée dans la production et l'exportation de pâte de piment pour l'industrie alimentaire, en particulier les sauces piquantes. L'entreprise applique un modèle unique dans lequel elle conclut des contrats avec ses clients avant de cultiver les plantes nécessaires, ce qui permet aux agriculteurs de bénéficier de prix garantis et d'une assistance technique. Engagée dans le développement durable, elle surveille les pratiques agricoles et a mis en œuvre des initiatives telles que l'énergie solaire et la gestion responsable de l'eau.      ",
+    "es": "Hugo Restrepo, una empresa familiar fundada hace casi 50 años, se especializa en la producción y exportación de pasta de chile para la industria alimentaria, especialmente salsas picantes. La empresa aplica un modelo único en el que firma contratos con los clientes antes de cultivar las cosechas necesarias, lo que garantiza a los agricultores precios y asistencia técnica. Comprometidos con la sostenibilidad, supervisan las prácticas agrícolas y han puesto en marcha iniciativas como la energía solar y la gestión responsable del agua.      ",
+    "de": "Hugo Restrepo, ein vor fast 50 Jahren gegründetes Familienunternehmen, ist auf die Herstellung und den Export von Chilipaste für die Lebensmittelindustrie, insbesondere für scharfe Saucen, spezialisiert. Das Unternehmen verfolgt ein einzigartiges Modell, bei dem es Verträge mit den Kunden abschließt, bevor es die erforderlichen Pflanzen anbaut, so dass die Bauern garantierte Preise und technische Unterstützung erhalten. Das Unternehmen hat sich der Nachhaltigkeit verschrieben, überwacht die landwirtschaftlichen Praktiken und hat Initiativen wie Solarenergie und verantwortungsvolles Wassermanagement eingeführt.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Hugo Restrepo",
+  "name": {
+    "es": "Hugo Restrepo",
+    "en": "Hugo Restrepo",
+    "fr": "Hugo Restrepo",
+    "de": "Hugo Restrepo"
+  },
   "pubId": 487552,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

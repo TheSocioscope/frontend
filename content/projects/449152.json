@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739455961,
   "date": null,
-  "description": "The Swiss Food Academy initiative focuses on food education for children in school settings. It was established in 2017 following an initial experience with Swiss Food Revolution, which failed due to differing visions. The academy aims to raise awareness among children, particularly those aged 6 to 12, about the importance of healthy and sustainable eating.\n\nThe program is divided into two main components: the Gaia Program, which engages children in practical and theoretical workshops on food, and the Paprika Program, which focuses on food education in schools. The workshops are led by experts and include playful activities to encourage children's participation, with the goal of turning them into ambassadors of healthy eating within their families.\n\nSwiss Food Academy collaborates with various stakeholders, including chefs, nutritionists, and academic institutions, to enrich its programs. The organization strives to meet local needs for food education by adapting to the realities of Geneva's urban neighborhoods. It has also received significant support from public authorities and has been recognized for its role in the food transition.",
+  "description": {
+    "en": "The Swiss Food Academy initiative focuses on food education for children in the school environment. It was created in 2017 after an initial experience with Swiss Food Revolution, which failed due to different visions. The aim of the academy is to raise awareness among children, especially those between the ages of 6 and 12, about the importance of healthy and sustainable food. The program is divided into two main components: the Gaia Program, which involves children in practical and theoretical food workshops, and the Paprika Program, which focuses on food education in schools. The workshops are led by experts and include playful activities to encourage children's participation, with the aim of making them ambassadors for healthy eating within their families. Swiss Food Academy collaborates with various stakeholders, such as chefs, nutritionists and academic institutions, to enrich its programs. The organization strives to meet local food education needs by adapting to the realities of Geneva's urban neighborhoods. It has also received significant support from public authorities and has been recognized for its role in the food transition.",
+    "fr": "L'initiative Swiss Food Academy se concentre sur l'éducation alimentaire des enfants dans le cadre scolaire. Elle a été mise en place en 2017 après une première expérience avec Swiss Food Revolution, qui a échoué en raison de visions différentes. L'objectif de l'académie est de sensibiliser les enfants, en particulier ceux âgés de 6 à 12 ans, à l'importance d'une alimentation saine et durable. Le programme est divisé en deux composantes principales : le programme Gaia, qui implique les enfants dans des ateliers pratiques et théoriques sur l'alimentation, et le programme Paprika, qui se concentre sur l'éducation alimentaire dans les écoles. Les ateliers sont animés par des experts et comprennent des activités ludiques pour encourager la participation des enfants, dans le but d'en faire des ambassadeurs d'une alimentation saine au sein de leur famille. La Swiss Food Academy collabore avec diverses parties prenantes, telles que des chefs cuisiniers, des nutritionnistes et des institutions académiques, pour enrichir ses programmes. L'organisation s'efforce de répondre aux besoins locaux en matière d'éducation alimentaire en s'adaptant aux réalités des quartiers urbains de Genève. Elle a également reçu un soutien important de la part des autorités publiques et a été reconnue pour son rôle dans la transition alimentaire.",
+    "es": "La iniciativa Swiss Food Academy se centra en la educación alimentaria de los niños en el entorno escolar. Se creó en 2017 tras una experiencia inicial con Swiss Food Revolution, que fracasó debido a visiones diferentes. El objetivo de la academia es concienciar a los niños, especialmente a los de entre 6 y 12 años, sobre la importancia de una alimentación sana y sostenible.\n\nEl programa se divide en dos componentes principales: el Programa Gaia, que involucra a los niños en talleres prácticos y teóricos sobre alimentación, y el Programa Paprika, centrado en la educación alimentaria en las escuelas. Los talleres están dirigidos por expertos e incluyen actividades lúdicas para fomentar la participación de los niños, con el objetivo de convertirlos en embajadores de una alimentación sana en el seno de sus familias.\n\nSwiss Food Academy colabora con diversas partes interesadas, como chefs, nutricionistas e instituciones académicas, para enriquecer sus programas. La organización se esfuerza por satisfacer las necesidades locales de educación alimentaria adaptándose a las realidades de los barrios urbanos de Ginebra. También ha recibido un importante apoyo de las autoridades públicas y ha sido reconocida por su papel en la transición alimentaria.",
+    "de": "Die Swiss Food Academy Initiative konzentriert sich auf die Ernährungserziehung von Kindern in Schulumgebungen. Sie wurde 2017 nach einer ersten Erfahrung mit der Swiss Food Revolution gegründet, die aufgrund unterschiedlicher Visionen scheiterte. The academy aims to raise awareness among children, particularly those aged 6 to 12, about the importance of healthy and sustainable eating.\n\nDas Programm ist in zwei Hauptkomponenten unterteilt: das Gaia-Programm, das Kinder in praktische und theoretische Workshops zum Thema Essen einbindet, und das Paprika-Programm, das sich auf die Ernährungserziehung in Schulen konzentriert. Die Workshops werden von Experten geleitet und beinhalten spielerische Aktivitäten, um die Teilnahme der Kinder zu fördern und sie zu Botschaftern für gesundes Essen in ihren Familien zu machen.\n\nDie Swiss Food Academy arbeitet mit verschiedenen Stakeholdern zusammen, darunter Köche, Ernährungswissenschaftler und akademische Institutionen, um ihre Programme zu bereichern. The organization strives to meet local needs for food education by adapting to the realities of Geneva's urban neighbourhoods. It has also received significant support from public authorities and has been recognised for its role in the food transition."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Swiss Food Academy",
+  "name": {
+    "en": "Swiss Food Academy",
+    "fr": "Swiss Food Academy",
+    "es": "Academia Suiza de la Alimentación",
+    "de": "Swiss Food Academy"
+  },
   "pubId": 449152,
   "score": 268.4019607843146,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.swissfoodacademy.ch/",
   "yt": "aI6BUHd8M8U",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

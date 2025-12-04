@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754406484,
   "date": null,
-  "description": "The Federation of Fruit Producers of Río Negro and Neuquén promotes local fruit and vegetable production through a zero-kilometre model, supplying fresh produce to school canteens. Established in the 1960s, it represents around 1,800 producers across 19 chambers, focusing on defending producers' interests while positively impacting society. The Federation has adapted to modern challenges, enhancing food distribution efficiency and fostering healthy eating habits among children, while also engaging in community fairs and educational initiatives.",
+  "description": {
+    "en": "The Federation of Fruit Producers of Río Negro and Neuquén promotes local fruit and vegetable production through a zero kilometer model, supplying fresh produce to school canteens. Founded in the 1960s, it represents some 1,800 producers through 19 chambers, focusing on defending producers' interests while positively impacting society. The Federation has adapted to modern challenges, improving the efficiency of food distribution and promoting healthy eating habits among children, while participating in community fairs and educational initiatives.",
+    "fr": "La Fédération des producteurs de fruits de Río Negro et Neuquén promeut la production locale de fruits et légumes par le biais d'un modèle \"zéro kilomètre\", en fournissant des produits frais aux cantines scolaires. Fondée dans les années 1960, elle représente quelque 1 800 producteurs par l'intermédiaire de 19 chambres, et s'attache à défendre les intérêts des producteurs tout en ayant un impact positif sur la société. La Fédération s'est adaptée aux défis modernes, en améliorant l'efficacité de la distribution alimentaire et en promouvant des habitudes alimentaires saines auprès des enfants, tout en participant à des foires communautaires et à des initiatives éducatives.",
+    "es": "La Federación de Productores de Fruta de Río Negro y Neuquén promueve la producción local de frutas y hortalizas a través de un modelo de kilómetro cero, suministrando productos frescos a los comedores escolares. Fundada en la década de 1960, representa a unos 1.800 productores a través de 19 cámaras, centrándose en la defensa de los intereses de los productores, al tiempo que impacta positivamente en la sociedad. La Federación se ha adaptado a los retos modernos, mejorando la eficiencia de la distribución de alimentos y fomentando hábitos alimentarios saludables entre los niños, al tiempo que participa en ferias comunitarias e iniciativas educativas.",
+    "de": "The Federation of Fruit Producers of Río Negro and Neuquén fördert die lokale Obst- und Gemüseproduktion durch ein Null-Kilometer-Modell und beliefert Schulkantinen mit frischem Obst und Gemüse. Der 1960 gegründete Verband vertritt rund 1.800 Erzeuger in 19 Kammern und konzentriert sich auf die Verteidigung der Interessen der Erzeuger, während er gleichzeitig die Gesellschaft positiv beeinflusst. Der Verband hat sich an moderne Herausforderungen angepasst, indem er die Effizienz der Lebensmittelverteilung steigert und gesunde Gewohnheiten bei Kindern fördert, während er sich auch an Gemeinschaftsfesten und Bildungsinitiativen beteiligt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Federacion Productores de Fruta",
+  "name": {
+    "es": "Federacion Productores de Fruta",
+    "en": "Fruit Producers Federation",
+    "fr": "Fédération des producteurs de fruits",
+    "de": "Verband der Obstproduzenten"
+  },
   "pubId": 451052,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

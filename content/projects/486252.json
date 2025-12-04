@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754954726,
   "date": null,
-  "description": "Acuaponicos is a family-run initiative based in Popayán, Colombia, dedicated to sustainable aquaponics and organoponics. The project aims to provide toxin-free fish and vegetables while promoting environmental awareness. Over nine years, they have developed innovative techniques to enhance productivity and quality of life, overcoming challenges such as high initial costs and lack of institutional support. Their goal is to establish aquaponics as a viable agricultural practice in the region.     ",
+  "description": {
+    "en": "Acuaponicos is a family-run initiative based in Popayán, Colombia, dedicated to sustainable aquaponics and organoponics. The project aims to provide toxin-free fish and vegetables while promoting environmental awareness. Over nine years, they have developed innovative techniques to enhance productivity and quality of life, overcoming challenges such as high initial costs and lack of institutional support. Their goal is to establish aquaponics as a viable agricultural practice in the region.     ",
+    "fr": "Acuaponicos est une initiative familiale basée à Popayán, en Colombie, qui se consacre à l'aquaponie et à l'organoponie durables. Le projet vise à fournir des poissons et des légumes exempts de toxines tout en promouvant la sensibilisation à l'environnement. En neuf ans, ils ont développé des techniques innovantes pour améliorer la productivité et la qualité de vie, en surmontant des défis tels que les coûts initiaux élevés et le manque de soutien institutionnel. Leur objectif est de faire de l'aquaponie une pratique agricole viable dans la région.     ",
+    "es": "Acuapónicos es una iniciativa familiar con sede en Popayán (Colombia) dedicada a la acuaponía y la organoponía sostenibles. El objetivo del proyecto es proporcionar pescado y verduras libres de toxinas al tiempo que se promueve la conciencia medioambiental. A lo largo de nueve años, han desarrollado técnicas innovadoras para mejorar la productividad y la calidad de vida, superando retos como los elevados costes iniciales y la falta de apoyo institucional. Su objetivo es establecer la acuaponía como práctica agrícola viable en la región.     ",
+    "de": "Acuaponicos ist eine familiengeführte Initiative mit Sitz in Popayán, Kolumbien, die sich der nachhaltigen Aquaponik und Organoponik widmet. Das Projekt zielt darauf ab, giftfreie Fische und Gemüse anzubieten und gleichzeitig das Umweltbewusstsein zu fördern. Im Laufe von neun Jahren haben sie innovative Techniken entwickelt, um die Produktivität und die Lebensqualität zu verbessern und dabei Herausforderungen wie hohe Anfangskosten und fehlende institutionelle Unterstützung zu überwinden. Ihr Ziel ist die Etablierung der Aquaponik als praktikable landwirtschaftliche Methode in der Region.     "
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Acuaponicos",
+  "name": {
+    "es": "Acuaponicos",
+    "en": "Aquaponics",
+    "fr": "Aquaponie",
+    "de": "Aquaponik"
+  },
   "pubId": 486252,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

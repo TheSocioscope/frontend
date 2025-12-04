@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718368085,
   "date": null,
-  "description": "Le réseau Cocagne rassemble les jardins de Cocagne en France, des fermes en agriculture biologique engagées dans l'insertion sociale et la production de légumes bio.\n\nSon rôle est d'accompagner les jardins, favoriser la mutualisation des ressources et animer un collectif. Il soutient également la communication et le plaidoyer des jardins au niveau local.\n\nLe réseau Cocagne œuvre pour le retour à l'emploi et la lutte contre l'exclusion à travers des ateliers d'insertion en agriculture biologique. Il promeut également l'accès à une alimentation de qualité pour tous et s'engage dans le développement territorial et la transition écologique.",
+  "description": {
+    "fr": "Le réseau Cocagne rassemble les jardins de Cocagne en France, des fermes en agriculture biologique engagées dans l'insertion sociale et la production de légumes bio.\n\nSon rôle est d'accompagner les jardins, favoriser la mutualisation des ressources et animer un collectif. Il soutient également la communication et le plaidoyer des jardins au niveau local.\n\nLe réseau Cocagne œuvre pour le retour à l'emploi et la lutte contre l'exclusion à travers des ateliers d'insertion en agriculture biologique. Il promeut également l'accès à une alimentation de qualité pour tous et s'engage dans le développement territorial et la transition écologique.",
+    "en": "The Cocagne network brings together the Cocagne gardens in France, organic farms committed to social integration and the production of organic vegetables.\n\nIts role is to support the gardens, encourage the pooling of resources and lead a collective. It also supports the gardens' communication and advocacy at local level.\n\nThe Cocagne network works to get people back to work and combat exclusion through organic farming integration workshops. It also promotes access to quality food for all, and is committed to territorial development and ecological transition.",
+    "es": "La red Cocagne reúne los huertos Cocagne de Francia, explotaciones ecológicas comprometidas con la integración social y la producción de hortalizas ecológicas.\n\nSu papel es apoyar a los huertos, fomentar la puesta en común de recursos y gestionar un colectivo. También apoya la comunicación y la defensa de los huertos a nivel local.\n\nLa red Cocagne trabaja por la reinserción laboral y la lucha contra la exclusión a través de talleres de integración de agricultura ecológica. También promueve el acceso a alimentos de calidad para todos y está comprometida con el desarrollo regional y la transición ecológica.",
+    "de": "Das Cocagne-Netzwerk vereint die Cocagne-Gärten in Frankreich, biologisch bewirtschaftete Bauernhöfe, die sich für die soziale Eingliederung und die Produktion von Biogemüse einsetzen.\n\nSeine Aufgabe ist es, die Gärten zu begleiten, die gemeinsame Nutzung von Ressourcen zu fördern und ein Kollektiv zu animieren. Er unterstützt auch die Kommunikation und die Anwaltschaft der Gärten auf lokaler Ebene.\n\nDas Cocagne-Netzwerk setzt sich für die Rückkehr in die Beschäftigung und den Kampf gegen Ausgrenzung ein, indem es Eingliederungswerkstätten für biologische Landwirtschaft betreibt. Es fördert außerdem den Zugang zu qualitativ hochwertigen Lebensmitteln für alle und engagiert sich für die territoriale Entwicklung und den ökologischen Übergang."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Réseau Cocagne",
+  "name": {
+    "fr": "Réseau Cocagne",
+    "en": "Cocagne network",
+    "es": "Red Cocagne",
+    "de": "Cocagne-Netzwerk"
+  },
   "pubId": 445052,
   "score": 103.89999999999793,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754954932,
   "date": null,
-  "description": "Ubees is dedicated to developing beekeeping projects that promote regenerative agriculture. With operations in 12 countries, including Colombia, the company focuses on enhancing pollination services and diversifying income for small producers through honey sales. Founded in 2017, Ubees combines technology with beekeeping to improve hive management and productivity. Their initiatives aim to protect bee populations, which are crucial for food production, while also increasing the income of local farmers.",
+  "description": {
+    "en": "Ubees is dedicated to developing beekeeping projects that promote regenerative agriculture. With operations in 12 countries, including Colombia, the company focuses on enhancing pollination services and diversifying income for small producers through honey sales. Founded in 2017, Ubees combines technology with beekeeping to improve hive management and productivity. Their initiatives aim to protect bee populations, which are crucial for food production, while also increasing the income of local farmers.",
+    "fr": "Ubees se consacre au développement de projets apicoles qui favorisent l'agriculture régénératrice. Présente dans 12 pays, dont la Colombie, l'entreprise se concentre sur l'amélioration des services de pollinisation et la diversification des revenus des petits producteurs par la vente de miel. Fondée en 2017, Ubees associe la technologie à l'apiculture pour améliorer la gestion et la productivité des ruches. Leurs initiatives visent à protéger les populations d'abeilles, qui sont cruciales pour la production alimentaire, tout en augmentant les revenus des agriculteurs locaux.",
+    "es": "Ubees se dedica a desarrollar proyectos apícolas que promueven la agricultura regenerativa. Con operaciones en 12 países, incluido Colombia, la empresa se centra en mejorar los servicios de polinización y diversificar los ingresos de los pequeños productores a través de la venta de miel. Fundada en 2017, Ubees combina la tecnología con la apicultura para mejorar la gestión y la productividad de las colmenas. Sus iniciativas tienen como objetivo proteger las poblaciones de abejas, que son cruciales para la producción de alimentos, al tiempo que aumentan los ingresos de los agricultores locales.",
+    "de": "Ubees widmet sich der Entwicklung von Imkereiprojekten, die eine regenerative Landwirtschaft fördern. Das Unternehmen, das in 12 Ländern, darunter Kolumbien, tätig ist, konzentriert sich auf die Verbesserung der Bestäubungsleistung und die Diversifizierung des Einkommens von Kleinproduzenten durch den Verkauf von Honig. Ubees wurde 2017 gegründet und kombiniert Technologie mit Bienenzucht, um das Bienenstockmanagement und die Produktivität zu verbessern. Ihre Initiativen zielen darauf ab, die Bienenpopulationen zu schützen, die für die Nahrungsmittelproduktion von entscheidender Bedeutung sind, und gleichzeitig das Einkommen der lokalen Landwirte zu erhöhen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ubees",
+  "name": {
+    "en": "Ubees",
+    "fr": "Ubees",
+    "es": "Ubees",
+    "de": "Ubees"
+  },
   "pubId": 486452,
   "score": 129.8728402563643,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "UuJ4SBudtUg",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1755738938,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1755738938
     }
   ],
-  "lastEvent": {
-    "at": 1755738938,
-    "by": "contact"
-  },
   "updatedAt": [
     1755738938
-  ]
+  ],
+  "originalLang": "fr"
 }

@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754953823,
   "date": null,
-  "description": "Ecoplanet Soluciones Integrales is a pioneering waste management company focused on maximizing the potential of organic waste. Established in 2017, the initiative began with organic farming and evolved into an environmental agro-park. The company transforms organic waste into high-quality fertilizers and animal feed, promoting sustainability and reducing landfill waste. With numerous awards for environmental sustainability, Ecoplanet aims to create a circular economy while ensuring food security and environmental protection.",
+  "description": {
+    "en": "Ecoplanet Soluciones Integrales is a pioneering waste management company focused on maximizing the potential of organic waste. Established in 2017, the initiative began with organic farming and evolved into an environmental agro-park. The company transforms organic waste into high-quality fertilizers and animal feed, promoting sustainability and reducing landfill waste. With numerous awards for environmental sustainability, Ecoplanet aims to create a circular economy while ensuring food security and environmental protection.",
+    "fr": "Ecoplanet Soluciones Integrales est une entreprise pionnière de gestion des déchets axée sur la maximisation du potentiel des déchets organiques. Établie en 2017, l'initiative a commencé par l'agriculture biologique et a évolué vers un agro-parc environnemental. L'entreprise transforme les déchets organiques en engrais de haute qualité et en aliments pour animaux, favorisant la durabilité et réduisant les déchets de décharge. Avec de nombreuses récompenses pour la durabilité environnementale, Ecoplanet vise à créer une économie circulaire tout en assurant la sécurité alimentaire et la protection de l'environnement.",
+    "es": "Ecoplanet Soluciones Integrales es una empresa pionera de gestión de residuos centrada en maximizar el potencial de los residuos orgánicos. Creada en 2017, la iniciativa comenzó con la agricultura ecológica y evolucionó hasta convertirse en un agroparque medioambiental. La empresa transforma los residuos orgánicos en fertilizantes y piensos de alta calidad, promoviendo la sostenibilidad y reduciendo los residuos de vertedero. Con numerosos premios a la sostenibilidad medioambiental, Ecoplanet aspira a crear una economía circular al tiempo que garantiza la seguridad alimentaria y la protección del medio ambiente.",
+    "de": "Ecoplanet Soluciones Integrales ist ein bahnbrechendes Abfallwirtschaftsunternehmen, das sich auf die Maximierung des Potenzials von organischen Abfällen konzentriert. Die 2017 gegründete Initiative begann mit ökologischem Landbau und entwickelte sich zu einem ökologischen Agro-Park. Das Unternehmen wandelt organische Abfälle in hochwertige Düngemittel und Tierfutter um, fördert so die Nachhaltigkeit und reduziert Deponieabfälle. Mit zahlreichen Auszeichnungen für ökologische Nachhaltigkeit will Ecoplanet eine Kreislaufwirtschaft schaffen und gleichzeitig für Ernährungssicherheit und Umweltschutz sorgen."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ecoplanet Soluciones Integrales",
+  "name": {
+    "es": "Ecoplanet Soluciones Integrales",
+    "en": "Ecoplanet Integral Solutions",
+    "fr": "Solutions intégrales Ecoplanet",
+    "de": "Ecoplanet Integrale Lösungen"
+  },
   "pubId": 485552,
   "score": -1.473810450799986,
   "state": "ongoing-project",
@@ -43,10 +53,6 @@
   ],
   "url": "",
   "yt": "RWSmW2mGvSE",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1760358658,
   "feedback": [
     {
@@ -54,11 +60,8 @@
       "at": 1760358658
     }
   ],
-  "lastEvent": {
-    "at": 1760358658,
-    "by": "contact"
-  },
   "updatedAt": [
     1760358658
-  ]
+  ],
+  "originalLang": "es"
 }

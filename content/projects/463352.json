@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754424732,
   "date": null,
-  "description": "Colonia Jaime is a unique community in Santiago del Estero, Argentina, founded in 1932, where around 100 residents live by philosophical principles emphasizing coexistence, education, and sustainable practices. This emblematic colony has been studied for its innovative agricultural methods and social technologies, such as biodigesters and drip irrigation. With a focus on community involvement and training, Colonia Jaime serves as a model for sustainable living, blending traditional values with modern advancements.",
+  "description": {
+    "en": "Colonia Jaime is a unique community in Santiago del Estero, Argentina, founded in 1932, where a hundred residents live according to philosophical principles that emphasize coexistence, education and sustainable practices. This iconic colony has been studied for its innovative agricultural methods and social technologies, such as biodigesters and drip irrigation. Focused on community participation and training, Colonia Jaime is a model of sustainable living that combines traditional values with modern advances.",
+    "fr": "La Colonia Jaime est une communauté unique de Santiago del Estero, en Argentine, fondée en 1932, où une centaine d'habitants vivent selon des principes philosophiques qui mettent l'accent sur la coexistence, l'éducation et les pratiques durables. Cette colonie emblématique a été étudiée pour ses méthodes agricoles innovantes et ses technologies sociales, telles que les biodigesteurs et l'irrigation au goutte-à-goutte. En mettant l'accent sur la participation et la formation de la communauté, Colonia Jaime est un modèle de vie durable qui combine les valeurs traditionnelles et les avancées modernes.",
+    "es": "Colonia Jaime es una comunidad única de Santiago del Estero (Argentina), fundada en 1932, donde un centenar de residentes viven según principios filosóficos que hacen hincapié en la coexistencia, la educación y las prácticas sostenibles. Esta emblemática colonia ha sido estudiada por sus innovadores métodos agrícolas y tecnologías sociales, como los biodigestores y el riego por goteo. Centrada en la participación y la formación de la comunidad, la Colonia Jaime es un modelo de vida sostenible que combina los valores tradicionales con los avances modernos.",
+    "de": "Colonia Jaime ist eine einzigartige Gemeinde in Santiago del Estero, Argentinien, die 1932 gegründet wurde und in der rund 100 Bewohner nach philosophischen Grundsätzen leben, die Koexistenz, Bildung und nachhaltige Praktiken betonen. Diese emblematische Siedlung wurde wegen ihrer innovativen landwirtschaftlichen Methoden und sozialen Technologien, wie Biogasanlagen und Drip-Bewässerung, untersucht. Die Colonia Jaime dient als Vorbild für nachhaltiges Leben und verbindet traditionelle Werte mit modernen Fortschritten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Colonia Jaime",
+  "name": {
+    "en": "Colonia Jaime",
+    "fr": "Colonia Jaime",
+    "es": "Colonia Jaime",
+    "de": "Colonia Jaime"
+  },
   "pubId": 463352,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

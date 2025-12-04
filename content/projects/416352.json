@@ -12,7 +12,12 @@
   ],
   "createdAt": 1657877976,
   "date": null,
-  "description": "Online food forum Gent en Garde, Belgium / sustainable food in Ghent\nThe online platform Gent en Garde is a meeting place on sustainable food in Ghent and has already reached more than 50,000 inhabitants of Ghent. The website lists more than 1,000 local food initiatives. There's also a Facebook group of Ghent and Garde that continues to grow.\nLink to access the discussions (NL) and the online food forum of the City of Ghent, Belgium:\nhttps://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap",
+  "description": {
+    "en": "Online food forum Gent en Garde, Belgium / sustainable food in Ghent The online platform Gent en Garde is a meeting place for sustainable food in Ghent and has already reached more than 50,000 inhabitants of Ghent. The website collects more than 1,000 local food initiatives. There is also a Gent en Garde group on Facebook that continues to grow. Link to access the discussions (NL) and the online food forum of the city of Ghent, Belgium: https://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap",
+    "fr": "Forum alimentaire en ligne Gent en Garde, Belgique / alimentation durable à Gand La plateforme en ligne Gent en Garde est un lieu de rencontre pour l'alimentation durable à Gand et a déjà atteint plus de 50 000 habitants de Gand. Le site web rassemble plus de 1 000 initiatives locales en matière d'alimentation. Il existe également un groupe Gent en Garde sur Facebook qui ne cesse de s'agrandir. Lien vers les discussions (NL) et le forum alimentaire en ligne de la ville de Gand, Belgique : https://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap",
+    "es": "Foro alimentario en línea Gent en Garde, Bélgica / alimentación sostenible en Gante\nLa plataforma en línea Gent en Garde es un lugar de encuentro sobre alimentación sostenible en Gante y ya ha llegado a más de 50.000 habitantes de Gante. El sitio web recoge más de 1.000 iniciativas alimentarias locales. También hay un grupo de Gante en Garde en Facebook que sigue creciendo.\nEnlace para acceder a los debates (NL) y al foro en línea sobre alimentación de la ciudad de Gante, Bélgica:\nhttps://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap",
+    "de": "Online-Lebensmittelforum Gent en Garde, Belgien / Nachhaltige Lebensmittel in Ghent\nDie Online-Plattform Gent en Garde ist ein Treffpunkt für nachhaltiges Essen in Ghent und hat bereits mehr als 50.000 Einwohner von Ghent erreicht. Die Website listet mehr als 1.000 lokale Lebensmittelinitiativen auf. Es gibt auch eine Facebook-Gruppe von Ghent and Garde, die immer weiter wächst.\nLink zu den Diskussionen (NL) und dem Online-Lebensmittelforum der Stadt Ghent, Belgien:\nhttps://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap"
+  },
   "field": [
     "communication-and-media-studies",
     "other-social-sciences-and-humanities",
@@ -20,7 +25,12 @@
   ],
   "lang": "fr",
   "location": "Ghent",
-  "name": "Online sustainable food forum Gent en Garde",
+  "name": {
+    "en": "Online sustainable food forum Gent en Garde",
+    "fr": "Online sustainable food forum Gent en Garde",
+    "es": "Foro en línea sobre alimentación sostenible Gent en Garde",
+    "de": "Online sustainable food forum Gent en Garde"
+  },
   "pubId": 416352,
   "score": 424.6738035999108,
   "state": "ongoing-project",
@@ -44,28 +54,5 @@
   ],
   "url": "https://participatie.stad.gent/nl-BE/folders/gent-en-garde-projectmap",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532615,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532615,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

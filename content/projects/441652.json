@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739463014,
   "date": null,
-  "description": "The Asociación Café Sello Mujer is an initiative based in Caicedonia, Valle del Cauca, focused on empowering women coffee growers. Established by a group of women leaders, the association aims to enhance the recognition and economic viability of female coffee producers who have historically been undervalued in the market. Through technical training, economic education, and support in sustainable agricultural practices, the association fosters a sense of community and collaboration among its members. It emphasizes the importance of environmental sustainability by utilizing organic farming methods and promoting the use of safe fertilizers. The initiative also seeks to create a collective brand that represents the quality of their coffee, allowing members to market their products more effectively while encouraging individual branding efforts. Overall, the association strives to improve the quality of life for its members by providing them with the tools and knowledge necessary for economic independence and social empowerment.",
+  "description": {
+    "en": "The Asociación Café Sello Mujer is an initiative based in Caicedonia, Valle del Cauca, focused on the empowerment of women coffee growers. Created by a group of women leaders, the association seeks to improve the recognition and economic viability of women coffee growers who have historically been undervalued in the marketplace. Through technical training, economic education and support in sustainable agricultural practices, the association fosters a sense of community and collaboration among its members. It emphasizes the importance of environmental sustainability by using organic farming methods and promoting the use of safe fertilizers. The initiative also aims to create a collective brand that represents the quality of its coffee, enabling members to market their products more effectively while encouraging individual branding efforts. Overall, the association strives to improve the quality of life of its members by providing them with the tools and knowledge necessary to achieve economic independence and social empowerment.",
+    "fr": "L'Asociación Café Sello Mujer est une initiative basée à Caicedonia, Valle del Cauca, qui se concentre sur l'autonomisation des femmes productrices de café. Créée par un groupe de femmes dirigeantes, l'association vise à améliorer la reconnaissance et la viabilité économique des productrices de café qui ont toujours été sous-évaluées sur le marché. Grâce à la formation technique, à l'éducation économique et au soutien des pratiques agricoles durables, l'association encourage un sens de la communauté et de la collaboration parmi ses membres. Elle met l'accent sur l'importance de la durabilité environnementale en utilisant des méthodes d'agriculture biologique et en promouvant l'utilisation d'engrais sûrs. L'initiative vise également à créer une marque collective qui représente la qualité de son café, permettant aux membres de commercialiser leurs produits plus efficacement tout en encourageant les efforts individuels en matière de marque. Globalement, l'association s'efforce d'améliorer la qualité de vie de ses membres en leur fournissant les outils et les connaissances nécessaires pour parvenir à l'indépendance économique et à l'autonomisation sociale.",
+    "es": "La Asociación Café Sello Mujer es una iniciativa con sede en Caicedonia, Valle del Cauca, centrada en el empoderamiento de las mujeres caficultoras. Creada por un grupo de mujeres líderes, la asociación pretende mejorar el reconocimiento y la viabilidad económica de las productoras de café que históricamente han sido infravaloradas en el mercado. A través de la formación técnica, la educación económica y el apoyo en prácticas agrícolas sostenibles, la asociación fomenta un sentido de comunidad y colaboración entre sus miembros. Hace hincapié en la importancia de la sostenibilidad medioambiental utilizando métodos de agricultura ecológica y promoviendo el uso de fertilizantes seguros. La iniciativa también pretende crear una marca colectiva que represente la calidad de su café, permitiendo a los miembros comercializar sus productos de forma más eficaz y fomentando al mismo tiempo los esfuerzos individuales de creación de marca. En general, la asociación se esfuerza por mejorar la calidad de vida de sus miembros proporcionándoles las herramientas y los conocimientos necesarios para lograr la independencia económica y el empoderamiento social.",
+    "de": "Die Asociación Café Sello Mujer ist eine in Caicedonia, Valle del Cauca, ansässige Initiative, die sich auf die Stärkung der weiblichen Kaffeebauern konzentriert. Der von einer Gruppe weiblicher Führungskräfte gegründete Verein zielt darauf ab, die Anerkennung und wirtschaftliche Lebensfähigkeit weiblicher Kaffeeproduzentinnen, die historisch gesehen auf dem Markt unterbewertet waren, zu verbessern. Through technical training, economic education, and support in sustainable agricultural practices, the association fosters a sense of community and collaboration among its members. Sie betont die Bedeutung der ökologischen Nachhaltigkeit durch die Verwendung organischer Anbaumethoden und die Förderung des Einsatzes sicherer Düngemittel. The initiative also seeks to create a collective brand that represents the quality of their coffee, allowing members to market their products more effectively while encouraging individual branding efforts. Insgesamt strebt die Vereinigung danach, die Lebensqualität ihrer Mitglieder zu verbessern, indem sie ihnen die Werkzeuge und das Wissen zur Verfügung stellt, die sie für ihre wirtschaftliche Unabhängigkeit und ihr soziales Empowerment benötigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Café Mujer",
+  "name": {
+    "es": "Café Mujer",
+    "en": "Café Mujer",
+    "fr": "Femme de café",
+    "de": "Café Frau"
+  },
   "pubId": 441652,
   "score": 2300.9019607843175,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "rlFzFVeZTxk",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

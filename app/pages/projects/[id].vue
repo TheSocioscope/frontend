@@ -12,16 +12,25 @@
       <!-- Breadcrumbs -->
       <v-breadcrumbs :items="breadcrumbs" class="px-0" />
 
+      <!-- Translation Disclaimer -->
+      <TranslationDisclaimer
+        v-if="(project as any).originalLang && showDisclaimer"
+        :original-lang="(project as any).originalLang"
+        :current-locale="currentLocale"
+        :showing-original="showOriginal"
+        @toggle-original="toggleOriginal"
+      />
+
       <!-- Project header -->
       <div class="mb-8">
         <v-chip
           v-if="project.status !== undefined"
-          :color="getStatusColor(project.status)"
+          :color="getStatusColor(String(project.status))"
           class="mb-4"
         >
-          {{ getStatusLabel(project.status) }}
+          {{ getStatusLabel(String(project.status)) }}
         </v-chip>
-        <h1 class="text-h3 mb-4">{{ project.name }}</h1>
+        <h1 class="text-h3 mb-4">{{ localizedName }}</h1>
 
         <!-- Project metadata -->
         <div class="d-flex flex-wrap gap-2 mb-4">
@@ -61,7 +70,7 @@
           <v-card class="mb-4">
             <v-card-title>{{ $t('projects.description', 'Description') }}</v-card-title>
             <v-card-text>
-              <p class="text-body-1">{{ project.description }}</p>
+              <p class="text-body-1">{{ localizedDescription }}</p>
             </v-card-text>
           </v-card>
 
@@ -89,7 +98,9 @@
             <v-card-title>{{ $t('projects.geography', 'Geography') }}</v-card-title>
             <v-card-text>
               <div v-if="project.continent?.length" class="mb-3">
-                <p class="text-subtitle-2 mb-2">{{ $t('projects.continents', 'Continents') }}</p>
+                <p class="text-subtitle-2 mb-2">
+                  {{ $t('projects.continentsLabel', 'Continents') }}
+                </p>
                 <v-chip
                   v-for="continentId in project.continent"
                   :key="continentId"
@@ -100,7 +111,7 @@
                 </v-chip>
               </div>
               <div v-if="project.country?.length">
-                <p class="text-subtitle-2 mb-2">{{ $t('projects.countries', 'Countries') }}</p>
+                <p class="text-subtitle-2 mb-2">{{ $t('projects.countriesLabel', 'Countries') }}</p>
                 <v-chip
                   v-for="countryId in project.country"
                   :key="countryId"
@@ -115,7 +126,7 @@
 
           <!-- Fields -->
           <v-card v-if="project.field?.length" class="mb-4">
-            <v-card-title>{{ $t('projects.fields', 'Fields') }}</v-card-title>
+            <v-card-title>{{ $t('labels.fields', 'Fields') }}</v-card-title>
             <v-card-text>
               <v-chip
                 v-for="fieldId in project.field"
@@ -131,7 +142,7 @@
 
           <!-- Thematics -->
           <v-card v-if="project.thematic?.length" class="mb-4">
-            <v-card-title>{{ $t('projects.thematics', 'Thematics') }}</v-card-title>
+            <v-card-title>{{ $t('labels.thematics', 'Thematics') }}</v-card-title>
             <v-card-text>
               <v-chip
                 v-for="thematicId in project.thematic"
@@ -147,7 +158,7 @@
 
           <!-- Types -->
           <v-card v-if="project.type?.length" class="mb-4">
-            <v-card-title>{{ $t('projects.types', 'Types') }}</v-card-title>
+            <v-card-title>{{ $t('labels.types', 'Types') }}</v-card-title>
             <v-card-text>
               <v-chip
                 v-for="typeId in project.type"
@@ -172,11 +183,11 @@
           </v-card>
 
           <!-- Periodicity -->
-          <v-card v-if="project.periodicity" class="mb-4">
+          <v-card v-if="(project as any).periodicity" class="mb-4">
             <v-card-title>{{ $t('projects.periodicity', 'Periodicity') }}</v-card-title>
             <v-card-text>
               <v-chip>
-                {{ getPeriodicityLabel(project.periodicity) }}
+                {{ getPeriodicityLabel((project as any).periodicity) }}
               </v-chip>
             </v-card-text>
           </v-card>
@@ -185,7 +196,7 @@
 
       <!-- Back button -->
       <div class="text-center mt-8">
-        <v-btn to="/projects" prepend-icon="mdi-arrow-left" variant="outlined">
+        <v-btn :to="localePath('/projects')" prepend-icon="mdi-arrow-left" variant="outlined">
           {{ $t('projects.backToList', 'Back to projects') }}
         </v-btn>
       </div>
@@ -196,7 +207,7 @@
       <v-card class="text-center pa-8">
         <v-icon size="64" color="grey-lighten-1">mdi-file-document-remove-outline</v-icon>
         <p class="text-h5 mt-4">{{ $t('projects.notFound', 'Project not found') }}</p>
-        <v-btn to="/projects" class="mt-4" color="primary">
+        <v-btn :to="localePath('/projects')" class="mt-4" color="primary">
           {{ $t('projects.backToList', 'Back to projects') }}
         </v-btn>
       </v-card>
@@ -206,7 +217,8 @@
 
 <script setup lang="ts">
 const route = useRoute()
-const { t: $t } = useI18n()
+const { t: $t, locale } = useI18n()
+const localePath = useLocalePath()
 const {
   getStatusLabel,
   getContinentLabel,
@@ -217,6 +229,10 @@ const {
   getStateLabel,
   getPeriodicityLabel
 } = useProjectMappings()
+const { isTranslated: checkIsTranslated } = useMultilingual()
+
+// State for toggling between current locale and original language
+const showOriginal = ref(false)
 
 const projectId = computed(() => route.params.id as string)
 
@@ -231,7 +247,7 @@ const { data: project, error: projectError } = await useAsyncData(
       console.log('Looking for project with ID:', projectId.value)
 
       // Try to find by pubId instead of stem
-      const foundByPubId = allProjects.find((p: any) => String(p.pubId) === String(projectId.value))
+      const foundByPubId = allProjects.find((p) => String(p.pubId) === String(projectId.value))
 
       if (foundByPubId) {
         console.log('Found project by pubId:', foundByPubId.name)
@@ -241,7 +257,7 @@ const { data: project, error: projectError } = await useAsyncData(
 
       // Try by stem as fallback
       const stemPath = `projects/${projectId.value}`
-      const foundByStem = allProjects.find((p: any) => p.stem === stemPath)
+      const foundByStem = allProjects.find((p) => p.stem === stemPath)
 
       if (foundByStem) {
         console.log('Found project by stem:', foundByStem.name)
@@ -251,7 +267,7 @@ const { data: project, error: projectError } = await useAsyncData(
       console.error('Project not found with pubId or stem:', projectId.value)
       console.log(
         'Sample stems from collection:',
-        allProjects.slice(0, 3).map((p: any) => ({ pubId: p.pubId, stem: p.stem }))
+        allProjects.slice(0, 3).map((p) => ({ pubId: p.pubId, stem: p.stem }))
       )
       return null
     } catch (e) {
@@ -268,7 +284,7 @@ const breadcrumbs = computed(() => [
     to: '/projects'
   },
   {
-    title: project.value?.name || projectId.value,
+    title: localizedName.value || projectId.value,
     disabled: true
   }
 ])
@@ -279,9 +295,9 @@ const formatDate = (timestamp: number) => {
 }
 
 // Status color helper
-const getStatusColor = (status: number) => {
+const getStatusColor = (status: string) => {
   // Only verified (status 3) is green, all others are gray
-  return status === 3 ? 'green' : 'grey'
+  return status === '3' || status === 'verified' ? 'green' : 'grey'
 }
 
 // Extract YouTube video ID from various URL formats or return if already an ID
@@ -304,15 +320,77 @@ const getYouTubeEmbedUrl = (urlOrId: string) => {
     }
 
     return `https://www.youtube.com/embed/${videoId}`
-  } catch (e) {
+  } catch {
     // If URL parsing fails, assume it's a video ID
     return `https://www.youtube.com/embed/${urlOrId}`
   }
 }
 
-// SEO
-useHead({
-  title: project.value?.name || $t('nav.projects')
+// Computed properties for multilingual content
+const currentLocale = computed(() => {
+  const proj = project.value as any
+  return showOriginal.value ? proj?.originalLang || 'en' : locale.value
+})
+
+const localizedName = computed(() => {
+  const proj = project.value as any
+  if (!proj?.name) return ''
+  const textObj = proj.name
+  if (typeof textObj === 'string') return textObj
+
+  const targetLocale = showOriginal.value ? proj.originalLang || 'en' : locale.value
+  const origLang = proj.originalLang || 'en'
+  return (
+    (textObj as Record<string, string>)[targetLocale] ||
+    (textObj as Record<string, string>)[origLang] ||
+    (textObj as Record<string, string>).en ||
+    ''
+  )
+})
+
+const localizedDescription = computed(() => {
+  const proj = project.value as any
+  if (!proj?.description) return ''
+  const textObj = proj.description
+  if (typeof textObj === 'string') return textObj
+
+  const targetLocale = showOriginal.value ? proj.originalLang || 'en' : locale.value
+  const origLang = proj.originalLang || 'en'
+  return (
+    (textObj as Record<string, string>)[targetLocale] ||
+    (textObj as Record<string, string>)[origLang] ||
+    (textObj as Record<string, string>).en ||
+    ''
+  )
+})
+
+const isTranslated = computed(() => {
+  const proj = project.value as any
+  return !showOriginal.value && checkIsTranslated(proj?.originalLang)
+})
+
+const showDisclaimer = computed(() => {
+  const proj = project.value as any
+  // Show disclaimer if original language exists and is different from current locale
+  return proj?.originalLang && proj.originalLang !== locale.value
+})
+
+// Toggle between original and translated version
+const toggleOriginal = () => {
+  showOriginal.value = !showOriginal.value
+}
+
+// SEO - use watchEffect to update dynamically
+watchEffect(() => {
+  useHead({
+    title: localizedName.value || $t('nav.projects'),
+    meta: [
+      {
+        name: 'description',
+        content: localizedDescription.value || ''
+      }
+    ]
+  })
 })
 </script>
 

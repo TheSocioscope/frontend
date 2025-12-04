@@ -117,8 +117,25 @@ export default defineContentConfig({
       source: 'projects/*.json',
       schema: z.object({
         pubId: z.number(),
-        name: z.string(),
-        description: z.string(),
+        name: z.union([
+          z.string(),
+          z.object({
+            en: z.string(),
+            fr: z.string(),
+            es: z.string(),
+            de: z.string()
+          })
+        ]),
+        description: z.union([
+          z.string(),
+          z.object({
+            en: z.string(),
+            fr: z.string(),
+            es: z.string(),
+            de: z.string()
+          })
+        ]),
+        originalLang: z.string().optional(),
         lang: z.string().optional(),
         location: z.string().optional(),
         url: z.string().optional(),

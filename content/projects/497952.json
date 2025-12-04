@@ -13,14 +13,25 @@
   ],
   "createdAt": 1755092967,
   "date": null,
-  "description": "The initiative focuses on harnessing the potential of the black soldier fly for various applications, including waste degradation and the development of new antibiotics. Based at the Andean Amazonian Laboratory of Chemistry of Life, the project aims to produce insect protein and explore the fly's microbiota for antimicrobial properties. By addressing organic waste management and enhancing food safety, the initiative contributes to sustainable practices in agriculture and aquaculture, ultimately benefiting human health and the environment.",
+  "description": {
+    "en": "The initiative focuses on harnessing the potential of the black soldier fly for various applications, including waste degradation and the development of new antibiotics. Based at the Andean Amazonian Laboratory of Chemistry of Life, the project aims to produce insect protein and explore the fly's microbiota for antimicrobial properties. By addressing organic waste management and enhancing food safety, the initiative contributes to sustainable practices in agriculture and aquaculture, ultimately benefiting human health and the environment.",
+    "fr": "Cette initiative vise à exploiter le potentiel de la mouche soldat noire pour diverses applications, notamment la dégradation des déchets et la mise au point de nouveaux antibiotiques. Basé au Laboratoire andin amazonien de chimie de la vie, le projet vise à produire des protéines d'insectes et à explorer le microbiote de la mouche pour y déceler des propriétés antimicrobiennes. En s'attaquant à la gestion des déchets organiques et en améliorant la sécurité alimentaire, l'initiative contribue aux pratiques durables dans l'agriculture et l'aquaculture, ce qui profite en fin de compte à la santé humaine et à l'environnement.",
+    "es": "La iniciativa se centra en aprovechar el potencial de la mosca soldado negra para diversas aplicaciones, entre ellas la degradación de residuos y el desarrollo de nuevos antibióticos. Con sede en el Laboratorio Andino Amazónico de Química de la Vida, el proyecto pretende producir proteína de insecto y explorar la microbiota de la mosca en busca de propiedades antimicrobianas. Al abordar la gestión de los residuos orgánicos y mejorar la seguridad alimentaria, la iniciativa contribuye a las prácticas sostenibles en la agricultura y la acuicultura, beneficiando en última instancia a la salud humana y al medio ambiente.",
+    "de": "Die Initiative konzentriert sich auf die Nutzung des Potenzials der Schwarzen Soldatenfliege für verschiedene Anwendungen, einschließlich des Abbaus von Abfällen und der Entwicklung neuer Antibiotika. Das im Anden-Amazonas-Labor für Chemie des Lebens angesiedelte Projekt zielt darauf ab, Insektenproteine zu produzieren und die Mikrobiota der Fliege auf antimikrobielle Eigenschaften zu untersuchen. Durch die Behandlung organischer Abfälle und die Verbesserung der Lebensmittelsicherheit trägt die Initiative zu nachhaltigen Praktiken in der Landwirtschaft und der Aquakultur bei, was letztlich der menschlichen Gesundheit und der Umwelt zugute kommt."
+  },
   "field": [
     "biology",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Mosca Soldado Negra",
+  "name": {
+    "pt": "Mosca Soldado Negra",
+    "en": "Black Soldier Fly",
+    "fr": "Mouche du soldat noir",
+    "es": "Mosca soldado negra",
+    "de": "Schwarze Soldatenfliege"
+  },
   "pubId": 497952,
   "score": -35.09204908716356,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

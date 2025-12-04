@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403343,
   "date": null,
-  "description": "The initiative focuses on the Agrupar program in Quito, Ecuador, which aims to enhance food security and promote entrepreneurship through urban vegetable gardens. Established in 2003, it operates as a non-profit entity, leveraging both public and private funds. The program provides training, technical assistance, and market access for participants, primarily targeting vulnerable populations, including older adults and the unemployed. With over 1,200 gardens and 5,200 beneficiaries, it has significantly contributed to reducing malnutrition rates in the community.",
+  "description": {
+    "en": "The initiative focuses on the Agrupar program in Quito, Ecuador, which aims to improve food security and promote entrepreneurship through urban gardens. Created in 2003, it operates as a non-profit entity, mobilizing public and private funds. The program provides training, technical assistance and market access to participants, and targets mainly vulnerable populations, such as the elderly and the unemployed. With more than 1,200 gardens and 5,200 beneficiaries, it has contributed significantly to reducing malnutrition rates in the community.",
+    "fr": "L'initiative se concentre sur le programme Agrupar à Quito, en Équateur, qui vise à améliorer la sécurité alimentaire et à promouvoir l'esprit d'entreprise par le biais de jardins urbains. Créé en 2003, il fonctionne comme une entité à but non lucratif, mobilisant des fonds publics et privés. Le programme offre une formation, une assistance technique et un accès au marché aux participants et cible principalement les populations vulnérables, telles que les personnes âgées et les chômeurs. Avec plus de 1 200 jardins et 5 200 bénéficiaires, il a contribué de manière significative à la réduction des taux de malnutrition dans la communauté.",
+    "es": "La iniciativa se centra en el programa Agrupar de Quito (Ecuador), cuyo objetivo es mejorar la seguridad alimentaria y promover el espíritu empresarial a través de huertos urbanos. Creado en 2003, funciona como una entidad sin ánimo de lucro, que moviliza fondos públicos y privados. El programa ofrece formación, asistencia técnica y acceso al mercado a los participantes, y se dirige principalmente a poblaciones vulnerables, como los adultos mayores y los desempleados. Con más de 1.200 huertos y 5.200 beneficiarios, ha contribuido significativamente a reducir las tasas de malnutrición en la comunidad.",
+    "de": "Die Initiative konzentriert sich auf das Agrupar-Programm in Quito, Ecuador, das die Ernährungssicherheit erhöhen und das Unternehmertum durch städtische Gemüsegärten fördern soll. Das 2003 gegründete Programm arbeitet als gemeinnütziges Unternehmen, das sowohl öffentliche als auch private Gelder aufbringt. Das Programm bietet Schulungen, technische Unterstützung und Marktzugang für Teilnehmer, die sich vor allem an besonders gefährdete Bevölkerungsgruppen richten, darunter ältere Erwachsene und Arbeitslose. Mit über 1.200 Gärten und 5.200 Begünstigten hat das Projekt erheblich zur Verringerung der Unterernährungsraten in der Gemeinde beigetragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Conquito",
+  "name": {
+    "en": "Conquito",
+    "fr": "Conquito",
+    "es": "Conquito",
+    "de": "Conquito"
+  },
   "pubId": 459552,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

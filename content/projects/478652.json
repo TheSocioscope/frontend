@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653070,
   "date": null,
-  "description": "Pow Bar is a Hokkaido-based company that produces energy bars, initially created by a couple for outdoor enthusiasts. Recognizing a lack of awareness about power bars in Japan, they began educating consumers about healthier alternatives to ultra-processed convenience store snacks. Their philosophy emphasizes real ingredients and sustainability, using local products when possible. They aim to foster community engagement and promote healthier eating habits through their café and educational initiatives.",
+  "description": {
+    "en": "Pow Bar is a Hokkaido-based company that produces energy bars, initially created by a couple for outdoor enthusiasts. Recognizing a lack of awareness about power bars in Japan, they began educating consumers about healthier alternatives to ultra-processed convenience store snacks. Their philosophy emphasizes real ingredients and sustainability, using local products when possible. They aim to foster community engagement and promote healthier eating habits through their café and educational initiatives.",
+    "fr": "Pow Bar est une entreprise basée à Hokkaido qui produit des barres énergétiques, créées à l'origine par un couple pour les amateurs d'activités de plein air. Constatant que les barres énergétiques n'étaient pas suffisamment connues au Japon, ils ont commencé à sensibiliser les consommateurs à des solutions plus saines que les en-cas ultra-transformés des supérettes. Leur philosophie met l'accent sur les ingrédients authentiques et la durabilité, en utilisant des produits locaux dans la mesure du possible. Elle vise à encourager l'engagement communautaire et à promouvoir des habitudes alimentaires plus saines par l'intermédiaire de son café et de ses initiatives éducatives.",
+    "es": "Pow Bar es una empresa con sede en Hokkaido que produce barritas energéticas, creadas inicialmente por una pareja para entusiastas de las actividades al aire libre. Al darse cuenta de la falta de concienciación sobre las barritas energéticas en Japón, empezaron a educar a los consumidores sobre alternativas más sanas a los tentempiés ultraprocesados de las tiendas. Su filosofía hace hincapié en los ingredientes reales y la sostenibilidad, utilizando productos locales cuando es posible. Su objetivo es fomentar la participación de la comunidad y promover hábitos alimentarios más saludables a través de su cafetería y sus iniciativas educativas.",
+    "de": "Pow Bar ist ein in Hokkaido ansässiges Unternehmen, das Energieriegel herstellt, die ursprünglich von einem Ehepaar für Outdoor-Fans entwickelt wurden. Als sie erkannten, dass es in Japan an Bewusstsein für Energieriegel mangelt, begannen sie, die Verbraucher über gesündere Alternativen zu den ultra-verarbeiteten Snacks aus dem Supermarkt aufzuklären. In ihrer Philosophie legen sie Wert auf echte Zutaten und Nachhaltigkeit und verwenden nach Möglichkeit lokale Produkte. Mit ihrem Café und ihren Aufklärungsinitiativen wollen sie das Engagement der Gemeinschaft fördern und gesündere Ernährungsgewohnheiten unterstützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pow Bar",
+  "name": {
+    "en": "Pow Bar",
+    "fr": "Pow Bar",
+    "es": "Barra Pow",
+    "de": "Pow Bar"
+  },
   "pubId": 478652,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "fr"
 }

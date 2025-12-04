@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754929076,
   "date": null,
-  "description": "The initiative is a family-run hotel established in 2010, located in Bucaramanga, Colombia. It began as a recreational farm and evolved into a sustainable lodging facility focused on environmental protection and renewable energy. The hotel operates on a zero-waste model, utilizing solar energy and rainwater collection. It serves as an educational hub for visitors, promoting eco-friendly practices and self-sufficiency through organic gardening and composting, while fostering community engagement and awareness about sustainability.",
+  "description": {
+    "en": "The initiative is a family-run hotel established in 2010, located in Bucaramanga, Colombia. It began as a recreational farm and evolved into a sustainable lodging facility focused on environmental protection and renewable energy. The hotel operates on a zero-waste model, utilizing solar energy and rainwater collection. It serves as an educational hub for visitors, promoting eco-friendly practices and self-sufficiency through organic gardening and composting, while fostering community engagement and awareness about sustainability.",
+    "fr": "L'initiative est un hôtel familial créé en 2010, situé à Bucaramanga, en Colombie. Il s'agissait à l'origine d'une ferme de loisirs qui a évolué pour devenir un établissement d'hébergement durable axé sur la protection de l'environnement et les énergies renouvelables. L'hôtel fonctionne sur un modèle zéro déchet, utilisant l'énergie solaire et la collecte d'eau de pluie. Il sert de centre éducatif pour les visiteurs, encourageant les pratiques écologiques et l'autosuffisance par le biais du jardinage biologique et du compostage, tout en favorisant l'engagement de la communauté et la sensibilisation au développement durable.",
+    "es": "La iniciativa es un hotel familiar fundado en 2010, situado en Bucaramanga, Colombia. Comenzó como una granja recreativa y evolucionó hasta convertirse en un alojamiento sostenible centrado en la protección del medio ambiente y las energías renovables. El hotel funciona con un modelo de cero residuos, utilizando energía solar y recogida de agua de lluvia. Sirve como centro educativo para los visitantes, promoviendo prácticas ecológicas y la autosuficiencia a través de la jardinería orgánica y el compostaje, al tiempo que fomenta el compromiso de la comunidad y la concienciación sobre la sostenibilidad.",
+    "de": "Die Initiative ist ein familiengeführtes Hotel, das 2010 in Bucaramanga, Kolumbien, gegründet wurde. Es begann als Erholungsbauernhof und entwickelte sich zu einer nachhaltigen Beherbergungseinrichtung mit Schwerpunkt auf Umweltschutz und erneuerbaren Energien. Das Hotel arbeitet mit einem Null-Abfall-Modell, nutzt Solarenergie und sammelt Regenwasser. Es dient als Bildungszentrum für Besucher, das umweltfreundliche Praktiken und Selbstversorgung durch biologischen Gartenbau und Kompostierung fördert, während es gleichzeitig das Engagement der Gemeinschaft und das Bewusstsein für Nachhaltigkeit stärkt."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Hotel Ecoturistico Villa Lucy ",
+  "name": {
+    "it": "Hotel Ecoturistico Villa Lucy ",
+    "en": "Ecotourist Hotel Villa Lucy",
+    "fr": "Villa Lucy Ecotourism Hotel",
+    "es": "Hotel ecoturístico Villa Lucy",
+    "de": "Villa Lucy Ökotourismus Hotel"
+  },
   "pubId": 485352,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -43,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

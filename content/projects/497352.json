@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755088966,
   "date": null,
-  "description": "Santa Perucha is a family-owned business, inspired by over 30 years of experience from her parents. Established during the pandemic, the brand focuses on producing high-quality charcoal while promoting job opportunities for hardworking Peruvian women. With a commitment to sustainability, Santa Perucha utilizes waste from sawmills, ensuring eco-friendly practices. The initiative aims to empower women in the industry and enhance the quality of life for their communities through responsible business practices.",
+  "description": {
+    "en": "Santa Perucha is a family-owned business, inspired by over 30 years of experience from her parents. Established during the pandemic, the brand focuses on producing high-quality charcoal while promoting job opportunities for hardworking Peruvian women. With a commitment to sustainability, Santa Perucha utilizes waste from sawmills, ensuring eco-friendly practices. The initiative aims to empower women in the industry and enhance the quality of life for their communities through responsible business practices.",
+    "fr": "Santa Perucha est une entreprise familiale, inspirée par plus de 30 ans d'expérience de ses parents. Créée pendant la pandémie, la marque se concentre sur la production de charbon de bois de haute qualité tout en favorisant les possibilités d'emploi pour les femmes péruviennes qui travaillent dur. Santa Perucha s'engage à respecter le développement durable en utilisant les déchets des scieries, ce qui lui permet d'adopter des pratiques respectueuses de l'environnement. L'initiative vise à autonomiser les femmes dans l'industrie et à améliorer la qualité de vie de leurs communautés grâce à des pratiques commerciales responsables.",
+    "es": "Santa Perucha es una empresa familiar, inspirada en los más de 30 años de experiencia de sus padres. Creada durante la pandemia, la marca se centra en la producción de carbón vegetal de alta calidad al tiempo que promueve oportunidades de empleo para las trabajadoras peruanas. Comprometida con la sostenibilidad, Santa Perucha utiliza los residuos de los aserraderos, garantizando prácticas respetuosas con el medio ambiente. La iniciativa pretende empoderar a las mujeres del sector y mejorar la calidad de vida de sus comunidades mediante prácticas empresariales responsables.",
+    "de": "Santa Perucha ist ein Familienunternehmen, das von der über 30-jährigen Erfahrung ihrer Eltern inspiriert wurde. Die während der Pandemie gegründete Marke konzentriert sich auf die Herstellung hochwertiger Holzkohle und fördert gleichzeitig Beschäftigungsmöglichkeiten für hart arbeitende peruanische Frauen. Santa Perucha hat sich der Nachhaltigkeit verschrieben und verwendet Abfälle aus Sägewerken, um umweltfreundliche Praktiken zu gewährleisten. Die Initiative zielt darauf ab, Frauen in der Branche zu stärken und die Lebensqualität in ihren Gemeinden durch verantwortungsvolle Geschäftspraktiken zu verbessern."
+  },
   "field": [
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Santa Perucha",
+  "name": {
+    "id": "Santa Perucha",
+    "en": "Santa Perucha",
+    "fr": "Santa Perucha",
+    "es": "Santa Perucha",
+    "de": "Santa Perucha"
+  },
   "pubId": 497352,
   "score": 66.20000000000023,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "id"
 }

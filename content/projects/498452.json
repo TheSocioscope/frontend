@@ -13,14 +13,25 @@
   ],
   "createdAt": 1755099006,
   "date": null,
-  "description": "Eixarcolant, founded in 2016, is an initiative aimed at recovering forgotten plants, particularly wild edible species and traditional agricultural varieties. Originating from ethnobotanical research in the Noya region, it seeks to transform agri-food systems by reintegrating these plants into local culinary practices. The initiative fosters community engagement through workshops, research, and a seed bank, promoting biodiversity and sustainable food practices while preserving cultural heritage linked to these forgotten plants.",
+  "description": {
+    "en": "Eixarcolant, founded in 2016, is an initiative aimed at recovering forgotten plants, particularly wild edible species and traditional agricultural varieties. Originating from ethnobotanical research in the Noya region, it seeks to transform agri-food systems by reintegrating these plants into local culinary practices. The initiative fosters community engagement through workshops, research, and a seed bank, promoting biodiversity and sustainable food practices while preserving cultural heritage linked to these forgotten plants.",
+    "fr": "Eixarcolant, fondée en 2016, est une initiative visant à récupérer des plantes oubliées, en particulier des espèces sauvages comestibles et des variétés agricoles traditionnelles. Issue de la recherche ethnobotanique dans la région de Noya, elle cherche à transformer les systèmes agroalimentaires en réintégrant ces plantes dans les pratiques culinaires locales. L'initiative favorise l'engagement des communautés par le biais d'ateliers, de recherches et d'une banque de semences, promouvant ainsi la biodiversité et les pratiques alimentaires durables tout en préservant l'héritage culturel lié à ces plantes oubliées.",
+    "es": "Eixarcolant, fundada en 2016, es una iniciativa destinada a recuperar plantas olvidadas, en particular especies silvestres comestibles y variedades agrícolas tradicionales. Nacida de la investigación etnobotánica en la región de Noya, busca transformar los sistemas agroalimentarios mediante la reintegración de estas plantas en las prácticas culinarias locales. La iniciativa fomenta la participación de la comunidad mediante talleres, investigación y un banco de semillas, promoviendo la biodiversidad y las prácticas alimentarias sostenibles al tiempo que preserva el patrimonio cultural vinculado a estas plantas olvidadas.",
+    "de": "Eixarcolant wurde 2016 gegründet und ist eine Initiative zur Wiederherstellung vergessener Pflanzen, insbesondere essbarer Wildarten und traditioneller landwirtschaftlicher Sorten. Sie geht auf ethnobotanische Forschungen in der Region Noya zurück und will die Agrar- und Ernährungssysteme durch die Wiedereingliederung dieser Pflanzen in lokale kulinarische Praktiken verändern. Die Initiative fördert das Engagement der Gemeinschaft durch Workshops, Forschung und eine Saatgutbank, um die biologische Vielfalt und nachhaltige Ernährungspraktiken zu fördern und gleichzeitig das mit diesen vergessenen Pflanzen verbundene kulturelle Erbe zu bewahren."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eixarcolant",
+  "name": {
+    "it": "Eixarcolant",
+    "en": "Eixarcolant",
+    "fr": "Eixarcolant",
+    "es": "Eixarcolant",
+    "de": "Eixarcolant"
+  },
   "pubId": 498452,
   "score": -35.09204908716356,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "it"
 }

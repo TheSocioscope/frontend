@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754404252,
   "date": null,
-  "description": "Madre Tierra is an initiative based in Quito, Ecuador, founded in 2017 by local neighbors aiming to transform their eating habits through a cooperative model. The cooperative, Suriendo Redes y Sabores, focuses on promoting local, chemical-free, and farmer-based food alternatives. By connecting with various agroecological organizations, Madre Tierra facilitates direct producer-consumer markets, fostering community engagement and access to healthy food while supporting sustainable agricultural practices.",
+  "description": {
+    "en": "Madre Tierra is an initiative based in Quito, Ecuador, founded in 2017 by local residents with the goal of transforming their eating habits through a cooperative model. The cooperative, Suriendo Redes y Sabores, focuses on promoting local, chemical-free, farmer-based food alternatives. By connecting with various agroecological organizations, Madre Tierra facilitates direct markets between producers and consumers, fostering community engagement and access to healthy food, while supporting sustainable agricultural practices.",
+    "fr": "Madre Tierra est une initiative basée à Quito, en Équateur, fondée en 2017 par des résidents locaux dans le but de transformer leurs habitudes alimentaires grâce à un modèle coopératif. La coopérative, Suriendo Redes y Sabores, se concentre sur la promotion d'alternatives alimentaires locales, sans produits chimiques et basées sur les agriculteurs. En se connectant avec diverses organisations agroécologiques, Madre Tierra facilite les marchés directs entre producteurs et consommateurs, favorisant l'engagement communautaire et l'accès à une alimentation saine, tout en soutenant des pratiques agricoles durables.",
+    "es": "Madre Tierra es una iniciativa con sede en Quito, Ecuador, fundada en 2017 por vecinos de la zona con el objetivo de transformar sus hábitos alimentarios a través de un modelo cooperativo. La cooperativa, Suriendo Redes y Sabores, se centra en promover alternativas alimentarias locales, libres de productos químicos y basadas en los agricultores. Mediante la conexión con diversas organizaciones agroecológicas, Madre Tierra facilita mercados directos entre productores y consumidores, fomentando el compromiso de la comunidad y el acceso a alimentos saludables, al tiempo que apoya prácticas agrícolas sostenibles.",
+    "de": "Madre Tierra ist eine Initiative mit Sitz in Quito, Ecuador, die 2017 von lokalen Nachbarn gegründet wurde, die ihre Essgewohnheiten durch ein Genossenschaftsmodell umgestalten wollen. Die Genossenschaft, Suriendo Redes y Sabores, konzentriert sich auf die Förderung lokaler, chemikalienfreier und bauernbasierter Lebensmittelalternativen. Durch die Verbindung mit verschiedenen agrarökologischen Organisationen erleichtert Madre Tierra direkte Erzeuger-Verbraucher-Märkte, fördert das Engagement der Gemeinschaft und den Zugang zu gesunden Lebensmitteln, während sie gleichzeitig nachhaltige landwirtschaftliche Praktiken unterstützt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Madre Tierra",
+  "name": {
+    "es": "Madre Tierra",
+    "en": "Mother Earth",
+    "fr": "Terre nourricière",
+    "de": "Mutter Erde"
+  },
   "pubId": 450252,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755009535,
   "date": null,
-  "description": "The cooperative, established in 1947 in Bejís, Castellón, unites around 150 members dedicated exclusively to olive oil production. Initially formed to consolidate small, private mills, it has evolved to focus on sustainable practices, including agro-composting and organic farming. Following devastating fires in 2022, the cooperative is committed to recovering olive groves and fostering community resilience through training and collaboration, ensuring the continuation of local traditions and sustainable agriculture.",
+  "description": {
+    "en": "The cooperative, established in 1947 in Bejís, Castellón, unites around 150 members dedicated exclusively to olive oil production. Initially formed to consolidate small, private mills, it has evolved to focus on sustainable practices, including agro-composting and organic farming. Following devastating fires in 2022, the cooperative is committed to recovering olive groves and fostering community resilience through training and collaboration, ensuring the continuation of local traditions and sustainable agriculture.",
+    "fr": "La coopérative, créée en 1947 à Bejís, dans la province de Castellón, regroupe environ 150 membres qui se consacrent exclusivement à la production d'huile d'olive. Initialement créée pour consolider les petits moulins privés, elle a évolué pour se concentrer sur des pratiques durables, notamment l'agro-compostage et l'agriculture biologique. Après les incendies dévastateurs de 2022, la coopérative s'est engagée à récupérer les oliveraies et à favoriser la résilience de la communauté par la formation et la collaboration, assurant ainsi la poursuite des traditions locales et de l'agriculture durable.",
+    "es": "La cooperativa, fundada en 1947 en Bejís, Castellón, reúne a unos 150 socios dedicados exclusivamente a la producción de aceite de oliva. Creada inicialmente para consolidar pequeñas almazaras privadas, ha evolucionado para centrarse en prácticas sostenibles, como el agrocompostaje y la agricultura ecológica. Tras los devastadores incendios de 2022, la cooperativa se ha comprometido a recuperar los olivares y fomentar la resiliencia de la comunidad mediante la formación y la colaboración, garantizando la continuidad de las tradiciones locales y la agricultura sostenible.",
+    "de": "Die 1947 in Bejís, Castellón, gegründete Genossenschaft vereinigt rund 150 Mitglieder, die sich ausschließlich der Olivenölproduktion widmen. Ursprünglich gegründet, um kleine, private Mühlen zu konsolidieren, hat sich die Genossenschaft inzwischen auf nachhaltige Praktiken wie Agrokompostierung und ökologischen Landbau konzentriert. Nach den verheerenden Bränden im Jahr 2022 engagiert sich die Genossenschaft für die Wiederherstellung der Olivenhaine und die Förderung der Widerstandsfähigkeit der Gemeinschaft durch Schulungen und Zusammenarbeit, um die Fortführung der lokalen Traditionen und der nachhaltigen Landwirtschaft zu gewährleisten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cooperativa Bejis",
+  "name": {
+    "pt": "Cooperativa Bejis",
+    "en": "Bejis Cooperative",
+    "fr": "Coopérative Bejis",
+    "es": "Cooperativa Bejis",
+    "de": "Bejis-Genossenschaft"
+  },
   "pubId": 496252,
   "score": -36.17017408716356,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "pt"
 }

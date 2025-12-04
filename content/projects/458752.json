@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754390264,
   "date": null,
-  "description": "The initiative, led by the Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV), focuses on promoting the agave value chain in Ecuador. It aims to preserve ancestral agricultural practices while integrating modern technologies to enhance food security and community identity. By collaborating with academia and local producers, ANAGABEV seeks to revitalize the agave plant's diverse uses, ensuring its sustainability for future generations and fostering social, academic, and environmental development.",
+  "description": {
+    "en": "The initiative, led by the Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV), focuses on promoting the agave value chain in Ecuador. It aims to preserve ancestral agricultural practices while integrating modern technologies to improve food security and community identity. Through collaboration with academia and local producers, ANAGABEV aims to revitalize the diverse uses of the agave plant, ensuring its sustainability for future generations and promoting social, academic and environmental development.",
+    "fr": "L'initiative, menée par l'Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV), se concentre sur la promotion de la chaîne de valeur de l'agave en Équateur. Elle vise à préserver les pratiques agricoles ancestrales tout en intégrant les technologies modernes afin d'améliorer la sécurité alimentaire et l'identité de la communauté. En collaborant avec les universités et les producteurs locaux, ANAGABEV vise à revitaliser les diverses utilisations de l'agave, en garantissant sa durabilité pour les générations futures et en encourageant le développement social, universitaire et environnemental.",
+    "es": "La iniciativa, dirigida por la Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV), se centra en promover la cadena de valor del agave en Ecuador. Su objetivo es preservar las prácticas agrícolas ancestrales e integrar al mismo tiempo tecnologías modernas para mejorar la seguridad alimentaria y la identidad de las comunidades. Mediante la colaboración con el mundo académico y los productores locales, ANAGABEV pretende revitalizar los diversos usos de la planta del agave, garantizando su sostenibilidad para las generaciones futuras y fomentando el desarrollo social, académico y medioambiental.",
+    "de": "Die Initiative, die von der Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV) geleitet wird, konzentriert sich auf die Förderung der Wertschöpfungskette der Agave in Ecuador. Ziel ist es, althergebrachte landwirtschaftliche Praktiken zu bewahren und gleichzeitig moderne Technologien zu integrieren, um die Ernährungssicherheit und die Identität der Gemeinschaft zu gewährleisten. Durch die Zusammenarbeit mit Akademikern und lokalen Produzenten will ANAGABEV die vielfältigen Nutzungsmöglichkeiten der Agave wiederbeleben, ihre Nachhaltigkeit für zukünftige Generationen sichern und die soziale, akademische und ökologische Entwicklung fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Asociación ANAGABEV",
+  "name": {
+    "es": "Asociación ANAGABEV",
+    "en": "ANAGABEV Association",
+    "fr": "Association ANAGABEV",
+    "de": "ANAGABEV Verband"
+  },
   "pubId": 458752,
   "score": 14.12849208718107,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1754391958,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1754391958
     }
   ],
-  "lastEvent": {
-    "at": 1754391958,
-    "by": "contact"
-  },
   "updatedAt": [
     1754391958
-  ]
+  ],
+  "originalLang": "fr"
 }

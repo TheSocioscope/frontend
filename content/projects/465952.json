@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754476541,
   "date": null,
-  "description": "The initiative at Finca Sol y Valle aims to create a sustainable learning and wellness center. Established six years ago, the project focuses on community living, environmental stewardship, and self-sufficiency through organic farming and bioconstruction. With a diverse group of residents, the farm emphasizes collaboration, education, and sharing resources, while also welcoming volunteers and visitors to learn about sustainable practices and contribute to the community's growth.                  ",
+  "description": {
+    "en": "The Finca Sol y Valle initiative aims to create a sustainable learning and wellness center. Established six years ago, the project focuses on community living, environmental stewardship and self-sufficiency through organic farming and bio-construction. With a diverse group of residents, the farm emphasizes collaboration, education and resource sharing, while welcoming volunteers and visitors to learn about sustainable practices and contribute to the growth of the community.                  ",
+    "fr": "L'initiative Finca Sol y Valle vise à créer un centre d'apprentissage et de bien-être durable. Établi il y a six ans, le projet se concentre sur la vie en communauté, la gestion de l'environnement et l'autosuffisance par le biais de l'agriculture biologique et de la bioconstruction. Avec un groupe diversifié de résidents, la ferme met l'accent sur la collaboration, l'éducation et le partage des ressources, tout en accueillant des bénévoles et des visiteurs pour qu'ils se familiarisent avec les pratiques durables et contribuent à la croissance de la communauté.                  ",
+    "es": "La iniciativa de la Finca Sol y Valle pretende crear un centro sostenible de aprendizaje y bienestar. Establecido hace seis años, el proyecto se centra en la vida en comunidad, la gestión medioambiental y la autosuficiencia a través de la agricultura ecológica y la bioconstrucción. Con un grupo diverso de residentes, la finca hace hincapié en la colaboración, la educación y el intercambio de recursos, a la vez que acoge a voluntarios y visitantes para que aprendan sobre prácticas sostenibles y contribuyan al crecimiento de la comunidad.                  ",
+    "de": "Die Initiative auf der Finca Sol y Valle zielt auf die Schaffung eines nachhaltigen Lern- und Wellnesszentrums ab. Das Projekt wurde vor sechs Jahren gegründet und konzentriert sich auf das Leben in der Gemeinschaft, Umweltmanagement und Selbstversorgung durch organischen Landbau und biologischen Bau. Mit einer vielfältigen Gruppe von Bewohnern legt der Hof Wert auf Zusammenarbeit, Bildung und Ressourcenaustausch, während er gleichzeitig Freiwillige und Besucher einlädt, um nachhaltige Praktiken zu erlernen und zum Wachstum der Gemeinschaft beizutragen.                  "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca Sol y Valle",
+  "name": {
+    "es": "Finca Sol y Valle",
+    "en": "Sol y Valle Farm",
+    "fr": "Domaine Sol y Valle",
+    "de": "Landgut Sol y Valle"
+  },
   "pubId": 465952,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

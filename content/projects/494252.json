@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755005425,
   "date": null,
-  "description": "Resto Zero is an initiative that began in 2016 with the goal of addressing the environmental issues caused by coffee waste in Peru, one of the world's top coffee producers. The project focuses on utilizing coffee husks, which, if left untreated, can release methane and contaminate groundwater. Resto Cero has developed a product from these husks that is sold to a major client, Fidelia Tea, for use in infusions. They are also researching coffee husk flour, which has potential digestive benefits and could be exported.",
+  "description": {
+    "en": "Resto Zero is an initiative that began in 2016 with the goal of addressing the environmental issues caused by coffee waste in Peru, one of the world's top coffee producers. The project focuses on utilizing coffee husks, which, if left untreated, can release methane and contaminate groundwater. Resto Cero has developed a product from these husks that is sold to a major client, Fidelia Tea, for use in infusions. They are also researching coffee husk flour, which has potential digestive benefits and could be exported.",
+    "fr": "Resto Zero est une initiative qui a vu le jour en 2016 dans le but de résoudre les problèmes environnementaux causés par les déchets de café au Pérou, l'un des principaux producteurs de café au monde. Le projet se concentre sur l'utilisation des balles de café qui, si elles ne sont pas traitées, peuvent libérer du méthane et contaminer les eaux souterraines. Resto Cero a mis au point un produit à partir de ces coques qui est vendu à un client important, Fidelia Tea, pour être utilisé dans des infusions. L'entreprise étudie également la farine de coques de café, qui pourrait avoir des effets bénéfiques sur la digestion et pourrait être exportée.",
+    "es": "Resto Zero es una iniciativa que comenzó en 2016 con el objetivo de abordar los problemas medioambientales causados por los residuos de café en Perú, uno de los principales productores de café del mundo. El proyecto se centra en la utilización de cáscaras de café que, si no se tratan, pueden liberar metano y contaminar las aguas subterráneas. Resto Cero ha desarrollado un producto a partir de estas cáscaras que se vende a un importante cliente, Fidelia Tea, para su uso en infusiones. También están investigando la harina de cáscara de café, que tiene potenciales beneficios digestivos y podría exportarse.",
+    "de": "Resto Zero ist eine Initiative, die 2016 mit dem Ziel ins Leben gerufen wurde, die durch Kaffeeabfälle verursachten Umweltprobleme in Peru, einem der größten Kaffeeproduzenten der Welt, anzugehen. Das Projekt konzentriert sich auf die Verwertung von Kaffeeschalen, die unbehandelt Methan freisetzen und das Grundwasser verschmutzen können. Resto Cero hat aus diesen Schalen ein Produkt entwickelt, das an einen Großkunden, Fidelia Tea, zur Verwendung in Aufgüssen verkauft wird. Das Unternehmen forscht auch an Kaffeeschalenmehl, das potenziell verdauungsfördernd ist und exportiert werden könnte."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Resto Zero",
+  "name": {
+    "it": "Resto Zero",
+    "en": "Remainder Zero",
+    "fr": "Reste Zéro",
+    "es": "Resto Cero",
+    "de": "Restbetrag Null"
+  },
   "pubId": 494252,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

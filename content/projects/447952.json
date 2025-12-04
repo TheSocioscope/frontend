@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739453753,
   "date": null,
-  "description": "La Basse Cour aims to promote sustainable food and agriculture through a collaborative approach involving various stakeholders, including local farmers, researchers, and community members. The project is structured as a federation of players working together to address agricultural and food-related issues.La Basse Cour est l’ancienne ferme du château de la Prévalaye à Rennes, réhabilitée en un lieu partagé. Dédiée à l’alimentation saine, durable et conviviale, elle offre un espace de rencontre ouvert à tout le monde. On y mange, on y danse, on se retrouve pour apprendre et échanger, à la croisée des enjeux sociaux, environnementaux et culturels ! ",
+  "description": {
+    "en": "La Basse Cour aims to promote sustainable agriculture and food through a collaborative approach involving a variety of stakeholders such as local farmers, researchers and community members. The project is structured as a federation of actors working together to address issues related to agriculture and food.La Basse Cour is the former farm of the Château de la Prévalaye in Rennes, converted into a shared space. Dedicated to healthy, sustainable and convivial food, it offers a meeting place open to all. It is a place to eat, dance, learn and share, at the crossroads of social, environmental and cultural!",
+    "fr": "La Basse Cour vise à promouvoir l'agriculture et l'alimentation durables à travers une approche collaborative impliquant une variété d'acteurs tels que les agriculteurs locaux, les chercheurs et les membres de la communauté. La Basse Cour est l'ancienne ferme du Château de la Prévalaye à Rennes, convertie en espace partagé. Dédiée à une alimentation saine, durable et conviviale, elle offre un espace de rencontre ouvert à tous. C'est un lieu pour manger, danser, apprendre et partager, à la croisée du social, de l'environnemental et du culturel !",
+    "es": "El objetivo de La Basse Cour es promover la agricultura y la alimentación sostenibles mediante un planteamiento de colaboración en el que participen diversas partes interesadas, como agricultores locales, investigadores y miembros de la comunidad. El proyecto se estructura como una federación de actores que trabajan juntos para abordar cuestiones relacionadas con la agricultura y la alimentación.La Basse Cour es la antigua granja del castillo de la Prévalaye, en Rennes, reconvertida en espacio compartido. Dedicado a la alimentación sana, sostenible y convivial, ofrece un lugar de encuentro abierto a todos. Es un lugar para comer, bailar, aprender y compartir, ¡en la encrucijada de lo social, lo medioambiental y lo cultural!",
+    "de": "La Basse Cour zielt darauf ab, nachhaltige Lebensmittel und Landwirtschaft durch einen kooperativen Ansatz zu fördern, an dem verschiedene Akteure beteiligt sind, darunter lokale Bauern, Forscher und Gemeindemitglieder. Das Projekt ist wie ein Zusammenschluss von Akteuren strukturiert, die gemeinsam daran arbeiten, landwirtschaftliche und lebensmittelbezogene Probleme anzugehen.La Basse Cour ist der ehemalige Bauernhof des Château de la Prévalaye in Rennes, der zu einem gemeinsam genutzten Ort umgebaut wurde. Er ist der gesunden, nachhaltigen und geselligen Ernährung gewidmet und bietet einen Treffpunkt, der für alle offen ist. Hier wird gegessen, getanzt und man trifft sich, um zu lernen und sich auszutauschen - an der Schnittstelle zwischen sozialen, ökologischen und kulturellen Herausforderungen!"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Basse Cour",
+  "name": {
+    "fr": "La Basse Cour",
+    "en": "La Basse Cour",
+    "es": "La Basse Cour",
+    "de": "La Basse Cour"
+  },
   "pubId": 447952,
   "score": 106.10196078431456,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://labassecour.org",
   "yt": "yNyEaPupqcQ",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

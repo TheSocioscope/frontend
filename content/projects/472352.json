@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754676500,
   "date": null,
-  "description": "Verdcamp Fruits is a five-generation family business located near Tarragona, Spain, specializing in regenerative agriculture. With around 300 hectares, they have transitioned from conventional to ecological and now regenerative farming practices. Their innovative techniques, such as floral intercropping and minimal tillage, promote biodiversity and soil health. Despite producing high-quality organic vegetables, they face challenges in market valuation and pricing, striving to educate consumers about the benefits of their sustainable practices.",
+  "description": {
+    "en": "Verdcamp Fruits is a five-generation family business located near Tarragona (Spain) and specialized in regenerative agriculture. With some 300 hectares, they have moved from conventional to organic and now to regenerative agriculture. Their innovative techniques, such as flowering intercropping and minimal tillage, promote biodiversity and soil health. Despite producing high quality organic vegetables, they face problems with market valuation and pricing, and they strive to educate consumers about the benefits of their sustainable practices.",
+    "fr": "Verdcamp Fruits est une entreprise familiale de cinq générations située près de Tarragone (Espagne) et spécialisée dans l'agriculture régénératrice. Avec quelque 300 hectares, elle est passée de l'agriculture conventionnelle à l'agriculture biologique et maintenant à l'agriculture régénératrice. Leurs techniques innovantes, telles que les cultures intercalaires fleuries et le travail minimal du sol, favorisent la biodiversité et la santé des sols. Bien qu'ils produisent des légumes biologiques de grande qualité, ils sont confrontés à des problèmes d'évaluation du marché et de fixation des prix, et peinent à sensibiliser les consommateurs aux avantages de leurs pratiques durables.",
+    "es": "Verdcamp Fruits es una empresa familiar de cinco generaciones situada cerca de Tarragona (España) y especializada en agricultura regenerativa. Con unas 300 hectáreas, han pasado de la agricultura convencional a la ecológica y ahora a la regenerativa. Sus técnicas innovadoras, como los cultivos intercalados florales y el laboreo mínimo, fomentan la biodiversidad y la salud del suelo. A pesar de producir hortalizas ecológicas de alta calidad, se enfrentan a problemas de valoración y fijación de precios en el mercado, y se esfuerzan por educar a los consumidores sobre los beneficios de sus prácticas sostenibles.",
+    "de": "Verdcamp Fruits ist ein Fünf-Generationen-Familienunternehmen in der Nähe von Tarragona, Spanien, das sich auf regenerative Landwirtschaft spezialisiert hat. Mit rund 300 Hektar haben sie von konventionellen zu ökologischen und nun regenerativen Anbaumethoden gewechselt. Ihre innovativen Techniken, wie z. B. die blumige Zwischenfrucht und die Minimalbodenbearbeitung, fördern die Artenvielfalt und die Bodengesundheit. Trotz der Produktion von hochwertigem Biogemüse stehen sie vor Herausforderungen bei der Marktbewertung und Preisgestaltung und bemühen sich, die Verbraucher über die Vorteile ihrer nachhaltigen Praktiken aufzuklären."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Verdcamp Fruits",
+  "name": {
+    "nl": "Verdcamp Fruits",
+    "en": "Verdcamp Fruits",
+    "fr": "Verdcamp Fruits",
+    "es": "Verdcamp Frutas",
+    "de": "Verdcamp-Früchte"
+  },
   "pubId": 472352,
   "score": 62.38789808917207,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

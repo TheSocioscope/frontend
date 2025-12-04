@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755087801,
   "date": null,
-  "description": "The initiative, CCORI, focuses on promoting sustainable gastronomy by educating individuals and communities on the principles of optimal cooking. This methodology emphasizes the maximum utilization of food ingredients, advocating for conservation, culinary recycling, and the innovative use of all parts of food to minimize waste. The initiative aims to transform perceptions about food, particularly parts that are often discarded, by demonstrating their culinary potential and nutritional value. CCORI collaborates with various stakeholders, including academic institutions, scientific research centers, and private companies, to implement training programs for cooks in soup kitchens and other food service environments. These programs not only teach sustainable cooking practices but also aim to improve economic outcomes for participants by reducing food costs through better ingredient utilization.",
+  "description": {
+    "en": "The initiative, CCORI, focuses on promoting sustainable gastronomy by educating individuals and communities on the principles of optimal cooking. This methodology emphasizes the maximum utilization of food ingredients, advocating for conservation, culinary recycling, and the innovative use of all parts of food to minimize waste. The initiative aims to transform perceptions about food, particularly parts that are often discarded, by demonstrating their culinary potential and nutritional value. CCORI collaborates with various stakeholders, including academic institutions, scientific research centers, and private companies, to implement training programs for cooks in soup kitchens and other food service environments. These programs not only teach sustainable cooking practices but also aim to improve economic outcomes for participants by reducing food costs through better ingredient utilization.",
+    "fr": "L'initiative CCORI se concentre sur la promotion de la gastronomie durable en éduquant les individus et les communautés sur les principes de la cuisine optimale. Cette méthodologie met l'accent sur l'utilisation maximale des ingrédients alimentaires, en prônant la conservation, le recyclage culinaire et l'utilisation innovante de toutes les parties des aliments afin de minimiser les déchets. L'initiative vise à transformer les perceptions à l'égard des aliments, en particulier des parties qui sont souvent jetées, en démontrant leur potentiel culinaire et leur valeur nutritionnelle. Le CCORI collabore avec diverses parties prenantes, notamment des établissements universitaires, des centres de recherche scientifique et des entreprises privées, pour mettre en œuvre des programmes de formation destinés aux cuisiniers des soupes populaires et d'autres services de restauration. Ces programmes n'enseignent pas seulement des pratiques culinaires durables, mais visent également à améliorer les résultats économiques des participants en réduisant les coûts alimentaires grâce à une meilleure utilisation des ingrédients.",
+    "es": "La iniciativa, CCORI, se centra en promover la gastronomía sostenible educando a individuos y comunidades en los principios de la cocina óptima. Esta metodología hace hincapié en el máximo aprovechamiento de los ingredientes alimentarios, abogando por la conservación, el reciclaje culinario y el uso innovador de todas las partes de los alimentos para minimizar el desperdicio. La iniciativa pretende transformar la percepción de los alimentos, en particular de las partes que suelen desecharse, demostrando su potencial culinario y su valor nutritivo. El CCORI colabora con diversas partes interesadas, como instituciones académicas, centros de investigación científica y empresas privadas, para poner en marcha programas de formación para cocineros de comedores sociales y otros entornos de servicios alimentarios. Estos programas no sólo enseñan prácticas culinarias sostenibles, sino que también pretenden mejorar los resultados económicos de los participantes reduciendo los costes de los alimentos mediante una mejor utilización de los ingredientes.",
+    "de": "Die Initiative CCORI konzentriert sich auf die Förderung einer nachhaltigen Gastronomie, indem sie Einzelpersonen und Gemeinschaften über die Grundsätze des optimalen Kochens aufklärt. Diese Methode legt den Schwerpunkt auf die maximale Nutzung von Lebensmittelzutaten und setzt sich für die Erhaltung, das kulinarische Recycling und die innovative Nutzung aller Teile von Lebensmitteln ein, um die Verschwendung zu minimieren. Die Initiative zielt darauf ab, die Wahrnehmung von Lebensmitteln, insbesondere von Teilen, die häufig weggeworfen werden, zu verändern, indem ihr kulinarisches Potenzial und ihr Nährwert aufgezeigt werden. CCORI arbeitet mit verschiedenen Interessengruppen zusammen, darunter akademische Einrichtungen, wissenschaftliche Forschungszentren und private Unternehmen, um Schulungsprogramme für Köche in Suppenküchen und anderen Einrichtungen der Lebensmittelversorgung durchzuführen. Diese Programme vermitteln nicht nur nachhaltige Kochpraktiken, sondern zielen auch darauf ab, die wirtschaftlichen Ergebnisse für die Teilnehmer zu verbessern, indem die Lebensmittelkosten durch eine bessere Nutzung der Zutaten gesenkt werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "CCORI",
+  "name": {
+    "en": "CCORI",
+    "fr": "CCORI",
+    "es": "CCORI",
+    "de": "CCORI"
+  },
   "pubId": 496652,
   "score": 65.30787434727333,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

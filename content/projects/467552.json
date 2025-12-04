@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754480580,
   "date": null,
-  "description": "The Organicos Villa Aurora initiative focuses on transforming local fruits and aromatic plants into various organic products, including infusions and yacón-based items. Originating from a family's health journey towards organic farming, the project emphasizes sustainable practices and permaculture. With a commitment to community well-being, it not only produces but also educates through workshops, fostering a holistic approach to agriculture while promoting local biodiversity and healthy living.",
+  "description": {
+    "en": "The Organicos Villa Aurora initiative focuses on transforming local fruits and aromatic plants into various organic products, such as herbal teas and yacon-based items. Born out of a family's health journey into organic farming, the project emphasizes sustainable practices and permaculture. Committed to the well-being of the community, it not only produces but also educates through workshops, encouraging a holistic approach to agriculture while promoting local biodiversity and healthy living.",
+    "fr": "L'initiative Organicos Villa Aurora vise à transformer les fruits et les plantes aromatiques locaux en divers produits biologiques, tels que des tisanes et des produits à base de yacon. Né du cheminement d'une famille vers l'agriculture biologique, le projet met l'accent sur les pratiques durables et la permaculture. Engagé dans le bien-être de la communauté, il ne se contente pas de produire, il éduque également par le biais d'ateliers, encourageant une approche holistique de l'agriculture tout en promouvant la biodiversité locale et un mode de vie sain.",
+    "es": "La iniciativa Organicos Villa Aurora se centra en la transformación de frutas y plantas aromáticas locales en diversos productos ecológicos, como infusiones y artículos a base de yacón. Surgido del viaje de salud de una familia hacia la agricultura ecológica, el proyecto hace hincapié en las prácticas sostenibles y la permacultura. Comprometido con el bienestar de la comunidad, no sólo produce sino que también educa a través de talleres, fomentando un enfoque holístico de la agricultura al tiempo que promueve la biodiversidad local y una vida sana.",
+    "de": "Die Initiative Organicos Villa Aurora konzentriert sich auf die Verarbeitung von lokalen Früchten und aromatischen Pflanzen zu verschiedenen organischen Produkten, darunter Kräutertees und Yacón-basierte Artikel. Das Projekt, das aus der Gesundheitsreise einer Familie hin zum ökologischen Landbau hervorgegangen ist, legt Wert auf nachhaltige Praktiken und Permakultur. Mit einem Engagement für das Wohlergehen der Gemeinschaft produziert es nicht nur, sondern bildet auch in Workshops aus und fördert so einen ganzheitlichen Ansatz in der Landwirtschaft, der die lokale Biodiversität und ein gesundes Leben fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Organicos Villa Aurora",
+  "name": {
+    "es": "Organicos Villa Aurora",
+    "en": "Villa Aurora Organics",
+    "fr": "Organics Villa Aurora",
+    "de": "Organics Villa Aurora"
+  },
   "pubId": 467552,
   "score": 30.40974208718123,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

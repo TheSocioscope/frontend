@@ -13,14 +13,25 @@
   ],
   "createdAt": 1695196278,
   "date": null,
-  "description": "Faites le tour du propriétaire avec Guillaume et Antoine Fuyet, les deux cofondateurs de cette société agricole qui a industrialisé l’agriculture en bioponie. \nMenthe poivrée, menthe glaciale, shiso pourpre, basilic Genovese, basilic citron… Entre des murs d’aromates et des murs de lampes aux halos rosés, Guillaume et Antoine Fuyet, les deux frères cofondateurs de Champerché, circulent dans les rangs de leurs deux fermes urbaines installées en Ile-de-France. La première a ouvert en octobre 2017 dans un local de 42 mètres carrés à Paris. La seconde est implantée à Sartrouville dans un parking souterrain d’une toute autre ampleur : 1 300 m2 ! Entre les deux projets, la société agricole familiale a réussi l’exploit d’industrialiser l’agriculture en bioponie. ",
+  "description": {
+    "fr": "Faites le tour du propriétaire avec Guillaume et Antoine Fuyet, les deux cofondateurs de cette société agricole qui a industrialisé l’agriculture en bioponie. \nMenthe poivrée, menthe glaciale, shiso pourpre, basilic Genovese, basilic citron… Entre des murs d’aromates et des murs de lampes aux halos rosés, Guillaume et Antoine Fuyet, les deux frères cofondateurs de Champerché, circulent dans les rangs de leurs deux fermes urbaines installées en Ile-de-France. La première a ouvert en octobre 2017 dans un local de 42 mètres carrés à Paris. La seconde est implantée à Sartrouville dans un parking souterrain d’une toute autre ampleur : 1 300 m2 ! Entre les deux projets, la société agricole familiale a réussi l’exploit d’industrialiser l’agriculture en bioponie. ",
+    "en": "Take a tour with Guillaume and Antoine Fuyet, the two co-founders of this agricultural company that has industrialized bioponic farming.\nPeppermint, ice mint, purple shiso, Genovese basil, lemon basil... Between walls of aromatics and walls of lamps with pinkish halos, Guillaume and Antoine Fuyet, the two brothers who co-founded Champerché, circulate the rows of their two urban farms set up in the Ile-de-France region. The first opened in October 2017 in a 42-square-meter space in Paris. The second is located in Sartrouville in an underground parking lot on a completely different scale: 1,300 m2! Between the two projects, the family farming company has achieved the feat of industrializing bioponic farming.",
+    "es": "Recorra las instalaciones con Guillaume y Antoine Fuyet, los dos cofundadores de esta empresa agrícola que ha industrializado el cultivo biopónico.\nMenta piperita, menta verde, shiso morado, albahaca genovesa, albahaca limonera... Entre paredes de hierbas y paredes de lámparas con halos rosáceos, Guillaume y Antoine Fuyet, los dos hermanos cofundadores de Champerché, circulan por las hileras de sus dos granjas urbanas instaladas en la región de Île-de-France. La primera abrió en octubre de 2017 en un espacio de 42 metros cuadrados en París. La segunda se encuentra en Sartrouville, en un aparcamiento subterráneo a una escala completamente diferente: ¡1.300 metros cuadrados! Entre los dos proyectos, la empresa agrícola familiar ha logrado la proeza de industrializar la agricultura biopónica.",
+    "de": "Machen Sie einen Rundgang mit Guillaume und Antoine Fuyet, den beiden Mitbegründern dieses Agrarunternehmens, das die Landwirtschaft in Bioponik industrialisiert hat.\nPfefferminze, Eisminze, Purpur-Shiso, Genovese-Basilikum, Zitronenbasilikum... Zwischen Wänden mit Kräutern und Lampen mit rosa Halos gehen Guillaume und Antoine Fuyet, die beiden Brüder und Mitbegründer von Champerché, durch die Reihen ihrer beiden in der Ile-de-France angesiedelten städtischen Bauernhöfe. Die erste wurde im Oktober 2017 in einem 42 Quadratmeter großen Lokal in Paris eröffnet. Die zweite befindet sich in Sartrouville in einer Tiefgarage von ganz anderer Größe: 1.300 Quadratmeter! Zwischen den beiden Projekten hat das landwirtschaftliche Familienunternehmen das Kunststück vollbracht, die Landwirtschaft in Bioponik zu industrialisieren."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "fr",
   "location": "Ile de France",
-  "name": "Champerché",
+  "name": {
+    "it": "Champerché",
+    "en": "Champerché",
+    "fr": "Champerché",
+    "es": "Champerché",
+    "de": "Champerché"
+  },
   "pubId": 432452,
   "score": 734.3901408450744,
   "state": "ongoing-project",
@@ -41,10 +52,6 @@
   ],
   "url": "https://www.champerche.com/en",
   "yt": "tHs0A0X50gc",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1695217606,
   "feedback": [
     {
@@ -52,27 +59,8 @@
       "at": 1695217606
     }
   ],
-  "lastEvent": {
-    "at": 1698412752,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
   "updatedAt": [
     1695217606
   ],
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1698412752,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

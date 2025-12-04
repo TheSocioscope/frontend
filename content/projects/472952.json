@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754909124,
   "date": null,
-  "description": "The initiative focuses on urban agriculture, promoting professional integration and sustainability through a unique farm model. Established in 2015, it operates on a water reservoir site in Paris, emphasizing social value alongside agricultural production. The farm engages in horticultural activities, educational programs for local schools, and corporate events, fostering community connections. With a commitment to organic practices, it aims to enhance biodiversity while providing job training and support for individuals seeking reintegration into the workforce.",
+  "description": {
+    "en": "The initiative focuses on urban agriculture, promoting professional integration and sustainability through a unique farm model. Created in 2015, it operates on a water reservoir in Paris, emphasizing social value alongside agricultural production. The farm participates in horticultural activities, educational programs for local schools and corporate events, fostering connections with the community. With a commitment to organic practices, it aims to enhance biodiversity while providing job training and support to individuals seeking to reintegrate into the workforce.",
+    "fr": "L'initiative se concentre sur l'agriculture urbaine, en promouvant l'intégration professionnelle et la durabilité grâce à un modèle de ferme unique. Créée en 2015, elle opère sur un réservoir d'eau à Paris, mettant l'accent sur la valeur sociale parallèlement à la production agricole. La ferme participe à des activités horticoles, à des programmes éducatifs pour les écoles locales et à des événements d'entreprise, favorisant ainsi les liens avec la communauté. En s'engageant dans des pratiques biologiques, elle vise à améliorer la biodiversité tout en offrant une formation professionnelle et un soutien aux personnes cherchant à se réinsérer dans le monde du travail.",
+    "es": "La iniciativa se centra en la agricultura urbana, promoviendo la integración profesional y la sostenibilidad a través de un modelo de granja único. Creada en 2015, opera en un embalse de agua en París, haciendo hincapié en el valor social junto con la producción agrícola. La granja participa en actividades hortícolas, programas educativos para las escuelas locales y eventos corporativos, fomentando las conexiones con la comunidad. Con un compromiso con las prácticas orgánicas, su objetivo es mejorar la biodiversidad al tiempo que proporciona formación laboral y apoyo a las personas que buscan reintegrarse en la fuerza de trabajo.",
+    "de": "Die Initiative konzentriert sich auf die städtische Landwirtschaft und fördert die berufliche Integration und Nachhaltigkeit durch ein einzigartiges Bauernhofmodell. Sie wurde 2015 gegründet und arbeitet auf einem Wasserspeicher in Paris, wobei sie neben der landwirtschaftlichen Produktion auch den sozialen Wert betont. Der Hof beteiligt sich an gärtnerischen Aktivitäten, Bildungsprogrammen für lokale Schulen und Unternehmensveranstaltungen und fördert so die Verbindung zur Gemeinschaft. With a commitment to organic practices, it aims to enhance biodiversity while providing job training and support for individuals seeking reintegration into the workforce."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Le Paysan Urbain",
+  "name": {
+    "fr": "Le Paysan Urbain",
+    "en": "The Urban Farmer",
+    "es": "El agricultor urbano",
+    "de": "Der Urbane Bauer"
+  },
   "pubId": 472952,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

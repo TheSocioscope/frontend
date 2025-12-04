@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403126,
   "date": null,
-  "description": "Acción Ecológica is a dedicated activist organization focused on defending the rights of nature and promoting food sovereignty in Ecuador. With nearly 40 years of experience, it engages in various initiatives, including urban agroecological gardens, monitoring GMOs, and training community members. By collaborating with local collectives and networks, Acción Ecológica aims to create sustainable urban spaces, enhance community interaction, and advocate for environmental justice, all while confronting extractivist policies that threaten ecosystems and livelihoods.",
+  "description": {
+    "en": "Acción Ecológica is an activist organization dedicated to defending the rights of nature and promoting food sovereignty in Ecuador. With almost 40 years of experience, it carries out various initiatives, such as the creation of agroecological urban gardens, GMO control and training of community members. By collaborating with local collectives and networks, Acción Ecológica aims to create sustainable urban spaces, improve community interaction and advocate for environmental justice, while confronting extractivist policies that threaten ecosystems and livelihoods.",
+    "fr": "Acción Ecológica est une organisation militante qui se consacre à la défense des droits de la nature et à la promotion de la souveraineté alimentaire en Équateur. Forte de près de 40 ans d'expérience, elle mène diverses initiatives, telles que la création de jardins urbains agroécologiques, le contrôle des OGM et la formation des membres de la communauté. En collaborant avec des collectifs et des réseaux locaux, Acción Ecológica vise à créer des espaces urbains durables, à améliorer l'interaction entre les communautés et à défendre la justice environnementale, tout en s'opposant aux politiques extractivistes qui menacent les écosystèmes et les moyens de subsistance.",
+    "es": "Acción Ecológica es una organización activista dedicada a defender los derechos de la naturaleza y promover la soberanía alimentaria en Ecuador. Con casi 40 años de experiencia, lleva a cabo diversas iniciativas, como la creación de huertos urbanos agroecológicos, el control de los OMG y la formación de miembros de la comunidad. Mediante la colaboración con colectivos y redes locales, Acción Ecológica pretende crear espacios urbanos sostenibles, mejorar la interacción comunitaria y defender la justicia medioambiental, al tiempo que se enfrenta a las políticas extractivistas que amenazan los ecosistemas y los medios de vida.",
+    "de": "Acción Ecológica ist eine engagierte Aktivistenorganisation, die sich auf den Schutz der Rechte der Natur und die Förderung der Ernährungssouveränität in Ecuador konzentriert. Mit fast 40 Jahren Erfahrung engagiert sie sich in verschiedenen Initiativen, darunter urbane agroökologische Gärten, die Überwachung von GVOs und die Schulung von Gemeindemitgliedern. Durch die Zusammenarbeit mit lokalen Kollektiven und Netzwerken will Acción Ecológica nachhaltige städtische Räume schaffen, die Interaktion der Gemeinschaft verbessern und sich für Umweltgerechtigkeit einsetzen, während sie gleichzeitig extraktivistische Politiken konfrontiert, die Ökosysteme und Lebensgrundlagen bedrohen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Acción Ecológica",
+  "name": {
+    "es": "Acción Ecológica",
+    "en": "Ecological Action",
+    "fr": "Action écologique",
+    "de": "Ökologisches Handeln"
+  },
   "pubId": 459352,
   "score": 29.128492087181048,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

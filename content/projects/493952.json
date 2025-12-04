@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755005161,
   "date": null,
-  "description": "Calientes Café is a Peruvian coffee brand dedicated to producing and selling coffee sourced from the Amazon rainforest. Founded by two partners, the initiative emphasizes environmental conservation and fair trade practices, ensuring that local producers receive fair prices. Their unique offerings include specialty coffees named after local wildlife, highlighting biodiversity. With a commitment to sustainability, they aim to foster a deeper connection between consumers and the Amazon while promoting the cultural significance of coffee.",
+  "description": {
+    "en": "Calientes Café is a Peruvian coffee brand dedicated to producing and selling coffee sourced from the Amazon rainforest. Founded by two partners, the initiative emphasizes environmental conservation and fair trade practices, ensuring that local producers receive fair prices. Their unique offerings include specialty coffees named after local wildlife, highlighting biodiversity. With a commitment to sustainability, they aim to foster a deeper connection between consumers and the Amazon while promoting the cultural significance of coffee.",
+    "fr": "Calientes Café est une marque de café péruvienne qui se consacre à la production et à la vente de café provenant de la forêt amazonienne. Fondée par deux partenaires, l'initiative met l'accent sur la conservation de l'environnement et les pratiques commerciales équitables, garantissant aux producteurs locaux des prix justes. Son offre unique comprend des cafés de spécialité portant le nom de la faune locale, mettant ainsi en valeur la biodiversité. En s'engageant en faveur de la durabilité, l'initiative vise à renforcer le lien entre les consommateurs et l'Amazonie, tout en promouvant l'importance culturelle du café.",
+    "es": "Calientes Café es una marca peruana dedicada a la producción y venta de café procedente de la selva amazónica. Fundada por dos socios, la iniciativa hace hincapié en la conservación del medio ambiente y las prácticas de comercio justo, garantizando que los productores locales reciban precios justos. Sus ofertas únicas incluyen cafés especiales que llevan el nombre de la fauna local, destacando la biodiversidad. Con su compromiso con la sostenibilidad, pretenden fomentar una conexión más profunda entre los consumidores y el Amazonas, al tiempo que promueven la importancia cultural del café.",
+    "de": "Calientes Café ist eine peruanische Kaffeemarke, die sich der Produktion und dem Verkauf von Kaffee aus dem Amazonas-Regenwald verschrieben hat. Die von zwei Partnern gegründete Initiative setzt auf Umweltschutz und faire Handelspraktiken, um sicherzustellen, dass die lokalen Erzeuger faire Preise erhalten. Zu ihrem einzigartigen Angebot gehören Kaffeespezialitäten, die nach der lokalen Tierwelt benannt sind und die Artenvielfalt hervorheben. Mit ihrem Engagement für Nachhaltigkeit wollen sie eine tiefere Verbindung zwischen den Verbrauchern und dem Amazonasgebiet schaffen und gleichzeitig die kulturelle Bedeutung des Kaffees fördern."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Calientes Café",
+  "name": {
+    "fr": "Calientes Café",
+    "en": "Calientes Café",
+    "es": "Café Calientes",
+    "de": "Calientes Café"
+  },
   "pubId": 493952,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

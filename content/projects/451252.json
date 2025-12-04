@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754406691,
   "date": null,
-  "description": "Zopilote is a family-run agricultural initiative based in Viedma, Río Negro, Argentina. It focuses on sustainable fruit and nut production, adapting to local climatic conditions and market demands. The business emphasizes quality over quantity, utilizing eco-friendly practices such as composting and circular models. Zopilote also engages in ecotourism by opening its farm to visitors, fostering community connections, and promoting local produce through partnerships with regional supermarkets.    ",
+  "description": {
+    "en": "Zopilote is a family farming initiative based in Viedma, Río Negro, Argentina. It focuses on the sustainable production of fruits and nuts, adapting to local climatic conditions and market demand. The company prioritizes quality over quantity and uses environmentally friendly practices such as composting and circular models. Zopilote also engages in ecotourism by opening its farm to visitors, fostering community connections, and promoting local products through partnerships with regional supermarkets.    ",
+    "fr": "Zopilote est une initiative agricole familiale basée à Viedma, Rio Negro, en Argentine. Elle se concentre sur la production durable de fruits et de noix, en s'adaptant aux conditions climatiques locales et à la demande du marché. L'entreprise privilégie la qualité à la quantité et utilise des pratiques respectueuses de l'environnement telles que le compostage et les modèles circulaires. Zopilote s'engage également dans l'écotourisme en ouvrant sa ferme aux visiteurs, en favorisant les liens avec la communauté et en promouvant les produits locaux grâce à des partenariats avec les supermarchés régionaux.    ",
+    "es": "Zopilote es una iniciativa agrícola familiar con sede en Viedma, Río Negro, Argentina. Se centra en la producción sostenible de frutas y frutos secos, adaptándose a las condiciones climáticas locales y a la demanda del mercado. La empresa prima la calidad sobre la cantidad y utiliza prácticas ecológicas como el compostaje y los modelos circulares. Zopilote también se dedica al ecoturismo abriendo su granja a los visitantes, fomentando las conexiones con la comunidad y promocionando los productos locales mediante asociaciones con supermercados regionales.    ",
+    "de": "Zopilote ist eine familiengeführte landwirtschaftliche Initiative mit Sitz in Viedma, Río Negro, Argentinien. Sie konzentriert sich auf eine nachhaltige Obst- und Gemüseproduktion, die sich an die lokalen klimatischen Bedingungen und Marktanforderungen anpasst. Das Unternehmen legt Wert auf Qualität statt Quantität und nutzt umweltfreundliche Praktiken wie Kompostierung und Kreislaufmodelle. Zopilote engagiert sich auch im Ökotourismus, indem er seine Farm für Besucher öffnet, Gemeinschaftsverbindungen fördert und lokale Produkte durch Partnerschaften mit regionalen Supermärkten bewirbt.    "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zopilote",
+  "name": {
+    "en": "Zopilote",
+    "fr": "Zopilote",
+    "es": "Zopilote",
+    "de": "Zopilote"
+  },
   "pubId": 451252,
   "score": -30.781780805601944,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

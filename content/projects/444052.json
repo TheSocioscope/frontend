@@ -13,13 +13,24 @@
   ],
   "createdAt": 1718285483,
   "date": null,
-  "description": "La Ferme Mama Ghaia est une exploitation agricole qui utilise des pratiques agroécologiques et de permaculture pour améliorer la qualité des sols et encourager la biodiversité. Elle propose des paniers hebdomadaires de fruits et légumes frais, cultivés sans serres et issus de semences paysannes anciennes, avec plus de 100 variétés uniques disponibles à la livraison pour promouvoir une consommation locale et responsable. En outre, la ferme joue un rôle éducatif auprès des personnes analphabètes et lutte contre l'exode rural en renforçant les compétences et en développant les connaissances locales en agroécologie.",
+  "description": {
+    "fr": "La Ferme Mama Ghaia est une exploitation agricole qui utilise des pratiques agroécologiques et de permaculture pour améliorer la qualité des sols et encourager la biodiversité. Elle propose des paniers hebdomadaires de fruits et légumes frais, cultivés sans serres et issus de semences paysannes anciennes, avec plus de 100 variétés uniques disponibles à la livraison pour promouvoir une consommation locale et responsable. En outre, la ferme joue un rôle éducatif auprès des personnes analphabètes et lutte contre l'exode rural en renforçant les compétences et en développant les connaissances locales en agroécologie.",
+    "en": "Ferme Mama Ghaia is a farm that uses agroecological and permaculture practices to improve soil quality and encourage biodiversity. It offers weekly baskets of fresh fruit and vegetables, grown without greenhouses and from ancient peasant seeds, with over 100 unique varieties available for delivery to promote local and responsible consumption. In addition, the farm plays an educational role for illiterate people and combats rural exodus by building skills and developing local knowledge in agroecology.",
+    "es": "Mama Ghaia Farm es una granja que utiliza prácticas agroecológicas y de permacultura para mejorar la calidad del suelo y fomentar la biodiversidad. Ofrece cestas semanales de frutas y verduras frescas, cultivadas sin invernaderos y a partir de semillas campesinas ancestrales, con más de 100 variedades únicas disponibles para su entrega con el fin de fomentar el consumo local y responsable. La granja también desempeña una función educativa para personas analfabetas y combate el éxodo rural mediante la capacitación y el desarrollo de conocimientos locales en agroecología.",
+    "de": "Die Mama Ghaia Farm ist ein landwirtschaftlicher Betrieb, der agroökologische und Permakultur-Praktiken anwendet, um die Bodenqualität zu verbessern und die Artenvielfalt zu fördern. Sie bietet wöchentliche Körbe mit frischem Obst und Gemüse an, das ohne Gewächshäuser angebaut wird und aus altem Bauernsaatgut stammt. Über 100 einzigartige Sorten stehen zur Lieferung bereit, um einen lokalen und verantwortungsbewussten Konsum zu fördern. Darüber hinaus übernimmt die Farm eine Bildungsfunktion für Analphabeten und bekämpft die Landflucht, indem sie lokale Fähigkeiten stärkt und Wissen über Agrarökologie aufbaut."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Ferme Mama Ghaia",
+  "name": {
+    "it": "La Ferme Mama Ghaia",
+    "en": "La Ferme Mama Ghaia",
+    "fr": "La Ferme Mama Ghaia",
+    "es": "La Ferme Mama Ghaia",
+    "de": "La Ferme Mama Ghaia"
+  },
   "pubId": 444052,
   "score": 368.19999999999845,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    2,
-    2
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754654618,
   "date": null,
-  "description": "Farmizen aims to address the broken food system by reconnecting consumers with the source of their food and enhancing farmer livelihoods. By promoting sustainable practices and enabling individuals to grow their own food, even in small spaces, Farmizen fosters a community-oriented approach. The initiative emphasizes transparency, traceability, and education, ensuring that both consumers and producers understand the importance of nutrition and sustainable farming. Ultimately, Farmizen seeks to create a healthier, more equitable food ecosystem for all stakeholders.",
+  "description": {
+    "en": "Farmizen aims to address the broken food system by reconnecting consumers with the source of their food and enhancing farmer livelihoods. By promoting sustainable practices and enabling individuals to grow their own food, even in small spaces, Farmizen fosters a community-oriented approach. The initiative emphasizes transparency, traceability, and education, ensuring that both consumers and producers understand the importance of nutrition and sustainable farming. Ultimately, Farmizen seeks to create a healthier, more equitable food ecosystem for all stakeholders.",
+    "fr": "Farmizen vise à remédier à l'effondrement du système alimentaire en reconnectant les consommateurs avec la source de leur nourriture et en améliorant les moyens de subsistance des agriculteurs. En encourageant les pratiques durables et en permettant aux individus de cultiver leur propre nourriture, même dans de petits espaces, Farmizen favorise une approche orientée vers la communauté. L'initiative met l'accent sur la transparence, la traçabilité et l'éducation, en veillant à ce que les consommateurs et les producteurs comprennent l'importance de la nutrition et de l'agriculture durable. En fin de compte, Farmizen cherche à créer un écosystème alimentaire plus sain et plus équitable pour toutes les parties prenantes.",
+    "es": "El objetivo de Farmizen es abordar el maltrecho sistema alimentario reconectando a los consumidores con la fuente de sus alimentos y mejorando los medios de subsistencia de los agricultores. Al promover prácticas sostenibles y permitir a los particulares cultivar sus propios alimentos, incluso en espacios reducidos, Farmizen fomenta un enfoque orientado a la comunidad. La iniciativa hace hincapié en la transparencia, la trazabilidad y la educación, garantizando que tanto consumidores como productores comprendan la importancia de la nutrición y la agricultura sostenible. En última instancia, Farmizen pretende crear un ecosistema alimentario más sano y equitativo para todas las partes interesadas.",
+    "de": "Farmizen hat sich zum Ziel gesetzt, das kaputte Lebensmittelsystem zu verbessern, indem es die Verbraucher wieder mit der Quelle ihrer Lebensmittel in Verbindung bringt und den Lebensunterhalt der Landwirte verbessert. Durch die Förderung nachhaltiger Praktiken und die Ermöglichung des Anbaus eigener Lebensmittel, auch auf kleinem Raum, unterstützt Farmizen einen gemeinschaftsorientierten Ansatz. Die Initiative setzt auf Transparenz, Rückverfolgbarkeit und Aufklärung, um sicherzustellen, dass sowohl Verbraucher als auch Erzeuger die Bedeutung von Ernährung und nachhaltiger Landwirtschaft verstehen. Letztlich will Farmizen ein gesünderes, gerechteres Lebensmittel-Ökosystem für alle Beteiligten schaffen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Farmizen",
+  "name": {
+    "en": "Farmizen",
+    "fr": "Farmizen",
+    "es": "Farmizen",
+    "de": "Farmizen"
+  },
   "pubId": 479552,
   "score": -44.395912361627964,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "fr"
 }

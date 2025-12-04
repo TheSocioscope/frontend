@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754663630,
   "date": null,
-  "description": "The Global Salmon Initiative (GSI) is a leadership initiative launched in 2013 by salmon farming companies to enhance sustainability in the industry. Comprising 14 member companies across six countries, GSI focuses on collaboration to tackle common challenges, improve sector performance, and promote responsible practices. Key activities include knowledge sharing, joint research, and sustainability reporting, all aimed at fostering a more sustainable aquaculture sector while engaging CEOs in meaningful dialogue and action.",
+  "description": {
+    "en": "The Global Salmon Initiative (GSI) is a leadership initiative launched in 2013 by salmon companies to improve the sustainability of the sector. Comprised of 14 member companies from six countries, the GSI focuses on collaboration to address common challenges, improve industry performance and promote responsible practices. Key activities include knowledge sharing, joint research and sustainability reporting, all with the goal of fostering a more sustainable aquaculture sector while engaging CEOs in meaningful dialogue and action.",
+    "fr": "La Global Salmon Initiative (GSI) est une initiative de leadership lancée en 2013 par des entreprises du secteur du saumon afin d'améliorer la durabilité du secteur. Composée de 14 entreprises membres issues de six pays, la GSI met l'accent sur la collaboration pour relever des défis communs, améliorer les performances de l'industrie et promouvoir des pratiques responsables. Les principales activités comprennent le partage des connaissances, la recherche conjointe et les rapports de durabilité, le tout dans le but de favoriser un secteur de l'aquaculture plus durable tout en engageant les PDG dans un dialogue et une action significatifs.",
+    "es": "La Iniciativa Mundial del Salmón (GSI) es una iniciativa de liderazgo lanzada en 2013 por empresas salmoneras para mejorar la sostenibilidad del sector. Formada por 14 empresas miembros de seis países, la GSI se centra en la colaboración para afrontar retos comunes, mejorar el rendimiento del sector y promover prácticas responsables. Entre sus principales actividades se incluyen el intercambio de conocimientos, la investigación conjunta y la elaboración de informes de sostenibilidad, todo ello con el objetivo de fomentar un sector acuícola más sostenible y, al mismo tiempo, implicar a los directores ejecutivos en un diálogo y una acción significativos.",
+    "de": "Die Global Salmon Initiative (GSI) ist eine Führungsinitiative, die 2013 von Lachsfarmen ins Leben gerufen wurde, um die Nachhaltigkeit in der Branche zu verbessern. GSI umfasst 14 Mitgliedsunternehmen in sechs Ländern und konzentriert sich auf die Zusammenarbeit, um gemeinsame Herausforderungen zu bewältigen, die Leistung der Branche zu verbessern und verantwortungsvolle Praktiken zu fördern. Zu den wichtigsten Aktivitäten gehören Wissensaustausch, gemeinsame Forschung und Nachhaltigkeitsberichterstattung, die alle darauf abzielen, eine nachhaltigere Aquakulturbranche zu fördern, indem die CEOs in einen fruchtbaren Dialog und in Maßnahmen eingebunden werden."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "The Global Salmon Initiative (GSI)",
+  "name": {
+    "en": "The Global Salmon Initiative (GSI)",
+    "fr": "The Global Salmon Initiative (GSI)",
+    "es": "La Iniciativa Mundial del Salmón (GSI)",
+    "de": "The Global Salmon Initiative (GSI)"
+  },
   "pubId": 471152,
   "score": -39.495912361627894,
   "state": "ongoing-project",
@@ -43,10 +53,6 @@
   ],
   "url": "",
   "yt": "yGHmooAEc4A",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760515024,
   "feedback": [
     {
@@ -54,11 +60,8 @@
       "at": 1760515024
     }
   ],
-  "lastEvent": {
-    "at": 1760515024,
-    "by": "contact"
-  },
   "updatedAt": [
     1760515024
-  ]
+  ],
+  "originalLang": "fr"
 }

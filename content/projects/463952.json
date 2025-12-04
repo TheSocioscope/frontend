@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754425718,
   "date": null,
-  "description": "Casa Vegana is a plant-based food company founded by a couple who transformed a struggling business into a thriving brand over eight years. They prioritize artisanal production, using natural ingredients without preservatives, while navigating the challenges of scaling up. Despite facing market pressures, they aim to maintain their core values of sustainability and healthy eating. With a focus on growth, they explore new product lines and potential export opportunities, reflecting a commitment to both quality and environmental consciousness.",
+  "description": {
+    "en": "Casa Vegana is a plant-based food company founded by a couple who transformed a struggling business into a thriving brand in eight years. Their priority is artisanal production, with natural ingredients and no preservatives, as they face the challenges of expansion. Despite market pressures, they aim to maintain their core values of sustainability and healthy eating. With an eye on growth, they explore new product lines and potential export opportunities, reflecting their commitment to both quality and environmental awareness.",
+    "fr": "Casa Vegana est une entreprise d'alimentation à base de plantes fondée par un couple qui a transformé une entreprise en difficulté en une marque florissante en l'espace de huit ans. Leur priorité est la production artisanale, l'utilisation d'ingrédients naturels et l'absence de conservateurs, tout en relevant les défis de l'expansion. Malgré les pressions du marché, ils s'efforcent de maintenir leurs valeurs fondamentales de durabilité et d'alimentation saine. Dans une perspective de croissance, ils explorent de nouvelles lignes de produits et des possibilités d'exportation, reflétant leur engagement en faveur de la qualité et de la sensibilisation à l'environnement.",
+    "es": "Casa Vegana es una empresa de alimentos vegetales fundada por una pareja que transformó un negocio en dificultades en una marca próspera en ocho años. Su prioridad es la producción artesanal, con ingredientes naturales y sin conservantes, mientras afrontan los retos de la expansión. A pesar de las presiones del mercado, su objetivo es mantener sus valores fundamentales de sostenibilidad y alimentación sana. Con la vista puesta en el crecimiento, exploran nuevas líneas de productos y posibles oportunidades de exportación, lo que refleja su compromiso tanto con la calidad como con la conciencia medioambiental.",
+    "de": "Casa Vegana ist ein pflanzliches Lebensmittelunternehmen, das von einem Ehepaar gegründet wurde, das im Laufe von acht Jahren ein kränkelndes Geschäft in eine erfolgreiche Marke verwandelt hat. Sie priorisieren die handwerkliche Produktion und verwenden natürliche Zutaten ohne Konservierungsstoffe, während sie die Herausforderungen des Skalierens meistern. Trotz des Drucks auf den Markt wollen sie ihre Kernwerte Nachhaltigkeit und gesunde Ernährung beibehalten. With a focus on growth, they explore new product lines and potential export opportunities, reflecting a commitment to both quality and environmental consciousness."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Casa Vegana",
+  "name": {
+    "es": "Casa Vegana",
+    "en": "Vegan House",
+    "fr": "Maison végane",
+    "de": "Veganes Haus"
+  },
   "pubId": 463952,
   "score": -54.15386316266064,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

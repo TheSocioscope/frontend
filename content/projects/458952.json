@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754390590,
   "date": null,
-  "description": "Huerto Manías is an initiative born from the need to support individuals with serious mental illnesses, providing them with opportunities for work and personal growth. Established in 2014 in Ecuador, it focuses on agricultural activities and the production of value-added products, fostering a sense of community and mental well-being. The organization emphasizes the importance of human connection and training, aiming to empower its members while addressing the stigma surrounding mental health issues. ",
+  "description": {
+    "en": "Huerto Manías is an initiative born from the need to support people with severe mental illness, offering them opportunities for work and personal growth. Founded in 2014 in Ecuador, it focuses on agricultural activities and the development of value-added products, fostering a sense of community and mental well-being. The organization emphasizes the importance of human connection and training, aiming to empower its members while addressing the stigma surrounding mental health issues.",
+    "fr": "Huerto Manías est une initiative née de la nécessité de soutenir les personnes atteintes d'une maladie mentale grave, en leur offrant des opportunités de travail et de développement personnel. Fondée en 2014 en Équateur, elle se concentre sur les activités agricoles et la production de produits à valeur ajoutée, favorisant le sens de la communauté et le bien-être mental. L'organisation met l'accent sur l'importance des liens humains et de la formation, visant à autonomiser ses membres tout en s'attaquant à la stigmatisation qui entoure les problèmes de santé mentale.",
+    "es": "Huerto Manías es una iniciativa nacida de la necesidad de apoyar a personas con enfermedades mentales graves, ofreciéndoles oportunidades de trabajo y crecimiento personal. Fundada en 2014 en Ecuador, se centra en actividades agrícolas y en la elaboración de productos de valor añadido, fomentando el sentido de comunidad y el bienestar mental. La organización hace hincapié en la importancia de la conexión humana y la formación, con el objetivo de empoderar a sus miembros al tiempo que aborda el estigma que rodea a los problemas de salud mental.",
+    "de": "Huerto Manías ist eine Initiative, die aus der Notwendigkeit heraus entstanden ist, Menschen mit schweren psychischen Erkrankungen zu unterstützen und ihnen Möglichkeiten für Arbeit und persönliches Wachstum zu bieten. Die 2014 in Ecuador gegründete Organisation konzentriert sich auf landwirtschaftliche Aktivitäten und die Herstellung von Mehrwertprodukten und fördert damit ein Gefühl der Gemeinschaft und des mentalen Wohlbefindens. Die Organisation betont die Bedeutung von menschlicher Verbindung und Ausbildung, um ihre Mitglieder zu stärken und gleichzeitig das Stigma zu bekämpfen, das mit psychischen Gesundheitsproblemen einhergeht."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Huerto Manías",
+  "name": {
+    "es": "Huerto Manías",
+    "en": "Orchard Manias",
+    "fr": "Les manies du verger",
+    "de": "Obstgarten-Manien"
+  },
   "pubId": 458952,
   "score": -34.63197866651939,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

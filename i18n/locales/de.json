@@ -6,6 +6,11 @@
     "partners": "Partner",
     "contact": "Kontakt"
   },
+  "labels": {
+    "fields": "Felder",
+    "thematics": "Thematiken",
+    "types": "Typen"
+  },
   "hero": {
     "title": "DAS SOZIOSKOP",
     "subtitle": "Sehen, wie sich Gesellschaften transformieren",
@@ -554,8 +559,12 @@
     "projectsFound": "{count} Projekt gefunden | {count} Projekte gefunden",
     "search": "Projekte suchen",
     "geography": "Geographie",
-    "continents": "Kontinente",
-    "countries": "Länder",
-    "loading": "Projekt wird geladen..."
+    "continentsLabel": "Kontinente",
+    "countriesLabel": "Länder",
+    "loading": "Projekt wird geladen...",
+    "translationDisclaimer": "Dieser Inhalt wurde automatisch ins {language} übersetzt.",
+    "viewInOriginal": "In {language} anzeigen",
+    "viewingOriginal": "Inhalt wird in Originalsprache angezeigt ({language}).",
+    "viewTranslated": "Übersetzung anzeigen"
   }
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754312535,
   "date": null,
-  "description": "Foodbiome is a four-year-old initiative aimed at restoring the food-territory link on both physical and cultural levels. Founded by Jean-Philippe Guérard, it fosters collaboration among diverse stakeholders, including farmers, local authorities, and entrepreneurs, to create a networked ecosystem for food transition. By providing advisory and networking support, Foodbiome seeks to optimize local and national initiatives, ensuring they work together effectively to promote sustainable food systems and economic models.",
+  "description": {
+    "en": "Foodbiome is a four-year initiative that aims to re-establish the link between food and territory on both a physical and cultural level. Founded by Jean-Philippe Guérard, it fosters collaboration between various stakeholders, including farmers, local authorities and entrepreneurs, to create a networked ecosystem for food transition. By advising and supporting networking, Foodbiome seeks to optimize local and national initiatives, ensuring that they collaborate effectively to promote sustainable food systems and economic models.",
+    "fr": "Foodbiome est une initiative de quatre ans qui vise à rétablir le lien entre l'alimentation et le territoire, tant sur le plan physique que culturel. Fondée par Jean-Philippe Guérard, elle favorise la collaboration entre différents acteurs, notamment les agriculteurs, les autorités locales et les entrepreneurs, afin de créer un écosystème en réseau pour la transition alimentaire. En conseillant et en soutenant la mise en réseau, Foodbiome cherche à optimiser les initiatives locales et nationales, en veillant à ce qu'elles collaborent efficacement pour promouvoir des systèmes alimentaires et des modèles économiques durables.",
+    "es": "Foodbiome es una iniciativa de cuatro años que pretende restablecer el vínculo entre la alimentación y el territorio tanto a nivel físico como cultural. Fundada por Jean-Philippe Guérard, fomenta la colaboración entre diversas partes interesadas, incluidos agricultores, autoridades locales y empresarios, para crear un ecosistema en red para la transición alimentaria. Mediante el asesoramiento y el apoyo a la creación de redes, Foodbiome trata de optimizar las iniciativas locales y nacionales, garantizando que colaboren eficazmente para promover sistemas alimentarios y modelos económicos sostenibles.",
+    "de": "Foodbiome ist eine vierjährige Initiative, die die Verbindung zwischen Lebensmitteln und Territorium auf physischer und kultureller Ebene wiederherstellen will. Die von Jean-Philippe Guérard gegründete Initiative fördert die Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter Landwirte, lokale Behörden und Unternehmer, um ein vernetztes Ökosystem für den Übergang von Lebensmitteln zu schaffen. Durch die Bereitstellung von Beratungs- und Vernetzungsunterstützung will Foodbiome lokale und nationale Initiativen optimieren und sicherstellen, dass sie effektiv zusammenarbeiten, um nachhaltige Nahrungsmittelsysteme und Wirtschaftsmodelle zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Foodbiome",
+  "name": {
+    "en": "Foodbiome",
+    "fr": "Foodbiome",
+    "es": "Foodbiome",
+    "de": "Foodbiome"
+  },
   "pubId": 457452,
   "score": 4.0041370503260465,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "PitUea6KQeE",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755735575,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755735575
     }
   ],
-  "lastEvent": {
-    "at": 1755735575,
-    "by": "contact"
-  },
   "updatedAt": [
     1755735575
-  ]
+  ],
+  "originalLang": "fr"
 }

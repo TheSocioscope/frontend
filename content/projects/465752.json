@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754476227,
   "date": null,
-  "description": "The initiative focuses on creating a natural health center in Costa Rica. Their eco-farm spans approximately 3 hectares, where they cultivate medicinal plants, fruit trees, and vegetables. Initially, they attracted students and volunteers to learn about natural health care, but now their primary income comes from selling herbal products at local farmers' markets. Their mission is to improve community health through sustainable practices while promoting awareness of herbal medicine. The initiative emphasizes self-sufficiency and aims to inspire others to adopt healthier lifestyles.",
+  "description": {
+    "en": "The initiative focuses on creating a natural health center in Costa Rica. Their organic farm covers about 3 hectares, where they grow medicinal plants, fruit trees and vegetables. Initially, they attracted students and volunteers to learn about natural health care, but now their main income comes from selling herbal products at local farmers' markets. Their mission is to improve community health through sustainable practices and to promote knowledge of herbal medicine. The initiative emphasizes self-sufficiency and aims to inspire others to adopt healthier lifestyles.",
+    "fr": "L'initiative vise à créer un centre de santé naturelle au Costa Rica. Leur ferme biologique s'étend sur environ 3 hectares, où ils cultivent des plantes médicinales, des arbres fruitiers et des légumes. Au départ, ils ont attiré des étudiants et des volontaires pour apprendre les soins de santé naturels, mais aujourd'hui, leur principal revenu provient de la vente de produits à base de plantes sur les marchés agricoles locaux. Leur mission est d'améliorer la santé de la communauté grâce à des pratiques durables et de promouvoir la connaissance de la phytothérapie. L'initiative met l'accent sur l'autosuffisance et vise à inciter d'autres personnes à adopter des modes de vie plus sains.",
+    "es": "La iniciativa se centra en crear un centro de salud natural en Costa Rica. Su granja ecológica abarca unas 3 hectáreas, donde cultivan plantas medicinales, árboles frutales y hortalizas. Al principio, atraían a estudiantes y voluntarios para que aprendieran sobre el cuidado natural de la salud, pero ahora sus principales ingresos proceden de la venta de productos herbales en los mercados locales de agricultores. Su misión es mejorar la salud de la comunidad mediante prácticas sostenibles y fomentar el conocimiento de la fitoterapia. La iniciativa hace hincapié en la autosuficiencia y pretende inspirar a otros para que adopten estilos de vida más saludables.",
+    "de": "Die Initiative konzentriert sich auf den Aufbau eines natürlichen Gesundheitszentrums in Costa Rica. Ihr Öko-Bauernhof erstreckt sich über etwa 3 Hektar, auf denen sie Heilpflanzen, Obstbäume und Gemüse anbauen. Zunächst zogen sie Studenten und Freiwillige an, um etwas über natürliche Gesundheitspflege zu lernen, aber jetzt erzielen sie ihr Haupteinkommen durch den Verkauf von Kräuterprodukten auf lokalen Bauernmärkten. Ihre Mission ist es, die Gesundheit der Gemeinden durch nachhaltige Praktiken zu verbessern und gleichzeitig das Bewusstsein für Kräutermedizin zu fördern. Die Initiative betont die Selbsthilfe und will andere dazu inspirieren, gesündere Lebensweisen anzunehmen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Centro Alba Nueva",
+  "name": {
+    "es": "Centro Alba Nueva",
+    "en": "Alba Nueva Center",
+    "fr": "Centre Alba Nueva",
+    "de": "Alba Nueva Zentrum"
+  },
   "pubId": 465752,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

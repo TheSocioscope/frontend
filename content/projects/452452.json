@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754422206,
   "date": null,
-  "description": "AABDA, the Association for Biodynamic Agriculture in Argentina, promotes and supports biodynamic farming practices. Founded in the early 1990s, it serves as a hub for training, certification, and community engagement among producers, consumers, and advocates of sustainable agriculture. AABDA emphasizes the importance of ecological balance, resource conservation, and the interconnectedness of farming practices, aiming to enhance the quality of food systems while fostering a deeper understanding of agricultural sustainability.",
+  "description": {
+    "en": "AABDA, the Association for Biodynamic Agriculture in Argentina, promotes and supports biodynamic agricultural practices. Founded in the early 1990s, it acts as a center for training, certification and community engagement between producers, consumers and advocates of sustainable agriculture. AABDA emphasizes the importance of ecological balance, resource conservation and the interconnectedness of agricultural practices, with the goal of improving the quality of food systems and fostering a deeper understanding of agricultural sustainability.",
+    "fr": "L'AABDA, l'Association pour l'agriculture biodynamique en Argentine, promeut et soutient les pratiques agricoles biodynamiques. Fondée au début des années 1990, elle fait office de centre de formation, de certification et d'engagement communautaire entre les producteurs, les consommateurs et les défenseurs de l'agriculture durable. L'AABDA met l'accent sur l'importance de l'équilibre écologique, de la conservation des ressources et de l'interconnexion des pratiques agricoles, dans le but d'améliorer la qualité des systèmes alimentaires et de favoriser une meilleure compréhension de la durabilité agricole.",
+    "es": "AABDA, la Asociación para la Agricultura Biodinámica en Argentina, promueve y apoya las prácticas agrícolas biodinámicas. Fundada a principios de la década de 1990, actúa como centro de formación, certificación y compromiso comunitario entre productores, consumidores y defensores de la agricultura sostenible. La AABDA hace hincapié en la importancia del equilibrio ecológico, la conservación de los recursos y la interconexión de las prácticas agrícolas, con el objetivo de mejorar la calidad de los sistemas alimentarios y fomentar una comprensión más profunda de la sostenibilidad agrícola.",
+    "de": "AABDA, die Vereinigung für biodynamische Landwirtschaft in Argentinien, fördert und unterstützt biodynamische Landwirtschaftspraktiken. Sie wurde in den frühen 1990er Jahren gegründet und dient als Drehscheibe für Ausbildung, Zertifizierung und kommunales Engagement unter Erzeugern, Verbrauchern und Befürwortern einer nachhaltigen Landwirtschaft. AABDA betont die Bedeutung des ökologischen Gleichgewichts, des Ressourcenschutzes und der Vernetzung der landwirtschaftlichen Praktiken, um die Qualität der Nahrungsmittelsysteme zu verbessern und gleichzeitig ein besseres Verständnis der landwirtschaftlichen Nachhaltigkeit zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "AABDA",
+  "name": {
+    "en": "AABDA",
+    "fr": "AABDA",
+    "es": "AABDA",
+    "de": "AABDA"
+  },
   "pubId": 452452,
   "score": 30.825511325126996,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1754423451,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1754423451
     }
   ],
-  "lastEvent": {
-    "at": 1754423451,
-    "by": "contact"
-  },
   "updatedAt": [
     1754423451
-  ]
+  ],
+  "originalLang": "fr"
 }

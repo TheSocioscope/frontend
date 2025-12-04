@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739392431,
   "date": null,
-  "description": "Blanc-Verger Farm, managed by Guillaume and Virginie, represents a modern approach to sustainable farming and local diversification. Located on 80 hectares and home to 100 robust Gerzean cows, the farm focuses on high-quality dairy production, with Guillaume overseeing daily operations and pasture management. Virginie has expanded the farm’s offerings by developing an ice cream and frozen pastry business, distributing to local markets and through a small farm shop. The farm operates in partnership with cooperatives and organizations like CIVAM to implement eco-friendly practices, showcasing an effective model of resilience and local food production in agriculture.",
+  "description": {
+    "en": "The Blanc-Verger farm, run by Guillaume and Virginie, represents a modern approach to sustainable agriculture and local diversification. Situated on 80 hectares and with 100 robust Gerzean cows, the farm focuses on high quality dairy production, with Guillaume overseeing daily operations and pasture management. Virginie has expanded the farm's offerings by developing an ice cream and frozen pastry business, which she distributes to local markets and through a small farm store. The farm works in partnership with cooperatives and organizations such as CIVAM to implement ecological practices, demonstrating an effective model of resilience and local food production in agriculture.",
+    "fr": "La ferme du Blanc-Verger, dirigée par Guillaume et Virginie, représente une approche moderne de l'agriculture durable et de la diversification locale. Située sur 80 hectares et comptant 100 vaches Gerzéennes robustes, la ferme se concentre sur une production laitière de haute qualité, Guillaume supervisant les opérations quotidiennes et la gestion des pâturages. Virginie a élargi l'offre de la ferme en développant une activité de glaces et de pâtisseries surgelées, qu'elle distribue sur les marchés locaux et dans une petite boutique à la ferme. La ferme travaille en partenariat avec des coopératives et des organisations telles que le CIVAM pour mettre en œuvre des pratiques écologiques, démontrant un modèle efficace de résilience et de production alimentaire locale dans l'agriculture.",
+    "es": "La granja Blanc-Verger, dirigida por Guillaume y Virginie, representa un enfoque moderno de la agricultura sostenible y la diversificación local. Situada en 80 hectáreas y con 100 robustas vacas de raza Gerzean, la explotación se centra en la producción lechera de alta calidad, y Guillaume supervisa las operaciones diarias y la gestión de los pastos. Virginie ha ampliado la oferta de la granja desarrollando un negocio de helados y pastelería congelada, que distribuye a los mercados locales y a través de una pequeña tienda en la granja. La granja trabaja en asociación con cooperativas y organizaciones como CIVAM para aplicar prácticas ecológicas, mostrando un modelo eficaz de resiliencia y producción local de alimentos en la agricultura.",
+    "de": "Der von Guillaume und Virginie geführte Hof Blanc-Verger steht für einen modernen Ansatz zur nachhaltigen Landwirtschaft und lokalen Diversifizierung. Auf 80 Hektar und mit 100 robusten Gerzean-Kühen konzentriert sich der Hof auf die hochwertige Milchproduktion, wobei Guillaume den täglichen Betrieb und das Weidemanagement leitet. Virginie hat das Angebot des Hofes durch die Entwicklung eines Eis- und Tiefkühlpastetengeschäfts erweitert, das auf lokalen Märkten und über einen kleinen Hofladen vertrieben wird. Der Hof arbeitet in Partnerschaft mit Genossenschaften und Organisationen wie CIVAM, um umweltfreundliche Praktiken zu implementieren und ein effektives Modell für Widerstandsfähigkeit und lokale Nahrungsmittelproduktion in der Landwirtschaft zu demonstrieren."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ferme Blanc Verger",
+  "name": {
+    "fr": "Ferme Blanc Verger",
+    "en": "Blanc Verger Farm",
+    "es": "Granja Blanc Verger",
+    "de": "Bauernhof Blanc Verger"
+  },
   "pubId": 446352,
   "score": 624.6107843137286,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "wWTmRcwTUTs",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

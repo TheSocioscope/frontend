@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754561135,
   "date": null,
-  "description": "Ecomarcal is part of the Participatory Guarantee System (PGS): an agroecological certification initiative that fosters collaboration among producers, consumers, and technical experts. Established in the Andean region, it aims to create trust through a locally developed seal that certifies agroecological practices. By organizing meetings and guided visits, the PGS promotes knowledge exchange and strengthens community ties, ultimately encouraging more producers to transition to agroecology and raising consumer awareness about its benefits.",
+  "description": {
+    "en": "Ecomarcal is part of the Participatory Guarantee System (SPG): an agroecological certification initiative that fosters collaboration between producers, consumers and technical experts. Established in the Andean region, it aims to build trust through a locally developed seal that certifies agroecological practices. By organizing meetings and guided tours, the PGS promotes knowledge sharing and strengthens community ties, ultimately encouraging more producers to make the transition to agroecology and raising consumer awareness of its benefits.",
+    "fr": "Ecomarcal fait partie du Système Participatif de Garantie (SPG) : une initiative de certification agroécologique qui encourage la collaboration entre les producteurs, les consommateurs et les experts techniques. Établi dans la région andine, il vise à instaurer la confiance grâce à un sceau développé localement qui certifie les pratiques agroécologiques. En organisant des réunions et des visites guidées, le PGS favorise le partage des connaissances et renforce les liens communautaires, encourageant ainsi un plus grand nombre de producteurs à passer à l'agroécologie et sensibilisant les consommateurs à ses avantages.",
+    "es": "Ecomarcal forma parte del Sistema Participativo de Garantía (SPG): una iniciativa de certificación agroecológica que fomenta la colaboración entre productores, consumidores y expertos técnicos. Establecido en la región andina, su objetivo es generar confianza a través de un sello desarrollado localmente que certifica las prácticas agroecológicas. Mediante la organización de reuniones y visitas guiadas, el PGS promueve el intercambio de conocimientos y fortalece los lazos comunitarios, animando en última instancia a más productores a hacer la transición a la agroecología y concienciando a los consumidores sobre sus beneficios.",
+    "de": "Ecomarcal ist Teil des Participatory Guarantee System (PGS), einer Initiative zur Zertifizierung von Agrarökologie, die die Zusammenarbeit zwischen Produzenten, Verbrauchern und technischen Experten fördert. Sie wurde in der Andenregion gegründet und zielt darauf ab, Vertrauen durch ein lokal entwickeltes Gütesiegel zu schaffen, das agroökologische Praktiken zertifiziert. Durch die Organisation von Treffen und geführten Besuchen fördert die PGS den Austausch von Wissen und stärkt die Beziehungen zwischen den Gemeinden, wodurch letztendlich mehr Landwirte ermutigt werden, auf Agrarökologie umzusteigen und das Bewusstsein der Verbraucher über die Vorteile der Agrarökologie gestärkt wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ecomarcal",
+  "name": {
+    "en": "Ecomarcal",
+    "fr": "Ecomarcal",
+    "es": "Ecomarcal",
+    "de": "Ecomarcal"
+  },
   "pubId": 460752,
   "score": 51.219080884871055,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

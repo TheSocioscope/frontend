@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754673745,
   "date": null,
-  "description": "The initiative is a multi-generational family farming project that emphasizes holistic and organic agriculture. Originating from a lineage of farmers, it has evolved to incorporate regenerative and biodynamic practices. The project aims to create a sustainable and diverse agricultural ecosystem, producing a variety of products, including wine, while fostering community engagement and education about the value of local, organic produce. It seeks to balance traditional methods with modern sustainability challenges.",
+  "description": {
+    "en": "The initiative is a multi-generational family farming project that emphasizes holistic and organic farming. Stemming from a lineage of farmers, it has evolved to incorporate regenerative and biodynamic practices. The project aims to create a sustainable and diverse agricultural ecosystem, producing a variety of products, including wine, while fostering community engagement and education about the value of local and organic produce. It seeks to balance traditional methods with modern sustainability challenges.",
+    "fr": "Cette initiative est un projet agricole familial multigénérationnel qui met l'accent sur l'agriculture holistique et biologique. Issue d'une lignée d'agriculteurs, elle a évolué pour intégrer des pratiques régénératives et biodynamiques. Le projet vise à créer un écosystème agricole durable et diversifié, produisant une variété de produits, y compris du vin, tout en favorisant l'engagement de la communauté et l'éducation sur la valeur des produits locaux et biologiques. Il cherche à trouver un équilibre entre les méthodes traditionnelles et les défis modernes en matière de développement durable.",
+    "es": "La iniciativa es un proyecto agrícola familiar multigeneracional que hace hincapié en la agricultura holística y ecológica. Procedente de un linaje de agricultores, ha evolucionado para incorporar prácticas regenerativas y biodinámicas. El proyecto aspira a crear un ecosistema agrícola sostenible y diverso, que produzca una variedad de productos, incluido el vino, al tiempo que fomenta el compromiso de la comunidad y la educación sobre el valor de los productos locales y ecológicos. Trata de equilibrar los métodos tradicionales con los retos modernos de la sostenibilidad.",
+    "de": "Die Initiative ist ein Mehrgenerationen-Familienbetrieb, der ganzheitlichen und organischen Landbau betreibt. Ursprünglich aus einer Reihe von Landwirten hervorgegangen, hat es sich weiterentwickelt, um regenerative und biodynamische Praktiken einzubeziehen. Das Projekt zielt auf die Schaffung eines nachhaltigen und vielfältigen landwirtschaftlichen Ökosystems ab, das eine Vielzahl von Produkten, darunter auch Wein, produziert und gleichzeitig das Engagement der Gemeinschaft und die Aufklärung über den Wert lokaler, organischer Produkte fördert. Es wird versucht, traditionelle Methoden mit modernen Nachhaltigkeitsherausforderungen in Einklang zu bringen."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca Parera",
+  "name": {
+    "it": "Finca Parera",
+    "en": "Finca Parera",
+    "fr": "Finca Parera",
+    "es": "Finca Parera",
+    "de": "Finca Parera"
+  },
   "pubId": 471452,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

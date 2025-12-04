@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1657113218,
   "date": null,
-  "description": "Nitrogen is a crucial input to food production and yet its oversupply in many parts of the world contributes to a number of environmental problems. Most policies dedicated to reducing agricultural nitrogen pollution focus on changing farmer behaviour. However, farm-level policies are challenging to implement and farmers are just one of several actors in the agri-food chain. The activities of other actors — from fertilizer manufacturers to wastewater treatment companies — can also impact nitrogen losses at the farm level and beyond. Consequently, policymakers have a broader range of policy options than traditionally thought to address nitrogen pollution from field to fork. Inspired by the concept of full-chain nitrogen use efficiency, this Perspective introduces the major actors common in agri-food chains from a nitrogen standpoint, identifies nitrogen policies that could be targeted towards them and proposes several new criteria to guide ex-ante analysis of the feasibility and design of different policy interventions. Sustainably feeding ten billion people by 2050 will require fundamental changes in the global food system — a broad portfolio of policy options and a framework for how to select them is essential.",
+  "description": {
+    "en": "Nitrogen is a crucial input for food production, yet its excess in many parts of the world contributes to a number of environmental problems. Most policies dedicated to reducing nitrogen pollution in agriculture focus on changing farmer behavior. However, farm-level policies are difficult to implement and farmers are only one of several actors in the agri-food chain. The activities of other actors - from fertilizer manufacturers to wastewater treatment companies - can also impact on-farm and off-farm nitrogen losses. Consequently, policymakers have a wider range of options than traditionally thought to address nitrogen pollution from field to fork. Drawing on the concept of chain-wide nitrogen use efficiency, this Perspective presents the main common actors in agrifood chains from a nitrogen perspective, identifies nitrogen policies that could target them, and proposes several new criteria to guide ex ante analysis of the feasibility and design of different policy interventions. Feeding ten billion people sustainably by 2050 will require fundamental changes in the global food system: a broad portfolio of policy options and a framework for how to select them are essential.",
+    "fr": "L'azote est un intrant crucial pour la production alimentaire, mais son excès dans de nombreuses régions du monde contribue à un certain nombre de problèmes environnementaux. La plupart des politiques visant à réduire la pollution azotée dans l'agriculture se concentrent sur le changement de comportement des agriculteurs. Cependant, les politiques au niveau de l'exploitation sont difficiles à mettre en œuvre et les agriculteurs ne sont qu'un des nombreux acteurs de la chaîne agroalimentaire. Les activités d'autres acteurs - des fabricants d'engrais aux entreprises de traitement des eaux usées - peuvent également avoir un impact sur les pertes d'azote dans l'exploitation et en dehors de celle-ci. Par conséquent, les décideurs politiques disposent d'un éventail d'options plus large qu'on ne le pensait traditionnellement pour lutter contre la pollution azotée du champ à la fourchette. S'appuyant sur le concept d'efficacité de l'utilisation de l'azote à l'échelle de la chaîne, ces perspectives présentent les principaux acteurs communs des chaînes agroalimentaires du point de vue de l'azote, identifient les politiques en matière d'azote qui pourraient les cibler et proposent plusieurs nouveaux critères pour guider l'analyse ex ante de la faisabilité et de la conception des différentes interventions politiques. Nourrir durablement dix milliards de personnes d'ici 2050 nécessitera des changements fondamentaux dans le système alimentaire mondial : il est essentiel de disposer d'un large éventail d'options politiques et d'un cadre permettant de les sélectionner.",
+    "es": "El nitrógeno es un insumo crucial para la producción de alimentos y, sin embargo, su exceso en muchas partes del mundo contribuye a una serie de problemas medioambientales. La mayoría de las políticas dedicadas a reducir la contaminación por nitrógeno en la agricultura se centran en cambiar el comportamiento de los agricultores. Sin embargo, las políticas a nivel de explotación son difíciles de aplicar y los agricultores son sólo uno de los diversos agentes de la cadena agroalimentaria. Las actividades de otros agentes -desde los fabricantes de fertilizantes hasta las empresas de tratamiento de aguas residuales- también pueden repercutir en las pérdidas de nitrógeno en las explotaciones y fuera de ellas. Por consiguiente, los responsables políticos disponen de un abanico de opciones más amplio de lo que tradicionalmente se pensaba para abordar la contaminación por nitrógeno desde el campo hasta la mesa. Inspirándose en el concepto de eficiencia en el uso del nitrógeno en toda la cadena, esta Perspectiva presenta los principales actores comunes en las cadenas agroalimentarias desde el punto de vista del nitrógeno, identifica las políticas sobre nitrógeno que podrían dirigirse a ellos y propone varios criterios nuevos para orientar el análisis ex ante de la viabilidad y el diseño de diferentes intervenciones políticas. Alimentar de forma sostenible a diez mil millones de personas de aquí a 2050 exigirá cambios fundamentales en el sistema alimentario mundial: es esencial disponer de una amplia cartera de opciones políticas y de un marco para saber cómo seleccionarlas.",
+    "de": "Nitrogen is a crucial input to food production and yet its oversupply in many parts of the world contributes to a number of environmental problems. Most policies dedicated to reducing agricultural nitrogen pollution focus on changing farmer behaviour. However, farm-level policies are challenging to implement and farmers are just one of several actors in the agri-food chain. The activities of other actors - from fertilizer manufacturers to wastewater treatment companies - can also impact nitrogen losses at the farm level and beyond. Consequently, policymakers have a broader range of policy options than traditionally thought to address nitrogen pollution from field to fork. Inspired by the concept of full-chain nitrogen use efficiency, this Perspective introduces the major actors common in agri-food chains from a nitrogen standpoint, identifies nitrogen policies that could be targeted towards them and proposes several new criteria to guide ex-ante analysis of the feasibility and design of different policy interventions. Sustainably feeding ten billion people by 2050 will require fundamental changes in the global food system - a broad portfolio of policy options and a framework for how to select them is essential."
+  },
   "field": [
     "law",
     "political-science",
@@ -20,7 +25,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Nitrogen pollution policy beyond the farm",
+  "name": {
+    "en": "Nitrogen pollution policy beyond the farm",
+    "fr": "Nitrogen pollution policy beyond the farm",
+    "es": "Política de contaminación por nitrógeno más allá de la explotación",
+    "de": "Nitrogen pollution policy beyond the farm"
+  },
   "pubId": 414752,
   "score": 1078.784886128364,
   "state": "completed-project",
@@ -68,27 +78,5 @@
   ],
   "url": "https://www.nature.com/articles/s43016-019-0001-5",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1657659114,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1657659114,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

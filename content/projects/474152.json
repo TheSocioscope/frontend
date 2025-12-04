@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754573838,
   "date": null,
-  "description": "Shambani Pro is a pioneering social enterprise in Kenya focused on reducing post-harvest loss for smallholder farmers. By establishing a network of microfactories, we convert surplus produce into high-quality value-added products, enhancing farmers' incomes and contributing to food security. Our innovative model addresses market inefficiencies, promotes sustainable practices, and aims to empower local communities while minimizing environmental impact. We are committed to creating a resilient food system that benefits both people and the planet.",
+  "description": {
+    "en": "Shambani Pro is a pioneering social enterprise in Kenya focused on reducing post-harvest losses of smallholder farmers. By establishing a network of micro-factories, we convert surplus into high quality, value-added products, improving farmers' incomes and contributing to food security. Our innovative model addresses market inefficiencies, promotes sustainable practices and aims to empower local communities while minimizing environmental impact. We are committed to creating a resilient food system that benefits both people and the planet.",
+    "fr": "Shambani Pro est une entreprise sociale pionnière au Kenya, dont l'objectif est de réduire les pertes post-récolte des petits exploitants agricoles. En créant un réseau de micro-usines, nous transformons les excédents en produits à valeur ajoutée de haute qualité, améliorant ainsi les revenus des agriculteurs et contribuant à la sécurité alimentaire. Notre modèle innovant s'attaque aux inefficacités du marché, encourage les pratiques durables et vise à responsabiliser les communautés locales en minimisant l'impact sur l'environnement. Nous nous engageons à créer un système alimentaire résilient qui profite à la fois aux personnes et à la planète.",
+    "es": "Shambani Pro es una empresa social pionera en Kenia centrada en reducir las pérdidas postcosecha de los pequeños agricultores. Mediante el establecimiento de una red de microfábricas, convertimos los excedentes en productos de alta calidad y valor añadido, mejorando los ingresos de los agricultores y contribuyendo a la seguridad alimentaria. Nuestro innovador modelo aborda las ineficiencias del mercado, promueve prácticas sostenibles y pretende empoderar a las comunidades locales minimizando el impacto medioambiental. Estamos comprometidos con la creación de un sistema alimentario resistente que beneficie tanto a las personas como al planeta.",
+    "de": "Shambani Pro ist ein bahnbrechendes soziales Unternehmen in Kenia, das sich auf die Reduzierung von Nachernteverlusten für Kleinbauern konzentriert. Durch den Aufbau eines Netzwerks von Kleinstbetrieben wandeln wir überschüssige Produkte in hochwertige Wertschöpfungsprodukte um, steigern die Einkommen der Landwirte und tragen zur Nahrungsmittelsicherheit bei. Unser innovatives Modell adressiert Marktineffizienzen, fördert nachhaltige Praktiken und zielt darauf ab, lokale Gemeinschaften zu stärken, während die Auswirkungen auf die Umwelt minimiert werden. We are committed to creating a resilient food system that benefits both people and the planet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Shambani Pro",
+  "name": {
+    "id": "Shambani Pro",
+    "en": "Shambani Pro",
+    "fr": "Shambani Pro",
+    "es": "Shambani Pro",
+    "de": "Shambani Pro"
+  },
   "pubId": 474152,
   "score": -18.15499701221838,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

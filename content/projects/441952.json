@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739463496,
   "date": null,
-  "description": "Nutribanana focuses on transforming discarded bananas into value-added products, spearheaded by a community of women who are victims of armed conflict. Originating from a small clay oven project initiated by a displaced mother, the venture has evolved over the years into a more sophisticated operation that produces dehydrated fruits, banana chips, and other banana-based products. The initiative emphasizes sustainability by utilizing biodegradable packaging and minimizing waste through composting techniques. It aims to empower local women by providing employment opportunities and fostering entrepreneurial skills, while also seeking to expand its market reach beyond the local community.",
+  "description": {
+    "en": "Nutribanana focuses on the transformation of discarded plantains into value-added products, led by a community of women victims of the armed conflict. From a small mud oven project started by a displaced mother, the enterprise has evolved over the years into a more sophisticated operation that produces dehydrated fruits, plantain chips and other plantain-based products. The initiative emphasizes sustainability by using biodegradable packaging and minimizing waste through composting techniques. It aims to empower local women by providing them with employment opportunities and fostering their entrepreneurial skills, while seeking to expand its market reach beyond the local community.",
+    "fr": "Nutribanana se concentre sur la transformation des bananes jetées en produits à valeur ajoutée, sous la direction d'une communauté de femmes victimes du conflit armé. D'un petit projet de four en argile lancé par une mère déplacée, l'entreprise a évolué au fil des ans pour devenir une opération plus sophistiquée qui produit des fruits déshydratés, des chips de plantain et d'autres produits à base de plantain. L'initiative met l'accent sur la durabilité en utilisant des emballages biodégradables et en minimisant les déchets grâce à des techniques de compostage. Elle vise à autonomiser les femmes locales en leur offrant des possibilités d'emploi et en encourageant leurs compétences entrepreneuriales, tout en cherchant à étendre son marché au-delà de la communauté locale.",
+    "es": "Nutribanana se centra en la transformación de plátanos desechados en productos de valor añadido, liderada por una comunidad de mujeres víctimas del conflicto armado. A partir de un pequeño proyecto de horno de barro iniciado por una madre desplazada, la empresa ha evolucionado a lo largo de los años hasta convertirse en una operación más sofisticada que produce frutas deshidratadas, chips de plátano y otros productos a base de plátano. La iniciativa hace hincapié en la sostenibilidad utilizando envases biodegradables y minimizando los residuos mediante técnicas de compostaje. Su objetivo es empoderar a las mujeres locales ofreciéndoles oportunidades de empleo y fomentando sus habilidades empresariales, al tiempo que intenta ampliar su alcance en el mercado más allá de la comunidad local.",
+    "de": "Nutribanana konzentriert sich auf die Verarbeitung von ausrangierten Bananen zu wertvollen Produkten, die von einer Gemeinschaft von Frauen, die Opfer von bewaffneten Konflikten sind, hergestellt werden. Originating from a small clay oven project initiated by a displaced mother, the venture has evolved over the years into a more sophisticated operation that produces dehydrated fruits, banana chips, and other banana-based products. Die Initiative betont die Nachhaltigkeit durch die Verwendung von biologisch abbaubaren Verpackungen und die Minimierung von Abfällen durch Kompostierungstechniken. Sie zielt darauf ab, lokale Frauen durch die Bereitstellung von Beschäftigungsmöglichkeiten und die Förderung unternehmerischer Fähigkeiten zu stärken, während sie gleichzeitig versucht, ihre Marktreichweite über die lokale Gemeinde hinaus zu erweitern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nutribanana",
+  "name": {
+    "id": "Nutribanana",
+    "en": "Nutribanana",
+    "fr": "Nutribanana",
+    "es": "Nutribanana",
+    "de": "Nutribanana"
+  },
   "pubId": 441952,
   "score": 143.70196078431445,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://www.instagram.com/nutribananadeuraba/?hl=es",
   "yt": "MRf0CRnm5l0",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

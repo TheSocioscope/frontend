@@ -14,7 +14,12 @@
   "date": [
     "2021-05-14"
   ],
-  "description": "La relocalisation des approvisionnements, l’une des tendances actuelles du système alimentaire, conduit à des questionnements inédits sur les exploitations agricoles concernées. De nouvelles modalités de mobilisation du foncier visent à développer les circuits de proximité, en favorisant l’accès à la terre et l’installation d’agriculteurs hors cadre familial. Le mouvement Terre de Liens et des collectivités territoriales inventent ainsi des modes de gestion alternatifs, limitant souvent les droits des exploitants. Cette note présente les principaux résultats d’une thèse de géographie consacrée à ces dynamiques.",
+  "description": {
+    "fr": "La relocalisation des approvisionnements, l’une des tendances actuelles du système alimentaire, conduit à des questionnements inédits sur les exploitations agricoles concernées. De nouvelles modalités de mobilisation du foncier visent à développer les circuits de proximité, en favorisant l’accès à la terre et l’installation d’agriculteurs hors cadre familial. Le mouvement Terre de Liens et des collectivités territoriales inventent ainsi des modes de gestion alternatifs, limitant souvent les droits des exploitants. Cette note présente les principaux résultats d’une thèse de géographie consacrée à ces dynamiques.",
+    "en": "The relocalization of supplies, one of the current trends in the food system, is leading to new questions about the farms concerned. New ways of mobilizing land are aimed at developing local supply chains, by promoting access to land and the installation of farmers outside the family. The Terre de Liens movement and local authorities are inventing alternative management methods, often limiting farmers' rights. This note presents the main findings of a geography thesis devoted to these dynamics.",
+    "es": "La deslocalización de los abastecimientos, una de las tendencias actuales del sistema alimentario, plantea nuevos interrogantes sobre las explotaciones implicadas. Nuevas formas de movilización de la tierra pretenden desarrollar cadenas locales de abastecimiento, favoreciendo el acceso a la tierra y la instalación de agricultores ajenos a la familia. El movimiento Terre de Liens y las autoridades locales están inventando métodos de gestión alternativos, que a menudo limitan los derechos de los agricultores. Esta nota presenta las principales conclusiones de una tesis de geografía dedicada a estas dinámicas.",
+    "de": "Die Verlagerung der Versorgung an einen anderen Ort, einer der aktuellen Trends im Lebensmittelsystem, führt zu neuen Fragestellungen in Bezug auf die betroffenen landwirtschaftlichen Betriebe. Neue Modalitäten der Landmobilisierung zielen auf die Entwicklung von Nahversorgungskreisläufen ab, indem sie den Zugang zu Land und die Niederlassung von Landwirten außerhalb des Familienkreises fördern. Die Bewegung Terre de Liens und Gebietskörperschaften erfinden daher alternative Bewirtschaftungsformen, die häufig die Rechte der Landwirte einschränken. Dieser Beitrag stellt die wichtigsten Ergebnisse einer Geographie-Dissertation vor, die sich mit diesen Dynamiken befasst."
+  },
   "field": [
     "economics-statistics",
     "geography",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Terres agricoles et relocalisation alimentaire : des formes nouvelles de propriété et d'accès au foncier",
+  "name": {
+    "fr": "Terres agricoles et relocalisation alimentaire : des formes nouvelles de propriété et d'accès au foncier",
+    "en": "Agricultural land and food relocation: new forms of land ownership and access",
+    "es": "Deslocalización de tierras agrícolas y alimentos: nuevas formas de propiedad y acceso a la tierra",
+    "de": "Agrarland und die Relokalisierung von Lebensmitteln: Neue Formen des Eigentums und des Zugangs zu Land"
+  },
   "pubId": 410552,
   "score": 667.3222222222363,
   "state": "completed-project",
@@ -46,28 +56,5 @@
   ],
   "url": "https://agriculture.gouv.fr/terres-agricoles-et-relocalisation-alimentaire-des-formes-nouvelles-de-propriete-et-dacces-au",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1662802046,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1662802046,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

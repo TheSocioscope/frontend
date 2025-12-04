@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754656554,
   "date": null,
-  "description": "ArtLunch Food is a pioneering catering initiative founded in 2002 in Armenia. Starting with a $100 investment from selling a wedding ring, they grew to become the largest canteen chain in Armenia, expanding internationally, with over 70 branches and expansions into Russia, the USA, and Kazakhstan. Key milestones included securing government grants and winning tenders with major companies. The initiative emphasizes fresh, diverse menus and has adapted to market demands, including a focus on healthy eating and eco-friendly practices.",
+  "description": {
+    "en": "ArtLunch Food is a pioneering catering initiative founded in 2002 in Armenia. Starting with a $100 investment from selling a wedding ring, they grew to become the largest canteen chain in Armenia, expanding internationally, with over 70 branches and expansions into Russia, the USA, and Kazakhstan. Key milestones included securing government grants and winning tenders with major companies. The initiative emphasizes fresh, diverse menus and has adapted to market demands, including a focus on healthy eating and eco-friendly practices.",
+    "fr": "ArtLunch Food est une initiative pionnière de restauration fondée en 2002 en Arménie. À partir d'un investissement de 100 dollars provenant de la vente d'une alliance, l'entreprise est devenue la plus grande chaîne de cantines d'Arménie et s'est développée à l'échelle internationale, avec plus de 70 succursales et des expansions en Russie, aux États-Unis et au Kazakhstan. Parmi les étapes clés, citons l'obtention de subventions gouvernementales et l'obtention d'appels d'offres auprès de grandes entreprises. L'initiative met l'accent sur des menus frais et variés et s'est adaptée aux demandes du marché, notamment en mettant l'accent sur une alimentation saine et des pratiques respectueuses de l'environnement.",
+    "es": "ArtLunch Food es una iniciativa pionera de restauración fundada en 2002 en Armenia. Empezaron con una inversión de 100 dólares procedentes de la venta de un anillo de boda y crecieron hasta convertirse en la mayor cadena de comedores de Armenia, con expansión internacional, más de 70 sucursales y ampliaciones a Rusia, Estados Unidos y Kazajstán. Entre sus principales hitos figuran la obtención de subvenciones públicas y la adjudicación de licitaciones a grandes empresas. La iniciativa hace hincapié en menús frescos y variados y se ha adaptado a las demandas del mercado, incluyendo un enfoque en la alimentación sana y las prácticas ecológicas.",
+    "de": "ArtLunch Food ist eine bahnbrechende Catering-Initiative, die im Jahr 2002 in Armenien gegründet wurde. Ausgehend von einer Investition in Höhe von 100 Dollar aus dem Verkauf eines Eherings entwickelte sich das Unternehmen zur größten Kantinenkette in Armenien und expandierte international mit über 70 Filialen und Expansionen nach Russland, in die USA und nach Kasachstan. Zu den wichtigsten Meilensteinen gehörten die Sicherung staatlicher Zuschüsse und der Gewinn von Ausschreibungen mit großen Unternehmen. Die Initiative legt Wert auf frische, abwechslungsreiche Menüs und hat sich an die Anforderungen des Marktes angepasst, einschließlich einer Konzentration auf gesunde Ernährung und umweltfreundliche Praktiken."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "ArtLunch Food",
+  "name": {
+    "en": "ArtLunch Food",
+    "fr": "ArtLunch Food",
+    "es": "ArteAlmuerzo Comida",
+    "de": "KunstLunch Essen"
+  },
   "pubId": 479852,
   "score": -44.495912361627965,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    0
-  ]
+  "originalLang": "en"
 }

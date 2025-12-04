@@ -13,13 +13,24 @@
   ],
   "createdAt": 1718288273,
   "date": null,
-  "description": "AMACA is an organization that creates agricultural projects on rented land, involving around 200 farmers across areas ranging from 500 to 5,000 hectares. These projects, with an investment of approximately 1 million USD, are funded through private, public, and credit investments. A key aspect of their projects is selling products before planting them, which ensures market demand and reduces losses. Through staggered planting schedules and technical assistance, AMACA guarantees the quality, quantity, price, and sustainability of crops, benefiting both farmers and the overall food supply while reducing hunger.",
+  "description": {
+    "en": "AMACA is an organization that creates agricultural projects on leased land, involving some 200 farmers in areas ranging from 500 to 5,000 hectares. These projects, with an investment of approximately US$1 million, are financed through private, public and credit investments. A key aspect of their projects is the sale of produce before planting, which ensures market demand and reduces losses. Through staggered planting schedules and technical assistance, AMACA ensures crop quality, quantity, price and sustainability, benefiting both farmers and the overall food supply, while reducing hunger.",
+    "fr": "AMACA est une organisation qui crée des projets agricoles sur des terres louées, impliquant quelque 200 agriculteurs sur des surfaces allant de 500 à 5 000 hectares. Ces projets, qui représentent un investissement d'environ 1 million de dollars, sont financés par des investissements privés, publics et de crédit. L'un des aspects essentiels de ces projets est la vente des produits avant la plantation, ce qui garantit la demande du marché et réduit les pertes. Grâce à des calendriers de plantation échelonnés et à une assistance technique, AMACA garantit la qualité, la quantité, le prix et la durabilité des récoltes, ce qui profite à la fois aux agriculteurs et à l'ensemble de l'approvisionnement alimentaire, tout en réduisant la faim.",
+    "es": "AMACA es una organización que crea proyectos agrícolas en tierras arrendadas, en los que participan unos 200 agricultores en superficies que oscilan entre 500 y 5.000 hectáreas. Estos proyectos, con una inversión aproximada de 1 millón de USD, se financian mediante inversiones privadas, públicas y crediticias. Un aspecto clave de sus proyectos es la venta de los productos antes de plantarlos, lo que garantiza la demanda del mercado y reduce las pérdidas. Mediante calendarios de siembra escalonados y asistencia técnica, AMACA garantiza la calidad, cantidad, precio y sostenibilidad de las cosechas, lo que beneficia tanto a los agricultores como al suministro general de alimentos, al tiempo que reduce el hambre.",
+    "de": "AMACA ist eine Organisation, die landwirtschaftliche Projekte auf gepachtetem Land entwickelt, an denen rund 200 Landwirte in Gebieten zwischen 500 und 5.000 Hektar beteiligt sind. Diese Projekte mit einer Investition von etwa 1 Million USD werden durch private, öffentliche und Kreditinvestitionen finanziert. Ein wichtiger Aspekt ihrer Projekte ist der Verkauf der Produkte vor der Anpflanzung, wodurch die Marktnachfrage gesichert und Verluste verringert werden. Through staggered planting schedules and technical assistance, AMACA guarantees the quality, quantity, price, and sustainability of crops, benefiting both farmers and the overall food supply while reducing hunger."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Amaca Grande SAS",
+  "name": {
+    "pt": "Amaca Grande SAS",
+    "en": "Amaca Grande SAS",
+    "fr": "Amaca Grande SAS",
+    "es": "Amaca Grande SAS",
+    "de": "Amaca Grande SAS"
+  },
   "pubId": 444152,
   "score": 337.4000000000031,
   "state": "ongoing-project",
@@ -42,10 +53,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1718288386,
   "feedback": [
     {
@@ -53,11 +60,8 @@
       "at": 1718288386
     }
   ],
-  "lastEvent": {
-    "at": 1718288386,
-    "by": "contact"
-  },
   "updatedAt": [
     1718288386
-  ]
+  ],
+  "originalLang": "fr"
 }

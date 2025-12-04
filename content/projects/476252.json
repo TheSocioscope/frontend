@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754647383,
   "date": null,
-  "description": "Rural Link AI is an innovative initiative designed to support small-scale farmers in Africa by providing them with accessible agricultural information via SMS. Recognizing the challenges faced by farmers in rural areas, the project enables users to access vital resources, such as weather updates and supplier information, without needing smartphones or internet connectivity. With over 10,000 farmers currently engaged, Rural Link AI aims to enhance agricultural productivity and connect farmers with essential services.",
+  "description": {
+    "en": "Rural Link AI is an innovative initiative designed to help smallholder farmers in Africa by providing them with SMS-accessible agricultural information. Recognizing the challenges faced by farmers in rural areas, the project enables users to access vital resources, such as weather updates and supplier information, without the need for smartphones or an internet connection. With over 10,000 farmers, Rural Link AI aims to improve agricultural productivity and connect farmers to essential services.",
+    "fr": "Rural Link AI est une initiative innovante conçue pour aider les petits exploitants agricoles en Afrique en leur fournissant des informations agricoles accessibles par SMS. Conscient des difficultés rencontrées par les agriculteurs dans les zones rurales, le projet permet aux utilisateurs d'accéder à des ressources vitales, telles que des mises à jour météorologiques et des informations sur les fournisseurs, sans avoir besoin d'un smartphone ou d'une connexion à l'internet. Avec plus de 10 000 agriculteurs, Rural Link AI vise à améliorer la productivité agricole et à connecter les agriculteurs aux services essentiels.",
+    "es": "Rural Link AI es una iniciativa innovadora concebida para ayudar a los pequeños agricultores africanos proporcionándoles información agrícola accesible por SMS. Reconociendo los retos a los que se enfrentan los agricultores de las zonas rurales, el proyecto permite a los usuarios acceder a recursos vitales, como actualizaciones meteorológicas e información sobre proveedores, sin necesidad de teléfonos inteligentes ni conexión a Internet. Con más de 10.000 agricultores, Rural Link AI pretende mejorar la productividad agrícola y conectar a los agricultores con los servicios esenciales.",
+    "de": "Rural Link AI ist eine innovative Initiative, die Kleinbauern in Afrika unterstützen soll, indem sie ihnen über SMS zugängliche landwirtschaftliche Informationen zur Verfügung stellt. Das Projekt erkennt die Herausforderungen, mit denen Landwirte in ländlichen Gebieten konfrontiert sind, und ermöglicht es Nutzern, auf wichtige Ressourcen wie Wettervorhersagen und Lieferanteninformationen zuzugreifen, ohne Smartphones oder Internetverbindung zu benötigen. Mit über 10.000 derzeit engagierten Landwirten zielt Rural Link AI darauf ab, die landwirtschaftliche Produktivität zu steigern und die Landwirte mit wichtigen Dienstleistungen zu verbinden."
+  },
   "field": [
     "nutrition",
     "information-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Rural Link AI",
+  "name": {
+    "en": "Rural Link AI",
+    "fr": "Rural Link AI",
+    "es": "Enlace rural AI",
+    "de": "Rural Link AI"
+  },
   "pubId": 476252,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

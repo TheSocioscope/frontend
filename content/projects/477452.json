@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754649382,
   "date": null,
-  "description": "Kefir Kenya began as a personal health journey to combat stomach issues through kefir grains. The initiative aims to educate communities about the importance of good bacteria for gut health, encouraging the cultivation and use of kefir in households. The initiative operates primarily as a family business, promoting kefir through collaboration with local communities, nutritionists, and hotels. By providing training and resources, Kefir Kenya seeks to improve nutrition and health, fostering sustainable practices within the food system.",
+  "description": {
+    "en": "Kefir Kenya began as a personal health journey to combat stomach issues through kefir grains. The initiative aims to educate communities about the importance of good bacteria for gut health, encouraging the cultivation and use of kefir in households. The initiative operates primarily as a family business, promoting kefir through collaboration with local communities, nutritionists, and hotels. By providing training and resources, Kefir Kenya seeks to improve nutrition and health, fostering sustainable practices within the food system.",
+    "fr": "Kefir Kenya est né d'une démarche personnelle visant à combattre les problèmes d'estomac grâce aux grains de kéfir. L'initiative vise à sensibiliser les communautés à l'importance des bonnes bactéries pour la santé intestinale, en encourageant la culture et l'utilisation du kéfir dans les foyers. L'initiative fonctionne principalement comme une entreprise familiale, promouvant le kéfir en collaboration avec les communautés locales, les nutritionnistes et les hôtels. En proposant des formations et des ressources, Kefir Kenya cherche à améliorer la nutrition et la santé, en encourageant des pratiques durables au sein du système alimentaire.",
+    "es": "Kefir Kenia comenzó como un viaje personal por la salud para combatir los problemas estomacales a través de los granos de kéfir. La iniciativa pretende educar a las comunidades sobre la importancia de las bacterias buenas para la salud intestinal, fomentando el cultivo y el uso del kéfir en los hogares. La iniciativa funciona principalmente como una empresa familiar, promoviendo el kéfir mediante la colaboración con las comunidades locales, nutricionistas y hoteles. Proporcionando formación y recursos, Kefir Kenya pretende mejorar la nutrición y la salud, fomentando prácticas sostenibles dentro del sistema alimentario.",
+    "de": "Kefir Kenia begann als eine persönliche Gesundheitsreise zur Bekämpfung von Magenproblemen durch Kefirkörner. Ziel der Initiative ist es, die Gemeinden über die Bedeutung guter Bakterien für die Darmgesundheit aufzuklären und den Anbau und die Verwendung von Kefir in den Haushalten zu fördern. Die Initiative arbeitet in erster Linie als Familienunternehmen und fördert Kefir durch die Zusammenarbeit mit lokalen Gemeinschaften, Ernährungsberatern und Hotels. Durch die Bereitstellung von Schulungen und Ressourcen versucht Kefir Kenia, die Ernährung und Gesundheit zu verbessern und nachhaltige Praktiken innerhalb des Lebensmittelsystems zu fördern."
+  },
   "field": [
     "nutrition",
     "medicine"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kefir Kenya",
+  "name": {
+    "id": "Kefir Kenya",
+    "en": "Kenyan Kefir",
+    "fr": "Kéfir kenyan",
+    "es": "Kéfir de Kenia",
+    "de": "Kenia-Kefir"
+  },
   "pubId": 477452,
   "score": 45.61653192541292,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "id"
 }

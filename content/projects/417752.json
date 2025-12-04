@@ -14,13 +14,23 @@
   "date": [
     "2030-01-01"
   ],
-  "description": "Le label Dijon agroécologie\nComment signifier au citoyen-consommateur qu’il achète et consomme un produit participant à la transition agricole et alimentaire du territoire ? Par le biais d’un label qui assurera que l’aliment estampillé a été produit ou créé en local par un agriculteur ou un industriel agroalimentaire vertueux, respectueux des sols, de l’eau et de biodiversité avec une faible empreinte Carbone et garantissant une juste rémunération de tous les acteurs de la filière. L’apposition de ce label aura pour objectif d’inciter les consommateurs à modifier leurs habitudes alimentaires en optant pour des produits qui sont bons pour la santé, pour l’environnement et pour l’économie du territoire, autrement dit qui cochent toutes les cases d’une alimentation saine et durable. Une application aidera à mieux identifier ces produits dans le commerce.",
+  "description": {
+    "fr": "Le label Dijon agroécologie\nComment signifier au citoyen-consommateur qu’il achète et consomme un produit participant à la transition agricole et alimentaire du territoire ? Par le biais d’un label qui assurera que l’aliment estampillé a été produit ou créé en local par un agriculteur ou un industriel agroalimentaire vertueux, respectueux des sols, de l’eau et de biodiversité avec une faible empreinte Carbone et garantissant une juste rémunération de tous les acteurs de la filière. L’apposition de ce label aura pour objectif d’inciter les consommateurs à modifier leurs habitudes alimentaires en optant pour des produits qui sont bons pour la santé, pour l’environnement et pour l’économie du territoire, autrement dit qui cochent toutes les cases d’une alimentation saine et durable. Une application aidera à mieux identifier ces produits dans le commerce.",
+    "en": "The Dijon agroecology label\nHow can we show consumers that they are buying and consuming a product that contributes to the region's agricultural and food transition? By means of a label guaranteeing that the foodstuff bearing the Dijon label has been produced or created locally by a virtuous farmer or agri-food manufacturer, respectful of soil, water and biodiversity, with a low carbon footprint and guaranteeing fair remuneration for all players in the chain. The aim of this label is to encourage consumers to change their eating habits and opt for products that are good for their health, the environment and the local economy - in other words, that tick all the boxes for healthy, sustainable food. An application will help to better identify these products in the shops.",
+    "es": "La etiqueta agroecológica de Dijon\n¿Cómo mostrar a los consumidores que compran y consumen un producto que forma parte de la transición agrícola y alimentaria de la región? Mediante una etiqueta que garantice que los alimentos que la llevan han sido producidos o creados localmente por un agricultor o una industria agroalimentaria virtuosos que respetan el suelo, el agua y la biodiversidad, tienen una baja huella de carbono y garantizan una remuneración justa a todos los que intervienen en la cadena. El objetivo de la etiqueta es animar a los consumidores a cambiar sus hábitos alimentarios y optar por productos buenos para la salud, el medio ambiente y la economía local, es decir, que cumplan todos los requisitos de una alimentación sana y sostenible. Una aplicación facilitará la identificación de estos productos en las tiendas.",
+    "de": "Das Label Dijon Agroökologie\nWie kann man dem Bürger-Verbraucher signalisieren, dass er ein Produkt kauft und konsumiert, das an der Umstellung der Landwirtschaft und der Ernährung in der Region teilnimmt? Mithilfe eines Labels, das sicherstellt, dass das gestempelte Lebensmittel lokal von einem Landwirt oder einem Lebensmittelhersteller produziert oder hergestellt wurde, der die Böden, das Wasser und die Biodiversität respektiert, einen geringen CO2-Fußabdruck hat und eine gerechte Entlohnung aller Akteure der Kette garantiert. Mit diesem Siegel sollen die Verbraucher dazu angeregt werden, ihre Ernährungsgewohnheiten zu ändern und Produkte zu wählen, die gut für die Gesundheit, die Umwelt und die Wirtschaft der Region sind, d. h. die alle Kriterien für eine gesunde und nachhaltige Ernährung erfüllen. Eine App wird dabei helfen, diese Produkte im Handel besser zu erkennen."
+  },
   "field": [
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Label Dijon agroécologie",
+  "name": {
+    "fr": "Label Dijon agroécologie",
+    "en": "Dijon agroecology label",
+    "es": "Etiqueta agroecológica de Dijon",
+    "de": "Label Dijon Agrarökologie"
+  },
   "pubId": 417752,
   "score": 590.3842105263122,
   "state": "ongoing-project",
@@ -46,28 +56,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495376,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495376,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754425082,
   "date": null,
-  "description": "The project aims to utilize waste from the brewing industry to cultivate edible mushrooms, promoting sustainability and reducing waste. Micelio Bio, a company formed by a group of researchers and business professionals, seeks to apply fungal biotechnology to food production. They emphasize the importance of education and community involvement, offering training and self-cultivation kits to encourage local production.                                                                                 ",
+  "description": {
+    "en": "The project aims to take advantage of waste from the brewing industry to cultivate edible mushrooms, promoting sustainability and reducing waste. Micelio Bio, a company formed by a group of researchers and business professionals, aims to apply fungal biotechnology to food production. They emphasize the importance of education and community involvement, offering training and self-cultivation kits to encourage local production.                                                                                 ",
+    "fr": "Le projet vise à utiliser les déchets de l'industrie brassicole pour cultiver des champignons comestibles, afin de promouvoir la durabilité et de réduire les déchets. Micelio Bio, une entreprise formée par un groupe de chercheurs et de professionnels, vise à appliquer la biotechnologie fongique à la production alimentaire. Elle met l'accent sur l'importance de l'éducation et de l'implication de la communauté, en proposant des formations et des kits d'autoculture pour encourager la production locale.                                                                                 ",
+    "es": "El proyecto pretende aprovechar los residuos de la industria cervecera para cultivar hongos comestibles, fomentando la sostenibilidad y reduciendo los residuos. Micelio Bio, empresa formada por un grupo de investigadores y profesionales del mundo empresarial, pretende aplicar la biotecnología fúngica a la producción de alimentos. Hacen hincapié en la importancia de la educación y la participación de la comunidad, ofreciendo formación y kits de autocultivo para fomentar la producción local.                                                                                 ",
+    "de": "Das Projekt zielt darauf ab, Abfälle aus der Brauindustrie für den Anbau essbarer Mushrooms zu nutzen, um so die Nachhaltigkeit zu fördern und Abfall zu reduzieren. Micelio Bio, ein von einer Gruppe von Forschern und Geschäftsleuten gegründetes Unternehmen, strebt die Anwendung der Pilzbiotechnologie in der Lebensmittelproduktion an. Sie betonen die Bedeutung von Bildung und kommunaler Beteiligung und bieten Schulungen und Selbstzuchtsets an, um die lokale Produktion zu fördern.                                                                                 "
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Micelio Bio",
+  "name": {
+    "it": "Micelio Bio",
+    "en": "Mycelium Bio",
+    "fr": "Mycelium Bio",
+    "es": "Micelio Bio",
+    "de": "Mycelium Bio"
+  },
   "pubId": 463652,
   "score": 7.8700461412351315,
   "state": "ongoing-project",
@@ -41,10 +52,6 @@
   ],
   "url": "",
   "yt": "-cKld5-diT8",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1755739793,
   "feedback": [
     {
@@ -52,11 +59,8 @@
       "at": 1755739793
     }
   ],
-  "lastEvent": {
-    "at": 1755739793,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739793
-  ]
+  ],
+  "originalLang": "fr"
 }

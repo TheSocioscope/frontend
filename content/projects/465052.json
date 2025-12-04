@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754475214,
   "date": null,
-  "description": "Finca Luna Nueva is an agro-ecological farm and tourism destination in Costa Rica, combining sustainable agriculture with ecotourism. Established in the early 2000s, it produces a diverse range of foods and spices, supplying around 70% of its restaurant's needs. The initiative emphasizes land stewardship and regenerative practices, aiming to educate visitors about sustainable farming. With a focus on community engagement and high employee retention, it seeks to balance economic viability with environmental responsibility.",
+  "description": {
+    "en": "Finca Luna Nueva is an agroecological farm and tourist destination in Costa Rica, combining sustainable agriculture with ecotourism. Founded in the early 2000s, it produces a wide range of foods and spices that cover about 70% of its restaurant needs. The initiative emphasizes land management and regenerative practices, with the goal of educating visitors about sustainable agriculture. Focused on community engagement and high employee retention, it seeks to balance economic viability with environmental responsibility.",
+    "fr": "Finca Luna Nueva est une ferme agro-écologique et une destination touristique au Costa Rica, qui combine l'agriculture durable et l'écotourisme. Fondée au début des années 2000, elle produit une large gamme d'aliments et d'épices qui couvrent environ 70 % des besoins de ses restaurants. L'initiative met l'accent sur la gestion des terres et les pratiques de régénération, dans le but d'éduquer les visiteurs à l'agriculture durable. Axée sur l'engagement communautaire et la fidélisation du personnel, elle cherche à concilier viabilité économique et responsabilité environnementale.",
+    "es": "Finca Luna Nueva es una granja agroecológica y destino turístico en Costa Rica, que combina la agricultura sostenible con el ecoturismo. Fundada a principios de la década de 2000, produce una amplia gama de alimentos y especias que cubren alrededor del 70% de las necesidades de su restaurante. La iniciativa hace hincapié en la gestión de la tierra y las prácticas regenerativas, con el objetivo de educar a los visitantes sobre la agricultura sostenible. Centrada en el compromiso con la comunidad y la alta retención de empleados, busca equilibrar la viabilidad económica con la responsabilidad medioambiental.",
+    "de": "Die Finca Luna Nueva ist ein agrarökologischer Bauernhof und Tourismusziel in Costa Rica, das nachhaltige Landwirtschaft mit Ökotourismus verbindet. Das in den frühen 2000er Jahren gegründete Unternehmen produziert eine Vielzahl von Lebensmitteln und Gewürzen und deckt damit rund 70% des Bedarfs seines Restaurants. Die Initiative betont die Landbewirtschaftung und regenerative Praktiken, um Besucher über nachhaltige Landwirtschaft aufzuklären. Mit einem Schwerpunkt auf kommunalem Engagement und hoher Mitarbeiterbindung versucht sie, wirtschaftliche Nachhaltigkeit mit ökologischer Verantwortung in Einklang zu bringen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca Luna Nueva",
+  "name": {
+    "es": "Finca Luna Nueva",
+    "en": "Luna Nueva Farm",
+    "fr": "Finca Luna Nueva",
+    "de": "Finca Luna Nueva"
+  },
   "pubId": 465052,
   "score": 55.77845588487105,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "LHgMtlYWIjw",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1755739225,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755739225
     }
   ],
-  "lastEvent": {
-    "at": 1755739225,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739225
-  ]
+  ],
+  "originalLang": "fr"
 }

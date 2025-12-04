@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754429048,
   "date": null,
-  "description": "The initiative, Foodshare Copenhagen, aims to combat food waste by redistributing surplus food to individuals and families in need. Founded in 2018, it operates through volunteer efforts, collecting food from supermarkets and bakeries, and distributing it at community events. The organization fosters a sense of community among environmentalists and promotes sustainability, encouraging participants to share food rather than waste it. Its mission emphasizes education and collaboration to create a more sustainable food system.",
+  "description": {
+    "en": "The initiative, Foodshare Copenhagen, aims to combat food waste by redistributing surplus food to individuals and families in need. Founded in 2018, it operates through volunteer efforts, collecting food from supermarkets and bakeries, and distributing it at community events. The organization fosters a sense of community among environmentalists and promotes sustainability by encouraging participants to share food rather than waste it. Its mission emphasizes education and collaboration to create a more sustainable food system.",
+    "fr": "L'initiative, Foodshare Copenhagen, vise à lutter contre le gaspillage alimentaire en redistribuant les surplus de nourriture aux individus et aux familles dans le besoin. Fondée en 2018, elle fonctionne grâce à des efforts bénévoles, en collectant des aliments dans les supermarchés et les boulangeries, et en les distribuant lors d'événements communautaires. L'organisation favorise un sentiment de communauté parmi les écologistes et promeut la durabilité en encourageant les participants à partager la nourriture plutôt que de la gaspiller. Sa mission met l'accent sur l'éducation et la collaboration pour créer un système alimentaire plus durable.",
+    "es": "La iniciativa, Foodshare Copenhague, tiene como objetivo combatir el desperdicio de alimentos mediante la redistribución de los excedentes de alimentos a personas y familias necesitadas. Fundada en 2018, opera a través de esfuerzos voluntarios, recogiendo alimentos de supermercados y panaderías, y distribuyéndolos en eventos comunitarios. La organización fomenta un sentido de comunidad entre los ecologistas y promueve la sostenibilidad, alentando a los participantes a compartir alimentos en lugar de desperdiciarlos. Su misión hace hincapié en la educación y la colaboración para crear un sistema alimentario más sostenible.",
+    "de": "Die Initiative Foodshare Copenhagen will Lebensmittelabfälle bekämpfen, indem sie überschüssiges Essen an bedürftige Einzelpersonen und Familien weiterverteilt. Die 2018 gegründete Organisation arbeitet ehrenamtlich, sammelt Lebensmittel von Supermärkten und Bäckereien ein und verteilt sie bei Gemeinschaftsveranstaltungen. The organization fosters a sense of community among environmentalists and promotes sustainability, encouraging participants to share food rather than waste it. Its mission emphasis education and collaboration to create a more sustainable food system."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Food Sharing",
+  "name": {
+    "en": "Food Sharing",
+    "fr": "Food Sharing",
+    "es": "Compartir alimentos",
+    "de": "Food Sharing"
+  },
   "pubId": 464352,
   "score": -70.73482052837072,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "ZV2qZRSYuOY",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760065605,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1760065605
     }
   ],
-  "lastEvent": {
-    "at": 1760065605,
-    "by": "contact"
-  },
   "updatedAt": [
     1760065605
-  ]
+  ],
+  "originalLang": "fr"
 }

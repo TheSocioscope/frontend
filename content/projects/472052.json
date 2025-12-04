@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754676030,
   "date": null,
-  "description": "The Familia Torres winery, Bodegas Torres, is a renowned family-owned business with over 150 years of history, dedicated to producing and marketing wines across multiple countries. With a commitment to sustainability, the winery has implemented initiatives focused on regenerative agriculture and reducing its environmental footprint. The Torres family actively engages in research and collaboration with various institutions to enhance biodiversity and adapt to climate change, ensuring the legacy of quality wine production for future generations.",
+  "description": {
+    "en": "The Torres Family, Bodegas Torres, is a renowned family business with more than 150 years of history, dedicated to the production and marketing of wines in multiple countries. Committed to sustainability, the winery has launched initiatives focused on regenerative agriculture and the reduction of its environmental footprint. The Torres family is actively involved in research and collaboration with various institutions to improve biodiversity and adapt to climate change, ensuring the legacy of quality wine production for future generations.",
+    "fr": "La famille Torres, Bodegas Torres, est une entreprise familiale renommée qui a plus de 150 ans d'histoire et qui se consacre à la production et à la commercialisation de vins dans de nombreux pays. Engagée dans le développement durable, la cave a lancé des initiatives axées sur l'agriculture régénératrice et la réduction de son empreinte environnementale. La famille Torres est activement impliquée dans la recherche et la collaboration avec diverses institutions afin d'améliorer la biodiversité et de s'adapter au changement climatique, garantissant ainsi l'héritage d'une production de vin de qualité pour les générations futures.",
+    "es": "La Familia Torres, Bodegas Torres, es una reconocida empresa familiar con más de 150 años de historia, dedicada a la producción y comercialización de vinos en múltiples países. Comprometida con la sostenibilidad, la bodega ha puesto en marcha iniciativas centradas en la agricultura regenerativa y la reducción de su huella medioambiental. La familia Torres participa activamente en la investigación y la colaboración con diversas instituciones para mejorar la biodiversidad y adaptarse al cambio climático, garantizando el legado de la producción de vino de calidad para las generaciones futuras.",
+    "de": "The Familia Torres winery, Bodegas Torres, is a renowned family-owned business with over 150 years of history, dedicated to producing and marketing wines across multiple countries. Mit einem Bekenntnis zur Nachhaltigkeit hat die Winery Initiativen eingeführt, die sich auf regenerative Landwirtschaft und die Verringerung der Umweltbelastung konzentrieren. Die Familie Torres engagiert sich aktiv in der Forschung und arbeitet mit verschiedenen Institutionen zusammen, um die Biodiversität zu erhöhen und sich an den Klimawandel anzupassen und so das Erbe der Qualitätsweinproduktion für zukünftige Generationen zu sichern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Familia Torres",
+  "name": {
+    "es": "Familia Torres",
+    "en": "Torres Family",
+    "fr": "Famille Torres",
+    "de": "Familie Torres"
+  },
   "pubId": 472052,
   "score": -174.1434896509338,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

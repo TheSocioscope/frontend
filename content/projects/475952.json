@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754579456,
   "date": null,
-  "description": "The initiative, led by Kapi Limited, focuses on enhancing food safety in Kenya through the development and distribution of biopesticides. By sourcing natural ingredients from local small-scale farmers, Kapi aims to provide effective, residue-free alternatives to synthetic chemicals. This approach not only supports local agriculture but also promotes safer food for consumers. The initiative emphasizes education and accessibility, ensuring that farmers can make informed choices for sustainable farming practices.",
+  "description": {
+    "en": "The initiative, led by Kapi Limited, focuses on improving food security in Kenya through the development and distribution of biopesticides. By sourcing natural ingredients from local smallholder farmers, Kapi aims to provide effective, residue-free alternatives to synthetic chemicals. This approach not only supports local agriculture, but also promotes safer food for consumers. The initiative emphasizes education and accessibility, ensuring that farmers can make informed choices about sustainable agricultural practices.",
+    "fr": "L'initiative, menée par Kapi Limited, vise à améliorer la sécurité alimentaire au Kenya grâce au développement et à la distribution de biopesticides. En s'approvisionnant en ingrédients naturels auprès de petits exploitants agricoles locaux, Kapi vise à fournir des alternatives efficaces et sans résidus aux produits chimiques synthétiques. Cette approche permet non seulement de soutenir l'agriculture locale, mais aussi de promouvoir des aliments plus sûrs pour les consommateurs. L'initiative met l'accent sur l'éducation et l'accessibilité, en veillant à ce que les agriculteurs puissent faire des choix éclairés en matière de pratiques agricoles durables.",
+    "es": "La iniciativa, dirigida por Kapi Limited, se centra en mejorar la seguridad alimentaria en Kenia mediante el desarrollo y la distribución de biopesticidas. Al abastecerse de ingredientes naturales procedentes de pequeños agricultores locales, Kapi pretende ofrecer alternativas eficaces y sin residuos a los productos químicos sintéticos. Este enfoque no sólo apoya la agricultura local, sino que también promueve alimentos más seguros para los consumidores. La iniciativa hace hincapié en la educación y la accesibilidad, garantizando que los agricultores puedan elegir con conocimiento de causa prácticas agrícolas sostenibles.",
+    "de": "Die von Kapi Limited geleitete Initiative konzentriert sich auf die Verbesserung der Lebensmittelsicherheit in Kenia durch die Entwicklung und den Vertrieb von Biopestiziden. Durch die Beschaffung natürlicher Inhaltsstoffe von lokalen Kleinbauern will Kapi effektive, residuenfreie Alternativen zu synthetischen Chemikalien bieten. Dieser Ansatz unterstützt nicht nur die lokale Landwirtschaft, sondern fördert auch sichere Lebensmittel für die Verbraucher. Die Initiative legt Wert auf Bildung und Zugänglichkeit und stellt sicher, dass die Landwirte informierte Entscheidungen für nachhaltige Anbaumethoden treffen können."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kapi Limited",
+  "name": {
+    "id": "Kapi Limited",
+    "en": "Kapi Limited",
+    "fr": "Kapi Limited",
+    "es": "Kapi Limited",
+    "de": "Kapi Limited"
+  },
   "pubId": 475952,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

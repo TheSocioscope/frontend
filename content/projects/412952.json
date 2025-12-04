@@ -12,14 +12,24 @@
   ],
   "createdAt": 1663540765,
   "date": null,
-  "description": "Le projet intitulé Vobsalim 34 consiste à monter un dispositif permettant d’organiser une concertation permanente entre divers acteurs de la solidarité alimentaire sur divers sujets critiques et sur la base d’un état des lieux actualisé des formes de solidarité.\nTrois objectifs principaux :\n- Cartographier les communes rurales et quartiers urbains à risque d'insécurité alimentaire sur la base de données statistiques disponibles en libre accès ;\n- fournir un état des lieux des solidarités alimentaires dans l’Hérault ;\n-  déterminer des conditions institutionnelles et organisationnelles pour la réalisation d’un observatoire pérenne. Le but étant de déterminer ces conditions afin d’actualiser cet état des lieux et d’en faire un outil non pas ponctuel mais vivant.",
+  "description": {
+    "fr": "Le projet intitulé Vobsalim 34 consiste à monter un dispositif permettant d’organiser une concertation permanente entre divers acteurs de la solidarité alimentaire sur divers sujets critiques et sur la base d’un état des lieux actualisé des formes de solidarité.\nTrois objectifs principaux :\n- Cartographier les communes rurales et quartiers urbains à risque d'insécurité alimentaire sur la base de données statistiques disponibles en libre accès ;\n- fournir un état des lieux des solidarités alimentaires dans l’Hérault ;\n-  déterminer des conditions institutionnelles et organisationnelles pour la réalisation d’un observatoire pérenne. Le but étant de déterminer ces conditions afin d’actualiser cet état des lieux et d’en faire un outil non pas ponctuel mais vivant.",
+    "en": "The Vobsalim 34 project consists of setting up a mechanism to organize ongoing dialogue between the various players involved in food solidarity on a range of critical issues, based on an up-to-date inventory of the various forms of solidarity.\nThree main objectives:\n- Map rural communities and urban neighborhoods at risk of food insecurity, based on freely available statistical data;\n- provide an overview of food solidarity in the Hérault region;\n- determine the institutional and organizational conditions required to set up a permanent observatory. The aim is to determine these conditions in order to update this inventory and make it a living tool rather than a one-off event.",
+    "es": "El objetivo del proyecto Vobsalim 34 es establecer un mecanismo de concertación permanente entre los distintos agentes de la solidaridad alimentaria sobre una serie de cuestiones críticas, a partir de un inventario actualizado de las distintas formas de solidaridad.\nHay tres objetivos principales:\n- Cartografiar las comunidades rurales y los barrios urbanos en riesgo de inseguridad alimentaria a partir de datos estadísticos de libre acceso;\n- Proporcionar una visión general de la solidaridad alimentaria en la región de Hérault;\n- Determinar las condiciones institucionales y organizativas para la creación de un observatorio permanente. El objetivo es determinar estas condiciones para actualizar este inventario y convertirlo en una herramienta viva y no en un acontecimiento puntual.",
+    "de": "Das Projekt mit dem Titel Vobsalim 34 besteht darin, ein System aufzubauen, das eine ständige Abstimmung zwischen verschiedenen Akteuren der Nahrungsmittelsolidarität zu verschiedenen kritischen Themen und auf der Grundlage einer aktualisierten Bestandsaufnahme der Formen der Solidarität ermöglicht.\nDrei Hauptziele:\n- Kartierung der ländlichen Gemeinden und städtischen Viertel, die von Ernährungsunsicherheit bedroht sind, auf der Grundlage frei zugänglicher statistischer Daten ;\n- Eine Bestandsaufnahme der Ernährungssolidaritäten im Departement Hérault liefern ;\n- institutionelle und organisatorische Bedingungen für die Einrichtung einer dauerhaften Beobachtungsstelle zu bestimmen. Ziel ist es, diese Bedingungen zu bestimmen, um diese Bestandsaufnahme zu aktualisieren und sie nicht zu einem einmaligen, sondern zu einem lebendigen Instrument zu machen."
+  },
   "field": [
     "economics-statistics",
     "geography"
   ],
   "lang": "fr",
   "location": "Hérault",
-  "name": "Vers un Observatoire des Solidarités Alimentaires dans l'Hérault (Vobsalim)",
+  "name": {
+    "fr": "Vers un Observatoire des Solidarités Alimentaires dans l'Hérault (Vobsalim)",
+    "en": "Towards an Observatory of Food Solidarity in Hérault (Vobsalim)",
+    "es": "Hacia un Observatorio de la Solidaridad Alimentaria en Hérault (Vobsalim)",
+    "de": "Auf dem Weg zu einer Beobachtungsstelle für Nahrungsmittelsolidarität im Departement Hérault (Vobsalim)"
+  },
   "pubId": 412952,
   "score": 404.3461538461619,
   "state": "ongoing-project",
@@ -52,28 +62,5 @@
   ],
   "url": "https://www.vobsalim34.org/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1663576421,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663576421,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

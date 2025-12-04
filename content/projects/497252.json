@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755088756,
   "date": null,
-  "description": "Abejita Perú is an innovative company, focusing on the beekeeping sector. The initiative aims to produce and market bee products, including honey, pollen, and waxed fabrics, which serve as an eco-friendly alternative to plastic. The idea for Abejita Perú emerged from reflections on food consumption and plastic use during the pandemic, leading to an exploraition of sustainable practices in beekeeping. Abejita Perú not only focuses on product innovation but also emphasizes the importance of supporting local beekeepers and promoting the ecological benefits of beekeeping. The initiative aims to raise awareness about the significance of bees in food security and environmental conservation, while also empowering women in the beekeeping sector.",
+  "description": {
+    "en": "Abejita Perú is an innovative company, focusing on the beekeeping sector. The initiative aims to produce and market bee products, including honey, pollen, and waxed fabrics, which serve as an eco-friendly alternative to plastic. The idea for Abejita Perú emerged from reflections on food consumption and plastic use during the pandemic, leading to an exploraition of sustainable practices in beekeeping. Abejita Perú not only focuses on product innovation but also emphasizes the importance of supporting local beekeepers and promoting the ecological benefits of beekeeping. The initiative aims to raise awareness about the significance of bees in food security and environmental conservation, while also empowering women in the beekeeping sector.",
+    "fr": "Abejita Perú est une entreprise innovante qui se concentre sur le secteur de l'apiculture. L'initiative vise à produire et à commercialiser des produits de l'abeille, notamment du miel, du pollen et des tissus cirés, qui constituent une alternative écologique au plastique. L'idée d'Abejita Perú est née d'une réflexion sur la consommation alimentaire et l'utilisation du plastique pendant la pandémie, qui a débouché sur l'exploration de pratiques durables dans le domaine de l'apiculture. Abejita Perú ne se concentre pas seulement sur l'innovation des produits, mais souligne également l'importance de soutenir les apiculteurs locaux et de promouvoir les avantages écologiques de l'apiculture. L'initiative vise à sensibiliser à l'importance des abeilles pour la sécurité alimentaire et la conservation de l'environnement, tout en renforçant l'autonomie des femmes dans le secteur de l'apiculture.",
+    "es": "Abejita Perú es una empresa innovadora, centrada en el sector apícola. La iniciativa pretende producir y comercializar productos apícolas, como miel, polen y tejidos encerados, que sirven como alternativa ecológica al plástico. La idea de Abejita Perú surgió de la reflexión sobre el consumo de alimentos y el uso del plástico durante la pandemia, lo que llevó a explorar prácticas sostenibles en la apicultura. Abejita Perú no sólo se centra en la innovación de productos, sino que también hace hincapié en la importancia de apoyar a los apicultores locales y promover los beneficios ecológicos de la apicultura. La iniciativa pretende concienciar sobre la importancia de las abejas en la seguridad alimentaria y la conservación del medio ambiente, al tiempo que empodera a las mujeres del sector apícola.",
+    "de": "Abejita Perú ist ein innovatives Unternehmen, das sich auf den Bienenzuchtsektor konzentriert. Ziel der Initiative ist die Herstellung und Vermarktung von Bienenprodukten, darunter Honig, Pollen und gewachste Stoffe, die als umweltfreundliche Alternative zu Plastik dienen. Die Idee zu Abejita Perú entstand aus Überlegungen zum Lebensmittelkonsum und zur Verwendung von Plastik während der Pandemie und führte zur Erforschung nachhaltiger Praktiken in der Bienenzucht. Abejita Perú konzentriert sich nicht nur auf Produktinnovationen, sondern betont auch die Bedeutung der Unterstützung lokaler Imker und die Förderung der ökologischen Vorteile der Bienenzucht. Die Initiative zielt darauf ab, das Bewusstsein für die Bedeutung der Bienen für die Ernährungssicherheit und den Umweltschutz zu schärfen und gleichzeitig Frauen im Imkereisektor zu stärken."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Abejita Perú",
+  "name": {
+    "es": "Abejita Perú",
+    "en": "Abejita Peru",
+    "fr": "Abejita Pérou",
+    "de": "Abejita Peru"
+  },
   "pubId": 497252,
   "score": -180.55942403237387,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

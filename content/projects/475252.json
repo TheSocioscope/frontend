@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754576387,
   "date": null,
-  "description": "Farm With Fred is an innovative initiative led by Fred Monene, a Kenyan farmer and agronomist, aimed at transforming agricultural practices across Africa. Through social media, Fred shares his expertise in sustainable farming, connecting with farmers globally to promote good practices and food security. The initiative not only educates farmers but also fosters a community focused on improving agricultural productivity and environmental stewardship, ultimately striving for a healthier and more prosperous future for all.",
+  "description": {
+    "en": "Farm With Fred is an innovative initiative led by Fred Monene, a Kenyan farmer and agronomist, whose goal is to transform farming practices across Africa. Through social media, Fred shares his expertise in sustainable agriculture, connecting with farmers around the world to promote good practices and food security. The initiative not only educates farmers, but also fosters a community focused on improving agricultural productivity and protecting the environment, with the ultimate goal of a healthier and more prosperous future for all.",
+    "fr": "Farm With Fred est une initiative innovante menée par l'agriculteur et agronome kényan Fred Monene, qui vise à transformer les pratiques agricoles dans toute l'Afrique. Par l'intermédiaire des médias sociaux, Fred partage son expertise en matière d'agriculture durable et se met en relation avec des agriculteurs du monde entier pour promouvoir les bonnes pratiques et la sécurité alimentaire. L'initiative ne se contente pas d'éduquer les agriculteurs, elle favorise également la création d'une communauté axée sur l'amélioration de la productivité agricole et la protection de l'environnement, dans le but ultime d'assurer à tous un avenir plus sain et plus prospère.",
+    "es": "Farm With Fred es una iniciativa innovadora dirigida por Fred Monene, agricultor y agrónomo keniano, cuyo objetivo es transformar las prácticas agrícolas en toda África. A través de las redes sociales, Fred comparte su experiencia en agricultura sostenible, conectando con agricultores de todo el mundo para promover las buenas prácticas y la seguridad alimentaria. La iniciativa no sólo educa a los agricultores, sino que también fomenta una comunidad centrada en la mejora de la productividad agrícola y la protección del medio ambiente, con el objetivo último de lograr un futuro más sano y próspero para todos.",
+    "de": "Farm With Fred ist eine innovative Initiative unter der Leitung von Fred Monene, einem kenianischen Landwirt und Agronomen, die darauf abzielt, landwirtschaftliche Praktiken in ganz Afrika zu verändern. Über soziale Medien teilt Fred sein Fachwissen über nachhaltige Landwirtschaft und verbindet sich mit Landwirten weltweit, um gute Praktiken und Nahrungsmittelsicherheit zu fördern. Die Initiative bildet nicht nur Landwirte aus, sondern fördert auch eine Gemeinschaft, die sich auf die Verbesserung der landwirtschaftlichen Produktivität und des Umweltmanagements konzentriert und sich letztendlich für eine gesündere und wohlhabendere Zukunft für alle einsetzt."
+  },
   "field": [
     "nutrition",
     "communication-and-media-studies"
   ],
   "lang": "en",
   "location": "",
-  "name": "Farm With Fred",
+  "name": {
+    "en": "Farm With Fred",
+    "fr": "Farm With Fred",
+    "es": "Granja con Fred",
+    "de": "Farm With Fred"
+  },
   "pubId": 475252,
   "score": 28.390138963536227,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

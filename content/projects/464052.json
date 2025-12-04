@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754426008,
   "date": null,
-  "description": "Alimentando el Manana programme promotes plant-based nutrition to enhance individual diets and support environmental sustainability. Operating in Argentina, France, and India, it aims to address health and food justice crises by advocating for vegetable consumption. The initiative collaborates with local organizations, schools, and hospitals to provide training and resources for chefs, ensuring meals are nutritious and environmentally friendly. By fostering dietary changes, it seeks to create a healthier future while minimizing ecological impact.",
+  "description": {
+    "en": "The Feeding Tomorrow program promotes plant-based nutrition to improve people's diets and support environmental sustainability. Operating in Argentina, France and India, the program aims to address health and food justice crises by advocating vegetable consumption. The initiative works with local organizations, schools and hospitals to provide training and resources to cooks, ensuring that meals are nutritious and environmentally friendly. By encouraging dietary changes, it aims to create a healthier future while minimizing ecological impact.",
+    "fr": "Le programme \"Nourrir demain\" promeut une alimentation à base de plantes afin d'améliorer le régime alimentaire des populations et de soutenir la durabilité de l'environnement. Mis en œuvre en Argentine, en France et en Inde, le programme vise à répondre aux crises en matière de santé et de justice alimentaire en encourageant la consommation de légumes. L'initiative collabore avec des organisations locales, des écoles et des hôpitaux pour fournir une formation et des ressources aux cuisiniers, en veillant à ce que les repas soient nutritifs et respectueux de l'environnement. En encourageant les changements de régime alimentaire, elle vise à créer un avenir plus sain tout en minimisant l'impact écologique.",
+    "es": "El programa Alimentando el Mañana promueve la nutrición vegetal para mejorar la dieta de las personas y apoyar la sostenibilidad medioambiental. Este programa, que opera en Argentina, Francia e India, pretende hacer frente a las crisis sanitarias y de justicia alimentaria abogando por el consumo de verduras. La iniciativa colabora con organizaciones locales, escuelas y hospitales para ofrecer formación y recursos a los cocineros, garantizando que las comidas sean nutritivas y respetuosas con el medio ambiente. Al fomentar cambios en la dieta, pretende crear un futuro más sano minimizando el impacto ecológico.",
+    "de": "Das Programm Alimentando el Manana fördert eine pflanzenbasierte Ernährung, um die individuelle Ernährung zu verbessern und die ökologische Nachhaltigkeit zu unterstützen. Das in Argentinien, Frankreich und Indien tätige Programm zielt darauf ab, Gesundheits- und Lebensmittelkrisen zu bewältigen, indem es für den Verzehr von Gemüse wirbt. Die Initiative arbeitet mit lokalen Organisationen, Schulen und Krankenhäusern zusammen, um Schulungen und Ressourcen für Köche bereitzustellen und so sicherzustellen, dass die Mahlzeiten nahrhaft und umweltfreundlich sind. Durch die Förderung von Ernährungsumstellungen will sie eine gesündere Zukunft schaffen und gleichzeitig die ökologischen Auswirkungen minimieren."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Alimentando el Manana",
+  "name": {
+    "es": "Alimentando el Manana",
+    "en": "Feeding Manana",
+    "fr": "Nourrir Manana",
+    "de": "Fütterung der Manana"
+  },
   "pubId": 464052,
   "score": -209.73418185523485,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

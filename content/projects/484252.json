@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754912639,
   "date": null,
-  "description": "Sécurité Sociale Alimentaire (The Food Security Social) Initiative, based in Alsace, aims to establish a food security system rooted in mutuality principles. Operated by a local association with around 60 members, it focuses on redistributing monthly funds to citizens for food purchases, alongside educational programs on nutrition. The initiative also engages in advocacy and networking, collaborating with various partners, including universities and local governments, to promote sustainable food practices and empower communities in making informed dietary choices.",
+  "description": {
+    "en": "Sécurité Sociale Alimentaire (The Food Security Social) Initiative, based in Alsace, aims to establish a food security system rooted in mutuality principles. Operated by a local association with around 60 members, it focuses on redistributing monthly funds to citizens for food purchases, alongside educational programs on nutrition. The initiative also engages in advocacy and networking, collaborating with various partners, including universities and local governments, to promote sustainable food practices and empower communities in making informed dietary choices.",
+    "fr": "L'initiative Sécurité Sociale Alimentaire, basée en Alsace, vise à mettre en place un système de sécurité alimentaire fondé sur les principes de la mutualité. Gérée par une association locale comptant une soixantaine de membres, elle se concentre sur la redistribution de fonds mensuels aux citoyens pour l'achat de denrées alimentaires, parallèlement à des programmes éducatifs sur la nutrition. L'initiative s'engage également dans des activités de plaidoyer et de mise en réseau, en collaborant avec divers partenaires, notamment des universités et des gouvernements locaux, afin de promouvoir des pratiques alimentaires durables et d'aider les communautés à faire des choix alimentaires éclairés.",
+    "es": "La iniciativa Sécurité Sociale Alimentaire (Seguridad Social Alimentaria), con sede en Alsacia, pretende establecer un sistema de seguridad alimentaria basado en principios de mutualidad. Dirigida por una asociación local con unos 60 miembros, se centra en redistribuir fondos mensuales a los ciudadanos para la compra de alimentos, junto con programas educativos sobre nutrición. La iniciativa también se dedica a la promoción y la creación de redes, colaborando con diversos socios, como universidades y gobiernos locales, para fomentar prácticas alimentarias sostenibles y capacitar a las comunidades para que tomen decisiones dietéticas con conocimiento de causa.",
+    "de": "Die Initiative Sécurité Sociale Alimentaire (Soziale Ernährungssicherheit) mit Sitz im Elsass zielt darauf ab, ein System der Ernährungssicherheit zu schaffen, das auf dem Prinzip der Gegenseitigkeit beruht. Sie wird von einem lokalen Verein mit rund 60 Mitgliedern betrieben und konzentriert sich auf die Verteilung von monatlichen Geldern an die Bürger für den Kauf von Lebensmitteln sowie auf Bildungsprogramme zum Thema Ernährung. Die Initiative setzt sich auch für die Interessenvertretung und die Vernetzung ein und arbeitet mit verschiedenen Partnern zusammen, darunter Universitäten und Kommunalverwaltungen, um nachhaltige Lebensmittelpraktiken zu fördern und die Gemeinschaften in die Lage zu versetzen, fundierte Entscheidungen über ihre Ernährung zu treffen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Sécurité Sociale Alimentaire",
+  "name": {
+    "fr": "Sécurité Sociale Alimentaire",
+    "en": "Food Social Security",
+    "es": "Alimentación Seguridad Social",
+    "de": "Soziale Sicherheit Lebensmittel"
+  },
   "pubId": 484252,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

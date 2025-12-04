@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754406791,
   "date": null,
-  "description": "The initiative focuses on a dairy cooperative known as Choza, which produces organic and biodynamic dairy products. Established 25 years ago, it operates with a community-driven model, emphasizing sustainable practices and animal welfare. The cooperative involves around 30 members who share profits and responsibilities, fostering a collaborative environment. They aim to expand production while adhering to biodynamic principles, ensuring the health of the land and livestock, and maintaining strong ties with other cooperatives and local communities.",
+  "description": {
+    "en": "The initiative focuses on a dairy cooperative known as Choza, which produces organic and biodynamic dairy products. Established 25 years ago, it operates on a community-driven model that emphasizes sustainable practices and animal welfare. The cooperative has about 30 members who share benefits and responsibilities, fostering a collaborative environment. Its goal is to expand production while respecting biodynamic principles, ensuring the health of the land and livestock, and maintaining strong ties with other cooperatives and local communities.",
+    "fr": "L'initiative se concentre sur une coopérative laitière connue sous le nom de Choza, qui fabrique des produits laitiers organiques et biodynamiques. Créée il y a 25 ans, elle fonctionne selon un modèle axé sur la communauté et met l'accent sur les pratiques durables et le bien-être des animaux. La coopérative compte une trentaine de membres qui partagent les bénéfices et les responsabilités, favorisant ainsi un environnement de collaboration. Elle vise à développer la production tout en respectant les principes biodynamiques, en veillant à la santé de la terre et du bétail et en maintenant des liens étroits avec d'autres coopératives et les communautés locales.",
+    "es": "La iniciativa se centra en una cooperativa lechera conocida como Choza, que elabora productos lácteos ecológicos y biodinámicos. Creada hace 25 años, funciona con un modelo impulsado por la comunidad, que hace hincapié en las prácticas sostenibles y el bienestar animal. La cooperativa cuenta con unos 30 miembros que comparten beneficios y responsabilidades, fomentando un entorno de colaboración. Su objetivo es ampliar la producción respetando los principios biodinámicos, garantizando la salud de la tierra y el ganado, y manteniendo fuertes lazos con otras cooperativas y comunidades locales.",
+    "de": "Die Initiative konzentriert sich auf eine Molkereigenossenschaft namens Choza, die organische und biodynamische Molkereiprodukte herstellt. Sie wurde vor 25 Jahren gegründet und arbeitet nach einem gemeinschaftsbasierten Modell, das nachhaltige Praktiken und Tierschutz in den Vordergrund stellt. Die Genossenschaft umfasst rund 30 Mitglieder, die Gewinne und Verantwortlichkeiten teilen und eine kollaborative Umgebung fördern. Sie streben eine Ausweitung der Produktion an, wobei sie sich an biodynamische Prinzipien halten, die Gesundheit von Land und Vieh gewährleisten und starke Bindungen zu anderen Genossenschaften und lokalen Gemeinschaften aufrechterhalten."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Choza",
+  "name": {
+    "en": "La Choza",
+    "fr": "La Choza",
+    "es": "La Choza",
+    "de": "La Choza"
+  },
   "pubId": 451352,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

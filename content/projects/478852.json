@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653522,
   "date": null,
-  "description": "The Robin Hood Army is a zero-funds volunteer organization founded in India in 2014, aiming to combat hunger by redistributing excess food from restaurants and bakeries to those in need. Since its inception in Sri Lanka in 2016, the organization has distributed over 2.2 million meals. Partnerships with local businesses, like bakeries and solar companies, help facilitate food drives, while volunteers play a crucial role in operations. The initiative promotes community engagement and aims to expand its reach to more cities and underprivileged areas.",
+  "description": {
+    "en": "The Robin Hood Army is a zero-funds volunteer organization founded in India in 2014, aiming to combat hunger by redistributing excess food from restaurants and bakeries to those in need. Since its inception in Sri Lanka in 2016, the organization has distributed over 2.2 million meals. Partnerships with local businesses, like bakeries and solar companies, help facilitate food drives, while volunteers play a crucial role in operations. The initiative promotes community engagement and aims to expand its reach to more cities and underprivileged areas.",
+    "fr": "L'Armée Robin des Bois est une organisation bénévole à financement zéro fondée en Inde en 2014, qui vise à lutter contre la faim en redistribuant les excédents alimentaires des restaurants et des boulangeries aux personnes dans le besoin. Depuis sa création au Sri Lanka en 2016, l'organisation a distribué plus de 2,2 millions de repas. Des partenariats avec des entreprises locales, telles que des boulangeries et des entreprises solaires, contribuent à faciliter les collectes de nourriture, tandis que les bénévoles jouent un rôle crucial dans les opérations. L'initiative promeut l'engagement communautaire et vise à étendre sa portée à davantage de villes et de zones défavorisées.",
+    "es": "El Robin Hood Army es una organización de voluntarios sin fondos fundada en la India en 2014, cuyo objetivo es combatir el hambre redistribuyendo el excedente de comida de restaurantes y panaderías entre los necesitados. Desde su creación en Sri Lanka en 2016, la organización ha distribuido más de 2,2 millones de comidas. Las asociaciones con empresas locales, como panaderías y empresas solares, ayudan a facilitar la recogida de alimentos, mientras que los voluntarios desempeñan un papel crucial en las operaciones. La iniciativa promueve el compromiso de la comunidad y aspira a ampliar su alcance a más ciudades y zonas desfavorecidas.",
+    "de": "Die Robin Hood Army ist eine 2014 in Indien gegründete Freiwilligenorganisation, die den Hunger bekämpfen will, indem sie überschüssige Lebensmittel aus Restaurants und Bäckereien an Bedürftige weitergibt. Seit ihrer Gründung in Sri Lanka im Jahr 2016 hat die Organisation über 2,2 Millionen Mahlzeiten verteilt. Partnerschaften mit lokalen Unternehmen wie Bäckereien und Solarfirmen erleichtern die Verteilung von Lebensmitteln, während Freiwillige eine entscheidende Rolle bei der Durchführung spielen. Die Initiative fördert das Engagement in der Gemeinschaft und möchte ihre Reichweite auf weitere Städte und unterprivilegierte Gebiete ausdehnen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Robin Hood Army",
+  "name": {
+    "en": "Robin Hood Army",
+    "fr": "Armée de Robin des Bois",
+    "es": "Ejército Robin Hood",
+    "de": "Robin Hood Armee"
+  },
   "pubId": 478852,
   "score": 60.587898089172214,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "en"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755089309,
   "date": null,
-  "description": "The initiative, Tara, focuses on the cultivation and processing of tara, a fruit from the Andes, which offers numerous pharmaceutical benefits and contributes to food security. By enhancing the value of tara, the organization aims to support over 25,000 families involved in its cultivation while promoting ecological sustainability. The project also seeks to address health concerns related to acrylamide in food, leveraging tara's properties to create safer food products and improve the livelihoods of local farmers.",
+  "description": {
+    "en": "The initiative, Tara, focuses on the cultivation and processing of tara, a fruit from the Andes, which offers numerous pharmaceutical benefits and contributes to food security. By enhancing the value of tara, the organization aims to support over 25,000 families involved in its cultivation while promoting ecological sustainability. The project also seeks to address health concerns related to acrylamide in food, leveraging tara's properties to create safer food products and improve the livelihoods of local farmers.",
+    "fr": "L'initiative, Tara, se concentre sur la culture et la transformation de la tara, un fruit des Andes qui offre de nombreux avantages pharmaceutiques et contribue à la sécurité alimentaire. En valorisant la tara, l'organisation vise à soutenir plus de 25 000 familles impliquées dans sa culture tout en promouvant la durabilité écologique. Le projet vise également à répondre aux préoccupations sanitaires liées à la présence d'acrylamide dans les aliments, en tirant parti des propriétés de la tara pour créer des produits alimentaires plus sûrs et améliorer les moyens de subsistance des agriculteurs locaux.",
+    "es": "La iniciativa, Tara, se centra en el cultivo y procesamiento de la tara, una fruta de los Andes que ofrece numerosos beneficios farmacéuticos y contribuye a la seguridad alimentaria. Al potenciar el valor de la tara, la organización pretende apoyar a más de 25.000 familias dedicadas a su cultivo, al tiempo que promueve la sostenibilidad ecológica. El proyecto también pretende abordar los problemas de salud relacionados con la acrilamida en los alimentos, aprovechando las propiedades de la tara para crear productos alimentarios más seguros y mejorar los medios de subsistencia de los agricultores locales.",
+    "de": "Die Initiative Tara konzentriert sich auf den Anbau und die Verarbeitung von Tara, einer Frucht aus den Anden, die zahlreiche pharmazeutische Vorteile bietet und zur Ernährungssicherheit beiträgt. Durch die Aufwertung der Tara will die Organisation über 25.000 Familien unterstützen, die mit dem Anbau beschäftigt sind, und gleichzeitig die ökologische Nachhaltigkeit fördern. Das Projekt zielt auch darauf ab, gesundheitliche Bedenken im Zusammenhang mit Acrylamid in Lebensmitteln zu zerstreuen, indem die Eigenschaften der Tara genutzt werden, um sicherere Lebensmittel zu erzeugen und die Lebensgrundlage der örtlichen Bauern zu verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Tara",
+  "name": {
+    "en": "Tara",
+    "fr": "Tara",
+    "es": "Tara",
+    "de": "Tara"
+  },
   "pubId": 497652,
   "score": -180.55942403237387,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

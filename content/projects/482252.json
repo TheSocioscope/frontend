@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754996526,
   "date": null,
-  "description": "Café Quindío, founded as a family business 35 years ago, aims to produce high-quality coffee that represents Colombia's rich coffee culture. The initiative focuses on generating added value, employment, and social development while promoting biodiversity through art. With a commitment to sustainability, the company utilizes solar energy, supports local coffee growers, and engages in social projects, all while striving to transform lives through coffee and create a unique brand experience.       ",
+  "description": {
+    "en": "Café Quindío, founded as a family business 35 years ago, aims to produce high-quality coffee that represents Colombia's rich coffee culture. The initiative focuses on generating added value, employment, and social development while promoting biodiversity through art. With a commitment to sustainability, the company utilizes solar energy, supports local coffee growers, and engages in social projects, all while striving to transform lives through coffee and create a unique brand experience.       ",
+    "fr": "Café Quindío, entreprise familiale fondée il y a 35 ans, a pour objectif de produire un café de haute qualité qui représente la riche culture du café en Colombie. L'initiative se concentre sur la création de valeur ajoutée, d'emplois et de développement social, tout en promouvant la biodiversité par l'art. Engagée dans le développement durable, l'entreprise utilise l'énergie solaire, soutient les producteurs de café locaux et s'engage dans des projets sociaux, tout en s'efforçant de transformer des vies grâce au café et de créer une expérience de marque unique.       ",
+    "es": "Café Quindío, fundada como empresa familiar hace 35 años, tiene como objetivo producir café de alta calidad que represente la rica cultura cafetera de Colombia. La iniciativa se centra en generar valor añadido, empleo y desarrollo social, al tiempo que promueve la biodiversidad a través del arte. Comprometida con la sostenibilidad, la empresa utiliza energía solar, apoya a los caficultores locales y participa en proyectos sociales, al tiempo que se esfuerza por transformar vidas a través del café y crear una experiencia de marca única.       ",
+    "de": "Café Quindío wurde vor 35 Jahren als Familienunternehmen gegründet und hat sich zum Ziel gesetzt, hochwertigen Kaffee zu produzieren, der die reiche kolumbianische Kaffeekultur repräsentiert. Die Initiative konzentriert sich auf die Schaffung von Mehrwert, Beschäftigung und sozialer Entwicklung und fördert gleichzeitig die Artenvielfalt durch Kunst. Mit seinem Engagement für Nachhaltigkeit nutzt das Unternehmen Solarenergie, unterstützt lokale Kaffeebauern und engagiert sich in sozialen Projekten, während es gleichzeitig danach strebt, durch Kaffee Leben zu verändern und ein einzigartiges Markenerlebnis zu schaffen.       "
+  },
   "field": [
     "nutrition",
     "arts-architecture-and-museology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Café Quindío",
+  "name": {
+    "pt": "Café Quindío",
+    "en": "Café Quindío",
+    "fr": "Café Quindío",
+    "es": "Café Quindío",
+    "de": "Café Quindío"
+  },
   "pubId": 482252,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

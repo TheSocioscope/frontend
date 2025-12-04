@@ -13,14 +13,24 @@
   ],
   "createdAt": 1683290624,
   "date": null,
-  "description": "Alvanovo Organic Orchards is an association of agricultural producers dedicated to the cultivation of pure, ecologically grown and processed fruits and nuts. The orchards of Alvanovo are certified for organic farming and are taken care of in accordance with the extant nature-friendly guidelines and standards. The orchards spread over 192 acres, occupying the land of the old vineyards of Alvanovo, a village in north-east Bulgaria. The fruit and nuts are harvested manually with the seasonal help of the residents of the nearby village of Dulgach. The Orchards produce plum and walnut jams, dried fruit, nuts and essential oils.  The oils, which are extracted from the pits of the organic plums without being subjected to thermal processing, are then used for the production of boutique cosmetic products. The company also makes the traditional pistil - a dried fruit paste from plums with no added sugars, considered a traditional delicacy in Bulgaria.",
+  "description": {
+    "en": "Alvanovo Organic Orchards is an association of agricultural producers dedicated to the cultivation of pure, organically grown and processed fruits and nuts. The Alvanovo orchards are certified for organic farming and are cared for in accordance with current nature-friendly guidelines and standards. The orchards are spread over 192 acres, occupying the grounds of the former vineyards of Alvanovo, a village in northeastern Bulgaria. The fruit and nuts are harvested by hand with seasonal help from the inhabitants of the nearby village of Dulgach. The orchards produce plum and nut jams, dried fruits and essential oils.  The oils, which are extracted from the pits of organic plums without heat treatment, are then used to make boutique cosmetic products. The company also makes traditional pistil, a plum nut paste with no added sugars, which is considered a traditional delicacy in Bulgaria.",
+    "fr": "Les vergers biologiques d'Alvanovo sont une association de producteurs agricoles qui se consacrent à la culture de fruits et de noix purs, cultivés et traités de manière biologique. Les vergers d'Alvanovo sont certifiés pour l'agriculture biologique et sont entretenus conformément aux directives et aux normes actuelles en matière de protection de la nature. Les vergers s'étendent sur 192 acres, occupant les terres des anciens vignobles d'Alvanovo, un village du nord-est de la Bulgarie. Les fruits et les noix sont récoltés à la main avec l'aide saisonnière des habitants du village voisin de Dulgach. Les vergers produisent des confitures de prunes et de noix, des fruits secs et des huiles essentielles.  Les huiles, qui sont extraites des noyaux des prunes biologiques sans traitement thermique, sont ensuite utilisées pour la fabrication de produits cosmétiques de qualité. L'entreprise produit également le traditionnel pistil, une pâte de noix de prune sans sucres ajoutés, qui est considérée comme un mets traditionnel en Bulgarie.",
+    "es": "Los Huertos Ecológicos de Alvanovo son una asociación de productores agrícolas dedicados al cultivo de frutas y frutos secos puros, cultivados y procesados ecológicamente. Los huertos de Alvanovo están certificados para la agricultura ecológica y se cuidan de acuerdo con las directrices y normas vigentes respetuosas con la naturaleza. Los huertos se extienden a lo largo de 192 acres, ocupando los terrenos de los antiguos viñedos de Alvanovo, un pueblo del noreste de Bulgaria. La fruta y los frutos secos se recolectan manualmente con la ayuda estacional de los habitantes del cercano pueblo de Dulgach. Los huertos producen mermeladas de ciruelas y nueces, frutos secos y aceites esenciales.  Los aceites, que se extraen de los huesos de las ciruelas ecológicas sin someterlos a tratamiento térmico, se utilizan después para la elaboración de productos cosméticos de boutique. La empresa también elabora el tradicional pistilo, una pasta de frutos secos de ciruelas sin azúcares añadidos, considerada una exquisitez tradicional en Bulgaria.",
+    "de": "Alvanovo Organic Orchards ist eine Vereinigung von Landwirten, die sich dem Anbau von reinem, ökologisch angebautem und verarbeitetem Obst und Nüssen widmen. Die Orchards von Alvanovo sind für den ökologischen Landbau zertifiziert und werden nach den neuesten naturfreundlichen Richtlinien und Standards gepflegt. Die Orchards erstrecken sich über 192 Hektar und nehmen das Land der alten Weinberge von Alvanovo, einem Dorf im Nordosten Bulgariens, ein. Die Früchte und Nüsse werden von Hand geerntet, mit der saisonalen Hilfe der Bewohner des nahe gelegenen Dorfes Dulgach. Die Orchards produzieren Plum- und Walnussschinken, getrocknete Früchte, Nüsse und ätherische Öle.  Die Öle, die ohne Wärmebehandlung aus den Brunnen der organischen Pflaumen gewonnen werden, werden dann für die Herstellung von Boutique-Kosmetikprodukten verwendet. Das Unternehmen stellt auch den traditionellen Pistil her - eine getrocknete Fruchtpaste aus Plum mit keinem Zuckerzusatz, die in Bulgarien als traditionelle Delikatesse gilt."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "North-East Bulgaria, Alvanovo",
-  "name": "Alvanovo Organic Orchards",
+  "name": {
+    "en": "Alvanovo Organic Orchards",
+    "fr": "Alvanovo Organic Orchards",
+    "es": "Huertos ecológicos de Alvanovo",
+    "de": "Alvanovo Organic Orchards"
+  },
   "pubId": 438752,
   "score": 932.633333333334,
   "state": "ongoing-project",
@@ -42,28 +52,5 @@
   ],
   "url": "https://biogradini.com",
   "yt": "tEsPWc4z5dA",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1684142677,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1684142677,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

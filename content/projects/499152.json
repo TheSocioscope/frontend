@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755262986,
   "date": null,
-  "description": "The Dijon food transition initiative, launched in 2018, aims to transform the local food system in response to deindustrialization. The project focuses on collaboration among various stakeholders, including industry leaders and political figures, to create a sustainable agricultural and consumption model. Despite challenges such as funding changes and the impact of COVID-19, the initiative continues to evolve, emphasizing the importance of local networks and political engagement in driving successful transformation.",
+  "description": {
+    "en": "The Dijon food transition initiative, launched in 2018, aims to transform the local food system in response to deindustrialization. The project focuses on collaboration among various stakeholders, including industry leaders and political figures, to create a sustainable agricultural and consumption model. Despite challenges such as funding changes and the impact of COVID-19, the initiative continues to evolve, emphasizing the importance of local networks and political engagement in driving successful transformation.",
+    "fr": "L'initiative de transition alimentaire de Dijon, lancée en 2018, vise à transformer le système alimentaire local en réponse à la désindustrialisation. Le projet se concentre sur la collaboration entre diverses parties prenantes, y compris des leaders de l'industrie et des personnalités politiques, afin de créer un modèle agricole et de consommation durable. Malgré des défis tels que les changements de financement et l'impact de COVID-19, l'initiative continue d'évoluer, soulignant l'importance des réseaux locaux et de l'engagement politique dans la conduite d'une transformation réussie.",
+    "es": "La iniciativa de transición alimentaria de Dijon, lanzada en 2018, pretende transformar el sistema alimentario local en respuesta a la desindustrialización. El proyecto se centra en la colaboración entre diversas partes interesadas, incluidos líderes de la industria y figuras políticas, para crear un modelo agrícola y de consumo sostenible. A pesar de desafíos como los cambios en la financiación y el impacto de COVID-19, la iniciativa sigue evolucionando, haciendo hincapié en la importancia de las redes locales y el compromiso político para impulsar una transformación exitosa.",
+    "de": "Die 2018 ins Leben gerufene Initiative \"Dijon food transition\" zielt darauf ab, das lokale Lebensmittelsystem als Reaktion auf die Deindustrialisierung zu verändern. Das Projekt konzentriert sich auf die Zusammenarbeit zwischen verschiedenen Akteuren, einschließlich Branchenführern und politischen Persönlichkeiten, um ein nachhaltiges Landwirtschafts- und Konsummodell zu schaffen. Trotz Herausforderungen wie Änderungen bei der Finanzierung und den Auswirkungen von COVID-19 entwickelt sich die Initiative weiter und unterstreicht die Bedeutung lokaler Netzwerke und politischen Engagements für eine erfolgreiche Transformation."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Dijon Métropole",
+  "name": {
+    "fr": "Dijon Métropole",
+    "en": "Dijon Métropole",
+    "es": "Dijon Métropole",
+    "de": "Dijon Metropole"
+  },
   "pubId": 499152,
   "score": 53.193587413442366,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "FKqnopOPkw0",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760514966,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1760514966
     }
   ],
-  "lastEvent": {
-    "at": 1760514966,
-    "by": "contact"
-  },
   "updatedAt": [
     1760514966
-  ]
+  ],
+  "originalLang": "fr"
 }

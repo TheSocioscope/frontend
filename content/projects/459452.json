@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403239,
   "date": null,
-  "description": "CUSI is a food company dedicated to producing allergen-free products, founded by food engineers motivated by their daughter's milk protein intolerance. With around 20 products, they primarily export to markets like Colombia and the USA, focusing on gluten-free and organic offerings. CUSI collaborates closely with small producers, providing training and support to enhance their products' value. Their commitment to sustainability and regenerative agriculture aims to foster healthier food systems while addressing dietary needs.",
+  "description": {
+    "en": "CUSI is a food company dedicated to the production of allergen-free products, founded by food engineers motivated by their daughter's milk protein intolerance. With some 20 products, they export mainly to markets such as Colombia and the USA, focusing on gluten-free and organic offerings. CUSI works closely with small producers, providing them with training and support to increase the value of their products. Its commitment to sustainability and regenerative agriculture aims to promote healthier food systems while addressing dietary needs.",
+    "fr": "CUSI est une entreprise d'aliments sans allergènes fondée par des ingénieurs alimentaires motivés par l'intolérance aux protéines de lait de leur fille. Avec une vingtaine de produits, elle exporte principalement vers des marchés tels que la Colombie et les États-Unis, en se concentrant sur les produits sans gluten et biologiques. CUSI travaille en étroite collaboration avec les petits producteurs, leur offrant formation et soutien pour augmenter la valeur de leurs produits. Son engagement en faveur de la durabilité et de l'agriculture régénérative vise à promouvoir des systèmes alimentaires plus sains tout en répondant aux besoins diététiques.",
+    "es": "CUSI es una empresa alimentaria dedicada a la elaboración de productos sin alérgenos, fundada por ingenieros alimentarios motivados por la intolerancia a la proteína de la leche de su hija. Con unos 20 productos, exportan principalmente a mercados como Colombia y EE.UU., centrándose en ofertas sin gluten y ecológicas. CUSI colabora estrechamente con pequeños productores, proporcionándoles formación y apoyo para aumentar el valor de sus productos. Su compromiso con la sostenibilidad y la agricultura regenerativa tiene como objetivo fomentar sistemas alimentarios más sanos, atendiendo al mismo tiempo a las necesidades dietéticas.",
+    "de": "CUSI ist ein Lebensmittelunternehmen, das sich der Herstellung allergenfreier Produkte widmet. Gegründet wurde es von Lebensmittelingenieuren, die durch die Milchproteinunverträglichkeit ihrer Tochter motiviert waren. Mit rund 20 Produkten exportieren sie vor allem in Märkte wie Kolumbien und die USA und konzentrieren sich dabei auf glutenfreie und organische Angebote. CUSI arbeitet eng mit Kleinbauern zusammen und bietet Schulungen und Unterstützung an, um den Wert ihrer Produkte zu steigern. Ihr Engagement für Nachhaltigkeit und regenerative Landwirtschaft zielt darauf ab, gesündere Nahrungsmittelsysteme zu fördern und gleichzeitig die Ernährungsbedürfnisse zu befriedigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "CUSI",
+  "name": {
+    "en": "CUSI",
+    "fr": "CUSI",
+    "es": "CUSI",
+    "de": "CUSI"
+  },
   "pubId": 459452,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

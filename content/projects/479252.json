@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754654244,
   "date": null,
-  "description": "The initiative focuses on sustainable farming and community engagement in Auroville, India. It emphasizes the importance of local food systems, cultural heritage, and education. The project aims to connect people with their food through a farm-to-plate approach, fostering a sense of community while promoting nutritional health. By integrating traditional practices and modern techniques, the initiative seeks to inspire others to adopt similar sustainable practices and enhance food security.      ",
+  "description": {
+    "en": "The initiative focuses on sustainable farming and community engagement in Auroville, India. It emphasizes the importance of local food systems, cultural heritage, and education. The project aims to connect people with their food through a farm-to-plate approach, fostering a sense of community while promoting nutritional health. By integrating traditional practices and modern techniques, the initiative seeks to inspire others to adopt similar sustainable practices and enhance food security.      ",
+    "fr": "L'initiative se concentre sur l'agriculture durable et l'engagement communautaire à Auroville, en Inde. Elle met l'accent sur l'importance des systèmes alimentaires locaux, du patrimoine culturel et de l'éducation. Le projet vise à établir un lien entre les gens et leur nourriture grâce à une approche de la ferme à l'assiette, en favorisant un sentiment de communauté tout en promouvant la santé nutritionnelle. En intégrant des pratiques traditionnelles et des techniques modernes, l'initiative vise à inciter d'autres personnes à adopter des pratiques durables similaires et à renforcer la sécurité alimentaire.      ",
+    "es": "La iniciativa se centra en la agricultura sostenible y el compromiso comunitario en Auroville (India). Destaca la importancia de los sistemas alimentarios locales, el patrimonio cultural y la educación. El proyecto pretende conectar a la gente con sus alimentos a través de un enfoque \"de la granja al plato\", fomentando el sentido de comunidad y promoviendo al mismo tiempo la salud nutricional. Al integrar prácticas tradicionales y técnicas modernas, la iniciativa pretende inspirar a otros para que adopten prácticas sostenibles similares y mejoren la seguridad alimentaria.      ",
+    "de": "Die Initiative konzentriert sich auf die nachhaltige Landwirtschaft und das Engagement der Gemeinschaft in Auroville, Indien. Sie betont die Bedeutung von lokalen Lebensmittelsystemen, kulturellem Erbe und Bildung. Das Projekt zielt darauf ab, die Menschen durch ein Konzept vom Bauernhof bis zum Teller mit ihren Lebensmitteln in Verbindung zu bringen, das Gemeinschaftsgefühl zu fördern und gleichzeitig eine gesunde Ernährung zu unterstützen. Durch die Integration traditioneller Praktiken und moderner Techniken will die Initiative andere dazu inspirieren, ähnliche nachhaltige Praktiken anzuwenden und die Ernährungssicherheit zu verbessern.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Solitude Farm",
+  "name": {
+    "pt": "Solitude Farm",
+    "en": "Solitude Farm",
+    "fr": "Ferme Solitude",
+    "es": "Granja Solitude",
+    "de": "Bauernhof Solitude"
+  },
   "pubId": 479252,
   "score": 33.002500051830594,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "pt"
 }

@@ -14,7 +14,12 @@
   "date": [
     "2030-01-01"
   ],
-  "description": "Une ambitieuse stratégie de transition alimentaire pour Dijon métropole\nC'est dans un contexte marqué par le changement climatique, la préservation de la biodiversité, l'évolution du modèle économique du secteur de l'agro-alimentation et les nouvelles habitudes de consommation que Dijon métropole déploie un projet global de transition alimentaire répondant à quatre défis : environnementaux, sociaux, économiques et territoriaux. Avec ce projet baptisé Prodij, la métropole mobilise plus de 250 partenaires (chercheurs, ingénieurs, étudiants, entreprises, agriculteurs...) réunis pour inventer un modèle d'alimentation durable à l'horizon 2030. Notre objectif est bien d’impulser une nouvelle dynamique territoriale alimentaire, durable, accessible, profitant davantage à la fois au producteur et au consommateur. L’alimentation des consommateurs est principalement assurée par des acteurs privés mais elle touche à des sujets sur lesquels la métropole dijonnaise joue un rôle essentiel. ",
+  "description": {
+    "fr": "Une ambitieuse stratégie de transition alimentaire pour Dijon métropole\nC'est dans un contexte marqué par le changement climatique, la préservation de la biodiversité, l'évolution du modèle économique du secteur de l'agro-alimentation et les nouvelles habitudes de consommation que Dijon métropole déploie un projet global de transition alimentaire répondant à quatre défis : environnementaux, sociaux, économiques et territoriaux. Avec ce projet baptisé Prodij, la métropole mobilise plus de 250 partenaires (chercheurs, ingénieurs, étudiants, entreprises, agriculteurs...) réunis pour inventer un modèle d'alimentation durable à l'horizon 2030. Notre objectif est bien d’impulser une nouvelle dynamique territoriale alimentaire, durable, accessible, profitant davantage à la fois au producteur et au consommateur. L’alimentation des consommateurs est principalement assurée par des acteurs privés mais elle touche à des sujets sur lesquels la métropole dijonnaise joue un rôle essentiel. ",
+    "en": "An ambitious food transition strategy for Dijon metropole\nIn a context marked by climate change, the preservation of biodiversity, changes in the economic model of the agri-food sector and new consumer habits, Dijon métropole is deploying a global food transition project to meet four challenges: environmental, social, economic and territorial. With this project, known as Prodij, the metropolis is mobilizing over 250 partners (researchers, engineers, students, companies, farmers, etc.) to invent a sustainable food model for 2030. Our aim is to create a new, sustainable and accessible regional food dynamic that benefits both producers and consumers. Consumer food is mainly provided by private players, but it involves issues in which the Dijon metropolitan area plays an essential role.",
+    "es": "Una ambiciosa estrategia de transición alimentaria para la metrópoli de Dijon\nEn un contexto marcado por el cambio climático, la necesidad de preservar la biodiversidad, los cambios en el modelo económico del sector agroalimentario y los nuevos hábitos de consumo, la metrópoli de Dijon despliega un proyecto global de transición alimentaria para hacer frente a cuatro retos: medioambientales, sociales, económicos y territoriales. Con este proyecto, denominado Prodij, Dijon reúne a más de 250 socios (investigadores, ingenieros, estudiantes, empresas, agricultores, etc.) para inventar un modelo alimentario sostenible de cara a 2030. Nuestro objetivo es impulsar una nueva dinámica alimentaria local, sostenible, accesible y más beneficiosa tanto para los productores como para los consumidores. La alimentación de los consumidores corre a cargo principalmente de agentes privados, pero implica cuestiones en las que el área metropolitana de Dijon desempeña un papel esencial.",
+    "de": "Eine ehrgeizige Strategie zur Ernährungsumstellung für Dijon métropole\nVor dem Hintergrund des Klimawandels, der Erhaltung der Biodiversität, der Entwicklung des Wirtschaftsmodells der Agrar- und Ernährungswirtschaft und neuer Konsumgewohnheiten hat die Metropole Dijon ein umfassendes Projekt zur Ernährungsumstellung entwickelt, das vier Herausforderungen gerecht wird: ökologische, soziale, wirtschaftliche und territoriale. Mit diesem Projekt namens Prodij mobilisiert die Metropole mehr als 250 Partner (Forscher, Ingenieure, Studenten, Unternehmen, Landwirte usw.), die zusammenkommen, um ein nachhaltiges Ernährungsmodell für das Jahr 2030 zu erfinden. Unser Ziel ist es, eine neue, nachhaltige und zugängliche territoriale Dynamik im Bereich der Ernährung anzustoßen, die sowohl dem Erzeuger als auch dem Verbraucher zugute kommt. Die Ernährung der Verbraucher wird hauptsächlich von privaten Akteuren sichergestellt, berührt aber Themen, bei denen die Metropole Dijon eine wesentliche Rolle spielt."
+  },
   "field": [
     "economics-statistics",
     "management-public-administration",
@@ -23,7 +28,12 @@
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "ProDij, alimentation durable 2030",
+  "name": {
+    "fr": "ProDij, alimentation durable 2030",
+    "en": "ProDij, sustainable food 2030",
+    "es": "ProDij, alimentos sostenibles 2030",
+    "de": "ProDij, Nachhaltige Ernährung 2030"
+  },
   "pubId": 417452,
   "score": 980.6842105263077,
   "state": "ongoing-project",
@@ -50,28 +60,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495316,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495316,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

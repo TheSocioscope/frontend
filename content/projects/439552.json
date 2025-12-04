@@ -13,7 +13,12 @@
   ],
   "createdAt": 1686227456,
   "date": null,
-  "description": "Dans le cadre de son Projet Alimentaire de Territoire, le Parc Naturel Régional du Perche essaye de développer la production et la consommation de légumineuses et ainsi des protéines végétales. De la production à la fourchette, tant dans les foyers qu’en restauration collective, les légumineuses sont mises à l’honneur sous toutes leurs formes, en privilégiant les productions locales ! Le programme d'action intègre des actions auprès des producteurs, des formations adaptées à la restauration collective, des ateliers cuisine pour le grand public, des supports de communication ainsi que des actions pour essayer de développer la transformation sur le territoire, c’est l’ensemble du système alimentaire local qui est pris en compte dans ce projet original. Même les éleveurs y trouvent leur compte, puisqu’il s’agit aussi, grâce aux économies qui peuvent être réalisées en intégrant un menu végétarien préparé avec des légumineuses locales une fois par semaine, d’encourager une consommation de viande locale et de qualité dans les autres menus.",
+  "description": {
+    "fr": "Dans le cadre de son Projet Alimentaire de Territoire, le Parc Naturel Régional du Perche essaye de développer la production et la consommation de légumineuses et ainsi des protéines végétales. De la production à la fourchette, tant dans les foyers qu’en restauration collective, les légumineuses sont mises à l’honneur sous toutes leurs formes, en privilégiant les productions locales ! Le programme d'action intègre des actions auprès des producteurs, des formations adaptées à la restauration collective, des ateliers cuisine pour le grand public, des supports de communication ainsi que des actions pour essayer de développer la transformation sur le territoire, c’est l’ensemble du système alimentaire local qui est pris en compte dans ce projet original. Même les éleveurs y trouvent leur compte, puisqu’il s’agit aussi, grâce aux économies qui peuvent être réalisées en intégrant un menu végétarien préparé avec des légumineuses locales une fois par semaine, d’encourager une consommation de viande locale et de qualité dans les autres menus.",
+    "en": "As part of its Projet Alimentaire de Territoire (Regional Food Project), the Parc Naturel Régional du Perche is working to develop the production and consumption of legumes and thus plant proteins. From production to the fork, both in the home and in collective catering, legumes are given pride of place in all their forms, with an emphasis on local production! The action program integrates actions with producers, training adapted to collective catering, cooking workshops for the general public, communication supports and actions to try and develop processing in the region. The whole local food system is taken into account in this original project. Even livestock farmers have something to gain from it, since the savings that can be made by including a vegetarian menu prepared with local legumes once a week also encourage the consumption of local, quality meat on other menus.",
+    "es": "En el marco de su Proyecto Alimentario Regional, el Parc Naturel Régional du Perche intenta desarrollar la producción y el consumo de legumbres y, por tanto, de proteínas vegetales. De la granja al tenedor, tanto en el hogar como en la restauración colectiva, las legumbres ocupan un lugar de honor en todas sus formas, haciendo hincapié en la producción local. El programa de acción incluye iniciativas con los productores, formación adaptada a la restauración colectiva, talleres de cocina para el gran público, herramientas de comunicación e iniciativas para intentar desarrollar la transformación local. Todo el sistema alimentario local se tiene en cuenta en este original proyecto. Incluso los agricultores tienen algo que ganar, ya que el ahorro que puede suponer incluir una vez a la semana un menú vegetariano elaborado con legumbres locales fomenta también el consumo de carne local y de calidad en otros menús.",
+    "de": "Im Rahmen seines Projet Alimentaire de Territoire versucht der Parc Naturel Régional du Perche, die Produktion und den Konsum von Hülsenfrüchten und damit von pflanzlichen Proteinen zu fördern. Von der Produktion bis zur Gabel, sowohl in den Haushalten als auch in der Gemeinschaftsverpflegung, werden Hülsenfrüchte in all ihren Formen geehrt, wobei die lokale Produktion bevorzugt wird! Das Aktionsprogramm umfasst Maßnahmen bei den Erzeugern, Schulungen, die auf die Gemeinschaftsverpflegung zugeschnitten sind, Kochworkshops für die breite Öffentlichkeit, Kommunikationsmaterial sowie Maßnahmen, mit denen versucht wird, die Verarbeitung in der Region zu entwickeln. Selbst die Viehzüchter profitieren davon, da es auch darum geht, durch die Einsparungen, die durch die Integration eines vegetarischen Menüs, das einmal pro Woche mit lokalen Hülsenfrüchten zubereitet wird, erzielt werden können, den Verzehr von lokalem und hochwertigem Fleisch in den anderen Menüs zu fördern."
+  },
   "field": [
     "other-social-sciences-and-humanities",
     "nutrition",
@@ -23,7 +28,12 @@
   ],
   "lang": "fr",
   "location": "PNR du Perche",
-  "name": "Plan protéines végétales / légumineuses",
+  "name": {
+    "fr": "Plan protéines végétales / légumineuses",
+    "en": "Vegetable protein/legume plan",
+    "es": "Plan de proteínas vegetales/leguminosas",
+    "de": "Plan für pflanzliche Proteine / Hülsenfrüchte"
+  },
   "pubId": 439552,
   "score": 3009.2999999999993,
   "state": "ongoing-project",
@@ -44,28 +54,5 @@
   ],
   "url": "",
   "yt": "jjug6d748tM",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1686315203,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1686315203,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

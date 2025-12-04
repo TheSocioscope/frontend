@@ -13,13 +13,23 @@
   ],
   "createdAt": 1691724638,
   "date": null,
-  "description": "En Polynésie française, la Chambre de l'agriculture et de la pêche lagonaire distribue des kits potagers (appelés Kit Fa'a'apu solidaires) aux familles en situation de précarité et de pauvreté qui sont répertoriés par les services sociaux. Cette initiative récente vise à initier les familles à l'autonomie alimentaire par la petite polyculture vivrière, notamment en contexte urbain, dans un contexte où les prix des denrées alimentaires en supermarché sont particulièrement élevés du fait de la forte dépendance aux importations de la Polynésie française.",
+  "description": {
+    "fr": "En Polynésie française, la Chambre de l'agriculture et de la pêche lagonaire distribue des kits potagers (appelés Kit Fa'a'apu solidaires) aux familles en situation de précarité et de pauvreté qui sont répertoriés par les services sociaux. Cette initiative récente vise à initier les familles à l'autonomie alimentaire par la petite polyculture vivrière, notamment en contexte urbain, dans un contexte où les prix des denrées alimentaires en supermarché sont particulièrement élevés du fait de la forte dépendance aux importations de la Polynésie française.",
+    "en": "In French Polynesia, the lagoon's Chamber of Agriculture and Fishing distributes vegetable garden kits (known as Kit Fa'a'apu solidaires) to families in precarious and poverty-stricken situations, as identified by social services. This recent initiative aims to introduce families to food self-sufficiency through small-scale mixed farming, particularly in an urban context, where supermarket food prices are particularly high due to French Polynesia's heavy dependence on imports.",
+    "es": "En la Polinesia Francesa, la Cámara de Agricultura y Pesca de la laguna distribuye kits de huertos (conocidos como kits solidarios Fa'a'apu) a las familias que viven en condiciones precarias y de pobreza y están inscritas en los servicios sociales. El objetivo de esta reciente iniciativa es iniciar a las familias en la autosuficiencia alimentaria a través de la agricultura mixta a pequeña escala, sobre todo en un contexto urbano, donde los precios de los alimentos en los supermercados son especialmente elevados debido a la gran dependencia de la Polinesia Francesa de las importaciones.",
+    "de": "In Französisch-Polynesien verteilt die Landwirtschafts- und Fischereikammer der Lagune Gemüsegarten-Kits (genannt Kit Fa'a'apu solidaires) an Familien in prekären und armen Verhältnissen, die von den Sozialdiensten aufgelistet werden. Diese jüngste Initiative zielt darauf ab, die Familien an die Selbstversorgung mit Nahrungsmitteln durch kleinen Polyanbau von Nahrungsmitteln heranzuführen, insbesondere im städtischen Kontext, wo die Preise für Lebensmittel in Supermärkten aufgrund der starken Importabhängigkeit Französisch-Polynesiens besonders hoch sind."
+  },
   "field": [
     "sociology"
   ],
   "lang": "fr",
   "location": "Polynésie française",
-  "name": "Kit Fa'a'apu Solidaire",
+  "name": {
+    "fr": "Kit Fa'a'apu Solidaire",
+    "en": "Fa'a'apu Solidaire Kit",
+    "es": "Kit Solidario Fa'a'apu",
+    "de": "Fa'a'apu Solidarity Kit"
+  },
   "pubId": 431652,
   "score": 997.0064516129173,
   "state": "ongoing-project",
@@ -40,28 +50,5 @@
   ],
   "url": "https://www.facebook.com/watch/?v=908393423748043",
   "yt": "BReL2mbH3ww",
-  "zone": [
-    3,
-    6
-  ],
-  "lastEvent": {
-    "at": 1692398092,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1692398092,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

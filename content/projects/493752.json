@@ -13,7 +13,12 @@
   ],
   "createdAt": 1755004854,
   "date": null,
-  "description": "The Hidroponía Sotelo initiative, led by an engineer in Peru, addresses food security challenges through hydroponics. This innovative project utilizes a nutrient solution in controlled environments to grow high-quality vegetables while conserving water and soil. Despite being in the research phase for two years, the team aims to scale up production and establish partnerships for funding and expertise, focusing on sustainable agricultural practices and technological advancements in plant monitoring.",
+  "description": {
+    "en": "The Hidroponía Sotelo initiative, led by an engineer in Peru, addresses food security challenges through hydroponics. This innovative project utilizes a nutrient solution in controlled environments to grow high-quality vegetables while conserving water and soil. Despite being in the research phase for two years, the team aims to scale up production and establish partnerships for funding and expertise, focusing on sustainable agricultural practices and technological advancements in plant monitoring.",
+    "fr": "L'initiative Hidroponía Sotelo, menée par un ingénieur au Pérou, s'attaque aux problèmes de sécurité alimentaire grâce à la culture hydroponique. Ce projet innovant utilise une solution nutritive dans des environnements contrôlés pour cultiver des légumes de haute qualité tout en conservant l'eau et le sol. Bien qu'elle soit en phase de recherche depuis deux ans, l'équipe vise à augmenter la production et à établir des partenariats pour le financement et l'expertise, en se concentrant sur les pratiques agricoles durables et les avancées technologiques dans le domaine de la surveillance des plantes.",
+    "es": "La iniciativa Hidroponía Sotelo, dirigida por un ingeniero en Perú, aborda los retos de la seguridad alimentaria a través de la hidroponía. Este innovador proyecto utiliza una solución nutritiva en entornos controlados para cultivar hortalizas de alta calidad conservando el agua y el suelo. A pesar de llevar dos años en fase de investigación, el equipo aspira a ampliar la producción y establecer asociaciones para obtener financiación y conocimientos especializados, centrándose en prácticas agrícolas sostenibles y avances tecnológicos en el control de las plantas.",
+    "de": "Die von einem peruanischen Ingenieur geleitete Initiative Hidroponía Sotelo stellt sich den Herausforderungen der Ernährungssicherheit durch Hydrokultur. Bei diesem innovativen Projekt wird eine Nährstofflösung in einer kontrollierten Umgebung verwendet, um hochwertiges Gemüse anzubauen und dabei Wasser und Boden zu schonen. Obwohl es sich seit zwei Jahren in der Forschungsphase befindet, will das Team die Produktion ausweiten und Partnerschaften für die Finanzierung und das Fachwissen aufbauen, wobei der Schwerpunkt auf nachhaltigen landwirtschaftlichen Verfahren und technologischen Fortschritten bei der Pflanzenüberwachung liegt."
+  },
   "field": [
     "engineering-and-technology",
     "nutrition",
@@ -21,7 +26,13 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Hidroponia Sotelo",
+  "name": {
+    "ro": "Hidroponia Sotelo",
+    "en": "Hydroponics Sotelo",
+    "fr": "Hydroponique Sotelo",
+    "es": "Hidroponía Sotelo",
+    "de": "Hydroponik Sotelo"
+  },
   "pubId": 493752,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -43,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "ro"
 }

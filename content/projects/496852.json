@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755088108,
   "date": null,
-  "description": "Agrayu is an innovative platform, aimed at enhancing the profitability of family farmers in Peru. By providing traceable agricultural inputs and tailored technical advice, Agrayu empowers farmers through specialized farm programs. The initiative aims to democratize agricultural competitiveness, ensuring that small-scale farmers have access to the same resources as larger agribusinesses. With a focus on sustainability and community impact, Agros is transforming the agricultural landscape for countless families.",
+  "description": {
+    "en": "Agrayu is an innovative platform, aimed at enhancing the profitability of family farmers in Peru. By providing traceable agricultural inputs and tailored technical advice, Agrayu empowers farmers through specialized farm programs. The initiative aims to democratize agricultural competitiveness, ensuring that small-scale farmers have access to the same resources as larger agribusinesses. With a focus on sustainability and community impact, Agros is transforming the agricultural landscape for countless families.",
+    "fr": "Agrayu est une plateforme innovante qui vise à améliorer la rentabilité des agriculteurs familiaux au Pérou. En fournissant des intrants agricoles traçables et des conseils techniques personnalisés, Agrayu renforce les capacités des agriculteurs grâce à des programmes agricoles spécialisés. L'initiative vise à démocratiser la compétitivité agricole, en veillant à ce que les petits exploitants aient accès aux mêmes ressources que les grandes entreprises agroalimentaires. En mettant l'accent sur la durabilité et l'impact sur la communauté, Agros transforme le paysage agricole pour d'innombrables familles.",
+    "es": "Agrayu es una plataforma innovadora, destinada a mejorar la rentabilidad de los agricultores familiares de Perú. Al proporcionar insumos agrícolas trazables y asesoramiento técnico personalizado, Agrayu empodera a los agricultores a través de programas agrícolas especializados. La iniciativa pretende democratizar la competitividad agrícola, garantizando que los pequeños agricultores tengan acceso a los mismos recursos que las grandes empresas agrícolas. Centrada en la sostenibilidad y el impacto comunitario, Agros está transformando el panorama agrícola para innumerables familias.",
+    "de": "Agrayu ist eine innovative Plattform, die darauf abzielt, die Rentabilität von Familienbetrieben in Peru zu steigern. Durch die Bereitstellung von rückverfolgbaren landwirtschaftlichen Betriebsmitteln und maßgeschneiderter technischer Beratung stärkt Agrayu die Landwirte durch spezialisierte Agrarprogramme. Die Initiative zielt darauf ab, die Wettbewerbsfähigkeit der Landwirtschaft zu demokratisieren und sicherzustellen, dass Kleinbauern Zugang zu denselben Ressourcen haben wie größere Agrarunternehmen. Mit dem Schwerpunkt auf Nachhaltigkeit und Auswirkungen auf die Gemeinschaft verändert Agros die landwirtschaftliche Landschaft für unzählige Familien."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agrayu",
+  "name": {
+    "en": "Agrayu",
+    "fr": "Agrayu",
+    "es": "Agrayu",
+    "de": "Agrayu"
+  },
   "pubId": 496852,
   "score": 70.56460162000066,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "NPTaVn3ptnY",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1756738118,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1756738118
     }
   ],
-  "lastEvent": {
-    "at": 1756738118,
-    "by": "contact"
-  },
   "updatedAt": [
     1756738118
-  ]
+  ],
+  "originalLang": "fr"
 }

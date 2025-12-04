@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754560006,
   "date": null,
-  "description": "The initiative is an international research project focused on enhancing sustainability in the food sector. Led by the Institute for Advanced Studies in Paris and the Centre for Complexity Sciences in Vienna, it aims to identify local sustainable production cases across various stages of the food chain. The project, funded by the Nomis Foundation, involves a team of interviewers in Argentina who will document and analyze these initiatives, contributing to a global understanding of sustainable practices in food production.",
+  "description": {
+    "en": "The initiative is an international research project focused on enhancing sustainability in the food sector. Led by the Institute for Advanced Studies in Paris and the Center for Complexity Sciences in Vienna, it aims to identify local cases of sustainable production at different stages of the food chain. The project, funded by the Nomis Foundation, has a team of interviewers in Argentina who will document and analyze these initiatives, contributing to a global understanding of sustainable practices in food production.",
+    "fr": "Cette initiative est un projet de recherche international axé sur l'amélioration de la durabilité dans le secteur alimentaire. Dirigé par l'Institut d'études avancées de Paris et le Centre for Complexity Sciences de Vienne, il vise à identifier des cas locaux de production durable à différents stades de la chaîne alimentaire. Le projet, financé par la Fondation Nomis, dispose d'une équipe d'enquêteurs en Argentine qui documenteront et analyseront ces initiatives, contribuant ainsi à une compréhension globale des pratiques durables dans la production alimentaire.",
+    "es": "La iniciativa es un proyecto internacional de investigación centrado en potenciar la sostenibilidad en el sector alimentario. Dirigido por el Instituto de Estudios Avanzados de París y el Centro de Ciencias de la Complejidad de Viena, su objetivo es identificar casos locales de producción sostenible en las distintas fases de la cadena alimentaria. El proyecto, financiado por la Fundación Nomis, cuenta con un equipo de entrevistadores en Argentina que documentarán y analizarán estas iniciativas, contribuyendo a una comprensión global de las prácticas sostenibles en la producción de alimentos.",
+    "de": "Die Initiative ist ein internationales Forschungsprojekt, das sich auf die Verbesserung der Nachhaltigkeit im Lebensmittelsektor konzentriert. Das Projekt wird vom Institute for Advanced Studies in Paris und dem Centre for Complexity Sciences in Wien geleitet und zielt darauf ab, lokale Fälle nachhaltiger Produktion in verschiedenen Phasen der Lebensmittelkette zu identifizieren. Das von der Nomis-Stiftung finanzierte Projekt umfasst ein Team von Interviewern in Argentinien, die diese Initiativen dokumentieren und analysieren und so zu einem globalen Verständnis von nachhaltigen Praktiken in der Lebensmittelproduktion beitragen werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Molino Mayal",
+  "name": {
+    "it": "Molino Mayal",
+    "en": "Mayal Mill",
+    "fr": "Moulin de Mayal",
+    "es": "Molino Mayal",
+    "de": "Mayal-Mühle"
+  },
   "pubId": 460052,
   "score": -20.405881967970608,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

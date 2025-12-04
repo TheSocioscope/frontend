@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754476383,
   "date": null,
-  "description": " This initiative focuses on exploring regenerative agriculture practices in a rural community. It began with a community project that engaged multiple families in sustainable farming but faced challenges due to declining participation and rising land costs. The original project has since ceased operations, leading to a smaller, individual effort by a dedicated farmer who now grows organic produce. Despite facing obstacles such as limited market access and the need for secure land, the farmer remains committed to sustainable practices and aims to continue his work in a more stable environment.",
+  "description": {
+    "en": " This initiative focuses on exploring regenerative agriculture practices in a rural community. It began with a community project involving several families in sustainable agriculture, but faced difficulties due to declining participation and rising land costs. The original project has ceased operations, resulting in a smaller individual effort by a dedicated farmer who now grows organic produce. Despite facing obstacles such as limited market access and the need for secure land, the farmer remains committed to sustainable practices and aspires to continue his work in a more stable environment.",
+    "fr": " Cette initiative se concentre sur l'exploration des pratiques agricoles régénératrices dans une communauté rurale. Elle a débuté par un projet communautaire impliquant plusieurs familles dans l'agriculture durable, mais a rencontré des difficultés en raison de la baisse de la participation et de l'augmentation du coût des terres. Le projet initial a cessé ses activités, ce qui a donné lieu à un effort individuel plus modeste de la part d'un agriculteur dévoué qui cultive aujourd'hui des produits biologiques. Malgré des obstacles tels que l'accès limité au marché et la nécessité de disposer de terres sûres, l'agriculteur reste attaché aux pratiques durables et aspire à poursuivre son travail dans un environnement plus stable.",
+    "es": " Esta iniciativa se centra en explorar prácticas de agricultura regenerativa en una comunidad rural. Comenzó con un proyecto comunitario que implicaba a varias familias en la agricultura sostenible, pero se enfrentó a dificultades debido a la disminución de la participación y al aumento de los costes de la tierra. El proyecto original ha cesado sus operaciones, lo que ha dado lugar a un esfuerzo individual más pequeño por parte de un agricultor dedicado que ahora cultiva productos orgánicos. A pesar de enfrentarse a obstáculos como el acceso limitado al mercado y la necesidad de tierras seguras, el agricultor sigue comprometido con las prácticas sostenibles y aspira a continuar su trabajo en un entorno más estable.",
+    "de": " Diese Initiative konzentriert sich auf die Erforschung regenerativer Landwirtschaftspraktiken in einer ländlichen Gemeinde. Sie begann mit einem Gemeinschaftsprojekt, das mehrere Familien in die nachhaltige Landwirtschaft einbezog, aber aufgrund sinkender Beteiligung und steigender Grundstückskosten vor Herausforderungen stand. Das ursprüngliche Projekt wurde eingestellt und führte zu einer kleineren, individuellen Anstrengung eines engagierten Landwirts, der nun organische Produkte anbaut. Despite facing obstacles such as limited market access and the need for secure land, the farmer remains committed to sustainable practices and aims to continue his work in a more stable environment."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Huerta Tierra Magica ",
+  "name": {
+    "es": "Huerta Tierra Magica ",
+    "en": "Tierra Magica Orchard",
+    "de": "Tierra Magica Gemüsegarten",
+    "fr": "Tierra Magica Orchard"
+  },
   "pubId": 465852,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

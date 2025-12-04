@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754912017,
   "date": null,
-  "description": "The initiative \"C'est qui le patron?\" aims to empower consumers by allowing them to choose products that ensure fair compensation for producers. Inspired by projects collecting imperfect vegetables that would otherwise be thrown out,  the initiative was founded in 2016, with a milk product, encouraging consumers to pay a little more to support farmers. The cooperative model fosters direct connections between producers and consumers, promoting transparency and sustainability in food production while challenging traditional pricing norms in the market.",
+  "description": {
+    "en": "The initiative \"C'est qui le patron?\" aims to empower consumers by allowing them to choose products that ensure fair compensation for producers. Inspired by projects collecting imperfect vegetables that would otherwise be thrown out,  the initiative was founded in 2016, with a milk product, encouraging consumers to pay a little more to support farmers. The cooperative model fosters direct connections between producers and consumers, promoting transparency and sustainability in food production while challenging traditional pricing norms in the market.",
+    "fr": "L'initiative \"C'est qui le patron ?\" vise à responsabiliser les consommateurs en leur permettant de choisir des produits qui assurent une juste rémunération aux producteurs. Inspirée par des projets de collecte de légumes imparfaits qui seraient autrement jetés, l'initiative a été fondée en 2016, avec un produit laitier, encourageant les consommateurs à payer un peu plus pour soutenir les agriculteurs. Le modèle coopératif favorise les connexions directes entre les producteurs et les consommateurs, encourageant la transparence et la durabilité dans la production alimentaire tout en remettant en question les normes de prix traditionnelles sur le marché.",
+    "es": "La iniciativa \"C'est qui le patron?\" pretende empoderar a los consumidores permitiéndoles elegir productos que garanticen una compensación justa a los productores. Inspirada en proyectos de recogida de verduras imperfectas que de otro modo se tirarían, la iniciativa se fundó en 2016, con un producto lácteo, animando a los consumidores a pagar un poco más para apoyar a los agricultores. El modelo cooperativo fomenta las conexiones directas entre productores y consumidores, promoviendo la transparencia y la sostenibilidad en la producción de alimentos al tiempo que desafía las normas tradicionales de fijación de precios en el mercado.",
+    "de": "Die Initiative \"C'est qui le patron?\" will den Verbrauchern die Möglichkeit geben, sich für Produkte zu entscheiden, die eine faire Entlohnung der Erzeuger gewährleisten. Inspiriert von Projekten, die unvollkommenes Gemüse sammeln, das sonst weggeworfen würde, wurde die Initiative 2016 mit einem Milchprodukt gegründet, das die Verbraucher ermutigt, etwas mehr zu zahlen, um die Landwirte zu unterstützen. Das Genossenschaftsmodell fördert direkte Verbindungen zwischen Erzeugern und Verbrauchern, Transparenz und Nachhaltigkeit in der Lebensmittelproduktion und stellt gleichzeitig traditionelle Preisnormen auf dem Markt in Frage."
+  },
   "field": [
     "communication-and-media-studies",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "C'est qui le patron?",
+  "name": {
+    "fr": "C'est qui le patron?",
+    "en": "Who's the boss?",
+    "es": "¿Quién es el jefe?",
+    "de": "Wer ist der Boss?"
+  },
   "pubId": 483952,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739463953,
   "date": null,
-  "description": "Greenland is an initiative that emerged from a collaboration of 36 banana farms in Apartado, Colombia, aimed at fostering social and environmental sustainability in the region. Established over 30 years ago, the foundation operates on four key pillars: health, housing, sports, and education, focusing on improving the living conditions and well-being of its workers and their families. The foundation not only provides housing assistance and health care but also engages in community investment by creating infrastructure and supporting local sports programs. Additionally, it addresses food security by utilizing surplus bananas to produce banana flour, which is distributed to underprivileged areas.",
+  "description": {
+    "en": "Groenlandia is a collaborative initiative of 36 banana farms in Apartadó, Colombia, aimed at promoting social and environmental sustainability in the region. Established more than 30 years ago, the foundation operates on four key pillars: health, housing, sports and education, focusing on improving the living conditions and well-being of its workers and their families. The foundation not only provides housing and healthcare assistance, but also engages in community investment by building infrastructure and supporting local sports programs. In addition, it addresses food security by using surplus bananas to produce banana flour, which is distributed to disadvantaged areas.",
+    "fr": "Groenlandia est une initiative de collaboration entre 36 exploitations bananières d'Apartadó, en Colombie, visant à promouvoir la durabilité sociale et environnementale dans la région. Créée il y a plus de 30 ans, la fondation s'appuie sur quatre piliers : la santé, le logement, le sport et l'éducation, et s'attache à améliorer les conditions de vie et le bien-être de ses travailleurs et de leurs familles. La fondation ne se contente pas de fournir une assistance en matière de logement et de soins de santé, elle s'engage également dans l'investissement communautaire en construisant des infrastructures et en soutenant des programmes sportifs locaux. En outre, elle s'intéresse à la sécurité alimentaire en utilisant les bananes excédentaires pour produire de la farine de banane, qui est distribuée dans les zones défavorisées.",
+    "es": "Groenlandia es una iniciativa surgida de la colaboración de 36 fincas bananeras de Apartadó (Colombia), destinada a fomentar la sostenibilidad social y medioambiental de la región. Establecida hace más de 30 años, la fundación opera sobre cuatro pilares clave: salud, vivienda, deportes y educación, centrándose en mejorar las condiciones de vida y el bienestar de sus trabajadores y sus familias. La fundación no sólo proporciona asistencia en materia de vivienda y atención sanitaria, sino que también participa en la inversión comunitaria mediante la creación de infraestructuras y el apoyo a programas deportivos locales. Además, aborda la seguridad alimentaria utilizando los excedentes de plátanos para producir harina de plátano, que se distribuye a zonas desfavorecidas.",
+    "de": "Greenland ist eine Initiative, die aus einer Zusammenarbeit von 36 Bananenfarmen in Apartado, Kolumbien, hervorgegangen ist und die soziale und ökologische Nachhaltigkeit in der Region fördern soll. Die Stiftung wurde vor über 30 Jahren gegründet und arbeitet auf vier Säulen: Gesundheit, Wohnen, Sport und Bildung, wobei sie sich auf die Verbesserung der Lebensbedingungen und des Wohlbefindens ihrer Beschäftigten und deren Familien konzentriert. Die Stiftung bietet nicht nur Wohnraum und Gesundheitsversorgung, sondern engagiert sich auch in der Gemeinde, indem sie Infrastruktur schafft und lokale Sportprogramme unterstützt. Darüber hinaus adressiert sie die Ernährungssicherheit, indem sie überschüssige Bananen zur Herstellung von Bananenmehl verwendet, das an unterprivilegierte Gebiete verteilt wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Greenland",
+  "name": {
+    "en": "Greenland",
+    "fr": "Greenland",
+    "es": "Groenlandia",
+    "de": "Greenland"
+  },
   "pubId": 442252,
   "score": 106.00196078431456,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://greenland.co/",
   "yt": "to55jFBzr-o",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

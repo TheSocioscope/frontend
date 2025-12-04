@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754995178,
   "date": null,
-  "description": "Urapanes del Bosque is a family-run tourism and nature enterprise located in the stunning Araime Canyon of Cajamarca, Colombia. Established in 2018, it transitioned from agriculture to eco-tourism, offering unique accommodations in tree houses. The initiative emphasizes sustainable practices, community involvement, and local gastronomy, providing guests with an immersive experience in nature. Urapanes del Bosque aims to promote environmental conservation while supporting local farmers and artisans, creating a harmonious balance between tourism and community welfare.",
+  "description": {
+    "en": "Urapanes del Bosque is a family-run tourism and nature enterprise located in the stunning Araime Canyon of Cajamarca, Colombia. Established in 2018, it transitioned from agriculture to eco-tourism, offering unique accommodations in tree houses. The initiative emphasizes sustainable practices, community involvement, and local gastronomy, providing guests with an immersive experience in nature. Urapanes del Bosque aims to promote environmental conservation while supporting local farmers and artisans, creating a harmonious balance between tourism and community welfare.",
+    "fr": "Urapanes del Bosque est une entreprise familiale de tourisme et de nature située dans le magnifique canyon d'Araime à Cajamarca, en Colombie. Créée en 2018, elle est passée de l'agriculture à l'écotourisme et propose des hébergements uniques dans des cabanes dans les arbres. L'initiative met l'accent sur les pratiques durables, l'engagement communautaire et la gastronomie locale, offrant aux clients une expérience immersive dans la nature. Urapanes del Bosque vise à promouvoir la conservation de l'environnement tout en soutenant les agriculteurs et les artisans locaux, créant ainsi un équilibre harmonieux entre le tourisme et le bien-être de la communauté.",
+    "es": "Urapanes del Bosque es una empresa familiar de turismo y naturaleza situada en el impresionante cañón de Araime, en Cajamarca (Colombia). Fundada en 2018, pasó de la agricultura al ecoturismo, ofreciendo un alojamiento único en casas en los árboles. La iniciativa hace hincapié en las prácticas sostenibles, la participación de la comunidad y la gastronomía local, proporcionando a los huéspedes una experiencia de inmersión en la naturaleza. Urapanes del Bosque tiene como objetivo promover la conservación del medio ambiente al tiempo que apoya a los agricultores y artesanos locales, creando un equilibrio armonioso entre el turismo y el bienestar de la comunidad.",
+    "de": "Urapanes del Bosque ist ein familiengeführtes Tourismus- und Naturunternehmen in der atemberaubenden Araime-Schlucht in Cajamarca, Kolumbien. Es wurde 2018 gegründet und hat sich von der Landwirtschaft auf Ökotourismus umgestellt und bietet einzigartige Unterkünfte in Baumhäusern an. Die Initiative legt den Schwerpunkt auf nachhaltige Praktiken, das Engagement der Gemeinde und die lokale Gastronomie und bietet den Gästen ein intensives Naturerlebnis. Urapanes del Bosque zielt darauf ab, den Umweltschutz zu fördern und gleichzeitig lokale Landwirte und Kunsthandwerker zu unterstützen, um ein harmonisches Gleichgewicht zwischen Tourismus und Gemeinwohl zu schaffen."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Urapanes Del Bosque",
+  "name": {
+    "es": "Urapanes Del Bosque",
+    "en": "Urapanes Del Bosque",
+    "fr": "Urapanes Del Bosque",
+    "de": "Urapanes Del Bosque"
+  },
   "pubId": 481752,
   "score": 64.84227019987732,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

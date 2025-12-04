@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755004770,
   "date": null,
-  "description": "The Qumir Sunqu project focuses on urban gardening training and the production of biodegradable cultivation kits for vegetables and ornamental plants. Led by an agronomist, the initiative aims to enhance food security in Lima, addressing the challenges posed by urbanization and migration. With values of responsibility and coherence, the project emphasizes environmentally friendly practices throughout its processes, from training to production, fostering self-sufficiency in food production among vulnerable communities.",
+  "description": {
+    "en": "The Qumir Sunqu project focuses on urban gardening training and the production of biodegradable cultivation kits for vegetables and ornamental plants. Led by an agronomist, the initiative aims to enhance food security in Lima, addressing the challenges posed by urbanization and migration. With values of responsibility and coherence, the project emphasizes environmentally friendly practices throughout its processes, from training to production, fostering self-sufficiency in food production among vulnerable communities.",
+    "fr": "Le projet Qumir Sunqu se concentre sur la formation au jardinage urbain et la production de kits de culture biodégradables pour les légumes et les plantes ornementales. Dirigée par un agronome, l'initiative vise à renforcer la sécurité alimentaire à Lima, en relevant les défis posés par l'urbanisation et la migration. Avec des valeurs de responsabilité et de cohérence, le projet met l'accent sur des pratiques respectueuses de l'environnement tout au long de ses processus, de la formation à la production, favorisant ainsi l'autosuffisance alimentaire des communautés vulnérables.",
+    "es": "El proyecto Qumir Sunqu se centra en la formación en jardinería urbana y la producción de kits de cultivo biodegradables para hortalizas y plantas ornamentales. Dirigida por un agrónomo, la iniciativa pretende mejorar la seguridad alimentaria en Lima, afrontando los retos que plantean la urbanización y la migración. Con valores de responsabilidad y coherencia, el proyecto hace hincapié en las prácticas respetuosas con el medio ambiente en todos sus procesos, desde la formación hasta la producción, fomentando la autosuficiencia en la producción de alimentos entre las comunidades vulnerables.",
+    "de": "Das Projekt Qumir Sunqu konzentriert sich auf die Ausbildung im städtischen Gartenbau und die Herstellung von biologisch abbaubaren Anbausätzen für Gemüse und Zierpflanzen. Die von einem Agrarwissenschaftler geleitete Initiative zielt darauf ab, die Ernährungssicherheit in Lima zu verbessern und die Herausforderungen der Urbanisierung und Migration zu bewältigen. Das Projekt, das auf Verantwortung und Kohärenz setzt, betont umweltfreundliche Praktiken in allen seinen Prozessen, von der Ausbildung bis zur Produktion, und fördert die Selbstversorgung mit Nahrungsmitteln in gefährdeten Gemeinschaften."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Qumir Sunqu",
+  "name": {
+    "es": "Qumir Sunqu",
+    "en": "Qumir Sunqu",
+    "fr": "Qumir Sunqu",
+    "de": "Qumir Sunqu"
+  },
   "pubId": 493652,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

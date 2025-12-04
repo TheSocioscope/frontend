@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754406354,
   "date": null,
-  "description": "The El Comahue beekeepers' cooperative, the largest in Río Negro, promotes sustainable beekeeping, enhancing biodiversity through pollination. Established with government support, it comprises 28 members who collectively produce high-quality honey and honey wax. The cooperative model ensures food safety, profitability, and a strong community, attracting new beekeepers, including those seeking additional income. Their future plans include expanding membership and exploring export opportunities, highlighting the cooperative's success and potential for growth.",
+  "description": {
+    "en": "El Comahue beekeepers' cooperative, the largest in Río Negro, promotes sustainable beekeeping, improving biodiversity through pollination. Created with government support, it has 28 members who collectively produce high-quality honey and wax. The cooperative model ensures food security, profitability and a strong community, attracting new beekeepers, including those seeking additional income. Its future plans include expanding membership and exploring export opportunities, highlighting the cooperative's success and growth potential.",
+    "fr": "La coopérative d'apiculteurs El Comahue, la plus importante de Río Negro, promeut l'apiculture durable et renforce la biodiversité grâce à la pollinisation. Créée avec le soutien du gouvernement, elle compte 28 membres qui produisent collectivement du miel et de la cire de haute qualité. Le modèle coopératif garantit la sécurité alimentaire, la rentabilité et une communauté forte, attirant de nouveaux apiculteurs, y compris ceux qui cherchent un revenu supplémentaire. Les projets futurs comprennent l'augmentation du nombre de membres et l'exploration des possibilités d'exportation, soulignant ainsi le succès et le potentiel de croissance de la coopérative.",
+    "es": "La cooperativa de apicultores El Comahue, la mayor de Río Negro, promueve la apicultura sostenible, mejorando la biodiversidad a través de la polinización. Creada con el apoyo del gobierno, cuenta con 28 miembros que producen colectivamente miel y cera de alta calidad. El modelo cooperativo garantiza la seguridad alimentaria, la rentabilidad y una comunidad fuerte, atrayendo a nuevos apicultores, incluidos los que buscan ingresos adicionales. Sus planes de futuro incluyen ampliar el número de miembros y explorar oportunidades de exportación, lo que pone de relieve el éxito de la cooperativa y su potencial de crecimiento.",
+    "de": "The El Comahue beekeepers' cooperative, the largest in Río Negro, promotes sustainable beekeeping, enhancing biodiversity through pollination. Sie wurde mit staatlicher Unterstützung gegründet und besteht aus 28 Mitgliedern, die gemeinsam hochwertigen Honig und Honigwachs herstellen. Das Genossenschaftsmodell gewährleistet Nahrungsmittelsicherheit, Rentabilität und eine starke Gemeinschaft, die neue Bienenzüchter anzieht, darunter auch solche, die ein zusätzliches Einkommen erzielen wollen. Ihre Zukunftspläne umfassen die Erweiterung der Mitgliedschaft und die Erkundung von Exportmöglichkeiten, wodurch der Erfolg und das Wachstumspotenzial der Genossenschaft hervorgehoben werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "El Comahue",
+  "name": {
+    "es": "El Comahue",
+    "en": "El Comahue",
+    "fr": "La Comahue",
+    "de": "Die Komahue"
+  },
   "pubId": 450952,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

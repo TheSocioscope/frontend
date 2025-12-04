@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755009298,
   "date": null,
-  "description": "The initiative focuses on transitioning from conventional to regenerative agriculture, emphasizing sustainable practices that enhance soil health and biodiversity. Launched by a ninth-generation farming family, it aims to educate and support others in adopting these methods through courses and consultancy. By sharing their journey and experiences, they seek to create scalable models for regenerative agriculture, ultimately improving environmental conditions and promoting a healthier food system.",
+  "description": {
+    "en": "The initiative focuses on transitioning from conventional to regenerative agriculture, emphasizing sustainable practices that enhance soil health and biodiversity. Launched by a ninth-generation farming family, it aims to educate and support others in adopting these methods through courses and consultancy. By sharing their journey and experiences, they seek to create scalable models for regenerative agriculture, ultimately improving environmental conditions and promoting a healthier food system.",
+    "fr": "L'initiative se concentre sur le passage d'une agriculture conventionnelle à une agriculture régénératrice, en mettant l'accent sur des pratiques durables qui améliorent la santé des sols et la biodiversité. Lancée par une famille d'agriculteurs de la neuvième génération, elle vise à éduquer et à aider d'autres personnes à adopter ces méthodes par le biais de cours et de conseils. En partageant leur parcours et leurs expériences, ils cherchent à créer des modèles évolutifs pour l'agriculture régénératrice, afin d'améliorer les conditions environnementales et de promouvoir un système alimentaire plus sain.",
+    "es": "La iniciativa se centra en la transición de la agricultura convencional a la regenerativa, haciendo hincapié en las prácticas sostenibles que mejoran la salud del suelo y la biodiversidad. Lanzada por una familia de agricultores de novena generación, su objetivo es educar y apoyar a otros en la adopción de estos métodos a través de cursos y consultoría. Al compartir su viaje y sus experiencias, pretenden crear modelos escalables de agricultura regenerativa que, en última instancia, mejoren las condiciones medioambientales y promuevan un sistema alimentario más sano.",
+    "de": "Die Initiative konzentriert sich auf den Übergang von der konventionellen zur regenerativen Landwirtschaft und legt den Schwerpunkt auf nachhaltige Praktiken, die die Bodengesundheit und die biologische Vielfalt fördern. Sie wurde von einer Landwirtsfamilie in der neunten Generation ins Leben gerufen und hat das Ziel, andere bei der Übernahme dieser Methoden durch Kurse und Beratung aufzuklären und zu unterstützen. Indem sie ihren Weg und ihre Erfahrungen mit anderen teilen, wollen sie skalierbare Modelle für eine regenerative Landwirtschaft schaffen, um letztlich die Umweltbedingungen zu verbessern und ein gesünderes Lebensmittelsystem zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "The Regen Academy",
+  "name": {
+    "en": "The Regen Academy",
+    "fr": "L'Académie Regen",
+    "es": "La Academia Regen",
+    "de": "Die Regenerationsakademie"
+  },
   "pubId": 496052,
   "score": -36.17017408716356,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "en"
 }

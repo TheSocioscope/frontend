@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739457717,
   "date": null,
-  "description": "The Te Kakano project is primarily about habitat restoration and community engagement in New Zealand. It was initiated around 16 years ago with the goal of reintroducing native plants and restoring ecosystems that have been altered or damaged over time. The project emphasizes the importance of connecting the local community with their environment by involving them in hands-on activities such as planting and caring for native plants. The initiative also focuses on eco-sourcing, using locally sourced seeds to ensure that the plants are well adapted to the local climate and ecosystem. Through education programs and volunteer opportunities, Te Kakano aims to foster a sense of ownership and stewardship among community members, ultimately contributing to the preservation of New Zealand's unique flora and fauna.",
+  "description": {
+    "en": "The Te Kakano project focuses primarily on habitat restoration and community involvement in New Zealand. It was initiated some 16 years ago with the aim of reintroducing native plants and restoring ecosystems that have been altered or damaged over time. The project emphasizes the importance of connecting the local community to their environment by involving them in practical activities such as planting and caring for native plants. The initiative also focuses on green sourcing, using locally sourced seeds to ensure that the plants are well adapted to the local climate and ecosystem. Through educational programs and volunteer opportunities, Te Kakano aims to foster a sense of ownership and stewardship among community members, ultimately helping to preserve New Zealand's unique flora and fauna.",
+    "fr": "Le projet Te Kakano se concentre principalement sur la restauration des habitats et l'engagement communautaire en Nouvelle-Zélande. Il a été lancé il y a environ 16 ans dans le but de réintroduire des plantes indigènes et de restaurer les écosystèmes qui ont été altérés ou endommagés au fil du temps. Le projet met l'accent sur l'importance de relier la communauté locale à son environnement en l'impliquant dans des activités pratiques telles que la plantation et l'entretien de plantes indigènes. L'initiative se concentre également sur l'approvisionnement écologique, en utilisant des graines d'origine locale pour s'assurer que les plantes sont bien adaptées au climat et à l'écosystème locaux. Grâce à des programmes éducatifs et à des possibilités de bénévolat, Te Kakano vise à susciter un sentiment d'appropriation et d'intendance parmi les membres de la communauté, ce qui contribuera en fin de compte à préserver la flore et la faune uniques de la Nouvelle-Zélande.",
+    "es": "El proyecto Te Kakano se centra principalmente en la restauración de hábitats y la participación comunitaria en Nueva Zelanda. Se inició hace unos 16 años con el objetivo de reintroducir plantas autóctonas y restaurar ecosistemas alterados o dañados por el paso del tiempo. El proyecto hace hincapié en la importancia de conectar a la comunidad local con su entorno implicándola en actividades prácticas como la plantación y el cuidado de plantas autóctonas. La iniciativa también se centra en el abastecimiento ecológico, utilizando semillas de origen local para garantizar que las plantas se adapten bien al clima y al ecosistema locales. Mediante programas educativos y oportunidades de voluntariado, Te Kakano pretende fomentar un sentimiento de propiedad y administración entre los miembros de la comunidad, contribuyendo en última instancia a preservar la flora y fauna únicas de Nueva Zelanda.",
+    "de": "Das Te Kakano-Projekt befasst sich in erster Linie mit der Wiederherstellung von Lebensräumen und dem Engagement der Gemeinschaft in Neuseeland. Es wurde vor etwa 16 Jahren mit dem Ziel initiiert, einheimische Pflanzen wieder einzuführen und Ökosysteme wiederherzustellen, die im Laufe der Zeit verändert oder geschädigt wurden. Das Projekt betont die Wichtigkeit, die lokale Gemeinschaft mit ihrer Umwelt zu verbinden, indem man sie in Hands-on-Aktivitäten wie Pflanzung und Pflege einheimischer Pflanzen einbezieht. Die Initiative konzentriert sich auch auf Öko-Sourcing, indem sie lokal geerntetes Saatgut verwendet, um sicherzustellen, dass die Pflanzen gut an das lokale Klima und Ökosystem angepasst sind. Durch Bildungsprogramme und Freiwilligenarbeit will Te Kakano ein Gefühl der Eigenverantwortung und Fürsorge unter den Gemeindemitgliedern fördern und so letztendlich zum Erhalt der einzigartigen Flora und Fauna Neuseelands beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Te Kakano",
+  "name": {
+    "en": "Te Kakano",
+    "fr": "Te Kakano",
+    "es": "Te Kakano",
+    "de": "Te Kakano"
+  },
   "pubId": 440052,
   "score": 163.70196078431331,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://tekakano.org.nz/",
   "yt": "zFv0O65Ve5c",
-  "zone": [
-    4,
-    6
-  ]
+  "originalLang": "fr"
 }

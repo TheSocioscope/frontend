@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754561688,
   "date": null,
-  "description": "Deep Agro is an innovative company that leverages artificial intelligence to address agricultural challenges, particularly in weed control. Founded in 2017, it aims to optimize the use of agrochemicals, reducing waste and environmental impact. By developing advanced technologies and algorithms, Deep Agro enables targeted herbicide applications, significantly improving efficiency for farmers. With a focus on sustainability, the company is expanding its solutions to various crops and markets, striving to revolutionize agricultural practices globally.",
+  "description": {
+    "en": "Deep Agro is an innovative company that leverages artificial intelligence to address the challenges of agriculture, especially in weed control. Founded in 2017, it aims to optimize the use of agrochemicals, reducing waste and environmental impact. By developing advanced technologies and algorithms, Deep Agro enables targeted herbicide applications, significantly improving efficiency for farmers. With a focus on sustainability, the company is expanding its solutions to diverse crops and markets, striving to revolutionize agricultural practices globally.",
+    "fr": "Deep Agro est une entreprise innovante qui exploite l'intelligence artificielle pour relever les défis de l'agriculture, notamment en matière de désherbage. Fondée en 2017, elle vise à optimiser l'utilisation des produits agrochimiques, en réduisant les déchets et l'impact sur l'environnement. En développant des technologies et des algorithmes avancés, Deep Agro permet des applications ciblées d'herbicides, améliorant considérablement l'efficacité pour les agriculteurs. En mettant l'accent sur la durabilité, l'entreprise étend ses solutions à diverses cultures et marchés, s'efforçant de révolutionner les pratiques agricoles à l'échelle mondiale.",
+    "es": "Deep Agro es una empresa innovadora que aprovecha la inteligencia artificial para hacer frente a los retos de la agricultura, especialmente en el control de las malas hierbas. Fundada en 2017, su objetivo es optimizar el uso de productos agroquímicos, reduciendo los residuos y el impacto medioambiental. Mediante el desarrollo de tecnologías y algoritmos avanzados, Deep Agro permite aplicaciones de herbicidas específicas, mejorando significativamente la eficiencia para los agricultores. Con un enfoque en la sostenibilidad, la empresa está expandiendo sus soluciones a diversos cultivos y mercados, esforzándose por revolucionar las prácticas agrícolas a nivel mundial.",
+    "de": "Deep Agro ist ein innovatives Unternehmen, das künstliche Intelligenz einsetzt, um Herausforderungen in der Landwirtschaft zu bewältigen, insbesondere bei der Unkrautbekämpfung. Das 2017 gegründete Unternehmen zielt darauf ab, den Einsatz von Agrochemikalien zu optimieren, Abfall zu reduzieren und die Umweltbelastung zu verringern. Durch die Entwicklung fortschrittlicher Technologien und Algorithmen ermöglicht Deep Agro gezielte Herbizidanwendungen, wodurch die Effizienz für Landwirte deutlich verbessert wird. Mit einem Fokus auf Nachhaltigkeit erweitert das Unternehmen seine Lösungen auf verschiedene Kulturpflanzen und Märkte und strebt danach, die landwirtschaftlichen Praktiken weltweit zu revolutionieren."
+  },
   "field": [
     "nutrition",
     "information-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Deep Agro",
+  "name": {
+    "en": "Deep Agro",
+    "fr": "Deep Agro",
+    "es": "Deep Agro",
+    "de": "Deep Agro"
+  },
   "pubId": 461052,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

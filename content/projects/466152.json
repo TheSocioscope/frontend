@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754477478,
   "date": null,
-  "description": "Finca Organica San Luis is an organic farm located near San Jose, Costa Rica, primarily focused on growing and selling vegetables to local consumers. The farm emphasizes sustainable practices and community engagement. They offer tours to educate visitors about organic farming and aim to expand their educational initiatives. With a commitment to environmental stewardship, the farm balances economic sustainability with a passion for nurturing the land.                                               ",
+  "description": {
+    "en": "Finca Orgánica San Luis is an organic farm located near San José, Costa Rica, dedicated primarily to growing and selling vegetables to local consumers. The farm emphasizes sustainable practices and community involvement. They offer guided tours to educate visitors about organic farming and intend to expand their educational initiatives. Committed to protecting the environment, the farm balances economic sustainability with a passion for cultivating the land.                                               ",
+    "fr": "La Finca Orgánica San Luis est une ferme biologique située près de San José, au Costa Rica, qui se consacre principalement à la culture et à la vente de légumes aux consommateurs locaux. La ferme met l'accent sur les pratiques durables et l'implication de la communauté. Elle propose des visites guidées pour sensibiliser les visiteurs à l'agriculture biologique et vise à développer ses initiatives éducatives. Engagée dans la protection de l'environnement, la ferme concilie durabilité économique et passion pour la culture de la terre.                                               ",
+    "es": "La Finca Orgánica San Luis es una granja ecológica situada cerca de San José, Costa Rica, dedicada principalmente al cultivo y la venta de hortalizas a los consumidores locales. La finca hace hincapié en las prácticas sostenibles y la participación de la comunidad. Ofrecen visitas guiadas para educar a los visitantes sobre la agricultura ecológica y pretenden ampliar sus iniciativas educativas. Comprometida con la protección del medio ambiente, la granja equilibra la sostenibilidad económica con la pasión por cultivar la tierra.                                               ",
+    "de": "Die Finca Organica San Luis ist ein Bio-Bauernhof in der Nähe von San Jose, Costa Rica, der sich hauptsächlich auf den Anbau und den Verkauf von Gemüse an lokale Verbraucher konzentriert. Der Hof legt Wert auf nachhaltige Praktiken und kommunales Engagement. Sie bieten Touren an, um Besucher über den ökologischen Landbau aufzuklären, und möchten ihre Bildungsinitiativen ausbauen. Mit einem Bekenntnis zu Umweltmanagement balanciert der Hof wirtschaftliche Nachhaltigkeit mit einer Leidenschaft für die Pflege des Landes.                                               "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca Organica San Luis ",
+  "name": {
+    "it": "Finca Organica San Luis ",
+    "en": "Finca Organica San Luis",
+    "fr": "Finca Organica San Luis",
+    "es": "Finca Organica San Luis",
+    "de": "Finca Organica San Luis"
+  },
   "pubId": 466152,
   "score": -46.8535705283703,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "9UUZcQ4t6M4",
-  "zone": [
-    6,
-    3
-  ],
   "editedAt": 1760067496,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1760067496
     }
   ],
-  "lastEvent": {
-    "at": 1760067496,
-    "by": "contact"
-  },
   "updatedAt": [
     1760067496
-  ]
+  ],
+  "originalLang": "fr"
 }

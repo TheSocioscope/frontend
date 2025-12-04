@@ -12,13 +12,23 @@
   ],
   "createdAt": 1659087229,
   "date": null,
-  "description": "1/3 de ce que l'on produit dans le monde est gaspillé. C’est donc un tiers de l’eau, de l’énergie, des engrais, mais aussi un tiers du travail de nos agriculteurs qui part à la poubelle. En  France, 10 millions  de  tonnes  de  nourriture sont jetées  chaque année… Soit entre 20 et 30 kg par Français et par an : l’équivalent d’un repas par semaine. 16 milliards d'euros est le montant annuel estimé du gaspillage alimentaire en France. C’est pour relever ce déﬁ que Jean Moreau créé Phenix.\nPhenix Date : un outil préventif qui permet l’optimisation du contrôle des dates sur les produits en rayon. Il vous arrive d’oublier des produits dans votre frigo et vous rendre compte trop tard qu’ils ont dépassé leur date de péremption ? Pour les managers de rayons d’un supermarché, c’est la même chose. C’est pourquoi, Phenix a conçu ce scanner. Il alerte les managers de rayon à temps pour qu’ils retirent les produits et leur trouvent une filière de valorisation : don, vente en date courte ou alimentation animale par exemple.",
+  "description": {
+    "fr": "1/3 de ce que l'on produit dans le monde est gaspillé. C’est donc un tiers de l’eau, de l’énergie, des engrais, mais aussi un tiers du travail de nos agriculteurs qui part à la poubelle. En  France, 10 millions  de  tonnes  de  nourriture sont jetées  chaque année… Soit entre 20 et 30 kg par Français et par an : l’équivalent d’un repas par semaine. 16 milliards d'euros est le montant annuel estimé du gaspillage alimentaire en France. C’est pour relever ce déﬁ que Jean Moreau créé Phenix.\nPhenix Date : un outil préventif qui permet l’optimisation du contrôle des dates sur les produits en rayon. Il vous arrive d’oublier des produits dans votre frigo et vous rendre compte trop tard qu’ils ont dépassé leur date de péremption ? Pour les managers de rayons d’un supermarché, c’est la même chose. C’est pourquoi, Phenix a conçu ce scanner. Il alerte les managers de rayon à temps pour qu’ils retirent les produits et leur trouvent une filière de valorisation : don, vente en date courte ou alimentation animale par exemple.",
+    "en": "1/3 of what we produce in the world is wasted. This means that a third of the water, energy and fertilizers we use, as well as a third of the work done by our farmers, goes to waste. In France, 10 million tonnes of food are thrown away every year... That's between 20 and 30 kg per French person per year: the equivalent of one meal a week. 16 billion euros is the estimated annual amount of food waste in France. Jean Moreau created Phenix to meet this challenge.\nPhenix Date: a preventive tool for optimizing date control on products on the shelf. Do you sometimes forget products in your fridge and realize too late that they're past their best-before date? For supermarket department managers, it's the same thing. That's why Phenix designed this scanner. It alerts department managers in time for them to remove the products and find a recycling channel for them: donation, short-date sale or animal feed, for example.",
+    "es": "1/3 de lo que producimos en el mundo se desperdicia. Esto significa que un tercio del agua, la energía y los fertilizantes que utilizamos, así como un tercio del trabajo realizado por nuestros agricultores, se desperdicia. En Francia se tiran cada año 10 millones de toneladas de alimentos, lo que supone entre 20 y 30 kg por francés y año: el equivalente a una comida a la semana. Se calcula que en Francia se desperdician anualmente 16.000 millones de euros en alimentos. Jean Moreau creó Phenix para hacer frente a este reto.\nPhenix Date: una herramienta preventiva para optimizar el control de la fecha de los productos en el lineal. ¿A veces olvida productos en su frigorífico y se da cuenta demasiado tarde de que han pasado su fecha de consumo preferente? A los responsables de los lineales de los supermercados les ocurre lo mismo. Por eso Phenix ha diseñado este escáner. Avisa a tiempo a los jefes de sección para que retiren los productos y encuentren una forma de reciclarlos: donación, venta caducada o alimentación animal, por ejemplo.",
+    "de": "1/3 dessen, was wir weltweit produzieren, wird verschwendet. Es ist also ein Drittel des Wassers, der Energie, der Düngemittel, aber auch ein Drittel der Arbeit unserer Landwirte, die in den Müll wandern. In Frankreich werden jedes Jahr 10 Millionen Tonnen Lebensmittel weggeworfen... Das sind zwischen 20 und 30 kg pro Franzose und Jahr: das entspricht einer Mahlzeit pro Woche. 16 Milliarden Euro ist der geschätzte jährliche Betrag der Lebensmittelverschwendung in Frankreich. Um diesem Deﬁ zu begegnen, hat Jean Moreau Phenix gegründet.\nPhenix Date: Ein präventives Tool, das die Kontrolle des Datums von Produkten in den Regalen optimiert. Vergessen Sie manchmal Produkte in Ihrem Kühlschrank und stellen zu spät fest, dass sie ihr Haltbarkeitsdatum überschritten haben? Den Regalmanagern in einem Supermarkt geht es genauso. Aus diesem Grund hat Phenix diesen Scanner entwickelt. Er warnt die Abteilungsleiter rechtzeitig, damit sie die Produkte entfernen und einen Verwertungsweg für sie finden: z. B. Spenden, Verkauf mit kurzem Datum oder Tierfutter."
+  },
   "field": [
     "economics-statistics"
   ],
   "lang": "fr",
   "location": "",
-  "name": "Phenix date : scanner pour la valorisation des produits à date courte",
+  "name": {
+    "fr": "Phenix date : scanner pour la valorisation des produits à date courte",
+    "en": "Phenix date: scanner to enhance the value of short-dated products",
+    "es": "Dátil de fénix: escáner para añadir valor a los productos de fecha corta",
+    "de": "Phenix date: Scanner für die Bewertung von Produkten mit kurzem Datum"
+  },
   "pubId": 419152,
   "score": 706.2536666666805,
   "state": "ongoing-project",
@@ -43,28 +53,5 @@
   ],
   "url": "https://www.wearephenix.com/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532505,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532505,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

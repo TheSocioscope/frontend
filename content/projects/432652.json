@@ -13,7 +13,12 @@
   ],
   "createdAt": 1695248293,
   "date": null,
-  "description": "Depuis quelques années, la Direction de l'Agriculture (DAG) de Polynésie française travaille à la valorisation du \"riz-banane\", élaborant la revisite d'une recette traditionnelle venue de l'archipel des îles Australes (Polynésie française). Le \"riz-banane\", préparé à base de bananes vertes locales bouillies avec la peau, puis râpées, particulièrement rassasiante, se présente comme une alternative durable et locale au riz classique, fortement consommé sur le territoire, mais dont l'approvisionnement dépend trop fortement des importations internationales. L'objectif est ainsi de minimiser les risques de dépendance alimentaire et de promouvoir une alimentation plus locale et plus intéressante d'un point de vue nutritionnel.",
+  "description": {
+    "fr": "Depuis quelques années, la Direction de l'Agriculture (DAG) de Polynésie française travaille à la valorisation du \"riz-banane\", élaborant la revisite d'une recette traditionnelle venue de l'archipel des îles Australes (Polynésie française). Le \"riz-banane\", préparé à base de bananes vertes locales bouillies avec la peau, puis râpées, particulièrement rassasiante, se présente comme une alternative durable et locale au riz classique, fortement consommé sur le territoire, mais dont l'approvisionnement dépend trop fortement des importations internationales. L'objectif est ainsi de minimiser les risques de dépendance alimentaire et de promouvoir une alimentation plus locale et plus intéressante d'un point de vue nutritionnel.",
+    "en": "For several years now, the French Polynesian Department of Agriculture (DAG) has been working to promote \"banana-rice\", revisiting a traditional recipe from the Austral Islands (French Polynesia). Rice-banana\", made from local green bananas boiled with the peel on, then grated, is particularly satisfying, and is presented as a sustainable, local alternative to traditional rice, which is widely consumed in the region, but whose supply depends too heavily on international imports. The aim is to minimize the risks of food dependency and promote a more local and nutritionally interesting diet.",
+    "es": "Desde hace varios años, el Departamento de Agricultura de la Polinesia Francesa (DAG) trabaja en la promoción del \"arroz de plátano\", retomando una receta tradicional de las Islas Australes (Polinesia Francesa). El \"arroz de plátano\", elaborado con plátanos verdes locales hervidos con la cáscara y luego rallados, es especialmente saciante y se presenta como una alternativa sostenible y local al arroz tradicional, muy consumido en la región pero cuyo abastecimiento depende demasiado de las importaciones internacionales. El objetivo es minimizar los riesgos de la dependencia alimentaria y promover una dieta más local y nutricionalmente interesante.",
+    "de": "Seit einigen Jahren arbeitet die Landwirtschaftsdirektion (DAG) von Französisch-Polynesien an der Aufwertung von \"Bananenreis\" und entwickelt die Neuauflage eines traditionellen Rezepts, das von der Inselgruppe der Austral-Inseln (Französisch-Polynesien) stammt. Der \"Bananenreis\", der aus grünen, einheimischen Bananen hergestellt wird, die mit der Schale gekocht und dann gerieben werden, ist besonders sättigend und stellt eine nachhaltige und lokale Alternative zu herkömmlichem Reis dar, der in der Region stark konsumiert wird, dessen Versorgung aber zu stark von internationalen Importen abhängt. Ziel ist es somit, das Risiko der Nahrungsmittelabhängigkeit zu minimieren und eine lokalere und ernährungsphysiologisch interessantere Ernährung zu fördern."
+  },
   "field": [
     "ecology-environmental-sciences",
     "management-public-administration",
@@ -21,7 +26,13 @@
   ],
   "lang": "fr",
   "location": "Polynésie française",
-  "name": "Riz-banane",
+  "name": {
+    "id": "Riz-banane",
+    "en": "Riz-banane",
+    "fr": "Riz-banane",
+    "es": "Riz-banane",
+    "de": "Riz-Banane"
+  },
   "pubId": 432652,
   "score": 602.6999999999924,
   "state": "ongoing-project",
@@ -44,28 +55,5 @@
   ],
   "url": "https://www.service-public.pf/dag/",
   "yt": "IcM1PQpfH2g",
-  "zone": [
-    3,
-    6
-  ],
-  "lastEvent": {
-    "at": 1698412734,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1698412734,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

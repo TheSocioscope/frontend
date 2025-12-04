@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754563643,
   "date": null,
-  "description": "La Ciudad Posible is an organization focused on urban planning and sustainable development across Chile, Argentina, and Uruguay. Founded in 2008-2009, it began as a collaborative platform for professionals in urban ecology, sociology, and architecture. Over time, its mission evolved to promote inclusive, resilient, and regenerative cities, addressing critical issues like climate change and resource depletion. Ciudad Posible aims to facilitate transitions towards circular economies and sustainable practices in urban environments and beyond.",
+  "description": {
+    "en": "La Ciudad Posible is an organization dedicated to urban planning and sustainable development in Chile, Argentina and Uruguay. Founded in 2008-2009, it began as a collaborative platform for professionals in urban ecology, sociology and architecture. Over time, its mission evolved to promote inclusive, resilient and regenerative cities, addressing critical issues such as climate change and resource depletion. Ciudad Posible aims to facilitate the transition to circular economies and sustainable practices in urban environments and beyond.",
+    "fr": "La Ciudad Posible est une organisation dédiée à la planification urbaine et au développement durable au Chili, en Argentine et en Uruguay. Fondée en 2008-2009, elle a d'abord été une plateforme de collaboration pour les professionnels de l'écologie urbaine, de la sociologie et de l'architecture. Au fil du temps, sa mission a évolué pour promouvoir des villes inclusives, résilientes et régénératrices, en abordant des questions cruciales telles que le changement climatique et l'épuisement des ressources. Ciudad Posible vise à faciliter la transition vers des économies circulaires et des pratiques durables dans les environnements urbains et au-delà.",
+    "es": "La Ciudad Posible es una organización dedicada a la planificación urbana y el desarrollo sostenible en Chile, Argentina y Uruguay. Fundada en 2008-2009, comenzó como una plataforma de colaboración para profesionales de la ecología urbana, la sociología y la arquitectura. Con el tiempo, su misión evolucionó para promover ciudades inclusivas, resilientes y regenerativas, abordando cuestiones críticas como el cambio climático y el agotamiento de los recursos. Ciudad Posible pretende facilitar la transición hacia economías circulares y prácticas sostenibles en entornos urbanos y más allá.",
+    "de": "La Ciudad Posible ist eine Organisation, die sich auf Stadtplanung und nachhaltige Entwicklung in Chile, Argentinien und Uruguay konzentriert. Gegründet 2008-2009, begann sie als kollaborative Plattform für Fachleute aus den Bereichen Stadtökologie, Soziologie und Architektur. Im Laufe der Zeit entwickelte sich ihr Auftrag, inklusive, widerstandsfähige und regenerative Städte zu fördern und dabei kritische Themen wie den Klimawandel und die Ressourcenverknappung zu adressieren. Ciudad Posible möchte den Übergang zu Kreislaufwirtschaften und nachhaltigen Praktiken in städtischen Umgebungen und darüber hinaus erleichtern."
+  },
   "field": [
     "geography"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Ciudad Posible",
+  "name": {
+    "es": "La Ciudad Posible",
+    "en": "The Possible City",
+    "fr": "La ville possible",
+    "de": "Die mögliche Stadt"
+  },
   "pubId": 461552,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

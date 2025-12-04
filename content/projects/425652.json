@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1663678043,
   "date": null,
-  "description": "This issue of the Urban Agriculture Magazine addresses the growing attention for city region food systems. A policy and practice approach that focuses on urban food issues from a city-regional perspective. The approach takes into account contributions from urban and periurban agriculture and a strengthening of urban-rural relations.\n\nThe magazine features articles from cities involved in the SUPURBFOOD programme. The magazine was officially launched at the ICLEI Resilient Cities Congress on 10 June 2015 in Bonn, Germany.",
+  "description": {
+    "en": "This issue of the Urban Agriculture Journal addresses the growing attention to food systems in urban regions. It is a policy and practical approach focusing on urban food problems from an urban-regional perspective. The approach takes into account the contributions of urban and peri-urban agriculture and the strengthening of urban-rural relations. The journal contains articles from cities participating in the SUPURBFOOD program. The journal was officially launched at the ICLEI Resilient Cities Congress, held on June 10, 2015 in Bonn, Germany.",
+    "fr": "Ce numéro du Journal de l'agriculture urbaine traite de l'attention croissante portée aux systèmes alimentaires dans les régions urbaines. Il s'agit d'une approche politique et pratique qui se concentre sur les questions d'alimentation urbaine dans une perspective urbaine et régionale. Cette approche prend en compte les contributions de l'agriculture urbaine et périurbaine et le renforcement des relations urbaines-rurales. Le journal contient des articles provenant de villes participant au programme SUPURBFOOD. Le magazine a été officiellement lancé lors du Congrès des villes résilientes de l'ICLEI le 10 juin 2015 à Bonn, en Allemagne.",
+    "es": "Este número de la Revista de Agricultura Urbana aborda la creciente atención que se presta a los sistemas alimentarios de las regiones urbanas. Se trata de un enfoque político y práctico centrado en los problemas alimentarios urbanos desde una perspectiva urbano-regional. El enfoque tiene en cuenta las aportaciones de la agricultura urbana y periurbana y el fortalecimiento de las relaciones urbano-rurales.\n\nLa revista contiene artículos de las ciudades que participan en el programa SUPURBFOOD. La revista se presentó oficialmente en el Congreso de Ciudades Resilientes de ICLEI, celebrado el 10 de junio de 2015 en Bonn (Alemania).",
+    "de": "Diese Ausgabe des Magazins Urban Agriculture befasst sich mit der wachsenden Aufmerksamkeit für stadtregionale Nahrungsmittelsysteme. Ein Politik- und Praxisansatz, der sich auf städtische Ernährungsfragen aus einer stadtregionalen Perspektive konzentriert. Der Ansatz berücksichtigt Beiträge aus der städtischen und vorstädtischen Landwirtschaft und eine Stärkung der städtisch-ländlichen Beziehungen.\n\nDas Magazin enthält Artikel aus Städten, die am SUPURBFOOD-Programm beteiligt sind. Das Magazin wurde offiziell auf dem ICLEI Resilient Cities Congress am 10. Juni 2015 in Bonn, Deutschland, vorgestellt."
+  },
   "field": [
     "arts-architecture-and-museology",
     "systems-science",
@@ -18,7 +23,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Urban Agriculture Magazine no. 29 – City Region Food Systems",
+  "name": {
+    "en": "Urban Agriculture Magazine no. 29 – City Region Food Systems",
+    "fr": "Urban Agriculture Magazine no. 29 – City Region Food Systems",
+    "es": "Revista de Agricultura Urbana nº 29 - Sistemas alimentarios urbanos",
+    "de": "Urban Agriculture Magazine Nr. 29 - City Region Food Systems"
+  },
   "pubId": 425652,
   "score": -64.40468756988784,
   "state": "completed-project",
@@ -42,27 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663679213,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663679213,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

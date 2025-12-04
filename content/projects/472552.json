@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754908426,
   "date": null,
-  "description": "The Greniers d'Abondance initiative, established in 2019, focuses on enhancing food resilience in local territories. It conducts research, produces accessible resources, and supports stakeholders in the food system. The initiative aims to empower local authorities and communities by providing tools and knowledge to address food security challenges, particularly in the context of climate change. Through collaborative efforts, it fosters awareness and advocacy for sustainable food practices across various regions.",
+  "description": {
+    "en": "The Greniers d'Abondance initiative, created in 2019, focuses on improving food resilience in local territories. It conducts research, produces accessible resources and supports stakeholders in the food system. The initiative aims to empower local authorities and communities by providing tools and knowledge to address food security challenges, particularly in the context of climate change. Through collaborative efforts, it promotes awareness and advocacy for sustainable food practices in various regions.",
+    "fr": "L'initiative Greniers d'Abondance, créée en 2019, se concentre sur l'amélioration de la résilience alimentaire des territoires locaux. Elle mène des recherches, produit des ressources accessibles et soutient les acteurs du système alimentaire. L'initiative vise à responsabiliser les autorités locales et les communautés en fournissant des outils et des connaissances pour relever les défis de la sécurité alimentaire, en particulier dans le contexte du changement climatique. Grâce à des efforts de collaboration, elle sensibilise et plaide en faveur de pratiques alimentaires durables dans diverses régions.",
+    "es": "La iniciativa Greniers d'Abondance, creada en 2019, se centra en mejorar la resiliencia alimentaria en los territorios locales. Lleva a cabo investigaciones, produce recursos accesibles y apoya a las partes interesadas en el sistema alimentario. La iniciativa tiene como objetivo empoderar a las autoridades y comunidades locales proporcionando herramientas y conocimientos para abordar los desafíos de la seguridad alimentaria, particularmente en el contexto del cambio climático. Mediante esfuerzos de colaboración, fomenta la concienciación y la defensa de prácticas alimentarias sostenibles en diversas regiones.",
+    "de": "Die 2019 gegründete Initiative Greniers d'Abondance konzentriert sich auf die Stärkung der Widerstandsfähigkeit von Lebensmitteln in lokalen Gebieten. Sie führt Forschung durch, produziert zugängliche Ressourcen und unterstützt Stakeholder im Ernährungssystem. Die Initiative zielt darauf ab, lokale Behörden und Gemeinden zu stärken, indem sie Werkzeuge und Wissen bereitstellt, um Herausforderungen der Ernährungssicherheit, insbesondere im Kontext des Klimawandels, zu bewältigen. Through collaborative efforts, it fosters awareness and advocacy for sustainable food practices across various regions."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Greniers d'Abondance",
+  "name": {
+    "fr": "Les Greniers d'Abondance",
+    "en": "Les Greniers d'Abondance",
+    "es": "Les Greniers d'Abondance",
+    "de": "Les Greniers d'Abondance (Die Kornkammern von Abondance)"
+  },
   "pubId": 472552,
   "score": 62.89648996406598,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "G5CK_zcqNiI",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755735379,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755735379
     }
   ],
-  "lastEvent": {
-    "at": 1755735379,
-    "by": "contact"
-  },
   "updatedAt": [
     1755735379
-  ]
+  ],
+  "originalLang": "fr"
 }

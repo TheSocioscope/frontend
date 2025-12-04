@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739463655,
   "date": null,
-  "description": "Piñas del Llano is a company that specializes in producing dehydrated pineapple snacks in various flavors. Established in a region abundant with pineapples, the founders identified a market gap for healthy snack options amidst a local culture that predominantly favors meat-based diets. The company began with homemade dehydration methods and has since evolved into a small-scale production facility, utilizing both manual and automated processes. They emphasize sustainability by seeking to minimize waste and promote healthy eating habits, while also fostering community relationships with local farmers and suppliers.",
+  "description": {
+    "en": "Piñas del Llano is a company specializing in the production of dehydrated pineapple snacks in various flavors. Established in a region where pineapples are plentiful, the founders detected a gap in the market for healthy snacks amidst a local culture that predominantly favors meat-based diets. The company started with home dehydration methods and has since evolved into a small-scale production facility, using both manual and automated processes. They emphasize sustainability by trying to minimize waste and promote healthy eating habits, while fostering community relationships with local farmers and suppliers.",
+    "fr": "Piñas del Llano est une entreprise spécialisée dans la production d'en-cas à base d'ananas déshydratés aux saveurs variées. Établis dans une région où les ananas sont abondants, les fondateurs ont repéré une lacune sur le marché des en-cas sains dans une culture locale qui privilégie les régimes à base de viande. L'entreprise a commencé par des méthodes de déshydratation à domicile et a depuis évolué vers une installation de production à petite échelle, utilisant à la fois des processus manuels et automatisés. Elle met l'accent sur la durabilité en essayant de minimiser les déchets et de promouvoir des habitudes alimentaires saines, tout en favorisant les relations communautaires avec les agriculteurs et les fournisseurs locaux.",
+    "es": "Piñas del Llano es una empresa especializada en la producción de aperitivos de piña deshidratada de varios sabores. Establecidos en una región en la que abundan las piñas, los fundadores detectaron un vacío en el mercado de aperitivos saludables en medio de una cultura local que favorece predominantemente las dietas a base de carne. La empresa empezó con métodos de deshidratación caseros y desde entonces ha evolucionado hasta convertirse en una planta de producción a pequeña escala, que utiliza procesos tanto manuales como automatizados. Hacen hincapié en la sostenibilidad tratando de minimizar los residuos y promover hábitos alimentarios saludables, al tiempo que fomentan las relaciones comunitarias con agricultores y proveedores locales.",
+    "de": "Piñas del Llano ist ein Unternehmen, das sich auf die Herstellung von dehydrierten Pineapple-Snacks in verschiedenen Geschmacksrichtungen spezialisiert hat. Die Gründer des Unternehmens, das in einer Region mit vielen Kiefern beheimatet ist, erkannten eine Marktlücke für gesunde Snacks und eine lokale Kultur, die vorwiegend fleischhaltige Kost bevorzugt. Das Unternehmen begann mit hausgemachten Dehydrierungsmethoden und hat sich seither zu einer kleinbetrieblichen Produktionsstätte entwickelt, die sowohl manuelle als auch automatisierte Verfahren nutzt. Sie legen Wert auf Nachhaltigkeit, indem sie Abfälle minimieren und gesunde Essgewohnheiten fördern, während sie gleichzeitig kommunale Beziehungen zu lokalen Bauern und Lieferanten pflegen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Piñas del Llano",
+  "name": {
+    "es": "Piñas del Llano",
+    "en": "Pineapples from the Llano",
+    "fr": "Ananas de la plaine",
+    "de": "Ananas aus der Ebene"
+  },
   "pubId": 442052,
   "score": 100.10196078431447,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.instagram.com/frutadellano/?hl=es",
   "yt": "Y8vLcZCMwM0",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754909208,
   "date": null,
-  "description": "This initiative focuses on environmental education and sustainable living through various activities. It offers discovery classes for children, training courses on alternative land use, and self-catering holidays. The organization collaborates with local schools and community centers to promote food education and healthy eating habits. By engaging participants in hands-on experiences, it aims to foster a connection to local produce and encourage healthier dietary choices, ultimately contributing to a broader food transition effort.",
+  "description": {
+    "en": "This initiative focuses on environmental education and sustainable living through various activities. It offers discovery classes for children, training courses on alternative land use, and self-catering holidays. The organization collaborates with local schools and community centers to promote food education and healthy eating habits. By engaging participants in hands-on experiences, it aims to foster a connection to local produce and encourage healthier dietary choices, ultimately contributing to a broader food transition effort.",
+    "fr": "Cette initiative se concentre sur l'éducation à l'environnement et aux modes de vie durables par le biais de diverses activités. Elle propose des classes de découverte pour les enfants, des cours de formation sur l'utilisation alternative des terres et des vacances en autonomie. L'organisation collabore avec les écoles locales et les centres communautaires pour promouvoir l'éducation alimentaire et les habitudes alimentaires saines. En engageant les participants dans des expériences pratiques, elle vise à favoriser un lien avec les produits locaux et à encourager des choix alimentaires plus sains, contribuant en fin de compte à un effort plus large de transition alimentaire.",
+    "es": "Esta iniciativa se centra en la educación medioambiental y la vida sostenible a través de diversas actividades. Ofrece clases de descubrimiento para niños, cursos de formación sobre el uso alternativo de la tierra y vacaciones en régimen de autoservicio. La organización colabora con escuelas y centros comunitarios locales para promover la educación alimentaria y hábitos alimenticios saludables. Al involucrar a los participantes en experiencias prácticas, pretende fomentar una conexión con los productos locales y alentar elecciones alimentarias más sanas, contribuyendo en última instancia a un esfuerzo más amplio de transición alimentaria.",
+    "de": "Diese Initiative konzentriert sich auf Umwelterziehung und nachhaltige Lebensweise durch verschiedene Aktivitäten. Sie bietet Entdeckungskurse für Kinder, Schulungen über alternative Landnutzung und Ferien für Selbstversorger an. Die Organisation arbeitet mit örtlichen Schulen und Gemeindezentren zusammen, um Ernährungserziehung und gesunde Essgewohnheiten zu fördern. Indem sie den Teilnehmern praktische Erfahrungen vermittelt, will sie die Verbindung zu lokalen Produkten fördern und zu einer gesünderen Ernährung ermutigen und damit letztlich zu einer breiteren Ernährungsumstellung beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Loubatas",
+  "name": {
+    "en": "Loubatas",
+    "fr": "Loubatas",
+    "es": "Loubatas",
+    "de": "Loubatas"
+  },
   "pubId": 483052,
   "score": 89.17284025636431,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "OLqZdy-B4MU",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755735829,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1755735829
     }
   ],
-  "lastEvent": {
-    "at": 1755735829,
-    "by": "contact"
-  },
   "updatedAt": [
     1755735829
-  ]
+  ],
+  "originalLang": "fr"
 }

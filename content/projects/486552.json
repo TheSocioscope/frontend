@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754955044,
   "date": null,
-  "description": "Fly360, founded by biomedical doctor, utilizes drones to enhance agro-ecology in Colombia. Since 2017, the company has provided fumigation and fertilization services for various crops, aiming to technify agriculture and improve efficiency. With a focus on sustainability, Fly360 also offers training for drone pilots and maintenance services. The initiative seeks to reduce chemical usage and promote organic alternatives, addressing both economic and environmental challenges in the agricultural sector.",
+  "description": {
+    "en": "Fly360, founded by biomedical doctor, utilizes drones to enhance agro-ecology in Colombia. Since 2017, the company has provided fumigation and fertilization services for various crops, aiming to technify agriculture and improve efficiency. With a focus on sustainability, Fly360 also offers training for drone pilots and maintenance services. The initiative seeks to reduce chemical usage and promote organic alternatives, addressing both economic and environmental challenges in the agricultural sector.",
+    "fr": "Fly360, fondée par un médecin biomédical, utilise des drones pour améliorer l'agroécologie en Colombie. Depuis 2017, l'entreprise fournit des services de fumigation et de fertilisation pour diverses cultures, visant à techniciser l'agriculture et à en améliorer l'efficacité. En mettant l'accent sur la durabilité, Fly360 propose également des formations pour les pilotes de drones et des services de maintenance. L'initiative vise à réduire l'utilisation de produits chimiques et à promouvoir des alternatives biologiques, en relevant les défis économiques et environnementaux du secteur agricole.",
+    "es": "Fly360, fundada por un médico biomédico, utiliza drones para mejorar la agroecología en Colombia. Desde 2017, la empresa presta servicios de fumigación y fertilización para diversos cultivos, con el objetivo de tecnificar la agricultura y mejorar la eficiencia. Con un enfoque en la sostenibilidad, Fly360 también ofrece capacitación para pilotos de drones y servicios de mantenimiento. La iniciativa busca reducir el uso de químicos y promover alternativas orgánicas, abordando desafíos tanto económicos como ambientales en el sector agrícola.",
+    "de": "Das von einem biomedizinischen Arzt gegründete Unternehmen Fly360 setzt Drohnen zur Verbesserung der Agrarökologie in Kolumbien ein. Seit 2017 bietet das Unternehmen Dienstleistungen zur Begasung und Düngung verschiedener Kulturen an, um die Landwirtschaft zu technisieren und die Effizienz zu verbessern. Mit dem Fokus auf Nachhaltigkeit bietet Fly360 auch Schulungen für Drohnenpiloten und Wartungsdienste an. Die Initiative zielt darauf ab, den Einsatz von Chemikalien zu reduzieren und ökologische Alternativen zu fördern, um sowohl die wirtschaftlichen als auch die ökologischen Herausforderungen im Agrarsektor zu bewältigen."
+  },
   "field": [
     "engineering-and-technology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Fly360",
+  "name": {
+    "en": "Fly360",
+    "fr": "Fly360",
+    "es": "Fly360",
+    "de": "Fly360"
+  },
   "pubId": 486552,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

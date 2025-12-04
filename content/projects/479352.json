@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754654365,
   "date": null,
-  "description": "The initiative \"No Food Waste\" aims to combat food wastage by collecting excess food from events, institutions, and restaurants, redistributing it to those in need. Founded in 2014 in Coimbatore, it has expanded to multiple cities, including Chennai, where it operates a kitchen to prepare nutritious meals and provides grocery support. The organization emphasizes environmental sustainability and community engagement, striving to raise awareness about food waste and its impact on society.         ",
+  "description": {
+    "en": "The initiative \"No Food Waste\" aims to combat food wastage by collecting excess food from events, institutions, and restaurants, redistributing it to those in need. Founded in 2014 in Coimbatore, it has expanded to multiple cities, including Chennai, where it operates a kitchen to prepare nutritious meals and provides grocery support. The organization emphasizes environmental sustainability and community engagement, striving to raise awareness about food waste and its impact on society.         ",
+    "fr": "L'initiative \"No Food Waste\" vise à lutter contre le gaspillage alimentaire en collectant les excédents de nourriture lors d'événements, d'institutions et de restaurants, pour les redistribuer à ceux qui en ont besoin. Fondée en 2014 à Coimbatore, elle s'est étendue à de multiples villes, dont Chennai, où elle gère une cuisine pour préparer des repas nutritifs et fournit un soutien en matière d'épicerie. L'organisation met l'accent sur la durabilité environnementale et l'engagement communautaire, s'efforçant de sensibiliser au gaspillage alimentaire et à son impact sur la société.         ",
+    "es": "La iniciativa \"No Food Waste\" pretende combatir el despilfarro de alimentos recogiendo el exceso de comida de eventos, instituciones y restaurantes, y redistribuyéndola entre quienes la necesitan. Fundada en 2014 en Coimbatore, se ha expandido a múltiples ciudades, entre ellas Chennai, donde gestiona una cocina para preparar comidas nutritivas y ofrece apoyo en comestibles. La organización hace hincapié en la sostenibilidad medioambiental y la participación de la comunidad, y se esfuerza por concienciar sobre el desperdicio de alimentos y su impacto en la sociedad.         ",
+    "de": "Die Initiative \"No Food Waste\" will die Lebensmittelverschwendung bekämpfen, indem sie überschüssige Lebensmittel von Veranstaltungen, Einrichtungen und Restaurants einsammelt und an Bedürftige weitergibt. Sie wurde 2014 in Coimbatore gegründet und hat sich inzwischen auf mehrere Städte ausgeweitet, darunter auch Chennai, wo sie eine Küche betreibt, in der sie nahrhafte Mahlzeiten zubereitet und Unterstützung bei der Beschaffung von Lebensmitteln bietet. Die Organisation legt großen Wert auf ökologische Nachhaltigkeit und gesellschaftliches Engagement und möchte das Bewusstsein für Lebensmittelverschwendung und deren Auswirkungen auf die Gesellschaft schärfen.         "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "No Food Waste",
+  "name": {
+    "en": "No Food Waste",
+    "fr": "Pas de gaspillage alimentaire",
+    "es": "Sin desperdicio de alimentos",
+    "de": "Keine Lebensmittelverschwendung"
+  },
   "pubId": 479352,
   "score": -41.59591236162793,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "en"
 }

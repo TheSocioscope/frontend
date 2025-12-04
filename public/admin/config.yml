@@ -107,11 +107,51 @@ collections:
     create: true
     slug: '{{pubId}}'
     identifier_field: 'pubId'
-    summary: '{{pubId}} - {{name}}'
+    summary: '{{pubId}} - {{name.en}}'
     fields:
       - { label: 'Project ID', name: 'pubId', widget: 'number', required: true }
-      - { label: 'Name', name: 'name', widget: 'string', required: true }
-      - { label: 'Description', name: 'description', widget: 'text', required: true }
+      - label: 'Original Language'
+        name: 'originalLang'
+        widget: 'select'
+        options:
+          [
+            'en',
+            'fr',
+            'es',
+            'de',
+            'pt',
+            'it',
+            'pl',
+            'id',
+            'et',
+            'lt',
+            'ro',
+            'sv',
+            'hu',
+            'tr',
+            'nb',
+            'fi'
+          ]
+        default: 'fr'
+        required: true
+      - label: 'Name'
+        name: 'name'
+        widget: 'object'
+        required: true
+        fields:
+          - { label: 'English', name: 'en', widget: 'string', required: true }
+          - { label: 'French', name: 'fr', widget: 'string', required: true }
+          - { label: 'Spanish', name: 'es', widget: 'string', required: true }
+          - { label: 'German', name: 'de', widget: 'string', required: true }
+      - label: 'Description'
+        name: 'description'
+        widget: 'object'
+        required: true
+        fields:
+          - { label: 'English', name: 'en', widget: 'text', required: true }
+          - { label: 'French', name: 'fr', widget: 'text', required: true }
+          - { label: 'Spanish', name: 'es', widget: 'text', required: true }
+          - { label: 'German', name: 'de', widget: 'text', required: true }
       - {
           label: 'Language',
           name: 'lang',

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754337195,
   "date": null,
-  "description": "Les petites cantines is a network of participatory neighborhood restaurants founded in 2016, promoting sustainable food, free pricing, and community involvement. With 14 canteens across France, it serves over 60,000 meals annually, welcoming around 19,000 diners each year. The initiative encourages local engagement and aims to transform societal relationships through shared meals, fostering trust and connection among diverse community members. Each canteen operates as an independent association, guided by the network's core values.",
+  "description": {
+    "en": "Les petites cantines is a network of participatory neighborhood restaurants founded in 2016, promoting sustainable food, free pricing and community involvement. With 14 cantines across France, it serves more than 60,000 meals a year and welcomes around 19,000 diners each year. The initiative encourages local engagement and aims to transform social relationships through shared meals, fostering trust and connection between diverse members of the community. Each comedor operates as an independent association, guided by the network's core values.",
+    "fr": "Les petites cantines est un réseau de restaurants de quartier participatifs fondé en 2016, qui promeut l'alimentation durable, la liberté des prix et l'engagement communautaire. Avec 14 cantines à travers la France, il sert plus de 60 000 repas par an et accueille environ 19 000 convives chaque année. L'initiative encourage l'engagement local et vise à transformer les relations sociales par le biais de repas partagés, en favorisant la confiance et la connexion entre les divers membres de la communauté. Chaque cantine fonctionne comme une association indépendante, guidée par les valeurs fondamentales du réseau.",
+    "es": "Les petites cantines es una red de restaurantes de barrio participativos fundada en 2016, que promueve la alimentación sostenible, la libertad de precios y la implicación de la comunidad. Con 14 cantinas en toda Francia, sirve más de 60.000 comidas al año y acoge a unos 19.000 comensales cada año. La iniciativa fomenta el compromiso local y pretende transformar las relaciones sociales a través de las comidas compartidas, fomentando la confianza y la conexión entre los diversos miembros de la comunidad. Cada comedor funciona como una asociación independiente, guiada por los valores fundamentales de la red.",
+    "de": "Les petites cantines ist ein 2016 gegründetes Netzwerk von partizipatorischen Nachbarschaftsrestaurants, die nachhaltiges Essen, freie Preise und die Beteiligung der Gemeinschaft fördern. Mit 14 Kantinen in ganz Frankreich serviert es jährlich über 60.000 Mahlzeiten und empfängt rund 19.000 Dinner pro Jahr. Die Initiative fördert das lokale Engagement und zielt darauf ab, gesellschaftliche Beziehungen durch gemeinsame Mahlzeiten umzugestalten, indem sie Vertrauen und Verbindungen zwischen verschiedenen Gemeindemitgliedern aufbaut. Jede Kantine operiert als unabhängiger Verein, der von den Kernwerten des Netzwerks geleitet wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Petites Cantines",
+  "name": {
+    "fr": "Les Petites Cantines",
+    "en": "Les Petites Cantines",
+    "es": "Les Petites Cantines",
+    "de": "Les Petites Cantines (Die kleinen Kantinen)"
+  },
   "pubId": 457652,
   "score": -210.0245513777986,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

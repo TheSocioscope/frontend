@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754990708,
   "date": null,
-  "description": "The Banco de Alimentos de Bogotá, established in 2000, is a non-profit foundation aimed at reducing food waste and combating hunger. It operates by collecting surplus food from companies and redistributing it to legally recognized organizations that support vulnerable populations. The bank emphasizes a model where food is not given away for free but provided at a nominal cost, ensuring accountability and sustainability. It collaborates with various stakeholders, including local parishes and community organizations, to maximize its impact.",
+  "description": {
+    "en": "The Banco de Alimentos de Bogotá, established in 2000, is a non-profit foundation aimed at reducing food waste and combating hunger. It operates by collecting surplus food from companies and redistributing it to legally recognized organizations that support vulnerable populations. The bank emphasizes a model where food is not given away for free but provided at a nominal cost, ensuring accountability and sustainability. It collaborates with various stakeholders, including local parishes and community organizations, to maximize its impact.",
+    "fr": "Le Banco de Alimentos de Bogotá, créé en 2000, est une fondation à but non lucratif visant à réduire le gaspillage alimentaire et à lutter contre la faim. Elle collecte les excédents alimentaires des entreprises et les redistribue à des organisations légalement reconnues qui soutiennent les populations vulnérables. La banque met l'accent sur un modèle où la nourriture n'est pas donnée gratuitement mais fournie à un coût nominal, ce qui garantit la responsabilité et la durabilité. Elle collabore avec diverses parties prenantes, notamment les paroisses locales et les organisations communautaires, afin de maximiser son impact.",
+    "es": "El Banco de Alimentos de Bogotá, creado en 2000, es una fundación sin ánimo de lucro cuyo objetivo es reducir el desperdicio de alimentos y combatir el hambre. Funciona recogiendo los excedentes de alimentos de las empresas y redistribuyéndolos a organizaciones legalmente reconocidas que apoyan a poblaciones vulnerables. El banco hace hincapié en un modelo en el que los alimentos no se dan gratis, sino que se proporcionan a un coste nominal, garantizando la responsabilidad y la sostenibilidad. Colabora con diversas partes interesadas, como parroquias locales y organizaciones comunitarias, para maximizar su impacto.",
+    "de": "Die im Jahr 2000 gegründete Banco de Alimentos de Bogotá ist eine gemeinnützige Stiftung mit dem Ziel, die Lebensmittelverschwendung zu reduzieren und den Hunger zu bekämpfen. Sie sammelt überschüssige Lebensmittel von Unternehmen und verteilt sie an gesetzlich anerkannte Organisationen, die bedürftige Bevölkerungsgruppen unterstützen. Die Bank legt Wert auf ein Modell, bei dem die Lebensmittel nicht umsonst, sondern zu einem geringen Preis abgegeben werden, um Verantwortlichkeit und Nachhaltigkeit zu gewährleisten. Sie arbeitet mit verschiedenen Interessengruppen zusammen, darunter lokale Kirchengemeinden und Gemeindeorganisationen, um ihre Wirkung zu maximieren."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Banco de Alimentos",
+  "name": {
+    "pt": "Banco de Alimentos",
+    "en": "Food Bank",
+    "fr": "Banque alimentaire",
+    "es": "Banco de alimentos",
+    "de": "Lebensmittelbank"
+  },
   "pubId": 480052,
   "score": 52.944922565946705,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

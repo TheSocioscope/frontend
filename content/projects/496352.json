@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755009640,
   "date": null,
-  "description": "The Cooperativa de Viver, founded in 1990, began as an oil mill and has since diversified its production to enhance resilience against agricultural uncertainties. With 530 members, it produces extra virgin olive oil, wine, nuts, and various fruits and vegetables. The cooperative also addresses rural depopulation by providing essential services like supermarkets and energy solutions, fostering local economic growth while promoting sustainable agricultural practices and community engagement.      ",
+  "description": {
+    "en": "The Cooperativa de Viver, founded in 1990, began as an oil mill and has since diversified its production to enhance resilience against agricultural uncertainties. With 530 members, it produces extra virgin olive oil, wine, nuts, and various fruits and vegetables. The cooperative also addresses rural depopulation by providing essential services like supermarkets and energy solutions, fostering local economic growth while promoting sustainable agricultural practices and community engagement.      ",
+    "fr": "La Cooperativa de Viver, fondée en 1990, était à l'origine un moulin à huile. Depuis, elle a diversifié sa production afin de mieux résister aux incertitudes agricoles. Avec 530 membres, elle produit de l'huile d'olive extra vierge, du vin, des noix et divers fruits et légumes. La coopérative s'attaque également à l'exode rural en fournissant des services essentiels tels que des supermarchés et des solutions énergétiques, favorisant ainsi la croissance économique locale tout en promouvant des pratiques agricoles durables et l'engagement communautaire.      ",
+    "es": "La Cooperativa de Viver, fundada en 1990, empezó como almazara y desde entonces ha diversificado su producción para aumentar su resistencia frente a las incertidumbres agrícolas. Con 530 socios, produce aceite de oliva virgen extra, vino, frutos secos y diversas frutas y verduras. La cooperativa también aborda la despoblación rural proporcionando servicios esenciales como supermercados y soluciones energéticas, fomentando el crecimiento económico local al tiempo que promueve prácticas agrícolas sostenibles y el compromiso de la comunidad.      ",
+    "de": "Die 1990 gegründete Cooperativa de Viver begann als Ölmühle und hat seither ihre Produktion diversifiziert, um die Widerstandsfähigkeit gegenüber landwirtschaftlichen Unsicherheiten zu erhöhen. Mit 530 Mitgliedern produziert sie natives Olivenöl extra, Wein, Nüsse sowie verschiedene Obst- und Gemüsesorten. Die Genossenschaft wirkt auch der Landflucht entgegen, indem sie wichtige Dienstleistungen wie Supermärkte und Energielösungen anbietet, das lokale Wirtschaftswachstum fördert und gleichzeitig nachhaltige landwirtschaftliche Praktiken und das Engagement der Gemeinschaft unterstützt.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cooperativa de Viver",
+  "name": {
+    "pt": "Cooperativa de Viver",
+    "en": "Cooperativa de Viver",
+    "fr": "Coopérative de vie",
+    "es": "Cooperativa de vida",
+    "de": "Lebendige Genossenschaft"
+  },
   "pubId": 496352,
   "score": -36.17017408716356,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "pt"
 }

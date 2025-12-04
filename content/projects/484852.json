@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754913658,
   "date": null,
-  "description": "The Au Coin Bio initiative focuses on promoting organic produce at the Marché des Enfants Rouges in Paris, a historic market. As an initiative that was been managed by mother and daughter, the project emphasizes family values and sustainable practices. With a commitment to pesticide-free products, Aucoin Bio has become a local staple, attracting both residents and tourists. The initiative not only supports local agriculture but also fosters strong community relationships through its organic stands and catering services.",
+  "description": {
+    "en": "The Au Coin Bio initiative focuses on promoting organic produce at the Marché des Enfants Rouges in Paris, a historic market. As an initiative that was been managed by mother and daughter, the project emphasizes family values and sustainable practices. With a commitment to pesticide-free products, Aucoin Bio has become a local staple, attracting both residents and tourists. The initiative not only supports local agriculture but also fosters strong community relationships through its organic stands and catering services.",
+    "fr": "L'initiative Au Coin Bio vise à promouvoir les produits biologiques au Marché des Enfants Rouges à Paris, un marché historique. Géré par une mère et sa fille, le projet met l'accent sur les valeurs familiales et les pratiques durables. En s'engageant à proposer des produits sans pesticides, Aucoin Bio est devenu un incontournable de la région, attirant à la fois les habitants et les touristes. L'initiative ne se contente pas de soutenir l'agriculture locale, elle favorise également de solides relations avec la communauté grâce à ses stands biologiques et à ses services de restauration.",
+    "es": "La iniciativa Au Coin Bio se centra en la promoción de productos ecológicos en el Marché des Enfants Rouges de París, un mercado histórico. Como iniciativa gestionada por madre e hija, el proyecto hace hincapié en los valores familiares y las prácticas sostenibles. Con un compromiso con los productos libres de pesticidas, Aucoin Bio se ha convertido en un producto básico local, que atrae tanto a residentes como a turistas. La iniciativa no sólo apoya la agricultura local, sino que también fomenta sólidas relaciones con la comunidad a través de sus puestos ecológicos y sus servicios de catering.",
+    "de": "Die Initiative Au Coin Bio konzentriert sich auf die Förderung von Bioprodukten auf dem Marché des Enfants Rouges in Paris, einem historischen Markt. Als Initiative, die von Mutter und Tochter geleitet wird, legt das Projekt Wert auf familiäre Werte und nachhaltige Praktiken. Mit seinem Engagement für pestizidfreie Produkte ist Aucoin Bio zu einem lokalen Grundnahrungsmittel geworden, das sowohl Einwohner als auch Touristen anzieht. Die Initiative unterstützt nicht nur die lokale Landwirtschaft, sondern fördert durch ihre Bio-Stände und Catering-Services auch starke Beziehungen zur Gemeinde."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Au Coin Bio",
+  "name": {
+    "en": "Au Coin Bio",
+    "fr": "Au Coin Bio",
+    "es": "Biografía de Au Coin",
+    "de": "Au Coin Bio"
+  },
   "pubId": 484852,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "en"
 }

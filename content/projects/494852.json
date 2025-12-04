@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755006947,
   "date": null,
-  "description": "Zafran is a socially responsible food company founded in 2011, focusing on creating high-quality, healthy snacks with minimal ingredients. The initiative emphasizes inclusivity by employing individuals facing barriers to employment, including those with disabilities and from vulnerable backgrounds. Zafran is committed to sustainability, sourcing ingredients responsibly, and promoting a holistic approach to nutrition. The company aims to inspire a shift towards healthier eating habits while fostering community and collaboration within the food industry.",
+  "description": {
+    "en": "Zafran is a socially responsible food company founded in 2011, focusing on creating high-quality, healthy snacks with minimal ingredients. The initiative emphasizes inclusivity by employing individuals facing barriers to employment, including those with disabilities and from vulnerable backgrounds. Zafran is committed to sustainability, sourcing ingredients responsibly, and promoting a holistic approach to nutrition. The company aims to inspire a shift towards healthier eating habits while fostering community and collaboration within the food industry.",
+    "fr": "Zafran est une entreprise alimentaire socialement responsable fondée en 2011, qui se concentre sur la création d'en-cas sains et de haute qualité avec un minimum d'ingrédients. L'initiative met l'accent sur l'inclusivité en employant des personnes confrontées à des obstacles à l'emploi, notamment des personnes handicapées ou issues de milieux vulnérables. Zafran s'engage en faveur de la durabilité, de l'approvisionnement en ingrédients de manière responsable et de la promotion d'une approche holistique de la nutrition. L'entreprise a pour objectif d'inciter à adopter des habitudes alimentaires plus saines tout en encourageant la communauté et la collaboration au sein de l'industrie alimentaire.",
+    "es": "Zafran es una empresa alimentaria socialmente responsable fundada en 2011, centrada en la creación de aperitivos saludables de alta calidad con ingredientes mínimos. La iniciativa hace hincapié en la inclusión mediante la contratación de personas que se enfrentan a barreras laborales, incluidas aquellas con discapacidades y procedentes de entornos vulnerables. Zafran está comprometida con la sostenibilidad, el abastecimiento responsable de ingredientes y la promoción de un enfoque holístico de la nutrición. La empresa aspira a inspirar un cambio hacia hábitos alimentarios más sanos, fomentando al mismo tiempo la comunidad y la colaboración en el sector alimentario.",
+    "de": "Zafran ist ein 2011 gegründetes, sozial verantwortliches Lebensmittelunternehmen, das sich auf die Herstellung hochwertiger, gesunder Snacks mit wenigen Zutaten konzentriert. Die Initiative legt Wert auf Inklusion, indem sie Menschen mit Beschäftigungshindernissen beschäftigt, darunter Menschen mit Behinderungen und aus sozial schwachen Verhältnissen. Zafran engagiert sich für Nachhaltigkeit, eine verantwortungsvolle Beschaffung von Zutaten und die Förderung eines ganzheitlichen Ansatzes in der Ernährung. Das Unternehmen möchte zu einem Wandel hin zu gesünderen Essgewohnheiten anregen und gleichzeitig die Gemeinschaft und Zusammenarbeit innerhalb der Lebensmittelindustrie fördern."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zafran",
+  "name": {
+    "en": "Zafran",
+    "fr": "Zafran",
+    "es": "Zafran",
+    "de": "Zafran"
+  },
   "pubId": 494852,
   "score": 3.139825912836386,
   "state": "ongoing-project",
@@ -43,10 +53,6 @@
   ],
   "url": "",
   "yt": "tLe22yUucRw",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1760358605,
   "feedback": [
     {
@@ -54,11 +60,8 @@
       "at": 1760358605
     }
   ],
-  "lastEvent": {
-    "at": 1760358605,
-    "by": "contact"
-  },
   "updatedAt": [
     1760358605
-  ]
+  ],
+  "originalLang": "fr"
 }

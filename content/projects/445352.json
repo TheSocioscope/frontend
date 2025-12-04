@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718369017,
   "date": null,
-  "description": "Mam’yaoka est un projet né d'une initiative de quartier. Lancé en 2015, ce projet est né de la volonté de créer des emplois durables pour des femmes talentueuses dans le domaine culinaire. Il s'est d'abord développé sous forme associative dans le 19ème arrondissement, pour devenir ensuite une coopérative et ouvrir son premier restaurant en février 2016. La coopérative a été choisie pour mobiliser des capitaux auprès des personnes engagées dans le projet et pour permettre aux employés de participer à la gestion de l'entreprise. L'objectif initial était d'impliquer tous les acteurs du projet, en particulier les employés, dans la direction des opérations de l'entreprise. Ainsi, d'un petit projet local du 19ème arrondissement est né un restaurant dans le 18ème arrondissement, près de la porte de la Chapelle.",
+  "description": {
+    "fr": "Mam’yaoka est un projet né d'une initiative de quartier. Lancé en 2015, ce projet est né de la volonté de créer des emplois durables pour des femmes talentueuses dans le domaine culinaire. Il s'est d'abord développé sous forme associative dans le 19ème arrondissement, pour devenir ensuite une coopérative et ouvrir son premier restaurant en février 2016. La coopérative a été choisie pour mobiliser des capitaux auprès des personnes engagées dans le projet et pour permettre aux employés de participer à la gestion de l'entreprise. L'objectif initial était d'impliquer tous les acteurs du projet, en particulier les employés, dans la direction des opérations de l'entreprise. Ainsi, d'un petit projet local du 19ème arrondissement est né un restaurant dans le 18ème arrondissement, près de la porte de la Chapelle.",
+    "en": "Mam'yaoka is a project born out of a neighborhood initiative. Launched in 2015, the project grew out of a desire to create sustainable jobs for talented women in the culinary field. It first developed in associative form in the 19th arrondissement, later becoming a cooperative and opening its first restaurant in February 2016. The cooperative was chosen to raise capital from those committed to the project and to enable employees to participate in the management of the business. The initial aim was to involve all project stakeholders, especially employees, in running the company's operations. So, from a small local project in the 19th arrondissement, a restaurant was born in the 18th arrondissement, near Porte de la Chapelle.",
+    "es": "Mam'yaoka es un proyecto nacido de una iniciativa vecinal. Lanzado en 2015, el proyecto surgió del deseo de crear empleos sostenibles para mujeres con talento en el ámbito culinario. Inicialmente se desarrolló como asociación en el distrito 19, antes de convertirse en cooperativa y abrir su primer restaurante en febrero de 2016. Se optó por la cooperativa para reunir capital de las personas implicadas en el proyecto y permitir a los empleados participar en la gestión del negocio. El objetivo inicial era implicar a todas las personas implicadas en el proyecto, en particular a los empleados, en la gestión del negocio. Como resultado, un pequeño proyecto local en el distrito 19 dio lugar a un restaurante en el distrito 18, cerca de Porte de la Chapelle.",
+    "de": "Mam'yaoka ist ein Projekt, das aus einer Nachbarschaftsinitiative entstanden ist. Das Projekt wurde 2015 ins Leben gerufen und entstand aus dem Wunsch heraus, nachhaltige Arbeitsplätze für talentierte Frauen im kulinarischen Bereich zu schaffen. Es entwickelte sich zunächst in Form eines Vereins im 19. Arrondissement, wurde dann zu einer Genossenschaft und eröffnete im Februar 2016 sein erstes Restaurant. Die Genossenschaft wurde gewählt, um bei den am Projekt beteiligten Personen Kapital zu mobilisieren und den Beschäftigten die Möglichkeit zu geben, sich an der Unternehmensführung zu beteiligen. Das ursprüngliche Ziel bestand darin, alle Projektbeteiligten, insbesondere die Beschäftigten, in die Führung des Unternehmens einzubeziehen. So entstand aus einem kleinen lokalen Projekt im 19. Arrondissement ein Restaurant im 18. Arrondissement, in der Nähe der Porte de la Chapelle."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Mam'yaoka",
+  "name": {
+    "en": "Mam'yaoka",
+    "fr": "Mam'yaoka",
+    "es": "Mam'yaoka",
+    "de": "Mam'yaoka"
+  },
   "pubId": 445352,
   "score": 103.89999999999793,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

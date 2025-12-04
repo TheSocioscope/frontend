@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754990465,
   "date": null,
-  "description": "The Cerveceria La Trocha, established by former combatants as part of Colombia's peace agreement, is a community-driven initiative focused on promoting peace and supporting local economies. With a team of dedicated workers, it operates a brewery and offers various artisanal products, fostering collaboration with local artists and institutions. The initiative emphasizes workers' rights, sustainability, and collective growth, aiming to create a supportive environment for both signatories and victims of the conflict.",
+  "description": {
+    "en": "The Cerveceria La Trocha, established by former combatants as part of Colombia's peace agreement, is a community-driven initiative focused on promoting peace and supporting local economies. With a team of dedicated workers, it operates a brewery and offers various artisanal products, fostering collaboration with local artists and institutions. The initiative emphasizes workers' rights, sustainability, and collective growth, aiming to create a supportive environment for both signatories and victims of the conflict.",
+    "fr": "La Cerveceria La Trocha, créée par d'anciens combattants dans le cadre de l'accord de paix en Colombie, est une initiative communautaire visant à promouvoir la paix et à soutenir les économies locales. Avec une équipe de travailleurs dévoués, elle exploite une brasserie et propose divers produits artisanaux, en encourageant la collaboration avec des artistes et des institutions locales. L'initiative met l'accent sur les droits des travailleurs, la durabilité et la croissance collective, dans le but de créer un environnement favorable tant pour les signataires que pour les victimes du conflit.",
+    "es": "La Cervecería La Trocha, creada por excombatientes en el marco del acuerdo de paz de Colombia, es una iniciativa comunitaria centrada en promover la paz y apoyar las economías locales. Con un equipo de trabajadores entregados, gestiona una fábrica de cerveza y ofrece diversos productos artesanales, fomentando la colaboración con artistas e instituciones locales. La iniciativa hace hincapié en los derechos de los trabajadores, la sostenibilidad y el crecimiento colectivo, con el objetivo de crear un entorno propicio tanto para los firmantes como para las víctimas del conflicto.",
+    "de": "Die Cerveceria La Trocha, die von ehemaligen Kämpfern im Rahmen des kolumbianischen Friedensabkommens gegründet wurde, ist eine von der Gemeinschaft getragene Initiative, die sich auf die Förderung des Friedens und die Unterstützung der lokalen Wirtschaft konzentriert. Mit einem Team engagierter Mitarbeiter betreibt sie eine Brauerei und bietet verschiedene handwerkliche Produkte an, wobei sie die Zusammenarbeit mit lokalen Künstlern und Institutionen fördert. Die Initiative legt den Schwerpunkt auf die Rechte der Arbeitnehmer, Nachhaltigkeit und kollektives Wachstum und zielt darauf ab, ein unterstützendes Umfeld sowohl für die Unterzeichner als auch für die Opfer des Konflikts zu schaffen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cerveceria La Trocha",
+  "name": {
+    "es": "Cerveceria La Trocha",
+    "en": "La Trocha Brewery",
+    "fr": "Brasserie La Trocha",
+    "de": "Brauerei La Trocha"
+  },
   "pubId": 489852,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

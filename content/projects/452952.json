@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754422890,
   "date": null,
-  "description": "Prodeman, founded in 1984, has evolved from a small agricultural venture into a significant player in the peanut industry. Located in General Cabrera, Córdoba, the company now manages over 40,000 hectares and employs 650 people. With a focus on sustainability and innovation, Prodeman aims to produce finished food products, including snacks and flours, while also generating energy from peanut shell waste, showcasing a commitment to circular economy practices. They emphasise the importance of education and community involvement, including the establishment of a local secondary school.",
+  "description": {
+    "en": "Prodeman, founded in 1984, has grown from a small agricultural company to become a major player in the peanut industry. Located in General Cabrera, Córdoba, the company currently manages more than 40,000 hectares and employs 650 people. With a focus on sustainability and innovation, Prodeman aims to produce finished food products, including snacks and flours, while also generating energy from peanut shell waste, showing a commitment to circular economy practices. They emphasize the importance of education and community involvement, including the creation of a local high school.",
+    "fr": "Prodeman, fondée en 1984, est passée du statut de petite entreprise agricole à celui d'acteur majeur de l'industrie de l'arachide. Située à General Cabrera, dans la province de Cordoue, l'entreprise gère actuellement plus de 40 000 hectares et emploie 650 personnes. En mettant l'accent sur la durabilité et l'innovation, Prodeman vise à produire des produits alimentaires finis, notamment des snacks et des farines, tout en générant de l'énergie à partir des déchets de coques d'arachides, démontrant ainsi son engagement en faveur des pratiques d'économie circulaire. L'entreprise souligne l'importance de l'éducation et de l'implication de la communauté, notamment par la création d'une école secondaire locale.",
+    "es": "Prodeman, fundada en 1984, ha pasado de ser una pequeña empresa agrícola a convertirse en un actor importante en la industria del cacahuete. Ubicada en General Cabrera, Córdoba, la empresa gestiona actualmente más de 40.000 hectáreas y emplea a 650 personas. Con un enfoque en la sostenibilidad y la innovación, Prodeman tiene como objetivo producir productos alimenticios acabados, incluyendo aperitivos y harinas, mientras que también genera energía a partir de residuos de cáscara de cacahuete, mostrando un compromiso con las prácticas de economía circular. Destacan la importancia de la educación y la participación de la comunidad, incluida la creación de una escuela secundaria local.",
+    "de": "Das 1984 gegründete Unternehmen Prodeman hat sich von einem kleinen landwirtschaftlichen Unternehmen zu einem bedeutenden Akteur in der Peanut-Industrie entwickelt. Das Unternehmen mit Sitz in General Cabrera, Córdoba, bewirtschaftet mittlerweile über 40.000 Hektar und beschäftigt 650 Mitarbeiter. Mit einem Fokus auf Nachhaltigkeit und Innovation strebt Prodeman die Herstellung von Fertignahrungsmitteln an, darunter Snacks und Flours, und erzeugt außerdem Energie aus Erdnussschalenabfällen, was ein Bekenntnis zu Praktiken der Kreislaufwirtschaft zeigt. Sie betonen die Bedeutung von Bildung und kommunaler Beteiligung, einschließlich der Einrichtung einer örtlichen Sekundarschule."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Prodeman",
+  "name": {
+    "en": "Prodeman",
+    "fr": "Prodeman",
+    "es": "Prodeman",
+    "de": "Prodeman"
+  },
   "pubId": 452952,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

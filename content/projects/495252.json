@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755007804,
   "date": null,
-  "description": "Lufa, founded in 2009 by 4 co-founders, is an innovative urban farming initiative based in Montreal that focuses on rooftop farming to enhance food transparency and sustainability.  The initiative aims to grow food where people live, ensuring freshness and sustainability. With five greenhouses, Lufa collaborates with local producers to offer a diverse range of products through an online marketplace, reducing food waste and supporting community engagement while prioritizing ethical and environmentally conscious practices.     ",
+  "description": {
+    "en": "Lufa, founded in 2009 by 4 co-founders, is an innovative urban farming initiative based in Montreal that focuses on rooftop farming to enhance food transparency and sustainability.  The initiative aims to grow food where people live, ensuring freshness and sustainability. With five greenhouses, Lufa collaborates with local producers to offer a diverse range of products through an online marketplace, reducing food waste and supporting community engagement while prioritizing ethical and environmentally conscious practices.     ",
+    "fr": "Lufa, fondée en 2009 par 4 cofondateurs, est une initiative innovante d'agriculture urbaine basée à Montréal qui se concentre sur l'agriculture sur les toits afin d'améliorer la transparence et la durabilité des aliments.  L'initiative vise à cultiver des aliments là où les gens vivent, en garantissant leur fraîcheur et leur durabilité. Avec cinq serres, Lufa collabore avec des producteurs locaux pour offrir une gamme variée de produits sur un marché en ligne, réduisant ainsi le gaspillage alimentaire et soutenant l'engagement communautaire tout en donnant la priorité à des pratiques éthiques et respectueuses de l'environnement.     ",
+    "es": "Lufa, fundada en 2009 por 4 cofundadores, es una innovadora iniciativa de agricultura urbana con sede en Montreal que se centra en la agricultura en azoteas para mejorar la transparencia y la sostenibilidad alimentarias.  La iniciativa pretende cultivar alimentos donde vive la gente, garantizando la frescura y la sostenibilidad. Con cinco invernaderos, Lufa colabora con productores locales para ofrecer una amplia gama de productos a través de un mercado en línea, reduciendo el desperdicio de alimentos y apoyando el compromiso de la comunidad, al tiempo que da prioridad a las prácticas éticas y respetuosas con el medio ambiente.     ",
+    "de": "Die 2009 von vier Mitbegründern ins Leben gerufene Lufa ist eine innovative urbane Landwirtschaftsinitiative mit Sitz in Montreal, die sich auf den Anbau auf Dächern konzentriert, um die Transparenz und Nachhaltigkeit von Lebensmitteln zu verbessern.  Ziel der Initiative ist es, Lebensmittel dort anzubauen, wo die Menschen leben, um Frische und Nachhaltigkeit zu gewährleisten. In fünf Gewächshäusern arbeitet Lufa mit lokalen Erzeugern zusammen, um über einen Online-Marktplatz eine breite Palette von Produkten anzubieten, die Lebensmittelverschwendung zu reduzieren und das Engagement der Gemeinschaft zu fördern, wobei ethische und umweltbewusste Praktiken im Vordergrund stehen.     "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Lufa Farms",
+  "name": {
+    "en": "Lufa Farms",
+    "fr": "Fermes Lufa",
+    "es": "Granjas Lufa",
+    "de": "Lufa-Bauernhöfe"
+  },
   "pubId": 495252,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "en"
 }

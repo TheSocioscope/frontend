@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754987631,
   "date": null,
-  "description": "Oda is a restaurant initiative that aims to celebrate the agricultural richness of Colombia, particularly focusing on the Andean region's diverse production of fruits and vegetables. The restaurant is part of The Next Shot group, which also includes an indoor golf club and a cocktail lounge. Since its inception nearly four years ago, Oda has sought to create a fine dining experience that highlights local ingredients and culinary traditions while promoting sustainability. The restaurant collaborates with local producers, viewing them as allies rather than mere suppliers, and has established a rigorous evaluation system to assess potential partners based on sustainability criteria.",
+  "description": {
+    "en": "Oda is a restaurant initiative that aims to celebrate the agricultural richness of Colombia, particularly focusing on the Andean region's diverse production of fruits and vegetables. The restaurant is part of The Next Shot group, which also includes an indoor golf club and a cocktail lounge. Since its inception nearly four years ago, Oda has sought to create a fine dining experience that highlights local ingredients and culinary traditions while promoting sustainability. The restaurant collaborates with local producers, viewing them as allies rather than mere suppliers, and has established a rigorous evaluation system to assess potential partners based on sustainability criteria.",
+    "fr": "Oda est une initiative de restauration qui vise à célébrer la richesse agricole de la Colombie, en mettant particulièrement l'accent sur la diversité de la production de fruits et légumes de la région andine. Le restaurant fait partie du groupe The Next Shot, qui comprend également un club de golf intérieur et un bar à cocktails. Depuis sa création il y a près de quatre ans, Oda a cherché à créer une expérience gastronomique qui mette en valeur les ingrédients locaux et les traditions culinaires tout en promouvant la durabilité. Le restaurant collabore avec des producteurs locaux, qu'il considère comme des alliés plutôt que de simples fournisseurs, et a mis en place un système d'évaluation rigoureux pour évaluer les partenaires potentiels sur la base de critères de durabilité.",
+    "es": "Oda es una iniciativa de restauración que pretende celebrar la riqueza agrícola de Colombia, centrándose especialmente en la diversa producción de frutas y verduras de la región andina. El restaurante forma parte del grupo The Next Shot, que también incluye un club de golf cubierto y una coctelería. Desde su creación hace casi cuatro años, Oda ha tratado de crear una experiencia gastronómica que destaque los ingredientes locales y las tradiciones culinarias, promoviendo al mismo tiempo la sostenibilidad. El restaurante colabora con productores locales, a los que considera aliados y no meros proveedores, y ha establecido un riguroso sistema de evaluación de posibles socios basado en criterios de sostenibilidad.",
+    "de": "Oda ist eine Restaurant-Initiative, die den landwirtschaftlichen Reichtum Kolumbiens zelebrieren will, wobei der Schwerpunkt auf der vielfältigen Obst- und Gemüseproduktion in der Andenregion liegt. Das Restaurant ist Teil der The Next Shot-Gruppe, zu der auch ein Indoor-Golfclub und eine Cocktail-Lounge gehören. Seit seiner Gründung vor fast vier Jahren hat sich das Oda bemüht, ein feines kulinarisches Erlebnis zu schaffen, das lokale Zutaten und kulinarische Traditionen hervorhebt und gleichzeitig die Nachhaltigkeit fördert. Das Restaurant arbeitet mit lokalen Erzeugern zusammen, die es als Verbündete und nicht nur als Lieferanten betrachtet, und hat ein strenges Bewertungssystem eingeführt, um potenzielle Partner anhand von Nachhaltigkeitskriterien zu beurteilen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Oda ",
+  "name": {
+    "en": "Oda",
+    "fr": "Oda ",
+    "es": "Oda",
+    "de": "Oda"
+  },
   "pubId": 488452,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

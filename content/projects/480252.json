@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754991031,
   "date": null,
-  "description": "The initiative at EAFIT University focuses on enhancing agricultural sectors through a multidisciplinary approach. Established over six years ago, it aims to integrate technology and research into agronomy, fostering sustainable agri-food systems. The university has restructured to address complex regional challenges, emphasizing collaboration with various stakeholders, including the private and public sectors. This initiative not only promotes education and research but also seeks to transform local communities by improving food systems and sustainability practices.",
+  "description": {
+    "en": "The initiative at EAFIT University focuses on enhancing agricultural sectors through a multidisciplinary approach. Established over six years ago, it aims to integrate technology and research into agronomy, fostering sustainable agri-food systems. The university has restructured to address complex regional challenges, emphasizing collaboration with various stakeholders, including the private and public sectors. This initiative not only promotes education and research but also seeks to transform local communities by improving food systems and sustainability practices.",
+    "fr": "L'initiative de l'université EAFIT se concentre sur l'amélioration des secteurs agricoles grâce à une approche multidisciplinaire. Créée il y a plus de six ans, elle vise à intégrer la technologie et la recherche dans l'agronomie, en favorisant des systèmes agroalimentaires durables. L'université s'est restructurée pour relever des défis régionaux complexes, en mettant l'accent sur la collaboration avec diverses parties prenantes, y compris les secteurs privé et public. Cette initiative vise non seulement à promouvoir l'enseignement et la recherche, mais aussi à transformer les communautés locales en améliorant les systèmes alimentaires et les pratiques de durabilité.",
+    "es": "La iniciativa de la Universidad EAFIT se centra en potenciar los sectores agrícolas mediante un enfoque multidisciplinar. Creada hace más de seis años, su objetivo es integrar la tecnología y la investigación en agronomía, fomentando sistemas agroalimentarios sostenibles. La universidad se ha reestructurado para abordar complejos retos regionales, haciendo hincapié en la colaboración con diversas partes interesadas, incluidos los sectores público y privado. Esta iniciativa no sólo promueve la educación y la investigación, sino que también pretende transformar las comunidades locales mejorando los sistemas alimentarios y las prácticas de sostenibilidad.",
+    "de": "Die Initiative an der EAFIT-Hochschule konzentriert sich auf die Verbesserung des Agrarsektors durch einen multidisziplinären Ansatz. Sie wurde vor über sechs Jahren gegründet und zielt darauf ab, Technologie und Forschung in die Agrarwissenschaft zu integrieren und nachhaltige Agrar- und Ernährungssysteme zu fördern. Die Universität hat sich neu strukturiert, um komplexe regionale Herausforderungen zu bewältigen, und setzt dabei auf die Zusammenarbeit mit verschiedenen Interessengruppen, einschließlich des privaten und öffentlichen Sektors. Diese Initiative dient nicht nur der Förderung von Bildung und Forschung, sondern zielt auch darauf ab, lokale Gemeinschaften durch die Verbesserung von Lebensmittelsystemen und Nachhaltigkeitspraktiken zu verändern."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "EAFIT",
+  "name": {
+    "en": "EAFIT",
+    "fr": "EAFIT",
+    "es": "EAFIT",
+    "de": "EAFIT"
+  },
   "pubId": 480252,
   "score": 52.944922565946705,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

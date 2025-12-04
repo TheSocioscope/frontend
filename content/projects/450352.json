@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754404371,
   "date": null,
-  "description": "La Cuica Cosmica initiative, inspired by ancestral wisdom and the teachings of permaculture, aims to promote sustainable practices through composting and organic gardening. Founded by a passionate group, it emphasizes the importance of understanding waste management and fostering a connection with nature. By offering workshops and educational resources, the initiative seeks to empower communities to embrace ecological practices, enhance food sovereignty, and cultivate a deeper relationship with the environment.",
+  "description": {
+    "en": "The La Cuica Cosmica initiative, inspired by ancient wisdom and permaculture teachings, aims to promote sustainable practices through composting and organic gardening. Founded by a group of passionate people, it emphasizes the importance of understanding waste management and fostering a connection with nature. By offering workshops and educational resources, the initiative aims to empower communities to adopt eco-friendly practices, improve food sovereignty and cultivate a deeper relationship with the environment.",
+    "fr": "L'initiative La Cuica Cosmica, inspirée de la sagesse ancienne et des enseignements de la permaculture, vise à promouvoir des pratiques durables par le biais du compostage et du jardinage biologique. Fondée par un groupe de personnes passionnées, elle met l'accent sur l'importance de comprendre la gestion des déchets et de favoriser la connexion avec la nature. En proposant des ateliers et des ressources éducatives, l'initiative vise à permettre aux communautés d'adopter des pratiques respectueuses de l'environnement, d'améliorer la souveraineté alimentaire et de cultiver une relation plus profonde avec l'environnement.",
+    "es": "La iniciativa La Cuica Cosmica, inspirada en la sabiduría ancestral y las enseñanzas de la permacultura, pretende promover prácticas sostenibles a través del compostaje y la jardinería ecológica. Fundada por un grupo de apasionados, hace hincapié en la importancia de comprender la gestión de residuos y fomentar la conexión con la naturaleza. Al ofrecer talleres y recursos educativos, la iniciativa pretende capacitar a las comunidades para que adopten prácticas ecológicas, mejoren la soberanía alimentaria y cultiven una relación más profunda con el medio ambiente.",
+    "de": "Die Initiative La Cuica Cosmica, die von der Weisheit unserer Vorfahren und den Lehren der Permakultur inspiriert ist, will nachhaltige Praktiken durch Kompostierung und organisches Gärtnern fördern. Das von einer leidenschaftlichen Gruppe gegründete Projekt betont die Wichtigkeit, die Abfallwirtschaft zu verstehen und eine Verbindung zur Natur zu fördern. Durch das Angebot von Workshops und Bildungsressourcen will die Initiative Gemeinden ermutigen, ökologische Praktiken zu übernehmen, die Nahrungsmittelsouveränität zu stärken und eine bessere Beziehung zur Umwelt zu pflegen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Cuica Cosmica",
+  "name": {
+    "pt": "La Cuica Cosmica",
+    "en": "La Cuica Cosmica",
+    "fr": "La Cuica Cosmica",
+    "es": "La Cuica Cosmica",
+    "de": "La Cuica Cosmica"
+  },
   "pubId": 450352,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

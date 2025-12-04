@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739459528,
   "date": null,
-  "description": "La Huerta initiative is a sustainable hotel project located in Oca Lima. This initiative emphasizes the use of organic produce grown in its own garden, which supplies the hotel's restaurant, thereby reducing its carbon footprint and promoting regenerative tourism. The hotel employs triple impact methodologies, treating waste and utilizing wastewater to create biochemical fertilizers for the garden. Guests are engaged in experiential learning about organic farming practices, fostering a connection to the land and encouraging them to cultivate their own crops at home. The initiative also aims to create a positive local impact by hiring community members and collaborating with various organizations to promote education and sustainability, ultimately prioritizing ecological and social values over mere profit.",
+  "description": {
+    "en": "The La Huerta initiative is a sustainable hotel project located in Oca Lima. This initiative emphasizes the use of organic produce grown in its own garden, which supplies the hotel's restaurant, thus reducing its carbon footprint and promoting regenerative tourism. The hotel employs triple-impact methodologies, treating waste and using wastewater to create biochemical fertilizers for the garden. Guests participate in experiential learning about organic farming practices, fostering a connection to the land and encouraging them to grow their own produce at home. The initiative also aims to create a positive local impact by hiring community members and collaborating with various organizations to promote education and sustainability, ultimately prioritizing ecological and social values over mere profit.",
+    "fr": "L'initiative La Huerta est un projet d'hôtel durable situé à Oca Lima. Cette initiative met l'accent sur l'utilisation de produits biologiques cultivés dans son propre jardin, qui approvisionne le restaurant de l'hôtel, réduisant ainsi son empreinte carbone et promouvant un tourisme régénérateur. L'hôtel utilise des méthodes à triple impact, en traitant les déchets et en utilisant les eaux usées pour créer des engrais biochimiques pour le jardin. Les clients participent à un apprentissage par l'expérience des pratiques de l'agriculture biologique, ce qui favorise le lien avec la terre et les encourage à cultiver leurs propres produits chez eux. L'initiative vise également à créer un impact local positif en employant des membres de la communauté et en collaborant avec diverses organisations pour promouvoir l'éducation et la durabilité, en donnant finalement la priorité aux valeurs écologiques et sociales plutôt qu'au simple profit.",
+    "es": "La iniciativa La Huerta es un proyecto de hotel sostenible situado en Oca Lima. Esta iniciativa hace hincapié en el uso de productos orgánicos cultivados en su propio huerto, que abastece al restaurante del hotel, reduciendo así su huella de carbono y promoviendo el turismo regenerativo. El hotel emplea metodologías de triple impacto, tratando los residuos y utilizando las aguas residuales para crear fertilizantes bioquímicos para el huerto. Los huéspedes participan en un aprendizaje experimental sobre prácticas de agricultura ecológica, fomentando una conexión con la tierra y animándoles a cultivar sus propios productos en casa. La iniciativa también pretende crear un impacto local positivo contratando a miembros de la comunidad y colaborando con diversas organizaciones para promover la educación y la sostenibilidad, priorizando en última instancia los valores ecológicos y sociales sobre el mero beneficio.",
+    "de": "Die Initiative La Huerta ist ein nachhaltiges Hotelprojekt, das sich in Oca Lima befindet. Die Initiative legt Wert auf die Verwendung von organischen Produkten aus dem eigenen Garten, der das Restaurant des Hotels versorgt, wodurch der CO2-Ausstoß des Hotels reduziert und der regenerative Tourismus gefördert wird. Das Hotel wendet Methoden mit dreifacher Wirkung an, behandelt Abfall und nutzt Abwasser, um biochemische Düngemittel für den Garten zu erzeugen. Die Gäste werden in das Erfahrungslernen über organische Landwirtschaftspraktiken eingebunden, wodurch eine Verbindung zum Land hergestellt und sie ermutigt werden, ihre eigenen Pflanzen zu Hause anzubauen. Die Initiative zielt auch darauf ab, eine positive lokale Wirkung zu erzielen, indem sie Gemeindemitglieder einstellt und mit verschiedenen Organisationen zusammenarbeitet, um Bildung und Nachhaltigkeit zu fördern, wobei letztlich ökologische und soziale Werte Vorrang vor reinen Profiten haben."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Huerta",
+  "name": {
+    "en": "La Huerta",
+    "fr": "La Huerta",
+    "es": "La Huerta",
+    "de": "La Huerta"
+  },
   "pubId": 441052,
   "score": 166.10196078431397,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://lahuertahotel.com.co/educacion/",
   "yt": "ekAfR_kMkx0",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

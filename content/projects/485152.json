@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754928136,
   "date": null,
-  "description": "Agroclúster is an initiative aimed at enhancing the conditions of small and medium-sized producers in Colombia. Established as a consultancy, it focuses on providing specialized technical assistance, rural extension, and technological support. By addressing marketing challenges and improving infrastructure, Agroclúster connects farmers with consumers and wholesalers, promoting sustainable agricultural practices and innovative technologies to ensure regenerative and high-precision farming across various Colombian regions.",
+  "description": {
+    "en": "Agroclúster is an initiative aimed at enhancing the conditions of small and medium-sized producers in Colombia. Established as a consultancy, it focuses on providing specialized technical assistance, rural extension, and technological support. By addressing marketing challenges and improving infrastructure, Agroclúster connects farmers with consumers and wholesalers, promoting sustainable agricultural practices and innovative technologies to ensure regenerative and high-precision farming across various Colombian regions.",
+    "fr": "Agroclúster est une initiative visant à améliorer les conditions des petits et moyens producteurs en Colombie. Établie en tant que société de conseil, elle se concentre sur la fourniture d'une assistance technique spécialisée, d'une extension rurale et d'un soutien technologique. En s'attaquant aux problèmes de commercialisation et en améliorant les infrastructures, Agroclúster met les agriculteurs en contact avec les consommateurs et les grossistes, en promouvant des pratiques agricoles durables et des technologies innovantes pour garantir une agriculture régénératrice et de haute précision dans diverses régions colombiennes.",
+    "es": "Agroclúster es una iniciativa destinada a mejorar las condiciones de los pequeños y medianos productores de Colombia. Establecida como consultoría, se centra en proporcionar asistencia técnica especializada, extensión rural y apoyo tecnológico. Al abordar los retos de la comercialización y mejorar las infraestructuras, Agroclúster conecta a los agricultores con los consumidores y los mayoristas, promoviendo prácticas agrícolas sostenibles y tecnologías innovadoras para garantizar una agricultura regenerativa y de alta precisión en diversas regiones colombianas.",
+    "de": "Agroclúster ist eine Initiative, die darauf abzielt, die Bedingungen für kleine und mittlere Erzeuger in Kolumbien zu verbessern. Sie wurde als Beratungsunternehmen gegründet und konzentriert sich auf die Bereitstellung spezialisierter technischer Hilfe, ländlicher Beratung und technologischer Unterstützung. Durch die Bewältigung von Vermarktungsproblemen und die Verbesserung der Infrastruktur bringt Agroclúster Landwirte mit Verbrauchern und Großhändlern zusammen und fördert nachhaltige landwirtschaftliche Praktiken und innovative Technologien, um eine regenerative und hochpräzise Landwirtschaft in verschiedenen Regionen Kolumbiens zu gewährleisten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agroclúster",
+  "name": {
+    "es": "Agroclúster",
+    "en": "Agrocluster",
+    "fr": "Agrocluster",
+    "de": "Agrocluster"
+  },
   "pubId": 485152,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

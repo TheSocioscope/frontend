@@ -12,14 +12,24 @@
   ],
   "createdAt": 1658414592,
   "date": null,
-  "description": "La restauration scolaire de la ville de Dijon fait l’objet d’un programme de recherche scientifique porté par INRAE. Ce programme repose sur un dispositif destiné à évaluer la satisfaction des enfants à la sortie de la cantine : une borne de satisfaction sur laquelle les élèves choisissent un des cinq icônes pour dire s’ils ont aimé ou pas le plat principal. L’évaluation porte notamment sur l’acceptation des repas végétariens ou sur les \"néophobies alimentaires\" (la répulsion face à un plat inédit). Les enseignements de ce programme intéresseront l’ensemble des acteurs de la filière, du champ à l’assiette.",
+  "description": {
+    "fr": "La restauration scolaire de la ville de Dijon fait l’objet d’un programme de recherche scientifique porté par INRAE. Ce programme repose sur un dispositif destiné à évaluer la satisfaction des enfants à la sortie de la cantine : une borne de satisfaction sur laquelle les élèves choisissent un des cinq icônes pour dire s’ils ont aimé ou pas le plat principal. L’évaluation porte notamment sur l’acceptation des repas végétariens ou sur les \"néophobies alimentaires\" (la répulsion face à un plat inédit). Les enseignements de ce programme intéresseront l’ensemble des acteurs de la filière, du champ à l’assiette.",
+    "en": "Dijon's school canteen is the subject of a scientific research program led by INRAE. The program is based on a device designed to assess children's satisfaction after leaving the canteen: a satisfaction terminal on which pupils choose one of five icons to say whether they liked or disliked the main course. The evaluation focuses in particular on the acceptance of vegetarian meals and on \"food neophobia\" (repulsion when faced with a novel dish). The lessons learned from this program will be of interest to all players in the industry, from field to plate.",
+    "es": "El comedor escolar de Dijon es objeto de un programa de investigación científica dirigido por el INRAE. El programa se basa en un dispositivo diseñado para evaluar la satisfacción de los niños al salir del comedor: un terminal de satisfacción en el que los alumnos eligen uno de cinco iconos para decir si les ha gustado o no el plato principal. La evaluación se centra especialmente en la aceptación de las comidas vegetarianas y la \"neofobia alimentaria\" (repulsión ante un plato nuevo). Las enseñanzas extraídas de este programa serán de interés para todos los implicados en el sector, del campo al plato.",
+    "de": "Die Schulverpflegung in der Stadt Dijon ist Gegenstand eines wissenschaftlichen Forschungsprogramms, das von INRAE getragen wird. Dieses Programm beruht auf einem Gerät, das die Zufriedenheit der Kinder nach dem Verlassen der Kantine bewerten soll: eine Zufriedenheitssäule, an der die Schüler eines von fünf Symbolen auswählen, um anzugeben, ob ihnen das Hauptgericht geschmeckt hat oder nicht. Bewertet werden u. a. die Akzeptanz vegetarischer Mahlzeiten oder \"Food Neophobia\" (die Abneigung gegen ein neuartiges Gericht). Die Erkenntnisse aus diesem Programm werden für alle Akteure der Lebensmittelkette vom Feld bis zum Teller von Interesse sein."
+  },
   "field": [
     "management-public-administration",
     "psychology-behavioural-and-cognitive-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Dispositif \"Chouette cantine\"",
+  "name": {
+    "fr": "Dispositif \"Chouette cantine\"",
+    "en": "Chouette cantine\" scheme",
+    "es": "Plan \"Chouette cantine",
+    "de": "Einrichtung \"Chouette cantine\" (Gute Kantine)"
+  },
   "pubId": 418152,
   "score": 1955.2842105263155,
   "state": "ongoing-project",
@@ -47,28 +57,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495405,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495405,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

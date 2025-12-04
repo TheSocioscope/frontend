@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754910406,
   "date": null,
-  "description": "Les Glaneuses is a zero-waste shop, grocery and drugstore, all in one, located in the 11th arrondissement of Paris. Established in December 2020, the shop offers high-quality, eco-responsible local products without packaging, encouraging customers to bring their own containers. Beyond selling goods, it serves as a community hub for exchange and learning, promoting sustainable living and healthy eating while fostering connections among local residents and producers. They also operate an online store, which allows customers to buy online. ",
+  "description": {
+    "en": "Les Glaneuses is a zero-waste shop, grocery and drugstore, all in one, located in the 11th arrondissement of Paris. Established in December 2020, the shop offers high-quality, eco-responsible local products without packaging, encouraging customers to bring their own containers. Beyond selling goods, it serves as a community hub for exchange and learning, promoting sustainable living and healthy eating while fostering connections among local residents and producers. They also operate an online store, which allows customers to buy online. ",
+    "fr": "Les Glaneuses est un magasin zéro déchet, à la fois épicerie et droguerie, situé dans le 11e arrondissement de Paris. Créée en décembre 2020, la boutique propose des produits locaux de qualité, éco-responsables et sans emballage, encourageant les clients à apporter leurs propres contenants. Au-delà de la vente de marchandises, elle sert de centre communautaire d'échange et d'apprentissage, promouvant un mode de vie durable et une alimentation saine tout en favorisant les liens entre les habitants et les producteurs locaux. Il gère également une boutique en ligne, qui permet aux clients d'acheter en ligne.",
+    "es": "Les Glaneuses es una tienda de cero residuos, ultramarinos y droguería, todo en uno, situada en el distrito 11 de París. Fundada en diciembre de 2020, la tienda ofrece productos locales ecorresponsables de alta calidad sin envases, animando a los clientes a traer sus propios envases. Más allá de la venta de productos, sirve como centro comunitario para el intercambio y el aprendizaje, promoviendo la vida sostenible y la alimentación saludable al tiempo que fomenta las conexiones entre los residentes y los productores locales. También gestionan una tienda en línea, que permite a los clientes comprar por Internet.",
+    "de": "Les Glaneuses ist ein Zero-Waste-Laden, Lebensmittelgeschäft und Drogerie in einem, der sich im 11. Der im Dezember 2020 eröffnete Laden bietet qualitativ hochwertige, umweltverträgliche und verpackungsfreie Produkte aus der Region an und ermutigt seine Kunden, ihre eigenen Behälter mitzubringen. Über den Verkauf von Waren hinaus dient der Laden als gemeinschaftlicher Knotenpunkt für Austausch und Lernen, der einen nachhaltigen Lebensstil und eine gesunde Ernährung fördert und gleichzeitig die Beziehungen zwischen Anwohnern und Erzeugern stärkt. Das Unternehmen betreibt auch einen Online-Shop, in dem die Kunden online einkaufen können."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Glaneuses",
+  "name": {
+    "fr": "Les Glaneuses",
+    "en": "The Gleaners",
+    "es": "Las espigadoras",
+    "de": "Die Glaneuses"
+  },
   "pubId": 483752,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

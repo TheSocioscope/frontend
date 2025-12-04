@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754990293,
   "date": null,
-  "description": "The Raices Piangueras, founded in 2019, empowers over 11,000 women in Buenaventura, Colombia, to preserve mangrove ecosystems and the piangua mollusk. This initiative focuses on environmental conservation, education, and sustainable economic practices, enabling women to lead in decision-making processes traditionally dominated by men. Through training and community engagement, the organization promotes the cultural and gastronomic significance of the piangua, fostering both environmental sustainability and women's economic independence.",
+  "description": {
+    "en": "The Raices Piangueras, founded in 2019, empowers over 11,000 women in Buenaventura, Colombia, to preserve mangrove ecosystems and the piangua mollusk. This initiative focuses on environmental conservation, education, and sustainable economic practices, enabling women to lead in decision-making processes traditionally dominated by men. Through training and community engagement, the organization promotes the cultural and gastronomic significance of the piangua, fostering both environmental sustainability and women's economic independence.",
+    "fr": "Le Raices Piangueras, fondé en 2019, permet à plus de 11 000 femmes de Buenaventura, en Colombie, de préserver les écosystèmes de mangrove et le mollusque piangua. Cette initiative se concentre sur la conservation de l'environnement, l'éducation et les pratiques économiques durables, permettant aux femmes de diriger les processus de prise de décision traditionnellement dominés par les hommes. Grâce à la formation et à l'engagement communautaire, l'organisation promeut l'importance culturelle et gastronomique de la piangua, favorisant à la fois la durabilité environnementale et l'indépendance économique des femmes.",
+    "es": "Los Raíces Piangueras, fundados en 2019, empoderan a más de 11.000 mujeres de Buenaventura (Colombia) para preservar los ecosistemas de manglar y el molusco piangua. Esta iniciativa se centra en la conservación del medio ambiente, la educación y las prácticas económicas sostenibles, lo que permite a las mujeres liderar los procesos de toma de decisiones tradicionalmente dominados por los hombres. Mediante la formación y la participación de la comunidad, la organización promueve la importancia cultural y gastronómica de la piangua, fomentando tanto la sostenibilidad medioambiental como la independencia económica de las mujeres.",
+    "de": "Die 2019 gegründeten Raices Piangueras unterstützen über 11 000 Frauen in Buenaventura, Kolumbien, bei der Erhaltung der Mangroven-Ökosysteme und der Piangua-Muschel. Diese Initiative konzentriert sich auf Umweltschutz, Bildung und nachhaltige Wirtschaftspraktiken und befähigt Frauen, in Entscheidungsprozessen, die traditionell von Männern dominiert werden, eine führende Rolle zu übernehmen. Durch Schulungen und Engagement in der Gemeinde fördert die Organisation die kulturelle und gastronomische Bedeutung der Piangua und unterstützt sowohl die ökologische Nachhaltigkeit als auch die wirtschaftliche Unabhängigkeit der Frauen."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Raices Piangueras",
+  "name": {
+    "fr": "Raices Piangueras",
+    "en": "Raices Piangueras",
+    "es": "Raíces Piangueras",
+    "de": "Raices Piangueras"
+  },
   "pubId": 489752,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

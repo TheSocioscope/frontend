@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739456815,
   "date": null,
-  "description": "The Long Table is a community-focused project led by Tom Herbert, who has a background in baking and a strong belief in the importance of communal eating. Located in the Brimscomb Mill, the Long Table operates on a \"pay as you can\" model, allowing individuals from various socioeconomic backgrounds to share meals together without stigma. The initiative emphasizes dignity, equality, and community, fostering an environment where everyone can eat together, regardless of their financial situation.\n\nThe Long Table has been successful in providing over 40,000 meals in a year, supported by a network of local farms and sustainable food practices. It operates with a commitment to paying all employees a full wage and has developed partnerships with local organizations, including the Church of England, which has provided funding and support. The project also incorporates various community services, such as a bike repair shop and a furniture bank, creating a holistic approach to community engagement.",
+  "description": {
+    "en": "The Long Table is a community project run by Tom Herbert, who has a background in baking and believes strongly in the importance of community dining. Located in Brimscomb Mill, The Long Table operates on a \"pay-what-you-can\" model, allowing people from different socioeconomic backgrounds to share meals without stigma. The initiative emphasizes dignity, equality and community, fostering an environment where everyone can eat together, regardless of economic status. The Long Table has been able to provide more than 40,000 meals in one year, supported by a network of local farms and sustainable food practices. It operates on a commitment to pay all employees a full wage and has developed partnerships with local organizations, including the Church of England, which has provided funding and support. The project also incorporates various community services, such as a bicycle repair shop and furniture bank, creating a holistic approach to community involvement.",
+    "fr": "The Long Table est un projet communautaire dirigé par Tom Herbert, qui a une formation en pâtisserie et croit fermement à l'importance de l'alimentation communautaire. Située à Brimscomb Mill, The Long Table fonctionne sur le modèle du \"pay-what-you-can\" (payez ce que vous pouvez), ce qui permet à des personnes issues de milieux socio-économiques différents de partager des repas sans stigmatisation. L'initiative met l'accent sur la dignité, l'égalité et la communauté, en favorisant un environnement où tout le monde peut manger ensemble, quel que soit son statut économique. The Long Table a pu fournir plus de 40 000 repas en un an, en s'appuyant sur un réseau de fermes locales et sur des pratiques alimentaires durables. Elle s'est engagée à verser un salaire complet à tous ses employés et a développé des partenariats avec des organisations locales, dont l'Église d'Angleterre, qui lui a apporté son soutien et son financement. Le projet intègre également une série de services communautaires, tels qu'un atelier de réparation de vélos et une banque de meubles, créant ainsi une approche holistique de l'engagement communautaire.",
+    "es": "The Long Table es un proyecto comunitario dirigido por Tom Herbert, que tiene experiencia en repostería y cree firmemente en la importancia de la comida comunitaria. Situado en Brimscomb Mill, The Long Table funciona según el modelo de \"paga lo que puedas\", lo que permite a personas de distintos estratos socioeconómicos compartir comidas sin estigmas. La iniciativa hace hincapié en la dignidad, la igualdad y la comunidad, fomentando un entorno en el que todos puedan comer juntos, independientemente de su situación económica.\n\nThe Long Table ha conseguido proporcionar más de 40.000 comidas en un año, con el apoyo de una red de granjas locales y prácticas alimentarias sostenibles. Funciona con el compromiso de pagar a todos los empleados un salario íntegro y ha desarrollado asociaciones con organizaciones locales, incluida la Iglesia de Inglaterra, que le ha proporcionado financiación y apoyo. El proyecto también incorpora diversos servicios comunitarios, como un taller de reparación de bicicletas y un banco de muebles, creando un enfoque holístico de la participación comunitaria.",
+    "de": "The Long Table ist ein gemeindeorientiertes Projekt, das von Tom Herbert geleitet wird, der einen Hintergrund im Backen und einen starken Glauben an die Bedeutung des gemeinschaftlichen Essens hat. In der Brimscomb Mill gelegen, arbeitet der Long Table nach dem Modell \"pay as you can\" und ermöglicht es Menschen mit unterschiedlichem sozioökonomischen Hintergrund, ohne Stigma gemeinsam zu essen. Die Initiative betont Würde, Gleichheit und Gemeinschaft und fördert ein Umfeld, in dem alle Menschen unabhängig von ihrer finanziellen Situation gemeinsam essen können.\n\nThe Long Table war erfolgreich bei der Bereitstellung von über 40.000 Mahlzeiten pro Jahr, unterstützt durch ein Netzwerk lokaler Bauernhöfe und nachhaltiger Ernährungspraktiken. Es operiert mit dem Anspruch, allen Mitarbeitern einen vollen Lohn zu zahlen, und hat Partnerschaften mit lokalen Organisationen aufgebaut, darunter die Kirche von England, die Geld und Unterstützung bereitgestellt hat. Das Projekt umfasst auch verschiedene kommunale Dienstleistungen wie einen Fahrradreparaturladen und eine Möbelbank, wodurch ein ganzheitlicher Ansatz für das Engagement in der Gemeinde geschaffen wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "The Long Table",
+  "name": {
+    "en": "The Long Table",
+    "fr": "The Long Table",
+    "es": "La mesa larga",
+    "de": "The Long Table"
+  },
   "pubId": 449452,
   "score": 1450.2019607843183,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "https://www.thelongtableonline.com/aboutus",
   "yt": "EK07duPvTEY",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1756735691,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1756735691
     }
   ],
-  "lastEvent": {
-    "at": 1756735691,
-    "by": "contact"
-  },
   "updatedAt": [
     1756735691
-  ]
+  ],
+  "originalLang": "fr"
 }

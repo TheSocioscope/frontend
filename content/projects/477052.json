@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754648402,
   "date": null,
-  "description": "Shambah Dairies is a farm located in Mukarara Village, Muranga County. The primary goal of the initiative is to bring about positive change in the community through sustainable dairy farming, focusing on the production of goat milk and its various value-added products, such as yogurt and kefir. The initiative also emphasizes the importance of education and training, offering programs for farmers, students, and community groups to learn about sustainable agricultural practices and the health benefits of goat milk. ",
+  "description": {
+    "en": "Shambah Dairies is a farm located in Mukarara village, Muranga County. The main objective of the initiative is to bring about positive change in the community through sustainable dairy farming, focusing on the production of goat milk and its various value-added products, such as yogurt and kefir. The initiative also emphasizes the importance of education and training, offering programs for farmers, students and community groups to learn about sustainable farming practices and the health benefits of goat milk.",
+    "fr": "Shambah Dairies est une ferme située dans le village de Mukarara, dans le comté de Muranga. L'objectif principal de l'initiative est d'apporter un changement positif dans la communauté par le biais de l'élevage laitier durable, en se concentrant sur la production de lait de chèvre et de ses divers produits à valeur ajoutée, tels que le yaourt et le kéfir. L'initiative met également l'accent sur l'importance de l'éducation et de la formation, en proposant des programmes pour les agriculteurs, les étudiants et les groupes communautaires afin d'apprendre les pratiques agricoles durables et les avantages du lait de chèvre pour la santé.",
+    "es": "Shambah Dairies es una granja situada en la aldea de Mukarara, en el condado de Muranga. El objetivo principal de la iniciativa es provocar un cambio positivo en la comunidad mediante una ganadería lechera sostenible, centrada en la producción de leche de cabra y sus diversos productos de valor añadido, como el yogur y el kéfir. La iniciativa también hace hincapié en la importancia de la educación y la formación, ofreciendo programas para que agricultores, estudiantes y grupos comunitarios aprendan sobre prácticas agrícolas sostenibles y los beneficios de la leche de cabra para la salud.",
+    "de": "Shambah Dairies ist ein Bauernhof in Mukarara Village, Muranga County. Das Hauptziel der Initiative ist es, durch nachhaltige Milchwirtschaft positive Veränderungen in der Gemeinde herbeizuführen. Der Schwerpunkt liegt dabei auf der Produktion von Ziegenmilch und ihren verschiedenen Mehrwertprodukten wie Joghurt und Kefir. Die Initiative betont auch die Bedeutung von Bildung und Ausbildung und bietet Programme für Landwirte, Schüler und Gemeindegruppen an, um etwas über nachhaltige landwirtschaftliche Praktiken und die gesundheitlichen Vorteile der Ziegenmilch zu lernen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Shambah Dairies",
+  "name": {
+    "id": "Shambah Dairies",
+    "en": "Shambah Dairies",
+    "fr": "Laiteries Shambah",
+    "es": "Lecherías Shambah",
+    "de": "Shambah Molkereien"
+  },
   "pubId": 477052,
   "score": -44.495912361627965,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

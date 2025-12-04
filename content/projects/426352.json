@@ -12,14 +12,24 @@
   ],
   "createdAt": 1664727819,
   "date": null,
-  "description": "NI – Nutritional Intelligence is a project developed in partnership with the University of Rome ‘La Sapienza’, with Giomi Group/Gioservice and the Cristo Re Hospital in Rome. The entire production chain of the hospital has been rethought based on the application of food processing techniques implemented by Niko Romito at Ristorante Reale.  Thanks to this approach, not only the chemical – physical characteristics of the food served are improved but also the nutritional values of the after-cooked food. The project was implemented respecting the budget agreed upon. From the studies made on NI, two scientific articles were published proving the validity of the method developed. For further reference:  International Journal of Gastronomy and Food Science e Nutrition.\n\n\"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al. , International Journal of Gastronomy and Food Science 25 (2021) 100381\n\n\"Innovative cooking techniques in a hospital food service: Effects on the quality of hospital meals\" - C.Piciocchi et al., Nutrition 93 (2022) 111487",
+  "description": {
+    "en": "NI - Nutritional Intelligence is a project developed in collaboration with the University of Rome \"La Sapienza\", Giomi Group/Gioservice and the Cristo Re Hospital in Rome. The entire production chain of the hospital has been rethought based on the application of food processing techniques implemented by Niko Romito at Ristorante Reale.  Thanks to this approach, not only the chemical-physical characteristics of the food served are improved, but also the nutritional values of the food after cooking. The project was carried out within the agreed budget. Based on the studies carried out on the NI, two scientific articles were published demonstrating the validity of the method developed. For further references: International Journal of Gastronomy and Food Science and Nutrition \"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381 \"Innovative cooking techniques in a hospital food service: Effects on the quality of hospital meals\" - C.Piciocchi et al, Nutrition 93 (2022) 111487",
+    "fr": "NI - Nutritional Intelligence est un projet développé en collaboration avec l'Université de Rome \"La Sapienza\", Giomi Group/Gioservice et l'hôpital Cristo Re de Rome. Toute la chaîne de production de l'hôpital a été repensée sur la base de l'application des techniques de transformation des aliments mises en œuvre par Niko Romito au Ristorante Reale.  Grâce à cette approche, non seulement les caractéristiques physico-chimiques des aliments servis sont améliorées, mais aussi les valeurs nutritionnelles des aliments après cuisson. Le projet a été réalisé dans les limites du budget convenu. Sur la base des études menées sur le NI, deux articles scientifiques ont été publiés, démontrant la validité de la méthode développée. International Journal of Gastronomy and Food Science and Nutrition \"Cooking techniques and nutritional quality of food : A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381 \"Innovative cooking techniques in a hospital catering service : Effects on the quality of hospital meals\" - C.Piciocchi et al, Nutrition 93 (2022) 111487",
+    "es": "NI - Inteligencia Nutricional es un proyecto desarrollado en colaboración con la Universidad de Roma \"La Sapienza\", con Giomi Group/Gioservice y el Hospital Cristo Re de Roma. Toda la cadena de producción del hospital se ha replanteado a partir de la aplicación de técnicas de procesamiento de alimentos puestas en práctica por Niko Romito en el Ristorante Reale.  Gracias a este planteamiento, no sólo se mejoran las características químico-físicas de los alimentos servidos, sino también los valores nutricionales de la comida después de cocinada. El proyecto se llevó a cabo respetando el presupuesto acordado. A partir de los estudios realizados sobre los NI, se publicaron dos artículos científicos que demuestran la validez del método desarrollado. Para más referencias: International Journal of Gastronomy and Food Science e Nutrition.\n\n\"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381\n\n\"Técnicas de cocina innovadoras en un servicio de comidas hospitalario: Efectos sobre la calidad de las comidas hospitalarias\" - C.Piciocchi et al, Nutrition 93 (2022) 111487",
+    "de": "NI - Nutritional Intelligence ist ein Projekt, das in Zusammenarbeit mit der Universität Rom \"La Sapienza\", der Giomi Group/Gioservice und dem Krankenhaus Cristo Re in Rom entwickelt wurde. Die gesamte Produktionskette des Krankenhauses wurde auf der Grundlage der von Niko Romito im Ristorante Reale eingeführten Lebensmittelverarbeitungstechniken überdacht.  Dank dieses Ansatzes werden nicht nur die chemisch-physikalischen Eigenschaften der servierten Lebensmittel verbessert, sondern auch die Nährwerte der Speisen nach dem Kochen. Das Projekt wurde im Rahmen des vereinbarten Budgets durchgeführt. Auf der Grundlage der am NI durchgeführten Studien wurden zwei wissenschaftliche Artikel veröffentlicht, die die Gültigkeit der entwickelten Methode belegen. Für weitere Referenzen: International Journal of Gastronomy and Food Science and Nutrition \"Cooking techniques and nutritional quality of food: A comparison between traditional and innovative ways of cooking\" - S. Lobefaro et al , International Journal of Gastronomy and Food Science 25 (2021) 100381 \"Innovative cooking techniques in a hospital catering service: Effects on the quality of hospital meals\" - C.Piciocchi et al, Nutrition 93 (2022) 111487"
+  },
   "field": [
     "medicine",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nutritional Intelligence",
+  "name": {
+    "en": "Nutritional Intelligence",
+    "fr": "Nutritional Intelligence",
+    "es": "Inteligencia nutricional",
+    "de": "Nutritional Intelligence"
+  },
   "pubId": 426352,
   "score": 700.0000000000035,
   "state": "ongoing-project",
@@ -45,28 +55,5 @@
   ],
   "url": "https://www.nikoromito.com/en/press-kit-en/projects/nutritional-intelligence/metodo-niko-romito-nutritional-intelligence/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1664775492,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1664775492,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

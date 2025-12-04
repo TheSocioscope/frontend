@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754995272,
   "date": null,
-  "description": "The Coopamat cooperative, founded in 2017, consists of 48 sugar cane and panela producers from San Sebastián de Mariquita, Colombia. It operates a honey plant built with support from local and national governments. The cooperative processes cane honey into various panela products, providing employment opportunities, especially for women. Despite challenges like financial constraints and market competition, Coopamat aims to enhance its presence in national and international markets while ensuring sustainable practices and community support.",
+  "description": {
+    "en": "The Coopamat cooperative, founded in 2017, consists of 48 sugar cane and panela producers from San Sebastián de Mariquita, Colombia. It operates a honey plant built with support from local and national governments. The cooperative processes cane honey into various panela products, providing employment opportunities, especially for women. Despite challenges like financial constraints and market competition, Coopamat aims to enhance its presence in national and international markets while ensuring sustainable practices and community support.",
+    "fr": "La coopérative Coopamat, fondée en 2017, est composée de 48 producteurs de canne à sucre et de panela de San Sebastián de Mariquita, en Colombie. Elle exploite une usine de miel construite avec le soutien des gouvernements locaux et nationaux. La coopérative transforme le miel de canne en divers produits de panela, offrant ainsi des opportunités d'emploi, en particulier pour les femmes. Malgré des défis tels que les contraintes financières et la concurrence du marché, Coopamat vise à renforcer sa présence sur les marchés nationaux et internationaux tout en garantissant des pratiques durables et le soutien de la communauté.",
+    "es": "La cooperativa Coopamat, fundada en 2017, está formada por 48 productores de caña de azúcar y panela de San Sebastián de Mariquita (Colombia). Opera una planta de miel construida con el apoyo de los gobiernos local y nacional. La cooperativa transforma la miel de caña en diversos productos de panela, proporcionando oportunidades de empleo, especialmente para las mujeres. A pesar de problemas como las limitaciones financieras y la competencia del mercado, Coopamat aspira a aumentar su presencia en los mercados nacionales e internacionales, garantizando al mismo tiempo prácticas sostenibles y el apoyo de la comunidad.",
+    "de": "Die 2017 gegründete Genossenschaft Coopamat besteht aus 48 Zuckerrohr- und Panela-Erzeugern aus San Sebastián de Mariquita, Kolumbien. Sie betreibt eine Honigfabrik, die mit Unterstützung der lokalen und nationalen Regierungen errichtet wurde. Die Kooperative verarbeitet Rohrhonig zu verschiedenen Panela-Produkten und bietet Beschäftigungsmöglichkeiten, insbesondere für Frauen. Trotz finanzieller Engpässe und des Wettbewerbs auf dem Markt ist Coopamat bestrebt, ihre Präsenz auf den nationalen und internationalen Märkten auszubauen und gleichzeitig nachhaltige Praktiken und die Unterstützung der Gemeinschaft sicherzustellen."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Coopamat",
+  "name": {
+    "en": "Coopamat",
+    "fr": "Coopamat",
+    "es": "Coopamat",
+    "de": "Coopamat"
+  },
   "pubId": 481852,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

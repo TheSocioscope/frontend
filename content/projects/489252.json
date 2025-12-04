@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754988758,
   "date": null,
-  "description": "The initiative focuses on promoting biodynamic agriculture, a holistic approach that integrates cosmic and earthly forces to enhance soil vitality and food quality. It emphasizes the interconnectedness of all life forms within a farm ecosystem, with preparations that are believed to harness cosmic forces and promote a more vibrant and nutrient-rich food supply. The initiative aims to create a community of farmers and consumers dedicated to sustainable practices, free from agrochemicals, while fostering a deeper understanding of food's role in human health and environmental stewardship.",
+  "description": {
+    "en": "The initiative focuses on promoting biodynamic agriculture, a holistic approach that integrates cosmic and earthly forces to enhance soil vitality and food quality. It emphasizes the interconnectedness of all life forms within a farm ecosystem, with preparations that are believed to harness cosmic forces and promote a more vibrant and nutrient-rich food supply. The initiative aims to create a community of farmers and consumers dedicated to sustainable practices, free from agrochemicals, while fostering a deeper understanding of food's role in human health and environmental stewardship.",
+    "fr": "Cette initiative vise à promouvoir l'agriculture biodynamique, une approche holistique qui intègre les forces cosmiques et terrestres afin d'améliorer la vitalité des sols et la qualité des aliments. Elle met l'accent sur l'interconnexion de toutes les formes de vie au sein d'un écosystème agricole, avec des préparations censées mobiliser les forces cosmiques et favoriser un approvisionnement alimentaire plus vivant et plus riche en nutriments. L'initiative vise à créer une communauté d'agriculteurs et de consommateurs qui se consacrent à des pratiques durables, exemptes de produits agrochimiques, tout en favorisant une meilleure compréhension du rôle de l'alimentation dans la santé humaine et la gestion de l'environnement.",
+    "es": "La iniciativa se centra en promover la agricultura biodinámica, un enfoque holístico que integra las fuerzas cósmicas y terrestres para mejorar la vitalidad del suelo y la calidad de los alimentos. Hace hincapié en la interconexión de todas las formas de vida dentro de un ecosistema agrícola, con preparaciones que se cree que aprovechan las fuerzas cósmicas y promueven un suministro de alimentos más vibrante y rico en nutrientes. La iniciativa pretende crear una comunidad de agricultores y consumidores dedicados a prácticas sostenibles, libres de productos agroquímicos, al tiempo que fomenta una comprensión más profunda del papel de los alimentos en la salud humana y el cuidado del medio ambiente.",
+    "de": "Die Initiative konzentriert sich auf die Förderung der biologisch-dynamischen Landwirtschaft, einem ganzheitlichen Ansatz, der kosmische und irdische Kräfte integriert, um die Vitalität des Bodens und die Lebensmittelqualität zu verbessern. Sie betont die Vernetzung aller Lebensformen innerhalb eines landwirtschaftlichen Ökosystems mit Präparaten, von denen angenommen wird, dass sie die kosmischen Kräfte nutzen und eine lebendigere und nährstoffreichere Lebensmittelversorgung fördern. Die Initiative zielt darauf ab, eine Gemeinschaft von Landwirten und Verbrauchern zu schaffen, die sich für nachhaltige Praktiken ohne Agrochemikalien einsetzen und gleichzeitig ein tieferes Verständnis für die Rolle von Lebensmitteln in Bezug auf die menschliche Gesundheit und den Schutz der Umwelt entwickeln."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Totta Terra",
+  "name": {
+    "it": "Totta Terra",
+    "en": "Totta Terra",
+    "fr": "Totta Terra",
+    "es": "Totta Terra",
+    "de": "Totta Terra"
+  },
   "pubId": 489252,
   "score": 80.9864766200008,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "Nige7FIYOCs",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1755739103,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1755739103
     }
   ],
-  "lastEvent": {
-    "at": 1755739103,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739103
-  ]
+  ],
+  "originalLang": "it"
 }

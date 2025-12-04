@@ -11,13 +11,24 @@
   "country": [],
   "createdAt": 1691808918,
   "date": null,
-  "description": "La crise CoVid a généré des épisodes de pénurie d'approvisionnement pour certaines denrées alimentaires chez la plupart des distributeurs de produits importés.  Ainsi, le riz, féculent central de l’alimentation polynésienne, a été l’une des denrées les plus prisées par la population, sur laquelle certaines restrictions spécifiques ont été appliquées dans les magasins (2kg par personne maximum). En cas de nouvelle pénurie, la Direction de l'Agriculture de Polynésie française (DAG) et ses partenaires cherchent donc des alternatives locales à la consommation de cette céréale. La banane verte semble être le candidat parfait en raison de son abondance, de sa facilité de transformation et de son goût assez neutre se rapprochant de la pomme de terre.",
+  "description": {
+    "fr": "La crise CoVid a généré des épisodes de pénurie d'approvisionnement pour certaines denrées alimentaires chez la plupart des distributeurs de produits importés.  Ainsi, le riz, féculent central de l’alimentation polynésienne, a été l’une des denrées les plus prisées par la population, sur laquelle certaines restrictions spécifiques ont été appliquées dans les magasins (2kg par personne maximum). En cas de nouvelle pénurie, la Direction de l'Agriculture de Polynésie française (DAG) et ses partenaires cherchent donc des alternatives locales à la consommation de cette céréale. La banane verte semble être le candidat parfait en raison de son abondance, de sa facilité de transformation et de son goût assez neutre se rapprochant de la pomme de terre.",
+    "en": "The CoVid crisis led to supply shortages for certain foodstuffs at most distributors of imported products.  For example, rice, the starchy staple at the heart of the Polynesian diet, was one of the most popular staples, with specific restrictions applied in stores (maximum 2kg per person). In the event of a new shortage, the French Polynesian Department of Agriculture (DAG) and its partners are looking for local alternatives to the consumption of this cereal. Green bananas seem to be the perfect candidate, given their abundance, ease of processing and neutral, potato-like taste.",
+    "es": "La crisis del CoVid provocó la escasez de ciertos alimentos en la mayoría de los distribuidores de productos importados.  El arroz, alimento feculento básico en el corazón de la dieta polinesia, era uno de los alimentos más solicitados, y se aplicaron restricciones específicas en los comercios (2 kg por persona como máximo). Ante una nueva escasez, el Departamento de Agricultura de la Polinesia Francesa (DAG) y sus socios buscan alternativas locales al consumo de este cereal. El plátano verde parece ser el candidato perfecto por su abundancia, facilidad de procesamiento y sabor bastante neutro, parecido al de la patata.",
+    "de": "Die CoVid-Krise führte bei den meisten Händlern von Importprodukten zu Engpässen bei der Versorgung mit bestimmten Lebensmitteln.  So war Reis, das zentrale Stärkeprodukt der polynesischen Ernährung, eines der beliebtesten Lebensmittel der Bevölkerung, für das in den Geschäften besondere Beschränkungen galten (maximal 2 kg pro Person). Im Falle einer erneuten Verknappung suchen die Landwirtschaftsdirektion von Französisch-Polynesien (DAG) und ihre Partner daher nach lokalen Alternativen für den Verzehr dieses Getreides. Die grüne Banane scheint der perfekte Kandidat zu sein, da sie reichlich vorhanden ist, leicht zu verarbeiten ist und einen recht neutralen Geschmack hat, der sich der Kartoffel annähert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "fr",
   "location": "Polynésie française",
-  "name": "Riz-banane",
+  "name": {
+    "id": "Riz-banane",
+    "en": "Riz-banane",
+    "fr": "Riz-banane",
+    "es": "Riz-banane",
+    "de": "Riz-Banane"
+  },
   "pubId": 431952,
   "score": -2250.521505390502,
   "state": "ongoing-project",
@@ -39,7 +50,5 @@
   ],
   "url": "https://www.facebook.com/100064421993428/posts/447956247361771/",
   "yt": "",
-  "zone": [
-    6
-  ]
+  "originalLang": "fr"
 }

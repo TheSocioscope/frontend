@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739453345,
   "date": null,
-  "description": "Pic'Assiette is an association based in the suburbs of Montpellier, focused on improving food accessibility and sustainability in a region that is often overlooked by existing initiatives. Pic'Assiette aims to address food issues by combining agriculture, regional planning, and health components. The initiative seeks to raise awareness about sustainable food practices, promote better eating habits, and connect local communities with agricultural resources.Founded in 2010, Pic'Assiette is an association dedicated to sustainable food education, promoting food that is in harmony with the environment, health and the region, like a chain that runs from the earth to our plates.",
+  "description": {
+    "en": "Pic'Assiette is an association based in the suburbs of Montpellier, focused on improving food accessibility and sustainability in a region often neglected by existing initiatives. Pic'Assiette aims to address food issues by combining agriculture, land management and health components. Founded in 2010, Pic'Assiette is an association dedicated to sustainable food education, promoting food in harmony with the environment, health and the region, as a chain that goes from the land to our plates.",
+    "fr": "Pic'Assiette est une association basée dans la banlieue de Montpellier, dont l'objectif est d'améliorer l'accessibilité et la durabilité de l'alimentation dans une région souvent négligée par les initiatives existantes. Pic'Assiette vise à aborder les questions alimentaires en combinant les composantes de l'agriculture, de l'aménagement du territoire et de la santé. Fondée en 2010, Pic'Assiette est une association dédiée à l'éducation à l'alimentation durable, à la promotion d'une alimentation en harmonie avec l'environnement, la santé et la région, comme une chaîne qui va de la terre à nos assiettes.",
+    "es": "Pic'Assiette es una asociación con sede en los suburbios de Montpellier, centrada en mejorar la accesibilidad y sostenibilidad de los alimentos en una región a menudo olvidada por las iniciativas existentes. Pic'Assiette pretende abordar los problemas alimentarios combinando componentes de agricultura, ordenación del territorio y salud. Fundada en 2010, Pic'Assiette es una asociación dedicada a la educación alimentaria sostenible, que promueve una alimentación en armonía con el medio ambiente, la salud y la región, como una cadena que va de la tierra a nuestros platos.",
+    "de": "Pic'Assiette ist ein in den Vororten von Montpellier ansässiger Verein, der sich auf die Verbesserung des Zugangs zu Lebensmitteln und der Nachhaltigkeit in einer Region konzentriert, die von bestehenden Initiativen oft übersehen wird. Pic'Assiette will Ernährungsprobleme durch die Kombination von Landwirtschaft, Regionalplanung und Gesundheitskomponenten angehen. Pic'Assiette wurde 2010 gegründet und ist ein Verein, der sich der nachhaltigen Ernährungserziehung verschrieben hat. Er fördert Lebensmittel, die im Einklang mit der Umwelt, der Gesundheit und der Region stehen, wie eine Kette, die von der Erde bis zu unseren Tellern verläuft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pic'Assiette",
+  "name": {
+    "it": "Pic'Assiette",
+    "en": "Pic'Assiette",
+    "fr": "Pic'Assiette",
+    "es": "Pic'Assiette",
+    "de": "Pic'Assiette"
+  },
   "pubId": 447852,
   "score": 76.70196078431324,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://letsfoodideas.com/fr/initiative/alimentation-durable-association/",
   "yt": "jWlXNAHbcwo",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754430007,
   "date": null,
-  "description": "The initiative, known as Domestic, began in 2015 to promote local Danish cuisine through a fine dining experience. Founded by three co-owners, it emphasizes customer experience and sustainability, focusing on local produce. After facing challenges post-COVID, the sole owner, Christopher, has fostered collaborations with local farmers and other restaurants to enhance sustainability practices. The restaurant aims for a regenerative food system while prioritizing community and innovative approaches to dining.",
+  "description": {
+    "en": "The initiative, known as Domestic, started in 2015 to promote local Danish cuisine through a quality dining experience. Founded by three co-owners, it emphasizes customer experience and sustainability with a focus on local produce. After facing challenges following the COVID crisis, the sole owner, Christopher, has fostered collaboration with local farmers and other restaurants to improve sustainability practices. The restaurant aspires to a regenerative food system, while prioritizing community and innovative approaches to dining.",
+    "fr": "L'initiative, connue sous le nom de Domestic, a démarré en 2015 pour promouvoir la cuisine danoise locale à travers une expérience gastronomique de qualité. Fondée par trois copropriétaires, elle met l'accent sur l'expérience client et la durabilité en privilégiant les produits locaux. Après avoir été confronté à des difficultés suite à la crise du COVID, l'unique propriétaire, Christopher, a encouragé la collaboration avec les agriculteurs locaux et d'autres restaurants afin d'améliorer les pratiques de durabilité. Le restaurant aspire à un système alimentaire régénérateur, tout en donnant la priorité à la communauté et à des approches novatrices de la restauration.",
+    "es": "La iniciativa, conocida como Domestic, comenzó en 2015 para promover la cocina local danesa a través de una experiencia gastronómica de calidad. Fundada por tres copropietarios, hace hincapié en la experiencia del cliente y la sostenibilidad, centrándose en los productos locales. Tras enfrentarse a retos posteriores a la crisis de COVID, el único propietario, Christopher, ha fomentado la colaboración con agricultores locales y otros restaurantes para mejorar las prácticas de sostenibilidad. El restaurante aspira a un sistema alimentario regenerativo, al tiempo que da prioridad a la comunidad y a enfoques innovadores de la restauración.",
+    "de": "Die Initiative, bekannt als Domestic, begann 2015, um die lokale dänische Küche durch ein feines Ess-Erlebnis zu fördern. Gegründet von drei Miteigentümern, legt sie Wert auf Kundenerfahrung und Nachhaltigkeit und konzentriert sich dabei auf lokale Produkte. Nach der Bewältigung der Herausforderungen nach dem COVID-Prozess hat der Alleininhaber Christopher die Zusammenarbeit mit lokalen Bauern und anderen Restaurants gefördert, um die Nachhaltigkeitspraktiken zu verbessern. Das Restaurant strebt ein regeneratives Lebensmittelsystem an, wobei der Schwerpunkt auf der Gemeinschaft und innovativen Ansätzen beim Essen liegt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Domestic",
+  "name": {
+    "en": "Domestic",
+    "fr": "Domestic",
+    "es": "Doméstico",
+    "de": "Domestic"
+  },
   "pubId": 464552,
   "score": 37.17004614123514,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "PGb8J1jxQYo",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755736126,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755736126
     }
   ],
-  "lastEvent": {
-    "at": 1755736126,
-    "by": "contact"
-  },
   "updatedAt": [
     1755736126
-  ]
+  ],
+  "originalLang": "fr"
 }

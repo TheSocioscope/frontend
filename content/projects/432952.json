@@ -13,7 +13,12 @@
   ],
   "createdAt": 1696443246,
   "date": null,
-  "description": "Cycloponics est une startup spécialisée dans la transformation et la reconversion des souterrains urbains inutilisés. Ces espaces sont réhabilitées en espace de production alimentaire bio (champignons, endives et micro pousses), ou bien en hub de travail dédiés aux acteurs de l’économie locale ou durable. Situé en plein coeur de Paris dans le 18ème arrondissement, La Caverne est un ancien parking souterrain abandonné et réhabilité par Cycloponics pour le transformer en première ferme urbaine bio de Paris spécialisée dans la culture de champignons. \n\n",
+  "description": {
+    "fr": "Cycloponics est une startup spécialisée dans la transformation et la reconversion des souterrains urbains inutilisés. Ces espaces sont réhabilitées en espace de production alimentaire bio (champignons, endives et micro pousses), ou bien en hub de travail dédiés aux acteurs de l’économie locale ou durable. Situé en plein coeur de Paris dans le 18ème arrondissement, La Caverne est un ancien parking souterrain abandonné et réhabilité par Cycloponics pour le transformer en première ferme urbaine bio de Paris spécialisée dans la culture de champignons. \n\n",
+    "en": "Cycloponics is a start-up specializing in the transformation and reconversion of unused urban underground spaces. These spaces are rehabilitated as organic food production areas (mushrooms, endives and micro sprouts), or as work hubs dedicated to players in the local or sustainable economy. Located in the heart of Paris in the 18th arrondissement, La Caverne is an abandoned underground parking lot that Cycloponics has converted into Paris's first organic urban farm specializing in mushroom cultivation.\n\n",
+    "es": "Cycloponics es una start-up especializada en la transformación y reconversión de espacios subterráneos urbanos en desuso. Estos espacios se rehabilitan como zonas de producción de alimentos ecológicos (setas, endibias y microbrotes), o como centros de trabajo dedicados a agentes de la economía local o sostenible. Situada en el corazón de París, en el distrito 18, La Caverne es un aparcamiento subterráneo abandonado que Cycloponics ha convertido en la primera granja urbana ecológica de París especializada en el cultivo de setas.\n\n",
+    "de": "Cycloponics ist ein Startup, das sich auf die Umwandlung und Umnutzung ungenutzter städtischer Unterführungen spezialisiert hat. Diese Räume werden zu Produktionsflächen für Bio-Lebensmittel (Pilze, Chicorée und Mikrosprossen) oder zu Arbeitshubs umgebaut, die den Akteuren der lokalen oder nachhaltigen Wirtschaft gewidmet sind. La Caverne befindet sich im Herzen von Paris im 18. Arrondissement und ist eine ehemalige verlassene Tiefgarage, die von Cycloponics saniert und in die erste urbane Bio-Farm von Paris umgewandelt wurde, die auf den Anbau von Pilzen spezialisiert ist.\n\n"
+  },
   "field": [
     "nutrition",
     "biology",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "La Caverne - Cycloponics",
+  "name": {
+    "fr": "La Caverne - Cycloponics",
+    "en": "La Caverne - Cycloponics",
+    "es": "La Caverne - Cicloponía",
+    "de": "Die Höhle - Cycloponics"
+  },
   "pubId": 432952,
   "score": 555.6000000000015,
   "state": "ongoing-project",
@@ -54,28 +64,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1698412781,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1698412781,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754565203,
   "date": null,
-  "description": "Lille Bakery is a community-focused initiative founded in 2018. It aims to provide nourishing, locally-sourced food at affordable prices, moving away from the fine dining model. The bakery fosters connections with local farmers and producers, emphasizing transparency and sustainability. By creating a welcoming space for the community, Lille Bakery not only serves delicious baked goods, offering breakfast and lunch, but also hosts workshops and events, enriching the local food culture in a tourist-heavy area.",
+  "description": {
+    "en": "Lille Bakery is a community-focused initiative founded in 2018. It aims to offer nutritious, locally sourced food at affordable prices, moving away from the haute cuisine model. The bakery fosters connections with local farmers and producers, emphasizing transparency and sustainability. By creating a welcoming space for the community, Lille Bakery not only serves delicious baked goods, offering breakfast and lunch, but also hosts workshops and events, enriching the local food culture in a very touristy area.",
+    "fr": "Lille Bakery est une initiative axée sur la communauté fondée en 2018. Elle vise à proposer des aliments nutritifs et d'origine locale à des prix abordables, en s'éloignant du modèle de la haute cuisine. La boulangerie favorise les liens avec les agriculteurs et les producteurs locaux, en mettant l'accent sur la transparence et la durabilité. En créant un espace accueillant pour la communauté, Lille Bakery ne se contente pas de servir de délicieuses pâtisseries, en proposant le petit-déjeuner et le déjeuner, mais organise également des ateliers et des événements, enrichissant ainsi la culture alimentaire locale dans un quartier très touristique.",
+    "es": "Lille Bakery es una iniciativa centrada en la comunidad fundada en 2018. Su objetivo es ofrecer alimentos nutritivos y de origen local a precios asequibles, alejándose del modelo de alta cocina. La panadería fomenta las conexiones con agricultores y productores locales, haciendo hincapié en la transparencia y la sostenibilidad. Al crear un espacio acogedor para la comunidad, Lille Bakery no solo sirve deliciosos productos horneados, ofreciendo desayunos y almuerzos, sino que también organiza talleres y eventos, enriqueciendo la cultura alimentaria local en una zona muy turística.",
+    "de": "Lille Bakery ist eine 2018 gegründete gemeindebasierte Initiative. Ihr Ziel ist es, nahrhafte, lokal bezogene Lebensmittel zu erschwinglichen Preisen anzubieten und sich damit vom Fine-Dining-Modell zu lösen. The bakery fosters connections with local farmers and producers, emphasizing transparency and sustainability. Durch die Schaffung eines einladenden Raums für die Gemeinschaft serviert die Lille Bakery nicht nur köstliche Backwaren, bietet Frühstück und Mittagessen an, sondern richtet auch Workshops und Veranstaltungen aus und bereichert damit die lokale Esskultur in einem touristisch geprägten Gebiet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Lille Bakery",
+  "name": {
+    "nb": "Lille Bakery",
+    "en": "Lille Bakery",
+    "fr": "Boulangerie de Lille",
+    "es": "Panadería Lille",
+    "de": "Bäckerei Lille"
+  },
   "pubId": 462152,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1684968022,
   "date": null,
-  "description": "La ville de Tours a confié à l’équipe de l’IEHCA l’animation et la direction de la VILLA RABELAIS, premier centre culturel entièrement dédié à l’alimentation, la gastronomie et la cuisine. Sous les auspices de « Tours Cité de la gastronomie », il s'agit de faire de ce lieu un espace de réflexion et de transmission des savoirs relatifs aux cultures et aux patrimoines alimentaires. Un programme d’animations destinées à tous les publics est élaboré par l’équipe de la VILLA RABELAIS. Celle-ci devient ainsi une véritable « université ouverte des sciences gastronomiques », engagée en faveur du « bien manger pour tous », pour maîtriser les enjeux d’une alimentation saine et durable, approfondir leurs connaissances d’un patrimoine et de savoir-faire culturels.",
+  "description": {
+    "fr": "La ville de Tours a confié à l’équipe de l’IEHCA l’animation et la direction de la VILLA RABELAIS, premier centre culturel entièrement dédié à l’alimentation, la gastronomie et la cuisine. Sous les auspices de « Tours Cité de la gastronomie », il s'agit de faire de ce lieu un espace de réflexion et de transmission des savoirs relatifs aux cultures et aux patrimoines alimentaires. Un programme d’animations destinées à tous les publics est élaboré par l’équipe de la VILLA RABELAIS. Celle-ci devient ainsi une véritable « université ouverte des sciences gastronomiques », engagée en faveur du « bien manger pour tous », pour maîtriser les enjeux d’une alimentation saine et durable, approfondir leurs connaissances d’un patrimoine et de savoir-faire culturels.",
+    "en": "The city of Tours has entrusted the IEHCA team with the management of the VILLA RABELAIS, the first cultural center entirely dedicated to food, gastronomy and cooking. Under the auspices of the \"Tours Cité de la gastronomie\", the aim is to make this place a space for reflection and the transmission of knowledge relating to food cultures and heritages. The VILLA RABELAIS team has drawn up a program of events for the general public. This makes it a veritable \"open university of gastronomic sciences\", committed to \"eating well for all\", to master the challenges of healthy, sustainable eating, and deepen their knowledge of a cultural heritage and know-how.",
+    "es": "La ciudad de Tours ha confiado al equipo del IEHCA la dirección y gestión de la VILLA RABELAIS, primer centro cultural enteramente dedicado a la alimentación, la gastronomía y la cocina. Bajo los auspicios de la \"Tours Cité de la gastronomie\", el objetivo es hacer de este lugar un espacio de reflexión y transmisión de conocimientos relacionados con las culturas y patrimonios alimentarios. El equipo de VILLA RABELAIS ha elaborado un programa de actos dirigido al público en general. De este modo, se ha convertido en una auténtica \"universidad abierta de ciencias gastronómicas\", comprometida con \"el buen comer para todos\", que ayuda a dominar los retos de una alimentación sana y sostenible y a profundizar en el conocimiento de un patrimonio cultural y un saber hacer.",
+    "de": "Die Stadt Tours hat das Team des IEHCA mit der Betreuung und Leitung der VILLA RABELAIS betraut, dem ersten Kulturzentrum, das sich ganz der Ernährung, der Gastronomie und der Küche widmet. Unter der Schirmherrschaft der \"Tours Cité de la gastronomie\" soll dieser Ort zu einem Ort der Reflexion und der Vermittlung von Wissen über die Kultur und das Erbe der Nahrungsmittel werden. Das Team der VILLA RABELAIS erarbeitet ein Programm mit Veranstaltungen für alle Zielgruppen. So wird die VILLA RABELISA zu einer echten \"offenen Universität der gastronomischen Wissenschaften\", die sich für \"gutes Essen für alle\" einsetzt, um die Herausforderungen einer gesunden und nachhaltigen Ernährung zu meistern und ihre Kenntnisse über ein kulturelles Erbe und Know-how zu vertiefen."
+  },
   "field": [
     "history"
   ],
   "lang": "fr",
   "location": "Centre-Val de Loire, Tours",
-  "name": "Villa Rabelais",
+  "name": {
+    "fi": "Villa Rabelais",
+    "en": "Villa Rabelais",
+    "fr": "Villa Rabelais",
+    "es": "Villa Rabelais",
+    "de": "Villa Rabelais"
+  },
   "pubId": 439252,
   "score": 142.59999999999573,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://villa-rabelais.fr/fr/qui-sommes-nous",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

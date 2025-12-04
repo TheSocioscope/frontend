@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754385609,
   "date": null,
-  "description": "Latbio, founded on October 31, 2019, is an innovative initiative born from a group of friends passionate about agriculture. Focused on biodynamic practices, the company aims to market organic products, primarily bananas, while promoting sustainable farming methods. Through its ecosystem of companies, including Latitude Provisions and Caupa, Latbio processes non-exportable fruits and provides consulting services. The initiative strives to be a global leader in organic agriculture, emphasizing environmental responsibility and community support.",
+  "description": {
+    "en": "Latbio, founded on October 31, 2019, is an innovative initiative born from a group of friends passionate about agriculture. Focused on biodynamic practices, the company aims to market organic products, mainly bananas, while promoting sustainable farming methods. Through its ecosystem of companies, including Latitude Provisions and Caupa, Latbio processes non-exportable fruits and offers consulting services. The initiative aims to be a world leader in organic agriculture, with an emphasis on environmental responsibility and community support.",
+    "fr": "Latbio, fondée le 31 octobre 2019, est une initiative innovante née d'un groupe d'amis passionnés par l'agriculture. Axée sur les pratiques biodynamiques, l'entreprise vise à commercialiser des produits biologiques, principalement des bananes, tout en promouvant des méthodes d'agriculture durable. Grâce à son écosystème d'entreprises, dont Latitude Provisions et Caupa, Latbio transforme des fruits non exportables et offre des services de conseil. L'initiative vise à devenir un leader mondial de l'agriculture biologique, en mettant l'accent sur la responsabilité environnementale et le soutien à la communauté.",
+    "es": "Latbio, fundada el 31 de octubre de 2019, es una iniciativa innovadora nacida de un grupo de amigos apasionados por la agricultura. Centrada en prácticas biodinámicas, la empresa tiene como objetivo comercializar productos orgánicos, principalmente plátanos, al tiempo que promueve métodos de cultivo sostenibles. A través de su ecosistema de empresas, entre las que se encuentran Latitude Provisions y Caupa, Latbio procesa frutas no exportables y ofrece servicios de consultoría. La iniciativa aspira a ser líder mundial en agricultura orgánica, haciendo hincapié en la responsabilidad medioambiental y el apoyo a la comunidad.",
+    "de": "Latbio, gegründet am 31. Oktober 2019, ist eine innovative Initiative, die aus einer Gruppe von Freunden mit einer Leidenschaft für die Landwirtschaft hervorgegangen ist. Das Unternehmen ist auf biodynamische Praktiken fokussiert und will organische Produkte, vor allem Bananen, vermarkten und dabei nachhaltige Anbaumethoden fördern. Über ein System von Unternehmen, darunter Latitude Provisions und Caupa, verarbeitet Latbio nicht exportierbares Obst und bietet Beratungsdienste an. The initiative strives to be a global leader in organic agriculture, emphasizing environmental responsibility and community support."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Latbio",
+  "name": {
+    "en": "Latbio",
+    "fr": "Latbio",
+    "es": "Latbio",
+    "de": "Latbio"
+  },
   "pubId": 458452,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

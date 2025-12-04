@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754662660,
   "date": null,
-  "description": "Oakbrook Community Farm, established by the Biodynamic Land Trust, aims to promote biodynamic farming while fostering community connections with food and nature. Operating on a 42-acre site, the farm utilizes a community benefit society model, leasing land to various tenants who adhere to biodynamic principles. The initiative focuses on sustainable agriculture, education, and social care, creating a supportive environment for local food initiatives and enhancing community well-being through therapeutic practices.",
+  "description": {
+    "en": "Oakbrook Community Farm, created by the Biodynamic Land Trust, aims to promote biodynamic agriculture while fostering community connections to food and nature. The farm, which occupies a 42-acre site, uses a partnership model for the benefit of the community, leasing the land to several tenants who adhere to biodynamic principles. The initiative focuses on sustainable agriculture, education and outreach, creating an environment conducive to local food initiatives and improving the well-being of the community through therapeutic practices.",
+    "fr": "La ferme communautaire d'Oakbrook, créée par le Biodynamic Land Trust, vise à promouvoir l'agriculture biodynamique tout en favorisant les liens entre la communauté et la nourriture et la nature. La ferme, qui occupe un site de 42 acres, utilise un modèle de partenariat au profit de la communauté, en louant les terres à plusieurs locataires qui adhèrent aux principes de la biodynamie. L'initiative se concentre sur l'agriculture durable, l'éducation et l'aide sociale, en créant un environnement favorable aux initiatives alimentaires locales et en améliorant le bien-être de la communauté grâce à des pratiques thérapeutiques.",
+    "es": "La Granja Comunitaria de Oakbrook, creada por el Biodynamic Land Trust, tiene como objetivo promover la agricultura biodinámica al tiempo que fomenta las conexiones de la comunidad con los alimentos y la naturaleza. La granja, que ocupa un terreno de 42 acres, utiliza un modelo de sociedad en beneficio de la comunidad, arrendando la tierra a varios arrendatarios que se adhieren a los principios biodinámicos. La iniciativa se centra en la agricultura sostenible, la educación y la asistencia social, creando un entorno propicio para las iniciativas alimentarias locales y mejorando el bienestar de la comunidad mediante prácticas terapéuticas.",
+    "de": "Die vom Biodynamic Land Trust gegründete Oakbrook Community Farm zielt darauf ab, die biodynamische Landwirtschaft zu fördern und gleichzeitig die Verbindung der Gemeinschaft mit Lebensmitteln und der Natur zu stärken. Die Farm, die auf einem 42-Morgen-Gelände betrieben wird, nutzt ein Modell der Gemeinnützigen Gesellschaft und verleast Land an verschiedene Pächter, die sich an biodynamische Prinzipien halten. Die Initiative konzentriert sich auf nachhaltige Landwirtschaft, Bildung und Sozialfürsorge, schafft ein unterstützendes Umfeld für lokale Lebensmittelinitiativen und fördert das Wohlbefinden der Gemeinschaft durch therapeutische Praktiken."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Oakbrook Farm",
+  "name": {
+    "en": "Oakbrook Farm",
+    "fr": "Oakbrook Farm",
+    "es": "Granja Oakbrook",
+    "de": "Oakbrook Farm"
+  },
   "pubId": 470552,
   "score": -44.495912361627965,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754910511,
   "date": null,
-  "description": "The initiative, \"Le Potager d'un Curieux,\" founded in the Luberon region, focuses on cultivating a diverse collection of plants and preserving heirloom seeds. Inspired by a 19th-century botanical work, the project emphasizes dynamic conservation, allowing seeds to thrive and adapt through cultivation. It aims to promote biodiversity, educate the community, and foster a connection to nature, while also addressing food sovereignty and the importance of traditional agricultural practices.            ",
+  "description": {
+    "en": "The initiative, \"Le Potager d'un Curieux,\" founded in the Luberon region, focuses on cultivating a diverse collection of plants and preserving heirloom seeds. Inspired by a 19th-century botanical work, the project emphasizes dynamic conservation, allowing seeds to thrive and adapt through cultivation. It aims to promote biodiversity, educate the community, and foster a connection to nature, while also addressing food sovereignty and the importance of traditional agricultural practices.            ",
+    "fr": "L'initiative \"Le Potager d'un Curieux\", fondée dans la région du Luberon, se concentre sur la culture d'une collection variée de plantes et la préservation des semences traditionnelles. Inspiré d'une œuvre botanique du XIXe siècle, le projet met l'accent sur la conservation dynamique, en permettant aux semences de prospérer et de s'adapter grâce à la culture. Il vise à promouvoir la biodiversité, à éduquer la communauté et à favoriser un lien avec la nature, tout en abordant la souveraineté alimentaire et l'importance des pratiques agricoles traditionnelles.            ",
+    "es": "La iniciativa \"Le Potager d'un Curieux\", fundada en la región de Luberon, se centra en el cultivo de una variada colección de plantas y la conservación de semillas autóctonas. Inspirado en una obra botánica del siglo XIX, el proyecto hace hincapié en la conservación dinámica, permitiendo que las semillas prosperen y se adapten mediante el cultivo. Su objetivo es promover la biodiversidad, educar a la comunidad y fomentar la conexión con la naturaleza, además de abordar la soberanía alimentaria y la importancia de las prácticas agrícolas tradicionales.            ",
+    "de": "Die im Luberon gegründete Initiative \"Le Potager d'un Curieux\" konzentriert sich auf die Kultivierung einer vielfältigen Pflanzensammlung und die Erhaltung von Erbgut. Inspiriert von einem botanischen Werk aus dem 19. Jahrhundert, legt das Projekt den Schwerpunkt auf eine dynamische Erhaltung, bei der das Saatgut durch den Anbau gedeihen und sich anpassen kann. Es zielt darauf ab, die biologische Vielfalt zu fördern, die Gemeinschaft zu schulen und eine Verbindung zur Natur zu schaffen, während es gleichzeitig die Ernährungssouveränität und die Bedeutung traditioneller landwirtschaftlicher Praktiken thematisiert.            "
+  },
   "field": [
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Le Potager d'un Curieux",
+  "name": {
+    "fr": "Le Potager d'un Curieux",
+    "en": "Le Potager d'un Curieux",
+    "es": "Le Potager d'un Curieux",
+    "de": "Der Gemüsegarten eines Neugierigen"
+  },
   "pubId": 483852,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

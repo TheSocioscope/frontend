@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754929756,
   "date": null,
-  "description": "Safer is a family-owned company specializing in biological products for agriculture, including plant extracts, fungicides, and biofertilizers. Founded in 1997, the company focuses on sustainable farming solutions, promoting environmental responsibility. With nearly 200 employees, Safer operates primarily in Colombia, exporting to countries like Ecuador and Panama. The company emphasizes social responsibility, supporting local farmers and sponsoring youth cycling initiatives to combat poverty and violence in marginalized areas.",
+  "description": {
+    "en": "Safer is a family-owned company specializing in biological products for agriculture, including plant extracts, fungicides, and biofertilizers. Founded in 1997, the company focuses on sustainable farming solutions, promoting environmental responsibility. With nearly 200 employees, Safer operates primarily in Colombia, exporting to countries like Ecuador and Panama. The company emphasizes social responsibility, supporting local farmers and sponsoring youth cycling initiatives to combat poverty and violence in marginalized areas.",
+    "fr": "La Safer est une entreprise familiale spécialisée dans les produits biologiques pour l'agriculture, notamment les extraits de plantes, les fongicides et les biofertilisants. Fondée en 1997, l'entreprise se concentre sur des solutions agricoles durables et encourage la responsabilité environnementale. Avec près de 200 employés, Safer opère principalement en Colombie et exporte vers des pays comme l'Équateur et le Panama. L'entreprise met l'accent sur la responsabilité sociale, en soutenant les agriculteurs locaux et en parrainant des initiatives de cyclisme pour les jeunes afin de lutter contre la pauvreté et la violence dans les zones marginalisées.",
+    "es": "Safer es una empresa familiar especializada en productos biológicos para la agricultura, como extractos vegetales, fungicidas y biofertilizantes. Fundada en 1997, la empresa se centra en soluciones agrícolas sostenibles, promoviendo la responsabilidad medioambiental. Con cerca de 200 empleados, Safer opera principalmente en Colombia y exporta a países como Ecuador y Panamá. La empresa hace hincapié en la responsabilidad social, apoyando a los agricultores locales y patrocinando iniciativas de ciclismo juvenil para combatir la pobreza y la violencia en zonas marginadas.",
+    "de": "Safer ist ein Familienunternehmen, das sich auf biologische Produkte für die Landwirtschaft spezialisiert hat, darunter Pflanzenextrakte, Fungizide und Bio-Dünger. Das 1997 gegründete Unternehmen konzentriert sich auf nachhaltige landwirtschaftliche Lösungen und fördert die Verantwortung für die Umwelt. Mit fast 200 Mitarbeitern ist Safer hauptsächlich in Kolumbien tätig und exportiert in Länder wie Ecuador und Panama. Das Unternehmen legt großen Wert auf soziale Verantwortung, unterstützt lokale Landwirte und sponsert Fahrradinitiativen für Jugendliche, um Armut und Gewalt in Randgebieten zu bekämpfen."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "Safer",
+  "name": {
+    "en": "Safer",
+    "fr": "Safer",
+    "es": "Más seguro",
+    "de": "Safer"
+  },
   "pubId": 485452,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

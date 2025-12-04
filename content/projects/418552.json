@@ -12,13 +12,23 @@
   ],
   "createdAt": 1658417360,
   "date": null,
-  "description": "Le projet HARMI porté par l’UBFC fédère 250 chercheurs pour faire avancer encore plus vite la recherche en microbiologie depuis le microbiote du sol jusqu’à celui des intestins, en passant par les ferments de la transformation et de la conservation alimentaire. L’État a distingué ce projet d’envergure en lui octroyant 14M€ de crédits PIA4.\nPlusieurs entreprises dijonnaises et régionales utilisent les ferments pour leur activité : Eurogerm dans la panification et la production de farines fermentées, la salaison-charcuterie, les fabricants de fromages (Époisses, Comté, Brillat-Savarin, chèvre charolais…), les meuniers approvisionnés par Dijon Céréales, l’ensemble des fabricants d’alcools (vins, liqueurs de cassis, alcools forts, brasseries), la filière viande de qualité (maturation). Elles visent à mettre en commun leurs connaissances pour mieux connaitre et valoriser les microorganismes qui travaillent à la qualité des produits et en protègent leurs propriétés. Les fournisseurs de matériels et de technologies performantes pour la fermentation, comme l’Agence pour la recherche et le développement des produits industriels (ARDPI), sont aussi associés à cette démarche de filière.",
+  "description": {
+    "fr": "Le projet HARMI porté par l’UBFC fédère 250 chercheurs pour faire avancer encore plus vite la recherche en microbiologie depuis le microbiote du sol jusqu’à celui des intestins, en passant par les ferments de la transformation et de la conservation alimentaire. L’État a distingué ce projet d’envergure en lui octroyant 14M€ de crédits PIA4.\nPlusieurs entreprises dijonnaises et régionales utilisent les ferments pour leur activité : Eurogerm dans la panification et la production de farines fermentées, la salaison-charcuterie, les fabricants de fromages (Époisses, Comté, Brillat-Savarin, chèvre charolais…), les meuniers approvisionnés par Dijon Céréales, l’ensemble des fabricants d’alcools (vins, liqueurs de cassis, alcools forts, brasseries), la filière viande de qualité (maturation). Elles visent à mettre en commun leurs connaissances pour mieux connaitre et valoriser les microorganismes qui travaillent à la qualité des produits et en protègent leurs propriétés. Les fournisseurs de matériels et de technologies performantes pour la fermentation, comme l’Agence pour la recherche et le développement des produits industriels (ARDPI), sont aussi associés à cette démarche de filière.",
+    "en": "The HARMI project, led by UBFC, brings together 250 researchers to accelerate research in microbiology, from soil microbiota to gut microbiota, including ferments used in food processing and preservation. The French government has awarded this major project €14 million in PIA4 funding.\nSeveral Dijon and regional companies use ferments in their business: Eurogerm in bread-making and the production of fermented flours, the cured meat and sausage industry, cheese manufacturers (Époisses, Comté, Brillat-Savarin, Charolais goat's cheese, etc.), millers supplied by Dijon Céréales, all alcohol manufacturers (wines, blackcurrant liqueurs, strong alcohols, breweries), the quality meat industry (maturing). Their aim is to pool their knowledge in order to better understand and promote the microorganisms that contribute to product quality and protect their properties. Suppliers of high-performance fermentation equipment and technologies, such as ARDPI (Agence pour la Recherche et le Développement des Produits Industriels), are also involved in this industry initiative.",
+    "es": "El proyecto HARMI, dirigido por la UBFC, reúne a 250 investigadores para acelerar la investigación en microbiología, desde la microbiota del suelo hasta la microbiota intestinal, pasando por los fermentos utilizados en la transformación y conservación de alimentos. El Gobierno francés ha reconocido este importante proyecto concediéndole 14 millones de euros de financiación PIA4.\nVarias empresas de Dijon y de la región utilizan fermentos en su actividad: Eurogerm en la panificación y la producción de harinas fermentadas, la industria de embutidos y salchichas, los fabricantes de quesos (Époisses, Comté, Brillat-Savarin, queso de cabra Charolais, etc.), los molineros abastecidos por Dijon Céréales, todos los fabricantes de alcohol (vinos, licores de grosella negra, alcoholes fuertes, cervecerías) y la industria cárnica de calidad (maduración). Su objetivo es poner en común sus conocimientos para comprender mejor y promover los microorganismos que trabajan para mejorar la calidad de los productos y proteger sus propiedades. Los proveedores de equipos y tecnologías de fermentación de alto rendimiento, como la Agencia de Investigación y Desarrollo de Productos Industriales (ARDPI), también participan en este enfoque industrial.",
+    "de": "Das von der UBFC getragene Projekt HARMI vereint 250 Forscher, um die Forschung in der Mikrobiologie von der Mikrobiota im Boden über die Fermente in der Lebensmittelverarbeitung und -konservierung bis hin zur Mikrobiota im Darm noch schneller voranzutreiben. Der Staat zeichnete dieses Großprojekt mit 14 Mio. € an PIA4-Krediten aus.\nMehrere Unternehmen aus Dijon und der Region nutzen Fermente für ihre Tätigkeit: Eurogerm in der Brotherstellung und der Produktion von fermentiertem Mehl, die Pökel- und Wurstwarenindustrie, die Käsehersteller (Époisses, Comté, Brillat-Savarin, Charolais-Ziege...), die von Dijon Céréales belieferten Müller, alle Alkoholhersteller (Weine, Cassis-Liköre, Hochprozentiges, Brauereien), die Qualitätsfleischbranche (Reifung). Sie wollen ihr Wissen bündeln, um die Mikroorganismen, die für die Qualität der Produkte arbeiten und ihre Eigenschaften schützen, besser zu kennen und aufzuwerten. Auch die Anbieter von Materialien und leistungsstarken Technologien für die Fermentation, wie die Agentur für Forschung und Entwicklung von Industrieprodukten (ARDPI), sind an diesem Branchenansatz beteiligt."
+  },
   "field": [
     "biology"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "HARMI: Harnessing Microbiomes for Sustainable Development",
+  "name": {
+    "en": "HARMI: Harnessing Microbiomes for Sustainable Development",
+    "fr": "HARMI: Harnessing Microbiomes for Sustainable Development",
+    "es": "HARMI: Aprovechar los microbiomas para el desarrollo sostenible",
+    "de": "HARMI: Harnessing Microbiomes for Sustainable Development (Mikrobiome für eine nachhaltige Entwicklung nutzen)"
+  },
   "pubId": 418552,
   "score": 772.2842105263268,
   "state": "ongoing-project",
@@ -41,28 +51,5 @@
   ],
   "url": "https://www.ubfc.fr/appel-a-projet-excellences-les-microbes-distingues/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495385,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495385,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

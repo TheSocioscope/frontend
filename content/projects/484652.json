@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754913409,
   "date": null,
-  "description": "The FORGENT initiative, also known as Le Fourgon, is a French company focused on reusing packaging, specifically glass jars, for delivering groceries and personal care products. Their goal is to eliminate plastic waste by providing a sustainable online supermarket experience. Customers receive their orders in reusable glass containers, which are later collected, cleaned, and reused. Founded in 2021, Le Fourgon has quickly become a leader in the reuse sector in France, emphasizing environmental responsibility and customer engagement.",
+  "description": {
+    "en": "The FORGENT initiative, also known as Le Fourgon, is a French company focused on reusing packaging, specifically glass jars, for delivering groceries and personal care products. Their goal is to eliminate plastic waste by providing a sustainable online supermarket experience. Customers receive their orders in reusable glass containers, which are later collected, cleaned, and reused. Founded in 2021, Le Fourgon has quickly become a leader in the reuse sector in France, emphasizing environmental responsibility and customer engagement.",
+    "fr": "L'initiative FORGENT, également connue sous le nom de Le Fourgon, est une entreprise française qui se consacre à la réutilisation des emballages, en particulier des bocaux en verre, pour la livraison de produits d'épicerie et de soins personnels. Son objectif est d'éliminer les déchets plastiques en proposant une expérience de supermarché en ligne durable. Les clients reçoivent leurs commandes dans des contenants en verre réutilisables, qui sont ensuite collectés, nettoyés et réutilisés. Fondé en 2021, Le Fourgon est rapidement devenu un leader dans le secteur de la réutilisation en France, en mettant l'accent sur la responsabilité environnementale et l'engagement des clients.",
+    "es": "La iniciativa FORGENT, también conocida como Le Fourgon, es una empresa francesa centrada en la reutilización de envases, concretamente tarros de cristal, para la entrega de comestibles y productos de cuidado personal. Su objetivo es eliminar los residuos plásticos ofreciendo una experiencia de supermercado en línea sostenible. Los clientes reciben sus pedidos en envases de vidrio reutilizables, que posteriormente se recogen, limpian y reutilizan. Fundada en 2021, Le Fourgon se ha convertido rápidamente en líder del sector de la reutilización en Francia, haciendo hincapié en la responsabilidad medioambiental y el compromiso con el cliente.",
+    "de": "Die Initiative FORGENT, auch bekannt als Le Fourgon, ist ein französisches Unternehmen, das sich auf die Wiederverwendung von Verpackungen, insbesondere von Gläsern, für die Lieferung von Lebensmitteln und Körperpflegeprodukten konzentriert. Ihr Ziel ist es, Plastikmüll zu vermeiden, indem sie ein nachhaltiges Online-Supermarkt-Erlebnis bieten. Die Kunden erhalten ihre Bestellungen in wiederverwendbaren Glasbehältern, die später eingesammelt, gereinigt und wiederverwendet werden. Le Fourgon wurde 2021 gegründet und hat sich in Frankreich schnell zu einem führenden Unternehmen im Bereich der Wiederverwendung entwickelt, das auf Umweltverantwortung und Kundenbindung setzt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Le Fourgon",
+  "name": {
+    "fr": "Le Fourgon",
+    "en": "Le Fourgon",
+    "es": "La furgoneta",
+    "de": "Der Kastenwagen"
+  },
   "pubId": 484652,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

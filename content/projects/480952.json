@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754993152,
   "date": null,
-  "description": "Verdes Pensamientos, founded in 2012, is an initiative focused on food sustainability and sovereignty, primarily targeting vulnerable children in Quindío. Initially teaching urban gardening and nutrition, it has since evolved into a green enterprise, impacting over 40,000 children and expanding its services to support local farmers and businesses in regenerative agriculture. By 2021, it formalized as an incubator, providing consultancy and fostering sustainable practices across various sectors, while aiming for national expansion.",
+  "description": {
+    "en": "Verdes Pensamientos, founded in 2012, is an initiative focused on food sustainability and sovereignty, primarily targeting vulnerable children in Quindío. Initially teaching urban gardening and nutrition, it has since evolved into a green enterprise, impacting over 40,000 children and expanding its services to support local farmers and businesses in regenerative agriculture. By 2021, it formalized as an incubator, providing consultancy and fostering sustainable practices across various sectors, while aiming for national expansion.",
+    "fr": "Verdes Pensamientos, fondée en 2012, est une initiative axée sur la durabilité et la souveraineté alimentaires, ciblant principalement les enfants vulnérables de Quindío. Au départ, elle enseignait le jardinage urbain et la nutrition, mais elle a évolué vers une entreprise verte, touchant plus de 40 000 enfants et élargissant ses services pour soutenir les agriculteurs et les entreprises locales dans le domaine de l'agriculture régénératrice. D'ici 2021, elle s'est formalisée en tant qu'incubateur, offrant des services de conseil et encourageant les pratiques durables dans divers secteurs, tout en visant une expansion nationale.",
+    "es": "Verdes Pensamientos, fundada en 2012, es una iniciativa centrada en la sostenibilidad y la soberanía alimentarias, dirigida principalmente a niños vulnerables del Quindío. Inicialmente enseñando jardinería urbana y nutrición, desde entonces ha evolucionado hacia una empresa verde, impactando a más de 40.000 niños y ampliando sus servicios para apoyar a los agricultores y empresas locales en la agricultura regenerativa. En 2021, se formalizó como incubadora, proporcionando consultoría y fomentando prácticas sostenibles en diversos sectores, al tiempo que aspiraba a la expansión nacional.",
+    "de": "Verdes Pensamientos wurde 2012 gegründet und ist eine Initiative, die sich auf Nachhaltigkeit und Ernährungssouveränität konzentriert und sich in erster Linie an benachteiligte Kinder in Quindío richtet. Ursprünglich unterrichtete sie städtisches Gärtnern und Ernährung und hat sich seitdem zu einem grünen Unternehmen entwickelt, das mehr als 40 000 Kinder erreicht und seine Dienstleistungen erweitert hat, um lokale Landwirte und Unternehmen in der regenerativen Landwirtschaft zu unterstützen. Bis 2021 wird das Projekt zu einem Inkubator, der Beratung anbietet und nachhaltige Praktiken in verschiedenen Sektoren fördert, wobei eine nationale Expansion angestrebt wird."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Verdes Pensamientos",
+  "name": {
+    "es": "Verdes Pensamientos",
+    "en": "Green Thoughts",
+    "fr": "Pensées vertes",
+    "de": "Grüne Gedanken"
+  },
   "pubId": 480952,
   "score": 27.928238326295112,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

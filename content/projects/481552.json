@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754994939,
   "date": null,
-  "description": "Aproemsurt is an association of beekeepers located in Chaparral, Tolima, founded on September 10, 2009. The organization currently has 26 members and is structured with a board of directors, including positions such as president, vice-president, treasurer, and legal representative, along with a general assembly comprising all members. Each member maintains their own hives, and while the association has its own hives, it aims to eventually serve as a collection center for honey, purchasing from both members and non-members.",
+  "description": {
+    "en": "Aproemsurt is an association of beekeepers located in Chaparral, Tolima, founded on September 10, 2009. The organization currently has 26 members and is structured with a board of directors, including positions such as president, vice-president, treasurer, and legal representative, along with a general assembly comprising all members. Each member maintains their own hives, and while the association has its own hives, it aims to eventually serve as a collection center for honey, purchasing from both members and non-members.",
+    "fr": "Aproemsurt est une association d'apiculteurs située à Chaparral, Tolima, fondée le 10 septembre 2009. L'organisation compte actuellement 26 membres et est structurée avec un conseil d'administration, comprenant des postes tels que président, vice-président, trésorier et représentant légal, ainsi qu'une assemblée générale composée de tous les membres. Chaque membre entretient ses propres ruches, et bien que l'association dispose de ses propres ruches, elle vise à terme à servir de centre de collecte de miel, en achetant à la fois aux membres et aux non-membres.",
+    "es": "Aproemsurt es una asociación de apicultores ubicada en Chaparral, Tolima, fundada el 10 de septiembre de 2009. La organización cuenta actualmente con 26 miembros y está estructurada con una junta directiva, que incluye cargos como presidente, vicepresidente, tesorero y representante legal, junto con una asamblea general integrada por todos los miembros. Cada miembro mantiene sus propias colmenas, y aunque la asociación tiene sus propias colmenas, su objetivo es servir eventualmente como centro de acopio de miel, comprando tanto a miembros como a no miembros.",
+    "de": "Aproemsurt ist ein Verband von Imkern mit Sitz in Chaparral, Tolima, der am 10. September 2009 gegründet wurde. Die Organisation hat derzeit 26 Mitglieder und verfügt über einen Vorstand mit Positionen wie Präsident, Vizepräsident, Schatzmeister und Rechtsvertreter sowie eine Generalversammlung, in der alle Mitglieder vertreten sind. Jedes Mitglied unterhält seine eigenen Bienenstöcke, und obwohl der Verband über eigene Bienenstöcke verfügt, ist er bestrebt, letztendlich als Sammelstelle für Honig zu fungieren und sowohl von Mitgliedern als auch von Nichtmitgliedern zu kaufen."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Aproemsurt",
+  "name": {
+    "pt": "Aproemsurt",
+    "en": "Aproemsurt",
+    "fr": "Aproemsurt",
+    "es": "Aproemsurt",
+    "de": "Aproemsurt"
+  },
   "pubId": 481552,
   "score": 61.30000000000016,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

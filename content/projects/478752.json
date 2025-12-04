@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653158,
   "date": null,
-  "description": "Matayoshi Coffee Farm, located in Okinawa, Japan, is a pioneering initiative that transitioned from a rose garden to a sustainable coffee farm in 2016. This project aims to cultivate coffee without pesticides, embracing local practices and educating the community about coffee culture. The farm features a café, a farm stay, and various tourist experiences, all while striving to develop unique Okinawan coffee beans and promote sustainability amidst challenges like climate change and cultural shifts.",
+  "description": {
+    "en": "Matayoshi Coffee Farm, located in Okinawa, Japan, is a pioneering initiative that transitioned from a rose garden to a sustainable coffee farm in 2016. This project aims to cultivate coffee without pesticides, embracing local practices and educating the community about coffee culture. The farm features a café, a farm stay, and various tourist experiences, all while striving to develop unique Okinawan coffee beans and promote sustainability amidst challenges like climate change and cultural shifts.",
+    "fr": "La ferme de café Matayoshi, située à Okinawa, au Japon, est une initiative pionnière qui est passée d'une roseraie à une ferme de café durable en 2016. Ce projet vise à cultiver du café sans pesticides, en adoptant des pratiques locales et en éduquant la communauté à la culture du café. La ferme propose un café, un séjour à la ferme et diverses expériences touristiques, tout en s'efforçant de développer des grains de café uniques d'Okinawa et de promouvoir la durabilité face à des défis tels que le changement climatique et les changements culturels.",
+    "es": "Matayoshi Coffee Farm, situada en Okinawa (Japón), es una iniciativa pionera que pasó de ser un jardín de rosas a una explotación sostenible de café en 2016. Este proyecto pretende cultivar café sin pesticidas, adoptando prácticas locales y educando a la comunidad sobre la cultura del café. La granja cuenta con una cafetería, una estancia en la granja y diversas experiencias turísticas, al tiempo que se esfuerza por desarrollar granos de café únicos de Okinawa y promover la sostenibilidad en medio de desafíos como el cambio climático y los cambios culturales.",
+    "de": "Die Matayoshi Coffee Farm in Okinawa, Japan, ist eine Pionierinitiative, die sich 2016 von einem Rosengarten in eine nachhaltige Kaffeefarm verwandelt hat. Dieses Projekt zielt darauf ab, Kaffee ohne Pestizide anzubauen, lokale Praktiken zu berücksichtigen und die Gemeinschaft über die Kaffeekultur aufzuklären. Die Farm bietet ein Café, einen Farmaufenthalt und verschiedene touristische Erlebnisse, während sie sich gleichzeitig um die Entwicklung einzigartiger okinawanischer Kaffeebohnen und die Förderung der Nachhaltigkeit inmitten von Herausforderungen wie dem Klimawandel und kulturellen Veränderungen bemüht."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Matayoshi Coffee Farm ",
+  "name": {
+    "en": "Matayoshi Coffee Farm ",
+    "fr": "Ferme de café Matayoshi",
+    "es": "Granja de café Matayoshi",
+    "de": "Matayoshi Kaffee-Farm"
+  },
   "pubId": 478752,
   "score": -35.14412832406927,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "sSb8lNDZPn8",
-  "zone": [
-    0,
-    0
-  ],
   "editedAt": 1760066862,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1760066862
     }
   ],
-  "lastEvent": {
-    "at": 1760066862,
-    "by": "contact"
-  },
   "updatedAt": [
     1760066862
-  ]
+  ],
+  "originalLang": "en"
 }

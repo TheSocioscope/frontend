@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755006664,
   "date": null,
-  "description": "Keclon is a biotechnology company founded in 2011 by scientists from CONICET, focusing on developing biosolutions, particularly enzymes, to enhance industrial food production processes. By improving efficiency and reducing environmental impact, Keclon aims to transform the food industry while addressing sustainability challenges. The company operates a unique fermentation plant in San Lorenzo, Argentina, and is committed to innovation, customer collaboration, and expanding its market presence both locally and internationally.",
+  "description": {
+    "en": "Keclon is a biotechnology company founded in 2011 by scientists from CONICET, focusing on developing biosolutions, particularly enzymes, to enhance industrial food production processes. By improving efficiency and reducing environmental impact, Keclon aims to transform the food industry while addressing sustainability challenges. The company operates a unique fermentation plant in San Lorenzo, Argentina, and is committed to innovation, customer collaboration, and expanding its market presence both locally and internationally.",
+    "fr": "Keclon est une entreprise de biotechnologie fondée en 2011 par des scientifiques du CONICET, qui se concentre sur le développement de biosolutions, en particulier d'enzymes, pour améliorer les processus de production alimentaire industrielle. En améliorant l'efficacité et en réduisant l'impact sur l'environnement, Keclon vise à transformer l'industrie alimentaire tout en relevant les défis de la durabilité. L'entreprise exploite une usine de fermentation unique à San Lorenzo, en Argentine, et s'engage à innover, à collaborer avec ses clients et à étendre sa présence sur le marché, tant au niveau local qu'international.",
+    "es": "Keclon es una empresa de biotecnología fundada en 2011 por científicos del CONICET, centrada en el desarrollo de biosoluciones, en particular enzimas, para mejorar los procesos industriales de producción de alimentos. Mediante la mejora de la eficiencia y la reducción del impacto ambiental, Keclon pretende transformar la industria alimentaria al tiempo que aborda los retos de la sostenibilidad. La empresa opera una planta de fermentación única en San Lorenzo, Argentina, y está comprometida con la innovación, la colaboración con el cliente y la expansión de su presencia en el mercado tanto a nivel local como internacional.",
+    "de": "Keclon ist ein Biotechnologieunternehmen, das 2011 von Wissenschaftlern des CONICET gegründet wurde und sich auf die Entwicklung von Biolösungen, insbesondere Enzymen, konzentriert, um industrielle Lebensmittelproduktionsprozesse zu verbessern. Durch die Verbesserung der Effizienz und die Verringerung der Umweltauswirkungen will Keclon die Lebensmittelindustrie verändern und sich gleichzeitig den Herausforderungen der Nachhaltigkeit stellen. Das Unternehmen betreibt eine einzigartige Fermentationsanlage in San Lorenzo, Argentinien, und engagiert sich für Innovation, die Zusammenarbeit mit Kunden und die Ausweitung seiner Marktpräsenz sowohl auf lokaler als auch auf internationaler Ebene."
+  },
   "field": [
     "biology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Keclon",
+  "name": {
+    "en": "Keclon",
+    "fr": "Keclon",
+    "es": "Keclon",
+    "de": "Keclon"
+  },
   "pubId": 494552,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

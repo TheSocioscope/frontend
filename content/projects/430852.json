@@ -15,14 +15,24 @@
   "date": [
     "2022-09-01"
   ],
-  "description": "Perché à 15m de hauteur sur le toit d’un parking grenoblois, Le Bar Radis est un tiers-lieu expérimental dédié aux questions d’agriculture urbaine, d’alimentation et d’environnement. Au Bar Radis, toutes les étapes de la filière alimentaire sont questionnées puisque le Bar Radis à la fois un restaurant, un bar, un café associatif, une serre et un jardin de près de 1000 m² de surfaces cultivables pour alimenter le restaurant ainsi qu’un atelier de transformation alimentaire et une pépinière associative. À cela s’ajoutent des concerts, des conférences, des ateliers jardin et cuisine, des expositions…",
+  "description": {
+    "fr": "Perché à 15m de hauteur sur le toit d’un parking grenoblois, Le Bar Radis est un tiers-lieu expérimental dédié aux questions d’agriculture urbaine, d’alimentation et d’environnement. Au Bar Radis, toutes les étapes de la filière alimentaire sont questionnées puisque le Bar Radis à la fois un restaurant, un bar, un café associatif, une serre et un jardin de près de 1000 m² de surfaces cultivables pour alimenter le restaurant ainsi qu’un atelier de transformation alimentaire et une pépinière associative. À cela s’ajoutent des concerts, des conférences, des ateliers jardin et cuisine, des expositions…",
+    "en": "Perched 15m high on the roof of a Grenoble parking lot, Le Bar Radis is an experimental third-party space dedicated to urban agriculture, food and the environment. At Le Bar Radis, all stages of the food chain are explored, as Le Bar Radis is at once a restaurant, a bar, a community café, a greenhouse and a garden with almost 1,000 m² of arable land to supply the restaurant, as well as a food processing workshop and a community nursery. Concerts, conferences, garden and cooking workshops, exhibitions...",
+    "es": "Encaramado a 15 metros de altura en el tejado de un aparcamiento de Grenoble, el Bar Radis es un tercer lugar experimental dedicado a la agricultura urbana, la alimentación y el medio ambiente. En el Bar Radis se exploran todas las etapas de la cadena alimentaria, con un restaurante, un bar, un café comunitario, un invernadero y un huerto de casi 1.000 m² de superficie cultivable para abastecer al restaurante, así como un taller de transformación de alimentos y un vivero comunitario. También habrá conciertos, conferencias, talleres de jardinería y cocina, exposiciones, etc.",
+    "de": "Le Bar Radis befindet sich in 15 m Höhe auf dem Dach eines Parkhauses in Grenoble und ist ein experimenteller Dritter Ort, der sich mit Fragen der städtischen Landwirtschaft, Ernährung und Umwelt beschäftigt. In der Bar Radis werden alle Etappen der Lebensmittelkette hinterfragt, da sie gleichzeitig ein Restaurant, eine Bar, ein Vereinscafé, ein Gewächshaus und einen Garten mit fast 1000 m² Anbaufläche für die Versorgung des Restaurants sowie eine Werkstatt für die Lebensmittelverarbeitung und eine Vereinsgärtnerei ist. Hinzu kommen Konzerte, Vorträge, Garten- und Kochworkshops, Ausstellungen..."
+  },
   "field": [
     "earth-sciences",
     "nutrition"
   ],
   "lang": "fr",
   "location": "Grenoble",
-  "name": "Le Bar Radis",
+  "name": {
+    "de": "Le Bar Radis",
+    "en": "Le Bar Radis",
+    "fr": "Le Bar Radis",
+    "es": "Le Bar Radis"
+  },
   "pubId": 430852,
   "score": 839.2999999999986,
   "state": "ongoing-project",
@@ -50,28 +60,5 @@
   ],
   "url": "https://lebarradis.fr/",
   "yt": "xne6y2OKyi8",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1689232260,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1689232260,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

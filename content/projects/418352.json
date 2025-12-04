@@ -12,7 +12,12 @@
   ],
   "createdAt": 1658416698,
   "date": null,
-  "description": "Foodintech 2 est le petit nom d’une application culinaire développée à l’attention des établissements de santé qui servent chaque jour des repas à une population de patients aux profils nutritionnels variés et qui ont besoin d’une alimentation sur-mesure. Foodintech 2 intègre une intelligence artificielle capable de mieux cerner les profils alimentaires personnalisés des patients. Il contribue non seulement à améliorer la santé et la satisfaction à l’égard du repas, mais aussi de réduire le gaspillage alimentaire. Initialement conçu pour une utilisation en établissements (hôpitaux, établissements d’hébergement de personnes âgées dépendantes…), cet outil a vocation à être déployé à terme pour une utilisation à domicile.",
+  "description": {
+    "fr": "Foodintech 2 est le petit nom d’une application culinaire développée à l’attention des établissements de santé qui servent chaque jour des repas à une population de patients aux profils nutritionnels variés et qui ont besoin d’une alimentation sur-mesure. Foodintech 2 intègre une intelligence artificielle capable de mieux cerner les profils alimentaires personnalisés des patients. Il contribue non seulement à améliorer la santé et la satisfaction à l’égard du repas, mais aussi de réduire le gaspillage alimentaire. Initialement conçu pour une utilisation en établissements (hôpitaux, établissements d’hébergement de personnes âgées dépendantes…), cet outil a vocation à être déployé à terme pour une utilisation à domicile.",
+    "en": "Foodintech 2 is the name of a culinary application developed for healthcare establishments serving daily meals to a patient population with varied nutritional profiles and a need for tailor-made nutrition. Foodintech 2 integrates artificial intelligence capable of better identifying patients' personalized dietary profiles. This not only helps to improve health and meal satisfaction, but also reduces food waste. Initially designed for use in institutions (hospitals, homes for the elderly, etc.), this tool will eventually be deployed for use in the home.",
+    "es": "Foodintech 2 es el nombre de una aplicación culinaria desarrollada para establecimientos sanitarios que sirven comidas a diario a una población de pacientes con perfiles nutricionales variados y que necesitan una dieta a medida. Foodintech 2 incorpora inteligencia artificial capaz de identificar mejor los perfiles dietéticos personalizados de los pacientes. Esto no sólo ayuda a mejorar la salud y la satisfacción de las comidas, sino que también reduce el desperdicio de alimentos. Concebida inicialmente para su uso en establecimientos (hospitales, residencias de ancianos dependientes, etc.), esta herramienta se implantará con el tiempo para su uso en el hogar.",
+    "de": "Foodintech 2 ist der Kurzname einer kulinarischen Anwendung, die für Gesundheitseinrichtungen entwickelt wurde, die täglich Mahlzeiten für eine Patientenpopulation mit unterschiedlichen Ernährungsprofilen servieren, die eine maßgeschneiderte Ernährung benötigen. Foodintech 2 enthält eine künstliche Intelligenz, die die personalisierten Ernährungsprofile der Patienten besser erfassen kann. Es trägt nicht nur dazu bei, die Gesundheit und die Zufriedenheit mit dem Essen zu verbessern, sondern auch die Lebensmittelverschwendung zu reduzieren. Das Tool wurde ursprünglich für den Einsatz in Einrichtungen (Krankenhäuser, Heime für pflegebedürftige ältere Menschen usw.) entwickelt, soll aber langfristig auch für den Einsatz zu Hause eingesetzt werden."
+  },
   "field": [
     "management-public-administration",
     "biology",
@@ -20,7 +25,12 @@
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Application Foodintech 2",
+  "name": {
+    "en": "Application Foodintech 2",
+    "fr": "Application Foodintech 2",
+    "es": "Aplicación Foodintech 2",
+    "de": "Anwendung Foodintech 2"
+  },
   "pubId": 418352,
   "score": 1385.100000000009,
   "state": "ongoing-project",
@@ -46,28 +56,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658419180,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658419180,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

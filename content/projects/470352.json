@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754658817,
   "date": null,
-  "description": "Bazar Natury is an initiative that connects local farmers and organic food producers with city residents, promoting access to high-quality, pesticide-free products. The market operates in Gdańsk and Gdynia, offering a variety of goods, including meat, vegetables, and artisanal items. Customers, who are health-conscious and value quality, benefit from direct interactions with producers. The bazaar fosters community ties, supports sustainable practices, and encourages collaboration among producers, ensuring a vibrant ecosystem for healthy eating and local entrepreneurship.",
+  "description": {
+    "en": "Bazar Natury is an initiative that connects local farmers and organic food producers with city residents, promoting access to high-quality, pesticide-free products. The market operates in Gdańsk and Gdynia and offers a wide variety of products, including meat, vegetables and artisanal products. Health-conscious customers who value quality benefit from direct interaction with producers. The bazaar fosters community ties, supports sustainable practices and encourages collaboration between producers, ensuring a vibrant ecosystem for healthy eating and local entrepreneurship.",
+    "fr": "Bazar Natury est une initiative qui met en relation les agriculteurs locaux et les producteurs d'aliments biologiques avec les habitants de la ville, en favorisant l'accès à des produits de haute qualité, exempts de pesticides. Le marché opère à Gdańsk et à Gdynia et propose une grande variété de produits, tels que de la viande, des légumes et des produits artisanaux. Les clients soucieux de leur santé et de la qualité bénéficient d'une interaction directe avec les producteurs. Le bazar favorise les liens communautaires, soutient les pratiques durables et stimule la collaboration entre les producteurs, garantissant ainsi un écosystème dynamique pour une alimentation saine et l'entreprenariat local.",
+    "es": "Bazar Natury es una iniciativa que pone en contacto a agricultores locales y productores de alimentos ecológicos con los residentes de la ciudad, promoviendo el acceso a productos de alta calidad y libres de pesticidas. El mercado opera en Gdańsk y Gdynia y ofrece una gran variedad de productos, como carne, verduras y productos artesanales. Los clientes, preocupados por la salud y que valoran la calidad, se benefician de la interacción directa con los productores. El bazar fomenta los lazos comunitarios, apoya las prácticas sostenibles y estimula la colaboración entre productores, garantizando un ecosistema vibrante para una alimentación sana y el emprendimiento local.",
+    "de": "Bazar Natury ist eine Initiative, die lokale Bauern und Bio-Lebensmittelproduzenten mit den Stadtbewohnern verbindet und den Zugang zu hochwertigen, pestizidfreien Produkten fördert. Der Markt ist in Gdańsk und Gdynia tätig und bietet eine Vielzahl von Waren an, darunter Fleisch, Gemüse und handwerklich hergestellte Artikel. Kunden, die gesundheitsbewusst und qualitätsbewusst sind, profitieren von der direkten Interaktion mit den Erzeugern. Der Basar fördert die Beziehungen zwischen den Gemeinden, unterstützt nachhaltige Praktiken und fördert die Zusammenarbeit zwischen den Erzeugern, wodurch ein lebendiges Ökosystem für gesunde Ernährung und lokales Unternehmertum entsteht."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Bazar Natury",
+  "name": {
+    "es": "Bazar Natury",
+    "en": "Natury Bazaar",
+    "fr": "Bazar de Natury",
+    "de": "Natury Bazaar"
+  },
   "pubId": 470352,
   "score": 43.46073834553636,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "BghI4YbnI2U",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755736683,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1755736683
     }
   ],
-  "lastEvent": {
-    "at": 1755736683,
-    "by": "contact"
-  },
   "updatedAt": [
     1755736683
-  ]
+  ],
+  "originalLang": "fr"
 }

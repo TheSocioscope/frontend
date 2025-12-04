@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754908544,
   "date": null,
-  "description": "Terres-en-Villes is a pioneering association focused on agricultural and food policies, bridging urban and rural communities. Established in 2020, it fosters collaboration among towns and agricultural fields to promote sustainable food systems. Led by Florent Lardique, the initiative emphasizes protecting agricultural land and enhancing food access through innovative policies. By facilitating dialogue and cooperation among diverse stakeholders, Terres-en-Villes aims to drive ecological and food transitions, ensuring a balanced relationship between urban development and agriculture.",
+  "description": {
+    "en": "Terres-en-Villes is a pioneering association focused on agricultural and food policies, building bridges between urban and rural communities. Created in 2020, it fosters collaboration between cities and agricultural areas to promote sustainable food systems. Led by Florent Lardique, the initiative emphasizes protecting agricultural land and improving access to food through innovative policies. By facilitating dialogue and cooperation between the various stakeholders, Terres-en-Villes aims to foster ecological and food transitions, ensuring a balanced relationship between urban development and agriculture.",
+    "fr": "Terres-en-Villes est un partenariat pionnier axé sur l'agriculture et la politique alimentaire, qui jette des ponts entre les communautés urbaines et rurales. Créé en 2020, il encourage la collaboration entre les villes et les zones agricoles afin de promouvoir des systèmes alimentaires durables. Dirigée par Florent Lardique, l'initiative se concentre sur la protection des terres agricoles et l'amélioration de l'accès à la nourriture grâce à des politiques innovantes. En facilitant le dialogue et la coopération entre les différentes parties prenantes, Terres-en-Villes vise à favoriser les transitions écologiques et alimentaires, en garantissant une relation équilibrée entre le développement urbain et l'agriculture.",
+    "es": "Terres-en-Villes es una asociación pionera centrada en las políticas agrícolas y alimentarias, que tiende puentes entre las comunidades urbanas y rurales. Creada en 2020, fomenta la colaboración entre ciudades y ámbitos agrícolas para promover sistemas alimentarios sostenibles. Dirigida por Florent Lardique, la iniciativa hace hincapié en la protección de las tierras agrícolas y la mejora del acceso a los alimentos mediante políticas innovadoras. Al facilitar el diálogo y la cooperación entre las diversas partes interesadas, Terres-en-Villes pretende impulsar transiciones ecológicas y alimentarias, garantizando una relación equilibrada entre el desarrollo urbano y la agricultura.",
+    "de": "Terres-en-Villes ist eine Pioniervereinigung, die sich auf die Agrar- und Lebensmittelpolitik konzentriert und städtische und ländliche Gemeinden miteinander verbindet. Sie wurde 2020 gegründet und fördert die Zusammenarbeit zwischen Städten und landwirtschaftlichen Betrieben, um nachhaltige Nahrungsmittelsysteme zu fördern. Die von Florent Lardique geleitete Initiative legt Wert auf den Schutz landwirtschaftlicher Flächen und die Verbesserung des Zugangs zu Lebensmitteln durch innovative Maßnahmen. Durch die Förderung des Dialogs und der Zusammenarbeit zwischen verschiedenen Akteuren will Terres-en-Villes den ökologischen und ernährungswirtschaftlichen Wandel vorantreiben und eine ausgewogene Beziehung zwischen Stadtentwicklung und Landwirtschaft sicherstellen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Terres-en-Villes",
+  "name": {
+    "fr": "Terres-en-Villes",
+    "en": "Terres-en-Villes",
+    "es": "Terres-en-Villes",
+    "de": "Terres-en-Villes"
+  },
   "pubId": 472652,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

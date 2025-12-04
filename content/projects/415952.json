@@ -14,7 +14,12 @@
   "date": [
     "2022-07-15"
   ],
-  "description": "Ghent en Garde tackles different challenges through tailor-made responses. By preventing food waste and helping promote shorter food supply chains, Ghent en Garde plays an essential role in reducing emissions. Since 2014, over 42 schools have received training in how to develop community garden beds on their campus, with other 240 parents and teachers having participated in these workshops. No less than 25 community gardens have already received support. An online helpdesk has also been developed where citizens can ask questions about their own vegetable garden, no matter how small. The scheme is meant to encourage the public to participate in greening activities at community level and to adopt greening activities as part of daily life. It also aims at arousing public awareness in greening and environmental protection from the youngest age through participating in gardening activities.",
+  "description": {
+    "en": "Ghent en Garde addresses various challenges with tailor-made answers. By preventing food waste and contributing to shortening supply chains, Ghent en Garde plays a key role in reducing emissions. Since 2014, more than 42 schools have received training on how to develop community gardens on their campus, and an additional 240 parents and teachers have participated in these workshops. No fewer than 25 community gardens have already received support. An online helpdesk has also been set up where citizens can ask questions about their own garden, however small. The scheme aims to encourage citizens to participate in green activities at the community level and to adopt them as part of their daily lives. It also aims to raise awareness of greening and environmental protection from the earliest age through participation in gardening activities.",
+    "fr": "Gand en Garde relève différents défis en y apportant des réponses sur mesure. En évitant le gaspillage alimentaire et en contribuant à raccourcir les chaînes d'approvisionnement, Gand en Garde joue un rôle clé dans la réduction des émissions. Depuis 2014, plus de 42 écoles ont reçu une formation sur la manière de développer des jardins communautaires sur leur campus, et 240 parents et enseignants supplémentaires ont participé à ces ateliers. Pas moins de 25 jardins communautaires ont déjà reçu un soutien. Un service d'assistance en ligne a également été mis en place pour permettre aux citoyens de poser des questions sur leur propre jardin, aussi petit soit-il. Le programme vise à encourager les citoyens à participer à des activités vertes au niveau communautaire et à les intégrer dans leur vie quotidienne. Il vise également à sensibiliser les citoyens à l'écologisation et à la protection de l'environnement dès leur plus jeune âge en les faisant participer à des activités de jardinage.",
+    "es": "Ghent en Garde aborda distintos retos mediante respuestas a medida. Al evitar el desperdicio de alimentos y contribuir a acortar las cadenas de suministro, Ghent en Garde desempeña un papel esencial en la reducción de emisiones. Desde 2014, más de 42 escuelas han recibido formación sobre cómo desarrollar huertos comunitarios en su campus, y otros 240 padres y profesores han participado en estos talleres. Nada menos que 25 huertos comunitarios ya han recibido apoyo. También se ha creado un servicio de asistencia en línea en el que los ciudadanos pueden hacer preguntas sobre su propio huerto, por pequeño que sea. El plan pretende animar a los ciudadanos a participar en actividades ecológicas a nivel comunitario y a adoptarlas como parte de su vida cotidiana. También pretende concienciar a la población sobre la ecologización y la protección del medio ambiente desde la más temprana edad mediante la participación en actividades de jardinería.",
+    "de": "Ghent en Garde begegnet verschiedenen Herausforderungen mit maßgeschneiderten Antworten. Durch die Vermeidung von Lebensmittelabfällen und die Förderung kürzerer Lebensmittelketten spielt Ghent en Garde eine wichtige Rolle bei der Reduzierung von Emissionen. Seit 2014 wurden über 42 Schulen darin geschult, wie sie Gemeinschaftsgartenbeete auf ihrem Campus anlegen können, und weitere 240 Eltern und Lehrer nahmen an diesen Workshops teil. Nicht weniger als 25 Gemeinschaftsgärten wurden bereits unterstützt. Außerdem wurde ein Online-Helpdesk entwickelt, wo Bürger Fragen zu ihrem eigenen Gemüsegarten stellen können, egal wie klein er ist. Das Programm soll die Öffentlichkeit dazu ermutigen, sich an Begrünungsaktivitäten auf Gemeindeebene zu beteiligen und Begrünungsaktivitäten als Teil des täglichen Lebens zu übernehmen. Es zielt auch darauf ab, das Bewusstsein der Öffentlichkeit für die Begrünung und den Umweltschutz vom jüngsten Alter an durch die Teilnahme an Gartenaktivitäten zu schärfen."
+  },
   "field": [
     "biology",
     "education-sciences",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "Ghent",
-  "name": " Support for community gardens in Ghent",
+  "name": {
+    "en": " Support for community gardens in Ghent",
+    "fr": " Support for community gardens in Ghent",
+    "es": " Apoyo a los huertos comunitarios en Gante",
+    "de": " Unterstützung für Gemeinschaftsgärten in Ghent"
+  },
   "pubId": 415952,
   "score": 486.67380359989994,
   "state": "ongoing-project",
@@ -45,28 +55,5 @@
   ],
   "url": "https://stad.gent/en/city-governance-organisation/city-policy/ghents-climate-actions/sustainable-food#93309",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532695,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532695,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

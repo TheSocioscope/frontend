@@ -14,7 +14,12 @@
   "date": [
     "2030-01-01"
   ],
-  "description": "La restauration scolaire porte des enjeux majeurs en matière de santé et d’éducation à l’alimentation. C’est pourquoi la ville de Dijon, dont la cuisine centrale prépare plus de 8 000 repas par jour pour les restaurants scolaires de la commune, soit 1,3 million de repas annuels, s’est engagée dans un programme ambitieux comprenant plusieurs volets : approvisionnement renforcé en produits sous signe de qualité et de proximité, offre diversifiée (menu végétarien hebdomadaire depuis 2018), remplacement d’une partie des protéines animales par des protéines végétales, réduction du gaspillage alimentaire, développement de l’éducation au goût dans le cadre du projet éducatif global (PEG) de la ville. Ces actions ont d’ores et déjà porté leurs fruits : réduction du gaspillage de 54% entre 2017 et 2021, 50% du budget fléché vers des produits sous signe de qualité (34% de bio) ou de proximité (14,5% des produits sont d’origine locale).",
+  "description": {
+    "fr": "La restauration scolaire porte des enjeux majeurs en matière de santé et d’éducation à l’alimentation. C’est pourquoi la ville de Dijon, dont la cuisine centrale prépare plus de 8 000 repas par jour pour les restaurants scolaires de la commune, soit 1,3 million de repas annuels, s’est engagée dans un programme ambitieux comprenant plusieurs volets : approvisionnement renforcé en produits sous signe de qualité et de proximité, offre diversifiée (menu végétarien hebdomadaire depuis 2018), remplacement d’une partie des protéines animales par des protéines végétales, réduction du gaspillage alimentaire, développement de l’éducation au goût dans le cadre du projet éducatif global (PEG) de la ville. Ces actions ont d’ores et déjà porté leurs fruits : réduction du gaspillage de 54% entre 2017 et 2021, 50% du budget fléché vers des produits sous signe de qualité (34% de bio) ou de proximité (14,5% des produits sont d’origine locale).",
+    "en": "School catering represents a major challenge in terms of health and food education. That's why the city of Dijon, whose central kitchen prepares over 8,000 meals a day for the city's school canteens, representing 1.3 million meals a year, has embarked on an ambitious program comprising several components: increased sourcing of products with quality and proximity signs, a diversified offer (weekly vegetarian menu since 2018), replacement of part of the animal proteins by vegetable proteins, reduction of food waste, development of taste education as part of the city's overall educational project (PEG). These actions have already borne fruit, with a 54% reduction in waste between 2017 and 2021, and 50% of the budget being allocated to quality products (34% organic) or local products (14.5% locally sourced).",
+    "es": "La restauración escolar es un tema de primer orden en materia de salud y educación alimentaria. Por eso, la ciudad de Dijon, cuya cocina central prepara más de 8.000 comidas al día para los comedores escolares de la ciudad -un total de 1,3 millones de comidas al año-, se ha embarcado en un ambicioso programa con varias vertientes: mayor abastecimiento de productos de calidad y locales, oferta diversificada (menú vegetariano semanal desde 2018), sustitución de algunas proteínas animales por proteínas vegetales, reducción del desperdicio alimentario, desarrollo de la educación del gusto como parte del proyecto educativo global de la ciudad (PEG). Estas iniciativas ya han dado sus frutos, con una reducción del 54% del desperdicio alimentario entre 2017 y 2021, y un 50% del presupuesto destinado a productos de calidad (34% ecológicos) y productos locales (14,5% de origen local).",
+    "de": "Die Schulverpflegung trägt große Herausforderungen in Bezug auf Gesundheit und Ernährungserziehung mit sich. Aus diesem Grund hat sich die Stadt Dijon, deren Zentralküche täglich mehr als 8000 Mahlzeiten für die Schulrestaurants der Gemeinde zubereitet, was 1,3 Millionen Mahlzeiten pro Jahr entspricht, zu einem ehrgeizigen Programm verpflichtet, das mehrere Komponenten umfasst: verstärkte Beschaffung von Produkten mit Qualitätszeichen und aus der Nähe, vielfältiges Angebot (seit 2018 wöchentlich ein vegetarisches Menü), Ersatz eines Teils der tierischen Proteine durch pflanzliche Proteine, Reduzierung der Lebensmittelverschwendung, Entwicklung der Geschmackserziehung im Rahmen des Gesamtpädagogischen Projekts (PEG) der Stadt. Diese Maßnahmen haben bereits Früchte getragen: Reduzierung der Verschwendung um 54 % zwischen 2017 und 2021, 50 % des Budgets werden auf Produkte mit Qualitätszeichen (34 % Bio) oder aus der Nähe (14,5 % der Produkte stammen aus der Region) umgestellt."
+  },
   "field": [
     "management-public-administration",
     "education-sciences",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Programme pour la restauration scolaire / ProDij 2030",
+  "name": {
+    "fr": "Programme pour la restauration scolaire / ProDij 2030",
+    "en": "School catering program / ProDij 2030",
+    "es": "Programa de restauración escolar / ProDij 2030",
+    "de": "Programm für die Schulverpflegung / ProDij 2030"
+  },
   "pubId": 418052,
   "score": 1141.084210526321,
   "state": "ongoing-project",
@@ -46,28 +56,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495305,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495305,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

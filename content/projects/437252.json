@@ -15,7 +15,12 @@
   "date": [
     "2019-01-01"
   ],
-  "description": "La Sécurité sociale de l’alimentation (SSA) vise à intégrer l’alimentation dans le régime général de la Sécurité sociale, tel\nqu’il a été initié en 1946 : universalité de l’accès, caisses locales gérées démocratiquement, et financement par la création d’une\ncotisation sociale. Il est aujourd'hui nécessaire que nous réformions notre système alimentaire dans son ensemble vers un modèle qui respecte l'environnement, les besoins des travailleurs et des mangeurs. La Sécurité sociale de l'alimentation se propose d'être un outil majeur pour agir en ce sens par la socialisation de l'alimentation. La démocratie alimentaire permettra de répondre au triple\nenjeu auquel nous faisons face: environnemental, travail et alimentation",
+  "description": {
+    "fr": "La Sécurité sociale de l’alimentation (SSA) vise à intégrer l’alimentation dans le régime général de la Sécurité sociale, tel\nqu’il a été initié en 1946 : universalité de l’accès, caisses locales gérées démocratiquement, et financement par la création d’une\ncotisation sociale. Il est aujourd'hui nécessaire que nous réformions notre système alimentaire dans son ensemble vers un modèle qui respecte l'environnement, les besoins des travailleurs et des mangeurs. La Sécurité sociale de l'alimentation se propose d'être un outil majeur pour agir en ce sens par la socialisation de l'alimentation. La démocratie alimentaire permettra de répondre au triple\nenjeu auquel nous faisons face: environnemental, travail et alimentation",
+    "en": "Social Security for Food (SSA) aims to integrate food into the general Social Security system, as initiated in\ninitiated in 1946: universal access, democratically managed local funds, and financing through the creation of a social contribution.\nsocial contribution. Today, we need to reform our entire food system towards a model that respects the environment, and the needs of workers and eaters. Social security for food is intended to be a major tool for achieving this by socializing food. Food democracy will enable us to meet the triple challenge\nenvironmental, labor and food issues we face.",
+    "es": "El objetivo de la Seguridad Social Alimentaria (SSA) es integrar la alimentación en el régimen general de la Seguridad Social, tal como se inició en 1946.\niniciado en 1946: acceso universal, fondos locales gestionados democráticamente y financiación mediante la creación de un sistema de\ncotizaciones a la Seguridad Social. Hoy necesitamos reformar todo nuestro sistema alimentario hacia un modelo que respete el medio ambiente y las necesidades de trabajadores y consumidores. La seguridad social alimentaria pretende ser una herramienta importante para actuar en esta dirección socializando la alimentación. La democracia alimentaria permitirá responder al triple reto\nal que nos enfrentamos: el medio ambiente, el trabajo y la alimentación.",
+    "de": "Die Soziale Sicherheit der Ernährung (SSA) zielt darauf ab, die Ernährung in das allgemeine System der Sozialen Sicherheit zu integrieren, wie es\nwie es 1946 initiiert wurde: universeller Zugang, demokratisch verwaltete lokale Kassen und Finanzierung durch die Einführung eines\nSozialbeitrags finanziert wird. Heute ist es notwendig, dass wir unser gesamtes Lebensmittelsystem in Richtung eines Modells reformieren, das die Umwelt, die Bedürfnisse der Arbeitnehmer und der Esser respektiert. Die Sozialversicherung für Lebensmittel soll ein wichtiges Instrument sein, um durch die Sozialisierung der Lebensmittel in diese Richtung zu wirken. Die Ernährungsdemokratie wird dazu beitragen, die drei folgenden Probleme zu lösen\nHerausforderungen, denen wir gegenüberstehen: Umwelt, Arbeit und Ernährung."
+  },
   "field": [
     "other-social-sciences-and-humanities",
     "economics-statistics",
@@ -23,7 +28,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Sécurité Sociale de l'alimentation",
+  "name": {
+    "fr": "Sécurité Sociale de l'alimentation",
+    "en": "Social security for food",
+    "es": "Seguridad social alimentaria",
+    "de": "Soziale Sicherheit von Lebensmitteln"
+  },
   "pubId": 437252,
   "score": 616.9000000000035,
   "state": "ongoing-project",
@@ -60,28 +70,5 @@
   ],
   "url": "https://securite-sociale-alimentation.org/la-ssa/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1681467677,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1681467677,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

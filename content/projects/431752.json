@@ -13,13 +13,24 @@
   ],
   "createdAt": 1691725182,
   "date": null,
-  "description": "Tahitian Tasty est une entreprise familiale innovante de grossiste en alimentation, en Polynésie française. L'entreprise est pionnière sur ce territoire dans la valorisation des produits locaux sous formes de farines et de chips de tubercules ou encore de fruits tropicaux séchés, qui étaient jusqu'alors importés depuis l'étranger. L'objectif de l'entreprise est de valoriser la production alimentaire locale à une échelle industrielle, et en respectant les cycles naturels des produits, en faisant ainsi un pas de côté vis-à-vis des normes de standardisation imposées dans le champ de l'agroalimentaire industriel classique.",
+  "description": {
+    "fr": "Tahitian Tasty est une entreprise familiale innovante de grossiste en alimentation, en Polynésie française. L'entreprise est pionnière sur ce territoire dans la valorisation des produits locaux sous formes de farines et de chips de tubercules ou encore de fruits tropicaux séchés, qui étaient jusqu'alors importés depuis l'étranger. L'objectif de l'entreprise est de valoriser la production alimentaire locale à une échelle industrielle, et en respectant les cycles naturels des produits, en faisant ainsi un pas de côté vis-à-vis des normes de standardisation imposées dans le champ de l'agroalimentaire industriel classique.",
+    "en": "Tahitian Tasty is an innovative family-run food wholesaler in French Polynesia. The company is a pioneer in this territory in the valorization of local products in the form of tuber flours and chips or dried tropical fruits, which were previously imported from abroad. The company's aim is to enhance the value of local food production on an industrial scale, while respecting the natural cycles of the products, thus taking a step away from the standardization standards imposed in the field of traditional industrial agri-food.",
+    "es": "Tahitian Tasty es una innovadora empresa familiar mayorista de alimentos de la Polinesia Francesa. La empresa es pionera en la Polinesia Francesa en el desarrollo de productos locales en forma de harinas de tubérculos y patatas fritas y frutas tropicales deshidratadas, que antes se importaban del extranjero. El objetivo de la empresa es añadir valor a la producción alimentaria local a escala industrial, respetando los ciclos naturales de los productos, alejándose así de las normas de estandarización impuestas en el sector agroalimentario industrial tradicional.",
+    "de": "Tahitian Tasty ist ein innovatives Familienunternehmen, das als Lebensmittelgroßhändler in Französisch-Polynesien tätig ist. Das Unternehmen leistet in diesem Gebiet Pionierarbeit bei der Verwertung lokaler Produkte in Form von Mehl und Chips aus Knollen oder auch getrockneten tropischen Früchten, die bislang aus dem Ausland importiert wurden. Das Ziel des Unternehmens ist es, die lokale Lebensmittelproduktion in industriellem Maßstab und unter Berücksichtigung der natürlichen Produktzyklen zu verwerten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "fr",
   "location": "Polynésie française",
-  "name": "Tahitian Tasty",
+  "name": {
+    "id": "Tahitian Tasty",
+    "en": "Tahitian Tasty",
+    "fr": "Le goût tahitien",
+    "es": "Sabroso tahitiano",
+    "de": "Tahitianisch schmackhaft"
+  },
   "pubId": 431752,
   "score": -2255.4150537776,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://www.facebook.com/profile.php?id=100063792960315",
   "yt": "",
-  "zone": [
-    3,
-    6
-  ]
+  "originalLang": "fr"
 }

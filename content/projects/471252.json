@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754663724,
   "date": null,
-  "description": "Infinity Foods is a workers' cooperative based on the south coast of England, specializing in organic and natural whole foods, as well as ethical products. Founded in 1971, the cooperative aims to provide high-quality, affordable food while fostering strong relationships with suppliers and customers. With a commitment to ethical sourcing and sustainability, Infinity Foods prioritizes community engagement and employee welfare, ensuring that all members have a vested interest in the business's success.",
+  "description": {
+    "en": "Infinity Foods is a worker cooperative on the south coast of England specializing in organic and natural wholefoods and ethical products. Founded in 1971, the co-operative aims to provide affordable, high quality food, while fostering strong relationships with suppliers and customers. Committed to ethical sourcing and sustainability, Infinity Foods prioritizes community engagement and employee welfare, ensuring that all members have a vested interest in the success of the business.",
+    "fr": "Infinity Foods est une coopérative de travailleurs située sur la côte sud de l'Angleterre, spécialisée dans les aliments complets biologiques et naturels et les produits éthiques. Fondée en 1971, la coopérative a pour objectif de fournir des produits alimentaires abordables et de haute qualité, tout en favorisant des relations solides avec les fournisseurs et les clients. Attachée à l'approvisionnement éthique et au développement durable, Infinity Foods donne la priorité à l'engagement communautaire et au bien-être de ses employés, en veillant à ce que tous les membres aient un intérêt direct dans la réussite de l'entreprise.",
+    "es": "Infinity Foods es una cooperativa de trabajadores de la costa sur de Inglaterra especializada en alimentos integrales ecológicos y naturales, así como en productos éticos. Fundada en 1971, la cooperativa aspira a ofrecer alimentos asequibles y de alta calidad, fomentando al mismo tiempo relaciones sólidas con proveedores y clientes. Infinity Foods, comprometida con el abastecimiento ético y la sostenibilidad, da prioridad al compromiso con la comunidad y al bienestar de los empleados, garantizando que todos los miembros tengan un interés personal en el éxito de la empresa.",
+    "de": "Infinity Foods ist eine an der Südküste Englands ansässige Arbeitergenossenschaft, die sich auf organische und natürliche Vollwertkost sowie auf ethische Produkte spezialisiert hat. Die 1971 gegründete Genossenschaft hat sich zum Ziel gesetzt, hochwertige, erschwingliche Lebensmittel zu liefern und dabei starke Beziehungen zu Lieferanten und Kunden aufzubauen. Mit einem Bekenntnis zu ethischer Beschaffung und Nachhaltigkeit priorisiert Infinity Foods das Engagement der Gemeinschaft und das Wohlbefinden der Mitarbeiter, um sicherzustellen, dass alle Mitglieder ein echtes Interesse am Erfolg des Unternehmens haben."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Infinity Foods",
+  "name": {
+    "en": "Infinity Foods",
+    "fr": "Infinity Foods",
+    "es": "Infinity Foods",
+    "de": "Infinity Foods"
+  },
   "pubId": 471252,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755263082,
   "date": null,
-  "description": "The initiative, La Brasserie de l'Etre, focuses on producing high-quality beverages like beer, kombucha, and lemonade while fostering a collaborative network of local artisans. The Kaamelott project aims to support craftspeople by pooling resources and expertise, enhancing sustainability and resilience in food production. Through cultural events and community engagement, the initiative promotes happiness and self-sufficiency, striving to create a vibrant, interconnected local economy in Paris.  ",
+  "description": {
+    "en": "The initiative, La Brasserie de l'Etre, focuses on producing high-quality beverages like beer, kombucha, and lemonade while fostering a collaborative network of local artisans. The Kaamelott project aims to support craftspeople by pooling resources and expertise, enhancing sustainability and resilience in food production. Through cultural events and community engagement, the initiative promotes happiness and self-sufficiency, striving to create a vibrant, interconnected local economy in Paris.  ",
+    "fr": "L'initiative, La Brasserie de l'Etre, se concentre sur la production de boissons de haute qualité comme la bière, le kombucha et la limonade tout en encourageant un réseau collaboratif d'artisans locaux. Le projet Kaamelott vise à soutenir les artisans en mettant en commun les ressources et l'expertise, en améliorant la durabilité et la résilience de la production alimentaire. Grâce à des événements culturels et à l'engagement de la communauté, l'initiative promeut le bonheur et l'autosuffisance, s'efforçant de créer une économie locale dynamique et interconnectée à Paris.  ",
+    "es": "La iniciativa, La Brasserie de l'Etre, se centra en la producción de bebidas de alta calidad como cerveza, kombucha y limonada, al tiempo que fomenta una red de colaboración de artesanos locales. El proyecto Kaamelott pretende apoyar a los artesanos mediante la puesta en común de recursos y conocimientos, mejorando la sostenibilidad y la resistencia en la producción de alimentos. Mediante actos culturales y la participación de la comunidad, la iniciativa fomenta la felicidad y la autosuficiencia, esforzándose por crear una economía local vibrante e interconectada en París.  ",
+    "de": "Die Initiative \"La Brasserie de l'Etre\" konzentriert sich auf die Herstellung von hochwertigen Getränken wie Bier, Kombucha und Limonade und fördert gleichzeitig ein kollaboratives Netzwerk von lokalen Handwerkern. Das Kaamelott-Projekt zielt darauf ab, Handwerker durch die Bündelung von Ressourcen und Fachwissen zu unterstützen und die Nachhaltigkeit und Widerstandsfähigkeit der Lebensmittelproduktion zu verbessern. Durch kulturelle Veranstaltungen und gemeinschaftliches Engagement fördert die Initiative Glück und Selbstversorgung und strebt danach, eine lebendige, vernetzte lokale Wirtschaft in Paris zu schaffen.  "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Brasserie de l'Etre",
+  "name": {
+    "fr": "La Brasserie de l'Etre",
+    "en": "La Brasserie de l'Etre",
+    "es": "La Brasserie de l'Etre",
+    "de": "Die Brasserie de l'Etre"
+  },
   "pubId": 499252,
   "score": -178.35259210208918,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

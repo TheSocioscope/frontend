@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755093546,
   "date": null,
-  "description": "The Dosojin project focuses on producing and distributing high-quality, organic Peruvian tea. The project emphasizes the use of 100% natural ingredients without additives, offering a product that is both artisanal and beneficial for health, including anti-cancer properties and digestive support. The company aims to educate consumers about the value of Peruvian tea, which has historical significance and is often misunderstood in the market. They differentiate themselves from competitors by providing a product that is free from microplastics and chemical additives, using a higher quantity of tea leaves for a more subtle flavor profile. The tea is sourced from reliable suppliers in Cusco and Arequipa, ensuring quality and sustainability through organic farming practices.",
+  "description": {
+    "en": "The Dosojin project focuses on producing and distributing high-quality, organic Peruvian tea. The project emphasizes the use of 100% natural ingredients without additives, offering a product that is both artisanal and beneficial for health, including anti-cancer properties and digestive support. The company aims to educate consumers about the value of Peruvian tea, which has historical significance and is often misunderstood in the market. They differentiate themselves from competitors by providing a product that is free from microplastics and chemical additives, using a higher quantity of tea leaves for a more subtle flavor profile. The tea is sourced from reliable suppliers in Cusco and Arequipa, ensuring quality and sustainability through organic farming practices.",
+    "fr": "Le projet Dosojin se concentre sur la production et la distribution de thé péruvien biologique de haute qualité. Le projet met l'accent sur l'utilisation d'ingrédients 100 % naturels sans additifs, offrant ainsi un produit à la fois artisanal et bénéfique pour la santé, avec notamment des propriétés anticancéreuses et un soutien digestif. L'entreprise vise à sensibiliser les consommateurs à la valeur du thé péruvien, qui a une importance historique et est souvent mal compris sur le marché. Elle se différencie de ses concurrents en proposant un produit exempt de microplastiques et d'additifs chimiques, et en utilisant une plus grande quantité de feuilles de thé pour un profil de saveur plus subtil. Le thé provient de fournisseurs fiables de Cusco et d'Arequipa, qui garantissent la qualité et la durabilité grâce à des pratiques agricoles biologiques.",
+    "es": "El proyecto Dosojin se centra en la producción y distribución de té peruano ecológico de alta calidad. El proyecto hace hincapié en el uso de ingredientes 100% naturales sin aditivos, ofreciendo un producto que es a la vez artesanal y beneficioso para la salud, incluyendo propiedades anticancerígenas y apoyo digestivo. La empresa pretende educar a los consumidores sobre el valor del té peruano, que tiene un significado histórico y a menudo se malinterpreta en el mercado. Se diferencian de sus competidores por ofrecer un producto sin microplásticos ni aditivos químicos, que utiliza una mayor cantidad de hojas de té para conseguir un perfil de sabor más sutil. El té procede de proveedores fiables de Cusco y Arequipa, que garantizan la calidad y la sostenibilidad mediante prácticas de agricultura ecológica.",
+    "de": "Das Dosojin-Projekt konzentriert sich auf die Herstellung und den Vertrieb von hochwertigem, biologischem peruanischem Tee. Das Projekt legt Wert auf die Verwendung von 100 % natürlichen Zutaten ohne Zusatzstoffe und bietet ein Produkt an, das sowohl handwerklich hergestellt als auch gesundheitsfördernd ist und unter anderem krebshemmend und verdauungsfördernd wirkt. Das Unternehmen möchte die Verbraucher über den Wert des peruanischen Tees aufklären, der eine historische Bedeutung hat und auf dem Markt oft missverstanden wird. Das Unternehmen hebt sich von seinen Mitbewerbern ab, indem es ein Produkt anbietet, das frei von Mikroplastik und chemischen Zusätzen ist und eine größere Menge an Teeblättern für ein subtileres Geschmacksprofil verwendet. Der Tee wird von zuverlässigen Lieferanten in Cusco und Arequipa bezogen, die durch ökologische Anbaumethoden Qualität und Nachhaltigkeit gewährleisten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Dosojin",
+  "name": {
+    "en": "Dosojin",
+    "fr": "Dosojin",
+    "es": "Dosojin",
+    "de": "Dosojin"
+  },
   "pubId": 498252,
   "score": 66.20000000000023,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "LVD7l6Y2lwA",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1760067239,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1760067239
     }
   ],
-  "lastEvent": {
-    "at": 1760067239,
-    "by": "contact"
-  },
   "updatedAt": [
     1760067239
-  ]
+  ],
+  "originalLang": "fr"
 }

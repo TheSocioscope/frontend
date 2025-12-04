@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754986767,
   "date": null,
-  "description": "Sembrando Confianza (Sowing Confidence) is an agro-ecological market initiated by the Colombian-French foundation Project Without Borders. Established in 2012, it connects small farmers from Bogotá, Cundinamarca, and Boyacá with consumers, promoting sustainable practices and fair pricing. The initiative focuses on selling fresh and processed products made by local farmers, fostering community support and environmental care. Through its online platform, Sowing Confidence aims to enhance food accessibility while empowering local producers.",
+  "description": {
+    "en": "Sembrando Confianza (Sowing Confidence) is an agro-ecological market initiated by the Colombian-French foundation Project Without Borders. Established in 2012, it connects small farmers from Bogotá, Cundinamarca, and Boyacá with consumers, promoting sustainable practices and fair pricing. The initiative focuses on selling fresh and processed products made by local farmers, fostering community support and environmental care. Through its online platform, Sowing Confidence aims to enhance food accessibility while empowering local producers.",
+    "fr": "Sembrando Confianza (Semer la confiance) est un marché agro-écologique initié par la fondation colombo-française Projet sans frontières. Créé en 2012, il met en relation les petits agriculteurs de Bogotá, Cundinamarca et Boyacá avec les consommateurs, en promouvant des pratiques durables et des prix équitables. L'initiative se concentre sur la vente de produits frais et transformés fabriqués par des agriculteurs locaux, encourageant le soutien de la communauté et la protection de l'environnement. Grâce à sa plateforme en ligne, Sowing Confidence vise à améliorer l'accessibilité des aliments tout en renforçant les capacités des producteurs locaux.",
+    "es": "Sembrando Confianza es un mercado agroecológico puesto en marcha por la fundación colombo-francesa Proyecto Sin Fronteras. Creado en 2012, conecta a pequeños agricultores de Bogotá, Cundinamarca y Boyacá con los consumidores, promoviendo prácticas sostenibles y precios justos. La iniciativa se centra en la venta de productos frescos y procesados elaborados por agricultores locales, fomentando el apoyo a la comunidad y el cuidado del medio ambiente. A través de su plataforma en línea, Sembrando Confianza pretende mejorar la accesibilidad de los alimentos al tiempo que empodera a los productores locales.",
+    "de": "Sembrando Confianza (Vertrauen säen) ist ein agro-ökologischer Markt, der von der kolumbianisch-französischen Stiftung Projekt ohne Grenzen initiiert wurde. Er wurde 2012 gegründet und bringt Kleinbauern aus Bogotá, Cundinamarca und Boyacá mit Verbrauchern zusammen, um nachhaltige Praktiken und faire Preise zu fördern. Die Initiative konzentriert sich auf den Verkauf frischer und verarbeiteter Produkte, die von lokalen Landwirten hergestellt werden, und fördert die Unterstützung der Gemeinschaft und den Schutz der Umwelt. Mit ihrer Online-Plattform will Sowing Confidence die Zugänglichkeit von Lebensmitteln verbessern und gleichzeitig die lokalen Erzeuger stärken."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Sembrando Confianza",
+  "name": {
+    "it": "Sembrando Confianza",
+    "en": "Seeming Confianza",
+    "fr": "Confiance apparente",
+    "es": "Confianza aparente",
+    "de": "Scheinbare Zuversicht"
+  },
   "pubId": 487752,
   "score": -178.5067219647047,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "it"
 }

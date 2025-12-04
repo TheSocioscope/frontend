@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754566873,
   "date": null,
-  "description": "Slow Food is a global grassroots organization dedicated to promoting access to good, clean, and fair food. Founded in 1989 in Italy and established in Uganda in 2015, it focuses on defending biodiversity, educating communities about sustainable food systems, and advocating for fair practices. Through various initiatives, including community gardens, farmers' markets, and local food alliances, Slow Food empowers smallholder farmers and fosters a culture of responsible consumption and agroecology.",
+  "description": {
+    "en": "Slow Food is a global grassroots organization dedicated to promoting access to good, clean and fair food. Founded in 1989 in Italy and established in Uganda in 2015, it focuses on defending biodiversity, educating communities about sustainable food systems and advocating for fair practices. Through various initiatives, such as community gardens, farmers' markets and local food alliances, Slow Food empowers smallholder farmers and fosters a culture of responsible consumption and agroecology.",
+    "fr": "Slow Food est une organisation mondiale de base qui se consacre à la promotion de l'accès à une alimentation bonne, propre et juste. Fondée en 1989 en Italie et établie en Ouganda en 2015, elle se concentre sur la défense de la biodiversité, l'éducation des communautés aux systèmes alimentaires durables et le plaidoyer pour des pratiques équitables. Grâce à diverses initiatives, telles que les jardins communautaires, les marchés de producteurs et les alliances alimentaires locales, Slow Food renforce les petits agriculteurs et promeut une culture de la consommation responsable et de l'agroécologie.",
+    "es": "Slow Food es una organización mundial de base dedicada a promover el acceso a alimentos buenos, limpios y justos. Fundada en 1989 en Italia y establecida en Uganda en 2015, se centra en defender la biodiversidad, educar a las comunidades sobre sistemas alimentarios sostenibles y abogar por prácticas justas. A través de diversas iniciativas, como huertos comunitarios, mercados de agricultores y alianzas alimentarias locales, Slow Food empodera a los pequeños agricultores y fomenta una cultura de consumo responsable y agroecología.",
+    "de": "Slow Food ist eine globale Graswurzel-Organisation, die sich der Förderung des Zugangs zu guten, sauberen und fairen Lebensmitteln widmet. Die 1989 in Italien gegründete und 2015 in Uganda gegründete Organisation konzentriert sich auf den Schutz der biologischen Vielfalt, die Aufklärung der Bevölkerung über nachhaltige Lebensmittelsysteme und die Förderung fairer Praktiken. Durch verschiedene Initiativen, darunter Gemeinschaftsgärten, Bauernmärkte und lokale Lebensmittelbündnisse, stärkt Slow Food Kleinbauern und fördert eine Kultur des verantwortungsbewussten Konsums und der Agrarökologie."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Slow Food Uganda",
+  "name": {
+    "en": "Slow Food Uganda",
+    "fr": "Slow Food Uganda",
+    "es": "Slow Food Uganda",
+    "de": "Slow Food Uganda"
+  },
   "pubId": 462552,
   "score": -48.16472956592904,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

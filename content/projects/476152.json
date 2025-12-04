@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754647296,
   "date": null,
-  "description": "Bella Farm is an innovative initiative in Kenya focused on beekeeping and the production of natural honey and its byproducts. Motivated by the prevalence of adulterated honey in the market, the project aims to provide pure, healthy alternatives while educating the community about the benefits of bees. Bella Farm also specializes in apitherapy, utilizing bee venom for therapeutic purposes, and collaborates with government and medical facilities to promote awareness and training in sustainable beekeeping practices.",
+  "description": {
+    "en": "Bella Farm is an innovative initiative in Kenya focused on beekeeping and the production of natural honey and its derivatives. Motivated by the prevalence of adulterated honey in the market, the project aims to provide pure and healthy alternatives, while educating the community about the benefits of bees. Bella Farm also specializes in apitherapy, using bee venom for therapeutic purposes, and collaborates with government and medical centers to promote awareness and training in sustainable beekeeping practices.",
+    "fr": "Bella Farm est une initiative innovante au Kenya qui se concentre sur l'apiculture et la production de miel naturel et de produits à base de miel. Motivé par la prévalence du miel frelaté sur le marché, le projet vise à fournir des alternatives pures et saines, tout en éduquant la communauté sur les avantages des abeilles. Bella Farm est également spécialisée dans l'apithérapie, c'est-à-dire l'utilisation du venin d'abeille à des fins thérapeutiques, et collabore avec le gouvernement et les centres médicaux pour promouvoir la sensibilisation et la formation aux pratiques apicoles durables.",
+    "es": "Bella Farm es una iniciativa innovadora en Kenia centrada en la apicultura y la producción de miel natural y sus derivados. Motivado por la prevalencia de miel adulterada en el mercado, el proyecto pretende ofrecer alternativas puras y saludables, al tiempo que educa a la comunidad sobre los beneficios de las abejas. Bella Farm también se especializa en apiterapia, utilizando el veneno de las abejas con fines terapéuticos, y colabora con el gobierno y centros médicos para promover la concienciación y la formación en prácticas apícolas sostenibles.",
+    "de": "Bella Farm ist eine innovative Initiative in Kenia, die sich auf die Bienenhaltung und die Produktion von natürlichem Honig und seinen Nebenprodukten konzentriert. Motiviert durch die Verbreitung von gepanschtem Honig auf dem Markt, zielt das Projekt darauf ab, reine, gesunde Alternativen anzubieten und gleichzeitig die Gemeinschaft über die Vorteile von Bienen aufzuklären. Bella Farm ist auch auf Apitherapy spezialisiert, bei der Bienengift für therapeutische Zwecke verwendet wird, und arbeitet mit Regierungs- und medizinischen Einrichtungen zusammen, um das Bewusstsein und die Ausbildung in nachhaltigen Bienenpflegepraktiken zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Bella Farm",
+  "name": {
+    "it": "Bella Farm",
+    "en": "Bella Farm",
+    "fr": "Ferme Bella",
+    "es": "Granja Bella",
+    "de": "Bella Farm"
+  },
   "pubId": 476152,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

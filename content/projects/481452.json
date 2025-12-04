@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754994812,
   "date": null,
-  "description": "Mano Verde is an environmental consultancy, focused on minimizing ecological impacts across various sectors, including industry, tourism, and construction. The initiative emphasizes sustainable development, climate change adaptation, and circular economy practices. With a commitment to social and environmental responsibility, Mano Verde aims to educate and engage communities while providing innovative solutions for waste management and carbon footprint reduction. The organization also collaborates with academic institutions and local governments to enhance sustainability efforts.",
+  "description": {
+    "en": "Mano Verde is an environmental consultancy, focused on minimizing ecological impacts across various sectors, including industry, tourism, and construction. The initiative emphasizes sustainable development, climate change adaptation, and circular economy practices. With a commitment to social and environmental responsibility, Mano Verde aims to educate and engage communities while providing innovative solutions for waste management and carbon footprint reduction. The organization also collaborates with academic institutions and local governments to enhance sustainability efforts.",
+    "fr": "Mano Verde est un cabinet de conseil en environnement qui s'attache à minimiser les impacts écologiques dans divers secteurs, notamment l'industrie, le tourisme et la construction. L'initiative met l'accent sur le développement durable, l'adaptation au changement climatique et les pratiques d'économie circulaire. Avec un engagement de responsabilité sociale et environnementale, Mano Verde vise à éduquer et à engager les communautés tout en fournissant des solutions innovantes pour la gestion des déchets et la réduction de l'empreinte carbone. L'organisation collabore également avec des institutions académiques et des gouvernements locaux pour renforcer les efforts de durabilité.",
+    "es": "Mano Verde es una consultora medioambiental centrada en minimizar el impacto ecológico en diversos sectores, como la industria, el turismo y la construcción. La iniciativa hace hincapié en el desarrollo sostenible, la adaptación al cambio climático y las prácticas de economía circular. Con un compromiso de responsabilidad social y medioambiental, Mano Verde pretende educar e implicar a las comunidades al tiempo que ofrece soluciones innovadoras para la gestión de residuos y la reducción de la huella de carbono. La organización también colabora con instituciones académicas y gobiernos locales para mejorar los esfuerzos de sostenibilidad.",
+    "de": "Mano Verde ist ein Umweltberatungsunternehmen, das sich auf die Minimierung ökologischer Auswirkungen in verschiedenen Sektoren, einschließlich Industrie, Tourismus und Bauwesen, konzentriert. Die Initiative legt den Schwerpunkt auf nachhaltige Entwicklung, Anpassung an den Klimawandel und Praktiken der Kreislaufwirtschaft. Mit seinem Engagement für soziale und ökologische Verantwortung will Mano Verde Gemeinden aufklären und einbinden und gleichzeitig innovative Lösungen für das Abfallmanagement und die Reduzierung des CO2-Fußabdrucks anbieten. Die Organisation arbeitet auch mit akademischen Einrichtungen und lokalen Behörden zusammen, um die Bemühungen um Nachhaltigkeit zu verbessern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Mano Verde",
+  "name": {
+    "pt": "Mano Verde",
+    "en": "Mano Verde",
+    "fr": "Mano Verde",
+    "es": "Mano Verde",
+    "de": "Mano Verde"
+  },
   "pubId": 481452,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -43,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

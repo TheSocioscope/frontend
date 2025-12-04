@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754647948,
   "date": null,
-  "description": "Lizsa Farmer Service Centre, founded in March 2023, aims to empower young mothers in Makwene County through the cultivation and value addition of the drought-tolerant Nyota bean. The initiative focuses on improving nutrition and income for farmers by providing training, certified seeds, and various products, including pre-cooked beans and bean flour. By promoting regenerative agriculture and innovative farming techniques, Lisa seeks to enhance food security and economic opportunities in the community.",
+  "description": {
+    "en": "Lizsa Farmer Service Centre, founded in March 2023, aims to empower young mothers in Makwene County through the cultivation and value addition of the drought tolerant Nyota bean. The initiative focuses on improving the nutrition and income of farmers by providing them with training, certified seeds and various products such as pre-cooked beans and bean flour. By promoting regenerative agriculture and innovative farming techniques, Lisa aims to improve food security and economic opportunities for the community.",
+    "fr": "Le Lizsa Farmer Service Centre, fondé en mars 2023, vise à autonomiser les jeunes mères du comté de Makwene grâce à la culture et à la valorisation du haricot Nyota, tolérant à la sécheresse. L'initiative se concentre sur l'amélioration de la nutrition et des revenus des agriculteurs en leur fournissant une formation, des semences certifiées et divers produits tels que des haricots précuits et de la farine de haricot. En promouvant une agriculture régénératrice et des techniques agricoles innovantes, Lisa vise à améliorer la sécurité alimentaire et les opportunités économiques pour la communauté.",
+    "es": "Lizsa Farmer Service Centre, fundado en marzo de 2023, pretende empoderar a las madres jóvenes del condado de Makwene mediante el cultivo y el valor añadido de la judía Nyota, tolerante a la sequía. La iniciativa se centra en mejorar la nutrición y los ingresos de los agricultores proporcionándoles formación, semillas certificadas y diversos productos, como alubias precocinadas y harina de alubias. Mediante la promoción de la agricultura regenerativa y de técnicas agrícolas innovadoras, Lisa pretende mejorar la seguridad alimentaria y las oportunidades económicas de la comunidad.",
+    "de": "Das im März 2023 gegründete Lizsa Farmer Service Centre zielt darauf ab, junge Mütter in Makwene County durch den Anbau und die Wertschöpfung der trostlosen Nyota-Banane zu stärken. Die Initiative konzentriert sich auf die Verbesserung der Ernährung und des Einkommens von Landwirten durch die Bereitstellung von Schulungen, zertifiziertem Saatgut und verschiedenen Produkten, darunter vorgekochte Beans und Bean Flour. Durch die Förderung der regenerativen Landwirtschaft und innovativer Anbautechniken will Lisa die Ernährungssicherheit und die wirtschaftlichen Chancen in der Gemeinde verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Lizsa Farmer Service Centre",
+  "name": {
+    "en": "Lizsa Farmer Service Centre",
+    "fr": "Lizsa Farmer Service Centre",
+    "es": "Centro de servicios Lizsa Farmer",
+    "de": "Lizsa Farmer Service Centre"
+  },
   "pubId": 476752,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

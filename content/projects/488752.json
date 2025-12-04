@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754988122,
   "date": null,
-  "description": "The initiative, Casa Luker, aims to transform the cocoa value chain in Colombia by enhancing the livelihoods of cocoa-producing families. Established by Luker, a family-owned company, it focuses on sustainability through economic diversification, educational programs, and community engagement. The initiative promotes fair pricing, environmental practices, and social well-being, ensuring that cocoa farmers thrive while preserving their ecosystems. By collaborating with various stakeholders, it seeks to create shared value and long-term impact in rural communities.",
+  "description": {
+    "en": "The initiative, Casa Luker, aims to transform the cocoa value chain in Colombia by enhancing the livelihoods of cocoa-producing families. Established by Luker, a family-owned company, it focuses on sustainability through economic diversification, educational programs, and community engagement. The initiative promotes fair pricing, environmental practices, and social well-being, ensuring that cocoa farmers thrive while preserving their ecosystems. By collaborating with various stakeholders, it seeks to create shared value and long-term impact in rural communities.",
+    "fr": "L'initiative Casa Luker vise à transformer la chaîne de valeur du cacao en Colombie en améliorant les moyens de subsistance des familles productrices de cacao. Créée par Luker, une entreprise familiale, elle se concentre sur la durabilité grâce à la diversification économique, aux programmes éducatifs et à l'engagement communautaire. L'initiative promeut des prix équitables, des pratiques environnementales et le bien-être social, en veillant à ce que les producteurs de cacao prospèrent tout en préservant leurs écosystèmes. En collaborant avec diverses parties prenantes, elle cherche à créer une valeur partagée et un impact à long terme dans les communautés rurales.",
+    "es": "La iniciativa, Casa Luker, pretende transformar la cadena de valor del cacao en Colombia mejorando los medios de subsistencia de las familias productoras. Creada por Luker, una empresa familiar, se centra en la sostenibilidad a través de la diversificación económica, los programas educativos y la participación de la comunidad. La iniciativa promueve precios justos, prácticas medioambientales y bienestar social, garantizando que los cacaocultores prosperen al tiempo que preservan sus ecosistemas. Mediante la colaboración con diversas partes interesadas, busca crear valor compartido e impacto a largo plazo en las comunidades rurales.",
+    "de": "Die Initiative Casa Luker zielt darauf ab, die Kakao-Wertschöpfungskette in Kolumbien zu verändern, indem sie den Lebensunterhalt von Kakao produzierenden Familien verbessert. Sie wurde von Luker, einem Familienunternehmen, gegründet und konzentriert sich auf Nachhaltigkeit durch wirtschaftliche Diversifizierung, Bildungsprogramme und Engagement in der Gemeinde. Die Initiative fördert faire Preise, ökologische Praktiken und soziales Wohlergehen, um sicherzustellen, dass die Kakaobauern gedeihen und gleichzeitig ihre Ökosysteme erhalten bleiben. Durch die Zusammenarbeit mit verschiedenen Interessengruppen soll ein gemeinsamer Wert und eine langfristige Wirkung in ländlichen Gemeinden geschaffen werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Casa Luker",
+  "name": {
+    "et": "Casa Luker",
+    "en": "Casa Luker",
+    "fr": "Casa Luker",
+    "es": "Casa Luker",
+    "de": "Haus Luker"
+  },
   "pubId": 488752,
   "score": 38.567116315788574,
   "state": "ongoing-project",
@@ -41,10 +52,6 @@
   ],
   "url": "",
   "yt": "r_RK6mcp3hc",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1760068348,
   "feedback": [
     {
@@ -52,11 +59,8 @@
       "at": 1760068348
     }
   ],
-  "lastEvent": {
-    "at": 1760068348,
-    "by": "contact"
-  },
   "updatedAt": [
     1760068348
-  ]
+  ],
+  "originalLang": "et"
 }

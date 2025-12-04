@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754424813,
   "date": null,
-  "description": "Alcaparras Argentinas is a cooperative based in Santiago del Estero, Argentina, founded in the 1990s by a renowned doctor. It unites 32 small producers to cultivate and process capers and gourmet products from local ingredients often discarded. The initiative emphasizes sustainability, innovation, and community support, transforming food waste into high-value products. With a focus on biotechnology and export, they aim to enhance local economies while addressing food insecurity in a region facing significant poverty challenges.",
+  "description": {
+    "en": "Alcaparras Argentinas is a cooperative based in Santiago del Estero, Argentina, founded in the 1990s by a renowned physician. It brings together 32 small producers to grow and process capers and gourmet products from often discarded local ingredients. The initiative emphasizes sustainability, innovation and community support, transforming food waste into high-value products. Focusing on biotechnology and export, they aim to improve local economies while addressing food insecurity in a region facing significant poverty issues.",
+    "fr": "Alcaparras Argentinas est une coopérative basée à Santiago del Estero (Argentine), fondée dans les années 1990 par un médecin renommé. Elle regroupe 32 petits producteurs qui cultivent et transforment des câpres et des produits gastronomiques à partir d'ingrédients locaux souvent mis au rebut. L'initiative met l'accent sur la durabilité, l'innovation et le soutien de la communauté, en transformant les déchets alimentaires en produits de grande valeur. En se concentrant sur la biotechnologie et l'exportation, elle vise à améliorer les économies locales tout en s'attaquant à l'insécurité alimentaire dans une région confrontée à d'importants problèmes de pauvreté.",
+    "es": "Alcaparras Argentinas es una cooperativa con sede en Santiago del Estero (Argentina), fundada en los años 90 por un médico de renombre. Reúne a 32 pequeños productores para cultivar y procesar alcaparras y productos gourmet a partir de ingredientes locales a menudo desechados. La iniciativa hace hincapié en la sostenibilidad, la innovación y el apoyo comunitario, transformando los residuos alimentarios en productos de alto valor. Centrándose en la biotecnología y la exportación, pretenden mejorar las economías locales al tiempo que abordan la inseguridad alimentaria en una región que se enfrenta a importantes problemas de pobreza.",
+    "de": "Alcaparras Argentinas ist eine Genossenschaft mit Sitz in Santiago del Estero, Argentinien, die in den 1990er Jahren von einem renommierten Arzt gegründet wurde. Sie vereint 32 Kleinbauern, die Kapern- und Gourmetprodukte aus lokalen Zutaten anbauen und verarbeiten, die oftmals in Vergessenheit geraten sind. Die Initiative legt Wert auf Nachhaltigkeit, Innovation und Unterstützung der Gemeinschaft und verwandelt Lebensmittelabfälle in hochwertige Produkte. With a focus on biotechnology and export, they aim to enhance local economies while addressing food insecurity in a region facing significant poverty challenges."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Alcaparras Argentinas",
+  "name": {
+    "es": "Alcaparras Argentinas",
+    "en": "Argentine Capers",
+    "fr": "Câpres argentines",
+    "de": "Argentinische Kapern"
+  },
   "pubId": 463452,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

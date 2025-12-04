@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754480448,
   "date": null,
-  "description": "Quinua de los Andes, founded by Juan Gabriel Castro Morante in 2010, is a family-run initiative based in Soracá, Boyacá. The company focuses on cultivating and transforming quinoa, an ancient Andean crop, into various products like arepas, breads, and biscuits. With a commitment to sustainability and healthy eating, Quinua de los Andes has gained visibility through partnerships and government initiatives, promoting the nutritional benefits of quinoa while supporting local agriculture and communities.",
+  "description": {
+    "en": "Quinua de los Andes, founded by Juan Gabriel Castro Morante in 2010, is a family initiative based in Soracá, Boyacá. The company is dedicated to cultivating and transforming quinoa, an ancient Andean crop, into various products such as arepas, breads and cookies. With a commitment to sustainability and healthy eating, Quinua de los Andes has gained visibility through partnerships and government initiatives, promoting the nutritional benefits of quinoa while supporting agriculture and local communities.",
+    "fr": "Quinua de los Andes, fondée par Juan Gabriel Castro Morante en 2010, est une initiative familiale basée à Soracá, Boyacá. L'entreprise se consacre à la culture et à la transformation du quinoa, une ancienne culture andine, en divers produits tels que des arepas, des pains et des biscuits. Engagée en faveur de la durabilité et d'une alimentation saine, Quinua de los Andes a gagné en visibilité grâce à des partenariats et à des initiatives gouvernementales, promouvant les avantages nutritionnels du quinoa tout en soutenant l'agriculture et les communautés locales.",
+    "es": "Quinua de los Andes, fundada por Juan Gabriel Castro Morante en 2010, es una iniciativa familiar con sede en Soracá, Boyacá. La empresa se dedica a cultivar y transformar la quinoa, un antiguo cultivo andino, en diversos productos como arepas, panes y galletas. Con un compromiso con la sostenibilidad y la alimentación sana, Quinua de los Andes ha ganado visibilidad a través de asociaciones e iniciativas gubernamentales, promoviendo los beneficios nutricionales de la quinoa y apoyando al mismo tiempo la agricultura y las comunidades locales.",
+    "de": "Quinua de los Andes wurde 2010 von Juan Gabriel Castro Morante gegründet und ist eine Familieninitiative mit Sitz in Soracá, Boyacá. Das Unternehmen konzentriert sich auf den Anbau und die Verarbeitung von Quinoa, einer alten andeanischen Kulturpflanze, in verschiedene Produkte wie Arepas, Brote und Kekse. Mit einem Bekenntnis zu Nachhaltigkeit und gesundem Essen hat Quinua de los Andes durch Partnerschaften und Regierungsinitiativen Sichtbarkeit erlangt und wirbt für die ernährungsphysiologischen Vorteile von Quinoa, während es gleichzeitig die lokale Landwirtschaft und die Gemeinden unterstützt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Quinua de los Andes",
+  "name": {
+    "es": "Quinua de los Andes",
+    "en": "Quinoa from the Andes",
+    "fr": "Quinoa des Andes",
+    "de": "Quinoa aus den Anden"
+  },
   "pubId": 467452,
   "score": -33.79562201221826,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

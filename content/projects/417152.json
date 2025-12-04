@@ -14,7 +14,12 @@
   "date": [
     "2021-09-18"
   ],
-  "description": " Lot. Opération « Le bonheur est dans nos fermes », un franc succès !\nLe 18 septembre 2021, nombreux ont été les Lotois à rendre visite aux agriculteurs du nord du Lot. En effet, la Communauté de communes Cauvaldor et la Chambre d’Agriculture du Lot ont organisé pour la première fois l’opération fermes ouvertes : « Le bonheur est dans nos fermes ». Dix exploitations participaient à l'opération et ouvraient leurs portes au public. Le métier d’agriculteur est plus qu’essentiel dans le projet alimentaire de territoire local et départemental.",
+  "description": {
+    "fr": " Lot. Opération « Le bonheur est dans nos fermes », un franc succès !\nLe 18 septembre 2021, nombreux ont été les Lotois à rendre visite aux agriculteurs du nord du Lot. En effet, la Communauté de communes Cauvaldor et la Chambre d’Agriculture du Lot ont organisé pour la première fois l’opération fermes ouvertes : « Le bonheur est dans nos fermes ». Dix exploitations participaient à l'opération et ouvraient leurs portes au public. Le métier d’agriculteur est plus qu’essentiel dans le projet alimentaire de territoire local et départemental.",
+    "en": " Lot. Operation \"Happiness is in our farms\" a resounding success!\nOn September 18, 2021, a large number of Lot residents visited farmers in the north of the Lot. For the first time, the Communauté de communes Cauvaldor and the Chambre d'Agriculture du Lot organized an open farm operation: \"Happiness is in our farms\". Ten farms took part, opening their doors to the public. Farming is an essential part of the local and departmental food project.",
+    "es": " Lote. Gran éxito de la operación \"La felicidad está en nuestras granjas\nEl 18 de septiembre de 2021, numerosos habitantes del Lot visitaron a los agricultores del norte del Lot. Por primera vez, la Mancomunidad de Municipios de Cauvaldor y la Cámara de Agricultura del Lot organizaron un evento de granjas abiertas llamado \"La felicidad está en nuestras granjas\". Participaron diez granjas que abrieron sus puertas al público. La agricultura es una parte esencial del proyecto alimentario local y departamental.",
+    "de": " Lot. Operation \"Le bonheur est dans nos fermes\", ein voller Erfolg!\nAm 18. September 2021 besuchten viele Lotbewohner die Landwirte im Norden des Departements Lot. Der Gemeindeverband Cauvaldor und die Landwirtschaftskammer des Departements Lot organisierten nämlich zum ersten Mal die Aktion \"Le bonheur est dans nos fermes\" (Das Glück ist in unseren Bauernhöfen). Zehn Betriebe nahmen an der Aktion teil und öffneten ihre Türen für die Öffentlichkeit. Der Beruf des Landwirts ist für das lokale und departementale Ernährungsprojekt mehr als wichtig."
+  },
   "field": [
     "communication-and-media-studies",
     "education-sciences",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "Lot, communauté de communes Cauvaldor",
-  "name": "\"Le bonheur est dans nos fermes\" : opération fermes ouvertes dans le Lot",
+  "name": {
+    "fr": "\"Le bonheur est dans nos fermes\" : opération fermes ouvertes dans le Lot",
+    "en": "\"Happiness is in our farms\": open farm operation in the Lot department",
+    "es": "\"La felicidad está en nuestras granjas\": explotación agrícola abierta en el departamento de Lot",
+    "de": "\"Das Glück liegt in unseren Bauernhöfen\": Operation offene Bauernhöfe im Departement Lot"
+  },
   "pubId": 417152,
   "score": 699.0460438596556,
   "state": "completed-project",
@@ -48,28 +58,5 @@
   ],
   "url": "https://actu.fr/economie/lot-operation-le-bonheur-est-dans-nos-fermes-un-franc-succes_45017315.html",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532567,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532567,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

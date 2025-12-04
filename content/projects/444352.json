@@ -13,13 +13,24 @@
   ],
   "createdAt": 1718289311,
   "date": null,
-  "description": "Organic Denmark (Økologisk Landsforening) is the premier organic food cluster in the country. Its members include organic farmers, food companies with organic products, and consumers across Denmark. With over 190 member companies, Organic Denmark represents virtually the entire organic food industry in the nation, promoting sustainability, advocating for organic standards, and supporting the growth and development of organic practices and products throughout Denmark, ensuring high quality and trust.",
+  "description": {
+    "en": "Organic Denmark (Økologisk Landsforening) is the main organic food group in the country. Its members include organic farmers, organic food companies and consumers from all over Denmark. With over 190 member companies, Organic Denmark represents virtually the entire organic food sector in the country, promoting sustainability, advocating organic standards and supporting the growth and development of organic practices and products throughout Denmark, ensuring high quality and trust.",
+    "fr": "Organic Denmark (Økologisk Landsforening) est le principal groupe d'alimentation biologique au Danemark. Ses membres sont des agriculteurs biologiques, des entreprises d'aliments biologiques et des consommateurs de tout le Danemark. Avec plus de 190 entreprises membres, Organic Denmark représente la quasi-totalité du secteur de l'alimentation biologique au Danemark. Il promeut le développement durable, défend les normes biologiques et soutient la croissance et le développement des pratiques et des produits biologiques dans tout le Danemark, en garantissant une qualité et une confiance élevées.",
+    "es": "Organic Denmark (Økologisk Landsforening) es la principal agrupación de alimentos ecológicos del país. Entre sus miembros hay agricultores ecológicos, empresas alimentarias con productos ecológicos y consumidores de toda Dinamarca. Con más de 190 empresas miembros, Organic Denmark representa prácticamente a todo el sector de la alimentación ecológica del país, promoviendo la sostenibilidad, defendiendo las normas ecológicas y apoyando el crecimiento y el desarrollo de prácticas y productos ecológicos en toda Dinamarca, garantizando una alta calidad y confianza.",
+    "de": "Organic Denmark (Økologisk Landsforening) ist der erste Bio-Lebensmittelcluster des Landes. Zu seinen Mitgliedern gehören organische Landwirte, Lebensmittelunternehmen mit organischen Produkten und Verbraucher in ganz Dänemark. Mit über 190 Mitgliedsunternehmen repräsentiert Organic Denmark praktisch die gesamte organische Lebensmittelindustrie des Landes, fördert die Nachhaltigkeit, setzt sich für organische Standards ein und unterstützt das Wachstum und die Entwicklung organischer Praktiken und Produkte in ganz Dänemark, um hohe Qualität und Vertrauen zu gewährleisten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Økologisk Landsforening",
+  "name": {
+    "da": "Økologisk Landsforening",
+    "en": "Organic National Association",
+    "fr": "Organisation écologique nationale",
+    "es": "Organización Ecológica Nacional",
+    "de": "Nationale ökologische Organisation"
+  },
   "pubId": 444352,
   "score": 368.499999999999,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

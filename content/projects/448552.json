@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739455102,
   "date": null,
-  "description": "The Food Click Living Lab initiative is a research project funded by the EU, aimed at transforming urban food systems towards greater sustainability in eight different cities, including Aarhus. The project is a collaboration between Aarhus Municipality, Aarhus University, and various stakeholders involved in the local food system. It has been running for three years and is set to conclude in 2027.\n\nThe initiative focuses on collecting and analyzing data to create and implement interventions that engage all stakeholders across the food value chain. The primary goals include changing consumer behavior, particularly reducing meat consumption, and connecting children with local farms to enhance their understanding of food sources and nature. The project emphasizes the importance of political support and community engagement for the sustainability of its interventions beyond the funding period",
+  "description": {
+    "en": "The Food Click Living Lab initiative is an EU-funded research project aimed at transforming urban food systems towards greater sustainability in eight different cities, including Aarhus. The project is a collaboration between the City of Aarhus, Aarhus University and various stakeholders in the local food system. The initiative focuses on collecting and analyzing data to create and implement interventions that involve all stakeholders in the food value chain. The main objectives are to change consumer behavior, in particular by reducing meat consumption, and to connect children with local farms to improve their understanding of food sources and nature. The project emphasizes the importance of political support and community engagement for the sustainability of its interventions beyond the funding period.",
+    "fr": "L'initiative Food Click Living Lab est un projet de recherche financé par l'UE visant à transformer les systèmes alimentaires urbains en vue d'une plus grande durabilité dans huit villes différentes, dont Aarhus. Le projet est le fruit d'une collaboration entre la ville d'Aarhus, l'université d'Aarhus et divers acteurs du système alimentaire local. L'initiative se concentre sur la collecte et l'analyse de données afin d'élaborer et de mettre en œuvre des interventions impliquant tous les acteurs de la chaîne de valeur alimentaire. Les principaux objectifs sont de modifier le comportement des consommateurs, notamment en réduisant la consommation de viande, et de mettre les enfants en contact avec les exploitations agricoles locales afin d'améliorer leur compréhension des sources d'alimentation et de la nature. Le projet souligne l'importance du soutien politique et de l'engagement communautaire pour la durabilité de ses interventions au-delà de la période de financement.",
+    "es": "La iniciativa Food Click Living Lab es un proyecto de investigación financiado por la UE cuyo objetivo es transformar los sistemas alimentarios urbanos hacia una mayor sostenibilidad en ocho ciudades diferentes, entre ellas Aarhus. El proyecto es fruto de la colaboración entre el Ayuntamiento de Aarhus, la Universidad de Aarhus y diversas partes interesadas del sistema alimentario local. Lleva tres años en marcha y concluirá en 2027.\n\nLa iniciativa se centra en la recopilación y el análisis de datos para crear y aplicar intervenciones que impliquen a todas las partes interesadas de la cadena de valor alimentaria. Los objetivos principales son cambiar el comportamiento de los consumidores, en particular reduciendo el consumo de carne, y conectar a los niños con las granjas locales para mejorar su comprensión de las fuentes de alimentos y la naturaleza. El proyecto hace hincapié en la importancia del apoyo político y el compromiso de la comunidad para la sostenibilidad de sus intervenciones más allá del periodo de financiación.",
+    "de": "Die Initiative Food Click Living Lab ist ein von der EU gefördertes Forschungsprojekt, das in acht verschiedenen Städten, darunter auch Aarhus, auf die Umwandlung städtischer Lebensmittelsysteme in Richtung größerer Nachhaltigkeit abzielt. Das Projekt ist eine Zusammenarbeit zwischen der Stadtverwaltung von Aarhus, der Universität Aarhus und verschiedenen Akteuren, die am lokalen Ernährungssystem beteiligt sind. Das Projekt läuft seit drei Jahren und soll 2027 abgeschlossen werden.\n\nDie Initiative konzentriert sich auf das Sammeln und Analysieren von Daten, um Interventionen zu entwickeln und umzusetzen, die alle Beteiligten entlang der Lebensmittelwertschöpfungskette einbeziehen. Zu den primären Zielen gehören die Veränderung des Verbraucherverhaltens, insbesondere die Reduzierung des Konsums, und die Verbindung von Kindern mit lokalen Bauernhöfen, um ihr Verständnis von Nahrungsmittelquellen und Natur zu verbessern. Das Projekt betont die Bedeutung von politischer Unterstützung und kommunalem Engagement für die Nachhaltigkeit seiner Maßnahmen über den Finanzierungszeitraum hinaus."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "FoodCLIC Living Lab",
+  "name": {
+    "en": "FoodCLIC Living Lab",
+    "fr": "FoodCLIC Living Lab",
+    "es": "Laboratorio viviente FoodCLIC",
+    "de": "FoodCLIC Living Lab"
+  },
   "pubId": 448552,
   "score": 139.90196078431356,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://foodclic.eu",
   "yt": "ioU1KdqXFM8",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

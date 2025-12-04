@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718362749,
   "date": null,
-  "description": "La Laiterie La Chapelle, située dans le 18ème arrondissement de Paris, se procure du lait dans le Val d'Oise, vers Pontoise, trois fois par semaine. Ce lait est transformé en produits laitiers et fromages au lait cru, vendus principalement à la laiterie et dans un petit réseau d'épiceries parisiennes.\n\nIls produisent une gamme variée comprenant du lait pasteurisé, des yaourts, des desserts (riz au lait, crème brûlée, crème chocolat), du fromage blanc, de la crème fraîche, et des fromages affinés au lait cru de vache. Parmi ces fromages, on trouve des thômes, un bleu, des fromages frais, des lactiques moins affinés, et des raquettes, qui sont emblématiques de leur gamme.\n\nLa laiterie propose également des ateliers pour les particuliers, où ils peuvent découvrir le métier de fromager et apprendre à fabriquer leurs propres fromages, lesquels sont affinés sur place pendant trois mois avant de pouvoir être récupérés.",
+  "description": {
+    "fr": "La Laiterie La Chapelle, située dans le 18ème arrondissement de Paris, se procure du lait dans le Val d'Oise, vers Pontoise, trois fois par semaine. Ce lait est transformé en produits laitiers et fromages au lait cru, vendus principalement à la laiterie et dans un petit réseau d'épiceries parisiennes.\n\nIls produisent une gamme variée comprenant du lait pasteurisé, des yaourts, des desserts (riz au lait, crème brûlée, crème chocolat), du fromage blanc, de la crème fraîche, et des fromages affinés au lait cru de vache. Parmi ces fromages, on trouve des thômes, un bleu, des fromages frais, des lactiques moins affinés, et des raquettes, qui sont emblématiques de leur gamme.\n\nLa laiterie propose également des ateliers pour les particuliers, où ils peuvent découvrir le métier de fromager et apprendre à fabriquer leurs propres fromages, lesquels sont affinés sur place pendant trois mois avant de pouvoir être récupérés.",
+    "en": "Laiterie La Chapelle, located in the 18th arrondissement of Paris, obtains milk from the Val d'Oise, near Pontoise, three times a week. This milk is transformed into raw-milk dairy products and cheeses, sold mainly at the dairy and in a small network of Paris grocery stores.\n\nThey produce a wide range of products including pasteurized milk, yoghurts, desserts (rice pudding, crème brûlée, crème chocolat), fromage frais, crème fraîche, and mature cheeses made from raw cow's milk. These cheeses include thômes, bleu, fromage frais, less mature lactic cheeses, and raquettes, which are emblematic of their range.\n\nThe dairy also offers workshops for individuals, where they can discover the cheese-making trade and learn how to make their own cheeses, which are matured on site for three months before being collected.",
+    "es": "La Laiterie La Chapelle, situada en el distrito 18 de París, obtiene su leche tres veces por semana en el Val d'Oise, cerca de Pontoise. Esta leche se transforma en productos lácteos de leche cruda y quesos, que se venden principalmente en la lechería y en una pequeña red de tiendas de comestibles de París.\n\nLa gama de productos es variada: leche pasteurizada, yogures, postres (arroz con leche, crème brûlée, crème chocolat), queso fresco, crème fraîche y quesos curados de leche cruda de vaca. Entre estos quesos destacan el thômes, el bleu, el fromage frais, los quesos lácteos menos curados y las raquetas, emblemáticas de su gama.\n\nLa quesería también ofrece talleres para particulares, donde pueden descubrir el oficio de quesero y aprender a elaborar sus propios quesos, que se maduran in situ durante tres meses antes de ser recogidos.",
+    "de": "Die Laiterie La Chapelle im 18. Arrondissement von Paris bezieht dreimal pro Woche Milch aus dem Val d'Oise in der Nähe von Pontoise. Diese Milch wird zu Milchprodukten und Rohmilchkäse verarbeitet, die hauptsächlich in der Molkerei und in einem kleinen Netz von Pariser Lebensmittelgeschäften verkauft werden.\n\nSie stellen ein vielfältiges Sortiment her, das pasteurisierte Milch, Joghurt, Desserts (Milchreis, Crème brûlée, Schokoladencreme), Quark, Crème fraîche und gereiften Käse aus roher Kuhmilch umfasst. Zu diesen Käsesorten gehören Thômes, ein Blauschimmelkäse, Frischkäse, weniger gereifte Milchsorten und Rackets, die sinnbildlich für ihr Sortiment stehen.\n\nDie Molkerei bietet auch Workshops für Privatpersonen an, in denen sie das Handwerk des Käsers kennenlernen und lernen können, wie sie ihren eigenen Käse herstellen, der vor Ort drei Monate lang reift, bevor er abgeholt werden kann."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Laiterie La Chapelle",
+  "name": {
+    "fr": "La Laiterie La Chapelle",
+    "en": "La Laiterie La Chapelle",
+    "es": "La Laiterie La Chapelle",
+    "de": "La Laiterie La Chapelle"
+  },
   "pubId": 444652,
   "score": 107.89999999999827,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "cTTeio-8hNo",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530038,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1739530038
     }
   ],
-  "lastEvent": {
-    "at": 1739530038,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530038
-  ]
+  ],
+  "originalLang": "fr"
 }

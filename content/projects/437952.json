@@ -13,13 +13,23 @@
   ],
   "createdAt": 1681331639,
   "date": null,
-  "description": "Nous sommes un supermarché collaboratif autogéré. Ouvert depuis 4 ans, avec environ 900 coopérateurs. Le principe est assez simple : vous prenez des parts sociales, devenez membre de la coopérative et vous devez donner 3 heures de bénévolat par mois pour faire les tâches récurrentes nécessaire au fonctionnement d'un magasin d'Alimentation. Produit bio à 90%. aussi bien des Fruits & Légumes, de l'épicerie salé, sucré, des laitages, des produits vegan, des produits d'hygiène, que vous avez eu la possibilité de choisir. Local et de saison le + possible. La prise de décision : une personne = une voix avec des coop's qui sont soit tirés au sort, soit élu.es et qui forment la coordination, lieu de décision. Et le tout avec le sourire  ;-)",
+  "description": {
+    "fr": "Nous sommes un supermarché collaboratif autogéré. Ouvert depuis 4 ans, avec environ 900 coopérateurs. Le principe est assez simple : vous prenez des parts sociales, devenez membre de la coopérative et vous devez donner 3 heures de bénévolat par mois pour faire les tâches récurrentes nécessaire au fonctionnement d'un magasin d'Alimentation. Produit bio à 90%. aussi bien des Fruits & Légumes, de l'épicerie salé, sucré, des laitages, des produits vegan, des produits d'hygiène, que vous avez eu la possibilité de choisir. Local et de saison le + possible. La prise de décision : une personne = une voix avec des coop's qui sont soit tirés au sort, soit élu.es et qui forment la coordination, lieu de décision. Et le tout avec le sourire  ;-)",
+    "en": "We are a self-managed collaborative supermarket. We've been open for 4 years, with around 900 cooperators. The principle is quite simple: you buy shares, become a member of the cooperative and have to volunteer 3 hours a month to do the recurring tasks required to run a food store. 90% organic produce, including fruit and vegetables, sweet and savoury groceries, dairy products, vegan products and hygiene products, all chosen by you. Local and seasonal as much as possible. Decision-making: one person = one vote, with co-op members either chosen by lottery or elected to form the coordinating decision-making body. And all with a smile ;-)",
+    "es": "Somos un supermercado colaborativo autogestionado. Llevamos abiertos 4 años, con unos 900 cooperativistas. El principio es muy sencillo: compras acciones, te conviertes en socio de la cooperativa y tienes que dedicar voluntariamente 3 horas al mes a las tareas recurrentes que requiere el funcionamiento de una tienda de alimentación. 90% de productos ecológicos, incluyendo fruta y verdura, comestibles dulces y salados, productos lácteos, productos veganos y productos de higiene, todo a elegir. Locales y de temporada en la medida de lo posible. Toma de decisiones: una persona = un voto, con miembros de la cooperativa elegidos por sorteo o elegidos para formar el órgano de coordinación. Y todo con una sonrisa ;-)",
+    "de": "Wir sind ein kollaborativer, selbstverwalteter Supermarkt. Er ist seit vier Jahren geöffnet und hat etwa 900 Genossenschaftsmitglieder. Das Prinzip ist ziemlich einfach: Sie kaufen Anteile, werden Mitglied der Genossenschaft und müssen 3 Stunden pro Monat ehrenamtlich arbeiten, um die wiederkehrenden Aufgaben zu erledigen, die für den Betrieb eines Lebensmittelgeschäfts notwendig sind. 90% Bio-Produkte. Obst und Gemüse, süße und salzige Lebensmittel, Milchprodukte, vegane Produkte, Hygieneartikel, die Sie selbst auswählen können. Lokal und saisonal so + + wie möglich. Die Entscheidungsfindung: eine Person = eine Stimme mit Koops, die entweder ausgelost oder gewählt werden und die die Koordination, den Ort der Entscheidungen, bilden. Und das alles mit einem Lächeln ;-)"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "fr",
   "location": "65 boulevard de Charonne 75011 paris",
-  "name": "les 400 coop",
+  "name": {
+    "fr": "les 400 coop",
+    "en": "the 400 coop",
+    "es": "la cooperativa 400",
+    "de": "die 400 Koop"
+  },
   "pubId": 437952,
   "score": 416.4999999999928,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "les400coop.fr",
   "yt": "-oVutmbSyWs",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1681334559,
   "feedback": [
     {
@@ -52,12 +58,9 @@
       "at": 1681334559
     }
   ],
-  "lastEvent": {
-    "at": 1681334559,
-    "by": "contact"
-  },
   "periodicity": "misc.frequency.daily",
   "updatedAt": [
     1681334559
-  ]
+  ],
+  "originalLang": "fr"
 }

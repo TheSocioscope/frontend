@@ -13,14 +13,24 @@
   ],
   "createdAt": 1681312708,
   "date": null,
-  "description": "Quand fermentation rime avec légumineuses ! \nKedelai est le premier producteur français de tempeh, un aliment 100% naturel issu de la culture culinaire Indonésienne et qui peut se cuisiner de mille et une façons. En s'appuyant sur la fermentation solide et les légumineuses, Kedelai propose donc une gamme de protéines végétales saines, texturées, bio, fabriquées en île de France (à Paris dès juillet 2023) et à destination notamment de la restauration collective.\nAlors curieux ? Laissez vous tempeh !",
+  "description": {
+    "fr": "Quand fermentation rime avec légumineuses ! \nKedelai est le premier producteur français de tempeh, un aliment 100% naturel issu de la culture culinaire Indonésienne et qui peut se cuisiner de mille et une façons. En s'appuyant sur la fermentation solide et les légumineuses, Kedelai propose donc une gamme de protéines végétales saines, texturées, bio, fabriquées en île de France (à Paris dès juillet 2023) et à destination notamment de la restauration collective.\nAlors curieux ? Laissez vous tempeh !",
+    "en": "When fermentation rhymes with legumes!\nKedelai is the first French producer of tempeh, a 100% natural food from Indonesian culinary culture that can be cooked in a thousand and one ways. Based on solid fermentation and legumes, Kedelai offers a range of healthy, textured, organic plant proteins, manufactured in Ile de France (in Paris from July 2023) and intended in particular for foodservice.\nCurious? Let us tempeh you!",
+    "es": "¡Cuando fermentación rima con legumbres!\nKedelai es el primer productor francés de tempeh, un alimento 100% natural procedente de la cultura culinaria indonesia que puede cocinarse de mil y una maneras. Basada en la fermentación sólida y las legumbres, Kedelai propone una gama de proteínas vegetales sanas, texturadas y ecológicas, fabricadas en la región de Île-de-France (en París a partir de julio de 2023) y destinadas especialmente al sector de la restauración.\n¿Tiene curiosidad? ¡Déjenos darle tempeh!",
+    "de": "Wenn sich Fermentation auf Hülsenfrüchte reimt!\nKedelai ist der erste französische Hersteller von Tempeh, einem 100% natürlichen Nahrungsmittel, das aus der indonesischen Esskultur stammt und auf tausendundeine Art und Weise zubereitet werden kann. Auf der Grundlage von fester Fermentation und Hülsenfrüchten bietet Kedelai also eine Reihe gesunder, texturierter, biologischer Pflanzenproteine an, die auf der Île de France (ab Juli 2023 in Paris) hergestellt werden und insbesondere für die Gemeinschaftsverpflegung bestimmt sind.\nAlso neugierig geworden? Lassen Sie sich Tempeh!"
+  },
   "field": [
     "engineering-and-technology",
     "nutrition"
   ],
   "lang": "fr",
   "location": "ile de france",
-  "name": "Kedelai",
+  "name": {
+    "en": "Kedelai",
+    "fr": "Kedelai",
+    "es": "Kedelai",
+    "de": "Kedelai"
+  },
   "pubId": 437852,
   "score": 390.1277777777794,
   "state": "ongoing-project",
@@ -41,28 +51,5 @@
   ],
   "url": "https://kedelai.fr",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1681468005,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1681468005,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -12,13 +12,23 @@
   ],
   "createdAt": 1663238954,
   "date": null,
-  "description": "Le Fonds d'Art Contemporain Agricole (FACAC) est un projet associatif bénévole qui vise à soutenir les activités de l’association Clinamen (La Courneuve)-qui dynamise les territoires urbains par la promotion des pratiques paysannes depuis 2012- et questionner les pratiques paysannes actuelles par la diffusion d’œuvres d'artistes professionnels et amateurs via un \"Fond d' Archives\" qui s'interrogent sur ces questions et s'en inspirent dans leur travail. \nActif depuis 2019, il a été initié en 2017 par Julie-Lou Dubreuilh -bergère- et Noémie Sauve -artiste- qui en pilote le projet.\n\nCe Fonds est souvent présenté sous forme d'expositions lors desquelles les artistes sont invités à échanger avec le public sur leur travail en lien avec les pratiques agricoles telles que l'écologie, la domestication, l'alimentation, l'abattage à la ferme, la stérilisation, le brevetage du vivant, la migration assistée, l'autonomie ... ",
+  "description": {
+    "fr": "Le Fonds d'Art Contemporain Agricole (FACAC) est un projet associatif bénévole qui vise à soutenir les activités de l’association Clinamen (La Courneuve)-qui dynamise les territoires urbains par la promotion des pratiques paysannes depuis 2012- et questionner les pratiques paysannes actuelles par la diffusion d’œuvres d'artistes professionnels et amateurs via un \"Fond d' Archives\" qui s'interrogent sur ces questions et s'en inspirent dans leur travail. \nActif depuis 2019, il a été initié en 2017 par Julie-Lou Dubreuilh -bergère- et Noémie Sauve -artiste- qui en pilote le projet.\n\nCe Fonds est souvent présenté sous forme d'expositions lors desquelles les artistes sont invités à échanger avec le public sur leur travail en lien avec les pratiques agricoles telles que l'écologie, la domestication, l'alimentation, l'abattage à la ferme, la stérilisation, le brevetage du vivant, la migration assistée, l'autonomie ... ",
+    "en": "The Fonds d'Art Contemporain Agricole (FACAC) is a voluntary associative project that aims to support the activities of the Clinamen association (La Courneuve)-which has been energizing urban territories through the promotion of peasant practices since 2012-and to question current peasant practices through the dissemination of works by professional and amateur artists via a \"Fond d' Archives\" who question these issues and draw inspiration from them in their work.\nActive since 2019, it was initiated in 2017 by Julie-Lou Dubreuilh -shepherd- and Noémie Sauve -artist- who steers the project.\n\nThis Fund is often presented in the form of exhibitions, during which the artists are invited to discuss their work with the public in relation to agricultural practices such as ecology, domestication, feeding, farm slaughter, sterilization, patenting of the living, assisted migration, autonomy...",
+    "es": "El Fonds d'Art Contemporain Agricole (FACAC) es un proyecto asociativo de voluntariado que tiene como objetivo apoyar las actividades de la asociación Clinamen (La Courneuve) -que desde 2012 revitaliza los territorios urbanos mediante la promoción de prácticas campesinas- y cuestionar las prácticas campesinas actuales mediante la difusión de obras de artistas profesionales y aficionados a través de un \"Fond d' Archives\" que cuestionan estas cuestiones y se inspiran en ellas en su trabajo.\nActivo desde 2019, fue iniciado en 2017 por Julie-Lou Dubreuilh -pastora- y Noémie Sauve -artista- que dirige el proyecto.\n\nEl Fondo se presenta a menudo en forma de exposiciones, durante las cuales se invita a los artistas a hablar con el público sobre su trabajo en relación con prácticas agrícolas como la ecología, la domesticación, la alimentación, el sacrificio en la granja, la esterilización, la patente de organismos vivos, la migración asistida, la autonomía, etc.",
+    "de": "Der Fonds d'Art Contemporain Agricole (FACAC) ist ein ehrenamtliches Vereinsprojekt, das die Aktivitäten des Vereins Clinamen (La Courneuve)- der seit 2012 städtische Gebiete durch die Förderung bäuerlicher Praktiken dynamisiert - unterstützen und die aktuellen bäuerlichen Praktiken durch die Verbreitung von Werken professioneller und Amateurkünstler über einen \"Fond d' Archives\" hinterfragen soll, die sich mit diesen Fragen auseinandersetzen und sich in ihrer Arbeit davon inspirieren lassen.\nEs ist seit 2019 aktiv und wurde 2017 von Julie-Lou Dubreuilh -Bergarbeiterin- und Noémie Sauve -Künstlerin- initiiert, die das Projekt leitet.\n\nDieser Fonds wird häufig in Form von Ausstellungen präsentiert, bei denen die Künstler eingeladen werden, sich mit dem Publikum über ihre Arbeit im Zusammenhang mit landwirtschaftlichen Praktiken wie Ökologie, Domestikation, Ernährung, Schlachtung auf dem Bauernhof, Sterilisation, Patentierung von Leben, betreute Migration, Autonomie ... auszutauschen."
+  },
   "field": [
     "arts-architecture-and-museology"
   ],
   "lang": "fr",
   "location": "Île-de-france",
-  "name": "FACAC",
+  "name": {
+    "en": "FACAC",
+    "fr": "FACAC",
+    "es": "FACAC",
+    "de": "FACAC"
+  },
   "pubId": 412452,
   "score": 988.4999999999935,
   "state": "ongoing-project",
@@ -53,28 +63,5 @@
   ],
   "url": "https://www.association-clinamen.fr/les-projets",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1663250530,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663250530,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

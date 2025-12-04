@@ -13,7 +13,12 @@
   ],
   "createdAt": 1754954498,
   "date": null,
-  "description": "Lynks was established in 2010 to address water management challenges in agriculture, particularly in response to changing regulations on water use. The initiative focuses on developing innovative solutions for irrigation, climate monitoring, and soil management, aiming to enhance efficiency and sustainability in water resource usage. With a portfolio of products, Lynks supports various crops and has expanded into health and industrial sectors, promoting sustainable practices across multiple regions.",
+  "description": {
+    "en": "Lynks was established in 2010 to address water management challenges in agriculture, particularly in response to changing regulations on water use. The initiative focuses on developing innovative solutions for irrigation, climate monitoring, and soil management, aiming to enhance efficiency and sustainability in water resource usage. With a portfolio of products, Lynks supports various crops and has expanded into health and industrial sectors, promoting sustainable practices across multiple regions.",
+    "fr": "Lynks a été créée en 2010 pour relever les défis de la gestion de l'eau dans l'agriculture, en particulier en réponse à l'évolution des réglementations sur l'utilisation de l'eau. L'initiative se concentre sur le développement de solutions innovantes pour l'irrigation, la surveillance du climat et la gestion des sols, dans le but d'améliorer l'efficacité et la durabilité de l'utilisation des ressources en eau. Avec son portefeuille de produits, Lynks soutient diverses cultures et s'est étendu aux secteurs de la santé et de l'industrie, promouvant des pratiques durables dans de nombreuses régions.",
+    "es": "Lynks se creó en 2010 para abordar los retos de la gestión del agua en la agricultura, especialmente en respuesta a la cambiante normativa sobre el uso del agua. La iniciativa se centra en el desarrollo de soluciones innovadoras para el riego, la vigilancia del clima y la gestión del suelo, con el objetivo de mejorar la eficiencia y la sostenibilidad en el uso de los recursos hídricos. Con una cartera de productos, Lynks apoya diversos cultivos y se ha expandido a los sectores sanitario e industrial, promoviendo prácticas sostenibles en múltiples regiones.",
+    "de": "Lynks wurde 2010 gegründet, um die Herausforderungen des Wassermanagements in der Landwirtschaft anzugehen, insbesondere als Reaktion auf die sich ändernden Vorschriften zur Wassernutzung. Die Initiative konzentriert sich auf die Entwicklung innovativer Lösungen für die Bewässerung, die Klimaüberwachung und die Bodenbewirtschaftung mit dem Ziel, die Effizienz und Nachhaltigkeit bei der Nutzung von Wasserressourcen zu verbessern. Mit seinem Produktportfolio unterstützt Lynks verschiedene Kulturpflanzen und hat sich auf den Gesundheits- und Industriesektor ausgedehnt, um nachhaltige Praktiken in verschiedenen Regionen zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Lynks",
+  "name": {
+    "en": "Lynks",
+    "fr": "Lynks",
+    "es": "Linces",
+    "de": "Lynks"
+  },
   "pubId": 486052,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

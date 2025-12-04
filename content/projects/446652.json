@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739449535,
   "date": null,
-  "description": "Nona is a start-up initiative aiming at transforming the catering industry, particularly in canteens, through a comprehensive management application. The initiative seeks to provide operational support to canteens by optimizing their food ordering, menu design, and overall management processes. Nona's application serves as a centralized tool that connects canteen chefs with local suppliers, enabling them to access a vast database of food products, including seasonal and sustainable options.\n\nThe initiative also focuses on fostering collaboration among various stakeholders, including local authorities, producers, and suppliers, to create a supportive ecosystem for canteens.\n\nAdditionally, Nona conducts assessments of canteen purchasing practices, provides statistical monitoring, and assists with equipment procurement to facilitate the transition to sustainable food practices. By bringing together all players involved in the food supply chain, Nona aims to create partnerships that enhance the quality and sustainability of meals served in canteens, ultimately contributing to a broader food transition in society.",
+  "description": {
+    "en": "Nona is a start-up initiative that aims to transform the catering sector, particularly the canteen sector, through a comprehensive management application. The initiative aims to provide operational support to canteens by optimizing their food ordering, menu design and overall management processes. Nona's application serves as a centralized tool that connects canteen cooks with local suppliers, enabling them to access a comprehensive database of food products, including seasonal and sustainable options. The initiative also focuses on fostering collaboration between various stakeholders, such as local authorities, producers and suppliers, to create a supportive ecosystem for canteens. In addition, Nona conducts assessments of purchasing practices in canteens, performs statistical monitoring and assists in the procurement of equipment to facilitate the transition to sustainable food practices. By bringing together all actors involved in the food supply chain, Nona aims to create partnerships that improve the quality and sustainability of meals served in canteens, ultimately contributing to a broader food transition in society.",
+    "fr": "Nona est une start-up qui vise à transformer le secteur de la restauration, en particulier celui des cantines, grâce à une application de gestion de bout en bout. L'initiative vise à fournir un soutien opérationnel aux cantines en optimisant leurs processus de commande de nourriture, de conception de menus et de gestion globale. L'application Nona sert d'outil centralisé qui met en relation les chefs de cantine avec les fournisseurs locaux, leur permettant d'accéder à une base de données complète de produits alimentaires, y compris des options saisonnières et durables. L'initiative se concentre également sur la promotion de la collaboration entre les différentes parties prenantes, telles que les autorités locales, les producteurs et les fournisseurs, afin de créer un écosystème favorable aux cantines. En outre, Nona évalue les pratiques d'achat dans les cantines, effectue un suivi statistique et aide à l'acquisition d'équipements afin de faciliter la transition vers des pratiques alimentaires durables. En réunissant tous les acteurs impliqués dans la chaîne d'approvisionnement alimentaire, Nona vise à créer des partenariats qui améliorent la qualité et la durabilité des repas servis dans les cantines, contribuant ainsi à une transition alimentaire plus large dans la société.",
+    "es": "Nona es una iniciativa de nueva creación que pretende transformar el sector de la restauración, en particular el de los comedores, mediante una aplicación de gestión integral. La iniciativa pretende ofrecer apoyo operativo a los comedores optimizando sus pedidos de comida, el diseño de menús y los procesos generales de gestión. La aplicación de Nona sirve de herramienta centralizada que conecta a los cocineros de los comedores con los proveedores locales, permitiéndoles acceder a una amplia base de datos de productos alimentarios, incluidas opciones estacionales y sostenibles.\n\nLa iniciativa también se centra en fomentar la colaboración entre diversas partes interesadas, como autoridades locales, productores y proveedores, para crear un ecosistema de apoyo a los comedores.\n\nAdemás, Nona lleva a cabo evaluaciones de las prácticas de compra en los comedores, realiza un seguimiento estadístico y ayuda en la adquisición de equipos para facilitar la transición a prácticas alimentarias sostenibles. Al reunir a todos los agentes implicados en la cadena de suministro alimentario, Nona pretende crear asociaciones que mejoren la calidad y la sostenibilidad de las comidas servidas en los comedores, contribuyendo en última instancia a una transición alimentaria más amplia en la sociedad.",
+    "de": "Nona ist eine Start-up-Initiative, die darauf abzielt, die Cateringbranche, insbesondere in Kantinen, durch eine umfassende Managementanwendung umzugestalten. Die Initiative will Kantinen operativ unterstützen, indem sie die Bestellung von Lebensmitteln, die Gestaltung von Menüs und allgemeine Managementprozesse optimiert. Nonas Anwendung dient als zentrales Werkzeug, das die Küchenchefs mit lokalen Lieferanten verbindet und ihnen den Zugriff auf eine große Datenbank mit Lebensmitteln ermöglicht, darunter auch saisonale und nachhaltige Optionen.\n\nDie Initiative konzentriert sich auch auf die Förderung der Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter lokale Behörden, Produzenten und Lieferanten, um ein unterstützendes Ökosystem für Kantinen zu schaffen.\n\nDarüber hinaus führt Nona Bewertungen der Einkaufspraktiken von Kantinen durch, bietet statistisches Monitoring und unterstützt die Beschaffung von Geräten, um den Übergang zu nachhaltigen Ernährungspraktiken zu erleichtern. Durch die Zusammenführung aller an der Lebensmittelversorgungskette beteiligten Akteure will Nona Partnerschaften aufbauen, die die Qualität und Nachhaltigkeit der in Kantinen servierten Mahlzeiten verbessern und so letztendlich zu einem breiteren Übergang von Lebensmitteln in der Gesellschaft beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nona",
+  "name": {
+    "en": "Nona",
+    "fr": "Nona",
+    "es": "Nona",
+    "de": "Nona"
+  },
   "pubId": 446652,
   "score": 106.00196078431456,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://www.nona.fr",
   "yt": "uuyEkNVaVZo",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

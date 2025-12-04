@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754913524,
   "date": null,
-  "description": "The initiative is an association focused on combating food waste through a canning facility that repurposes unsold or \"ugly\" fruits and vegetables into jams. Established five years ago, it aims to create a community dedicated to reducing waste in Strasbourg. In addition to producing jams, the association offers training and awareness programs, fostering collective intelligence and collaboration among various stakeholders to drive systemic change in food consumption and waste management.         ",
+  "description": {
+    "en": "The initiative is an association focused on combating food waste through a canning facility that repurposes unsold or \"ugly\" fruits and vegetables into jams. Established five years ago, it aims to create a community dedicated to reducing waste in Strasbourg. In addition to producing jams, the association offers training and awareness programs, fostering collective intelligence and collaboration among various stakeholders to drive systemic change in food consumption and waste management.         ",
+    "fr": "L'initiative est une association axée sur la lutte contre le gaspillage alimentaire grâce à une conserverie qui réutilise les fruits et légumes invendus ou \"moches\" pour en faire des confitures. Créée il y a cinq ans, elle vise à créer une communauté dédiée à la réduction des déchets à Strasbourg. Outre la production de confitures, l'association propose des programmes de formation et de sensibilisation, favorisant l'intelligence collective et la collaboration entre les différentes parties prenantes afin de susciter un changement systémique dans la consommation alimentaire et la gestion des déchets.         ",
+    "es": "La iniciativa es una asociación centrada en la lucha contra el desperdicio de alimentos a través de una conservera que reutiliza en mermeladas frutas y verduras no vendidas o \"feas\". Creada hace cinco años, su objetivo es crear una comunidad dedicada a reducir los residuos en Estrasburgo. Además de producir mermeladas, la asociación ofrece programas de formación y sensibilización, fomentando la inteligencia colectiva y la colaboración entre diversas partes interesadas para impulsar un cambio sistémico en el consumo de alimentos y la gestión de residuos.         ",
+    "de": "Bei der Initiative handelt es sich um einen Verein zur Bekämpfung der Lebensmittelverschwendung, der unverkauftes oder \"hässliches\" Obst und Gemüse zu Marmelade einkocht. Sie wurde vor fünf Jahren gegründet und hat sich zum Ziel gesetzt, in Straßburg eine Gemeinschaft zu schaffen, die sich der Abfallvermeidung widmet. Neben der Herstellung von Marmeladen bietet der Verein Schulungs- und Sensibilisierungsprogramme an und fördert die kollektive Intelligenz und die Zusammenarbeit zwischen verschiedenen Interessengruppen, um einen systemischen Wandel im Lebensmittelkonsum und in der Abfallwirtschaft voranzutreiben.         "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Retoqués",
+  "name": {
+    "fr": "Les Retoqués",
+    "en": "The Retoqués",
+    "es": "Los Retoques",
+    "de": "Die Retoqués"
+  },
   "pubId": 484752,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

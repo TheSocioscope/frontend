@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754650760,
   "date": null,
-  "description": "Incuti Foods is a Rwandan youth-led company focused on chili pepper processing. Founded by two co-founders with backgrounds in food science, the initiative addresses post-harvest losses by sourcing chilies directly from local farmers, particularly women. They emphasize sustainability by using locally sourced materials and minimizing food waste. With a vision to become a leading hot sauce producer in Africa, they aim to expand their product range and market presence while supporting local agriculture.",
+  "description": {
+    "en": "Incuti Foods is a Rwandan youth-led company focused on chili pepper processing. Founded by two co-founders with backgrounds in food science, the initiative addresses post-harvest losses by sourcing chilies directly from local farmers, particularly women. They emphasize sustainability by using locally sourced materials and minimizing food waste. With a vision to become a leading hot sauce producer in Africa, they aim to expand their product range and market presence while supporting local agriculture.",
+    "fr": "Incuti Foods est une entreprise rwandaise dirigée par des jeunes et spécialisée dans la transformation des piments. Fondée par deux cofondateurs ayant une formation en sciences alimentaires, l'initiative s'attaque aux pertes post-récolte en s'approvisionnant en piments directement auprès des agriculteurs locaux, en particulier des femmes. Elle met l'accent sur la durabilité en utilisant des matériaux d'origine locale et en réduisant au minimum les déchets alimentaires. Avec l'ambition de devenir l'un des principaux producteurs de sauce piquante en Afrique, l'entreprise vise à élargir sa gamme de produits et sa présence sur le marché tout en soutenant l'agriculture locale.",
+    "es": "Incuti Foods es una empresa ruandesa dirigida por jóvenes que se dedica a procesar chiles. Fundada por dos cofundadores con formación en ciencias de la alimentación, la iniciativa aborda las pérdidas posteriores a la cosecha abasteciéndose de chiles directamente de los agricultores locales, sobre todo mujeres. Hacen hincapié en la sostenibilidad utilizando materiales de origen local y reduciendo al mínimo el desperdicio de alimentos. Con la visión de convertirse en uno de los principales productores de salsa picante de África, pretenden ampliar su gama de productos y su presencia en el mercado, al tiempo que apoyan la agricultura local.",
+    "de": "Incuti Foods ist ein von Jugendlichen geführtes ruandisches Unternehmen, das sich auf die Verarbeitung von Chilischoten konzentriert. Die von zwei Mitbegründern mit lebensmittelwissenschaftlichem Hintergrund gegründete Initiative bekämpft Nachernteverluste, indem sie Chilis direkt von lokalen Bauern, insbesondere Frauen, bezieht. Sie legen Wert auf Nachhaltigkeit, indem sie lokal bezogene Materialien verwenden und Lebensmittelabfälle minimieren. Mit der Vision, ein führender Hersteller von scharfen Saucen in Afrika zu werden, wollen sie ihre Produktpalette und Marktpräsenz erweitern und gleichzeitig die lokale Landwirtschaft unterstützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Incuti Foods",
+  "name": {
+    "it": "Incuti Foods",
+    "en": "Incuti Foods",
+    "fr": "Incuti Foods",
+    "es": "Alimentos Incuti",
+    "de": "Incuti-Lebensmittel"
+  },
   "pubId": 477952,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "it"
 }

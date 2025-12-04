@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754955265,
   "date": null,
-  "description": "Pangea is an innovative initiative focused on sustainable agriculture through composting. Established six years ago, Pangea transforms agro-industrial waste into high-quality organic fertilizers, promoting regenerative farming practices. By utilizing advanced composting techniques, the company reduces production time and environmental impact, while supporting local cultivators with tailored products. Pangea aims to enhance soil health and contribute to a circular economy, fostering a more sustainable agricultural landscape.",
+  "description": {
+    "en": "Pangea is an innovative initiative focused on sustainable agriculture through composting. Established six years ago, Pangea transforms agro-industrial waste into high-quality organic fertilizers, promoting regenerative farming practices. By utilizing advanced composting techniques, the company reduces production time and environmental impact, while supporting local cultivators with tailored products. Pangea aims to enhance soil health and contribute to a circular economy, fostering a more sustainable agricultural landscape.",
+    "fr": "Pangea est une initiative innovante axée sur l'agriculture durable grâce au compostage. Créée il y a six ans, Pangea transforme les déchets agro-industriels en engrais organiques de haute qualité, encourageant ainsi les pratiques agricoles régénératives. En utilisant des techniques de compostage avancées, l'entreprise réduit le temps de production et l'impact sur l'environnement, tout en soutenant les cultivateurs locaux avec des produits adaptés. Pangea vise à améliorer la santé des sols et à contribuer à une économie circulaire, en favorisant un paysage agricole plus durable.",
+    "es": "Pangea es una iniciativa innovadora centrada en la agricultura sostenible a través del compostaje. Creada hace seis años, Pangea transforma residuos agroindustriales en fertilizantes orgánicos de alta calidad, promoviendo prácticas agrícolas regenerativas. Utilizando técnicas avanzadas de compostaje, la empresa reduce el tiempo de producción y el impacto ambiental, al tiempo que apoya a los cultivadores locales con productos a medida. Pangea pretende mejorar la salud del suelo y contribuir a una economía circular, fomentando un paisaje agrícola más sostenible.",
+    "de": "Pangea ist eine innovative Initiative, die sich auf nachhaltige Landwirtschaft durch Kompostierung konzentriert. Pangea wurde vor sechs Jahren gegründet und verwandelt agroindustrielle Abfälle in hochwertige organische Düngemittel, die regenerative Anbaumethoden fördern. Durch den Einsatz fortschrittlicher Kompostierungstechniken reduziert das Unternehmen den Produktionsaufwand und die Umweltbelastung und unterstützt gleichzeitig lokale Landwirte mit maßgeschneiderten Produkten. Pangea möchte die Gesundheit der Böden verbessern und zu einer Kreislaufwirtschaft beitragen, um eine nachhaltigere Landwirtschaft zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pangea",
+  "name": {
+    "en": "Pangea",
+    "fr": "Pangea",
+    "es": "Pangea",
+    "de": "Pangea"
+  },
   "pubId": 486652,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

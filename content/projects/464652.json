@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754430202,
   "date": null,
-  "description": "Restaurant Nogen, a unique dining initiative in Denmark, operates on a model that exclusively utilizes food waste as its primary ingredient source. Established in 2022, it has rapidly expanded from one to four locations, offering a dynamic menu that changes daily based on available food waste. This innovative approach not only reduces waste but also fosters creativity among chefs, making it a compelling example of sustainable dining in the modern culinary landscape.                                  ",
+  "description": {
+    "en": "Nogen restaurant, a unique gastronomic initiative in Denmark, operates on a model that uses exclusively food waste as the main source of ingredients. Founded in 2022, it has rapidly expanded from one to four locations, offering a dynamic menu that changes daily based on available food waste. This innovative approach not only reduces waste, but also encourages creativity among chefs, making it a compelling example of sustainable catering in the modern culinary landscape.                                  ",
+    "fr": "Le restaurant Nogen, une initiative gastronomique unique au Danemark, fonctionne sur un modèle qui utilise uniquement des déchets alimentaires comme principale source d'ingrédients. Fondé en 2022, il s'est rapidement développé, passant d'un à quatre sites, et propose un menu dynamique qui change quotidiennement en fonction des déchets alimentaires disponibles. Cette approche innovante permet non seulement de réduire les déchets, mais aussi d'encourager la créativité des chefs, ce qui en fait un exemple probant de restauration durable dans le paysage culinaire moderne.                                  ",
+    "es": "El restaurante Nogen, una iniciativa gastronómica única en Dinamarca, funciona con un modelo que utiliza exclusivamente residuos alimentarios como principal fuente de ingredientes. Fundado en 2022, se ha expandido rápidamente de uno a cuatro locales, ofreciendo un menú dinámico que cambia a diario en función de los residuos alimentarios disponibles. Este enfoque innovador no solo reduce los residuos, sino que también fomenta la creatividad entre los chefs, lo que lo convierte en un ejemplo convincente de restauración sostenible en el panorama culinario moderno.                                  ",
+    "de": "Restaurant Nogen, eine einzigartige Essinitiative in Dänemark, arbeitet nach einem Modell, das ausschließlich Lebensmittelabfälle als Hauptinhaltsstoffquelle nutzt. Das 2022 gegründete Unternehmen ist schnell von einem auf vier Standorte gewachsen und bietet eine dynamische Speisekarte, die sich täglich auf der Grundlage verfügbarer Lebensmittelabfälle ändert. Dieser innovative Ansatz reduziert nicht nur Abfall, sondern fördert auch die Kreativität der Köche und ist damit ein hervorragendes Beispiel für nachhaltiges Essen in der modernen kulinarischen Landschaft.                                  "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Restaurant Nogen",
+  "name": {
+    "fr": "Restaurant Nogen",
+    "en": "Restaurant Nogen",
+    "es": "Restaurante Nogen",
+    "de": "Restaurant Nogen"
+  },
   "pubId": 464652,
   "score": 24.87004614123518,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "IQOZ146cWvE",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755736058,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755736058
     }
   ],
-  "lastEvent": {
-    "at": 1755736058,
-    "by": "contact"
-  },
   "updatedAt": [
     1755736058
-  ]
+  ],
+  "originalLang": "fr"
 }

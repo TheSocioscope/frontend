@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739459392,
   "date": null,
-  "description": "Villa Claudia Farm is a sustainable agribusiness located on the outskirts of Pereira, which integrates environmental stewardship with agricultural production and tourism. The farm is managed by a family that emphasizes animal welfare and sustainable practices, leveraging technical expertise in zootechnics and molecular microbiology to enhance productivity and ecological balance. They produce a variety of goods, including milk, coffee, eggs, and cheese, while also offering immersive tourism experiences such as coffee tours and gastronomic events that educate visitors about sustainable practices. The farm has achieved several certifications for good practices and sustainability, and it aims to establish a unique identity for its products, particularly coffee and cheese, within the region. Despite facing challenges in marketing and the impacts of climate change, the initiative aspires to be a reference point for agro-sustainability and to foster a deeper connection between consumers and the agricultural processes that sustain them",
+  "description": {
+    "en": "Finca Villa Claudia is a sustainable agribusiness located on the outskirts of Pereira, which integrates environmental care with agricultural production and tourism. The farm is managed by a family that emphasizes animal welfare and sustainable practices, taking advantage of technical expertise in zootechnics and molecular microbiology to improve productivity and ecological balance. They produce a variety of products, including milk, coffee, eggs, and cheese, while offering immersive tourism experiences, such as coffee tours and culinary events that educate visitors about sustainable practices. The farm has obtained several certifications for best practices and sustainability, and aims to establish a unique identity for its products, particularly coffee and cheese, within the region. Despite facing marketing challenges and the impacts of climate change, the initiative aims to be a benchmark for agrosustainability and foster a deeper connection between consumers and the agricultural processes that sustain them.",
+    "fr": "Finca Villa Claudia est une entreprise agricole durable située à la périphérie de Pereira, qui intègre la protection de l'environnement à la production agricole et au tourisme. L'exploitation est familiale et met l'accent sur le bien-être des animaux et les pratiques durables. Elle s'appuie sur une expertise technique en matière d'élevage et de microbiologie moléculaire pour améliorer la productivité et l'équilibre écologique. Elle produit une variété de produits, notamment du lait, du café, des œufs et du fromage, tout en proposant des expériences touristiques immersives telles que des visites guidées du café et des événements culinaires qui informent les visiteurs sur les pratiques durables. La ferme a obtenu plusieurs certifications pour ses bonnes pratiques et sa durabilité, et vise à établir une identité unique pour ses produits, en particulier le café et le fromage, dans la région. Bien qu'elle soit confrontée à des problèmes de commercialisation et à l'impact du changement climatique, l'initiative vise à devenir une référence en matière d'agrodurabilité et à favoriser un lien plus profond entre les consommateurs et les processus agricoles qui les soutiennent.",
+    "es": "La Finca Villa Claudia es una agroindustria sostenible ubicada en las afueras de Pereira, que integra el cuidado del medio ambiente con la producción agropecuaria y el turismo. La granja es administrada por una familia que hace énfasis en el bienestar animal y las prácticas sostenibles, aprovechando la experiencia técnica en zootecnia y microbiología molecular para mejorar la productividad y el equilibrio ecológico. Producen diversos productos, como leche, café, huevos y queso, al tiempo que ofrecen experiencias turísticas de inmersión, como recorridos cafeteros y eventos gastronómicos que educan a los visitantes sobre prácticas sostenibles. La granja ha obtenido varias certificaciones de buenas prácticas y sostenibilidad, y aspira a establecer una identidad única para sus productos, en particular el café y el queso, dentro de la región. A pesar de enfrentarse a retos de comercialización y a los impactos del cambio climático, la iniciativa aspira a ser un punto de referencia de la agrosostenibilidad y a fomentar una conexión más profunda entre los consumidores y los procesos agrícolas que los sustentan.",
+    "de": "Die Villa Claudia Farm ist ein nachhaltiges Agribusiness am Stadtrand von Pereira, das Umweltmanagement mit landwirtschaftlicher Produktion und Tourismus verbindet. Die Farm wird von einer Familie geführt, die Wert auf Tierwohl und nachhaltige Praktiken legt und technische Fachkenntnisse in den Bereichen Zootechnik und Molekularmikrobiologie einsetzt, um die Produktivität und das ökologische Gleichgewicht zu verbessern. Sie produzieren eine Vielzahl von Waren, darunter Milch, Kaffee, Eier und Käse, während sie gleichzeitig immersive Tourismuserlebnisse wie Kaffeefahrten und gastronomische Veranstaltungen anbieten, die Besucher über nachhaltige Praktiken aufklären. Der Hof hat mehrere Zertifizierungen für gute Praktiken und Nachhaltigkeit erhalten und strebt die Schaffung einer einzigartigen Identität für seine Produkte, insbesondere Kaffee und Käse, innerhalb der Region an. Trotz der Herausforderungen bei der Vermarktung und der Auswirkungen des Klimawandels strebt die Initiative danach, ein Bezugspunkt für landwirtschaftliche Nachhaltigkeit zu sein und eine engere Verbindung zwischen Verbrauchern und den landwirtschaftlichen Prozessen, die sie erhalten, zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Villa Claudia",
+  "name": {
+    "it": "Villa Claudia",
+    "en": "Villa Claudia",
+    "fr": "Villa Claudia",
+    "es": "Villa Claudia",
+    "de": "Villa Claudia"
+  },
   "pubId": 440952,
   "score": 127.80196078431321,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://instagram.com/villaclaudiafarm?utm_medium=copy_link",
   "yt": "u30QRvLiBOo",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

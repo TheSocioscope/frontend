@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739458215,
   "date": null,
-  "description": "The initiative focuses on the development and implementation of aquaponics systems, which integrate fish farming and plant cultivation in a sustainable, closed-loop environment. Located in a rural area, the founders initially aimed to sell fresh produce, such as aromatic herbs and lettuce, but pivoted to designing and constructing aquaponics systems tailored to various clients, including restaurants and community centers. Their approach emphasizes sustainability, utilizing solar energy and waste recycling, while also incorporating innovative technology like the Internet of Things to enhance system management. The initiative not only addresses food production but also aims to create social impact by providing educational opportunities and resources for local communities, thereby fostering self-sufficiency and environmental stewardship.",
+  "description": {
+    "en": "The initiative focuses on the development and implementation of aquaponics systems, which integrate fish farming and plant cultivation in a sustainable closed-loop environment. Located in a rural area, the founders were initially involved in selling fresh produce, such as herbs and lettuce, but moved on to designing and building aquaponics systems tailored to a variety of clients, such as restaurants and community centers. Their approach emphasizes sustainability, using solar energy and waste recycling, while incorporating innovative technology such as the Internet of Things to improve system management. The initiative not only addresses food production, but also aims to create a social impact by providing educational opportunities and resources to local communities, thus promoting self-sufficiency and environmental stewardship.",
+    "fr": "L'initiative se concentre sur le développement et la mise en œuvre de systèmes aquaponiques, qui intègrent l'élevage de poissons et la culture de plantes dans un environnement durable en circuit fermé. Situés dans une zone rurale, les fondateurs ont d'abord vendu des produits frais, tels que des herbes et des salades, avant de concevoir et de construire des systèmes aquaponiques adaptés à divers clients, tels que des restaurants et des centres communautaires. Leur approche met l'accent sur la durabilité, en utilisant l'énergie solaire et le recyclage des déchets, tout en incorporant des technologies innovantes telles que l'internet des objets pour améliorer la gestion du système. L'initiative ne concerne pas seulement la production alimentaire, mais vise également à créer un impact social en offrant des opportunités éducatives et des ressources aux communautés locales, promouvant ainsi l'autosuffisance et la gestion de l'environnement.",
+    "es": "La iniciativa se centra en el desarrollo y la implantación de sistemas de acuaponía, que integran la piscicultura y el cultivo de plantas en un entorno sostenible de circuito cerrado. Situados en una zona rural, los fundadores se dedicaban inicialmente a la venta de productos frescos, como hierbas aromáticas y lechugas, pero pasaron a diseñar y construir sistemas de acuaponía adaptados a diversos clientes, como restaurantes y centros comunitarios. Su enfoque hace hincapié en la sostenibilidad, utilizando la energía solar y el reciclaje de residuos, al tiempo que incorpora tecnología innovadora como el Internet de las Cosas para mejorar la gestión del sistema. La iniciativa no solo aborda la producción de alimentos, sino que también pretende crear un impacto social ofreciendo oportunidades educativas y recursos a las comunidades locales, fomentando así la autosuficiencia y la gestión medioambiental.",
+    "de": "The initiative focuses on the development and implementation of aquaponics systems, which integrate fish farming and plant cultivation in a sustainable, closed-loop environment. Die Gründer, die in einer ländlichen Gegend ansässig sind, wollten ursprünglich frische Produkte wie aromatische Kräuter und Gemüse verkaufen, haben sich dann aber auf die Entwicklung und den Bau von Aquaponiksystemen für verschiedene Kunden, darunter Restaurants und Gemeindezentren, verlegt. Ihr Ansatz betont die Nachhaltigkeit, indem sie Solarenergie und Abfallverwertung nutzen, aber auch innovative Technologien wie das Internet der Dinge zur Verbesserung des Systemmanagements einbeziehen. Die Initiative befasst sich nicht nur mit der Lebensmittelproduktion, sondern zielt auch auf soziale Auswirkungen ab, indem sie Bildungsmöglichkeiten und Ressourcen für lokale Gemeinschaften bereitstellt und so die Selbstversorgung und Umweltverantwortung fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "AFO Acuaponia",
+  "name": {
+    "pt": "AFO Acuaponia",
+    "en": "AFO Acuaponia",
+    "fr": "AFO Acuaponia",
+    "es": "AFO Acuaponia",
+    "de": "AFO Acuaponia"
+  },
   "pubId": 440152,
   "score": 185.70196078431348,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://afoacuaponia.com/",
   "yt": "0Ie8D7Zp_hc",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

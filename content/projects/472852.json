@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754908937,
   "date": null,
-  "description": "Aux Gouts du Jour is an association dedicated to improving eating habits among children and adults. Founded in 2006 by three agri-food engineering students, it aims to raise awareness about food through participatory workshops, training, and community events. The initiative focuses on understanding food's role in health, the environment, and social connections, offering diverse programs that engage various audiences, including schools, social workers, and the general public, to promote informed food choices.",
+  "description": {
+    "en": "Aux Gouts du Jour is an association dedicated to improving the eating habits of children and adults. Founded in 2006 by three agri-food engineering students, its goal is to raise awareness about food through participatory workshops, training and community events. The initiative focuses on understanding the role of food in health, the environment and social connections, offering various programs involving different audiences, such as schools, social workers and the general public, to promote informed food choices.",
+    "fr": "Aux Gouts du Jour est une association qui se consacre à l'amélioration des habitudes alimentaires des enfants et des adultes. Fondée en 2006 par trois étudiants en ingénierie agroalimentaire, elle vise à sensibiliser à l'alimentation par le biais d'ateliers participatifs, de formations et d'événements communautaires. L'initiative se concentre sur la compréhension du rôle de l'alimentation dans la santé, l'environnement et les liens sociaux, en proposant divers programmes impliquant différents publics, tels que les écoles, les travailleurs sociaux et le grand public, afin de promouvoir des choix alimentaires éclairés.",
+    "es": "Aux Gouts du Jour es una asociación dedicada a mejorar los hábitos alimentarios de niños y adultos. Fundada en 2006 por tres estudiantes de ingeniería agroalimentaria, su objetivo es concienciar sobre la alimentación a través de talleres participativos, formación y actos comunitarios. La iniciativa se centra en comprender el papel de los alimentos en la salud, el medio ambiente y las conexiones sociales, ofreciendo diversos programas que implican a distintos públicos, como escuelas, trabajadores sociales y el público en general, para promover elecciones alimentarias informadas.",
+    "de": "Aux Gouts du Jour ist ein Verein, der sich der Verbesserung der Essgewohnheiten von Kindern und Erwachsenen widmet. Die 2006 von drei Studenten der Agrar- und Ernährungswissenschaften gegründete Organisation will das Bewusstsein für Lebensmittel durch partizipatorische Workshops, Schulungen und Gemeinschaftsveranstaltungen stärken. Die Initiative konzentriert sich auf das Verständnis der Rolle von Lebensmitteln für die Gesundheit, die Umwelt und soziale Verbindungen und bietet verschiedene Programme an, die unterschiedliche Zielgruppen, darunter Schulen, Sozialarbeiter und die allgemeine Öffentlichkeit, einbeziehen, um informierte Lebensmittelentscheidungen zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Aux Gouts du Jour",
+  "name": {
+    "fr": "Aux Gouts du Jour",
+    "en": "Aux Gouts du Jour",
+    "es": "Aux Gouts du Jour",
+    "de": "Aux Gouts du Jour"
+  },
   "pubId": 472852,
   "score": 49.9728402563644,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "w1YfMxCcDG4",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755735729,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1755735729
     }
   ],
-  "lastEvent": {
-    "at": 1755735729,
-    "by": "contact"
-  },
   "updatedAt": [
     1755735729
-  ]
+  ],
+  "originalLang": "fr"
 }

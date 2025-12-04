@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1663677782,
   "date": null,
-  "description": "Urban Agriculture Magazine no. 30 – Rural-urban linkages\nThis issue of Farming Matters and Urban Agriculture Magazine is a co-production between ILEIA and RUAF Foundation. RUAF draws from grounded experiences in urban agriculture and food systems and ILEIA from family farming and agroecology. We see this as an opportunity to explore and affirm the rural-urban linkages in renewing our food systems, and in the process to create a thorough and in-depth ‘twin’ issue of our magazines on rural–urban linkages.",
+  "description": {
+    "en": "Urban Agriculture Magazine No. 30 - Urban-Rural Linkages This issue of Farming Matters and Urban Agriculture Magazine is a co-production between ILEIA and the RUAF Foundation. RUAF draws on its experiences in urban agriculture and food systems and ILEIA on family farming and agroecology. We see this as an opportunity to explore and affirm the links between rural and urban in the renewal of our food systems and, in the process, create a \"sister\" issue of our magazines on rural-urban linkages.",
+    "fr": "Ce numéro de Farming Matters and Urban Agriculture Magazine est une coproduction entre ILEIA et la Fondation RUAF. RUAF s'appuie sur son expérience en matière d'agriculture urbaine et de systèmes alimentaires et ILEIA sur l'agriculture familiale et l'agroécologie. Nous y voyons une occasion d'explorer et d'affirmer les liens entre le rural et l'urbain dans le renouvellement de nos systèmes alimentaires et, ce faisant, de créer un numéro \"jumeau\" de nos magazines sur les liens entre le rural et l'urbain.",
+    "es": "Revista de Agricultura Urbana nº 30 - Vínculos entre el campo y la ciudad\nEste número de Farming Matters and Urban Agriculture Magazine es una coproducción entre ILEIA y la Fundación RUAF. La RUAF se basa en sus experiencias en agricultura urbana y sistemas alimentarios e ILEIA en la agricultura familiar y la agroecología. Consideramos que se trata de una oportunidad para explorar y afirmar los vínculos entre lo rural y lo urbano en la renovación de nuestros sistemas alimentarios y, de paso, crear un número \"gemelo\" de nuestras revistas sobre los vínculos entre lo rural y lo urbano.",
+    "de": "Urban Agriculture Magazine Nr. 30 - Ländlich-urbane Verknüpfungen\nDiese Ausgabe von Farming Matters und Urban Agriculture Magazine ist eine Gemeinschaftsproduktion von ILEIA und der RUAF Foundation. RUAF schöpft aus fundierten Erfahrungen in der städtischen Landwirtschaft und in Nahrungsmittelsystemen, ILEIA aus Familienbetrieb und Agrarökologie. We see this as an opportunity to explore and affirm the rural-urban linkages in renewing our food systems, and in the process to create a thorough and in-depth 'twin' issue of our magazines on rural-urban linkages."
+  },
   "field": [
     "ecology-environmental-sciences",
     "demography",
@@ -18,7 +23,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "Urban Agriculture Magazine no. 30 – Rural-urban linkages",
+  "name": {
+    "en": "Urban Agriculture Magazine no. 30 – Rural-urban linkages",
+    "fr": "Urban Agriculture Magazine no. 30 – Rural-urban linkages",
+    "es": "Revista Agricultura Urbana nº 30 - Vínculos entre el campo y la ciudad",
+    "de": "Urban Agriculture Magazine no. 30 - Rural-urban linkages"
+  },
   "pubId": 425552,
   "score": -209.87206251509778,
   "state": "completed-project",
@@ -42,27 +52,5 @@
   ],
   "url": "https://ruaf.org/document/urban-agriculture-magazine-no-30-rural-urban-linkages/",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663679280,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663679280,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

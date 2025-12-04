@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754909870,
   "date": null,
-  "description": "The initiative in Ungersheim focuses on sustainable agriculture and food sovereignty. Over eight years, the project has evolved from a single market gardener to a collaborative team, emphasizing local food production, energy independence, and community engagement. The farm not only supplies the local canteen but also distributes free vegetable baskets to households, fostering awareness of organic farming. This innovative model aims to educate and empower the community while promoting ecological practices.",
+  "description": {
+    "en": "The initiative in Ungersheim focuses on sustainable agriculture and food sovereignty. Over eight years, the project has evolved from a single market gardener to a collaborative team, emphasizing local food production, energy independence, and community engagement. The farm not only supplies the local canteen but also distributes free vegetable baskets to households, fostering awareness of organic farming. This innovative model aims to educate and empower the community while promoting ecological practices.",
+    "fr": "L'initiative d'Ungersheim se concentre sur l'agriculture durable et la souveraineté alimentaire. En huit ans, le projet a évolué, passant d'un seul maraîcher à une équipe collaborative, mettant l'accent sur la production alimentaire locale, l'indépendance énergétique et l'engagement de la communauté. La ferme approvisionne non seulement la cantine locale, mais distribue également des paniers de légumes gratuits aux ménages, afin de les sensibiliser à l'agriculture biologique. Ce modèle innovant vise à éduquer et à responsabiliser la communauté tout en promouvant des pratiques écologiques.",
+    "es": "La iniciativa de Ungersheim se centra en la agricultura sostenible y la soberanía alimentaria. A lo largo de ocho años, el proyecto ha evolucionado de un único hortelano a un equipo de colaboración, haciendo hincapié en la producción local de alimentos, la independencia energética y la participación de la comunidad. La granja no sólo abastece al comedor local, sino que también distribuye cestas de verduras gratuitas a los hogares, fomentando la concienciación sobre la agricultura ecológica. Este modelo innovador pretende educar y capacitar a la comunidad al tiempo que promueve prácticas ecológicas.",
+    "de": "Die Initiative in Ungersheim konzentriert sich auf nachhaltige Landwirtschaft und Ernährungssouveränität. Im Laufe von acht Jahren hat sich das Projekt von einem einzelnen Gärtner zu einem kollaborativen Team entwickelt, das den Schwerpunkt auf lokale Lebensmittelproduktion, Energieunabhängigkeit und Engagement für die Gemeinschaft legt. Die Farm beliefert nicht nur die örtliche Kantine, sondern verteilt auch kostenlose Gemüsekörbe an Haushalte und fördert so das Bewusstsein für den ökologischen Landbau. Dieses innovative Modell zielt darauf ab, die Gemeinschaft aufzuklären und zu befähigen und gleichzeitig ökologische Praktiken zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Regie Agricole",
+  "name": {
+    "ro": "Regie Agricole",
+    "en": "Agricultural Regie",
+    "fr": "Régime agricole",
+    "es": "Regie agrícola",
+    "de": "Landwirtschaftliche Regie"
+  },
   "pubId": 483452,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "ro"
 }

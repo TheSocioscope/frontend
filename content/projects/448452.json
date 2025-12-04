@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739454956,
   "date": null,
-  "description": "Changing Food aims to improve the quality of food in Copenhagen’s public kitchens by integrating sustainable practices and increasing the use of organic ingredients. Launched in December 2019, the initiative focuses on evaluating and enhancing food practices in public kitchens, with an emphasis on sustainability and chef education.\n\nThe process begins with an assessment of the kitchens, including an analysis of food procurement and waste, followed by the development of new programs to improve food preparation. Training sessions are also offered to teach chefs how to cook with local and seasonal ingredients. The initiative seeks to empower kitchen staff by providing them with knowledge about food sourcing, which can enhance their motivation and professional pride.\n\nChanging Food also aims to expand its model to other European countries, building on positive results from pilot projects, such as one conducted in Berlin. The initiative highlights the importance of a holistic approach to food sustainability, considering both the environmental and social impacts of food production.",
+  "description": {
+    "en": "Changing Food aims to improve the quality of food in Copenhagen's public kitchens by integrating sustainable practices and increasing the use of organic ingredients. Launched in December 2019, the initiative focuses on assessing and improving food practices in public kitchens, with an emphasis on sustainability and chef training. The process begins with an assessment of the kitchens, including an analysis of food procurement and waste, followed by the development of new programs to improve food preparation. Training sessions are also offered to teach chefs how to cook with local and seasonal ingredients. The initiative aims to empower kitchen staff by providing them with knowledge about food sourcing, which can increase their motivation and professional pride. Changing Food also aims to expand its model to other European countries, building on the positive results of pilot projects, such as one carried out in Berlin. The initiative underlines the importance of a holistic approach to food sustainability, taking into account both the environmental and social impact of food production.",
+    "fr": "Changing Food vise à améliorer la qualité de la nourriture dans les cuisines publiques de Copenhague en intégrant des pratiques durables et en augmentant l'utilisation d'ingrédients biologiques. Lancée en décembre 2019, l'initiative se concentre sur l'évaluation et l'amélioration des pratiques alimentaires dans les cuisines publiques, en mettant l'accent sur la durabilité et la formation des chefs. Le processus commence par une évaluation des cuisines, y compris une analyse de l'approvisionnement alimentaire et du gaspillage, suivie par le développement de nouveaux programmes visant à améliorer la préparation des aliments. Des sessions de formation sont également organisées pour apprendre aux chefs à cuisiner avec des ingrédients locaux et de saison. L'initiative vise à responsabiliser le personnel de cuisine en lui donnant des compétences en matière d'approvisionnement alimentaire, ce qui peut accroître sa motivation et sa fierté professionnelle. Changing Food vise également à étendre son modèle à d'autres pays européens, en s'appuyant sur les résultats positifs de projets pilotes, tels que celui mené à Berlin. L'initiative souligne l'importance d'une approche holistique de la durabilité alimentaire, prenant en compte l'impact environnemental et social de la production alimentaire.",
+    "es": "Changing Food tiene como objetivo mejorar la calidad de la comida en las cocinas públicas de Copenhague mediante la integración de prácticas sostenibles y el aumento del uso de ingredientes orgánicos. Lanzada en diciembre de 2019, la iniciativa se centra en evaluar y mejorar las prácticas alimentarias en las cocinas públicas, haciendo hincapié en la sostenibilidad y la formación de los chefs.\n\nEl proceso comienza con una evaluación de las cocinas, que incluye un análisis de la adquisición y el desperdicio de alimentos, seguido del desarrollo de nuevos programas para mejorar la preparación de alimentos. También se ofrecen sesiones de formación para enseñar a los chefs a cocinar con ingredientes locales y de temporada. La iniciativa pretende capacitar al personal de cocina proporcionándole conocimientos sobre el aprovisionamiento de alimentos, lo que puede aumentar su motivación y orgullo profesional.\n\nChanging Food también aspira a ampliar su modelo a otros países europeos, basándose en los resultados positivos de proyectos piloto, como uno llevado a cabo en Berlín. La iniciativa subraya la importancia de un enfoque holístico de la sostenibilidad alimentaria, que tenga en cuenta tanto el impacto medioambiental como el social de la producción de alimentos.",
+    "de": "Changing Food zielt darauf ab, die Qualität des Essens in Kopenhagens öffentlichen Küchen zu verbessern, indem nachhaltige Praktiken integriert und die Verwendung von organischen Zutaten erhöht werden. Die im Dezember 2019 gestartete Initiative konzentriert sich auf die Bewertung und Verbesserung von Ernährungspraktiken in öffentlichen Küchen, wobei der Schwerpunkt auf Nachhaltigkeit und Chefaufklärung liegt.\n\nDer Prozess beginnt mit einer Bewertung der Küchen, einschließlich einer Analyse der Lebensmittelbeschaffung und des Abfalls, gefolgt von der Entwicklung neuer Programme zur Verbesserung der Lebensmittelzubereitung. Außerdem werden Trainingseinheiten angeboten, in denen Köche lernen, mit lokalen und saisonalen Zutaten zu kochen. Die Initiative zielt darauf ab, das Küchenpersonal zu stärken, indem sie es mit Wissen über die Beschaffung von Lebensmitteln versorgt, wodurch ihre Motivation und ihr berufliches Selbstbewusstsein gesteigert werden können.\n\nChanging Food strebt außerdem die Ausweitung seines Modells auf andere europäische Länder an und baut dabei auf den positiven Ergebnissen von Pilotprojekten auf, wie z. B. einem in Berlin. The initiative highlights the importance of a holistic approach to food sustainability, considering both the environmental and social impacts of food production."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Changing Food",
+  "name": {
+    "en": "Changing Food",
+    "fr": "Changing Food",
+    "es": "Cambiar la alimentación",
+    "de": "Changing Food"
+  },
   "pubId": 448452,
   "score": 1353.0019607843137,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://cphfsc.org",
   "yt": "GCMnM5uoEPI",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754421256,
   "date": null,
-  "description": "The Catena Institute of Wine, an arm of the renowned Argentine winemaking company Catena Zapata, focuses on enhancing wine quality through scientific research and innovation. Established by the Catena family, it aims to position Argentine wines globally while addressing sustainability and climate change challenges. The institute collaborates with various academic and research institutions to develop new techniques in viticulture, ensuring the future of winemaking in Argentina and promoting the Malbec variety's legacy.",
+  "description": {
+    "en": "The Catena Institute of Wine, a branch of the renowned Argentine wine company Catena Zapata, focuses on improving wine quality through scientific research and innovation. Founded by the Catena family, its goal is to position Argentine wines on a global scale, while addressing the challenges of sustainability and climate change. The institute collaborates with various academic and research institutions to develop new techniques in viticulture, ensuring the future of winemaking in Argentina and promoting the legacy of the Malbec variety.",
+    "fr": "Le Catena Institute of Wine, une branche de la célèbre société vinicole argentine Catena Zapata, se concentre sur l'amélioration de la qualité du vin par le biais de la recherche scientifique et de l'innovation. Fondé par la famille Catena, il vise à positionner les vins argentins à l'échelle mondiale, tout en relevant les défis de la durabilité et du changement climatique. L'institut collabore avec diverses institutions universitaires et de recherche pour développer de nouvelles techniques de viticulture, assurant ainsi l'avenir de la vinification en Argentine et promouvant l'héritage du cépage Malbec.",
+    "es": "El Catena Institute of Wine, una rama de la renombrada empresa vinícola argentina Catena Zapata, se centra en mejorar la calidad del vino a través de la investigación científica y la innovación. Fundado por la familia Catena, su objetivo es posicionar los vinos argentinos a escala mundial, abordando al mismo tiempo los retos de la sostenibilidad y el cambio climático. El instituto colabora con diversas instituciones académicas y de investigación para desarrollar nuevas técnicas en viticultura, asegurando el futuro de la vinicultura en Argentina y promoviendo el legado de la variedad Malbec.",
+    "de": "Das Catena Institute of Wine, ein Arm des renommierten argentinischen Winzerunternehmens Catena Zapata, konzentriert sich auf die Verbesserung der Weinqualität durch wissenschaftliche Forschung und Innovation. Das von der Familie Catena gegründete Institut zielt darauf ab, argentinische Weine global zu positionieren und gleichzeitig die Herausforderungen der Nachhaltigkeit und des Klimawandels zu bewältigen. Das Institut arbeitet mit verschiedenen akademischen und Forschungsinstitutionen zusammen, um neue Techniken im Weinbau zu entwickeln, die Zukunft des Weinbaus in Argentinien zu sichern und das Erbe der Sorte Malbec zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Catena Institute of Wine",
+  "name": {
+    "en": "Catena Institute of Wine",
+    "fr": "Catena Institute of Wine",
+    "es": "Instituto del Vino de Catena",
+    "de": "Catena Institute of Wine"
+  },
   "pubId": 451752,
   "score": -65.45595952450972,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

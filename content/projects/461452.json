@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754563533,
   "date": null,
-  "description": "Roll Food is an innovative company founded less than five years ago, focusing on sustainable food processing. It emerged from a project involving cooperatives in Argentina, aiming to revitalize local economies by utilizing discarded produce. With a commitment to quality, Roll Food specializes in dehydrated and canned products, leveraging advanced technology and renewable energy. The company emphasizes democratizing access to healthy food while maintaining high standards, and it has received multiple awards for its contributions to the food industry.",
+  "description": {
+    "en": "Roll Food is an innovative company founded less than five years ago, focused on sustainable food processing. It grew out of a cooperative project in Argentina, with the goal of revitalizing local economies by utilizing discarded products. With a commitment to quality, Roll Food specializes in dehydrated and canned products, leveraging advanced technology and renewable energy. The company emphasizes democratizing access to healthy food while maintaining high standards, and has received multiple awards for its contributions to the food industry.",
+    "fr": "Roll Food est une entreprise innovante fondée il y a moins de cinq ans, qui se consacre à la transformation durable des aliments. Elle est née d'un projet coopératif en Argentine, dans le but de revitaliser les économies locales grâce à l'utilisation de produits mis au rebut. Attachée à la qualité, Roll Food se spécialise dans les produits déshydratés et en conserve, en exploitant les technologies de pointe et les énergies renouvelables. L'entreprise met l'accent sur la démocratisation de l'accès à des aliments sains tout en maintenant des normes élevées, et a reçu de nombreuses récompenses pour sa contribution à l'industrie alimentaire.",
+    "es": "Roll Food es una empresa innovadora fundada hace menos de cinco años, centrada en el procesamiento sostenible de alimentos. Surgió de un proyecto de cooperativas en Argentina, con el objetivo de revitalizar las economías locales mediante la utilización de productos desechados. Con un compromiso con la calidad, Roll Food se especializa en productos deshidratados y enlatados, aprovechando la tecnología avanzada y la energía renovable. La empresa hace hincapié en democratizar el acceso a alimentos sanos manteniendo al mismo tiempo unos estándares elevados, y ha recibido múltiples premios por sus contribuciones a la industria alimentaria.",
+    "de": "Roll Food ist ein innovatives Unternehmen, das vor knapp fünf Jahren gegründet wurde und sich auf die nachhaltige Verarbeitung von Lebensmitteln konzentriert. Es entstand aus einem Projekt, an dem Genossenschaften in Argentinien beteiligt waren und das darauf abzielte, die lokale Wirtschaft durch die Verwendung von Abfallprodukten wiederzubeleben. Mit einem Bekenntnis zur Qualität spezialisiert sich Roll Food auf dehydrierte und Rohrzuckerprodukte und setzt dabei auf fortschrittliche Technologien und erneuerbare Energien. Das Unternehmen betont die Demokratisierung des Zugangs zu gesunden Lebensmitteln unter Wahrung hoher Standards und hat für seine Beiträge zur Lebensmittelindustrie zahlreiche Auszeichnungen erhalten."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Roll Food",
+  "name": {
+    "en": "Roll Food",
+    "fr": "Roll Food",
+    "es": "Roll Food",
+    "de": "Roll Food"
+  },
   "pubId": 461452,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

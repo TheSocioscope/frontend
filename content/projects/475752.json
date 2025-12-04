@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754579071,
   "date": null,
-  "description": "The Moo Fodder is a demonstration farm, focusing on providing diverse planting materials to farmers, NGOs, and cooperative societies across Kenya and beyond. Established in 2016, it aims to enhance food security by offering affordable, high-quality planting materials like Australian Red Napier and various other grasses. The initiative also emphasizes education and training for farmers, promoting sustainable agricultural practices and improving overall food systems in the region.                  ",
+  "description": {
+    "en": "The Moo Fodder is a demonstration farm focused on providing various planting materials to farmers, NGOs and cooperative societies in Kenya and other countries. Established in 2016, it aims to improve food security by providing affordable, high-quality planting material, such as Australian Red Napier and other grasses. The initiative also emphasizes farmer education and training, promoting sustainable farming practices and improving overall food systems in the region.                  ",
+    "fr": "The Moo Fodder est une ferme de démonstration axée sur la fourniture de divers matériels de plantation aux agriculteurs, aux ONG et aux sociétés coopératives au Kenya et dans d'autres pays. Créée en 2016, elle vise à améliorer la sécurité alimentaire en fournissant du matériel de plantation abordable et de haute qualité, tel que l'Australian Red Napier et d'autres graminées. L'initiative met également l'accent sur l'éducation et la formation des agriculteurs, la promotion de pratiques agricoles durables et l'amélioration de l'ensemble des systèmes alimentaires de la région.                  ",
+    "es": "The Moo Fodder es una granja de demostración centrada en proporcionar diversos materiales de siembra a agricultores, ONG y sociedades cooperativas de Kenia y otros países. Creada en 2016, su objetivo es mejorar la seguridad alimentaria ofreciendo material de siembra asequible y de alta calidad, como el Australian Red Napier y otras gramíneas. La iniciativa también hace hincapié en la educación y la formación de los agricultores, promoviendo prácticas agrícolas sostenibles y mejorando los sistemas alimentarios generales de la región.                  ",
+    "de": "The Moo Fodder ist eine Demonstrationsfarm, die sich darauf konzentriert, Bauern, NGOs und Genossenschaften in ganz Kenia und darüber hinaus mit verschiedenen Pflanzmaterialien zu versorgen. Die 2016 gegründete Initiative zielt darauf ab, die Ernährungssicherheit zu erhöhen, indem sie erschwingliches, hochwertiges Pflanzmaterial wie Australian Red Napier und verschiedene andere Gräser anbietet. Die Initiative legt außerdem Wert auf die Aus- und Weiterbildung von Landwirten, die Förderung nachhaltiger landwirtschaftlicher Praktiken und die Verbesserung des gesamten Ernährungssystems in der Region.                  "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Moo Fodder ",
+  "name": {
+    "nb": "Moo Fodder ",
+    "en": "Moo Fodder",
+    "fr": "Le fourrage Moo",
+    "es": "Moo Fodder",
+    "de": "Muh-Futter"
+  },
   "pubId": 475752,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

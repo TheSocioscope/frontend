@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755009385,
   "date": null,
-  "description": "The initiative focuses on sustainable pest control through conservation biological control, led by Esther Molina in Almería, Spain. By utilizing natural predators and creating a balanced ecosystem within her greenhouses, she minimizes the need for chemical pesticides. This innovative approach not only promotes biodiversity but also enhances crop health. Esther's work, supported by research institutions, aims to educate others in the agricultural sector about alternative pest management methods, fostering a more sustainable farming community.",
+  "description": {
+    "en": "The initiative focuses on sustainable pest control through conservation biological control, led by Esther Molina in Almería, Spain. By utilizing natural predators and creating a balanced ecosystem within her greenhouses, she minimizes the need for chemical pesticides. This innovative approach not only promotes biodiversity but also enhances crop health. Esther's work, supported by research institutions, aims to educate others in the agricultural sector about alternative pest management methods, fostering a more sustainable farming community.",
+    "fr": "L'initiative se concentre sur la lutte durable contre les parasites par le biais de la lutte biologique de conservation, sous la direction d'Esther Molina à Almería, en Espagne. En utilisant des prédateurs naturels et en créant un écosystème équilibré dans ses serres, elle minimise le recours aux pesticides chimiques. Cette approche innovante favorise non seulement la biodiversité, mais améliore également la santé des cultures. Les travaux d'Esther, soutenus par des instituts de recherche, visent à sensibiliser d'autres acteurs du secteur agricole aux méthodes alternatives de lutte contre les ravageurs, favorisant ainsi une communauté agricole plus durable.",
+    "es": "La iniciativa se centra en el control sostenible de plagas mediante la lucha biológica de conservación, dirigida por Esther Molina en Almería (España). Utilizando depredadores naturales y creando un ecosistema equilibrado en sus invernaderos, reduce al mínimo la necesidad de plaguicidas químicos. Este enfoque innovador no sólo fomenta la biodiversidad, sino que también mejora la salud de los cultivos. El trabajo de Esther, apoyado por instituciones de investigación, pretende educar a otros en el sector agrícola sobre métodos alternativos de gestión de plagas, fomentando una comunidad agrícola más sostenible.",
+    "de": "Im Mittelpunkt der Initiative steht die nachhaltige Schädlingsbekämpfung durch biologische Schädlingsbekämpfung unter der Leitung von Esther Molina in Almería, Spanien. Durch den Einsatz natürlicher Raubtiere und die Schaffung eines ausgewogenen Ökosystems in ihren Gewächshäusern minimiert sie den Bedarf an chemischen Pestiziden. Dieser innovative Ansatz fördert nicht nur die Artenvielfalt, sondern auch die Gesundheit der Pflanzen. Esthers Arbeit, die von Forschungseinrichtungen unterstützt wird, zielt darauf ab, andere in der Landwirtschaft über alternative Schädlingsbekämpfungsmethoden aufzuklären und so eine nachhaltigere Landwirtschaft zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Esther Molina",
+  "name": {
+    "de": "Esther Molina",
+    "en": "Esther Molina",
+    "fr": "Esther Molina",
+    "es": "Esther Molina"
+  },
   "pubId": 496152,
   "score": -19.018390049604932,
   "state": "ongoing-project",
@@ -43,10 +53,6 @@
   ],
   "url": "",
   "yt": "hvgRPSeSt0w",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760066331,
   "feedback": [
     {
@@ -54,11 +60,8 @@
       "at": 1760066331
     }
   ],
-  "lastEvent": {
-    "at": 1760066331,
-    "by": "contact"
-  },
   "updatedAt": [
     1760066331
-  ]
+  ],
+  "originalLang": "de"
 }

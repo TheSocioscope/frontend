@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754424266,
   "date": null,
-  "description": "Nehuen is a vibrant market located in Mallín Ahogado, Patagonia, showcasing a diverse range of products from local producers. It offers homemade and handmade goods, including craft beer, jams, medicinal herbs, and natural cosmetics. The initiative fosters a close relationship between producers and consumers, emphasizing agro-ecological practices and community engagement. Nehuen serves as a meeting point for neighbors and tourists, promoting sustainable local economies and cultural events while strengthening the bonds within the community.",
+  "description": {
+    "en": "Nehuen is a lively market located in Mallín Ahogado, Patagonia, which displays a wide range of products from local producers. It offers homemade and artisanal products, such as craft beer, jams, medicinal herbs and natural cosmetics. The initiative fosters a close relationship between producers and consumers, emphasizing agroecological practices and community participation. Nehuen serves as a meeting point for neighbors and tourists, promoting sustainable local economies and cultural events while strengthening ties within the community.",
+    "fr": "Nehuen est un marché animé situé à Mallín Ahogado, en Patagonie, qui présente un large éventail de produits provenant de producteurs locaux. Il propose des produits faits maison et artisanaux, tels que de la bière artisanale, des confitures, des herbes médicinales et des cosmétiques naturels. L'initiative favorise une relation étroite entre les producteurs et les consommateurs, en mettant l'accent sur les pratiques agro-écologiques et la participation de la communauté. Nehuen sert de point de rencontre pour les voisins et les touristes, encourageant les économies locales durables et les événements culturels tout en renforçant les liens au sein de la communauté.",
+    "es": "Nehuen es un animado mercado situado en Mallín Ahogado, Patagonia, que exhibe una variada gama de productos de productores locales. Ofrece productos caseros y artesanales, como cerveza artesanal, mermeladas, hierbas medicinales y cosméticos naturales. La iniciativa fomenta una estrecha relación entre productores y consumidores, haciendo hincapié en las prácticas agroecológicas y la participación de la comunidad. Nehuen sirve de punto de encuentro para vecinos y turistas, promoviendo economías locales sostenibles y eventos culturales al tiempo que refuerza los lazos dentro de la comunidad.",
+    "de": "Nehuen ist ein pulsierender Markt in Mallín Ahogado, Patagonien, der eine breite Palette an Produkten von lokalen Produzenten anbietet. Er bietet selbstgemachte und handgefertigte Waren an, darunter Craft Beer, Schinken, Heilkräuter und Naturkosmetik. Die Initiative fördert eine enge Beziehung zwischen Erzeugern und Verbrauchern, betont agrarökologische Praktiken und kommunales Engagement. Nehuen dient als Treffpunkt für Nachbarn und Touristen, fördert die nachhaltige lokale Wirtschaft und kulturelle Veranstaltungen, während die Bindungen innerhalb der Gemeinde gestärkt werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nehuen",
+  "name": {
+    "en": "Nehuen",
+    "fr": "Nehuen",
+    "es": "Nehuen",
+    "de": "Nehuen"
+  },
   "pubId": 463152,
   "score": -99.57670371869155,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

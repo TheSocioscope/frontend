@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754990049,
   "date": null,
-  "description": "The Growing Hope project supports farmers in the Perico Negro area through the establishment of satellite farms. Initially, 15 farms were assessed, revealing issues like monoculture and poor resource management. The initiative focuses on training farmers in land diversification and sustainable practices, leading to the creation of nine satellite farms. This project not only enhances food production but also fosters community engagement and awareness of the value of their land for sustainable agriculture.",
+  "description": {
+    "en": "The Growing Hope project supports farmers in the Perico Negro area through the establishment of satellite farms. Initially, 15 farms were assessed, revealing issues like monoculture and poor resource management. The initiative focuses on training farmers in land diversification and sustainable practices, leading to the creation of nine satellite farms. This project not only enhances food production but also fosters community engagement and awareness of the value of their land for sustainable agriculture.",
+    "fr": "Le projet Growing Hope soutient les agriculteurs de la région de Perico Negro en créant des fermes satellites. Au départ, 15 exploitations ont été évaluées, révélant des problèmes tels que la monoculture et la mauvaise gestion des ressources. L'initiative se concentre sur la formation des agriculteurs à la diversification des terres et aux pratiques durables, ce qui a conduit à la création de neuf fermes satellites. Ce projet ne se contente pas d'améliorer la production alimentaire, il favorise également l'engagement communautaire et la prise de conscience de la valeur de leurs terres pour une agriculture durable.",
+    "es": "El proyecto Growing Hope apoya a los agricultores de la zona de Perico Negro mediante el establecimiento de granjas satélite. Inicialmente se evaluaron 15 granjas, que revelaron problemas como el monocultivo y la mala gestión de los recursos. La iniciativa se centra en formar a los agricultores en diversificación de tierras y prácticas sostenibles, lo que ha llevado a la creación de nueve granjas satélite. Este proyecto no sólo mejora la producción de alimentos, sino que también fomenta el compromiso de la comunidad y la concienciación sobre el valor de sus tierras para la agricultura sostenible.",
+    "de": "Das Projekt Growing Hope unterstützt Landwirte in der Region Perico Negro durch die Einrichtung von Satellitenfarmen. Ursprünglich wurden 15 Farmen bewertet, wobei Probleme wie Monokulturen und schlechtes Ressourcenmanagement zutage traten. Die Initiative konzentriert sich auf die Schulung der Landwirte in der Diversifizierung der Anbauflächen und in nachhaltigen Praktiken, was zur Gründung von neun Satellitenfarmen führte. Dieses Projekt verbessert nicht nur die Nahrungsmittelproduktion, sondern fördert auch das Engagement der Gemeinschaft und das Bewusstsein für den Wert ihres Landes für eine nachhaltige Landwirtschaft."
+  },
   "field": [
     "engineering-and-technology",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Growing Hope - Satellite Farms",
+  "name": {
+    "en": "Growing Hope - Satellite Farms",
+    "fr": "Growing Hope - Fermes satellites",
+    "es": "Growing Hope - Granjas satélite",
+    "de": "Wachsende Hoffnung - Satellite Farms"
+  },
   "pubId": 489552,
   "score": 52.944922565946705,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "en"
 }

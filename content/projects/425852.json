@@ -12,14 +12,24 @@
   ],
   "createdAt": 1663855759,
   "date": null,
-  "description": "Project Goal: Deliver scalable cheap dietary advice at population level.\nResearch Question: How can we automatically derive dietary advice from loyalty card data at population level?\nMethods: Collection of grocery shopping data from loyalty card data. Creation of a model to predict professional dietary advice from this data. Deliver this advice to users.\nExpected Outcomes: System that can deliver scalable cheap dietary advice at population level in countries that have high (grocery shopping) loyalty card rates.",
+  "description": {
+    "en": "Project goal: To provide inexpensive and scalable dietary advice to the population. Research question: How can we automatically obtain dietary advice from loyalty card data of the population? Methods: Collection of food purchase data from loyalty card data. Creation of a model to predict professional dietary advice from this data. Delivery of this advice to users. Expected results: A system that can provide inexpensive and scalable dietary advice at the population level in countries with high rates of loyalty cards (for grocery shopping).",
+    "fr": "Objectif du projet : fournir à la population des conseils diététiques peu coûteux et évolutifs. Question de recherche : comment pouvons-nous obtenir automatiquement des conseils diététiques à partir des données des cartes de fidélité de la population ? Méthodes : collecte de données sur les achats alimentaires à partir des données des cartes de fidélité. Création d'un modèle pour prédire les conseils diététiques professionnels à partir de ces données. Résultats attendus : un système capable de fournir des conseils diététiques peu coûteux et évolutifs au niveau de la population dans les pays où les cartes de fidélité (pour les achats alimentaires) sont très répandues.",
+    "es": "Objetivo del proyecto: Proporcionar asesoramiento dietético barato y escalable a la población.\nPregunta de investigación: ¿Cómo podemos obtener automáticamente consejos dietéticos a partir de los datos de las tarjetas de fidelización de la población?\nMétodos: Recopilación de datos de compras de alimentación a partir de datos de tarjetas de fidelización. Creación de un modelo para predecir consejos dietéticos profesionales a partir de estos datos. Entrega de estos consejos a los usuarios.\nResultados esperados: Un sistema que pueda ofrecer asesoramiento dietético barato y escalable a nivel de población en países con altos índices de tarjetas de fidelidad (para la compra de comestibles).",
+    "de": "Project Goal: Deliver scalable cheap dietary advice at population level.\nForschungsfrage: Wie können wir automatisch Ernährungsratschläge aus Treuekartendaten auf Bevölkerungsebene ableiten?\nMethoden: Sammlung von Einkaufsdaten aus Loyalitätskartendaten. Erstellung eines Modells zur Vorhersage professioneller Ernährungsberatung aus diesen Daten. Bereitstellung dieser Beratung für Nutzer.\nExpected Outcomes: System, das skalierbare, preiswerte Ernährungsberatung auf Bevölkerungsebene in Ländern liefern kann, die hohe (Einkaufszentren) Loyalty-Karten-Raten haben."
+  },
   "field": [
     "computer-sciences",
     "medicine"
   ],
   "lang": "en",
   "location": "",
-  "name": "FoodCoach",
+  "name": {
+    "en": "FoodCoach",
+    "fr": "FoodCoach",
+    "es": "FoodCoach",
+    "de": "FoodCoach"
+  },
   "pubId": 425852,
   "score": -232.73539188477284,
   "state": "ongoing-project",
@@ -54,8 +64,5 @@
   ],
   "url": "https://dietcoach.ch/",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

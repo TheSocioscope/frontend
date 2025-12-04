@@ -14,7 +14,12 @@
   "date": [
     "2017-04-14"
   ],
-  "description": "La mondialisation des systèmes alimentaires ne se limite pas aux échanges commerciaux ou aux influences culinaires. Phénomène multiséculaire, mais partiellement réversible, elle contribue de plus en plus à l'interpénétration des échelles géographiques : espaces locaux, nations, continents, monde. Processus économique mais aussi culturel, politique, scientifique, juridique, elle transforme en profondeur les manières de produire ou de consommer. L’exercice de prospective MOND’Alim 2030, piloté par le Centre d'études et de prospective, vise à caractériser la phase de mondialisation actuelle, documenter les dynamiques à l’œuvre, envisager leur prolongement d’ici 2030 et identifier certaines ruptures déjà en germes. L'ouvrage MOND'Alim 2030. Panorama prospectif de la mondialisation des systèmes alimentaires, publié début 2017 à La Documentation française, présente les résultats de cet exercice.",
+  "description": {
+    "fr": "La mondialisation des systèmes alimentaires ne se limite pas aux échanges commerciaux ou aux influences culinaires. Phénomène multiséculaire, mais partiellement réversible, elle contribue de plus en plus à l'interpénétration des échelles géographiques : espaces locaux, nations, continents, monde. Processus économique mais aussi culturel, politique, scientifique, juridique, elle transforme en profondeur les manières de produire ou de consommer. L’exercice de prospective MOND’Alim 2030, piloté par le Centre d'études et de prospective, vise à caractériser la phase de mondialisation actuelle, documenter les dynamiques à l’œuvre, envisager leur prolongement d’ici 2030 et identifier certaines ruptures déjà en germes. L'ouvrage MOND'Alim 2030. Panorama prospectif de la mondialisation des systèmes alimentaires, publié début 2017 à La Documentation française, présente les résultats de cet exercice.",
+    "en": "The globalization of food systems is not limited to trade or culinary influences. A centuries-old but partially reversible phenomenon, it is increasingly contributing to the interpenetration of geographical scales: local areas, nations, continents, the world. Not only an economic process, but also a cultural, political, scientific and legal one, it is profoundly transforming the way we produce and consume. The MOND'Alim 2030 foresight exercise, led by the Centre d'études et de prospective, aims to characterize the current phase of globalization, document the dynamics at work, envisage their extension by 2030 and identify certain ruptures already in the making. The book MOND'Alim 2030. Panorama prospectif de la mondialisation des systèmes alimentaires, published in early 2017 by La Documentation française, presents the results of this exercise.",
+    "es": "La globalización de los sistemas alimentarios no se limita al comercio o a las influencias culinarias. Fenómeno multisecular, aunque parcialmente reversible, contribuye cada vez más a la interpenetración de las escalas geográficas: zonas locales, naciones, continentes, el mundo. Como proceso económico, pero también cultural, político, científico y jurídico, está transformando profundamente nuestra forma de producir y consumir. El ejercicio de prospectiva MOND'Alim 2030, pilotado por el Centre d'études et de prospective, pretende caracterizar la fase actual de la globalización, documentar las dinámicas en curso, prever su extensión de aquí a 2030 e identificar ciertas rupturas ya en ciernes. El libro MOND'Alim 2030. Panorama prospectif de la mondialisation des systèmes alimentaires, publicado a principios de 2017 por La Documentation française, presenta los resultados de este ejercicio.",
+    "de": "Die Globalisierung der Nahrungsmittelsysteme beschränkt sich nicht auf Handelsaustausch oder kulinarische Einflüsse. Sie ist ein jahrhundertealtes, aber nur teilweise umkehrbares Phänomen, das zunehmend zu einer Verflechtung der geografischen Maßstäbe beiträgt: lokale Räume, Nationen, Kontinente, die Welt. Sie ist ein wirtschaftlicher, aber auch ein kultureller, politischer, wissenschaftlicher und rechtlicher Prozess, der die Art und Weise, wie wir produzieren oder konsumieren, grundlegend verändert. Die vom Centre d'études et de prospective geleitete Zukunftsstudie MOND'Alim 2030 zielt darauf ab, die derzeitige Globalisierungsphase zu charakterisieren, die Dynamiken zu dokumentieren, ihre Fortsetzung bis 2030 zu planen und bestimmte, sich bereits abzeichnende Brüche zu identifizieren. Das Buch MOND'Alim 2030. Panorama prospectif de la mondialisation des systèmes alimentaires, das Anfang 2017 bei La Documentation française veröffentlicht wurde, stellt die Ergebnisse dieser Übung vor."
+  },
   "field": [
     "economics-statistics",
     "geography",
@@ -24,7 +29,13 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "MOND'Alim 2030",
+  "name": {
+    "tr": "MOND'Alim 2030",
+    "en": "MOND'Alim 2030",
+    "fr": "MOND'Alim 2030",
+    "es": "MOND'Alim 2030",
+    "de": "MOND'Alim 2030"
+  },
   "pubId": 410452,
   "score": 932.1222222222133,
   "state": "completed-project",
@@ -54,28 +65,5 @@
   ],
   "url": "https://agriculture.gouv.fr/mondalim-2030-panorama-prospectif-de-la-mondialisation-des-systemes-alimentaires",
   "yt": "",
-  "zone": [
-    3,
-    7
-  ],
-  "lastEvent": {
-    "at": 1662802065,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1662802065,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

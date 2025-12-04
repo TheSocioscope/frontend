@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754498474,
   "date": null,
-  "description": "Zetas la Calera is a mushroom cultivation initiative founded by two sisters, who sought an economic alternative to their previous jobs. With support from Huella, they have developed a sustainable business model that focuses on organic mushroom production. By utilizing specialized indoor growing techniques, they aim to supply mushrooms year-round, catering to the growing demand for organic products in the culinary market while navigating challenges in sourcing materials and expanding their operations.",
+  "description": {
+    "en": "Zetas la Calera is a mushroom farming initiative founded by two sisters, who were looking for an economic alternative to their previous jobs. With the support of Huella, they have developed a sustainable business model focused on organic mushroom production. Using specialized indoor cultivation techniques, they aim to supply mushrooms year-round, meeting the growing demand for organic products in the culinary market, while facing the challenges of sourcing materials and expanding their operations.",
+    "fr": "Zetas la Calera est une initiative de culture de champignons fondée par deux sœurs qui cherchaient une alternative économique à leur emploi précédent. Avec le soutien de Huella, elles ont développé un modèle d'entreprise durable axé sur la production de champignons biologiques. Grâce à des techniques spécialisées de culture en intérieur, elles visent à fournir des champignons tout au long de l'année, répondant ainsi à la demande croissante de produits biologiques sur le marché culinaire, tout en faisant face aux défis de l'approvisionnement en matériaux et de l'expansion de leurs activités.",
+    "es": "Zetas la Calera es una iniciativa de cultivo de setas fundada por dos hermanas, que buscaban una alternativa económica a sus anteriores trabajos. Con el apoyo de Huella, han desarrollado un modelo de negocio sostenible centrado en la producción ecológica de setas. Utilizando técnicas especializadas de cultivo de interior, pretenden suministrar setas durante todo el año, atendiendo a la creciente demanda de productos ecológicos en el mercado culinario, al tiempo que afrontan los retos de abastecerse de materiales y ampliar sus operaciones.",
+    "de": "Zetas la Calera ist eine von zwei Schwestern gegründete Initiative zur Anpflanzung von Mushroom, die eine wirtschaftliche Alternative zu ihren bisherigen Jobs suchten. Mit Unterstützung von Huella haben sie ein nachhaltiges Geschäftsmodell entwickelt, das sich auf die organische Mushroom-Produktion konzentriert. Durch den Einsatz spezieller Indoor-Wachstumstechniken wollen sie die Mushrooms ganzjährig liefern und die wachsende Nachfrage nach organischen Produkten auf dem kulinarischen Markt befriedigen, während sie gleichzeitig Herausforderungen bei der Beschaffung von Materialien und der Expansion ihrer Betriebe meistern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Zetas la Calera",
+  "name": {
+    "es": "Zetas la Calera",
+    "en": "Zetas la Calera",
+    "fr": "Zetas la Calera",
+    "de": "Zetas la Calera"
+  },
   "pubId": 468552,
   "score": 30.40974208718123,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

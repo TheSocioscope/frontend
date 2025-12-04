@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754988506,
   "date": null,
-  "description": "Fundaec, an NGO based in Cali, Colombia, has been dedicated to rural development through education for over 50 years. Their current initiative, \"Growing Hope,\" supports four communities in transitioning to regenerative agriculture. This multifaceted project includes a demonstration farm for training, satellite farms for local farmers, and educational programs in schools to enhance nutrition and agricultural knowledge. It emphasizes community involvement and aims to empower individuals to take charge of their development.",
+  "description": {
+    "en": "Fundaec, an NGO based in Cali, Colombia, has been dedicated to rural development through education for over 50 years. Their current initiative, \"Growing Hope,\" supports four communities in transitioning to regenerative agriculture. This multifaceted project includes a demonstration farm for training, satellite farms for local farmers, and educational programs in schools to enhance nutrition and agricultural knowledge. It emphasizes community involvement and aims to empower individuals to take charge of their development.",
+    "fr": "La Fundaec, une ONG basée à Cali, en Colombie, se consacre au développement rural par le biais de l'éducation depuis plus de 50 ans. Son initiative actuelle, \"Growing Hope\", soutient quatre communautés dans leur transition vers l'agriculture régénératrice. Ce projet à multiples facettes comprend une ferme de démonstration pour la formation, des fermes satellites pour les agriculteurs locaux et des programmes éducatifs dans les écoles pour améliorer la nutrition et les connaissances agricoles. Il met l'accent sur l'implication de la communauté et vise à donner aux individus les moyens de prendre en charge leur développement.",
+    "es": "Fundaec, una ONG con sede en Cali (Colombia), lleva más de 50 años dedicada al desarrollo rural a través de la educación. Su iniciativa actual, \"Cultivando esperanza\", apoya a cuatro comunidades en su transición a la agricultura regenerativa. Este proyecto polifacético incluye una granja de demostración para formación, granjas satélite para agricultores locales y programas educativos en las escuelas para mejorar la nutrición y los conocimientos agrícolas. Hace hincapié en la participación de la comunidad y pretende capacitar a las personas para que tomen las riendas de su desarrollo.",
+    "de": "Fundaec, eine NRO mit Sitz in Cali, Kolumbien, engagiert sich seit über 50 Jahren für die ländliche Entwicklung durch Bildung. Ihre aktuelle Initiative \"Growing Hope\" unterstützt vier Gemeinden bei der Umstellung auf eine regenerative Landwirtschaft. Dieses vielseitige Projekt umfasst eine Demonstrationsfarm für Schulungszwecke, Satellitenfarmen für lokale Landwirte und Bildungsprogramme in Schulen zur Verbesserung der Ernährung und des landwirtschaftlichen Wissens. Der Schwerpunkt liegt auf der Einbeziehung der Gemeinden und der Befähigung der Menschen, ihre Entwicklung selbst in die Hand zu nehmen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Growing Hope General",
+  "name": {
+    "en": "Growing Hope General",
+    "fr": "Growing Hope Général",
+    "es": "Esperanza creciente General",
+    "de": "Wachsende Hoffnung Allgemein"
+  },
   "pubId": 489052,
   "score": 52.944922565946705,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "en"
 }

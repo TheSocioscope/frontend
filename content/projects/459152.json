@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754402685,
   "date": null,
-  "description": "Arch Bio is an innovative architecture firm founded in 2018, focused on bioclimatic design to enhance living conditions and environmental sustainability. With operations in the UK, Arch Bio aims to transform how we inhabit and construct our world. The organization offers architectural design, consultancy, and construction services, emphasizing resource efficiency and the reuse of materials. Additionally, the Academy Arch Bio Foundation promotes education in sustainable building practices, impacting over 1,500 students since its inception.",
+  "description": {
+    "en": "Arch Bio is an innovative architectural practice founded in 2018, focused on bioclimatic design to improve living conditions and environmental sustainability. With operations in the UK, Arch Bio aims to transform the way we inhabit and build our world. The organization offers architectural design, consulting and construction services, with an emphasis on resource efficiency and material reuse. In addition, the Arch Bio Foundation Academy promotes education in sustainable building practices, impacting more than 1,500 students since its inception.",
+    "fr": "Arch Bio est un cabinet d'architecture innovant fondé en 2018, axé sur la conception bioclimatique pour améliorer les conditions de vie et la durabilité environnementale. Avec des opérations au Royaume-Uni, Arch Bio vise à transformer la façon dont nous habitons et construisons notre monde. L'organisation propose des services de conception architecturale, de conseil et de construction, en mettant l'accent sur l'efficacité des ressources et la réutilisation des matériaux. En outre, l'Arch Bio Foundation Academy promeut l'éducation aux pratiques de construction durable, avec un impact sur plus de 1 500 étudiants depuis sa création.",
+    "es": "Arch Bio es un innovador estudio de arquitectura fundado en 2018, centrado en el diseño bioclimático para mejorar las condiciones de vida y la sostenibilidad ambiental. Con operaciones en el Reino Unido, Arch Bio tiene como objetivo transformar la forma en que habitamos y construimos nuestro mundo. La organización ofrece servicios de diseño arquitectónico, consultoría y construcción, haciendo hincapié en la eficiencia de los recursos y la reutilización de materiales. Además, la Academia Arch Bio Foundation promueve la educación en prácticas de construcción sostenible, con un impacto en más de 1.500 estudiantes desde su creación.",
+    "de": "Arch Bio ist eine 2018 gegründete innovative Architekturfirma, die sich auf bioklimatisches Design zur Verbesserung der Lebensbedingungen und der ökologischen Nachhaltigkeit konzentriert. Mit Betrieben in Großbritannien strebt Arch Bio eine Transformation der Art und Weise an, wie wir unsere Welt bewohnen und bauen. Die Organisation bietet Architekturdesign, Beratung und Baudienstleistungen an und legt dabei Wert auf Ressourceneffizienz und die Wiederverwendung von Materialien. Darüber hinaus fördert die Arch Bio Academy Foundation die Ausbildung in nachhaltigen Baupraktiken und hat seit ihrer Gründung über 1.500 Studenten beeinflusst."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Arch Bio",
+  "name": {
+    "en": "Arch Bio",
+    "fr": "Arch Bio",
+    "es": "Arch Bio",
+    "de": "Arch Bio"
+  },
   "pubId": 459152,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

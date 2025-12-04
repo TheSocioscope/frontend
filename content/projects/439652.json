@@ -13,7 +13,12 @@
   ],
   "createdAt": 1686236858,
   "date": null,
-  "description": "La Villa Rabelais, Maison des cultures gastronomiques, est un lieu unique en France. Centre culturel et scientifique, elle est dédiée à un élément essentiel du patrimoine culturel français : la gastronomie, entendue comme l’art de bien manger et de bien boire pour tous dans le respect de la planète.\nLa Villa Rabelais accueille : → un pôle scientifique : l'IEHCA (réseau thématique de recherche) et le pôle alimentation de l'université de Tours, → un pôle livres : une bibliothèque de recherche dotée d’un fonds multilingue de plus de 10 000 ouvrages et une bibliothèque gourmande, ouverte à tous, → une « université ouverte des sciences gastronomiques » destinée à promouvoir les cultures alimentaires du monde. \n",
+  "description": {
+    "fr": "La Villa Rabelais, Maison des cultures gastronomiques, est un lieu unique en France. Centre culturel et scientifique, elle est dédiée à un élément essentiel du patrimoine culturel français : la gastronomie, entendue comme l’art de bien manger et de bien boire pour tous dans le respect de la planète.\nLa Villa Rabelais accueille : → un pôle scientifique : l'IEHCA (réseau thématique de recherche) et le pôle alimentation de l'université de Tours, → un pôle livres : une bibliothèque de recherche dotée d’un fonds multilingue de plus de 10 000 ouvrages et une bibliothèque gourmande, ouverte à tous, → une « université ouverte des sciences gastronomiques » destinée à promouvoir les cultures alimentaires du monde. \n",
+    "en": "The Villa Rabelais, Maison des cultures gastronomiques, is unique in France. A cultural and scientific center, it is dedicated to an essential part of France's cultural heritage: gastronomy, understood as the art of eating and drinking well for all, while respecting the planet.\nThe Villa Rabelais is home to : → a scientific hub: the IEHCA (thematic research network) and the food hub of the University of Tours, → a book hub: a research library with a multilingual collection of over 10,000 works and a gourmet library, open to all, → an \"open university of gastronomic sciences\" designed to promote the world's food cultures.\n",
+    "es": "La Villa Rabelais, Casa de las Culturas Gastronómicas, es única en Francia. Centro cultural y científico, está dedicado a una parte esencial del patrimonio cultural francés: la gastronomía, entendida como el arte de comer y beber bien para todos, respetando el planeta.\nLa Villa Rabelais alberga : → un centro científico: el IEHCA (red de investigación temática) y el centro alimentario de la Universidad de Tours, → un centro del libro: una biblioteca de investigación con una colección multilingüe de más de 10.000 obras y una biblioteca gastronómica, abierta a todos, → una \"universidad abierta de ciencias gastronómicas\" destinada a promover las culturas alimentarias del mundo.\n",
+    "de": "Die Villa Rabelais, das Haus der gastronomischen Kulturen, ist ein einzigartiger Ort in Frankreich. Als Kultur- und Wissenschaftszentrum ist sie einem wesentlichen Element des französischen Kulturerbes gewidmet: der Gastronomie, verstanden als die Kunst, für alle gut zu essen und zu trinken und dabei den Planeten zu respektieren.\nDie Villa Rabelais beherbergt : → einen wissenschaftlichen Pol: das IEHCA (thematisches Forschungsnetzwerk) und den Schwerpunkt Ernährung der Universität Tours, → einen Bücherpol: eine Forschungsbibliothek mit einem mehrsprachigen Bestand von über 10.000 Werken und eine Feinschmeckerbibliothek, die allen offen steht, → eine \"offene Universität der gastronomischen Wissenschaften\", die die Esskulturen der Welt fördern soll.\n"
+  },
   "field": [
     "anthropology",
     "other-social-sciences-and-humanities",
@@ -29,7 +34,13 @@
   ],
   "lang": "fr",
   "location": "Tours, France",
-  "name": "Villa Rabelais",
+  "name": {
+    "fi": "Villa Rabelais",
+    "en": "Villa Rabelais",
+    "fr": "Villa Rabelais",
+    "es": "Villa Rabelais",
+    "de": "Villa Rabelais"
+  },
   "pubId": 439652,
   "score": 804.9000000000018,
   "state": "ongoing-project",
@@ -65,28 +76,5 @@
   ],
   "url": "https://villa-rabelais.fr/",
   "yt": "7pdo2lH52vQ",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1686315109,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1686315109,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

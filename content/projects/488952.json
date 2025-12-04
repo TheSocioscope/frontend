@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754988343,
   "date": null,
-  "description": "Cacao Hunters is an initiative dedicated to transforming the Colombian cocoa industry by focusing on quality and sustainability. Established in 2011, it connects small-scale farmers with processing centers to produce specialty cocoa. The organization emphasizes genetic research, proper fermentation, and collaboration among producers to enhance cocoa quality. By fostering partnerships and investing in technology, Cacao Hunters aims to elevate Colombian cocoa on the global market while ensuring fair compensation for farmers.",
+  "description": {
+    "en": "Cacao Hunters is an initiative dedicated to transforming the Colombian cocoa industry by focusing on quality and sustainability. Established in 2011, it connects small-scale farmers with processing centers to produce specialty cocoa. The organization emphasizes genetic research, proper fermentation, and collaboration among producers to enhance cocoa quality. By fostering partnerships and investing in technology, Cacao Hunters aims to elevate Colombian cocoa on the global market while ensuring fair compensation for farmers.",
+    "fr": "Cacao Hunters est une initiative visant à transformer l'industrie colombienne du cacao en mettant l'accent sur la qualité et la durabilité. Créée en 2011, elle met en relation des petits producteurs avec des centres de transformation pour produire du cacao de spécialité. L'organisation met l'accent sur la recherche génétique, la fermentation adéquate et la collaboration entre les producteurs pour améliorer la qualité du cacao. En encourageant les partenariats et en investissant dans la technologie, Cacao Hunters vise à élever le cacao colombien sur le marché mondial tout en garantissant une rémunération équitable aux agriculteurs.",
+    "es": "Cacao Hunters es una iniciativa dedicada a transformar la industria colombiana del cacao centrándose en la calidad y la sostenibilidad. Creada en 2011, conecta a pequeños agricultores con centros de procesamiento para producir cacao especial. La organización hace hincapié en la investigación genética, la fermentación adecuada y la colaboración entre productores para mejorar la calidad del cacao. Mediante el fomento de asociaciones y la inversión en tecnología, Cacao Hunters pretende elevar el cacao colombiano en el mercado mundial, garantizando al mismo tiempo una compensación justa para los agricultores.",
+    "de": "Cacao Hunters ist eine Initiative, die sich der Umgestaltung der kolumbianischen Kakaobranche widmet und dabei auf Qualität und Nachhaltigkeit setzt. Sie wurde 2011 gegründet und bringt Kleinbauern mit Verarbeitungszentren zusammen, um Spezialkakao zu produzieren. Die Organisation legt den Schwerpunkt auf genetische Forschung, ordnungsgemäße Fermentierung und die Zusammenarbeit zwischen den Erzeugern, um die Kakaoqualität zu verbessern. Durch die Förderung von Partnerschaften und Investitionen in Technologien will Cacao Hunters den kolumbianischen Kakao auf dem Weltmarkt aufwerten und gleichzeitig eine faire Entlohnung der Bauern sicherstellen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cacao Hunters",
+  "name": {
+    "en": "Cacao Hunters",
+    "fr": "Chasseurs de cacao",
+    "es": "Cazadores de cacao",
+    "de": "Kakaojäger"
+  },
   "pubId": 488952,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "en"
 }

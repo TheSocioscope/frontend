@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754481679,
   "date": null,
-  "description": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) an association of cocoa producers located in Limón, Tolima. Established in 2008, it aims to unite local farmers to enhance cocoa production and improve livelihoods. With 82 members, the association focuses on sustainable practices, including the processing of cocoa into end products. It fosters community collaboration, supports economic growth, and seeks to achieve organic certification while addressing challenges like climate change and market fluctuations.   ",
+  "description": {
+    "en": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) is an association of cocoa producers located in Limón, Tolimais. Created in 2008, its goal is to unite local farmers to increase cocoa production and improve livelihoods. With 82 members, the association focuses on sustainable practices, including the transformation of cocoa into final products. It fosters community collaboration, supports economic growth and seeks organic certification while addressing challenges such as climate change and market fluctuations.   ",
+    "fr": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) est une association de producteurs de cacao située à Limón, Tolimais. Créée en 2008, elle a pour objectif d'unir les agriculteurs locaux afin d'augmenter la production de cacao et d'améliorer leurs moyens de subsistance. Forte de 82 membres, l'association se concentre sur les pratiques durables, y compris la transformation du cacao en produits finis. Elle encourage la collaboration communautaire, soutient la croissance économique et cherche à obtenir la certification biologique tout en relevant des défis tels que le changement climatique et les fluctuations du marché.   ",
+    "es": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) es una asociación de productores de cacao situada en Limón, Tolima. Creada en 2008, su objetivo es unir a los agricultores locales para aumentar la producción de cacao y mejorar los medios de subsistencia. Con 82 miembros, la asociación se centra en prácticas sostenibles, incluida la transformación del cacao en productos finales. Fomenta la colaboración comunitaria, apoya el crecimiento económico y trata de conseguir la certificación orgánica al tiempo que afronta retos como el cambio climático y las fluctuaciones del mercado.   ",
+    "de": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) ist eine Vereinigung von Kakaobauern in Limón, Tolima. Sie wurde 2008 gegründet und zielt darauf ab, lokale Landwirte zu vereinen, um die Kokosproduktion zu steigern und die Lebensbedingungen zu verbessern. Mit 82 Mitgliedern konzentriert sich der Verband auf nachhaltige Praktiken, einschließlich der Verarbeitung von Kokos zu Endprodukten. Sie fördert die Zusammenarbeit mit der Gemeinschaft, unterstützt das Wirtschaftswachstum und strebt eine Bio-Zertifizierung an, wobei Herausforderungen wie Klimawandel und Marktschwankungen bewältigt werden sollen.   "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "APROCASURT",
+  "name": {
+    "es": "APROCASURT",
+    "en": "APROCASURT",
+    "fr": "APROCASURT",
+    "de": "APROCASURT"
+  },
   "pubId": 467852,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

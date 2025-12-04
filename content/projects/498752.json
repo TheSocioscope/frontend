@@ -13,7 +13,12 @@
   ],
   "createdAt": 1755262311,
   "date": null,
-  "description": "The initiative focuses on fostering local governance through participatory budgets in Nantes, empowering residents to propose and decide on community projects. By prioritizing collaboration and consensus, the program encourages civic engagement and strengthens social ties. It emphasizes the importance of storytelling and organized information to facilitate the transfer of knowledge and experiences. This grassroots approach aims to create a more inclusive and responsive political landscape, ultimately enhancing community well-being and cohesion.",
+  "description": {
+    "en": "The initiative focuses on fostering local governance through participatory budgets in Nantes, empowering residents to propose and decide on community projects. By prioritizing collaboration and consensus, the program encourages civic engagement and strengthens social ties. It emphasizes the importance of storytelling and organized information to facilitate the transfer of knowledge and experiences. This grassroots approach aims to create a more inclusive and responsive political landscape, ultimately enhancing community well-being and cohesion.",
+    "fr": "L'initiative vise à encourager la gouvernance locale par le biais de budgets participatifs à Nantes, en permettant aux habitants de proposer et de décider de projets communautaires. En privilégiant la collaboration et le consensus, le programme encourage l'engagement civique et renforce les liens sociaux. Il met l'accent sur l'importance de la narration et de l'organisation de l'information pour faciliter le transfert de connaissances et d'expériences. Cette approche de proximité vise à créer un paysage politique plus inclusif et plus réceptif, ce qui, en fin de compte, améliore le bien-être et la cohésion de la communauté.",
+    "es": "La iniciativa se centra en fomentar la gobernanza local mediante presupuestos participativos en Nantes, capacitando a los residentes para proponer y decidir sobre proyectos comunitarios. Al dar prioridad a la colaboración y el consenso, el programa fomenta el compromiso cívico y refuerza los lazos sociales. Hace hincapié en la importancia de contar historias y organizar la información para facilitar la transferencia de conocimientos y experiencias. Este enfoque de base pretende crear un panorama político más integrador y receptivo, mejorando en última instancia el bienestar y la cohesión de la comunidad.",
+    "de": "Die Initiative konzentriert sich auf die Förderung der lokalen Verwaltung durch Bürgerhaushalte in Nantes, die es den Einwohnern ermöglichen, kommunale Projekte vorzuschlagen und zu beschließen. Indem das Programm auf Zusammenarbeit und Konsens setzt, fördert es bürgerschaftliches Engagement und stärkt die sozialen Bindungen. Es betont die Bedeutung des Geschichtenerzählens und der organisierten Information, um den Transfer von Wissen und Erfahrungen zu erleichtern. Dieser bürgernahe Ansatz zielt darauf ab, eine integrativere und reaktionsfreudigere politische Landschaft zu schaffen und letztlich das Wohlbefinden und den Zusammenhalt der Gemeinschaft zu verbessern."
+  },
   "field": [
     "communication-and-media-studies",
     "sociology",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Catherine Bassani",
+  "name": {
+    "en": "Catherine Bassani",
+    "fr": "Catherine Bassani",
+    "es": "Catherine Bassani",
+    "de": "Catherine Bassani"
+  },
   "pubId": 498752,
   "score": -22.985217156878957,
   "state": "ongoing-project",
@@ -44,10 +54,6 @@
   ],
   "url": "",
   "yt": "viq8sgvE4KI",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760514909,
   "feedback": [
     {
@@ -55,11 +61,8 @@
       "at": 1760514909
     }
   ],
-  "lastEvent": {
-    "at": 1760514909,
-    "by": "contact"
-  },
   "updatedAt": [
     1760514909
-  ]
+  ],
+  "originalLang": "en"
 }

@@ -12,14 +12,24 @@
   ],
   "createdAt": 1663233556,
   "date": null,
-  "description": "The H LAB project offers the opportunity to carry, around the artistic collective Parti Poétique and the Zone Sensible site (Saint Denis, France), a full-scale concrete study of the cultural, ecological and social biodiversity that make the city. This project will set the methodology to quantify environmental and social added value of one hectare dedicated to art and food production, including (but not exclusively) entry and exit of organic matter, entry and exit of the public (number of visitors, class visits, implementation of an \"art science\" program), improvement of the dietary balance of the inhabitants, consideration of biodiversity in its living environment,...\nIn addition, the project is ambitious insofar as it wants to be replicable on the scale of all major national agglomerations, in order to show how the conservation of hectares dedicated to cultural and environmental projects can be a vector of direct added value for the territory.\n",
+  "description": {
+    "en": "The H LAB project offers the opportunity to carry out, around the artistic collective Parti Poétique and the Zone Sensible site (Saint Denis, France), a large-scale concrete study of the cultural, ecological and social biodiversity that make up the city. This project will establish the methodology to quantify the environmental and social added value of a hectare dedicated to art and food production, including (but not limited to) organic matter input and output, public input and output (number of visitors, class visits, implementation of an \"art science\" program), improvement of the dietary balance of the inhabitants, consideration of biodiversity in their living environment,....Moreover, the project is ambitious in that it aims to be replicable on the scale of all large national agglomerations, in order to demonstrate how the conservation of hectares dedicated to cultural and environmental projects can be a vector of direct added value for the territory.",
+    "fr": "Le projet H LAB offre l'opportunité de réaliser, autour du collectif artistique Parti Poétique et du site Zone Sensible (Saint Denis, France), une étude concrète à grande échelle de la biodiversité culturelle, écologique et sociale qui compose la ville. Ce projet établira la méthodologie pour quantifier la valeur ajoutée environnementale et sociale d'un hectare dédié à l'art et à la production alimentaire, incluant (mais pas exclusivement) l'apport et la production de matière organique, l'apport et la production du public (nombre de visiteurs, visites de classes, mise en place d'un programme \"art science\"), l'amélioration de l'équilibre alimentaire des habitants, la prise en compte de la biodiversité dans leur cadre de vie, ....Par ailleurs, le projet est ambitieux puisqu'il vise à être répliqué à l'échelle de toutes les grandes agglomérations nationales, afin de démontrer comment la conservation d'hectares dédiés à des projets culturels et environnementaux peut être un vecteur de valeur ajoutée directe pour le territoire.",
+    "es": "El proyecto H LAB ofrece la oportunidad de llevar a cabo, en torno al colectivo artístico Parti Poétique y el emplazamiento Zone Sensible (Saint Denis, Francia), un estudio concreto a gran escala de la biodiversidad cultural, ecológica y social que conforman la ciudad. Este proyecto establecerá la metodología para cuantificar el valor añadido medioambiental y social de una hectárea dedicada al arte y la producción alimentaria, incluyendo (pero no exclusivamente) la entrada y salida de materia orgánica, la entrada y salida de público (número de visitantes, visitas a clases, puesta en marcha de un programa de \"arte ciencia\"), la mejora del equilibrio dietético de los habitantes, la consideración de la biodiversidad en su entorno vital,...\nAdemás, el proyecto es ambicioso en la medida en que quiere ser replicable a escala de todas las grandes aglomeraciones nacionales, para demostrar cómo la conservación de hectáreas dedicadas a proyectos culturales y medioambientales puede ser un vector de valor añadido directo para el territorio.\n",
+    "de": "Das Projekt H LAB bietet die Möglichkeit, rund um das Künstlerkollektiv Parti Poétique und die Zone Sensible (Saint Denis, Frankreich) eine umfassende konkrete Studie der kulturellen, ökologischen und sozialen Biodiversität durchzuführen, die die Stadt ausmachen. Dieses Projekt wird die Methodik zur Quantifizierung des ökologischen und sozialen Mehrwerts eines Hektars für die Kunst- und Lebensmittelproduktion festlegen, einschließlich (aber nicht ausschließlich) des Ein- und Austrags von organischem Material, des Ein- und Austrags der Öffentlichkeit (Anzahl der Besucher, Klassenbesuche, Umsetzung eines \"Kunstwissenschaftsprogramms\"), der Verbesserung der Ernährungsbilanz der Bewohner, der Berücksichtigung der biologischen Vielfalt im Wohnumfeld,...\nIn addition, the project is ambitious insofar as it wants to be replicable on the scale of all major national agglomerations, in order to show how the preservation of hectares dedicated to cultural and environmental projects can be a vector of direct added value for the territory.\n"
+  },
   "field": [
     "other-social-sciences-and-humanities",
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "",
-  "name": "H-LAB",
+  "name": {
+    "en": "H-LAB",
+    "fr": "H-LAB",
+    "es": "H-LAB",
+    "de": "H-LAB"
+  },
   "pubId": 412052,
   "score": 740.8000000000114,
   "state": "ongoing-project",
@@ -57,28 +67,5 @@
   ],
   "url": "https://www.parti-poetique.org/evenements/h-lab",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1663250431,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663250431,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

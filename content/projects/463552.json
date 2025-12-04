@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754424925,
   "date": null,
-  "description": "La Pebeta is a unique farm-to-table initiative that emphasizes sustainable food production and gourmet dining. Founded by a financier with deep roots in Italian culinary traditions, the project integrates organic farming with a restaurant that serves dishes made from its own produce. It aims to raise awareness about food sourcing, promote local ingredients, and foster a connection between diners and the land, all while maintaining a commitment to ethical and environmentally friendly practices.   ",
+  "description": {
+    "en": "La Pebeta is a unique farm-to-table initiative that emphasizes sustainable food production and gourmet gastronomy. Founded by a financier with deep roots in Italian culinary traditions, the project integrates organic farming with a restaurant serving dishes made from its own produce. It aims to raise awareness of food sourcing, promote local ingredients and foster a connection between diners and the land, all while maintaining a commitment to ethical and environmentally friendly practices.   ",
+    "fr": "La Pebeta est une initiative unique de la ferme à la table qui met l'accent sur la production alimentaire durable et la gastronomie. Fondé par un financier profondément ancré dans les traditions culinaires italiennes, le projet intègre l'agriculture biologique à un restaurant qui sert des plats préparés à partir de ses propres produits. Il vise à sensibiliser à l'approvisionnement alimentaire, à promouvoir les ingrédients locaux et à favoriser un lien entre les convives et la terre, tout en s'engageant à respecter des pratiques éthiques et respectueuses de l'environnement.   ",
+    "es": "La Pebeta es una iniciativa única de la granja a la mesa que hace hincapié en la producción sostenible de alimentos y la gastronomía gourmet. Fundado por un financiero con profundas raíces en las tradiciones culinarias italianas, el proyecto integra la agricultura ecológica con un restaurante que sirve platos elaborados con sus propios productos. Su objetivo es concienciar sobre el abastecimiento de alimentos, promover los ingredientes locales y fomentar una conexión entre los comensales y la tierra, todo ello manteniendo un compromiso con las prácticas éticas y respetuosas con el medio ambiente.   ",
+    "de": "La Pebeta ist eine einzigartige Bauernhof-zu-Tisch-Initiative, die Wert auf nachhaltige Lebensmittelproduktion und Gourmet-Dining legt. Gegründet von einem Finanzier mit tiefen Wurzeln in der italienischen Kochtradition, integriert das Projekt organischen Landbau mit einem Restaurant, das Gerichte aus eigenen Produkten serviert. Ziel ist es, das Bewusstsein für die Beschaffung von Lebensmitteln zu schärfen, lokale Zutaten zu fördern und eine Verbindung zwischen den Gästen und dem Land herzustellen, während gleichzeitig ein Bekenntnis zu ethischen und umweltfreundlichen Praktiken aufrechterhalten wird.   "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Pebeta",
+  "name": {
+    "en": "La Pebeta",
+    "fr": "La Pebeta",
+    "es": "La Pebeta",
+    "de": "La Pebeta"
+  },
   "pubId": 463552,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

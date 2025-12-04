@@ -13,7 +13,12 @@
   ],
   "createdAt": 1754563427,
   "date": null,
-  "description": "Indegap is a scientific and technological company based in Mendoza, Argentina, focused on providing applied knowledge to agricultural businesses. By utilizing advanced sensors and data analysis, Indegap helps reduce uncertainty in agricultural investments, enabling producers to make safer, more informed decisions. With a range of services, particularly in microclimate studies, Indegap aims to enhance profitability and sustainability in agriculture, ultimately benefiting the food supply chain and the environment.",
+  "description": {
+    "en": "Indegap is a scientific and technological company based in Mendoza, Argentina, focused on providing applied knowledge to agricultural businesses. Through the use of advanced sensors and data analysis, Indegap helps reduce uncertainty in agricultural investments, allowing producers to make more confident and informed decisions. With a range of services, especially in microclimate studies, Indegap aims to improve profitability and sustainability in agriculture, ultimately benefiting the food supply chain and the environment.",
+    "fr": "Indegap est une entreprise scientifique et technologique basée à Mendoza, en Argentine, dont l'objectif est de fournir des connaissances appliquées aux entreprises agricoles. Grâce à l'utilisation de capteurs avancés et à l'analyse de données, Indegap contribue à réduire l'incertitude des investissements agricoles, ce qui permet aux producteurs de prendre des décisions plus sûres et mieux informées. Grâce à sa gamme de services, notamment en matière d'études microclimatiques, Indegap vise à améliorer la rentabilité et la durabilité de l'agriculture, ce qui profite en fin de compte à la chaîne d'approvisionnement alimentaire et à l'environnement.",
+    "es": "Indegap es una empresa científica y tecnológica con sede en Mendoza, Argentina, centrada en proporcionar conocimientos aplicados a las empresas agrícolas. Mediante el uso de sensores avanzados y análisis de datos, Indegap ayuda a reducir la incertidumbre en las inversiones agrícolas, permitiendo a los productores tomar decisiones más seguras e informadas. Con una gama de servicios, especialmente en estudios de microclima, Indegap pretende mejorar la rentabilidad y la sostenibilidad en la agricultura, beneficiando en última instancia a la cadena de suministro de alimentos y al medio ambiente.",
+    "de": "Indegap ist ein Wissenschafts- und Technologieunternehmen mit Sitz in Mendoza, Argentinien, das sich auf die Bereitstellung von angewandtem Wissen für die Agrarwirtschaft konzentriert. Durch den Einsatz fortschrittlicher Sensoren und Datenanalysen trägt Indegap dazu bei, Unsicherheiten bei landwirtschaftlichen Investitionen zu verringern und ermöglicht es den Landwirten, bessere, informiertere Entscheidungen zu treffen. Mit einer Reihe von Dienstleistungen, insbesondere im Bereich der Mikroklimastudien, will Indegap die Rentabilität und Nachhaltigkeit in der Landwirtschaft steigern, was letztlich der Nahrungsmittelkette und der Umwelt zugute kommt."
+  },
   "field": [
     "engineering-and-technology",
     "information-technology",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Indegap",
+  "name": {
+    "en": "Indegap",
+    "fr": "Indegap",
+    "es": "Indegap",
+    "de": "Indegap"
+  },
   "pubId": 461352,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754421824,
   "date": null,
-  "description": "The initiative revolves around a family-owned winery, Bodega de la Torre, located in Chosmalal, Neuquén. Established in 2008, it represents the fourth generation of winemaking in the region, focusing on both traditional and unique local grape varieties. The winery emphasizes organic and biodynamic practices, aiming to revive historical viticulture while fostering economic sustainability. Future plans include expanding production, enhancing tourism, and promoting Chosmalal as a recognized wine-producing area.",
+  "description": {
+    "en": "The initiative revolves around a family winery, Bodega de la Torre, located in Chosmalal, Neuquén. Founded in 2008, it represents the fourth generation of winemakers in the region and focuses on traditional and unique grape varieties of the area. The winery emphasizes organic and biodynamic practices, with the goal of reviving historic viticulture while promoting economic sustainability. Future plans include expanding production, enhancing tourism and promoting Chosmalal as a recognized winegrowing area.",
+    "fr": "L'initiative s'articule autour d'une cave familiale, la Bodega de la Torre, située à Chosmalal, dans la province de Neuquén. Fondée en 2008, elle représente la quatrième génération de viticulteurs de la région et se concentre sur les cépages traditionnels propres à la région. La cave met l'accent sur les pratiques biologiques et biodynamiques, dans le but de faire revivre la viticulture historique tout en promouvant la durabilité économique. Les projets futurs comprennent l'expansion de la production, le développement du tourisme et la promotion de Chosmalal en tant que région viticole reconnue.",
+    "es": "La iniciativa gira en torno a una bodega familiar, Bodega de la Torre, situada en Chosmalal, Neuquén. Fundada en 2008, representa la cuarta generación de viticultores de la región y se centra en variedades de uva tradicionales y únicas de la zona. La bodega hace hincapié en las prácticas orgánicas y biodinámicas, con el objetivo de revivir la viticultura histórica al tiempo que fomenta la sostenibilidad económica. Los planes de futuro incluyen ampliar la producción, potenciar el turismo y promover Chosmalal como zona vitivinícola reconocida.",
+    "de": "Die Initiative dreht sich um die familiengeführte Weinkellerei Bodega de la Torre, die sich in Chosmalal, Neuquén, befindet. Sie wurde 2008 gegründet und repräsentiert die vierte Generation von Winzern in der Region, die sich sowohl auf traditionelle als auch auf einzigartige lokale Rebsorten konzentrieren. Das Weingut setzt auf organische und biodynamische Praktiken, um den historischen Weinbau wiederzubeleben und gleichzeitig die wirtschaftliche Nachhaltigkeit zu fördern. Zukünftige Pläne beinhalten die Ausweitung der Produktion, die Stärkung des Tourismus und die Förderung von Chosmalal als anerkanntes Weinanbaugebiet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Bodega de la Torre",
+  "name": {
+    "es": "Bodega de la Torre",
+    "en": "Bodega de la Torre",
+    "fr": "Bodega de la Torre",
+    "de": "Bodega de la Torre"
+  },
   "pubId": 452152,
   "score": -209.73418185523485,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

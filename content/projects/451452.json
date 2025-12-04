@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754420536,
   "date": null,
-  "description": "Turba Agroecologia is a cooperative dedicated to producing agroecological wholemeal flour while providing technical support to producers transitioning to sustainable practices. Our initiative aims to promote food sustainability by restoring soil fertility and ensuring safe, healthy food for both producers and consumers. We strive for long-term sustainability, expanding our reach and product offerings, despite challenges in formalizing production and accessing necessary resources.                                ",
+  "description": {
+    "en": "Turba Agroecologia is a cooperative dedicated to the production of agroecological whole wheat flour, while providing technical support to producers who are transitioning to sustainable practices. Our initiative aims to promote food sustainability by restoring soil fertility and ensuring healthy and safe food for both producers and consumers. We strive for long-term sustainability by expanding our reach and product offerings, despite difficulties in formalizing production and accessing the necessary resources.                                ",
+    "fr": "Turba Agroecologia est une coopérative qui se consacre à la production de farine complète agroécologique, tout en apportant un soutien technique aux producteurs qui sont en transition vers des pratiques durables. Notre initiative vise à promouvoir la durabilité alimentaire en restaurant la fertilité des sols et en garantissant des aliments sains et sûrs tant pour les producteurs que pour les consommateurs. Nous nous efforçons d'assurer la durabilité à long terme en élargissant notre portée et notre offre de produits, malgré les difficultés liées à la formalisation de la production et à l'accès aux ressources nécessaires.                                ",
+    "es": "Turba Agroecologia es una cooperativa dedicada a la producción de harina integral agroecológica, al tiempo que proporciona apoyo técnico a los productores que están en transición hacia prácticas sostenibles. Nuestra iniciativa pretende promover la sostenibilidad alimentaria restaurando la fertilidad del suelo y garantizando alimentos sanos y seguros tanto para los productores como para los consumidores. Nos esforzamos por lograr la sostenibilidad a largo plazo, ampliando nuestro alcance y nuestra oferta de productos, a pesar de las dificultades para formalizar la producción y acceder a los recursos necesarios.                                ",
+    "de": "Turba Agroecologia ist eine Genossenschaft, die sich der Produktion von agroökologischem Vollkornmehl widmet, während sie Bauern, die zu nachhaltigen Praktiken übergehen, technische Unterstützung bietet. Unsere Initiative zielt darauf ab, die Nachhaltigkeit von Lebensmitteln durch die Wiederherstellung der Bodenfruchtbarkeit und die Gewährleistung sicherer, gesunder Lebensmittel für Erzeuger und Verbraucher zu fördern. We strive for long-term sustainability, expanding our range and product offerings, despite challenges in formalizing production and accessing necessary resources.                                "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Turba Agroecologia",
+  "name": {
+    "it": "Turba Agroecologia",
+    "en": "Turba Agroecology",
+    "fr": "Agroécologie Turba",
+    "es": "Turba Agroecología",
+    "de": "Agroökologie Turba"
+  },
   "pubId": 451452,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

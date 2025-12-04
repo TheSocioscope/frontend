@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754955878,
   "date": null,
-  "description": "Professor Hass is a family-owned agribusiness, focused on avocado cultivation and oil extraction in Colombia. The company aims to support farmers of all scales by providing knowledge and resources to enhance their agricultural practices and increase their income. The initiative also includes educational tourism, where visitors can learn about avocado farming and the oil extraction process, thereby generating additional income for the business. Overall, Professor Hass seeks to transform the Colombian agricultural landscape by promoting high-quality, organic products and fostering a community of informed and empowered farmers.",
+  "description": {
+    "en": "Professor Hass is a family-owned agribusiness, focused on avocado cultivation and oil extraction in Colombia. The company aims to support farmers of all scales by providing knowledge and resources to enhance their agricultural practices and increase their income. The initiative also includes educational tourism, where visitors can learn about avocado farming and the oil extraction process, thereby generating additional income for the business. Overall, Professor Hass seeks to transform the Colombian agricultural landscape by promoting high-quality, organic products and fostering a community of informed and empowered farmers.",
+    "fr": "Professor Hass est une entreprise agroalimentaire familiale qui se consacre à la culture de l'avocat et à l'extraction de l'huile en Colombie. L'entreprise vise à soutenir les agriculteurs à tous les niveaux en leur fournissant des connaissances et des ressources afin d'améliorer leurs pratiques agricoles et d'augmenter leurs revenus. L'initiative comprend également un tourisme éducatif, où les visiteurs peuvent découvrir la culture de l'avocat et le processus d'extraction de l'huile, générant ainsi des revenus supplémentaires pour l'entreprise. Dans l'ensemble, le professeur Hass cherche à transformer le paysage agricole colombien en promouvant des produits biologiques de haute qualité et en encourageant une communauté d'agriculteurs informés et autonomes.",
+    "es": "Profesor Hass es una agroindustria familiar, centrada en el cultivo del aguacate y la extracción de aceite en Colombia. La empresa pretende apoyar a los agricultores de todas las escalas proporcionándoles conocimientos y recursos para mejorar sus prácticas agrícolas y aumentar sus ingresos. La iniciativa también incluye el turismo educativo, donde los visitantes pueden aprender sobre el cultivo del aguacate y el proceso de extracción del aceite, generando así ingresos adicionales para la empresa. En general, el Profesor Hass pretende transformar el paisaje agrícola colombiano promoviendo productos orgánicos de alta calidad y fomentando una comunidad de agricultores informados y empoderados.",
+    "de": "Professor Hass ist ein Agrarunternehmen in Familienbesitz, das sich auf den Avocadoanbau und die Ölgewinnung in Kolumbien konzentriert. Das Unternehmen hat sich zum Ziel gesetzt, Landwirte aller Größenordnungen zu unterstützen, indem es ihnen Wissen und Ressourcen zur Verfügung stellt, um ihre landwirtschaftlichen Verfahren zu verbessern und ihr Einkommen zu steigern. Die Initiative umfasst auch einen Bildungstourismus, bei dem Besucher etwas über den Avocadoanbau und den Prozess der Ölgewinnung lernen können, was dem Unternehmen zusätzliche Einnahmen verschafft. Insgesamt möchte Professor Hass die kolumbianische Agrarlandschaft durch die Förderung hochwertiger, ökologischer Produkte und die Förderung einer Gemeinschaft informierter und befähigter Landwirte verändern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Professor Hass",
+  "name": {
+    "sv": "Professor Hass",
+    "en": "Professor Hass",
+    "fr": "Professeur Hass",
+    "es": "Profesor Hass",
+    "de": "Professor Hass"
+  },
   "pubId": 487052,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "sv"
 }

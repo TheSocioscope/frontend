@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754913184,
   "date": null,
-  "description": "The Abbé Rozier farm, part of the Horticulture Training and Promotion Centre, focuses on organic market gardening and sustainable development. Established in 2015, it serves as a practical training ground for students while promoting awareness of local and seasonal farming. The farm offers educational workshops for all ages, emphasizing hands-on experiences with nature, biodiversity, and healthy eating. It collaborates with various partners to enhance its educational programs and community impact.",
+  "description": {
+    "en": "The Abbé Rozier farm, part of the Horticulture Training and Promotion Centre, focuses on organic market gardening and sustainable development. Established in 2015, it serves as a practical training ground for students while promoting awareness of local and seasonal farming. The farm offers educational workshops for all ages, emphasizing hands-on experiences with nature, biodiversity, and healthy eating. It collaborates with various partners to enhance its educational programs and community impact.",
+    "fr": "La ferme de l'Abbé Rozier, qui fait partie du Centre de formation et de promotion de l'horticulture, est axée sur le maraîchage biologique et le développement durable. Créée en 2015, elle sert de lieu de formation pratique pour les étudiants tout en les sensibilisant à l'agriculture locale et de saison. La ferme propose des ateliers éducatifs pour tous les âges, mettant l'accent sur des expériences pratiques avec la nature, la biodiversité et une alimentation saine. Elle collabore avec divers partenaires pour renforcer ses programmes éducatifs et son impact sur la communauté.",
+    "es": "La granja Abbé Rozier, que forma parte del Centro de Formación y Promoción de la Horticultura, se centra en la horticultura ecológica y el desarrollo sostenible. Creada en 2015, sirve de campo de formación práctica para los estudiantes al tiempo que promueve la concienciación sobre la agricultura local y de temporada. La granja ofrece talleres educativos para todas las edades, haciendo hincapié en las experiencias prácticas con la naturaleza, la biodiversidad y la alimentación saludable. Colabora con diversos socios para mejorar sus programas educativos y su impacto en la comunidad.",
+    "de": "Der Bauernhof Abbé Rozier, der zum Ausbildungs- und Förderzentrum für Gartenbau gehört, konzentriert sich auf den ökologischen Gemüseanbau und die nachhaltige Entwicklung. Er wurde 2015 gegründet und dient als praktische Ausbildungsstätte für Studenten, während er gleichzeitig das Bewusstsein für lokale und saisonale Landwirtschaft fördert. Die Farm bietet Bildungsworkshops für alle Altersgruppen an, wobei der Schwerpunkt auf praktischen Erfahrungen mit der Natur, der biologischen Vielfalt und einer gesunden Ernährung liegt. Sie arbeitet mit verschiedenen Partnern zusammen, um ihre Bildungsprogramme und ihren Einfluss auf die Gemeinschaft zu verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Ferme Abbé Rozier",
+  "name": {
+    "fr": "La Ferme Abbé Rozier",
+    "en": "Abbé Rozier Farm",
+    "es": "Granja Abbé Rozier",
+    "de": "Der Bauernhof Abbé Rozier"
+  },
   "pubId": 484452,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

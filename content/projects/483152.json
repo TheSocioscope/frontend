@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754909541,
   "date": null,
-  "description": "Les Cols Vert is an innovative association based in Paris focused on urban agriculture and food transition. The association is dedicated to urban agriculture and the food transition. It operates as a hybrid institution, combining elements of both a social enterprise and a network of independent associations. The initiative aims to support local authorities and educate citizens on sustainable practices, offering training, expertise, and services to promote urban farms and a comprehensive food transition across France.     ",
+  "description": {
+    "en": "Les Cols Vert is an innovative association based in Paris focused on urban agriculture and food transition. The association is dedicated to urban agriculture and the food transition. It operates as a hybrid institution, combining elements of both a social enterprise and a network of independent associations. The initiative aims to support local authorities and educate citizens on sustainable practices, offering training, expertise, and services to promote urban farms and a comprehensive food transition across France.     ",
+    "fr": "Les Cols Vert est une association innovante basée à Paris qui se consacre à l'agriculture urbaine et à la transition alimentaire. L'association se consacre à l'agriculture urbaine et à la transition alimentaire. Elle fonctionne comme une institution hybride, combinant des éléments d'une entreprise sociale et d'un réseau d'associations indépendantes. L'initiative vise à soutenir les autorités locales et à éduquer les citoyens sur les pratiques durables, en offrant des formations, de l'expertise et des services pour promouvoir les fermes urbaines et une transition alimentaire globale à travers la France.     ",
+    "es": "Les Cols Vert es una asociación innovadora con sede en París centrada en la agricultura urbana y la transición alimentaria. La asociación se dedica a la agricultura urbana y la transición alimentaria. Funciona como una institución híbrida, que combina elementos tanto de una empresa social como de una red de asociaciones independientes. La iniciativa pretende apoyar a las autoridades locales y educar a los ciudadanos en prácticas sostenibles, ofreciendo formación, experiencia y servicios para promover las granjas urbanas y una transición alimentaria integral en toda Francia.     ",
+    "de": "Les Cols Vert ist eine innovative Vereinigung mit Sitz in Paris, die sich mit städtischer Landwirtschaft und Ernährungsumstellung befasst. Der Verein widmet sich der städtischen Landwirtschaft und der Ernährungsumstellung. Es handelt sich um eine hybride Einrichtung, die Elemente eines Sozialunternehmens und eines Netzwerks unabhängiger Vereinigungen kombiniert. Ziel der Initiative ist es, die lokalen Behörden zu unterstützen und die Bürger über nachhaltige Praktiken aufzuklären. Sie bietet Schulungen, Fachwissen und Dienstleistungen an, um urbane Landwirtschaftsbetriebe und eine umfassende Ernährungsumstellung in ganz Frankreich zu fördern.     "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Cols Vert",
+  "name": {
+    "de": "Les Cols Vert",
+    "en": "Les Cols Vert",
+    "fr": "Les Cols Vert",
+    "es": "Les Cols Vert"
+  },
   "pubId": 483152,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "de"
 }

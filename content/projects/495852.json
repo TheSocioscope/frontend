@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755009023,
   "date": null,
-  "description": "Rasoterra is a restaurant initiative founded in 2013, evolving from previous experiences in the food industry. The motivation behind Rasoterra was to address the lack of sustainability-focused dining options in Barcelona, particularly within the vegetarian and vegan scenes, which were not as developed at the time. The restaurant operates on three core pillars: microfiltered water, sourcing from local producers, and promoting vegetarianism, with a strong emphasis on sustainability. The restaurant prioritizes working with local producers who share their values, engaging in dialogue about what to plant and how to cultivate crops sustainably. They focus on seasonal ingredients and aim to minimize their ecological footprint by composting organic waste and reducing plastic use.",
+  "description": {
+    "en": "Rasoterra is a restaurant initiative founded in 2013, evolving from previous experiences in the food industry. The motivation behind Rasoterra was to address the lack of sustainability-focused dining options in Barcelona, particularly within the vegetarian and vegan scenes, which were not as developed at the time. The restaurant operates on three core pillars: microfiltered water, sourcing from local producers, and promoting vegetarianism, with a strong emphasis on sustainability. The restaurant prioritizes working with local producers who share their values, engaging in dialogue about what to plant and how to cultivate crops sustainably. They focus on seasonal ingredients and aim to minimize their ecological footprint by composting organic waste and reducing plastic use.",
+    "fr": "Rasoterra est une initiative de restauration fondée en 2013, issue d'expériences antérieures dans l'industrie alimentaire. La motivation derrière Rasoterra était de répondre au manque d'options de restauration axées sur la durabilité à Barcelone, en particulier dans les scènes végétarienne et végétalienne, qui n'étaient pas aussi développées à l'époque. Le restaurant s'appuie sur trois piliers : l'eau microfiltrée, l'approvisionnement auprès de producteurs locaux et la promotion du végétarisme, en mettant l'accent sur la durabilité. Le restaurant privilégie la collaboration avec les producteurs locaux qui partagent ses valeurs, en engageant un dialogue sur ce qu'il convient de planter et sur la manière de cultiver les récoltes de manière durable. Il privilégie les ingrédients de saison et s'efforce de minimiser son empreinte écologique en compostant les déchets organiques et en réduisant l'utilisation du plastique.",
+    "es": "Rasoterra es una iniciativa de restauración fundada en 2013 a partir de experiencias previas en el sector de la alimentación. La motivación de Rasoterra fue abordar la falta de opciones gastronómicas centradas en la sostenibilidad en Barcelona, en particular dentro de las escenas vegetariana y vegana, que no estaban tan desarrolladas en ese momento. El restaurante se basa en tres pilares fundamentales: agua microfiltrada, abastecimiento de productores locales y promoción del vegetarianismo, con un fuerte énfasis en la sostenibilidad. El restaurante da prioridad a trabajar con productores locales que compartan sus valores, entablando un diálogo sobre qué plantar y cómo cultivar de forma sostenible. Se centran en ingredientes de temporada y tratan de minimizar su huella ecológica compostando los residuos orgánicos y reduciendo el uso de plásticos.",
+    "de": "Rasoterra ist eine 2013 gegründete Restaurantinitiative, die sich aus früheren Erfahrungen in der Lebensmittelbranche entwickelt hat. Die Motivation hinter Rasoterra war, den Mangel an auf Nachhaltigkeit ausgerichteten Essensangeboten in Barcelona zu beheben, insbesondere in der vegetarischen und veganen Szene, die zu dieser Zeit noch nicht so weit entwickelt war. Das Restaurant stützt sich auf drei Säulen: mikrofiltriertes Wasser, Bezug von lokalen Erzeugern und Förderung des Vegetarismus, wobei der Schwerpunkt auf der Nachhaltigkeit liegt. Das Restaurant arbeitet vorrangig mit lokalen Erzeugern zusammen, die seine Werte teilen, und führt einen Dialog darüber, was angebaut werden soll und wie die Pflanzen nachhaltig angebaut werden können. Das Restaurant konzentriert sich auf saisonale Zutaten und ist bestrebt, seinen ökologischen Fußabdruck zu minimieren, indem es organische Abfälle kompostiert und den Plastikverbrauch reduziert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Rasoterra",
+  "name": {
+    "en": "Rasoterra",
+    "fr": "Rasoterra",
+    "es": "Rasoterra",
+    "de": "Rasoterra"
+  },
   "pubId": 495852,
   "score": -21.918390049604973,
   "state": "ongoing-project",
@@ -41,10 +51,6 @@
   ],
   "url": "",
   "yt": "OvSCpsi8UZM",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760066220,
   "feedback": [
     {
@@ -52,11 +58,8 @@
       "at": 1760066220
     }
   ],
-  "lastEvent": {
-    "at": 1760066220,
-    "by": "contact"
-  },
   "updatedAt": [
     1760066220
-  ]
+  ],
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754478347,
   "date": null,
-  "description": "The National Specialized Centre for Organic Agriculture, established in 1997, focuses on promoting organic farming in Costa Rica. It offers free training programs, emphasizing ecological practices and the transfer of appropriate technologies to various agricultural sectors. The center supports students, including vulnerable populations, through scholarships and comprehensive welfare services. With a commitment to reducing chemical use in agriculture, it aims to enhance food systems and foster sustainable practices across the country.",
+  "description": {
+    "en": "The Centro Nacional Especializado en Agricultura Ecológica, created in 1997, is dedicated to promoting organic agriculture in Costa Rica. It offers free training programs, emphasizing ecological practices and the transfer of appropriate technologies to various agricultural sectors. The center supports students, including vulnerable populations, through scholarships and comprehensive social welfare services. Committed to reducing the use of chemicals in agriculture, it aims to improve food systems and promote sustainable practices throughout the country.",
+    "fr": "Le Centro Nacional Especializado en Agricultura Ecológica, créé en 1997, a pour mission de promouvoir l'agriculture biologique au Costa Rica. Il propose des programmes de formation gratuits, en mettant l'accent sur les pratiques écologiques et le transfert de technologies appropriées à divers secteurs agricoles. Le centre soutient les étudiants, y compris les populations vulnérables, grâce à des bourses et à des services de protection sociale complets. Engagé dans la réduction de l'utilisation des produits chimiques dans l'agriculture, il vise à améliorer les systèmes alimentaires et à promouvoir des pratiques durables dans tout le pays.",
+    "es": "El Centro Nacional Especializado en Agricultura Ecológica, creado en 1997, se dedica a promover la agricultura ecológica en Costa Rica. Ofrece programas de formación gratuitos, haciendo hincapié en las prácticas ecológicas y la transferencia de tecnologías apropiadas a diversos sectores agrícolas. El centro apoya a los estudiantes, incluidas las poblaciones vulnerables, mediante becas y servicios integrales de bienestar social. Con el compromiso de reducir el uso de productos químicos en la agricultura, pretende mejorar los sistemas alimentarios y fomentar prácticas sostenibles en todo el país.",
+    "de": "Das 1997 gegründete National Specialized Centre for Organic Agriculture konzentriert sich auf die Förderung des ökologischen Landbaus in Costa Rica. Es bietet kostenlose Ausbildungsprogramme mit Schwerpunkt auf ökologischen Praktiken und dem Transfer geeigneter Technologien in verschiedene Landwirtschaftssektoren an. Das Zentrum unterstützt Studierende, einschließlich gefährdeter Bevölkerungsgruppen, durch Stipendien und umfassende Wohlfahrtsleistungen. Mit dem Ziel, den Einsatz von Chemikalien in der Landwirtschaft zu reduzieren, möchte das Zentrum die Nahrungsmittelsysteme verbessern und nachhaltige Praktiken im ganzen Land fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "INA Agricultura Organica",
+  "name": {
+    "pt": "INA Agricultura Organica",
+    "en": "INA Organic Farming",
+    "fr": "L'agriculture biologique INA",
+    "es": "Agricultura ecológica INA",
+    "de": "INA Ökologischer Landbau"
+  },
   "pubId": 466552,
   "score": -124.88363808334675,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

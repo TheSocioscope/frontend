@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754990925,
   "date": null,
-  "description": "ProcolCacao, founded 12 years ago, aims to empower Colombian cocoa producers by addressing market inequities and enhancing product quality. The initiative focuses on training farmers, ensuring traceability, and maintaining fair prices throughout the year. By fostering direct relationships with farmers and promoting sustainable practices, ProcolCacao strives to deliver high-quality cocoa products while improving the livelihoods of local producers and raising awareness about the nutritional benefits of pure cocoa.",
+  "description": {
+    "en": "ProcolCacao, founded 12 years ago, aims to empower Colombian cocoa producers by addressing market inequities and enhancing product quality. The initiative focuses on training farmers, ensuring traceability, and maintaining fair prices throughout the year. By fostering direct relationships with farmers and promoting sustainable practices, ProcolCacao strives to deliver high-quality cocoa products while improving the livelihoods of local producers and raising awareness about the nutritional benefits of pure cocoa.",
+    "fr": "ProcolCacao, fondée il y a 12 ans, a pour objectif d'autonomiser les producteurs de cacao colombiens en s'attaquant aux inégalités du marché et en améliorant la qualité des produits. L'initiative se concentre sur la formation des agriculteurs, la traçabilité et le maintien de prix équitables tout au long de l'année. En favorisant les relations directes avec les agriculteurs et en encourageant les pratiques durables, ProcolCacao s'efforce de fournir des produits de cacao de haute qualité tout en améliorant les moyens de subsistance des producteurs locaux et en sensibilisant la population aux avantages nutritionnels du cacao pur.",
+    "es": "ProcolCacao, fundada hace 12 años, pretende empoderar a los productores colombianos de cacao abordando las desigualdades del mercado y mejorando la calidad del producto. La iniciativa se centra en formar a los agricultores, garantizar la trazabilidad y mantener precios justos durante todo el año. Mediante el fomento de relaciones directas con los agricultores y la promoción de prácticas sostenibles, ProcolCacao se esfuerza por ofrecer productos de cacao de alta calidad al tiempo que mejora los medios de subsistencia de los productores locales y sensibiliza sobre los beneficios nutricionales del cacao puro.",
+    "de": "ProcolCacao wurde vor 12 Jahren gegründet und hat sich zum Ziel gesetzt, die kolumbianischen Kakaoproduzenten zu stärken, indem es Marktungleichheiten beseitigt und die Produktqualität verbessert. Die Initiative konzentriert sich auf die Schulung der Bauern, die Gewährleistung der Rückverfolgbarkeit und die Aufrechterhaltung fairer Preise während des ganzen Jahres. Durch die Pflege direkter Beziehungen zu den Bauern und die Förderung nachhaltiger Praktiken ist ProcolCacao bestrebt, qualitativ hochwertige Kakaoprodukte zu liefern und gleichzeitig die Lebensbedingungen der lokalen Erzeuger zu verbessern und das Bewusstsein für die ernährungsphysiologischen Vorteile von reinem Kakao zu schärfen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "ProcolCacao",
+  "name": {
+    "fr": "ProcolCacao",
+    "en": "ProcolCacao",
+    "es": "ProcolCacao",
+    "de": "ProcolCacao"
+  },
   "pubId": 480152,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

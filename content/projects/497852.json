@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755092825,
   "date": null,
-  "description": "Chacra de d'Dago is a family-run coffee farm in Peru that practices biodynamic agriculture, emphasizing sustainability, spirituality, and self-sufficiency. Established in 2005, the farm integrates traditional farming methods with modern ecological practices, producing high-quality coffee while fostering biodiversity. The initiative aims to inspire other farms and promote responsible agricultural practices, contributing to a healthier food system. Chacra de d'Dago also collaborates with local farmers, enhancing community engagement and sustainability efforts.",
+  "description": {
+    "en": "Chacra de d'Dago is a family-run coffee farm in Peru that practices biodynamic agriculture, emphasizing sustainability, spirituality, and self-sufficiency. Established in 2005, the farm integrates traditional farming methods with modern ecological practices, producing high-quality coffee while fostering biodiversity. The initiative aims to inspire other farms and promote responsible agricultural practices, contributing to a healthier food system. Chacra de d'Dago also collaborates with local farmers, enhancing community engagement and sustainability efforts.",
+    "fr": "Chacra de d'Dago est une exploitation familiale de café au Pérou qui pratique l'agriculture biodynamique et met l'accent sur la durabilité, la spiritualité et l'autosuffisance. Fondée en 2005, l'exploitation intègre des méthodes agricoles traditionnelles à des pratiques écologiques modernes, produisant un café de grande qualité tout en favorisant la biodiversité. L'initiative vise à inspirer d'autres exploitations et à promouvoir des pratiques agricoles responsables, contribuant ainsi à un système alimentaire plus sain. Chacra de d'Dago collabore également avec des agriculteurs locaux, renforçant ainsi l'engagement de la communauté et les efforts de durabilité.",
+    "es": "Chacra de d'Dago es una finca cafetera familiar de Perú que practica la agricultura biodinámica, haciendo hincapié en la sostenibilidad, la espiritualidad y la autosuficiencia. Fundada en 2005, la finca integra métodos de cultivo tradicionales con prácticas ecológicas modernas, produciendo café de alta calidad al tiempo que fomenta la biodiversidad. La iniciativa pretende inspirar a otras granjas y promover prácticas agrícolas responsables, contribuyendo a un sistema alimentario más sano. Chacra de d'Dago también colabora con agricultores locales, mejorando el compromiso de la comunidad y los esfuerzos de sostenibilidad.",
+    "de": "Chacra de d'Dago ist eine familiengeführte Kaffeefarm in Peru, die biodynamische Landwirtschaft betreibt und den Schwerpunkt auf Nachhaltigkeit, Spiritualität und Selbstversorgung legt. Die 2005 gegründete Farm verbindet traditionelle Anbaumethoden mit modernen ökologischen Praktiken, produziert hochwertigen Kaffee und fördert gleichzeitig die Artenvielfalt. Ziel der Initiative ist es, andere Farmen zu inspirieren und verantwortungsvolle landwirtschaftliche Praktiken zu fördern und so zu einem gesünderen Lebensmittelsystem beizutragen. Chacra de d'Dago arbeitet auch mit lokalen Landwirten zusammen, um das Engagement der Gemeinschaft und die Bemühungen um Nachhaltigkeit zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Chacra de d'Dago",
+  "name": {
+    "fr": "Chacra de d'Dago",
+    "en": "Chacra de d'Dago",
+    "es": "Chacra de d'Dago",
+    "de": "Chacra de d'Dago"
+  },
   "pubId": 497852,
   "score": -180.55942403237387,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

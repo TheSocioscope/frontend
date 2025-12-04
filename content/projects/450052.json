@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754403914,
   "date": null,
-  "description": "Veggie Lover Food is a pioneering bio-venture that merges nature and technology to enhance our quality of life through innovative plant-based foods. The core mission is to combine nature and technology to enhance quality of life through sustainable practices. The initiative focuses on utilizing wild and exotic raw materials, particularly jackfruit, to create nutritious products. Committed to sustainability, Veggie Lover adheres to social responsibility principles, empowering communities and promoting health benefits through its offerings, all while minimizing environmental impact.",
+  "description": {
+    "en": "Veggie Lover Food is a pioneering biocompany that fuses nature and technology to improve our quality of life through innovative plant-based foods. Its core mission is to combine nature and technology to improve the quality of life through sustainable practices. The initiative focuses on using wild and exotic raw materials, particularly jackfruit, to create nutritious products. Committed to sustainability, Veggie Lover adheres to the principles of social responsibility, empowering communities and promoting health benefits through its offerings, all while minimizing environmental impact.",
+    "fr": "Veggie Lover Food est une biocompagnie pionnière qui fusionne la nature et la technologie pour améliorer notre qualité de vie grâce à des aliments innovants à base de plantes. Sa mission principale est de combiner la nature et la technologie pour améliorer la qualité de vie grâce à des pratiques durables. L'initiative se concentre sur l'utilisation de matières premières sauvages et exotiques, en particulier le jacquier, pour créer des produits nutritifs. Engagée dans le développement durable, Veggie Lover adhère aux principes de la responsabilité sociale, de l'autonomisation des communautés et de la promotion des bienfaits pour la santé à travers ses offres, tout en minimisant l'impact sur l'environnement.",
+    "es": "Veggie Lover Food es una bioempresa pionera que fusiona naturaleza y tecnología para mejorar nuestra calidad de vida mediante alimentos innovadores de origen vegetal. Su misión principal es combinar naturaleza y tecnología para mejorar la calidad de vida mediante prácticas sostenibles. La iniciativa se centra en la utilización de materias primas silvestres y exóticas, en particular el jackfruit, para crear productos nutritivos. Comprometida con la sostenibilidad, Veggie Lover se adhiere a los principios de responsabilidad social, empoderando a las comunidades y promoviendo los beneficios para la salud a través de sus ofertas, todo ello minimizando el impacto medioambiental.",
+    "de": "Veggie Lover Food ist ein bahnbrechendes Bio-Venture, das Natur und Technologie zusammenbringt, um unsere Lebensqualität durch innovative pflanzliche Lebensmittel zu verbessern. Die Kernaufgabe besteht darin, Natur und Technologie zu kombinieren, um die Lebensqualität durch nachhaltige Praktiken zu verbessern. Die Initiative konzentriert sich auf die Verwendung von wilden und exotischen Rohstoffen, insbesondere Jackfruit, um nahrhafte Produkte herzustellen. Der Nachhaltigkeit verpflichtet, hält sich Veggie Lover an die Grundsätze der sozialen Verantwortung, stärkt Gemeinschaften und fördert durch seine Angebote gesundheitliche Vorteile, wobei die Auswirkungen auf die Umwelt so gering wie möglich gehalten werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Veggie Lover",
+  "name": {
+    "nb": "Veggie Lover",
+    "en": "Veggie Lover",
+    "fr": "Amoureux des légumes",
+    "es": "Veggie Lover",
+    "de": "Veggie-Liebhaber"
+  },
   "pubId": 450052,
   "score": -10.888192152470463,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

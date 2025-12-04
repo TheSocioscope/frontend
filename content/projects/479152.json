@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653786,
   "date": null,
-  "description": "Honest Greens is a pioneering vertical farming initiative in Sri Lanka, founded in 2015 to address food security challenges. Utilizing advanced technology, the farm grows a variety of crops, primarily lettuce and herbs, in a controlled environment. This innovative approach allows for year-round production, significantly reducing land use and environmental impact. With a focus on sustainability, Honest Greens aims to scale its operations and share its model globally, promoting self-sufficiency in food production.",
+  "description": {
+    "en": "Honest Greens is a pioneering vertical farming initiative in Sri Lanka, founded in 2015 to address food security challenges. Utilizing advanced technology, the farm grows a variety of crops, primarily lettuce and herbs, in a controlled environment. This innovative approach allows for year-round production, significantly reducing land use and environmental impact. With a focus on sustainability, Honest Greens aims to scale its operations and share its model globally, promoting self-sufficiency in food production.",
+    "fr": "Honest Greens est une initiative pionnière d'agriculture verticale au Sri Lanka, fondée en 2015 pour répondre aux défis de la sécurité alimentaire. Grâce à une technologie de pointe, la ferme cultive une variété de produits, principalement de la laitue et des herbes, dans un environnement contrôlé. Cette approche innovante permet une production tout au long de l'année, réduisant considérablement l'utilisation des terres et l'impact sur l'environnement. En mettant l'accent sur la durabilité, Honest Greens vise à étendre ses opérations et à partager son modèle à l'échelle mondiale, en promouvant l'autosuffisance en matière de production alimentaire.",
+    "es": "Honest Greens es una iniciativa pionera de agricultura vertical en Sri Lanka, fundada en 2015 para hacer frente a los problemas de seguridad alimentaria. Utilizando tecnología avanzada, la granja cultiva diversos productos, principalmente lechugas y hierbas, en un entorno controlado. Este enfoque innovador permite la producción durante todo el año, reduciendo significativamente el uso de la tierra y el impacto ambiental. Centrada en la sostenibilidad, Honest Greens aspira a ampliar sus operaciones y compartir su modelo a escala mundial, promoviendo la autosuficiencia en la producción de alimentos.",
+    "de": "Honest Greens ist eine bahnbrechende Initiative für vertikale Landwirtschaft in Sri Lanka, die 2015 gegründet wurde, um den Herausforderungen der Ernährungssicherheit zu begegnen. Mithilfe fortschrittlicher Technologie baut die Farm eine Vielzahl von Pflanzen, vor allem Salat und Kräuter, in einer kontrollierten Umgebung an. Dieser innovative Ansatz ermöglicht eine ganzjährige Produktion und reduziert den Landverbrauch und die Umweltbelastung erheblich. Mit dem Fokus auf Nachhaltigkeit will Honest Greens seine Aktivitäten ausweiten und sein Modell weltweit verbreiten, um die Selbstversorgung mit Lebensmitteln zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Honest Greens",
+  "name": {
+    "en": "Honest Greens",
+    "fr": "Les Verts honnêtes",
+    "es": "Verdes honestos",
+    "de": "Ehrliche Grüne"
+  },
   "pubId": 479152,
   "score": -189.96328730683825,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "en"
 }

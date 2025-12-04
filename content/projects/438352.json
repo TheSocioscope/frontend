@@ -13,14 +13,24 @@
   ],
   "createdAt": 1681888660,
   "date": null,
-  "description": "La Laiterie La Chapelle produit, depuis 5 ans, des fromages au lait cru de vache ainsi que d'autres produits laitiers (yaourts, desserts, fromages blancs) dans le 18ème arrondissement de Paris. Il s'agit de la première et seule laiterie parisienne à transformer un lait francilien puisque nous allons le chercher nous-mêmes dans une seule ferme qui se trouve dans le Val d'Oise, soit à 35km de la Porte de la Chapelle. Nous sommes également la première laiterie urbaine à affiner nos fromages en plein cœur de Paris : notre cave principale et notre laboratoire sont d'ailleurs visibles depuis la rue, à travers de grandes vitrines afin que riverains et curieux puissent découvrir notre métier. Nous ne commercialisons que nos produits laitiers, nous ne faisons donc pas de revente de fromages afin de mettre en avant le savoir-faire et le terroir parisiens et franciliens. Tous les produits sont proposés dans des contenants 100% consignés dans une logique zéro déchet. Ces produits sont vendus en direct ou en circuit-court via des boutiques partenaires, souvent coopératives. Nos livraisons de produits transformés sont 100% décarbonnées, en vélo-cargo.",
+  "description": {
+    "fr": "La Laiterie La Chapelle produit, depuis 5 ans, des fromages au lait cru de vache ainsi que d'autres produits laitiers (yaourts, desserts, fromages blancs) dans le 18ème arrondissement de Paris. Il s'agit de la première et seule laiterie parisienne à transformer un lait francilien puisque nous allons le chercher nous-mêmes dans une seule ferme qui se trouve dans le Val d'Oise, soit à 35km de la Porte de la Chapelle. Nous sommes également la première laiterie urbaine à affiner nos fromages en plein cœur de Paris : notre cave principale et notre laboratoire sont d'ailleurs visibles depuis la rue, à travers de grandes vitrines afin que riverains et curieux puissent découvrir notre métier. Nous ne commercialisons que nos produits laitiers, nous ne faisons donc pas de revente de fromages afin de mettre en avant le savoir-faire et le terroir parisiens et franciliens. Tous les produits sont proposés dans des contenants 100% consignés dans une logique zéro déchet. Ces produits sont vendus en direct ou en circuit-court via des boutiques partenaires, souvent coopératives. Nos livraisons de produits transformés sont 100% décarbonnées, en vélo-cargo.",
+    "en": "For the past 5 years, Laiterie La Chapelle has been producing raw cow's milk cheeses and other dairy products (yoghurts, desserts, fromage blanc) in the 18th arrondissement of Paris. We are the first and only dairy in Paris to process milk from the Ile-de-France region, since we collect it ourselves from a single farm in the Val d'Oise, 35km from Porte de la Chapelle. We are also the first urban dairy to mature our cheeses right in the heart of Paris: our main cellar and laboratory are visible from the street, through large windows, so that local residents and the curious can discover our trade. We only sell our own dairy products, so we don't resell cheeses, in order to showcase Parisian know-how and local produce. All our products are sold in 100% returnable containers, in line with our zero-waste policy. These products are sold direct or on short circuits via partner stores, often cooperatives. Our deliveries of processed products are 100% carbon-free, by cargo bike.",
+    "es": "La Laiterie La Chapelle produce quesos de leche cruda de vaca y otros productos lácteos (yogures, postres, fromage blanc) en el distrito 18 de París desde hace 5 años. Es la primera y única quesería de París que transforma leche de la región de Île-de-France, ya que la recogemos nosotros mismos en una única granja del Val d'Oise, a 35 km de Porte de la Chapelle. También somos la primera quesería urbana que madura sus quesos en pleno centro de París: nuestra bodega principal y nuestro laboratorio son visibles desde la calle, a través de grandes ventanales, para que los vecinos y los curiosos puedan descubrir nuestro oficio. Sólo vendemos nuestros propios productos lácteos, por lo que no revendemos quesos, con el fin de dar a conocer el saber hacer y los productos locales de París y de la región parisina. Todos nuestros productos se venden en envases 100% retornables, en un planteamiento de residuo cero. Los productos se venden directamente o a través de canales de distribución cortos mediante tiendas asociadas, a menudo cooperativas. Nuestras entregas de productos procesados son 100% libres de carbono, en bicicleta de carga.",
+    "de": "Die Laiterie La Chapelle stellt seit fünf Jahren im 18. Arrondissement von Paris Käse aus roher Kuhmilch sowie andere Milchprodukte (Joghurt, Desserts, Quark) her. Es handelt sich um die erste und einzige Pariser Molkerei, die Milch aus der Region Paris verarbeitet, da wir sie selbst von einem einzigen Bauernhof im Val d'Oise, 35 km von der Porte de la Chapelle entfernt, holen. Wir sind auch die erste Stadtmolkerei, die ihren Käse im Herzen von Paris reift: Unser Hauptkeller und unser Labor sind übrigens von der Straße aus durch große Schaufenster sichtbar, damit Anwohner und Neugierige unser Handwerk kennenlernen können. Wir vermarkten nur unsere Milchprodukte, verkaufen also keinen Käse weiter, um das Know-how und das Terroir von Paris und der Ile-de-France in den Vordergrund zu stellen. Alle Produkte werden in Behältern angeboten, die im Sinne einer Null-Abfall-Logik zu 100 % mit Pfand belegt sind. Diese Produkte werden direkt oder im Rahmen eines Kurzzeitkreislaufs über Partnerläden, häufig Genossenschaften, verkauft. Unsere Lieferungen von verarbeiteten Produkten sind zu 100 % kohlenstofffrei und erfolgen mit einem Lastenfahrrad."
+  },
   "field": [
     "biology",
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Ile-de-France",
-  "name": "LAITERIE LA CHAPELLE",
+  "name": {
+    "fr": "LAITERIE LA CHAPELLE",
+    "en": "LA CHAPELLE DAIRY",
+    "es": "LECHERÍA LA CHAPELLE",
+    "de": "MOLKEREI LA CHAPELLE"
+  },
   "pubId": 438352,
   "score": 417.6999999999985,
   "state": "ongoing-project",
@@ -47,28 +57,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1682505774,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1682505774,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

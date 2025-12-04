@@ -12,14 +12,25 @@
   ],
   "createdAt": 1658149510,
   "date": null,
-  "description": "A l'heure de la prise de conscience collective des professionnels et des consommateurs sur les enjeux environnementaux de l'alimentation, le programme AGRIBALYSE fournit des outils pour relever ce défi.\nDepuis 2013, AGRIBALYSE® est un programme collectif et innovant qui met à disposition des données de référence sur les impacts environnementaux des produits agricoles et alimentaires à travers une base de données construite selon la méthodologie des Analyses du Cycle de Vie (ACV).\nLes travaux se poursuivent dans une logique d’amélioration continue et de développement de nouvelles données. Les contributions sont les bienvenues.\n\nLes données AGRIBALYSE 3.0 sont :\n-\tDisponibles via les logiciels SimaPro et openLCA ;\n-\tConnectées à la plateforme GLAD – Global LCA Data Access network\n-\tTéléchargeables en formats « simplifiés » (tableurs comprenant les indicateurs environnement).",
+  "description": {
+    "fr": "A l'heure de la prise de conscience collective des professionnels et des consommateurs sur les enjeux environnementaux de l'alimentation, le programme AGRIBALYSE fournit des outils pour relever ce défi.\nDepuis 2013, AGRIBALYSE® est un programme collectif et innovant qui met à disposition des données de référence sur les impacts environnementaux des produits agricoles et alimentaires à travers une base de données construite selon la méthodologie des Analyses du Cycle de Vie (ACV).\nLes travaux se poursuivent dans une logique d’amélioration continue et de développement de nouvelles données. Les contributions sont les bienvenues.\n\nLes données AGRIBALYSE 3.0 sont :\n-\tDisponibles via les logiciels SimaPro et openLCA ;\n-\tConnectées à la plateforme GLAD – Global LCA Data Access network\n-\tTéléchargeables en formats « simplifiés » (tableurs comprenant les indicateurs environnement).",
+    "en": "At a time when professionals and consumers are becoming collectively aware of the environmental issues surrounding food, the AGRIBALYSE program provides the tools to meet this challenge.\nSince 2013, AGRIBALYSE® is a collective and innovative program that provides reference data on the environmental impacts of agricultural and food products through a database built using Life Cycle Assessment (LCA) methodology.\nWork is continuing with a view to continuous improvement and the development of new data. Contributions are welcome.\n\nAGRIBALYSE 3.0 data are :\n- Available via SimaPro and openLCA software;\n- Connected to the GLAD platform - Global LCA Data Access network\n- Downloadable in \"simplified\" formats (spreadsheets including environmental indicators).",
+    "es": "En un momento en el que los profesionales y los consumidores están tomando conciencia colectiva de los problemas medioambientales que rodean a los alimentos, el programa AGRIBALYSE proporciona herramientas para hacer frente a este desafío.\nDesde 2013, AGRIBALYSE® es un programa colectivo innovador que pone a disposición datos de referencia sobre el impacto medioambiental de los productos agrícolas y alimentarios a través de una base de datos construida con la metodología del Análisis del Ciclo de Vida (ACV).\nEl trabajo continúa con vistas a la mejora continua y el desarrollo de nuevos datos. Las contribuciones son bienvenidas.\n\nLos datos de AGRIBALYSE 3.0 están :\n- Disponibles a través del software SimaPro y openLCA;\n- Conectados a la plataforma GLAD - Red global de acceso a datos de ACV\n- Descargables en formatos \"simplificados\" (hojas de cálculo que incluyen indicadores medioambientales).",
+    "de": "In einer Zeit, in der sich Fachleute und Verbraucher kollektiv der Umweltprobleme von Lebensmitteln bewusst werden, bietet das AGRIBALYSE-Programm Instrumente, um diese Herausforderung zu meistern.\nSeit 2013 ist AGRIBALYSE® ein kollektives und innovatives Programm, das Referenzdaten zu den Umweltauswirkungen von Agrarprodukten und Lebensmitteln über eine Datenbank zur Verfügung stellt, die nach der Methodik der Lebenszyklusanalysen (LCA) aufgebaut ist.\nDie Arbeit wird im Sinne einer kontinuierlichen Verbesserung und der Entwicklung neuer Daten fortgesetzt. Beiträge sind willkommen.\n\nDie AGRIBALYSE 3.0-Daten sind :\n- Verfügbar über die Software SimaPro und openLCA ;\n- Verbunden mit der Plattform GLAD - Global LCA Data Access network.\n- Sie können in \"vereinfachten\" Formaten heruntergeladen werden (Tabellenkalkulationen mit Umweltindikatoren)."
+  },
   "field": [
     "economics-statistics",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "AGRIBALYSE ",
+  "name": {
+    "lt": "AGRIBALYSE ",
+    "en": "AGRIBALYSE",
+    "fr": "AGRIBALYSE",
+    "es": "AGRIBALYSE",
+    "de": "AGRIBALYSE"
+  },
   "pubId": 416752,
   "score": 1417.0000000000082,
   "state": "ongoing-project",
@@ -51,28 +62,5 @@
   ],
   "url": "https://doc.agribalyse.fr/documentation/",
   "yt": "DNdv0TbxJgc",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658329910,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658329910,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

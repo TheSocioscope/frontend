@@ -13,13 +13,24 @@
   ],
   "createdAt": 1755263197,
   "date": null,
-  "description": "Véni Verdi is an initiative, focused on promoting local, social agriculture in urban environments. By establishing gardens on school rooftops, Véni Verdi aims to educate children about the importance of the living world, fostering a connection to nature while addressing climate issues. The initiative engages thousands of children and adults annually, providing access to healthy food and hands-on learning experiences, ultimately empowering future generations to understand and care for their environment.",
+  "description": {
+    "en": "Véni Verdi is an initiative, focused on promoting local, social agriculture in urban environments. By establishing gardens on school rooftops, Véni Verdi aims to educate children about the importance of the living world, fostering a connection to nature while addressing climate issues. The initiative engages thousands of children and adults annually, providing access to healthy food and hands-on learning experiences, ultimately empowering future generations to understand and care for their environment.",
+    "fr": "Véni Verdi est une initiative visant à promouvoir l'agriculture locale et sociale en milieu urbain. En créant des jardins sur les toits des écoles, Véni Verdi vise à sensibiliser les enfants à l'importance du monde vivant, à favoriser un lien avec la nature tout en s'attaquant aux problèmes climatiques. L'initiative mobilise des milliers d'enfants et d'adultes chaque année, en leur donnant accès à des aliments sains et à des expériences d'apprentissage pratiques, ce qui permet aux générations futures de comprendre leur environnement et d'en prendre soin.",
+    "es": "Véni Verdi es una iniciativa centrada en promover la agricultura local y social en entornos urbanos. Mediante la creación de huertos en los tejados de las escuelas, Véni Verdi pretende educar a los niños sobre la importancia del mundo vivo, fomentando una conexión con la naturaleza y abordando al mismo tiempo los problemas climáticos. La iniciativa involucra a miles de niños y adultos cada año, proporcionándoles acceso a alimentos sanos y experiencias prácticas de aprendizaje que, en última instancia, capacitan a las generaciones futuras para comprender y cuidar su entorno.",
+    "de": "Véni Verdi ist eine Initiative zur Förderung der lokalen, sozialen Landwirtschaft im städtischen Umfeld. Durch das Anlegen von Gärten auf Schuldächern will Véni Verdi Kindern die Bedeutung der lebendigen Welt nahebringen, eine Verbindung zur Natur schaffen und gleichzeitig die Klimaproblematik angehen. Die Initiative erreicht jedes Jahr Tausende von Kindern und Erwachsenen, indem sie ihnen Zugang zu gesunden Lebensmitteln und praktischen Lernerfahrungen verschafft und so künftige Generationen in die Lage versetzt, ihre Umwelt zu verstehen und zu schützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Véni Verdi",
+  "name": {
+    "hu": "Véni Verdi",
+    "en": "Old Verdi",
+    "fr": "Vieux Verdi",
+    "es": "Viejo Verdi",
+    "de": "Alte Verdi"
+  },
   "pubId": 499352,
   "score": -178.35259210208918,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "hu"
 }

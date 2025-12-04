@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754987509,
   "date": null,
-  "description": "The initiative focuses on transforming the traditional sustainability model by engaging stakeholders through relatable causes, such as nutrition and environmental care. It emphasizes the importance of ethics, transparency, and corporate governance while fostering a culture of contribution and leadership. The company aims to align its operations with societal needs, moving beyond mere compliance to create a meaningful impact. This approach is encapsulated in their impact report, which highlights their commitment as a certified B company.",
+  "description": {
+    "en": "The initiative focuses on transforming the traditional sustainability model by engaging stakeholders through relatable causes, such as nutrition and environmental care. It emphasizes the importance of ethics, transparency, and corporate governance while fostering a culture of contribution and leadership. The company aims to align its operations with societal needs, moving beyond mere compliance to create a meaningful impact. This approach is encapsulated in their impact report, which highlights their commitment as a certified B company.",
+    "fr": "L'initiative se concentre sur la transformation du modèle traditionnel de durabilité en engageant les parties prenantes à travers des causes concrètes, telles que la nutrition et la protection de l'environnement. Elle met l'accent sur l'importance de l'éthique, de la transparence et de la gouvernance d'entreprise, tout en encourageant une culture de la contribution et du leadership. L'entreprise vise à aligner ses activités sur les besoins de la société, en allant au-delà de la simple conformité pour créer un impact significatif. Cette approche est résumée dans son rapport d'impact, qui souligne son engagement en tant qu'entreprise certifiée B.",
+    "es": "La iniciativa se centra en transformar el modelo tradicional de sostenibilidad implicando a las partes interesadas a través de causas afines, como la nutrición y el cuidado del medio ambiente. Destaca la importancia de la ética, la transparencia y el gobierno corporativo, al tiempo que fomenta una cultura de contribución y liderazgo. La empresa pretende alinear sus operaciones con las necesidades de la sociedad, yendo más allá del mero cumplimiento para crear un impacto significativo. Este enfoque se resume en su informe de impacto, que destaca su compromiso como empresa B certificada.",
+    "de": "Die Initiative konzentriert sich darauf, das traditionelle Nachhaltigkeitsmodell zu verändern, indem sie die Interessengruppen durch nachvollziehbare Anliegen wie Ernährung und Umweltschutz einbindet. Sie unterstreicht die Bedeutung von Ethik, Transparenz und Unternehmensführung und fördert gleichzeitig eine Kultur des Beitrags und der Führung. Das Unternehmen ist bestrebt, seine Tätigkeit an den gesellschaftlichen Bedürfnissen auszurichten und über die bloße Einhaltung von Vorschriften hinaus eine sinnvolle Wirkung zu erzielen. Dieser Ansatz wird in ihrem Wirkungsbericht zusammengefasst, der ihr Engagement als zertifiziertes B-Unternehmen hervorhebt."
+  },
   "field": [
     "nutrition",
     "management-public-administration"
   ],
   "lang": "en",
   "location": "",
-  "name": "Alqueria",
+  "name": {
+    "en": "Alqueria",
+    "fr": "Alqueria",
+    "es": "Alquería",
+    "de": "Alqueria"
+  },
   "pubId": 488352,
   "score": 59.186476620000676,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "Tocr_eNx06I",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1755739038,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1755739038
     }
   ],
-  "lastEvent": {
-    "at": 1755739038,
-    "by": "contact"
-  },
   "updatedAt": [
     1755739038
-  ]
+  ],
+  "originalLang": "fr"
 }

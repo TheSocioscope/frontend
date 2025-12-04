@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754652906,
   "date": null,
-  "description": "The Colorado Grain Chain is an initiative aimed at establishing a sustainable grain economy in Colorado. It connects small grain growers, millers, bakers, and distillers to promote heritage and heirloom grains. The organization facilitates market access, provides resources for grain processing, and hosts community events to raise awareness about the nutritional and environmental benefits of diverse grain production. Through collaboration, it seeks to revitalize local agriculture and strengthen community ties.",
+  "description": {
+    "en": "The Colorado Grain Chain is an initiative aimed at establishing a sustainable grain economy in Colorado. It connects small grain growers, millers, bakers, and distillers to promote heritage and heirloom grains. The organization facilitates market access, provides resources for grain processing, and hosts community events to raise awareness about the nutritional and environmental benefits of diverse grain production. Through collaboration, it seeks to revitalize local agriculture and strengthen community ties.",
+    "fr": "La chaîne céréalière du Colorado est une initiative visant à établir une économie céréalière durable dans le Colorado. Elle met en relation les petits producteurs de céréales, les meuniers, les boulangers et les distillateurs afin de promouvoir les céréales patrimoniales et ancestrales. L'organisation facilite l'accès au marché, fournit des ressources pour la transformation des céréales et organise des événements communautaires pour sensibiliser la population aux avantages nutritionnels et environnementaux d'une production céréalière diversifiée. Grâce à la collaboration, elle cherche à revitaliser l'agriculture locale et à renforcer les liens communautaires.",
+    "es": "La Cadena de Cereales de Colorado es una iniciativa destinada a establecer una economía sostenible de cereales en Colorado. Pone en contacto a pequeños productores de cereales, molineros, panaderos y destiladores para promover los cereales tradicionales y autóctonos. La organización facilita el acceso al mercado, proporciona recursos para el procesado del grano y organiza actos comunitarios para concienciar sobre los beneficios nutricionales y medioambientales de la producción diversa de grano. Mediante la colaboración, pretende revitalizar la agricultura local y reforzar los lazos comunitarios.",
+    "de": "Die Colorado Grain Chain ist eine Initiative, die auf die Schaffung einer nachhaltigen Getreidewirtschaft in Colorado abzielt. Sie verbindet kleine Getreidebauern, Mühlen, Bäcker und Brennereien, um traditionelle und alte Getreidesorten zu fördern. Die Organisation erleichtert den Marktzugang, stellt Ressourcen für die Getreideverarbeitung zur Verfügung und veranstaltet Gemeindeveranstaltungen, um das Bewusstsein für die ernährungsphysiologischen und ökologischen Vorteile einer vielfältigen Getreideproduktion zu schärfen. Durch die Zusammenarbeit soll die lokale Landwirtschaft wiederbelebt und die Beziehungen zwischen den Gemeinden gestärkt werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Colorado Grain Chain",
+  "name": {
+    "en": "Colorado Grain Chain",
+    "fr": "Chaîne céréalière du Colorado",
+    "es": "Cadena de cereales de Colorado",
+    "de": "Colorado-Getreidekette"
+  },
   "pubId": 478552,
   "score": 20.671039058273397,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "en"
 }

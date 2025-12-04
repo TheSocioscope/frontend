@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754385494,
   "date": null,
-  "description": "Larvia is an innovative startup that emerged from a university project in Ecuador, focusing on the aquaculture sector, particularly shrimp farming. Founded between 2018 and 2020 with support from LANEC Corporation, Larvia leverages artificial intelligence to provide biometric data and analytics, enabling shrimp farmers to make informed decisions. By 2025, the company has expanded its services to 18 countries, aiming to enhance sustainability and efficiency in shrimp production while democratizing access to vital information for farmers.",
+  "description": {
+    "en": "Larvia is an innovative startup born out of a university project in Ecuador, focused on the aquaculture sector, especially shrimp farming. Founded between 2018 and 2020 with the support of LANEC Corporation, Larvia leverages artificial intelligence to provide biometric data and analytics, enabling shrimp farmers to make informed decisions. By 2025, the company has expanded its services to 18 countries, with the goal of improving sustainability and efficiency in shrimp production while democratizing access to vital information for farmers.",
+    "fr": "Larvia est une startup innovante née d'un projet universitaire en Équateur, axée sur le secteur de l'aquaculture, en particulier l'élevage de crevettes. Fondée entre 2018 et 2020 avec le soutien de LANEC Corporation, Larvia s'appuie sur l'intelligence artificielle pour fournir des données biométriques et des analyses, permettant aux éleveurs de crevettes de prendre des décisions éclairées. D'ici 2025, l'entreprise a étendu ses services à 18 pays, dans le but d'améliorer la durabilité et l'efficacité de la production de crevettes, tout en démocratisant l'accès aux informations vitales pour les agriculteurs.",
+    "es": "Larvia es una startup innovadora surgida de un proyecto universitario en Ecuador, centrada en el sector de la acuicultura, especialmente en la cría de camarones. Fundada entre 2018 y 2020 con el apoyo de LANEC Corporation, Larvia aprovecha la inteligencia artificial para proporcionar datos biométricos y análisis, lo que permite a los criadores de camarones tomar decisiones informadas. Para 2025, la compañía ha expandido sus servicios a 18 países, con el objetivo de mejorar la sostenibilidad y la eficiencia en la producción de camarones, al tiempo que democratiza el acceso a información vital para los agricultores.",
+    "de": "Larvia ist ein innovatives Start-up-Unternehmen, das aus einem Universitätsprojekt in Ecuador hervorgegangen ist und sich auf den Aquakultursektor, insbesondere die Krabbenzucht, konzentriert. Larvia wurde zwischen 2018 und 2020 mit Unterstützung der LANEC Corporation gegründet und hebt künstliche Intelligenz auf, um biometrische Daten und Analysen zu liefern, die es den Schrimpsfarmern ermöglichen, informierte Entscheidungen zu treffen. Bis 2025 hat das Unternehmen seine Dienstleistungen auf 18 Länder ausgeweitet, um die Nachhaltigkeit und Effizienz der Schrimps-Produktion zu steigern, indem es den Zugang der Landwirte zu wichtigen Informationen demokratisiert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Larvia",
+  "name": {
+    "en": "Larvia",
+    "fr": "Larvia",
+    "es": "Larvia",
+    "de": "Larvia"
+  },
   "pubId": 458352,
   "score": 67.00000000000024,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

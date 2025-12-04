@@ -6,6 +6,11 @@
     "partners": "Partenaires",
     "contact": "Contact"
   },
+  "labels": {
+    "fields": "Domaines",
+    "thematics": "Thématiques",
+    "types": "Types"
+  },
   "hero": {
     "title": "LE SOCIOSCOPE",
     "subtitle": "Voir comment les sociétés se transforment",
@@ -556,8 +561,12 @@
     "projectsFound": "{count} projet trouvé | {count} projets trouvés",
     "search": "Rechercher des projets",
     "geography": "Géographie",
-    "continents": "Continents",
-    "countries": "Pays",
-    "loading": "Chargement du projet..."
+    "continentsLabel": "Continents",
+    "countriesLabel": "Pays",
+    "loading": "Chargement du projet...",
+    "translationDisclaimer": "Ce contenu a été traduit automatiquement en {language}.",
+    "viewInOriginal": "Voir en {language}",
+    "viewingOriginal": "Affichage du contenu dans la langue d'origine ({language}).",
+    "viewTranslated": "Voir la traduction"
   }
 }

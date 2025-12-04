@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739454633,
   "date": null,
-  "description": "Nordic Harvest is a vertical farming initiative located on the outskirts of Copenhagen. The initiative aims to address the significant environmental challenges posed by traditional farming methods, particularly the deforestation and climate issues resulting from conventional agricultural practices. \n\nThe mission of Nordic Harvest is to grow more food on less space, utilizing innovative technologies such as LED lighting and a controlled environment to maximize crop yields. The farm operates on a proof of concept model, currently producing crops like lettuce, herbs, and kale in a facility that spans 3,500 square meters, with plans to expand to 66,000 square meters, which would allow for the production of 1,000 tonnes of produce annually.\n\nNordic Harvest emphasizes research and development, employing a team of experts, including PhD holders and specialists in microbiology and sustainable agriculture, to ensure optimal growing conditions and to innovate in crop production.\n",
+  "description": {
+    "en": "Nordic Harvest is a vertical farming initiative located on the outskirts of Copenhagen. The initiative aims to address the significant environmental challenges posed by traditional farming methods, particularly deforestation and climate problems resulting from conventional farming practices. Nordic Harvest's mission is to grow more food in less space, using innovative technologies such as LED lighting and a controlled environment to maximize crop yields. The farm operates on a proof-of-concept model, and currently produces crops such as lettuce, herbs and kale in a 3,500 square meter facility, with plans to expand to 66,000 square meters, which would produce 1,000 tons of produce per year. Nordic Harvest emphasizes research and development, and employs a team of experts, including doctors and specialists in microbiology and sustainable agriculture, to ensure optimal growing conditions and innovate in crop production.",
+    "fr": "Nordic Harvest est une initiative d'agriculture verticale située dans la banlieue de Copenhague. La mission de Nordic Harvest est de cultiver plus de nourriture dans moins d'espace, en utilisant des technologies innovantes telles que l'éclairage LED et un environnement contrôlé pour maximiser le rendement des cultures. La ferme fonctionne selon un modèle de validation de principe et produit actuellement des cultures telles que la laitue, les herbes et le chou frisé dans une installation de 3 500 mètres carrés. Nordic Harvest met l'accent sur la recherche et le développement et emploie une équipe d'experts, notamment des médecins et des spécialistes de la microbiologie et de l'agriculture durable, pour garantir des conditions de culture optimales et l'innovation dans la production des cultures.",
+    "es": "Nordic Harvest es una iniciativa de agricultura vertical situada en las afueras de Copenhague. La iniciativa pretende hacer frente a los importantes retos medioambientales que plantean los métodos de cultivo tradicionales, en particular la deforestación y los problemas climáticos derivados de las prácticas agrícolas convencionales.\n\nLa misión de Nordic Harvest es cultivar más alimentos en menos espacio, utilizando tecnologías innovadoras como la iluminación LED y un entorno controlado para maximizar el rendimiento de los cultivos. La granja funciona según un modelo de prueba de concepto, y actualmente produce cultivos como lechuga, hierbas y col rizada en unas instalaciones de 3.500 metros cuadrados, con planes de ampliación a 66.000 metros cuadrados, lo que permitiría producir 1.000 toneladas de productos al año.\n\nNordic Harvest hace hincapié en la investigación y el desarrollo, y emplea a un equipo de expertos, entre ellos doctores y especialistas en microbiología y agricultura sostenible, para garantizar unas condiciones de cultivo óptimas e innovar en la producción de cultivos.\n",
+    "de": "Nordic Harvest ist eine Initiative für vertikale Landwirtschaft am Stadtrand von Kopenhagen. Die Initiative will die erheblichen ökologischen Herausforderungen angehen, die durch die traditionelle Landwirtschaft entstehen, insbesondere die Entwaldung und die Klimaproblematik, die sich aus den konventionellen landwirtschaftlichen Praktiken ergeben.\n\nDie Mission von Nordic Harvest ist es, mehr Lebensmittel auf weniger Fläche anzubauen und dabei innovative Technologien wie LED-Beleuchtung und ein kontrolliertes Umfeld zu nutzen, um die Ernteerträge zu maximieren. Der Betrieb arbeitet nach einem Proof-of-Concept-Modell und produziert derzeit Pflanzen wie Lettuce, Kräuter und Grünkohl in einer Anlage, die sich über 3.500 Quadratmeter erstreckt. Es ist geplant, die Anlage auf 66.000 Quadratmeter zu erweitern, was die Produktion von jährlich 1.000 Tonnen Erzeugnissen ermöglichen würde.\n\nNordic Harvest legt großen Wert auf Forschung und Entwicklung und beschäftigt ein Team von Experten, darunter Doktoranden und Spezialisten für Mikrobiologie und nachhaltige Landwirtschaft, um optimale Wachstumsbedingungen zu gewährleisten und Innovationen in der Pflanzenproduktion voranzutreiben.\n"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nordic Harvest",
+  "name": {
+    "da": "Nordic Harvest",
+    "en": "Nordic Harvest",
+    "fr": "Récolte nordique",
+    "es": "Cosecha nórdica",
+    "de": "Nordische Ernte"
+  },
   "pubId": 448252,
   "score": 195.30196078431385,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://www.nordicharvest.com/",
   "yt": "BUO_FmW8eT8",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

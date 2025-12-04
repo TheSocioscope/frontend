@@ -14,7 +14,12 @@
   "date": [
     "2022-07-15"
   ],
-  "description": "\nSustainable school meals\n\nGhent opts for honest, healthy and sustainable school meals that respect people, animals and the environment.\nThe school meals in Ghent city schools and day-care centres consist of more organic ingredients, less meat and more seasonal products. Criteria such as food waste and human and animal welfare are also taken into account. With our sustainable school meals, we reach 4,500 pupils and serve 775,883 meals per year.\nOn Thursdays, all meals are vegetarian. On all other days, flexi-meals are served: this means that for each meal animal protein is limited to a maximum of 50% of the total protein content.",
+  "description": {
+    "en": "\nSustainable school meals Ghent is committed to honest, healthy and sustainable school meals that respect people, animals and the environment. School meals in schools and kindergartens in the city of Ghent consist of more organic ingredients, less meat and more seasonal products. Criteria such as food waste and human and animal welfare are also taken into account. With our sustainable school meals, we reach 4,500 pupils and serve 775,883 meals per year. On Thursdays, all meals are vegetarian. On all other days, flexible meals are served, which means that at each meal, animal proteins are limited to a maximum of 50% of the total protein content.",
+    "fr": "\nDes repas scolaires durables Gand s'engage à offrir des repas scolaires honnêtes, sains et durables qui respectent les personnes, les animaux et l'environnement. Les repas scolaires dans les écoles et les jardins d'enfants de la ville de Gand se composent de plus d'ingrédients biologiques, de moins de viande et de plus de produits de saison. Des critères tels que les déchets alimentaires et le bien-être des hommes et des animaux sont également pris en compte. Avec nos repas scolaires durables, nous touchons 4 500 élèves et servons 775 883 repas par an. Le jeudi, tous les repas sont végétariens. Tous les autres jours, des repas flexibles sont servis, ce qui signifie qu'à chaque repas, les protéines animales sont limitées à un maximum de 50 % de la teneur totale en protéines.",
+    "es": "\nComidas escolares sostenibles\n\nGante apuesta por comidas escolares honestas, sanas y sostenibles que respeten a las personas, los animales y el medio ambiente.\nLas comidas escolares de las escuelas y guarderías de la ciudad de Gante se componen de más ingredientes ecológicos, menos carne y más productos de temporada. También se tienen en cuenta criterios como el desperdicio de alimentos y el bienestar humano y animal. Con nuestras comidas escolares sostenibles, llegamos a 4.500 alumnos y servimos 775.883 comidas al año.\nLos jueves, todas las comidas son vegetarianas. El resto de los días se sirven comidas flexibles, lo que significa que en cada comida las proteínas animales se limitan a un máximo del 50% del contenido proteínico total.",
+    "de": "\nNachhaltige Schulmahlzeiten\n\nGhent entscheidet sich für ehrliche, gesunde und nachhaltige Schulmahlzeiten, die Menschen, Tiere und die Umwelt respektieren.\nDie Schulmahlzeiten in Genter Stadtschulen und Kindertagesstätten bestehen aus mehr organischen Zutaten, weniger Fleisch und mehr saisonalen Produkten. Kriterien wie Lebensmittelabfälle, Tier- und Menschenschutz werden ebenfalls berücksichtigt. Mit unseren nachhaltigen Schulmahlzeiten erreichen wir 4.500 Schüler und servieren 775.883 Mahlzeiten pro Jahr.\nAn Thursdays sind alle Mahlzeiten vegetarisch. An allen anderen Tagen werden Flexi-Mahlzeiten serviert: Das bedeutet, dass für jede Mahlzeit tierisches Eiweiß auf maximal 50% des gesamten Eiweißgehalts beschränkt ist."
+  },
   "field": [
     "education-sciences",
     "management-public-administration",
@@ -23,7 +28,12 @@
   ],
   "lang": "fr",
   "location": "Ghent",
-  "name": " Sustainable school meals",
+  "name": {
+    "en": " Sustainable school meals",
+    "fr": " Sustainable school meals",
+    "es": " Comidas escolares sostenibles",
+    "de": " Nachhaltige Schulmahlzeiten"
+  },
   "pubId": 416552,
   "score": 552.073803599912,
   "state": "ongoing-project",
@@ -49,28 +59,5 @@
   ],
   "url": "https://stad.gent/en/city-governance-organisation/city-policy/ghents-climate-actions/sustainable-food#95301",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532684,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532684,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

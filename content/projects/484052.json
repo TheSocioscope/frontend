@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754912385,
   "date": null,
-  "description": "The PRODIGE project, led by Sophie Nicklaus at INRAE, aims to enhance regional food systems by fostering public-private partnerships. It involves diverse stakeholders, including local governments, agricultural cooperatives, and citizens, to address food supply challenges and promote sustainable practices. The initiative emphasizes the role of research in quantifying impacts and facilitating discussions on compensation for affected parties, while navigating the complexities of local, regional, and national governance structures.",
+  "description": {
+    "en": "The PRODIGE project, led by Sophie Nicklaus at INRAE, aims to enhance regional food systems by fostering public-private partnerships. It involves diverse stakeholders, including local governments, agricultural cooperatives, and citizens, to address food supply challenges and promote sustainable practices. The initiative emphasizes the role of research in quantifying impacts and facilitating discussions on compensation for affected parties, while navigating the complexities of local, regional, and national governance structures.",
+    "fr": "Le projet PRODIGE, dirigé par Sophie Nicklaus à l'INRAE, vise à améliorer les systèmes alimentaires régionaux en encourageant les partenariats public-privé. Il implique diverses parties prenantes, notamment les gouvernements locaux, les coopératives agricoles et les citoyens, afin de relever les défis de l'approvisionnement alimentaire et de promouvoir des pratiques durables. L'initiative met l'accent sur le rôle de la recherche dans la quantification des impacts et la facilitation des discussions sur la compensation pour les parties affectées, tout en naviguant dans les complexités des structures de gouvernance locales, régionales et nationales.",
+    "es": "El proyecto PRODIGE, dirigido por Sophie Nicklaus en el INRAE, pretende mejorar los sistemas alimentarios regionales fomentando las asociaciones público-privadas. Involucra a diversas partes interesadas, como gobiernos locales, cooperativas agrícolas y ciudadanos, para abordar los retos del suministro de alimentos y promover prácticas sostenibles. La iniciativa hace hincapié en el papel de la investigación a la hora de cuantificar las repercusiones y facilitar el debate sobre las compensaciones a las partes afectadas, al tiempo que se sortean las complejidades de las estructuras de gobernanza locales, regionales y nacionales.",
+    "de": "Das von Sophie Nicklaus vom INRAE geleitete Projekt PRODIGE zielt darauf ab, regionale Lebensmittelsysteme durch die Förderung öffentlich-privater Partnerschaften zu verbessern. Es bezieht verschiedene Interessengruppen ein, darunter lokale Regierungen, landwirtschaftliche Genossenschaften und Bürger, um Herausforderungen bei der Lebensmittelversorgung anzugehen und nachhaltige Praktiken zu fördern. Die Initiative betont die Rolle der Forschung bei der Quantifizierung der Auswirkungen und der Erleichterung von Diskussionen über Entschädigungen für die Betroffenen, während gleichzeitig die Komplexität lokaler, regionaler und nationaler Verwaltungsstrukturen bewältigt wird."
+  },
   "field": [
     "nutrition",
     "sociology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Sophie Nicklaus",
+  "name": {
+    "de": "Sophie Nicklaus",
+    "en": "Sophie Nicklaus",
+    "fr": "Sophie Nicklaus",
+    "es": "Sophie Nicklaus"
+  },
   "pubId": 484052,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -43,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "de"
 }

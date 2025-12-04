@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754913743,
   "date": null,
-  "description": "The initiative, known as AMAP (Association for the Maintenance of Peasant Agriculture), connects local producers with consumers in the Murat region. Founded in 2011, it promotes organic farming and supports local agriculture by allowing members to pre-order products, ensuring producers know what to cultivate. The collective operates on a volunteer basis, fostering community ties and providing high-quality, locally sourced food while maintaining a flexible and supportive environment for both producers and consumers.",
+  "description": {
+    "en": "The initiative, known as AMAP (Association for the Maintenance of Peasant Agriculture), connects local producers with consumers in the Murat region. Founded in 2011, it promotes organic farming and supports local agriculture by allowing members to pre-order products, ensuring producers know what to cultivate. The collective operates on a volunteer basis, fostering community ties and providing high-quality, locally sourced food while maintaining a flexible and supportive environment for both producers and consumers.",
+    "fr": "L'initiative, connue sous le nom d'AMAP (Association pour le maintien de l'agriculture paysanne), met en relation les producteurs locaux et les consommateurs de la région de Murat. Fondée en 2011, elle promeut l'agriculture biologique et soutient l'agriculture locale en permettant aux membres de commander des produits à l'avance, ce qui permet aux producteurs de savoir ce qu'ils doivent cultiver. Le collectif fonctionne sur la base du volontariat, encourageant les liens communautaires et fournissant des aliments de haute qualité, d'origine locale, tout en maintenant un environnement flexible et favorable pour les producteurs et les consommateurs.",
+    "es": "La iniciativa, conocida como AMAP (Asociación para el Mantenimiento de la Agricultura Campesina), conecta a los productores locales con los consumidores de la región de Murat. Fundada en 2011, promueve la agricultura ecológica y apoya la agricultura local permitiendo a los miembros hacer pedidos anticipados de productos, lo que garantiza que los productores sepan qué cultivar. El colectivo funciona de forma voluntaria, fomentando los lazos comunitarios y proporcionando alimentos de alta calidad y de origen local, al tiempo que mantiene un entorno flexible y de apoyo tanto para los productores como para los consumidores.",
+    "de": "Die Initiative mit dem Namen AMAP (Association for the Maintenance of Peasant Agriculture) verbindet lokale Erzeuger mit Verbrauchern in der Region Murat. Die 2011 gegründete Organisation fördert den ökologischen Landbau und unterstützt die lokale Landwirtschaft, indem sie ihren Mitgliedern die Möglichkeit gibt, Produkte vorzubestellen, damit die Erzeuger wissen, was sie anbauen sollen. Das Kollektiv arbeitet auf freiwilliger Basis, fördert die Gemeinschaftsbeziehungen und bietet qualitativ hochwertige, lokal bezogene Lebensmittel an, während es gleichzeitig ein flexibles und unterstützendes Umfeld für Erzeuger und Verbraucher aufrechterhält."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "AMAP Murat",
+  "name": {
+    "tr": "AMAP Murat",
+    "en": "AMAP Murat",
+    "fr": "AMAP Murat",
+    "es": "AMAP Murat",
+    "de": "AMAP Murat"
+  },
   "pubId": 484952,
   "score": 26.214601962658758,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "tr"
 }

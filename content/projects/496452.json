@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755009737,
   "date": null,
-  "description": "The initiative, founded in 1974, began as a social project by a religious community aimed at creating an inclusive space for people with disabilities. Relocating from Barcelona to rural Catalonia, the project fostered community life and work, integrating individuals often marginalized by society. Over the years, it evolved into a cooperative focused on sustainable agriculture, producing wine and olive oil while promoting social inclusion and providing meaningful employment opportunities for its members.",
+  "description": {
+    "en": "The initiative, founded in 1974, began as a social project by a religious community aimed at creating an inclusive space for people with disabilities. Relocating from Barcelona to rural Catalonia, the project fostered community life and work, integrating individuals often marginalized by society. Over the years, it evolved into a cooperative focused on sustainable agriculture, producing wine and olive oil while promoting social inclusion and providing meaningful employment opportunities for its members.",
+    "fr": "L'initiative, fondée en 1974, est née d'un projet social d'une communauté religieuse visant à créer un espace d'intégration pour les personnes handicapées. Délocalisé de Barcelone vers la Catalogne rurale, le projet a favorisé la vie et le travail communautaires, en intégrant des personnes souvent marginalisées par la société. Au fil des ans, il s'est transformé en une coopérative axée sur l'agriculture durable, produisant du vin et de l'huile d'olive tout en promouvant l'inclusion sociale et en offrant des possibilités d'emploi intéressantes à ses membres.",
+    "es": "La iniciativa, fundada en 1974, empezó como un proyecto social de una comunidad religiosa destinado a crear un espacio inclusivo para personas con discapacidad. Trasladado de Barcelona a la Cataluña rural, el proyecto fomentó la vida y el trabajo en comunidad, integrando a personas a menudo marginadas por la sociedad. Con los años, evolucionó hasta convertirse en una cooperativa centrada en la agricultura sostenible, que produce vino y aceite de oliva al tiempo que promueve la inclusión social y ofrece oportunidades de empleo significativas a sus miembros.",
+    "de": "Die 1974 gegründete Initiative begann als soziales Projekt einer religiösen Gemeinschaft mit dem Ziel, einen integrativen Raum für Menschen mit Behinderungen zu schaffen. Mit dem Umzug von Barcelona ins ländliche Katalonien förderte das Projekt das Gemeinschaftsleben und die Arbeit und integrierte Menschen, die oft von der Gesellschaft ausgegrenzt wurden. Im Laufe der Jahre entwickelte es sich zu einer Genossenschaft, die sich auf nachhaltige Landwirtschaft konzentriert, Wein und Olivenöl produziert und gleichzeitig die soziale Eingliederung fördert und sinnvolle Beschäftigungsmöglichkeiten für ihre Mitglieder bietet."
+  },
   "field": [
     "nutrition",
     "other-social-sciences-and-humanities"
   ],
   "lang": "en",
   "location": "",
-  "name": "l'Olivera",
+  "name": {
+    "en": "l'Olivera",
+    "fr": "l'Olivera",
+    "es": "l'Olivera",
+    "de": "die Olivera"
+  },
   "pubId": 496452,
   "score": -36.27017408716356,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754422383,
   "date": null,
-  "description": "Aromáticas del Alto Valle is a cooperative focused on the production and commercialization of aromatic and medicinal herbs. Established over 20 years ago, it gained momentum during the pandemic by embracing digital commerce. The initiative promotes productive diversification for local families, allowing small-scale farming of herbs that were previously undervalued. With a commitment to agroecological standards, the cooperative has evolved to include online marketing and training, ensuring sustainability and growth in the sector.",
+  "description": {
+    "en": "Aromáticas del Alto Valle is a cooperative focused on the production and commercialization of aromatic and medicinal herbs. Created more than 20 years ago, it gained momentum during the pandemic by adopting digital commerce. The initiative promotes productive diversification for local families, enabling small-scale cultivation of herbs that were previously undervalued. With a commitment to agroecological standards, the cooperative has evolved to include online marketing and training, ensuring sustainability and growth in the sector.",
+    "fr": "Aromáticas del Alto Valle est une coopérative axée sur la production et la commercialisation d'herbes aromatiques et médicinales. Créée il y a plus de 20 ans, elle a pris de l'ampleur pendant la pandémie en adoptant le commerce numérique. L'initiative favorise la diversification de la production pour les familles locales, en permettant la culture à petite échelle d'herbes qui étaient auparavant sous-évaluées. Attachée aux normes agro-écologiques, la coopérative a évolué pour inclure la commercialisation et la formation en ligne, garantissant ainsi la durabilité et la croissance du secteur.",
+    "es": "Aromáticas del Alto Valle es una cooperativa centrada en la producción y comercialización de hierbas aromáticas y medicinales. Creada hace más de 20 años, cobró impulso durante la pandemia al adoptar el comercio digital. La iniciativa promueve la diversificación productiva de las familias locales, permitiendo el cultivo a pequeña escala de hierbas que antes estaban infravaloradas. Con un compromiso con las normas agroecológicas, la cooperativa ha evolucionado para incluir la comercialización y la formación en línea, garantizando la sostenibilidad y el crecimiento del sector.",
+    "de": "Aromáticas del Alto Valle ist eine Genossenschaft, die sich auf die Herstellung und den Vertrieb von aromatischen und medizinischen Kräutern konzentriert. Sie wurde vor über 20 Jahren gegründet und gewann während der Pandemie durch die Einführung des digitalen Handels an Dynamik. Die Initiative fördert die produktive Diversifizierung lokaler Familien und ermöglicht die kleinbäuerliche Bewirtschaftung von Kräutern, die zuvor unterbewertet waren. Mit einem Bekenntnis zu agrarökologischen Standards hat sich die Genossenschaft weiterentwickelt und umfasst nun auch Online-Marketing und -Training, um die Nachhaltigkeit und das Wachstum des Sektors zu sichern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Aromáticas del Alto Valle",
+  "name": {
+    "es": "Aromáticas del Alto Valle",
+    "en": "High Valley Aromatics",
+    "fr": "Aromatiques de la Haute Vallée",
+    "de": "Aromaten des Hochtals"
+  },
   "pubId": 452652,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

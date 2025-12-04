@@ -15,14 +15,25 @@
   "date": [
     "2018-01-01"
   ],
-  "description": "The Foresta pedagogical farm is located in the park of the same name in the 15th district of Marseille. \n\nThe farm is managed by the association Dihya, a very active player in the fight against poverty and hunger, particularly in the northern districts of the city. The farm has more than 50 animals (cows, sheep, goats, ducks, chickens, rabbits, hens, gooses), all of which were donated by sympathetic organisations and farmers. The management of the farm itself relies on donations and support from a solidarity network in which it is embedded.\n\nThe farm is open to all kinds of visitors, and especially to children. Access is free.\n",
+  "description": {
+    "en": "The Foresta pedagogical farm is located in the park of the same name in the 15th district of Marseille. \n\nThe farm is managed by the association Dihya, a very active player in the fight against poverty and hunger, particularly in the northern districts of the city. The farm has more than 50 animals (cows, sheep, goats, ducks, chickens, rabbits, hens, gooses), all of which were donated by sympathetic organisations and farmers. The management of the farm itself relies on donations and support from a solidarity network in which it is embedded.\n\nThe farm is open to all kinds of visitors, and especially to children. Access is free.\n",
+    "fr": "La ferme pédagogique Foresta est située dans le parc du même nom dans le 15e arrondissement de Marseille. \n\nLa ferme est gérée par l'association Dihya, très active dans la lutte contre la pauvreté et la faim, notamment dans les quartiers nord de la ville. La ferme compte plus de 50 animaux (vaches, moutons, chèvres, canards, poulets, lapins, poules, oies), tous donnés par des associations et des agriculteurs sympathisants. La gestion de la ferme elle-même repose sur les dons et le soutien d'un réseau de solidarité dans lequel elle est intégrée. La ferme est ouverte à tous les types de visiteurs, et en particulier aux enfants. L'accès est gratuit.",
+    "es": "La granja pedagógica Foresta está situada en el parque del mismo nombre, en el distrito 15 de Marsella. \n\nLa granja está gestionada por la asociación Dihya, muy activa en la lucha contra la pobreza y el hambre, sobre todo en los barrios del norte de la ciudad. La granja cuenta con más de 50 animales (vacas, ovejas, cabras, patos, pollos, conejos, gallinas, ocas), todos ellos donados por organizaciones y agricultores solidarios. La gestión de la propia granja depende de las donaciones y el apoyo de una red solidaria en la que está integrada. La granja está abierta a todo tipo de visitantes, y especialmente a los niños. El acceso es gratuito.",
+    "de": "Der pädagogische Bauernhof Foresta liegt im gleichnamigen Park im 15. Bezirk von Marseille. \n\nDer Bauernhof wird von der Vereinigung Dihya verwaltet, einem sehr aktiven Akteur im Kampf gegen Armut und Hunger, insbesondere in den nördlichen Stadtteilen. Der Hof verfügt über mehr als 50 Tiere (Kühe, Schafe, Ziegen, Enten, Hühner, Kaninchen, Hühner, Gänse), die alle von wohlwollenden Organisationen und Landwirten gespendet wurden. Die Bewirtschaftung des Bauernhofs selbst ist auf Spenden und die Unterstützung eines Solidaritätsnetzes angewiesen, in das er eingebettet ist. Der Bauernhof steht allen Besuchern offen, insbesondere Kindern. Der Zugang ist frei."
+  },
   "field": [
     "education-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "20 Boulevard d'Hanoï - 13015 Marseille",
-  "name": "\"Foresta\" Pedagogical Farm",
+  "name": {
+    "pt": "\"Foresta\" Pedagogical Farm",
+    "en": "\"Foresta\" Pedagogical Farm",
+    "fr": "\"Ferme pédagogique \"Foresta",
+    "es": "\"Granja pedagógica \"Foresta",
+    "de": "\"Pädagogischer Bauernhof \"Foresta"
+  },
   "pubId": 443152,
   "score": 516.1000000000028,
   "state": "completed-project",
@@ -45,28 +56,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1698412810,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1698412810,
-      "content": null
-    }
-  ]
+  "originalLang": "pt"
 }

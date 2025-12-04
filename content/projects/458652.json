@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754390133,
   "date": null,
-  "description": "The Panc Ecuador initiative, founded by Nina Duarte, focuses on the conservation of agrobiodiversity through research and education on non-conventional food plants. Located in the Intijacta Reserve in the Andean Chocó, the initiative promotes knowledge management via guides, didactic materials, and experiential workshops. By engaging communities in sowing, harvesting, cooking, and processing these plants, Panc aims to enhance food sovereignty and diversify local diets, fostering a deeper connection to the environment.",
+  "description": {
+    "en": "The Panc Ecuador initiative, founded by Nina Duarte, focuses on agrobiodiversity conservation through research and education on non-conventional food plants. Located in the Intijacta Reserve in the Andean Chocó, the initiative promotes knowledge management through guides, educational materials and experiential workshops. By involving communities in the planting, harvesting, cooking and processing of these plants, Panc aims to improve food sovereignty and diversify local diets, fostering a deeper connection with the environment.",
+    "fr": "L'initiative Panc Ecuador, fondée par Nina Duarte, se concentre sur la conservation de l'agrobiodiversité par le biais de la recherche et de l'éducation sur les plantes alimentaires non conventionnelles. Située dans la réserve d'Intijacta, dans le Chocó andin, l'initiative promeut la gestion des connaissances par le biais de guides, de matériel pédagogique et d'ateliers expérientiels. En impliquant les communautés dans la plantation, la récolte, la cuisson et la transformation de ces plantes, Panc vise à améliorer la souveraineté alimentaire et à diversifier les régimes alimentaires locaux, en favorisant un lien plus profond avec l'environnement.",
+    "es": "La iniciativa Panc Ecuador, fundada por Nina Duarte, se centra en la conservación de la agrobiodiversidad a través de la investigación y la educación sobre plantas alimenticias no convencionales. Ubicada en la Reserva de Intijacta, en el Chocó andino, la iniciativa promueve la gestión del conocimiento mediante guías, materiales didácticos y talleres vivenciales. Al involucrar a las comunidades en la siembra, cosecha, cocción y procesamiento de estas plantas, Panc pretende mejorar la soberanía alimentaria y diversificar las dietas locales, fomentando una conexión más profunda con el medio ambiente.",
+    "de": "Die von Nina Duarte gegründete Initiative Panc Ecuador konzentriert sich auf die Erhaltung der Agrobiodiversität durch Forschung und Bildung zu nicht-konventionellen Nahrungsmittelpflanzen. Die Initiative befindet sich im Intijacta-Reservat in der Andenregion Chocó und fördert das Wissensmanagement durch Führungen, didaktische Materialien und Erfahrungsworkshops. Durch die Einbeziehung der Gemeinden in das Säen, Ernten, Kochen und Verarbeiten dieser Pflanzen will Panc die Nahrungsmittelsouveränität stärken, die lokale Ernährung diversifizieren und eine stärkere Verbindung zur Umwelt schaffen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Panc",
+  "name": {
+    "en": "Panc",
+    "fr": "Panc",
+    "es": "Panc",
+    "de": "Panc"
+  },
   "pubId": 458652,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754564335,
   "date": null,
-  "description": "Jordbrugets Uddannelses Center Aarhus (The Green Academy), located in Denmark, offers diverse vocational training in fields such as landscaping, horticulture, and agriculture. With a focus on sustainability, the Center engages in international projects, including Erasmus+, sending and receiving students to enhance their knowledge in animal welfare and environmental practices. The initiative aims to cultivate smart, environmentally conscious graduates who can contribute positively to the evolving food system and climate challenges.",
+  "description": {
+    "en": "Jordbrugets Uddannelses Center Aarhus (The Green Academy), located in Denmark, offers diverse vocational training in fields such as landscaping, horticulture and agriculture. Focused on sustainability, the Center participates in international projects, such as Erasmus+, sending and receiving students to improve their knowledge in animal welfare and environmental practices. The initiative aims to train smart, environmentally conscious graduates who can contribute positively to the evolution of the food system and climate challenges.",
+    "fr": "Le Jordbrugets Uddannelses Center Aarhus (The Green Academy), situé au Danemark, propose diverses formations professionnelles dans des domaines tels que l'aménagement paysager, l'horticulture et l'agriculture. En mettant l'accent sur la durabilité, le centre participe à des projets internationaux, tels qu'Erasmus+, en envoyant et en recevant des étudiants pour qu'ils améliorent leurs connaissances en matière de bien-être animal et de pratiques environnementales. Cette initiative vise à former des diplômés intelligents et soucieux de l'environnement, capables d'apporter une contribution positive à l'évolution du système alimentaire et aux défis climatiques.",
+    "es": "El Jordbrugets Uddannelses Center Aarhus (La Academia Verde), situado en Dinamarca, ofrece formación profesional diversa en campos como el paisajismo, la horticultura y la agricultura. Centrado en la sostenibilidad, el Centro participa en proyectos internacionales, como Erasmus+, enviando y recibiendo estudiantes para mejorar sus conocimientos en bienestar animal y prácticas medioambientales. La iniciativa pretende formar licenciados inteligentes y concienciados con el medio ambiente que puedan contribuir positivamente a la evolución del sistema alimentario y a los retos climáticos.",
+    "de": "Das Jordbrugets Uddannelses Center Aarhus (The Green Academy) in Dänemark bietet verschiedene Berufsausbildungen in Bereichen wie Landschaftsgestaltung, Gartenbau und Landwirtschaft an. Mit einem Schwerpunkt auf Nachhaltigkeit beteiligt sich das Zentrum an internationalen Projekten, darunter Erasmus+, und sendet und empfängt Schüler, um ihr Wissen über Tierschutz und Umweltpraktiken zu erweitern. Die Initiative zielt darauf ab, intelligente, umweltbewusste Absolventen heranzuziehen, die einen positiven Beitrag zu dem sich entwickelnden Nahrungsmittelsystem und den klimatischen Herausforderungen leisten können."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Jordbrugets Uddannelses Center Aarhus ",
+  "name": {
+    "da": "Jordbrugets Uddannelses Center Aarhus ",
+    "en": "Agricultural Education Center Aarhus",
+    "fr": "Centre d'enseignement agricole d'Aarhus",
+    "es": "Centro de Educación Agrícola de Aarhus",
+    "de": "Landwirtschaftliches Bildungszentrum Aarhus"
+  },
   "pubId": 461652,
   "score": 53.29192114123511,
   "state": "ongoing-project",
@@ -42,10 +53,6 @@
   ],
   "url": "",
   "yt": "ORzZbfozen8",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755736190,
   "feedback": [
     {
@@ -53,11 +60,8 @@
       "at": 1755736190
     }
   ],
-  "lastEvent": {
-    "at": 1755736190,
-    "by": "contact"
-  },
   "updatedAt": [
     1755736190
-  ]
+  ],
+  "originalLang": "fr"
 }

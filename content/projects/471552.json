@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754674906,
   "date": null,
-  "description": "Poseidona is an innovative Barcelona-based startup founded by two women focused on extracting high-value protein ingredients from algae. With a commitment to sustainability, they utilize by-products from agar production and conduct research on invasive Mediterranean algae. Their goal is to create cleaner, plant-based alternatives for various food applications while promoting a circular economy. The project has garnered significant investment and aims to address both environmental challenges and the demand for healthier food options.",
+  "description": {
+    "en": "Poseidona is an innovative Barcelona-based start-up founded by two women focused on the extraction of high-value protein ingredients from algae. Committed to sustainability, they use by-products from agar production and research on invasive Mediterranean algae. Their goal is to create cleaner plant-based alternatives for various food applications, while promoting a circular economy. The project has received significant investment and aims to respond to both environmental challenges and the demand for healthier food options.",
+    "fr": "Poseidona est une start-up innovante basée à Barcelone et fondée par deux femmes qui se consacrent à l'extraction d'ingrédients protéiques de grande valeur à partir d'algues. Engagées dans le développement durable, elles utilisent des sous-produits de la production d'agar et de la recherche sur les algues méditerranéennes envahissantes. Leur objectif est de créer des alternatives végétales plus propres pour diverses applications alimentaires, tout en promouvant une économie circulaire. Le projet a bénéficié d'investissements importants et vise à répondre à la fois aux défis environnementaux et à la demande d'aliments plus sains.",
+    "es": "Poseidona es una innovadora empresa emergente con sede en Barcelona fundada por dos mujeres y centrada en la extracción de ingredientes proteínicos de alto valor a partir de algas. Comprometidas con la sostenibilidad, utilizan subproductos de la producción de agar e investigan sobre algas mediterráneas invasoras. Su objetivo es crear alternativas vegetales más limpias para diversas aplicaciones alimentarias, promoviendo al mismo tiempo una economía circular. El proyecto ha recibido importantes inversiones y pretende responder tanto a los retos medioambientales como a la demanda de opciones alimentarias más saludables.",
+    "de": "Poseidona ist ein innovatives, auf Barcelona basierendes Start-up-Unternehmen, das von zwei Frauen gegründet wurde und sich auf die Extraktion hochwertiger Proteinbestandteile aus Algen konzentriert. Mit einem Bekenntnis zur Nachhaltigkeit verwenden sie Nebenprodukte aus der Agarproduktion und führen Forschungsarbeiten zu invasiven Mittelmeeralgen durch. Ihr Ziel ist es, saubere, pflanzenbasierte Alternativen für verschiedene Lebensmittelanwendungen zu schaffen und gleichzeitig eine Kreislaufwirtschaft zu fördern. Das Projekt hat erhebliche Investitionen getätigt und zielt darauf ab, sowohl ökologische Herausforderungen als auch die Nachfrage nach gesünderen Lebensmitteloptionen zu adressieren."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Poseidona",
+  "name": {
+    "en": "Poseidona",
+    "fr": "Poseidona",
+    "es": "Poseidona",
+    "de": "Poseidona"
+  },
   "pubId": 471552,
   "score": 89.187898089172,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "3q_dmL2Qaqs",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1760515091,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1760515091
     }
   ],
-  "lastEvent": {
-    "at": 1760515091,
-    "by": "contact"
-  },
   "updatedAt": [
     1760515091
-  ]
+  ],
+  "originalLang": "fr"
 }

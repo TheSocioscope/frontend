@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754578627,
   "date": null,
-  "description": "The Soil Fertility Clinic initiative focuses on educating farmers about soil health through comprehensive soil and water testing. By analyzing nutrient levels, the clinic provides tailored recommendations to improve soil fertility, ultimately enhancing agricultural productivity. The project employs agronomists to support farmers in implementing these recommendations, fostering sustainable farming practices. Additionally, the initiative collaborates with government bodies and universities to monitor soil quality and train future agricultural professionals, promoting a healthier ecosystem.",
+  "description": {
+    "en": "The Soil Fertility Clinic initiative focuses on educating farmers about soil health through comprehensive soil and water testing. By analyzing nutrient levels, the clinic provides customized recommendations to improve soil fertility and ultimately increase agricultural productivity. The project employs agronomists to help farmers implement these recommendations, encouraging sustainable agricultural practices. In addition, the initiative collaborates with public agencies and universities to monitor soil quality and train future agricultural professionals, promoting a healthier ecosystem.",
+    "fr": "L'initiative de la clinique de fertilité des sols vise à sensibiliser les agriculteurs à la santé des sols grâce à des analyses complètes des sols et de l'eau. En testant les niveaux de nutriments, la clinique fournit des recommandations personnalisées pour améliorer la fertilité des sols et, en fin de compte, augmenter la productivité agricole. Le projet emploie des agronomes pour aider les agriculteurs à mettre en œuvre ces recommandations, encourageant ainsi les pratiques agricoles durables. En outre, l'initiative collabore avec des agences publiques et des universités pour contrôler la qualité des sols et former les futurs professionnels de l'agriculture, afin de promouvoir un écosystème plus sain.",
+    "es": "La iniciativa de la Clínica de Fertilidad del Suelo se centra en educar a los agricultores sobre la salud del suelo mediante pruebas exhaustivas del suelo y el agua. Mediante el análisis de los niveles de nutrientes, la clínica ofrece recomendaciones personalizadas para mejorar la fertilidad del suelo y, en última instancia, aumentar la productividad agrícola. El proyecto emplea a agrónomos para ayudar a los agricultores a aplicar estas recomendaciones, fomentando prácticas agrícolas sostenibles. Además, la iniciativa colabora con organismos públicos y universidades para supervisar la calidad del suelo y formar a futuros profesionales de la agricultura, promoviendo un ecosistema más sano.",
+    "de": "Die Initiative Soil Fertility Clinic konzentriert sich auf die Aufklärung von Landwirten über die Gesundheit des Bodens durch umfassende Boden- und Wassertests. Durch die Analyse der Nährstoffgehalte gibt die Klinik maßgeschneiderte Empfehlungen zur Verbesserung der Bodenfruchtbarkeit und damit letztendlich zur Steigerung der landwirtschaftlichen Produktivität. Das Projekt beschäftigt Agronomen, die die Landwirte bei der Umsetzung dieser Empfehlungen unterstützen und so nachhaltige Landwirtschaftspraktiken fördern. Darüber hinaus arbeitet die Initiative mit Regierungsstellen und Universitäten zusammen, um die Bodenqualität zu überwachen und zukünftige Landwirte auszubilden, um ein gesünderes Ökosystem zu fördern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Soil Fertility Clinic",
+  "name": {
+    "en": "Soil Fertility Clinic",
+    "fr": "Soil Fertility Clinic",
+    "es": "Clínica de fertilidad del suelo",
+    "de": "Soil Fertility Clinic"
+  },
   "pubId": 475552,
   "score": 20.033682847529477,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739449715,
   "date": null,
-  "description": "La Chorba is an association established in 1998, originating from a squat in Paris, focused on providing hot meals and food parcels to vulnerable populations, particularly during the winter months. The initiative emphasizes dignity by allowing beneficiaries to enjoy meals seated rather than standing in line. La Chorba operates primarily from two sites: a year-round refectory at Porte de la Villette, serving around 800 meals daily, and a winter site at the Town Hall, accommodating 250 people each evening.\n\nThe organization distributes food parcels every other Saturday to approximately 2,000 individuals, mainly single-parent families, at a nominal cost. This service was developed in response to the pandemic, recognizing that certain demographics were overlooked in traditional food aid distributions. La Chorba is committed to its humanitarian mission, focusing on providing meals, social connections, and guidance to help beneficiaries regain autonomy.",
+  "description": {
+    "en": "La Chorba is an association created in 1998, from a squat in Paris, focused on providing hot meals and food packages to vulnerable populations, especially during the winter months. The initiative emphasizes dignity by allowing beneficiaries to enjoy meals seated rather than waiting in line. La Chorba operates primarily in two locations: a canteen open year-round at the Porte de la Villette, which serves about 800 meals a day, and another open in winter at City Hall, which welcomes 250 people each evening. The organization distributes food parcels every other Saturday to about 2,000 people, mainly single-parent families, at a symbolic cost. This service was developed in response to the pandemic, recognizing that certain demographic groups were overlooked in traditional food aid distributions. Chorba is committed to its humanitarian mission, focusing on providing meals, social connections and counseling to help beneficiaries regain their autonomy.",
+    "fr": "La Chorba est une association créée en 1998, à partir d'un squat à Paris, dont l'objectif est de fournir des repas chauds et des colis alimentaires aux populations vulnérables, en particulier pendant les mois d'hiver. L'initiative met l'accent sur la dignité en permettant aux bénéficiaires de prendre leurs repas assis plutôt que de faire la queue. La Chorba opère principalement sur deux sites : une cantine ouverte toute l'année à la Porte de la Villette, qui sert environ 800 repas par jour, et une autre ouverte en hiver à l'Hôtel de Ville, qui accueille 250 personnes chaque soir. L'organisation distribue des colis alimentaires un samedi sur deux à environ 2 000 personnes, principalement des familles monoparentales, pour un coût symbolique. Ce service a été développé en réponse à la pandémie, reconnaissant que certains groupes démographiques étaient négligés dans les distributions traditionnelles d'aide alimentaire. Chorba s'engage dans sa mission humanitaire en se concentrant sur la fourniture de repas, de liens sociaux et de conseils afin d'aider les bénéficiaires à retrouver leur autonomie.",
+    "es": "La Chorba es una asociación creada en 1998, a partir de una casa ocupada de París, centrada en proporcionar comidas calientes y paquetes de alimentos a poblaciones vulnerables, especialmente durante los meses de invierno. La iniciativa hace hincapié en la dignidad al permitir a los beneficiarios disfrutar de las comidas sentados en lugar de hacer cola. La Chorba funciona principalmente en dos emplazamientos: un comedor abierto todo el año en la Porte de la Villette, que sirve unas 800 comidas diarias, y otro abierto en invierno en el Ayuntamiento, que acoge a 250 personas cada noche.\n\nLa organización distribuye paquetes de comida cada dos sábados a unas 2.000 personas, principalmente familias monoparentales, a un coste simbólico. Este servicio se desarrolló en respuesta a la pandemia, reconociendo que ciertos grupos demográficos eran pasados por alto en las distribuciones tradicionales de ayuda alimentaria. La Chorba está comprometida con su misión humanitaria, centrándose en proporcionar comidas, conexiones sociales y orientación para ayudar a los beneficiarios a recuperar su autonomía.",
+    "de": "La Chorba ist ein 1998 gegründeter Verein, der aus einem besetzten Haus in Paris hervorgegangen ist und sich auf die Bereitstellung von warmen Mahlzeiten und Lebensmittelparzellen für gefährdete Bevölkerungsgruppen, insbesondere in den Wintermonaten, konzentriert. Die Initiative betont die Würde der Menschen, indem sie den Empfängern ermöglicht, ihre Mahlzeiten im Sitzen statt im Stehen zu genießen. La Chorba operiert hauptsächlich von zwei Standorten aus: einer ganzjährigen Mensa in Porte de la Villette, die täglich rund 800 Mahlzeiten serviert, und einem Winterstandort in der Town Hall, der jeden Abend 250 Personen beherbergt.\n\nDie Organisation verteilt jeden anderen Samstag Lebensmittelparzellen an rund 2.000 Personen, vor allem Alleinerziehende, zu einem nominalen Preis. Dieser Service wurde als Reaktion auf die Pandemie entwickelt, da man erkannte, dass bestimmte demografische Merkmale bei der traditionellen Verteilung von Nahrungsmitteln übersehen wurden. La Chorba ist seinem humanitären Auftrag verpflichtet und konzentriert sich auf die Bereitstellung von Mahlzeiten, sozialen Kontakten und Beratung, um den Empfängern zu helfen, ihre Selbstständigkeit wiederzuerlangen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Chorba",
+  "name": {
+    "en": "La Chorba",
+    "fr": "La Chorba",
+    "es": "La Chorba",
+    "de": "Die Chorba"
+  },
   "pubId": 446752,
   "score": 134.30196078431328,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://lachorba.fr",
   "yt": "AyDfs3G7bZM",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754991159,
   "date": null,
-  "description": "The Asociación de Agricultura Biodinámica (ABD) in Colombia promotes sustainable farming practices based on biodynamic principles. Founded in 2019, the association supports farmers through training, participatory guarantee systems, and consultancy services. It aims to enhance agricultural sustainability by treating the land as a living organism, fostering biodiversity, and creating marketing channels for biodynamic products. ABD also collaborates with local communities to share knowledge and promote ecological farming practices.",
+  "description": {
+    "en": "The Asociación de Agricultura Biodinámica (ABD) in Colombia promotes sustainable farming practices based on biodynamic principles. Founded in 2019, the association supports farmers through training, participatory guarantee systems, and consultancy services. It aims to enhance agricultural sustainability by treating the land as a living organism, fostering biodiversity, and creating marketing channels for biodynamic products. ABD also collaborates with local communities to share knowledge and promote ecological farming practices.",
+    "fr": "L'Asociación de Agricultura Biodinámica (ABD) en Colombie promeut des pratiques agricoles durables basées sur les principes biodynamiques. Fondée en 2019, l'association soutient les agriculteurs par le biais de formations, de systèmes de garantie participatifs et de services de conseil. Elle vise à renforcer la durabilité agricole en traitant la terre comme un organisme vivant, en favorisant la biodiversité et en créant des canaux de commercialisation pour les produits biodynamiques. ABD collabore également avec les communautés locales pour partager les connaissances et promouvoir des pratiques agricoles écologiques.",
+    "es": "La Asociación de Agricultura Biodinámica (ABD) de Colombia promueve prácticas agrícolas sostenibles basadas en principios biodinámicos. Fundada en 2019, la asociación apoya a los agricultores mediante formación, sistemas participativos de garantía y servicios de consultoría. Su objetivo es mejorar la sostenibilidad agrícola tratando la tierra como un organismo vivo, fomentando la biodiversidad y creando canales de comercialización para los productos biodinámicos. ABD también colabora con las comunidades locales para compartir conocimientos y promover prácticas agrícolas ecológicas.",
+    "de": "Die Asociación de Agricultura Biodinámica (ABD) in Kolumbien fördert nachhaltige landwirtschaftliche Praktiken auf der Grundlage biologisch-dynamischer Prinzipien. Der 2019 gegründete Verband unterstützt Landwirte durch Schulungen, partizipative Garantiesysteme und Beratungsdienste. Sie zielt darauf ab, die landwirtschaftliche Nachhaltigkeit zu verbessern, indem sie das Land als lebenden Organismus behandelt, die biologische Vielfalt fördert und Vermarktungswege für biodynamische Produkte schafft. ABD arbeitet auch mit lokalen Gemeinschaften zusammen, um Wissen zu teilen und ökologische Anbaumethoden zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Asociación de Agricultura Biodinámica (ABD) ",
+  "name": {
+    "es": "Asociación de Agricultura Biodinámica (ABD) ",
+    "en": "Association for Biodynamic Agriculture (ABD)",
+    "fr": "Association de l'agriculture biodynamique (ABD)",
+    "de": "Vereinigung für biodynamische Landwirtschaft (ABD)"
+  },
   "pubId": 480352,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

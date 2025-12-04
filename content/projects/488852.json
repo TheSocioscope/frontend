@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754988265,
   "date": null,
-  "description": "Plasa Colombia is an innovative initiative aimed at understanding and improving food systems in Colombia. By mapping food production, consumption, and environmental impacts, it creates a comprehensive online platform that houses vital data. This collaborative effort involves universities and organizations, fostering a community of practice focused on food-related issues. Plasa Colombia serves as a resource for informed decision-making, promoting awareness and advocacy for sustainable food practices and policies across the nation.",
+  "description": {
+    "en": "Plasa Colombia is an innovative initiative aimed at understanding and improving food systems in Colombia. By mapping food production, consumption, and environmental impacts, it creates a comprehensive online platform that houses vital data. This collaborative effort involves universities and organizations, fostering a community of practice focused on food-related issues. Plasa Colombia serves as a resource for informed decision-making, promoting awareness and advocacy for sustainable food practices and policies across the nation.",
+    "fr": "Plasa Colombia est une initiative innovante visant à comprendre et à améliorer les systèmes alimentaires en Colombie. En cartographiant la production alimentaire, la consommation et les impacts sur l'environnement, elle crée une plateforme en ligne complète qui héberge des données vitales. Cet effort de collaboration implique des universités et des organisations, favorisant une communauté de pratique axée sur les questions liées à l'alimentation. Plasa Colombia sert de ressource pour une prise de décision éclairée, en promouvant la sensibilisation et le plaidoyer pour des pratiques et des politiques alimentaires durables dans tout le pays.",
+    "es": "Plasa Colombia es una iniciativa innovadora destinada a comprender y mejorar los sistemas alimentarios de Colombia. Mediante la cartografía de la producción, el consumo y el impacto ambiental de los alimentos, crea una plataforma en línea integral que alberga datos vitales. Este esfuerzo de colaboración involucra a universidades y organizaciones, fomentando una comunidad de práctica centrada en temas relacionados con la alimentación. Plasa Colombia sirve como recurso para la toma de decisiones informadas, promoviendo la concienciación y la defensa de prácticas y políticas alimentarias sostenibles en todo el país.",
+    "de": "Plasa Colombia ist eine innovative Initiative mit dem Ziel, die Lebensmittelsysteme in Kolumbien zu verstehen und zu verbessern. Durch die Kartierung von Lebensmittelproduktion, -konsum und Umweltauswirkungen wird eine umfassende Online-Plattform geschaffen, die wichtige Daten enthält. An dieser gemeinsamen Anstrengung sind Universitäten und Organisationen beteiligt, die eine Gemeinschaft von Praktikern fördern, die sich mit Lebensmittelthemen befassen. Plasa Colombia dient als Ressource für eine fundierte Entscheidungsfindung und fördert das Bewusstsein für nachhaltige Lebensmittelpraktiken und -politiken im ganzen Land und setzt sich dafür ein."
+  },
   "field": [
     "nutrition",
     "information-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Plasa Colombia",
+  "name": {
+    "id": "Plasa Colombia",
+    "en": "Plasa Colombia",
+    "fr": "Plasa Colombia",
+    "es": "Plasa Colombia",
+    "de": "Plasa Kolumbien"
+  },
   "pubId": 488852,
   "score": 2.382258829790016,
   "state": "ongoing-project",
@@ -43,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "id"
 }

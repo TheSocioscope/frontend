@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754422119,
   "date": null,
-  "description": "The PRODA initiative, launched 25 years ago, aims to enhance food sovereignty through community-based vegetable gardens in Neuquén, Argentina. It began as a response to economic crises, evolving to support families in self-sufficiency and organic production. By collaborating with local institutions, schools, and health centers, PRODA fosters agricultural enterprises, promotes nutrition, and empowers communities. The program adapts to changing needs, ensuring sustainable practices and social integration while addressing food security challenges.",
+  "description": {
+    "en": "The PRODA initiative, launched 25 years ago, aims to improve food sovereignty through community gardens in Neuquén, Argentina. It began as a response to economic crises, evolving to support families in self-sufficiency and organic production. By collaborating with local institutions, schools and health centers, PRODA fosters agricultural enterprises, promotes nutrition and empowers communities. The program adapts to changing needs, ensuring sustainable practices and social integration while addressing food security challenges.",
+    "fr": "L'initiative PRODA, lancée il y a 25 ans, vise à améliorer la souveraineté alimentaire grâce à des jardins communautaires à Neuquén, en Argentine. Au départ, il s'agissait d'une réponse aux crises économiques, qui a évolué pour soutenir les familles dans l'autosuffisance et la production biologique. En collaborant avec les institutions locales, les écoles et les centres de santé, PRODA encourage les entreprises agricoles, promeut la nutrition et renforce les communautés. Le programme s'adapte à l'évolution des besoins, garantissant des pratiques durables et l'intégration sociale tout en relevant les défis de la sécurité alimentaire.",
+    "es": "La iniciativa PRODA, lanzada hace 25 años, tiene como objetivo mejorar la soberanía alimentaria a través de huertos comunitarios en Neuquén, Argentina. Comenzó como respuesta a las crisis económicas, evolucionando para apoyar a las familias en la autosuficiencia y la producción orgánica. Mediante la colaboración con instituciones locales, escuelas y centros de salud, PRODA fomenta las empresas agrícolas, promueve la nutrición y empodera a las comunidades. El programa se adapta a las necesidades cambiantes, garantizando prácticas sostenibles e integración social al tiempo que aborda los retos de la seguridad alimentaria.",
+    "de": "Die PRODA-Initiative wurde vor 25 Jahren ins Leben gerufen und zielt darauf ab, die Ernährungssouveränität durch gemeinschaftsbasierte Gemüsegärten in Neuquén, Argentinien, zu stärken. Sie begann als Reaktion auf Wirtschaftskrisen und entwickelte sich weiter, um Familien bei der Selbstversorgung und der organischen Produktion zu unterstützen. Durch die Zusammenarbeit mit lokalen Institutionen, Schulen und Gesundheitszentren fördert PRODA landwirtschaftliche Unternehmen, unterstützt die Ernährung und stärkt die Gemeinden. Das Programm passt sich wechselnden Bedürfnissen an und sorgt für nachhaltige Praktiken und soziale Integration, während es gleichzeitig Herausforderungen der Ernährungssicherheit bewältigt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "PRODA",
+  "name": {
+    "en": "PRODA",
+    "fr": "PRODA",
+    "es": "PRODA",
+    "de": "PRODA"
+  },
   "pubId": 452352,
   "score": -4.27416027888804,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

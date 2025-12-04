@@ -14,14 +14,24 @@
   "date": [
     "2022-07-15"
   ],
-  "description": "Foodsavers in Ghent collects food surpluses via a logistics platform and delivers them to social organisations in Ghent.\nWith Foodsavers, the City of Ghent is tackling the ‘food waste’ problem on a large scale. More than 1,000 tonnes of food surpluses from supermarkets or auctions have already been redistributed through poverty alleviation organisations and social restaurants. In this way, we save on CO2 emissions, employ people who are long-term unemployed and fight poverty.  The Foodsavers project originated from a bottom-up idea, which was picked up and developed further by the City.",
+  "description": {
+    "en": "Foodsavers in Ghent collects surplus food via a logistics platform and delivers it to social organizations in Ghent. With Foodsavers, the city of Ghent is tackling the problem of \"food waste\" on a large scale. More than 1,000 tons of surplus food from supermarkets or auctions have already been redistributed to anti-poverty organizations and social restaurants. In this way, we save CO2 emissions, employ the long-term unemployed and fight poverty.  The Foodsavers project arose from a bottom-up idea, which was picked up and developed by the City Council.",
+    "fr": "Foodsavers Ghent collecte les surplus alimentaires via une plateforme logistique et les livre aux organisations sociales de Gand. Avec Foodsavers, la ville de Gand s'attaque au problème du \"gaspillage alimentaire\" à grande échelle. Plus de 1 000 tonnes d'aliments excédentaires provenant de supermarchés ou de ventes aux enchères ont déjà été redistribuées à des organisations de lutte contre la pauvreté et à des restaurants sociaux. De cette manière, nous réduisons les émissions de CO2, nous employons des chômeurs de longue durée et nous luttons contre la pauvreté.  Le projet Foodsavers est né d'une idée de la base, qui a été reprise et développée par le conseil municipal.",
+    "es": "Foodsavers de Gante recoge los excedentes alimentarios a través de una plataforma logística y los entrega a organizaciones sociales de Gante.\nCon Foodsavers, la ciudad de Gante aborda a gran escala el problema del \"desperdicio de alimentos\". Ya se han redistribuido más de 1.000 toneladas de excedentes alimentarios procedentes de supermercados o subastas a través de organizaciones de lucha contra la pobreza y restaurantes sociales. De este modo, ahorramos emisiones de CO2, empleamos a parados de larga duración y luchamos contra la pobreza.  El proyecto Foodsavers surgió de una idea de abajo arriba, que fue recogida y desarrollada por el Ayuntamiento.",
+    "de": "Foodsavers in Ghent sammelt über eine Logistikplattform überschüssige Lebensmittel und liefert sie an soziale Organisationen in Ghent.\nMit Foodsavers geht die Stadt Ghent das Problem des \"Lebensmittelmülls\" in großem Maßstab an. Mehr als 1.000 Tonnen überzähliger Lebensmittel aus Supermärkten oder Auktionen wurden bereits über Armutsbekämpfungsorganisationen und soziale Restaurants verteilt. Auf diese Weise sparen wir CO2-Emissionen, beschäftigen langfristig arbeitslose Menschen und bekämpfen die Armut.  Das Foodsavers-Projekt entstand aus einer Bottom-up-Idee, die von der Stadt aufgegriffen und weiterentwickelt wurde."
+  },
   "field": [
     "economics-statistics",
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Ghent",
-  "name": "Foodsavers in Ghent",
+  "name": {
+    "en": "Foodsavers in Ghent",
+    "fr": "Foodsavers in Ghent",
+    "es": "Foodsavers en Gante",
+    "de": "Foodsavers in Ghent"
+  },
   "pubId": 416052,
   "score": 693.4738035999059,
   "state": "ongoing-project",
@@ -46,28 +56,5 @@
   ],
   "url": "https://stad.gent/en/city-governance-organisation/city-policy/ghents-climate-actions/sustainable-food#95292",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1659532641,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1659532641,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

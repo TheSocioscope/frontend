@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754908756,
   "date": null,
-  "description": "Open Food Facts is a non-profit, open-source initiative that collects and shares data on food products globally. Founded in 2012, it empowers consumers and researchers by providing accessible information about nutrition and environmental impacts. The project relies on community contributions to enhance its database, which currently includes millions of products from over 160 countries. By promoting transparency and informed choices, Open Food Facts aims to foster healthier eating habits and address food-related injustices.",
+  "description": {
+    "en": "Open Food Facts is a non-profit, open source initiative that collects and shares data on food products around the world. Founded in 2012, it enables consumers and researchers to access information on nutrition and environmental impact. The project relies on community contributions to improve its database, which currently includes millions of products from more than 160 countries. By promoting transparency and informed decision-making, Open Food Facts aims to encourage healthier eating habits and address food-related injustices.",
+    "fr": "Open Food Facts est une initiative open source à but non lucratif qui recueille et partage des données sur les produits alimentaires dans le monde entier. Fondée en 2012, elle permet aux consommateurs et aux chercheurs d'accéder à des informations sur la nutrition et l'impact environnemental. Le projet s'appuie sur les contributions de la communauté pour améliorer sa base de données, qui comprend actuellement des millions de produits provenant de plus de 160 pays. En favorisant la transparence et la prise de décision éclairée, Open Food Facts vise à encourager des habitudes alimentaires plus saines et à lutter contre les injustices liées à l'alimentation.",
+    "es": "Open Food Facts es una iniciativa sin ánimo de lucro y de código abierto que recopila y comparte datos sobre productos alimenticios en todo el mundo. Fundada en 2012, permite a consumidores e investigadores acceder a información sobre nutrición e impacto medioambiental. El proyecto depende de las contribuciones de la comunidad para mejorar su base de datos, que actualmente incluye millones de productos de más de 160 países. Al promover la transparencia y la toma de decisiones informadas, Open Food Facts pretende fomentar hábitos alimentarios más saludables y hacer frente a las injusticias relacionadas con la alimentación.",
+    "de": "Open Food Facts ist eine gemeinnützige, Open-Source-Initiative, die weltweit Daten über Lebensmittelprodukte sammelt und weitergibt. Sie wurde 2012 gegründet und stärkt Verbraucher und Forscher, indem sie zugängliche Informationen über Ernährung und Umweltauswirkungen bereitstellt. Das Projekt stützt sich auf Beiträge der Gemeinschaft, um seine Datenbank zu erweitern, die derzeit Millionen von Produkten aus über 160 Ländern umfasst. Durch die Förderung von Transparenz und informierten Entscheidungen will Open Food Facts gesündere Essgewohnheiten fördern und Ungerechtigkeiten bei Lebensmitteln beseitigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Open Food Facts",
+  "name": {
+    "en": "Open Food Facts",
+    "fr": "Open Food Facts",
+    "es": "Open Food Facts",
+    "de": "Open Food Facts"
+  },
   "pubId": 472752,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

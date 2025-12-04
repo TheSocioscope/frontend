@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754913019,
   "date": null,
-  "description": "Aux Arbres Citoyens is an association dedicated to combating food waste by harvesting surplus fruits from gardens and orchards of individuals who cannot collect them. Founded in La Rochelle, the initiative redistributes the collected fruits to charities and local organizations, fostering community ties and preserving local heritage. The project operates primarily through volunteer efforts, emphasizing a spontaneous and organic approach to connecting with both fruit owners and beneficiaries.     ",
+  "description": {
+    "en": "Aux Arbres Citoyens is an association dedicated to combating food waste by harvesting surplus fruits from gardens and orchards of individuals who cannot collect them. Founded in La Rochelle, the initiative redistributes the collected fruits to charities and local organizations, fostering community ties and preserving local heritage. The project operates primarily through volunteer efforts, emphasizing a spontaneous and organic approach to connecting with both fruit owners and beneficiaries.     ",
+    "fr": "Aux Arbres Citoyens est une association qui lutte contre le gaspillage alimentaire en récoltant les fruits excédentaires dans les jardins et les vergers des particuliers qui ne peuvent pas les ramasser. Fondée à La Rochelle, l'initiative redistribue les fruits collectés à des associations caritatives et à des organisations locales, favorisant ainsi les liens communautaires et la préservation du patrimoine local. Le projet fonctionne principalement grâce au bénévolat, privilégiant une approche spontanée et organique pour établir des liens avec les propriétaires des fruits et les bénéficiaires.     ",
+    "es": "Aux Arbres Citoyens es una asociación dedicada a combatir el desperdicio de alimentos mediante la recogida de los excedentes de frutas de los jardines y huertos de particulares que no pueden recogerlas. Fundada en La Rochelle, la iniciativa redistribuye los frutos recogidos entre organizaciones benéficas y locales, fomentando los lazos comunitarios y preservando el patrimonio local. El proyecto funciona principalmente a través del voluntariado, haciendo hincapié en un enfoque espontáneo y orgánico para conectar tanto con los propietarios de la fruta como con los beneficiarios.     ",
+    "de": "Aux Arbres Citoyens ist ein Verein, der sich gegen die Verschwendung von Lebensmitteln einsetzt, indem er überschüssiges Obst aus Gärten und Obstplantagen von Personen erntet, die es nicht selbst abholen können. Die in La Rochelle gegründete Initiative verteilt die gesammelten Früchte an Wohltätigkeitsorganisationen und örtliche Einrichtungen, um die Gemeinschaft zu fördern und das lokale Erbe zu bewahren. Das Projekt wird in erster Linie von Freiwilligen getragen, wobei ein spontaner und organischer Ansatz verfolgt wird, um sowohl mit den Obstbesitzern als auch mit den Begünstigten in Kontakt zu treten.     "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Aux Arbres Citoyens",
+  "name": {
+    "fr": "Aux Arbres Citoyens",
+    "en": "Aux Arbres Citoyens",
+    "es": "Aux Arbres Citoyens",
+    "de": "Aux Arbres Citoyens"
+  },
   "pubId": 484352,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754479653,
   "date": null,
-  "description": "Preserva Bio aims to generate income through sustainable land use by enhancing the food system. The initiative focuses on environmental characterization of agricultural models, utilizing technology to create added value for crops and alternative income from environmental assets. By measuring and verifying sustainable practices, Preserva connects local producers with international markets, promoting conservation and sustainable agricultural practices while addressing climate change and ecosystem degradation.",
+  "description": {
+    "en": "Preserva Bio aims to generate income through sustainable land use by improving the food system. The initiative focuses on environmental characterization of agricultural models, using technology to create added value for crops and alternative income from environmental assets. By measuring and verifying sustainable practices, Preserva connects local producers to international markets, promoting conservation and sustainable agricultural practices while addressing climate change and ecosystem degradation.",
+    "fr": "Preserva Bio vise à générer des revenus grâce à l'utilisation durable des terres en améliorant le système alimentaire. L'initiative se concentre sur la caractérisation environnementale des modèles agricoles, en utilisant la technologie pour créer de la valeur ajoutée pour les cultures et des revenus alternatifs à partir des actifs environnementaux. En mesurant et en vérifiant les pratiques durables, Preserva connecte les producteurs locaux aux marchés internationaux, encourageant la conservation et les pratiques agricoles durables tout en luttant contre le changement climatique et la dégradation des écosystèmes.",
+    "es": "Preserva Bio pretende generar ingresos mediante el uso sostenible de la tierra mejorando el sistema alimentario. La iniciativa se centra en la caracterización medioambiental de modelos agrícolas, utilizando la tecnología para crear valor añadido para los cultivos e ingresos alternativos a partir de activos medioambientales. Al medir y verificar las prácticas sostenibles, Preserva conecta a los productores locales con los mercados internacionales, promoviendo la conservación y las prácticas agrícolas sostenibles al tiempo que aborda el cambio climático y la degradación de los ecosistemas.",
+    "de": "Preserva Bio zielt darauf ab, durch nachhaltige Landnutzung Einkommen zu generieren, indem das Ernährungssystem verbessert wird. Die Initiative konzentriert sich auf die Umweltcharakterisierung von landwirtschaftlichen Modellen und nutzt Technologien, um einen Mehrwert für die Pflanzen zu schaffen und alternative Einkommensquellen aus Umweltgütern zu erschließen. Durch Messung und Verifizierung nachhaltiger Praktiken verbindet Preserva lokale Produzenten mit internationalen Märkten, fördert den Naturschutz und nachhaltige landwirtschaftliche Praktiken, während sie gleichzeitig den Klimawandel und die Schädigung von Ökosystemen adressiert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Preserva Bio",
+  "name": {
+    "pt": "Preserva Bio",
+    "en": "Preserve Bio",
+    "fr": "Préserver le bio",
+    "es": "Conservar Bio",
+    "de": "Bio bewahren"
+  },
   "pubId": 466852,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

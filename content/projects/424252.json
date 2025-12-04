@@ -10,7 +10,12 @@
   "country": [],
   "createdAt": 1663673474,
   "date": null,
-  "description": "Cabannes, Y and Ross, P (2020), The Once and Future Garden City book chapter in On common ground: International perspective on the Community Land Trust (Davis J.E, Algoed L, Hernández-Torrales, M.E eds), Terra Nostra Press: Madison pp 13-22.\n\nCHAPTER 2: The Once and Future Garden City\n\nCabannes and Ross revisit the Garden City, originally proposed by Ebenezer Howard over 100 years ago, to ask how his vision might be delivered in a modern setting. Community land trusts, they argue, provide a partial answer, serving as “a vehicle for gradually assembling land and putting Garden City principles into practice – now not later.”",
+  "description": {
+    "en": "Cabannes, Y and Ross, P (2020), The Once and Future Garden City book chapter in On common ground: International perspective on the Community Land Trust (Davis J.E, Algoed L, Hernandez-Torrales, M.E eds), Terra Nostra Press: Madison pp 13-22. CHAPTER 2: The Garden City of the Past and Future Cabannes and Ross revisit the Garden City, originally proposed by Ebenezer Howard over 100 years ago, to ask how his vision might be realized in a modern setting. Community land trusts, they argue, offer a partial answer, serving as a \"vehicle for gradually assembling land and putting Garden City principles into practice, now rather than later.\"",
+    "fr": "Cabannes, Y et Ross, P (2020), The Once and Future Garden City book chapter in On common ground : International perspective on the Community Land Trust (Davis J.E, Algoed L, Hernández-Torrales, M.E eds), Terra Nostra Press : Madison pp 13-22. CHAPITRE 2 : La cité-jardin du passé et de l'avenir Cabannes et Ross revisitent la cité-jardin, proposée à l'origine par Ebenezer Howard il y a plus de 100 ans, pour se demander comment sa vision pourrait être réalisée dans un cadre moderne. Selon eux, les fonds fonciers communautaires offrent une réponse partielle, en servant de \"véhicule pour rassembler progressivement des terrains et mettre en pratique les principes de la cité-jardin, maintenant plutôt que plus tard\".",
+    "es": "Cabannes, Y y Ross, P (2020), The Once and Future Garden City book chapter in On common ground: International perspective on the Community Land Trust (Davis J.E, Algoed L, Hernández-Torrales, M.E eds), Terra Nostra Press: Madison pp 13-22.\n\nCAPÍTULO 2: La ciudad jardín del pasado y del futuro\n\nCabannes y Ross revisan la Ciudad Jardín, propuesta originalmente por Ebenezer Howard hace más de 100 años, para preguntarse cómo podría materializarse su visión en un entorno moderno. Los fideicomisos de tierras comunitarias, argumentan, ofrecen una respuesta parcial, sirviendo como \"vehículo para reunir gradualmente tierras y poner en práctica los principios de la Ciudad Jardín, ahora y no después\".",
+    "de": "Cabannes, Y and Ross, P (2020), The Once and Future Garden City book chapter in On common ground: International perspective on the Community Land Trust (Davis J.E, Algoed L, Hernández-Torrales, M.E eds), Terra Nostra Press: Madison pp. 13-22.\n\nKapitel 2: The Once and Future Garden City (Die gegenwärtige und zukünftige Gartenstadt)\n\nCabannes und Ross betrachten die Gartenstadt, die ursprünglich von Ebenezer Howard vor über 100 Jahren vorgeschlagen wurde, erneut, um zu fragen, wie seine Vision in einem modernen Umfeld umgesetzt werden könnte. Community land trusts, they argue, provide a partial answer, serving as \"a vehicle for gradually assembling land and putting Garden City principles into practice - now not later\"."
+  },
   "field": [
     "demography",
     "geography",
@@ -20,7 +25,12 @@
   ],
   "lang": "fr",
   "location": "",
-  "name": "The Once and Future Garden City ",
+  "name": {
+    "en": "The Once and Future Garden City ",
+    "fr": "The Once and Future Garden City ",
+    "es": "La antigua y futura ciudad jardín",
+    "de": "The Once and Future Garden City"
+  },
   "pubId": 424252,
   "score": 420.6000000000077,
   "state": "completed-project",
@@ -50,27 +60,5 @@
   ],
   "url": "https://cltweb.org/terra-nostra-press/on-common-ground/",
   "yt": "",
-  "zone": [
-    7
-  ],
-  "lastEvent": {
-    "at": 1663679191,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1663679191,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754500572,
   "date": null,
-  "description": "Acta is a scientific association in Colombia celebrating 50 years of advancing food science and technology. Its mission focuses on knowledge transfer to enhance the agro-industrial and agri-food sectors. Acta collaborates with international entities and offers memberships to food production companies, universities, and public institutions. The organization emphasizes food safety, regulatory affairs, and sensory analysis, aiming to strengthen food systems and promote scientific understanding within the industry and among consumers.",
+  "description": {
+    "en": "Acta is a Colombian scientific association celebrating 50 years of advances in food science and technology. Its mission focuses on the transfer of knowledge to improve the agro-industrial and agri-food sectors. Acta collaborates with international entities and offers membership to food production companies, universities and public institutions. The organization emphasizes food safety, regulatory affairs and sensory analysis, with the goal of strengthening food systems and promoting scientific understanding within the industry and among consumers.",
+    "fr": "Acta est une association scientifique colombienne qui célèbre 50 ans d'avancées dans le domaine des sciences et technologies alimentaires. Sa mission est axée sur le transfert de connaissances afin d'améliorer les secteurs agro-industriels et agroalimentaires. Acta collabore avec des entités internationales et propose des adhésions aux entreprises de production alimentaire, aux universités et aux institutions publiques. L'organisation met l'accent sur la sécurité alimentaire, les affaires réglementaires et l'analyse sensorielle, dans le but de renforcer les systèmes alimentaires et de promouvoir la compréhension scientifique au sein de l'industrie et parmi les consommateurs.",
+    "es": "Acta es una asociación científica de Colombia que celebra 50 años de avances en ciencia y tecnología de los alimentos. Su misión se centra en la transferencia de conocimientos para mejorar los sectores agroindustrial y agroalimentario. Acta colabora con entidades internacionales y ofrece afiliación a empresas de producción de alimentos, universidades e instituciones públicas. La organización hace hincapié en la seguridad alimentaria, los asuntos reglamentarios y el análisis sensorial, con el objetivo de fortalecer los sistemas alimentarios y promover la comprensión científica dentro de la industria y entre los consumidores.",
+    "de": "Acta ist eine wissenschaftliche Vereinigung in Kolumbien, die 50 Jahre Förderung von Wissenschaft und Technologie in der Lebensmittelindustrie feiert. Seine Mission konzentriert sich auf den Wissenstransfer zur Verbesserung der Agrarindustrie und des Agrar- und Ernährungssektors. Acta arbeitet mit internationalen Organisationen zusammen und bietet Mitgliedschaften für Unternehmen der Lebensmittelproduktion, Universitäten und öffentliche Einrichtungen an. Die Organisation legt Wert auf Lebensmittelsicherheit, regulatorische Angelegenheiten und sensorische Analysen, um die Lebensmittelsysteme zu stärken und das wissenschaftliche Verständnis in der Industrie und unter den Verbrauchern zu fördern."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Acta",
+  "name": {
+    "en": "Acta",
+    "fr": "Acta",
+    "es": "Acta",
+    "de": "Acta"
+  },
   "pubId": 469152,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

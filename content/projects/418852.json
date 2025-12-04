@@ -14,14 +14,24 @@
   "date": [
     "2022-07-21"
   ],
-  "description": "Dijon métropole soutient et permet le maintien ainsi que la valorisation d’une collection unique de légumineuses (pois, fèves, lupin, lentilles…). Ces ressources génétiques, riches de 15 000 variétés et constituées depuis 15 ans par INRAE au sein de l’UMR agroécologie, représentent un atout majeur pour le territoire et pour le développement de la culture et de la consommation des légumineuses. En effet, les légumineuses présentent des caractéristiques très intéressantes du point de vue agroécologique et nutritionnel. Plus tolérante à la sécheresse que d’autres, la plante capte l’azote de l’air, ce qui permet de réduire l’usage des engrais et contribue à baisser l’empreinte Carbone de l’agriculture et plus généralement de l’alimentation. Les légumineuses sont aussi riches en protéines. La collection permettra d’élaborer de nouvelles variétés, adaptées aux conditions climatiques et aux besoins du marché. Aux habitants, elle autorisera la découverte d’une immense variété de légumineuses.",
+  "description": {
+    "fr": "Dijon métropole soutient et permet le maintien ainsi que la valorisation d’une collection unique de légumineuses (pois, fèves, lupin, lentilles…). Ces ressources génétiques, riches de 15 000 variétés et constituées depuis 15 ans par INRAE au sein de l’UMR agroécologie, représentent un atout majeur pour le territoire et pour le développement de la culture et de la consommation des légumineuses. En effet, les légumineuses présentent des caractéristiques très intéressantes du point de vue agroécologique et nutritionnel. Plus tolérante à la sécheresse que d’autres, la plante capte l’azote de l’air, ce qui permet de réduire l’usage des engrais et contribue à baisser l’empreinte Carbone de l’agriculture et plus généralement de l’alimentation. Les légumineuses sont aussi riches en protéines. La collection permettra d’élaborer de nouvelles variétés, adaptées aux conditions climatiques et aux besoins du marché. Aux habitants, elle autorisera la découverte d’une immense variété de légumineuses.",
+    "en": "Dijon métropole supports and promotes a unique collection of leguminous plants (peas, broad beans, lupins, lentils, etc.). These genetic resources, comprising 15,000 varieties and built up over the last 15 years by INRAE's Agroecology research unit, represent a major asset for the region and for the development of legume cultivation and consumption. Indeed, legumes have some very interesting characteristics from an agroecological and nutritional point of view. More tolerant of drought than other crops, legumes capture nitrogen from the air, reducing the need for fertilizers and the carbon footprint of agriculture and food in general. Legumes are also rich in protein. The collection will enable new varieties to be developed, adapted to climatic conditions and market needs. For local residents, it will enable them to discover an immense variety of legumes.",
+    "es": "Dijon Metropole apoya y permite el mantenimiento y el desarrollo de una colección única de leguminosas (guisantes, habas, altramuces, lentejas, etc.). Estos recursos genéticos, compuestos por 15.000 variedades y constituidos a lo largo de los últimos 15 años por la unidad de investigación en Agroecología del INRAE, representan una baza importante para la región y para el desarrollo del cultivo y el consumo de leguminosas. Las leguminosas tienen unas características muy interesantes desde el punto de vista agroecológico y nutricional. Más tolerantes a la sequía que otros cultivos, las legumbres captan el nitrógeno del aire, lo que reduce la necesidad de fertilizantes y contribuye a reducir la huella de carbono de la agricultura y la alimentación en general. Las legumbres también son ricas en proteínas. La colección permitirá desarrollar nuevas variedades, adaptadas a las condiciones climáticas y a las necesidades del mercado. También permitirá a los residentes locales descubrir una enorme variedad de legumbres.",
+    "de": "Dijon métropole unterstützt und ermöglicht den Erhalt und die Aufwertung einer einzigartigen Sammlung von Hülsenfrüchten (Erbsen, Bohnen, Lupinen, Linsen usw.). Diese genetischen Ressourcen, die 15.000 Sorten umfassen und seit 15 Jahren von INRAE im Rahmen der UMR Agroökologie aufgebaut werden, stellen einen großen Vorteil für die Region und für die Entwicklung des Anbaus und des Konsums von Hülsenfrüchten dar. Denn Hülsenfrüchte weisen aus agrarökologischer und ernährungswissenschaftlicher Sicht sehr interessante Eigenschaften auf. Sie sind trockenheitstoleranter als andere Pflanzen, nehmen Stickstoff aus der Luft auf, was den Einsatz von Düngemitteln verringert und dazu beiträgt, den CO2-Fußabdruck der Landwirtschaft und generell der Ernährung zu senken. Hülsenfrüchte sind außerdem reich an Proteinen. Die Sammlung wird es ermöglichen, neue Sorten zu entwickeln, die an die klimatischen Bedingungen und die Bedürfnisse des Marktes angepasst sind. Den Einwohnern wird sie die Entdeckung einer riesigen Vielfalt an Hülsenfrüchten ermöglichen."
+  },
   "field": [
     "biology",
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Premier laboratoire de légumineuses à graines en France",
+  "name": {
+    "fr": "Premier laboratoire de légumineuses à graines en France",
+    "en": "France's first seed legume laboratory",
+    "es": "Primer laboratorio francés de leguminosas de siembra",
+    "de": "Erstes Labor für Hülsenfrüchte in Frankreich"
+  },
   "pubId": 418852,
   "score": 666.484210526322,
   "state": "ongoing-project",
@@ -47,28 +57,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495325,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495325,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

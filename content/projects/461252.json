@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754563325,
   "date": null,
-  "description": "Agrojusto is an innovative initiative focused on transforming the food marketing landscape to create a fairer and more efficient system for small farmers and traders. The organization leverages technology to enhance the connection between small producers and the entire value chain, aiming to improve commercialization processes. Agrojusto offers a subscription-based service for both marketers and producers, adapting its business model to different countries, such as Argentina and Mexico, where it collaborates with NGOs to implement tailored programs that address local needs.",
+  "description": {
+    "en": "Agrojusto is an innovative initiative focused on transforming the food marketing landscape to create a fairer and more efficient system for small farmers and traders. The organization leverages technology to improve the connection between small producers and the entire value chain, with the goal of improving marketing processes. Agrojusto offers a subscription service for both traders and producers, adapting its business model to different countries, such as Argentina and Mexico, where it collaborates with NGOs to implement tailored programs that respond to local needs.",
+    "fr": "Agrojusto est une initiative innovante qui vise à transformer le paysage de la commercialisation des produits alimentaires afin de créer un système plus équitable et plus efficace pour les petits agriculteurs et les commerçants. L'organisation s'appuie sur la technologie pour améliorer la connexion entre les petits producteurs et l'ensemble de la chaîne de valeur, dans le but d'améliorer les processus de commercialisation. Agrojusto propose un service d'abonnement aux négociants et aux producteurs et adapte son modèle d'entreprise à différents pays, comme l'Argentine et le Mexique, où elle collabore avec des ONG pour mettre en œuvre des programmes sur mesure qui répondent aux besoins locaux.",
+    "es": "Agrojusto es una iniciativa innovadora centrada en transformar el panorama de la comercialización de alimentos para crear un sistema más justo y eficiente para los pequeños agricultores y comerciantes. La organización aprovecha la tecnología para mejorar la conexión entre los pequeños productores y toda la cadena de valor, con el objetivo de mejorar los procesos de comercialización. Agrojusto ofrece un servicio de suscripción tanto para comercializadores como para productores, adaptando su modelo de negocio a distintos países, como Argentina y México, donde colabora con ONG para poner en marcha programas a medida que respondan a las necesidades locales.",
+    "de": "Agrojusto ist eine innovative Initiative, die sich auf die Umgestaltung der Lebensmittelvermarktungslandschaft konzentriert, um ein faires und effizienteres System für Kleinbauern und Händler zu schaffen. Die Organisation setzt Technologien ein, um die Verbindung zwischen Kleinbauern und der gesamten Wertschöpfungskette zu verbessern und so die Vermarktungsprozesse zu optimieren. Agrojusto bietet einen abonnierten Service sowohl für Vermarkter als auch für Produzenten an und passt sein Geschäftsmodell an verschiedene Länder wie Argentinien und Mexiko an, wo es mit NGOs zusammenarbeitet, um maßgeschneiderte Programme zu implementieren, die den lokalen Bedürfnissen entsprechen."
+  },
   "field": [
     "nutrition",
     "information-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agrojusto",
+  "name": {
+    "en": "Agrojusto",
+    "fr": "Agrojusto",
+    "es": "Agrojusto",
+    "de": "Agrojusto"
+  },
   "pubId": 461252,
   "score": 41.550367087181236,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

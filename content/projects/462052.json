@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754564984,
   "date": null,
-  "description": "Ark is a plant-based restaurant, focusing on sustainability and innovative cuisine. Established in 2020, it evolved from a casual vegan café to a fine dining experience, driven by a commitment to high-quality ingredients and minimizing waste. The restaurant emphasizes local sourcing and foraging, creating a unique dining experience that challenges perceptions of plant-based food. With multiple awards, Ark aims to redefine culinary excellence while promoting environmental responsibility.         ",
+  "description": {
+    "en": "Ark is a plant-based restaurant focused on sustainability and innovative cuisine. Founded in 2020, it evolved from a casual vegan cafe into a fine dining restaurant, driven by its commitment to high quality ingredients and waste minimization. The restaurant emphasizes local sourcing and foraging, creating a unique dining experience that challenges perceptions of plant-based food. With multiple awards, Ark aims to redefine culinary excellence while promoting environmental responsibility.         ",
+    "fr": "Ark est un restaurant végétal axé sur la durabilité et la cuisine innovante. Fondé en 2020, il est passé d'un café végétalien décontracté à un restaurant gastronomique, grâce à son engagement en faveur d'ingrédients de haute qualité et de la réduction des déchets. Le restaurant met l'accent sur l'approvisionnement local et la recherche de nourriture, créant ainsi une expérience gastronomique unique qui remet en question les perceptions de l'alimentation à base de plantes. Récompensé à plusieurs reprises, Ark vise à redéfinir l'excellence culinaire tout en promouvant la responsabilité environnementale.         ",
+    "es": "Ark es un restaurante basado en plantas, centrado en la sostenibilidad y la cocina innovadora. Fundado en 2020, pasó de ser una cafetería vegana informal a convertirse en un restaurante de alta cocina, impulsado por su compromiso con los ingredientes de alta calidad y la minimización de residuos. El restaurante hace hincapié en el abastecimiento local y la búsqueda de alimentos, creando una experiencia gastronómica única que desafía las percepciones de la comida basada en plantas. Con múltiples premios, Ark aspira a redefinir la excelencia culinaria al tiempo que promueve la responsabilidad medioambiental.         ",
+    "de": "Ark ist ein Restaurant auf Plantagenbasis, das sich auf Nachhaltigkeit und innovative Küche konzentriert. Es wurde 2020 gegründet und entwickelte sich von einem lässigen veganen Café zu einem feinen Ess-Erlebnis, das von einem Engagement für hochwertige Zutaten und Abfallminimierung geprägt ist. Das Restaurant legt großen Wert auf lokale Beschaffung und Forstwirtschaft und schafft so ein einzigartiges Ess-Erlebnis, das die Vorstellungen von pflanzlichen Lebensmitteln herausfordert. Mit mehreren Auszeichnungen möchte Ark die kulinarische Exzellenz neu definieren und gleichzeitig die Umweltverantwortung fördern.         "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Ark ",
+  "name": {
+    "en": "Ark",
+    "fr": "Ark ",
+    "es": "Arca",
+    "de": "Ark"
+  },
   "pubId": 462052,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

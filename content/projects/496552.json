@@ -13,14 +13,24 @@
   ],
   "createdAt": 1755087620,
   "date": null,
-  "description": "The initiative focuses on creating a sustainable urban agriculture model through hydroponic greenhouses at the Santana school. Originating from a high school thesis on vertical gardens, it aims to engage students in food production while promoting organic, pesticide-free produce. The project collaborates with local restaurants and educational institutions, fostering community involvement and environmental awareness. By integrating education and agriculture, it seeks to enhance food quality and sustainability in urban settings.",
+  "description": {
+    "en": "The initiative focuses on creating a sustainable urban agriculture model through hydroponic greenhouses at the Santana school. Originating from a high school thesis on vertical gardens, it aims to engage students in food production while promoting organic, pesticide-free produce. The project collaborates with local restaurants and educational institutions, fostering community involvement and environmental awareness. By integrating education and agriculture, it seeks to enhance food quality and sustainability in urban settings.",
+    "fr": "Cette initiative vise à créer un modèle d'agriculture urbaine durable grâce à des serres hydroponiques à l'école Santana. Issu d'un mémoire de fin d'études secondaires sur les jardins verticaux, il vise à impliquer les élèves dans la production alimentaire tout en promouvant les produits biologiques et sans pesticides. Le projet collabore avec des restaurants et des établissements d'enseignement locaux, favorisant ainsi l'implication de la communauté et la sensibilisation à l'environnement. En intégrant l'éducation et l'agriculture, il cherche à améliorer la qualité de l'alimentation et la durabilité en milieu urbain.",
+    "es": "La iniciativa se centra en crear un modelo de agricultura urbana sostenible mediante invernaderos hidropónicos en la escuela Santana. Surgida de una tesis de bachillerato sobre huertos verticales, pretende implicar a los estudiantes en la producción de alimentos al tiempo que promueve los productos ecológicos y sin pesticidas. El proyecto colabora con restaurantes e instituciones educativas locales, fomentando la participación de la comunidad y la concienciación medioambiental. Al integrar la educación y la agricultura, pretende mejorar la calidad de los alimentos y la sostenibilidad en los entornos urbanos.",
+    "de": "Die Initiative konzentriert sich auf die Schaffung eines nachhaltigen städtischen Landwirtschaftsmodells durch Hydrokultur-Gewächshäuser an der Santana-Schule. Das Projekt, das aus einer Highschool-Diplomarbeit über vertikale Gärten hervorgegangen ist, zielt darauf ab, Schüler in die Lebensmittelproduktion einzubeziehen und gleichzeitig organische, pestizidfreie Produkte zu fördern. Das Projekt arbeitet mit lokalen Restaurants und Bildungseinrichtungen zusammen und fördert die Beteiligung der Gemeinschaft und das Umweltbewusstsein. Durch die Integration von Bildung und Landwirtschaft sollen die Lebensmittelqualität und die Nachhaltigkeit im städtischen Umfeld verbessert werden."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Huerta Pelcan ",
+  "name": {
+    "es": "Huerta Pelcan ",
+    "en": "Pelcan Orchard",
+    "fr": "Huerta Pelcan",
+    "de": "Huerta Pelcan"
+  },
   "pubId": 496552,
   "score": -35.09204908716356,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

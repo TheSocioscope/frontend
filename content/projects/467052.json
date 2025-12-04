@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754479895,
   "date": null,
-  "description": "Frutalia is a family-owned business, specializing in transforming fruits into innovative products, particularly liquid fruit flavorings. Established in Boyacá over 26 years ago, the company has grown to cover the national market, focusing on quality and sustainability. The company operates from an 1,800 square meter facility where it processes fresh fruit into concentrated fruit pulp, which is then packaged for distribution. With a commitment to local suppliers and renewable energy, Frutalia continues to evolve under the second generation, expanding its product portfolio and enhancing its operational efficiency.",
+  "description": {
+    "en": "Frutalia is a family company specialized in the transformation of fruits into innovative products, especially in liquid fruit flavors. Founded in Boyacá more than 26 years ago, the company has grown to cover the national market, focusing on quality and sustainability. The company operates from a 1,800-square-meter facility where it transforms fresh fruit into concentrated fruit pulp, which is then packaged for distribution. With a commitment to local suppliers and renewable energy, Frutalia continues to evolve under the second generation, expanding its product portfolio and improving its operational efficiency.",
+    "fr": "Frutalia est une entreprise familiale spécialisée dans la transformation de fruits en produits innovants, notamment en arômes de fruits liquides. Fondée à Boyacá il y a plus de 26 ans, l'entreprise s'est développée pour couvrir le marché national, en mettant l'accent sur la qualité et la durabilité. L'entreprise opère à partir d'une installation de 1 800 mètres carrés où elle transforme les fruits frais en pulpe de fruit concentrée, qui est ensuite conditionnée pour être distribuée. Avec un engagement envers les fournisseurs locaux et l'énergie renouvelable, Frutalia continue d'évoluer sous la deuxième génération, en élargissant son portefeuille de produits et en améliorant son efficacité opérationnelle.",
+    "es": "Frutalia es una empresa familiar especializada en la transformación de frutas en productos innovadores, especialmente en aromas líquidos de frutas. Fundada en Boyacá hace más de 26 años, la empresa ha crecido hasta cubrir el mercado nacional, centrándose en la calidad y la sostenibilidad. La empresa opera desde unas instalaciones de 1.800 metros cuadrados donde transforma la fruta fresca en pulpa de fruta concentrada, que luego se envasa para su distribución. Con un compromiso con los proveedores locales y las energías renovables, Frutalia sigue evolucionando bajo la segunda generación, ampliando su cartera de productos y mejorando su eficiencia operativa.",
+    "de": "Frutalia ist ein familiengeführtes Unternehmen, das sich auf die Verarbeitung von Obst zu innovativen Produkten, insbesondere flüssigen Fruchtaromen, spezialisiert hat. Das Unternehmen wurde vor 26 Jahren in Boyacá gegründet und ist mittlerweile auf den nationalen Markt gewachsen, wobei der Schwerpunkt auf Qualität und Nachhaltigkeit liegt. Das Unternehmen betreibt eine 1.800 Quadratmeter große Anlage, in der es frisches Obst zu konzentriertem Fruchtmark verarbeitet, das dann für den Vertrieb verpackt wird. Mit einem Bekenntnis zu lokalen Lieferanten und erneuerbarer Energie entwickelt sich Frutalia auch unter der zweiten Generation weiter, erweitert sein Produktportfolio und steigert seine betriebliche Effizienz."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Frutalia",
+  "name": {
+    "en": "Frutalia",
+    "fr": "Frutalia",
+    "es": "Frutalia",
+    "de": "Frutalia"
+  },
   "pubId": 467052,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

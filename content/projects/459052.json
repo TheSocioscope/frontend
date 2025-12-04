@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754390825,
   "date": null,
-  "description": "Paccari is an Ecuadorian chocolate brand committed to sustainability, organic practices, and fair trade. Founded 23 years ago, it aims to revitalize the planet by supporting small-scale farmers and transforming fine aroma cocoa into premium chocolate. Paccari's philosophy is rooted in a triple impact model—economic, social, and environmental—ensuring that their practices benefit farmers, consumers, and the planet. The company is dedicated to organic farming, requiring farmers to avoid chemicals for three years to achieve organic certification, which can initially reduce yields but ultimately supports long-term sustainability. Paccari has become a benchmark in the industry, emphasizing the importance of conscious consumerism and the intrinsic relationship between humans and nature.",
+  "description": {
+    "en": "Paccari is an Ecuadorian chocolate brand committed to sustainability, ecological practices and fair trade. Founded 23 years ago, its goal is to revitalize the planet by supporting small farmers and transforming fine aroma cocoa into premium chocolate. Paccari's philosophy is based on a triple impact model - economic, social and environmental - that ensures that its practices benefit farmers, consumers and the planet. The company is dedicated to organic farming and requires farmers to avoid chemicals for three years to achieve organic certification, which may initially reduce yields but ultimately supports long-term sustainability. Paccari has become a reference in the sector, underlining the importance of conscious consumption and the intrinsic relationship between humans and nature.",
+    "fr": "Paccari est une marque de chocolat équatorienne engagée dans le développement durable, les pratiques biologiques et le commerce équitable. Fondée il y a 23 ans, elle a pour objectif de revitaliser la planète en soutenant les petits agriculteurs et en transformant du cacao de qualité en chocolat haut de gamme. La philosophie de Paccari repose sur un modèle à triple impact - économique, social et environnemental - qui garantit que ses pratiques profitent aux agriculteurs, aux consommateurs et à la planète. L'entreprise se consacre à l'agriculture biologique et demande aux agriculteurs d'éviter les produits chimiques pendant trois ans pour obtenir la certification biologique, ce qui peut réduire les rendements dans un premier temps, mais favorise en fin de compte la durabilité à long terme. Paccari est devenu une référence dans le secteur, soulignant l'importance d'une consommation consciente et de la relation intrinsèque entre l'homme et la nature.",
+    "es": "Paccari es una marca de chocolate ecuatoriana comprometida con la sostenibilidad, las prácticas ecológicas y el comercio justo. Fundada hace 23 años, su objetivo es revitalizar el planeta apoyando a los pequeños agricultores y transformando el cacao fino de aroma en chocolate de primera calidad. La filosofía de Paccari se basa en un modelo de triple impacto -económico, social y medioambiental- que garantiza que sus prácticas benefician a los agricultores, los consumidores y el planeta. La empresa se dedica a la agricultura ecológica y exige a los agricultores que eviten los productos químicos durante tres años para conseguir la certificación ecológica, lo que inicialmente puede reducir el rendimiento pero, en última instancia, favorece la sostenibilidad a largo plazo. Paccari se ha convertido en una referencia en el sector, subrayando la importancia del consumo consciente y la relación intrínseca entre el ser humano y la naturaleza.",
+    "de": "Paccari ist eine ecuadorianische Schokoladenmarke, die sich der Nachhaltigkeit, organischen Praktiken und dem fairen Handel verpflichtet hat. Das Unternehmen wurde vor 23 Jahren gegründet und zielt darauf ab, den Planeten durch die Unterstützung kleinbäuerlicher Betriebe und die Verarbeitung von feinem Aromakakao zu Premiumschokolade wiederzubeleben. Die Philosophie von Paccari beruht auf einem dreifachen Wirkungsmodell - wirtschaftlich, sozial und ökologisch - und gewährleistet, dass ihre Praktiken den Bauern, den Verbrauchern und dem Planeten zugute kommen. Das Unternehmen widmet sich dem ökologischen Landbau und verlangt von den Landwirten, drei Jahre lang auf Chemikalien zu verzichten, um eine ökologische Zertifizierung zu erreichen, die zunächst die Erträge reduzieren kann, aber letztendlich die langfristige Nachhaltigkeit unterstützt. Paccari hat sich zu einer Benchmark in der Branche entwickelt und betont die Bedeutung des bewussten Konsums und der inneren Beziehung zwischen Mensch und Natur."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Paccari",
+  "name": {
+    "en": "Paccari",
+    "fr": "Paccari",
+    "es": "Paccari",
+    "de": "Paccari"
+  },
   "pubId": 459052,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

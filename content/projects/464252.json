@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754428896,
   "date": null,
-  "description": "Footprint Nordic, founded in May 2021, is a nonprofit initiative aimed at promoting regenerative agriculture through collaboration between chefs, farmers, and the hospitality industry. The organization runs two key programs: the 1% Initiative, which connects consumers to sustainable farming by adding a small surcharge to restaurant bills, and the Top 50 Farmers project, which highlights exemplary farmers across Europe. Together, these initiatives seek to empower farmers and foster a sustainable food system.",
+  "description": {
+    "en": "Footprint Nordic, founded in May 2021, is a non-profit initiative aimed at promoting regenerative agriculture through collaboration between chefs, farmers and the hospitality industry. The organization manages two key programs: the 1% Initiative, which connects consumers to sustainable agriculture by adding a small surcharge to restaurant bills, and the Top 50 Farmers project, which highlights exemplary farmers across Europe. Together, these initiatives aim to empower farmers and promote a sustainable food system.",
+    "fr": "Footprint Nordic, fondée en mai 2021, est une initiative à but non lucratif visant à promouvoir l'agriculture régénératrice grâce à la collaboration entre les chefs, les agriculteurs et le secteur de l'hôtellerie. L'organisation gère deux programmes clés : l'initiative 1%, qui relie les consommateurs à l'agriculture durable en ajoutant un petit supplément aux factures des restaurants, et le projet Top 50 Farmers, qui met en avant des agriculteurs exemplaires à travers l'Europe. Ensemble, ces initiatives visent à responsabiliser les agriculteurs et à promouvoir un système alimentaire durable.",
+    "es": "Footprint Nordic, fundada en mayo de 2021, es una iniciativa sin ánimo de lucro destinada a promover la agricultura regenerativa mediante la colaboración entre chefs, agricultores y el sector hostelero. La organización gestiona dos programas clave: la Iniciativa 1%, que conecta a los consumidores con la agricultura sostenible añadiendo un pequeño recargo a las facturas de los restaurantes, y el proyecto Top 50 Farmers, que destaca a agricultores ejemplares de toda Europa. Juntas, estas iniciativas pretenden potenciar a los agricultores y fomentar un sistema alimentario sostenible.",
+    "de": "Footprint Nordic wurde im Mai 2021 gegründet und ist eine gemeinnützige Initiative zur Förderung der regenerativen Landwirtschaft durch die Zusammenarbeit zwischen Köchen, Landwirten und der Hotel- und Gaststättenbranche. Die Organisation betreibt zwei wichtige Programme: die 1%-Initiative, die Verbraucher durch einen kleinen Aufschlag auf Restaurantrechnungen mit der nachhaltigen Landwirtschaft verbindet, und das Projekt Top 50 Farmers, das vorbildliche Landwirte in ganz Europa hervorhebt. Gemeinsam wollen diese Initiativen die Landwirte stärken und ein nachhaltiges Lebensmittelsystem fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Foodprint Nordic",
+  "name": {
+    "en": "Foodprint Nordic",
+    "fr": "Foodprint Nordic",
+    "es": "Foodprint Nórdica",
+    "de": "Foodprint Nordic"
+  },
   "pubId": 464252,
   "score": 7.8700461412351315,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "0M7BdoteEgo",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1756737903,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1756737903
     }
   ],
-  "lastEvent": {
-    "at": 1756737903,
-    "by": "contact"
-  },
   "updatedAt": [
     1756737903
-  ]
+  ],
+  "originalLang": "fr"
 }

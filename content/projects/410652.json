@@ -14,14 +14,24 @@
   "date": [
     "2020-09-11"
   ],
-  "description": "Les sources d'information et les enquêtes sur les comportements alimentaires apportent souvent de précieux résultats, mais elles souffrent aussi de biais créant parfois des décalages entre comportements déclarés et réels. Non spécifiques à l'alimentation, ces écarts sont liés aux caractéristiques des répondants, aux contextes de leurs réponses, aux démarches et méthodes de recueil des informations et à leurs modalités ultérieures de traitement. Du fait de leurs impacts potentiels sur le pilotage de l'action publique, le ministère de l’Agriculture et de l’Alimentation, l’ADEME et FranceAgriMer ont souhaité commander une étude sur ce sujet. Cette note présente les principaux enseignements de ce travail.",
+  "description": {
+    "fr": "Les sources d'information et les enquêtes sur les comportements alimentaires apportent souvent de précieux résultats, mais elles souffrent aussi de biais créant parfois des décalages entre comportements déclarés et réels. Non spécifiques à l'alimentation, ces écarts sont liés aux caractéristiques des répondants, aux contextes de leurs réponses, aux démarches et méthodes de recueil des informations et à leurs modalités ultérieures de traitement. Du fait de leurs impacts potentiels sur le pilotage de l'action publique, le ministère de l’Agriculture et de l’Alimentation, l’ADEME et FranceAgriMer ont souhaité commander une étude sur ce sujet. Cette note présente les principaux enseignements de ce travail.",
+    "en": "Information sources and surveys on dietary behavior often provide valuable results, but they also suffer from biases that sometimes create discrepancies between declared and actual behavior. Not specific to food, these discrepancies are linked to the characteristics of respondents, the contexts of their answers, the approaches and methods used to gather the information, and the way in which it is subsequently processed. Given their potential impact on the management of public action, the French Ministry of Agriculture and Food, ADEME and FranceAgriMer commissioned a study on this subject. This note presents the main findings of this study.",
+    "es": "Las fuentes de información y las encuestas sobre hábitos alimentarios suelen proporcionar resultados valiosos, pero también adolecen de sesgos que a veces crean discrepancias entre el comportamiento declarado y el real. Estas discrepancias, que no son específicas de la alimentación, están relacionadas con las características de los encuestados, los contextos en los que dan sus respuestas, los enfoques y métodos utilizados para recoger la información y la forma en que se procesa posteriormente. Debido a su impacto potencial en la gestión de la acción pública, el Ministerio de Agricultura y Alimentación, la ADEME y FranceAgriMer encargaron un estudio sobre este tema. Esta nota presenta las principales conclusiones del estudio.",
+    "de": "Informationsquellen und Umfragen über das Ernährungsverhalten liefern oft wertvolle Ergebnisse, aber sie sind auch mit Verzerrungen behaftet, die manchmal zu Diskrepanzen zwischen dem angegebenen und dem tatsächlichen Verhalten führen. Diese Abweichungen sind nicht ernährungsspezifisch und hängen mit den Merkmalen der Befragten, dem Kontext ihrer Antworten, dem Vorgehen und den Methoden der Informationssammlung und der späteren Verarbeitung der Informationen zusammen. Aufgrund ihrer potenziellen Auswirkungen auf die Steuerung der öffentlichen Maßnahmen wollten das Ministerium für Landwirtschaft und Ernährung, die ADEME und FranceAgriMer eine Studie zu diesem Thema in Auftrag geben. Dieser Vermerk stellt die wichtigsten Erkenntnisse dieser Arbeit vor."
+  },
   "field": [
     "economics-statistics",
     "sociology"
   ],
   "lang": "fr",
   "location": "",
-  "name": "Les écarts entre alimentation déclarée et alimentation réelle : observations et explications",
+  "name": {
+    "fr": "Les écarts entre alimentation déclarée et alimentation réelle : observations et explications",
+    "en": "Differences between declared and actual food intake: observations and explanations",
+    "es": "Diferencias entre la ingesta alimentaria declarada y la real: observaciones y explicaciones",
+    "de": "Die Unterschiede zwischen angegebener und tatsächlicher Ernährung: Beobachtungen und Erklärungen"
+  },
   "pubId": 410652,
   "score": 1004.1222222222162,
   "state": "completed-project",
@@ -45,28 +55,5 @@
   ],
   "url": "https://agriculture.gouv.fr/les-ecarts-entre-alimentation-declaree-et-alimentation-reelle-observations-et-explications-analyse",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1662802074,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1662802074,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

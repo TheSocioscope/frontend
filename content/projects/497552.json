@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755089230,
   "date": null,
-  "description": "TarwiFoods, founded in 2017, focuses on tarwi, a protein-rich legume from the Andes. Initially sparked by a project on tarwi alkaloids, its founder shifted the focus to its culinary and nutritional potential, leading to the establishment of the company. TarwiFoods successfully penetrated the market, expanding from local fairs to over 150 specialized shops. The intitative emphasizes the importance of transparency and collaboration with farmers, as well as the company's commitment to promoting biodiversity and healthy eating. ",
+  "description": {
+    "en": "TarwiFoods, founded in 2017, focuses on tarwi, a protein-rich legume from the Andes. Initially sparked by a project on tarwi alkaloids, its founder shifted the focus to its culinary and nutritional potential, leading to the establishment of the company. TarwiFoods successfully penetrated the market, expanding from local fairs to over 150 specialized shops. The intitative emphasizes the importance of transparency and collaboration with farmers, as well as the company's commitment to promoting biodiversity and healthy eating. ",
+    "fr": "TarwiFoods, fondée en 2017, se concentre sur le tarwi, une légumineuse riche en protéines originaire des Andes. Initialement suscité par un projet sur les alcaloïdes du tarwi, son fondateur a déplacé l'attention vers son potentiel culinaire et nutritionnel, ce qui a conduit à la création de l'entreprise. TarwiFoods a réussi à pénétrer le marché, passant des foires locales à plus de 150 magasins spécialisés. L'initiative souligne l'importance de la transparence et de la collaboration avec les agriculteurs, ainsi que l'engagement de l'entreprise à promouvoir la biodiversité et une alimentation saine.",
+    "es": "TarwiFoods, fundada en 2017, se centra en el tarwi, una legumbre andina rica en proteínas. Inicialmente surgió de un proyecto sobre los alcaloides del tarwi, pero su fundador se centró en su potencial culinario y nutricional, lo que dio lugar a la creación de la empresa. TarwiFoods penetró con éxito en el mercado, pasando de las ferias locales a más de 150 tiendas especializadas. La intiativa destaca la importancia de la transparencia y la colaboración con los agricultores, así como el compromiso de la empresa con la promoción de la biodiversidad y la alimentación sana.",
+    "de": "TarwiFoods wurde 2017 gegründet und konzentriert sich auf Tarwi, eine proteinreiche Hülsenfrucht aus den Anden. Ursprünglich durch ein Projekt über Tarwi-Alkaloide ausgelöst, verlagerte der Gründer den Schwerpunkt auf das kulinarische und ernährungsphysiologische Potenzial, was zur Gründung des Unternehmens führte. TarwiFoods konnte sich erfolgreich auf dem Markt etablieren und expandierte von lokalen Messen zu über 150 Fachgeschäften. Das Unternehmen unterstreicht die Bedeutung von Transparenz und Zusammenarbeit mit den Landwirten sowie sein Engagement für die Förderung der biologischen Vielfalt und einer gesunden Ernährung."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "TarwiFoods",
+  "name": {
+    "en": "TarwiFoods",
+    "fr": "TarwiFoods",
+    "es": "TarwiFoods",
+    "de": "TarwiFoods"
+  },
   "pubId": 497552,
   "score": -35.09204908716356,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "en"
 }

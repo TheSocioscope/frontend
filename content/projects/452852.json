@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754422684,
   "date": null,
-  "description": "Elementa Foods is an innovative company based in Greater Buenos Aires, specializing in the development of functional flours, particularly lupine flour, which is rich in protein and free from bitter residual taste. Founded by a group of former corporate professionals, Elementa aims to create sustainable, high-quality food products by integrating ancestral knowledge with modern agricultural practices. Their mission focuses on enhancing nutrition and adapting to contemporary lifestyles while fostering local partnerships and sustainability in the food industry.",
+  "description": {
+    "en": "Elementa Foods is an innovative company based in Greater Buenos Aires, specializing in the development of functional flours, in particular lupine flour, rich in protein and with no bitter aftertaste. Founded by a group of former business professionals, Elementa aims to create sustainable, high-quality food products by integrating ancestral knowledge with modern agricultural practices. Its mission focuses on improving nutrition and adapting to contemporary lifestyles while fostering local partnerships and sustainability in the food industry.",
+    "fr": "Elementa Foods est une entreprise innovante basée dans le Grand Buenos Aires, spécialisée dans le développement de farines fonctionnelles, en particulier la farine de lupin, riche en protéines et sans arrière-goût amer. Fondée par un groupe d'anciens professionnels du monde des affaires, Elementa vise à créer des produits alimentaires durables et de haute qualité en intégrant les connaissances ancestrales aux pratiques agricoles modernes. Sa mission consiste à améliorer la nutrition et à s'adapter aux modes de vie contemporains, tout en encourageant les partenariats locaux et la durabilité dans l'industrie alimentaire.",
+    "es": "Elementa Foods es una empresa innovadora con sede en el Gran Buenos Aires, especializada en el desarrollo de harinas funcionales, en particular harina de altramuz, rica en proteínas y sin sabor residual amargo. Fundada por un grupo de antiguos profesionales de empresa, Elementa pretende crear productos alimentarios sostenibles y de alta calidad integrando conocimientos ancestrales con prácticas agrícolas modernas. Su misión se centra en mejorar la nutrición y adaptarse a los estilos de vida contemporáneos, fomentando al mismo tiempo las asociaciones locales y la sostenibilidad en la industria alimentaria.",
+    "de": "Elementa Foods ist ein innovatives Unternehmen mit Sitz in Greater Buenos Aires, das sich auf die Entwicklung funktioneller Flours spezialisiert hat, insbesondere Lupinenflour, das reich an Proteinen und frei von bitterem Restgeschmack ist. Elementa wurde von einer Gruppe ehemaliger Unternehmensfachleute gegründet und zielt auf die Schaffung nachhaltiger, hochwertiger Lebensmittelprodukte durch die Integration von überliefertem Wissen und modernen landwirtschaftlichen Praktiken ab. Ihre Mission konzentriert sich auf die Verbesserung der Ernährung und die Anpassung an zeitgemäße Lebensweisen, wobei sie lokale Partnerschaften und Nachhaltigkeit in der Lebensmittelindustrie fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Elementa Foods",
+  "name": {
+    "it": "Elementa Foods",
+    "en": "Elementa Foods",
+    "fr": "Elementa Foods",
+    "es": "Alimentos Elementa",
+    "de": "Elementa-Nahrungsmittel"
+  },
   "pubId": 452852,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

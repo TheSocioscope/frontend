@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739457107,
   "date": null,
-  "description": "Street Goat is a community-run initiative based in Bristol, England, that began in 2016. The project focuses on grazing goats in urban spaces that are currently underutilized, with the aim of providing access to milk, fiber, and meat for community members who participate in the care and maintenance of the goats. The initiative operates on a loose, informal structure without formal registration, allowing for quick decision-making and adaptability.\n\nThe project consists of approximately four to five grazing areas around Bristol, housing around 30 to 40 goats. It attracts a diverse group of volunteers, including both younger individuals seeking access to high-quality food and older, retired individuals with more time to dedicate. Participants benefit from affordable access to healthy food, fostering a sense of food sovereignty and connection to the animals they care for.\n\nStreet Goat emphasizes the importance of understanding the food production process, providing educational opportunities about animal husbandry and the realities of food sourcing. The initiative also addresses mental health benefits through interaction with the goats, creating a unique community space that promotes well-being.\n",
+  "description": {
+    "en": "Street Goat is a community initiative based in Bristol, England that began in 2016. The project focuses on goat grazing in currently underutilized urban spaces, with the aim of providing access to milk, fiber and meat to community members involved in the care and maintenance of the goats. The initiative operates with a flexible, informal structure with no formal registration, allowing for rapid decision making and adaptability. The project consists of about four to five grazing areas around Bristol, housing between 30 and 40 goats. It attracts a diverse group of volunteers, including both young people seeking access to high quality food and retirees with more time to spare. Participants benefit from affordable access to healthy food, fostering a sense of food sovereignty and connection to the animals they care for. Street Goat emphasizes the importance of understanding the food production process, offering educational opportunities about animal husbandry and the realities of food sourcing. The initiative also addresses mental health benefits through interaction with the goats, creating a unique community space that fosters wellness.",
+    "fr": "Street Goat est une initiative communautaire basée à Bristol, en Angleterre, qui a débuté en 2016. Le projet se concentre sur le pâturage des chèvres dans des espaces urbains actuellement sous-utilisés, dans le but de fournir un accès au lait, aux fibres et à la viande pour les membres de la communauté impliqués dans les soins et l'entretien des chèvres. L'initiative fonctionne avec une structure souple et informelle, sans enregistrement formel, ce qui permet une prise de décision rapide et une grande adaptabilité. Le projet consiste en quatre ou cinq zones de pâturage autour de Bristol, abritant entre 30 et 40 chèvres. Il attire un groupe diversifié de bénévoles, comprenant à la fois des jeunes cherchant à accéder à une alimentation de qualité et des retraités ayant plus de temps à consacrer à leur activité. Les participants bénéficient d'un accès abordable à des aliments sains, d'un sentiment de souveraineté alimentaire et d'un lien avec les animaux dont ils s'occupent. Street Goat met l'accent sur l'importance de comprendre le processus de production alimentaire, en offrant des possibilités d'éducation sur l'élevage et les réalités de l'approvisionnement en nourriture. L'initiative s'intéresse également aux bienfaits de la santé mentale grâce à l'interaction avec les chèvres, créant ainsi un espace communautaire unique qui favorise le bien-être.",
+    "es": "Street Goat es una iniciativa comunitaria con sede en Bristol (Inglaterra) que comenzó en 2016. El proyecto se centra en el pastoreo de cabras en espacios urbanos actualmente infrautilizados, con el objetivo de proporcionar acceso a leche, fibra y carne a los miembros de la comunidad que participan en el cuidado y mantenimiento de las cabras. La iniciativa funciona con una estructura flexible e informal sin registro formal, lo que permite una rápida toma de decisiones y adaptabilidad.\n\nEl proyecto consta de unas cuatro o cinco zonas de pastoreo alrededor de Bristol, que albergan entre 30 y 40 cabras. Atrae a un grupo diverso de voluntarios, entre los que se encuentran tanto jóvenes que buscan acceso a alimentos de alta calidad como jubilados con más tiempo para dedicar. Los participantes se benefician de un acceso asequible a alimentos sanos, fomentando un sentimiento de soberanía alimentaria y de conexión con los animales que cuidan.\n\nStreet Goat hace hincapié en la importancia de comprender el proceso de producción de alimentos, ofreciendo oportunidades educativas sobre la cría de animales y las realidades del abastecimiento de alimentos. La iniciativa también aborda los beneficios para la salud mental a través de la interacción con las cabras, creando un espacio comunitario único que fomenta el bienestar.\n",
+    "de": "Street Goat ist eine in Bristol, England, angesiedelte Community-run-Initiative, die 2016 begann. Das Projekt konzentriert sich auf die Weidehaltung von Ziegen in städtischen Räumen, die derzeit nicht genutzt werden, um Gemeindemitgliedern, die sich an der Pflege und Wartung der Ziegen beteiligen, Zugang zu Milch, Fasern und Fleisch zu verschaffen. Die Initiative operiert auf einer losen, informellen Struktur ohne formale Registrierung, die eine schnelle Entscheidungsfindung und Anpassungsfähigkeit ermöglicht.\n\nDas Projekt besteht aus etwa vier bis fünf Weideflächen in der Umgebung von Bristol, die etwa 30 bis 40 Ziegen beherbergen. Es zieht eine vielfältige Gruppe von Freiwilligen an, darunter sowohl jüngere Menschen, die Zugang zu hochwertigen Lebensmitteln suchen, als auch ältere, pensionierte Menschen, die mehr Zeit haben, sich zu widmen. Die Teilnehmer profitieren von einem erschwinglichen Zugang zu gesunden Lebensmitteln, fördern ein Gefühl der Nahrungsmittelsouveränität und eine Verbindung zu den Tieren, um die sie sich kümmern.\n\nStreet Goat betont, wie wichtig es ist, den Prozess der Lebensmittelproduktion zu verstehen, und bietet Bildungsmöglichkeiten über die Tierhaltung und die Realitäten der Lebensmittelbeschaffung. Die Initiative adressiert auch mentale Gesundheitsvorteile durch die Interaktion mit den Ziegen und schafft einen einzigartigen Gemeinschaftsraum, der das Wohlbefinden fördert.\n"
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Street Goat",
+  "name": {
+    "nl": "Street Goat",
+    "en": "Street Goat",
+    "fr": "Chèvre de rue",
+    "es": "Cabra callejera",
+    "de": "Straßenziege"
+  },
   "pubId": 449652,
   "score": 246.7019607843146,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://streetgoat.co.uk/about/",
   "yt": "ybV-UvUrBAs",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

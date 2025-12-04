@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754560665,
   "date": null,
-  "description": "Universo Vigil is a rapidly growing company based in Mendoza, known for its diverse offerings in wine, beer, and gastronomy. Founded by renowned oenologist Alejandro Vigil, the initiative emphasizes sustainability, community relations, and innovation. With over 25 production units, including the Michelin-starred Casa Vigil restaurant, the company focuses on high-quality, locally sourced products while fostering partnerships with local producers and promoting environmental responsibility. Their commitment to social impact and education further enhances their community engagement.",
+  "description": {
+    "en": "Universo Vigil is a fast-growing Mendoza-based company known for its diverse wine, beer and food offerings. Founded by renowned winemaker Alejandro Vigil, the initiative emphasizes sustainability, community relations and innovation. With more than 25 production units, including the Michelin-starred Casa Vigil restaurant, the company focuses on high-quality local products, while fostering partnerships with local producers and promoting environmental responsibility. Its commitment to social impact and education further reinforces its commitment to the community.",
+    "fr": "Universo Vigil est une entreprise de Mendoza en pleine expansion, connue pour la diversité de ses vins, de ses bières et de ses produits alimentaires. Fondée par le célèbre vigneron Alejandro Vigil, l'initiative met l'accent sur la durabilité, les relations avec la communauté et l'innovation. Avec plus de 25 unités de production, dont le restaurant Casa Vigil, étoilé au guide Michelin, l'entreprise se concentre sur les produits locaux de haute qualité, tout en encourageant les partenariats avec les producteurs locaux et en promouvant la responsabilité environnementale. Son engagement en faveur de l'impact social et de l'éducation renforce encore son engagement envers la communauté.",
+    "es": "Universo Vigil es una empresa de rápido crecimiento con sede en Mendoza, conocida por su variada oferta de vino, cerveza y gastronomía. Fundada por el renombrado enólogo Alejandro Vigil, la iniciativa hace hincapié en la sostenibilidad, las relaciones con la comunidad y la innovación. Con más de 25 unidades de producción, incluido el restaurante Casa Vigil, galardonado con una estrella Michelin, la empresa se centra en productos locales de alta calidad, a la vez que fomenta las asociaciones con productores locales y promueve la responsabilidad medioambiental. Su compromiso con el impacto social y la educación refuerza aún más su compromiso con la comunidad.",
+    "de": "Universo Vigil ist ein schnell wachsendes Unternehmen mit Sitz in Mendoza, das für seine vielfältigen Angebote in den Bereichen Wein, Bier und Gastronomie bekannt ist. Die von dem renommierten Önologen Alejandro Vigil gegründete Initiative legt Wert auf Nachhaltigkeit, Gemeinschaftsbeziehungen und Innovation. Mit über 25 Produktionsstätten, darunter das Michelin-prämierte Restaurant Casa Vigil, konzentriert sich das Unternehmen auf qualitativ hochwertige, lokal erzeugte Produkte, während es Partnerschaften mit lokalen Produzenten fördert und die Umweltverantwortung unterstützt. Ihr Engagement für soziale Auswirkungen und Bildung fördert ihr Engagement in der Gemeinschaft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Universo Vigil",
+  "name": {
+    "it": "Universo Vigil",
+    "en": "Vigil Universe",
+    "fr": "Univers Vigile",
+    "es": "Universo Vigil",
+    "de": "Vigil-Universum"
+  },
   "pubId": 460452,
   "score": -53.27191732628654,
   "state": "ongoing-project",
@@ -40,10 +51,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1754562302,
   "feedback": [
     {
@@ -51,11 +58,8 @@
       "at": 1754562302
     }
   ],
-  "lastEvent": {
-    "at": 1754562302,
-    "by": "contact"
-  },
   "updatedAt": [
     1754562302
-  ]
+  ],
+  "originalLang": "fr"
 }

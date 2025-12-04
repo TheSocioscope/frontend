@@ -14,7 +14,12 @@
   "date": [
     "2022-07-21"
   ],
-  "description": "CA-SYS est une plateforme de recherche et d’expérimentation portée par INRAE pour expérimenter l’agroécologie à différentes échelles. Projet collaboratif de l’UMR agroécologie et de l’U2E INRAE Domaine d’Époisses, CA-SYS propose de tester sur 120 ha une diversité de systèmes agro-écologiques en semis direct ou avec travail du sol possible, tous sans pesticides, afin d’éprouver la pertinence de la réduction d’usage des intrants de synthèse au profit d’une valorisation des interactions biotiques au sein d’un environnement parcellaire riche en infrastructures paysagères (bandes enherbées, bandes fleuries, quelques haies).\n\nLes objectifs de CA-SYS sont pluriels :\n\n    Conception et évaluation de systèmes agro-écologiques\n    Étude de la transition vers ces systèmes\n    Sélection de variétés adaptées\n    Compréhension des processus biologiques inhérents à une conduite agro-écologique\n    Développement et renouvellement des méthodes expérimentales visant la production de connaissances en systèmes agro-écologiques",
+  "description": {
+    "fr": "CA-SYS est une plateforme de recherche et d’expérimentation portée par INRAE pour expérimenter l’agroécologie à différentes échelles. Projet collaboratif de l’UMR agroécologie et de l’U2E INRAE Domaine d’Époisses, CA-SYS propose de tester sur 120 ha une diversité de systèmes agro-écologiques en semis direct ou avec travail du sol possible, tous sans pesticides, afin d’éprouver la pertinence de la réduction d’usage des intrants de synthèse au profit d’une valorisation des interactions biotiques au sein d’un environnement parcellaire riche en infrastructures paysagères (bandes enherbées, bandes fleuries, quelques haies).\n\nLes objectifs de CA-SYS sont pluriels :\n\n    Conception et évaluation de systèmes agro-écologiques\n    Étude de la transition vers ces systèmes\n    Sélection de variétés adaptées\n    Compréhension des processus biologiques inhérents à une conduite agro-écologique\n    Développement et renouvellement des méthodes expérimentales visant la production de connaissances en systèmes agro-écologiques",
+    "en": "CA-SYS is a research and experimentation platform supported by INRAE to test agro-ecology at different scales. A collaborative project between the UMR agroécologie and the U2E INRAE Domaine d'Époisses, CA-SYS will test a variety of agro-ecological systems on 120 ha of land, using direct seeding or tillage, all without pesticides, in order to test the relevance of reducing the use of synthetic inputs in favor of enhancing biotic interactions within a plot environment rich in landscape infrastructures (grass strips, flower strips, a few hedges).\n\nCA-SYS has several objectives:\n\n    Design and evaluation of agro-ecological systems\n    Study the transition to these systems\n    Selection of adapted varieties\n    Understanding the biological processes inherent in agro-ecological management\n    Development and renewal of experimental methods for knowledge production in agro-ecological systems",
+    "es": "CA-SYS es una plataforma de investigación y experimentación gestionada por el INRAE para probar la agroecología a diferentes escalas. CA-SYS, un proyecto de colaboración entre la UMR Agroecología y la U2E INRAE Domaine d'Époisses, propone probar diversos sistemas agroecológicos en 120 ha, mediante siembra directa o con posible laboreo, todo ello sin pesticidas, con el fin de comprobar la pertinencia de reducir el uso de insumos sintéticos en favor de aprovechar al máximo las interacciones bióticas dentro de un entorno de parcela rico en infraestructuras paisajísticas (franjas de césped, franjas de flores, algunos setos).\n\nCA-SYS tiene varios objetivos:\n\n    Diseñar y evaluar sistemas agroecológicos\n    Estudio de la transición a estos sistemas\n    Selección de variedades adaptadas\n    Comprensión de los procesos biológicos inherentes a la gestión agroecológica\n    Desarrollo y renovación de métodos experimentales destinados a producir conocimientos sobre los sistemas agroecológicos",
+    "de": "CA-SYS ist eine von INRAE getragene Forschungs- und Versuchsplattform zur Erprobung der Agrarökologie auf verschiedenen Maßstabsebenen. CA-SYS ist ein Gemeinschaftsprojekt der UMR Agrarökologie und der U2E INRAE Domaine d'Époisses und bietet die Möglichkeit, auf 120 ha eine Vielzahl von agrarökologischen Systemen mit Direktsaat oder möglicher Bodenbearbeitung, alle ohne Pestizide, zu testen, um die Relevanz der Reduzierung des Einsatzes synthetischer Betriebsmittel zugunsten einer Aufwertung der biotischen Interaktionen innerhalb einer an landschaftlichen Infrastrukturen reichen Parzellenumgebung (Grünstreifen, Blühstreifen, einige Hecken) zu prüfen.\n\nDie Ziele von CA-SYS sind vielfältig:\n\n    Entwurf und Bewertung von agrarökologischen Systemen.\n    Untersuchung des Übergangs zu diesen Systemen\n    Auswahl von angepassten Sorten\n    Verständnis der biologischen Prozesse, die einer agrarökologischen Bewirtschaftung inhärent sind.\n    Entwicklung und Erneuerung experimenteller Methoden zur Gewinnung von Wissen über agrarökologische Systeme"
+  },
   "field": [
     "ecology-environmental-sciences",
     "biology",
@@ -22,7 +27,12 @@
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Plateforme CA-SYS",
+  "name": {
+    "fr": "Plateforme CA-SYS",
+    "en": "CA-SYS platform",
+    "es": "Plataforma CA-SYS",
+    "de": "CA-SYS-Plattform"
+  },
   "pubId": 418952,
   "score": 520.9842105263108,
   "state": "ongoing-project",
@@ -47,28 +57,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495334,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495334,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

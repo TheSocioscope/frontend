@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739452347,
   "date": null,
-  "description": "Nutreets is an innovative aquaculture initiative, focused on sustainable fish farming and the ecological transition of agricultural practices. It aims to address the disconnect between modern farming practices and the economic realities of the agricultural sector. The initiative emphasizes the revival of ancestral farming techniques, updated with 21st-century technology, to create a high-performance, sustainable model that minimizes resource use and environmental impact.\n\nNutreets aims to become the largest agricultural cooperative in the Ile-de-France region, providing quality, resource-efficient products that tell a story and enhance the attractiveness of farming as a profession. The long-term vision includes expanding their network of farms to meet the growing demand for local, sustainable food in urban areas.",
+  "description": {
+    "en": "Nutreets is an innovative aquaculture initiative focused on sustainable fish farming and the ecological transition of farming practices. It aims to address the disconnect between modern farming practices and the economic realities of the agricultural sector. The initiative emphasizes the revival of ancestral farming techniques, updated with 21st century technology, to create a sustainable, high-yield model that minimizes resource use and environmental impact. Nutreets aims to become the largest agricultural cooperative in the Ile-de-France region, offering quality, resource-efficient products that tell a story and increase the attractiveness of farming as a profession. The long-term vision includes expanding its network of farms to meet the growing demand for local and sustainable food in urban areas.",
+    "fr": "Nutreets est une initiative aquacole innovante, axée sur la pisciculture durable et la transition écologique des pratiques agricoles. Elle vise à combler le fossé entre les pratiques agricoles modernes et les réalités économiques du secteur agricole. L'initiative met l'accent sur la renaissance de techniques agricoles ancestrales, mises à jour avec la technologie du 21e siècle, afin de créer un modèle durable à haut rendement qui minimise l'utilisation des ressources et l'impact sur l'environnement. Nutreets vise à devenir la plus grande coopérative agricole de la région Île-de-France, en offrant des produits de qualité, économes en ressources, qui racontent une histoire et augmentent l'attrait de la profession d'agriculteur. La vision à long terme comprend l'expansion de son réseau de fermes pour répondre à la demande croissante d'aliments locaux et durables dans les zones urbaines.",
+    "es": "Nutreets es una iniciativa acuícola innovadora, centrada en la piscicultura sostenible y la transición ecológica de las prácticas agrícolas. Su objetivo es abordar la desconexión entre las prácticas de cultivo modernas y las realidades económicas del sector agrícola. La iniciativa hace hincapié en la recuperación de técnicas de cultivo ancestrales, actualizadas con la tecnología del siglo XXI, para crear un modelo sostenible de alto rendimiento que minimice el uso de recursos y el impacto ambiental.\n\nNutreets aspira a convertirse en la mayor cooperativa agrícola de la región de Île-de-France, ofreciendo productos de calidad y eficientes en el uso de los recursos, que cuenten una historia y aumenten el atractivo de la agricultura como profesión. La visión a largo plazo incluye ampliar su red de granjas para satisfacer la creciente demanda de alimentos locales y sostenibles en las zonas urbanas.",
+    "de": "Nutreets ist eine innovative Aquakulturinitiative, die sich auf die nachhaltige Fischzucht und den ökologischen Übergang der landwirtschaftlichen Praktiken konzentriert. Sie zielt darauf ab, die Diskrepanz zwischen modernen landwirtschaftlichen Praktiken und den wirtschaftlichen Realitäten des Agrarsektors zu überwinden. Die Initiative betont die Wiederbelebung althergebrachter landwirtschaftlicher Techniken, die mit der Technologie des 21. Jahrhunderts aktualisiert werden, um ein leistungsstarkes, nachhaltiges Modell zu schaffen, das den Ressourcenverbrauch und die Umweltauswirkungen minimiert.\n\nNutreets strebt an, die größte landwirtschaftliche Genossenschaft in der Region Ile-de-France zu werden, die qualitativ hochwertige, ressourceneffiziente Produkte liefert, die eine Geschichte erzählen und die Attraktivität der Landwirtschaft als Beruf steigern. Die langfristige Vision umfasst die Erweiterung des Netzwerks von Bauernhöfen, um die wachsende Nachfrage nach lokalen, nachhaltigen Lebensmitteln in städtischen Gebieten zu befriedigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nutreets",
+  "name": {
+    "en": "Nutreets",
+    "fr": "Nutreets",
+    "es": "Nutreets",
+    "de": "Nutreets"
+  },
   "pubId": 447452,
   "score": 132.10196078431326,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://nutreets.fr",
   "yt": "f7glCEJ0Tn0",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

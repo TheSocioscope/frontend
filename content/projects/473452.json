@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754569103,
   "date": null,
-  "description": "Charis Farms, founded in 2016, is an agricultural demonstration center located in Naivasha, Nakuru County, Kenya. Spanning 1.5 hectares, the farm serves as a hub for exhibitions and training aimed at empowering local farmers and promoting agritourism. Initially starting from a small balcony operation focused on dog breeding, Charis Farms has evolved to include a diverse range of agricultural activities, including the rearing of ornamental and domesticated birds, fish farming, and crop production.",
+  "description": {
+    "en": "Charis Farms, founded in 2016, is an agricultural demonstration center located in Naivasha, Nakuru County, Kenya. Spread over 1.5 hectares, the farm serves as an exhibition and training center to empower local farmers and promote agri-tourism. Originally a small balcony dedicated to dog breeding, Charis Farms has evolved to include a variety of agricultural activities, such as ornamental and domestic poultry breeding, fish farming and crop production.",
+    "fr": "Charis Farms, fondée en 2016, est une ferme de démonstration agricole située à Naivasha, dans le comté de Nakuru, au Kenya. S'étendant sur 1,5 hectare, la ferme sert de centre d'exposition et de formation pour autonomiser les agriculteurs locaux et promouvoir l'agrotourisme. À l'origine un petit balcon dédié à l'élevage de chiens, Charis Farms a évolué pour inclure une variété d'activités agricoles telles que l'élevage de volailles ornementales et domestiques, la pisciculture et la production de cultures.",
+    "es": "Charis Farms, fundada en 2016, es un centro de demostración agrícola situado en Naivasha, en el condado de Nakuru (Kenia). Con una extensión de 1,5 hectáreas, la granja sirve de centro de exhibiciones y formación para empoderar a los agricultores locales y promover el agroturismo. Charis Farms, que al principio era un pequeño balcón dedicado a la cría de perros, ha ido evolucionando hasta incluir diversas actividades agrícolas, como la cría de aves ornamentales y domésticas, la piscicultura y la producción de cultivos.",
+    "de": "Charis Farms wurde 2016 gegründet und ist ein landwirtschaftliches Demonstrationszentrum in Naivasha, Nakuru County, Kenia. Der 1,5 Hektar große Hof dient als Drehscheibe für Ausstellungen und Schulungen, die auf die Stärkung der lokalen Bauern und die Förderung des Agrotourismus abzielen. Charis Farms hat sich von einem kleinen Balkonbetrieb, der sich auf die Hundezucht konzentrierte, zu einer Vielzahl von landwirtschaftlichen Aktivitäten entwickelt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Charis Farms",
+  "name": {
+    "en": "Charis Farms",
+    "fr": "Charis Farms",
+    "es": "Granjas Charis",
+    "de": "Charis Farms"
+  },
   "pubId": 473452,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

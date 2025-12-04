@@ -13,14 +13,24 @@
   ],
   "createdAt": 1754913307,
   "date": null,
-  "description": "The initiative at Alstom focuses on enhancing biodiversity and employee well-being through various projects. Originating from a group of employees in Lyon, it includes creating green spaces, establishing beehives, and providing organic fruit baskets. These efforts align with the company's CSR objectives, emphasizing quality of life at work. The biodiversity group operates voluntarily, supported by management and partnerships with local organizations, fostering a culture of sustainability and community engagement within the workplace.",
+  "description": {
+    "en": "The initiative at Alstom focuses on enhancing biodiversity and employee well-being through various projects. Originating from a group of employees in Lyon, it includes creating green spaces, establishing beehives, and providing organic fruit baskets. These efforts align with the company's CSR objectives, emphasizing quality of life at work. The biodiversity group operates voluntarily, supported by management and partnerships with local organizations, fostering a culture of sustainability and community engagement within the workplace.",
+    "fr": "L'initiative d'Alstom se concentre sur l'amélioration de la biodiversité et du bien-être des employés par le biais de divers projets. Lancée par un groupe d'employés à Lyon, elle comprend la création d'espaces verts, l'installation de ruches et la fourniture de paniers de fruits biologiques. Ces efforts s'inscrivent dans le cadre des objectifs de RSE de l'entreprise, qui mettent l'accent sur la qualité de vie au travail. Le groupe de biodiversité fonctionne sur une base volontaire, avec le soutien de la direction et de partenariats avec des organisations locales, ce qui favorise une culture de durabilité et d'engagement communautaire sur le lieu de travail.",
+    "es": "La iniciativa de Alstom se centra en mejorar la biodiversidad y el bienestar de los empleados a través de diversos proyectos. Surgida de un grupo de empleados de Lyon, incluye la creación de espacios verdes, el establecimiento de colmenas y el suministro de cestas de fruta ecológica. Estos esfuerzos se alinean con los objetivos de RSC de la empresa, haciendo hincapié en la calidad de vida en el trabajo. El grupo de biodiversidad actúa de forma voluntaria, con el apoyo de la dirección y la colaboración con organizaciones locales, fomentando una cultura de sostenibilidad y compromiso con la comunidad en el lugar de trabajo.",
+    "de": "Die Initiative bei Alstom konzentriert sich auf die Förderung der biologischen Vielfalt und des Wohlbefindens der Mitarbeiter durch verschiedene Projekte. Sie wurde von einer Gruppe von Mitarbeitern in Lyon ins Leben gerufen und umfasst die Schaffung von Grünflächen, die Aufstellung von Bienenstöcken und die Bereitstellung von Bio-Obstkörben. Diese Bemühungen stehen im Einklang mit den CSR-Zielen des Unternehmens, bei denen die Lebensqualität am Arbeitsplatz im Vordergrund steht. Die Biodiversitätsgruppe arbeitet auf freiwilliger Basis und wird von der Unternehmensleitung und Partnerschaften mit lokalen Organisationen unterstützt, um eine Kultur der Nachhaltigkeit und des gesellschaftlichen Engagements am Arbeitsplatz zu fördern."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Groupe Biodiversité Alstom",
+  "name": {
+    "fr": "Groupe Biodiversité Alstom",
+    "en": "Alstom Biodiversity Group",
+    "es": "Grupo de Biodiversidad de Alstom",
+    "de": "Alstom Biodiversitätsgruppe"
+  },
   "pubId": 484552,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

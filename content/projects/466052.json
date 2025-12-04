@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754477293,
   "date": null,
-  "description": "Black Sheep Regenerative Resource Management is an initiative focused on improving the agricultural value chain by acting as an aggregator for local farmers. They aim to provide fair compensation and support for producers, particularly in growing ginger and turmeric. By connecting farmers to international markets and emphasizing responsible production, Black Sheep seeks to create a sustainable business model that benefits both the environment and local communities, while also addressing the challenges posed by cheaper global competitors.",
+  "description": {
+    "en": "Black Sheep Regenerative Resource Management is an initiative focused on improving the agricultural value chain by acting as an aggregator for local farmers. It aims to provide fair compensation and support to farmers, particularly in the cultivation of ginger and turmeric. By connecting farmers to international markets and emphasizing responsible production, Black Sheep aims to create a sustainable business model that benefits both the environment and local communities, while addressing the challenges posed by cheaper global competitors.",
+    "fr": "Black Sheep Regenerative Resource Management est une initiative visant à améliorer la chaîne de valeur agricole en jouant le rôle d'agrégateur pour les agriculteurs locaux. Elle vise à fournir une compensation équitable et un soutien aux producteurs, en particulier pour la culture du gingembre et du curcuma. En connectant les agriculteurs aux marchés internationaux et en mettant l'accent sur une production responsable, Black Sheep vise à créer un modèle commercial durable qui profite à la fois à l'environnement et aux communautés locales, tout en relevant les défis posés par des concurrents mondiaux moins chers.",
+    "es": "Black Sheep Regenerative Resource Management es una iniciativa centrada en mejorar la cadena de valor agrícola actuando como agregador para los agricultores locales. Su objetivo es ofrecer una compensación justa y apoyo a los productores, sobre todo en el cultivo de jengibre y cúrcuma. Al conectar a los agricultores con los mercados internacionales y hacer hincapié en la producción responsable, Black Sheep pretende crear un modelo de negocio sostenible que beneficie tanto al medio ambiente como a las comunidades locales, al tiempo que hace frente a los retos que plantean unos competidores mundiales más baratos.",
+    "de": "Black Sheep Regenerative Resource Management ist eine Initiative, die sich auf die Verbesserung der landwirtschaftlichen Wertschöpfungskette konzentriert, indem sie als Aggregator für lokale Landwirte fungiert. Sie wollen den Erzeugern einen fairen Ausgleich und Unterstützung bieten, vor allem beim Anbau von Ingwer und Kurkuma. Durch die Anbindung von Bauern an internationale Märkte und die Betonung einer verantwortungsvollen Produktion strebt Black Sheep ein nachhaltiges Geschäftsmodell an, das sowohl der Umwelt als auch den lokalen Gemeinden zugutekommt und gleichzeitig die Herausforderungen billigerer globaler Mitbewerber angeht."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Black Sheep",
+  "name": {
+    "en": "Black Sheep",
+    "fr": "Black Sheep",
+    "es": "Oveja negra",
+    "de": "Black Sheep"
+  },
   "pubId": 466052,
   "score": 168.19999999999996,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    6,
-    3
-  ]
+  "originalLang": "fr"
 }

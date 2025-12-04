@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754997219,
   "date": null,
-  "description": "Awaecoco, based in Cartagena, specializes in luxury bottled coconut water, emphasizing 100% natural ingredients and unique flavors. Founded by an industrial designer and chef, the initiative reflects a commitment to health and sustainability. The product is crafted through a meticulous process, ensuring freshness and quality. With a focus on local sourcing and eco-friendly packaging, Awaecoco aims to provide a premium experience while promoting natural hydration and supporting local communities.",
+  "description": {
+    "en": "Awaecoco, based in Cartagena, specializes in luxury bottled coconut water, emphasizing 100% natural ingredients and unique flavors. Founded by an industrial designer and chef, the initiative reflects a commitment to health and sustainability. The product is crafted through a meticulous process, ensuring freshness and quality. With a focus on local sourcing and eco-friendly packaging, Awaecoco aims to provide a premium experience while promoting natural hydration and supporting local communities.",
+    "fr": "Awaecoco, basée à Carthagène, est spécialisée dans l'eau de coco en bouteille de luxe, en mettant l'accent sur des ingrédients 100 % naturels et des saveurs uniques. Fondée par un designer industriel et un chef cuisinier, l'initiative reflète un engagement en faveur de la santé et de la durabilité. Le produit est fabriqué selon un processus méticuleux qui garantit sa fraîcheur et sa qualité. En mettant l'accent sur l'approvisionnement local et l'emballage écologique, Awaecoco vise à offrir une expérience haut de gamme tout en promouvant l'hydratation naturelle et en soutenant les communautés locales.",
+    "es": "Awaecoco, con sede en Cartagena, se especializa en agua de coco embotellada de lujo, haciendo hincapié en ingredientes 100% naturales y sabores únicos. Fundada por un diseñador industrial y chef, la iniciativa refleja un compromiso con la salud y la sostenibilidad. El producto se elabora mediante un meticuloso proceso que garantiza su frescura y calidad. Awaecoco se centra en el abastecimiento local y el envasado respetuoso con el medio ambiente, y su objetivo es ofrecer una experiencia de primera calidad al tiempo que promueve la hidratación natural y apoya a las comunidades locales.",
+    "de": "Awaecoco mit Sitz in Cartagena ist auf luxuriöses Kokosnusswasser in Flaschen spezialisiert und legt Wert auf 100 % natürliche Zutaten und einzigartige Geschmacksrichtungen. Die von einem Industriedesigner und Küchenchef gegründete Initiative spiegelt ein Engagement für Gesundheit und Nachhaltigkeit wider. Das Produkt wird in einem sorgfältigen Verfahren hergestellt, um Frische und Qualität zu gewährleisten. Mit dem Schwerpunkt auf lokaler Beschaffung und umweltfreundlicher Verpackung möchte Awaecoco ein erstklassiges Erlebnis bieten und gleichzeitig die natürliche Flüssigkeitszufuhr fördern und lokale Gemeinschaften unterstützen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Awaecoco",
+  "name": {
+    "en": "Awaecoco",
+    "fr": "Awaecoco",
+    "es": "Awaecoco",
+    "de": "Awaecoco"
+  },
   "pubId": 482452,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

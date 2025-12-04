@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754404789,
   "date": null,
-  "description": "Rikolto, a Belgian NGO, focuses on transforming sustainable food systems through collective action, emphasizing collaboration with various stakeholders, including local governments, academia, and producer organizations; to promote healthy, nutritious, and affordable diets for all, particularly focusing on women, youth, and migrants. By building alliances with local governments, academia, and community organizations, Rikolto seeks to transform food systems through initiatives like youth entrepreneurship and circular food economies, ensuring sustainable access to food while addressing local challenges.",
+  "description": {
+    "en": "Rikolto, a Belgian NGO, focuses on transforming sustainable food systems through collective action, emphasizing collaboration with diverse stakeholders, including local governments, academia and producer organizations, to promote healthy, nutritious and affordable diets for all, with a special focus on women, youth and migrants. By building partnerships with local governments, academia and community organizations, Rikolto aims to transform food systems through initiatives such as youth entrepreneurship and circular food economies, ensuring sustainable access to food while addressing local challenges.",
+    "fr": "Rikolto, une ONG belge, se concentre sur la transformation des systèmes alimentaires durables par l'action collective, en mettant l'accent sur la collaboration avec diverses parties prenantes, y compris les gouvernements locaux, les universités et les organisations de producteurs, afin de promouvoir des régimes alimentaires sains, nutritifs et abordables pour tous, avec une attention particulière pour les femmes, les jeunes et les migrants. En établissant des partenariats avec les gouvernements locaux, les universités et les organisations communautaires, Rikolto vise à transformer les systèmes alimentaires par le biais d'initiatives telles que l'entrepreneuriat des jeunes et les économies alimentaires circulaires, en garantissant un accès durable à la nourriture tout en relevant les défis locaux.",
+    "es": "Rikolto, una ONG belga, se centra en la transformación de los sistemas alimentarios sostenibles a través de la acción colectiva, haciendo hincapié en la colaboración con diversas partes interesadas, incluidos los gobiernos locales, el mundo académico y las organizaciones de productores; para promover dietas saludables, nutritivas y asequibles para todos, centrándose especialmente en las mujeres, los jóvenes y los migrantes. Mediante la creación de alianzas con los gobiernos locales, el mundo académico y las organizaciones comunitarias, Rikolto pretende transformar los sistemas alimentarios a través de iniciativas como el emprendimiento juvenil y las economías alimentarias circulares, garantizando el acceso sostenible a los alimentos y abordando al mismo tiempo los retos locales.",
+    "de": "Rikolto, eine belgische NGO, konzentriert sich auf die Umwandlung nachhaltiger Nahrungsmittelsysteme durch gemeinsames Handeln, wobei die Zusammenarbeit mit verschiedenen Interessengruppen, einschließlich lokaler Behörden, Akademien und Produktionsorganisationen, betont wird, um gesunde, nahrhafte, erschwingliche und nahrhafte Diäten für alle zu fördern, insbesondere mit Schwerpunkt auf Frauen, Jugendlichen und Migranten. Durch die Bildung von Allianzen mit lokalen Regierungen, Akademikern und Gemeindeorganisationen will Rikolto die Lebensmittelsysteme durch Initiativen wie Jugendunternehmertum und zirkuläre Lebensmittelwirtschaft umgestalten und so einen nachhaltigen Zugang zu Lebensmitteln gewährleisten, während gleichzeitig lokale Herausforderungen angegangen werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Rikolto",
+  "name": {
+    "en": "Rikolto",
+    "fr": "Rikolto",
+    "es": "Rikolto",
+    "de": "Rikolto"
+  },
   "pubId": 450552,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

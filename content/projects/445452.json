@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718369164,
   "date": null,
-  "description": "**Les Marmites Volantes** est une entreprise de restauration engagée, fondée en 2012 et qui a évolué pour devenir un acteur majeur dans le domaine de la restauration collective. Le projet initial était de créer un restaurant différent, avec une activité traiteur de livraison de repas en marmites. Ils ont ouvert leur premier restaurant en avril 2012 dans le 19ème arrondissement de Paris. Leur engagement se base sur quatre axes : des approvisionnements responsables avec des produits locaux et bio, le zéro déchet avec des contenants consignés, la mobilité douce avec des livraisons à vélo, et l'engagement social avec un recrutement inclusif et une démarche apprenante. Ils sont une entreprise de l'économie sociale et solidaire, labellisée ESUS par le ministère du Travail, démontrant qu'on peut être à la fois engagé et rentable. Depuis six ans, ils ont développé une activité de restauration scolaire avec une cuisine centrale à Saint-Denis, produisant chaque jour 1 600 repas et goûters livrés dans Paris et en région parisienne.",
+  "description": {
+    "fr": "**Les Marmites Volantes** est une entreprise de restauration engagée, fondée en 2012 et qui a évolué pour devenir un acteur majeur dans le domaine de la restauration collective. Le projet initial était de créer un restaurant différent, avec une activité traiteur de livraison de repas en marmites. Ils ont ouvert leur premier restaurant en avril 2012 dans le 19ème arrondissement de Paris. Leur engagement se base sur quatre axes : des approvisionnements responsables avec des produits locaux et bio, le zéro déchet avec des contenants consignés, la mobilité douce avec des livraisons à vélo, et l'engagement social avec un recrutement inclusif et une démarche apprenante. Ils sont une entreprise de l'économie sociale et solidaire, labellisée ESUS par le ministère du Travail, démontrant qu'on peut être à la fois engagé et rentable. Depuis six ans, ils ont développé une activité de restauration scolaire avec une cuisine centrale à Saint-Denis, produisant chaque jour 1 600 repas et goûters livrés dans Paris et en région parisienne.",
+    "en": "**Les Marmites Volantes** is a committed catering company founded in 2012 that has evolved to become a major player in the contract catering sector. The initial project was to create a restaurant with a difference, with a catering business delivering meals in marmites. They opened their first restaurant in April 2012 in the 19th arrondissement of Paris. Their commitment is based on four axes: responsible sourcing with local and organic products, zero waste with returnable containers, soft mobility with bike deliveries, and social commitment with inclusive recruitment and a learning approach. They are a social economy company, certified ESUS by the French Ministry of Labor, demonstrating that it is possible to be both committed and profitable. Over the past six years, they have developed a school catering business with a central kitchen in Saint-Denis, producing 1,600 meals and snacks a day for delivery in Paris and the Paris region.",
+    "es": "**Les Marmites Volantes** es una empresa de restauración comprometida fundada en 2012 que ha evolucionado hasta convertirse en un actor importante en el sector de la restauración colectiva. El proyecto inicial era crear un restaurante diferente, con una empresa de catering que sirviera comidas en ollas. Abrieron su primer restaurante en abril de 2012 en el distrito 19 de París. Su compromiso se basa en cuatro pilares: abastecimiento responsable con productos locales y ecológicos, cero residuos con envases retornables, movilidad suave con entregas en bicicleta y compromiso social con una contratación inclusiva y un enfoque de aprendizaje. Son una empresa de economía social, galardonada con la etiqueta ESUS por el Ministerio de Empleo francés, lo que demuestra que es posible ser a la vez comprometida y rentable. En los últimos seis años, han desarrollado un negocio de catering escolar con una cocina central en Saint-Denis, que produce 1.600 comidas y tentempiés al día para su reparto en París y la región parisina.",
+    "de": "**Les Marmites Volantes** ist ein engagiertes Catering-Unternehmen, das 2012 gegründet wurde und sich zu einem wichtigen Akteur im Bereich der Gemeinschaftsverpflegung entwickelt hat. Das ursprüngliche Projekt bestand darin, ein anderes Restaurant mit einem Catering-Geschäft zu gründen, bei dem Mahlzeiten in Marmites geliefert werden. Sie eröffneten ihr erstes Restaurant im April 2012 im 19. Arrondissement von Paris. Ihr Engagement basiert auf vier Schwerpunkten: verantwortungsvolle Beschaffung mit lokalen und biologischen Produkten, Null-Abfall mit Pfandbehältern, sanfte Mobilität mit Fahrradlieferungen und soziales Engagement mit einer integrativen Einstellung und einem lernenden Ansatz. Sie sind ein Unternehmen der Sozial- und Solidarwirtschaft, das vom Arbeitsministerium mit dem ESUS-Label ausgezeichnet wurde, und zeigen damit, dass man gleichzeitig engagiert und profitabel sein kann. Seit sechs Jahren betreiben sie Schulverpflegung mit einer Zentralküche in Saint-Denis und produzieren täglich 1.600 Mahlzeiten und Snacks, die in Paris und im Pariser Umland ausgeliefert werden."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Les Marmittes Volantes",
+  "name": {
+    "de": "Les Marmittes Volantes",
+    "en": "Les Marmittes Volantes",
+    "fr": "Les Marmittes Volantes",
+    "es": "Les Marmittes Volantes"
+  },
   "pubId": 445452,
   "score": 133.60000000000005,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "choW8wkmw-A",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530428,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1739530428
     }
   ],
-  "lastEvent": {
-    "at": 1739530428,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530428
-  ]
+  ],
+  "originalLang": "fr"
 }

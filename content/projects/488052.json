@@ -13,14 +13,25 @@
   ],
   "createdAt": 1754987142,
   "date": null,
-  "description": "Selva Nevada is a company dedicated to conserving Colombian biodiversity while fostering prosperity in local communities. By producing food products from native fruits, harvested and processed by small producers, Selva Nevada promotes sustainable agricultural practices that support forest conservation. With a focus on creating healthy products for consumers, the initiative aims to balance health for individuals, society, and the environment, ultimately enhancing the livelihoods of rural communities across Colombia.",
+  "description": {
+    "en": "Selva Nevada is a company dedicated to conserving Colombian biodiversity while fostering prosperity in local communities. By producing food products from native fruits, harvested and processed by small producers, Selva Nevada promotes sustainable agricultural practices that support forest conservation. With a focus on creating healthy products for consumers, the initiative aims to balance health for individuals, society, and the environment, ultimately enhancing the livelihoods of rural communities across Colombia.",
+    "fr": "Selva Nevada est une entreprise qui se consacre à la conservation de la biodiversité colombienne tout en favorisant la prospérité des communautés locales. En fabriquant des produits alimentaires à partir de fruits indigènes, récoltés et transformés par de petits producteurs, Selva Nevada promeut des pratiques agricoles durables qui soutiennent la conservation des forêts. En mettant l'accent sur la création de produits sains pour les consommateurs, l'initiative vise à équilibrer la santé des individus, de la société et de l'environnement, et à améliorer en fin de compte les moyens de subsistance des communautés rurales dans toute la Colombie.",
+    "es": "Selva Nevada es una empresa dedicada a conservar la biodiversidad colombiana al tiempo que fomenta la prosperidad de las comunidades locales. Al elaborar productos alimenticios a partir de frutas autóctonas, recolectadas y procesadas por pequeños productores, Selva Nevada promueve prácticas agrícolas sostenibles que apoyan la conservación de los bosques. Centrada en la creación de productos saludables para los consumidores, la iniciativa pretende equilibrar la salud de las personas, la sociedad y el medio ambiente, mejorando en última instancia los medios de subsistencia de las comunidades rurales de toda Colombia.",
+    "de": "Selva Nevada ist ein Unternehmen, das sich für den Erhalt der kolumbianischen Artenvielfalt einsetzt und gleichzeitig den Wohlstand der lokalen Gemeinschaften fördert. Durch die Herstellung von Lebensmitteln aus einheimischen Früchten, die von Kleinproduzenten geerntet und verarbeitet werden, fördert Selva Nevada nachhaltige landwirtschaftliche Praktiken, die den Schutz der Wälder unterstützen. Mit dem Schwerpunkt auf der Herstellung gesunder Produkte für die Verbraucher zielt die Initiative darauf ab, ein Gleichgewicht zwischen der Gesundheit des Einzelnen, der Gesellschaft und der Umwelt herzustellen und letztlich die Lebensgrundlage der ländlichen Gemeinden in ganz Kolumbien zu verbessern."
+  },
   "field": [
     "nutrition",
     "ecology-environmental-sciences"
   ],
   "lang": "en",
   "location": "",
-  "name": "Selva Nevada",
+  "name": {
+    "nb": "Selva Nevada",
+    "en": "Selva Nevada",
+    "fr": "Selva Nevada",
+    "es": "Selva Nevada",
+    "de": "Selva Nevada"
+  },
   "pubId": 488052,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "nb"
 }

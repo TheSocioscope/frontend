@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754576541,
   "date": null,
-  "description": "Charlie's Winery Ltd. is an innovative wine company that specializes in producing organic hibiscus wine. Inspired by a father's winemaking experiments, the winery utilizes locally sourced hibiscus flowers from Lake Victoria. This initiative not only offers a unique beverage option but also supports local farmers and promotes health benefits associated with hibiscus. With a focus on sustainability and organic practices, Charlie's Winery aims to educate consumers about the advantages of their product.",
+  "description": {
+    "en": "Charlie's Winery Ltd. is an innovative winemaking company specializing in the production of organic hibiscus wine. Inspired by his father's winemaking experiments, the winery uses locally sourced hibiscus flowers from Lake Victoria. This initiative not only offers a unique beverage option, but also supports local farmers and promotes the health benefits associated with hibiscus. By focusing on sustainability and eco-friendly practices, Charlie's Winery aims to educate consumers about the benefits of their product.",
+    "fr": "Charlie's Winery Ltd. est une cave innovante spécialisée dans la production de vin d'hibiscus biologique. Inspirée par les expériences de son père en matière de vinification, la cave utilise des fleurs d'hibiscus provenant du lac Victoria. Cette initiative permet non seulement de proposer une boisson unique, mais aussi de soutenir les agriculteurs locaux et de promouvoir les bienfaits de l'hibiscus pour la santé. En mettant l'accent sur la durabilité et les pratiques respectueuses de l'environnement, Charlie's Winery vise à éduquer les consommateurs sur les avantages de leur produit.",
+    "es": "Charlie's Winery Ltd. es una empresa vinícola innovadora especializada en la producción de vino de hibisco ecológico. Inspirada en los experimentos vinícolas de su padre, la bodega utiliza flores de hibisco de origen local procedentes del lago Victoria. Esta iniciativa no sólo ofrece una opción de bebida única, sino que también apoya a los agricultores locales y promueve los beneficios para la salud asociados al hibisco. Centrándose en la sostenibilidad y las prácticas ecológicas, Charlie's Winery pretende educar a los consumidores sobre las ventajas de su producto.",
+    "de": "Charlie's Winery Ltd. ist ein innovatives Weinunternehmen, das sich auf die Herstellung von organischem Hibiskus-Wein spezialisiert hat. Inspiriert von den Weinbauexperimenten seines Vaters, verwendet die Weinkellerei lokal angebaute Hibiskusblüten aus dem Lake Victoria. Diese Initiative bietet nicht nur eine einzigartige Getränkeoption, sondern unterstützt auch lokale Bauern und fördert die mit Hibiskus verbundenen gesundheitlichen Vorteile. Mit einem Schwerpunkt auf Nachhaltigkeit und organischen Praktiken möchte Charlie's Winery die Verbraucher über die Vorteile ihres Produkts aufklären."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Charlie's Winery Ltd.",
+  "name": {
+    "en": "Charlie's Winery Ltd.",
+    "fr": "Charlie's Winery Ltd.",
+    "es": "Bodega Charlie Ltd.",
+    "de": "Charlie's Winery Ltd."
+  },
   "pubId": 475352,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

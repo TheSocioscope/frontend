@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754653716,
   "date": null,
-  "description": "The initiative focuses on developing a sustainable seaweed farming industry in Sri Lanka, aiming to uplift local communities, particularly women, by providing job opportunities and fair compensation. The project emphasizes innovation through research and development, creating value-added products like CMOS drinks and gummies. By collaborating with local farmers and universities, the initiative seeks to establish a vertically integrated supply chain, enhancing quality control and promoting environmental benefits, while addressing challenges in the agricultural sector.",
+  "description": {
+    "en": "The initiative focuses on developing a sustainable seaweed farming industry in Sri Lanka, aiming to uplift local communities, particularly women, by providing job opportunities and fair compensation. The project emphasizes innovation through research and development, creating value-added products like CMOS drinks and gummies. By collaborating with local farmers and universities, the initiative seeks to establish a vertically integrated supply chain, enhancing quality control and promoting environmental benefits, while addressing challenges in the agricultural sector.",
+    "fr": "L'initiative se concentre sur le développement d'une industrie durable de culture d'algues au Sri Lanka, visant à améliorer les communautés locales, en particulier les femmes, en leur offrant des opportunités d'emploi et une rémunération équitable. Le projet met l'accent sur l'innovation par la recherche et le développement, en créant des produits à valeur ajoutée tels que les boissons et les gommes CMOS. En collaborant avec les agriculteurs locaux et les universités, l'initiative vise à établir une chaîne d'approvisionnement verticalement intégrée, à améliorer le contrôle de la qualité et à promouvoir les avantages environnementaux, tout en relevant les défis du secteur agricole.",
+    "es": "La iniciativa se centra en el desarrollo de una industria sostenible de cultivo de algas marinas en Sri Lanka, con el objetivo de elevar a las comunidades locales, especialmente a las mujeres, ofreciéndoles oportunidades de empleo y una remuneración justa. El proyecto hace hincapié en la innovación a través de la investigación y el desarrollo, creando productos de valor añadido como bebidas y gominolas CMOS. Mediante la colaboración con agricultores y universidades locales, la iniciativa pretende establecer una cadena de suministro integrada verticalmente, mejorando el control de calidad y fomentando los beneficios medioambientales, al tiempo que se abordan los retos del sector agrícola.",
+    "de": "Die Initiative konzentriert sich auf die Entwicklung einer nachhaltigen Algenzucht in Sri Lanka und zielt darauf ab, die lokale Bevölkerung, insbesondere Frauen, durch die Schaffung von Arbeitsplätzen und eine faire Entlohnung zu fördern. Das Projekt legt den Schwerpunkt auf Innovation durch Forschung und Entwicklung und die Herstellung von Mehrwertprodukten wie CMOS-Getränken und Gummibärchen. Durch die Zusammenarbeit mit lokalen Landwirten und Universitäten will die Initiative eine vertikal integrierte Lieferkette aufbauen, die Qualitätskontrolle verbessern, den Umweltschutz fördern und gleichzeitig die Herausforderungen des Agrarsektors bewältigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Seashore Garden",
+  "name": {
+    "en": "Seashore Garden",
+    "fr": "Jardin de bord de mer",
+    "es": "Jardín de la costa",
+    "de": "Garten am Meer"
+  },
   "pubId": 479052,
   "score": 54.88789808917213,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    0,
-    0
-  ]
+  "originalLang": "en"
 }

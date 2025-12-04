@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754430523,
   "date": null,
-  "description": "Hegnstrup is an initiative focused on sustainable organic farming, founded by Allan, who returned to his childhood home to create a community-oriented farm. Inspired by his upbringing and environmental concerns, the project emphasizes self-sufficiency, ecological practices, and community engagement. By producing a variety of crops and raising animals, Hegnstrup aims to provide high-quality, pesticide-free food while fostering a connection between people and nature. The initiative also promotes education about biodiversity and sustainable practices.",
+  "description": {
+    "en": "Hegnstrup is an initiative focused on sustainable organic farming, founded by Allan, who returned to his childhood home to create a community-oriented farm. Inspired by his upbringing and environmental concerns, the project emphasizes self-sufficiency, ecological practices and community engagement. By producing a variety of crops and raising animals, Hegnstrup aims to provide high-quality, pesticide-free food while fostering a connection between people and nature. The initiative also promotes education on biodiversity and sustainable practices.",
+    "fr": "Hegnstrup est une initiative axée sur l'agriculture biologique durable, fondée par Allan, qui est retourné dans la maison de son enfance pour créer une ferme orientée vers la communauté. Inspiré par son éducation et ses préoccupations environnementales, le projet met l'accent sur l'autosuffisance, les pratiques écologiques et l'engagement communautaire. En cultivant une variété de produits et en élevant des animaux, Hegnstrup vise à fournir des aliments de haute qualité, exempts de pesticides, tout en favorisant le lien entre l'homme et la nature. L'initiative promeut également l'éducation à la biodiversité et aux pratiques durables.",
+    "es": "Hegnstrup es una iniciativa centrada en la agricultura ecológica sostenible, fundada por Allan, que regresó a la casa de su infancia para crear una granja orientada a la comunidad. Inspirado en su educación y sus preocupaciones medioambientales, el proyecto hace hincapié en la autosuficiencia, las prácticas ecológicas y el compromiso comunitario. Mediante la producción de diversos cultivos y la cría de animales, Hegnstrup pretende proporcionar alimentos de alta calidad y libres de pesticidas, al tiempo que fomenta la conexión entre las personas y la naturaleza. La iniciativa también promueve la educación sobre biodiversidad y prácticas sostenibles.",
+    "de": "Hegnstrup ist eine auf nachhaltigen ökologischen Landbau ausgerichtete Initiative, die von Allan gegründet wurde, der in sein Elternhaus zurückkehrte, um einen gemeindeorientierten Bauernhof zu gründen. Inspiriert durch seine Aufzucht und seine Umweltbedenken, betont das Projekt Selbstversorgung, ökologische Praktiken und kommunales Engagement. Durch die Produktion einer Vielzahl von Nutzpflanzen und die Aufzucht von Tieren will Hegnstrup hochwertige, pestizidfreie Lebensmittel bereitstellen und gleichzeitig eine Verbindung zwischen Mensch und Natur herstellen. Die Initiative fördert auch die Bildung über Biodiversität und nachhaltige Praktiken."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Hegnstrup",
+  "name": {
+    "en": "Hegnstrup",
+    "fr": "Hegnstrup",
+    "es": "Hegnstrup",
+    "de": "Hegnstrup"
+  },
   "pubId": 464752,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

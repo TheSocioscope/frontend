@@ -13,7 +13,12 @@
   ],
   "createdAt": 1755262791,
   "date": null,
-  "description": "Let's Food is an association dedicated to supporting local authorities in France and abroad in developing sustainable, resilient, and equitable food policies. The initiative focuses on three main areas: assisting local authorities, creating a resource center for innovative food initiatives, and providing training for students and local elected officials in sustainable agriculture and food issues. The initiative aims to create frameworks for action that facilitate the food transition by enabling local authorities to activate various levers, such as funding and partnerships, to implement effective public policies. Let's Food also emphasizes the importance of interdisciplinary collaboration, working with various ministries and sectors to address the complexities of food systems.",
+  "description": {
+    "en": "Let's Food is an association dedicated to supporting local authorities in France and abroad in developing sustainable, resilient, and equitable food policies. The initiative focuses on three main areas: assisting local authorities, creating a resource center for innovative food initiatives, and providing training for students and local elected officials in sustainable agriculture and food issues. The initiative aims to create frameworks for action that facilitate the food transition by enabling local authorities to activate various levers, such as funding and partnerships, to implement effective public policies. Let's Food also emphasizes the importance of interdisciplinary collaboration, working with various ministries and sectors to address the complexities of food systems.",
+    "fr": "Let's Food est une association dédiée à l'accompagnement des collectivités locales en France et à l'étranger dans le développement de politiques alimentaires durables, résilientes et équitables. L'initiative s'articule autour de trois axes principaux : l'accompagnement des collectivités locales, la création d'un centre de ressources pour les initiatives alimentaires innovantes, et la formation des étudiants et des élus locaux aux enjeux de l'agriculture et de l'alimentation durables. L'initiative vise à créer des cadres d'action qui facilitent la transition alimentaire en permettant aux autorités locales d'activer différents leviers, tels que le financement et les partenariats, pour mettre en œuvre des politiques publiques efficaces. Let's Food met également l'accent sur l'importance de la collaboration interdisciplinaire, en travaillant avec différents ministères et secteurs pour aborder les complexités des systèmes alimentaires.",
+    "es": "Let's Food es una asociación dedicada a apoyar a las autoridades locales francesas y extranjeras en el desarrollo de políticas alimentarias sostenibles, resilientes y equitativas. La iniciativa se centra en tres áreas principales: ayudar a las autoridades locales, crear un centro de recursos para iniciativas alimentarias innovadoras y ofrecer formación a estudiantes y cargos electos locales en temas de agricultura y alimentación sostenibles. La iniciativa pretende crear marcos de actuación que faciliten la transición alimentaria permitiendo a las autoridades locales activar diversas palancas, como la financiación y las asociaciones, para aplicar políticas públicas eficaces. Let's Food también hace hincapié en la importancia de la colaboración interdisciplinar, trabajando con diversos ministerios y sectores para abordar las complejidades de los sistemas alimentarios.",
+    "de": "Let's Food ist ein Verein, der lokale Behörden in Frankreich und im Ausland bei der Entwicklung einer nachhaltigen, widerstandsfähigen und gerechten Lebensmittelpolitik unterstützt. Die Initiative konzentriert sich auf drei Hauptbereiche: die Unterstützung lokaler Behörden, die Einrichtung eines Ressourcenzentrums für innovative Lebensmittelinitiativen und die Schulung von Studenten und lokalen Mandatsträgern in Fragen der nachhaltigen Landwirtschaft und Ernährung. Die Initiative zielt darauf ab, Handlungsrahmen zu schaffen, die den Übergang zur Ernährung erleichtern, indem die lokalen Behörden in die Lage versetzt werden, verschiedene Hebel, wie z. B. Finanzierung und Partnerschaften, zu aktivieren, um wirksame öffentliche Maßnahmen umzusetzen. Let's Food unterstreicht auch die Bedeutung der interdisziplinären Zusammenarbeit mit verschiedenen Ministerien und Sektoren, um die Komplexität der Lebensmittelsysteme zu bewältigen."
+  },
   "field": [
     "other-social-sciences-and-humanities",
     "political-science",
@@ -21,7 +26,12 @@
   ],
   "lang": "en",
   "location": "",
-  "name": "Let's Food",
+  "name": {
+    "en": "Let's Food",
+    "fr": "Alimentation",
+    "es": "Comamos",
+    "de": "Let's Food"
+  },
   "pubId": 499052,
   "score": -178.35259210208918,
   "state": "ongoing-project",
@@ -44,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "en"
 }

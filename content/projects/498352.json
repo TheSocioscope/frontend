@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755093699,
   "date": null,
-  "description": "The initiative focuses on promoting sustainable practices in Buenos Aires through artisan methods. It emphasizes the importance of local resources and community involvement, aiming to create a positive impact on the environment and society. By integrating traditional techniques with modern sustainability concepts, the initiative seeks to foster a culture of responsible consumption and production, ultimately enhancing the quality of life for residents while preserving the region's unique heritage.",
+  "description": {
+    "en": "The initiative focuses on promoting sustainable practices in Buenos Aires through artisan methods. It emphasizes the importance of local resources and community involvement, aiming to create a positive impact on the environment and society. By integrating traditional techniques with modern sustainability concepts, the initiative seeks to foster a culture of responsible consumption and production, ultimately enhancing the quality of life for residents while preserving the region's unique heritage.",
+    "fr": "Cette initiative vise à promouvoir des pratiques durables à Buenos Aires par le biais de méthodes artisanales. Elle met l'accent sur l'importance des ressources locales et de l'implication de la communauté, dans le but de créer un impact positif sur l'environnement et la société. En intégrant les techniques traditionnelles aux concepts modernes de durabilité, l'initiative cherche à promouvoir une culture de consommation et de production responsables, améliorant ainsi la qualité de vie des habitants tout en préservant le patrimoine unique de la région.",
+    "es": "La iniciativa se centra en promover prácticas sostenibles en Buenos Aires a través de métodos artesanales. Hace hincapié en la importancia de los recursos locales y la participación de la comunidad, con el objetivo de crear un impacto positivo en el medio ambiente y la sociedad. Al integrar técnicas tradicionales con conceptos modernos de sostenibilidad, la iniciativa pretende fomentar una cultura de consumo y producción responsables, mejorando en última instancia la calidad de vida de los residentes y preservando al mismo tiempo el patrimonio único de la región.",
+    "de": "Die Initiative konzentriert sich auf die Förderung nachhaltiger Praktiken in Buenos Aires durch handwerkliche Methoden. Sie unterstreicht die Bedeutung lokaler Ressourcen und die Einbeziehung der Gemeinschaft, um einen positiven Einfluss auf die Umwelt und die Gesellschaft zu erzielen. Durch die Integration traditioneller Techniken mit modernen Nachhaltigkeitskonzepten will die Initiative eine Kultur des verantwortungsbewussten Konsums und der Produktion fördern, um letztlich die Lebensqualität der Einwohner zu verbessern und gleichzeitig das einzigartige Erbe der Region zu bewahren."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "La Panaderia el Tacarpino",
+  "name": {
+    "es": "La Panaderia el Tacarpino",
+    "en": "The Tacarpino Bakery",
+    "fr": "La boulangerie Tacarpino",
+    "de": "Die Bäckerei Tacarpino"
+  },
   "pubId": 498352,
   "score": -35.09204908716356,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

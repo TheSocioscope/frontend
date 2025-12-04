@@ -14,13 +14,23 @@
   "date": [
     "2030-01-01"
   ],
-  "description": "Le projet consiste à inventer et à co-créer avec les citoyensconsommateurs les nouveaux services dont ils ont besoin afin d’améliorer leur alimentation. Comment favoriser la consommation de produits locaux ou de saison, comment diminuer la part de produits transformés dans l’alimentation, quels modes de distribution adaptés à la vie actuelle ? Ce sont quelques-uns des sujets qui sont traités par le biais de solutions variées : parcours éducatifs, dispositifs de sensibilisation, solutions digitales d’aide à la décision, offres d’approvisionnement, aide au choix des menus… L’enjeu est à la fois sanitaire, gustatif, environnement et économique.",
+  "description": {
+    "fr": "Le projet consiste à inventer et à co-créer avec les citoyensconsommateurs les nouveaux services dont ils ont besoin afin d’améliorer leur alimentation. Comment favoriser la consommation de produits locaux ou de saison, comment diminuer la part de produits transformés dans l’alimentation, quels modes de distribution adaptés à la vie actuelle ? Ce sont quelques-uns des sujets qui sont traités par le biais de solutions variées : parcours éducatifs, dispositifs de sensibilisation, solutions digitales d’aide à la décision, offres d’approvisionnement, aide au choix des menus… L’enjeu est à la fois sanitaire, gustatif, environnement et économique.",
+    "en": "The project involves inventing and co-creating with citizen-consumers the new services they need to improve their diets. How can we promote the consumption of local and seasonal produce, reduce the proportion of processed products in the diet, and find distribution methods that are adapted to today's lifestyles? These are just some of the issues that are addressed through a variety of solutions: educational courses, awareness-raising programs, digital decision-support solutions, supply offers, menu selection assistance... The stakes are health, taste, environment and economics.",
+    "es": "El proyecto consiste en inventar y cocrear con los ciudadanos-consumidores los nuevos servicios que necesitan para mejorar su alimentación. ¿Cómo fomentar el consumo de productos locales y de temporada, reducir la proporción de productos transformados en la dieta y encontrar métodos de distribución adaptados al estilo de vida actual? Estas son sólo algunas de las cuestiones que se abordan a través de diversas soluciones: cursos educativos, programas de sensibilización, soluciones digitales para la toma de decisiones, ofertas de suministro, ayuda para elegir menús, etc. Es mucho lo que está en juego en términos de salud, sabor, medio ambiente y economía.",
+    "de": "Das Projekt besteht darin, gemeinsam mit den Bürgerverbrauchern neue Dienstleistungen zu erfinden und zu kreieren, die sie benötigen, um ihre Ernährung zu verbessern. Wie kann der Konsum von lokalen oder saisonalen Produkten gefördert werden, wie kann der Anteil verarbeiteter Produkte in der Ernährung verringert werden, welche Vertriebsformen sind an das heutige Leben angepasst? Dies sind nur einige der Themen, die mithilfe verschiedener Lösungen behandelt werden: Bildungswege, Sensibilisierungsmaßnahmen, digitale Lösungen zur Entscheidungshilfe, Beschaffungsangebote, Hilfe bei der Menüauswahl usw. Es geht um Gesundheit, Geschmack, Umwelt und Wirtschaft gleichermaßen."
+  },
   "field": [
     "ecology-environmental-sciences"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Consomm’acteur, santé et territoire / ProDij 2030",
+  "name": {
+    "fr": "Consomm’acteur, santé et territoire / ProDij 2030",
+    "en": "Consum'acteur, health and territory / ProDij 2030",
+    "es": "Consumidores, salud y región / ProDij 2030",
+    "de": "Verbraucher, Gesundheit und Territorium / ProDij 2030"
+  },
   "pubId": 417652,
   "score": 1465.5842105262946,
   "state": "ongoing-project",
@@ -48,28 +58,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495423,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495423,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

@@ -13,14 +13,24 @@
   ],
   "createdAt": 1718285091,
   "date": null,
-  "description": "Nanofreeze specializes in innovative cold chain solutions to reduce food losses and carbon dioxide emissions. Their products include foldable coolers that maintain the cold chain for biological products and food, cold packs designed for exports that reduce losses by up to 99%, and refrigeration panels that cut commercial refrigerator energy consumption by up to 50%.\n\nProduction involves an environmentally sustainable gel made in Colombia, with allied suppliers in China. The team comprises engineers, sales representatives, and accounting staff working together to deliver effective cold chain solutions.\n\nNanofreeze's products significantly cut losses in perishable goods, enhancing the food system's efficiency and sustainability.",
+  "description": {
+    "en": "Nanofreeze specializes in innovative cold chain solutions to reduce food losses and carbon dioxide emissions. Its products include collapsible coolers that maintain the cold chain of biological products and food, cooling packs designed for export that reduce losses by up to 99% and cooling panels that reduce the energy consumption of commercial refrigerators by up to 50%. Production involves an environmentally sustainable gel manufactured in Colombia, with allied suppliers in China. The team consists of engineers, sales representatives and accounting staff working together to provide effective cold chain solutions. Nanofreeze products significantly reduce losses of perishable products, improving the efficiency and sustainability of the food system.",
+    "fr": "Nanofreeze est spécialisée dans les solutions innovantes pour la chaîne du froid afin de réduire les pertes alimentaires et les émissions de dioxyde de carbone. Ses produits comprennent des glacières pliables qui maintiennent la chaîne du froid pour les produits biologiques et alimentaires, des packs réfrigérants conçus pour l'exportation qui réduisent les pertes jusqu'à 99 % et des panneaux réfrigérants qui réduisent la consommation d'énergie des réfrigérateurs commerciaux jusqu'à 50 %. La production fait appel à du gel écologiquement durable fabriqué en Colombie, avec des fournisseurs alliés en Chine. L'équipe se compose d'ingénieurs, de représentants commerciaux et de comptables qui travaillent ensemble pour fournir des solutions efficaces en matière de chaîne du froid. Les produits Nanofreeze réduisent considérablement les pertes de produits périssables, améliorant ainsi l'efficacité et la durabilité du système alimentaire.",
+    "es": "Nanofreeze está especializada en soluciones innovadoras de la cadena de frío para reducir las pérdidas de alimentos y las emisiones de dióxido de carbono. Sus productos incluyen neveras plegables que mantienen la cadena de frío de productos biológicos y alimentos, paquetes de frío diseñados para la exportación que reducen las pérdidas hasta en un 99% y paneles de refrigeración que reducen el consumo de energía de los frigoríficos comerciales hasta en un 50%.\n\nLa producción implica un gel ambientalmente sostenible fabricado en Colombia, con proveedores aliados en China. El equipo está formado por ingenieros, representantes comerciales y personal de contabilidad que trabajan juntos para ofrecer soluciones eficaces para la cadena de frío.\n\nLos productos de Nanofreeze reducen significativamente las pérdidas de productos perecederos, mejorando la eficiencia y sostenibilidad del sistema alimentario.",
+    "de": "Nanofreeze spezialisiert sich auf innovative Lösungen für die Kühlkette, um Lebensmittelverluste und Kohlendioxidemissionen zu reduzieren. Ihre Produkte umfassen aufklappbare Kühler, die die Kühlkette für biologische Produkte und Lebensmittel aufrechterhalten, für den Export konzipierte Kühlpacks, die Verluste um bis zu 99 % reduzieren, und Kühlpaneele, die den Energieverbrauch kommerzieller Kühlschränke um bis zu 50 % senken.\n\nDie Produktion umfasst ein umweltverträgliches Gel, das in Kolumbien hergestellt wird, mit Zulieferern in China. Das Team besteht aus Ingenieuren, Verkaufsvertretern und Mitarbeitern der Buchhaltung, die zusammenarbeiten, um effektive Kühlkettenlösungen zu liefern.\n\nNanofreeze's Produkte reduzieren die Verluste an verderblichen Waren erheblich und steigern die Effizienz und Nachhaltigkeit des Lebensmittelsystems."
+  },
   "field": [
     "nutrition",
     "engineering-and-technology"
   ],
   "lang": "en",
   "location": "",
-  "name": "Nanofreeze",
+  "name": {
+    "en": "Nanofreeze",
+    "fr": "Nanofreeze",
+    "es": "Nanofreeze",
+    "de": "Nanofreeze"
+  },
   "pubId": 443952,
   "score": 299.40000000000185,
   "state": "ongoing-project",
@@ -42,10 +52,6 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ],
   "editedAt": 1718285226,
   "feedback": [
     {
@@ -53,11 +59,8 @@
       "at": 1718285226
     }
   ],
-  "lastEvent": {
-    "at": 1718285226,
-    "by": "contact"
-  },
   "updatedAt": [
     1718285226
-  ]
+  ],
+  "originalLang": "fr"
 }

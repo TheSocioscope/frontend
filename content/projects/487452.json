@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754957257,
   "date": null,
-  "description": "The Asociación de Escuelas Agroecológicas Sostenibles de San Rafael (ASEAS) focuses on empowering families through agroecological education and practices. Established in 1998, ASEAS aims to promote healthy food production while fostering community collaboration. With 56 member families, the initiative emphasizes sustainable agriculture, environmental awareness, and the importance of local food systems. Through partnerships with various organizations, ASEAS provides training and resources to enhance the livelihoods of small producers in the region.",
+  "description": {
+    "en": "The Asociación de Escuelas Agroecológicas Sostenibles de San Rafael (ASEAS) focuses on empowering families through agroecological education and practices. Established in 1998, ASEAS aims to promote healthy food production while fostering community collaboration. With 56 member families, the initiative emphasizes sustainable agriculture, environmental awareness, and the importance of local food systems. Through partnerships with various organizations, ASEAS provides training and resources to enhance the livelihoods of small producers in the region.",
+    "fr": "L'Asociación de Escuelas Agroecológicas Sostenibles de San Rafael (ASEAS) se concentre sur l'autonomisation des familles grâce à l'éducation et aux pratiques agroécologiques. Créée en 1998, l'ASEAS vise à promouvoir la production d'aliments sains tout en encourageant la collaboration communautaire. Avec 56 familles membres, l'initiative met l'accent sur l'agriculture durable, la sensibilisation à l'environnement et l'importance des systèmes alimentaires locaux. Grâce à des partenariats avec diverses organisations, ASEAS propose des formations et des ressources pour améliorer les moyens de subsistance des petits producteurs de la région.",
+    "es": "La Asociación de Escuelas Agroecológicas Sostenibles de San Rafael (ASEAS) se centra en capacitar a las familias a través de la educación y las prácticas agroecológicas. Creada en 1998, ASEAS pretende promover la producción de alimentos sanos al tiempo que fomenta la colaboración comunitaria. Con 56 familias miembros, la iniciativa hace hincapié en la agricultura sostenible, la concienciación medioambiental y la importancia de los sistemas alimentarios locales. A través de asociaciones con diversas organizaciones, ASEAS ofrece formación y recursos para mejorar los medios de subsistencia de los pequeños productores de la región.",
+    "de": "Die Asociación de Escuelas Agroecológicas Sostenibles de San Rafael (ASEAS) konzentriert sich auf die Stärkung von Familien durch agrarökologische Bildung und Praktiken. Die 1998 gegründete ASEAS hat sich zum Ziel gesetzt, eine gesunde Lebensmittelproduktion zu fördern und gleichzeitig die Zusammenarbeit in der Gemeinde zu unterstützen. Die Initiative, der 56 Familien angehören, legt den Schwerpunkt auf nachhaltige Landwirtschaft, Umweltbewusstsein und die Bedeutung lokaler Lebensmittelsysteme. Durch Partnerschaften mit verschiedenen Organisationen bietet ASEAS Schulungen und Ressourcen an, um den Lebensunterhalt von Kleinproduzenten in der Region zu verbessern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Escuela de Semillas",
+  "name": {
+    "es": "Escuela de Semillas",
+    "en": "Seed School",
+    "fr": "L'école des semences",
+    "de": "Saatgut-Schule"
+  },
   "pubId": 487452,
   "score": 61.40000000000016,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

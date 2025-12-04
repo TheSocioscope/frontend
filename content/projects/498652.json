@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755262184,
   "date": null,
-  "description": "The initiative focuses on transforming a 1970s building into a multifunctional space featuring a heated greenhouse. This project aims to integrate energy efficiency, food production, and social engagement, enhancing community ties and promoting urban agriculture. By involving local residents and addressing regulatory challenges, the initiative seeks to demonstrate the potential of underutilized urban spaces while fostering food education and sustainability. Ultimately, it highlights the value of innovative approaches to urban living and community well-being.",
+  "description": {
+    "en": "The initiative focuses on transforming a 1970s building into a multifunctional space featuring a heated greenhouse. This project aims to integrate energy efficiency, food production, and social engagement, enhancing community ties and promoting urban agriculture. By involving local residents and addressing regulatory challenges, the initiative seeks to demonstrate the potential of underutilized urban spaces while fostering food education and sustainability. Ultimately, it highlights the value of innovative approaches to urban living and community well-being.",
+    "fr": "L'initiative se concentre sur la transformation d'un bâtiment des années 1970 en un espace multifonctionnel doté d'une serre chauffée. Ce projet vise à intégrer l'efficacité énergétique, la production alimentaire et l'engagement social, en renforçant les liens communautaires et en promouvant l'agriculture urbaine. En impliquant les résidents locaux et en relevant les défis réglementaires, l'initiative cherche à démontrer le potentiel des espaces urbains sous-utilisés tout en encourageant l'éducation alimentaire et la durabilité. En fin de compte, elle met en évidence la valeur des approches novatrices en matière de vie urbaine et de bien-être communautaire.",
+    "es": "La iniciativa se centra en la transformación de un edificio de los años setenta en un espacio multifuncional con un invernadero climatizado. Este proyecto pretende integrar la eficiencia energética, la producción de alimentos y el compromiso social, mejorando los lazos comunitarios y promoviendo la agricultura urbana. Al implicar a los residentes locales y abordar los retos normativos, la iniciativa pretende demostrar el potencial de los espacios urbanos infrautilizados, fomentando al mismo tiempo la educación alimentaria y la sostenibilidad. En última instancia, pone de relieve el valor de los enfoques innovadores de la vida urbana y el bienestar de la comunidad.",
+    "de": "Im Mittelpunkt der Initiative steht die Umwandlung eines Gebäudes aus den 1970er Jahren in einen multifunktionalen Raum mit einem beheizten Gewächshaus. Das Projekt zielt darauf ab, Energieeffizienz, Lebensmittelproduktion und soziales Engagement miteinander zu verbinden, um die Beziehungen zur Gemeinschaft zu stärken und die urbane Landwirtschaft zu fördern. Durch die Einbeziehung der Anwohner und die Bewältigung rechtlicher Herausforderungen soll die Initiative das Potenzial ungenutzter städtischer Flächen aufzeigen und gleichzeitig die Ernährungsbildung und Nachhaltigkeit fördern. Letztlich unterstreicht sie den Wert innovativer Ansätze für das Leben in der Stadt und das Wohlbefinden der Gemeinschaft."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Symbiose Serre Bio",
+  "name": {
+    "de": "Symbiose Serre Bio",
+    "en": "Symbiosis Serre Bio",
+    "fr": "Symbiose Serre Bio",
+    "es": "Simbiosis Serre Bio"
+  },
   "pubId": 498652,
   "score": -178.35259210208918,
   "state": "ongoing-project",
@@ -42,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "de"
 }

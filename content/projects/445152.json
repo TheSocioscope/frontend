@@ -13,13 +13,23 @@
   ],
   "createdAt": 1718368609,
   "date": null,
-  "description": "Kedelaï est un fabricant de tempeh basé en Île-de-France depuis 2019. Fondée avec un associé, l'entreprise commercialise du tempeh, un aliment indonésien issu de la fermentation de graines de soja, auprès des restaurants et des magasins bio en région parisienne.\n\nL'entreprise se concentre principalement sur la fabrication de tempeh, avec une spécialité et un savoir-faire dans ce domaine. Actuellement, Kedelaï travaille sur un projet ambitieux : la création du premier atelier de fabrication de tempeh à Paris, situé dans le 18ème arrondissement, au sein d'un lieu atypique appelé La Caverne. Il s'agit d'anciens parkings souterrains réhabilités en ferme urbaine, où poussent des champignons, des micropousses et bientôt du tempeh.",
+  "description": {
+    "fr": "Kedelaï est un fabricant de tempeh basé en Île-de-France depuis 2019. Fondée avec un associé, l'entreprise commercialise du tempeh, un aliment indonésien issu de la fermentation de graines de soja, auprès des restaurants et des magasins bio en région parisienne.\n\nL'entreprise se concentre principalement sur la fabrication de tempeh, avec une spécialité et un savoir-faire dans ce domaine. Actuellement, Kedelaï travaille sur un projet ambitieux : la création du premier atelier de fabrication de tempeh à Paris, situé dans le 18ème arrondissement, au sein d'un lieu atypique appelé La Caverne. Il s'agit d'anciens parkings souterrains réhabilités en ferme urbaine, où poussent des champignons, des micropousses et bientôt du tempeh.",
+    "en": "Kedelaï is a tempeh manufacturer based in Île-de-France since 2019. Founded with a partner, the company markets tempeh, an Indonesian food made from fermented soybeans, to restaurants and organic stores in the Paris region.\n\nThe company's main focus is tempeh production, with a speciality and know-how in this field. Currently, Kedelaï is working on an ambitious project: the creation of the first tempeh-making workshop in Paris, located in the 18th arrondissement, in an atypical place called La Caverne. These former underground parking lots have been converted into an urban farm, where mushrooms, micro-sprouts and, soon, tempeh grow.",
+    "es": "Kedelaï es un fabricante de tempeh con sede en Île-de-France desde 2019. Fundada con un socio, la empresa comercializa tempeh, un alimento indonesio elaborado mediante la fermentación de habas de soja, en restaurantes y tiendas ecológicas de la región parisina.\n\nLa empresa se centra principalmente en la producción de tempeh, con una especialidad y un saber hacer en este campo. Kedelaï trabaja actualmente en un ambicioso proyecto: la creación del primer taller de producción de tempeh de París, situado en el distrito 18, en un lugar insólito llamado La Caverne. Estos antiguos aparcamientos subterráneos se han reconvertido en una granja urbana, donde crecerán setas, microbrotes y, muy pronto, tempeh.",
+    "de": "Kedelaï ist ein Tempeh-Hersteller, der seit 2019 in der Region Île-de-France ansässig ist. Das mit einem Partner gegründete Unternehmen vertreibt Tempeh, ein indonesisches Lebensmittel, das aus der Fermentation von Sojabohnen gewonnen wird, an Restaurants und Bioläden im Großraum Paris.\n\nDas Unternehmen konzentriert sich hauptsächlich auf die Herstellung von Tempeh, wobei es sich auf diesen Bereich spezialisiert hat und über entsprechendes Know-how verfügt. Derzeit arbeitet Kedelaï an einem ehrgeizigen Projekt: der Einrichtung der ersten Tempeh-Herstellungswerkstatt in Paris, die sich im 18. Arrondissement an einem atypischen Ort namens La Caverne befindet. Dabei handelt es sich um ehemalige Tiefgaragen, die zu einer urbanen Farm umgebaut wurden, in der Pilze, Mikropflanzen und bald auch Tempeh wachsen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kedelaï",
+  "name": {
+    "en": "Kedelaï",
+    "fr": "Kedelaï",
+    "es": "Kedelaï",
+    "de": "Kedelaï"
+  },
   "pubId": 445152,
   "score": 103.89999999999793,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "6wGcbVSqMgM",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1739530125,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1739530125
     }
   ],
-  "lastEvent": {
-    "at": 1739530125,
-    "by": "contact"
-  },
   "updatedAt": [
     1739530125
-  ]
+  ],
+  "originalLang": "fr"
 }

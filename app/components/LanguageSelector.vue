@@ -1,7 +1,8 @@
 <template>
   <v-menu offset-y>
     <template #activator="{ props }">
-      <v-btn color="success" variant="elevated" v-bind="props" prepend-icon="mdi-web">
+      <v-btn variant="text" v-bind="props">
+        <v-icon start>mdi-web</v-icon>
         {{ currentLocale?.name }}
         <v-icon end>mdi-chevron-down</v-icon>
       </v-btn>

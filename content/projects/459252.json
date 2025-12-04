@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754403017,
   "date": null,
-  "description": "Agrovivas is an innovative organic waste collection initiative that began during the pandemic, focusing on composting to reduce landfill waste. Serving 500 families and 40 companies in Quito, Cuenca, and Guayaquil, the project transforms organic waste into compost, which is then returned to families for urban gardening and used in reforestation efforts. By promoting sustainable practices, Agrovivas aims to educate communities on the value of composting and contribute to environmental conservation.",
+  "description": {
+    "en": "Agrovivas is an innovative organic waste collection initiative that began during the pandemic, focusing on composting to reduce landfill waste. The project, which serves 500 families and 40 businesses in Quito, Cuenca and Guayaquil, transforms organic waste into compost, which is then returned to families for urban gardening and used in reforestation efforts. By promoting sustainable practices, Agrovivas aims to educate communities about the value of composting and contribute to environmental conservation.",
+    "fr": "Agrovivas est une initiative innovante de collecte des déchets organiques qui a vu le jour pendant la pandémie et qui se concentre sur le compostage afin de réduire les déchets mis en décharge. Le projet, qui dessert 500 familles et 40 entreprises à Quito, Cuenca et Guayaquil, transforme les déchets organiques en compost, qui est ensuite rendu aux familles pour le jardinage urbain et utilisé dans les efforts de reboisement. En promouvant des pratiques durables, Agrovivas vise à éduquer les communautés sur la valeur du compostage et à contribuer à la conservation de l'environnement.",
+    "es": "Agrovivas es una innovadora iniciativa de recogida de residuos orgánicos que comenzó durante la pandemia, centrándose en el compostaje para reducir los residuos de los vertederos. El proyecto, que presta servicio a 500 familias y 40 empresas de Quito, Cuenca y Guayaquil, transforma los residuos orgánicos en compost, que luego se devuelve a las familias para la jardinería urbana y se utiliza en labores de reforestación. Mediante la promoción de prácticas sostenibles, Agrovivas pretende educar a las comunidades sobre el valor del compostaje y contribuir a la conservación del medio ambiente.",
+    "de": "Agrovivas ist eine innovative Initiative zur Sammlung organischer Abfälle, die während der Pandemie begann und sich auf die Kompostierung zur Reduzierung von Siedlungsabfällen konzentrierte. Das Projekt, das 500 Familien und 40 Unternehmen in Quito, Cuenca und Guayaquil bedient, verwandelt organische Abfälle in Kompost, der dann an die Familien für die Stadtbegrünung zurückgegeben und in Wiederaufforstungsbemühungen eingesetzt wird. Durch die Förderung nachhaltiger Praktiken möchte Agrovivas die Gemeinden über den Wert der Kompostierung aufklären und zum Umweltschutz beitragen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agrovivas",
+  "name": {
+    "en": "Agrovivas",
+    "fr": "Agrovivas",
+    "es": "Agrovivas",
+    "de": "Agrovivas"
+  },
   "pubId": 459252,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

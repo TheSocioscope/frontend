@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754404150,
   "date": null,
-  "description": "Utmach is an initiative that focuses on enhancing soil management and plant nutrition in agriculture, particularly for crops like banana and cocoa. Working closely with the Technical University of Machala, particularly through its Faculty of Agricultural Sciences, Utmach aims to bridge the gap between academia and local agricultural practices, promoting sustainable farming techniques. The faculty collaborates with various organizations to conduct research, provide training, and address environmental challenges, ultimately contributing to food security and agricultural sustainability in the region.",
+  "description": {
+    "en": "Utmach is an initiative focused on improving soil management and plant nutrition in agriculture, especially in crops such as banana and cocoa. In close collaboration with the Technical University of Machala, particularly through its Faculty of Agricultural Sciences, Utmach aims to bridge the gap between academia and local farming practices, promoting sustainable agricultural techniques. The faculty collaborates with various organizations to conduct research, provide training and address environmental issues, ultimately contributing to food security and agricultural sustainability in the region.",
+    "fr": "Utmach est une initiative axée sur l'amélioration de la gestion des sols et de la nutrition des plantes dans l'agriculture, en particulier dans les cultures telles que la banane et le cacao. En étroite collaboration avec l'université technique de Machala, en particulier par l'intermédiaire de sa faculté des sciences agricoles, Utmach vise à combler le fossé entre le monde universitaire et les pratiques agricoles locales, en promouvant des techniques agricoles durables. La faculté collabore avec diverses organisations pour mener des recherches, dispenser des formations et traiter des questions environnementales, contribuant ainsi à la sécurité alimentaire et à la durabilité de l'agriculture dans la région.",
+    "es": "Utmach es una iniciativa centrada en mejorar la gestión del suelo y la nutrición de las plantas en la agricultura, especialmente en cultivos como el plátano y el cacao. En estrecha colaboración con la Universidad Técnica de Machala, en particular a través de su Facultad de Ciencias Agrícolas, Utmach pretende tender un puente entre el mundo académico y las prácticas agrícolas locales, promoviendo técnicas agrícolas sostenibles. La facultad colabora con diversas organizaciones para llevar a cabo investigaciones, impartir formación y abordar problemas medioambientales, contribuyendo en última instancia a la seguridad alimentaria y la sostenibilidad agrícola de la región.",
+    "de": "Utmach ist eine Initiative, die sich auf die Verbesserung des Bodenmanagements und der Pflanzenernährung in der Landwirtschaft konzentriert, insbesondere bei Kulturen wie Bananen und Kokos. Utmach arbeitet eng mit der Technischen Universität Machala zusammen, insbesondere über ihre Fakultät für Agrarwissenschaften, und will die Lücke zwischen akademischen und lokalen landwirtschaftlichen Praktiken überbrücken und nachhaltige Anbaumethoden fördern. Die Fakultät arbeitet mit verschiedenen Organisationen zusammen, um Forschung zu betreiben, Schulungen anzubieten und Umweltprobleme anzugehen, was letztendlich zur Ernährungssicherheit und landwirtschaftlichen Nachhaltigkeit in der Region beiträgt."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Utmach",
+  "name": {
+    "en": "Utmach",
+    "fr": "Utmach",
+    "es": "Utmach",
+    "de": "Utmach"
+  },
   "pubId": 450152,
   "score": -80.08660456592939,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

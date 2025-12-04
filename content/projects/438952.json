@@ -15,14 +15,24 @@
   "date": [
     "2009-01-01"
   ],
-  "description": "Foundation Koren [Root] is a non-governmental organization that actively supports the development of urban gardening and composting in Sofia. Its multiple implemented projects include support for the creation of urban gardens in inter-residential spaces and schools, training in home composting, an action to save the chestnut trees in the central Sofia district of Oborishte, seed exchange. \"Koren\" maintains a national online platform for sustainable practices (https: //www.koren.bg/node/23), working to promote sustainable practices not only in agriculture, but also in architecture, culture and education. Its goals are to preserve and improve natural resources, landscapes, biodiversity and people's quality of life.",
+  "description": {
+    "en": "The Koren [Root] Foundation is a non-governmental organization that actively supports the development of urban gardening and composting in Sofia. Its many projects include support for the creation of urban gardens in inter-residential spaces and schools, training in home composting, an action to save the chestnut trees in Sofia's central Oborishte neighborhood, and seed exchange. \"Koren\" maintains a national online platform for sustainable practices (https: //www.koren.bg/node/23), which works to promote sustainable practices not only in agriculture, but also in architecture, culture and education. Its objectives are to preserve and improve natural resources, landscapes, biodiversity and people's quality of life.",
+    "fr": "La Fondation Koren [Racine] est une organisation non gouvernementale qui soutient activement le développement du jardinage urbain et du compostage à Sofia. Ses nombreux projets comprennent le soutien à la création de jardins urbains dans les espaces inter-résidentiels et les écoles, la formation au compostage domestique, une action pour sauver les châtaigniers du quartier central d'Oborishte à Sofia, et l'échange de semences. \"Koren gère une plateforme nationale en ligne pour les pratiques durables (https : //www.koren.bg/node/23), qui s'efforce de promouvoir les pratiques durables non seulement dans l'agriculture, mais aussi dans l'architecture, la culture et l'éducation. Ses objectifs sont de préserver et d'améliorer les ressources naturelles, les paysages, la biodiversité et la qualité de vie des citoyens.",
+    "es": "La Fundación Koren [Raíz] es una organización no gubernamental que apoya activamente el desarrollo de la jardinería urbana y el compostaje en Sofía. Entre los múltiples proyectos que lleva a cabo se incluyen el apoyo a la creación de huertos urbanos en espacios interresidenciales y escuelas, la formación en compostaje doméstico, una acción para salvar los castaños del céntrico barrio de Oborishte, en Sofía, y el intercambio de semillas. \"Koren\" mantiene una plataforma nacional en línea de prácticas sostenibles (https: //www.koren.bg/node/23), que trabaja para promover prácticas sostenibles no sólo en la agricultura, sino también en la arquitectura, la cultura y la educación. Sus objetivos son preservar y mejorar los recursos naturales, los paisajes, la biodiversidad y la calidad de vida de las personas.",
+    "de": "Foundation Koren [Root] ist eine Nichtregierungsorganisation, die aktiv die Entwicklung von Urban Gardening und Kompostierung in Sofia unterstützt. Zu ihren zahlreichen umgesetzten Projekten gehören die Unterstützung bei der Schaffung von Stadtgärten in Wohngebieten und Schulen, Schulungen im Bereich Heimkompostierung, eine Aktion zur Rettung der Kastanienbäume im zentral gelegenen Sofioter Bezirk Oborishte und der Austausch von Saatgut. \"Koren\" unterhält eine nationale Online-Plattform für nachhaltige Praktiken (https: //www.koren.bg/node/23) und arbeitet daran, nachhaltige Praktiken nicht nur in der Landwirtschaft, sondern auch in Architektur, Kultur und Bildung zu fördern. Seine Ziele sind die Erhaltung und Verbesserung der natürlichen Ressourcen, der Landschaften, der biologischen Vielfalt und der Lebensqualität der Menschen."
+  },
   "field": [
     "ecology-environmental-sciences",
     "nutrition"
   ],
   "lang": "en",
   "location": "Sofia",
-  "name": "Foundation Koren",
+  "name": {
+    "en": "Foundation Koren",
+    "fr": "Foundation Koren",
+    "es": "Fundación Koren",
+    "de": "Koren Foundation"
+  },
   "pubId": 438952,
   "score": 719.5999999999906,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "https://www.koren.bg",
   "yt": "Nacihc2-vso",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

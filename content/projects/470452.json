@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754658898,
   "date": null,
-  "description": "The Eko Spichlerz initiative in Gdansk, Poland, is a community-focused grocery shop and dietetic practice. It offers organic and eco-friendly products while promoting healthy eating through workshops for children. The initiative emphasizes education, sustainability, and community support, providing personalized dietary guidance for adults and fostering a culture of healthy cooking among children. Eco Spichlech aims to reconnect people with natural food practices and enhance local well-being.    ",
+  "description": {
+    "en": "The Eko Spichlerz initiative in Gdansk, Poland, is a community-oriented grocery and health food store. It offers ecological and organic products and promotes healthy eating through workshops for children. The initiative emphasizes education, sustainability and community support, providing personalized dietary guidance for adults and encouraging a healthy cooking culture among children. Eco Spichlech aims to reconnect people with natural food practices and improve local wellbeing.    ",
+    "fr": "L'initiative Eko Spichlerz à Gdansk, en Pologne, est une épicerie et un magasin de produits diététiques axés sur la communauté. Elle propose des produits écologiques et biologiques et promeut une alimentation saine par le biais d'ateliers pour enfants. L'initiative met l'accent sur l'éducation, la durabilité et le soutien communautaire, en fournissant des conseils diététiques personnalisés aux adultes et en encourageant une culture de la cuisine saine chez les enfants. Eco Spichlech vise à reconnecter les gens avec les pratiques alimentaires naturelles et à améliorer le bien-être local.    ",
+    "es": "La iniciativa Eko Spichlerz, en Gdansk (Polonia), es una tienda de comestibles y dietética orientada a la comunidad. Ofrece productos ecológicos y orgánicos y promueve una alimentación sana mediante talleres para niños. La iniciativa hace hincapié en la educación, la sostenibilidad y el apoyo a la comunidad, proporcionando orientación dietética personalizada para adultos y fomentando una cultura de cocina sana entre los niños. Eco Spichlech pretende reconectar a la gente con las prácticas alimentarias naturales y mejorar el bienestar local.    ",
+    "de": "Die Eko Spichlerz-Initiative in Danzig, Polen, ist ein gemeindeorientierter Grocery Shop und eine Ernährungspraxis. Sie bietet organische und umweltfreundliche Produkte an, die durch Workshops für Kinder eine gesunde Ernährung fördern. Die Initiative legt Wert auf Bildung, Nachhaltigkeit und Unterstützung der Gemeinschaft, indem sie eine individuelle Ernährungsberatung für Erwachsene anbietet und eine Kultur des gesunden Kochens unter Kindern fördert. Eco Spichlech möchte die Menschen wieder mit natürlichen Ernährungspraktiken verbinden und das lokale Wohlbefinden steigern.    "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Eko Spichlerz",
+  "name": {
+    "sk": "Eko Spichlerz",
+    "en": "Eco Granary",
+    "fr": "Grenier écologique",
+    "es": "Granero ecológico",
+    "de": "Öko-Getreidespeicher"
+  },
   "pubId": 470452,
   "score": -44.495912361627965,
   "state": "ongoing-project",
@@ -41,8 +52,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754915259,
   "date": null,
-  "description": "The Montpellier Process is an initiative launched in 2015 to create cross-sectoral collaboration between international expert groups (HLPE, IPBES, IPCC) working on food systems, environment, and health. The project evolved to support national roadmaps for food system transformation following COP28's UAE declaration. It focuses on creating a learning community sharing case studies at local levels (Montpellier, São Paulo, Cali) and national levels (Mexico, Colombia, Vietnam, Switzerland, Cambodia), connecting different scales through transsectoral dialogue.",
+  "description": {
+    "en": "The Montpellier Process is an initiative launched in 2015 to create cross-sectoral collaboration between international expert groups (HLPE, IPBES, IPCC) working on food systems, environment, and health. The project evolved to support national roadmaps for food system transformation following COP28's UAE declaration. It focuses on creating a learning community sharing case studies at local levels (Montpellier, São Paulo, Cali) and national levels (Mexico, Colombia, Vietnam, Switzerland, Cambodia), connecting different scales through transsectoral dialogue.",
+    "fr": "Le Processus de Montpellier est une initiative lancée en 2015 pour créer une collaboration intersectorielle entre des groupes d'experts internationaux (HLPE, IPBES, IPCC) travaillant sur les systèmes alimentaires, l'environnement et la santé. Le projet a évolué pour soutenir les feuilles de route nationales pour la transformation des systèmes alimentaires à la suite de la déclaration des Émirats arabes unis de la COP28. Il se concentre sur la création d'une communauté d'apprentissage partageant des études de cas au niveau local (Montpellier, São Paulo, Cali) et au niveau national (Mexique, Colombie, Vietnam, Suisse, Cambodge), reliant différentes échelles par le biais d'un dialogue transsectoriel.",
+    "es": "El Proceso de Montpellier es una iniciativa lanzada en 2015 para crear una colaboración intersectorial entre grupos de expertos internacionales (HLPE, IPBES, IPCC) que trabajan en sistemas alimentarios, medio ambiente y salud. El proyecto evolucionó para apoyar las hojas de ruta nacionales para la transformación de los sistemas alimentarios tras la declaración de los EAU de la COP28. Se centra en crear una comunidad de aprendizaje que comparta estudios de casos a nivel local (Montpellier, São Paulo, Cali) y nacional (México, Colombia, Vietnam, Suiza, Camboya), conectando diferentes escalas a través del diálogo transectorial.",
+    "de": "Der Montpellier-Prozess ist eine 2015 gestartete Initiative zur sektorübergreifenden Zusammenarbeit zwischen internationalen Expertengruppen (HLPE, IPBES, IPCC), die sich mit Lebensmittelsystemen, Umwelt und Gesundheit beschäftigen. Das Projekt wurde entwickelt, um nationale Fahrpläne für die Transformation der Lebensmittelsysteme im Anschluss an die Erklärung der COP28 in den Vereinigten Arabischen Emiraten zu unterstützen. Es konzentriert sich auf die Schaffung einer Lerngemeinschaft, die Fallstudien auf lokaler (Montpellier, São Paulo, Cali) und nationaler Ebene (Mexiko, Kolumbien, Vietnam, Schweiz, Kambodscha) austauscht und verschiedene Ebenen durch einen sektorübergreifenden Dialog miteinander verbindet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Montpellier Process",
+  "name": {
+    "fr": "Montpellier Process",
+    "en": "Montpellier Process",
+    "es": "Proceso de Montpellier",
+    "de": "Montpellier Prozess"
+  },
   "pubId": 485052,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -44,8 +54,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

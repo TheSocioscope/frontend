@@ -13,13 +13,24 @@
   ],
   "createdAt": 1739454812,
   "date": null,
-  "description": "The initiative Linser for Livet revolves around a small business specializing in 100% organic Danish legumes. It is located on a farm near Ohus, Denmark. The owner of the initiative acts as a connector between local farmers transitioning to legume production and larger suppliers, while also engaging directly with customers.\n\nThe initiative is characterized by a commitment to sustainability and community engagement, prioritizing small-scale operations over large-scale growth. The initiative's approach is rooted in a philosophy that values emotional and social intelligence, focusing on building relationships within the food system rather than merely transactional interactions. The initiative highlights the importance of storytelling in marketing and the need for systemic change in food production and consumption practices.",
+  "description": {
+    "en": "The Linser for Livet initiative revolves around a small company specializing in 100% organic Danish vegetables. It is located on a farm near Ohus (Denmark). The owner of the initiative acts as a connector between local farmers transitioning to pulse production and larger suppliers, while also engaging directly with customers. The initiative is characterized by its commitment to sustainability and community engagement, prioritizing small-scale operations over large-scale growth. The initiative's approach is based on a philosophy that values emotional and social intelligence, focusing on building relationships within the food system rather than mere transactional interactions. The initiative highlights the importance of storytelling in marketing and the need for systemic change in food production and consumption practices.",
+    "fr": "L'initiative Linser for Livet s'articule autour d'une petite entreprise spécialisée dans les légumes danois 100 % biologiques. Elle est située dans une ferme près d'Ohus (Danemark). Le propriétaire de l'initiative joue le rôle de connecteur entre les agriculteurs locaux en transition vers la production de légumineuses et les fournisseurs plus importants, tout en s'engageant directement auprès des clients. L'initiative se caractérise par son engagement en faveur de la durabilité et de l'engagement communautaire, en donnant la priorité aux opérations à petite échelle plutôt qu'à la croissance à grande échelle. L'approche de l'initiative est basée sur une philosophie qui valorise l'intelligence émotionnelle et sociale, en se concentrant sur l'établissement de relations au sein du système alimentaire plutôt que sur de simples interactions transactionnelles. L'initiative souligne l'importance de la narration dans le marketing et la nécessité d'un changement systémique dans les pratiques de production et de consommation alimentaires.",
+    "es": "La iniciativa Linser for Livet gira en torno a una pequeña empresa especializada en verduras danesas 100% ecológicas. Está situada en una granja cerca de Ohus (Dinamarca). El propietario de la iniciativa actúa como conector entre los agricultores locales en transición a la producción de legumbres y los proveedores más grandes, al tiempo que se relaciona directamente con los clientes.\n\nLa iniciativa se caracteriza por su compromiso con la sostenibilidad y el compromiso con la comunidad, dando prioridad a las operaciones a pequeña escala frente al crecimiento a gran escala. El enfoque de la iniciativa se basa en una filosofía que valora la inteligencia emocional y social, centrándose en establecer relaciones dentro del sistema alimentario en lugar de meras interacciones transaccionales. La iniciativa destaca la importancia de contar historias en la comercialización y la necesidad de un cambio sistémico en las prácticas de producción y consumo de alimentos.",
+    "de": "Die Initiative Linser for Livet dreht sich um ein kleines Unternehmen, das sich auf 100% organisches dänisches Gemüse spezialisiert hat. Das Unternehmen befindet sich auf einem Bauernhof in der Nähe von Ohus, Dänemark. Der Eigentümer der Initiative fungiert als Verbindungsglied zwischen lokalen Landwirten, die auf Gemüseproduktion umstellen, und größeren Lieferanten, wobei er auch direkt mit den Kunden zusammenarbeitet.\n\nDie Initiative zeichnet sich durch ein Bekenntnis zur Nachhaltigkeit und zum Engagement in der Gemeinschaft aus und priorisiert kleinbäuerliche Betriebe vor großflächigem Wachstum. Der Ansatz der Initiative ist in einer Philosophie verwurzelt, die emotionale und soziale Intelligenz wertschätzt und sich auf den Aufbau von Beziehungen innerhalb des Lebensmittelsystems konzentriert, anstatt nur auf transaktionale Interaktionen. Die Initiative unterstreicht die Bedeutung von Storytelling im Marketing und die Notwendigkeit eines systemischen Wandels der Produktions- und Konsumgewohnheiten von Lebensmitteln."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Linser for Livet",
+  "name": {
+    "nb": "Linser for Livet",
+    "en": "Lenses for Life",
+    "fr": "Des lentilles pour la vie",
+    "es": "Lentes para toda la vida",
+    "de": "Linsen fürs Leben"
+  },
   "pubId": 448352,
   "score": 659.8019607843128,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "https://linserforlivet.dk/",
   "yt": "R-CTugqP-QU",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

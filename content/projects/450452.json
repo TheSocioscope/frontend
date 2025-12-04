@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754404489,
   "date": null,
-  "description": "Crick Superfood, founded by Francisca Castellanos, emerged to provide lactose-intolerant individuals with nutritious snacks made from cricket protein. Launched just before the pandemic, the company focuses on creating clean-label products that are gluten-free, preservative-free, and environmentally sustainable. With a commitment to social impact, Crick donates 5% of sales to a local food bank. The team, composed entirely of women, aims to promote alternative proteins while addressing nutritional needs and environmental concerns.",
+  "description": {
+    "en": "Crick Superfood, founded by Francisca Castellanos, emerged to offer lactose-intolerant people nutritious snacks made from cricket protein. Launched just before the pandemic, the company focuses on creating clean-label, gluten-free, preservative-free and environmentally sustainable products. Committed to social impact, Crick donates 5% of sales to a local food bank. The all-female team aims to promote alternative proteins while addressing nutritional needs and environmental concerns.",
+    "fr": "Crick Superfood, fondée par Francisca Castellanos, a vu le jour pour offrir aux personnes intolérantes au lactose des en-cas nutritifs à base de protéines de grillon. Lancée juste avant la pandémie, l'entreprise se concentre sur la création de produits sans gluten, sans conservateurs et respectueux de l'environnement. Déterminée à avoir un impact social, Crick reverse 5 % de ses ventes à une banque alimentaire locale. L'équipe, composée uniquement de femmes, vise à promouvoir des protéines alternatives tout en répondant aux besoins nutritionnels et aux préoccupations environnementales.",
+    "es": "Crick Superfood, fundada por Francisca Castellanos, surgió para ofrecer a los intolerantes a la lactosa aperitivos nutritivos elaborados con proteína de grillo. Lanzada justo antes de la pandemia, la empresa se centra en crear productos de etiqueta limpia, sin gluten, sin conservantes y sostenibles desde el punto de vista medioambiental. Comprometida con el impacto social, Crick dona el 5% de las ventas a un banco de alimentos local. El equipo, compuesto íntegramente por mujeres, aspira a promover proteínas alternativas atendiendo al mismo tiempo a las necesidades nutricionales y las preocupaciones medioambientales.",
+    "de": "Das von Francisca Castellanos gegründete Unternehmen Crick Superfood hat sich zum Ziel gesetzt, laktoseintolerante Menschen mit nahrhaften Snacks aus Grillenprotein zu versorgen. Das Unternehmen, das kurz vor der Pandemie gegründet wurde, konzentriert sich auf die Herstellung von Clean-Label-Produkten, die glutenfrei, konservierungsmittelfrei und ökologisch nachhaltig sind. Crick ist der sozialen Wirkung verpflichtet und spendet 5 % des Umsatzes an eine lokale Lebensmittelbank. Das Team, das ausschließlich aus Frauen besteht, möchte alternative Proteine fördern und gleichzeitig Ernährungsbedürfnisse und Umweltbelange berücksichtigen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Crick",
+  "name": {
+    "en": "Crick",
+    "fr": "Crick",
+    "es": "Crick",
+    "de": "Crick"
+  },
   "pubId": 450452,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

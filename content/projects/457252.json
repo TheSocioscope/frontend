@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754295493,
   "date": null,
-  "description": "Les Anges Gardins is an initiative focused on popular education and integration through economic activity, primarily in organic market gardening. Established to address food insecurity and promote social justice, it aims to create sustainable local food systems. By structuring supply chains and supporting community engagement, the initiative fosters food accessibility and well-being. Through collaboration with various stakeholders, it seeks to redefine economic models and enhance food citizenship, ultimately contributing to healthier diets and social inclusion.",
+  "description": {
+    "en": "Les Anges Gardins is an initiative focused on popular education and integration through economic activity, mainly in organic gardening. Created to address food insecurity and promote social justice, it aims to create sustainable local food systems. By structuring supply chains and supporting community participation, the initiative promotes food accessibility and well-being. Through collaboration with diverse stakeholders, it aims to redefine economic models and improve food citizenship, ultimately contributing to healthier diets and social inclusion.",
+    "fr": "Les Anges Gardins est une initiative axée sur l'éducation populaire et l'insertion par l'activité économique, principalement dans le domaine du jardinage biologique. Créée pour lutter contre l'insécurité alimentaire et promouvoir la justice sociale, elle vise à créer des systèmes alimentaires locaux durables. En structurant les chaînes d'approvisionnement et en soutenant la participation communautaire, l'initiative favorise l'accessibilité à la nourriture et le bien-être. En collaborant avec diverses parties prenantes, elle vise à redéfinir les modèles économiques et à améliorer la citoyenneté alimentaire, contribuant ainsi à une alimentation plus saine et à l'inclusion sociale.",
+    "es": "Les Anges Gardins es una iniciativa centrada en la educación popular y la integración a través de la actividad económica, principalmente en la horticultura ecológica. Creada para hacer frente a la inseguridad alimentaria y promover la justicia social, su objetivo es crear sistemas alimentarios locales sostenibles. Al estructurar las cadenas de suministro y apoyar la participación de la comunidad, la iniciativa fomenta la accesibilidad de los alimentos y el bienestar. Mediante la colaboración con diversas partes interesadas, pretende redefinir los modelos económicos y mejorar la ciudadanía alimentaria, contribuyendo en última instancia a dietas más sanas y a la inclusión social.",
+    "de": "Les Anges Gardins ist eine Initiative, die sich auf Volksbildung und Integration durch wirtschaftliche Aktivitäten konzentriert, vor allem in der organischen Marktgärtnerei. Established to address food insecurity and promote social justice, it aims to create sustainable local food systems. By structuring supply chains and supporting community engagement, the initiative fosters food accessibility and well-being. Through collaboration with various stakeholders, it seeks to redefine economic models and enhance food citizenship, ultimately contributing to healthier diets and social inclusion."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "fr",
   "location": "",
-  "name": "Les Anges Gardins",
+  "name": {
+    "fr": "Les Anges Gardins",
+    "en": "Les Anges Gardins",
+    "es": "Los ángeles de la guarda",
+    "de": "Die Schutzengel"
+  },
   "pubId": 457252,
   "score": 62.10000000000017,
   "state": "ongoing-project",
@@ -38,8 +48,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

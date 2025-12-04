@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754568511,
   "date": null,
-  "description": "Forest Foods is an innovative agricultural initiative based in Limuru, Kenya, focused on sustainable farming practices. Founded by a diverse team, the project aims to disrupt traditional agricultural systems by implementing advanced agroforestry techniques. With a commitment to enhancing food production, restoring ecosystems, and promoting transparency in the food supply chain, Forest Foods seeks to empower local farmers and create a model for sustainable agriculture that can be replicated across the region.",
+  "description": {
+    "en": "Forest Foods is an innovative agricultural initiative based in Limuru, Kenya, focused on sustainable farming practices. Founded by a diverse team, the project aims to disrupt traditional farming systems by applying advanced agroforestry techniques. Committed to improving food production, restoring ecosystems and promoting transparency in the food supply chain, Forest Foods aims to empower local farmers and create a model of sustainable agriculture that can be replicated throughout the region.",
+    "fr": "Forest Foods est une initiative agricole innovante basée à Limuru, au Kenya, qui se concentre sur les pratiques agricoles durables. Fondé par une équipe diversifiée, le projet vise à bouleverser les systèmes agricoles traditionnels en appliquant des techniques agroforestières avancées. Engagée dans l'amélioration de la production alimentaire, la restauration des écosystèmes et la promotion de la transparence dans la chaîne d'approvisionnement alimentaire, Forest Foods vise à responsabiliser les agriculteurs locaux et à créer un modèle d'agriculture durable qui peut être reproduit dans toute la région.",
+    "es": "Forest Foods es una innovadora iniciativa agrícola con sede en Limuru (Kenia), centrada en prácticas agrícolas sostenibles. Fundado por un equipo diverso, el proyecto pretende trastocar los sistemas agrícolas tradicionales aplicando técnicas agroforestales avanzadas. Con el compromiso de mejorar la producción de alimentos, restaurar los ecosistemas y promover la transparencia en la cadena de suministro de alimentos, Forest Foods pretende capacitar a los agricultores locales y crear un modelo de agricultura sostenible que pueda reproducirse en toda la región.",
+    "de": "Forest Foods ist eine innovative landwirtschaftliche Initiative in Limuru, Kenia, die sich auf nachhaltige Landwirtschaftspraktiken konzentriert. Das von einem vielfältigen Team gegründete Projekt zielt darauf ab, die traditionellen landwirtschaftlichen Systeme durch die Einführung fortschrittlicher Agroforstwirtschaftstechniken zu unterbrechen. Forest Foods setzt sich für die Steigerung der Lebensmittelproduktion, die Wiederherstellung von Ökosystemen und die Förderung der Transparenz in der Lebensmittelversorgungskette ein und versucht, lokale Bauern zu stärken und ein Modell für nachhaltige Landwirtschaft zu schaffen, das in der gesamten Region nachgeahmt werden kann."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Forest Foods",
+  "name": {
+    "en": "Forest Foods",
+    "fr": "Forest Foods",
+    "es": "Alimentos forestales",
+    "de": "Forest Foods"
+  },
   "pubId": 473152,
   "score": -193.6321045111393,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

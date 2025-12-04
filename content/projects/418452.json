@@ -12,7 +12,12 @@
   ],
   "createdAt": 1658416936,
   "date": null,
-  "description": "Le projet \"Évolution des métiers\" a pour objectif de collecter les besoins des nouveaux métiers de la transition alimentaire pour les analyser et les diffuser auprès des professionnels. C’est au CHU Dijon-Bourgogne que la première opération a été déployée et réussie sur le sujet du repas à l’hôpital. En intégrant le ressenti des soignants, les besoins techniques, la qualité des produits et le service aux patients, des améliorations ont pu être proposées en termes de qualité et diversification des repas, de portions, de menus, de cuisson et de communication professionnelle entre les soignants, les cuisiniers, les patients et leur famille. La cartographie de l’alimentation au coeur du parcours de soins a permis de déterminer les nouveaux besoins en compétences professionnelles afin de mettre en place des formations adaptées. Ces formations s’adresseront à tous les professionnels de Bourgogne-Franche-Comté susceptibles d’être concernés : agriculteurs, transformateurs, cuisiniers, diététiciens, commis de cuisine, agents de restauration…",
+  "description": {
+    "fr": "Le projet \"Évolution des métiers\" a pour objectif de collecter les besoins des nouveaux métiers de la transition alimentaire pour les analyser et les diffuser auprès des professionnels. C’est au CHU Dijon-Bourgogne que la première opération a été déployée et réussie sur le sujet du repas à l’hôpital. En intégrant le ressenti des soignants, les besoins techniques, la qualité des produits et le service aux patients, des améliorations ont pu être proposées en termes de qualité et diversification des repas, de portions, de menus, de cuisson et de communication professionnelle entre les soignants, les cuisiniers, les patients et leur famille. La cartographie de l’alimentation au coeur du parcours de soins a permis de déterminer les nouveaux besoins en compétences professionnelles afin de mettre en place des formations adaptées. Ces formations s’adresseront à tous les professionnels de Bourgogne-Franche-Comté susceptibles d’être concernés : agriculteurs, transformateurs, cuisiniers, diététiciens, commis de cuisine, agents de restauration…",
+    "en": "The aim of the \"Evolution des métiers\" project is to collect the needs of the new professions involved in the food transition, analyze them and disseminate them to professionals. The first operation was successfully deployed at Dijon-Bourgogne University Hospital on the subject of hospital meals. By integrating caregivers' perceptions, technical needs, product quality and patient service, improvements were proposed in terms of meal quality and diversification, portions, menus, cooking and professional communication between caregivers, cooks, patients and their families. The mapping of food at the heart of the care pathway has made it possible to identify new needs in terms of professional skills, with a view to setting up appropriate training courses. These training courses will be aimed at all professionals in Burgundy-Franche-Comté likely to be involved: farmers, processors, cooks, dieticians, kitchen assistants, catering staff, etc.",
+    "es": "El objetivo del proyecto \"Evolución de las profesiones\" es recoger las necesidades de las nuevas profesiones implicadas en la transición alimentaria, analizarlas y difundirlas entre los profesionales. La primera operación se desplegó con éxito en el hospital universitario de Dijon-Bourgogne sobre el tema de las comidas hospitalarias. Teniendo en cuenta el sentir de los cuidadores, las necesidades técnicas, la calidad de los productos y el servicio a los pacientes, se propusieron mejoras en cuanto a la calidad y diversificación de las comidas, las raciones, los menús, la cocina y la comunicación profesional entre cuidadores, cocineros, pacientes y familiares. El hecho de situar la alimentación en el centro del recorrido asistencial ha permitido determinar las nuevas necesidades de competencias profesionales para poner en marcha las formaciones adecuadas. Estas formaciones irán dirigidas a todos los profesionales de Borgoña-Franco Condado que puedan verse implicados: agricultores, transformadores, cocineros, dietistas, ayudantes de cocina, personal de catering, etc.",
+    "de": "Das Projekt \"Evolution der Berufe\" hat zum Ziel, die Bedürfnisse der neuen Berufe im Rahmen der Ernährungsumstellung zu sammeln, um sie zu analysieren und unter den Fachleuten zu verbreiten. Am Universitätsklinikum Dijon-Burgund wurde die erste Operation zum Thema Krankenhausmahlzeiten erfolgreich eingesetzt. Durch die Einbeziehung der Empfindungen des Pflegepersonals, der technischen Anforderungen, der Produktqualität und des Service für die Patienten konnten Verbesserungen in Bezug auf die Qualität und Diversifizierung der Mahlzeiten, die Portionsgrößen, die Menüs, das Kochen und die professionelle Kommunikation zwischen Pflegepersonal, Köchen, Patienten und ihren Familien vorgeschlagen werden. Die Kartierung der Ernährung im Zentrum des Behandlungspfades ermöglichte es, neue Anforderungen an die beruflichen Fähigkeiten zu ermitteln, um geeignete Schulungen einzurichten. Diese Schulungen richten sich an alle Fachleute aus der Region Bourgogne-Franche-Comté, die davon betroffen sein könnten: Landwirte, Verarbeiter, Köche, Ernährungsberater, Küchenhilfen, Restaurantfachleute..."
+  },
   "field": [
     "other-social-sciences-and-humanities",
     "education-sciences",
@@ -21,7 +26,12 @@
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "\"Evolution des métiers\" : les nouveaux métiers de la transition alimentaire",
+  "name": {
+    "fr": "\"Evolution des métiers\" : les nouveaux métiers de la transition alimentaire",
+    "en": "\"Evolution des métiers\": the new professions of the food transition",
+    "es": "\"Evolución de las profesiones: las nuevas profesiones de la transición alimentaria",
+    "de": "\"Evolution der Berufe\": Die neuen Berufe der Ernährungsumstellung"
+  },
   "pubId": 418452,
   "score": 1728.8842105263298,
   "state": "ongoing-project",
@@ -49,28 +59,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495431,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495431,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

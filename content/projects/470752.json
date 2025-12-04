@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754663074,
   "date": null,
-  "description": "The initiative, The Bevy Pub, is a unique community-owned pub located in Brighton, distinguished as the only one in a housing estate in the UK. It serves as a social hub, offering food, beverages, and various community activities while promoting environmental sustainability through zero waste operations. The pub engages local residents in initiatives like a community garden, job clubs, and family events, fostering a sense of belonging and collaboration within the neighborhood and its residents. ",
+  "description": {
+    "en": "The initiative, The Bevy Pub, is a unique community-owned pub located in Brighton, which has the distinction of being the only one on a UK housing estate. It serves as a social hub, offering food, drink and various community activities, while promoting environmental sustainability through zero waste operations. The pub engages local residents in initiatives such as a community garden, job clubs and family events, fostering a sense of belonging and collaboration between the neighborhood and its residents.",
+    "fr": "L'initiative, The Bevy Pub, est un pub communautaire unique en son genre à Brighton, qui se distingue par le fait qu'il est le seul à se trouver dans un quartier résidentiel du Royaume-Uni. Il sert de centre social, proposant de la nourriture, des boissons et une série d'activités communautaires, tout en promouvant la durabilité environnementale grâce à des activités sans déchets. Le pub fait participer les résidents locaux à des initiatives telles qu'un jardin communautaire, des clubs de travail et des événements familiaux, favorisant ainsi un sentiment d'appartenance et de collaboration entre le quartier et ses résidents.",
+    "es": "La iniciativa, The Bevy Pub, es un pub único de propiedad comunitaria situado en Brighton, que se distingue por ser el único en una urbanización del Reino Unido. Sirve de centro social, ofreciendo comida, bebida y diversas actividades comunitarias, al tiempo que promueve la sostenibilidad medioambiental mediante operaciones de residuo cero. El pub involucra a los residentes locales en iniciativas como un huerto comunitario, clubes de empleo y eventos familiares, fomentando un sentimiento de pertenencia y colaboración entre el vecindario y sus residentes.",
+    "de": "Die Initiative, The Bevy Pub, ist ein einzigartiges, kommunal betriebenes Pub in Brighton, das als einziges in einem Wohnhaus in Großbritannien ausgezeichnet ist. Es dient als soziale Drehscheibe, die Essen, Getränke und verschiedene Gemeinschaftsaktivitäten anbietet und gleichzeitig die ökologische Nachhaltigkeit durch abfallfreie Betriebe fördert. Das Pub beteiligt die Bewohner an Initiativen wie einem Gemeinschaftsgarten, Jobclubs und Familienveranstaltungen und fördert so ein Gefühl der Zugehörigkeit und Zusammenarbeit in der Nachbarschaft und mit den Bewohnern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "The Bevy Pub",
+  "name": {
+    "en": "The Bevy Pub",
+    "fr": "The Bevy Pub",
+    "es": "Pub The Bevy",
+    "de": "The Bevy Pub"
+  },
   "pubId": 470752,
   "score": 43.46073834553636,
   "state": "ongoing-project",
@@ -40,10 +50,6 @@
   ],
   "url": "",
   "yt": "tD03XIIRWgc",
-  "zone": [
-    3,
-    1
-  ],
   "editedAt": 1755736534,
   "feedback": [
     {
@@ -51,11 +57,8 @@
       "at": 1755736534
     }
   ],
-  "lastEvent": {
-    "at": 1755736534,
-    "by": "contact"
-  },
   "updatedAt": [
     1755736534
-  ]
+  ],
+  "originalLang": "fr"
 }

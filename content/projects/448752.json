@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739455416,
   "date": null,
-  "description": "Kitchen Collective is an initiative in Copenhagen, aimed at supporting new food entrepreneurs through a shared kitchen and event space. Established over a decade ago, it operates on a model inspired by cooperative principles, allowing food businesses to start with lower risks by providing access to certified kitchen facilities, which are often a significant barrier for aspiring food entrepreneurs. The initiative emphasizes inclusivity, enabling diverse chefs from various cultural backgrounds to test and develop their culinary ideas without the pressure of immediate profitability.\n\nKitchen Collective fosters a community-oriented environment where residents support each other, share knowledge, and collaborate on events. The space is designed to be flexible, accommodating various activities such as pop-up restaurants, cooking classes, and catering services. The initiative has successfully helped around 700 food companies get started, promoting a more democratic gastronomic scene in Copenhagen.",
+  "description": {
+    "en": "Kitchen Collective is a Copenhagen-based initiative that aims to support new food entrepreneurs through a shared kitchen and event space. Established over a decade ago, it operates on a model inspired by cooperative principles, enabling food businesses to start with less risk by providing access to certified kitchen facilities, which are often a major barrier for aspiring food entrepreneurs. The initiative emphasizes inclusivity, allowing diverse chefs from different cultural backgrounds to test and develop their culinary ideas without the pressure of immediate profitability. Kitchen Collective fosters a community-oriented environment where residents support each other, share knowledge and collaborate on events. The space is designed to be flexible and accommodate a variety of activities, such as pop-up restaurants, cooking classes and catering services. The initiative has successfully helped launch some 700 food businesses, promoting a more democratic food scene in Copenhagen.",
+    "fr": "Kitchen Collective est une initiative basée à Copenhague qui vise à soutenir les nouveaux entrepreneurs alimentaires grâce à une cuisine partagée et à un espace événementiel. Créée il y a plus de dix ans, elle fonctionne selon un modèle inspiré des principes coopératifs, permettant aux entreprises alimentaires de démarrer avec moins de risques en leur donnant accès à des installations de cuisine certifiées, qui constituent souvent un obstacle majeur pour les entrepreneurs alimentaires en herbe. L'initiative met l'accent sur l'inclusivité, en permettant à divers chefs issus de milieux culturels différents de tester et de développer leurs idées culinaires sans la pression d'une rentabilité immédiate. Kitchen Collective favorise un environnement orienté vers la communauté, où les résidents se soutiennent mutuellement, partagent leurs connaissances et collaborent à l'organisation d'événements. L'espace est conçu pour être flexible et accueillir une variété d'activités, telles que des restaurants pop-up, des cours de cuisine et des services de traiteur. L'initiative a permis de lancer avec succès quelque 700 entreprises alimentaires, favorisant ainsi la démocratisation de la scène alimentaire à Copenhague.",
+    "es": "Kitchen Collective es una iniciativa de Copenhague cuyo objetivo es apoyar a los nuevos empresarios alimentarios a través de una cocina compartida y un espacio para eventos. Creada hace más de una década, funciona según un modelo inspirado en los principios cooperativos, que permite a las empresas alimentarias empezar con menos riesgos al facilitar el acceso a instalaciones de cocina certificadas, que suelen ser una barrera importante para los aspirantes a empresarios alimentarios. La iniciativa hace hincapié en la inclusividad, permitiendo a diversos chefs de distintos orígenes culturales probar y desarrollar sus ideas culinarias sin la presión de la rentabilidad inmediata.\n\nKitchen Collective fomenta un entorno orientado a la comunidad en el que los residentes se apoyan mutuamente, comparten conocimientos y colaboran en eventos. El espacio está diseñado para ser flexible y dar cabida a diversas actividades, como restaurantes pop-up, clases de cocina y servicios de catering. La iniciativa ha ayudado con éxito a poner en marcha unas 700 empresas alimentarias, promoviendo una escena gastronómica más democrática en Copenhague.",
+    "de": "Kitchen Collective ist eine Initiative in Kopenhagen, die neue Lebensmittelunternehmer durch eine gemeinsam genutzte Küche und einen Veranstaltungsraum unterstützen will. Established over a decade, it operates on a model inspired by cooperative principles, allowing food businesses to start with lower risks by providing access to certified kitchen facilities, which often are a significant barrier for aspiring food entrepreneurs. Die Initiative betont die Inklusivität und ermöglicht es verschiedenen Köchen mit unterschiedlichem kulturellem Hintergrund, ihre kulinarischen Ideen ohne den Druck der unmittelbaren Rentabilität zu testen und weiterzuentwickeln.\n\nKitchen Collective fördert ein gemeinschaftsorientiertes Umfeld, in dem sich die Bewohner gegenseitig unterstützen, Wissen teilen und bei Veranstaltungen zusammenarbeiten. Die Räumlichkeiten sind flexibel gestaltet und bieten Platz für verschiedene Aktivitäten wie Pop-up-Restaurants, Kochkurse und Catering-Dienste. Die Initiative hat erfolgreich rund 700 Lebensmittelunternehmen gegründet und damit eine demokratischere Gastronomieszene in Kopenhagen gefördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Kitchen Collective",
+  "name": {
+    "en": "Kitchen Collective",
+    "fr": "Kitchen Collective",
+    "es": "Colectivo de cocina",
+    "de": "Kitchen Collective"
+  },
   "pubId": 448752,
   "score": 104.50196078431418,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "https://cphfoodspace.dk",
   "yt": "U9QZ-0a-TiY",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

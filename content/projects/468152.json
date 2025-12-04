@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754482467,
   "date": null,
-  "description": "Agroprovidencia is an initiative aimed at enhancing food security and sovereignty in the islands of Providencia. Established in 2019, it focuses on empowering local farming families through education, project management, and community engagement. The initiative promotes the cultivation of traditional crops, supports local markets, and fosters generational knowledge transfer among children and adults. By collaborating with various organizations, Agroprovidencia seeks to revitalize agricultural practices and ensure sustainable food production for the community.",
+  "description": {
+    "en": "Agroprovidencia is an initiative aimed at improving food security and sovereignty on the islands of Providencia. Created in 2019, it focuses on empowering local farming families through education, project management and community involvement. The initiative promotes the cultivation of traditional crops, supports local markets and fosters the generational transfer of knowledge between children and adults. Through collaboration with various organizations, Agroprovidencia seeks to revitalize agricultural practices and ensure sustainable food production for the community.",
+    "fr": "Agroprovidencia est une initiative visant à améliorer la sécurité et la souveraineté alimentaires dans les îles de Providencia. Créée en 2019, elle se concentre sur l'autonomisation des familles d'agriculteurs locaux par le biais de l'éducation, de la gestion de projets et de la participation communautaire. L'initiative promeut les cultures traditionnelles, soutient les marchés locaux et encourage le transfert générationnel de connaissances entre les enfants et les adultes. En collaborant avec diverses organisations, Agroprovidencia cherche à revitaliser les pratiques agricoles et à assurer une production alimentaire durable pour la communauté.",
+    "es": "Agroprovidencia es una iniciativa destinada a mejorar la seguridad y la soberanía alimentarias en las islas de Providencia. Creada en 2019, se centra en empoderar a las familias agricultoras locales a través de la educación, la gestión de proyectos y la participación de la comunidad. La iniciativa promueve el cultivo de cosechas tradicionales, apoya los mercados locales y fomenta la transferencia generacional de conocimientos entre niños y adultos. Mediante la colaboración con diversas organizaciones, Agroprovidencia busca revitalizar las prácticas agrícolas y garantizar la producción sostenible de alimentos para la comunidad.",
+    "de": "Agroprovidencia ist eine Initiative zur Verbesserung der Ernährungssicherheit und -souveränität auf den Inseln von Providencia. Die 2019 gegründete Initiative konzentriert sich auf die Stärkung lokaler Bauernfamilien durch Bildung, Projektmanagement und kommunales Engagement. Die Initiative fördert den Anbau traditioneller Feldfrüchte, unterstützt lokale Märkte und fördert den generationalen Wissenstransfer unter Kindern und Erwachsenen. Durch die Zusammenarbeit mit verschiedenen Organisationen will Agroprovidencia die landwirtschaftlichen Praktiken wiederbeleben und eine nachhaltige Nahrungsmittelproduktion für die Gemeinde sicherstellen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agroprovidencia",
+  "name": {
+    "es": "Agroprovidencia",
+    "en": "Agroprovidencia",
+    "fr": "Agroprovidencia",
+    "de": "Agroprovidencia"
+  },
   "pubId": 468152,
   "score": -204.27272951113932,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

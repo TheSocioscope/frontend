@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755003374,
   "date": null,
-  "description": "The Evands initiative focuses on combating anaemia, particularly in low-income areas like Tingo María, where rates are alarmingly high. With a founder who was inspired by her personal health challenges, the initiative produces nutritious chocolates and porridges enriched with haemoglobin powder. By collaborating with local municipalities, the initiative aims to provide these products free of charge to affected families, while also promoting dietary education and sustainable food practices.      ",
+  "description": {
+    "en": "The Evands initiative focuses on combating anaemia, particularly in low-income areas like Tingo María, where rates are alarmingly high. With a founder who was inspired by her personal health challenges, the initiative produces nutritious chocolates and porridges enriched with haemoglobin powder. By collaborating with local municipalities, the initiative aims to provide these products free of charge to affected families, while also promoting dietary education and sustainable food practices.      ",
+    "fr": "L'initiative Evands se concentre sur la lutte contre l'anémie, en particulier dans les zones à faibles revenus comme Tingo María, où les taux sont alarmants. Inspirée par les problèmes de santé personnels de sa fondatrice, l'initiative produit des chocolats et des porridges nutritifs enrichis de poudre d'hémoglobine. En collaborant avec les municipalités locales, l'initiative vise à fournir gratuitement ces produits aux familles touchées, tout en promouvant l'éducation diététique et les pratiques alimentaires durables.      ",
+    "es": "La iniciativa Evands se centra en la lucha contra la anemia, especialmente en zonas de bajos ingresos como Tingo María, donde las tasas son alarmantemente altas. Con una fundadora que se inspiró en sus problemas personales de salud, la iniciativa produce chocolates y papillas nutritivas enriquecidos con hemoglobina en polvo. Mediante la colaboración con los municipios locales, la iniciativa pretende proporcionar estos productos gratuitamente a las familias afectadas, al tiempo que promueve la educación dietética y las prácticas alimentarias sostenibles.      ",
+    "de": "Die Initiative Evands konzentriert sich auf die Bekämpfung von Anämie, insbesondere in einkommensschwachen Gebieten wie Tingo María, wo die Anämierate alarmierend hoch ist. Die Gründerin der Initiative, die durch ihre persönlichen gesundheitlichen Probleme inspiriert wurde, stellt nahrhafte Schokolade und Brei her, die mit Hämoglobinpulver angereichert sind. Durch die Zusammenarbeit mit lokalen Gemeinden will die Initiative diese Produkte kostenlos an betroffene Familien abgeben und gleichzeitig die Ernährungserziehung und nachhaltige Ernährungspraktiken fördern.      "
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Evands",
+  "name": {
+    "en": "Evands",
+    "fr": "Evands",
+    "es": "Evands",
+    "de": "Evands"
+  },
   "pubId": 493552,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754988597,
   "date": null,
-  "description": "Pura Fruta is a medium-sized company based in Cartagena, specializing in fruit pulp production. Founded in 1999, it has evolved from a family business into an innovative enterprise focused on sustainability. Pura Fruta aims to minimize waste by creating wines from fermented fruits and emphasizes quality over quantity. The company is dedicated to educating consumers about its products and fostering local partnerships, while also navigating challenges like transportation costs and energy supply issues.",
+  "description": {
+    "en": "Pura Fruta is a medium-sized company based in Cartagena, specializing in fruit pulp production. Founded in 1999, it has evolved from a family business into an innovative enterprise focused on sustainability. Pura Fruta aims to minimize waste by creating wines from fermented fruits and emphasizes quality over quantity. The company is dedicated to educating consumers about its products and fostering local partnerships, while also navigating challenges like transportation costs and energy supply issues.",
+    "fr": "Pura Fruta est une entreprise de taille moyenne basée à Cartagena, spécialisée dans la production de pulpe de fruits. Fondée en 1999, elle est passée d'une entreprise familiale à une entreprise innovante axée sur la durabilité. Pura Fruta vise à minimiser les déchets en créant des vins à partir de fruits fermentés et privilégie la qualité à la quantité. L'entreprise s'efforce d'informer les consommateurs sur ses produits et d'encourager les partenariats locaux, tout en relevant des défis tels que les coûts de transport et les problèmes d'approvisionnement en énergie.",
+    "es": "Pura Fruta es una mediana empresa con sede en Cartagena, especializada en la producción de pulpa de fruta. Fundada en 1999, ha pasado de ser un negocio familiar a una empresa innovadora centrada en la sostenibilidad. Pura Fruta pretende minimizar los residuos creando vinos a partir de frutas fermentadas y hace hincapié en la calidad por encima de la cantidad. La empresa se dedica a educar a los consumidores sobre sus productos y a fomentar las asociaciones locales, al tiempo que afronta retos como los costes de transporte y los problemas de suministro energético.",
+    "de": "Pura Fruta ist ein mittelständisches Unternehmen mit Sitz in Cartagena, das auf die Herstellung von Fruchtfleisch spezialisiert ist. Es wurde 1999 gegründet und hat sich von einem Familienbetrieb zu einem innovativen, auf Nachhaltigkeit ausgerichteten Unternehmen entwickelt. Pura Fruta hat sich zum Ziel gesetzt, durch die Herstellung von Weinen aus fermentierten Früchten die Abfallmenge zu minimieren und setzt auf Qualität statt Quantität. Das Unternehmen ist bestrebt, die Verbraucher über seine Produkte aufzuklären und lokale Partnerschaften zu fördern, während es gleichzeitig Herausforderungen wie Transportkosten und Fragen der Energieversorgung meistert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Pura Fruta",
+  "name": {
+    "es": "Pura Fruta",
+    "en": "Pure Fruit",
+    "fr": "Fruits purs",
+    "de": "Reine Frucht"
+  },
   "pubId": 489152,
   "score": 39.5422701998776,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

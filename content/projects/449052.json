@@ -13,13 +13,23 @@
   ],
   "createdAt": 1739455835,
   "date": null,
-  "description": "The Vergers d'Épicure initiative, located in the canton of Geneva, Switzerland, is an agricultural cooperative focused on fruit and honey production while adhering to sustainable farming methods in harmony with nature. This cooperative aims to promote a food transition by raising awareness among its members about the importance of local food and the effort required for food production.\n\nThe Vergers d'Épicure operates on a cooperative model where members are required to commit a certain number of work hours per year to benefit from the harvests. The initiative strives to strengthen its activities and maintain a close connection to the land while fostering values of learning and knowledge-sharing.",
+  "description": {
+    "en": "The Vergers d'Épicure initiative, located in the canton of Geneva, Switzerland, is an agricultural cooperative focused on the production of fruit and honey following sustainable farming methods in harmony with nature. This cooperative aims to promote a food transition by raising awareness among its members of the importance of local food and the effort required to produce it. The Vergers d'Épicure operate according to a cooperative model in which members must commit to a certain number of working hours per year in order to benefit from the harvests. The initiative strives to strengthen its activities and maintain a close connection to the land, while fostering values of learning and knowledge sharing.",
+    "fr": "L'initiative des Vergers d'Épicure, située dans le canton de Genève, en Suisse, est une coopérative agricole axée sur la production de fruits et de miel en utilisant des méthodes d'agriculture durable en harmonie avec la nature. La coopérative vise à promouvoir une transition alimentaire en sensibilisant ses membres à l'importance des aliments locaux et aux efforts nécessaires pour les produire. Les Vergers d'Épicure fonctionnent selon un modèle coopératif dans lequel les membres doivent s'engager à effectuer un certain nombre d'heures de travail par an afin de bénéficier des récoltes. L'initiative s'efforce de renforcer ses activités et de maintenir un lien étroit avec la terre, tout en encourageant les valeurs d'apprentissage et de partage des connaissances.",
+    "es": "La iniciativa Vergers d'Épicure, situada en el cantón de Ginebra (Suiza), es una cooperativa agrícola centrada en la producción de fruta y miel siguiendo métodos de cultivo sostenibles en armonía con la naturaleza. Esta cooperativa pretende promover una transición alimentaria concienciando a sus miembros sobre la importancia de los alimentos locales y el esfuerzo que requiere su producción.\n\nLos Vergers d'Épicure funcionan según un modelo cooperativo en el que los miembros deben comprometerse a un determinado número de horas de trabajo al año para beneficiarse de las cosechas. La iniciativa se esfuerza por reforzar sus actividades y mantener una estrecha conexión con la tierra, al tiempo que fomenta valores de aprendizaje e intercambio de conocimientos.",
+    "de": "The Vergers d'Épicure initiative, located in the canton of Geneva, Switzerland, is an agricultural cooperative focused on fruit and honey production while adhering to sustainable farming methods in harmony with nature. Die Genossenschaft will den Übergang zu einer neuen Ernährungsweise fördern, indem sie bei ihren Mitgliedern das Bewusstsein für die Bedeutung lokaler Lebensmittel und den für die Lebensmittelproduktion erforderlichen Aufwand schärft.\n\nThe Vergers d'Épicure operates on a cooperative model where members are required to commit a certain number of work hours per year to benefit from the harvests. Die Initiative bemüht sich, ihre Aktivitäten zu stärken und eine enge Verbindung zum Land aufrechtzuerhalten, während sie gleichzeitig die Werte des Lernens und des Wissensaustauschs fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Vergers Epicure",
+  "name": {
+    "en": "Vergers Epicure",
+    "fr": "Vergers Epicure",
+    "es": "Vergers Epicure",
+    "de": "Obstgärten Epikur"
+  },
   "pubId": 449052,
   "score": 105.50196078431387,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "http://www.vergers-epicure.ch/",
   "yt": "QcF63A1ADG0",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

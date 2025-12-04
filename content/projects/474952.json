@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754575913,
   "date": null,
-  "description": "The Organic Agriculture Centre of Kenya (OAK) is a non-profit organization founded in 2006, dedicated to promoting organic farming practices in Muranga County. Since 2007, OAK has been educating smallholder farmers on sustainable agricultural methods, providing technical support, and facilitating access to organic inputs through its sister company, Organic Kenya Ltd. The initiative aims to improve food security, enhance soil health, and promote environmentally friendly farming practices for healthier communities.",
+  "description": {
+    "en": "The Organic Agriculture Center of Kenya (OAK) is a non-profit organization founded in 2006, dedicated to promoting organic farming practices in Muranga County. Since 2007, OAK has been educating smallholder farmers in sustainable farming methods, providing them with technical support and facilitating access to organic inputs through its sister company, Organic Kenya Ltd. The initiative aims to improve food security, enhance soil health and promote environmentally friendly farming practices for healthier communities.",
+    "fr": "Le Centre d'agriculture biologique du Kenya (OAK) est une organisation à but non lucratif fondée en 2006, qui se consacre à la promotion des pratiques d'agriculture biologique dans le comté de Muranga. Depuis 2007, l'OAK forme les petits exploitants agricoles aux méthodes d'agriculture durable, leur fournit une assistance technique et facilite l'accès aux intrants biologiques par l'intermédiaire de sa société sœur, Organic Kenya Ltd. L'initiative vise à renforcer la sécurité alimentaire, à améliorer la santé des sols et à promouvoir des pratiques agricoles respectueuses de l'environnement pour des communautés plus saines.",
+    "es": "El Centro de Agricultura Ecológica de Kenia (OAK) es una organización sin ánimo de lucro fundada en 2006, dedicada a promover prácticas de agricultura ecológica en el condado de Muranga. Desde 2007, OAK educa a los pequeños agricultores en métodos de agricultura sostenible, les proporciona apoyo técnico y les facilita el acceso a insumos orgánicos a través de su empresa hermana, Organic Kenya Ltd. (OAK). La iniciativa pretende mejorar la seguridad alimentaria, mejorar la salud del suelo y promover prácticas agrícolas respetuosas con el medio ambiente para lograr comunidades más sanas.",
+    "de": "Das Organic Agriculture Centre of Kenya (OAK) ist eine im Jahr 2006 gegründete gemeinnützige Organisation, die sich der Förderung von organischen Anbaumethoden im Bezirk Muranga widmet. Seit 2007 hat OAK Kleinbauern über nachhaltige landwirtschaftliche Methoden aufgeklärt, technische Unterstützung geleistet und über seine Schwesterfirma Organic Kenya Ltd. den Zugang zu organischen Inputs erleichtert. Die Initiative zielt darauf ab, die Ernährungssicherheit zu verbessern, die Bodengesundheit zu erhöhen und umweltfreundliche Anbaumethoden für gesündere Gemeinden zu fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Organic Agriculture Centre of Kenya ",
+  "name": {
+    "en": "Organic Agriculture Centre of Kenya ",
+    "fr": "Organic Agriculture Centre of Kenya ",
+    "es": "Centro de Agricultura Ecológica de Kenia",
+    "de": "Organic Agriculture Centre of Kenya"
+  },
   "pubId": 474952,
   "score": 13.273003859420408,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    1,
-    5
-  ]
+  "originalLang": "fr"
 }

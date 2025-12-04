@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754995426,
   "date": null,
-  "description": "Grupo Ceiba, founded in 2016, is a micro-enterprise focused on sustainable production through a circular economy model. Located in Prado Tolima, encompassing 170 hectares of tropical dry forest, it integrates sheep, goats, and bees into its operations, producing healthy foods, biocosmetics, and agro-inputs. The initiative emphasizes environmental protection and community engagement, aiming to create a replicable model of sustainable agriculture while addressing local needs and promoting responsible consumption.",
+  "description": {
+    "en": "Grupo Ceiba, founded in 2016, is a micro-enterprise focused on sustainable production through a circular economy model. Located in Prado Tolima, encompassing 170 hectares of tropical dry forest, it integrates sheep, goats, and bees into its operations, producing healthy foods, biocosmetics, and agro-inputs. The initiative emphasizes environmental protection and community engagement, aiming to create a replicable model of sustainable agriculture while addressing local needs and promoting responsible consumption.",
+    "fr": "Grupo Ceiba, fondé en 2016, est une micro-entreprise axée sur la production durable grâce à un modèle d'économie circulaire. Située à Prado Tolima, sur 170 hectares de forêt tropicale sèche, elle intègre des moutons, des chèvres et des abeilles dans ses opérations, produisant des aliments sains, des biocosmétiques et des intrants agricoles. L'initiative met l'accent sur la protection de l'environnement et l'engagement communautaire, dans le but de créer un modèle reproductible d'agriculture durable tout en répondant aux besoins locaux et en promouvant une consommation responsable.",
+    "es": "El Grupo Ceiba, fundado en 2016, es una microempresa centrada en la producción sostenible a través de un modelo de economía circular. Ubicada en Prado Tolima, que abarca 170 hectáreas de bosque seco tropical, integra ovejas, cabras y abejas en sus operaciones, produciendo alimentos saludables, biocosméticos y agroinsumos. La iniciativa hace hincapié en la protección del medio ambiente y la participación de la comunidad, con el objetivo de crear un modelo replicable de agricultura sostenible, al tiempo que atiende las necesidades locales y promueve el consumo responsable.",
+    "de": "Die 2016 gegründete Grupo Ceiba ist ein Kleinstunternehmen, das sich auf nachhaltige Produktion durch ein Kreislaufwirtschaftsmodell konzentriert. Das Unternehmen befindet sich in Prado Tolima und umfasst 170 Hektar tropischen Trockenwald. Es integriert Schafe, Ziegen und Bienen in seinen Betrieb und produziert gesunde Lebensmittel, Biokosmetik und Agrarrohstoffe. Die Initiative legt den Schwerpunkt auf den Umweltschutz und das Engagement der Gemeinde und will ein nachahmenswertes Modell für nachhaltige Landwirtschaft schaffen, das gleichzeitig auf die lokalen Bedürfnisse eingeht und einen verantwortungsvollen Konsum fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Grupo Ceiba",
+  "name": {
+    "es": "Grupo Ceiba",
+    "en": "Ceiba Group",
+    "fr": "Groupe Ceiba",
+    "de": "Ceiba-Gruppe"
+  },
   "pubId": 481952,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "es"
 }

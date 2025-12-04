@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754912516,
   "date": null,
-  "description": "L'Ecole Comestible (The Edible School) initiative, founded in 2019, aims to educate children about sustainable food practices. By offering workshops that connect children with nature and their senses, the program promotes better eating habits and encourages families to make healthier food choices. Operating in seven regions of France, the initiative collaborates with teachers, local authorities, and committed companies to create impactful educational programs that foster a deeper understanding of food's role in health and the environment.",
+  "description": {
+    "en": "L'Ecole Comestible (The Edible School) initiative, founded in 2019, aims to educate children about sustainable food practices. By offering workshops that connect children with nature and their senses, the program promotes better eating habits and encourages families to make healthier food choices. Operating in seven regions of France, the initiative collaborates with teachers, local authorities, and committed companies to create impactful educational programs that foster a deeper understanding of food's role in health and the environment.",
+    "fr": "L'initiative L'École Comestible, fondée en 2019, vise à éduquer les enfants aux pratiques alimentaires durables. En proposant des ateliers qui connectent les enfants à la nature et à leurs sens, le programme promeut de meilleures habitudes alimentaires et encourage les familles à faire des choix alimentaires plus sains. Opérant dans sept régions de France, l'initiative collabore avec des enseignants, des autorités locales et des entreprises engagées pour créer des programmes éducatifs percutants qui favorisent une meilleure compréhension du rôle de l'alimentation dans la santé et l'environnement.",
+    "es": "La iniciativa L'Ecole Comestible (La Escuela Comestible), fundada en 2019, tiene como objetivo educar a los niños sobre prácticas alimentarias sostenibles. Al ofrecer talleres que conectan a los niños con la naturaleza y sus sentidos, el programa promueve mejores hábitos alimenticios y anima a las familias a elegir alimentos más saludables. Operando en siete regiones de Francia, la iniciativa colabora con profesores, autoridades locales y empresas comprometidas para crear programas educativos impactantes que fomenten una comprensión más profunda del papel de los alimentos en la salud y el medio ambiente.",
+    "de": "Die 2019 ins Leben gerufene Initiative L'Ecole Comestible (Die essbare Schule) hat zum Ziel, Kinder über nachhaltige Ernährungspraktiken aufzuklären. Durch Workshops, die Kinder mit der Natur und ihren Sinnen in Kontakt bringen, fördert das Programm bessere Essgewohnheiten und ermutigt Familien zu einer gesünderen Lebensmittelauswahl. In sieben Regionen Frankreichs arbeitet die Initiative mit Lehrern, lokalen Behörden und engagierten Unternehmen zusammen, um wirkungsvolle Bildungsprogramme zu entwickeln, die ein tieferes Verständnis der Rolle von Lebensmitteln für Gesundheit und Umwelt fördern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "L'Ecole Comestible",
+  "name": {
+    "fr": "L'Ecole Comestible",
+    "en": "The Edible School",
+    "es": "La Escuela Comestible",
+    "de": "Die Essbare Schule"
+  },
   "pubId": 484152,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -41,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754336402,
   "date": null,
-  "description": "Cap Veggie is an initiative founded by Laure Mardoc, aimed at modernizing French cuisine by integrating quality vegetarian options into institutional and commercial catering. With a focus on training chefs and kitchen teams, creating innovative recipes, and providing consultancy services, Cap Veggie seeks to reconcile traditional French gastronomy with plant-based cuisine. The initiative addresses the growing demand for sustainable food practices while ensuring that vegetarian meals remain enjoyable and accessible. Over the next decade, Cap Veggie aspires to ensure that every restaurant in France offers high-quality vegetarian choices, contributing significantly to the food transition.",
+  "description": {
+    "en": "Cap Veggie is an initiative founded by Laure Mardoc, which aims to modernize French cuisine by integrating quality vegetarian options in institutional and commercial catering. Focused on training chefs and kitchen teams, creating innovative recipes and providing consulting services, Cap Veggie aims to reconcile traditional French gastronomy with plant-based cuisine. The initiative responds to the growing demand for sustainable food practices, while ensuring that vegetarian meals remain enjoyable and accessible. Over the next decade, Cap Veggie aims to ensure that all restaurants in France offer high-quality vegetarian options, thus making a significant contribution to the food transition.",
+    "fr": "Cap Veggie est une initiative fondée par Laure Mardoc, qui vise à moderniser la cuisine française en intégrant des options végétariennes de qualité dans la restauration collective et commerciale. En se concentrant sur la formation des chefs et des équipes de cuisine, en créant des recettes innovantes et en fournissant des services de conseil, Cap Veggie vise à réconcilier la gastronomie française traditionnelle avec la cuisine végétale. L'initiative répond à la demande croissante de pratiques alimentaires durables, tout en garantissant que les repas végétariens restent agréables et accessibles. Au cours de la prochaine décennie, Cap Veggie a pour objectif de faire en sorte que tous les restaurants de France proposent des options végétariennes de qualité, contribuant ainsi de manière significative à la transition alimentaire.",
+    "es": "Cap Veggie es una iniciativa fundada por Laure Mardoc, cuyo objetivo es modernizar la cocina francesa integrando opciones vegetarianas de calidad en la restauración institucional y comercial. Centrada en la formación de chefs y equipos de cocina, la creación de recetas innovadoras y la prestación de servicios de consultoría, Cap Veggie pretende conciliar la gastronomía francesa tradicional con la cocina basada en plantas. La iniciativa responde a la creciente demanda de prácticas alimentarias sostenibles, al tiempo que garantiza que las comidas vegetarianas sigan siendo agradables y accesibles. En la próxima década, Cap Veggie aspira a garantizar que todos los restaurantes de Francia ofrezcan opciones vegetarianas de alta calidad, contribuyendo así significativamente a la transición alimentaria.",
+    "de": "Cap Veggie ist eine von Laure Mardoc gegründete Initiative, die die Modernisierung der französischen Küche durch die Integration qualitativ hochwertiger vegetarischer Optionen in institutionelle und kommerzielle Cateringunternehmen anstrebt. Mit einem Schwerpunkt auf der Ausbildung von Köchen und Küchenteams, der Entwicklung innovativer Rezepte und der Bereitstellung von Beratungsdiensten strebt Cap Veggie danach, die traditionelle französische Gastronomie wieder mit der pflanzlichen Küche in Einklang zu bringen. Die Initiative adressiert die wachsende Nachfrage nach nachhaltigen Ernährungspraktiken, während sie gleichzeitig sicherstellt, dass vegetarische Gerichte genussvoll und zugänglich bleiben. In den nächsten zehn Jahren möchte Cap Veggie sicherstellen, dass jedes Restaurant in Frankreich qualitativ hochwertige vegetarische Gerichte anbietet und damit einen wichtigen Beitrag zur Ernährungsumstellung leistet."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Cap Veggie",
+  "name": {
+    "nb": "Cap Veggie",
+    "en": "Cap Veggie",
+    "fr": "Cap Veggie",
+    "es": "Cap Veggie",
+    "de": "Kappe Veggie"
+  },
   "pubId": 457552,
   "score": -229.4198886020484,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ]
+  "originalLang": "fr"
 }

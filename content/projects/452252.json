@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754422033,
   "date": null,
-  "description": "The Finca María del Pilar project, located in Beltrán, Santiago del Estero, is a family-run initiative focused on viticulture and wine production. Established in 2011, the project began with a small test vineyard to assess the adaptability of grape varieties to the local soil and climate. Over the years, the farm has expanded to 60 hectares, with 6.5 hectares currently in production, growing various crops including vines, olive trees, and vegetables.\n\nThe project emphasizes sustainability, aiming to minimize the use of agrochemicals and promote natural farming practices. The winery is also involved in community development, employing local workers and providing training opportunities in viticulture and winemaking. The initiative has sparked the emergence of 12 additional vineyard projects in the region, fostering a collaborative environment among local producers.",
+  "description": {
+    "en": "The Finca María del Pilar project, located in Beltrán, Santiago del Estero, is a family initiative focused on viticulture and wine production. Established in 2011, the project began with a small test vineyard to evaluate the adaptability of grape varieties to the local soil and climate. Over the years, the farm has expanded to 60 hectares, with 6.5 hectares currently in production, growing a variety of crops, including vines, olives and vegetables. The project emphasizes sustainability, aiming to minimize the use of agrochemicals and promote natural farming practices. The winery is also involved in community development, employing local workers and providing training opportunities in viticulture and winemaking. The initiative has led to the emergence of 12 other vineyard projects in the region, fostering a collaborative environment among local producers.",
+    "fr": "Le projet Finca María del Pilar, situé à Beltrán, Santiago del Estero, est une initiative familiale axée sur la viticulture et la production de vin. Établi en 2011, le projet a commencé avec un petit vignoble d'essai pour évaluer l'adaptabilité des variétés de raisin au sol et au climat locaux. Au fil des ans, la ferme s'est étendue à 60 hectares, dont 6,5 hectares sont actuellement en production, avec une variété de cultures comprenant des vignes, des olives et des légumes. Le projet met l'accent sur la durabilité, visant à minimiser l'utilisation de produits agrochimiques et à promouvoir des pratiques agricoles naturelles. La cave est également impliquée dans le développement de la communauté, en employant des travailleurs locaux et en offrant des possibilités de formation en viticulture et en vinification. L'initiative a conduit à l'émergence de 12 autres projets de vignobles dans la région, favorisant un environnement de collaboration entre les producteurs locaux.",
+    "es": "El proyecto Finca María del Pilar, situado en Beltrán, Santiago del Estero, es una iniciativa familiar centrada en la viticultura y la producción de vino. Establecido en 2011, el proyecto comenzó con un pequeño viñedo de prueba para evaluar la adaptabilidad de las variedades de uva al suelo y el clima locales. A lo largo de los años, la explotación se ha ampliado a 60 hectáreas, con 6,5 hectáreas actualmente en producción, en las que se producen diversos cultivos, como vides, olivos y hortalizas.\n\nEl proyecto hace hincapié en la sostenibilidad, con el objetivo de minimizar el uso de productos agroquímicos y promover prácticas agrícolas naturales. La bodega también participa en el desarrollo de la comunidad, empleando a trabajadores locales y ofreciendo oportunidades de formación en viticultura y vinificación. La iniciativa ha propiciado la aparición de otros 12 proyectos de viñedos en la región, fomentando un entorno de colaboración entre los productores locales.",
+    "de": "Das Projekt Finca María del Pilar in Beltrán, Santiago del Estero, ist eine familiengeführte Initiative, die sich auf Weinbau und Weinproduktion konzentriert. Das 2011 gegründete Projekt begann mit einem kleinen Testweinberg, um die Anpassungsfähigkeit der Rebsorten an den lokalen Boden und das Klima zu prüfen. Im Laufe der Jahre ist der Betrieb auf 60 Hektar angewachsen, wobei derzeit 6,5 Hektar bewirtschaftet werden, auf denen verschiedene Nutzpflanzen wie Reben, Olivenbäume und Gemüse angebaut werden.\n\nDas Projekt betont die Nachhaltigkeit und zielt darauf ab, den Einsatz von Agrochemikalien zu minimieren und natürliche Anbaumethoden zu fördern. Das Weingut ist auch in der Gemeindeentwicklung engagiert, beschäftigt lokale Arbeitskräfte und bietet Ausbildungsmöglichkeiten im Weinbau und in der Weinherstellung. Die Initiative hat die Entstehung von 12 weiteren Weinbauprojekten in der Region ausgelöst und fördert ein kooperatives Umfeld unter den lokalen Erzeugern."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Finca María del Pilar",
+  "name": {
+    "es": "Finca María del Pilar",
+    "en": "María del Pilar Farm",
+    "fr": "Domaine María del Pilar",
+    "de": "Landgut María del Pilar"
+  },
   "pubId": 452252,
   "score": 9.128492087181073,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

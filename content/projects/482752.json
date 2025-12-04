@@ -13,13 +13,23 @@
   ],
   "createdAt": 1755002318,
   "date": null,
-  "description": "The Chandrika initiative focuses on producing fortified gelatine using tropical fruits native to Peru, aiming to enhance food security and nutrition. Founded by a family business, it transitioned from traditional gelatine to healthier options, driven by a personal motivation to address health issues like diabetes. The project emphasizes sustainability, innovation, and collaboration with local fruit producers, while also seeking to expand its market presence, particularly in Lima, to reach a broader audience.",
+  "description": {
+    "en": "The Chandrika initiative focuses on producing fortified gelatine using tropical fruits native to Peru, aiming to enhance food security and nutrition. Founded by a family business, it transitioned from traditional gelatine to healthier options, driven by a personal motivation to address health issues like diabetes. The project emphasizes sustainability, innovation, and collaboration with local fruit producers, while also seeking to expand its market presence, particularly in Lima, to reach a broader audience.",
+    "fr": "L'initiative Chandrika se concentre sur la production de gélatine enrichie à partir de fruits tropicaux originaires du Pérou, dans le but d'améliorer la sécurité alimentaire et la nutrition. Fondée par une entreprise familiale, elle est passée de la gélatine traditionnelle à des options plus saines, motivée par la volonté personnelle de s'attaquer à des problèmes de santé tels que le diabète. Le projet met l'accent sur la durabilité, l'innovation et la collaboration avec les producteurs de fruits locaux, tout en cherchant à étendre sa présence sur le marché, en particulier à Lima, afin d'atteindre un public plus large.",
+    "es": "La iniciativa Chandrika se centra en la producción de gelatina enriquecida a partir de frutas tropicales autóctonas de Perú, con el objetivo de mejorar la seguridad alimentaria y la nutrición. Fundada por una empresa familiar, pasó de la gelatina tradicional a opciones más saludables, impulsada por una motivación personal para hacer frente a problemas de salud como la diabetes. El proyecto hace hincapié en la sostenibilidad, la innovación y la colaboración con los productores locales de fruta, al tiempo que trata de ampliar su presencia en el mercado, sobre todo en Lima, para llegar a un público más amplio.",
+    "de": "Die Chandrika-Initiative konzentriert sich auf die Herstellung von angereicherter Gelatine aus tropischen Früchten, die in Peru beheimatet sind, und zielt darauf ab, die Lebensmittelsicherheit und Ernährung zu verbessern. Das von einem Familienunternehmen gegründete Unternehmen hat sich von herkömmlicher Gelatine auf gesündere Optionen umgestellt, da es aus persönlicher Motivation heraus Gesundheitsprobleme wie Diabetes angehen wollte. Das Projekt legt großen Wert auf Nachhaltigkeit, Innovation und die Zusammenarbeit mit lokalen Obstproduzenten, während es gleichzeitig versucht, seine Marktpräsenz zu erweitern, insbesondere in Lima, um ein breiteres Publikum zu erreichen."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Chandrika",
+  "name": {
+    "en": "Chandrika",
+    "fr": "Chandrika",
+    "es": "Chandrika",
+    "de": "Chandrika"
+  },
   "pubId": 482752,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

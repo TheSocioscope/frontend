@@ -13,13 +13,23 @@
   ],
   "createdAt": 1754987241,
   "date": null,
-  "description": "The initiative aims to enhance agricultural sustainability by transforming local raw materials, particularly seeds, into value-added products beyond basic fertilizers. By fostering alliances within the community, the project seeks to leverage existing knowledge and resources, ultimately benefiting local producers and reducing costs. The focus is on creating a sustainable model that not only supports food security but also promotes environmental stewardship through innovative agricultural practices and community engagement.",
+  "description": {
+    "en": "The initiative aims to enhance agricultural sustainability by transforming local raw materials, particularly seeds, into value-added products beyond basic fertilizers. By fostering alliances within the community, the project seeks to leverage existing knowledge and resources, ultimately benefiting local producers and reducing costs. The focus is on creating a sustainable model that not only supports food security but also promotes environmental stewardship through innovative agricultural practices and community engagement.",
+    "fr": "L'initiative vise à renforcer la durabilité de l'agriculture en transformant les matières premières locales, en particulier les semences, en produits à valeur ajoutée au-delà des engrais de base. En favorisant les alliances au sein de la communauté, le projet cherche à tirer parti des connaissances et des ressources existantes, ce qui profitera en fin de compte aux producteurs locaux et réduira les coûts. L'accent est mis sur la création d'un modèle durable qui non seulement soutient la sécurité alimentaire, mais promeut également la gestion de l'environnement grâce à des pratiques agricoles innovantes et à l'engagement de la communauté.",
+    "es": "La iniciativa pretende mejorar la sostenibilidad agrícola transformando las materias primas locales, en particular las semillas, en productos de valor añadido más allá de los fertilizantes básicos. Mediante el fomento de alianzas dentro de la comunidad, el proyecto pretende aprovechar los conocimientos y recursos existentes, beneficiando en última instancia a los productores locales y reduciendo costes. El objetivo es crear un modelo sostenible que no sólo apoye la seguridad alimentaria, sino que también promueva la protección del medio ambiente mediante prácticas agrícolas innovadoras y la participación de la comunidad.",
+    "de": "Die Initiative zielt darauf ab, die Nachhaltigkeit in der Landwirtschaft zu verbessern, indem lokale Rohstoffe, insbesondere Saatgut, in Produkte mit Mehrwert umgewandelt werden, die über Grunddünger hinausgehen. Durch die Förderung von Allianzen innerhalb der Gemeinschaft versucht das Projekt, vorhandenes Wissen und Ressourcen zu nutzen, was letztlich den lokalen Erzeugern zugute kommt und die Kosten senkt. Der Schwerpunkt liegt auf der Schaffung eines nachhaltigen Modells, das nicht nur die Ernährungssicherheit unterstützt, sondern auch den Umweltschutz durch innovative landwirtschaftliche Praktiken und das Engagement der Gemeinschaft fördert."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Agroinpa",
+  "name": {
+    "en": "Agroinpa",
+    "fr": "Agroinpa",
+    "es": "Agroinpa",
+    "de": "Agroinpa"
+  },
   "pubId": 488152,
   "score": -181.73754903237386,
   "state": "ongoing-project",
@@ -40,8 +50,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }

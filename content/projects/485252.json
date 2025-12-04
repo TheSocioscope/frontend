@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754928517,
   "date": null,
-  "description": "Granja Tarapacá, initiated by the Hantarapacá Foundation in 2009, focuses on social agriculture to enhance therapeutic processes through productive agricultural practices. Founded in Palmira and later moved to Cali, the initiative adapts urban agriculture to support individuals with disabilities and promote food sovereignty. The foundation also collaborates with indigenous communities in the Matabén jungle, emphasizing sustainable practices and community empowerment through education and hands-on agricultural training.",
+  "description": {
+    "en": "Granja Tarapacá, initiated by the Hantarapacá Foundation in 2009, focuses on social agriculture to enhance therapeutic processes through productive agricultural practices. Founded in Palmira and later moved to Cali, the initiative adapts urban agriculture to support individuals with disabilities and promote food sovereignty. The foundation also collaborates with indigenous communities in the Matabén jungle, emphasizing sustainable practices and community empowerment through education and hands-on agricultural training.",
+    "fr": "Granja Tarapacá, initiée par la Fondation Hantarapacá en 2009, se concentre sur l'agriculture sociale afin d'améliorer les processus thérapeutiques grâce à des pratiques agricoles productives. Fondée à Palmira, puis transférée à Cali, l'initiative adapte l'agriculture urbaine pour soutenir les personnes handicapées et promouvoir la souveraineté alimentaire. La fondation collabore également avec les communautés indigènes de la jungle de Matabén, en mettant l'accent sur les pratiques durables et l'autonomisation des communautés par le biais de l'éducation et de la formation agricole pratique.",
+    "es": "La Granja Tarapacá, iniciada por la Fundación Hantarapacá en 2009, se centra en la agricultura social para mejorar los procesos terapéuticos mediante prácticas agrícolas productivas. Fundada en Palmira y trasladada posteriormente a Cali, la iniciativa adapta la agricultura urbana para apoyar a personas con discapacidad y promover la soberanía alimentaria. La fundación también colabora con comunidades indígenas de la selva de Matabén, haciendo hincapié en las prácticas sostenibles y el empoderamiento de la comunidad a través de la educación y la formación agrícola práctica.",
+    "de": "Granja Tarapacá wurde 2009 von der Stiftung Hantarapacá ins Leben gerufen und konzentriert sich auf die soziale Landwirtschaft, um therapeutische Prozesse durch produktive landwirtschaftliche Praktiken zu fördern. Die in Palmira gegründete und später nach Cali verlegte Initiative passt die städtische Landwirtschaft an, um Menschen mit Behinderungen zu unterstützen und die Ernährungssouveränität zu fördern. Die Stiftung arbeitet auch mit indigenen Gemeinschaften im Dschungel von Matabén zusammen und legt den Schwerpunkt auf nachhaltige Praktiken und die Stärkung der Gemeinschaft durch Bildung und praktische landwirtschaftliche Ausbildung."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Granja Tarapacá",
+  "name": {
+    "pt": "Granja Tarapacá",
+    "en": "Tarapacá Farm",
+    "fr": "Ferme de Tarapacá",
+    "es": "Granja Tarapacá",
+    "de": "Bauernhof Tarapacá"
+  },
   "pubId": 485252,
   "score": -183.4511853960102,
   "state": "ongoing-project",
@@ -42,8 +53,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "pt"
 }

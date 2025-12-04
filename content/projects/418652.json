@@ -12,13 +12,23 @@
   ],
   "createdAt": 1658417598,
   "date": null,
-  "description": "Le Living Lab est un projet majeur de la stratégie de transition alimentaire portée par Dijon métropole. Implanté à la Cité internationale de la gastronomie et du vin, ce Living Lab a pour vocation de sensibiliser et impliquer les citoyens sur l’alimentation et la transition alimentaire, mais aussi d’analyser les attentes et les besoins des usagers afin d’identifier les produits ou les services innovants à créer. Proposant une approche transversale, le programme pourra déboucher sur l’élaboration de nouveaux produits alimentaires ou de méthodes de cuisine, mais aussi de nouveaux packagings, de nouvelles formes de distribution, de conservation… L’originalité du Living Lab est double : il repose sur une approche systémique, impliquant tous les acteurs, et promeut un business model viable (il doit générer les revenus lui permettant de s’auto-financer). Des relais du Living Lab sont prévus dans les quartiers. C’est déjà le cas dans le quartier Fontaine d’Ouche dans le cadre du projet d’agriculture urbaine \"Ramification\".",
+  "description": {
+    "fr": "Le Living Lab est un projet majeur de la stratégie de transition alimentaire portée par Dijon métropole. Implanté à la Cité internationale de la gastronomie et du vin, ce Living Lab a pour vocation de sensibiliser et impliquer les citoyens sur l’alimentation et la transition alimentaire, mais aussi d’analyser les attentes et les besoins des usagers afin d’identifier les produits ou les services innovants à créer. Proposant une approche transversale, le programme pourra déboucher sur l’élaboration de nouveaux produits alimentaires ou de méthodes de cuisine, mais aussi de nouveaux packagings, de nouvelles formes de distribution, de conservation… L’originalité du Living Lab est double : il repose sur une approche systémique, impliquant tous les acteurs, et promeut un business model viable (il doit générer les revenus lui permettant de s’auto-financer). Des relais du Living Lab sont prévus dans les quartiers. C’est déjà le cas dans le quartier Fontaine d’Ouche dans le cadre du projet d’agriculture urbaine \"Ramification\".",
+    "en": "The Living Lab is a major project in Dijon metropole's food transition strategy. Based at the Cité internationale de la gastronomie et du vin, the Living Lab's aim is to raise public awareness of food and the food transition, and to analyze user needs and expectations in order to identify innovative products and services. Offering a cross-disciplinary approach, the program could lead to the development of new food products or cooking methods, as well as new packaging, new forms of distribution, preservation, etc. The Living Lab's originality is twofold: it is based on a systemic approach, involving all stakeholders, and promotes a viable business model (it must generate revenues enabling it to finance itself). Living Lab relays are planned in the neighborhoods. This is already the case in the Fontaine d'Ouche district, as part of the \"Ramification\" urban agriculture project.",
+    "es": "El Living Lab es un importante proyecto de la estrategia de transición alimentaria de Dijon. Con sede en la Cité internationale de la gastronomie et du vin, el Living Lab pretende sensibilizar e implicar a los ciudadanos en la alimentación y la transición alimentaria, así como analizar las expectativas y necesidades de los usuarios para identificar productos o servicios innovadores que puedan crearse. Con su enfoque transversal, el programa podría conducir al desarrollo de nuevos productos alimentarios o métodos de cocción, así como nuevos envases, nuevas formas de distribución y conservación, etc. La originalidad del Living Lab es doble: se basa en un enfoque sistémico, que implica a todos los actores, y promueve un modelo de negocio viable (debe generar ingresos que le permitan financiarse). Los relevos de Living Lab están previstos en los barrios. Ya es el caso del barrio de Fontaine d'Ouche, en el marco del proyecto de agricultura urbana \"Ramification\".",
+    "de": "Das Living Lab ist ein wichtiges Projekt im Rahmen der von Dijon métropole getragenen Strategie zur Ernährungsumstellung. Das in der Cité internationale de la gastronomie et du vin angesiedelte Living Lab soll die Bürger für das Thema Ernährung und Ernährungsumstellung sensibilisieren und einbeziehen, aber auch die Erwartungen und Bedürfnisse der Nutzer analysieren, um innovative Produkte oder Dienstleistungen zu identifizieren, die es zu entwickeln gilt. Das Programm verfolgt einen transversalen Ansatz und kann zur Entwicklung neuer Lebensmittelprodukte oder Kochmethoden führen, aber auch zu neuen Verpackungen, neuen Formen des Vertriebs, der Aufbewahrung usw. Die Originalität des Living Labs ist zweifach: Es beruht auf einem systemischen Ansatz, der alle Akteure einbezieht, und fördert ein tragfähiges Geschäftsmodell (es muss Einnahmen generieren, die es ihm ermöglichen, sich selbst zu finanzieren). In den Stadtvierteln sind Relaisstationen des Living Labs vorgesehen. Dies ist bereits im Viertel Fontaine d'Ouche im Rahmen des Projekts für urbane Landwirtschaft \"Ramification\" der Fall."
+  },
   "field": [
     "engineering-and-technology"
   ],
   "lang": "fr",
   "location": "Dijon",
-  "name": "Living Lab Dijon",
+  "name": {
+    "en": "Living Lab Dijon",
+    "fr": "Living Lab Dijon",
+    "es": "Living Lab Dijon",
+    "de": "Living Lab Dijon"
+  },
   "pubId": 418652,
   "score": 1661.8842105263193,
   "state": "ongoing-project",
@@ -44,28 +54,5 @@
   ],
   "url": "https://www.metropole-dijon.fr/Grands-projets/ProDij-Transition-alimentaire",
   "yt": "",
-  "zone": [
-    3,
-    1
-  ],
-  "lastEvent": {
-    "at": 1658495367,
-    "by": {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  },
-  "ref": [
-    {
-      "$oid": "62b1ee8fab64fe00092bf7c4"
-    }
-  ],
-  "verified": [
-    {
-      "by": {
-        "$oid": "62b1ee8fab64fe00092bf7c4"
-      },
-      "at": 1658495367,
-      "content": null
-    }
-  ]
+  "originalLang": "fr"
 }

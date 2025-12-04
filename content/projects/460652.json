@@ -13,13 +13,24 @@
   ],
   "createdAt": 1754560998,
   "date": null,
-  "description": "Queseria Ventimiglia started a cheese factory in 2009 as a family hobby on a farm, inspired by childhood memories of traditional food. The business grew from a small-scale hobby to a recognized cheese factory, producing around 15,000 to 20,000 liters of milk monthly. They emphasize quality and sustainability in their practices, using regenerative grazing methods. Their cheeses gained popularity among chefs and consumers, leading to awards and recognition in international competitions. Today, they aim to enhance their production capacity and develop a tourist attraction at the farm.",
+  "description": {
+    "en": "Queseria Ventimiglia started a cheese factory in 2009 as a family hobby on a farm, inspired by childhood memories of traditional food. The business grew from a small-scale hobby to a recognized cheese factory, producing between 15,000 and 20,000 liters of milk per month. His practices emphasize quality and sustainability, using regenerative grazing methods. Their cheeses have gained popularity among chefs and consumers, earning them awards and recognition in international competitions. Currently, they intend to increase their production capacity and develop a tourist attraction on the farm.",
+    "fr": "La Queseria Ventimiglia a créé une fromagerie en 2009. Il s'agissait d'un passe-temps familial dans une ferme, inspiré par des souvenirs d'enfance liés à la cuisine traditionnelle. L'entreprise est passée d'un petit hobby à une fromagerie reconnue, produisant entre 15 000 et 20 000 litres de lait par mois. Leurs pratiques mettent l'accent sur la qualité et la durabilité, en utilisant des méthodes de pâturage régénératives. Leurs fromages ont gagné en popularité auprès des chefs et des consommateurs, ce qui leur a valu des prix et une reconnaissance lors de concours internationaux. Ils souhaitent à présent augmenter leur capacité de production et développer une attraction touristique à la ferme.",
+    "es": "Queseria Ventimiglia comenzó una fábrica de quesos en 2009 como un hobby familiar en una granja, inspirada por los recuerdos de infancia de la comida tradicional. El negocio pasó de ser un hobby a pequeña escala a una quesería reconocida, que produce entre 15.000 y 20.000 litros de leche al mes. Sus prácticas hacen hincapié en la calidad y la sostenibilidad, utilizando métodos de pastoreo regenerativo. Sus quesos ganaron popularidad entre cocineros y consumidores, lo que les valió premios y reconocimientos en concursos internacionales. En la actualidad, pretenden aumentar su capacidad de producción y desarrollar una atracción turística en la granja.",
+    "de": "Queseria Ventimiglia startete 2009 eine Käsefabrik als Familienhobby auf einem Bauernhof, inspiriert von Kindheitserinnerungen an traditionelle Lebensmittel. Das Unternehmen wuchs von einem kleinen Hobby zu einer anerkannten Käsefabrik heran, die monatlich etwa 15.000 bis 20.000 Liter Milch produziert. Sie legen Wert auf Qualität und Nachhaltigkeit in ihren Praktiken und verwenden regenerative Weidemethoden. Ihr Käse wurde bei Köchen und Verbrauchern immer beliebter, was zu Auszeichnungen und Anerkennung bei internationalen Wettbewerben führte. Heute wollen sie ihre Produktionskapazität steigern und eine Touristenattraktion auf dem Hof entwickeln."
+  },
   "field": [
     "nutrition"
   ],
   "lang": "en",
   "location": "",
-  "name": "Queseria Ventimiglia",
+  "name": {
+    "it": "Queseria Ventimiglia",
+    "en": "Queseria Ventimiglia",
+    "fr": "Queseria Ventimiglia",
+    "es": "Queseria Ventimiglia",
+    "de": "Queseria Ventimiglia"
+  },
   "pubId": 460652,
   "score": 110.32418530934717,
   "state": "ongoing-project",
@@ -40,8 +51,5 @@
   ],
   "url": "",
   "yt": "",
-  "zone": [
-    5,
-    4
-  ]
+  "originalLang": "fr"
 }
