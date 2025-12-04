@@ -106,36 +106,59 @@
       <!-- Project list -->
       <v-row v-if="filteredProjects.length > 0">
         <v-col v-for="project in paginatedProjects" :key="project.pubId" cols="12" md="6" lg="4">
-          <v-card class="h-100" hover style="cursor: pointer" @click="handleProjectClick(project)">
-            <v-card-title class="text-h6">
-              {{ project.name }}
-            </v-card-title>
-            <v-card-subtitle>
-              <v-chip
-                v-if="project.status !== undefined"
-                size="small"
-                class="mr-2"
-                :color="getStatusColor(project.status)"
-              >
-                {{ getStatusLabel(project.status) }}
-              </v-chip>
-              <span v-if="project.location">{{ project.location }}</span>
-            </v-card-subtitle>
-            <v-card-text>
-              <p class="text-body-2 line-clamp-3">
-                {{ project.description }}
-              </p>
-              <div class="mt-4">
+          <v-card
+            class="project-card"
+            hover
+            @click="handleProjectClick(project)"
+          >
+            <!-- Background Image (YouTube thumbnail or gradient) -->
+            <div
+              class="project-card-bg"
+              :style="getCardBackgroundStyle(project)"
+            />
+
+            <!-- Title overlay (always visible) -->
+            <div class="project-card-title">
+              <h3 class="text-h6">{{ project.name }}</h3>
+            </div>
+
+            <!-- Content overlay (visible on hover) -->
+            <div class="project-card-overlay">
+              <div class="overlay-content">
                 <v-chip
-                  v-for="continentId in project.continent || []"
-                  :key="continentId"
-                  size="x-small"
-                  class="mr-1 mb-1"
+                  v-if="project.status !== undefined"
+                  size="small"
+                  class="mb-2"
+                  :color="getStatusColor(project.status)"
                 >
-                  {{ getContinentLabel(continentId) }}
+                  {{ getStatusLabel(project.status) }}
                 </v-chip>
+                <p v-if="project.location" class="text-caption mb-2 text-white">
+                  <v-icon size="x-small" class="mr-1">mdi-map-marker</v-icon>
+                  {{ project.location }}
+                </p>
+                <p class="text-body-2 line-clamp-4 mb-3">
+                  {{ project.description }}
+                </p>
+                <div class="chip-container">
+                  <v-chip
+                    v-for="continentId in project.continent?.slice(0, 3) || []"
+                    :key="continentId"
+                    size="x-small"
+                    class="mr-1 mb-1"
+                  >
+                    {{ getContinentLabel(continentId) }}
+                  </v-chip>
+                  <v-chip
+                    v-if="(project.continent?.length || 0) > 3"
+                    size="x-small"
+                    class="mb-1"
+                  >
+                    +{{ (project.continent?.length || 0) - 3 }}
+                  </v-chip>
+                </div>
               </div>
-            </v-card-text>
+            </div>
           </v-card>
         </v-col>
       </v-row>
@@ -155,10 +178,11 @@
 </template>
 
 <script setup lang="ts">
-const { t: $t, locale } = useI18n()
+const { t: $t } = useI18n()
 const route = useRoute()
 const router = useRouter()
 const { getStatusLabel, getContinentLabel, getCountryLabel } = useProjectMappings()
+const { getThumbnailUrl } = useYouTubeThumbnail()
 
 // Fetch all projects from the collection
 const { data: projectsData, error } = await useAsyncData('projects', async () => {
@@ -438,7 +462,7 @@ watch(
 )
 
 // Navigation handler
-const handleProjectClick = async (project: any) => {
+const handleProjectClick = async (project: { stem: string; name: string; pubId: number }) => {
   const projectId = project.stem.replace('projects/', '')
   const targetPath = `/projects/${projectId}`
   console.log('=== NAVIGATION ATTEMPT ===')
@@ -472,6 +496,36 @@ const getStatusColor = (status: string) => {
   }
 }
 
+// Generate card background style with YouTube thumbnail or gradient
+const getCardBackgroundStyle = (project: { yt?: string; pubId?: number }) => {
+  const thumbnailUrl = project.yt ? getThumbnailUrl(project.yt) : null
+
+  if (thumbnailUrl) {
+    return {
+      backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0.3), rgba(0,0,0,0.5)), url(${thumbnailUrl})`,
+      backgroundSize: 'cover',
+      backgroundPosition: 'center'
+    }
+  }
+
+  // Fallback gradient based on project ID for consistent colors
+  const gradients = [
+    'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+    'linear-gradient(135deg, #f093fb 0%, #f5576c 100%)',
+    'linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)',
+    'linear-gradient(135deg, #43e97b 0%, #38f9d7 100%)',
+    'linear-gradient(135deg, #fa709a 0%, #fee140 100%)',
+    'linear-gradient(135deg, #30cfd0 0%, #330867 100%)',
+    'linear-gradient(135deg, #a8edea 0%, #fed6e3 100%)',
+    'linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%)'
+  ]
+
+  const index = (project.pubId || 0) % gradients.length
+  return {
+    backgroundImage: gradients[index]
+  }
+}
+
 useHead({
   title: $t('nav.projects')
 })
@@ -481,7 +535,135 @@ useHead({
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.line-clamp-4 {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Project card styling */
+.project-card {
+  position: relative;
+  height: 280px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Background image/gradient */
+.project-card-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: transform 0.5s ease;
+}
+
+.project-card:hover .project-card-bg {
+  transform: scale(1.05);
+}
+
+/* Title overlay - always visible at bottom */
+.project-card-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 16px;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+  color: white;
+  z-index: 2;
+  transition: opacity 0.3s ease;
+}
+
+.project-card:hover .project-card-title {
+  opacity: 0;
+}
+
+.project-card-title h3 {
+  margin: 0;
+  font-weight: 600;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Content overlay - visible on hover */
+.project-card-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9));
+  color: white;
+  padding: 20px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+.project-card:hover .project-card-overlay {
+  opacity: 1;
+}
+
+.overlay-content {
+  animation: slideUp 0.3s ease;
+}
+
+@keyframes slideUp {
+  from {
+    transform: translateY(20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.chip-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+/* Smooth scrolling for overlay content */
+.project-card-overlay::-webkit-scrollbar {
+  width: 6px;
+}
+
+.project-card-overlay::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+.project-card-overlay::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 3px;
+}
+
+.project-card-overlay::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.5);
 }
 </style>
