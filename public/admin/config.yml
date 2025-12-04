@@ -20,31 +20,6 @@ i18n:
   default_locale: en
 
 collections:
-  # Translations Collection
-  - name: 'translations'
-    label: 'Translations'
-    files:
-      - label: 'English'
-        name: 'en'
-        file: 'i18n/locales/en.json'
-        fields:
-          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
-      - label: 'French'
-        name: 'fr'
-        file: 'i18n/locales/fr.json'
-        fields:
-          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
-      - label: 'Spanish'
-        name: 'es'
-        file: 'i18n/locales/es.json'
-        fields:
-          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
-      - label: 'German'
-        name: 'de'
-        file: 'i18n/locales/de.json'
-        fields:
-          - { label: 'Content', name: 'body', widget: 'code', default_language: 'json' }
-
   # Partners Collection
   - name: 'partners'
     label: 'Partners'
@@ -391,13 +366,22 @@ collections:
           - { label: 'Literature and Languages', value: 'literature-and-languages' }
           - { label: 'Law', value: 'law' }
           - { label: 'Linguistics', value: 'linguistics' }
-          - { label: 'Management & Public Administration', value: 'management-public-administration' }
+          - {
+              label: 'Management & Public Administration',
+              value: 'management-public-administration'
+            }
           - { label: 'Philosophy incl. Ethics', value: 'philosophy-incl-ethics' }
           - { label: 'Political Science', value: 'political-science' }
-          - { label: 'Psychology, Behavioural and Cognitive Sciences', value: 'psychology-behavioural-and-cognitive-sciences' }
+          - {
+              label: 'Psychology, Behavioural and Cognitive Sciences',
+              value: 'psychology-behavioural-and-cognitive-sciences'
+            }
           - { label: 'Religion and Theology', value: 'religion-and-theology' }
           - { label: 'Sociology', value: 'sociology' }
-          - { label: 'Other social sciences and humanities', value: 'other-social-sciences-and-humanities' }
+          - {
+              label: 'Other social sciences and humanities',
+              value: 'other-social-sciences-and-humanities'
+            }
           - { label: 'Biology', value: 'biology' }
           - { label: 'Chemistry & Physics', value: 'chemistry-physics' }
           - { label: 'Computer Sciences', value: 'computer-sciences' }
@@ -420,21 +404,45 @@ collections:
           - { label: 'Food, Agriculture, Fishery', value: 'food-agriculture-fishery' }
           - { label: 'Data, information and Computing', value: 'data-information-and-computing' }
           - { label: 'Cities, Mobility, Urban Planning', value: 'cities-mobility-urban-planning' }
-          - { label: 'Consumption and Production Patterns', value: 'consumption-and-production-patterns' }
+          - {
+              label: 'Consumption and Production Patterns',
+              value: 'consumption-and-production-patterns'
+            }
           - { label: 'Culture and The Arts', value: 'culture-and-the-arts' }
-          - { label: 'Governance, Democracy, Civil Society', value: 'governance-democracy-civil-society' }
+          - {
+              label: 'Governance, Democracy, Civil Society',
+              value: 'governance-democracy-civil-society'
+            }
           - { label: 'Digital Humanities', value: 'digital-humanities' }
           - { label: 'Education', value: 'education' }
           - { label: 'Ecology, Environmental change', value: 'ecology-environmental-change' }
-          - { label: 'Equality, Diversity Studies and social justice', value: 'equality-diversity-studies-and-social-justice' }
-          - { label: 'Economy, Business, Markets, Finance', value: 'economy-business-markets-finance' }
-          - { label: 'Human Behaviours, Social Relations', value: 'human-behaviours-social-relations' }
-          - { label: 'Inequalities, Poverty, Development', value: 'inequalities-poverty-development' }
+          - {
+              label: 'Equality, Diversity Studies and social justice',
+              value: 'equality-diversity-studies-and-social-justice'
+            }
+          - {
+              label: 'Economy, Business, Markets, Finance',
+              value: 'economy-business-markets-finance'
+            }
+          - {
+              label: 'Human Behaviours, Social Relations',
+              value: 'human-behaviours-social-relations'
+            }
+          - {
+              label: 'Inequalities, Poverty, Development',
+              value: 'inequalities-poverty-development'
+            }
           - { label: 'Innovation, R&D', value: 'innovation-rd' }
-          - { label: 'International Relations and Co-operation', value: 'international-relations-and-co-operation' }
+          - {
+              label: 'International Relations and Co-operation',
+              value: 'international-relations-and-co-operation'
+            }
           - { label: 'Leisure, Tourism', value: 'leisure-tourism' }
           - { label: 'Migrations and Diasporas', value: 'migrations-and-diasporas' }
-          - { label: 'Communication, Public sphere, Rhetorics', value: 'communication-public-sphere-rhetorics' }
+          - {
+              label: 'Communication, Public sphere, Rhetorics',
+              value: 'communication-public-sphere-rhetorics'
+            }
           - { label: 'Public Health', value: 'public-health' }
           - { label: 'Public Policy, Evaluation, Impact', value: 'public-policy-evaluation-impact' }
           - { label: 'Risks, Crisis Management', value: 'risks-crisis-management' }
