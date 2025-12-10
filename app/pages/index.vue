@@ -3,23 +3,17 @@
     <!-- Hero Section with Video -->
     <HeroBanner />
 
-    <!-- Microscope Section -->
-    <MicroscopeSection />
-
     <!-- Vision Section -->
     <VisionSection />
 
-    <!-- Scientific Breakthroughs -->
-    <BreakthroughSection />
+    <!-- World Map -->
+    <WorldMapSection />
 
     <!-- Statistics Counter -->
     <StatsSection />
 
     <!-- Stories from the Field -->
     <StoriesSection />
-
-    <!-- World Map -->
-    <WorldMapSection />
 
     <!-- Newsletter -->
     <NewsletterSection />
