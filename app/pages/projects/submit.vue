@@ -108,7 +108,7 @@ const handleSubmit = async () => {
 </script>
 
 <style scoped lang="scss">
-@use '../../assets/styles/variables' as *;
+@use '../../../assets/styles/variables' as *;
 
 .form-container {
   background: white;
