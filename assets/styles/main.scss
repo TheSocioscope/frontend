@@ -228,3 +228,577 @@ a {
     background-position: -200% 0;
   }
 }
+
+// December 2025 redesign additions
+// Add these styles to your existing main.scss file
+
+// Hero section styles
+.hero-section {
+  position: relative;
+  min-height: 80vh;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(135deg, $warm-beige 0%, $surface-cream 100%);
+  overflow: hidden;
+
+  &.full-height {
+    min-height: 100vh;
+  }
+
+  &.medium-height {
+    min-height: 60vh;
+  }
+
+  &.small-height {
+    min-height: 40vh;
+    padding: $spacing-4xl 0;
+  }
+}
+
+.hero-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 1;
+  animation: fadeIn 1s ease-out;
+}
+
+// Animated logo circles
+@keyframes logoPulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 0.2;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 0.35;
+  }
+}
+
+.logo-circle {
+  position: absolute;
+  border-radius: 50%;
+  border: 1.5px solid;
+  opacity: 0.2;
+
+  &.circle-1 {
+    width: 30px;
+    height: 30px;
+    border-color: $green-bright;
+    animation: logoPulse 3s ease-in-out infinite;
+  }
+
+  &.circle-2 {
+    width: 45px;
+    height: 45px;
+    border-color: $green-dark;
+    animation: logoPulse 3s ease-in-out 1s infinite;
+  }
+
+  &.circle-3 {
+    width: 60px;
+    height: 60px;
+    border-color: $brown-dark;
+    animation: logoPulse 3s ease-in-out 2s infinite;
+  }
+}
+
+// Metric cards with animated counters
+.metric-card {
+  text-align: center;
+  padding: $spacing-2xl;
+  border-radius: $border-radius-md;
+  transition: transform $transition-base;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+
+  .metric-number {
+    font-size: 3.5rem;
+    font-weight: $font-weight-bold;
+    color: $green-bright;
+    margin-bottom: $spacing-sm;
+    font-family: $font-family-display;
+  }
+
+  .metric-label {
+    font-size: 1.1rem;
+    color: $brown-dark;
+  }
+}
+
+// Pillar/Feature cards
+.pillar-card {
+  background: white;
+  padding: $spacing-2xl;
+  border-radius: $border-radius-lg;
+  transition:
+    transform $transition-base,
+    box-shadow $transition-base;
+
+  &:hover {
+    transform: translateY(-8px);
+    box-shadow: $shadow-hover;
+  }
+
+  .pillar-icon {
+    font-size: 3rem;
+    margin-bottom: $spacing-md;
+  }
+
+  h3 {
+    margin-bottom: $spacing-md;
+    color: $green-bright;
+  }
+
+  p {
+    line-height: 1.7;
+    margin-bottom: $spacing-md;
+  }
+}
+
+// Story/Initiative cards
+.story-card,
+.initiative-card {
+  background: white;
+  border-radius: $border-radius-lg;
+  overflow: hidden;
+  transition:
+    transform $transition-base,
+    box-shadow $transition-base;
+  cursor: pointer;
+  border: 2px solid $border-cream;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.12);
+    border-color: $green-bright;
+  }
+
+  .story-thumbnail {
+    height: 200px;
+    background: $green-bright;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    color: white;
+  }
+
+  .story-content,
+  .initiative-content {
+    padding: $spacing-md;
+
+    h4 {
+      margin-bottom: $spacing-sm;
+      color: $brown-dark;
+    }
+
+    p {
+      color: $brown-dark;
+      opacity: 0.8;
+      line-height: 1.7;
+    }
+
+    .location {
+      color: $green-bright;
+      font-weight: $font-weight-medium;
+      display: block;
+      margin-bottom: $spacing-sm;
+    }
+  }
+}
+
+// Info cards (for About page)
+.info-card {
+  text-align: center;
+  padding: $spacing-2xl $spacing-md;
+  background: $surface-cream;
+  border: 2px solid $border-cream;
+  transition: all $transition-base;
+  border-radius: $border-radius-md;
+
+  &:hover {
+    transform: translateY(-5px);
+    border-color: $green-bright;
+    box-shadow: 0 8px 20px rgba(76, 160, 73, 0.15);
+  }
+
+  .info-icon {
+    font-size: 2.5rem;
+    margin-bottom: $spacing-md;
+    display: block;
+  }
+
+  h3 {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: $green-dark;
+    margin-bottom: $spacing-sm;
+    font-weight: 600;
+  }
+
+  .info-number {
+    font-size: 1.3rem;
+    font-weight: $font-weight-bold;
+    line-height: 1.4;
+    margin-bottom: $spacing-xs;
+  }
+
+  .info-detail {
+    font-size: 0.95rem;
+    font-weight: 400;
+    opacity: 0.7;
+  }
+}
+
+// Method cards (for methodology section)
+.method-card {
+  background: $surface-cream;
+  padding: $spacing-2xl;
+  border: 2px solid $border-cream;
+  text-align: center;
+  border-radius: $border-radius-md;
+  transition: all $transition-base;
+
+  &:hover {
+    border-color: $green-bright;
+    transform: translateY(-5px);
+  }
+
+  .method-number {
+    font-size: 2.5rem;
+    font-weight: $font-weight-bold;
+    color: $green-bright;
+    margin-bottom: $spacing-md;
+    line-height: 1;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    margin-bottom: $spacing-md;
+  }
+
+  p {
+    font-size: 1rem;
+    line-height: 1.7;
+    opacity: 0.8;
+  }
+}
+
+// Value cards
+.value-card {
+  text-align: center;
+  padding: $spacing-2xl;
+
+  .value-icon {
+    font-size: 3rem;
+    margin-bottom: $spacing-md;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    margin-bottom: $spacing-md;
+    color: $green-dark;
+  }
+
+  p {
+    line-height: 1.7;
+    opacity: 0.8;
+  }
+}
+
+// Newsletter section
+.newsletter-section {
+  background: $green-bright;
+  padding: $spacing-5xl 0;
+  margin: $spacing-5xl 0;
+  text-align: center;
+
+  h2 {
+    color: white;
+    margin-bottom: $spacing-2xl;
+  }
+
+  .newsletter-form {
+    display: flex;
+    gap: $spacing-md;
+    max-width: 600px;
+    margin: 0 auto;
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+    }
+
+    input {
+      flex: 1;
+      padding: $spacing-md $spacing-lg;
+      border: none;
+      border-radius: $border-radius-pill;
+      font-family: $font-family-serif;
+      font-size: 1rem;
+    }
+
+    button {
+      padding: $spacing-md $spacing-xl;
+      background: $brown-dark;
+      color: white;
+      border: none;
+      border-radius: $border-radius-pill;
+      font-family: $font-family-serif;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all $transition-base;
+
+      &:hover {
+        background: $green-dark;
+        transform: translateY(-2px);
+      }
+    }
+  }
+}
+
+// CTA sections
+.cta-section {
+  padding: $spacing-5xl 0;
+  background: $warm-beige;
+  text-align: center;
+
+  h2 {
+    margin-bottom: $spacing-md;
+  }
+
+  .cta-description {
+    font-size: 1.2rem;
+    max-width: 800px;
+    margin: 0 auto $spacing-2xl;
+    line-height: 1.8;
+  }
+}
+
+// Research/Team cards
+.research-card,
+.team-card {
+  background: $warm-beige;
+  padding: $spacing-2xl;
+  border-radius: $border-radius-lg;
+  text-align: center;
+  transition: transform $transition-base;
+
+  &:hover {
+    transform: translateY(-5px);
+  }
+
+  h4 {
+    margin-bottom: $spacing-sm;
+    color: $brown-dark;
+  }
+
+  .role {
+    color: $green-bright;
+    font-weight: 600;
+    margin-bottom: $spacing-xs;
+  }
+
+  .organization {
+    opacity: 0.7;
+    font-size: 0.95rem;
+  }
+}
+
+.team-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background: $green-bright;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 600;
+  margin: 0 auto $spacing-md;
+}
+
+// FAQ accordion styles
+.faq-item {
+  background: white;
+  border: 2px solid $border-cream;
+  margin-bottom: $spacing-md;
+  border-radius: $border-radius-md;
+  overflow: hidden;
+  cursor: pointer;
+  transition: all $transition-base;
+
+  &:hover,
+  &.active {
+    border-color: $green-bright;
+  }
+
+  .faq-question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: $spacing-md $spacing-2xl;
+
+    h3 {
+      font-size: 1.2rem;
+      margin: 0;
+    }
+
+    .toggle-icon {
+      font-size: 2rem;
+      color: $green-bright;
+      font-weight: 300;
+    }
+  }
+
+  .faq-answer {
+    padding: 0 $spacing-2xl $spacing-md;
+
+    p {
+      line-height: 1.7;
+      font-size: 1.05rem;
+    }
+  }
+}
+
+// Map placeholder
+.map-placeholder {
+  background: $warm-beige;
+  height: 500px;
+  border-radius: $border-radius-lg;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  color: $brown-dark;
+
+  @media (max-width: 768px) {
+    height: 300px;
+  }
+}
+
+// Button styles
+.btn-group {
+  display: flex;
+  gap: $spacing-md;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+
+    .v-btn {
+      width: 100%;
+    }
+  }
+}
+
+// Form sections
+.form-section {
+  padding: $spacing-4xl 0;
+
+  .form-container {
+    max-width: 700px;
+    margin: 0 auto;
+    background: white;
+    padding: $spacing-3xl;
+    border-radius: $border-radius-lg;
+    border: 2px solid $border-cream;
+
+    @media (max-width: 768px) {
+      padding: $spacing-2xl;
+    }
+  }
+}
+
+// Search section
+.search-section {
+  padding: $spacing-3xl 0;
+  background: white;
+
+  .search-bar {
+    display: flex;
+    gap: $spacing-md;
+    max-width: 700px;
+    margin: 0 auto $spacing-2xl;
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+    }
+  }
+
+  .filters {
+    display: flex;
+    gap: $spacing-md;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+// Section backgrounds
+.section-white {
+  background: white;
+}
+
+.section-beige {
+  background: $warm-beige;
+}
+
+.section-green {
+  background: $green-bright;
+  color: white;
+
+  h2,
+  h3,
+  h4 {
+    color: white;
+  }
+}
+
+// Floating animation for hero images
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+.floating {
+  animation: float 3s ease-in-out infinite;
+}
+
+// Slide transitions
+.slide-enter-active,
+.slide-leave-active {
+  transition: all $transition-base;
+}
+
+.slide-enter-from,
+.slide-leave-to {
+  opacity: 0;
+  transform: translateY(-10px);
+}
+
+// Tag/badge styles
+.tag {
+  background: $warm-beige;
+  padding: $spacing-xs $spacing-md;
+  border-radius: $border-radius-pill;
+  font-size: 0.9rem;
+  display: inline-block;
+}

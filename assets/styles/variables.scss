@@ -9,6 +9,7 @@ $brown-light: #8b6f47;
 
 $green-light: #fffbf0;
 $green-medium: #4caf50;
+$green-bright: #4ca049; // Added for primary buttons
 $green-olive: #6b8e23;
 $green-light-olive: #8fbc8f;
 $green-dark: #27421d;
@@ -16,12 +17,18 @@ $green-dark: #27421d;
 $background-cream: #fff8e7;
 $surface-cream: #fffbf0;
 $border-cream: #e5d9c1;
+$warm-beige: #f5edd6; // Added for sections
 
 // Typography
 $font-family-base:
   -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+$font-family-display: 'Playfair Display', serif; // Added for hero sections
+$font-family-serif: 'Playfair', serif; // Added for body text
 $font-weight-medium: 500;
+$font-weight-bold: 700; // Added for headings
 $font-size-display-2: 3rem; // 48px
+$font-size-display-1: 4.5rem; // Added for large heroes
+$font-size-hero: clamp(2.5rem, 5vw, 4.5rem); // Added responsive hero size
 
 // Spacing
 $spacing-xs: 8px;
@@ -32,16 +39,34 @@ $spacing-xl: 40px;
 $spacing-2xl: 60px;
 $spacing-3xl: 80px;
 $spacing-4xl: 100px;
+$spacing-5xl: 120px; // Added for large sections
 
 // Border radius
 $border-radius-sm: 6px;
 $border-radius-md: 8px;
 $border-radius-lg: 12px;
+$border-radius-xl: 16px; // Added
+$border-radius-pill: 50px; // Added for buttons
 
 // Shadows
 $shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
 $shadow-md: 0 4px 20px rgba(0, 0, 0, 0.08);
 $shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.12);
+$shadow-hover: 0 15px 35px rgba(0, 0, 0, 0.1); // Added for card hovers
 
 // Transitions
 $transition-base: 0.3s ease;
+$transition-fast: 0.15s ease;
+$transition-slow: 0.5s ease;
+
+// Z-index layers
+$z-header: 100;
+$z-dropdown: 1000;
+$z-modal: 2000;
+
+// Breakpoints (Vuetify defaults, for reference)
+$breakpoint-xs: 0;
+$breakpoint-sm: 600px;
+$breakpoint-md: 960px;
+$breakpoint-lg: 1280px;
+$breakpoint-xl: 1920px;

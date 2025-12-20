@@ -2,7 +2,7 @@
   <v-container class="py-12">
     <v-row justify="center">
       <v-col cols="12" md="10" lg="8">
-        <h1 class="text-h2 mb-8">{{ $t('pages.faq') }}</h1>
+        <h1 class="text-h2 mb-8">{{ $t('faq.title') }}</h1>
 
         <v-expansion-panels v-if="faqItems && faqItems.length > 0">
           <v-expansion-panel v-for="(item, index) in faqItems" :key="index">
@@ -16,7 +16,7 @@
         </v-expansion-panels>
 
         <div v-else class="text-center py-8">
-          <p class="text-h6">{{ $t('pages.faq') }} coming soon...</p>
+          <p class="text-h6">{{ $t('faq.comingSoon') }}</p>
         </div>
       </v-col>
     </v-row>
@@ -34,20 +34,22 @@ interface FaqItem {
 const { t, locale } = useI18n()
 
 useHead({
-  title: t('pages.faq')
+  title: t('faq.title')
 })
 
-// Load FAQ items from content based on current locale
 const { data: faqItems } = await useAsyncData<FaqItem[]>(
   `faq-${locale.value}`,
   async () => {
     try {
-      const items = await queryContent<FaqItem>(`faq/${locale.value}`).sort({ order: 1 }).find()
+      const items = await queryContent<FaqItem>(`faq/${locale.value}`)
+        .sort({ order: 1 })
+        .find()
       return items
     } catch {
-      // Fallback to English if locale content not found
       try {
-        const items = await queryContent<FaqItem>('faq/en').sort({ order: 1 }).find()
+        const items = await queryContent<FaqItem>('faq/en')
+          .sort({ order: 1 })
+          .find()
         return items
       } catch {
         return []

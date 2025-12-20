@@ -4,7 +4,19 @@
     "projects": "Projekte",
     "insights": "Erkenntnisse",
     "partners": "Partner",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "socioscope": "Sehen, wie sozialer Wandel Gestalt annimmt",
+    "team": "Das Team",
+    "faq": "FAQ",
+    "database": "Initiativendatenbank",
+    "submitInitiative": "Initiative einreichen",
+    "products": "Produkte",
+    "resources": "Ressourcen",
+    "articles": "Artikel",
+    "books": "Bücher",
+    "events": "Veranstaltungen",
+    "contactUs": "Kontakt",
+    "press": "Presseraum"
   },
   "labels": {
     "fields": "Felder",
@@ -137,7 +149,12 @@
     "title": "Verpassen Sie keine neuen Initiativen",
     "subtitle": "Abonnieren Sie, um Updates über neue Projekte in Ihrer Region oder Ihrem Interessensgebiet zu erhalten.",
     "emailPlaceholder": "E-Mail eingeben",
-    "button": "Abonnieren"
+    "button": "Abonnieren",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "E-Mail muss gültig sein",
+    "success": "Vielen Dank fürs Abonnieren!",
+    "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.",
+    "subscribe": "Abonnieren"
   },
   "leadingResearch": {
     "title": "Die Forschung leiten",
@@ -186,385 +203,261 @@
     "newsEvents": "Nachrichten und Veranstaltungen"
   },
   "pages": {
-    "methodology": "Methodik",
-    "partners": "Partner",
-    "publications": "Publikationen",
-    "newsEvents": "Nachrichten und Veranstaltungen",
-    "faq": "FAQ",
-    "contact": "Kontakt",
-    "newsletter": "Newsletter",
-    "credits": "Credits",
-    "privacy": "Datenschutzerklärung",
-    "about": "Über uns"
+    "faq": "FAQ"
   },
   "projects": {
-    "status": {
-      "pending": "WIRD BEARBEITET",
-      "published": "VERÖFFENTLICHT",
-      "stale": "VERALTET",
-      "verified": "VERIFIZIERT",
-      "xfeatured": "xFEATURED",
-      "removed": "ENTFERNT",
-      "blocked": "GESPERRT",
-      "new": "NEU"
+    "database": {
+      "title": "Initiativendatenbank",
+      "subtitle": "Erkunden Sie 1000+ nachhaltige Lebensmittelsystem-Transformationsinitiativen",
+      "searchPlaceholder": "Initiativen suchen...",
+      "filterCountry": "Nach Land filtern",
+      "filterType": "Nach Typ filtern"
     },
-    "continents": {
-      "asia": "Asien",
-      "europe": "Europa",
-      "north-africa": "Nordafrika",
-      "north-america": "Nordamerika",
-      "south-america": "Südamerika",
-      "sub-saharian-africa": "Afrika, südlich der Sahara",
-      "oceania": "Ozeanien",
-      "worldwide-intercontinental": "Weltweit / Interkontinental"
+    "detail": {
+      "title": "Initiativendetails",
+      "about": "Über diese Initiative",
+      "info": "Information",
+      "type": "Typ",
+      "established": "Gegründet"
     },
-    "countries": {
-      "afghanistan": "Afghanistan",
-      "bahrain": "Bahrain",
-      "bangladesh": "Bangladesch",
-      "bhutan": "Bhutan",
-      "brunei": "Brunei",
-      "burma-myanmar": "Burma (Myanmar)",
-      "cambodia": "Kambodscha",
-      "china": "China",
-      "east-timor": "Osttimor",
-      "india": "Indien",
-      "indonesia": "Indonesien",
-      "iran": "Iran",
-      "iraq": "Irak",
-      "israel": "Israel",
-      "japan": "Japan",
-      "jordan": "Jordanien",
-      "kazakhstan": "Kasachstan",
-      "korea-north": "Korea, Nord",
-      "korea-south": "Korea, Süd",
-      "kuwait": "Kuwait",
-      "kyrgyzstan": "Kirgisistan",
-      "laos": "Laos",
-      "lebanon": "Libanon",
-      "malaysia": "Malaysia",
-      "maldives": "Malediven",
-      "mongolia": "Mongolei",
-      "nepal": "Nepal",
-      "oman": "Oman",
-      "pakistan": "Pakistan",
-      "philippines": "Philippinen",
-      "qatar": "Katar",
-      "russian-federation": "Russische Föderation",
-      "saudi-arabia": "Saudi-Arabien",
-      "singapore": "Singapur",
-      "sri-lanka": "Sri Lanka",
-      "syria": "Syrien",
-      "tajikistan": "Tadschikistan",
-      "thailand": "Thailand",
-      "turkey": "Türkei",
-      "turkmenistan": "Turkmenistan",
-      "united-arab-emirates": "Vereinigte Arabische Emirate",
-      "uzbekistan": "Usbekistan",
-      "vietnam": "Vietnam",
-      "yemen": "Jemen",
-      "angola": "Angola",
-      "benin": "Benin",
-      "botswana": "Botswana",
-      "burkina": "Burkina",
-      "burundi": "Burundi",
-      "cameroon": "Kamerun",
-      "cape-verde": "Kap Verde",
-      "central-african-republic": "Zentralafrikanische Republik",
-      "chad": "Chad",
-      "comoros": "Komoren",
-      "congo": "Kongo",
-      "congo-democratic-republic-of": "Kongo, Demokratische Republik",
-      "djibouti": "Dschibuti",
-      "equatorial-guinea": "Äquatorial-Guinea",
-      "eritrea": "Eritrea",
-      "ethiopia": "Äthiopien",
-      "gabon": "Gabun",
-      "gambia": "Gambia",
-      "ghana": "Ghana",
-      "guinea": "Guinea",
-      "guinea-bissau": "Guinea-Bissau",
-      "ivory-coast": "Elfenbeinküste",
-      "kenya": "Kenia",
-      "lesotho": "Lesotho",
-      "liberia": "Liberia",
-      "madagascar": "Madagaskar",
-      "malawi": "Malawi",
-      "mali": "Mali",
-      "mauritania": "Mauretanien",
-      "mauritius": "Mauritius",
-      "mozambique": "Mosambik",
-      "namibia": "Namibia",
-      "niger": "Niger",
-      "nigeria": "Nigeria",
-      "rwanda": "Ruanda",
-      "sao-tome-and-principe": "Sao Tome und Principe",
-      "senegal": "Senegal",
-      "seychelles": "Seychellen",
-      "sierra-leone": "Sierra Leone",
-      "somalia": "Somalia",
-      "south-africa": "Süd-Afrika",
-      "south-sudan": "Südsudan",
-      "sudan": "Sudan",
-      "swaziland": "Swasiland",
-      "tanzania": "Tansania",
-      "togo": "Togo",
-      "uganda": "Uganda",
-      "zambia": "Sambia",
-      "zimbabwe": "Simbabwe",
-      "algeria": "Algerien",
-      "egypt": "Ägypten",
-      "libya": "Libyen",
-      "morocco": "Marokko",
-      "tunisia": "Tunesien",
-      "albania": "Albanien",
-      "andorra": "Andorra",
-      "armenia": "Armenien",
-      "austria": "Österreich",
-      "azerbaijan": "Aserbaidschan",
-      "belarus": "Weißrussland",
-      "belgium": "Belgien",
-      "bosnia-and-herzegovina": "Bosnien und Herzegowina",
-      "bulgaria": "Bulgarien",
-      "croatia": "Kroatien",
-      "cyprus": "Zypern",
-      "czech-republic": "Tschechische Republik",
-      "denmark": "Dänemark",
-      "estonia": "Estland",
-      "finland": "Finnland",
-      "france": "Frankreich",
-      "georgia": "Georgien",
-      "germany": "Deutschland",
-      "greece": "Griechenland",
-      "hungary": "Ungarn",
-      "iceland": "Island",
-      "ireland": "Irland",
-      "italy": "Italien",
-      "latvia": "Lettland",
-      "liechtenstein": "Liechtenstein",
-      "lithuania": "Litauen",
-      "luxembourg": "Luxemburg",
-      "macedonia": "Mazedonien",
-      "malta": "Malta",
-      "moldova": "Moldawien",
-      "monaco": "Monaco",
-      "montenegro": "Montenegro",
-      "netherlands": "Niederlande",
-      "norway": "Norwegen",
-      "poland": "Polen",
-      "portugal": "Portugal",
-      "romania": "Rumänien",
-      "san-marino": "San Marino",
-      "serbia": "Serbien",
-      "slovakia": "Slowakei",
-      "slovenia": "Slowenien",
-      "spain": "Spanien",
-      "sweden": "Schweden",
-      "switzerland": "Switzerland",
-      "ukraine": "Ukraine",
-      "united-kingdom": "Vereinigtes Königreich",
-      "vatican-city": "Vatikanstadt",
-      "australia": "Australien",
-      "fiji": "Fidschi",
-      "kiribati": "Kiribati",
-      "marshall-islands": "Marshallinseln",
-      "micronesia": "Mikronesien",
-      "nauru": "Nauru",
-      "new-zealand": "Neuseeland",
-      "palau": "Palau",
-      "papua-new-guinea": "Papua-Neuguinea",
-      "samoa": "Samoa",
-      "solomon-islands": "Salomoninseln",
-      "tonga": "Tonga",
-      "tuvalu": "Tuvalu",
-      "vanuatu": "Vanuatu",
-      "argentina": "Argentinien",
-      "bolivia": "Bolivien",
-      "brazil": "Brasilien",
-      "chile": "Chile",
-      "colombia": "Kolumbien",
-      "ecuador": "Ecuador",
-      "guyana": "Guyana",
-      "paraguay": "Paraguay",
-      "peru": "Peru",
-      "suriname": "Surinam",
-      "uruguay": "Uruguay",
-      "venezuela": "Venezuela",
-      "antigua-and-barbuda": "Antigua und Barbuda",
-      "bahamas": "Bahamas",
-      "barbados": "Barbados",
-      "belize": "Belize",
-      "canada": "Kanada",
-      "costa-rica": "Costa Rica",
-      "cuba": "Kuba",
-      "dominica": "Dominica",
-      "dominican-republic": "Dominikanische Republik",
-      "el-salvador": "El Salvador",
-      "grenada": "Grenada",
-      "guatemala": "Guatemala",
-      "haiti": "Haiti",
-      "honduras": "Honduras",
-      "jamaica": "Jamaika",
-      "mexico": "Mexiko",
-      "nicaragua": "Nicaragua",
-      "panama": "Panama",
-      "saint-kitts-and-nevis": "St. Kitts und Nevis",
-      "saint-lucia": "St. Lucia",
-      "saint-vincent-and-the-grenadines": "St. Vincent und die Grenadinen",
-      "trinidad-and-tobago": "Trinidad und Tobago",
-      "united-states": "Vereinigte Staaten"
+    "submit": {
+      "title": "Ihre Initiative einreichen",
+      "subtitle": "Teilen Sie Ihr Projekt zur Transformation nachhaltiger Lebensmittelsysteme",
+      "name": "Initiativenname",
+      "location": "Standort",
+      "description": "Beschreibung",
+      "email": "Kontakt-E-Mail",
+      "button": "Initiative einreichen",
+      "success": "Vielen Dank für die Einreichung Ihrer Initiative!"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "Das Sozioskop - Sehen, wie sozialer Wandel Gestalt annimmt",
+      "description": "Kartierung nachhaltiger Lebensmittelsystem-Transformationsinitiativen weltweit"
     },
-    "fields": {
-      "socialSciencesAndHumanities": "Sozial- und Geisteswissenschaften",
-      "otherSciences": "Andere Wissenschaften",
-      "anthropology": "Anthropologie",
-      "arts-architecture-and-museology": "Kunst, Architektur und Museologie",
-      "communication-and-media-studies": "Kommunikations- und Medienwissenschaft",
-      "demography": "Demografie",
-      "design": "Design",
-      "economics-statistics": "Wirtschaft & Statistik",
-      "education-sciences": "Erziehungswissenschaften",
-      "gender-studies": "Gender Studies",
-      "geography": "Geographie",
-      "history": "Geschichte",
-      "literature-and-languages": "Literatur und Sprachen",
-      "law": "Jura",
-      "linguistics": "Linguistik",
-      "management-public-administration": "Management & Öffentliche Verwaltung",
-      "philosophy-incl-ethics": "Philosophie inkl. Ethik",
-      "political-science": "Politikwissenschaft",
-      "psychology-behavioural-and-cognitive-sciences": "Psychologie, Verhaltens- und Kognitive Wissenschaften",
-      "religion-and-theology": "Religion und Theologie",
-      "sociology": "Soziologie",
-      "other-social-sciences-and-humanities": "Andere Sozial- und Geisteswissenschaften",
-      "biology": "Biologie",
-      "chemistry-physics": "Chemie & Physik",
-      "computer-sciences": "Computerwissenschaften",
-      "earth-sciences": "Geowissenschaften",
-      "ecology-environmental-sciences": "Ökologie & Umweltwissenschaften",
-      "engineering-and-technology": "Ingenieurwesen und Technologie",
-      "epidemiology": "Epidemiologie",
-      "information-technology": "Informationstechnologie",
-      "mathematics": "Mathematik",
-      "medicine": "Medizin",
-      "systems-science": "Systemwissenschaft"
+    "hero": {
+      "title": "Sehen, wie sozialer Wandel Gestalt annimmt",
+      "subtitle": "Kartierung der Entstehung nachhaltiger Gesellschaften durch kollektives Handeln, Verfolgung von 1000+ Wandelinitiativen weltweit.",
+      "exploreBtn": "Initiativen erkunden",
+      "learnBtn": "Mehr erfahren"
     },
-    "thematics": {
-      "aging-demography": "Alterung, Demographie",
-      "food-agriculture-fishery": "Landwirtschaft, Lebensmittel",
-      "data-information-and-computing": "Big Data, Künstliche Intelligenz",
-      "cities-mobility-urban-planning": "Städte, Mobilität, Stadtplanung",
-      "consumption-and-production-patterns": "Verbrauchs- und Produktionsmuster",
-      "culture-and-the-arts": "Kunst und Kultur",
-      "governance-democracy-civil-society": "Demokratie, Zivilgesellschaft, Governance",
-      "digital-humanities": "Digitale Geisteswissenschaften",
-      "education": "Bildung",
-      "ecology-environmental-change": "Umweltveränderungen, Ökologie",
-      "equality-diversity-studies-and-social-justice": "Studien zu Gleichberechtigung und Diversität",
-      "economy-business-markets-finance": "Firmen, Märkte, Finanzen",
-      "human-behaviours-social-relations": "Menschliches Verhalten, soziale Beziehungen",
-      "inequalities-poverty-development": "Ungleichheit, Armut, Entwicklung",
-      "innovation-rd": "Innovation, Forschung & Entwicklung",
-      "international-relations-and-co-operation": "Internationale Beziehungen und Kooperation",
-      "leisure-tourism": "Freizeit, Tourismus",
-      "migrations-and-diasporas": "Migration und Diasporas",
-      "communication-public-sphere-rhetorics": "Öffentlicher Diskurs, Rhetorik, Kommunikation",
-      "public-health": "Public Health",
-      "public-policy-evaluation-impact": "Public Policy, Bewertung, Impact",
-      "risks-crisis-management": "Risiken, Krisenmanagement",
-      "worldviews-and-religion": "Religionen und Weltanschauungen",
-      "security-violence-crime": "Gewalt, Kriminalität, Sicherheit",
-      "welfare-work-social-protection": "Arbeit, Wohlfahrt, Sozialschutz",
-      "undefined": "Thematik"
+    "metrics": {
+      "initiatives": "Kartierte Initiativen",
+      "countries": "Länder",
+      "interviewers": "Interviewer",
+      "continents": "Kontinente"
     },
-    "types": {
-      "quantitative-survey": "Quantitative Erhebung",
-      "qualitative-analysis": "Qualitative Analyse",
-      "case-study": "Fallstudie",
-      "questionnaire": "Fragebogen",
-      "simulation-modeling": "Simulation / Modellierung",
-      "dataset-data-mining": "Datensatz, Data Mining",
-      "action-research": "Action Research",
-      "call-for-research-proposals": "Aufruf zur Einreichung von Forschungsproposals",
-      "call-for-collaboration": "Aufruf zur Zusammenarbeit",
-      "citizen-participatory-science": "Bürgerwissenschaft / Partizipative Wissenschaft",
-      "grassroot-action": "Grassroots-Aktion",
-      "scientific-paper": "Wissenschaftliches Paper",
-      "report": "Bericht",
-      "policy-document": "Policydokument",
-      "regulation": "Regelung",
-      "conference-webinar": "Konferenz / Webinar",
-      "video": "Video",
-      "blog": "Blog",
-      "press-article": "Presseartikel",
-      "research-tracker": "Forschungstracker",
-      "other-resource": "Andere Ressource",
-      "call-for-papers": "Aufruf zur Einreichung von Beiträgen",
-      "archival-materials": "Archivmaterial",
-      "art-exhibitions": "Kunstausstellungen",
-      "code-and-software": "Code und Software",
-      "bibliography": "Bibliographie",
-      "books-and-book-chapters": "Bücher und Buchkapitel",
-      "recipe": "Kochrezept",
-      "learning-object": "Lernobjekt",
-      "images-and-photos": "Bilder und Fotos",
-      "lessons": "Lektionen",
-      "manuscripts-and-preprints": "Manuskripte und Vorabdrucke",
-      "maps": "Karten",
-      "instructional-materials": "Lehrmaterial",
-      "business-model": "Geschäftsmodell",
-      "expertise-offer": "Kompetenzangebot",
-      "cultural-practice": "Kulturelle Praxis",
-      "public-slideshow": "Öffentliche Diashow",
-      "review": "Rezension",
-      "scores": "Scores",
-      "seminars": "Seminare",
-      "supply-chain": "Lieferkette",
-      "survey-data": "Umfragedaten",
-      "textual-materials": "Textuelle Materialien",
-      "thesis": "Dissertation",
-      "web-page": "Web Page",
-      "catering": "Verpflegung"
+    "intro": {
+      "title": "Die Architektur des Wandels verstehen",
+      "paragraph1": "Das Sozioskop ist eine wegweisende Forschungsplattform, die dokumentiert, wie Gemeinschaften weltweit ihre Lebensmittelsysteme transformieren.",
+      "paragraph2": "Durch die Kombination traditioneller qualitativer Methoden mit KI-gestützter Analyse enthüllen wir verborgene Muster sozialer Transformation."
     },
-    "state": {
-      "planned-project": "Geplantes Projekt",
-      "ongoing-project": "Laufendes Projekt",
-      "completed-project": "Abgeschlossenes Projekt"
-    },
-    "misc": {
-      "frequency": {
-        "daily": "Täglich",
-        "weekly": "Wöchentlich",
-        "every2Weeks": "Alle 2 Wochen",
-        "monthly": "Monatlich"
+    "pillars": {
+      "title": "Unser Ansatz",
+      "learnMore": "Mehr über uns erfahren",
+      "data": {
+        "title": "Daten",
+        "desc1": "Ausgefeilte Vor-Ort-Datenerhebung in über 30 Ländern.",
+        "desc2": "Unsere Forscher führen ethnographische Feldarbeit durch."
+      },
+      "tech": {
+        "title": "Technologie",
+        "desc1": "LLM-gesteuerte Forschungsmethodik.",
+        "desc2": "Aufbauend auf Sleipnir, unserem analytischen Rahmen."
+      },
+      "analysis": {
+        "title": "Analyse",
+        "desc1": "Neue Rahmen zum Verständnis von Systemtransformation.",
+        "desc2": "Transaktionsraster-Methodik."
       }
     },
-    "score": "Bewertung",
-    "noProjects": "Keine Projekte gefunden",
-    "periodicity": "Periodizität",
-    "links": "Links",
-    "description": "Beschreibung",
-    "projectState": "Projektstatus",
-    "filterByContinent": "Nach Kontinent filtern",
-    "filterByCountry": "Nach Land filtern",
-    "filterByThematic": "Nach Themen filtern",
-    "filterByField": "Nach Disziplinen filtern",
-    "filterByType": "Nach Typen filtern",
-    "filterByStatus": "Nach Status filtern",
-    "video": "Video",
-    "backToList": "Zurück zu Projekten",
-    "notFound": "Projekt nicht gefunden",
-    "contact": "Kontakt",
-    "website": "Webseite",
-    "projectsFound": "{count} Projekt gefunden | {count} Projekte gefunden",
-    "search": "Projekte suchen",
-    "geography": "Geographie",
-    "continentsLabel": "Kontinente",
-    "countriesLabel": "Länder",
-    "loading": "Projekt wird geladen...",
-    "translationDisclaimer": "Dieser Inhalt wurde automatisch ins {language} übersetzt.",
-    "viewInOriginal": "In {language} anzeigen",
-    "viewingOriginal": "Inhalt wird in Originalsprache angezeigt ({language}).",
-    "viewTranslated": "Übersetzung anzeigen"
+    "map": {
+      "title": "Globale Reichweite, lokale Wirkung",
+      "placeholder": "[Interaktive Karte]"
+    },
+    "research": {
+      "title": "Führend in der Forschung",
+      "csh": {
+        "name": "Complexity Science Hub Vienna",
+        "lead": "Helga Nowotny, Projektleitung"
+      },
+      "paris": {
+        "name": "Paris Institute for Advanced Study",
+        "lead": "Saadi Lahlou, Projektleitung"
+      },
+      "support": "Unterstützt von der NOMIS-Stiftung"
+    },
+    "cta": {
+      "title": "Schließen Sie sich der Bewegung an",
+      "description": "Arbeiten Sie an einer kollektiven Intelligenz- oder sozialen Innovationsinitiative?",
+      "button": "Ihre Initiative einreichen"
+    }
+  },
+  "products": {
+    "title": "Unsere Produkte",
+    "subtitle": "Werkzeuge und Ressourcen zum Verständnis sozialen Wandels",
+    "sleipnir": {
+      "name": "Sleipnir",
+      "desc": "Unser KI-gestütztes analytisches Framework"
+    },
+    "database": {
+      "name": "Initiativendatenbank",
+      "desc": "Umfassende Datenbank mit 1000+ Initiativen"
+    },
+    "publications": {
+      "name": "Forschungspublikationen",
+      "desc": "Zugriff auf unsere wissenschaftlichen Arbeiten und Ergebnisse"
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "Über Das Sozioskop"
+    },
+    "title": "Über Das Sozioskop",
+    "subtitle": "Verstehen, was nachhaltigen Wandel wirklich antreibt",
+    "mission": {
+      "title": "Unsere Mission",
+      "text1": "Das Sozioskop ist ein transformatives qualitatives Forschungsprojekt.",
+      "text2": "Dient als umfassendes Observatorium."
+    },
+    "info": {
+      "established": {
+        "label": "Gegründet",
+        "value": "2022",
+        "detail": "Wächst seit Tag eins"
+      },
+      "location": {
+        "label": "Heimatbasis",
+        "value": "Paris, Frankreich",
+        "detail": "Wo Ideen auf Croissants treffen"
+      },
+      "reach": {
+        "label": "Globale Reichweite",
+        "value": "35+ Länder",
+        "detail": "Und es werden mehr..."
+      }
+    },
+    "whatWeDo": {
+      "title": "Was wir tun",
+      "text": "Das Sozioskop erforscht, wie nachhaltiger Wandel in der Praxis geschieht."
+    },
+    "methodology": {
+      "title": "Unsere Methodik",
+      "subtitle": "Kombination akademischer Strenge mit partizipativer Forschung",
+      "step1": {
+        "title": "Identifikation",
+        "desc": "Durch Netzwerkanalyse, Expertenempfehlungen..."
+      },
+      "step2": {
+        "title": "Dokumentation",
+        "desc": "Unsere geschulten Interviewer führen tiefgehende Gespräche..."
+      },
+      "step3": {
+        "title": "Analyse",
+        "desc": "Verwendung KI-gestützter gemischter Methoden..."
+      },
+      "step4": {
+        "title": "Verbreitung",
+        "desc": "Wir teilen Ergebnisse durch Publikationen..."
+      }
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "open": {
+        "title": "Offener Zugang",
+        "desc": "All unsere Forschung und Daten sind frei zugänglich."
+      },
+      "participatory": {
+        "title": "Partizipativ",
+        "desc": "Wir arbeiten direkt mit Gemeinschaften."
+      },
+      "global": {
+        "title": "Globale Perspektive",
+        "desc": "Unsere Forschung umfasst Kontinente und Kulturen."
+      },
+      "ethical": {
+        "title": "Ethische Praxis",
+        "desc": "Wir halten höchste Standards ein."
+      }
+    },
+    "cta": {
+      "title": "Treten Sie unserer Forschungsgemeinschaft bei",
+      "description": "Ob Sie Forscher, Praktiker oder Changemaker sind...",
+      "submitBtn": "Initiative einreichen",
+      "contactBtn": "Kontakt aufnehmen"
+    }
+  },
+  "team": {
+    "title": "Das Team",
+    "subtitle": "Lernen Sie die Menschen hinter Das Sozioskop kennen",
+    "leadership": {
+      "title": "Leitung"
+    },
+    "researchers": {
+      "title": "Forschungsteam"
+    },
+    "helga": {
+      "name": "Helga Nowotny",
+      "role": "Projektleitung",
+      "org": "Complexity Science Hub Vienna"
+    },
+    "saadi": {
+      "name": "Saadi Lahlou",
+      "role": "Projektleitung",
+      "org": "Paris Institute for Advanced Study"
+    },
+    "researcher1": {
+      "name": "Forschungskoordinator",
+      "role": "Koordination"
+    },
+    "researcher2": {
+      "name": "Datenanalyst",
+      "role": "Analyse"
+    },
+    "researcher3": {
+      "name": "Feldforscher",
+      "role": "Ethnographie"
+    },
+    "researcher4": {
+      "name": "Technischer Leiter",
+      "role": "Technologie"
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "comingSoon": "FAQ demnächst verfügbar..."
+  },
+  "resources": {
+    "articles": {
+      "title": "Forschungsartikel",
+      "comingSoon": "Artikel demnächst verfügbar..."
+    },
+    "books": {
+      "title": "Bücher & Publikationen",
+      "comingSoon": "Bücher demnächst verfügbar..."
+    },
+    "events": {
+      "title": "Veranstaltungen & Workshops",
+      "comingSoon": "Veranstaltungen demnächst verfügbar..."
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Kontaktieren Sie das Sozioskop-Team",
+    "name": "Name",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "button": "Nachricht senden",
+    "success": "Nachricht gesendet! Danke."
+  },
+  "common": {
+    "search": "Suchen",
+    "learnMore": "Mehr erfahren",
+    "readMore": "Mehr lesen",
+    "back": "Zurück",
+    "required": "Dieses Feld ist erforderlich",
+    "emailInvalid": "Bitte geben Sie eine gültige E-Mail ein",
+    "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut."
   }
 }

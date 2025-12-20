@@ -2,7 +2,7 @@
   <v-container class="py-12">
     <v-row justify="center">
       <v-col cols="12" md="10" lg="8">
-        <h1 class="text-h2 mb-8">{{ $t('pages.contact') }}</h1>
+        <h1 class="text-h2 mb-8">{{ $t('contact') }}</h1>
 
         <v-card elevation="2" class="pa-8">
           <v-form @submit.prevent="handleSubmit">
