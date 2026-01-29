@@ -1,0 +1,572 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - The Socioscope</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFBF0;
+            --warm-beige: #F5EDD6;
+            --deep-brown: #2C2416;
+            --bright-green: #4CA049;
+            --forest-green: #27421D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Playfair Display', serif;
+            color: var(--deep-brown);
+            background: var(--cream);
+            line-height: 1.8;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--warm-beige);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            min-height: 400px;
+        }
+
+        .hero-text {
+            padding: 4rem 3rem 4rem 0;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            color: var(--deep-brown);
+            font-weight: 700;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.4rem);
+            line-height: 1.5;
+            color: var(--deep-brown);
+            font-weight: 400;
+            opacity: 0.85;
+        }
+
+        .hero-image {
+            height: 100%;
+            min-height: 400px;
+            position: relative;
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* Animated placeholder */
+        .hero-animation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background: var(--warm-beige);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .floating-element {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.15;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .floating-element-1 {
+            width: 120px;
+            height: 120px;
+            background: var(--bright-green);
+            top: 15%;
+            left: 15%;
+            animation-delay: 0s;
+        }
+
+        .floating-element-2 {
+            width: 90px;
+            height: 90px;
+            background: var(--forest-green);
+            top: 55%;
+            right: 20%;
+            animation-delay: 1.5s;
+        }
+
+        .floating-element-3 {
+            width: 70px;
+            height: 70px;
+            background: var(--bright-green);
+            bottom: 25%;
+            left: 35%;
+            animation-delay: 3s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+            }
+            50% {
+                transform: translateY(-25px) scale(1.1);
+            }
+        }
+
+        .photo-placeholder {
+            font-size: 5rem;
+            opacity: 0.3;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Section Styling */
+        .section {
+            padding: 5rem 0;
+        }
+
+        .section-white {
+            background: var(--cream);
+        }
+
+        .section-beige {
+            background: var(--warm-beige);
+        }
+
+        /* FAQ Categories */
+        .category-nav {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 4rem;
+        }
+
+        .category-button {
+            padding: 0.75rem 2rem;
+            background: white;
+            border: 2px solid var(--warm-beige);
+            color: var(--deep-brown);
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .category-button:hover,
+        .category-button.active {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        /* FAQ Container */
+        .faq-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .faq-category {
+            margin-bottom: 3rem;
+        }
+
+        .faq-category-title {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            color: var(--forest-green);
+            text-align: center;
+        }
+
+        /* FAQ Item */
+        .faq-item {
+            background: white;
+            border: 2px solid var(--warm-beige);
+            margin-bottom: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .faq-item.active {
+            border-color: var(--bright-green);
+        }
+
+        .faq-question {
+            padding: 1.5rem 2rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+            transition: all 0.3s ease;
+        }
+
+        .faq-question:hover {
+            background: var(--warm-beige);
+        }
+
+        .faq-question-text {
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--deep-brown);
+            flex: 1;
+        }
+
+        .faq-icon {
+            font-size: 1.5rem;
+            color: var(--bright-green);
+            transition: transform 0.3s ease;
+            flex-shrink: 0;
+        }
+
+        .faq-item.active .faq-icon {
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease;
+        }
+
+        .faq-answer-content {
+            padding: 0 2rem 1.5rem 2rem;
+            font-size: 1.05rem;
+            line-height: 1.8;
+            color: var(--deep-brown);
+            opacity: 0.85;
+        }
+
+        .faq-item.active .faq-answer {
+            max-height: 1000px;
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: var(--warm-beige);
+            text-align: center;
+            border-top: 3px solid var(--bright-green);
+        }
+
+        .cta-content {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .cta-content h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--deep-brown);
+        }
+
+        .cta-content p {
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+            color: var(--deep-brown);
+            line-height: 1.7;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            font-weight: 600;
+            text-decoration: none;
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .btn-primary {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        .btn-primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--deep-brown);
+            border-color: var(--deep-brown);
+        }
+
+        .btn-outline:hover {
+            background: var(--deep-brown);
+            color: var(--cream);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+                min-height: auto;
+            }
+
+            .hero-text {
+                padding: 3rem 0 2rem;
+                text-align: center;
+            }
+
+            .hero-image {
+                min-height: 300px;
+            }
+
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .section {
+                padding: 4rem 0;
+            }
+
+            .category-nav {
+                gap: 1rem;
+            }
+
+            .category-button {
+                padding: 0.6rem 1.5rem;
+                font-size: 0.9rem;
+            }
+
+            .faq-question {
+                padding: 1.25rem 1.5rem;
+            }
+
+            .faq-question-text {
+                font-size: 1.05rem;
+            }
+
+            .faq-answer-content {
+                padding: 0 1.5rem 1.25rem 1.5rem;
+                font-size: 1rem;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Frequently Asked Questions</h1>
+                    <p class="hero-subtitle">Everything you need to know about The Socioscope and our research on sustainable food systems</p>
+                </div>
+                <div class="hero-image">
+                    <div class="hero-animation">
+                        <div class="floating-element floating-element-1"></div>
+                        <div class="floating-element floating-element-2"></div>
+                        <div class="floating-element floating-element-3"></div>
+                        <div class="photo-placeholder">❓</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="section section-white">
+        <div class="container">
+            <div class="faq-container">
+                <!-- General Questions -->
+                <div class="faq-category" id="general">
+                    <h2 class="faq-category-title">General Questions</h2>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">What is The Socioscope?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                The Socioscope is a transformative qualitative research project that maps how behaviours, norms, and communities influence the transition toward sustainable food systems. We serve as a comprehensive observatory, making knowledge accessible to researchers, policymakers, and practitioners worldwide while shining a light on local initiatives that drive sustainable change.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">When was The Socioscope founded?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                The Socioscope was founded in 2022 and is headquartered in Paris, France. Since then, we have expanded our research reach to over 35 countries globally.
+                            </div>
+                        </div>
+                    </div>
+
+                <!-- Research & Methodology -->
+                <div class="faq-category" id="research">
+                    <h2 class="faq-category-title">Research & Methodology</h2>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">What research methods do you use?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                We combine academic rigor with participatory research approaches through a four-step process: (1) Identification through network analysis and community nominations, (2) Documentation via in-depth interviews with initiative leaders, (3) Analysis using AI-powered mixed methods to identify patterns, and (4) Dissemination through publications, social media, and community engagement.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">How many initiatives have you documented?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Over 700! Our database includes hundreds of initiatives from grassroots movements, community-led projects, participatory governance experiments, and collaborative problem-solving platforms across 35+ countries. We continuously expand our documentation as we discover new initiatives driving sustainable food systems.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">How do you ensure research quality?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                We maintain rigorous quality standards through trained interviewers, standardized protocols, peer review processes, and ethical research practices. Our research team includes leading scholars in sustainable food systems and social innovation, ensuring academic excellence in all our work.
+                            </div>
+                        </div>
+                    </div>
+
+                <!-- Participation & Collaboration -->
+                <div class="faq-category" id="participation">
+                    <h2 class="faq-category-title">Participation & Collaboration</h2>
+                    
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">How can I submit an initiative to be documented?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                We welcome submissions from anyone working on sustainable food systems initiatives. You can submit your initiative through our projects page or by reaching out directly to our research team. We look for initiatives that demonstrate innovative approaches to sustainable transformation in food systems.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">Do you collaborate with other research institutions?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Absolutely. Collaboration is one of our core values. We partner with research institutions, universities, and organizations worldwide. Our team includes scholars from the Institute of Advanced Study Paris, Complexity Science Hub Vienna, and other leading institutions.
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="faq-item">
+                        <div class="faq-question">
+                            <span class="faq-question-text">How can I stay updated on your work?</span>
+                            <span class="faq-icon">+</span>
+                        </div>
+                        <div class="faq-answer">
+                            <div class="faq-answer-content">
+                                Follow us on social media, subscribe to our newsletter, and check our website regularly for new publications, findings, and opportunities to engage. We share updates on new initiatives documented, research insights, and ways to participate in our growing global community.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="section cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Still Have Questions?</h2>
+                <p>
+                    We're here to help. Reach out to our team and we'll get back to you as soon as possible.
+                </p>
+                <div class="btn-group">
+                    <a href="#" class="btn btn-primary">Contact Us</a>
+                    <a href="#" class="btn btn-outline">Explore Our Database</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // FAQ Accordion functionality
+        document.querySelectorAll('.faq-question').forEach(question => {
+            question.addEventListener('click', () => {
+                const item = question.parentElement;
+                const isActive = item.classList.contains('active');
+                
+                // Close all other items
+                document.querySelectorAll('.faq-item').forEach(otherItem => {
+                    otherItem.classList.remove('active');
+                });
+                
+                // Toggle current item
+                if (!isActive) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Optional: Open first FAQ by default
+        document.querySelector('.faq-item').classList.add('active');
+    </script>
+</body>
+</html>

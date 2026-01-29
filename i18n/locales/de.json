@@ -542,7 +542,17 @@
   },
   "faq": {
     "title": "Häufig gestellte Fragen",
-    "comingSoon": "FAQ demnächst verfügbar..."
+    "subtitle": "Alles, was Sie über The Socioscope und unsere Forschung zu nachhaltigen Ernährungssystemen wissen müssen",
+    "comingSoon": "FAQ demnächst verfügbar...",
+    "categories": {
+      "general": "Allgemeine Fragen",
+      "research": "Forschung & Methodik",
+      "participation": "Teilnahme & Zusammenarbeit"
+    },
+    "allCategories": "Alle Fragen",
+    "stillHaveQuestions": "Haben Sie noch Fragen?",
+    "contactPrompt": "Wir sind hier, um zu helfen. Kontaktieren Sie unser Team und wir werden uns so schnell wie möglich bei Ihnen melden.",
+    "exploreDatabase": "Unsere Datenbank Erkunden"
   },
   "resources": {
     "articles": {

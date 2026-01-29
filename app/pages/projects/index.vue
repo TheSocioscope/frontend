@@ -199,12 +199,30 @@ const filteredProjects = computed(() => {
 
   if (searchQuery) {
     const query = searchQuery.toLowerCase()
-    filtered = filtered.filter(
-      (p) =>
-        p.name?.toLowerCase().includes(query) ||
-        p.description?.toLowerCase().includes(query) ||
-        p.location?.toLowerCase().includes(query)
-    )
+    filtered = filtered.filter((p) => {
+      // Helper function to get searchable text from multilingual fields
+      const getSearchableText = (field: any): string => {
+        if (!field) return ''
+        if (typeof field === 'string') return field.toLowerCase()
+        if (typeof field === 'object') {
+          return Object.values(field)
+            .filter((v) => typeof v === 'string')
+            .join(' ')
+            .toLowerCase()
+        }
+        return ''
+      }
+
+      const searchableName = getSearchableText(p.name)
+      const searchableDescription = getSearchableText(p.description)
+      const searchableLocation = p.location?.toLowerCase() || ''
+
+      return (
+        searchableName.includes(query) ||
+        searchableDescription.includes(query) ||
+        searchableLocation.includes(query)
+      )
+    })
   }
 
   if (selectedContinent) {

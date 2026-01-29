@@ -1,8 +1,7 @@
 ---
-question: ¿Qué es El Socioscope?
+question: ¿Qué es The Socioscope?
 order: 1
+category: general
 ---
 
-El Socioscope es una iniciativa de investigación innovadora que documenta y analiza las transformaciones de los sistemas alimentarios en todo el mundo. Así como el microscopio revolucionó la biología al revelar el mundo oculto de las células, El Socioscope revela los patrones ocultos de transformación social.
-
-Estamos construyendo una forma sistemática de entender cómo las acciones individuales se conectan para formar un cambio colectivo, enfocándonos en sistemas alimentarios sostenibles como nuestro "organismo modelo" para estudiar la transformación societal.
+The Socioscope es un proyecto de investigación cualitativa transformador que mapea cómo los comportamientos, normas y comunidades influyen en la transición hacia sistemas alimentarios sostenibles. Servimos como un observatorio integral, haciendo accesible el conocimiento a investigadores, formuladores de políticas y profesionales de todo el mundo, al tiempo que iluminamos iniciativas locales que impulsan el cambio sostenible.

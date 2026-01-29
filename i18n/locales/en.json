@@ -627,7 +627,17 @@
   },
   "faq": {
     "title": "Frequently Asked Questions",
-    "comingSoon": "FAQ coming soon..."
+    "subtitle": "Everything you need to know about The Socioscope and our research on sustainable food systems",
+    "comingSoon": "FAQ coming soon...",
+    "categories": {
+      "general": "General Questions",
+      "research": "Research & Methodology",
+      "participation": "Participation & Collaboration"
+    },
+    "allCategories": "All Questions",
+    "stillHaveQuestions": "Still Have Questions?",
+    "contactPrompt": "We're here to help. Reach out to our team and we'll get back to you as soon as possible.",
+    "explorDatabase": "Explore Our Database"
   },
   "resources": {
     "articles": {
@@ -857,6 +867,23 @@
     "back": "Back",
     "required": "This field is required",
     "emailInvalid": "Please enter a valid email",
-    "error": "Something went wrong. Please try again."
+    "error": "Something went wrong. Please try again.",
+    "loading": "Loading...",
+    "notFound": "Not Found",
+    "projectNotFoundDescription": "The project you're looking for doesn't exist or has been removed.",
+    "browseProjects": "Browse Projects",
+    "organization": "Organization",
+    "contact": "Contact",
+    "milestones": "Milestones",
+    "offers": "What We Offer",
+    "lookingFor": "What We're Looking For",
+    "gallery": "Gallery",
+    "team": "Team",
+    "share": "Share This Initiative",
+    "shareDescription": "Share this initiative with your network",
+    "copied": "Link Copied!",
+    "copyLink": "Copy Link",
+    "viewTranslation": "View Translation",
+    "viewOriginal": "View Original"
   }
 }

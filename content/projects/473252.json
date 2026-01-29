@@ -5,12 +5,8 @@
     "lastname": "Socioscope",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754568713,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Dudu Master es una iniciativa innovadora centrada en la agricultura sostenible mediante la cría de insectos, en particular moscas soldado negras y lombrices rojas. Fundado por Jennifer, entomóloga de formación, el proyecto transforma los residuos orgánicos en valiosos recursos como fertilizantes orgánicos y piensos para animales. Dudu Master también ofrece formación y kits de iniciación para capacitar a los agricultores y los hogares, promoviendo una economía circular que mejora la salud del suelo y la seguridad alimentaria al tiempo que reduce la dependencia de los fertilizantes sintéticos.",
     "de": "Dudu Master ist eine innovative Initiative, die sich auf nachhaltige Landwirtschaft durch Insektenfarming konzentriert, insbesondere schwarze Soldatenfliege und rote Erdraupen. Das Projekt wurde von Jennifer, einer ausgebildeten Insektenforscherin, gegründet und verwandelt organische Abfälle in wertvolle Ressourcen wie organischen Dünger und Tierfutter. Dudu Master bietet auch Schulungen und Starterkits an, um Landwirte und Haushalte zu stärken und eine Kreislaufwirtschaft zu fördern, die die Bodengesundheit und Nahrungsmittelsicherheit verbessert und gleichzeitig die Abhängigkeit von künstlichen Düngemitteln verringert."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -43,14 +36,9 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "JUihGr5ut5M",
   "editedAt": 1760066647,
@@ -60,8 +48,239 @@
       "at": 1760066647
     }
   ],
-  "updatedAt": [
-    1760066647
+  "updatedAt": [1760066647],
+  "originalLang": "en",
+  "gallery": [
+    {
+      "url": "/images/gallery/dudumastersfield.jpg",
+      "caption": {
+        "en": "Insect farming operations showing black soldier fly and red earthworm production facilities",
+        "fr": "Opérations d'élevage d'insectes montrant les installations de production de mouches soldat noires et de vers rouges",
+        "es": "Operaciones de cría de insectos que muestran las instalaciones de producción de moscas soldado negras y lombrices rojas",
+        "de": "Insektenfarming-Betriebe mit Anlagen zur Produktion von schwarzen Soldatenfliegen und roten Regenwürmern"
+      },
+      "category": "process"
+    },
+    {
+      "url": "/images/gallery/dudumastersfield2.jpg",
+      "caption": {
+        "en": "Field application of organic fertilizer and vermicompost produced from insect farming",
+        "fr": "Application au champ d'engrais organique et de vermicompost produits par l'élevage d'insectes",
+        "es": "Aplicación en campo de fertilizante orgánico y vermicompost producido mediante cría de insectos",
+        "de": "Feldanwendung von organischem Dünger und Wurmkompost aus der Insektenzucht"
+      },
+      "category": "impact"
+    },
+    {
+      "url": "/images/team/dudumasters.jpg",
+      "caption": {
+        "en": "Jennifer, founder and entomologist, leading training sessions at Dudu Master center",
+        "fr": "Jennifer, fondatrice et entomologiste, dirigeant des sessions de formation au centre Dudu Master",
+        "es": "Jennifer, fundadora y entomóloga, dirigiendo sesiones de formación en el centro Dudu Master",
+        "de": "Jennifer, Gründerin und Entomologin, leitet Schulungen im Dudu Master Zentrum"
+      },
+      "category": "team"
+    }
   ],
-  "originalLang": "fr"
+  "offers": [
+    {
+      "icon": "fertilizer",
+      "label": {
+        "en": "Organic Fertilizer Production",
+        "fr": "Production d'Engrais Organique",
+        "es": "Producción de Fertilizante Orgánico",
+        "de": "Produktion von organischem Dünger"
+      }
+    },
+    {
+      "icon": "feed",
+      "label": {
+        "en": "Animal Feed (Protein from Larvae)",
+        "fr": "Aliments pour Animaux (Protéines de Larves)",
+        "es": "Pienso Animal (Proteína de Larvas)",
+        "de": "Tierfutter (Protein aus Larven)"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Weekly Training Sessions (Every Saturday)",
+        "fr": "Sessions de Formation Hebdomadaires (Chaque Samedi)",
+        "es": "Sesiones de Formación Semanales (Cada Sábado)",
+        "de": "Wöchentliche Schulungen (Jeden Samstag)"
+      }
+    },
+    {
+      "icon": "kit",
+      "label": {
+        "en": "Starter Kits (Red Earthworms & Black Soldier Fly Eggs)",
+        "fr": "Kits de Démarrage (Vers Rouges et Œufs de Mouches Soldat)",
+        "es": "Kits de Inicio (Lombrices Rojas y Huevos de Mosca Soldado)",
+        "de": "Starterkits (Rote Regenwürmer & Schwarze Soldatenfliegeneier)"
+      }
+    },
+    {
+      "icon": "consulting",
+      "label": {
+        "en": "Farm Setup & Consultation Services",
+        "fr": "Services de Configuration de Ferme et de Consultation",
+        "es": "Servicios de Configuración de Granjas y Consultoría",
+        "de": "Farmeinrichtung & Beratungsdienstleistungen"
+      }
+    },
+    {
+      "icon": "waste",
+      "label": {
+        "en": "Waste Management Solutions",
+        "fr": "Solutions de Gestion des Déchets",
+        "es": "Soluciones de Gestión de Residuos",
+        "de": "Abfallmanagement-Lösungen"
+      }
+    },
+    {
+      "icon": "group",
+      "label": {
+        "en": "Group Training for Cooperatives",
+        "fr": "Formation de Groupe pour Coopératives",
+        "es": "Formación Grupal para Cooperativas",
+        "de": "Gruppenschulungen für Genossenschaften"
+      }
+    },
+    {
+      "icon": "tech",
+      "label": {
+        "en": "AI Chatbot Support (In Development)",
+        "fr": "Support par Chatbot IA (En Développement)",
+        "es": "Soporte de Chatbot con IA (En Desarrollo)",
+        "de": "KI-Chatbot-Support (In Entwicklung)"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Government Support & Subsidies for Organic Farming",
+        "fr": "Soutien Gouvernemental et Subventions pour l'Agriculture Biologique",
+        "es": "Apoyo Gubernamental y Subsidios para Agricultura Orgánica",
+        "de": "Regierungsunterstützung & Subventionen für ökologische Landwirtschaft"
+      }
+    },
+    {
+      "icon": "awareness",
+      "label": {
+        "en": "Partners for Awareness & Education Campaigns",
+        "fr": "Partenaires pour Campagnes de Sensibilisation et d'Éducation",
+        "es": "Socios para Campañas de Concienciación y Educación",
+        "de": "Partner für Aufklärungs- und Bildungskampagnen"
+      }
+    },
+    {
+      "icon": "partnership",
+      "label": {
+        "en": "Waste Collection Network Expansion",
+        "fr": "Expansion du Réseau de Collecte des Déchets",
+        "es": "Expansión de la Red de Recolección de Residuos",
+        "de": "Erweiterung des Abfallsammelnetzes"
+      }
+    },
+    {
+      "icon": "collaboration",
+      "label": {
+        "en": "Feed Miller Partnerships",
+        "fr": "Partenariats avec les Meuneries d'Aliments",
+        "es": "Alianzas con Molinos de Piensos",
+        "de": "Partnerschaften mit Futtermittelmühlen"
+      }
+    },
+    {
+      "icon": "certification",
+      "label": {
+        "en": "Certification Support & Quality Standards",
+        "fr": "Support de Certification et Normes de Qualité",
+        "es": "Apoyo de Certificación y Estándares de Calidad",
+        "de": "Zertifizierungsunterstützung & Qualitätsstandards"
+      }
+    },
+    {
+      "icon": "tech-funding",
+      "label": {
+        "en": "Funding for AI Climate Control & Automation Systems",
+        "fr": "Financement pour Contrôle Climatique IA et Systèmes d'Automatisation",
+        "es": "Financiación para Control Climático con IA y Sistemas de Automatización",
+        "de": "Finanzierung für KI-Klimakontrolle & Automatisierungssysteme"
+      }
+    },
+    {
+      "icon": "cooperative",
+      "label": {
+        "en": "Farmer Cooperative Collaborations",
+        "fr": "Collaborations avec Coopératives d'Agriculteurs",
+        "es": "Colaboraciones con Cooperativas de Agricultores",
+        "de": "Kooperationen mit Bauerngenossenschaften"
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2018",
+      "icon": "graduation",
+      "text": {
+        "en": "Jennifer graduated as an entomologist and began exploring insect farming at her grandmother's place",
+        "fr": "Jennifer a obtenu son diplôme d'entomologiste et a commencé à explorer l'élevage d'insectes chez sa grand-mère",
+        "es": "Jennifer se graduó como entomóloga y comenzó a explorar la cría de insectos en casa de su abuela",
+        "de": "Jennifer schloss ihr Studium als Entomologin ab und begann mit der Insektenzucht bei ihrer Großmutter"
+      }
+    },
+    {
+      "date": "2020-2021",
+      "icon": "award",
+      "text": {
+        "en": "Registered Dudu Master and won World Resource Institute grant (US$5,000)",
+        "fr": "Enregistrement de Dudu Master et obtention d'une subvention du World Resource Institute (5 000 USD)",
+        "es": "Registró Dudu Master y ganó una beca del World Resource Institute (US$5,000)",
+        "de": "Registrierte Dudu Master und gewann ein Stipendium des World Resource Institute (5.000 USD)"
+      }
+    },
+    {
+      "date": "2022",
+      "icon": "trophy",
+      "text": {
+        "en": "Won Yalta award - Youth in Agroecology and Business Learning Track (US$5,000) and established Dudu Master center",
+        "fr": "A remporté le prix Yalta - Youth in Agroecology and Business Learning Track (5 000 USD) et a établi le centre Dudu Master",
+        "es": "Ganó el premio Yalta - Youth in Agroecology and Business Learning Track (US$5,000) y estableció el centro Dudu Master",
+        "de": "Gewann den Yalta-Preis - Youth in Agroecology and Business Learning Track (5.000 USD) und gründete das Dudu Master Zentrum"
+      }
+    },
+    {
+      "date": "2023",
+      "icon": "expansion",
+      "text": {
+        "en": "Expanded operations to Uganda, establishing one of East Africa's largest insect farming facilities (1 ton worms/day, 5 tons fertilizer/day)",
+        "fr": "Expansion des opérations en Ouganda, établissement de l'une des plus grandes installations d'élevage d'insectes d'Afrique de l'Est (1 tonne de vers/jour, 5 tonnes d'engrais/jour)",
+        "es": "Expandió operaciones a Uganda, estableciendo una de las instalaciones de cría de insectos más grandes de África Oriental (1 tonelada de gusanos/día, 5 toneladas de fertilizante/día)",
+        "de": "Erweiterung der Aktivitäten nach Uganda, Aufbau einer der größten Insektenfarmanlagen Ostafrikas (1 Tonne Würmer/Tag, 5 Tonnen Dünger/Tag)"
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "growth",
+      "text": {
+        "en": "Initiated expansion to Rwanda and began developing AI-powered climate control systems and chatbot for farmer support",
+        "fr": "Début de l'expansion au Rwanda et développement de systèmes de contrôle climatique alimentés par IA et chatbot pour le soutien aux agriculteurs",
+        "es": "Inició expansión a Ruanda y comenzó a desarrollar sistemas de control climático impulsados por IA y chatbot para apoyo a agricultores",
+        "de": "Begann Expansion nach Ruanda und entwickelte KI-gestützte Klimakontrollsysteme und Chatbot zur Unterstützung von Landwirten"
+      }
+    },
+    {
+      "date": "2025",
+      "icon": "training",
+      "text": {
+        "en": "Regular weekly training sessions serving 90-170 farmers per session, expanding reach to coffee and banana farmer cooperatives across Kenya",
+        "fr": "Sessions de formation hebdomadaires régulières desservant 90 à 170 agriculteurs par session, élargissant la portée aux coopératives de producteurs de café et de bananes à travers le Kenya",
+        "es": "Sesiones de formación semanales regulares que atienden de 90 a 170 agricultores por sesión, expandiendo el alcance a cooperativas de productores de café y plátano en todo Kenia",
+        "de": "Regelmäßige wöchentliche Schulungen für 90-170 Landwirte pro Sitzung, Ausweitung auf Kaffee- und Bananenanbau-Genossenschaften in ganz Kenia"
+      }
+    }
+  ]
 }
