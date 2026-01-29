@@ -1,89 +1,78 @@
 <template>
-  <v-card
-    v-if="localizedLookingFor && localizedLookingFor.length > 0"
-    id="looking-for"
-    class="project-looking-for"
-  >
+  <v-card class="project-looking-for mb-4" elevation="2" id="lookingFor">
     <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-account-search-outline</v-icon>
+      <v-icon class="mr-2">mdi-magnify</v-icon>
       {{ $t('common.lookingFor') }}
     </v-card-title>
+
     <v-card-text>
-      <v-list class="looking-for-list">
-        <v-list-item
-          v-for="(item, index) in localizedLookingFor"
-          :key="index"
-          class="looking-for-item"
-        >
-          <template #prepend>
-            <v-icon color="primary" size="large">mdi-checkbox-marked-circle-outline</v-icon>
-          </template>
-
-          <v-list-item-title class="item-title">
-            {{ item.title }}
-          </v-list-item-title>
-
-          <v-list-item-subtitle v-if="item.description" class="item-description">
-            {{ item.description }}
-          </v-list-item-subtitle>
-        </v-list-item>
-      </v-list>
+      <div class="offering-items">
+        <div v-for="(item, index) in localizedLookingFor" :key="index" class="offering-item">
+          <span class="offering-emoji">{{ getEmoji(item.icon) }}</span>
+          <span class="offering-text">{{ item.title }}</span>
+        </div>
+      </div>
     </v-card-text>
   </v-card>
 </template>
 
 <script setup lang="ts">
-defineProps<{
-  localizedLookingFor: Array<{ title: string; description?: string }>
+const props = defineProps<{
+  localizedLookingFor: Array<{ title: string; description?: string; icon?: string }>
 }>()
 
 const { t: $t } = useI18n()
+
+const getEmoji = (icon?: string) => {
+  if (!icon) return '🔍'
+  const emojiMap: Record<string, string> = {
+    funding: '💰',
+    awareness: '📢',
+    partnership: '🤝',
+    collaboration: '👥',
+    certification: '📜',
+    'tech-funding': '💻',
+    cooperative: '🌾'
+  }
+  return emojiMap[icon] || '🔍'
+}
 </script>
 
 <style scoped lang="scss">
-.project-looking-for {
-  margin-bottom: 2rem;
-}
-
 .section-title {
   font-size: 1.5rem;
-  font-weight: 700;
+  font-weight: 600;
+  color: #27421d;
+}
+
+.offering-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.offering-item {
+  background-color: #f5edd6;
+  padding: 12px 20px;
+  border-radius: 8px;
   display: flex;
   align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
-}
-
-.looking-for-list {
-  padding: 0;
-}
-
-.looking-for-item {
-  padding: 1rem;
-  margin-bottom: 0.5rem;
-  border-left: 3px solid rgb(var(--v-theme-primary));
-  background: rgba(102, 126, 234, 0.03);
-  border-radius: 4px;
-  transition: all 0.2s ease;
+  gap: 10px;
+  border: 2px solid #4ca049;
+  font-size: 1em;
+  transition: transform 0.2s;
 
   &:hover {
-    background: rgba(102, 126, 234, 0.08);
-    transform: translateX(4px);
+    transform: translateY(-2px);
   }
 }
 
-.item-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: rgba(0, 0, 0, 0.87);
-  margin-bottom: 0.25rem;
+.offering-emoji {
+  font-size: 1.2em;
 }
 
-.item-description {
-  font-size: 1rem;
-  line-height: 1.5;
-  color: rgba(0, 0, 0, 0.6);
-  margin-top: 0.5rem;
-  white-space: normal;
+.offering-text {
+  color: #2c2416;
+  font-weight: 500;
 }
 </style>
