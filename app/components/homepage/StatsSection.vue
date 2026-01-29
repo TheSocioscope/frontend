@@ -1,20 +1,16 @@
 <template>
-  <section class="stats-section gradient-green">
-    <v-container>
-      <v-row>
-        <v-col v-for="(stat, index) in stats" :key="index" cols="12" md="4">
-          <div class="stat-card">
-            <div class="text-h2 text-md-h1 font-weight-bold stat-number">
-              <span v-if="isVisible">{{ animatedValues[index] }}</span>
-              <span v-else>{{ stat.number }}</span>
-            </div>
-            <div class="text-body-2 text-uppercase font-weight-medium stat-label">
-              {{ stat.label }}
-            </div>
+  <section class="metrics">
+    <div class="container">
+      <div class="metrics-grid">
+        <div v-for="(stat, index) in stats" :key="index" class="metric-card">
+          <div class="metric-number">
+            <span v-if="isVisible">{{ animatedValues[index] }}</span>
+            <span v-else>{{ stat.number }}</span>
           </div>
-        </v-col>
-      </v-row>
-    </v-container>
+          <div class="metric-label">{{ stat.label }}</div>
+        </div>
+      </div>
+    </div>
   </section>
 </template>
 
@@ -57,6 +53,11 @@ const stats = computed(() => {
       },
       {
         number: '...',
+        label: $t('stats.card4.label'),
+        target: 0
+      },
+      {
+        number: '...',
         label: $t('stats.card3.label'),
         target: 0
       }
@@ -75,6 +76,11 @@ const stats = computed(() => {
       target: overallStats.value.totalCountries
     },
     {
+      number: '50+',
+      label: $t('stats.card4.label'),
+      target: 50
+    },
+    {
       number: '6',
       label: $t('stats.card3.label'),
       target: 6
@@ -83,7 +89,7 @@ const stats = computed(() => {
 })
 
 const isVisible = ref(false)
-const animatedValues = ref(['0', '0', '0'])
+const animatedValues = ref(['0', '0', '0', '0'])
 
 const animateValue = (index: number, start: number, end: number, duration: number) => {
   const startTime = Date.now()
@@ -120,7 +126,7 @@ onMounted(() => {
     { threshold: 0.5 }
   )
 
-  const section = document.querySelector('.stats-section')
+  const section = document.querySelector('.metrics')
   if (section) {
     observer.observe(section)
   }
@@ -128,42 +134,56 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
-@use '../../assets/styles/variables' as *;
+@use '~~/assets/styles/variables' as *;
 
-.stats-section {
-  padding: $spacing-3xl 0;
-  position: relative;
-  overflow: hidden;
+.metrics {
+  background: $green-bright;
+  color: $cream;
+  padding: 4rem 0;
+}
 
-  &::before {
-    content: '';
-    position: absolute;
-    width: 200%;
-    height: 200%;
-    background: radial-gradient(circle, rgba(255, 255, 255, 0.05) 0%, transparent 70%);
-    top: -100%;
-    left: -50%;
-    animation: shimmer 15s ease-in-out infinite;
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+  text-align: center;
+
+  @media (max-width: 968px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
   }
 }
 
-.stat-card {
-  text-align: center;
-  padding: $spacing-lg;
-  background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(10px);
-  border-radius: $border-radius-lg;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+.metric-card {
+  padding: 1rem;
 }
 
-.stat-number {
-  color: white;
+.metric-number {
+  font-family: $font-family-display;
+  font-size: 3.5rem;
+  font-weight: $font-weight-bold;
+  color: $cream;
+  margin-bottom: 0.5rem;
   line-height: 1.2;
-  margin-bottom: $spacing-sm;
+
+  @media (max-width: 968px) {
+    font-size: 2.5rem;
+  }
 }
 
-.stat-label {
-  color: rgba(255, 255, 255, 0.95);
-  letter-spacing: 0.05em;
+.metric-label {
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: $warm-beige;
 }
 </style>

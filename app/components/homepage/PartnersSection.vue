@@ -1,13 +1,19 @@
 <template>
   <section class="section partners-section">
-    <v-container>
-      <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-12">
+    <v-container class="section-header">
+      <h2>
         {{ $t('leadingResearch.title') }}
       </h2>
 
       <v-row justify="center">
         <v-col v-for="(partner, index) in displayedPartners" :key="index" cols="12" md="6">
-          <v-card class="partner-card" elevation="2">
+          <v-card
+            class="partner-card"
+            elevation="2"
+            :href="partner.url"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <v-card-text class="text-center pa-8">
               <h4 class="text-h5 font-weight-medium mb-4">{{ partner.title }}</h4>
               <p class="text-body-2">{{ partner.lead }}</p>
@@ -30,11 +36,13 @@ const { t: $t, locale } = useI18n()
 const fallbackPartners = [
   {
     title: 'Complexity Science Hub Vienna',
-    lead: 'Helga Nowotny, Project Lead'
+    lead: 'Helga Nowotny, Project Lead',
+    url: 'https://csh.ac.at/'
   },
   {
     title: 'Paris Institute for Advanced Study',
-    lead: 'Saadi Lahlou, Project Lead'
+    lead: 'Saadi Lahlou, Project Lead',
+    url: 'https://www.paris-iea.fr/en'
   }
 ]
 
@@ -60,7 +68,8 @@ const displayedPartners = computed(() => {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     return partners.value.map((p: any) => ({
       title: p.title,
-      lead: p.lead
+      lead: p.lead,
+      url: p.url
     }))
   }
   return fallbackPartners
@@ -68,14 +77,10 @@ const displayedPartners = computed(() => {
 </script>
 
 <style scoped lang="scss">
-@use '../../assets/styles/variables' as *;
+@use '~~/assets/styles/variables' as *;
 
 .partners-section {
   background: $surface-cream;
-}
-
-h2 {
-  color: $brown-medium;
 }
 
 .partner-card {
@@ -83,12 +88,14 @@ h2 {
   height: 100%;
 
   h4 {
-    color: $brown-medium;
+    color: $green-bright;
+    font-family: $font-family-display;
   }
 
   p {
     color: $brown-dark;
     line-height: 1.6;
+    font-family: $font-family-display;
   }
 }
 

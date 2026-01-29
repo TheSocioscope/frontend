@@ -5,16 +5,16 @@
     "insights": "Erkenntnisse",
     "partners": "Partner",
     "contact": "Kontakt",
-    "socioscope": "Sehen, wie sozialer Wandel Gestalt annimmt",
+    "socioscope": "Das Sozioskop",
     "team": "Das Team",
     "faq": "FAQ",
     "database": "Initiativendatenbank",
-    "submitInitiative": "Initiative einreichen",
+    "submitInitiative": "Projekt registrieren",
     "products": "Produkte",
     "resources": "Ressourcen",
     "articles": "Artikel",
-    "books": "Bücher",
-    "events": "Veranstaltungen",
+    "books": "Bücher/Kapitel",
+    "events": "Veranstaltungen/Konferenzen",
     "contactUs": "Kontakt",
     "press": "Presseraum"
   },
@@ -25,41 +25,42 @@
   },
   "hero": {
     "title": "DAS SOZIOSKOP",
-    "subtitle": "Sehen, wie sich Gesellschaften transformieren",
+    "subtitle": "Sehen, wie sozialer Wandel Gestalt annimmt",
     "tagline": "Eine bahnbrechende Initiative, um zu verstehen und zu kartieren, wie Gemeinschaften nachhaltige Ernährungssysteme schaffen"
   },
   "microscope": {
     "icon": "🔬",
-    "title": "Das erste soziale Mikroskop der Welt",
-    "description1": "So wie das Mikroskop die Biologie revolutionierte, indem es die verborgene Welt der Zellen offenbarte, enthüllt das Sozioskop die verborgenen Muster sozialer Transformation.",
-    "description2": "Wir entwickeln eine systematische Methode, um zu sehen, was zuvor unsichtbar war: wie individuelle Handlungen sich verbinden, um kollektiven Wandel zu bilden."
+    "title": "Ein soziales Mikroskop für den Wandel von Ernährungssystemen",
+    "description1": "Durch groß angelegte Datenerfassung weltweit und LLM-gesteuerte Forschung analysiert das Sozioskop, wie sich Verhaltensweisen, Normen und Praktiken in nachhaltigen Ernährungsübergängen entwickeln.",
+    "description2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen."
   },
   "vision": {
-    "title": "Warum dies wichtig ist",
-    "statement": "Wir stehen vor existenziellen Herausforderungen: Klimakollaps, Ungleichheit, demokratische Fragilität. Wir müssen verstehen, wie sich Gesellschaften tatsächlich transformieren—nicht in der Theorie, sondern in der Praxis.",
-    "details1": "Das Sozioskop dokumentiert echte Transformationen in Ernährungssystemen weltweit—über 1.000 Initiativen in über 30 Ländern. Jede ist eine Fallstudie darüber, wie Wandel geschieht.",
-    "details2": "Was wir lernen, betrifft nicht nur Ernährung. Es geht um die grundlegenden Mechanismen sozialer Transformation, die über alle Bereiche hinweg gelten."
+    "title": "Ein soziales Mikroskop für den Wandel von Ernährungssystemen",
+    "statement1": "Durch groß angelegte Datenerfassung weltweit und LLM-gesteuerte Forschung analysiert das Sozioskop, wie sich Verhaltensweisen, Normen und Praktiken in nachhaltigen Ernährungsübergängen entwickeln.",
+    "statement2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen.",
+    "details1": "Das Sozioskop produziert nicht nur akademische Arbeiten. Es zeigt, was Wandel funktionieren lässt: welche Interventionen erfolgreich sind, welche scheitern und warum.",
+    "details2": "Es geht darum, eine nachhaltige Zukunft zu schaffen, die nicht nur umweltverträglich, sondern auch sozial widerstandsfähig und wirtschaftlich gerecht ist."
   },
   "contributions": {
     "card1": {
       "icon": "📊",
       "title": "Daten",
-      "description": "Hochentwickelte persönliche Datenerfassung in 29 Ländern, die nicht nur erfasst, was Initiativen tun, sondern wie sie wirtschaftliche, ökologische, kulturelle und Governance-Systeme transformieren.",
-      "description2": "Unsere Forscher führen ethnografische Feldarbeit, strukturierte Interviews und teilnehmende Beobachtung durch, um den umfassendsten Datensatz über Transformationen von Lebensmittelsystemen aufzubauen.",
+      "description": "Hochentwickelte Vor-Ort-Datenerfassung in über 35 Ländern, die nicht nur erfasst, was Initiativen tun, sondern wie sie wirtschaftliche, ökologische, kulturelle und Governance-Ökosysteme transformieren.",
+      "description2": "Unsere Forscher führen ethnografische Feldarbeit, halbstrukturierte qualitative Interviews und teilnehmende Beobachtung durch, um den umfassendsten Datensatz über Transformationen von Lebensmittelsystemen aufzubauen.",
       "link": ""
     },
     "card2": {
       "icon": "🤖",
       "title": "Technologie",
       "description": "Etablierung einer LLM-gesteuerten Forschungsmethodik, die qualitative Daten im großen Maßstab verarbeiten kann, während kontextuelle Nuancen und kulturelle Spezifität erhalten bleiben.",
-      "description2": "Aufgebaut auf Sleipnir ermöglicht unser analytischer Rahmen die Mustererkennung über Hunderte von Fällen hinweg—und findet, was traditionelle Methoden verpassen.",
-      "link": "Sleipnir erkunden →"
+      "description2": "Aufgebaut auf Sleipnir ermöglicht unser analytischer Rahmen die Mustererkennung über Hunderte von Fällen hinweg und findet, was traditionelle Methoden möglicherweise verpassen.",
+      "link": ""
     },
     "card3": {
       "icon": "🌾",
       "title": "Analyse",
-      "description": "Entwicklung neuer Rahmenwerke zum Verständnis von Systemtransformationen, insbesondere in Lebensmittelsystemen, wo wirtschaftliche, ökologische, kulturelle und politische Dimensionen zusammentreffen.",
-      "description2": "Unsere Transaktionsgitter-Methodik kartiert, wie sich Veränderungen über diese Dimensionen bewegen—und enthüllt die Mechanismen gesellschaftlicher Transformation.",
+      "description": "Entwicklung neuer Rahmenwerke und Wege zum Verständnis von Ernährungssystemtransformationen über Sektoren und Kontexte hinweg, unter Untersuchung wirtschaftlicher, politischer und kultureller Dimensionen.",
+      "description2": "Analyse, wie Stakeholder zusammenarbeiten, welche Motivationen und Werte sie antreiben, und welche Schlüsselherausforderungen bestehen; ein geschichteter Ansatz zur Kartierung, wie Transformation geschieht.",
       "link": ""
     }
   },
@@ -68,24 +69,23 @@
     "subtitle": "Wir sammeln nicht nur Geschichten. Wir entdecken die grundlegenden Gesetze, wie sich Gesellschaften selbst transformieren.",
     "card1": {
       "title": "Universelle Muster über Kulturen hinweg",
-      "description": "Trotz großer Kontextunterschiede finden wir ähnliche Transformationsmuster von Tokio bis Tansania."
+      "description": "Trotz großer kultureller Unterschiede finden wir gemeinsame Mechanismen, wie Gemeinschaften nachhaltigen Wandel erreichen."
     },
     "card2": {
-      "title": "Die Rolle von Netzwerken",
-      "description": "Wie Verbindungen zwischen Menschen und Organisationen die Bedingungen schaffen, damit sich Wandel ausbreitet."
+      "title": "Kulturübergreifende Mustererkennung",
+      "description": "Wir können jetzt vergleichen, wie Nachhaltigkeit in verschiedenen Kontexten funktioniert und universelle Mechanismen unter oberflächlichen Unterschieden entdecken."
     },
     "card3": {
-      "title": "Kritische Schwellenwerte",
-      "description": "Identifizierung der Kipppunkte, an denen individuelle Initiativen zu systemischer Transformation werden."
+      "title": "Von Mikro zu Makro",
+      "description": "Zum ersten Mal können wir den Weg von individuellen Entscheidungen über Gemeinschaftspraktiken bis zur systemischen Transformation rigoros nachzeichnen."
     },
     "card4": {
-      "title": "Skalierungsmechanismen",
-      "description": "Verstehen, wie sich lokale Innovationen ausbreiten und in verschiedenen Kontexten anpassen."
+      "title": "Eine verallgemeinerbare Methode",
+      "description": "Wir beginnen mit Ernährung als unserem \"Modellorganismus\", aber diese Methodik kann auf jeden Bereich des sozialen Wandels angewendet werden."
     }
   },
   "map": {
     "title": "Globale Reichweite, lokale Wirkung",
-    "subtitle": "Erkunden Sie unser Netzwerk nachhaltiger Ernährungsinitiativen auf der ganzen Welt. Jeder Standort repräsentiert echte Gemeinschaften, die auf transformativen Wandel hinarbeiten.",
     "projects": "Projekte",
     "clickToView": "Klicken Sie, um Projekte anzuzeigen",
     "tooltip": {
@@ -104,21 +104,24 @@
   },
   "stats": {
     "card1": {
-      "number": "1000+",
-      "label": "Dokumentierte Fälle"
+      "number": "700+",
+      "label": "Dokumentierte Initiativen"
     },
     "card2": {
-      "number": "30+",
+      "number": "35+",
       "label": "Länder"
     },
     "card3": {
-      "number": "5",
+      "number": "6",
       "label": "Kontinente"
+    },
+    "card4": {
+      "number": "50+",
+      "label": "Globale Interviewer"
     }
   },
   "stories": {
     "title": "Geschichten aus dem Feld",
-    "subtitle": "Sehen Sie, wie Gemeinschaften auf der ganzen Welt ihre Ernährungssysteme transformieren",
     "videoPlaceholder": "▶",
     "video1": {
       "title": "Urbane Landwirtschaft in Tokio",
@@ -146,15 +149,19 @@
     }
   },
   "newsletter": {
-    "title": "Verpassen Sie keine neuen Initiativen",
-    "subtitle": "Abonnieren Sie, um Updates über neue Projekte in Ihrer Region oder Ihrem Interessensgebiet zu erhalten.",
-    "emailPlaceholder": "E-Mail eingeben",
+    "title": "Abonnieren Sie unseren Newsletter und erhalten Sie unsere neuesten Initiativen direkt in Ihren Posteingang",
+    "emailPlaceholder": "E-Mail-Adresse eingeben",
     "button": "Abonnieren",
     "emailRequired": "E-Mail ist erforderlich",
     "emailInvalid": "E-Mail muss gültig sein",
     "success": "Vielen Dank fürs Abonnieren!",
     "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.",
     "subscribe": "Abonnieren"
+  },
+  "cta": {
+    "title": "Werden Sie Teil der Bewegung",
+    "description": "Arbeiten Sie an einer Initiative für kollektive Intelligenz oder soziale Innovation? Teilen Sie Ihre Arbeit mit unserer globalen Gemeinschaft und tragen Sie zum wachsenden Wissensschatz über kollaborative Problemlösung bei.",
+    "button": "Initiative einreichen"
   },
   "leadingResearch": {
     "title": "Die Forschung leiten",
@@ -196,7 +203,7 @@
       "linkedin": "LinkedIn",
       "github": "GitHub"
     },
-    "copyright": "© 2025 Das Sozioskop • Verstehen, wie sich Gesellschaften transformieren",
+    "copyright": "© {year} Das Sozioskop • Verstehen, wie sich Gesellschaften transformieren",
     "team": "Team",
     "publications": "Publikationen",
     "stories": "Geschichten",
@@ -206,6 +213,55 @@
     "faq": "FAQ"
   },
   "projects": {
+    "countries": {
+      "argentina": "Argentinien",
+      "armenia": "Armenien",
+      "bangladesh": "Bangladesch",
+      "belgium": "Belgien",
+      "brazil": "Brasilien",
+      "bulgaria": "Bulgarien",
+      "canada": "Kanada",
+      "colombia": "Kolumbien",
+      "costa-rica": "Costa Rica",
+      "czech-republic": "Tschechische Republik",
+      "denmark": "Dänemark",
+      "ecuador": "Ecuador",
+      "egypt": "Ägypten",
+      "france": "Frankreich",
+      "georgia": "Georgien",
+      "india": "Indien",
+      "iran": "Iran",
+      "iraq": "Irak",
+      "italy": "Italien",
+      "japan": "Japan",
+      "jordan": "Jordanien",
+      "kenya": "Kenia",
+      "korea-south": "Südkorea",
+      "malta": "Malta",
+      "mexico": "Mexiko",
+      "morocco": "Marokko",
+      "netherlands": "Niederlande",
+      "new-zealand": "Neuseeland",
+      "norway": "Norwegen",
+      "paraguay": "Paraguay",
+      "peru": "Peru",
+      "poland": "Polen",
+      "portugal": "Portugal",
+      "rwanda": "Ruanda",
+      "singapore": "Singapur",
+      "spain": "Spanien",
+      "sri-lanka": "Sri Lanka",
+      "sweden": "Schweden",
+      "switzerland": "Schweiz",
+      "syria": "Syrien",
+      "tanzania": "Tansania",
+      "thailand": "Thailand",
+      "uganda": "Uganda",
+      "ukraine": "Ukraine",
+      "united-kingdom": "Vereinigtes Königreich",
+      "united-states": "Vereinigte Staaten",
+      "uruguay": "Uruguay"
+    },
     "database": {
       "title": "Initiativendatenbank",
       "subtitle": "Erkunden Sie 1000+ nachhaltige Lebensmittelsystem-Transformationsinitiativen",
@@ -389,6 +445,62 @@
     }
   },
   "team": {
+    "meta": {
+      "title": "Unser Team - Das Sozioskop",
+      "description": "Ein globales Netzwerk von Forschern, Entwicklern und Feldarbeitern, die sich dem Verständnis kollektiven Verhaltens widmen"
+    },
+    "hero": {
+      "title": "Unser Team",
+      "subtitle": "Ein globales Netzwerk von Forschern, Entwicklern und Feldarbeitern, die sich dem Verständnis kollektiven Verhaltens widmen"
+    },
+    "categories": {
+      "principalInvestigators": {
+        "title": "Hauptforscher",
+        "description": "Leitung unserer Forschungsvision und -strategie"
+      },
+      "coInvestigators": {
+        "title": "Co-Forscher und Postdocs",
+        "description": "Senior-Forscher, die unsere wissenschaftliche Agenda vorantreiben"
+      },
+      "technology": {
+        "title": "Technologie- und KI-Team",
+        "description": "Aufbau unserer technischen Infrastruktur und KI-Fähigkeiten"
+      },
+      "projectManagement": {
+        "title": "Projektmanagement",
+        "description": "Koordination von Forschungsaktivitäten und Ergebnissen"
+      },
+      "fieldwork": {
+        "title": "Daten- und Feldforschungsteam",
+        "description": "Verwaltung der Datenerhebung und Feldoperationen"
+      },
+      "operations": {
+        "title": "Operationen",
+        "description": "Verwaltung der Organisationsstrategie und des Tagesgeschäfts"
+      },
+      "institutionalPartners": {
+        "title": "Institutionelle Partner",
+        "description": "Organisationen, die institutionelle Unterstützung und Zusammenarbeit bieten"
+      },
+      "designLegalPartners": {
+        "title": "Design- und Rechtspartner",
+        "description": "Partner, die Design-Expertise und rechtliche Beratung bieten"
+      },
+      "dataCollectionPartners": {
+        "title": "Datenerfassungspartner",
+        "description": "Organisationen, die unsere Datenerfassungsbemühungen unterstützen"
+      },
+      "2023Interviewers": {
+        "title": "Interviewer und Mitarbeiter 2023",
+        "description": "Teammitglieder, die während der Feldforschungsphase 2023 Interviews durchgeführt haben"
+      },
+      "globalInterviewerNetwork": {
+        "title": "Globales Interviewer-Netzwerk",
+        "description": "Unser weltweites Netzwerk geschulter Interviewer"
+      }
+    },
+    "interviews": "Interviews",
+    "searchPlaceholder": "Nach Name oder Land suchen...",
     "title": "Das Team",
     "subtitle": "Lernen Sie die Menschen hinter Das Sozioskop kennen",
     "leadership": {
@@ -443,11 +555,46 @@
     }
   },
   "contact": {
+    "meta": {
+      "title": "Kontakt - Das Sozioskop",
+      "description": "Nehmen Sie Kontakt mit dem Sozioskop-Team auf und schließen Sie sich unserer Mission an, nachhaltige Lebensmittelsysteme zu verstehen"
+    },
+    "hero": {
+      "title": "Lassen Sie uns verbinden",
+      "subtitle": "Nehmen Sie Kontakt mit dem Sozioskop-Team auf und schließen Sie sich unserer Mission an, nachhaltige Lebensmittelsysteme zu verstehen"
+    },
+    "form": {
+      "title": "Senden Sie uns eine Nachricht",
+      "name": "Name",
+      "namePlaceholder": "Ihr Name",
+      "email": "E-Mail",
+      "emailPlaceholder": "Ihre E-Mail-Adresse",
+      "subject": "Betreff",
+      "subjectPlaceholder": "Worum geht es?",
+      "message": "Nachricht",
+      "messagePlaceholder": "Ihre Nachricht...",
+      "submit": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "successMessage": "Danke! Ihre Nachricht wurde erfolgreich gesendet."
+    },
+    "info": {
+      "email": {
+        "title": "E-Mail",
+        "address": "info{'@'}socioscope.org"
+      },
+      "location": {
+        "title": "Standort",
+        "address": "Institut für Höhere Studien\nHôtel de Lauzun\n17 Quai d'Anjou\n75004 Paris, Frankreich"
+      },
+      "social": {
+        "title": "Soziale Medien",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn",
+        "youtube": "YouTube"
+      }
+    },
     "title": "Kontakt",
     "subtitle": "Kontaktieren Sie das Sozioskop-Team",
-    "name": "Name",
-    "email": "E-Mail",
-    "message": "Nachricht",
     "button": "Nachricht senden",
     "success": "Nachricht gesendet! Danke."
   },

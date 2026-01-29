@@ -1,53 +1,118 @@
 <template>
-  <v-container class="py-12">
-    <h1 class="text-h2 mb-8 text-center">{{ $t('resources.articles.title') }}</h1>
-
-    <v-row v-if="articles && articles.length > 0">
-      <v-col v-for="article in articles" :key="article.id" cols="12" md="6">
-        <v-card class="article-card" elevation="0">
-          <v-card-text>
-            <h3 class="mb-2">{{ article.title }}</h3>
-            <p class="meta mb-2">{{ article.author }} • {{ article.date }}</p>
-            <p>{{ article.excerpt }}</p>
-          </v-card-text>
-          <v-card-actions>
-            <v-btn :href="article.link" variant="outlined" color="green-bright" rounded="pill">
-              {{ $t('common.readMore') }}
-            </v-btn>
-          </v-card-actions>
-        </v-card>
-      </v-col>
-    </v-row>
-
-    <div v-else class="text-center py-8">
-      <p class="text-h6">{{ $t('resources.articles.comingSoon') }}</p>
-    </div>
-  </v-container>
+  <div>
+    <ResourcesHero @submit="openModal" />
+    <section class="section" id="resources">
+      <div class="container">
+        <ResourcesSearch
+          :active-filter="activeFilter"
+          :search-query="searchQuery"
+          @filter-change="handleFilterChange"
+          @search-change="handleSearchChange"
+        />
+        <ResourcesGrid
+          :resources="resources || []"
+          :active-filter="activeFilter"
+          :search-query="searchQuery"
+        />
+      </div>
+    </section>
+    <ResourcesCTA @submit="openModal" />
+    <ResourcesSubmitModal :is-open="isModalOpen" @close="closeModal" />
+  </div>
 </template>
 
 <script setup lang="ts">
 const { t } = useI18n()
+const route = useRoute()
 
 useHead({
-  title: t('resources.articles.title')
+  title: t('resources.meta.title')
 })
 
-const articles = ref([
-  { id: 1, title: 'Understanding Food System Transformation', author: 'Research Team', date: '2024', excerpt: 'Key insights from our global research...', link: '#' },
-  { id: 2, title: 'AI in Qualitative Research', author: 'Tech Team', date: '2024', excerpt: 'How we use LLMs to analyze patterns...', link: '#' }
-])
+const activeFilter = ref('all')
+const searchQuery = ref('')
+const isModalOpen = ref(false)
+
+const validFilters = ['article', 'book', 'event', 'funding', 'organization', 'policy', 'socioscope']
+
+// Apply filter from URL query parameter
+const updateFilterFromRoute = () => {
+  const filterParam = route.query.filter
+  if (filterParam && typeof filterParam === 'string' && validFilters.includes(filterParam)) {
+    activeFilter.value = filterParam
+  } else {
+    activeFilter.value = 'all'
+  }
+}
+
+// Initialize filter from URL on mount
+onMounted(() => {
+  updateFilterFromRoute()
+})
+
+// Watch for route query changes and update filter
+watch(
+  () => route.query.filter,
+  () => {
+    updateFilterFromRoute()
+  }
+)
+
+const handleFilterChange = (filter: string) => {
+  activeFilter.value = filter
+}
+
+const handleSearchChange = (query: string) => {
+  searchQuery.value = query
+}
+
+const openModal = () => {
+  isModalOpen.value = true
+}
+
+const closeModal = () => {
+  isModalOpen.value = false
+}
+
+// Fetch resources from content
+const { data: resourcesData } = await useAsyncData('resources', () =>
+  queryCollection('resources').all()
+)
+
+console.log('=== RESOURCES DEBUG ===')
+console.log('resourcesData:', resourcesData.value)
+console.log('Is array?', Array.isArray(resourcesData.value))
+console.log('Length:', resourcesData.value?.length)
+console.log('First item:', resourcesData.value?.[0])
+
+const resources = computed(() => {
+  if (!resourcesData.value) {
+    console.log('No resourcesData')
+    return []
+  }
+  const allResources = Array.isArray(resourcesData.value) ? resourcesData.value : []
+  console.log('All resources count:', allResources.length)
+  const filtered = allResources.filter((r: any) => r.published !== false)
+  console.log('Published resources count:', filtered.length)
+  return filtered.sort((a: any, b: any) => (a.order || 0) - (b.order || 0))
+})
 </script>
 
 <style scoped lang="scss">
 @use '../../assets/styles/variables' as *;
 
-.article-card {
-  border: 2px solid $border-cream;
-  border-radius: $border-radius-lg;
+.section {
+  padding: 5rem 0;
+  background: $cream;
 
-  .meta {
-    color: $green-bright;
-    font-size: 0.9rem;
+  @media (max-width: 768px) {
+    padding: 4rem 0;
   }
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 </style>

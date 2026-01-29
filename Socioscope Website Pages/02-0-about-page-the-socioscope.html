@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About The Socioscope - Understanding Sustainable Change</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFBF0;
+            --warm-beige: #F5EDD6;
+            --deep-brown: #2C2416;
+            --bright-green: #4CA049;
+            --forest-green: #27421D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Playfair Display', serif;
+            color: var(--deep-brown);
+            background: var(--cream);
+            line-height: 1.8;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--warm-beige);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            min-height: 500px;
+        }
+
+        .hero-text {
+            padding: 4rem 3rem 4rem 0;
+        }
+
+        .hero-title {
+            font-size: clamp(2rem, 4vw, 3rem);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            color: var(--deep-brown);
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.02em;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.2rem, 2.5vw, 1.8rem);
+            line-height: 1.4;
+            color: var(--deep-brown);
+            font-weight: 400;
+            opacity: 0.85;
+        }
+
+        .hero-image {
+            height: 100%;
+            min-height: 500px;
+            position: relative;
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* Animated placeholder for sustainable photo */
+        .hero-animation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background: linear-gradient(135deg, var(--warm-beige) 0%, var(--cream) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .floating-element {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.15;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .floating-element-1 {
+            width: 150px;
+            height: 150px;
+            background: var(--bright-green);
+            top: 20%;
+            left: 20%;
+            animation-delay: 0s;
+        }
+
+        .floating-element-2 {
+            width: 100px;
+            height: 100px;
+            background: var(--forest-green);
+            top: 60%;
+            right: 25%;
+            animation-delay: 1s;
+        }
+
+        .floating-element-3 {
+            width: 80px;
+            height: 80px;
+            background: var(--bright-green);
+            bottom: 30%;
+            left: 40%;
+            animation-delay: 2s;
+        }
+
+        .floating-element-4 {
+            width: 120px;
+            height: 120px;
+            background: var(--forest-green);
+            top: 40%;
+            right: 15%;
+            animation-delay: 3s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+            }
+            50% {
+                transform: translateY(-20px) scale(1.05);
+            }
+        }
+
+        .photo-placeholder {
+            font-size: 4rem;
+            opacity: 0.3;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Section Styling */
+        .section {
+            padding: 5rem 0;
+        }
+
+        .section-white {
+            background: var(--cream);
+        }
+
+        .section-beige {
+            background: var(--warm-beige);
+        }
+
+        .section-dark {
+            background: var(--warm-beige);
+            color: var(--deep-brown);
+            border-top: 3px solid var(--bright-green);
+        }
+
+        /* Content Layout */
+        .content-wrapper {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+
+        .section-header h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            color: var(--deep-brown);
+        }
+
+        .section-dark .section-header h2 {
+            color: var(--deep-brown);
+        }
+
+        .section-header .subtitle {
+            font-size: 1.1rem;
+            color: var(--deep-brown);
+            opacity: 0.7;
+        }
+
+        .section-dark .section-header .subtitle {
+            color: var(--deep-brown);
+        }
+
+        .content-text p {
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+            line-height: 1.8;
+        }
+
+        .content-text p:last-child {
+            margin-bottom: 0;
+        }
+
+        /* Info Grid */
+        .info-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 3rem;
+            margin-top: 4rem;
+            padding: 3rem 0 0;
+            border-top: 3px solid var(--bright-green);
+        }
+
+        .info-item {
+            text-align: center;
+            position: relative;
+            padding: 2rem 1.5rem;
+            background: var(--cream);
+            border: 2px solid var(--warm-beige);
+            transition: all 0.3s ease;
+        }
+
+        .info-item:hover {
+            transform: translateY(-5px);
+            border-color: var(--bright-green);
+            box-shadow: 0 8px 20px rgba(76, 160, 73, 0.15);
+        }
+
+        .info-icon {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            display: block;
+        }
+
+        .info-item h3 {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--forest-green);
+            margin-bottom: 0.75rem;
+            font-weight: 600;
+        }
+
+        .info-item p {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--deep-brown);
+            line-height: 1.4;
+        }
+
+        .info-item .info-detail {
+            font-size: 0.95rem;
+            font-weight: 400;
+            color: var(--deep-brown);
+            opacity: 0.7;
+            margin-top: 0.5rem;
+        }
+
+        /* Methodology Grid */
+        .method-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .method-card {
+            background: var(--cream);
+            padding: 2rem;
+            border: 2px solid var(--warm-beige);
+            text-align: center;
+        }
+
+        .method-number {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: var(--bright-green);
+            margin-bottom: 1rem;
+            line-height: 1;
+        }
+
+        .method-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 1rem;
+            color: var(--deep-brown);
+        }
+
+        .method-card p {
+            font-size: 1rem;
+            line-height: 1.7;
+            color: var(--deep-brown);
+            opacity: 0.8;
+        }
+
+        /* Values Grid */
+        .values-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 3rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .value-card {
+            text-align: center;
+        }
+
+        .value-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .value-card h3 {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: var(--forest-green);
+        }
+
+        .value-card p {
+            line-height: 1.7;
+            color: var(--deep-brown);
+            opacity: 0.8;
+        }
+
+        /* CTA Section */
+        .cta-content {
+            text-align: center;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .cta-content h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            color: var(--deep-brown);
+        }
+
+        .cta-content p {
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+            color: var(--deep-brown);
+            line-height: 1.7;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            font-weight: 600;
+            text-decoration: none;
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .btn-primary {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        .btn-primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--deep-brown);
+            border-color: var(--deep-brown);
+        }
+
+        .btn-outline:hover {
+            background: var(--deep-brown);
+            color: var(--cream);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .info-grid {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 2rem;
+            }
+
+            .method-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .values-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+                min-height: auto;
+            }
+
+            .hero-text {
+                padding: 3rem 0 2rem;
+                text-align: center;
+            }
+
+            .hero-image {
+                min-height: 300px;
+            }
+
+            .hero-title {
+                font-size: 1.8rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .section {
+                padding: 4rem 0;
+            }
+
+            .section-header h2 {
+                font-size: 2rem;
+            }
+
+            .info-grid {
+                grid-template-columns: 1fr;
+                gap: 1.5rem;
+            }
+
+            .method-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">About The Socioscope</h1>
+                    <p class="hero-subtitle">Understanding what truly drives sustainable change</p>
+                </div>
+                <div class="hero-image">
+                    <div class="hero-animation">
+                        <div class="floating-element floating-element-1"></div>
+                        <div class="floating-element floating-element-2"></div>
+                        <div class="floating-element floating-element-3"></div>
+                        <div class="floating-element floating-element-4"></div>
+                        <div class="photo-placeholder">🌿</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Mission Section -->
+    <section class="section section-white">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Mission</h2>
+            </div>
+            <div class="content-wrapper">
+                <div class="content-text">
+                    <p>
+                        The Socioscope is a transformative qualitative research project that maps how 
+                        behaviours, norms, and communities influence the transition toward sustainable 
+                        food systems.
+                    </p>
+                    <p>
+                        The Socioscope serves as a comprehensive observatory of these efforts, making 
+                        knowledge accessible to researchers, policymakers, and practitioners worldwide. 
+                        Equally important is shining a light on local initiatives that lead change on 
+                        the ground and drive the shift toward a more sustainable food system.
+                    </p>
+                </div>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <span class="info-icon">🌱</span>
+                        <h3>Established</h3>
+                        <p>2022</p>
+                        <div class="info-detail">Growing since day one</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-icon">🥐</span>
+                        <h3>Home Base</h3>
+                        <p>Paris, France</p>
+                        <div class="info-detail">Where ideas meet croissants</div>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-icon">🌍</span>
+                        <h3>Global Reach</h3>
+                        <p>35+ Countries</p>
+                        <div class="info-detail">And counting...</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What We Do Section -->
+    <section class="section section-beige">
+        <div class="container">
+            <div class="section-header">
+                <h2>What We Do</h2>
+            </div>
+            <div class="content-wrapper">
+                <div class="content-text">
+                    <p>
+                        The Socioscope explores how sustainable change happens on the ground, with a 
+                        focus on food systems. We document local solutions, speak with practitioners, 
+                        and analyse insights using AI to reveal the patterns behind impactful innovation.
+                    </p>
+                    <p>
+                        Through systematic research and community engagement, we identify, document, and 
+                        analyze initiatives that embody sustainable transformation principles. Our database 
+                        includes grassroots movements, community-led projects, participatory governance 
+                        experiments, and collaborative problem-solving platforms from every continent.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Methodology Section -->
+    <section class="section section-white">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Methodology</h2>
+                <p class="subtitle">Combining academic rigor with participatory research approaches</p>
+            </div>
+            <div class="method-grid">
+                <div class="method-card">
+                    <div class="method-number">01</div>
+                    <h3>Identification</h3>
+                    <p>
+                        Through network analysis, expert recommendations, and community nominations, 
+                        we identify initiatives that demonstrate sustainable transformation principles.
+                    </p>
+                </div>
+                <div class="method-card">
+                    <div class="method-number">02</div>
+                    <h3>Documentation</h3>
+                    <p>
+                        Our trained interviewers conduct in-depth conversations with initiative leaders 
+                        and participants, capturing rich qualitative data about local food systems.
+                    </p>
+                </div>
+                <div class="method-card">
+                    <div class="method-number">03</div>
+                    <h3>Analysis</h3>
+                    <p>
+                        Using AI-powered mixed methods, we analyze patterns across initiatives, identifying 
+                        success factors, challenges, and transferable insights.
+                    </p>
+                </div>
+                <div class="method-card">
+                    <div class="method-number">04</div>
+                    <h3>Dissemination</h3>
+                    <p>
+                        We share findings through publications, social media, and community engagement, 
+                        ensuring knowledge reaches diverse audiences worldwide.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Values Section -->
+    <section class="section section-beige">
+        <div class="container">
+            <div class="section-header">
+                <h2>Our Values</h2>
+            </div>
+            <div class="values-grid">
+                <div class="value-card">
+                    <div class="value-icon">🌍</div>
+                    <h3>Global Perspective</h3>
+                    <p>
+                        We recognize that sustainable change manifests differently across cultures 
+                        and contexts, and we value this diversity as a source of learning and innovation.
+                    </p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">🤝</div>
+                    <h3>Collaboration</h3>
+                    <p>
+                        We practice what we study, working collaboratively with research partners, 
+                        community members, and initiatives to co-create knowledge about food systems.
+                    </p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">🔓</div>
+                    <h3>Openness</h3>
+                    <p>
+                        We believe knowledge should be freely accessible. Our database is open to all, 
+                        supporting the global commons of sustainability research.
+                    </p>
+                </div>
+                <div class="value-card">
+                    <div class="value-icon">⚖️</div>
+                    <h3>Ethical Practice</h3>
+                    <p>
+                        We conduct research with integrity, respecting participant autonomy, maintaining 
+                        confidentiality, and ensuring our work benefits the communities we study.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="section section-dark">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Get Involved</h2>
+                <p>
+                    Whether you're a researcher, practitioner, or community organizer, there are many 
+                    ways to engage with The Socioscope and contribute to our shared understanding of 
+                    sustainable food systems.
+                </p>
+                <div class="btn-group">
+                    <a href="#" class="btn btn-primary">Submit an Initiative</a>
+                    <a href="#" class="btn btn-outline">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

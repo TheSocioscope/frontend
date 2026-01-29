@@ -1,46 +1,49 @@
 <template>
   <div>
-    <v-container class="py-16">
-      <h1 class="text-h2 text-center mb-8">{{ $t('nav.projects') }}</h1>
+    <ProjectsHero />
+    <section class="section">
+      <div class="container">
+        <!-- Filters -->
+        <ProjectsFilters
+          :filters="filters"
+          :continent-options="continentOptions"
+          :country-options="countryOptions"
+          :status-options="statusOptions"
+          :thematic-options="thematicOptions"
+          :field-options="fieldOptions"
+          :type-options="typeOptions"
+          class="mb-8"
+          @update:model-value="filters = $event"
+        />
 
-      <!-- Filters -->
-      <ProjectFilters
-        :filters="filters"
-        :continent-options="continentOptions"
-        :country-options="countryOptions"
-        :status-options="statusOptions"
-        :thematic-options="thematicOptions"
-        :field-options="fieldOptions"
-        :type-options="typeOptions"
-        class="mb-8"
-        @update:model-value="filters = $event"
-      />
+        <!-- Results count -->
+        <div class="results-info">
+          <p>
+            {{ $t('projects.projectsFound', filteredProjects.length) }}
+          </p>
+        </div>
 
-      <!-- Results count -->
-      <div class="text-center mb-4">
-        <p class="text-body-1">
-          {{ $t('projects.projectsFound', filteredProjects.length) }}
-        </p>
+        <!-- Project list -->
+        <div v-if="filteredProjects.length > 0" class="projects-grid">
+          <ProjectsCard
+            v-for="project in paginatedProjects"
+            :key="project.pubId"
+            :project="project"
+            @click="handleProjectClick"
+          />
+        </div>
+
+        <!-- Empty state -->
+        <div v-else class="empty-state">
+          <p>{{ $t('projects.noProjects', 'No projects found') }}</p>
+        </div>
+
+        <!-- Pagination -->
+        <div v-if="totalPages > 1" class="pagination-container">
+          <v-pagination v-model="currentPage" :length="totalPages" :total-visible="7" />
+        </div>
       </div>
-
-      <!-- Project list -->
-      <v-row v-if="filteredProjects.length > 0">
-        <v-col v-for="project in paginatedProjects" :key="project.pubId" cols="12" md="6" lg="4">
-          <ProjectCard :project="project" @click="handleProjectClick" />
-        </v-col>
-      </v-row>
-
-      <!-- Empty state -->
-      <v-card v-else class="text-center pa-8">
-        <v-icon size="64" color="grey-lighten-1">mdi-folder-open-outline</v-icon>
-        <p class="text-h6 mt-4">{{ $t('projects.noProjects', 'No projects found') }}</p>
-      </v-card>
-
-      <!-- Pagination -->
-      <div v-if="totalPages > 1" class="text-center mt-8">
-        <v-pagination v-model="currentPage" :length="totalPages" :total-visible="7" />
-      </div>
-    </v-container>
+    </section>
   </div>
 </template>
 
@@ -134,7 +137,7 @@ const continentOptions = computed(() => {
   ]
 })
 
-// Country options for filter - get unique countries from all projects
+// Country options for filter - get unique countries from all projects with translations
 const countryOptions = computed(() => {
   const countries = new Set<string>()
   projects.value.forEach((project) => {
@@ -143,11 +146,12 @@ const countryOptions = computed(() => {
     }
   })
   return Array.from(countries)
-    .sort()
     .map((code) => ({
       value: code,
       title: getCountryLabel(code)
     }))
+    .filter((option) => option.title !== option.value) // Only show countries with translations
+    .sort((a, b) => a.title.localeCompare(b.title))
 })
 
 // Status options for filter
@@ -260,3 +264,51 @@ useHead({
   title: $t('nav.projects')
 })
 </script>
+
+<style scoped lang="scss">
+.section {
+  padding: 4rem 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.results-info {
+  text-align: center;
+  margin: 2rem 0;
+  color: #666;
+  font-size: 1.1rem;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: #666;
+
+  h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  margin: 3rem 0;
+}
+</style>

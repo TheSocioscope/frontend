@@ -1,34 +1,39 @@
-// Color palette based on the design
+// Color palette based on the reference design
+$cream: #fffbf0;
 $cream-lightest: #f5edd6;
-$cream-light: #d4c4a8;
+$cream-light: #f5edd6;
 $cream-medium: #a68968;
 $cream-dark: #e5d9c1;
+$warm-beige: #f5edd6;
 $brown-dark: #2c2416;
 $brown-medium: #5c4a2f;
 $brown-light: #8b6f47;
 
 $green-light: #fffbf0;
 $green-medium: #4caf50;
-$green-bright: #4ca049; // Added for primary buttons
+$green-bright: #4ca049;
 $green-olive: #6b8e23;
 $green-light-olive: #8fbc8f;
 $green-dark: #27421d;
+$forest-green: #27421d;
 
-$background-cream: #fff8e7;
+$background-cream: #fffbf0;
 $surface-cream: #fffbf0;
 $border-cream: #e5d9c1;
-$warm-beige: #f5edd6; // Added for sections
 
-// Typography
-$font-family-base:
-  -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
-$font-family-display: 'Playfair Display', serif; // Added for hero sections
-$font-family-serif: 'Playfair', serif; // Added for body text
+// Typography - Updated to Playfair fonts
+$font-family-base: 'Playfair', serif;
+$font-family-display: 'Playfair Display', serif;
+$font-family-serif: 'Playfair', serif;
+$font-weight-light: 300;
+$font-weight-regular: 400;
 $font-weight-medium: 500;
-$font-weight-bold: 700; // Added for headings
-$font-size-display-2: 3rem; // 48px
-$font-size-display-1: 4.5rem; // Added for large heroes
-$font-size-hero: clamp(2.5rem, 5vw, 4.5rem); // Added responsive hero size
+$font-weight-semibold: 600;
+$font-weight-bold: 700;
+$font-size-display-2: 3rem;
+$font-size-display-1: 4.5rem;
+$font-size-hero: clamp(2.5rem, 5vw, 4.5rem);
+$font-size-hero-large: clamp(3rem, 6vw, 5.5rem);
 
 // Spacing
 $spacing-xs: 8px;

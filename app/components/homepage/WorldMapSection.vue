@@ -1,12 +1,9 @@
 <template>
-  <section class="section map-section">
-    <v-container>
-      <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-4">
-        {{ $t('map.title') }}
-      </h2>
-      <p class="text-body-1 text-center mb-8 map-subtitle">
-        {{ $t('map.subtitle') }}
-      </p>
+  <section class="map-section">
+    <div class="container">
+      <div class="section-header">
+        <h2>{{ $t('map.title') }}</h2>
+      </div>
 
       <div ref="mapContainer" class="map-container">
         <svg ref="svgMap" class="world-map" />
@@ -17,7 +14,7 @@
           <div class="tooltip-action">{{ $t('map.clickToView', 'Click to view projects') }}</div>
         </div>
       </div>
-    </v-container>
+    </div>
   </section>
 </template>
 
@@ -251,31 +248,17 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
-@use '../../assets/styles/variables' as *;
+@use '~~/assets/styles/variables' as *;
 
 .map-section {
-  background: linear-gradient(135deg, $surface-cream 0%, $cream-light 100%);
-  padding: $spacing-4xl 0;
+  background: $warm-beige;
+  padding: 6rem 0;
 }
-.map-subtitle {
-  font-size: 1.5rem;
-  color: $brown-medium;
-  margin-bottom: $spacing-xl;
 
-  @media (max-width: 768px) {
-    font-size: 1.2rem;
-  }
-}
-.map-description {
-  font-size: 1.3rem;
-  color: $brown-dark;
-  max-width: 800px;
-  margin: 0 auto $spacing-3xl;
-  line-height: 1.7;
-
-  @media (max-width: 768px) {
-    font-size: 1.1rem;
-  }
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 2rem;
 }
 
 .map-container {

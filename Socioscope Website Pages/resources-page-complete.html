@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resources - The Socioscope</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFBF0;
+            --warm-beige: #F5EDD6;
+            --deep-brown: #2C2416;
+            --bright-green: #4CA049;
+            --forest-green: #27421D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Playfair Display', serif;
+            color: var(--deep-brown);
+            background: var(--cream);
+            line-height: 1.8;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--warm-beige);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            min-height: 400px;
+        }
+
+        .hero-text {
+            padding: 4rem 3rem 4rem 0;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            color: var(--deep-brown);
+            font-weight: 700;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.4rem);
+            line-height: 1.5;
+            color: var(--deep-brown);
+            font-weight: 400;
+            opacity: 0.85;
+        }
+
+        .hero-cta {
+            margin-top: 2rem;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background: var(--bright-green);
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            transition: all 0.3s;
+            border: none;
+            cursor: pointer;
+            font-family: 'Playfair Display', serif;
+        }
+
+        .btn:hover {
+            background: var(--forest-green);
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: white;
+            color: var(--forest-green);
+            border: 2px solid var(--forest-green);
+            margin-left: 1rem;
+        }
+
+        .btn-secondary:hover {
+            background: var(--forest-green);
+            color: white;
+        }
+
+        .hero-image {
+            height: 100%;
+            min-height: 400px;
+            position: relative;
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        .hero-animation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background: var(--warm-beige);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .resource-icon {
+            font-size: 6rem;
+            animation: float 3s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-15px);
+            }
+        }
+
+        .floating-element {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.12;
+            animation: floatCircle 6s ease-in-out infinite;
+        }
+
+        .floating-element-1 {
+            width: 120px;
+            height: 120px;
+            background: var(--bright-green);
+            top: 15%;
+            left: 15%;
+            animation-delay: 0s;
+        }
+
+        .floating-element-2 {
+            width: 90px;
+            height: 90px;
+            background: var(--forest-green);
+            top: 55%;
+            right: 20%;
+            animation-delay: 1.5s;
+        }
+
+        .floating-element-3 {
+            width: 70px;
+            height: 70px;
+            background: var(--bright-green);
+            bottom: 25%;
+            left: 35%;
+            animation-delay: 3s;
+        }
+
+        @keyframes floatCircle {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+            }
+            50% {
+                transform: translateY(-25px) scale(1.1);
+            }
+        }
+
+        /* Section */
+        .section {
+            padding: 5rem 0;
+        }
+
+        /* Search & Filter */
+        .search-filter-section {
+            max-width: 900px;
+            margin: 0 auto 3rem;
+        }
+
+        .search-bar {
+            position: relative;
+            margin-bottom: 1.5rem;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--deep-brown);
+            opacity: 0.5;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1.25rem 1.5rem 1.25rem 3.5rem;
+            font-size: 1rem;
+            font-family: 'Playfair Display', serif;
+            border: 2px solid var(--warm-beige);
+            background: white;
+            color: var(--deep-brown);
+            transition: all 0.3s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--bright-green);
+        }
+
+        .filter-buttons {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.75rem;
+            justify-content: center;
+        }
+
+        .filter-btn {
+            padding: 0.75rem 1.75rem;
+            font-family: 'Playfair Display', serif;
+            font-size: 0.95rem;
+            font-weight: 500;
+            background: white;
+            color: var(--deep-brown);
+            border: 2px solid var(--warm-beige);
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        /* Results Info */
+        .results-info {
+            text-align: center;
+            font-size: 1rem;
+            color: var(--deep-brown);
+            opacity: 0.7;
+            margin-bottom: 2.5rem;
+            font-weight: 500;
+        }
+
+        /* Resources Grid */
+        .resources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+
+        .resource-card {
+            background: white;
+            padding: 2rem;
+            border: 1px solid var(--warm-beige);
+            transition: all 0.3s;
+        }
+
+        .resource-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(44, 36, 22, 0.1);
+            border-color: var(--bright-green);
+        }
+
+        .resource-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .resource-date {
+            font-size: 0.9rem;
+            color: var(--deep-brown);
+            opacity: 0.6;
+        }
+
+        .resource-category {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: var(--bright-green);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .resource-card h3 {
+            font-size: 1.4rem;
+            line-height: 1.4;
+            margin-bottom: 0.75rem;
+            color: var(--deep-brown);
+        }
+
+        .resource-authors {
+            font-size: 0.95rem;
+            color: var(--deep-brown);
+            opacity: 0.7;
+            font-style: italic;
+            margin-bottom: 1rem;
+        }
+
+        .resource-abstract {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            color: var(--deep-brown);
+            opacity: 0.85;
+            margin-bottom: 1.5rem;
+        }
+
+        .resource-link {
+            display: inline-block;
+            color: var(--bright-green);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+
+        .resource-link:hover {
+            color: var(--forest-green);
+            transform: translateX(4px);
+        }
+
+        /* Submit Section */
+        .submit-cta-section {
+            background: var(--warm-beige);
+            padding: 4rem 0;
+            text-align: center;
+            margin-top: 4rem;
+        }
+
+        .submit-cta-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .submit-cta-section p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            opacity: 0.85;
+        }
+
+        /* Modal Styles */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            overflow: auto;
+            background-color: rgba(44, 36, 22, 0.8);
+            padding: 2rem;
+        }
+
+        .modal-content {
+            background-color: var(--cream);
+            margin: auto;
+            max-width: 900px;
+            position: relative;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+
+        .modal-header {
+            background: var(--warm-beige);
+            padding: 2rem 3rem;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-header h2 {
+            font-size: 2rem;
+            margin: 0;
+        }
+
+        .close {
+            color: var(--deep-brown);
+            font-size: 2.5rem;
+            font-weight: 300;
+            cursor: pointer;
+            line-height: 1;
+            transition: all 0.3s;
+        }
+
+        .close:hover {
+            color: var(--bright-green);
+        }
+
+        .modal-body {
+            padding: 3rem;
+        }
+
+        /* Form Styles */
+        .submission-form {
+            background: white;
+            padding: 3rem;
+            border: 2px solid var(--warm-beige);
+        }
+
+        .form-section-title {
+            font-size: 1.75rem;
+            margin-bottom: 0.5rem;
+            color: var(--forest-green);
+        }
+
+        .form-section-subtitle {
+            font-size: 1rem;
+            opacity: 0.7;
+            margin-bottom: 2rem;
+        }
+
+        .form-group {
+            margin-bottom: 2rem;
+        }
+
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+            color: var(--deep-brown);
+        }
+
+        .required {
+            color: var(--bright-green);
+        }
+
+        .form-group input,
+        .form-group select,
+        .form-group textarea {
+            width: 100%;
+            padding: 1rem;
+            font-size: 1rem;
+            font-family: 'Playfair Display', serif;
+            border: 2px solid var(--warm-beige);
+            background: white;
+            color: var(--deep-brown);
+            transition: all 0.3s;
+        }
+
+        .form-group textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        .form-group input:focus,
+        .form-group select:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: var(--bright-green);
+        }
+
+        .help-text {
+            font-size: 0.9rem;
+            color: var(--deep-brown);
+            opacity: 0.6;
+            margin-top: 0.5rem;
+        }
+
+        .submit-section {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 2px solid var(--warm-beige);
+            text-align: right;
+        }
+
+        .success-message {
+            display: none;
+            background: var(--bright-green);
+            color: white;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            font-weight: 600;
+        }
+
+        .info-box {
+            background: var(--warm-beige);
+            padding: 2rem;
+            margin-top: 2rem;
+        }
+
+        .info-box h3 {
+            margin-bottom: 1rem;
+            color: var(--forest-green);
+        }
+
+        .info-box ul {
+            margin-left: 1.5rem;
+            margin-top: 1rem;
+        }
+
+        .info-box li {
+            margin-bottom: 0.5rem;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 968px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+            }
+
+            .hero-text {
+                padding: 3rem 2rem;
+            }
+
+            .hero-image {
+                min-height: 300px;
+            }
+
+            .resources-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .btn-secondary {
+                margin-left: 0;
+                margin-top: 1rem;
+            }
+
+            .modal-content {
+                margin: 1rem;
+            }
+
+            .modal-header,
+            .modal-body,
+            .submission-form {
+                padding: 2rem;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 0 1.5rem;
+            }
+
+            .filter-buttons {
+                gap: 0.5rem;
+            }
+
+            .filter-btn {
+                padding: 0.6rem 1.25rem;
+                font-size: 0.85rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Resources</h1>
+                    <p class="hero-subtitle">
+                        Explore our curated collection of articles, books, events, funding opportunities, and more — 
+                        all dedicated to sustainable food systems and regenerative practices.
+                    </p>
+                    <div class="hero-cta">
+                        <a href="#resources" class="btn">Browse Resources</a>
+                        <a href="#" class="btn btn-secondary" id="submitResourceBtn">Submit a Resource</a>
+                    </div>
+                </div>
+                <div class="hero-image">
+                    <div class="hero-animation">
+                        <div class="resource-icon">📚</div>
+                        <div class="floating-element floating-element-1"></div>
+                        <div class="floating-element floating-element-2"></div>
+                        <div class="floating-element floating-element-3"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Resources Section -->
+    <section class="section" id="resources">
+        <div class="container">
+            <!-- Search & Filter -->
+            <div class="search-filter-section">
+                <div class="search-bar">
+                    <span class="search-icon">🔍</span>
+                    <input 
+                        type="text" 
+                        class="search-input" 
+                        id="searchInput" 
+                        placeholder="Search resources by title, author, or topic..."
+                    >
+                </div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-category="all">All Resources</button>
+                    <button class="filter-btn" data-category="article">Articles</button>
+                    <button class="filter-btn" data-category="book">Books</button>
+                    <button class="filter-btn" data-category="event">Events</button>
+                    <button class="filter-btn" data-category="funding">Funding</button>
+                    <button class="filter-btn" data-category="organization">Organizations</button>
+                    <button class="filter-btn" data-category="policy">Policy Briefs</button>
+                    <button class="filter-btn" data-category="socioscope">From the Socioscope</button>
+                </div>
+            </div>
+
+            <!-- Results Info -->
+            <div class="results-info" id="resultsInfo">Showing 14 resources</div>
+
+            <!-- Resources Grid -->
+            <div class="resources-grid" id="resourcesGrid">
+                <article class="resource-card" data-category="article">
+                    <div class="resource-meta">
+                        <span class="resource-date">December 2024</span>
+                        <span class="resource-category">Article</span>
+                    </div>
+                    <h3>Regenerative Agriculture and Soil Carbon Sequestration: A Global Meta-Analysis</h3>
+                    <p class="resource-authors">Dr. Sarah Mitchell, Prof. James Chen, Dr. Marie Dubois</p>
+                    <p class="resource-abstract">
+                        This comprehensive meta-analysis examines 150 studies on regenerative agriculture practices 
+                        across 35 countries, revealing significant potential for soil carbon sequestration while 
+                        improving farm productivity and resilience to climate change.
+                    </p>
+                    <a href="https://example.com/resource1" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Full Article →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="book">
+                    <div class="resource-meta">
+                        <span class="resource-date">November 2024</span>
+                        <span class="resource-category">Book</span>
+                    </div>
+                    <h3>The Living Soil Handbook: Building Organic Matter for Regenerative Agriculture</h3>
+                    <p class="resource-authors">Jesse Frost</p>
+                    <p class="resource-abstract">
+                        A comprehensive guide for farmers transitioning to regenerative practices. Drawing on interviews 
+                        with pioneering farmers and the latest soil science research, this book provides practical 
+                        strategies for building soil health and farm resilience.
+                    </p>
+                    <a href="https://example.com/resource2" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        View Book Details →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="event">
+                    <div class="resource-meta">
+                        <span class="resource-date">March 15-17, 2025</span>
+                        <span class="resource-category">Event</span>
+                    </div>
+                    <h3>International Agroecology Summit 2025</h3>
+                    <p class="resource-authors">Rome, Italy</p>
+                    <p class="resource-abstract">
+                        Join leading researchers, policymakers, and practitioners for three days of keynotes, workshops, 
+                        and networking focused on scaling agroecological transitions. Features 100+ speakers from 
+                        50 countries and hands-on farm visits.
+                    </p>
+                    <a href="https://example.com/resource3" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Register Now →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="funding">
+                    <div class="resource-meta">
+                        <span class="resource-date">Deadline: March 31, 2025</span>
+                        <span class="resource-category">Funding</span>
+                    </div>
+                    <h3>Sustainable Agriculture Innovation Fund</h3>
+                    <p class="resource-authors">Global Food Systems Foundation</p>
+                    <p class="resource-abstract">
+                        Grants of $50,000-$500,000 available for innovative projects advancing sustainable agriculture. 
+                        Priority given to farmer-led initiatives, community-based research, and scalable solutions 
+                        addressing climate resilience and food security.
+                    </p>
+                    <a href="https://example.com/resource4" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Apply Now →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="organization">
+                    <div class="resource-meta">
+                        <span class="resource-date">Est. 2008</span>
+                        <span class="resource-category">Organization</span>
+                    </div>
+                    <h3>International Panel of Experts on Sustainable Food Systems (IPES-Food)</h3>
+                    <p class="resource-authors">Brussels, Belgium</p>
+                    <p class="resource-abstract">
+                        Independent panel of experts promoting evidence-based solutions for food system transformation. 
+                        Provides critical analysis, convenes diverse stakeholders, and advocates for systemic change 
+                        toward sustainable and equitable food systems globally.
+                    </p>
+                    <a href="https://example.com/resource5" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Visit Organization →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="policy">
+                    <div class="resource-meta">
+                        <span class="resource-date">November 2024</span>
+                        <span class="resource-category">Policy Brief</span>
+                    </div>
+                    <h3>Policy Frameworks for Scaling Agroecology: European Union Perspectives</h3>
+                    <p class="resource-authors">Dr. Klaus Weber, Dr. Sophie Laurent</p>
+                    <p class="resource-abstract">
+                        A comprehensive policy brief analyzing successful agroecology scaling initiatives across the EU, 
+                        with recommendations for policymakers on supporting the transition to sustainable farming through 
+                        effective regulatory frameworks and financial incentives.
+                    </p>
+                    <a href="https://example.com/resource6" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Policy Brief →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="socioscope">
+                    <div class="resource-meta">
+                        <span class="resource-date">January 2025</span>
+                        <span class="resource-category">From the Socioscope</span>
+                    </div>
+                    <h3>Community Food Sovereignty: Building Resilient Local Systems</h3>
+                    <p class="resource-authors">The Socioscope Team</p>
+                    <p class="resource-abstract">
+                        Our latest report examining successful community-led food sovereignty initiatives worldwide. 
+                        Features case studies, interviews with practitioners, and practical frameworks for strengthening 
+                        local food systems and empowering communities.
+                    </p>
+                    <a href="https://example.com/resource7" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Report →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="article">
+                    <div class="resource-meta">
+                        <span class="resource-date">October 2024</span>
+                        <span class="resource-category">Article</span>
+                    </div>
+                    <h3>Community-Supported Agriculture: Social Capital and Food Security</h3>
+                    <p class="resource-authors">Dr. Aisha Patel, Dr. Thomas Anderson</p>
+                    <p class="resource-abstract">
+                        This study explores how Community-Supported Agriculture (CSA) models strengthen social capital 
+                        and enhance food security in rural and peri-urban communities across Asia and Africa, based on 
+                        interviews with 200+ CSA members and farmers.
+                    </p>
+                    <a href="https://example.com/resource8" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Full Article →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="book">
+                    <div class="resource-meta">
+                        <span class="resource-date">September 2024</span>
+                        <span class="resource-category">Book</span>
+                    </div>
+                    <h3>Farmacology: What Innovative Family Farming Can Teach Us About Health</h3>
+                    <p class="resource-authors">Daphne Miller, MD</p>
+                    <p class="resource-abstract">
+                        A groundbreaking exploration of the connections between soil health, food quality, and human 
+                        health. Dr. Miller visits seven innovative farms to uncover how regenerative farming practices 
+                        can address modern health challenges.
+                    </p>
+                    <a href="https://example.com/resource9" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        View Book Details →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="event">
+                    <div class="resource-meta">
+                        <span class="resource-date">June 20-23, 2025</span>
+                        <span class="resource-category">Event</span>
+                    </div>
+                    <h3>Soil Health Symposium: Science Meets Practice</h3>
+                    <p class="resource-authors">Iowa State University, Ames, IA</p>
+                    <p class="resource-abstract">
+                        North America's premier soil health conference brings together soil scientists, agronomists, 
+                        and farmers to share cutting-edge research and practical insights. Features field demonstrations 
+                        and the latest soil testing innovations.
+                    </p>
+                    <a href="https://example.com/resource10" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        View Event Details →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="funding">
+                    <div class="resource-meta">
+                        <span class="resource-date">Rolling Applications</span>
+                        <span class="resource-category">Funding</span>
+                    </div>
+                    <h3>Regenerative Farming Transition Support Program</h3>
+                    <p class="resource-authors">Soil Health Institute</p>
+                    <p class="resource-abstract">
+                        Financial and technical support for farmers transitioning to regenerative practices. Provides 
+                        grants up to $25,000, mentorship, soil testing, and access to peer learning networks. 
+                        Applications accepted year-round.
+                    </p>
+                    <a href="https://example.com/resource11" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Learn More →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="organization">
+                    <div class="resource-meta">
+                        <span class="resource-date">Est. 1971</span>
+                        <span class="resource-category">Organization</span>
+                    </div>
+                    <h3>Rodale Institute</h3>
+                    <p class="resource-authors">Kutztown, Pennsylvania</p>
+                    <p class="resource-abstract">
+                        Pioneer in organic agriculture research since 1947. Operates a 333-acre farm dedicated to 
+                        researching regenerative organic agriculture's impact on soil health, crop yields, and 
+                        farm profitability. Offers farmer training and educational programs.
+                    </p>
+                    <a href="https://example.com/resource12" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Visit Organization →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="policy">
+                    <div class="resource-meta">
+                        <span class="resource-date">August 2024</span>
+                        <span class="resource-category">Policy Brief</span>
+                    </div>
+                    <h3>Public Procurement as a Tool for Sustainable Food System Transformation</h3>
+                    <p class="resource-authors">Dr. Emma Richardson, Prof. Michael O'Brien</p>
+                    <p class="resource-abstract">
+                        Analyzing successful public procurement policies that prioritize local, sustainable, and 
+                        organic food in schools and hospitals across Europe and North America, with practical 
+                        recommendations for municipalities.
+                    </p>
+                    <a href="https://example.com/resource13" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Policy Brief →
+                    </a>
+                </article>
+
+                <article class="resource-card" data-category="socioscope">
+                    <div class="resource-meta">
+                        <span class="resource-date">December 2024</span>
+                        <span class="resource-category">From the Socioscope</span>
+                    </div>
+                    <h3>Indigenous Food Systems: Lessons in Climate Resilience</h3>
+                    <p class="resource-authors">The Socioscope Team</p>
+                    <p class="resource-abstract">
+                        A deep dive into Indigenous agricultural practices and their relevance for modern sustainable 
+                        food systems. Explores traditional ecological knowledge, biodiversity preservation, and 
+                        climate adaptation strategies from Indigenous communities worldwide.
+                    </p>
+                    <a href="https://example.com/resource14" target="_blank" rel="noopener noreferrer" class="resource-link">
+                        Read Report →
+                    </a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- Submit CTA Section -->
+    <section class="submit-cta-section">
+        <div class="container">
+            <h2>Have a Resource to Share?</h2>
+            <p>Help us build the most comprehensive collection of sustainable food systems resources.</p>
+            <a href="#" class="btn" id="submitResourceBtn2">Submit Your Resource</a>
+        </div>
+    </section>
+
+    <!-- Submit Resource Modal -->
+    <div id="submitModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Submit a Resource</h2>
+                <span class="close">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div class="success-message" id="successMessage">
+                    ✓ Thank you! Your resource has been submitted successfully. We'll review it within 5-7 business days.
+                </div>
+
+                <form class="submission-form" id="submissionForm">
+                    <h3 class="form-section-title">Resource Information</h3>
+                    <p class="form-section-subtitle">Tell us about the resource you'd like to share</p>
+
+                    <div class="form-group">
+                        <label for="resourceType">Resource Type <span class="required">*</span></label>
+                        <select id="resourceType" name="resourceType" required>
+                            <option value="">Select type</option>
+                            <option value="article">Article</option>
+                            <option value="book">Book</option>
+                            <option value="event">Event</option>
+                            <option value="funding">Funding Opportunity</option>
+                            <option value="organization">Organization</option>
+                            <option value="policy">Policy Brief</option>
+                            <option value="other">Other</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="title">Title <span class="required">*</span></label>
+                        <input type="text" id="title" name="title" required placeholder="Full title of the resource">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="authors">Author(s)/Organization <span class="required">*</span></label>
+                        <input type="text" id="authors" name="authors" required placeholder="e.g., Dr. Jane Smith, Prof. John Doe">
+                        <p class="help-text">Separate multiple authors with commas</p>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="url">URL/Link <span class="required">*</span></label>
+                        <input type="url" id="url" name="url" required placeholder="https://example.com/resource">
+                        <p class="help-text">Link to the resource</p>
+                    </div>
+
+                    <div class="form-group">
+                        <label for="description">Description <span class="required">*</span></label>
+                        <textarea id="description" name="description" required placeholder="Provide a brief description (2-3 sentences)"></textarea>
+                    </div>
+
+                    <!-- Additional Fields for Events -->
+                    <div id="eventFields" style="display: none;">
+                        <div class="form-group">
+                            <label for="eventDate">Event Date</label>
+                            <input type="date" id="eventDate" name="eventDate">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="location">Location</label>
+                            <input type="text" id="location" name="location" placeholder="City, Country or 'Online'">
+                        </div>
+                    </div>
+
+                    <!-- Additional Fields for Funding -->
+                    <div id="fundingFields" style="display: none;">
+                        <div class="form-group">
+                            <label for="deadline">Application Deadline</label>
+                            <input type="date" id="deadline" name="deadline">
+                        </div>
+
+                        <div class="form-group">
+                            <label for="amount">Funding Amount</label>
+                            <input type="text" id="amount" name="amount" placeholder="e.g., $50,000 - $500,000">
+                        </div>
+                    </div>
+
+                    <!-- Keywords -->
+                    <div class="form-group">
+                        <label for="keywords">Keywords/Topics</label>
+                        <input type="text" id="keywords" name="keywords" placeholder="e.g., agroecology, urban farming, food security">
+                        <p class="help-text">Separate keywords with commas</p>
+                    </div>
+
+                    <!-- Submitter Information -->
+                    <h3 class="form-section-title" style="margin-top: 3rem;">Your Information</h3>
+                    <p class="form-section-subtitle">Who should we contact if we have questions?</p>
+
+                    <div class="form-group">
+                        <label for="submitterName">Your Name <span class="required">*</span></label>
+                        <input type="text" id="submitterName" name="submitterName" required placeholder="Full name">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="submitterEmail">Email Address <span class="required">*</span></label>
+                        <input type="email" id="submitterEmail" name="submitterEmail" required placeholder="your.email@example.com">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="additionalInfo">Additional Notes</label>
+                        <textarea id="additionalInfo" name="additionalInfo" placeholder="Any additional information you'd like to share"></textarea>
+                    </div>
+
+                    <!-- Submit -->
+                    <div class="submit-section">
+                        <button type="submit" class="btn" id="submitBtn">Submit Resource</button>
+                    </div>
+                </form>
+
+                <div class="info-box">
+                    <h3>Submission Guidelines</h3>
+                    <p>We accept resources that:</p>
+                    <ul>
+                        <li>Focus on sustainable food systems and regenerative practices</li>
+                        <li>Are publicly accessible or open access when possible</li>
+                        <li>Provide evidence-based insights</li>
+                        <li>Are relevant to practitioners, researchers, and policymakers</li>
+                        <li>Contribute to knowledge sharing and community building</li>
+                    </ul>
+                    <p style="margin-top: 1.5rem;">
+                        <strong>Review Process:</strong> After submission, our team will review the resource within 5-7 business days. 
+                        We may contact you for additional information or clarification.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Filter and Search Functionality
+        const searchInput = document.getElementById('searchInput');
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const resourceCards = document.querySelectorAll('.resource-card');
+        const resultsInfo = document.getElementById('resultsInfo');
+
+        let currentCategory = 'all';
+
+        function filterResources() {
+            const searchTerm = searchInput.value.toLowerCase();
+            let visibleCount = 0;
+
+            resourceCards.forEach(card => {
+                const cardText = card.textContent.toLowerCase();
+                const cardCategory = card.getAttribute('data-category');
+
+                const matchesSearch = cardText.includes(searchTerm);
+                const matchesCategory = currentCategory === 'all' || cardCategory === currentCategory;
+
+                if (matchesSearch && matchesCategory) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            resultsInfo.textContent = `Showing ${visibleCount} resource${visibleCount !== 1 ? 's' : ''}`;
+        }
+
+        filterButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                currentCategory = button.getAttribute('data-category');
+                
+                // Update active button
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                filterResources();
+            });
+        });
+
+        searchInput.addEventListener('input', filterResources);
+
+        // Modal Functionality
+        const modal = document.getElementById('submitModal');
+        const submitBtn1 = document.getElementById('submitResourceBtn');
+        const submitBtn2 = document.getElementById('submitResourceBtn2');
+        const closeBtn = document.querySelector('.close');
+
+        submitBtn1.addEventListener('click', (e) => {
+            e.preventDefault();
+            modal.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        });
+
+        submitBtn2.addEventListener('click', (e) => {
+            e.preventDefault();
+            modal.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+        });
+
+        closeBtn.addEventListener('click', () => {
+            modal.style.display = 'none';
+            document.body.style.overflow = 'auto';
+        });
+
+        window.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+                document.body.style.overflow = 'auto';
+            }
+        });
+
+        // Form Functionality
+        const form = document.getElementById('submissionForm');
+        const submitFormBtn = document.getElementById('submitBtn');
+        const successMessage = document.getElementById('successMessage');
+        const resourceType = document.getElementById('resourceType');
+        const eventFields = document.getElementById('eventFields');
+        const fundingFields = document.getElementById('fundingFields');
+
+        // Show/hide fields based on resource type
+        resourceType.addEventListener('change', () => {
+            const type = resourceType.value;
+            
+            eventFields.style.display = 'none';
+            fundingFields.style.display = 'none';
+
+            if (type === 'event') {
+                eventFields.style.display = 'block';
+            } else if (type === 'funding') {
+                fundingFields.style.display = 'block';
+            }
+        });
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            // Disable button
+            submitFormBtn.disabled = true;
+            submitFormBtn.textContent = 'Submitting...';
+            
+            // Simulate submission (in production, this would be an API call)
+            await new Promise(resolve => setTimeout(resolve, 2000));
+            
+            // Show success message
+            successMessage.style.display = 'block';
+            
+            // Reset form
+            form.reset();
+            eventFields.style.display = 'none';
+            fundingFields.style.display = 'none';
+            
+            // Reset button
+            submitFormBtn.disabled = false;
+            submitFormBtn.textContent = 'Submit Resource';
+            
+            // Scroll to success message
+            successMessage.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+            // Hide success message after 5 seconds
+            setTimeout(() => {
+                successMessage.style.display = 'none';
+            }, 5000);
+        });
+    </script>
+</body>
+</html>

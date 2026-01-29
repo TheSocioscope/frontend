@@ -1,18 +1,15 @@
 <template>
   <section class="section vision-section">
     <v-container>
-      <div class="vision-content">
-        <h2 class="text-h3 text-md-h2 font-weight-medium text-center mb-8">
+      <div class="section-header">
+        <h2>
           {{ $t('vision.title') }}
         </h2>
-        <p class="text-h5 text-md-h4 font-weight-light text-center vision-statement">
-          {{ $t('vision.statement') }}
+        <p class="vision-statement">
+          {{ $t('vision.statement1') }}
         </p>
-        <p class="text-body-1 text-center vision-details">
-          {{ $t('vision.details1') }}
-        </p>
-        <p class="text-body-1 text-center font-weight-medium mt-8 vision-details">
-          {{ $t('vision.details2') }}
+        <p class="vision-statement mt-4">
+          {{ $t('vision.statement2') }}
         </p>
       </div>
 
@@ -48,30 +45,16 @@ const { t: $t } = useI18n()
 </script>
 
 <style scoped lang="scss">
-@use '../../assets/styles/variables' as *;
+@use '~~/assets/styles/variables' as *;
 
 .vision-section {
   background: $surface-cream;
 }
 
-.vision-content {
-  max-width: 900px;
-  margin: 0 auto;
-
-  h2 {
-    color: $brown-medium;
-  }
-}
-
 .vision-statement {
+  font-size: 1.1rem;
+  line-height: 1.8;
   color: $brown-dark;
-  margin-bottom: $spacing-lg;
-  line-height: 1.5;
-}
-
-.vision-details {
-  color: $brown-dark;
-  line-height: 1.7;
 }
 
 .contributions-grid {
@@ -79,7 +62,7 @@ const { t: $t } = useI18n()
 }
 
 .contribution-card {
-  background: $surface-cream !important;
+  background: white;
   padding: $spacing-lg;
   border: 2px solid $cream-dark !important;
   transition:
@@ -99,7 +82,8 @@ const { t: $t } = useI18n()
 }
 
 .contribution-card h3 {
-  color: $brown-dark;
+  color: $green-bright;
+  font-family: $font-family-display;
 }
 
 .contribution-card p {

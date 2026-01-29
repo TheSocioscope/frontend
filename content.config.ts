@@ -98,15 +98,99 @@ export default defineContentConfig({
       })
     }),
 
+    team: defineCollection({
+      type: 'page',
+      source: 'team/**/*.md',
+      schema: z.object({
+        firstname: z.string(),
+        lastname: z.string(),
+        picture: z.string().optional(),
+        country: z.string(),
+        category: z.string(),
+        role: z.string(),
+        details: z.string().optional()
+      })
+    }),
+
     partners: defineCollection({
       type: 'page',
       source: 'partners/**/*.md',
       schema: z.object({
-        name: z.string(),
-        description: z.string(),
+        title: z.string().optional(),
+        name: z.string().optional(),
+        description: z.string().optional(),
+        category: z.string().optional(),
         logo: z.string().optional(),
         website: z.string().optional(),
-        type: z.enum(['research', 'funding', 'partner']).default('partner'),
+        type: z.enum(['research', 'funding', 'partner']).optional(),
+        order: z.number().default(0),
+        published: z.boolean().default(true),
+        partners: z
+          .array(
+            z.object({
+              name: z.string(),
+              country: z.string(),
+              logo: z.string().optional(),
+              website: z.string().optional(),
+              role: z.string()
+            })
+          )
+          .optional()
+      })
+    }),
+
+    interviewers: defineCollection({
+      type: 'page',
+      source: 'interviewers/**/*.md',
+      schema: z.object({
+        title: z.string(),
+        description: z.string(),
+        category: z.string(),
+        searchable: z.boolean().optional(),
+        interviewers: z.array(
+          z.object({
+            name: z.string(),
+            country: z.string(),
+            picture: z.string().optional()
+          })
+        )
+      })
+    }),
+
+    products: defineCollection({
+      type: 'page',
+      source: 'products/**/*.md',
+      schema: z.object({
+        title: z.string(),
+        producer: z.string(),
+        category: z.string(),
+        badge: z.string(),
+        icon: z.string(),
+        description: z.string(),
+        link: z.string(),
+        order: z.number().default(0),
+        published: z.boolean().default(true)
+      })
+    }),
+
+    resources: defineCollection({
+      type: 'page',
+      source: 'resources/**/*.md',
+      schema: z.object({
+        title: z.string(),
+        authors: z.string().optional(),
+        category: z.enum([
+          'article',
+          'book',
+          'event',
+          'funding',
+          'organization',
+          'policy',
+          'socioscope'
+        ]),
+        date: z.string(),
+        abstract: z.string(),
+        link: z.string(),
         order: z.number().default(0),
         published: z.boolean().default(true)
       })

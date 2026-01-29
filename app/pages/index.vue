@@ -1,25 +1,28 @@
 <template>
   <div>
-    <!-- Hero Section with Video -->
-    <HeroBanner />
-
-    <!-- Vision Section -->
-    <VisionSection />
-
-    <!-- World Map -->
-    <WorldMapSection />
+    <!-- Hero Section with Animated Circles -->
+    <HomepageHeroBanner />
 
     <!-- Statistics Counter -->
-    <StatsSection />
+    <HomepageStatsSection />
+
+    <!-- Vision Section -->
+    <HomepageVisionSection />
+
+    <!-- World Map -->
+    <HomepageWorldMapSection />
 
     <!-- Stories from the Field -->
-    <StoriesSection />
+    <HomepageStoriesSection />
 
     <!-- Newsletter -->
-    <NewsletterSection />
+    <HomepageNewsletterSection />
+
+    <!-- Call to Join -->
+    <HomepageCallToJoinSection />
 
     <!-- Partners -->
-    <PartnersSection />
+    <HomepagePartnersSection />
   </div>
 </template>
 

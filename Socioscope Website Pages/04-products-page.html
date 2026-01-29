@@ -1,0 +1,707 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products & Solutions - The Socioscope</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFBF0;
+            --warm-beige: #F5EDD6;
+            --deep-brown: #2C2416;
+            --bright-green: #4CA049;
+            --forest-green: #27421D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Playfair Display', serif;
+            color: var(--deep-brown);
+            background: var(--cream);
+            line-height: 1.8;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--warm-beige);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            min-height: 450px;
+        }
+
+        .hero-text {
+            padding: 4rem 3rem 4rem 0;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            color: var(--deep-brown);
+            font-weight: 700;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.4rem);
+            line-height: 1.5;
+            color: var(--deep-brown);
+            font-weight: 400;
+            opacity: 0.85;
+        }
+
+        .hero-image {
+            height: 100%;
+            min-height: 450px;
+            position: relative;
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* Animated placeholder - Shopping/Cart theme */
+        .hero-animation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background: var(--warm-beige);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .cart-container {
+            position: relative;
+            z-index: 1;
+            animation: bounce 2s ease-in-out infinite;
+        }
+
+        .cart {
+            font-size: 6rem;
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-20px);
+            }
+        }
+
+        .floating-element {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.12;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .floating-element-1 {
+            width: 130px;
+            height: 130px;
+            background: var(--bright-green);
+            top: 10%;
+            left: 10%;
+            animation-delay: 0s;
+        }
+
+        .floating-element-2 {
+            width: 95px;
+            height: 95px;
+            background: var(--forest-green);
+            top: 65%;
+            right: 15%;
+            animation-delay: 1.5s;
+        }
+
+        .floating-element-3 {
+            width: 75px;
+            height: 75px;
+            background: var(--bright-green);
+            bottom: 20%;
+            left: 40%;
+            animation-delay: 3s;
+        }
+
+        .floating-element-4 {
+            width: 110px;
+            height: 110px;
+            background: var(--forest-green);
+            top: 35%;
+            right: 35%;
+            animation-delay: 4.5s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+            }
+            50% {
+                transform: translateY(-25px) scale(1.08);
+            }
+        }
+
+        /* Section */
+        .section {
+            padding: 5rem 0;
+            background: var(--cream);
+        }
+
+        .section-beige {
+            background: var(--warm-beige);
+        }
+
+        /* Introduction */
+        .intro-section {
+            max-width: 800px;
+            margin: 0 auto 4rem;
+            text-align: center;
+        }
+
+        .intro-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .intro-section p {
+            font-size: 1.15rem;
+            line-height: 1.8;
+            opacity: 0.85;
+        }
+
+        /* Filter Section */
+        .filter-section {
+            max-width: 800px;
+            margin: 0 auto 3rem;
+            display: flex;
+            gap: 1rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            padding: 0.75rem 1.75rem;
+            background: white;
+            border: 2px solid var(--warm-beige);
+            color: var(--deep-brown);
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .filter-btn:hover,
+        .filter-btn.active {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        /* Products Grid */
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 2.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .product-card {
+            background: white;
+            border: 2px solid var(--warm-beige);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 12px 36px rgba(44, 36, 22, 0.15);
+            border-color: var(--bright-green);
+        }
+
+        .product-image {
+            width: 100%;
+            height: 250px;
+            background: var(--warm-beige);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 4rem;
+            border-bottom: 2px solid var(--warm-beige);
+        }
+
+        .product-content {
+            padding: 2rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .product-badge {
+            display: inline-block;
+            padding: 0.35rem 0.85rem;
+            background: var(--bright-green);
+            color: white;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            align-self: flex-start;
+        }
+
+        .product-card h3 {
+            font-size: 1.6rem;
+            margin-bottom: 0.75rem;
+            color: var(--deep-brown);
+        }
+
+        .product-producer {
+            font-size: 0.95rem;
+            color: var(--forest-green);
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .product-description {
+            font-size: 1.05rem;
+            line-height: 1.7;
+            opacity: 0.85;
+            margin-bottom: 1.5rem;
+            flex: 1;
+        }
+
+        .product-footer {
+            margin-top: auto;
+        }
+
+        .product-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            background: var(--bright-green);
+            color: white;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            width: 100%;
+            justify-content: center;
+            border: 2px solid var(--bright-green);
+        }
+
+        .product-link:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+
+        .external-icon {
+            font-size: 1.2rem;
+        }
+
+        /* CTA Section */
+        .cta-section {
+            background: var(--warm-beige);
+            text-align: center;
+            border-top: 3px solid var(--bright-green);
+        }
+
+        .cta-content {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .cta-content h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .cta-content p {
+            font-size: 1.2rem;
+            margin-bottom: 2.5rem;
+            line-height: 1.7;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 1.5rem;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            font-weight: 600;
+            text-decoration: none;
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+        }
+
+        .btn-primary {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        .btn-primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--deep-brown);
+            border-color: var(--deep-brown);
+        }
+
+        .btn-outline:hover {
+            background: var(--deep-brown);
+            color: var(--cream);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .products-grid {
+                grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+                min-height: auto;
+            }
+
+            .hero-text {
+                padding: 3rem 0 2rem;
+                text-align: center;
+            }
+
+            .hero-image {
+                min-height: 300px;
+            }
+
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .section {
+                padding: 4rem 0;
+            }
+
+            .products-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .btn-group {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                text-align: center;
+            }
+
+            .cart {
+                font-size: 4rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Products & Solutions</h1>
+                    <p class="hero-subtitle">Discover sustainable food products and services from our global community of practitioners</p>
+                </div>
+                <div class="hero-image">
+                    <div class="hero-animation">
+                        <div class="floating-element floating-element-1"></div>
+                        <div class="floating-element floating-element-2"></div>
+                        <div class="floating-element floating-element-3"></div>
+                        <div class="floating-element floating-element-4"></div>
+                        <div class="cart-container">
+                            <div class="cart">🛒</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Section -->
+    <section class="section">
+        <div class="container">
+            <div class="intro-section">
+                <h2>Sustainable Products & Services</h2>
+                <p>
+                    Support initiatives driving sustainable change in food systems. Each product or service 
+                    comes from verified practitioners in our network who are making a real difference in 
+                    their communities and beyond.
+                </p>
+            </div>
+
+            <!-- Filter Buttons -->
+            <div class="filter-section">
+                <button class="filter-btn active" data-category="all">All Products</button>
+                <button class="filter-btn" data-category="food">Food Products</button>
+                <button class="filter-btn" data-category="tools">Tools & Equipment</button>
+                <button class="filter-btn" data-category="services">Services</button>
+                <button class="filter-btn" data-category="education">Education</button>
+            </div>
+
+            <!-- Products Grid -->
+            <div class="products-grid" id="productsGrid">
+                <!-- Food Products -->
+                <div class="product-card" data-category="food">
+                    <div class="product-image">🥬</div>
+                    <div class="product-content">
+                        <span class="product-badge">Food Product</span>
+                        <h3>Organic Vegetable Boxes</h3>
+                        <p class="product-producer">Urban Harvest Collective</p>
+                        <p class="product-description">
+                            Weekly subscription boxes of seasonal organic vegetables grown using regenerative 
+                            practices on urban farms across Paris. Supporting local farmers and reducing food miles.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/urban-harvest" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="food">
+                    <div class="product-image">🍯</div>
+                    <div class="product-content">
+                        <span class="product-badge">Food Product</span>
+                        <h3>Raw Local Honey</h3>
+                        <p class="product-producer">Bee Keepers Cooperative Kenya</p>
+                        <p class="product-description">
+                            Pure, unprocessed honey from small-scale beekeepers in rural Kenya. Supporting 
+                            biodiversity and providing fair income to 200+ beekeeping families.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/bee-keepers" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="food">
+                    <div class="product-image">🌾</div>
+                    <div class="product-content">
+                        <span class="product-badge">Food Product</span>
+                        <h3>Heritage Grain Flour</h3>
+                        <p class="product-producer">Ancient Grains Collective</p>
+                        <p class="product-description">
+                            Stone-milled flour from heritage wheat varieties, grown regeneratively and supporting 
+                            seed preservation. Available in whole wheat, spelt, and einkorn varieties.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/ancient-grains" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Tools & Equipment -->
+                <div class="product-card" data-category="tools">
+                    <div class="product-image">🧰</div>
+                    <div class="product-content">
+                        <span class="product-badge">Tools & Equipment</span>
+                        <h3>Composting Kits</h3>
+                        <p class="product-producer">Zero Waste Solutions</p>
+                        <p class="product-description">
+                            Complete home composting systems designed for urban apartments. Includes bokashi bins, 
+                            worm farms, and educational materials. Helps divert organic waste from landfills.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/zero-waste" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="tools">
+                    <div class="product-image">🌱</div>
+                    <div class="product-content">
+                        <span class="product-badge">Tools & Equipment</span>
+                        <h3>Urban Garden Starter Kit</h3>
+                        <p class="product-producer">City Growers Network</p>
+                        <p class="product-description">
+                            Everything you need to start your balcony garden: containers, organic soil, seeds, 
+                            tools, and growing guides. Perfect for urban dwellers wanting to grow their own food.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/city-growers" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Services -->
+                <div class="product-card" data-category="services">
+                    <div class="product-image">📊</div>
+                    <div class="product-content">
+                        <span class="product-badge">Service</span>
+                        <h3>Farm Sustainability Consulting</h3>
+                        <p class="product-producer">Regenerative Agriculture Advisors</p>
+                        <p class="product-description">
+                            Expert consulting services to help farms transition to regenerative practices. 
+                            Includes soil analysis, crop planning, and ongoing support for sustainable farming.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/regen-advisors" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="services">
+                    <div class="product-image">🚚</div>
+                    <div class="product-content">
+                        <span class="product-badge">Service</span>
+                        <h3>Local Food Distribution Network</h3>
+                        <p class="product-producer">Farm to Door Logistics</p>
+                        <p class="product-description">
+                            Sustainable distribution service connecting local farmers with consumers. 
+                            Electric vehicle fleet and optimized routes minimize environmental impact.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/farm-to-door" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Education -->
+                <div class="product-card" data-category="education">
+                    <div class="product-image">📚</div>
+                    <div class="product-content">
+                        <span class="product-badge">Education</span>
+                        <h3>Sustainable Farming Course</h3>
+                        <p class="product-producer">Agroecology Academy</p>
+                        <p class="product-description">
+                            12-week online certification program in sustainable agriculture. Covers regenerative 
+                            practices, soil health, biodiversity, and climate-resilient farming techniques.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/agroecology-academy" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="product-card" data-category="education">
+                    <div class="product-image">👨‍🌾</div>
+                    <div class="product-content">
+                        <span class="product-badge">Education</span>
+                        <h3>Farm Apprenticeship Program</h3>
+                        <p class="product-producer">Next Generation Farmers</p>
+                        <p class="product-description">
+                            6-month hands-on training program on working organic farms. Learn all aspects of 
+                            sustainable farming from experienced practitioners. Room and board included.
+                        </p>
+                        <div class="product-footer">
+                            <a href="https://example.com/next-gen-farmers" target="_blank" rel="noopener noreferrer" class="product-link">
+                                Visit Website <span class="external-icon">↗</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="section cta-section">
+        <div class="container">
+            <div class="cta-content">
+                <h2>Want to Feature Your Product?</h2>
+                <p>
+                    If you're part of our network and have sustainable food products or services 
+                    to share, we'd love to showcase them here.
+                </p>
+                <div class="btn-group">
+                    <a href="#" class="btn btn-primary">Submit Your Product</a>
+                    <a href="#" class="btn btn-outline">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // Filter functionality
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const productCards = document.querySelectorAll('.product-card');
+
+        filterButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                const category = button.getAttribute('data-category');
+                
+                // Update active button
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                // Filter products
+                productCards.forEach(card => {
+                    const cardCategory = card.getAttribute('data-category');
+                    
+                    if (category === 'all' || cardCategory === category) {
+                        card.style.display = 'flex';
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>

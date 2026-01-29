@@ -9,14 +9,14 @@
     "team": "The Team",
     "faq": "FAQ",
     "database": "Initiative Database",
-    "submitInitiative": "Submit Initiative",
+    "submitInitiative": "Register Your Project",
     "products": "Products",
     "resources": "Resources",
     "articles": "Articles",
-    "books": "Books",
-    "events": "Events",
+    "books": "Books/Chapters",
+    "events": "Events/Conferences",
     "contactUs": "Contact Us",
-    "press": "Press Room"
+    "press": "Pressroom"
   },
   "labels": {
     "fields": "Fields",
@@ -25,18 +25,19 @@
   },
   "hero": {
     "title": "THE SOCIOSCOPE",
-    "subtitle": "Seeing How Societies Transform",
+    "subtitle": "Seeing How Social Change Takes Shape",
     "tagline": "A groundbreaking initiative to understand and map how communities create sustainable food futures"
   },
   "microscope": {
     "icon": "🔬",
-    "title": "The World's First Social Microscope",
-    "description1": "Just as the microscope revolutionized biology by revealing the hidden world of cells, The Socioscope is revealing the hidden patterns of social transformation.",
-    "description2": "We're building a systematic way to see what was previously invisible: how individual actions connect to form collective change."
+    "title": "A Social Microscope on Food Systems Change",
+    "description1": "Through large scale data collection around the world and LLM-driven research, the Socioscope analyses how behaviours, norms, and practices evolve within sustainable food transitions.",
+    "description2": "We're building a systemic way to help make complex social patterns measurable, comparable, and understandable."
   },
   "vision": {
-    "title": "The World's First Social Microscope",
-    "statement": "Just as the microscope revolutionized biology by revealing the hidden world of cells, The Socioscope is revealing the hidden patterns of social transformation.We're building a systematic way to see what was previously invisible: how individual actions connect to form collective change.",
+    "title": "A Social Microscope on Food Systems Change",
+    "statement1": "Through large scale data collection around the world and LLM-driven research, the Socioscope analyses how behaviours, norms, and practices evolve within sustainable food transitions.",
+    "statement2": "We're building a systemic way to help make complex social patterns measurable, comparable, and understandable.",
     "details1": "The Socioscope doesn't just produce academic papers. It reveals what makes change work: which interventions succeed, which fail, and why. It shows policymakers what policies actually take root. It helps organizers understand what makes movements scale. It gives communities the knowledge to design their own pathways to transformation.",
     "details2": "This is about building a sustainable future that's not just environmentally sound, but socially resilient and economically just: while contributing to innovative methodologies for data collection, LLM-driven research, and the food system itself."
   },
@@ -44,22 +45,22 @@
     "card1": {
       "icon": "📊",
       "title": "Data",
-      "description": "Sophisticated in-person data collection across 29 countries, capturing not just what initiatives do, but how they transform economic, ecological, cultural, and governance systems.",
-      "description2": "Our researchers conduct ethnographic fieldwork, structured interviews, and participatory observation to build the most comprehensive dataset of food system transformations in existence.",
+      "description": "Sophisticated on-the-ground data collection across 35+ countries, capturing not just what initiatives do, but how they transform economic, ecological, cultural and governance ecosystems.",
+      "description2": "Our researchers conduct ethnographic fieldwork, semi-structured qualitative interviews, and participatory observation to build the most comprehensive data set of food system transformations.",
       "link": ""
     },
     "card2": {
       "icon": "🤖",
       "title": "Technology",
-      "description": "Establishing an LLM-driven research methodology that can process qualitative data at scale while preserving contextual nuance and cultural specificity.",
-      "description2": "Built on Sleipnir, our analytical framework enables pattern recognition across hundreds of cases—finding what traditional methods miss.",
+      "description": "Establishing an LLM-driven research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity.",
+      "description2": "Built on Sleipnir, our analytical framework enables pattern recognition across hundreds of cases, finding what traditional methods may miss.",
       "link": ""
     },
     "card3": {
       "icon": "🌾",
       "title": "Analysis",
-      "description": "Developing new frameworks for understanding systems transformation, particularly in food systems where economic, ecological, cultural, and political dimensions intersect.",
-      "description2": "Our transaction grid methodology maps how change moves across these dimensions—revealing the mechanics of societal transformation.",
+      "description": "Developing new frameworks and pathways to understand food systems transformation across sectors and contexts examining economic, political and cultural dimensions.",
+      "description2": "Unpacking how stakeholders work together, the motivations and values that incentivize them, and key challenges; a layered approach to mapping how transformation happens.",
       "link": ""
     }
   },
@@ -85,7 +86,6 @@
   },
   "map": {
     "title": "Global Reach, Local Impact",
-    "subtitle": "Explore our network of sustainable food initiatives across the world. Each location represents real communities working towards transformative change.",
     "projects": "projects",
     "clickToView": "Click to view projects",
     "tooltip": {
@@ -104,21 +104,24 @@
   },
   "stats": {
     "card1": {
-      "number": "1000+",
-      "label": "Documented Cases"
+      "number": "700+",
+      "label": "Documented Initiatives"
     },
     "card2": {
-      "number": "30+",
+      "number": "35+",
       "label": "Countries"
     },
     "card3": {
-      "number": "5",
+      "number": "6",
       "label": "Continents"
+    },
+    "card4": {
+      "number": "50+",
+      "label": "Global Interviewers"
     }
   },
   "stories": {
     "title": "Stories from the Field",
-    "subtitle": "Watch how communities around the world are transforming their food systems",
     "videoPlaceholder": "▶",
     "video1": {
       "title": "Urban Agriculture in Tokyo",
@@ -146,15 +149,19 @@
     }
   },
   "newsletter": {
-    "title": "Don't Miss New Initiatives",
-    "subtitle": "Subscribe to receive updates about new projects in your region or area of interest.",
-    "emailPlaceholder": "Enter your email",
+    "title": "Subscribe to our newsletter and get our newest initiatives straight to your inbox",
+    "emailPlaceholder": "Enter your email address",
     "button": "Subscribe",
     "emailRequired": "Email is required",
     "emailInvalid": "Email must be valid",
     "success": "Thank you for subscribing!",
     "error": "Something went wrong. Please try again.",
     "subscribe": "Subscribe"
+  },
+  "cta": {
+    "title": "Join the Movement",
+    "description": "Are you working on a collective intelligence or social innovation initiative? Share your work with our global community and contribute to the growing body of knowledge on collaborative problem-solving.",
+    "button": "Submit Your Initiative"
   },
   "leadingResearch": {
     "title": "Leading the Research",
@@ -196,7 +203,7 @@
       "linkedin": "LinkedIn",
       "github": "GitHub"
     },
-    "copyright": "© 2025 The Socioscope • Understanding How Societies Transform",
+    "copyright": "© {year} The Socioscope • Understanding How Societies Transform",
     "team": "Team",
     "publications": "Publications",
     "stories": "Stories",
@@ -206,6 +213,10 @@
     "faq": "FAQ"
   },
   "projects": {
+    "hero": {
+      "title": "Map of Change",
+      "subtitle": "Explore transformative initiatives reshaping our food systems worldwide"
+    },
     "database": {
       "title": "Initiative Database",
       "subtitle": "Explore 1000+ sustainable food system transformation initiatives",
@@ -229,7 +240,131 @@
       "email": "Contact Email",
       "button": "Submit Initiative",
       "success": "Thank you for submitting your initiative!"
-    }
+    },
+    "status": {
+      "pending": "Pending",
+      "published": "Published",
+      "stale": "Stale",
+      "verified": "Verified",
+      "new": "New"
+    },
+    "continents": {
+      "asia": "Asia",
+      "europe": "Europe",
+      "north-africa": "North Africa",
+      "north-america": "North America",
+      "south-america": "South America",
+      "sub-saharian-africa": "Sub-Saharan Africa",
+      "oceania": "Oceania",
+      "worldwide-intercontinental": "Worldwide/Intercontinental"
+    },
+    "countries": {
+      "argentina": "Argentina",
+      "armenia": "Armenia",
+      "bangladesh": "Bangladesh",
+      "belgium": "Belgium",
+      "brazil": "Brazil",
+      "bulgaria": "Bulgaria",
+      "canada": "Canada",
+      "colombia": "Colombia",
+      "costa-rica": "Costa Rica",
+      "czech-republic": "Czech Republic",
+      "denmark": "Denmark",
+      "ecuador": "Ecuador",
+      "egypt": "Egypt",
+      "france": "France",
+      "georgia": "Georgia",
+      "india": "India",
+      "iran": "Iran",
+      "iraq": "Iraq",
+      "italy": "Italy",
+      "japan": "Japan",
+      "jordan": "Jordan",
+      "kenya": "Kenya",
+      "korea-south": "South Korea",
+      "malta": "Malta",
+      "mexico": "Mexico",
+      "morocco": "Morocco",
+      "netherlands": "Netherlands",
+      "new-zealand": "New Zealand",
+      "norway": "Norway",
+      "paraguay": "Paraguay",
+      "peru": "Peru",
+      "poland": "Poland",
+      "portugal": "Portugal",
+      "rwanda": "Rwanda",
+      "singapore": "Singapore",
+      "spain": "Spain",
+      "sri-lanka": "Sri Lanka",
+      "sweden": "Sweden",
+      "switzerland": "Switzerland",
+      "syria": "Syria",
+      "tanzania": "Tanzania",
+      "thailand": "Thailand",
+      "uganda": "Uganda",
+      "ukraine": "Ukraine",
+      "united-kingdom": "United Kingdom",
+      "united-states": "United States",
+      "uruguay": "Uruguay"
+    },
+    "fields": {
+      "anthropology": "Anthropology",
+      "arts-architecture-and-museology": "Arts, Architecture & Museology",
+      "biology": "Biology",
+      "chemistry-physics": "Chemistry & Physics",
+      "communication-and-media-studies": "Communication & Media Studies",
+      "demography": "Demography",
+      "design": "Design",
+      "ecology-environmental-sciences": "Ecology & Environmental Sciences",
+      "economics-statistics": "Economics & Statistics",
+      "education-sciences": "Education Sciences",
+      "engineering-and-technology": "Engineering & Technology",
+      "gender-studies": "Gender Studies",
+      "geography": "Geography",
+      "history": "History",
+      "information-technology": "Information Technology",
+      "law": "Law",
+      "medicine": "Medicine",
+      "nutrition": "Nutrition",
+      "other-social-sciences-and-humanities": "Other Social Sciences & Humanities",
+      "philosophy-incl-ethics": "Philosophy (incl. Ethics)",
+      "political-science": "Political Science",
+      "religion-and-theology": "Religion & Theology",
+      "sociology": "Sociology",
+      "systems-science": "Systems Science"
+    },
+    "thematics": {
+      "cities-mobility-urban-planning": "Cities, Mobility & Urban Planning",
+      "consumption-and-production-patterns": "Consumption & Production Patterns",
+      "ecology-environmental-change": "Ecology & Environmental Change",
+      "economy-business-markets-finance": "Economy, Business, Markets & Finance",
+      "education": "Education",
+      "equality-diversity-studies-and-social-justice": "Equality, Diversity Studies & Social Justice",
+      "food-agriculture-fishery": "Food, Agriculture & Fishery",
+      "governance-democracy-civil-society": "Governance, Democracy & Civil Society",
+      "international-relations-and-co-operation": "International Relations & Co-operation",
+      "public-health": "Public Health",
+      "public-policy-evaluation-impact": "Public Policy, Evaluation & Impact",
+      "risks-crisis-management": "Risks & Crisis Management",
+      "welfare-work-social-protection": "Welfare, Work & Social Protection"
+    },
+    "types": {
+      "action-research": "Action Research",
+      "art-exhibitions": "Art Exhibitions",
+      "books-and-book-chapters": "Books & Book Chapters",
+      "business-model": "Business Model",
+      "call-for-collaboration": "Call for Collaboration",
+      "call-for-research-proposals": "Call for Research Proposals",
+      "case-study": "Case Study",
+      "dataset-data-mining": "Dataset & Data Mining",
+      "expertise-offer": "Expertise Offer",
+      "qualitative-analysis": "Qualitative Analysis",
+      "quantitative-survey": "Quantitative Survey",
+      "scientific-paper": "Scientific Paper",
+      "scores": "Scores",
+      "video": "Video"
+    },
+    "projectsFound": "Showing {0} projects"
   },
   "home": {
     "meta": {
@@ -314,12 +449,14 @@
     "meta": {
       "title": "About The Socioscope"
     },
-    "title": "About The Socioscope",
-    "subtitle": "Understanding what truly drives sustainable change",
+    "hero": {
+      "title": "About The Socioscope",
+      "subtitle": "Understanding what truly drives sustainable change"
+    },
     "mission": {
       "title": "Our Mission",
-      "text1": "The Socioscope is a transformative qualitative research project.",
-      "text2": "Serves as a comprehensive observatory."
+      "paragraph1": "The Socioscope is a transformative qualitative research project that maps how behaviours, norms, and communities influence the transition toward sustainable food systems.",
+      "paragraph2": "The Socioscope serves as a comprehensive observatory of these efforts, making knowledge accessible to researchers, policymakers, and practitioners worldwide. Equally important is shining a light on local initiatives that lead change on the ground and drive the shift toward a more sustainable food system."
     },
     "info": {
       "established": {
@@ -340,55 +477,112 @@
     },
     "whatWeDo": {
       "title": "What We Do",
-      "text": "The Socioscope explores how sustainable change happens in practice."
+      "paragraph1": "The Socioscope explores how sustainable change happens on the ground, with a focus on food systems. We document local solutions, speak with practitioners, and analyse insights using AI to reveal the patterns behind impactful innovation.",
+      "paragraph2": "Through systematic research and community engagement, we identify, document, and analyze initiatives that embody sustainable transformation principles. Our database includes grassroots movements, community-led projects, participatory governance experiments, and collaborative problem-solving platforms from every continent."
     },
     "methodology": {
       "title": "Our Methodology",
-      "subtitle": "Combining academic rigor with participatory research",
+      "subtitle": "Combining academic rigor with participatory research approaches",
       "step1": {
         "title": "Identification",
-        "desc": "Through network analysis, expert recommendations..."
+        "desc": "Through network analysis, expert recommendations, and community nominations, we identify initiatives that demonstrate sustainable transformation principles."
       },
       "step2": {
         "title": "Documentation",
-        "desc": "Our trained interviewers conduct in-depth conversations..."
+        "desc": "Our trained interviewers conduct in-depth conversations with initiative leaders and participants, capturing rich qualitative data about local food systems."
       },
       "step3": {
         "title": "Analysis",
-        "desc": "Using AI-powered mixed methods..."
+        "desc": "Using AI-powered mixed methods, we analyze patterns across initiatives, identifying success factors, challenges, and transferable insights."
       },
       "step4": {
         "title": "Dissemination",
-        "desc": "We share findings through publications..."
+        "desc": "We share findings through publications, social media, and community engagement, ensuring knowledge reaches diverse audiences worldwide."
       }
     },
     "values": {
       "title": "Our Values",
-      "open": {
-        "title": "Open Access",
-        "desc": "All our research and data are freely accessible."
-      },
-      "participatory": {
-        "title": "Participatory",
-        "desc": "We work directly with communities."
-      },
       "global": {
         "title": "Global Perspective",
-        "desc": "Our research spans continents and cultures."
+        "desc": "We recognize that sustainable change manifests differently across cultures and contexts, and we value this diversity as a source of learning and innovation."
+      },
+      "collaboration": {
+        "title": "Collaboration",
+        "desc": "We practice what we study, working collaboratively with research partners, community members, and initiatives to co-create knowledge about food systems."
+      },
+      "open": {
+        "title": "Openness",
+        "desc": "We believe knowledge should be freely accessible. Our database is open to all, supporting the global commons of sustainability research."
       },
       "ethical": {
         "title": "Ethical Practice",
-        "desc": "We maintain the highest standards."
+        "desc": "We conduct research with integrity, respecting participant autonomy, maintaining confidentiality, and ensuring our work benefits the communities we study."
       }
     },
     "cta": {
-      "title": "Join Our Research Community",
-      "description": "Whether you're a researcher, practitioner, or changemaker...",
-      "submitBtn": "Submit Initiative",
-      "contactBtn": "Get in Touch"
+      "title": "Get Involved",
+      "description": "Whether you're a researcher, practitioner, or community organizer, there are many ways to engage with The Socioscope and contribute to our shared understanding of sustainable food systems.",
+      "submitButton": "Submit an Initiative",
+      "contactButton": "Contact Us"
     }
   },
   "team": {
+    "meta": {
+      "title": "Our Team - The Socioscope",
+      "description": "A global network of researchers, developers, and field workers dedicated to understanding collective behavior"
+    },
+    "hero": {
+      "title": "Our Team",
+      "subtitle": "A global network of researchers, developers, and field workers dedicated to understanding collective behavior"
+    },
+    "categories": {
+      "principalInvestigators": {
+        "title": "Principal Investigators",
+        "description": "Leading our research vision and strategy"
+      },
+      "coInvestigators": {
+        "title": "Co-Investigators & Post-Docs",
+        "description": "Senior researchers driving our scientific agenda"
+      },
+      "technology": {
+        "title": "Technology & AI Team",
+        "description": "Building our technical infrastructure and AI capabilities"
+      },
+      "projectManagement": {
+        "title": "Project Management",
+        "description": "Coordinating research activities and deliverables"
+      },
+      "fieldwork": {
+        "title": "Data & Fieldwork Team",
+        "description": "Managing data collection and field operations"
+      },
+      "operations": {
+        "title": "Operations",
+        "description": "Managing organizational strategy and daily operations"
+      },
+      "institutionalPartners": {
+        "title": "Institutional Partners",
+        "description": "Organizations providing institutional support and collaboration"
+      },
+      "designLegalPartners": {
+        "title": "Design and Legal Partners",
+        "description": "Partners providing design expertise and legal guidance"
+      },
+      "dataCollectionPartners": {
+        "title": "Data Collection Partners",
+        "description": "Organizations supporting our data collection efforts"
+      },
+      "2023Interviewers": {
+        "title": "2023 Interviewers and Collaborators",
+        "description": "Team members who conducted interviews during the 2023 fieldwork phase"
+      },
+      "globalInterviewerNetwork": {
+        "title": "Global Interviewer Network",
+        "description": "Our worldwide network of trained interviewers"
+      }
+    },
+    "interviews": "interviews",
+    "searchPlaceholder": "Search by name or country...",
     "title": "The Team",
     "subtitle": "Meet the people behind The Socioscope",
     "leadership": {
@@ -450,6 +644,204 @@
     "message": "Message",
     "button": "Send Message",
     "success": "Message sent! Thank you."
+  },
+  "products": {
+    "meta": {
+      "title": "Products & Solutions - The Socioscope"
+    },
+    "hero": {
+      "title": "Products & Solutions",
+      "subtitle": "Discover sustainable food products and services from our global community of practitioners"
+    },
+    "intro": {
+      "title": "Sustainable Products & Services",
+      "description": "Support initiatives driving sustainable change in food systems. Each product or service comes from verified practitioners in our network who are making a real difference in their communities and beyond."
+    },
+    "filters": {
+      "all": "All Products",
+      "food": "Food Products",
+      "tools": "Tools & Equipment",
+      "services": "Services",
+      "education": "Education"
+    },
+    "visitWebsite": "Visit Website",
+    "cta": {
+      "title": "Want to Feature Your Product?",
+      "description": "If you're part of our network and have sustainable food products or services to share, we'd love to showcase them here.",
+      "submitButton": "Submit Your Product",
+      "learnMoreButton": "Learn More"
+    }
+  },
+  "resources": {
+    "meta": {
+      "title": "Resources - The Socioscope"
+    },
+    "hero": {
+      "title": "Resources",
+      "subtitle": "Explore our curated collection of articles, books, events, funding opportunities, and more — all dedicated to sustainable food systems and regenerative practices.",
+      "browseCta": "Browse Resources",
+      "submitCta": "Submit a Resource"
+    },
+    "search": {
+      "placeholder": "Search resources by title, author, or topic..."
+    },
+    "filters": {
+      "all": "All Resources",
+      "article": "Articles",
+      "book": "Books",
+      "event": "Events",
+      "funding": "Funding",
+      "organization": "Organizations",
+      "policy": "Policy Briefs",
+      "socioscope": "From the Socioscope"
+    },
+    "categoryLabels": {
+      "article": "Article",
+      "book": "Book",
+      "event": "Event",
+      "funding": "Funding",
+      "organization": "Organization",
+      "policy": "Policy Brief",
+      "socioscope": "From the Socioscope"
+    },
+    "linkTexts": {
+      "article": "Read Full Article →",
+      "book": "View Book Details →",
+      "event": "View Event Details →",
+      "funding": "Learn More →",
+      "organization": "Visit Organization →",
+      "policy": "Read Policy Brief →",
+      "socioscope": "Read Report →",
+      "default": "Learn More →"
+    },
+    "resultsInfo": "Showing {count} resources",
+    "noResults": "No resources found matching your criteria.",
+    "cta": {
+      "title": "Have a Resource to Share?",
+      "subtitle": "Help us build the most comprehensive collection of sustainable food systems resources.",
+      "button": "Submit Your Resource"
+    },
+    "modal": {
+      "title": "Submit a Resource",
+      "successMessage": "Thank you! Your resource has been submitted successfully. We'll review it within 5-7 business days.",
+      "resourceInfo": "Resource Information",
+      "resourceInfoSubtitle": "Tell us about the resource you'd like to share",
+      "yourInfo": "Your Information",
+      "yourInfoSubtitle": "We'll use this to contact you if needed",
+      "fields": {
+        "type": "Resource Type",
+        "selectType": "Select a type",
+        "title": "Resource Title",
+        "authors": "Author(s) / Organization",
+        "description": "Description / Abstract",
+        "url": "URL / Link",
+        "yourName": "Your Name",
+        "yourEmail": "Your Email"
+      },
+      "submitButton": "Submit Resource"
+    }
+  },
+  "press": {
+    "meta": {
+      "title": "Press Room - The Socioscope",
+      "description": "Media resources, brand assets, and information about The Socioscope"
+    },
+    "hero": {
+      "title": "Press Room",
+      "subtitle": "Media resources, brand assets, and information about The Socioscope"
+    },
+    "resources": {
+      "title": "Media Resources",
+      "description": "Welcome to The Socioscope press room. Here you'll find our media kit, key facts, and resources for journalists, partners, and stakeholders interested in our work on sustainable food systems."
+    },
+    "mediaKit": {
+      "title": "Media Kit 2024",
+      "description": "Complete information about The Socioscope, our impact, and partnership opportunities",
+      "stats": {
+        "countries": "36+",
+        "countriesLabel": "Countries Covered",
+        "initiatives": "700+",
+        "initiativesLabel": "Initiatives",
+        "interviewers": "50+",
+        "interviewersLabel": "Interviewers",
+        "languages": "8",
+        "languagesLabel": "Languages"
+      },
+      "downloadPdf": "Download PDF",
+      "shareLink": "Share Link",
+      "viewFullSize": "View Full Size"
+    },
+    "quickFacts": {
+      "title": "Quick Facts",
+      "description": "Essential information about The Socioscope at a glance",
+      "whatWeDo": {
+        "title": "What We Do",
+        "content": "The Socioscope explores how sustainable change happens on the ground, with a focus on food systems. We document local solutions, speak with practitioners, and analyze insights using AI to reveal the patterns behind impactful innovation."
+      },
+      "mission": {
+        "title": "Our Mission",
+        "content": "A transformative qualitative research project that maps how behaviours, norms, and communities influence the transition toward sustainable food systems globally."
+      },
+      "keyInfo": {
+        "title": "Key Information",
+        "founded": "Founded: 2022",
+        "headquarters": "Headquarters: Paris, France",
+        "reach": "Research Reach: 36+ countries",
+        "website": "Website: thesocioscope.org"
+      },
+      "audience": {
+        "title": "Our Audience",
+        "professionals": "Environmentally engaged professionals",
+        "researchers": "Researchers and academics",
+        "practitioners": "Practitioners in sustainable food systems",
+        "policymakers": "Policymakers and decision-makers"
+      }
+    },
+    "contact": {
+      "title": "Press Inquiries",
+      "description": "For media inquiries, interview requests, or additional information, please contact our communications team.",
+      "button": "Contact Communications Team"
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact Us - The Socioscope",
+      "description": "Get in touch with The Socioscope team and join our mission to understand sustainable food systems"
+    },
+    "hero": {
+      "title": "Let's Connect",
+      "subtitle": "Get in touch with The Socioscope team and join our mission to understand sustainable food systems"
+    },
+    "form": {
+      "title": "Send Us a Message",
+      "name": "Name",
+      "namePlaceholder": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "your email address",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Your message...",
+      "submit": "Send Message",
+      "sending": "Sending...",
+      "successMessage": "Thank you! Your message has been sent successfully."
+    },
+    "info": {
+      "email": {
+        "title": "Email",
+        "address": "info{'@'}socioscope.org"
+      },
+      "location": {
+        "title": "Location",
+        "address": "Institute of Advanced Study\nHôtel de Lauzun\n17 Quai d'Anjou\n75004 Paris, France"
+      },
+      "social": {
+        "title": "Social Media",
+        "twitter": "Twitter",
+        "linkedin": "LinkedIn",
+        "youtube": "YouTube"
+      }
+    }
   },
   "common": {
     "search": "Search",

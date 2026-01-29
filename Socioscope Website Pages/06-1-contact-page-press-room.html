@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Press Room - The Socioscope</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --cream: #FFFBF0;
+            --warm-beige: #F5EDD6;
+            --deep-brown: #2C2416;
+            --bright-green: #4CA049;
+            --forest-green: #27421D;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Playfair Display', serif;
+            color: var(--deep-brown);
+            background: var(--cream);
+            line-height: 1.8;
+            font-weight: 400;
+        }
+
+        h1, h2, h3 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 2rem;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: var(--warm-beige);
+            padding: 0;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            align-items: center;
+            min-height: 400px;
+        }
+
+        .hero-text {
+            padding: 4rem 3rem 4rem 0;
+        }
+
+        .hero-title {
+            font-size: clamp(2.5rem, 5vw, 3.5rem);
+            margin-bottom: 1rem;
+            line-height: 1.2;
+            color: var(--deep-brown);
+            font-weight: 700;
+        }
+
+        .hero-subtitle {
+            font-size: clamp(1.1rem, 2vw, 1.4rem);
+            line-height: 1.5;
+            color: var(--deep-brown);
+            font-weight: 400;
+            opacity: 0.85;
+        }
+
+        .hero-image {
+            height: 100%;
+            min-height: 400px;
+            position: relative;
+            background: var(--cream);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+
+        /* Animated placeholder */
+        .hero-animation {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            background: var(--warm-beige);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .floating-element {
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.12;
+            animation: float 6s ease-in-out infinite;
+        }
+
+        .floating-element-1 {
+            width: 120px;
+            height: 120px;
+            background: var(--bright-green);
+            top: 15%;
+            left: 15%;
+            animation-delay: 0s;
+        }
+
+        .floating-element-2 {
+            width: 90px;
+            height: 90px;
+            background: var(--forest-green);
+            top: 55%;
+            right: 20%;
+            animation-delay: 1.5s;
+        }
+
+        .floating-element-3 {
+            width: 70px;
+            height: 70px;
+            background: var(--bright-green);
+            bottom: 25%;
+            left: 35%;
+            animation-delay: 3s;
+        }
+
+        @keyframes float {
+            0%, 100% {
+                transform: translateY(0) scale(1);
+            }
+            50% {
+                transform: translateY(-25px) scale(1.1);
+            }
+        }
+
+        .photo-placeholder {
+            font-size: 5rem;
+            opacity: 0.3;
+            position: relative;
+            z-index: 1;
+        }
+
+        /* Section Styling */
+        .section {
+            padding: 5rem 0;
+        }
+
+        .section-white {
+            background: var(--cream);
+        }
+
+        .section-beige {
+            background: var(--warm-beige);
+        }
+
+        /* Press Resources */
+        .press-intro {
+            max-width: 800px;
+            margin: 0 auto 4rem;
+            text-align: center;
+        }
+
+        .press-intro h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .press-intro p {
+            font-size: 1.15rem;
+            line-height: 1.8;
+            opacity: 0.85;
+        }
+
+        /* Media Kit Card */
+        .media-kit-section {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .media-kit-card {
+            background: white;
+            border: 2px solid var(--warm-beige);
+            padding: 3rem;
+            margin-bottom: 3rem;
+            transition: all 0.3s ease;
+        }
+
+        .media-kit-card:hover {
+            border-color: var(--bright-green);
+            box-shadow: 0 12px 36px rgba(44, 36, 22, 0.15);
+        }
+
+        .media-kit-header {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            padding-bottom: 2rem;
+            border-bottom: 2px solid var(--warm-beige);
+        }
+
+        .media-kit-icon {
+            font-size: 4rem;
+            flex-shrink: 0;
+        }
+
+        .media-kit-info h3 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+            color: var(--forest-green);
+        }
+
+        .media-kit-info p {
+            font-size: 1.1rem;
+            opacity: 0.8;
+        }
+
+        .media-kit-preview {
+            margin-bottom: 2rem;
+        }
+
+        .media-kit-preview img {
+            width: 100%;
+            height: auto;
+            border: 1px solid var(--warm-beige);
+        }
+
+        .media-kit-stats {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-item {
+            text-align: center;
+            padding: 1.5rem;
+            background: var(--warm-beige);
+        }
+
+        .stat-number {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--bright-green);
+            margin-bottom: 0.5rem;
+        }
+
+        .stat-label {
+            font-size: 0.9rem;
+            opacity: 0.8;
+        }
+
+        .media-kit-actions {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 1rem 2rem;
+            font-weight: 600;
+            text-decoration: none;
+            font-family: 'Playfair Display', serif;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            border: 2px solid transparent;
+            cursor: pointer;
+        }
+
+        .btn-primary {
+            background: var(--bright-green);
+            color: white;
+            border-color: var(--bright-green);
+        }
+
+        .btn-primary:hover {
+            background: var(--forest-green);
+            border-color: var(--forest-green);
+        }
+
+        .btn-outline {
+            background: transparent;
+            color: var(--deep-brown);
+            border-color: var(--deep-brown);
+        }
+
+        .btn-outline:hover {
+            background: var(--deep-brown);
+            color: var(--cream);
+        }
+
+        /* Quick Facts */
+        .quick-facts {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .fact-card {
+            background: white;
+            padding: 2rem;
+            border: 2px solid var(--warm-beige);
+            border-left: 4px solid var(--bright-green);
+            transition: all 0.3s ease;
+        }
+
+        .fact-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(44, 36, 22, 0.1);
+        }
+
+        .fact-card h3 {
+            font-size: 1.4rem;
+            margin-bottom: 1rem;
+            color: var(--forest-green);
+        }
+
+        .fact-card p {
+            font-size: 1.05rem;
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        .fact-card ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .fact-card li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+
+        .fact-card li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: var(--bright-green);
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+
+        /* Contact Section */
+        .press-contact {
+            background: var(--warm-beige);
+            text-align: center;
+            border-top: 3px solid var(--bright-green);
+        }
+
+        .press-contact-content {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .press-contact h2 {
+            font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .press-contact p {
+            font-size: 1.2rem;
+            margin-bottom: 2rem;
+            line-height: 1.7;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+        }
+
+        .contact-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .contact-icon {
+            font-size: 2rem;
+        }
+
+        .contact-item a {
+            color: var(--bright-green);
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+            transition: color 0.3s;
+        }
+
+        .contact-item a:hover {
+            color: var(--forest-green);
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .media-kit-stats {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .quick-facts {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero-content {
+                grid-template-columns: 1fr;
+                min-height: auto;
+            }
+
+            .hero-text {
+                padding: 3rem 0 2rem;
+                text-align: center;
+            }
+
+            .hero-image {
+                min-height: 300px;
+            }
+
+            .hero-title {
+                font-size: 2rem;
+            }
+
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+
+            .section {
+                padding: 4rem 0;
+            }
+
+            .media-kit-card {
+                padding: 2rem 1.5rem;
+            }
+
+            .media-kit-header {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .media-kit-stats {
+                grid-template-columns: 1fr;
+            }
+
+            .media-kit-actions {
+                flex-direction: column;
+            }
+
+            .btn {
+                width: 100%;
+                justify-content: center;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 class="hero-title">Press Room</h1>
+                    <p class="hero-subtitle">Media resources, brand assets, and information about The Socioscope</p>
+                </div>
+                <div class="hero-image">
+                    <div class="hero-animation">
+                        <div class="floating-element floating-element-1"></div>
+                        <div class="floating-element floating-element-2"></div>
+                        <div class="floating-element floating-element-3"></div>
+                        <div class="photo-placeholder">📰</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Press Resources Section -->
+    <section class="section section-white">
+        <div class="container">
+            <div class="press-intro">
+                <h2>Media Resources</h2>
+                <p>
+                    Welcome to The Socioscope press room. Here you'll find our media kit, key facts, 
+                    and resources for journalists, partners, and stakeholders interested in our work 
+                    on sustainable food systems.
+                </p>
+            </div>
+
+            <div class="media-kit-section">
+                <!-- Media Kit Card -->
+                <div class="media-kit-card">
+                    <div class="media-kit-header">
+                        <div class="media-kit-icon">📄</div>
+                        <div class="media-kit-info">
+                            <h3>Media Kit 2024</h3>
+                            <p>Complete information about The Socioscope, our impact, and partnership opportunities</p>
+                        </div>
+                    </div>
+
+                    <div class="media-kit-preview">
+                        <img src="/mnt/user-data/uploads/Socioscope_Media_Kit__3_.pdf" alt="Socioscope Media Kit Preview" style="max-height: 400px; object-fit: contain; margin: 0 auto; display: block;">
+                    </div>
+
+                    <div class="media-kit-stats">
+                        <div class="stat-item">
+                            <div class="stat-number">36+</div>
+                            <div class="stat-label">Countries Covered</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">700+</div>
+                            <div class="stat-label">Initiatives</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">50+</div>
+                            <div class="stat-label">Interviewers</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-number">8</div>
+                            <div class="stat-label">Languages</div>
+                        </div>
+                    </div>
+
+                    <div class="media-kit-actions">
+                        <a href="/mnt/user-data/uploads/Socioscope_Media_Kit__3_.pdf" download="Socioscope_Media_Kit_2024.pdf" class="btn btn-primary">
+                            <span>⬇</span> Download PDF
+                        </a>
+                        <button onclick="shareMediaKit()" class="btn btn-outline">
+                            <span>🔗</span> Share Link
+                        </button>
+                        <a href="/mnt/user-data/uploads/Socioscope_Media_Kit__3_.pdf" target="_blank" class="btn btn-outline">
+                            <span>👁</span> View Full Size
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quick Facts Section -->
+    <section class="section section-beige">
+        <div class="container">
+            <div class="press-intro">
+                <h2>Quick Facts</h2>
+                <p>Essential information about The Socioscope at a glance</p>
+            </div>
+
+            <div class="quick-facts">
+                <div class="fact-card">
+                    <h3>What We Do</h3>
+                    <p>
+                        The Socioscope explores how sustainable change happens on the ground, with a focus 
+                        on food systems. We document local solutions, speak with practitioners, and analyze 
+                        insights using AI to reveal the patterns behind impactful innovation.
+                    </p>
+                </div>
+
+                <div class="fact-card">
+                    <h3>Our Mission</h3>
+                    <p>
+                        A transformative qualitative research project that maps how behaviours, norms, and 
+                        communities influence the transition toward sustainable food systems globally.
+                    </p>
+                </div>
+
+                <div class="fact-card">
+                    <h3>Key Information</h3>
+                    <ul>
+                        <li>Founded: 2022</li>
+                        <li>Headquarters: Paris, France</li>
+                        <li>Research Reach: 36+ countries</li>
+                        <li>Website: thesocioscope.org</li>
+                    </ul>
+                </div>
+
+                <div class="fact-card">
+                    <h3>Our Audience</h3>
+                    <ul>
+                        <li>Environmentally engaged professionals</li>
+                        <li>Researchers and academics</li>
+                        <li>Practitioners in sustainable food systems</li>
+                        <li>Policymakers and decision-makers</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Press Contact Section -->
+    <section class="section press-contact">
+        <div class="container">
+            <div class="press-contact-content">
+                <h2>Press Inquiries</h2>
+                <p>
+                    For media inquiries, interview requests, or additional information, 
+                    please contact our communications team.
+                </p>
+                
+                <div class="contact-info">
+                    <div class="contact-item">
+                        <div class="contact-icon">📧</div>
+                        <a href="mailto:press@thesocioscope.org">press@thesocioscope.org</a>
+                    </div>
+                    <div class="contact-item">
+                        <div class="contact-icon">🌐</div>
+                        <a href="https://thesocioscope.org" target="_blank">thesocioscope.org</a>
+                    </div>
+                </div>
+
+                <div class="media-kit-actions" style="justify-content: center; margin-top: 2rem;">
+                    <a href="#" class="btn btn-primary">Contact Communications Team</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        function shareMediaKit() {
+            const url = window.location.origin + '/mnt/user-data/uploads/Socioscope_Media_Kit__3_.pdf';
+            
+            // Check if Web Share API is available
+            if (navigator.share) {
+                navigator.share({
+                    title: 'The Socioscope Media Kit',
+                    text: 'Check out The Socioscope Media Kit - investigating what truly drives sustainable change',
+                    url: url
+                }).catch((error) => console.log('Error sharing:', error));
+            } else {
+                // Fallback: copy to clipboard
+                navigator.clipboard.writeText(url).then(() => {
+                    alert('Link copied to clipboard! Share it with others.');
+                }).catch(() => {
+                    alert('Link: ' + url);
+                });
+            }
+        }
+    </script>
+</body>
+</html>
