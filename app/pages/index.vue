@@ -15,14 +15,14 @@
     <!-- Stories from the Field -->
     <HomepageStoriesSection />
 
-    <!-- Newsletter -->
-    <HomepageNewsletterSection />
-
     <!-- Call to Join -->
     <HomepageCallToJoinSection />
 
     <!-- Partners -->
     <HomepagePartnersSection />
+
+    <!-- Newsletter -->
+    <HomepageNewsletterSection />
   </div>
 </template>
 
