@@ -23,7 +23,7 @@
           <NuxtLink :to="localePath('/projects')">{{ $t('nav.projects') }}</NuxtLink>
           <div class="dropdown-content">
             <NuxtLink :to="localePath('/projects')">{{ $t('nav.database') }}</NuxtLink>
-            <NuxtLink :to="localePath('/submit')">{{ $t('nav.submitInitiative') }}</NuxtLink>
+            <NuxtLink :to="localePath('/projects')">{{ $t('nav.submitInitiative') }}</NuxtLink>
           </div>
         </li>
         <li>

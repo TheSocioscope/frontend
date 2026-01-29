@@ -3,7 +3,7 @@
     <div class="container section-header">
       <h2>{{ $t('cta.title') }}</h2>
       <p class="cta-description">{{ $t('cta.description') }}</p>
-      <NuxtLink :to="localePath('/submit')" class="btn">{{ $t('cta.button') }}</NuxtLink>
+      <NuxtLink :to="localePath('/projects')" class="btn">{{ $t('cta.button') }}</NuxtLink>
     </div>
   </section>
 </template>

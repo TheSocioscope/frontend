@@ -5,7 +5,7 @@
         <h2>{{ $t('about.cta.title') }}</h2>
         <p>{{ $t('about.cta.description') }}</p>
         <div class="btn-group">
-          <v-btn :to="localePath('/submit')" class="btn-primary" size="large" elevation="0">
+          <v-btn :to="localePath('/projects')" class="btn-primary" size="large" elevation="0">
             {{ $t('about.cta.submitButton') }}
           </v-btn>
           <v-btn
