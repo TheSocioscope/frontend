@@ -1,20 +1,15 @@
 <template>
-  <v-alert
-    v-if="showDisclaimer"
-    type="info"
-    variant="text"
-    density="compact"
-    class="translation-disclaimer mb-4"
-  >
-    <div class="d-flex align-center justify-space-between flex-wrap ga-2">
-      <div class="text-body-2">
+  <div v-if="showDisclaimer" class="translation-disclaimer">
+    <div class="disclaimer-content">
+      <div class="disclaimer-icon">🌐</div>
+      <div class="disclaimer-text">
         {{ disclaimerText }}
       </div>
-      <v-btn size="small" variant="outlined" @click="$emit('toggleOriginal')">
+      <button class="disclaimer-button" @click="$emit('toggleOriginal')">
         {{ buttonText }}
-      </v-btn>
+      </button>
     </div>
-  </v-alert>
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -67,8 +62,53 @@ const buttonText = computed(() => {
 })
 </script>
 
-<style scoped>
+<style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .translation-disclaimer {
-  border-left: 3px solid rgba(var(--v-theme-info), 0.5) !important;
+  background-color: $warm-beige;
+  border-left: 4px solid $green-bright;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 0;
+}
+
+.disclaimer-content {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.disclaimer-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
+}
+
+.disclaimer-text {
+  flex: 1;
+  min-width: 200px;
+  font-family: 'Playfair Display', serif;
+  color: $brown-dark;
+  line-height: 1.6;
+}
+
+.disclaimer-button {
+  padding: 0.5rem 1.25rem;
+  border: 2px solid $green-bright;
+  background-color: transparent;
+  color: $brown-dark;
+  font-family: 'Playfair Display', serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 4px;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: $green-bright;
+    color: $cream;
+  }
 }
 </style>

@@ -1,17 +1,13 @@
 <template>
-  <div>
+  <div class="project-detail">
     <!-- Loading state -->
-    <v-container v-if="!project && !projectError" class="py-16">
-      <div class="text-center">
-        <v-progress-circular indeterminate color="primary" size="64" />
-        <p class="text-h6 mt-4">{{ $t('projects.loading', 'Loading project...') }}</p>
-      </div>
-    </v-container>
+    <div v-if="!project && !projectError" class="loading-container">
+      <div class="loading-spinner" />
+      <p>Loading project...</p>
+    </div>
 
-    <v-container v-else-if="project" class="py-16">
-      <!-- Breadcrumbs -->
-      <v-breadcrumbs :items="breadcrumbs" class="px-0" />
-
+    <!-- Project content -->
+    <div v-else-if="project" class="project-container">
       <!-- Translation Disclaimer -->
       <TranslationDisclaimer
         v-if="(project as any).originalLang && showDisclaimer"
@@ -21,197 +17,303 @@
         @toggle-original="toggleOriginal"
       />
 
-      <!-- Project header -->
-      <div class="mb-8">
-        <v-chip
-          v-if="project.status !== undefined"
-          :color="getStatusColor(String(project.status))"
-          class="mb-4"
-        >
-          {{ getStatusLabel(String(project.status)) }}
-        </v-chip>
-        <h1 class="text-h3 mb-4">{{ localizedName }}</h1>
-
-        <!-- Project metadata -->
-        <div class="d-flex flex-wrap gap-2 mb-4">
-          <v-chip v-if="project.location" prepend-icon="mdi-map-marker">
-            {{ project.location }}
-          </v-chip>
-          <v-chip v-if="project.lang" prepend-icon="mdi-translate">
-            {{ project.lang.toUpperCase() }}
-          </v-chip>
-          <v-chip v-if="project.createdAt" prepend-icon="mdi-calendar">
-            {{ formatDate(project.createdAt) }}
-          </v-chip>
-          <v-chip v-if="project.score" prepend-icon="mdi-star">
-            {{ $t('projects.score', 'Score') }}: {{ Math.round(project.score) }}
-          </v-chip>
+      <!-- Header -->
+      <div class="project-header">
+        <div class="container">
+          <div class="header-content">
+            <div class="project-logo">
+              {{ getInitials(localizedName) }}
+            </div>
+            <div class="header-info">
+              <h1 class="project-name">{{ localizedName }}</h1>
+              <div v-if="project.location" class="location">
+                <i class="fas fa-map-marker-alt" />
+                {{ project.location }}
+              </div>
+              <div class="tags">
+                <span v-if="project.status" class="tag">
+                  {{ getStatusLabel(String(project.status)) }}
+                </span>
+                <span v-if="project.continent?.length" class="tag">
+                  {{ getContinentLabel(project.continent[0]) }}
+                </span>
+              </div>
+              <div v-if="project.url" class="social-links">
+                <a
+                  :href="project.url"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Website"
+                >
+                  <i class="fas fa-globe" />
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
-      <v-row>
-        <!-- Main content -->
-        <v-col cols="12" md="8">
-          <!-- YouTube Video Embed -->
-          <v-card v-if="project.yt" class="mb-6 video-card" elevation="4">
-            <div class="video-container">
-              <iframe
-                :src="getYouTubeEmbedUrl(project.yt)"
-                title="YouTube video player"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen
-                class="youtube-embed"
-              />
+      <!-- About Section -->
+      <div class="section">
+        <div class="container">
+          <h2 class="section-title">
+            <i class="fas fa-info-circle" />
+            About {{ localizedName }}
+          </h2>
+          <div class="about-content">
+            <p>{{ localizedDescription }}</p>
+            <a
+              v-if="project.url"
+              :href="project.url"
+              class="website-link"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i class="fas fa-external-link-alt" /> Visit Website
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Video Section -->
+      <div v-if="project.yt" class="section">
+        <div class="container">
+          <h2 class="section-title">
+            <i class="fas fa-video" />
+            {{ $t('project.video') }}
+          </h2>
+          <div class="video-container">
+            <iframe
+              :src="getYouTubeEmbedUrl(project.yt)"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
+          </div>
+        </div>
+      </div>
+
+      <!-- Timeline/Milestones Section -->
+      <div
+        v-if="(project as any).timeline && Array.isArray((project as any).timeline)"
+        class="section"
+      >
+        <div class="container">
+          <h2 class="section-title">
+            <i class="fas fa-flag-checkered" />
+            Our Journey
+          </h2>
+          <div class="timeline">
+            <div
+              v-for="(milestone, index) in (project as any).timeline"
+              :key="index"
+              class="milestone"
+            >
+              <div class="milestone-date">{{ milestone.date }}</div>
+              <div class="milestone-description">{{ milestone.text }}</div>
             </div>
-          </v-card>
+          </div>
+        </div>
+      </div>
 
-          <!-- Description -->
-          <v-card class="mb-4">
-            <v-card-title>{{ $t('projects.description', 'Description') }}</v-card-title>
-            <v-card-text>
-              <p class="text-body-1">{{ localizedDescription }}</p>
-            </v-card-text>
-          </v-card>
-
-          <!-- Website Link -->
-          <v-card v-if="project.url" class="mb-4">
-            <v-card-title>{{ $t('projects.links', 'Links') }}</v-card-title>
-            <v-card-text>
-              <v-btn
-                :href="project.url"
-                target="_blank"
-                variant="outlined"
-                prepend-icon="mdi-open-in-new"
-                class="mr-2 mb-2"
-              >
-                {{ $t('projects.website', 'Website') }}
-              </v-btn>
-            </v-card-text>
-          </v-card>
-        </v-col>
-
-        <!-- Sidebar -->
-        <v-col cols="12" md="4">
-          <!-- Geographic info -->
-          <v-card v-if="project.continent?.length || project.country?.length" class="mb-4">
-            <v-card-title>{{ $t('projects.geography', 'Geography') }}</v-card-title>
-            <v-card-text>
-              <div v-if="project.continent?.length" class="mb-3">
-                <p class="text-subtitle-2 mb-2">
-                  {{ $t('projects.continentsLabel', 'Continents') }}
-                </p>
-                <v-chip
-                  v-for="continentId in project.continent"
-                  :key="continentId"
-                  size="small"
-                  class="mr-1 mb-1"
-                >
-                  {{ getContinentLabel(continentId) }}
-                </v-chip>
+      <!-- Products Section -->
+      <div
+        v-if="(project as any).products && Array.isArray((project as any).products)"
+        class="section"
+      >
+        <div class="container">
+          <h2 class="section-title">
+            <i class="fas fa-box-open" />
+            Products & Projects
+          </h2>
+          <div class="products-grid">
+            <div
+              v-for="(product, index) in (project as any).products"
+              :key="index"
+              class="product-card"
+            >
+              <div class="product-image">
+                <div class="product-placeholder">{{ product.icon || '📦' }}</div>
               </div>
-              <div v-if="project.country?.length">
-                <p class="text-subtitle-2 mb-2">{{ $t('projects.countriesLabel', 'Countries') }}</p>
-                <v-chip
-                  v-for="countryId in project.country"
-                  :key="countryId"
-                  size="small"
-                  class="mr-1 mb-1"
+              <div class="product-content">
+                <h3>{{ product.name }}</h3>
+                <p>{{ product.description }}</p>
+                <div v-if="product.tags" class="product-tags">
+                  <span v-for="(tag, tagIndex) in product.tags" :key="tagIndex" class="product-tag">
+                    {{ tag }}
+                  </span>
+                </div>
+                <a
+                  v-if="product.link"
+                  :href="product.link"
+                  class="product-link"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
-                  {{ getCountryLabel(countryId) }}
-                </v-chip>
+                  <i class="fas fa-arrow-right" /> Learn More
+                </a>
               </div>
-            </v-card-text>
-          </v-card>
+            </div>
+          </div>
+        </div>
+      </div>
 
-          <!-- Fields -->
-          <v-card v-if="project.field?.length" class="mb-4">
-            <v-card-title>{{ $t('labels.fields', 'Fields') }}</v-card-title>
-            <v-card-text>
-              <v-chip
-                v-for="fieldId in project.field"
-                :key="fieldId"
-                size="small"
-                color="blue-darken-2"
-                class="mr-1 mb-1"
-              >
-                {{ getFieldLabel(fieldId) }}
-              </v-chip>
-            </v-card-text>
-          </v-card>
+      <!-- Looking For / Offering Section -->
+      <div v-if="(project as any).lookingFor || (project as any).offer" class="section">
+        <div class="container">
+          <div class="offerings-grid">
+            <div
+              v-if="(project as any).lookingFor && Array.isArray((project as any).lookingFor)"
+              class="offerings-column"
+            >
+              <h3>
+                <i class="fas fa-search" />
+                Looking For
+              </h3>
+              <div class="offering-items">
+                <div
+                  v-for="(item, index) in (project as any).lookingFor"
+                  :key="index"
+                  class="offering-item"
+                >
+                  {{ item }}
+                </div>
+              </div>
+            </div>
+            <div
+              v-if="(project as any).offer && Array.isArray((project as any).offer)"
+              class="offerings-column"
+            >
+              <h3>
+                <i class="fas fa-gift" />
+                What We Offer
+              </h3>
+              <div class="offering-items">
+                <div
+                  v-for="(item, index) in (project as any).offer"
+                  :key="index"
+                  class="offering-item"
+                >
+                  {{ item }}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-          <!-- Thematics -->
-          <v-card v-if="project.thematic?.length" class="mb-4">
-            <v-card-title>{{ $t('labels.thematics', 'Thematics') }}</v-card-title>
-            <v-card-text>
-              <v-chip
-                v-for="thematicId in project.thematic"
-                :key="thematicId"
-                size="small"
-                color="green-darken-2"
-                class="mr-1 mb-1"
-              >
-                {{ getThematicLabel(thematicId) }}
-              </v-chip>
-            </v-card-text>
-          </v-card>
+      <!-- Gallery Section -->
+      <div
+        v-if="(project as any).gallery && Array.isArray((project as any).gallery)"
+        class="section"
+      >
+        <div class="container">
+          <h2 class="section-title">
+            <i class="fas fa-images" />
+            Gallery
+          </h2>
+          <div class="gallery">
+            <div
+              v-for="(image, index) in (project as any).gallery"
+              :key="index"
+              class="gallery-item"
+            >
+              <img v-if="image" :src="image" :alt="`Gallery image ${index + 1}`" />
+              <div v-else class="gallery-placeholder">📷</div>
+            </div>
+          </div>
+        </div>
+      </div>
 
-          <!-- Types -->
-          <v-card v-if="project.type?.length" class="mb-4">
-            <v-card-title>{{ $t('labels.types', 'Types') }}</v-card-title>
-            <v-card-text>
-              <v-chip
-                v-for="typeId in project.type"
-                :key="typeId"
-                size="small"
-                color="purple-darken-2"
-                class="mr-1 mb-1"
-              >
-                {{ getTypeLabel(typeId) }}
-              </v-chip>
-            </v-card-text>
-          </v-card>
+      <!-- Metadata Sidebar (Geography, Fields, Thematics, etc.) -->
+      <div class="section metadata-section">
+        <div class="container">
+          <div class="metadata-grid">
+            <!-- Geography -->
+            <div v-if="project.continent?.length || project.country?.length" class="metadata-card">
+              <h3>Geography</h3>
+              <div v-if="project.continent?.length" class="metadata-group">
+                <p class="metadata-label">Continents</p>
+                <div class="tags-list">
+                  <span
+                    v-for="continentId in project.continent"
+                    :key="continentId"
+                    class="tag tag-sm"
+                  >
+                    {{ getContinentLabel(continentId) }}
+                  </span>
+                </div>
+              </div>
+              <div v-if="project.country?.length" class="metadata-group">
+                <p class="metadata-label">Countries</p>
+                <div class="tags-list">
+                  <span v-for="countryId in project.country" :key="countryId" class="tag tag-sm">
+                    {{ getCountryLabel(countryId) }}
+                  </span>
+                </div>
+              </div>
+            </div>
 
-          <!-- State -->
-          <v-card v-if="project.state !== undefined" class="mb-4">
-            <v-card-title>{{ $t('projects.projectState', 'Project State') }}</v-card-title>
-            <v-card-text>
-              <v-chip color="orange-darken-2">
-                {{ getStateLabel(project.state) }}
-              </v-chip>
-            </v-card-text>
-          </v-card>
+            <!-- Fields -->
+            <div v-if="project.field?.length" class="metadata-card">
+              <h3>Research Fields</h3>
+              <div class="tags-list">
+                <span v-for="fieldId in project.field" :key="fieldId" class="tag tag-sm tag-blue">
+                  {{ getFieldLabel(fieldId) }}
+                </span>
+              </div>
+            </div>
 
-          <!-- Periodicity -->
-          <v-card v-if="(project as any).periodicity" class="mb-4">
-            <v-card-title>{{ $t('projects.periodicity', 'Periodicity') }}</v-card-title>
-            <v-card-text>
-              <v-chip>
-                {{ getPeriodicityLabel((project as any).periodicity) }}
-              </v-chip>
-            </v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
+            <!-- Thematics -->
+            <div v-if="project.thematic?.length" class="metadata-card">
+              <h3>Thematics</h3>
+              <div class="tags-list">
+                <span
+                  v-for="thematicId in project.thematic"
+                  :key="thematicId"
+                  class="tag tag-sm tag-green"
+                >
+                  {{ getThematicLabel(thematicId) }}
+                </span>
+              </div>
+            </div>
+
+            <!-- Types -->
+            <div v-if="project.type?.length" class="metadata-card">
+              <h3>Types</h3>
+              <div class="tags-list">
+                <span v-for="typeId in project.type" :key="typeId" class="tag tag-sm tag-purple">
+                  {{ getTypeLabel(typeId) }}
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <!-- Back button -->
-      <div class="text-center mt-8">
-        <v-btn :to="localePath('/projects')" prepend-icon="mdi-arrow-left" variant="outlined">
-          {{ $t('projects.backToList', 'Back to projects') }}
-        </v-btn>
+      <div class="section">
+        <div class="container">
+          <div class="back-button-container">
+            <NuxtLink :to="localePath('/projects')" class="btn btn-back">
+              <i class="fas fa-arrow-left" /> Back to Projects
+            </NuxtLink>
+          </div>
+        </div>
       </div>
-    </v-container>
+    </div>
 
     <!-- Not found -->
-    <v-container v-else class="py-16">
-      <v-card class="text-center pa-8">
-        <v-icon size="64" color="grey-lighten-1">mdi-file-document-remove-outline</v-icon>
-        <p class="text-h5 mt-4">{{ $t('projects.notFound', 'Project not found') }}</p>
-        <v-btn :to="localePath('/projects')" class="mt-4" color="primary">
-          {{ $t('projects.backToList', 'Back to projects') }}
-        </v-btn>
-      </v-card>
-    </v-container>
+    <div v-else class="not-found-container">
+      <div class="not-found-content">
+        <i class="fas fa-exclamation-circle not-found-icon" />
+        <h2>Project Not Found</h2>
+        <p>The project you're looking for doesn't exist or has been removed.</p>
+        <NuxtLink :to="localePath('/projects')" class="btn btn-primary">
+          Back to Projects
+        </NuxtLink>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -236,39 +338,22 @@ const showOriginal = ref(false)
 
 const projectId = computed(() => route.params.id as string)
 
-// First, let's try fetching all projects to see what stems actually exist
+// Fetch project
 const { data: project, error: projectError } = await useAsyncData(
   `project-${projectId.value}`,
   async () => {
     try {
-      // Get all projects to debug
       const allProjects = await queryCollection('projects').all()
-      console.log('Total projects in collection:', allProjects.length)
-      console.log('Looking for project with ID:', projectId.value)
 
-      // Try to find by pubId instead of stem
+      // Try to find by pubId
       const foundByPubId = allProjects.find((p) => String(p.pubId) === String(projectId.value))
-
-      if (foundByPubId) {
-        console.log('Found project by pubId:', foundByPubId.name)
-        console.log('Project stem:', foundByPubId.stem)
-        return foundByPubId
-      }
+      if (foundByPubId) return foundByPubId
 
       // Try by stem as fallback
       const stemPath = `projects/${projectId.value}`
       const foundByStem = allProjects.find((p) => p.stem === stemPath)
+      if (foundByStem) return foundByStem
 
-      if (foundByStem) {
-        console.log('Found project by stem:', foundByStem.name)
-        return foundByStem
-      }
-
-      console.error('Project not found with pubId or stem:', projectId.value)
-      console.log(
-        'Sample stems from collection:',
-        allProjects.slice(0, 3).map((p) => ({ pubId: p.pubId, stem: p.stem }))
-      )
       return null
     } catch (e) {
       console.error('Error loading project:', e)
@@ -277,42 +362,26 @@ const { data: project, error: projectError } = await useAsyncData(
   }
 )
 
-// Breadcrumbs
-const breadcrumbs = computed(() => [
-  {
-    title: $t('nav.projects'),
-    to: '/projects'
-  },
-  {
-    title: localizedName.value || projectId.value,
-    disabled: true
+// Helper to get initials from name
+const getInitials = (name: string) => {
+  if (!name) return '?'
+  const words = name.split(' ')
+  if (words.length >= 2) {
+    return (words[0].charAt(0) + words[words.length - 1].charAt(0)).toUpperCase()
   }
-])
-
-// Format date helper
-const formatDate = (timestamp: number) => {
-  return new Date(timestamp * 1000).toLocaleDateString()
+  return name.charAt(0).toUpperCase()
 }
 
-// Status color helper
-const getStatusColor = (status: string) => {
-  // Only verified (status 3) is green, all others are gray
-  return status === '3' || status === 'verified' ? 'green' : 'grey'
-}
-
-// Extract YouTube video ID from various URL formats or return if already an ID
+// Extract YouTube video ID from various URL formats
 const getYouTubeEmbedUrl = (urlOrId: string) => {
-  // If it's already just a video ID (no URL format), use it directly
   if (!urlOrId.includes('/') && !urlOrId.includes('http')) {
     return `https://www.youtube.com/embed/${urlOrId}`
   }
 
-  // Otherwise parse as URL
   try {
     const urlObj = new URL(urlOrId)
     let videoId = ''
 
-    // Handle different YouTube URL formats
     if (urlObj.hostname.includes('youtube.com')) {
       videoId = urlObj.searchParams.get('v') || ''
     } else if (urlObj.hostname.includes('youtu.be')) {
@@ -321,7 +390,6 @@ const getYouTubeEmbedUrl = (urlOrId: string) => {
 
     return `https://www.youtube.com/embed/${videoId}`
   } catch {
-    // If URL parsing fails, assume it's a video ID
     return `https://www.youtube.com/embed/${urlOrId}`
   }
 }
@@ -364,14 +432,8 @@ const localizedDescription = computed(() => {
   )
 })
 
-const isTranslated = computed(() => {
-  const proj = project.value as any
-  return !showOriginal.value && checkIsTranslated(proj?.originalLang)
-})
-
 const showDisclaimer = computed(() => {
   const proj = project.value as any
-  // Show disclaimer if original language exists and is different from current locale
   return proj?.originalLang && proj.originalLang !== locale.value
 })
 
@@ -380,7 +442,7 @@ const toggleOriginal = () => {
   showOriginal.value = !showOriginal.value
 }
 
-// SEO - use watchEffect to update dynamically
+// SEO
 watchEffect(() => {
   useHead({
     title: localizedName.value || $t('nav.projects'),
@@ -394,30 +456,546 @@ watchEffect(() => {
 })
 </script>
 
-<style scoped>
-.gap-2 {
+<style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
+.project-detail {
+  font-family: 'Playfair Display', serif;
+  background-color: $cream;
+  color: $brown-dark;
+  min-height: 100vh;
+}
+
+.loading-container,
+.not-found-container {
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 4rem 2rem;
+}
+
+.loading-spinner {
+  width: 64px;
+  height: 64px;
+  border: 4px solid $warm-beige;
+  border-top-color: $green-bright;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.not-found-icon {
+  font-size: 4rem;
+  color: $green-bright;
+  margin-bottom: 1rem;
+}
+
+.not-found-content {
+  text-align: center;
+  max-width: 500px;
+
+  h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color: $forest-green;
+    margin-bottom: 1rem;
+  }
+
+  p {
+    font-size: 1.1rem;
+    margin-bottom: 2rem;
+    line-height: 1.6;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.project-header {
+  background-color: $warm-beige;
+  padding: 4rem 0 3rem;
+  margin-bottom: 0;
+}
+
+.header-content {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.project-logo {
+  width: 120px;
+  height: 120px;
+  background-color: $cream;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  font-weight: 700;
+  border: 2px solid $green-bright;
+  flex-shrink: 0;
+  color: $green-bright;
+}
+
+.header-info {
+  flex: 1;
+  min-width: 250px;
+}
+
+.project-name {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: $forest-green;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.location {
+  font-size: 1.2rem;
+  color: $brown-dark;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
   gap: 0.5rem;
 }
 
-.video-card {
-  overflow: hidden;
-  background: #000;
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.tag {
+  background-color: $green-bright;
+  color: $cream;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+
+  &.tag-sm {
+    padding: 0.375rem 0.875rem;
+    font-size: 0.85rem;
+  }
+
+  &.tag-blue {
+    background-color: #4a90e2;
+  }
+
+  &.tag-green {
+    background-color: $green-bright;
+  }
+
+  &.tag-purple {
+    background-color: #9b59b6;
+  }
+}
+
+.social-links {
+  display: flex;
+  gap: 1rem;
+
+  a {
+    color: $forest-green;
+    font-size: 1.5rem;
+    transition: color 0.3s;
+    text-decoration: none;
+
+    &:hover {
+      color: $green-bright;
+    }
+  }
+}
+
+.section {
+  padding: 4rem 0;
+  border-bottom: 1px solid $warm-beige;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.section-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: $forest-green;
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+
+  i {
+    color: $green-bright;
+  }
+}
+
+.about-content {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: $brown-dark;
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.website-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: $green-bright;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  font-size: 1.1rem;
+  transition: color 0.3s;
+
+  &:hover {
+    color: $forest-green;
+  }
 }
 
 .video-container {
   position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
+  border-radius: 12px;
+  background-color: $warm-beige;
+  box-shadow: 0 4px 12px rgba(44, 36, 22, 0.1);
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
 }
 
-.youtube-embed {
-  position: absolute;
-  top: 0;
-  left: 0;
+.timeline {
+  position: relative;
+  padding-left: 2.5rem;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 15px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background-color: $green-bright;
+  }
+}
+
+.milestone {
+  position: relative;
+  margin-bottom: 2rem;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -33px;
+    top: 5px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: $green-bright;
+    border: 3px solid $cream;
+  }
+}
+
+.milestone-date {
+  font-weight: 700;
+  color: $forest-green;
+  font-size: 1.1rem;
+  margin-bottom: 0.25rem;
+}
+
+.milestone-description {
+  color: $brown-dark;
+  line-height: 1.6;
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.75rem;
+}
+
+.product-card {
+  background-color: $warm-beige;
+  border-radius: 12px;
+  overflow: hidden;
+  transition:
+    transform 0.3s,
+    box-shadow 0.3s;
+  border: 2px solid $green-bright;
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 20px rgba(76, 160, 73, 0.2);
+  }
+}
+
+.product-image {
+  background-color: $cream;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 150px;
+}
+
+.product-placeholder {
+  font-size: 4rem;
+  color: $green-bright;
+}
+
+.product-content {
+  padding: 1.5rem;
+
+  h3 {
+    color: $forest-green;
+    font-size: 1.3rem;
+    margin-bottom: 0.75rem;
+    font-weight: 700;
+  }
+
+  p {
+    color: $brown-dark;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+}
+
+.product-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.product-tag {
+  background-color: $green-bright;
+  color: $cream;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.product-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  color: $green-bright;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: color 0.3s;
+
+  &:hover {
+    color: $forest-green;
+  }
+}
+
+.offerings-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.offerings-column {
+  h3 {
+    color: $forest-green;
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    i {
+      color: $green-bright;
+    }
+  }
+}
+
+.offering-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.875rem;
+}
+
+.offering-item {
+  background-color: $warm-beige;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  border: 2px solid $green-bright;
+  font-size: 1rem;
+  color: $brown-dark;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.25rem;
+}
+
+.gallery-item {
+  aspect-ratio: 1;
+  background-color: $warm-beige;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(44, 36, 22, 0.1);
+  cursor: pointer;
+  transition: transform 0.3s;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.gallery-placeholder {
   width: 100%;
   height: 100%;
-  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  color: $green-bright;
+}
+
+.metadata-section {
+  background-color: $warm-beige;
+  padding: 3rem 0;
+}
+
+.metadata-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.metadata-card {
+  background-color: $cream;
+  padding: 1.5rem;
+  border-radius: 8px;
+  border: 2px solid $green-bright;
+
+  h3 {
+    color: $forest-green;
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+  }
+}
+
+.metadata-group {
+  margin-bottom: 1.25rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.metadata-label {
+  font-weight: 600;
+  color: $forest-green;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.tags-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.back-button-container {
+  text-align: center;
+}
+
+.btn {
+  padding: 0.875rem 1.875rem;
+  border: 2px solid $green-bright;
+  background-color: transparent;
+  color: $brown-dark;
+  font-family: 'Playfair Display', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 50px;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  &:hover {
+    background-color: $green-bright;
+    color: $cream;
+  }
+
+  &.btn-primary {
+    background-color: $green-bright;
+    color: $cream;
+
+    &:hover {
+      background-color: $forest-green;
+      border-color: $forest-green;
+    }
+  }
+
+  &.btn-back {
+    i {
+      font-size: 0.875rem;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .project-name {
+    font-size: 2rem;
+  }
+
+  .section-title {
+    font-size: 1.75rem;
+  }
+
+  .project-logo {
+    width: 100px;
+    height: 100px;
+    font-size: 2.5rem;
+  }
+
+  .products-grid,
+  .metadata-grid {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
