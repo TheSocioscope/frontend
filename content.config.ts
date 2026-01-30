@@ -51,41 +51,6 @@ export default defineContentConfig({
       })
     }),
 
-    publications: defineCollection({
-      type: 'page',
-      source: 'publications/**/*.md',
-      schema: z.object({
-        title: z.string(),
-        authors: z.array(z.string()),
-        abstract: z.string(),
-        journal: z.string().optional(),
-        year: z.number(),
-        doi: z.string().optional(),
-        url: z.string().optional(),
-        pdf: z.string().optional(),
-        tags: z.array(z.string()).default([]),
-        featured: z.boolean().default(false),
-        published: z.boolean().default(true),
-        publishedAt: z.date()
-      })
-    }),
-
-    news: defineCollection({
-      type: 'page',
-      source: 'news/**/*.md',
-      schema: z.object({
-        title: z.string(),
-        description: z.string(),
-        excerpt: z.string().optional(),
-        image: z.string().optional(),
-        eventDate: z.date().optional(),
-        eventLocation: z.string().optional(),
-        eventType: z.enum(['news', 'event', 'workshop', 'conference']).default('news'),
-        published: z.boolean().default(true),
-        publishedAt: z.date()
-      })
-    }),
-
     faq: defineCollection({
       type: 'page',
       source: 'faq/**/*.md',

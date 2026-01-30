@@ -12,6 +12,8 @@
         v-for="loc in availableLocales"
         :key="loc.code"
         :value="loc.code"
+        :active="loc.code === locale"
+        :disabled="loc.code === locale"
         @click="switchLocale(loc.code)"
       >
         <v-list-item-title>{{ loc.name }}</v-list-item-title>

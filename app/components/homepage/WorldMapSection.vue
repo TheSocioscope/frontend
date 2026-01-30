@@ -42,6 +42,7 @@ interface CountryStats {
 
 const { t: $t } = useI18n()
 const router = useRouter()
+const localePath = useLocalePath()
 const config = useRuntimeConfig()
 const { countryCodeToMapName, getCountryCode } = useCountryMapping()
 const mapContainer = ref<HTMLElement | null>(null)
@@ -95,7 +96,7 @@ function handleCountryClick(countryName: string) {
   if (countryCode && countryData.value[countryName]) {
     // Navigate to projects page with country filter
     router.push({
-      path: '/projects',
+      path: localePath('/projects'),
       query: { countries: countryCode }
     })
   }

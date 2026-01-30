@@ -1,6 +1,6 @@
 <template>
   <div>
-    <ContactHero />
+    <PageHero :title="$t('contact.hero.title')" :subtitle="$t('contact.hero.subtitle')" icon="✉️" />
     <ContactForm />
   </div>
 </template>

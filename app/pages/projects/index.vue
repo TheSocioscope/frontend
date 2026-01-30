@@ -1,6 +1,10 @@
 <template>
   <div>
-    <ProjectsHero />
+    <PageHero
+      :title="$t('projects.hero.title')"
+      :subtitle="$t('projects.hero.subtitle')"
+      icon="🗺️"
+    />
     <section class="section">
       <div class="container">
         <!-- Filters -->
@@ -16,17 +20,39 @@
           @update:model-value="filters = $event"
         />
 
-        <!-- Results count -->
-        <div class="results-info">
-          <p>
-            {{ $t('projects.projectsFound', filteredProjects.length) }}
-          </p>
-        </div>
+        <!-- Sort and Per Page Controls -->
+        <ListControls
+          v-model:sort-by="sortBy"
+          v-model:sort-order="sortOrder"
+          v-model:items-per-page="itemsPerPage"
+          :sort-options="sortOptions"
+          :sort-label="$t('projects.sortBy')"
+          :per-page-label="$t('projects.perPage')"
+          :show-per-page="!isMobile"
+        />
 
-        <!-- Project list -->
-        <div v-if="filteredProjects.length > 0" class="projects-grid">
+        <!-- Results count -->
+        <ListResultsInfo
+          :start="1"
+          :end="filteredProjects.length"
+          :total="filteredProjects.length"
+          :message="`${$t('projects.projectsFound')}: ${filteredProjects.length}`"
+        />
+
+        <!-- Desktop: Project list -->
+        <div v-if="!isMobile && filteredProjects.length > 0" class="projects-grid">
           <ProjectsCard
             v-for="project in paginatedProjects"
+            :key="project.pubId"
+            :project="project"
+            @click="handleProjectClick"
+          />
+        </div>
+
+        <!-- Mobile: Project list with lazy loading -->
+        <div v-else-if="isMobile && filteredProjects.length > 0" class="projects-grid">
+          <ProjectsCard
+            v-for="project in displayedProjects"
             :key="project.pubId"
             :project="project"
             @click="handleProjectClick"
@@ -38,10 +64,25 @@
           <p>{{ $t('projects.noProjects', 'No projects found') }}</p>
         </div>
 
-        <!-- Pagination -->
-        <div v-if="totalPages > 1" class="pagination-container">
-          <v-pagination v-model="currentPage" :length="totalPages" :total-visible="7" />
-        </div>
+        <!-- Desktop Pagination -->
+        <ListPagination
+          v-if="!isMobile && totalPages > 1"
+          :current-page="currentPage"
+          :total-pages="totalPages"
+          :previous-label="$t('projects.pagination.previous')"
+          :next-label="$t('projects.pagination.next')"
+          @prev="prevPage"
+          @next="nextPage"
+          @goto="goToPage"
+        />
+
+        <!-- Mobile Load More -->
+        <ListLoadMore
+          v-if="isMobile"
+          :has-more="hasMoreProjects"
+          :label="$t('projects.loadMore')"
+          @load-more="loadMoreProjects"
+        />
       </div>
     </section>
   </div>
@@ -83,10 +124,25 @@ const filters = ref({
 })
 
 const currentPage = ref(1)
-const itemsPerPage = 12
+const itemsPerPage = ref(12)
+const sortBy = ref('score')
+const sortOrder = ref<'asc' | 'desc'>('desc')
+const isMobile = ref(false)
+const mobileDisplayCount = ref(12)
 
-// Initialize filters from URL query
+const sortOptions = [
+  { value: 'score', label: $t('projects.sort.score') },
+  { value: 'name', label: $t('projects.sort.name') },
+  { value: 'createdAt', label: $t('projects.sort.date') }
+]
+
+// Detect mobile/desktop
 onMounted(() => {
+  isMobile.value = window.innerWidth < 768
+  window.addEventListener('resize', () => {
+    isMobile.value = window.innerWidth < 768
+  })
+
   const { countries, continent, status, thematics, fields, types } = route.query
 
   if (countries) {
@@ -104,6 +160,10 @@ onMounted(() => {
     filters.value.selectedTypes = Array.isArray(types) ? types : [types as string]
   }
 })
+
+const toggleSortOrder = () => {
+  sortOrder.value = sortOrder.value === 'asc' ? 'desc' : 'asc'
+}
 
 // Update URL when filters change
 watch(
@@ -251,17 +311,68 @@ const filteredProjects = computed(() => {
     filtered = filtered.filter((p) => p.type?.some((t: string) => selectedTypes.includes(t)))
   }
 
-  return filtered.sort((a, b) => (b.score || 0) - (a.score || 0))
+  // Sort filtered projects
+  const sorted = [...filtered].sort((a, b) => {
+    let comparison = 0
+
+    if (sortBy.value === 'score') {
+      comparison = (b.score || 0) - (a.score || 0)
+    } else if (sortBy.value === 'name') {
+      const aName = typeof a.name === 'string' ? a.name : a.name?.en || ''
+      const bName = typeof b.name === 'string' ? b.name : b.name?.en || ''
+      comparison = aName.localeCompare(bName)
+    } else if (sortBy.value === 'createdAt') {
+      const aDate = a.createdAt ? a.createdAt * 1000 : 0
+      const bDate = b.createdAt ? b.createdAt * 1000 : 0
+      comparison = bDate - aDate
+    }
+
+    return sortOrder.value === 'asc' ? -comparison : comparison
+  })
+
+  return sorted
 })
 
 // Pagination
-const totalPages = computed(() => Math.ceil(filteredProjects.value.length / itemsPerPage))
+const totalPages = computed(() => Math.ceil(filteredProjects.value.length / itemsPerPage.value))
 
 const paginatedProjects = computed(() => {
-  const start = (currentPage.value - 1) * itemsPerPage
-  const end = start + itemsPerPage
+  const start = (currentPage.value - 1) * itemsPerPage.value
+  const end = start + itemsPerPage.value
   return filteredProjects.value.slice(start, end)
 })
+
+// Mobile lazy loading
+const displayedProjects = computed(() => {
+  return filteredProjects.value.slice(0, mobileDisplayCount.value)
+})
+
+const hasMoreProjects = computed(() => {
+  return mobileDisplayCount.value < filteredProjects.value.length
+})
+
+const loadMoreProjects = () => {
+  mobileDisplayCount.value += 12
+}
+
+const prevPage = () => {
+  if (currentPage.value > 1) {
+    currentPage.value--
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+}
+
+const nextPage = () => {
+  if (currentPage.value < totalPages.value) {
+    currentPage.value++
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
+}
+
+const goToPage = (page: number) => {
+  currentPage.value = page
+  window.scrollTo({ top: 0, behavior: 'smooth' })
+}
 
 // Reset page when filters change
 watch(
@@ -284,6 +395,8 @@ useHead({
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/pagination' as *;
+
 .section {
   padding: 4rem 0;
 }
@@ -322,11 +435,5 @@ useHead({
   p {
     font-size: 1.1rem;
   }
-}
-
-.pagination-container {
-  display: flex;
-  justify-content: center;
-  margin: 3rem 0;
 }
 </style>

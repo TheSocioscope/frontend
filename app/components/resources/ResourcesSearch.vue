@@ -84,7 +84,8 @@ const handleSearch = () => {
   width: 100%;
   padding: 1.25rem 1.5rem 1.25rem 4rem;
   border: 2px solid $border-cream;
-  border-radius: $border-radius-lg;
+  border-radius: 0;
+  background: white;
   font-size: 1rem;
   transition: all 0.3s ease;
 

@@ -2,7 +2,7 @@
   <v-card v-if="project.yt" class="project-video">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-video-outline</v-icon>
-      {{ $t('project.video') }}
+      {{ $t('projects.detail.video') }}
     </v-card-title>
     <v-card-text>
       <div class="video-container">

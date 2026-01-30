@@ -4,7 +4,7 @@
       <div class="info-icon">📧</div>
       <h3>{{ $t('contact.info.email.title') }}</h3>
       <p>
-        <a href="mailto:info@socioscope.org">{{ $t('contact.info.email.address') }}</a>
+        <a href="mailto:info@thesocioscope.org">{{ $t('contact.info.email.address') }}</a>
       </p>
     </div>
 
@@ -19,7 +19,7 @@
       <h3>{{ $t('contact.info.social.title') }}</h3>
       <div class="social-links">
         <a
-          href="https://linkedin.com/company/socioscope"
+          href="https://www.linkedin.com/company/the-socioscope"
           target="_blank"
           rel="noopener noreferrer"
           :title="$t('contact.info.social.linkedin')"
@@ -31,7 +31,7 @@
           </svg>
         </a>
         <a
-          href="https://youtube.com/@socioscope"
+          href="https://www.youtube.com/@thesocioscope"
           target="_blank"
           rel="noopener noreferrer"
           :title="$t('contact.info.social.youtube')"

@@ -2,7 +2,7 @@
   <v-card class="project-looking-for mb-4" elevation="2" id="lookingFor">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-magnify</v-icon>
-      {{ $t('common.lookingFor') }}
+      {{ $t('projects.detail.lookingFor') }}
     </v-card-title>
 
     <v-card-text>

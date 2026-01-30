@@ -9,7 +9,9 @@
             :label="$t('projects.search', 'Search projects')"
             prepend-inner-icon="mdi-magnify"
             clearable
+            style="background-color: white"
             hide-details
+            outlined
             density="comfortable"
             @update:model-value="updateFilter('searchQuery', $event)"
           />
@@ -20,6 +22,7 @@
             :items="continentOptions"
             :label="$t('projects.filterByContinent', 'Filter by continent')"
             clearable
+            style="background-color: white"
             hide-details
             density="comfortable"
             @update:model-value="updateFilter('selectedContinent', $event)"
@@ -33,6 +36,7 @@
             multiple
             chips
             closable-chips
+            style="background-color: white"
             clearable
             hide-details
             density="comfortable"
@@ -47,6 +51,7 @@
             :items="statusOptions"
             :label="$t('projects.filterByStatus', 'Filter by status')"
             clearable
+            style="background-color: white"
             hide-details
             density="comfortable"
             @update:model-value="updateFilter('selectedStatus', $event)"
@@ -61,6 +66,7 @@
             chips
             closable-chips
             clearable
+            style="background-color: white"
             hide-details
             density="comfortable"
             @update:model-value="updateFilter('selectedThematics', $event)"
@@ -73,6 +79,7 @@
             :label="$t('projects.filterByField', 'Filter by fields')"
             multiple
             chips
+            style="background-color: white"
             closable-chips
             clearable
             hide-details
@@ -86,6 +93,7 @@
             :items="typeOptions"
             :label="$t('projects.filterByType', 'Filter by types')"
             multiple
+            style="background-color: white"
             chips
             closable-chips
             clearable

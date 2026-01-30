@@ -1,13 +1,10 @@
 {
   "nav": {
     "about": "Acerca de",
-    "projects": "Proyectos",
-    "insights": "Análisis",
-    "partners": "Socios",
-    "contact": "Contacto",
     "socioscope": "El Socioscope",
     "team": "El Equipo",
     "faq": "FAQ",
+    "projects": "Proyectos",
     "database": "Base de datos de iniciativas",
     "submitInitiative": "Registra tu proyecto",
     "products": "Productos",
@@ -15,31 +12,18 @@
     "articles": "Artículos",
     "books": "Libros/Capítulos",
     "events": "Eventos/Conferencias",
+    "contact": "Contacto",
     "contactUs": "Contáctanos",
     "press": "Sala de prensa"
   },
-  "labels": {
-    "fields": "Campos",
-    "thematics": "Temáticas",
-    "types": "Tipos"
-  },
   "hero": {
     "title": "EL SOCIOSCOPE",
-    "subtitle": "Ver cómo el cambio social toma forma",
-    "tagline": "Una iniciativa innovadora para comprender y mapear cómo las comunidades crean futuros alimentarios sostenibles"
-  },
-  "microscope": {
-    "icon": "🔬",
-    "title": "Un microscopio social sobre el cambio de sistemas alimentarios",
-    "description1": "A través de la recopilación de datos a gran escala en todo el mundo e investigación impulsada por LLM, el Socioscope analiza cómo evolucionan los comportamientos, normas y prácticas en las transiciones alimentarias sostenibles.",
-    "description2": "Estamos construyendo una forma sistemática de hacer que los patrones sociales complejos sean medibles, comparables y comprensibles."
+    "subtitle": "Ver cómo el cambio social toma forma"
   },
   "vision": {
     "title": "Un microscopio social sobre el cambio de sistemas alimentarios",
     "statement1": "A través de la recopilación de datos a gran escala en todo el mundo e investigación impulsada por LLM, el Socioscope analiza cómo evolucionan los comportamientos, normas y prácticas en las transiciones alimentarias sostenibles.",
-    "statement2": "Estamos construyendo una forma sistemática de hacer que los patrones sociales complejos sean medibles, comparables y comprensibles.",
-    "details1": "El Socioscope no solo produce artículos académicos. Revela qué hace funcionar el cambio: qué intervenciones tienen éxito, cuáles fallan y por qué.",
-    "details2": "Se trata de construir un futuro sostenible que no solo sea ambientalmente sólido, sino también socialmente resiliente y económicamente justo."
+    "statement2": "Estamos construyendo una forma sistemática de hacer que los patrones sociales complejos sean medibles, comparables y comprensibles."
   },
   "contributions": {
     "card1": {
@@ -64,59 +48,22 @@
       "link": ""
     }
   },
-  "breakthroughs": {
-    "title": "Avances científicos",
-    "subtitle": "No solo estamos recopilando historias. Estamos descubriendo las leyes fundamentales de cómo las sociedades se transforman.",
-    "card1": {
-      "title": "Patrones universales entre culturas",
-      "description": "A pesar de las grandes diferencias culturales, encontramos mecanismos comunes en cómo las comunidades logran un cambio sostenible."
-    },
-    "card2": {
-      "title": "Reconocimiento de patrones interculturales",
-      "description": "Ahora podemos comparar cómo funciona la sostenibilidad en diferentes contextos y descubrir mecanismos universales bajo las diferencias superficiales."
-    },
-    "card3": {
-      "title": "De lo micro a lo macro",
-      "description": "Por primera vez, podemos trazar rigurosamente el camino desde las elecciones individuales hasta las prácticas comunitarias hasta la transformación sistémica."
-    },
-    "card4": {
-      "title": "Un método generalizable",
-      "description": "Comenzamos con la alimentación como nuestro \"organismo modelo\", pero esta metodología puede aplicarse a cualquier dominio de cambio social."
-    }
-  },
   "map": {
     "title": "Alcance global, impacto local",
     "projects": "proyectos",
-    "clickToView": "Haga clic para ver los proyectos",
-    "tooltip": {
-      "cases": "casos"
-    },
-    "legend": {
-      "title": "Número de casos",
-      "range1": "1-5 casos",
-      "range2": "6-15 casos",
-      "range3": "16-30 casos",
-      "range4": "31-50 casos",
-      "range5": "51-100 casos",
-      "range6": "100+ casos",
-      "noData": "Sin datos"
-    }
+    "clickToView": "Haga clic para ver los proyectos"
   },
   "stats": {
     "card1": {
-      "number": "700+",
       "label": "Iniciativas documentadas"
     },
     "card2": {
-      "number": "35+",
       "label": "Países"
     },
     "card3": {
-      "number": "6",
       "label": "Continentes"
     },
     "card4": {
-      "number": "50+",
       "label": "Entrevistadores globales"
     }
   },
@@ -148,71 +95,43 @@
       "description": "Escalando prácticas sostenibles en las regiones"
     }
   },
-  "newsletter": {
-    "title": "Suscríbete a nuestro boletín y recibe nuestras últimas iniciativas directamente en tu bandeja de entrada",
-    "emailPlaceholder": "Ingresa tu correo electrónico",
-    "button": "Suscribirse",
-    "emailRequired": "El email es obligatorio",
-    "emailInvalid": "El email debe ser válido",
-    "success": "¡Gracias por suscribirte!",
-    "error": "Algo salió mal. Por favor intente de nuevo.",
-    "subscribe": "Suscribirse"
-  },
-  "cta": {
-    "title": "Únete al movimiento",
-    "description": "¿Estás trabajando en una iniciativa de inteligencia colectiva o innovación social? Comparte tu trabajo con nuestra comunidad global y contribuye al creciente cuerpo de conocimientos sobre resolución colaborativa de problemas.",
-    "button": "Envía tu iniciativa"
-  },
-  "leadingResearch": {
-    "title": "Liderando la investigación",
-    "eth": {
-      "title": "ETH Zurich",
-      "description": "Cátedra de Redes Sociales"
-    },
-    "ulb": {
-      "title": "Universidad Libre de Bruselas",
-      "description": "Centro Leo Apostel"
-    },
-    "nomis": "Apoyado por la Fundación NOMIS"
-  },
   "footer": {
     "about": {
-      "title": "Acerca de",
-      "about": "Acerca del Socioscope",
-      "methodology": "Metodología",
-      "team": "Equipo",
-      "publications": "Publicaciones"
+      "title": "Acerca de"
     },
+    "team": "Equipo",
     "explore": {
-      "title": "Explorar",
-      "database": "Base de datos de casos",
-      "stories": "Historias",
-      "insights": "Análisis"
+      "title": "Explorar"
     },
     "resources": {
-      "title": "Recursos",
-      "publications": "Publicaciones",
-      "news": "Noticias y eventos",
-      "faq": "Preguntas frecuentes",
-      "contact": "Contáctanos"
+      "title": "Recursos"
     },
     "connect": {
-      "title": "Conectar",
-      "newsletter": "Boletín",
-      "twitter": "Twitter",
       "linkedin": "LinkedIn",
       "github": "GitHub"
     },
     "copyright": "© {year} El Socioscope • Comprender cómo se transforman las sociedades",
-    "team": "Equipo",
-    "publications": "Publicaciones",
-    "stories": "Historias",
-    "newsEvents": "Noticias y eventos"
-  },
-  "pages": {
-    "faq": "FAQ"
+    "privacy": "Política de privacidad",
+    "stories": "Historias"
   },
   "projects": {
+    "hero": {
+      "title": "Mapa del cambio",
+      "subtitle": "Explora iniciativas transformadoras que están reformando nuestros sistemas alimentarios en todo el mundo"
+    },
+    "detail": {
+      "about": "Sobre esta iniciativa"
+    },
+    "continents": {
+      "asia": "Asia",
+      "europe": "Europa",
+      "north-africa": "África del Norte",
+      "north-america": "América del Norte",
+      "south-america": "América del Sur",
+      "sub-saharian-africa": "África subsahariana",
+      "oceania": "Oceanía",
+      "worldwide-intercontinental": "Mundial/Intercontinental"
+    },
     "countries": {
       "argentina": "Argentina",
       "armenia": "Armenia",
@@ -262,19 +181,152 @@
       "united-states": "Estados Unidos",
       "uruguay": "Uruguay"
     },
-    "database": {
-      "title": "Base de datos de iniciativas",
-      "subtitle": "Explora 1000+ iniciativas de transformación de sistemas alimentarios sostenibles",
-      "searchPlaceholder": "Buscar iniciativas...",
-      "filterCountry": "Filtrar por país",
-      "filterType": "Filtrar por tipo"
+    "fields": {
+      "anthropology": "Antropología",
+      "arts-architecture-and-museology": "Artes, Arquitectura y Museología",
+      "biology": "Biología",
+      "chemistry-physics": "Química y Física",
+      "communication-and-media-studies": "Comunicación y Estudios de medios",
+      "demography": "Demografía",
+      "design": "Diseño",
+      "ecology-environmental-sciences": "Ecología y Ciencias ambientales",
+      "economics-statistics": "Economía y Estadística",
+      "education-sciences": "Ciencias de la educación",
+      "engineering-and-technology": "Ingeniería y Tecnología",
+      "gender-studies": "Estudios de género",
+      "geography": "Geografía",
+      "history": "Historia",
+      "information-technology": "Tecnología de la información",
+      "law": "Derecho",
+      "medicine": "Medicina",
+      "nutrition": "Nutrición",
+      "other-social-sciences-and-humanities": "Otras ciencias sociales y humanidades",
+      "philosophy-incl-ethics": "Filosofía (incl. Ética)",
+      "political-science": "Ciencia política",
+      "religion-and-theology": "Religión y Teología",
+      "sociology": "Sociología",
+      "systems-science": "Ciencia de sistemas",
+      "computer-sciences": "Ciencias de la computación",
+      "earth-sciences": "Ciencias de la Tierra",
+      "epidemiology": "Epidemiología",
+      "linguistics": "Lingüística",
+      "literature-and-languages": "Literatura y Lenguas",
+      "management-public-administration": "Gestión y Administración pública",
+      "psychology-behavioural-and-cognitive-sciences": "Psicología, Ciencias del comportamiento y cognitivas"
     },
+    "thematics": {
+      "cities-mobility-urban-planning": "Ciudades, Movilidad y Planificación urbana",
+      "consumption-and-production-patterns": "Patrones de consumo y producción",
+      "ecology-environmental-change": "Ecología y Cambio ambiental",
+      "economy-business-markets-finance": "Economía, Negocios, Mercados y Finanzas",
+      "education": "Educación",
+      "equality-diversity-studies-and-social-justice": "Igualdad, Estudios de diversidad y Justicia social",
+      "food-agriculture-fishery": "Alimentación, Agricultura y Pesca",
+      "governance-democracy-civil-society": "Gobernanza, Democracia y Sociedad civil",
+      "international-relations-and-co-operation": "Relaciones internacionales y Cooperación",
+      "public-health": "Salud pública",
+      "public-policy-evaluation-impact": "Política pública, Evaluación e Impacto",
+      "risks-crisis-management": "Riesgos y Gestión de crisis",
+      "welfare-work-social-protection": "Bienestar, Trabajo y Protección social",
+      "aging-demography": "Envejecimiento y Demografía",
+      "communication-public-sphere-rhetorics": "Comunicación, Esfera pública y Retórica",
+      "culture-and-the-arts": "Cultura y Artes",
+      "data-information-and-computing": "Datos, Información e Informática",
+      "digital-humanities": "Humanidades digitales",
+      "human-behaviours-social-relations": "Comportamientos humanos y Relaciones sociales",
+      "industry": "Industria",
+      "inequalities-poverty-development": "Desigualdades, Pobreza y Desarrollo",
+      "innovation-rd": "Innovación e I+D",
+      "leisure-tourism": "Ocio y Turismo",
+      "migrations-and-diasporas": "Migraciones y Diásporas",
+      "worldviews-and-religion": "Cosmovisiones y Religión"
+    },
+    "types": {
+      "action-research": "Investigación-acción",
+      "art-exhibitions": "Exposiciones de arte",
+      "books-and-book-chapters": "Libros y capítulos de libros",
+      "business-model": "Modelo de negocio",
+      "call-for-collaboration": "Llamada a colaboración",
+      "call-for-research-proposals": "Llamada a propuestas de investigación",
+      "case-study": "Estudio de caso",
+      "dataset-data-mining": "Base de datos y minería de datos",
+      "expertise-offer": "Oferta de experiencia",
+      "qualitative-analysis": "Análisis cualitativo",
+      "quantitative-survey": "Encuesta cuantitativa",
+      "scientific-paper": "Artículo científico",
+      "scores": "Puntuaciones",
+      "video": "Video",
+      "archival-materials": "Materiales de archivo",
+      "blog": "Blog",
+      "call-for-papers": "Convocatoria de artículos",
+      "catering": "Catering",
+      "citizen-participatory-science": "Ciencia participativa ciudadana",
+      "code-and-software": "Código y Software",
+      "conference-webinar": "Conferencia/Webinar",
+      "cultural-practice": "Práctica cultural",
+      "grassroot-action": "Acción de base",
+      "images-and-photos": "Imágenes y Fotos",
+      "instructional-materials": "Materiales didácticos",
+      "learning-object": "Objeto de aprendizaje",
+      "lessons": "Lecciones",
+      "maps": "Mapas",
+      "other-resource": "Otro recurso",
+      "policy-document": "Documento de política",
+      "press-article": "Artículo de prensa",
+      "questionnaire": "Cuestionario",
+      "recipe": "Receta",
+      "regulation": "Regulación",
+      "report": "Informe",
+      "research-tracker": "Seguimiento de investigación",
+      "review": "Revisión",
+      "seminars": "Seminarios",
+      "simulation-modeling": "Simulación/Modelado",
+      "supply-chain": "Cadena de suministro",
+      "survey-data": "Datos de encuesta",
+      "textual-materials": "Materiales textuales",
+      "thesis": "Tesis",
+      "web-page": "Página web"
+    },
+    "search": "Buscar proyectos",
+    "filterByContinent": "Filtrar por continente",
+    "filterByCountry": "Filtrar por país",
+    "filterByStatus": "Filtrar por estado",
+    "filterByThematic": "Filtrar por temáticas",
+    "filterByField": "Filtrar por campos",
+    "filterByType": "Filtrar por tipos",
+    "status": {
+      "pending": "Pendiente",
+      "published": "Publicado",
+      "stale": "Obsoleto",
+      "verified": "Verificado",
+      "new": "Nuevo"
+    },
+    "sortBy": "Ordenar por",
+    "sort": {
+      "score": "Puntuación",
+      "name": "Nombre",
+      "date": "Fecha"
+    },
+    "perPage": "Elementos por página",
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "loadMore": "Cargar más",
+    "projectsFound": "{0} proyectos encontrados",
+    "noProjects": "No se encontraron proyectos",
+    "translationDisclaimer": "Este proyecto se envió originalmente en {language}. El contenido que se muestra aquí se ha traducido automáticamente a {currentLanguage}.",
+    "viewingOriginal": "Está viendo este proyecto en su idioma original: {language}.",
+    "viewInOriginal": "Ver en el idioma original",
     "detail": {
-      "title": "Detalles de la iniciativa",
-      "about": "Sobre esta iniciativa",
-      "info": "Información",
-      "type": "Tipo",
-      "established": "Establecido"
+      "video": "Mira nuestra historia",
+      "about": "Acerca de",
+      "timeline": "Nuestro viaje",
+      "offers": "Lo que ofrecemos",
+      "lookingFor": "Lo que buscamos",
+      "team": "Nuestro equipo",
+      "share": "Compartir esta iniciativa",
+      "gallery": "Galería"
     },
     "submit": {
       "title": "Envía tu iniciativa",
@@ -283,170 +335,11 @@
       "location": "Ubicación",
       "description": "Descripción",
       "email": "Email de contacto",
-      "button": "Enviar iniciativa",
-      "success": "¡Gracias por enviar tu iniciativa!"
-    },
-    "translationDisclaimer": "Este proyecto se envió originalmente en {language}. El contenido que se muestra aquí se ha traducido automáticamente al español.",
-    "viewingOriginal": "Está viendo este proyecto en su idioma original: {language}.",
-    "viewTranslated": "Ver en {language}",
-    "viewInOriginal": "Ver en idioma original ({language})"
-  },
-  "home": {
-    "meta": {
-      "title": "El Socioscope - Ver cómo el cambio social toma forma",
-      "description": "Mapeo de iniciativas de transformación de sistemas alimentarios sostenibles en todo el mundo"
-    },
-    "hero": {
-      "title": "Ver cómo el cambio social toma forma",
-      "subtitle": "Mapeo del surgimiento de sociedades sostenibles a través de la acción colectiva, rastreando 1000+ iniciativas de cambio en todo el mundo.",
-      "exploreBtn": "Explorar iniciativas",
-      "learnBtn": "Saber más"
-    },
-    "metrics": {
-      "initiatives": "Iniciativas mapeadas",
-      "countries": "Países",
-      "interviewers": "Entrevistadores",
-      "continents": "Continentes"
-    },
-    "intro": {
-      "title": "Comprender la arquitectura del cambio",
-      "paragraph1": "El Socioscope es una plataforma de investigación pionera que documenta cómo las comunidades de todo el mundo están transformando sus sistemas alimentarios.",
-      "paragraph2": "Al combinar métodos cualitativos tradicionales con análisis impulsado por IA, estamos revelando los patrones ocultos de transformación social."
-    },
-    "pillars": {
-      "title": "Nuestro enfoque",
-      "learnMore": "Saber más sobre nosotros",
-      "data": {
-        "title": "Datos",
-        "desc1": "Recopilación de datos sofisticada sobre el terreno en más de 30 países.",
-        "desc2": "Nuestros investigadores realizan trabajo de campo etnográfico."
-      },
-      "tech": {
-        "title": "Tecnología",
-        "desc1": "Metodología de investigación impulsada por LLM.",
-        "desc2": "Construido sobre Sleipnir, nuestro marco analítico."
-      },
-      "analysis": {
-        "title": "Análisis",
-        "desc1": "Nuevos marcos para comprender la transformación de sistemas.",
-        "desc2": "Metodología de cuadrícula de transacciones."
-      }
-    },
-    "map": {
-      "title": "Alcance global, impacto local",
-      "placeholder": "[Mapa interactivo]"
-    },
-    "research": {
-      "title": "Liderando la investigación",
-      "csh": {
-        "name": "Complexity Science Hub Vienna",
-        "lead": "Helga Nowotny, Líder del proyecto"
-      },
-      "paris": {
-        "name": "Paris Institute for Advanced Study",
-        "lead": "Saadi Lahlou, Líder del proyecto"
-      },
-      "support": "Apoyado por la Fundación NOMIS"
-    },
-    "cta": {
-      "title": "Únete al movimiento",
-      "description": "¿Estás trabajando en una iniciativa de inteligencia colectiva o innovación social?",
-      "button": "Envía tu iniciativa"
+      "button": "Enviar iniciativa"
     }
   },
-  "products": {
-    "title": "Nuestros productos",
-    "subtitle": "Herramientas y recursos para comprender el cambio social",
-    "sleipnir": {
-      "name": "Sleipnir",
-      "desc": "Nuestro marco analítico impulsado por IA"
-    },
-    "database": {
-      "name": "Base de datos de iniciativas",
-      "desc": "Base de datos completa de 1000+ iniciativas"
-    },
-    "publications": {
-      "name": "Publicaciones de investigación",
-      "desc": "Accede a nuestros artículos académicos y resultados"
-    }
-  },
-  "about": {
-    "meta": {
-      "title": "Sobre El Socioscope"
-    },
-    "title": "Sobre El Socioscope",
-    "subtitle": "Comprender qué impulsa realmente el cambio sostenible",
-    "mission": {
-      "title": "Nuestra misión",
-      "text1": "El Socioscope es un proyecto de investigación cualitativa transformadora.",
-      "text2": "Sirve como observatorio integral."
-    },
-    "info": {
-      "established": {
-        "label": "Establecido",
-        "value": "2022",
-        "detail": "Creciendo desde el primer día"
-      },
-      "location": {
-        "label": "Base de operaciones",
-        "value": "París, Francia",
-        "detail": "Donde las ideas encuentran croissants"
-      },
-      "reach": {
-        "label": "Alcance global",
-        "value": "35+ países",
-        "detail": "Y contando..."
-      }
-    },
-    "whatWeDo": {
-      "title": "Lo que hacemos",
-      "text": "El Socioscope explora cómo ocurre el cambio sostenible en la práctica."
-    },
-    "methodology": {
-      "title": "Nuestra metodología",
-      "subtitle": "Combinando rigor académico con investigación participativa",
-      "step1": {
-        "title": "Identificación",
-        "desc": "A través de análisis de redes, recomendaciones de expertos..."
-      },
-      "step2": {
-        "title": "Documentación",
-        "desc": "Nuestros entrevistadores capacitados realizan conversaciones profundas..."
-      },
-      "step3": {
-        "title": "Análisis",
-        "desc": "Usando métodos mixtos impulsados por IA..."
-      },
-      "step4": {
-        "title": "Difusión",
-        "desc": "Compartimos hallazgos a través de publicaciones..."
-      }
-    },
-    "values": {
-      "title": "Nuestros valores",
-      "open": {
-        "title": "Acceso abierto",
-        "desc": "Toda nuestra investigación y datos son de libre acceso."
-      },
-      "participatory": {
-        "title": "Participativo",
-        "desc": "Trabajamos directamente con las comunidades."
-      },
-      "global": {
-        "title": "Perspectiva global",
-        "desc": "Nuestra investigación abarca continentes y culturas."
-      },
-      "ethical": {
-        "title": "Práctica ética",
-        "desc": "Mantenemos los más altos estándares."
-      }
-    },
-    "cta": {
-      "title": "Únete a nuestra comunidad de investigación",
-      "description": "Ya seas investigador, profesional o agente de cambio...",
-      "submitBtn": "Enviar iniciativa",
-      "contactBtn": "Ponerse en contacto"
-    }
+  "project": {
+    "video": "Mira nuestra historia"
   },
   "team": {
     "meta": {
@@ -503,42 +396,7 @@
         "description": "Nuestra red mundial de entrevistadores capacitados"
       }
     },
-    "interviews": "entrevistas",
-    "searchPlaceholder": "Buscar por nombre o país...",
-    "title": "El equipo",
-    "subtitle": "Conoce a las personas detrás de El Socioscope",
-    "leadership": {
-      "title": "Liderazgo"
-    },
-    "researchers": {
-      "title": "Equipo de investigación"
-    },
-    "helga": {
-      "name": "Helga Nowotny",
-      "role": "Líder del proyecto",
-      "org": "Complexity Science Hub Vienna"
-    },
-    "saadi": {
-      "name": "Saadi Lahlou",
-      "role": "Líder del proyecto",
-      "org": "Paris Institute for Advanced Study"
-    },
-    "researcher1": {
-      "name": "Coordinador de investigación",
-      "role": "Coordinación"
-    },
-    "researcher2": {
-      "name": "Analista de datos",
-      "role": "Análisis"
-    },
-    "researcher3": {
-      "name": "Investigador de campo",
-      "role": "Etnografía"
-    },
-    "researcher4": {
-      "name": "Líder técnico",
-      "role": "Tecnología"
-    }
+    "searchPlaceholder": "Buscar por nombre o país..."
   },
   "faq": {
     "title": "Preguntas frecuentes",
@@ -555,17 +413,147 @@
     "exploreDatabase": "Explorar Nuestra Base de Datos"
   },
   "resources": {
-    "articles": {
-      "title": "Artículos de investigación",
-      "comingSoon": "Artículos próximamente..."
+    "meta": {
+      "title": "Recursos - El Socioscope"
     },
-    "books": {
-      "title": "Libros y publicaciones",
-      "comingSoon": "Libros próximamente..."
+    "hero": {
+      "title": "Recursos",
+      "subtitle": "Explore nuestra colección curada de artículos, libros, eventos, oportunidades de financiación y más — todos dedicados a sistemas alimentarios sostenibles y prácticas regenerativas.",
+      "browseCta": "Explorar recursos",
+      "submitCta": "Enviar un recurso"
     },
-    "events": {
-      "title": "Eventos y talleres",
-      "comingSoon": "Eventos próximamente..."
+    "search": {
+      "placeholder": "Buscar recursos por título, autor o tema..."
+    },
+    "filters": {
+      "all": "Todos los recursos",
+      "article": "Artículos",
+      "book": "Libros",
+      "event": "Eventos",
+      "funding": "Financiación",
+      "organization": "Organizaciones",
+      "policy": "Informes de política",
+      "socioscope": "Del Socioscope"
+    },
+    "categoryLabels": {
+      "article": "Artículo",
+      "book": "Libro",
+      "event": "Evento",
+      "funding": "Financiación",
+      "organization": "Organización",
+      "policy": "Informe de política",
+      "socioscope": "Socioscope"
+    },
+    "linkTexts": {
+      "article": "Leer artículo",
+      "book": "Ver libro",
+      "event": "Detalles del evento",
+      "funding": "Info de financiación",
+      "organization": "Visitar organización",
+      "policy": "Leer informe de política",
+      "socioscope": "Ver en Socioscope",
+      "default": "Saber más"
+    },
+    "resultsInfo": "{count} recursos encontrados",
+    "sortBy": "Ordenar por",
+    "sort": {
+      "order": "Orden predeterminado",
+      "name": "Nombre",
+      "date": "Fecha"
+    },
+    "perPage": "Elementos por página",
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "loadMore": "Cargar más",
+    "showing": "Mostrando {start}-{end} de {total} recursos",
+    "cta": {
+      "title": "¿Tienes un recurso para compartir?",
+      "subtitle": "Ayúdanos a construir la colección más completa de recursos sobre sistemas alimentarios sostenibles.",
+      "button": "Enviar tu recurso"
+    },
+    "modal": {
+      "title": "Enviar un recurso",
+      "successMessage": "¡Gracias! Tu recurso ha sido enviado exitosamente.",
+      "resourceInfo": "Información del recurso",
+      "resourceInfoSubtitle": "Cuéntanos sobre el recurso que te gustaría compartir",
+      "yourInfo": "Tu información",
+      "yourInfoSubtitle": "Usaremos esto para contactarte si es necesario",
+      "submitButton": "Enviar recurso",
+      "fields": {
+        "type": "Tipo de recurso",
+        "selectType": "Seleccionar un tipo",
+        "title": "Título del recurso",
+        "authors": "Autor(es) / Organización",
+        "description": "Descripción / Resumen",
+        "url": "URL / Enlace",
+        "yourName": "Tu nombre",
+        "yourEmail": "Tu email"
+      }
+    },
+    "noResults": "No se encontraron recursos que coincidan con tus criterios."
+  },
+  "press": {
+    "meta": {
+      "title": "Sala de prensa - El Socioscope",
+      "description": "Recursos mediáticos, activos de marca e información sobre El Socioscope"
+    },
+    "hero": {
+      "title": "Sala de prensa",
+      "subtitle": "Recursos mediáticos, activos de marca e información sobre El Socioscope"
+    },
+    "resources": {
+      "title": "Recursos mediáticos",
+      "description": "Bienvenido a la sala de prensa de El Socioscope. Aquí encontrarás nuestro kit de medios, datos clave y recursos para periodistas, socios e interesados en nuestro trabajo sobre sistemas alimentarios sostenibles."
+    },
+    "mediaKit": {
+      "title": "Kit de medios 2024",
+      "description": "Información completa sobre El Socioscope, nuestro impacto y oportunidades de colaboración",
+      "stats": {
+        "countries": "36+",
+        "countriesLabel": "Países cubiertos",
+        "initiatives": "700+",
+        "initiativesLabel": "Iniciativas",
+        "interviewers": "50+",
+        "interviewersLabel": "Entrevistadores",
+        "languages": "8",
+        "languagesLabel": "Idiomas"
+      },
+      "downloadPdf": "Descargar PDF",
+      "shareLink": "Compartir enlace",
+      "viewFullSize": "Ver tamaño completo"
+    },
+    "quickFacts": {
+      "title": "Datos rápidos",
+      "description": "Información esencial sobre El Socioscope de un vistazo",
+      "whatWeDo": {
+        "title": "Qué hacemos",
+        "content": "El Socioscope explora cómo ocurre el cambio sostenible sobre el terreno, con un enfoque en los sistemas alimentarios. Documentamos soluciones locales, hablamos con profesionales y analizamos conocimientos utilizando IA para revelar los patrones detrás de la innovación impactante."
+      },
+      "mission": {
+        "title": "Nuestra misión",
+        "content": "Un proyecto de investigación cualitativa transformador que mapea cómo los comportamientos, normas y comunidades influyen en la transición hacia sistemas alimentarios sostenibles a nivel mundial."
+      },
+      "keyInfo": {
+        "title": "Información clave",
+        "founded": "Fundado: 2022",
+        "headquarters": "Sede: París, Francia",
+        "reach": "Alcance de investigación: 36+ países",
+        "website": "Sitio web: thesocioscope.org"
+      },
+      "audience": {
+        "title": "Nuestra audiencia",
+        "professionals": "Profesionales comprometidos con el medio ambiente",
+        "researchers": "Investigadores y académicos",
+        "practitioners": "Profesionales en sistemas alimentarios sostenibles",
+        "policymakers": "Responsables políticos y tomadores de decisiones"
+      }
+    },
+    "contact": {
+      "title": "Consultas de prensa",
+      "description": "Para consultas de medios, solicitudes de entrevistas o información adicional, por favor contacta con nuestro equipo de comunicación.",
+      "button": "Contactar al equipo de comunicación"
     }
   },
   "contact": {
@@ -602,23 +590,228 @@
       },
       "social": {
         "title": "Redes sociales",
-        "twitter": "Twitter",
         "linkedin": "LinkedIn",
         "youtube": "YouTube"
       }
-    },
-    "title": "Contáctanos",
-    "subtitle": "Ponte en contacto con el equipo de El Socioscope",
-    "button": "Enviar mensaje",
-    "success": "¡Mensaje enviado! Gracias."
+    }
   },
   "common": {
-    "search": "Buscar",
+    "loading": "Cargando...",
+    "notFound": "No encontrado",
+    "projectNotFoundDescription": "El proyecto que buscas no existe o ha sido eliminado.",
+    "browseProjects": "Explorar proyectos",
+    "organization": "Organización",
+    "contact": "Contacto",
+    "gallery": "Galería",
+    "team": "Equipo",
+    "share": "Compartir esta iniciativa",
+    "shareDescription": "Comparte esta iniciativa con tu red",
+    "copied": "¡Enlace copiado!",
+    "copyLink": "Copiar enlace",
+    "viewTranslation": "Ver traducción",
+    "viewOriginal": "Ver original",
     "learnMore": "Saber más",
-    "readMore": "Leer más",
-    "back": "Atrás",
-    "required": "Este campo es obligatorio",
-    "emailInvalid": "Por favor ingrese un email válido",
-    "error": "Algo salió mal. Por favor intente de nuevo."
+    "offers": "Lo que ofrecemos",
+    "lookingFor": "Lo que buscamos",
+    "milestones": "Nuestro recorrido",
+    "languages": {
+      "en": "inglés",
+      "fr": "francés",
+      "es": "español",
+      "de": "alemán",
+      "pt": "portugués",
+      "it": "italiano",
+      "zh": "chino",
+      "ja": "japonés",
+      "ar": "árabe",
+      "ru": "ruso"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Política de privacidad"
+    },
+    "hero": {
+      "title": "Política de privacidad",
+      "subtitle": "Cómo protegemos y manejamos su información personal"
+    },
+    "lastUpdated": "Última actualización"
+  },
+  "microscope": {
+    "icon": "🔬",
+    "title": "Un microscopio social sobre el cambio de sistemas alimentarios",
+    "description1": "A través de la recopilación de datos a gran escala en todo el mundo e investigación impulsada por LLM, el Socioscope analiza cómo evolucionan los comportamientos, normas y prácticas en las transiciones alimentarias sostenibles.",
+    "description2": "Estamos construyendo una forma sistemática de hacer que los patrones sociales complejos sean medibles, comparables y comprensibles."
+  },
+  "breakthroughs": {
+    "title": "Avances científicos",
+    "subtitle": "No solo estamos recopilando historias. Estamos descubriendo las leyes fundamentales de cómo las sociedades se transforman.",
+    "card1": {
+      "title": "Patrones universales entre culturas",
+      "description": "A pesar de las grandes diferencias culturales, encontramos mecanismos comunes en cómo las comunidades logran un cambio sostenible."
+    },
+    "card2": {
+      "title": "Reconocimiento de patrones interculturales",
+      "description": "Ahora podemos comparar cómo funciona la sostenibilidad en diferentes contextos y descubrir mecanismos universales bajo las diferencias superficiales."
+    },
+    "card3": {
+      "title": "De lo micro a lo macro",
+      "description": "Por primera vez, podemos trazar rigurosamente el camino desde las elecciones individuales hasta las prácticas comunitarias hasta la transformación sistémica."
+    },
+    "card4": {
+      "title": "Un método generalizable",
+      "description": "Comenzamos con la alimentación como nuestro \"organismo modelo\", pero esta metodología puede aplicarse a cualquier dominio de cambio social."
+    }
+  },
+  "newsletter": {
+    "title": "Suscríbete a nuestro boletín y recibe nuestras últimas iniciativas directamente en tu bandeja de entrada",
+    "emailPlaceholder": "Ingresa tu correo electrónico",
+    "button": "Suscribirse",
+    "emailRequired": "El email es obligatorio",
+    "emailInvalid": "El email debe ser válido",
+    "success": "¡Gracias por suscribirte!",
+    "error": "Algo salió mal. Por favor intente de nuevo.",
+    "subscribe": "Suscribirse"
+  },
+  "cta": {
+    "title": "Únete al movimiento",
+    "description": "¿Estás trabajando en una iniciativa de inteligencia colectiva o innovación social? Comparte tu trabajo con nuestra comunidad global y contribuye al creciente cuerpo de conocimientos sobre resolución colaborativa de problemas.",
+    "button": "Envía tu iniciativa"
+  },
+  "leadingResearch": {
+    "title": "Liderando la investigación",
+    "eth": {
+      "title": "ETH Zurich",
+      "description": "Cátedra de Redes Sociales"
+    },
+    "ulb": {
+      "title": "Universidad Libre de Bruselas",
+      "description": "Centro Leo Apostel"
+    },
+    "nomis": "Apoyado por la Fundación NOMIS"
+  },
+  "pages": {
+    "methodology": "Metodología"
+  },
+  "about": {
+    "meta": {
+      "title": "Sobre El Socioscope"
+    },
+    "hero": {
+      "title": "Sobre El Socioscope",
+      "subtitle": "Comprender qué impulsa verdaderamente el cambio sostenible"
+    },
+    "mission": {
+      "title": "Nuestra misión",
+      "paragraph1": "El Socioscope es un proyecto transformador de investigación cualitativa que mapea cómo los comportamientos, normas y comunidades influyen en la transición hacia sistemas alimentarios sostenibles.",
+      "paragraph2": "El Socioscope sirve como un observatorio integral de estos esfuerzos, haciendo el conocimiento accesible a investigadores, responsables políticos y profesionales de todo el mundo. Igualmente importante es arrojar luz sobre las iniciativas locales que lideran el cambio sobre el terreno e impulsan el cambio hacia un sistema alimentario más sostenible."
+    },
+    "info": {
+      "established": {
+        "label": "Establecido",
+        "value": "2022",
+        "detail": "Creciendo desde el primer día"
+      },
+      "location": {
+        "label": "Sede",
+        "value": "París, Francia",
+        "detail": "Donde las ideas encuentran los croissants"
+      },
+      "reach": {
+        "label": "Alcance global",
+        "value": "35+ países",
+        "detail": "Y creciendo..."
+      }
+    },
+    "whatWeDo": {
+      "title": "Qué hacemos",
+      "paragraph1": "El Socioscope explora cómo ocurre el cambio sostenible sobre el terreno, con un enfoque en los sistemas alimentarios. Documentamos soluciones locales, hablamos con profesionales y analizamos conocimientos utilizando IA para revelar los patrones detrás de la innovación impactante.",
+      "paragraph2": "A través de investigación sistemática y compromiso comunitario, identificamos, documentamos y analizamos iniciativas que encarnan los principios de transformación sostenible. Nuestra base de datos incluye movimientos de base, proyectos liderados por la comunidad, experimentos de gobernanza participativa y plataformas de resolución colaborativa de problemas de todos los continentes."
+    },
+    "methodology": {
+      "title": "Nuestra metodología",
+      "subtitle": "Combinando rigor académico con enfoques de investigación participativa",
+      "step1": {
+        "title": "Identificación",
+        "desc": "A través del análisis de redes, recomendaciones de expertos y nominaciones comunitarias, identificamos iniciativas que demuestran principios de transformación sostenible."
+      },
+      "step2": {
+        "title": "Documentación",
+        "desc": "Nuestros investigadores capacitados mantienen conversaciones en profundidad con líderes y participantes de iniciativas, capturando datos cualitativos ricos sobre sistemas alimentarios locales."
+      },
+      "step3": {
+        "title": "Análisis",
+        "desc": "Utilizando métodos mixtos impulsados por IA, analizamos patrones entre iniciativas, identificando factores de éxito, desafíos y conocimientos transferibles."
+      },
+      "step4": {
+        "title": "Difusión",
+        "desc": "Compartimos hallazgos a través de publicaciones, redes sociales y compromiso comunitario, asegurando que el conocimiento llegue a diversas audiencias en todo el mundo."
+      }
+    },
+    "values": {
+      "title": "Nuestros valores",
+      "global": {
+        "title": "Perspectiva global",
+        "desc": "Reconocemos que el cambio sostenible se manifiesta de manera diferente en culturas y contextos, y valoramos esta diversidad como fuente de aprendizaje e innovación."
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "desc": "Practicamos lo que estudiamos, trabajando colaborativamente con socios de investigación, miembros de la comunidad e iniciativas para co-crear conocimiento sobre sistemas alimentarios."
+      },
+      "open": {
+        "title": "Apertura",
+        "desc": "Creemos que el conocimiento debe ser de libre acceso. Nuestra base de datos está abierta a todos, apoyando los bienes comunes globales de la investigación sobre sostenibilidad."
+      },
+      "ethical": {
+        "title": "Práctica ética",
+        "desc": "Realizamos investigación con integridad, respetando la autonomía de los participantes, manteniendo la confidencialidad y asegurando que nuestro trabajo beneficie a las comunidades que estudiamos."
+      }
+    },
+    "cta": {
+      "title": "Participa",
+      "description": "Ya seas investigador, profesional u organizador comunitario, hay muchas formas de involucrarte con El Socioscope y contribuir a nuestra comprensión compartida de los sistemas alimentarios sostenibles.",
+      "submitButton": "Enviar una iniciativa",
+      "contactButton": "Contáctanos"
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Productos y soluciones - El Socioscope"
+    },
+    "hero": {
+      "title": "Productos y soluciones",
+      "subtitle": "Descubre productos y servicios alimentarios sostenibles de nuestra comunidad global de profesionales"
+    },
+    "intro": {
+      "title": "Productos y servicios sostenibles",
+      "description": "Apoya iniciativas que impulsan el cambio sostenible en los sistemas alimentarios."
+    },
+    "visitWebsite": "Visitar sitio web",
+    "filters": {
+      "all": "Todos los productos",
+      "food": "Productos alimentarios",
+      "tools": "Herramientas y equipos",
+      "services": "Servicios",
+      "education": "Educación y formación"
+    },
+    "sortBy": "Ordenar por",
+    "sort": {
+      "order": "Orden predeterminado",
+      "name": "Nombre",
+      "dateAdded": "Fecha de adición"
+    },
+    "perPage": "Elementos por página",
+    "pagination": {
+      "previous": "Anterior",
+      "next": "Siguiente"
+    },
+    "loadMore": "Cargar más",
+    "showing": "Mostrando {start}-{end} de {total} productos",
+    "cta": {
+      "title": "¿Quieres destacar tu producto?",
+      "description": "Si formas parte de nuestra red y tienes productos o servicios alimentarios sostenibles para compartir, nos encantaría mostrarlos aquí.",
+      "submitButton": "Enviar tu producto",
+      "learnMoreButton": "Más información"
+    }
   }
 }

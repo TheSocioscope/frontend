@@ -183,6 +183,7 @@ const navItems = [
     color: $brown-dark;
     text-decoration: none;
     font-weight: $font-weight-medium;
+    font-size: 1.3rem;
     transition: color 0.3s;
 
     &:hover {
@@ -237,7 +238,7 @@ const navItems = [
     transition:
       background 0.3s,
       color 0.3s;
-    font-size: 0.95rem;
+    font-size: 1.3rem;
     white-space: nowrap;
 
     &:hover {

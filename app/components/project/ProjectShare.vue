@@ -2,7 +2,7 @@
   <v-card class="project-share">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-share-variant-outline</v-icon>
-      {{ $t('common.share') }}
+      {{ $t('projects.detail.share') }}
     </v-card-title>
     <v-card-text>
       <div class="share-content">

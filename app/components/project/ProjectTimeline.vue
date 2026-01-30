@@ -2,7 +2,7 @@
   <v-card class="project-timeline mb-4" elevation="2" id="milestones">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-flag-checkered</v-icon>
-      {{ $t('common.milestones') }}
+      {{ $t('projects.detail.timeline') }}
     </v-card-title>
 
     <v-card-text>

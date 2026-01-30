@@ -17,10 +17,10 @@
           </div>
 
           <div class="media-kit-preview">
-            <img
-              src="#"
-              alt="Socioscope Media Kit Preview"
-              style="max-height: 400px; object-fit: contain; margin: 0 auto; display: block"
+            <embed
+              src="/Socioscope Media Kit.pdf"
+              type="application/pdf"
+              style="width: 100%; height: 500px; border: none"
             />
           </div>
 
@@ -44,13 +44,13 @@
           </div>
 
           <div class="media-kit-actions">
-            <a href="#" class="btn btn-primary" download>
+            <a href="/Socioscope Media Kit.pdf" class="btn btn-primary" download>
               <span>⬇</span> {{ $t('press.mediaKit.downloadPdf') }}
             </a>
             <button class="btn btn-outline" @click="shareMediaKit">
               <span>🔗</span> {{ $t('press.mediaKit.shareLink') }}
             </button>
-            <a href="#" target="_blank" class="btn btn-outline">
+            <a href="/Socioscope Media Kit.pdf" target="_blank" class="btn btn-outline">
               <span>👁</span> {{ $t('press.mediaKit.viewFullSize') }}
             </a>
           </div>
@@ -64,7 +64,7 @@
 const { t: $t } = useI18n()
 
 const shareMediaKit = () => {
-  const url = window.location.origin + '/media-kit'
+  const url = window.location.origin + '/Socioscope Media Kit.pdf'
 
   // Check if Web Share API is available
   if (navigator.share) {

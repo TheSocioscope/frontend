@@ -30,10 +30,10 @@
 
       <v-container class="content-container">
         <!-- Translation Disclaimer -->
-        <TranslationDisclaimer
+        <ProjectTranslationDisclaimer
           v-if="showDisclaimer"
           :original-lang="project.originalLang"
-          :current-locale="locale"
+          :current-locale="String(locale)"
           :showing-original="showOriginal"
           @toggle-language="toggleOriginal"
         />
@@ -163,11 +163,11 @@ const localizedDescription = computed(() => {
 const localizedTimeline = computed(() => {
   const proj = project.value as any
   if (!proj) return []
-  
-  // Check both direct access and meta object  
+
+  // Check both direct access and meta object
   const timelineData = proj.timeline || proj.meta?.timeline
   if (!timelineData) return []
-  
+
   return timelineData.map((item: any) => ({
     date: item.date || '',
     icon: item.icon || '',
@@ -181,11 +181,11 @@ const localizedTimeline = computed(() => {
 const localizedOffers = computed(() => {
   const proj = project.value as any
   if (!proj) return []
-  
+
   // Check both direct access and meta object
   const offersData = proj.offers || proj.meta?.offers
   if (!offersData) return []
-  
+
   return offersData.map((item: any) => ({
     title:
       typeof item.label === 'string'
@@ -204,11 +204,11 @@ const localizedOffers = computed(() => {
 const localizedLookingFor = computed(() => {
   const proj = project.value as any
   if (!proj) return []
-  
+
   // Check both direct access and meta object
   const lookingForData = proj.lookingFor || proj.meta?.lookingFor
   if (!lookingForData) return []
-  
+
   return lookingForData.map((item: any) => ({
     title:
       typeof item.label === 'string'
@@ -225,11 +225,11 @@ const localizedLookingFor = computed(() => {
 const localizedGallery = computed(() => {
   const proj = project.value as any
   if (!proj) return []
-  
+
   // Check both direct access and meta object
   const galleryData = proj.gallery || proj.meta?.gallery
   if (!galleryData) return []
-  
+
   return galleryData.map((item: any) => ({
     url: item.url || '',
     caption:
@@ -251,14 +251,23 @@ const toggleOriginal = () => {
 
 // Debug logging
 if (import.meta.client) {
-  watch([project, localizedTimeline, localizedOffers, localizedLookingFor, localizedGallery], () => {
-    console.log('=== Project Data Debug ===')
-    console.log('Project:', project.value)
-    console.log('Timeline:', localizedTimeline.value, 'Length:', localizedTimeline.value?.length)
-    console.log('Offers:', localizedOffers.value, 'Length:', localizedOffers.value?.length)
-    console.log('LookingFor:', localizedLookingFor.value, 'Length:', localizedLookingFor.value?.length)
-    console.log('Gallery:', localizedGallery.value, 'Length:', localizedGallery.value?.length)
-  }, { immediate: true })
+  watch(
+    [project, localizedTimeline, localizedOffers, localizedLookingFor, localizedGallery],
+    () => {
+      console.log('=== Project Data Debug ===')
+      console.log('Project:', project.value)
+      console.log('Timeline:', localizedTimeline.value, 'Length:', localizedTimeline.value?.length)
+      console.log('Offers:', localizedOffers.value, 'Length:', localizedOffers.value?.length)
+      console.log(
+        'LookingFor:',
+        localizedLookingFor.value,
+        'Length:',
+        localizedLookingFor.value?.length
+      )
+      console.log('Gallery:', localizedGallery.value, 'Length:', localizedGallery.value?.length)
+    },
+    { immediate: true }
+  )
 }
 
 // SEO

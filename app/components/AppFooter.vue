@@ -64,9 +64,6 @@
             <NuxtLink :to="localePath('/contact')">{{ $t('nav.contact') }}</NuxtLink>
           </h4>
           <ul>
-            <li>
-              <a href="#newsletter">{{ $t('footer.connect.newsletter') }}</a>
-            </li>
             <li v-if="socials.linkedin">
               <a :href="socials.linkedin" target="_blank" rel="noopener noreferrer">{{
                 $t('footer.connect.linkedin')
@@ -86,7 +83,10 @@
 
       <!-- Copyright -->
       <div class="footer-bottom">
-        <p>{{ $t('footer.copyright', { year: currentYear }) }}</p>
+        <p>
+          {{ $t('footer.copyright', { year: currentYear }) }} ·
+          <NuxtLink :to="localePath('/privacy')">{{ $t('footer.privacy') }}</NuxtLink>
+        </p>
       </div>
     </div>
   </footer>
@@ -178,6 +178,16 @@ const currentYear = new Date().getFullYear()
     color: $warm-beige;
     margin: 0;
     font-size: 0.9rem;
+
+    a {
+      color: $warm-beige;
+      text-decoration: none;
+      transition: color 0.3s;
+
+      &:hover {
+        color: $green-bright;
+      }
+    }
   }
 }
 </style>

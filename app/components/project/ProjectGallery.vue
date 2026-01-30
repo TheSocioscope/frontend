@@ -6,7 +6,7 @@
   >
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-image-multiple-outline</v-icon>
-      {{ $t('common.gallery') }}
+      {{ $t('projects.detail.gallery') }}
     </v-card-title>
     <v-card-text>
       <v-row>

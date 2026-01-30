@@ -1,6 +1,19 @@
 <template>
   <div>
-    <ResourcesHero @submit="openModal" />
+    <PageHero
+      :title="$t('resources.hero.title')"
+      :subtitle="$t('resources.hero.subtitle')"
+      icon="📚"
+    >
+      <template #cta>
+        <div class="hero-cta">
+          <a href="#resources" class="btn">{{ $t('resources.hero.browseCta') }}</a>
+          <button class="btn btn-secondary" @click="openModal">
+            {{ $t('resources.hero.submitCta') }}
+          </button>
+        </div>
+      </template>
+    </PageHero>
     <section id="resources" class="section">
       <div class="container">
         <ResourcesSearch
@@ -9,20 +22,77 @@
           @filter-change="handleFilterChange"
           @search-change="handleSearchChange"
         />
+
+        <!-- Sort and Per Page Controls -->
+        <ListControls
+          v-model:sort-by="sortBy"
+          v-model:sort-order="sortOrder"
+          v-model:items-per-page="itemsPerPage"
+          :sort-options="sortOptions"
+          :sort-label="$t('resources.sortBy')"
+          :per-page-label="$t('resources.perPage')"
+          :show-per-page="!isMobile"
+        />
+
+        <!-- Desktop: Paginated Grid -->
         <ResourcesGrid
-          :resources="resources || []"
+          v-if="!isMobile"
+          :resources="items || []"
           :active-filter="activeFilter"
           :search-query="searchQuery"
         />
+
+        <!-- Mobile: Lazy Loading Grid -->
+        <ResourcesGrid
+          v-else
+          :resources="displayedItems || []"
+          :active-filter="activeFilter"
+          :search-query="searchQuery"
+        />
+
+        <!-- Desktop Pagination -->
+        <ListPagination
+          v-if="!isMobile && totalPages > 1"
+          :current-page="currentPage"
+          :total-pages="totalPages"
+          :previous-label="$t('resources.pagination.previous')"
+          :next-label="$t('resources.pagination.next')"
+          @prev="prevPage"
+          @next="nextPage"
+          @goto="goToPage"
+        />
+
+        <!-- Mobile Load More -->
+        <ListLoadMore
+          v-if="isMobile"
+          :has-more="hasMore"
+          :label="$t('resources.loadMore')"
+          @load-more="loadMore"
+        />
+
+        <!-- Results Count -->
+        <ListResultsInfo
+          :start="isMobile ? 1 : (currentPage - 1) * itemsPerPage + 1"
+          :end="isMobile ? displayedItems.length : Math.min(currentPage * itemsPerPage, totalItems)"
+          :total="totalItems"
+          :message="
+            $t('resources.showing', {
+              start: isMobile ? 1 : (currentPage - 1) * itemsPerPage + 1,
+              end: isMobile
+                ? displayedItems.length
+                : Math.min(currentPage * itemsPerPage, totalItems),
+              total: totalItems
+            })
+          "
+        />
       </div>
     </section>
-    <ResourcesCTA @submit="openModal" />
     <ResourcesSubmitModal :is-open="isModalOpen" @close="closeModal" />
   </div>
 </template>
 
 <script setup lang="ts">
-const { t } = useI18n()
+const { t, t: $t } = useI18n()
 const route = useRoute()
 
 useHead({
@@ -32,8 +102,23 @@ useHead({
 const activeFilter = ref('all')
 const searchQuery = ref('')
 const isModalOpen = ref(false)
+const isMobile = ref(false)
 
 const validFilters = ['article', 'book', 'event', 'funding', 'organization', 'policy', 'socioscope']
+
+const sortOptions = [
+  { value: 'createdAt', label: $t('resources.sort.date') },
+  { value: 'title', label: $t('resources.sort.name') }
+]
+
+// Detect mobile/desktop
+onMounted(() => {
+  isMobile.value = window.innerWidth < 768
+  window.addEventListener('resize', () => {
+    isMobile.value = window.innerWidth < 768
+  })
+  updateFilterFromRoute()
+})
 
 // Apply filter from URL query parameter
 const updateFilterFromRoute = () => {
@@ -44,11 +129,6 @@ const updateFilterFromRoute = () => {
     activeFilter.value = 'all'
   }
 }
-
-// Initialize filter from URL on mount
-onMounted(() => {
-  updateFilterFromRoute()
-})
 
 // Watch for route query changes and update filter
 watch(
@@ -74,32 +154,67 @@ const closeModal = () => {
   isModalOpen.value = false
 }
 
-// Fetch resources from content
-const { data: resourcesData } = await useAsyncData('resources', () =>
-  queryCollection('resources').all()
-)
-
-console.log('=== RESOURCES DEBUG ===')
-console.log('resourcesData:', resourcesData.value)
-console.log('Is array?', Array.isArray(resourcesData.value))
-console.log('Length:', resourcesData.value?.length)
-console.log('First item:', resourcesData.value?.[0])
-
-const resources = computed(() => {
-  if (!resourcesData.value) {
-    console.log('No resourcesData')
-    return []
-  }
-  const allResources = Array.isArray(resourcesData.value) ? resourcesData.value : []
-  console.log('All resources count:', allResources.length)
-  const filtered = allResources.filter((r: any) => r.published !== false)
-  console.log('Published resources count:', filtered.length)
-  return filtered.sort((a: any, b: any) => (a.order || 0) - (b.order || 0))
+// Use the localized collection composable
+const {
+  items,
+  currentPage,
+  totalItems,
+  totalPages,
+  itemsPerPage,
+  goToPage,
+  nextPage,
+  prevPage,
+  sortBy,
+  sortOrder,
+  displayedItems,
+  loadMore,
+  hasMore
+} = useLocalizedCollection('resources', {
+  itemsPerPage: 20,
+  sortBy: 'createdAt',
+  sortOrder: 'desc'
 })
 </script>
 
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
+
+.hero-cta {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+}
+
+.btn {
+  padding: 1rem 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 0;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  display: inline-block;
+  background: $green-bright;
+  color: white;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.btn-secondary {
+  background: transparent;
+  color: $brown-dark;
+  border: 2px solid $brown-dark;
+
+  &:hover {
+    background: $brown-dark;
+    color: white;
+  }
+}
 
 .section {
   padding: 5rem 0;

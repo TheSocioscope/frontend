@@ -1,60 +1,63 @@
 <template>
-  <v-alert v-if="show" type="info" variant="tonal" class="translation-disclaimer" closable>
+  <div v-if="show" class="translation-disclaimer">
     <div class="disclaimer-content">
-      <v-icon class="mr-2">mdi-translate</v-icon>
+      <v-icon class="disclaimer-icon">mdi-translate</v-icon>
       <div class="disclaimer-text">
-        <p v-if="!showingOriginal">
-          {{ $t('projects.translationDisclaimer', { language: getLanguageName(originalLang) }) }}
-        </p>
-        <p v-else>
-          {{ $t('projects.viewingOriginal', { language: getLanguageName(originalLang) }) }}
-        </p>
+        {{ displayMessage }}
       </div>
-      <v-btn variant="outlined" size="small" class="ml-4" @click="$emit('toggle-language')">
+      <button class="disclaimer-button" @click="$emit('toggleOriginal')">
         {{ showingOriginal ? $t('common.viewTranslation') : $t('common.viewOriginal') }}
-      </v-btn>
+      </button>
     </div>
-  </v-alert>
+  </div>
 </template>
 
 <script setup lang="ts">
 const props = defineProps<{
   originalLang: string
-  currentLocale: string
-  showingOriginal: boolean
+  showingOriginal?: boolean
 }>()
 
 defineEmits<{
-  'toggle-language': []
+  toggleOriginal: []
 }>()
 
-const { t: $t } = useI18n()
+const { locale } = useI18n()
 
 const show = computed(() => {
-  return props.originalLang && props.originalLang !== props.currentLocale
+  return props.originalLang && props.originalLang !== locale.value
 })
 
 const getLanguageName = (lang: string) => {
-  const languages: Record<string, string> = {
-    en: 'English',
-    fr: 'French',
-    es: 'Spanish',
-    de: 'German',
-    pt: 'Portuguese',
-    it: 'Italian',
-    zh: 'Chinese',
-    ja: 'Japanese',
-    ar: 'Arabic',
-    ru: 'Russian'
-  }
-  return languages[lang] || lang.toUpperCase()
+  const langKey = `common.languages.${lang}`
+  const translated = $t(langKey)
+  // If translation key doesn't exist, it returns the key itself, so fallback to uppercase
+  return translated === langKey ? lang.toUpperCase() : translated
 }
+
+const displayMessage = computed(() => {
+  const langName = getLanguageName(props.originalLang)
+  const currentLangName = getLanguageName(locale.value)
+  if (props.showingOriginal) {
+    return $t('projects.viewingOriginal', { language: langName })
+  } else {
+    return $t('projects.translationDisclaimer', {
+      language: langName,
+      currentLanguage: currentLangName
+    })
+  }
+})
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .translation-disclaimer {
+  background-color: $warm-beige;
+  border-left: 4px solid $green-bright;
+  padding: 1.25rem 1.5rem;
   margin-bottom: 2rem;
-  border-left: 4px solid rgb(var(--v-theme-info));
+  border-radius: 0;
 }
 
 .disclaimer-content {
@@ -64,24 +67,35 @@ const getLanguageName = (lang: string) => {
   flex-wrap: wrap;
 }
 
-.disclaimer-text {
-  flex: 1;
-
-  p {
-    margin: 0;
-    line-height: 1.5;
-  }
+.disclaimer-icon {
+  font-size: 1.5rem;
+  flex-shrink: 0;
 }
 
-@media (max-width: 768px) {
-  .disclaimer-content {
-    flex-direction: column;
-    align-items: flex-start;
-  }
+.disclaimer-text {
+  flex: 1;
+  min-width: 200px;
+  font-family: 'Playfair Display', serif;
+  color: $brown-dark;
+  line-height: 1.6;
+}
 
-  .ml-4 {
-    margin-left: 0 !important;
-    width: 100%;
+.disclaimer-button {
+  padding: 0.5rem 1.25rem;
+  border: 2px solid $green-bright;
+  background-color: transparent;
+  color: $brown-dark;
+  font-family: 'Playfair Display', serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border-radius: 4px;
+  white-space: nowrap;
+
+  &:hover {
+    background-color: $green-bright;
+    color: $cream;
   }
 }
 </style>

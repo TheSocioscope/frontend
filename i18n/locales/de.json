@@ -1,13 +1,10 @@
 {
   "nav": {
     "about": "Über uns",
-    "projects": "Projekte",
-    "insights": "Erkenntnisse",
-    "partners": "Partner",
-    "contact": "Kontakt",
     "socioscope": "Das Sozioskop",
     "team": "Das Team",
     "faq": "FAQ",
+    "projects": "Projekte",
     "database": "Initiativendatenbank",
     "submitInitiative": "Projekt registrieren",
     "products": "Produkte",
@@ -15,31 +12,18 @@
     "articles": "Artikel",
     "books": "Bücher/Kapitel",
     "events": "Veranstaltungen/Konferenzen",
+    "contact": "Kontakt",
     "contactUs": "Kontakt",
     "press": "Presseraum"
   },
-  "labels": {
-    "fields": "Felder",
-    "thematics": "Thematiken",
-    "types": "Typen"
-  },
   "hero": {
     "title": "DAS SOZIOSKOP",
-    "subtitle": "Sehen, wie sozialer Wandel Gestalt annimmt",
-    "tagline": "Eine bahnbrechende Initiative, um zu verstehen und zu kartieren, wie Gemeinschaften nachhaltige Ernährungssysteme schaffen"
-  },
-  "microscope": {
-    "icon": "🔬",
-    "title": "Ein soziales Mikroskop für den Wandel von Ernährungssystemen",
-    "description1": "Durch groß angelegte Datenerfassung weltweit und LLM-gesteuerte Forschung analysiert das Sozioskop, wie sich Verhaltensweisen, Normen und Praktiken in nachhaltigen Ernährungsübergängen entwickeln.",
-    "description2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen."
+    "subtitle": "Sehen, wie sozialer Wandel Gestalt annimmt"
   },
   "vision": {
     "title": "Ein soziales Mikroskop für den Wandel von Ernährungssystemen",
     "statement1": "Durch groß angelegte Datenerfassung weltweit und LLM-gesteuerte Forschung analysiert das Sozioskop, wie sich Verhaltensweisen, Normen und Praktiken in nachhaltigen Ernährungsübergängen entwickeln.",
-    "statement2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen.",
-    "details1": "Das Sozioskop produziert nicht nur akademische Arbeiten. Es zeigt, was Wandel funktionieren lässt: welche Interventionen erfolgreich sind, welche scheitern und warum.",
-    "details2": "Es geht darum, eine nachhaltige Zukunft zu schaffen, die nicht nur umweltverträglich, sondern auch sozial widerstandsfähig und wirtschaftlich gerecht ist."
+    "statement2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen."
   },
   "contributions": {
     "card1": {
@@ -64,59 +48,22 @@
       "link": ""
     }
   },
-  "breakthroughs": {
-    "title": "Wissenschaftliche Durchbrüche",
-    "subtitle": "Wir sammeln nicht nur Geschichten. Wir entdecken die grundlegenden Gesetze, wie sich Gesellschaften selbst transformieren.",
-    "card1": {
-      "title": "Universelle Muster über Kulturen hinweg",
-      "description": "Trotz großer kultureller Unterschiede finden wir gemeinsame Mechanismen, wie Gemeinschaften nachhaltigen Wandel erreichen."
-    },
-    "card2": {
-      "title": "Kulturübergreifende Mustererkennung",
-      "description": "Wir können jetzt vergleichen, wie Nachhaltigkeit in verschiedenen Kontexten funktioniert und universelle Mechanismen unter oberflächlichen Unterschieden entdecken."
-    },
-    "card3": {
-      "title": "Von Mikro zu Makro",
-      "description": "Zum ersten Mal können wir den Weg von individuellen Entscheidungen über Gemeinschaftspraktiken bis zur systemischen Transformation rigoros nachzeichnen."
-    },
-    "card4": {
-      "title": "Eine verallgemeinerbare Methode",
-      "description": "Wir beginnen mit Ernährung als unserem \"Modellorganismus\", aber diese Methodik kann auf jeden Bereich des sozialen Wandels angewendet werden."
-    }
-  },
   "map": {
     "title": "Globale Reichweite, lokale Wirkung",
     "projects": "Projekte",
-    "clickToView": "Klicken Sie, um Projekte anzuzeigen",
-    "tooltip": {
-      "cases": "Fälle"
-    },
-    "legend": {
-      "title": "Anzahl der Fälle",
-      "range1": "1-5 Fälle",
-      "range2": "6-15 Fälle",
-      "range3": "16-30 Fälle",
-      "range4": "31-50 Fälle",
-      "range5": "51-100 Fälle",
-      "range6": "100+ Fälle",
-      "noData": "Keine Daten"
-    }
+    "clickToView": "Klicken Sie, um Projekte anzuzeigen"
   },
   "stats": {
     "card1": {
-      "number": "700+",
       "label": "Dokumentierte Initiativen"
     },
     "card2": {
-      "number": "35+",
       "label": "Länder"
     },
     "card3": {
-      "number": "6",
       "label": "Kontinente"
     },
     "card4": {
-      "number": "50+",
       "label": "Globale Interviewer"
     }
   },
@@ -148,71 +95,43 @@
       "description": "Skalierung nachhaltiger Praktiken über Regionen hinweg"
     }
   },
-  "newsletter": {
-    "title": "Abonnieren Sie unseren Newsletter und erhalten Sie unsere neuesten Initiativen direkt in Ihren Posteingang",
-    "emailPlaceholder": "E-Mail-Adresse eingeben",
-    "button": "Abonnieren",
-    "emailRequired": "E-Mail ist erforderlich",
-    "emailInvalid": "E-Mail muss gültig sein",
-    "success": "Vielen Dank fürs Abonnieren!",
-    "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.",
-    "subscribe": "Abonnieren"
-  },
-  "cta": {
-    "title": "Werden Sie Teil der Bewegung",
-    "description": "Arbeiten Sie an einer Initiative für kollektive Intelligenz oder soziale Innovation? Teilen Sie Ihre Arbeit mit unserer globalen Gemeinschaft und tragen Sie zum wachsenden Wissensschatz über kollaborative Problemlösung bei.",
-    "button": "Initiative einreichen"
-  },
-  "leadingResearch": {
-    "title": "Die Forschung leiten",
-    "eth": {
-      "title": "ETH Zürich",
-      "description": "Lehrstuhl für soziale Netzwerke"
-    },
-    "ulb": {
-      "title": "Freie Universität Brüssel",
-      "description": "Zentrum Leo Apostel"
-    },
-    "nomis": "Unterstützt von der NOMIS-Stiftung"
-  },
   "footer": {
     "about": {
-      "title": "Über uns",
-      "about": "Über das Sozioskop",
-      "methodology": "Methodik",
-      "team": "Team",
-      "publications": "Publikationen"
+      "title": "Über uns"
     },
+    "team": "Team",
     "explore": {
-      "title": "Erkunden",
-      "database": "Falldatenbank",
-      "stories": "Geschichten",
-      "insights": "Erkenntnisse"
+      "title": "Erkunden"
     },
     "resources": {
-      "title": "Ressourcen",
-      "publications": "Publikationen",
-      "news": "Nachrichten & Veranstaltungen",
-      "faq": "FAQ",
-      "contact": "Kontakt"
+      "title": "Ressourcen"
     },
     "connect": {
-      "title": "Verbinden",
-      "newsletter": "Newsletter",
-      "twitter": "Twitter",
       "linkedin": "LinkedIn",
       "github": "GitHub"
     },
     "copyright": "© {year} Das Sozioskop • Verstehen, wie sich Gesellschaften transformieren",
-    "team": "Team",
-    "publications": "Publikationen",
-    "stories": "Geschichten",
-    "newsEvents": "Nachrichten und Veranstaltungen"
-  },
-  "pages": {
-    "faq": "FAQ"
+    "privacy": "Datenschutzerklärung",
+    "stories": "Geschichten"
   },
   "projects": {
+    "hero": {
+      "title": "Karte des Wandels",
+      "subtitle": "Entdecken Sie transformative Initiativen, die unsere Ernährungssysteme weltweit umgestalten"
+    },
+    "detail": {
+      "about": "Über diese Initiative"
+    },
+    "continents": {
+      "asia": "Asien",
+      "europe": "Europa",
+      "north-africa": "Nordafrika",
+      "north-america": "Nordamerika",
+      "south-america": "Südamerika",
+      "sub-saharian-africa": "Subsahara-Afrika",
+      "oceania": "Ozeanien",
+      "worldwide-intercontinental": "Weltweit/Interkontinental"
+    },
     "countries": {
       "argentina": "Argentinien",
       "armenia": "Armenien",
@@ -262,19 +181,152 @@
       "united-states": "Vereinigte Staaten",
       "uruguay": "Uruguay"
     },
-    "database": {
-      "title": "Initiativendatenbank",
-      "subtitle": "Erkunden Sie 1000+ nachhaltige Lebensmittelsystem-Transformationsinitiativen",
-      "searchPlaceholder": "Initiativen suchen...",
-      "filterCountry": "Nach Land filtern",
-      "filterType": "Nach Typ filtern"
+    "fields": {
+      "anthropology": "Anthropologie",
+      "arts-architecture-and-museology": "Kunst, Architektur und Museologie",
+      "biology": "Biologie",
+      "chemistry-physics": "Chemie und Physik",
+      "communication-and-media-studies": "Kommunikation und Medienwissenschaften",
+      "demography": "Demographie",
+      "design": "Design",
+      "ecology-environmental-sciences": "Ökologie und Umweltwissenschaften",
+      "economics-statistics": "Wirtschaft und Statistik",
+      "education-sciences": "Erziehungswissenschaften",
+      "engineering-and-technology": "Ingenieurwesen und Technologie",
+      "gender-studies": "Gender Studies",
+      "geography": "Geographie",
+      "history": "Geschichte",
+      "information-technology": "Informationstechnologie",
+      "law": "Recht",
+      "medicine": "Medizin",
+      "nutrition": "Ernährung",
+      "other-social-sciences-and-humanities": "Andere Sozial- und Geisteswissenschaften",
+      "philosophy-incl-ethics": "Philosophie (inkl. Ethik)",
+      "political-science": "Politikwissenschaft",
+      "religion-and-theology": "Religion und Theologie",
+      "sociology": "Soziologie",
+      "systems-science": "Systemwissenschaft",
+      "computer-sciences": "Informatik",
+      "earth-sciences": "Geowissenschaften",
+      "epidemiology": "Epidemiologie",
+      "linguistics": "Linguistik",
+      "literature-and-languages": "Literatur und Sprachen",
+      "management-public-administration": "Management und Öffentliche Verwaltung",
+      "psychology-behavioural-and-cognitive-sciences": "Psychologie, Verhaltens- und Kognitionswissenschaften"
     },
+    "thematics": {
+      "cities-mobility-urban-planning": "Städte, Mobilität und Stadtplanung",
+      "consumption-and-production-patterns": "Konsum- und Produktionsmuster",
+      "ecology-environmental-change": "Ökologie und Umweltveränderung",
+      "economy-business-markets-finance": "Wirtschaft, Geschäft, Märkte und Finanzen",
+      "education": "Bildung",
+      "equality-diversity-studies-and-social-justice": "Gleichheit, Diversitätsstudien und soziale Gerechtigkeit",
+      "food-agriculture-fishery": "Lebensmittel, Landwirtschaft und Fischerei",
+      "governance-democracy-civil-society": "Regierungsführung, Demokratie und Zivilgesellschaft",
+      "international-relations-and-co-operation": "Internationale Beziehungen und Zusammenarbeit",
+      "public-health": "Öffentliche Gesundheit",
+      "public-policy-evaluation-impact": "Öffentliche Politik, Evaluierung und Auswirkungen",
+      "risks-crisis-management": "Risiken und Krisenmanagement",
+      "welfare-work-social-protection": "Wohlfahrt, Arbeit und Sozialschutz",
+      "aging-demography": "Alterung und Demographie",
+      "communication-public-sphere-rhetorics": "Kommunikation, Öffentlichkeit und Rhetorik",
+      "culture-and-the-arts": "Kultur und Künste",
+      "data-information-and-computing": "Daten, Information und Computing",
+      "digital-humanities": "Digitale Geisteswissenschaften",
+      "human-behaviours-social-relations": "Menschliches Verhalten und soziale Beziehungen",
+      "industry": "Industrie",
+      "inequalities-poverty-development": "Ungleichheiten, Armut und Entwicklung",
+      "innovation-rd": "Innovation und F&E",
+      "leisure-tourism": "Freizeit und Tourismus",
+      "migrations-and-diasporas": "Migrationen und Diasporas",
+      "worldviews-and-religion": "Weltanschauungen und Religion"
+    },
+    "types": {
+      "action-research": "Aktionsforschung",
+      "art-exhibitions": "Kunstausstellungen",
+      "books-and-book-chapters": "Bücher und Buchkapitel",
+      "business-model": "Geschäftsmodell",
+      "call-for-collaboration": "Aufruf zur Zusammenarbeit",
+      "call-for-research-proposals": "Aufruf für Forschungsvorschläge",
+      "case-study": "Fallstudie",
+      "dataset-data-mining": "Datensatz und Data Mining",
+      "expertise-offer": "Expertenangebot",
+      "qualitative-analysis": "Qualitative Analyse",
+      "quantitative-survey": "Quantitative Umfrage",
+      "scientific-paper": "Wissenschaftlicher Artikel",
+      "scores": "Bewertungen",
+      "video": "Video",
+      "archival-materials": "Archivmaterialien",
+      "blog": "Blog",
+      "call-for-papers": "Aufruf für Beiträge",
+      "catering": "Catering",
+      "citizen-participatory-science": "Bürgerpartizipative Wissenschaft",
+      "code-and-software": "Code und Software",
+      "conference-webinar": "Konferenz/Webinar",
+      "cultural-practice": "Kulturelle Praxis",
+      "grassroot-action": "Basisaktion",
+      "images-and-photos": "Bilder und Fotos",
+      "instructional-materials": "Lehrmaterialien",
+      "learning-object": "Lernobjekt",
+      "lessons": "Lektionen",
+      "maps": "Karten",
+      "other-resource": "Andere Ressource",
+      "policy-document": "Politikdokument",
+      "press-article": "Presseartikel",
+      "questionnaire": "Fragebogen",
+      "recipe": "Rezept",
+      "regulation": "Regulierung",
+      "report": "Bericht",
+      "research-tracker": "Forschungs-Tracker",
+      "review": "Überprüfung",
+      "seminars": "Seminare",
+      "simulation-modeling": "Simulation/Modellierung",
+      "supply-chain": "Lieferkette",
+      "survey-data": "Umfragedaten",
+      "textual-materials": "Textmaterialien",
+      "thesis": "These",
+      "web-page": "Webseite"
+    },
+    "search": "Projekte suchen",
+    "filterByContinent": "Nach Kontinent filtern",
+    "filterByCountry": "Nach Land filtern",
+    "filterByStatus": "Nach Status filtern",
+    "filterByThematic": "Nach Thematiken filtern",
+    "filterByField": "Nach Bereichen filtern",
+    "filterByType": "Nach Typen filtern",
+    "status": {
+      "pending": "Ausstehend",
+      "published": "Veröffentlicht",
+      "stale": "Veraltet",
+      "verified": "Verifiziert",
+      "new": "Neu"
+    },
+    "sortBy": "Sortieren nach",
+    "sort": {
+      "score": "Bewertung",
+      "name": "Name",
+      "date": "Datum"
+    },
+    "perPage": "Elemente pro Seite",
+    "pagination": {
+      "previous": "Zurück",
+      "next": "Weiter"
+    },
+    "loadMore": "Mehr laden",
+    "projectsFound": "{0} Projekte gefunden",
+    "noProjects": "Keine Projekte gefunden",
+    "translationDisclaimer": "Dieses Projekt wurde ursprünglich in {language} eingereicht. Der hier angezeigte Inhalt wurde automatisch zu {currentLanguage} übersetzt.",
+    "viewingOriginal": "Sie sehen sich dieses Projekt in seiner Originalsprache an: {language}.",
+    "viewInOriginal": "In Originalsprache anzeigen",
     "detail": {
-      "title": "Initiativendetails",
-      "about": "Über diese Initiative",
-      "info": "Information",
-      "type": "Typ",
-      "established": "Gegründet"
+      "video": "Schau dir unsere Geschichte an",
+      "about": "Über uns",
+      "timeline": "Unsere Geschichte",
+      "offers": "Was wir anbieten",
+      "lookingFor": "Was wir suchen",
+      "team": "Unser Team",
+      "share": "Diese Initiative teilen",
+      "gallery": "Galerie"
     },
     "submit": {
       "title": "Ihre Initiative einreichen",
@@ -283,170 +335,11 @@
       "location": "Standort",
       "description": "Beschreibung",
       "email": "Kontakt-E-Mail",
-      "button": "Initiative einreichen",
-      "success": "Vielen Dank für die Einreichung Ihrer Initiative!"
-    },
-    "translationDisclaimer": "Dieses Projekt wurde ursprünglich in {language} eingereicht. Der hier angezeigte Inhalt wurde automatisch ins Deutsche übersetzt.",
-    "viewingOriginal": "Sie sehen sich dieses Projekt in seiner Originalsprache an: {language}.",
-    "viewTranslated": "Auf {language} ansehen",
-    "viewInOriginal": "In Originalsprache ansehen ({language})"
-  },
-  "home": {
-    "meta": {
-      "title": "Das Sozioskop - Sehen, wie sozialer Wandel Gestalt annimmt",
-      "description": "Kartierung nachhaltiger Lebensmittelsystem-Transformationsinitiativen weltweit"
-    },
-    "hero": {
-      "title": "Sehen, wie sozialer Wandel Gestalt annimmt",
-      "subtitle": "Kartierung der Entstehung nachhaltiger Gesellschaften durch kollektives Handeln, Verfolgung von 1000+ Wandelinitiativen weltweit.",
-      "exploreBtn": "Initiativen erkunden",
-      "learnBtn": "Mehr erfahren"
-    },
-    "metrics": {
-      "initiatives": "Kartierte Initiativen",
-      "countries": "Länder",
-      "interviewers": "Interviewer",
-      "continents": "Kontinente"
-    },
-    "intro": {
-      "title": "Die Architektur des Wandels verstehen",
-      "paragraph1": "Das Sozioskop ist eine wegweisende Forschungsplattform, die dokumentiert, wie Gemeinschaften weltweit ihre Lebensmittelsysteme transformieren.",
-      "paragraph2": "Durch die Kombination traditioneller qualitativer Methoden mit KI-gestützter Analyse enthüllen wir verborgene Muster sozialer Transformation."
-    },
-    "pillars": {
-      "title": "Unser Ansatz",
-      "learnMore": "Mehr über uns erfahren",
-      "data": {
-        "title": "Daten",
-        "desc1": "Ausgefeilte Vor-Ort-Datenerhebung in über 30 Ländern.",
-        "desc2": "Unsere Forscher führen ethnographische Feldarbeit durch."
-      },
-      "tech": {
-        "title": "Technologie",
-        "desc1": "LLM-gesteuerte Forschungsmethodik.",
-        "desc2": "Aufbauend auf Sleipnir, unserem analytischen Rahmen."
-      },
-      "analysis": {
-        "title": "Analyse",
-        "desc1": "Neue Rahmen zum Verständnis von Systemtransformation.",
-        "desc2": "Transaktionsraster-Methodik."
-      }
-    },
-    "map": {
-      "title": "Globale Reichweite, lokale Wirkung",
-      "placeholder": "[Interaktive Karte]"
-    },
-    "research": {
-      "title": "Führend in der Forschung",
-      "csh": {
-        "name": "Complexity Science Hub Vienna",
-        "lead": "Helga Nowotny, Projektleitung"
-      },
-      "paris": {
-        "name": "Paris Institute for Advanced Study",
-        "lead": "Saadi Lahlou, Projektleitung"
-      },
-      "support": "Unterstützt von der NOMIS-Stiftung"
-    },
-    "cta": {
-      "title": "Schließen Sie sich der Bewegung an",
-      "description": "Arbeiten Sie an einer kollektiven Intelligenz- oder sozialen Innovationsinitiative?",
-      "button": "Ihre Initiative einreichen"
+      "button": "Initiative einreichen"
     }
   },
-  "products": {
-    "title": "Unsere Produkte",
-    "subtitle": "Werkzeuge und Ressourcen zum Verständnis sozialen Wandels",
-    "sleipnir": {
-      "name": "Sleipnir",
-      "desc": "Unser KI-gestütztes analytisches Framework"
-    },
-    "database": {
-      "name": "Initiativendatenbank",
-      "desc": "Umfassende Datenbank mit 1000+ Initiativen"
-    },
-    "publications": {
-      "name": "Forschungspublikationen",
-      "desc": "Zugriff auf unsere wissenschaftlichen Arbeiten und Ergebnisse"
-    }
-  },
-  "about": {
-    "meta": {
-      "title": "Über Das Sozioskop"
-    },
-    "title": "Über Das Sozioskop",
-    "subtitle": "Verstehen, was nachhaltigen Wandel wirklich antreibt",
-    "mission": {
-      "title": "Unsere Mission",
-      "text1": "Das Sozioskop ist ein transformatives qualitatives Forschungsprojekt.",
-      "text2": "Dient als umfassendes Observatorium."
-    },
-    "info": {
-      "established": {
-        "label": "Gegründet",
-        "value": "2022",
-        "detail": "Wächst seit Tag eins"
-      },
-      "location": {
-        "label": "Heimatbasis",
-        "value": "Paris, Frankreich",
-        "detail": "Wo Ideen auf Croissants treffen"
-      },
-      "reach": {
-        "label": "Globale Reichweite",
-        "value": "35+ Länder",
-        "detail": "Und es werden mehr..."
-      }
-    },
-    "whatWeDo": {
-      "title": "Was wir tun",
-      "text": "Das Sozioskop erforscht, wie nachhaltiger Wandel in der Praxis geschieht."
-    },
-    "methodology": {
-      "title": "Unsere Methodik",
-      "subtitle": "Kombination akademischer Strenge mit partizipativer Forschung",
-      "step1": {
-        "title": "Identifikation",
-        "desc": "Durch Netzwerkanalyse, Expertenempfehlungen..."
-      },
-      "step2": {
-        "title": "Dokumentation",
-        "desc": "Unsere geschulten Interviewer führen tiefgehende Gespräche..."
-      },
-      "step3": {
-        "title": "Analyse",
-        "desc": "Verwendung KI-gestützter gemischter Methoden..."
-      },
-      "step4": {
-        "title": "Verbreitung",
-        "desc": "Wir teilen Ergebnisse durch Publikationen..."
-      }
-    },
-    "values": {
-      "title": "Unsere Werte",
-      "open": {
-        "title": "Offener Zugang",
-        "desc": "All unsere Forschung und Daten sind frei zugänglich."
-      },
-      "participatory": {
-        "title": "Partizipativ",
-        "desc": "Wir arbeiten direkt mit Gemeinschaften."
-      },
-      "global": {
-        "title": "Globale Perspektive",
-        "desc": "Unsere Forschung umfasst Kontinente und Kulturen."
-      },
-      "ethical": {
-        "title": "Ethische Praxis",
-        "desc": "Wir halten höchste Standards ein."
-      }
-    },
-    "cta": {
-      "title": "Treten Sie unserer Forschungsgemeinschaft bei",
-      "description": "Ob Sie Forscher, Praktiker oder Changemaker sind...",
-      "submitBtn": "Initiative einreichen",
-      "contactBtn": "Kontakt aufnehmen"
-    }
+  "project": {
+    "video": "Unsere Geschichte ansehen"
   },
   "team": {
     "meta": {
@@ -503,42 +396,7 @@
         "description": "Unser weltweites Netzwerk geschulter Interviewer"
       }
     },
-    "interviews": "Interviews",
-    "searchPlaceholder": "Nach Name oder Land suchen...",
-    "title": "Das Team",
-    "subtitle": "Lernen Sie die Menschen hinter Das Sozioskop kennen",
-    "leadership": {
-      "title": "Leitung"
-    },
-    "researchers": {
-      "title": "Forschungsteam"
-    },
-    "helga": {
-      "name": "Helga Nowotny",
-      "role": "Projektleitung",
-      "org": "Complexity Science Hub Vienna"
-    },
-    "saadi": {
-      "name": "Saadi Lahlou",
-      "role": "Projektleitung",
-      "org": "Paris Institute for Advanced Study"
-    },
-    "researcher1": {
-      "name": "Forschungskoordinator",
-      "role": "Koordination"
-    },
-    "researcher2": {
-      "name": "Datenanalyst",
-      "role": "Analyse"
-    },
-    "researcher3": {
-      "name": "Feldforscher",
-      "role": "Ethnographie"
-    },
-    "researcher4": {
-      "name": "Technischer Leiter",
-      "role": "Technologie"
-    }
+    "searchPlaceholder": "Nach Name oder Land suchen..."
   },
   "faq": {
     "title": "Häufig gestellte Fragen",
@@ -555,17 +413,147 @@
     "exploreDatabase": "Unsere Datenbank Erkunden"
   },
   "resources": {
-    "articles": {
-      "title": "Forschungsartikel",
-      "comingSoon": "Artikel demnächst verfügbar..."
+    "meta": {
+      "title": "Ressourcen - Das Sozioskop"
     },
-    "books": {
-      "title": "Bücher & Publikationen",
-      "comingSoon": "Bücher demnächst verfügbar..."
+    "hero": {
+      "title": "Ressourcen",
+      "subtitle": "Entdecken Sie unsere kuratierte Sammlung von Artikeln, Büchern, Veranstaltungen, Fördermöglichkeiten und mehr – alles rund um nachhaltige Ernährungssysteme und regenerative Praktiken.",
+      "browseCta": "Ressourcen durchsuchen",
+      "submitCta": "Ressource einreichen"
     },
-    "events": {
-      "title": "Veranstaltungen & Workshops",
-      "comingSoon": "Veranstaltungen demnächst verfügbar..."
+    "search": {
+      "placeholder": "Ressourcen nach Titel, Autor oder Thema suchen..."
+    },
+    "filters": {
+      "all": "Alle Ressourcen",
+      "article": "Artikel",
+      "book": "Bücher",
+      "event": "Veranstaltungen",
+      "funding": "Finanzierung",
+      "organization": "Organisationen",
+      "policy": "Politikpapiere",
+      "socioscope": "Vom Sozioskop"
+    },
+    "categoryLabels": {
+      "article": "Artikel",
+      "book": "Buch",
+      "event": "Veranstaltung",
+      "funding": "Finanzierung",
+      "organization": "Organisation",
+      "policy": "Politikpapier",
+      "socioscope": "Sozioskop"
+    },
+    "linkTexts": {
+      "article": "Artikel lesen",
+      "book": "Buch ansehen",
+      "event": "Veranstaltungsdetails",
+      "funding": "Finanzierungsinfo",
+      "organization": "Organisation besuchen",
+      "policy": "Politikpapier lesen",
+      "socioscope": "Auf Sozioskop ansehen",
+      "default": "Mehr erfahren"
+    },
+    "resultsInfo": "{count} Ressourcen gefunden",
+    "sortBy": "Sortieren nach",
+    "sort": {
+      "order": "Standardreihenfolge",
+      "name": "Name",
+      "date": "Datum"
+    },
+    "perPage": "Elemente pro Seite",
+    "pagination": {
+      "previous": "Zurück",
+      "next": "Weiter"
+    },
+    "loadMore": "Mehr laden",
+    "showing": "Zeige {start}-{end} von {total} Ressourcen",
+    "cta": {
+      "title": "Haben Sie eine Ressource zum Teilen?",
+      "subtitle": "Helfen Sie uns, die umfassendste Sammlung von Ressourcen zu nachhaltigen Ernährungssystemen aufzubauen.",
+      "button": "Ihre Ressource einreichen"
+    },
+    "modal": {
+      "title": "Ressource einreichen",
+      "successMessage": "Vielen Dank! Ihre Ressource wurde erfolgreich eingereicht.",
+      "resourceInfo": "Ressourceninformationen",
+      "resourceInfoSubtitle": "Erzählen Sie uns von der Ressource, die Sie teilen möchten",
+      "yourInfo": "Ihre Informationen",
+      "yourInfoSubtitle": "Wir verwenden diese Angaben, um Sie bei Bedarf zu kontaktieren",
+      "submitButton": "Ressource einreichen",
+      "fields": {
+        "type": "Ressourcentyp",
+        "selectType": "Typ auswählen",
+        "title": "Ressourcentitel",
+        "authors": "Autor(en) / Organisation",
+        "description": "Beschreibung / Zusammenfassung",
+        "url": "URL / Link",
+        "yourName": "Ihr Name",
+        "yourEmail": "Ihre E-Mail"
+      }
+    },
+    "noResults": "Keine Ressourcen gefunden, die Ihren Kriterien entsprechen."
+  },
+  "press": {
+    "meta": {
+      "title": "Presseraum - Das Sozioskop",
+      "description": "Medienressourcen, Markenassets und Informationen über Das Sozioskop"
+    },
+    "hero": {
+      "title": "Presseraum",
+      "subtitle": "Medienressourcen, Markenassets und Informationen über Das Sozioskop"
+    },
+    "resources": {
+      "title": "Medienressourcen",
+      "description": "Willkommen im Presseraum des Sozioskops. Hier finden Sie unser Medienkit, wichtige Fakten und Ressourcen für Journalisten, Partner und Interessengruppen, die sich für unsere Arbeit zu nachhaltigen Ernährungssystemen interessieren."
+    },
+    "mediaKit": {
+      "title": "Medienkit 2024",
+      "description": "Vollständige Informationen über Das Sozioskop, unsere Wirkung und Partnerschaftsmöglichkeiten",
+      "stats": {
+        "countries": "36+",
+        "countriesLabel": "Abgedeckte Länder",
+        "initiatives": "700+",
+        "initiativesLabel": "Initiativen",
+        "interviewers": "50+",
+        "interviewersLabel": "Interviewer",
+        "languages": "8",
+        "languagesLabel": "Sprachen"
+      },
+      "downloadPdf": "PDF herunterladen",
+      "shareLink": "Link teilen",
+      "viewFullSize": "In voller Größe anzeigen"
+    },
+    "quickFacts": {
+      "title": "Kurzübersicht",
+      "description": "Wesentliche Informationen über Das Sozioskop auf einen Blick",
+      "whatWeDo": {
+        "title": "Was wir tun",
+        "content": "Das Sozioskop untersucht, wie nachhaltiger Wandel vor Ort geschieht, mit Schwerpunkt auf Ernährungssystemen. Wir dokumentieren lokale Lösungen, sprechen mit Praktikern und analysieren Erkenntnisse mithilfe von KI, um die Muster hinter wirkungsvoller Innovation aufzudecken."
+      },
+      "mission": {
+        "title": "Unsere Mission",
+        "content": "Ein transformatives qualitatives Forschungsprojekt, das abbildet, wie Verhaltensweisen, Normen und Gemeinschaften den Übergang zu nachhaltigen Ernährungssystemen weltweit beeinflussen."
+      },
+      "keyInfo": {
+        "title": "Eckdaten",
+        "founded": "Gegründet: 2022",
+        "headquarters": "Hauptsitz: Paris, Frankreich",
+        "reach": "Forschungsreichweite: 36+ Länder",
+        "website": "Website: thesocioscope.org"
+      },
+      "audience": {
+        "title": "Unser Publikum",
+        "professionals": "Umweltbewusste Fachleute",
+        "researchers": "Forscher und Akademiker",
+        "practitioners": "Praktiker in nachhaltigen Ernährungssystemen",
+        "policymakers": "Politische Entscheidungsträger"
+      }
+    },
+    "contact": {
+      "title": "Presseanfragen",
+      "description": "Für Medienanfragen, Interviewanfragen oder zusätzliche Informationen kontaktieren Sie bitte unser Kommunikationsteam.",
+      "button": "Kommunikationsteam kontaktieren"
     }
   },
   "contact": {
@@ -602,23 +590,228 @@
       },
       "social": {
         "title": "Soziale Medien",
-        "twitter": "Twitter",
         "linkedin": "LinkedIn",
         "youtube": "YouTube"
       }
-    },
-    "title": "Kontakt",
-    "subtitle": "Kontaktieren Sie das Sozioskop-Team",
-    "button": "Nachricht senden",
-    "success": "Nachricht gesendet! Danke."
+    }
   },
   "common": {
-    "search": "Suchen",
+    "loading": "Laden...",
+    "notFound": "Nicht gefunden",
+    "projectNotFoundDescription": "Das gesuchte Projekt existiert nicht oder wurde entfernt.",
+    "browseProjects": "Projekte durchsuchen",
+    "organization": "Organisation",
+    "contact": "Kontakt",
+    "gallery": "Galerie",
+    "team": "Team",
+    "share": "Diese Initiative teilen",
+    "shareDescription": "Teilen Sie diese Initiative mit Ihrem Netzwerk",
+    "copied": "Link kopiert!",
+    "copyLink": "Link kopieren",
+    "viewTranslation": "Übersetzung anzeigen",
+    "viewOriginal": "Original anzeigen",
     "learnMore": "Mehr erfahren",
-    "readMore": "Mehr lesen",
-    "back": "Zurück",
-    "required": "Dieses Feld ist erforderlich",
-    "emailInvalid": "Bitte geben Sie eine gültige E-Mail ein",
-    "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut."
+    "offers": "Was wir anbieten",
+    "lookingFor": "Was wir suchen",
+    "milestones": "Unsere Reise",
+    "languages": {
+      "en": "englisch",
+      "fr": "französisch",
+      "es": "spanisch",
+      "de": "deutsch",
+      "pt": "portugiesisch",
+      "it": "italienisch",
+      "zh": "chinesisch",
+      "ja": "japanisch",
+      "ar": "arabisch",
+      "ru": "russisch"
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Datenschutzerklärung"
+    },
+    "hero": {
+      "title": "Datenschutzerklärung",
+      "subtitle": "Wie wir Ihre persönlichen Daten schützen und verarbeiten"
+    },
+    "lastUpdated": "Zuletzt aktualisiert"
+  },
+  "microscope": {
+    "icon": "🔬",
+    "title": "Ein soziales Mikroskop für den Wandel von Ernährungssystemen",
+    "description1": "Durch groß angelegte Datenerfassung weltweit und LLM-gesteuerte Forschung analysiert das Sozioskop, wie sich Verhaltensweisen, Normen und Praktiken in nachhaltigen Ernährungsübergängen entwickeln.",
+    "description2": "Wir entwickeln eine systematische Methode, um komplexe soziale Muster messbar, vergleichbar und verständlich zu machen."
+  },
+  "breakthroughs": {
+    "title": "Wissenschaftliche Durchbrüche",
+    "subtitle": "Wir sammeln nicht nur Geschichten. Wir entdecken die grundlegenden Gesetze, wie sich Gesellschaften selbst transformieren.",
+    "card1": {
+      "title": "Universelle Muster über Kulturen hinweg",
+      "description": "Trotz großer kultureller Unterschiede finden wir gemeinsame Mechanismen, wie Gemeinschaften nachhaltigen Wandel erreichen."
+    },
+    "card2": {
+      "title": "Kulturübergreifende Mustererkennung",
+      "description": "Wir können jetzt vergleichen, wie Nachhaltigkeit in verschiedenen Kontexten funktioniert und universelle Mechanismen unter oberflächlichen Unterschieden entdecken."
+    },
+    "card3": {
+      "title": "Von Mikro zu Makro",
+      "description": "Zum ersten Mal können wir den Weg von individuellen Entscheidungen über Gemeinschaftspraktiken bis zur systemischen Transformation rigoros nachzeichnen."
+    },
+    "card4": {
+      "title": "Eine verallgemeinerbare Methode",
+      "description": "Wir beginnen mit Ernährung als unserem \"Modellorganismus\", aber diese Methodik kann auf jeden Bereich des sozialen Wandels angewendet werden."
+    }
+  },
+  "newsletter": {
+    "title": "Abonnieren Sie unseren Newsletter und erhalten Sie unsere neuesten Initiativen direkt in Ihren Posteingang",
+    "emailPlaceholder": "E-Mail-Adresse eingeben",
+    "button": "Abonnieren",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "E-Mail muss gültig sein",
+    "success": "Vielen Dank fürs Abonnieren!",
+    "error": "Etwas ist schiefgegangen. Bitte versuchen Sie es erneut.",
+    "subscribe": "Abonnieren"
+  },
+  "cta": {
+    "title": "Werden Sie Teil der Bewegung",
+    "description": "Arbeiten Sie an einer Initiative für kollektive Intelligenz oder soziale Innovation? Teilen Sie Ihre Arbeit mit unserer globalen Gemeinschaft und tragen Sie zum wachsenden Wissensschatz über kollaborative Problemlösung bei.",
+    "button": "Initiative einreichen"
+  },
+  "leadingResearch": {
+    "title": "Die Forschung leiten",
+    "eth": {
+      "title": "ETH Zürich",
+      "description": "Lehrstuhl für soziale Netzwerke"
+    },
+    "ulb": {
+      "title": "Freie Universität Brüssel",
+      "description": "Zentrum Leo Apostel"
+    },
+    "nomis": "Unterstützt von der NOMIS-Stiftung"
+  },
+  "pages": {
+    "methodology": "Methodik"
+  },
+  "about": {
+    "meta": {
+      "title": "Über Das Sozioskop"
+    },
+    "hero": {
+      "title": "Über Das Sozioskop",
+      "subtitle": "Verstehen, was nachhaltigen Wandel wirklich antreibt"
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "paragraph1": "Das Sozioskop ist ein transformatives qualitatives Forschungsprojekt, das abbildet, wie Verhaltensweisen, Normen und Gemeinschaften den Übergang zu nachhaltigen Ernährungssystemen beeinflussen.",
+      "paragraph2": "Das Sozioskop dient als umfassendes Observatorium dieser Bemühungen und macht Wissen für Forscher, politische Entscheidungsträger und Praktiker weltweit zugänglich. Ebenso wichtig ist es, lokale Initiativen ins Rampenlicht zu rücken, die vor Ort Veränderungen anführen und den Wandel hin zu einem nachhaltigeren Ernährungssystem vorantreiben."
+    },
+    "info": {
+      "established": {
+        "label": "Gegründet",
+        "value": "2022",
+        "detail": "Wächst seit Tag eins"
+      },
+      "location": {
+        "label": "Heimatbasis",
+        "value": "Paris, Frankreich",
+        "detail": "Wo Ideen auf Croissants treffen"
+      },
+      "reach": {
+        "label": "Globale Reichweite",
+        "value": "35+ Länder",
+        "detail": "Und es wächst weiter..."
+      }
+    },
+    "whatWeDo": {
+      "title": "Was wir tun",
+      "paragraph1": "Das Sozioskop untersucht, wie nachhaltiger Wandel vor Ort geschieht, mit Schwerpunkt auf Ernährungssystemen. Wir dokumentieren lokale Lösungen, sprechen mit Praktikern und analysieren Erkenntnisse mithilfe von KI, um die Muster hinter wirkungsvoller Innovation aufzudecken.",
+      "paragraph2": "Durch systematische Forschung und Gemeinschaftsengagement identifizieren, dokumentieren und analysieren wir Initiativen, die Prinzipien nachhaltiger Transformation verkörpern. Unsere Datenbank umfasst Basisbewegungen, gemeinschaftlich geführte Projekte, partizipative Governance-Experimente und Plattformen für kollaborative Problemlösung von allen Kontinenten."
+    },
+    "methodology": {
+      "title": "Unsere Methodik",
+      "subtitle": "Kombination akademischer Strenge mit partizipativen Forschungsansätzen",
+      "step1": {
+        "title": "Identifikation",
+        "desc": "Durch Netzwerkanalyse, Expertenempfehlungen und Gemeinschaftsnominierungen identifizieren wir Initiativen, die Prinzipien nachhaltiger Transformation demonstrieren."
+      },
+      "step2": {
+        "title": "Dokumentation",
+        "desc": "Unsere geschulten Forscher führen ausführliche Gespräche mit Initiativleitern und Teilnehmern und erfassen reichhaltige qualitative Daten über lokale Ernährungssysteme."
+      },
+      "step3": {
+        "title": "Analyse",
+        "desc": "Mit KI-gestützten Mixed-Methods analysieren wir Muster über Initiativen hinweg und identifizieren Erfolgsfaktoren, Herausforderungen und übertragbare Erkenntnisse."
+      },
+      "step4": {
+        "title": "Verbreitung",
+        "desc": "Wir teilen Erkenntnisse durch Publikationen, soziale Medien und Gemeinschaftsengagement und stellen sicher, dass Wissen weltweit vielfältige Zielgruppen erreicht."
+      }
+    },
+    "values": {
+      "title": "Unsere Werte",
+      "global": {
+        "title": "Globale Perspektive",
+        "desc": "Wir erkennen an, dass sich nachhaltiger Wandel in verschiedenen Kulturen und Kontexten unterschiedlich manifestiert, und wertschätzen diese Vielfalt als Quelle von Lernen und Innovation."
+      },
+      "collaboration": {
+        "title": "Zusammenarbeit",
+        "desc": "Wir praktizieren, was wir studieren, und arbeiten kollaborativ mit Forschungspartnern, Gemeindemitgliedern und Initiativen zusammen, um Wissen über Ernährungssysteme mitzugestalten."
+      },
+      "open": {
+        "title": "Offenheit",
+        "desc": "Wir glauben, dass Wissen frei zugänglich sein sollte. Unsere Datenbank ist für alle offen und unterstützt das globale Gemeingut der Nachhaltigkeitsforschung."
+      },
+      "ethical": {
+        "title": "Ethische Praxis",
+        "desc": "Wir forschen mit Integrität, respektieren die Autonomie der Teilnehmer, wahren Vertraulichkeit und stellen sicher, dass unsere Arbeit den Gemeinschaften zugutekommt, die wir untersuchen."
+      }
+    },
+    "cta": {
+      "title": "Machen Sie mit",
+      "description": "Ob Sie Forscher, Praktiker oder Gemeinschaftsorganisator sind, es gibt viele Möglichkeiten, sich mit dem Sozioskop zu engagieren und zu unserem gemeinsamen Verständnis nachhaltiger Ernährungssysteme beizutragen.",
+      "submitButton": "Initiative einreichen",
+      "contactButton": "Kontaktieren Sie uns"
+    }
+  },
+  "products": {
+    "meta": {
+      "title": "Produkte & Lösungen - Das Sozioskop"
+    },
+    "hero": {
+      "title": "Produkte und Lösungen",
+      "subtitle": "Entdecken Sie nachhaltige Lebensmittelprodukte und Dienstleistungen von unserer globalen Gemeinschaft von Praktikern"
+    },
+    "intro": {
+      "title": "Nachhaltige Produkte und Dienstleistungen",
+      "description": "Unterstützen Sie Initiativen, die nachhaltigen Wandel in Lebensmittelsystemen vorantreiben."
+    },
+    "visitWebsite": "Website besuchen",
+    "filters": {
+      "all": "Alle Produkte",
+      "food": "Lebensmittelprodukte",
+      "tools": "Werkzeuge und Ausrüstung",
+      "services": "Dienstleistungen",
+      "education": "Bildung und Schulung"
+    },
+    "sortBy": "Sortieren nach",
+    "sort": {
+      "order": "Standardreihenfolge",
+      "name": "Name",
+      "dateAdded": "Hinzugefügt am"
+    },
+    "perPage": "Elemente pro Seite",
+    "pagination": {
+      "previous": "Zurück",
+      "next": "Weiter"
+    },
+    "loadMore": "Mehr laden",
+    "showing": "Zeige {start}-{end} von {total} Produkten",
+    "cta": {
+      "title": "Möchten Sie Ihr Produkt vorstellen?",
+      "description": "Wenn Sie Teil unseres Netzwerks sind und nachhaltige Lebensmittelprodukte oder -dienstleistungen teilen möchten, würden wir sie gerne hier präsentieren.",
+      "submitButton": "Ihr Produkt einreichen",
+      "learnMoreButton": "Mehr erfahren"
+    }
   }
 }

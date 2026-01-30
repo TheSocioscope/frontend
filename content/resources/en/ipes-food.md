@@ -6,5 +6,5 @@ date: Est. 2008
 abstract: Independent panel of experts promoting evidence-based solutions for food system transformation. Provides critical analysis, convenes diverse stakeholders, and advocates for systemic change toward sustainable and equitable food systems globally.
 link: https://example.com/resource5
 published: true
-order: 5
+createdAt: 2024-11-15
 ---

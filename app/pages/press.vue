@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PressHero />
+    <PageHero :title="$t('press.hero.title')" :subtitle="$t('press.hero.subtitle')" icon="📰" />
     <PressResources />
     <PressQuickFacts />
     <PressContact />

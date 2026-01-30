@@ -2,7 +2,7 @@
   <v-card class="project-offers mb-4" elevation="2" id="offers">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-box-open</v-icon>
-      {{ $t('common.offers') }}
+      {{ $t('projects.detail.offers') }}
     </v-card-title>
 
     <v-card-text>
@@ -67,7 +67,9 @@ const getEmoji = (icon?: string) => {
   background-color: #f5edd6;
   border-radius: 12px;
   overflow: hidden;
-  transition: transform 0.3s, box-shadow 0.3s;
+  transition:
+    transform 0.3s,
+    box-shadow 0.3s;
   border: 2px solid #4ca049;
 
   &:hover {

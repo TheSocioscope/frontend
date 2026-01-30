@@ -2,7 +2,7 @@
   <v-card v-if="project.team && project.team.length > 0" id="team" class="project-team">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-account-group-outline</v-icon>
-      {{ $t('common.team') }}
+      {{ $t('projects.detail.team') }}
     </v-card-title>
     <v-card-text>
       <v-row>

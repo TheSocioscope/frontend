@@ -1,6 +1,6 @@
 <template>
   <div>
-    <AboutHero />
+    <PageHero :title="$t('about.hero.title')" :subtitle="$t('about.hero.subtitle')" icon="🌿" />
     <AboutMission />
     <AboutWhatWeDo />
     <AboutMethodology />
@@ -10,7 +10,7 @@
 </template>
 
 <script setup lang="ts">
-const { t } = useI18n()
+const { t, t: $t } = useI18n()
 
 useHead({
   title: t('about.meta.title')

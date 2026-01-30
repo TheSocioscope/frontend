@@ -1,0 +1,138 @@
+// Global pagination and sort controls styles
+@use './variables' as *;
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2rem 0;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.sort-controls,
+.per-page-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+
+  label {
+    font-weight: 500;
+    color: $brown-dark;
+  }
+}
+
+.select {
+  padding: 0.5rem 1rem;
+  border: 2px solid $warm-beige;
+  border-radius: 0;
+  background: white;
+  font-size: 1rem;
+  cursor: pointer;
+  height: 47px;
+
+  &:focus {
+    outline: none;
+    border-color: #4ca049;
+  }
+}
+
+.sort-btn {
+  padding: 0 1rem;
+  background: #4ca049;
+  color: white;
+  border: none;
+  border-radius: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+  min-width: 45px;
+  height: 47px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &:hover {
+    background: $green-dark;
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 3rem;
+}
+
+.pagination-pages {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.pagination-btn {
+  padding: 0.75rem 1.25rem;
+  background: white;
+  border: 2px solid $warm-beige;
+  border-radius: 0;
+  color: $brown-dark;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s;
+
+  &:hover:not(:disabled) {
+    background: #4ca049;
+    color: white;
+    border-color: #4ca049;
+  }
+
+  &.active {
+    background: #4ca049;
+    color: white;
+    border-color: #4ca049;
+  }
+
+  &.ellipsis {
+    cursor: default;
+    &:hover {
+      background: white;
+      color: $brown-dark;
+      border-color: $warm-beige;
+    }
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
+
+.load-more {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.load-more-btn {
+  padding: 1rem 2rem;
+  background: #4ca049;
+  color: white;
+  border: none;
+  border-radius: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s;
+
+  &:hover {
+    background: $green-dark;
+  }
+}
+
+.results-info {
+  text-align: center;
+  margin-top: 2rem;
+  color: $brown-dark;
+  font-size: 0.9rem;
+}

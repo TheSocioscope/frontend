@@ -19,9 +19,18 @@ interface CountryStats {
   }
 }
 
+interface InterviewerFile {
+  interviewers?: Array<{
+    name: string
+    country?: string
+    picture?: string
+  }>
+}
+
 interface OverallStats {
   totalProjects: number
   totalCountries: number
+  totalInterviewers: number
 }
 
 export default defineNitroPlugin(async (nitroApp) => {
@@ -64,10 +73,35 @@ export default defineNitroPlugin(async (nitroApp) => {
       }
     }
 
+    // Count interviewers from markdown files
+    let totalInterviewers = 0
+    try {
+      const interviewersDir = join(process.cwd(), 'content/interviewers')
+      const interviewerFiles = await readdir(interviewersDir)
+      const mdFiles = interviewerFiles.filter((file) => file.endsWith('.md'))
+
+      for (const file of mdFiles) {
+        const content = await readFile(join(interviewersDir, file), 'utf-8')
+        // Extract frontmatter
+        const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/)
+        if (frontmatterMatch) {
+          const frontmatter = frontmatterMatch[1]
+          // Count interviewers in the interviewers array
+          const interviewerMatches = frontmatter.match(/- name:/g)
+          if (interviewerMatches) {
+            totalInterviewers += interviewerMatches.length
+          }
+        }
+      }
+    } catch (error) {
+      console.error('❌ Error counting interviewers:', error)
+    }
+
     // Calculate overall stats
     const overallStats: OverallStats = {
       totalProjects: jsonFiles.length,
-      totalCountries: Object.keys(countryStats).length
+      totalCountries: Object.keys(countryStats).length,
+      totalInterviewers
     }
 
     // Write the stats files
@@ -78,7 +112,7 @@ export default defineNitroPlugin(async (nitroApp) => {
     )
 
     console.log(
-      `✅ Generated statistics: ${overallStats.totalProjects} projects, ${overallStats.totalCountries} countries`
+      `✅ Generated statistics: ${overallStats.totalProjects} projects, ${overallStats.totalCountries} countries, ${overallStats.totalInterviewers} interviewers`
     )
   } catch (error) {
     console.error('❌ Error generating country statistics:', error)
