@@ -176,7 +176,7 @@
       >
         <!-- Show picture if available, otherwise show initials -->
         <div v-if="interviewer.picture" class="interviewer-image-wrapper">
-          <img :src="interviewer.picture" :alt="interviewer.name" class="interviewer-image" />
+          <NuxtImg :src="interviewer.picture" :alt="interviewer.name" class="interviewer-image" />
         </div>
         <div v-else class="interviewer-avatar beige">{{ getInitials(interviewer.name) }}</div>
         
