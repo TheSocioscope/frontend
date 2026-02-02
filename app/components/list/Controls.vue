@@ -7,7 +7,7 @@
         :items="sortOptions"
         item-title="label"
         item-value="value"
-        outlined
+        variant="outlined"
         bg-color="white"
         rounded="0"
         hide-details
@@ -28,7 +28,7 @@
       <v-select
         v-model.number="internalItemsPerPage"
         :items="perPageOptions"
-        outlined
+        variant="outlined"
         bg-color="white"
         rounded="0"
         hide-details
