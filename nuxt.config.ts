@@ -58,15 +58,34 @@ export default defineNuxtConfig({
 
   // Site configuration
   site: {
-    url: 'https://thesocioscope.github.io/frontend',
+    url: 'https://thesocioscope.github.io',
     name: 'The Socioscope',
     description: 'Seeing How Societies Transform',
-    defaultLocale: 'en'
+    defaultLocale: 'en',
+    // Suppress the path warning - we need /frontend for GitHub Pages
+    trailingSlash: true
   },
 
   // Sitemap configuration
   sitemap: {
     xsl: false
+  },
+
+  // Fonts configuration - handle network failures gracefully in CI
+  fonts: {
+    providers: {
+      google: {
+        experimental: {
+          disableLocalFallbacks: false
+        }
+      }
+    },
+    defaults: {
+      fallbacks: {
+        serif: ['Georgia', 'Times New Roman', 'serif'],
+        'sans-serif': ['Arial', 'Helvetica', 'sans-serif']
+      }
+    }
   },
 
   // Image configuration

@@ -7,9 +7,9 @@ interviewers:
   - name: Adela Vasku
     country: Czechia
     picture: adela-vasku.jpg
-  - name: Albena Shkodorova
+  - name: Albena Shkodrova
     country: Bulgaria
-    picture: /images/team/Albena Shkodorova.jpg
+    picture: /images/team/Albena Shkodrova.jpeg
   - name: Alejandra Maldonado
     country: Mexico
     picture: ""
@@ -54,7 +54,7 @@ interviewers:
     picture: /images/team/Betania Ayala Valdez.jpg
   - name: Boris Pun
     country: Hong Kong
-    picture: /images/team/Boris.jpg
+    picture: /images/team/Boris.png
   - name: Brahim Lebbar
     country: Morocco
     picture: /images/team/Brahim.jpg
@@ -81,13 +81,13 @@ interviewers:
     picture: ""
   - name: Denis Woniala
     country: Uganda
-    picture: /images/team/Denis.jpg
+    picture: /images/team/Denis.png
   - name: Eizo Muñoz
     country: Peru
     picture: /images/team/Eizo.jpg
   - name: Emmanuelle Hopkins
     country: USA
-    picture: /images/team/Emmanuelle.jpg
+    picture: /images/team/Emmanuelle.png
   - name: Eoghan Mcdonaugh
     country: UK, Kenya
     picture: /images/team/Eoghan.jpg
@@ -126,10 +126,10 @@ interviewers:
     picture: /images/team/Jen Horn.jpg
   - name: Jérémie Szlamowicz
     country: "-"
-    picture: /images/team/Jérémie.jpg
+    picture: ""
   - name: Jeremy Barajas
     country: USA
-    picture: /images/team/Jeremy.jpg
+    picture: /images/team/Jeremy.png
   - name: Judith Huamani
     country: Peru
     picture: /images/team/Judith Huamani.jpg
@@ -186,10 +186,10 @@ interviewers:
     picture: /images/team/Mei Anne Hills.jpg
   - name: Mercedes Ejarque
     country: Argentina
-    picture: /images/team/Mercedes.jpg
+    picture: /images/team/Mercedes.png
   - name: Michelle Ramírez
     country: Mexico
-    picture: /images/team/Michelle.jpg
+    picture: /images/team/Michelle.png
   - name: Milena Duran
     country: Argentina
     picture: /images/team/Milena.jpg
