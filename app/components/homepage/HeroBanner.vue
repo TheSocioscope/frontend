@@ -168,7 +168,18 @@ class GrassAnimation {
     const x = Math.random() * this.canvasWidth
     const y = this.canvasHeight + 5
     const angle = -Math.PI / 2 + (Math.random() - 0.5) * (Math.PI / 8) // Upward with ±22.5° variation
-    const height = Math.random() * 40 + 30 // 30-70px tall
+
+    // Gaussian distribution for height using Box-Muller transform
+    // Centered on 50px, spread from ~25px (0.5x) to ~150px (3x)
+    const gaussianRandom = () => {
+      const u1 = Math.random()
+      const u2 = Math.random()
+      return Math.sqrt(-2 * Math.log(u1)) * Math.cos(2 * Math.PI * u2)
+    }
+    const meanHeight = 50
+    const stdDev = 25 // Controls spread
+    const gaussianHeight = meanHeight + gaussianRandom() * stdDev
+    const height = Math.max(25, Math.min(150, gaussianHeight)) // Clamp between 0.5x and 3x
 
     // Randomize color: 50% get #4ca049, rest random among the other 3
     let color: string
@@ -270,7 +281,7 @@ onBeforeUnmount(() => {
   position: relative;
   overflow: hidden;
   // 96% of viewport height minus navigation bar height (typically 80px)
-  min-height: calc(96vh - 80px);
+  min-height: calc(97vh - 80px);
   display: flex;
   align-items: center;
   justify-content: center;

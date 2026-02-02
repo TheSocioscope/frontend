@@ -61,20 +61,16 @@ onMounted(async () => {
     const response = await fetch(`${baseURL}data/country-stats.json`)
     countryStats.value = await response.json()
 
-    console.log('Loaded country stats:', Object.keys(countryStats.value).length, 'countries')
-
     // Convert country codes to map names with counts
     for (const [code, stats] of Object.entries(countryStats.value)) {
       const mapName = countryCodeToMapName[code]
       if (mapName) {
         countryData.value[mapName] = stats.count
-        console.log(`Mapped: ${code} -> ${mapName} (${stats.count} projects)`)
       } else {
         console.warn(`No mapping found for country code: ${code}`)
       }
     }
 
-    console.log('Country data for map:', Object.keys(countryData.value).length, 'countries')
     dataLoaded.value = true
   } catch (error) {
     console.error('Error loading country stats:', error)
