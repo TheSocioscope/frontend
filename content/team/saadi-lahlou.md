@@ -1,7 +1,7 @@
 ---
 firstname: Saadi
 lastname: Lahlou
-picture: ''
+picture: '/images/team/Saadi.jpg'
 country: France
 category: principal-investigators
 role: Principal Investigator

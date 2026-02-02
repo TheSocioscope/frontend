@@ -1,7 +1,7 @@
 ---
 firstname: Helga
 lastname: Nowotny
-picture: ''
+picture: '/images/team/Helga.jpg'
 country: Austria
 category: principal-investigators
 role: Principal Investigator

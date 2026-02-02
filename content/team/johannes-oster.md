@@ -1,7 +1,7 @@
 ---
 firstname: Johannes
 lastname: Oster
-picture: ''
+picture: '/images/team/Johannes.jpg'
 country: Austria
 category: co-investigators
 role: AI & Research

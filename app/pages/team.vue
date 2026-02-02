@@ -14,6 +14,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
       />
     </TeamSection>
 
@@ -30,6 +31,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
         beige
       />
     </TeamSection>
@@ -46,6 +48,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
       />
     </TeamSection>
 
@@ -62,6 +65,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
         beige
       />
     </TeamSection>
@@ -78,6 +82,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
       />
     </TeamSection>
 
@@ -94,6 +99,7 @@
         :lastname="member.lastname"
         :role="member.role"
         :details="member.details"
+        :picture="member.picture"
         beige
       />
     </TeamSection>

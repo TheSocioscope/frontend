@@ -1,9 +1,9 @@
 ---
 firstname: Hamed
 lastname: Bouare
-picture: ''
+picture: '/images/team/Hamed.png'
 country: France
 category: technology
-role: Development Team
+role: Frontend Development
 details: ''
 ---

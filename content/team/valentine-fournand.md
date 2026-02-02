@@ -1,7 +1,7 @@
 ---
 firstname: Valentine
 lastname: Fournand
-picture: ''
+picture: '/images/team/Valentine.jpg'
 country: France
 category: project-management
 role: Panel Manager

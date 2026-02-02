@@ -1,7 +1,7 @@
 ---
 firstname: Paulius
 lastname: Yamin
-picture: ''
+picture: '/images/team/Paulius.jpg'
 country: France
 category: co-investigators
 role: Co-Investigator

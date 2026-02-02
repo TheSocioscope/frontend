@@ -1,9 +1,9 @@
 ---
 firstname: Eliot
 lastname: Boutherin
-picture: ''
+picture: '/images/team/Eliot.jpg'
 country: France
 category: technology
-role: Development Team
+role: Dev Ops, Backend and IaC engineer
 details: ''
 ---

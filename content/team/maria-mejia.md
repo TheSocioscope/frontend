@@ -1,7 +1,7 @@
 ---
 firstname: Maria
 lastname: Mejia
-picture: ''
+picture: '/images/team/Maria.jpg'
 country: Colombia
 category: fieldwork
 role: Fieldwork Manager

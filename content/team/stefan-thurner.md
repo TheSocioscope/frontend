@@ -1,7 +1,7 @@
 ---
 firstname: Stefan
 lastname: Thurner
-picture: ''
+picture: '/images/team/Stefan.jpg'
 country: Austria
 category: co-investigators
 role: Co-Investigator

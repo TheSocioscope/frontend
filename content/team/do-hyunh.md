@@ -1,7 +1,7 @@
 ---
 firstname: Do
 lastname: Hyunh
-picture: ''
+picture: '/images/team/Do.jpg'
 country: France
 category: technology
 role: AI Specialist

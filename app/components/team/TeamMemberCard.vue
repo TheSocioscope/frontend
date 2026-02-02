@@ -1,6 +1,9 @@
 <template>
   <div class="team-card">
-    <div :class="['team-avatar', { 'team-avatar-beige': beige }]">{{ initials }}</div>
+    <div v-if="picture" class="team-picture">
+      <img :src="picture" :alt="`${firstname} ${lastname}`" />
+    </div>
+    <div v-else :class="['team-avatar', { 'team-avatar-beige': beige }]">{{ initials }}</div>
     <div class="team-content">
       <h3 class="team-name">{{ firstname }} {{ lastname }}</h3>
       <p class="team-role">{{ role }}</p>
@@ -16,6 +19,7 @@ const props = defineProps<{
   role: string
   details?: string
   beige?: boolean
+  picture?: string
 }>()
 
 const initials = computed(() => {
@@ -36,6 +40,18 @@ const initials = computed(() => {
     transform: translateY(-5px);
     box-shadow: 0 12px 36px rgba(44, 36, 22, 0.15);
     border-color: $green-bright;
+  }
+}
+
+.team-picture {
+  aspect-ratio: 1;
+  overflow: hidden;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
   }
 }
 

@@ -1,7 +1,7 @@
 ---
 firstname: Mirta
 lastname: Galesic
-picture: ''
+picture: '/images/team/Mirta.jpg'
 country: Austria
 category: co-investigators
 role: Co-Investigator

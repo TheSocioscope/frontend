@@ -1,7 +1,7 @@
 ---
 firstname: Nadège
 lastname: Bourgeois
-picture: ''
+picture: '/images/team/Nadege.jpg'
 country: France
 category: operations
 role: Finance, Paris IAS
