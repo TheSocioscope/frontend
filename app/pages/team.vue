@@ -157,6 +157,7 @@
     <TeamSection
       :title="$t('team.categories.globalInterviewerNetwork.title')"
       :description="$t('team.categories.globalInterviewerNetwork.description')"
+      beige
     >
       <template #search>
         <div class="search-box">
@@ -173,24 +174,12 @@
         :key="interviewer.name"
         class="interviewer-card"
       >
-        <div class="interviewer-avatar">{{ getInitials(interviewer.name) }}</div>
-        <h3>{{ interviewer.name }}</h3>
-        <p class="interviewer-country">{{ interviewer.country }}</p>
-      </div>
-    </TeamSection>
-
-    <!-- 2023 Interviewers -->
-    <TeamSection
-      :title="$t('team.categories.2023Interviewers.title')"
-      :description="$t('team.categories.2023Interviewers.description')"
-      beige
-    >
-      <div
-        v-for="interviewer in interviewers2023?.interviewers || []"
-        :key="interviewer.name"
-        class="interviewer-card beige-section"
-      >
-        <div class="interviewer-avatar beige">{{ getInitials(interviewer.name) }}</div>
+        <!-- Show picture if available, otherwise show initials -->
+        <div v-if="interviewer.picture" class="interviewer-image-wrapper">
+          <NuxtImg :src="interviewer.picture" :alt="interviewer.name" class="interviewer-image" />
+        </div>
+        <div v-else class="interviewer-avatar beige">{{ getInitials(interviewer.name) }}</div>
+        
         <h3>{{ interviewer.name }}</h3>
         <p class="interviewer-country">{{ interviewer.country }}</p>
       </div>
@@ -272,11 +261,6 @@ const { data: allInterviewers } = await useAsyncData('all-interviewers', () =>
   queryCollection('interviewers').all()
 )
 
-const interviewers2023 = computed(() => {
-  if (!allInterviewers.value) return null
-  return allInterviewers.value.find((i: any) => i.category === '2023-interviewers')
-})
-
 const globalNetwork = computed(() => {
   if (!allInterviewers.value) return null
   return allInterviewers.value.find((i: any) => i.category === 'global-interviewer-network')
@@ -349,16 +333,26 @@ const filteredGlobalInterviewers = computed(() => {
     margin-bottom: 0.25rem;
     font-weight: 600;
   }
+}
 
-  // For interviewers in beige sections, avatar should be cream
-  &.beige-section .interviewer-avatar {
-    background: $cream !important;
-  }
+.interviewer-image-wrapper {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: 0 auto 1rem;
+  border: 2px solid $warm-beige;
+}
+
+.interviewer-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .interviewer-avatar {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   background: $warm-beige;
   display: flex;
@@ -368,6 +362,10 @@ const filteredGlobalInterviewers = computed(() => {
   font-weight: 600;
   color: $forest-green;
   margin: 0 auto 1rem;
+
+  &.beige {
+    background: $cream;
+  }
 }
 
 .partner-country {
