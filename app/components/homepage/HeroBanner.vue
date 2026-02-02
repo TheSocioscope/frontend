@@ -1,11 +1,17 @@
 <template>
-  <section class="hero">
-    <canvas id="canvas"></canvas>
+  <section ref="heroRef" class="hero" @mousemove="handleMouseMove" @mouseleave="handleMouseLeave">
+    <canvas id="canvas" />
     <!-- Animated Circles Background -->
     <div class="hero-circles">
-      <div class="circle circle-1" />
-      <div class="circle circle-2" />
-      <div class="circle circle-3" />
+      <div class="circle-wrapper" :style="circle1Style">
+        <div class="circle circle-1" />
+      </div>
+      <div class="circle-wrapper" :style="circle2Style">
+        <div class="circle circle-2" />
+      </div>
+      <div class="circle-wrapper" :style="circle3Style">
+        <div class="circle circle-3" />
+      </div>
     </div>
 
     <!-- Hero Content -->
@@ -19,9 +25,77 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, onBeforeUnmount } from 'vue'
+import { onMounted, onBeforeUnmount, ref, computed } from 'vue'
 
 const { t: $t } = useI18n()
+
+// Mouse tracking for circles
+const heroRef = ref<HTMLElement | null>(null)
+const mouseX = ref(0)
+const mouseY = ref(0)
+let idleTimeout: ReturnType<typeof setTimeout> | null = null
+
+// Helper to calculate circle style based on size multiplier
+// sizeMultiplier: bigger value = bigger circle
+// Bigger circles get bigger offset, smaller circles get bigger scale reduction
+const getCircleOffset = (sizeMultiplier: number) => {
+  // Calculate distance from center using Pythagorean theorem
+  const distance = Math.sqrt(mouseX.value ** 2 + mouseY.value ** 2)
+  const maxDistance = 400 // Normalize distance
+
+  // Offset: bigger circles move more (proportional to size)
+  const maxOffset = 40 * sizeMultiplier
+  const offsetX = -(mouseX.value / 8) * sizeMultiplier
+  const offsetY = -(mouseY.value / 8) * sizeMultiplier
+  const clampedX = Math.max(-maxOffset, Math.min(maxOffset, offsetX))
+  const clampedY = Math.max(-maxOffset, Math.min(maxOffset, offsetY))
+
+  // Scale: smaller circles shrink more (inverse proportion to size)
+  // Further from center = smaller scale
+  const scaleReduction = (distance / maxDistance) * 0.4 * (1.5 - sizeMultiplier)
+  const scale = Math.max(0.6, 1 - scaleReduction)
+
+  return { transform: `translate(${clampedX}px, ${clampedY}px) scale(${scale})` }
+}
+
+// Computed styles for each circle - reactive to mouse position
+// Size multipliers: 0.5 (smallest), 0.75 (medium), 1 (largest)
+const circle1Style = computed(() => getCircleOffset(0.5))
+const circle2Style = computed(() => getCircleOffset(0.75))
+const circle3Style = computed(() => getCircleOffset(1))
+
+const resetToIdle = () => {
+  mouseX.value = 0
+  mouseY.value = 0
+}
+
+const handleMouseMove = (event: MouseEvent) => {
+  if (!heroRef.value) return
+
+  // Clear existing idle timeout
+  if (idleTimeout) {
+    clearTimeout(idleTimeout)
+  }
+
+  const rect = heroRef.value.getBoundingClientRect()
+  const centerX = rect.width / 2
+  const centerY = rect.height / 2
+
+  // Calculate position relative to center
+  mouseX.value = event.clientX - rect.left - centerX
+  mouseY.value = event.clientY - rect.top - centerY
+
+  // Reset to idle after 3 seconds of no movement
+  idleTimeout = setTimeout(resetToIdle, 3000)
+}
+
+const handleMouseLeave = () => {
+  if (idleTimeout) {
+    clearTimeout(idleTimeout)
+  }
+  mouseX.value = 0
+  mouseY.value = 0
+}
 
 // Simplified Grass Animation
 // Draws grass blades from bottom to top over 30 seconds
@@ -263,8 +337,15 @@ canvas {
   pointer-events: none;
 }
 
-.circle {
+.circle-wrapper {
   position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease-out;
+}
+
+.circle {
   border-radius: 50%;
   border: 2px solid;
   opacity: 0.3;
@@ -298,8 +379,8 @@ canvas {
     opacity: 0.3;
   }
   50% {
-    transform: scale(1.1);
-    opacity: 0.5;
+    transform: scale(1.03);
+    opacity: 0.4;
   }
 }
 
