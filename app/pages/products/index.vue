@@ -10,7 +10,7 @@
         <ProductsIntro />
         <ProductsFilter :active-filter="activeFilter" @filter-change="handleFilterChange" />
 
-        <!-- Sort and Per Page Controls -->
+        <!-- Sort and Per Page Controls with Reset Button -->
         <ListControls
           v-model:sort-by="sortBy"
           v-model:sort-order="sortOrder"
@@ -19,7 +19,11 @@
           :sort-label="$t('products.sortBy')"
           :per-page-label="$t('products.perPage')"
           :show-per-page="!isMobile"
-        />
+        >
+          <template #center>
+            <ListFilterResetButton :has-active-filters="hasActiveFilters" @reset="resetFilters" />
+          </template>
+        </ListControls>
 
         <!-- Desktop: Paginated Grid -->
         <ProductsGrid v-if="!isMobile" :products="items" :active-filter="activeFilter" />
@@ -94,6 +98,15 @@ onMounted(() => {
 
 const handleFilterChange = (filter: string) => {
   activeFilter.value = filter
+}
+
+// Check if any filters are active (not 'all')
+const hasActiveFilters = computed(() => {
+  return activeFilter.value !== 'all'
+})
+
+const resetFilters = () => {
+  activeFilter.value = 'all'
 }
 
 // Use the localized collection composable

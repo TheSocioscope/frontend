@@ -39,6 +39,14 @@ const emit = defineEmits<{
 
 const localSearch = ref(props.searchQuery)
 
+// Watch for prop changes to sync local state
+watch(
+  () => props.searchQuery,
+  (newValue) => {
+    localSearch.value = newValue
+  }
+)
+
 const filters = computed(() => [
   { value: 'all', label: t('resources.filters.all') },
   { value: 'article', label: t('resources.filters.article') },

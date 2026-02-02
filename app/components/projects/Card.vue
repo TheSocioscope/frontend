@@ -17,7 +17,7 @@
         }"
       />
 
-      <!-- Content overlay (visible on hover) -->
+      <!-- Content overlay - visible on hover -->
       <div class="project-card-overlay">
         <div class="overlay-content">
           <h3 class="text-h6 mb-3 font-weight-bold text-white">{{ localizedName }}</h3>
@@ -33,7 +33,7 @@
             <v-icon size="x-small" class="mr-1">mdi-map-marker</v-icon>
             {{ project.location }}
           </p>
-          <p class="text-body-2 line-clamp-4 mb-3 text-white">
+          <p class="text-body-2 mb-3 text-white" :class="descriptionClampClass">
             {{ localizedDescription }}
           </p>
           <div class="chip-container">
@@ -75,12 +75,12 @@
           </v-chip>
         </div>
         <div class="traditional-middle">
-          <h3 class="text-h5 font-weight-bold mb-3 text-grey-darken-4">{{ localizedName }}</h3>
+          <h3 class="text-h6 mb-3 font-weight-bold text-grey-darken-4">{{ localizedName }}</h3>
           <p v-if="project.location" class="text-caption mb-2 text-grey-darken-2">
             <v-icon size="x-small" class="mr-1">mdi-map-marker</v-icon>
             {{ project.location }}
           </p>
-          <p class="text-body-2 line-clamp-5 text-grey-darken-3">
+          <p class="text-body-2 text-grey-darken-3" :class="descriptionClampClass">
             {{ localizedDescription }}
           </p>
         </div>
@@ -143,6 +143,22 @@ const thumbnailUrl = computed(() => {
   return props.project.yt ? getThumbnailUrl(props.project.yt) : null
 })
 
+const descriptionClampClass = computed(() => {
+  const nameLength = localizedName.value.length
+
+  if (nameLength >= 170) {
+    return 'hide-description'
+  } else if (nameLength >= 140) {
+    return 'line-clamp-1'
+  } else if (nameLength >= 110) {
+    return 'line-clamp-3'
+  } else if (nameLength >= 80) {
+    return 'line-clamp-4'
+  } else {
+    return 'line-clamp-5'
+  }
+})
+
 const getStatusColor = (status: string) => {
   switch (status) {
     case 'pending':
@@ -166,6 +182,26 @@ const handleClick = () => {
 </script>
 
 <style scoped>
+.hide-description {
+  display: none;
+}
+
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;

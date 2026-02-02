@@ -23,7 +23,7 @@
           @search-change="handleSearchChange"
         />
 
-        <!-- Sort and Per Page Controls -->
+        <!-- Sort and Per Page Controls with Reset Button -->
         <ListControls
           v-model:sort-by="sortBy"
           v-model:sort-order="sortOrder"
@@ -32,7 +32,11 @@
           :sort-label="$t('resources.sortBy')"
           :per-page-label="$t('resources.perPage')"
           :show-per-page="!isMobile"
-        />
+        >
+          <template #center>
+            <ListFilterResetButton :has-active-filters="hasActiveFilters" @reset="resetFilters" />
+          </template>
+        </ListControls>
 
         <!-- Desktop: Paginated Grid -->
         <ResourcesGrid
@@ -144,6 +148,16 @@ const handleFilterChange = (filter: string) => {
 
 const handleSearchChange = (query: string) => {
   searchQuery.value = query
+}
+
+// Check if any filters are active (not 'all' or has search query)
+const hasActiveFilters = computed(() => {
+  return activeFilter.value !== 'all' || searchQuery.value.trim() !== ''
+})
+
+const resetFilters = () => {
+  activeFilter.value = 'all'
+  searchQuery.value = ''
 }
 
 const openModal = () => {

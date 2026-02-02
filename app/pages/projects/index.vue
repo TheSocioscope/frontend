@@ -18,6 +18,7 @@
           :type-options="typeOptions"
           class="mb-8"
           @update:model-value="filters = $event"
+          @reset="resetFilters"
         />
 
         <!-- Sort and Per Page Controls -->
@@ -26,6 +27,7 @@
           v-model:sort-order="sortOrder"
           v-model:items-per-page="itemsPerPage"
           :sort-options="sortOptions"
+          :per-page-options="[12, 24, 36, 48]"
           :sort-label="$t('projects.sortBy')"
           :per-page-label="$t('projects.perPage')"
           :show-per-page="!isMobile"
@@ -389,6 +391,21 @@ const handleProjectClick = (project: { stem: string }) => {
   navigateTo(localePath(`/projects/${projectId}`))
 }
 
+// Reset all filters
+const resetFilters = () => {
+  filters.value = {
+    searchQuery: '',
+    selectedContinent: null,
+    selectedCountries: [],
+    selectedStatus: null,
+    selectedThematics: [],
+    selectedFields: [],
+    selectedTypes: []
+  }
+  // Also clear URL query parameters
+  router.push({ query: {} })
+}
+
 useHead({
   title: $t('nav.projects')
 })
@@ -402,7 +419,7 @@ useHead({
 }
 
 .container {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
 }

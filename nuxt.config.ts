@@ -88,7 +88,13 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Seeing How Societies Transform' },
         { name: 'format-detection', content: 'telephone=no' }
       ],
-      link: [{ rel: 'icon', type: 'image/x-icon', href: process.env.NODE_ENV === 'production' ? '/frontend/favicon.ico' : '/favicon.ico' }]
+      link: [
+        {
+          rel: 'icon',
+          type: 'image/x-icon',
+          href: process.env.NODE_ENV === 'production' ? '/frontend/favicon.ico' : '/favicon.ico'
+        }
+      ]
     },
     pageTransition: { name: 'page', mode: 'out-in' }
   },

@@ -2,23 +2,39 @@
   <div class="controls">
     <div class="sort-controls">
       <label>{{ sortLabel }}:</label>
-      <select v-model="internalSortBy" class="select">
-        <option v-for="option in sortOptions" :key="option.value" :value="option.value">
-          {{ option.label }}
-        </option>
-      </select>
-      <button class="sort-btn" @click="toggleSort">
-        {{ internalSortOrder === 'asc' ? '▲' : '▼' }}
-      </button>
+      <v-select
+        v-model="internalSortBy"
+        :items="sortOptions"
+        item-title="label"
+        item-value="value"
+        outlined
+        bg-color="white"
+        rounded="0"
+        hide-details
+        density="compact"
+        class="sort-select"
+      />
+      <v-btn variant="outlined" rounded="0" height="40" class="sort-btn" @click="toggleSort">
+        <v-icon color="white">{{
+          internalSortOrder === 'asc' ? 'mdi-arrow-up' : 'mdi-arrow-down'
+        }}</v-icon>
+      </v-btn>
     </div>
+
+    <slot name="center" />
 
     <div v-if="showPerPage" class="per-page-controls">
       <label>{{ perPageLabel }}:</label>
-      <select v-model.number="internalItemsPerPage" class="select">
-        <option v-for="option in perPageOptions" :key="option" :value="option">
-          {{ option }}
-        </option>
-      </select>
+      <v-select
+        v-model.number="internalItemsPerPage"
+        :items="perPageOptions"
+        outlined
+        bg-color="white"
+        rounded="0"
+        hide-details
+        density="compact"
+        class="per-page-select"
+      />
     </div>
   </div>
 </template>
@@ -78,4 +94,10 @@ const toggleSort = () => {
 
 <style scoped lang="scss">
 @use '~~/assets/styles/pagination' as *;
+
+.sort-btn {
+  min-width: 40px !important;
+  width: 40px;
+  background-color: rgb(var(--v-theme-primary)) !important;
+}
 </style>
