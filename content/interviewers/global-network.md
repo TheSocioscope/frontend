@@ -4,129 +4,246 @@ description: Our worldwide network of trained interviewers
 category: global-interviewer-network
 searchable: true
 interviewers:
-  - name: Ahmed Hassan
-    country: Egypt
-    picture: ''
-  - name: Alexandra Popescu
-    country: Romania
-    picture: ''
-  - name: Amara Ndiaye
-    country: Senegal
-    picture: ''
-  - name: Ana Costa
-    country: Portugal
-    picture: ''
-  - name: Anders Nielsen
-    country: Norway
-    picture: ''
-  - name: Aya Nakamura
-    country: Japan
-    picture: ''
-  - name: Boris Petrov
+  - name: Adela Vasku
+    country: Czechia
+    picture: '/images/team/Adela Vasku.jpg'
+  - name: Albena Shkodorova
     country: Bulgaria
-    picture: '/images/team/Boris.png'
-  - name: Carlos Mendoza
+    picture: '/images/team/Albena Shkodorova.jpg'
+  - name: Alejandra Maldonado
     country: Mexico
     picture: ''
-  - name: Chen Wei
-    country: China
+  - name: Alejandra Moreno
+    country: Mexico
     picture: ''
-  - name: David Cohen
-    country: Israel
-    picture: ''
-  - name: Diego Torres
-    country: Argentina
-    picture: ''
-  - name: Elena Petrova
-    country: Russia
-    picture: ''
-  - name: Emma Wilson
-    country: Australia
-    picture: ''
-  - name: Fatima Al-Said
-    country: United Arab Emirates
-    picture: ''
-  - name: Fatou Diop
-    country: Mali
-    picture: ''
-  - name: Hassan Khalil
-    country: Lebanon
-    picture: ''
-  - name: Ingrid Larsen
-    country: Finland
-    picture: ''
-  - name: James Taylor
-    country: New Zealand
-    picture: ''
-  - name: Jamal Osman
-    country: Somalia
-    picture: ''
-  - name: Jean-Pierre Martin
-    country: Canada
-    picture: ''
-  - name: Juan Ramirez
+  - name: Alvaro Elorriete
+    country: Peru
+    picture: '/images/team/Alvaro.jpg'
+  - name: Amélie Peuteuil
+    country: France
+    picture: '/images/team/Amélie Peuteuil.jpg'
+  - name: Ana Maria Mandoza
     country: Colombia
+    picture: '/images/team/Ana Maria.jpg'
+  - name: Andrea Padilla
+    country: UK
+    picture: '/images/team/Andrea.jpg'
+  - name: Andrea Rivera
+    country: Peru
+    picture: '/images/team/Andrea.jpg'
+  - name: Anne Koigi
+    country: Kenya
+    picture: '/images/team/Anne.jpg'
+  - name: Annya Crane
+    country: Spain
+    picture: '/images/team/Annya.jpg'
+  - name: Anthony Fung Chun
+    country: Hong Kong
     picture: ''
-  - name: Karim Benzema
+  - name: Asemahle Mali
+    country: South Africa
+    picture: '/images/team/Asemahle.jpg'
+  - name: Astrid Bosjen
+    country: Denmark, UK
+    picture: '/images/team/Astrid.jpg'
+  - name: Bérénice Perroud
+    country: France, Denmark, UK
+    picture: '/images/team/Bérénice.jpg'
+  - name: Betania Ayala Valdez
+    country: Paraguay
+    picture: '/images/team/Betania Ayala Valdez.jpg'
+  - name: Boris Pun
+    country: Hong Kong
+    picture: '/images/team/Boris.jpg'
+  - name: Brahim Lebbar
     country: Morocco
-    picture: ''
-  - name: Kim Min-ji
-    country: South Korea
-    picture: ''
-  - name: Leila Farsi
-    country: Iran
-    picture: ''
-  - name: Lisa Müller
-    country: Switzerland
-    picture: ''
-  - name: Lucas Silva
-    country: Brazil
-    picture: '/images/team/Lucas.jpg'
-  - name: Marco Bianchi
+    picture: '/images/team/Brahim.jpg'
+  - name: Camille Senepin
+    country: France
+    picture: '/images/team/Camille Senepin.jpg'
+  - name: Camillo Ordonez
+    country: Colombia
+    picture: '/images/team/Camilo-Ordonez-Barona.webp'
+  - name: Cathy Kamanu
+    country: Regional Coordinator - Africa
+    picture: '/images/team/Cathy.jpg'
+  - name: Christine Adongo
+    country: Kenya
+    picture: '/images/team/Christine Adongo.jpg'
+  - name: Clémentine Decroix
+    country: France
+    picture: '/images/team/Clémentine.jpg'
+  - name: Daniela Pedroza
+    country: Colombia
+    picture: '/images/team/Daniela.jpg'
+  - name: Davide Gnoato
     country: Italy
     picture: ''
-  - name: Maria Rodriguez
-    country: Spain
+  - name: Denis Woniala
+    country: Uganda
+    picture: '/images/team/Denis.jpg'
+  - name: Eizo Muñoz
+    country: Peru
+    picture: '/images/team/Eizo.jpg'
+  - name: Emmanuelle Hopkins
+    country: USA
+    picture: '/images/team/Emmanuelle.jpg'
+  - name: Eoghan Mcdonaugh
+    country: UK, Kenya
+    picture: '/images/team/Eoghan.jpg'
+  - name: Fabian Rojas
+    country: Peru
+    picture: '/images/team/Fabian Rojas.jpg'
+  - name: Finn Richardson
+    country: Costa Rica
+    picture: '/images/team/Finn.jpg'
+  - name: Fred Munene
+    country: Kenya
+    picture: '/images/team/Fred.jpg'
+  - name: Gabriela Salazar
+    country: Peru
+    picture: '/images/team/Gabriela.jpg'
+  - name: Ganesh Radha-Udayakumar
+    country: India
+    picture: '/images/team/Ganesh.jpg'
+  - name: Gianina Chávarry Minaya
+    country: Peru
+    picture: '/images/team/Gianina Chávarry Minaya.jpg'
+  - name: Gustavo Grajeda
+    country: Paraguay
+    picture: '/images/team/Gustavo Grajeda.JPG'
+  - name: Helene Peters
+    country: France
+    picture: '/images/team/Helene-Peters-Zwingelstein.webp'
+  - name: Ho Jack Yong
+    country: Singapore
     picture: ''
-  - name: Michael O'Brien
-    country: Ireland
-    picture: ''
-  - name: Mohammed Ali
-    country: Pakistan
-    picture: ''
-  - name: Natasha Ivanov
-    country: Kazakhstan
-    picture: ''
-  - name: Nora Hansen
+  - name: Ignacio Bordoli
+    country: Argentina
+    picture: '/images/team/Ignacio.jpg'
+  - name: Jen Horn
+    country: Philippines
+    picture: '/images/team/Jen Horn.jpg'
+  - name: Jérémie Szlamowicz
+    country: ''
+    picture: '/images/team/Jérémie.jpg'
+  - name: Jeremy Barajas
+    country: USA
+    picture: '/images/team/Jeremy.jpg'
+  - name: Judith Huamani
+    country: Peru
+    picture: '/images/team/Judith Huamani.jpg'
+  - name: Julian May
+    country: South Africa
+    picture: '/images/team/Julian May.jpg'
+  - name: Karla Diaz
+    country: Peru
+    picture: '/images/team/Karla.jpg'
+  - name: Keshia Lauren Anne Hoaeane
+    country: Regional Coordinator - South Africa
+    picture: '/images/team/Keshia.jpg'
+  - name: L.A. Bretous
+    country: USA
+    picture: '/images/team/Line-Ariel.jpg'
+  - name: Lamia Afrasse
+    country: Morocco
+    picture: '/images/team/Lamia.jpg'
+  - name: Lance Scheepers
+    country: South Africa
+    picture: '/images/team/Lance.jpg'
+  - name: Lauriane Dos Santos
+    country: Cook Islands, French Polynesia
+    picture: '/images/team/Lauriane Dos Santos.jpg'
+  - name: Leonardo Herrera
+    country: Peru
+    picture: '/images/team/Leonardo.jpg'
+  - name: Loic Bonin
     country: Denmark
     picture: ''
-  - name: Olga Ivanova
-    country: Ukraine
+  - name: Lucía Rucoba
+    country: Peru
+    picture: '/images/team/Lucía Rucoba.jpg'
+  - name: Lucia Sosa
+    country: Argentina
+    picture: '/images/team/Lucia.jpg'
+  - name: Lucie Friedrich
+    country: France
+    picture: /images/team/Lucie.jpg
+  - name: Malgorzata Patok
+    country: Poland
+    picture: /images/team/Malgorzata.jpg
+  - name: Mariela Dyer
+    country: USA
+    picture: /images/team/Mariela.jpg
+  - name: Marina Baima
+    country: Argentina
+    picture: /images/team/Marina.jpg
+  - name: Matej Vohryzek
+    country: France, Japan, New Zealand
+    picture: /images/team/Matej.jpg
+  - name: Mei Anne Hills
+    country: UK
+    picture: /images/team/Mei Anne Hills.jpg
+  - name: Mercedes Ejarque
+    country: Argentina
+    picture: /images/team/Mercedes.jpg
+  - name: Michelle Ramírez
+    country: Mexico
+    picture: /images/team/Michelle.jpg
+  - name: Milena Duran
+    country: Argentina
+    picture: /images/team/Milena.jpg
+  - name: Nathaly Jiménez
+    country: Colombia
+    picture: /images/team/Nathaly.jpg
+  - name: Nicole Alexander
+    country: Denmark, UK
+    picture: /images/team/Nicole.jpg
+  - name: Oleg Dremov
+    country: Georgia, Armenia
+    picture: /images/team/Oleg.jpg
+  - name: Pablo Hellmund
+    country: Costa Rica
+    picture: /images/team/Pablo.jpg
+  - name: Paola Abril Campos
+    country: Regional Coordinator - Mexico
+    picture: /images/team/Paola.jpg
+  - name: Ravenn Tripplet
+    country: Regional Coordinator - USA
+    picture: /images/team/Ravenn.jpg
+  - name: Romina Sarmiento
+    country: Argentina
+    picture: /images/team/Romina.jpg
+  - name: Samara Zuckerbrod
+    country: Wales
+    picture: /images/team/Samara.jpg
+  - name: Santiago Borda
+    country: Colombia
+    picture: /images/team/Santiago.jpg
+  - name: Sarah Baudry
+    country: France
     picture: ''
-  - name: Pablo Sanchez
-    country: Chile
-    picture: '/images/team/Pablo.jpg'
-  - name: Priya Sharma
-    country: India
+  - name: Sifa Florence Sangwa
+    country: Rwanda
     picture: ''
-  - name: Raj Patel
-    country: India
-    picture: ''
-  - name: Sarah Johnson
-    country: United States
-    picture: ''
-  - name: Sofia Andersson
-    country: Sweden
-    picture: ''
-  - name: Svetlana Kozlov
-    country: Belarus
-    picture: ''
-  - name: Thanh Nguyen
-    country: Vietnam
-    picture: ''
-  - name: Yuki Tanaka
-    country: Japan
-    picture: ''
+  - name: Sharon Amali
+    country: Uganda
+    picture: /images/team/Sharon.jpg
+  - name: Siliziwe Zote
+    country: South Africa
+    picture: /images/team/Siliziwe.jpg
+  - name: Stephany Navas
+    country: Colombia
+    picture: /images/team/Stephany.jpg
+  - name: Taiye Orija
+    country: South Africa
+    picture: /images/team/Taiye.jpg
+  - name: Tony Alfred
+    country: Tanzania
+    picture: /images/team/Tony.png
+  - name: Umberto Cao
+    country: France
+    picture: /images/team/Umberto.webp
 ---
 
 Our global interviewer network spans five continents, bringing diverse perspectives and local expertise to The Socioscope research.
