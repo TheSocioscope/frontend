@@ -33,6 +33,7 @@ interface GrassBlade {
   segments: Array<{ x: number; y: number }>
   currentSegment: number
   maxSegments: number
+  color: string
 }
 
 class GrassAnimation {
@@ -42,7 +43,7 @@ class GrassAnimation {
   private canvasHeight = 0
   private dpi = 1
   private blades: GrassBlade[] = []
-  private readonly MAX_BLADES = 1000
+  private readonly MAX_BLADES = 800
   private readonly SEGMENTS_PER_BLADE = 10
   private drawInterval: number | null = null
   private animationTimeout: number | null = null
@@ -95,13 +96,23 @@ class GrassAnimation {
     const angle = -Math.PI / 2 + (Math.random() - 0.5) * (Math.PI / 8) // Upward with ±22.5° variation
     const height = Math.random() * 40 + 30 // 30-70px tall
 
+    // Randomize color: 50% get #4ca049, rest random among the other 3
+    let color: string
+    if (Math.random() < 0.5) {
+      color = '#4ca049' // green-bright
+    } else {
+      const otherColors = ['#4caf50', '#6b8e23', '#8fbc8f'] // green-medium, green-olive, green-light-olive
+      color = otherColors[Math.floor(Math.random() * otherColors.length)]
+    }
+
     const blade: GrassBlade = {
       x,
       y,
       angle,
       segments: [],
       currentSegment: 0,
-      maxSegments: this.SEGMENTS_PER_BLADE
+      maxSegments: this.SEGMENTS_PER_BLADE,
+      color
     }
 
     // Pre-calculate all segments for smooth curve
@@ -131,8 +142,10 @@ class GrassAnimation {
         ? { x: blade.x, y: blade.y }
         : blade.segments[blade.currentSegment - 1]
 
-    this.context.strokeStyle = '#4ca049'
-    this.context.lineWidth = 2
+    this.context.strokeStyle = blade.color
+    // Taper: wider at base (early segments), narrower at top (later segments)
+    const progress = blade.currentSegment / blade.maxSegments
+    this.context.lineWidth = 2.5 - progress * 2 // 2.5 at start, 0.5 at end
     this.context.lineCap = 'round'
     this.context.beginPath()
     this.context.moveTo(prevSegment.x, prevSegment.y)
@@ -206,6 +219,9 @@ canvas {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
+  position: relative;
+  z-index: 2;
+  transform: translateY(-40px);
 }
 
 .hero-content {
@@ -238,7 +254,7 @@ canvas {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, calc(-50% - 40px));
   width: 100%;
   height: 100%;
   display: flex;
