@@ -175,8 +175,12 @@
         class="interviewer-card"
       >
         <!-- Show picture if available, otherwise show initials -->
-        <div v-if="interviewer.picture" class="interviewer-image-wrapper">
-          <NuxtImg :src="interviewer.picture" :alt="interviewer.name" class="interviewer-image" />
+        <div v-if="getResolvedPicture(interviewer.picture)" class="interviewer-image-wrapper">
+          <NuxtImg 
+            :src="getResolvedPicture(interviewer.picture)" 
+            :alt="interviewer.name" 
+            class="interviewer-image" 
+          />
         </div>
         <div v-else class="interviewer-avatar beige">{{ getInitials(interviewer.name) }}</div>
         
@@ -199,6 +203,9 @@ useHead({
     }
   ]
 })
+
+// Import the image path resolver
+const { resolveImagePath } = useImagePath()
 
 // Query team members by category
 const { data: allTeamMembers } = await useAsyncData('all-team-members', () =>
@@ -276,6 +283,11 @@ const getInitials = (name: string) => {
     return (parts[0].charAt(0) + parts[parts.length - 1].charAt(0)).toUpperCase()
   }
   return name.charAt(0).toUpperCase()
+}
+
+// Helper function to resolve image paths
+const getResolvedPicture = (picture: string) => {
+  return picture ? resolveImagePath(picture) : ''
 }
 
 const filteredGlobalInterviewers = computed(() => {
