@@ -3,7 +3,7 @@
     <v-container>
       <div class="header-content">
         <div class="logo">
-          <v-img v-if="project.logo" :src="project.logo" :alt="localizedName" cover />
+          <v-img v-if="project.logo" :src="resolveImagePath(project.logo)" :alt="localizedName" cover />
           <div v-else class="logo-placeholder">🌱</div>
         </div>
 
@@ -80,6 +80,7 @@ defineEmits<{
 }>()
 
 const { t: $t } = useI18n()
+const { resolveImagePath } = useImagePath()
 const {
   getStatusLabel,
   getContinentLabel,

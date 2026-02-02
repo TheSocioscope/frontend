@@ -1,7 +1,7 @@
 <template>
   <div class="team-card">
-    <div v-if="picture" class="team-picture">
-      <img :src="picture" :alt="`${firstname} ${lastname}`" />
+    <div v-if="resolvedPicture" class="team-picture">
+      <nuxt-img :src="resolvedPicture" :alt="`${firstname} ${lastname}`" />
     </div>
     <div v-else :class="['team-avatar', { 'team-avatar-beige': beige }]">{{ initials }}</div>
     <div class="team-content">
@@ -22,8 +22,14 @@ const props = defineProps<{
   picture?: string
 }>()
 
+const { resolveImagePath } = useImagePath()
+
 const initials = computed(() => {
   return (props.firstname.charAt(0) + props.lastname.charAt(0)).toUpperCase()
+})
+
+const resolvedPicture = computed(() => {
+  return props.picture ? resolveImagePath(props.picture) : ''
 })
 </script>
 

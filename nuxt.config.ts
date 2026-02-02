@@ -42,7 +42,8 @@ export default defineNuxtConfig({
       useCookie: true,
       cookieKey: 'i18n_redirected',
       redirectOn: 'root'
-    }
+    },
+    baseUrl: 'https://thesocioscope.github.io/frontend'
   },
 
   // Content configuration
@@ -57,7 +58,7 @@ export default defineNuxtConfig({
 
   // Site configuration
   site: {
-    url: 'https://thesocioscope.org',
+    url: 'https://thesocioscope.github.io/frontend',
     name: 'The Socioscope',
     description: 'Seeing How Societies Transform',
     defaultLocale: 'en'
@@ -66,6 +67,11 @@ export default defineNuxtConfig({
   // Sitemap configuration
   sitemap: {
     xsl: false
+  },
+
+  // Image configuration
+  image: {
+    baseURL: process.env.NODE_ENV === 'production' ? 'https://thesocioscope.github.io/frontend' : ''
   },
 
   // App configuration
@@ -82,7 +88,7 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Seeing How Societies Transform' },
         { name: 'format-detection', content: 'telephone=no' }
       ],
-      link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+      link: [{ rel: 'icon', type: 'image/x-icon', href: process.env.NODE_ENV === 'production' ? '/frontend/favicon.ico' : '/favicon.ico' }]
     },
     pageTransition: { name: 'page', mode: 'out-in' }
   },
