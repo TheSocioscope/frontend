@@ -168,58 +168,58 @@ interviewers:
     picture: '/images/team/Lucia.jpg'
   - name: Lucie Friedrich
     country: France
-    picture: /images/team/Lucie.jpg
+    picture: '/images/team/Lucie.jpg'
   - name: Malgorzata Patok
     country: Poland
-    picture: /images/team/Malgorzata.jpg
+    picture: '/images/team/Malgorzata.jpg'
   - name: Mariela Dyer
     country: USA
-    picture: /images/team/Mariela.jpg
+    picture: '/images/team/Mariela.jpg'
   - name: Marina Baima
     country: Argentina
-    picture: /images/team/Marina.jpg
+    picture: '/images/team/Marina.jpg'
   - name: Matej Vohryzek
     country: France, Japan, New Zealand
-    picture: /images/team/Matej.jpg
+    picture: '/images/team/Matej.jpg'
   - name: Mei Anne Hills
     country: UK
-    picture: /images/team/Mei Anne Hills.jpg
+    picture: '/images/team/Mei Anne Hills.jpg'
   - name: Mercedes Ejarque
     country: Argentina
-    picture: /images/team/Mercedes.jpg
+    picture: '/images/team/Mercedes.jpg'
   - name: Michelle Ramírez
     country: Mexico
-    picture: /images/team/Michelle.jpg
+    picture: '/images/team/Michelle.jpg'
   - name: Milena Duran
     country: Argentina
-    picture: /images/team/Milena.jpg
+    picture: '/images/team/Milena.jpg'
   - name: Nathaly Jiménez
     country: Colombia
-    picture: /images/team/Nathaly.jpg
+    picture: '/images/team/Nathaly.jpg'
   - name: Nicole Alexander
     country: Denmark, UK
-    picture: /images/team/Nicole.jpg
+    picture: '/images/team/Nicole.jpg'
   - name: Oleg Dremov
     country: Georgia, Armenia
-    picture: /images/team/Oleg.jpg
+    picture: '/images/team/Oleg.jpg'
   - name: Pablo Hellmund
     country: Costa Rica
-    picture: /images/team/Pablo.jpg
+    picture: '/images/team/Pablo.jpg'
   - name: Paola Abril Campos
     country: Regional Coordinator - Mexico
-    picture: /images/team/Paola.jpg
+    picture: '/images/team/Paola.jpg'
   - name: Ravenn Tripplet
     country: Regional Coordinator - USA
-    picture: /images/team/Ravenn.jpg
+    picture: '/images/team/Ravenn.jpg'
   - name: Romina Sarmiento
     country: Argentina
-    picture: /images/team/Romina.jpg
+    picture: '/images/team/Romina.jpg'
   - name: Samara Zuckerbrod
     country: Wales
-    picture: /images/team/Samara.jpg
+    picture: '/images/team/Samara.jpg'
   - name: Santiago Borda
     country: Colombia
-    picture: /images/team/Santiago.jpg
+    picture: '/images/team/Santiago.jpg'
   - name: Sarah Baudry
     country: France
     picture: ''
@@ -228,22 +228,22 @@ interviewers:
     picture: ''
   - name: Sharon Amali
     country: Uganda
-    picture: /images/team/Sharon.jpg
+    picture: '/images/team/Sharon.jpg'
   - name: Siliziwe Zote
     country: South Africa
-    picture: /images/team/Siliziwe.jpg
+    picture: '/images/team/Siliziwe.jpg'
   - name: Stephany Navas
     country: Colombia
-    picture: /images/team/Stephany.jpg
+    picture: '/images/team/Stephany.jpg'
   - name: Taiye Orija
     country: South Africa
-    picture: /images/team/Taiye.jpg
+    picture: '/images/team/Taiye.jpg'
   - name: Tony Alfred
     country: Tanzania
-    picture: /images/team/Tony.png
+    picture: '/images/team/Tony.png'
   - name: Umberto Cao
     country: France
-    picture: /images/team/Umberto.webp
+    picture: '/images/team/Umberto.webp'
 ---
 
 Our global interviewer network spans five continents, bringing diverse perspectives and local expertise to The Socioscope research.
