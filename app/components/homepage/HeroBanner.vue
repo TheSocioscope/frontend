@@ -4,6 +4,7 @@
     <!-- Animated Circles Background -->
     <div class="hero-circles">
       <div class="circle-wrapper" :style="circle1Style">
+        <div class="radial-glow" />
         <div class="circle circle-1" />
       </div>
       <div class="circle-wrapper" :style="circle2Style">
@@ -25,8 +26,6 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, onBeforeUnmount, ref, computed } from 'vue'
-
 const { t: $t } = useI18n()
 
 // Mouse tracking for circles
@@ -97,17 +96,20 @@ const handleMouseLeave = () => {
   mouseY.value = 0
 }
 
-// Simplified Grass Animation
-// Draws grass blades from bottom to top over 30 seconds
+// Grass Animation
+// Single rAF loop: growth + wind run simultaneously from frame 1.
+// Positions are recomputed each frame into pre-allocated Float64Arrays,
+// then drawn in two batched passes (compute → draw-by-segment-level)
+// so that stroke() is called ~40 times per frame instead of 8 000.
 
 interface GrassBlade {
   x: number
   y: number
-  angle: number
-  segments: Array<{ x: number; y: number }>
-  currentSegment: number
-  maxSegments: number
+  cumulativeAngles: number[] // absolute angle at each segment (encodes base + curve)
+  segmentLength: number
+  visibleSegments: number // grows 0 → SEGMENTS_PER_BLADE during the growth phase
   color: string
+  phase: number // per-blade wind-sine phase offset
 }
 
 class GrassAnimation {
@@ -117,11 +119,25 @@ class GrassAnimation {
   private canvasHeight = 0
   private dpi = 1
   private blades: GrassBlade[] = []
+  private animationFrame: number | null = null
+  private startTime = 0
+  private lastGrowTime = 0
+
+  // Pre-allocated position buffers — reused every frame, zero per-frame allocation.
+  // Layout per blade: [baseX, seg0X, seg1X … seg9X]  (stride = SEGMENTS_PER_BLADE + 1)
+  private posX = new Float64Array(0)
+  private posY = new Float64Array(0)
+
   private readonly MAX_BLADES = 800
   private readonly SEGMENTS_PER_BLADE = 10
-  private drawInterval: number | null = null
-  private animationTimeout: number | null = null
-  private readonly ANIMATION_DURATION = 30000 // 30 seconds
+  private readonly STRIDE = 11 // SEGMENTS_PER_BLADE + 1
+  private readonly GROW_INTERVAL = 150 // ms between growth ticks
+  private readonly BLADES_PER_TICK = 12
+  private readonly WIND_STRENGTH = 0.3 // max tip sway in radians (~17°)
+  private readonly WIND_SPEED = 0.002 // rad/ms  →  ~3 s full sway cycle
+  private readonly WIND_RAMP = 2000 // ms to ramp wind from 0 → full
+
+  // ── init ──────────────────────────────────────────────────────────────
 
   initialize(): void {
     this.canvas = document.getElementById('canvas') as HTMLCanvasElement
@@ -143,113 +159,153 @@ class GrassAnimation {
     this.canvas.style.height = `${this.canvasHeight}px`
 
     this.context.scale(this.dpi, this.dpi)
+    this.context.lineCap = 'round' // sticky — set once, never changed
 
-    // Start animation
-    this.drawInterval = window.setInterval(() => this.draw(), 150)
-    this.animationTimeout = window.setTimeout(() => this.stopAnimation(), this.ANIMATION_DURATION)
+    this.posX = new Float64Array(this.MAX_BLADES * this.STRIDE)
+    this.posY = new Float64Array(this.MAX_BLADES * this.STRIDE)
+
+    this.startTime = performance.now()
+    this.lastGrowTime = this.startTime - this.GROW_INTERVAL // first grow fires on frame 1
+    this.animationFrame = requestAnimationFrame((time: number) => this.loop(time))
   }
 
-  private draw(): void {
-    // Grow existing blades
+  // ── main loop ─────────────────────────────────────────────────────────
+
+  private loop(time: number): void {
+    if (time - this.lastGrowTime >= this.GROW_INTERVAL) {
+      this.growBlades()
+      this.lastGrowTime = time
+    }
+    this.render(time)
+    this.animationFrame = requestAnimationFrame((t: number) => this.loop(t))
+  }
+
+  // ── growth ────────────────────────────────────────────────────────────
+
+  private growBlades(): void {
     for (const blade of this.blades) {
-      if (blade.currentSegment < blade.maxSegments) {
-        this.drawBladeSegment(blade)
-        blade.currentSegment++
+      if (blade.visibleSegments < this.SEGMENTS_PER_BLADE) blade.visibleSegments++
+    }
+    for (let i = 0; i < this.BLADES_PER_TICK && this.blades.length < this.MAX_BLADES; i++) {
+      this.blades.push(this.createBlade())
+    }
+    // Sort by color so the draw loop can batch same-color segments
+    // into single stroke() calls without extra bookkeeping.
+    this.blades.sort((a, b) => (a.color < b.color ? -1 : a.color > b.color ? 1 : 0))
+  }
+
+  private createBlade(): GrassBlade {
+    const x = Math.random() * this.canvasWidth
+    const y = this.canvasHeight + 5
+    const baseAngle = -Math.PI / 2 + (Math.random() - 0.5) * (Math.PI / 8)
+
+    // Gaussian height via Box-Muller — mean 50 px, clamped 25–150 px
+    const height = Math.max(25, Math.min(150, 50 + this.gaussianRandom() * 25))
+
+    let color: string
+    if (Math.random() < 0.5) {
+      color = '#4ca049'
+    } else {
+      const others = ['#4caf50', '#6b8e23', '#8fbc8f']
+      color = others[Math.floor(Math.random() * others.length)]
+    }
+
+    const segmentLength = height / this.SEGMENTS_PER_BLADE
+    const cumulativeAngles = new Array<number>(this.SEGMENTS_PER_BLADE)
+    let currentAngle = baseAngle
+
+    for (let i = 0; i < this.SEGMENTS_PER_BLADE; i++) {
+      currentAngle += (Math.random() - 0.5) * 0.1
+      cumulativeAngles[i] = currentAngle
+    }
+
+    return {
+      x,
+      y,
+      cumulativeAngles,
+      segmentLength,
+      visibleSegments: 0,
+      color,
+      phase: Math.random() * Math.PI * 2
+    }
+  }
+
+  private gaussianRandom(): number {
+    const u1 = Math.random()
+    const u2 = Math.random()
+    return Math.sqrt(-2 * Math.log(u1)) * Math.cos(2 * Math.PI * u2)
+  }
+
+  // ── render ────────────────────────────────────────────────────────────
+
+  private render(time: number): void {
+    if (!this.context || this.blades.length === 0) return
+    const ctx = this.context
+
+    ctx.clearRect(0, 0, this.canvasWidth, this.canvasHeight)
+
+    const windRamp = Math.min(1, (time - this.startTime) / this.WIND_RAMP)
+
+    // Pass 1 — compute every visible segment endpoint into the flat buffers.
+    for (let b = 0; b < this.blades.length; b++) {
+      const blade = this.blades[b]
+      const base = b * this.STRIDE
+
+      this.posX[base] = blade.x
+      this.posY[base] = blade.y
+
+      let cx = blade.x
+      let cy = blade.y
+
+      for (let i = 0; i < blade.visibleSegments; i++) {
+        const progress = (i + 1) / this.SEGMENTS_PER_BLADE
+        const windAngle =
+          this.WIND_STRENGTH * progress * windRamp * Math.sin(time * this.WIND_SPEED + blade.phase)
+        const angle = blade.cumulativeAngles[i] + windAngle
+
+        cx += Math.cos(angle) * blade.segmentLength
+        cy += Math.sin(angle) * blade.segmentLength
+        this.posX[base + i + 1] = cx
+        this.posY[base + i + 1] = cy
       }
     }
 
-    // Add new blades if we haven't reached max (create 12 per cycle for better distribution)
-    for (let i = 0; i < 12 && this.blades.length < this.MAX_BLADES; i++) {
-      this.createGrassBlade()
+    // Pass 2 — draw batched by segment level.
+    // Blades are sorted by color so same-colour segments are contiguous;
+    // we flush stroke() only on colour change or segment-level change
+    // → ~40 stroke() calls per frame instead of 8 000.
+    for (let seg = 0; seg < this.SEGMENTS_PER_BLADE; seg++) {
+      ctx.lineWidth = 2.5 - ((seg + 1) / this.SEGMENTS_PER_BLADE) * 2
+
+      let currentColor = ''
+      let hasPath = false
+
+      for (let b = 0; b < this.blades.length; b++) {
+        if (this.blades[b].visibleSegments <= seg) continue
+
+        if (this.blades[b].color !== currentColor) {
+          if (hasPath) ctx.stroke()
+          ctx.strokeStyle = this.blades[b].color
+          ctx.beginPath()
+          currentColor = this.blades[b].color
+          hasPath = true
+        }
+
+        const base = b * this.STRIDE
+        ctx.moveTo(this.posX[base + seg], this.posY[base + seg])
+        ctx.lineTo(this.posX[base + seg + 1], this.posY[base + seg + 1])
+      }
+
+      if (hasPath) ctx.stroke()
     }
   }
 
-  private createGrassBlade(): void {
-    const x = Math.random() * this.canvasWidth
-    const y = this.canvasHeight + 5
-    const angle = -Math.PI / 2 + (Math.random() - 0.5) * (Math.PI / 8) // Upward with ±22.5° variation
-
-    // Gaussian distribution for height using Box-Muller transform
-    // Centered on 50px, spread from ~25px (0.5x) to ~150px (3x)
-    const gaussianRandom = () => {
-      const u1 = Math.random()
-      const u2 = Math.random()
-      return Math.sqrt(-2 * Math.log(u1)) * Math.cos(2 * Math.PI * u2)
-    }
-    const meanHeight = 50
-    const stdDev = 25 // Controls spread
-    const gaussianHeight = meanHeight + gaussianRandom() * stdDev
-    const height = Math.max(25, Math.min(150, gaussianHeight)) // Clamp between 0.5x and 3x
-
-    // Randomize color: 50% get #4ca049, rest random among the other 3
-    let color: string
-    if (Math.random() < 0.5) {
-      color = '#4ca049' // green-bright
-    } else {
-      const otherColors = ['#4caf50', '#6b8e23', '#8fbc8f'] // green-medium, green-olive, green-light-olive
-      color = otherColors[Math.floor(Math.random() * otherColors.length)]
-    }
-
-    const blade: GrassBlade = {
-      x,
-      y,
-      angle,
-      segments: [],
-      currentSegment: 0,
-      maxSegments: this.SEGMENTS_PER_BLADE,
-      color
-    }
-
-    // Pre-calculate all segments for smooth curve
-    const segmentLength = height / this.SEGMENTS_PER_BLADE
-    let currentX = x
-    let currentY = y
-    let currentAngle = angle
-
-    for (let i = 0; i < this.SEGMENTS_PER_BLADE; i++) {
-      // Add slight curve variation as blade grows
-      currentAngle += (Math.random() - 0.5) * 0.1
-      currentX += Math.cos(currentAngle) * segmentLength
-      currentY += Math.sin(currentAngle) * segmentLength
-
-      blade.segments.push({ x: currentX, y: currentY })
-    }
-
-    this.blades.push(blade)
-  }
-
-  private drawBladeSegment(blade: GrassBlade): void {
-    if (!this.context || blade.currentSegment === 0) return
-
-    const segment = blade.segments[blade.currentSegment]
-    const prevSegment =
-      blade.currentSegment === 0
-        ? { x: blade.x, y: blade.y }
-        : blade.segments[blade.currentSegment - 1]
-
-    this.context.strokeStyle = blade.color
-    // Taper: wider at base (early segments), narrower at top (later segments)
-    const progress = blade.currentSegment / blade.maxSegments
-    this.context.lineWidth = 2.5 - progress * 2 // 2.5 at start, 0.5 at end
-    this.context.lineCap = 'round'
-    this.context.beginPath()
-    this.context.moveTo(prevSegment.x, prevSegment.y)
-    this.context.lineTo(segment.x, segment.y)
-    this.context.stroke()
-  }
-
-  private stopAnimation(): void {
-    if (this.drawInterval !== null) {
-      window.clearInterval(this.drawInterval)
-      this.drawInterval = null
-    }
-  }
+  // ── cleanup ───────────────────────────────────────────────────────────
 
   destroy(): void {
-    this.stopAnimation()
-    if (this.animationTimeout !== null) {
-      window.clearTimeout(this.animationTimeout)
-      this.animationTimeout = null
+    if (this.animationFrame !== null) {
+      cancelAnimationFrame(this.animationFrame)
+      this.animationFrame = null
     }
   }
 }
@@ -281,7 +337,7 @@ onBeforeUnmount(() => {
   position: relative;
   overflow: hidden;
   // 96% of viewport height minus navigation bar height (typically 80px)
-  min-height: calc(97vh - 80px);
+  min-height: calc(97.4vh - 80px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -356,6 +412,17 @@ canvas {
   transition: transform 0.3s ease-out;
 }
 
+.radial-glow {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.8) 0%, rgba(255, 255, 255, 0) 70%);
+  pointer-events: none;
+}
+
 .circle {
   border-radius: 50%;
   border: 2px solid;
@@ -414,6 +481,11 @@ canvas {
 
   .hero-title {
     font-size: clamp(2.5rem, 8vw, 3.5rem);
+  }
+
+  .radial-glow {
+    width: 430px;
+    height: 430px;
   }
 
   .circle {
