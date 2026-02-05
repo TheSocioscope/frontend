@@ -133,8 +133,10 @@ class GrassAnimation {
   private readonly STRIDE = 11 // SEGMENTS_PER_BLADE + 1
   private readonly GROW_INTERVAL = 150 // ms between growth ticks
   private readonly BLADES_PER_TICK = 12
-  private readonly WIND_STRENGTH = 0.3 // max tip sway in radians (~17°)
+  private readonly WIND_BIAS = 0.15 // constant lean in the wind direction (positive = right)
+  private readonly WIND_AMPLITUDE = 0.15 // oscillation around the bias
   private readonly WIND_SPEED = 0.002 // rad/ms  →  ~3 s full sway cycle
+  private readonly WIND_SPATIAL_FREQ = 0.02 // rad/px  →  traveling wave, left → right
   private readonly WIND_RAMP = 2000 // ms to ramp wind from 0 → full
 
   // ── init ──────────────────────────────────────────────────────────────
@@ -226,7 +228,7 @@ class GrassAnimation {
       segmentLength,
       visibleSegments: 0,
       color,
-      phase: Math.random() * Math.PI * 2
+      phase: -x * this.WIND_SPATIAL_FREQ + (Math.random() - 0.5) * 0.5
     }
   }
 
@@ -260,7 +262,7 @@ class GrassAnimation {
       for (let i = 0; i < blade.visibleSegments; i++) {
         const progress = (i + 1) / this.SEGMENTS_PER_BLADE
         const windAngle =
-          this.WIND_STRENGTH * progress * windRamp * Math.sin(time * this.WIND_SPEED + blade.phase)
+          progress * windRamp * (this.WIND_BIAS + this.WIND_AMPLITUDE * Math.sin(time * this.WIND_SPEED + blade.phase))
         const angle = blade.cumulativeAngles[i] + windAngle
 
         cx += Math.cos(angle) * blade.segmentLength
