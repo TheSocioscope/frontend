@@ -335,7 +335,7 @@ onBeforeUnmount(() => {
 
 .hero {
   padding: 8rem 0 6rem;
-  background: linear-gradient(135deg, $cream 0%, $warm-beige 100%);
+  background: radial-gradient(ellipse at 50% 30%, $cream 0%, $warm-beige 50%, $cream-dark 100%);
   position: relative;
   overflow: hidden;
   // 96% of viewport height minus navigation bar height (typically 80px)
