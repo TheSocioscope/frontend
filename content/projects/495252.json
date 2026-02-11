@@ -14,10 +14,10 @@
   "createdAt": 1755007804,
   "date": null,
   "description": {
-    "en": "Lufa, founded in 2009 by 4 co-founders, is an innovative urban farming initiative based in Montreal that focuses on rooftop farming to enhance food transparency and sustainability.  The initiative aims to grow food where people live, ensuring freshness and sustainability. With five greenhouses, Lufa collaborates with local producers to offer a diverse range of products through an online marketplace, reducing food waste and supporting community engagement while prioritizing ethical and environmentally conscious practices.     ",
-    "fr": "Lufa, fondée en 2009 par 4 cofondateurs, est une initiative innovante d'agriculture urbaine basée à Montréal qui se concentre sur l'agriculture sur les toits afin d'améliorer la transparence et la durabilité des aliments.  L'initiative vise à cultiver des aliments là où les gens vivent, en garantissant leur fraîcheur et leur durabilité. Avec cinq serres, Lufa collabore avec des producteurs locaux pour offrir une gamme variée de produits sur un marché en ligne, réduisant ainsi le gaspillage alimentaire et soutenant l'engagement communautaire tout en donnant la priorité à des pratiques éthiques et respectueuses de l'environnement.     ",
-    "es": "Lufa, fundada en 2009 por 4 cofundadores, es una innovadora iniciativa de agricultura urbana con sede en Montreal que se centra en la agricultura en azoteas para mejorar la transparencia y la sostenibilidad alimentarias.  La iniciativa pretende cultivar alimentos donde vive la gente, garantizando la frescura y la sostenibilidad. Con cinco invernaderos, Lufa colabora con productores locales para ofrecer una amplia gama de productos a través de un mercado en línea, reduciendo el desperdicio de alimentos y apoyando el compromiso de la comunidad, al tiempo que da prioridad a las prácticas éticas y respetuosas con el medio ambiente.     ",
-    "de": "Die 2009 von vier Mitbegründern ins Leben gerufene Lufa ist eine innovative urbane Landwirtschaftsinitiative mit Sitz in Montreal, die sich auf den Anbau auf Dächern konzentriert, um die Transparenz und Nachhaltigkeit von Lebensmitteln zu verbessern.  Ziel der Initiative ist es, Lebensmittel dort anzubauen, wo die Menschen leben, um Frische und Nachhaltigkeit zu gewährleisten. In fünf Gewächshäusern arbeitet Lufa mit lokalen Erzeugern zusammen, um über einen Online-Marktplatz eine breite Palette von Produkten anzubieten, die Lebensmittelverschwendung zu reduzieren und das Engagement der Gemeinschaft zu fördern, wobei ethische und umweltbewusste Praktiken im Vordergrund stehen.     "
+    "en": "Lufa, founded in 2009 by 4 co-founders, is an innovative urban farming initiative based in Montreal that focuses on rooftop farming to enhance food transparency and sustainability.  The initiative aims to grow food where people live, ensuring freshness and sustainability. With five greenhouses, Lufa collaborates with local producers to offer a diverse range of products through an online marketplace, reducing food waste and supporting community engagement while prioritizing ethical and environmentally conscious practices.",
+    "fr": "Lufa, fondée en 2009 par 4 cofondateurs, est une initiative innovante d'agriculture urbaine basée à Montréal qui se concentre sur l'agriculture sur les toits afin d'améliorer la transparence et la durabilité des aliments.  L'initiative vise à cultiver des aliments là où les gens vivent, en garantissant leur fraîcheur et leur durabilité. Avec cinq serres, Lufa collabore avec des producteurs locaux pour offrir une gamme variée de produits sur un marché en ligne, réduisant ainsi le gaspillage alimentaire et soutenant l'engagement communautaire tout en donnant la priorité à des pratiques éthiques et respectueuses de l'environnement.",
+    "es": "Lufa, fundada en 2009 por 4 cofundadores, es una innovadora iniciativa de agricultura urbana con sede en Montreal que se centra en la agricultura en azoteas para mejorar la transparencia y la sostenibilidad alimentarias.  La iniciativa pretende cultivar alimentos donde vive la gente, garantizando la frescura y la sostenibilidad. Con cinco invernaderos, Lufa colabora con productores locales para ofrecer una amplia gama de productos a través de un mercado en línea, reduciendo el desperdicio de alimentos y apoyando el compromiso de la comunidad, al tiempo que da prioridad a las prácticas éticas y respetuosas con el medio ambiente.",
+    "de": "Die 2009 von vier Mitbegründern ins Leben gerufene Lufa ist eine innovative urbane Landwirtschaftsinitiative mit Sitz in Montreal, die sich auf den Anbau auf Dächern konzentriert, um die Transparenz und Nachhaltigkeit von Lebensmitteln zu verbessern.  Ziel der Initiative ist es, Lebensmittel dort anzubauen, wo die Menschen leben, um Frische und Nachhaltigkeit zu gewährleisten. In fünf Gewächshäusern arbeitet Lufa mit lokalen Erzeugern zusammen, um über einen Online-Marktplatz eine breite Palette von Produkten anzubieten, die Lebensmittelverschwendung zu reduzieren und das Engagement der Gemeinschaft zu fördern, wobei ethische und umweltbewusste Praktiken im Vordergrund stehen."
   },
   "field": [
     "nutrition"
@@ -51,5 +51,171 @@
   ],
   "url": "",
   "yt": "",
-  "originalLang": "en"
+  "originalLang": "en",
+  "gallery": [],
+  "offers": [
+    {
+      "icon": "vegetables",
+      "label": {
+        "en": "Fresh Greenhouse Produce (Tomatoes, Aubergines, Greens, Herbs)",
+        "fr": "Produits frais de serre (Tomates, Aubergines, Légumes verts, Herbes)",
+        "es": "Productos frescos de invernadero (Tomates, Berenjenas, Verduras, Hierbas)",
+        "de": "Frische Gewächshausprodukte (Tomaten, Auberginen, Grünzeug, Kräuter)"
+      }
+    },
+    {
+      "icon": "marketplace",
+      "label": {
+        "en": "Online Marketplace with 40,000+ Weekly Customers",
+        "fr": "Marché en ligne avec plus de 40 000 clients hebdomadaires",
+        "es": "Mercado en línea con más de 40.000 clientes semanales",
+        "de": "Online-Marktplatz mit über 40.000 wöchentlichen Kunden"
+      }
+    },
+    {
+      "icon": "partnership",
+      "label": {
+        "en": "Platform for Local Producers (Bakers, Butchers, Farmers)",
+        "fr": "Plateforme pour producteurs locaux (Boulangers, Bouchers, Agriculteurs)",
+        "es": "Plataforma para productores locales (Panaderos, Carniceros, Agricultores)",
+        "de": "Plattform für lokale Produzenten (Bäcker, Metzger, Landwirte)"
+      }
+    },
+    {
+      "icon": "delivery",
+      "label": {
+        "en": "Same-Day Harvest & Delivery in Reusable Baskets",
+        "fr": "Récolte et livraison le jour même dans des paniers réutilisables",
+        "es": "Cosecha y entrega el mismo día en cestas reutilizables",
+        "de": "Ernte und Lieferung am selben Tag in wiederverwendbaren Körben"
+      }
+    },
+    {
+      "icon": "organic",
+      "label": {
+        "en": "Certified Synthetic Pesticide-Free Produce",
+        "fr": "Produits certifiés sans pesticides synthétiques",
+        "es": "Productos certificados libres de pesticidas sintéticos",
+        "de": "Zertifizierte Produkte ohne synthetische Pestizide"
+      }
+    },
+    {
+      "icon": "sustainable",
+      "label": {
+        "en": "Ethically Sourced Non-Local Products (Fair Trade Bananas, Direct-Source Citrus)",
+        "fr": "Produits non locaux d'origine éthique (Bananes équitables, Agrumes en direct)",
+        "es": "Productos no locales de origen ético (Plátanos de comercio justo, Cítricos de origen directo)",
+        "de": "Ethisch bezogene nicht-lokale Produkte (Fair-Trade-Bananen, Direkt bezogene Zitrusfrüchte)"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "expansion",
+      "label": {
+        "en": "Real Estate Partners for New Rooftop Greenhouse Developments",
+        "fr": "Partenaires immobiliers pour nouveaux développements de serres sur toits",
+        "es": "Socios inmobiliarios para nuevos desarrollos de invernaderos en azoteas",
+        "de": "Immobilienpartner für neue Dachgewächshaus-Entwicklungen"
+      }
+    },
+    {
+      "icon": "producer",
+      "label": {
+        "en": "Local Producers with Quality Products & Shared Values",
+        "fr": "Producteurs locaux avec des produits de qualité et des valeurs partagées",
+        "es": "Productores locales con productos de calidad y valores compartidos",
+        "de": "Lokale Produzenten mit Qualitätsprodukten und gemeinsamen Werten"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Investment for Rapid Greenhouse Expansion",
+        "fr": "Investissement pour une expansion rapide des serres",
+        "es": "Inversión para expansión rápida de invernaderos",
+        "de": "Investitionen für schnellen Gewächshausausbau"
+      }
+    },
+    {
+      "icon": "technology",
+      "label": {
+        "en": "Technology Partners for Automation & Indoor Farming",
+        "fr": "Partenaires technologiques pour l'automatisation et l'agriculture intérieure",
+        "es": "Socios tecnológicos para automatización y agricultura de interior",
+        "de": "Technologiepartner für Automatisierung und Indoor-Landwirtschaft"
+      }
+    },
+    {
+      "icon": "scale",
+      "label": {
+        "en": "Scaling Model to Other Cities with Renewable Energy",
+        "fr": "Modèle d'expansion vers d'autres villes avec énergie renouvelable",
+        "es": "Modelo de escalado a otras ciudades con energía renovable",
+        "de": "Skalierungsmodell für andere Städte mit erneuerbarer Energie"
+      }
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2009",
+      "icon": "foundation",
+      "text": {
+        "en": "Lufa Farms founded by Mohammed (Mo) and three co-founders with vision to grow food where people live and restore food chain transparency",
+        "fr": "Fermes Lufa fondées par Mohammed (Mo) et trois cofondateurs avec la vision de cultiver des aliments où vivent les gens et restaurer la transparence de la chaîne alimentaire",
+        "es": "Granjas Lufa fundadas por Mohammed (Mo) y tres cofundadores con la visión de cultivar alimentos donde vive la gente y restaurar la transparencia de la cadena alimentaria",
+        "de": "Lufa Farms von Mohammed (Mo) und drei Mitgründern mit der Vision gegründet, Lebensmittel dort anzubauen, wo Menschen leben, und die Transparenz der Lebensmittelkette wiederherzustellen"
+      }
+    },
+    {
+      "date": "2010-2011",
+      "icon": "milestone",
+      "text": {
+        "en": "First rooftop greenhouse built in Montreal - pioneering commercial-scale rooftop farming (36,000-38,000 sq ft)",
+        "fr": "Première serre sur toit construite à Montréal - pionnier de l'agriculture sur toit à échelle commerciale (36 000-38 000 pieds carrés)",
+        "es": "Primer invernadero en azotea construido en Montreal - pionero en agricultura en azotea a escala comercial (36.000-38.000 pies cuadrados)",
+        "de": "Erstes Dachgewächshaus in Montreal gebaut - Pionier der kommerziellen Dachlandwirtschaft (36.000-38.000 Quadratfuß)"
+      }
+    },
+    {
+      "date": "2013",
+      "icon": "growth",
+      "text": {
+        "en": "Second greenhouse built in Laval through partnership with real estate developer; began building online marketplace based on customer demand",
+        "fr": "Deuxième serre construite à Laval grâce à un partenariat avec un promoteur immobilier; début de la construction du marché en ligne basé sur la demande des clients",
+        "es": "Segundo invernadero construido en Laval mediante asociación con desarrollador inmobiliario; inicio de construcción del mercado en línea basado en demanda de clientes",
+        "de": "Zweites Gewächshaus in Laval durch Partnerschaft mit Immobilienentwickler gebaut; Beginn des Aufbaus des Online-Marktplatzes basierend auf Kundennachfrage"
+      }
+    },
+    {
+      "date": "2020",
+      "icon": "expansion",
+      "text": {
+        "en": "World's largest rooftop greenhouse completed (163,000 sq ft / 3 football fields) in Saint-Laurent; indoor farm and distribution center integrated",
+        "fr": "Plus grande serre sur toit au monde achevée (163 000 pieds carrés / 3 terrains de football) à Saint-Laurent; ferme intérieure et centre de distribution intégrés",
+        "es": "Invernadero en azotea más grande del mundo completado (163.000 pies cuadrados / 3 campos de fútbol) en Saint-Laurent; granja interior y centro de distribución integrados",
+        "de": "Weltweit größtes Dachgewächshaus fertiggestellt (163.000 Quadratfuß / 3 Fußballfelder) in Saint-Laurent; Indoor-Farm und Verteilzentrum integriert"
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "anniversary",
+      "text": {
+        "en": "15th anniversary; operating 5 greenhouses across Montreal; 100% renewable (hydroelectric) energy; serving 40,000+ weekly customers with same-day harvest delivery",
+        "fr": "15e anniversaire; exploitation de 5 serres à travers Montréal; énergie 100% renouvelable (hydroélectrique); service à plus de 40 000 clients hebdomadaires avec livraison de récolte le jour même",
+        "es": "15º aniversario; operando 5 invernaderos en Montreal; energía 100% renovable (hidroeléctrica); sirviendo a más de 40.000 clientes semanales con entrega de cosecha el mismo día",
+        "de": "15-jähriges Jubiläum; Betrieb von 5 Gewächshäusern in ganz Montreal; 100% erneuerbare (Wasserkraft) Energie; Bedienung von über 40.000 wöchentlichen Kunden mit Lieferung am Tag der Ernte"
+      }
+    },
+    {
+      "date": "Ongoing",
+      "icon": "vision",
+      "text": {
+        "en": "Mission to make local, sustainable food price-competitive with conventional imports; win-win-win model for customers, producers, and Lufa",
+        "fr": "Mission de rendre les aliments locaux et durables compétitifs en prix avec les importations conventionnelles; modèle gagnant-gagnant-gagnant pour clients, producteurs et Lufa",
+        "es": "Misión de hacer que los alimentos locales y sostenibles sean competitivos en precio con las importaciones convencionales; modelo ganar-ganar-ganar para clientes, productores y Lufa",
+        "de": "Mission, lokale, nachhaltige Lebensmittel preislich wettbewerbsfähig mit konventionellen Importen zu machen; Win-Win-Win-Modell für Kunden, Produzenten und Lufa"
+      }
+    }
+  ]
 }
