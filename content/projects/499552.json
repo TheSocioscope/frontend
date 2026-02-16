@@ -50,5 +50,155 @@
   ],
   "url": "https://www.weia.com.co/",
   "yt": "HXS8EsM065M",
-  "originalLang": "en"
+  "originalLang": "en",
+  "timeline": [
+    {
+      "date": "2023",
+      "icon": "start",
+      "text": {
+        "en": "WËIA (Huella) founded as fintech startup to provide agricultural financing through 'plant now, pay later' model",
+        "fr": "WËIA (Huella) fondée comme startup fintech pour fournir du financement agricole via le modèle 'plantez maintenant, payez plus tard'",
+        "es": "WËIA (Huella) fundada como startup fintech para proporcionar financiamiento agrícola a través del modelo 'siembra ahora, paga después'",
+        "de": "WËIA (Huella) als Fintech-Startup gegründet, um landwirtschaftliche Finanzierung durch das 'Jetzt pflanzen, später zahlen'-Modell anzubieten"
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "growth",
+      "text": {
+        "en": "Completed Friends and Family funding round; operating with corporate buyers (Alquería, La Fazenda) and small farmers in Colombia",
+        "fr": "Achèvement du tour de financement Friends and Family; opérant avec des acheteurs corporatifs (Alquería, La Fazenda) et petits agriculteurs en Colombie",
+        "es": "Completó ronda de financiamiento Friends and Family; operando con compradores corporativos (Alquería, La Fazenda) y pequeños agricultores en Colombia",
+        "de": "Friends and Family Finanzierungsrunde abgeschlossen; Zusammenarbeit mit Firmenkäufern (Alquería, La Fazenda) und Kleinbauern in Kolumbien"
+      }
+    },
+    {
+      "date": "2025",
+      "icon": "expansion",
+      "text": {
+        "en": "Planning Series A funding; developing sustainability measurement tools and expanding farmer portfolio",
+        "fr": "Planification du financement Série A; développement d'outils de mesure de durabilité et expansion du portefeuille d'agriculteurs",
+        "es": "Planificación de financiamiento Serie A; desarrollo de herramientas de medición de sostenibilidad y expansión del portafolio de agricultores",
+        "de": "Planung der Serie A Finanzierung; Entwicklung von Nachhaltigkeitsmesstools und Erweiterung des Bauernportfolios"
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "financing",
+      "label": {
+        "en": "'Plant Now, Pay Later' Agricultural Input Financing for Small Farmers",
+        "fr": "Financement d'intrants agricoles 'Plantez maintenant, payez plus tard' pour petits agriculteurs",
+        "es": "Financiamiento de insumos agrícolas 'Siembra ahora, paga después' para pequeños agricultores",
+        "de": "'Jetzt pflanzen, später zahlen' Finanzierung landwirtschaftlicher Inputs für Kleinbauern"
+      }
+    },
+    {
+      "icon": "risk",
+      "label": {
+        "en": "Price Risk Management Through Forward Contracts",
+        "fr": "Gestion du risque de prix par contrats à terme",
+        "es": "Gestión de riesgo de precios a través de contratos a futuro",
+        "de": "Preisrisikomanagement durch Terminkontrakte"
+      }
+    },
+    {
+      "icon": "data",
+      "label": {
+        "en": "Data Analytics Platform Connecting Farmers to Corporate Buyers",
+        "fr": "Plateforme d'analyse de données connectant agriculteurs et acheteurs corporatifs",
+        "es": "Plataforma de análisis de datos conectando agricultores con compradores corporativos",
+        "de": "Datenanalyseplattform, die Bauern mit Firmenkäufern verbindet"
+      }
+    },
+    {
+      "icon": "sustainability",
+      "label": {
+        "en": "Sustainability Measurement and Reporting Tools (In Development)",
+        "fr": "Outils de mesure et de reporting de durabilité (en développement)",
+        "es": "Herramientas de medición y reporte de sostenibilidad (en desarrollo)",
+        "de": "Nachhaltigkeitsmess- und Berichtstools (in Entwicklung)"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "investment",
+      "label": {
+        "en": "Series A Investment for Platform Scaling",
+        "fr": "Investissement Série A pour la mise à l'échelle de la plateforme",
+        "es": "Inversión Serie A para escalamiento de la plataforma",
+        "de": "Serie A Investition für Plattformskalierung"
+      }
+    },
+    {
+      "icon": "buyers",
+      "label": {
+        "en": "Corporate Buyers Interested in Sustainable Supply Chains",
+        "fr": "Acheteurs corporatifs intéressés par des chaînes d'approvisionnement durables",
+        "es": "Compradores corporativos interesados en cadenas de suministro sostenibles",
+        "de": "Firmenkäufer mit Interesse an nachhaltigen Lieferketten"
+      }
+    },
+    {
+      "icon": "reinsurance",
+      "label": {
+        "en": "Reinsurance Partners for Agricultural Risk Management",
+        "fr": "Partenaires de réassurance pour la gestion des risques agricoles",
+        "es": "Socios de reaseguro para gestión de riesgos agrícolas",
+        "de": "Rückversicherungspartner für landwirtschaftliches Risikomanagement"
+      }
+    },
+    {
+      "icon": "farmers",
+      "label": {
+        "en": "Small Farmer Networks in Latin America for Portfolio Expansion",
+        "fr": "Réseaux de petits agriculteurs en Amérique latine pour expansion du portefeuille",
+        "es": "Redes de pequeños agricultores en América Latina para expansión del portafolio",
+        "de": "Kleinbauern-Netzwerke in Lateinamerika für Portfolio-Erweiterung"
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "url": "public/images/gallery/weia_platform.jpg",
+      "caption": {
+        "en": "WËIA fintech platform connecting small farmers to corporate buyers with financing solutions",
+        "fr": "Plateforme fintech WËIA connectant petits agriculteurs aux acheteurs corporatifs avec solutions de financement",
+        "es": "Plataforma fintech WËIA conectando pequeños agricultores con compradores corporativos con soluciones de financiamiento",
+        "de": "WËIA Fintech-Plattform verbindet Kleinbauern mit Firmenkäufern durch Finanzierungslösungen"
+      },
+      "category": "process"
+    },
+    {
+      "url": "public/images/gallery/weia_farmer.jpg",
+      "caption": {
+        "en": "Small farmer benefiting from 'plant now, pay later' financing model in Colombia",
+        "fr": "Petit agriculteur bénéficiant du modèle de financement 'plantez maintenant, payez plus tard' en Colombie",
+        "es": "Pequeño agricultor beneficiándose del modelo de financiamiento 'siembra ahora, paga después' en Colombia",
+        "de": "Kleinbauer profitiert vom 'Jetzt pflanzen, später zahlen' Finanzierungsmodell in Kolumbien"
+      },
+      "category": "impact"
+    },
+    {
+      "url": "public/images/team/weia_founders.jpg",
+      "caption": {
+        "en": "WËIA founding team combining fintech expertise with agricultural impact",
+        "fr": "Équipe fondatrice de WËIA combinant expertise fintech et impact agricole",
+        "es": "Equipo fundador de WËIA combinando experiencia fintech con impacto agrícola",
+        "de": "WËIA Gründerteam kombiniert Fintech-Expertise mit landwirtschaftlichem Impact"
+      },
+      "category": "team"
+    }
+  ],
+  "editedAt": 1771254917,
+  "updatedAt": [
+    1771254917
+  ],
+  "feedback": [
+    {
+      "content": false,
+      "at": 1771254917
+    }
+  ]
 }
