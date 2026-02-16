@@ -50,5 +50,164 @@
   ],
   "url": "",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "Foundation",
+      "icon": "start",
+      "text": {
+        "en": "Blue Indigo Foundation established by three co-founders including María Fernanda Maya to protect coral reefs in San Andrés",
+        "fr": "Blue Indigo Foundation créée par trois cofondateurs dont María Fernanda Maya pour protéger les récifs coralliens de San Andrés",
+        "es": "Blue Indigo Foundation fundada por tres cofundadores incluyendo María Fernanda Maya para proteger los arrecifes de coral en San Andrés",
+        "de": "Blue Indigo Foundation von drei Mitgründern einschließlich María Fernanda Maya zum Schutz der Korallenriffe in San Andrés gegründet"
+      }
+    },
+    {
+      "date": "Growth Phase",
+      "icon": "expansion",
+      "text": {
+        "en": "Established laboratory for coral treatment and sexual reproduction; developed coral nurseries for restoration and repopulation",
+        "fr": "Établissement d'un laboratoire pour le traitement et la reproduction sexuée des coraux; développement de pépinières de coraux pour la restauration et le repeuplement",
+        "es": "Establecimiento de laboratorio para tratamiento y reproducción sexual de corales; desarrollo de viveros de coral para restauración y repoblación",
+        "de": "Labor für Korallenbehandlung und sexuelle Fortpflanzung eingerichtet; Korallenkinderstuben für Wiederherstellung und Wiederbesiedlung entwickelt"
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "milestone",
+      "text": {
+        "en": "Received 30-year comodato from local government for beachfront laboratory space; recognized as reference point for coral restoration internationally",
+        "fr": "Obtention d'un comodato de 30 ans de la part du gouvernement local pour un espace de laboratoire en bord de mer; reconnu comme point de référence pour la restauration des coraux au niveau international",
+        "es": "Recibió comodato de 30 años del gobierno local para espacio de laboratorio frente al mar; reconocido como punto de referencia para restauración de corales internacionalmente",
+        "de": "30-jähriges Komodat von der Lokalregierung für Labor am Strand erhalten; international als Referenzpunkt für Korallenrestaurierung anerkannt"
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "restoration",
+      "label": {
+        "en": "Coral Reef Restoration and Treatment Services",
+        "fr": "Services de restauration et de traitement des récifs coralliens",
+        "es": "Servicios de restauración y tratamiento de arrecifes de coral",
+        "de": "Korallenriff-Wiederherstellungs- und Behandlungsdienste"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Marine Research Laboratory and Innovation",
+        "fr": "Laboratoire de recherche marine et innovation",
+        "es": "Laboratorio de investigación marina e innovación",
+        "de": "Meeresforschungslabor und Innovation"
+      }
+    },
+    {
+      "icon": "nurseries",
+      "label": {
+        "en": "Coral Nurseries for Reef Repopulation",
+        "fr": "Pépinières de coraux pour le repeuplement des récifs",
+        "es": "Viveros de coral para repoblación de arrecifes",
+        "de": "Korallenkinderstuben zur Riffwiederbesiedlung"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Educational Programs for Diving Schools and Tourists",
+        "fr": "Programmes éducatifs pour écoles de plongée et touristes",
+        "es": "Programas educativos para escuelas de buceo y turistas",
+        "de": "Bildungsprogramme für Tauchschulen und Touristen"
+      }
+    },
+    {
+      "icon": "collaboration",
+      "label": {
+        "en": "University Research Partnerships",
+        "fr": "Partenariats de recherche universitaire",
+        "es": "Alianzas de investigación universitaria",
+        "de": "Universitäre Forschungspartnerschaften"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Sustainable Funding Sources Beyond Project-Based Grants",
+        "fr": "Sources de financement durables au-delà des subventions par projet",
+        "es": "Fuentes de financiamiento sostenibles más allá de subvenciones por proyecto",
+        "de": "Nachhaltige Finanzierungsquellen jenseits projektbasierter Förderungen"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Policy Support for Diving School Contributions to Reef Conservation",
+        "fr": "Soutien politique pour les contributions des écoles de plongée à la conservation des récifs",
+        "es": "Apoyo de políticas para contribuciones de escuelas de buceo a conservación de arrecifes",
+        "de": "Politische Unterstützung für Beiträge von Tauchschulen zum Riffschutz"
+      }
+    },
+    {
+      "icon": "talent",
+      "label": {
+        "en": "Local Marine Professionals (Raizal Specialists)",
+        "fr": "Professionnels marins locaux (spécialistes Raizal)",
+        "es": "Profesionales marinos locales (especialistas Raizal)",
+        "de": "Lokale Meeresfachleute (Raizal-Spezialisten)"
+      }
+    },
+    {
+      "icon": "partnership",
+      "label": {
+        "en": "Corporate Partners for Product-Based Fundraising",
+        "fr": "Partenaires d'entreprise pour la collecte de fonds basée sur les produits",
+        "es": "Socios corporativos para recaudación de fondos basada en productos",
+        "de": "Unternehmenspartner für produktbasiertes Fundraising"
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "url": "public/images/gallery/blueindigo_coral.jpg",
+      "caption": {
+        "en": "Coral restoration work showing treatment of diseased coral and nursery cultivation",
+        "fr": "Travaux de restauration des coraux montrant le traitement des coraux malades et la culture en pépinière",
+        "es": "Trabajo de restauración de coral mostrando tratamiento de coral enfermo y cultivo en vivero",
+        "de": "Korallenrestaurierungsarbeit mit Behandlung kranker Korallen und Zucht in Kinderstuben"
+      },
+      "category": "process"
+    },
+    {
+      "url": "public/images/gallery/blueindigo_lab.jpg",
+      "caption": {
+        "en": "Marine laboratory facility for coral research and sexual reproduction",
+        "fr": "Installation de laboratoire marin pour la recherche sur les coraux et la reproduction sexuée",
+        "es": "Instalación de laboratorio marino para investigación de corales y reproducción sexual",
+        "de": "Meereslabor für Korallenforschung und sexuelle Fortpflanzung"
+      },
+      "category": "process"
+    },
+    {
+      "url": "public/images/team/blueindigo_team.jpg",
+      "caption": {
+        "en": "María Fernanda Maya and the Blue Indigo Foundation team protecting San Andrés coral reefs",
+        "fr": "María Fernanda Maya et l'équipe de Blue Indigo Foundation protégeant les récifs coralliens de San Andrés",
+        "es": "María Fernanda Maya y el equipo de Blue Indigo Foundation protegiendo los arrecifes de coral de San Andrés",
+        "de": "María Fernanda Maya und das Blue Indigo Foundation Team beim Schutz der Korallenriffe von San Andrés"
+      },
+      "category": "team"
+    }
+  ],
+  "editedAt": 1771239272,
+  "updatedAt": [
+    1771239272
+  ],
+  "feedback": [
+    {
+      "content": false,
+      "at": 1771239272
+    }
+  ]
 }

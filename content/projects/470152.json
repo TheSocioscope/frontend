@@ -53,5 +53,155 @@
   ],
   "url": "",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "2016",
+      "icon": "start",
+      "text": {
+        "en": "Parki ar Minda started as a plastic collection initiative in Tbilisi",
+        "fr": "Parki ar Minda a démarré comme initiative de collecte de plastique à Tbilissi",
+        "es": "Parki ar Minda comenzó como iniciativa de recolección de plástico en Tbilisi",
+        "de": "Parki ar Minda startete als Plastiksammelinitiative in Tiflis"
+      }
+    },
+    {
+      "date": "2020",
+      "icon": "expansion",
+      "text": {
+        "en": "During pandemic, launched Eco Taxi service for home garbage collection; expanded to 15 types of recyclable materials",
+        "fr": "Pendant la pandémie, lancement du service Eco Taxi pour la collecte des déchets à domicile; expansion à 15 types de matériaux recyclables",
+        "es": "Durante la pandemia, lanzamiento del servicio Eco Taxi para recolección de basura a domicilio; expansión a 15 tipos de materiales reciclables",
+        "de": "Während der Pandemie Einführung des Eco Taxi Service für Hausmüllabholung; Ausweitung auf 15 Arten recycelbarer Materialien"
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "growth",
+      "text": {
+        "en": "Operates three garages and storage facilities; 80 volunteers and 20 paid staff; partnering on EU-funded food bank education project",
+        "fr": "Exploitation de trois garages et installations de stockage; 80 bénévoles et 20 employés rémunérés; partenariat sur un projet éducatif de banque alimentaire financé par l'UE",
+        "es": "Opera tres garajes e instalaciones de almacenamiento; 80 voluntarios y 20 empleados pagados; asociación en proyecto educativo de banco de alimentos financiado por la UE",
+        "de": "Betreibt drei Garagen und Lagerhallen; 80 Freiwillige und 20 bezahlte Mitarbeiter; Partnerschaft bei EU-finanziertem Lebensmittelbank-Bildungsprojekt"
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "recycling",
+      "label": {
+        "en": "Collection and Sorting of 15 Types of Recyclable Materials",
+        "fr": "Collecte et tri de 15 types de matériaux recyclables",
+        "es": "Recolección y clasificación de 15 tipos de materiales reciclables",
+        "de": "Sammlung und Sortierung von 15 Arten recycelbarer Materialien"
+      }
+    },
+    {
+      "icon": "taxi",
+      "label": {
+        "en": "Eco Taxi Home Collection Service",
+        "fr": "Service de collecte à domicile Eco Taxi",
+        "es": "Servicio de recolección a domicilio Eco Taxi",
+        "de": "Eco Taxi Hausabholservice"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Environmental Education Workshops for Schools and Companies",
+        "fr": "Ateliers d'éducation environnementale pour écoles et entreprises",
+        "es": "Talleres de educación ambiental para escuelas y empresas",
+        "de": "Umweltbildungsworkshops für Schulen und Unternehmen"
+      }
+    },
+    {
+      "icon": "dropoff",
+      "label": {
+        "en": "Public Drop-off Points for Sorted Recyclables",
+        "fr": "Points de dépôt publics pour recyclables triés",
+        "es": "Puntos de entrega públicos para reciclables clasificados",
+        "de": "Öffentliche Abgabestellen für sortierte Wertstoffe"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Sustainable Financial Model to Cover Operating Costs",
+        "fr": "Modèle financier durable pour couvrir les coûts d'exploitation",
+        "es": "Modelo financiero sostenible para cubrir costos operativos",
+        "de": "Nachhaltiges Finanzmodell zur Deckung der Betriebskosten"
+      }
+    },
+    {
+      "icon": "awareness",
+      "label": {
+        "en": "Public Awareness Campaigns to Change Recycling Mindset",
+        "fr": "Campagnes de sensibilisation du public pour changer les mentalités sur le recyclage",
+        "es": "Campañas de concienciación pública para cambiar mentalidad sobre reciclaje",
+        "de": "Öffentlichkeitskampagnen zur Änderung der Recycling-Einstellung"
+      }
+    },
+    {
+      "icon": "factories",
+      "label": {
+        "en": "Recycling Factory Partners for New Material Types",
+        "fr": "Partenaires d'usines de recyclage pour nouveaux types de matériaux",
+        "es": "Socios de fábricas de reciclaje para nuevos tipos de materiales",
+        "de": "Recyclingfabrik-Partner für neue Materialarten"
+      }
+    },
+    {
+      "icon": "corporate",
+      "label": {
+        "en": "Corporate Sponsors for Educational Programs",
+        "fr": "Sponsors d'entreprise pour programmes éducatifs",
+        "es": "Patrocinadores corporativos para programas educativos",
+        "de": "Unternehmenssponsoren für Bildungsprogramme"
+      }
+    }
+  ],
+  "gallery": [
+    {
+      "url": "public/images/gallery/parkiarminda_sorting.jpg",
+      "caption": {
+        "en": "Sorting facility where volunteers separate 15 types of recyclable materials",
+        "fr": "Installation de tri où les bénévoles séparent 15 types de matériaux recyclables",
+        "es": "Instalación de clasificación donde voluntarios separan 15 tipos de materiales reciclables",
+        "de": "Sortieranlage, in der Freiwillige 15 Arten recycelbarer Materialien trennen"
+      },
+      "category": "process"
+    },
+    {
+      "url": "public/images/gallery/parkiarminda_ecotaxi.jpg",
+      "caption": {
+        "en": "Eco Taxi service collecting recyclables directly from homes and businesses in Tbilisi",
+        "fr": "Service Eco Taxi collectant les recyclables directement auprès des foyers et entreprises à Tbilissi",
+        "es": "Servicio Eco Taxi recolectando reciclables directamente de hogares y empresas en Tbilisi",
+        "de": "Eco Taxi Service sammelt Wertstoffe direkt von Haushalten und Unternehmen in Tiflis"
+      },
+      "category": "impact"
+    },
+    {
+      "url": "public/images/team/parkiarminda_team.jpg",
+      "caption": {
+        "en": "Parki ar Minda founder and volunteer team working to change Georgia's recycling culture",
+        "fr": "Fondatrice de Parki ar Minda et équipe de bénévoles travaillant à changer la culture du recyclage en Géorgie",
+        "es": "Fundadora de Parki ar Minda y equipo de voluntarios trabajando para cambiar la cultura del reciclaje en Georgia",
+        "de": "Parki ar Minda Gründerin und Freiwilligenteam arbeiten daran, Georgiens Recyclingkultur zu verändern"
+      },
+      "category": "team"
+    }
+  ],
+  "editedAt": 1771239664,
+  "updatedAt": [
+    1771239664
+  ],
+  "feedback": [
+    {
+      "content": false,
+      "at": 1771239664
+    }
+  ]
 }
