@@ -1,7 +1,17 @@
 <template>
   <div class="products-grid">
     <div v-for="product in filteredProducts" :key="product._path" class="product-card">
-      <div class="product-image">{{ product.icon }}</div>
+      <div class="product-image">
+        <img
+          v-if="product.photo"
+          :src="product.photo"
+          :alt="product.title"
+          class="product-photo"
+        />
+        <div v-else class="product-photo-placeholder">
+          <span class="placeholder-icon">📦</span>
+        </div>
+      </div>
       <div class="product-content">
         <span class="product-badge">{{ product.badge }}</span>
         <h3>{{ product.title }}</h3>
@@ -69,12 +79,30 @@ const filteredProducts = computed(() => {
 .product-image {
   width: 100%;
   height: 250px;
+  overflow: hidden;
+  border-bottom: 2px solid $warm-beige;
+}
+
+.product-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+
+  .product-card:hover & {
+    transform: scale(1.04);
+  }
+}
+
+.product-photo-placeholder {
+  width: 100%;
+  height: 100%;
   background: $warm-beige;
   display: flex;
   align-items: center;
   justify-content: center;
   font-size: 4rem;
-  border-bottom: 2px solid $warm-beige;
 }
 
 .product-content {
