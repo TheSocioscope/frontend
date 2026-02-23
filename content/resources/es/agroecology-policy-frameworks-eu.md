@@ -1,8 +1,7 @@
 ---
 title: "Marcos políticos para escalar la agroecología: Perspectivas de la Unión
   Europea"
-authors: "Lahlou Saadi, Nowotny Helga, Yamin Paulius, Thurner Stefan, Cordelois
-  Antoine "
+authors: Socioscope Team
 category: socioscope
 date: 15/10/2024
 abstract: Un documento de política integral que analiza iniciativas exitosas de

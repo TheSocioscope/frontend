@@ -1,8 +1,7 @@
 ---
 title: "Politische Rahmenwerke zur Skalierung der Agroökologie: Perspektiven der
   Europäischen Union"
-authors: "Lahlou Saadi, Nowotny Helga, Yamin Paulius, Thurner Stefan, Cordelois
-  Antoine "
+authors: Socioscope Team
 category: socioscope
 date: 15/10/2024
 abstract: Ein umfassendes Politikdokument, das erfolgreiche

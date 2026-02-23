@@ -1,8 +1,7 @@
 ---
 title: "Cadres politiques pour le développement de l'agroécologie : Perspectives
   de l'Union européenne"
-authors: "Lahlou Saadi, Nowotny Helga, Yamin Paulius, Thurner Stefan, Cordelois
-  Antoine "
+authors: Socioscope Team
 category: socioscope
 date: 15/10/2024
 abstract: Un document de politique complète analysant les initiatives réussies
