@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -32,14 +32,12 @@
     "de": "Restaurant Steakarar"
   },
   "pubId": 479752,
-  "score": -41.695912361627926,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Beate",
+      "lastname": "Hermes"
     }
   ],
   "thematic": [
@@ -49,48 +47,58 @@
   "type": [
     "case-study"
   ],
-  "url": "",
-  "yt": "",
+  "url": "https://www.steakarar.com/",
+  "yt": "8S0MtyhvdTI",
   "originalLang": "sv",
   "timeline": [
     {
       "date": "2004",
       "icon": "start",
       "text": {
-        "en": "Trinity Club opened, later followed by organic vineyard and wine production",
-        "fr": "Ouverture du Trinity Club, suivi plus tard d'un vignoble biologique et de production de vin",
-        "es": "Apertura de Trinity Club, seguido luego de viñedo orgánico y producción de vino",
-        "de": "Eröffnung des Trinity Club, später gefolgt von Bio-Weinberg und Weinproduktion"
+        "en": "The Club was founded in Yerevan, becoming a unique cultural and dining space in Armenia. It was among the first of its kind, attracting artists, celebrities, and intellectuals.",
+        "fr": "Le Club a été fondé à Erevan, devenant un espace culturel et gastronomique unique en Arménie. Il était parmi les premiers du genre, attirant artistes, célébrités et intellectuels.",
+        "es": "El Club fue fundado en Ereván, convirtiéndose en un espacio cultural y gastronómico único en Armenia. Fue uno de los primeros de su tipo, atrayendo a artistas, celebridades e intelectuales.",
+        "de": "Der Club wurde in Jerewan gegründet und wurde zu einem einzigartigen Kultur- und Gastraum in Armenien. Er gehörte zu den ersten seiner Art und zog Künstler, Prominente und Intellektuelle an."
       }
     },
     {
-      "date": "2011-2015",
+      "date": "2008",
+      "icon": "sustainability",
+      "text": {
+        "en": "Trinity Canyon Vineyards was established as the first organic winery in Armenia. The founders chose organic methods from the beginning, never using chemicals, and later inspired larger producers to follow suit.",
+        "fr": "Trinity Canyon Vineyards a été établi en tant que premier domaine viticole biologique en Arménie. Les fondateurs ont choisi des méthodes biologiques dès le début, sans jamais utiliser de produits chimiques, inspirant par la suite les grands producteurs à en faire autant.",
+        "es": "Trinity Canyon Vineyards fue establecida como la primera bodega orgánica en Armenia. Los fundadores eligieron métodos orgánicos desde el principio, sin usar nunca productos químicos, e inspiraron posteriormente a productores más grandes a seguir su ejemplo.",
+        "de": "Trinity Canyon Vineyards wurde als erstes Bio-Weingut in Armenien gegründet. Die Gründer entschieden sich von Anfang an für biologische Methoden, verwendeten nie Chemikalien und inspirierten später größere Produzenten, diesem Beispiel zu folgen."
+      }
+    },
+    {
+      "date": "2011",
       "icon": "expansion",
       "text": {
-        "en": "Opened In Vino (first Armenian wine bar) and Tapastan restaurant; established presence on Saryan Street food district",
-        "fr": "Ouverture d'In Vino (premier bar à vin arménien) et du restaurant Tapastan; établissement d'une présence dans le quartier gastronomique de la rue Saryan",
-        "es": "Apertura de In Vino (primer bar de vinos armenio) y restaurante Tapastan; establecimiento de presencia en el distrito gastronómico de la calle Saryan",
-        "de": "Eröffnung von In Vino (erste armenische Weinbar) und Restaurant Tapastan; Etablierung im Gastronomiebezirk Saryan Street"
+        "en": "After moving back to Armenia, the founder opened Invino, the first Armenian wine bar, helping introduce wine-drinking culture to wider audiences. Tapastan, an Armenian tapas restaurant, followed shortly after.",
+        "fr": "Après son retour en Arménie, le fondateur a ouvert Invino, le premier bar à vins arménien, contribuant à introduire la culture du vin auprès d'un public plus large. Tapastan, un restaurant de tapas arménien, a suivi peu après.",
+        "es": "Tras regresar a Armenia, el fundador abrió Invino, el primer bar de vinos armenio, ayudando a introducir la cultura del vino a un público más amplio. Tapastan, un restaurante armenio de tapas, abrió poco después.",
+        "de": "Nach seiner Rückkehr nach Armenien eröffnete der Gründer Invino, die erste armenische Weinbar, die dazu beitrug, die Weinkultur einem breiteren Publikum näherzubringen. Tapastan, ein armenisches Tapas-Restaurant, folgte kurz darauf."
       }
     },
     {
       "date": "2022",
-      "icon": "sustainability",
+      "icon": "milestone",
       "text": {
-        "en": "Launched Steakarar as Armenia's first zero-waste, climate-neutral restaurant using 95%+ local ingredients",
-        "fr": "Lancement de Steakarar comme premier restaurant zéro déchet et neutre en carbone d'Arménie utilisant plus de 95% d'ingrédients locaux",
-        "es": "Lanzamiento de Steakarar como el primer restaurante de cero residuos y climáticamente neutro de Armenia usando más del 95% de ingredientes locales",
-        "de": "Eröffnung von Steakarar als Armeniens erstes abfallfreies, klimaneutrales Restaurant mit über 95% lokalen Zutaten"
+        "en": "Steak Garage opened as the first zero waste restaurant in Armenia, featuring a short rotating menu, locally sourced ingredients, and systematic waste separation. It was profitable from day one.",
+        "fr": "Steak Garage a ouvert ses portes en tant que premier restaurant zéro déchet en Arménie, proposant un menu court et rotatif, des ingrédients d'origine locale et un tri systématique des déchets. Il a été rentable dès le premier jour.",
+        "es": "Steak Garage abrió como el primer restaurante de residuo cero en Armenia, con un menú rotativo reducido, ingredientes de origen local y separación sistemática de residuos. Fue rentable desde el primer día.",
+        "de": "Steak Garage eröffnete als erstes Zero-Waste-Restaurant in Armenien mit einer kurzen, wechselnden Speisekarte, lokal bezogenen Zutaten und systematischer Mülltrennung. Es war vom ersten Tag an profitabel."
       }
     },
     {
       "date": "2024",
       "icon": "growth",
       "text": {
-        "en": "Converting Trinity Club to zero-waste; acquiring land in Ashtarak for year-round organic vegetable production",
-        "fr": "Conversion du Trinity Club en zéro déchet; acquisition de terres à Ashtarak pour la production de légumes biologiques toute l'année",
-        "es": "Conversión de Trinity Club a cero residuos; adquisición de terreno en Ashtarak para producción de vegetales orgánicos todo el año",
-        "de": "Umstellung des Trinity Club auf Null-Abfall; Erwerb von Land in Ashtarak für ganzjährige Bio-Gemüseproduktion"
+        "en": "The Club transitioned to zero waste operations following the introduction of municipal recycling bins nearby. An announcement was planned for August, along with a collaborative exhibition with a Dilijan-based recycled fashion house.",
+        "fr": "Le Club a opéré sa transition vers un fonctionnement zéro déchet à la suite de l'installation de bacs de recyclage municipaux à proximité. Une annonce était prévue en août, accompagnée d'une exposition collaborative avec une maison de mode recyclée basée à Dilijan.",
+        "es": "El Club realizó la transición a operaciones de residuo cero tras la instalación de contenedores municipales de reciclaje en las proximidades. Se planeó un anuncio para agosto, junto con una exposición colaborativa con una casa de moda reciclada con sede en Dilijan.",
+        "de": "Der Club stellte seinen Betrieb auf Zero Waste um, nachdem in der Nähe kommunale Recyclingbehälter aufgestellt worden waren. Eine Ankündigung war für August geplant, zusammen mit einer gemeinsamen Ausstellung mit einem in Dilijan ansässigen Modehaus für recycelte Mode."
       }
     }
   ],
@@ -98,75 +106,102 @@
     {
       "icon": "zerowaste",
       "label": {
-        "en": "Zero-Waste Dining Experience with Daily-Changing Local Menu",
-        "fr": "Expérience gastronomique zéro déchet avec menu local changeant quotidiennement",
-        "es": "Experiencia gastronómica de cero residuos con menú local que cambia diariamente",
-        "de": "Null-Abfall-Gastronomieerlebnis mit täglich wechselndem lokalen Menü"
+        "en": "First zero waste restaurant in Armenia",
+        "fr": "Premier restaurant zéro déchet en Arménie",
+        "es": "Primer restaurante de cero residuos en Armenia",
+        "de": "Erstes Zero-Waste-Restaurant in Armenien"
       }
     },
     {
       "icon": "localfood",
       "label": {
-        "en": "95%+ Armenian-Sourced Ingredients (Meat, Dairy, Vegetables)",
-        "fr": "Plus de 95% d'ingrédients d'origine arménienne (viande, produits laitiers, légumes)",
-        "es": "Más del 95% de ingredientes de origen armenio (carne, lácteos, vegetales)",
-        "de": "Über 95% armenische Zutaten (Fleisch, Milchprodukte, Gemüse)"
-      }
-    },
-    {
-      "icon": "wine",
-      "label": {
-        "en": "Organic Armenian Wine from Own Vineyard",
-        "fr": "Vin arménien biologique de propre vignoble",
-        "es": "Vino armenio orgánico de viñedo propio",
-        "de": "Bio-armenischer Wein aus eigenem Weinberg"
+        "en": "Meals made with 95% local Armenian ingredients",
+        "fr": "Plats préparés avec 95% d'ingrédients arméniens locaux",
+        "es": "Comidas elaboradas con un 95% de ingredientes locales armenios",
+        "de": "Gerichte aus 95% lokalen armenischen Zutaten"
       }
     },
     {
       "icon": "demonstration",
       "label": {
-        "en": "Demonstration of Zero-Waste Restaurant Model for Armenia",
-        "fr": "Démonstration du modèle de restaurant zéro déchet pour l'Arménie",
-        "es": "Demostración del modelo de restaurante de cero residuos para Armenia",
-        "de": "Demonstration des Null-Abfall-Restaurantmodells für Armenien"
+        "en": "Model for other restaurants to adopt zero waste",
+        "fr": "Modèle pour que d'autres restaurants adoptent le zéro déchet",
+        "es": "Modelo para que otros restaurantes adopten el cero residuos",
+        "de": "Vorbild für andere Restaurants zur Einführung von Zero Waste"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Free business lectures for young entrepreneurs",
+        "fr": "Conférences commerciales gratuites pour les jeunes entrepreneurs",
+        "es": "Conferencias de negocios gratuitas para jóvenes emprendedores",
+        "de": "Kostenlose Geschäftsvorlesungen für junge Unternehmer"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Books donated to 120 Armenian schools",
+        "fr": "Livres donnés à 120 écoles arméniennes",
+        "es": "Libros donados a 120 escuelas armenias",
+        "de": "Bücher gespendet an 120 armenische Schulen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Organic winemaking since 2008 as proof of concept",
+        "fr": "Vinification biologique depuis 2008 comme preuve de concept",
+        "es": "Elaboración de vino orgánico desde 2008 como prueba de concepto",
+        "de": "Biologische Weinherstellung seit 2008 als Machbarkeitsnachweis"
       }
     }
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "adoption",
       "label": {
-        "en": "Local Farmers Providing Quality Produce Without Plastic Packaging",
-        "fr": "Agriculteurs locaux fournissant des produits de qualité sans emballage plastique",
-        "es": "Agricultores locales que proporcionen productos de calidad sin empaque plástico",
-        "de": "Lokale Bauern, die Qualitätsprodukte ohne Plastikverpackung liefern"
-      }
-    },
-    {
-      "icon": "recycling",
-      "label": {
-        "en": "Recycling Partners for Paper, Plastic, Glass, and Food Waste",
-        "fr": "Partenaires de recyclage pour papier, plastique, verre et déchets alimentaires",
-        "es": "Socios de reciclaje para papel, plástico, vidrio y residuos de alimentos",
-        "de": "Recyclingpartner für Papier, Plastik, Glas und Lebensmittelabfälle"
+        "en": "Other Armenian restaurants to adopt zero waste",
+        "fr": "D'autres restaurants arméniens à adopter le zéro déchet",
+        "es": "Otros restaurantes armenios para adoptar el residuo cero",
+        "de": "Andere armenische Restaurants, die Zero Waste einführen sollen"
       }
     },
     {
       "icon": "policy",
       "label": {
-        "en": "Municipal Support for Recycling Bin Infrastructure",
-        "fr": "Soutien municipal pour l'infrastructure de conteneurs de recyclage",
-        "es": "Apoyo municipal para infraestructura de contenedores de reciclaje",
-        "de": "Kommunale Unterstützung für Recyclingbehälter-Infrastruktur"
+        "en": "Government certification process for zero waste",
+        "fr": "Processus de certification gouvernementale pour le zéro déchet",
+        "es": "Proceso de certificación gubernamental para residuo cero",
+        "de": "Staatliches Zertifizierungsverfahren für Zero Waste"
       }
     },
     {
-      "icon": "adoption",
+      "icon": "recycling",
       "label": {
-        "en": "Other Restaurants to Adopt Zero-Waste Practices",
-        "fr": "Autres restaurants pour adopter les pratiques zéro déchet",
-        "es": "Otros restaurantes para adoptar prácticas de cero residuos",
-        "de": "Andere Restaurants zur Übernahme von Null-Abfall-Praktiken"
+        "en": "Composting machine to process organic waste on-site",
+        "fr": "Machine de compostage pour traiter les déchets organiques sur place",
+        "es": "Máquina de compostaje para procesar residuos orgánicos en el lugar",
+        "de": "Kompostiermaschine zur Verarbeitung organischer Abfälle vor Ort"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Recycling companies to collect separated waste nearby",
+        "fr": "Entreprises de recyclage pour collecter les déchets triés à proximité",
+        "es": "Empresas de reciclaje para recoger residuos separados en las cercanías",
+        "de": "Recyclingunternehmen zur Abholung von getrenntem Abfall in der Nähe"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Local organic produce suppliers using no plastic packaging",
+        "fr": "Fournisseurs locaux de produits biologiques sans emballage plastique",
+        "es": "Proveedores locales de productos orgánicos que no usan envases de plástico",
+        "de": "Lokale Lieferanten für Bio-Produkte ohne Plastikverpackung"
       }
     }
   ],

@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food ",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -32,14 +32,12 @@
     "de": "National Institute of Industrial Technology (INTI)"
   },
   "pubId": 450652,
-  "score": 22.970046141235134,
   "state": "ongoing-project",
-  "status": "xfeatured",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food ",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Mariana",
+      "lastname": "Sánchez"
     }
   ],
   "thematic": [
@@ -49,7 +47,7 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://www.argentina.gob.ar/linea-estrategica/alimentos",
   "yt": "qaa3JSEiBYA",
   "editedAt": 1755739671,
   "feedback": [
@@ -65,184 +63,175 @@
   "gallery": [],
   "offers": [
     {
-      "icon": "development",
+      "icon": "research",
       "label": {
-        "en": "New Product Development from Concept to Market",
-        "fr": "Développement de nouveaux produits du concept au marché",
-        "es": "Desarrollo de nuevos productos desde el concepto hasta el mercado",
-        "de": "Neue Produktentwicklung vom Konzept bis zum Markt"
-      }
-    },
-    {
-      "icon": "lab",
-      "label": {
-        "en": "Food Laboratory Analysis & Testing",
-        "fr": "Analyse et tests en laboratoire alimentaire",
-        "es": "Análisis y pruebas de laboratorio de alimentos",
-        "de": "Lebensmittellaboranalyse und -prüfung"
-      }
-    },
-    {
-      "icon": "consulting",
-      "label": {
-        "en": "Technical Assistance for Food Entrepreneurs (Clínica de Alimentos)",
-        "fr": "Assistance technique pour entrepreneurs alimentaires (Clínica de Alimentos)",
-        "es": "Asistencia técnica para emprendedores alimentarios (Clínica de Alimentos)",
-        "de": "Technische Unterstützung für Lebensmittelunternehmer (Clínica de Alimentos)"
+        "en": "Laboratory testing and food analysis services",
+        "fr": "Services d'analyses en laboratoire et d'analyse alimentaire",
+        "es": "Servicios de análisis de laboratorio y análisis de alimentos",
+        "de": "Labortests und Lebensmittelanalysedienstleistungen"
       }
     },
     {
       "icon": "training",
       "label": {
-        "en": "Training & Capacity Building Programs",
-        "fr": "Programmes de formation et de renforcement des capacités",
-        "es": "Programas de capacitación y desarrollo de capacidades",
-        "de": "Schulungs- und Kapazitätsaufbauprogramme"
+        "en": "Training and capacity building for food producers",
+        "fr": "Formation et renforcement des capacités pour les producteurs alimentaires",
+        "es": "Formación y desarrollo de capacidades para productores de alimentos",
+        "de": "Schulung und Kapazitätsaufbau für Lebensmittelproduzenten"
       }
     },
     {
-      "icon": "regulatory",
+      "icon": "demonstration",
       "label": {
-        "en": "Regulatory Compliance Support & Labeling",
-        "fr": "Soutien à la conformité réglementaire et étiquetage",
-        "es": "Apoyo al cumplimiento normativo y etiquetado",
-        "de": "Regulatorische Compliance-Unterstützung und Kennzeichnung"
+        "en": "Product development from prototypes to scale",
+        "fr": "Développement de produits des prototypes à la mise à l'échelle",
+        "es": "Desarrollo de productos desde prototipos hasta escala",
+        "de": "Produktentwicklung vom Prototyp bis zur Skalierung"
       }
     },
     {
-      "icon": "upcycling",
+      "icon": "community",
       "label": {
-        "en": "By-product Valorization & Upcycling Solutions",
-        "fr": "Valorisation des sous-produits et solutions d'upcycling",
-        "es": "Valorización de subproductos y soluciones de upcycling",
-        "de": "Nebenprodukt-Verwertung und Upcycling-Lösungen"
+        "en": "Technical support for microentrepreneurs entering formal market",
+        "fr": "Soutien technique aux micro-entrepreneurs intégrant le marché formel",
+        "es": "Apoyo técnico para microempresarios que ingresan al mercado formal",
+        "de": "Technische Unterstützung für Kleinstunternehmer beim Eintritt in den formellen Markt"
       }
     },
     {
-      "icon": "scale",
+      "icon": "zerowaste",
       "label": {
-        "en": "Pilot Plant Scale-up Services",
-        "fr": "Services de mise à l'échelle en usine pilote",
-        "es": "Servicios de escalado en planta piloto",
-        "de": "Pilotanlage Scale-up-Dienstleistungen"
+        "en": "Valorization of food byproducts and discards",
+        "fr": "Valorisation des sous-produits et des déchets alimentaires",
+        "es": "Valorización de subproductos y descartes alimentarios",
+        "de": "Verwertung von Lebensmittelnebenprodukten und -abfällen"
       }
     },
     {
-      "icon": "nutrition",
+      "icon": "market",
       "label": {
-        "en": "Medical & Specialized Nutrition Product Development",
-        "fr": "Développement de produits de nutrition médicale et spécialisée",
-        "es": "Desarrollo de productos de nutrición médica y especializada",
-        "de": "Medizinische und spezialisierte Ernährungsproduktentwicklung"
+        "en": "Regulatory compliance and nutritional labeling assistance",
+        "fr": "Aide à la conformité réglementaire et à l'étiquetage nutritionnel",
+        "es": "Asistencia en cumplimiento normativo y etiquetado nutricional",
+        "de": "Unterstützung bei der Einhaltung von Vorschriften und der Nährwertkennzeichnung"
       }
     }
   ],
   "lookingFor": [
     {
-      "icon": "partnership",
+      "icon": "partners",
       "label": {
-        "en": "Partnerships with Triple Impact & B Corp Companies",
-        "fr": "Partenariats avec entreprises à triple impact et B Corp",
-        "es": "Alianzas con empresas de triple impacto y B Corp",
-        "de": "Partnerschaften mit Triple-Impact- und B-Corp-Unternehmen"
-      }
-    },
-    {
-      "icon": "collaboration",
-      "label": {
-        "en": "Collaboration with Foundations Supporting Food Sustainability",
-        "fr": "Collaboration avec des fondations soutenant la durabilité alimentaire",
-        "es": "Colaboración con fundaciones que apoyan la sostenibilidad alimentaria",
-        "de": "Zusammenarbeit mit Stiftungen zur Förderung der Lebensmittelnachhaltigkeit"
+        "en": "SMEs and startups for product development",
+        "fr": "PME et startups pour le développement de produits",
+        "es": "PYMEs y startups para el desarrollo de productos",
+        "de": "KMU und Startups für die Produktentwicklung"
       }
     },
     {
       "icon": "research",
       "label": {
-        "en": "International Research Partnerships (Horizon Europe)",
-        "fr": "Partenariats de recherche internationaux (Horizon Europe)",
-        "es": "Alianzas de investigación internacionales (Horizonte Europa)",
-        "de": "Internationale Forschungspartnerschaften (Horizon Europe)"
+        "en": "Academic institutions for applied food research",
+        "fr": "Institutions académiques pour la recherche appliquée en alimentation",
+        "es": "Instituciones académicas para la investigación alimentaria aplicada",
+        "de": "Akademische Einrichtungen für angewandte Lebensmittelforschung"
       }
     },
     {
-      "icon": "innovation",
+      "icon": "funding",
       "label": {
-        "en": "Innovative Food Startups Seeking Technical Support",
-        "fr": "Startups alimentaires innovantes recherchant un soutien technique",
-        "es": "Startups de alimentos innovadoras buscando apoyo técnico",
-        "de": "Innovative Lebensmittel-Startups, die technische Unterstützung suchen"
+        "en": "Foundations funding healthy food programs",
+        "fr": "Fondations finançant des programmes alimentaires sains",
+        "es": "Fundaciones que financian programas de alimentación saludable",
+        "de": "Stiftungen zur Förderung gesunder Ernährungsprogramme"
       }
     },
     {
-      "icon": "social",
+      "icon": "market",
       "label": {
-        "en": "Projects with Social & Environmental Impact Focus",
-        "fr": "Projets axés sur l'impact social et environnemental",
-        "es": "Proyectos con enfoque en impacto social y ambiental",
-        "de": "Projekte mit Fokus auf soziale und ökologische Wirkung"
+        "en": "Local raw material suppliers for value-added products",
+        "fr": "Fournisseurs locaux de matières premières pour des produits à valeur ajoutée",
+        "es": "Proveedores locales de materias primas para productos de valor agregado",
+        "de": "Lokale Rohstofflieferanten für veredelte Produkte"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Microentrepreneurs entering formal food channels",
+        "fr": "Micro-entrepreneurs intégrant les circuits alimentaires formels",
+        "es": "Microempresarios que ingresan a canales formales de alimentación",
+        "de": "Mikrounternehmer, die in formelle Lebensmittelkanäle eintreten"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "International Horizon Europe research collaborators",
+        "fr": "Collaborateurs internationaux de recherche Horizon Europe",
+        "es": "Colaboradores internacionales de investigación Horizon Europe",
+        "de": "Internationale Horizon-Europe-Forschungspartner"
       }
     }
   ],
   "timeline": [
     {
-      "date": "1957",
-      "icon": "foundation",
+      "date": "1995",
+      "icon": "start",
       "text": {
-        "en": "INTI (National Institute of Industrial Technology) established as an autonomous government institution supporting Argentine industry",
-        "fr": "L'INTI (Institut national de technologie industrielle) est créé en tant qu'institution gouvernementale autonome soutenant l'industrie argentine",
-        "es": "El INTI (Instituto Nacional de Tecnología Industrial) se establece como institución gubernamental autónoma apoyando la industria argentina",
-        "de": "INTI (Nationales Institut für Industrietechnologie) als autonome Regierungsinstitution zur Unterstützung der argentinischen Industrie gegründet"
+        "en": "Mariana Sánchez joined INTI as a career civil servant, later moving to permanent staff in 1998. She has remained with the institution for approximately 30 years.",
+        "fr": "Mariana Sánchez a rejoint l'INTI en tant que fonctionnaire de carrière, avant de passer au personnel permanent en 1998. Elle est restée au sein de l'institution pendant environ 30 ans.",
+        "es": "Mariana Sánchez se incorporó al INTI como empleada civil de carrera, pasando luego a planta permanente en 1998. Lleva aproximadamente 30 años en la institución.",
+        "de": "Mariana Sánchez trat 1995 als Beamtin auf Zeit in den INTI ein und wechselte 1998 in eine Festanstellung. Sie ist der Institution seit etwa 30 Jahren treu geblieben."
       }
     },
     {
       "date": "2010",
-      "icon": "social",
+      "icon": "milestone",
       "text": {
-        "en": "Red Puna llama meat project begins - supporting 15 indigenous Colla communities in Jujuy to develop Argentina's first certified chacinados plant",
-        "fr": "Début du projet de viande de lama Red Puna - soutien à 15 communautés indigènes Colla à Jujuy pour développer la première usine de charcuterie certifiée d'Argentine",
-        "es": "Comienza el proyecto de carne de llama Red Puna - apoyando a 15 comunidades indígenas Colla en Jujuy para desarrollar la primera planta de chacinados certificada de Argentina",
-        "de": "Red Puna Lama-Fleisch-Projekt beginnt - Unterstützung von 15 indigenen Colla-Gemeinden in Jujuy beim Aufbau der ersten zertifizierten Chacinados-Anlage Argentiniens"
+        "en": "INTI began a long-term project with Red Puna, a cooperative of 15 indigenous Colla communities near the Bolivia border, developing value-added llama meat products including cured meats and sausages. This became the first certified charcuterie processing plant in Jujuy province.",
+        "fr": "L'INTI a lancé un projet à long terme avec Red Puna, une coopérative de 15 communautés indigènes Colla près de la frontière bolivienne, développant des produits à valeur ajoutée à base de viande de lama, notamment des charcuteries et des saucisses. Cela est devenu le premier atelier de transformation charcutière certifié de la province de Jujuy.",
+        "es": "El INTI inició un proyecto a largo plazo con Red Puna, una cooperativa de 15 comunidades indígenas Colla cerca de la frontera con Bolivia, desarrollando productos de carne de llama con valor agregado, incluidos fiambres y embutidos. Este se convirtió en el primer establecimiento de chacinados certificado en la provincia de Jujuy.",
+        "de": "INTI startete ein langfristiges Projekt mit Red Puna, einer Kooperative aus 15 indigenen Colla-Gemeinschaften nahe der bolivianischen Grenze, zur Entwicklung veredelter Lama-Fleischprodukte, darunter gepökeltes Fleisch und Würste. Daraus entstand die erste zertifizierte Charcuterie-Verarbeitungsanlage in der Provinz Jujuy."
       }
     },
     {
       "date": "2017",
-      "icon": "program",
+      "icon": "expansion",
       "text": {
-        "en": "Creation of specialized teams focused on sustainable food development, launching Clínica de Alimentos program",
-        "fr": "Création d'équipes spécialisées axées sur le développement alimentaire durable, lancement du programme Clínica de Alimentos",
-        "es": "Creación de equipos especializados enfocados en desarrollo alimentario sostenible, lanzamiento del programa Clínica de Alimentos",
-        "de": "Gründung spezialisierter Teams für nachhaltige Lebensmittelentwicklung, Start des Clínica de Alimentos-Programms"
+        "en": "Mariana formed a new technical team within her directorate, later replicating the model into two parallel teams focused on sustainable and healthy food development.",
+        "fr": "Mariana a constitué une nouvelle équipe technique au sein de sa direction, reproduisant ensuite ce modèle en deux équipes parallèles axées sur le développement d'aliments durables et sains.",
+        "es": "Mariana formó un nuevo equipo técnico dentro de su dirección, replicando luego el modelo en dos equipos paralelos enfocados en el desarrollo de alimentos sostenibles y saludables.",
+        "de": "Mariana stellte innerhalb ihrer Direktion ein neues technisches Team zusammen und übertrug das Modell später auf zwei parallele Teams, die sich auf die Entwicklung nachhaltiger und gesunder Lebensmittel konzentrieren."
       }
     },
     {
-      "date": "2021",
-      "icon": "partnership",
+      "date": "2022-2023",
+      "icon": "sustainability",
       "text": {
-        "en": "Partnership with Tomorrow Foods (plant-based protein startup) for protein development and scale-up in INTI facilities",
-        "fr": "Partenariat avec Tomorrow Foods (startup de protéines végétales) pour le développement et la mise à l'échelle des protéines dans les installations de l'INTI",
-        "es": "Alianza con Tomorrow Foods (startup de proteína vegetal) para desarrollo y escalado de proteínas en instalaciones del INTI",
-        "de": "Partnerschaft mit Tomorrow Foods (pflanzliches Protein-Startup) für Proteinentwicklung und Scale-up in INTI-Einrichtungen"
+        "en": "INTI launched the Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados program to help small food producers enter formal commercial channels, later co-executing it with Fundación Alimentaris across 40 microenterprises in Córdoba, Santa Fe, and Santiago del Estero.",
+        "fr": "L'INTI a lancé le programme Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados pour aider les petits producteurs alimentaires à intégrer les circuits commerciaux formels, avant de le co-exécuter avec la Fundación Alimentaris auprès de 40 microentreprises en Córdoba, Santa Fe et Santiago del Estero.",
+        "es": "El INTI lanzó el programa Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados para ayudar a pequeños productores de alimentos a ingresar a canales comerciales formales, coejecutándolo luego con la Fundación Alimentaris en 40 microempresas de Córdoba, Santa Fe y Santiago del Estero.",
+        "de": "INTI lancierte das Programm Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados, um kleinen Lebensmittelproduzenten den Zugang zu formellen Vertriebswegen zu erleichtern. Später wurde es gemeinsam mit der Fundación Alimentaris in 40 Kleinstunternehmen in Córdoba, Santa Fe und Santiago del Estero umgesetzt."
       }
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "milestone",
       "text": {
-        "en": "Designated National Contact Point for Horizon Europe food projects; launching expanded Clínica de Alimentos with Fundación Alimentaris serving 40 micro-enterprises across 4 provinces",
-        "fr": "Désigné Point de contact national pour les projets alimentaires Horizon Europe; lancement de la Clínica de Alimentos élargie avec Fundación Alimentaris desservant 40 micro-entreprises dans 4 provinces",
-        "es": "Designado Punto de Contacto Nacional para proyectos alimentarios de Horizonte Europa; lanzamiento de Clínica de Alimentos ampliada con Fundación Alimentaris sirviendo a 40 microempresas en 4 provincias",
-        "de": "Als Nationaler Kontaktpunkt für Horizon Europe Lebensmittelprojekte benannt; Start der erweiterten Clínica de Alimentos mit Fundación Alimentaris für 40 Kleinstunternehmen in 4 Provinzen"
+        "en": "Mariana was designated Argentina's National Contact Point for Horizon Europe projects in the food sector, expanding INTI's international institutional linkages.",
+        "fr": "Mariana a été désignée Point de Contact National de l'Argentine pour les projets Horizon Europe dans le secteur alimentaire, renforçant les liens institutionnels internationaux de l'INTI.",
+        "es": "Mariana fue designada Punto de Contacto Nacional de Argentina para proyectos Horizon Europe en el sector alimentario, ampliando los vínculos institucionales internacionales del INTI.",
+        "de": "Mariana wurde zur nationalen Kontaktstelle Argentiniens für Horizon-Europe-Projekte im Lebensmittelbereich ernannt, was die internationalen institutionellen Verbindungen des INTI weiter ausbaut."
       }
     },
     {
-      "date": "Ongoing",
-      "icon": "innovation",
+      "date": "2024",
+      "icon": "challenge",
       "text": {
-        "en": "Developing alternative proteins (mycoprotein, fermentation), medical nutrition products (epilepsy, PKU), and supporting by-product valorization (brewery bagazo, citrus fiber, goma brea)",
-        "fr": "Développement de protéines alternatives (mycoprotéine, fermentation), produits de nutrition médicale (épilepsie, PKU) et soutien à la valorisation des sous-produits (bagasse de brasserie, fibre d'agrumes, gomme brea)",
-        "es": "Desarrollando proteínas alternativas (micoproteína, fermentación), productos de nutrición médica (epilepsia, PKU) y apoyando valorización de subproductos (bagazo cervecero, fibra cítrica, goma brea)",
-        "de": "Entwicklung alternativer Proteine (Mykoprotein, Fermentation), medizinischer Ernährungsprodukte (Epilepsie, PKU) und Unterstützung der Nebenprodukt-Verwertung (Brauerei-Bagazo, Zitrusfaser, Goma Brea)"
+        "en": "Under the Milei administration, INTI was moved from the Ministry of Industry to the Ministry of Economy, creating institutional uncertainty, though the directorate maintained stability through a sustained private-sector client pipeline covering 35% of its salary costs.",
+        "fr": "Sous l'administration Milei, l'INTI a été transféré du ministère de l'Industrie au ministère de l'Économie, créant une incertitude institutionnelle, bien que la direction ait maintenu sa stabilité grâce à un portefeuille soutenu de clients du secteur privé couvrant 35 % de ses coûts salariaux.",
+        "es": "Durante la gestión de Milei, el INTI fue trasladado del Ministerio de Industria al Ministerio de Economía, generando incertidumbre institucional, aunque la dirección mantuvo su estabilidad gracias a una cartera sostenida de clientes del sector privado que cubría el 35% de sus costos salariales.",
+        "de": "Unter der Regierung Milei wurde INTI vom Industrieministerium in das Wirtschaftsministerium überführt, was institutionelle Unsicherheit erzeugte. Die Direktion bewahrte jedoch ihre Stabilität durch eine kontinuierliche Auftragspipeline aus dem Privatsektor, die 35 % der Gehaltskosten abdeckt."
       }
     }
   ]

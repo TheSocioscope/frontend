@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "AABDA"
   },
   "pubId": 452452,
-  "score": 30.825511325126996,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Juan",
+      "lastname": "Martín Richter"
     }
   ],
   "thematic": [
@@ -49,7 +47,7 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://aabda.com.ar/",
   "yt": "",
   "editedAt": 1754423451,
   "feedback": [
@@ -61,5 +59,170 @@
   "updatedAt": [
     1754423451
   ],
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "1924",
+      "icon": "start",
+      "text": {
+        "en": "Biodynamic agriculture originated in 1924 when Rudolf Steiner gave a course for farmers seeking guidance from anthroposophy. This course became the foundational reference text for biodynamic agriculture.",
+        "fr": "L'agriculture biodynamique est née en 1924 lorsque Rudolf Steiner a donné un cours à des agriculteurs cherchant des orientations issues de l'anthroposophie. Ce cours est devenu le texte de référence fondateur de l'agriculture biodynamique.",
+        "es": "La agricultura biodinámica se originó en 1924 cuando Rudolf Steiner impartió un curso para agricultores que buscaban orientación en la antroposofía. Este curso se convirtió en el texto de referencia fundacional de la agricultura biodinámica.",
+        "de": "Die biodynamische Landwirtschaft entstand im Jahr 1924, als Rudolf Steiner einen Kurs für Landwirte hielt, die Orientierung aus der Anthroposophie suchten. Dieser Kurs wurde zum grundlegenden Referenztext für die biodynamische Landwirtschaft."
+      }
+    },
+    {
+      "date": "Early 1990s",
+      "icon": "milestone",
+      "text": {
+        "en": "ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) was founded by agronomists and farmers interested in biodynamic agriculture. Initial activities centered on study groups, knowledge exchange, and early training courses.",
+        "fr": "L'ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) a été fondée par des agronomes et des agriculteurs intéressés par l'agriculture biodynamique. Les activités initiales étaient centrées sur des groupes d'étude, l'échange de connaissances et les premiers cours de formation.",
+        "es": "ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) fue fundada por agrónomos y agricultores interesados en la agricultura biodinámica. Las actividades iniciales se centraron en grupos de estudio, intercambio de conocimientos y los primeros cursos de formación.",
+        "de": "ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) wurde von Agronomen und Landwirten gegründet, die an biodynamischer Landwirtschaft interessiert waren. Die ersten Aktivitäten konzentrierten sich auf Studiengruppen, Wissensaustausch und frühe Ausbildungskurse."
+      }
+    },
+    {
+      "date": "2017",
+      "icon": "expansion",
+      "text": {
+        "en": "ABDA formalized regional chapters across Argentina, including Patagonia Norte, Mendoza, NOA, Córdoba, Litoral, and Misiones. This marked a shift from a single national body to a decentralized, regionally represented organization.",
+        "fr": "L'ABDA a formalisé des chapitres régionaux à travers l'Argentine, notamment en Patagonie Norte, Mendoza, NOA, Córdoba, Litoral et Misiones. Cela a marqué une transition d'un organisme national unique vers une organisation décentralisée à représentation régionale.",
+        "es": "ABDA formalizó capítulos regionales en toda Argentina, incluyendo Patagonia Norte, Mendoza, NOA, Córdoba, Litoral y Misiones. Esto marcó un cambio de un único organismo nacional a una organización descentralizada con representación regional.",
+        "de": "ABDA formalisierte regionale Zweigstellen in ganz Argentinien, darunter Patagonia Norte, Mendoza, NOA, Córdoba, Litoral und Misiones. Dies markierte einen Wandel von einer einzigen nationalen Organisation zu einer dezentralisierten, regional vertretenen Struktur."
+      }
+    },
+    {
+      "date": "2022-2023",
+      "icon": "milestone",
+      "text": {
+        "en": "Argentina hosted the Latin American Biodynamic Agriculture Encounter in San Miguel, funded in part by the International Biodynamic Federation. The event drew participants from across Latin America and marked Argentina's growing leadership role in the regional movement.",
+        "fr": "L'Argentine a accueilli la Rencontre latino-américaine d'agriculture biodynamique à San Miguel, financée en partie par la Fédération internationale de l'agriculture biodynamique. L'événement a réuni des participants de toute l'Amérique latine et a marqué le rôle de leadership croissant de l'Argentine dans le mouvement régional.",
+        "es": "Argentina fue sede del Encuentro Latinoamericano de Agricultura Biodinámica en San Miguel, financiado en parte por la Federación Biodinámica Internacional. El evento convocó a participantes de toda América Latina y marcó el creciente papel de liderazgo de Argentina en el movimiento regional.",
+        "de": "Argentinien war Gastgeber des Lateinamerikanischen Treffens für Biodynamische Landwirtschaft in San Miguel, das teilweise von der Internationalen Biodynamischen Vereinigung finanziert wurde. Die Veranstaltung zog Teilnehmer aus ganz Lateinamerika an und unterstrich Argentiniens wachsende Führungsrolle in der regionalen Bewegung."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "sustainability",
+      "text": {
+        "en": "ABDA celebrated 100 years of biodynamic agriculture, with each Latin American country organizing its own commemorative events rather than a central gathering. The association was also advancing accreditation as a Demeter certifier for the local market through the Participatory Guarantee System.",
+        "fr": "L'ABDA a célébré 100 ans d'agriculture biodynamique, chaque pays d'Amérique latine organisant ses propres événements commémoratifs plutôt qu'un rassemblement central. L'association avançait également vers l'accréditation en tant que certificateur Demeter pour le marché local, par le biais du Système de Garantie Participatif.",
+        "es": "ABDA celebró los 100 años de la agricultura biodinámica, con cada país latinoamericano organizando sus propios eventos conmemorativos en lugar de una reunión central. La asociación también avanzaba en la acreditación como certificadora Demeter para el mercado local a través del Sistema Participativo de Garantía.",
+        "de": "ABDA feierte 100 Jahre biodynamische Landwirtschaft, wobei jedes lateinamerikanische Land seine eigenen Gedenkveranstaltungen organisierte, anstatt eine zentrale Zusammenkunft abzuhalten. Der Verband arbeitete zudem daran, die Akkreditierung als Demeter-Zertifizierer für den lokalen Markt durch das Partizipative Garantiesystem voranzutreiben."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "training",
+      "label": {
+        "en": "Biodynamic agriculture training courses",
+        "fr": "Cours de formation en agriculture biodynamique",
+        "es": "Cursos de formación en agricultura biodinámica",
+        "de": "Schulungskurse für biodynamische Landwirtschaft"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Published books and biodynamic calendar",
+        "fr": "Livres publiés et calendrier biodynamique",
+        "es": "Libros publicados y calendario biodinámico",
+        "de": "Veröffentlichte Bücher und biodynamischer Kalender"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Comparative research on biodynamic practices",
+        "fr": "Recherche comparative sur les pratiques biodynamiques",
+        "es": "Investigación comparativa sobre prácticas biodinámicas",
+        "de": "Vergleichende Forschung zu biodynamischen Praktiken"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Demeter certification for biodynamic products",
+        "fr": "Certification Demeter pour les produits biodynamiques",
+        "es": "Certificación Demeter para productos biodinámicos",
+        "de": "Demeter-Zertifizierung für biodynamische Produkte"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Regional network and member meeting spaces",
+        "fr": "Réseau régional et espaces de rencontre pour les membres",
+        "es": "Red regional y espacios de reunión para miembros",
+        "de": "Regionales Netzwerk und Begegnungsräume für Mitglieder"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Advisory services for transitioning producers",
+        "fr": "Services de conseil pour les producteurs en transition",
+        "es": "Servicios de asesoramiento para productores en transición",
+        "de": "Beratungsdienstleistungen für Betriebe in der Umstellungsphase"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Strategic alliances with aligned movements",
+        "fr": "Alliances stratégiques avec des mouvements alignés",
+        "es": "Alianzas estratégicas con movimientos afines",
+        "de": "Strategische Allianzen mit gleichgesinnten Bewegungen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "More producers adopting biodynamic practices",
+        "fr": "Plus de producteurs adoptant des pratiques biodynamiques",
+        "es": "Más productores adoptando prácticas biodinámicas",
+        "de": "Mehr Erzeuger, die biodynamische Praktiken übernehmen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Development of local certified biodynamic market",
+        "fr": "Développement du marché biodynamique certifié local",
+        "es": "Desarrollo del mercado biodinámico certificado local",
+        "de": "Entwicklung eines lokalen zertifizierten biodynamischen Marktes"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "External funding beyond biodynamic world",
+        "fr": "Financement externe au-delà du monde biodynamique",
+        "es": "Financiamiento externo más allá del mundo biodinámico",
+        "de": "Externe Finanzierung jenseits der biodynamischen Welt"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Participation in seed law and agricultural policy",
+        "fr": "Participation à la législation semencière et à la politique agricole",
+        "es": "Participación en la ley de semillas y política agrícola",
+        "de": "Beteiligung an Saatgutrecht und Agrarpolitik"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Comparative studies on biodynamic results",
+        "fr": "Études comparatives sur les résultats biodynamiques",
+        "es": "Estudios comparativos sobre resultados biodinámicos",
+        "de": "Vergleichsstudien zu biodynamischen Ergebnissen"
+      }
+    }
+  ],
+  "gallery": []
 }

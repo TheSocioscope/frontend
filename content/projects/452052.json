@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -32,14 +32,12 @@
     "de": "Chivito Criollo"
   },
   "pubId": 452052,
-  "score": -56.55595952450955,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Ana",
+      "lastname": "Barrientos"
     }
   ],
   "thematic": [
@@ -54,128 +52,175 @@
   "originalLang": "fr",
   "timeline": [
     {
-      "date": "2004-2005",
+      "date": "pre-2004",
       "icon": "start",
       "text": {
-        "en": "Initial work began to valorize local goat production and improve commercialization of chivitos in Norte Neuquino",
-        "fr": "Début des travaux pour valoriser la production caprine locale et améliorer la commercialisation des chevreaux dans le Norte Neuquino",
-        "es": "Inicio del trabajo para valorizar la producción caprina local y mejorar la comercialización de chivitos en el Norte Neuquino",
-        "de": "Beginn der Arbeit zur Aufwertung der lokalen Ziegenproduktion und Verbesserung der Vermarktung von Zicklein im Norte Neuquino"
+        "en": "Families in northern Neuquén have practiced goat herding for generations using traditional transhumance between summer and winter pastures. The criollo goat breed developed over centuries through this ancestral production system.",
+        "fr": "Les familles du nord du Neuquén pratiquent l'élevage caprin depuis des générations selon une transhumance traditionnelle entre pâturages d'été et d'hiver. La race caprine criollo s'est développée au fil des siècles grâce à ce système de production ancestral.",
+        "es": "Las familias del norte neuquino han practicado la cría de cabras durante generaciones mediante la trashumancia tradicional entre pasturas de verano e invierno. La raza caprina criolla se desarrolló a lo largo de siglos a través de este sistema de producción ancestral.",
+        "de": "Familien im nördlichen Neuquén betreiben seit Generationen Ziegenhaltung nach traditioneller Transhumanz zwischen Sommer- und Winterweiden. Die Criollo-Ziegenrasse entwickelte sich über Jahrhunderte durch dieses überlieferte Produktionssystem."
+      }
+    },
+    {
+      "date": "2004-2005",
+      "icon": "milestone",
+      "text": {
+        "en": "Work formally began to valorize local chivito production and improve commercialization. Producers, families, INTA, and other institutions began collaborating to define quality protocols and pursue a denomination of origin.",
+        "fr": "Des travaux ont officiellement débuté pour valoriser la production locale de chivito et améliorer sa commercialisation. Les producteurs, les familles, l'INTA et d'autres institutions ont commencé à collaborer pour définir des protocoles de qualité et obtenir une appellation d'origine.",
+        "es": "Se inició formalmente el trabajo para valorizar la producción local de chivito y mejorar su comercialización. Productores, familias, el INTA y otras instituciones comenzaron a colaborar para definir protocolos de calidad y avanzar hacia una denominación de origen.",
+        "de": "Es wurde formell damit begonnen, die lokale Chivito-Produktion aufzuwerten und die Vermarktung zu verbessern. Erzeuger, Familien, INTA und andere Institutionen begannen zusammenzuarbeiten, um Qualitätsprotokolle festzulegen und eine Ursprungsbezeichnung anzustreben."
+      }
+    },
+    {
+      "date": "2007-2008",
+      "icon": "milestone",
+      "text": {
+        "en": "The Consejo Regulador of the Denominación de Origen was formally structured, with founding members including Graciela Moya as secretary. The denomination of origin seal was obtained, becoming one of the first food DOPs nationally recognized in Argentina.",
+        "fr": "Le Consejo Regulador de la Denominación de Origen a été formellement structuré, avec parmi ses membres fondateurs Graciela Moya en tant que secrétaire. Le label d'appellation d'origine a été obtenu, devenant l'une des premières DOP alimentaires reconnues au niveau national en Argentine.",
+        "es": "El Consejo Regulador de la Denominación de Origen fue formalmente constituido, con miembros fundadores entre los que se encontraba Graciela Moya como secretaria. Se obtuvo el sello de denominación de origen, convirtiéndose en una de las primeras DOP alimentarias reconocidas a nivel nacional en Argentina.",
+        "de": "Der Consejo Regulador der Denominación de Origen wurde formell gegründet, zu den Gründungsmitgliedern gehörte Graciela Moya als Sekretärin. Das Siegel der Ursprungsbezeichnung wurde erlangt und war damit eine der ersten national anerkannten Lebensmittel-DOPs in Argentinien."
       }
     },
     {
       "date": "2010",
-      "icon": "award",
-      "text": {
-        "en": "Denomination of Origin officially recognized - one of Argentina's first food products to receive this certification",
-        "fr": "Appellation d'origine officiellement reconnue - l'un des premiers produits alimentaires argentins à recevoir cette certification",
-        "es": "Denominación de Origen oficialmente reconocida - uno de los primeros productos alimentarios argentinos en recibir esta certificación",
-        "de": "Ursprungsbezeichnung offiziell anerkannt - eines der ersten argentinischen Lebensmittel mit dieser Zertifizierung"
-      }
-    },
-    {
-      "date": "2022-2024",
-      "icon": "revival",
-      "text": {
-        "en": "Revival of the DO seal with renewed institutional support from Neuquén Province and INTA, second generation of producers taking leadership",
-        "fr": "Relance du label DO avec le soutien institutionnel renouvelé de la province de Neuquén et de l'INTA, deuxième génération de producteurs prenant le leadership",
-        "es": "Reactivación del sello DO con apoyo institucional renovado de la Provincia de Neuquén e INTA, segunda generación de productores asumiendo el liderazgo",
-        "de": "Wiederbelebung des DO-Siegels mit erneuter institutioneller Unterstützung der Provinz Neuquén und INTA, zweite Generation von Produzenten übernimmt Führung"
-      }
-    },
-    {
-      "date": "2024",
       "icon": "milestone",
       "text": {
-        "en": "First year receiving direct income from DO commercialization; partnership with CORDEC for distribution through supermarket chain La Anónima",
-        "fr": "Première année de revenus directs de la commercialisation DO; partenariat avec CORDEC pour la distribution via la chaîne de supermarchés La Anónima",
-        "es": "Primer año recibiendo ingresos directos de la comercialización DO; alianza con CORDEC para distribución a través de la cadena de supermercados La Anónima",
-        "de": "Erstes Jahr mit direkten Einnahmen aus der DO-Vermarktung; Partnerschaft mit CORDEC für den Vertrieb über die Supermarktkette La Anónima"
+        "en": "The Denominación de Origen Chivito Criollo del Norte Neuquino achieved official national recognition under Argentine law regulating denominations of origin and geographical indications.",
+        "fr": "La Denominación de Origen Chivito Criollo del Norte Neuquino a obtenu une reconnaissance nationale officielle en vertu de la loi argentine réglementant les appellations d'origine et les indications géographiques.",
+        "es": "La Denominación de Origen Chivito Criollo del Norte Neuquino obtuvo el reconocimiento oficial a nivel nacional bajo la legislación argentina que regula las denominaciones de origen e indicaciones geográficas.",
+        "de": "Die Denominación de Origen Chivito Criollo del Norte Neuquino erlangte die offizielle nationale Anerkennung gemäß dem argentinischen Gesetz zur Regelung von Ursprungsbezeichnungen und geografischen Angaben."
+      }
+    },
+    {
+      "date": "2014-2015",
+      "icon": "challenge",
+      "text": {
+        "en": "The denomination entered a period of decline due to lack of state support and volunteer burnout. Members could no longer sustain operations without institutional backing, and active use of the seal dropped significantly.",
+        "fr": "L'appellation est entrée dans une période de déclin en raison du manque de soutien de l'État et de l'épuisement des bénévoles. Les membres ne pouvaient plus maintenir les activités sans appui institutionnel, et l'utilisation active du label a considérablement diminué.",
+        "es": "La denominación entró en un período de declive debido a la falta de apoyo estatal y al agotamiento de los voluntarios. Los miembros ya no podían sostener las operaciones sin respaldo institucional, y el uso activo del sello disminuyó significativamente.",
+        "de": "Die Ursprungsbezeichnung geriet aufgrund mangelnder staatlicher Unterstützung und Erschöpfung der Ehrenamtlichen in eine Phase des Niedergangs. Die Mitglieder konnten den Betrieb ohne institutionelle Rückendeckung nicht mehr aufrechterhalten, und die aktive Nutzung des Siegels ging erheblich zurück."
+      }
+    },
+    {
+      "date": "2022",
+      "icon": "expansion",
+      "text": {
+        "en": "The Province of Neuquén relaunched its support, funding administrative renewal of the association's legal paperwork. CORDEC joined as a commercial partner, and for the first time the DO began generating its own revenue through certified chivito sales.",
+        "fr": "La province du Neuquén a relancé son soutien en finançant le renouvellement administratif des documents juridiques de l'association. CORDEC a rejoint l'initiative en tant que partenaire commercial, et pour la première fois, l'appellation d'origine a commencé à générer ses propres revenus grâce aux ventes de chivito certifié.",
+        "es": "La Provincia del Neuquén relanzó su apoyo, financiando la renovación administrativa de la documentación legal de la asociación. CORDEC se incorporó como socio comercial y, por primera vez, la DO comenzó a generar sus propios ingresos a través de la venta de chivito certificado.",
+        "de": "Die Provinz Neuquén startete ihre Unterstützung neu und finanzierte die verwaltungstechnische Erneuerung der rechtlichen Unterlagen des Verbands. CORDEC trat als Handelspartner bei, und zum ersten Mal begann die DO durch zertifizierte Chivito-Verkäufe eigene Einnahmen zu erzielen."
       }
     }
   ],
   "offers": [
     {
-      "icon": "certification",
+      "icon": "market",
       "label": {
-        "en": "Denomination of Origin Certification for Chivito Criollo",
-        "fr": "Certification d'Appellation d'Origine pour le Chivito Criollo",
-        "es": "Certificación de Denominación de Origen para Chivito Criollo",
-        "de": "Ursprungsbezeichnungs-Zertifizierung für Chivito Criollo"
+        "en": "Certified quality seal for criollo goat meat",
+        "fr": "Label de qualité certifié pour la viande de chèvre criollo",
+        "es": "Sello de calidad certificado para carne de cabra criolla",
+        "de": "Zertifiziertes Qualitätssiegel für Criollo-Ziegenfleisch"
       }
     },
     {
-      "icon": "meat",
+      "icon": "community",
       "label": {
-        "en": "Premium Quality Goat Meat (Mamones and Veranada)",
-        "fr": "Viande de chèvre de qualité premium (Mamones et Veranada)",
-        "es": "Carne de cabra de calidad premium (Mamones y Veranada)",
-        "de": "Premium-Ziegenfleisch (Mamones und Veranada)"
+        "en": "Collective organization for goat farming families",
+        "fr": "Organisation collective pour les familles d'éleveurs de chèvres",
+        "es": "Organización colectiva para familias dedicadas a la caprinocultura",
+        "de": "Gemeinschaftliche Organisation für Ziegenzuchtfamilien"
       }
     },
     {
-      "icon": "tradition",
+      "icon": "demonstration",
       "label": {
-        "en": "Traditional Transhumance Production Practices",
-        "fr": "Pratiques de production traditionnelles de transhumance",
-        "es": "Prácticas de producción tradicionales de trashumancia",
-        "de": "Traditionelle Wanderweidewirtschaftliche Produktionspraktiken"
+        "en": "Traditional transhumance production system preserved",
+        "fr": "Système de production de transhumance traditionnelle préservé",
+        "es": "Sistema de producción de trashumancia tradicional preservado",
+        "de": "Traditionelles Transhumanz-Produktionssystem erhalten"
       }
     },
     {
-      "icon": "quality",
+      "icon": "training",
       "label": {
-        "en": "Quality Standards and Production Protocol",
-        "fr": "Normes de qualité et protocole de production",
-        "es": "Estándares de calidad y protocolo de producción",
-        "de": "Qualitätsstandards und Produktionsprotokoll"
+        "en": "Technical support from INTA for producers",
+        "fr": "Soutien technique de l'INTA aux producteurs",
+        "es": "Apoyo técnico del INTA para productores",
+        "de": "Technische Unterstützung durch INTA für Erzeuger"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Access to formal commercial distribution channels",
+        "fr": "Accès aux circuits de distribution commerciale formels",
+        "es": "Acceso a canales formales de distribución comercial",
+        "de": "Zugang zu formellen kommerziellen Vertriebskanälen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "FAO-recognized breed identification and protocol",
+        "fr": "Identification de race et protocole reconnus par la FAO",
+        "es": "Identificación de raza y protocolo reconocidos por la FAO",
+        "de": "Von der FAO anerkannte Rassenidentifikation und -protokoll"
       }
     }
   ],
   "lookingFor": [
     {
+      "icon": "market",
+      "label": {
+        "en": "Access to more demanding markets for certified chivito",
+        "fr": "Accès à des marchés plus exigeants pour le chivito certifié",
+        "es": "Acceso a mercados más exigentes para el chivito certificado",
+        "de": "Zugang zu anspruchsvolleren Märkten für zertifiziertes Chivito"
+      }
+    },
+    {
       "icon": "funding",
       "label": {
-        "en": "Provincial Quality Incentive for DO-Certified Products",
-        "fr": "Prime provinciale de qualité pour les produits certifiés DO",
-        "es": "Incentivo provincial de calidad para productos certificados DO",
-        "de": "Provinzielle Qualitätsprämie für DO-zertifizierte Produkte"
+        "en": "Provincial quality incentive bonus for certified producers",
+        "fr": "Prime provinciale d'incitation à la qualité pour les producteurs certifiés",
+        "es": "Bono provincial de incentivo a la calidad para productores certificados",
+        "de": "Provinzieller Qualitätsanreizbonus für zertifizierte Erzeuger"
       }
     },
     {
-      "icon": "awareness",
+      "icon": "adoption",
       "label": {
-        "en": "Communication and Marketing Partners for DO Promotion",
-        "fr": "Partenaires de communication et marketing pour la promotion DO",
-        "es": "Socios de comunicación y marketing para promoción de la DO",
-        "de": "Kommunikations- und Marketingpartner für DO-Promotion"
+        "en": "More producers joining and using the DO seal",
+        "fr": "Plus de producteurs adhérant et utilisant le sceau DO",
+        "es": "Más productores incorporándose y utilizando el sello DO",
+        "de": "Mehr Erzeuger, die dem DO-Siegel beitreten und es verwenden"
       }
     },
     {
-      "icon": "youth",
+      "icon": "partners",
       "label": {
-        "en": "Engagement of Young Producers in the DO System",
-        "fr": "Engagement des jeunes producteurs dans le système DO",
-        "es": "Participación de productores jóvenes en el sistema DO",
-        "de": "Einbindung junger Produzenten in das DO-System"
+        "en": "Institutional support from province and INTA",
+        "fr": "Soutien institutionnel de la province et de l'INTA",
+        "es": "Apoyo institucional de la provincia e INTA",
+        "de": "Institutionelle Unterstützung durch die Provinz und INTA"
       }
     },
     {
-      "icon": "distribution",
+      "icon": "policy",
       "label": {
-        "en": "Expanded Distribution Channels for Fractioned Chivito Products",
-        "fr": "Canaux de distribution élargis pour les produits de chevreau fractionnés",
-        "es": "Canales de distribución ampliados para productos de chivito fraccionado",
-        "de": "Erweiterte Vertriebskanäle für portionierte Zickleinprodukte"
+        "en": "Legal land tenure for criancero families",
+        "fr": "Régularisation foncière pour les familles de crianceros",
+        "es": "Tenencia legal de la tierra para las familias crianceras",
+        "de": "Rechtliche Landbesitzsicherung für Criancero-Familien"
       }
     },
     {
-      "icon": "producers",
+      "icon": "research",
       "label": {
-        "en": "New Producer Families to Join the DO Certification",
-        "fr": "Nouvelles familles de producteurs pour rejoindre la certification DO",
-        "es": "Nuevas familias productoras para unirse a la certificación DO",
-        "de": "Neue Produzentenfamilien für den Beitritt zur DO-Zertifizierung"
+        "en": "Modernize traditional goat farming practices",
+        "fr": "Moderniser les pratiques traditionnelles d'élevage caprin",
+        "es": "Modernizar las prácticas tradicionales de la cría caprina",
+        "de": "Modernisierung traditioneller Ziegenhaltungspraktiken"
       }
     }
   ],

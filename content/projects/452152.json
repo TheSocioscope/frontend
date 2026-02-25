@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Bodega de la Torre"
   },
   "pubId": 452152,
-  "score": -209.73418185523485,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Sergio",
+      "lastname": "Nicolás de la Torre"
     }
   ],
   "thematic": [
@@ -50,5 +48,170 @@
   ],
   "url": "",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "pre-1875",
+      "icon": "start",
+      "text": {
+        "en": "Winemaking in Chos Malal began over 150 years ago, with Jesuit missionaries bringing vines during the conquest of the desert. The great-grandmother of the De La Torre family started producing wine in the area, continuing through subsequent generations for self-consumption and barter.",
+        "fr": "La viticulture à Chos Malal a débuté il y a plus de 150 ans, des missionnaires jésuites ayant apporté des vignes lors de la conquête du désert. L'arrière-grand-mère de la famille De La Torre a commencé à produire du vin dans la région, une tradition poursuivie par les générations suivantes pour la consommation personnelle et le troc.",
+        "es": "La elaboración de vino en Chos Malal comenzó hace más de 150 años, cuando los misioneros jesuitas trajeron vides durante la conquista del desierto. La bisabuela de la familia De La Torre comenzó a producir vino en la zona, continuando a través de generaciones sucesivas para autoconsumo y trueque.",
+        "de": "Die Weinherstellung in Chos Malal begann vor über 150 Jahren, als jesuitische Missionare während der Conquista del Desierto Weinreben mitbrachten. Die Urgroßmutter der Familie De La Torre begann in der Region mit der Weinproduktion und setzte diese über mehrere Generationen hinweg für den Eigenverbrauch und den Tauschhandel fort."
+      }
+    },
+    {
+      "date": "2006-2008",
+      "icon": "milestone",
+      "text": {
+        "en": "The father of the De La Torre family decided to formalize the winemaking tradition by establishing Bodega De La Torre in Chos Malal, Neuquén, inaugurating the winery in 2008. Initial investment came entirely from personal savings, with no loans or subsidies.",
+        "fr": "Le père de la famille De La Torre a décidé de formaliser la tradition viticole en créant la Bodega De La Torre à Chos Malal, Neuquén, inaugurant la cave en 2008. L'investissement initial provenait entièrement d'économies personnelles, sans emprunts ni subventions.",
+        "es": "El padre de la familia De La Torre decidió formalizar la tradición vitivinícola fundando Bodega De La Torre en Chos Malal, Neuquén, inaugurando la bodega en 2008. La inversión inicial provino íntegramente de ahorros personales, sin préstamos ni subsidios.",
+        "de": "Der Vater der Familie De La Torre entschied sich, die Weinbautradition zu formalisieren, indem er die Bodega De La Torre in Chos Malal, Neuquén, gründete und das Weingut im Jahr 2008 eröffnete. Die anfänglichen Investitionen stammten ausschließlich aus persönlichen Ersparnissen, ohne Kredite oder Subventionen."
+      }
+    },
+    {
+      "date": "2019",
+      "icon": "sustainability",
+      "text": {
+        "en": "The winery introduced sheep into the vineyard as part of their biodynamic practices, replacing an informal arrangement with a cheesemaker who brought cows. The sheep provide natural grazing and contribute to compost production, reducing the need for machinery.",
+        "fr": "La cave a introduit des moutons dans le vignoble dans le cadre de ses pratiques biodynamiques, remplaçant un arrangement informel avec un fromager qui amenait des vaches. Les moutons assurent un pâturage naturel et contribuent à la production de compost, réduisant le recours aux machines.",
+        "es": "La bodega incorporó ovejas al viñedo como parte de sus prácticas biodinámicas, reemplazando un acuerdo informal con un quesero que traía vacas. Las ovejas proporcionan pastoreo natural y contribuyen a la producción de compost, reduciendo la necesidad de maquinaria.",
+        "de": "Das Weingut führte im Rahmen seiner biodynamischen Praktiken Schafe in den Weinberg ein und ersetzte damit eine informelle Vereinbarung mit einem Käsehersteller, der Kühe mitgebracht hatte. Die Schafe sorgen für natürliche Beweidung und tragen zur Kompostproduktion bei, wodurch der Einsatz von Maschinen reduziert wird."
+      }
+    },
+    {
+      "date": "~2021-2022",
+      "icon": "challenge",
+      "text": {
+        "en": "A severe frost of minus 9 degrees Celsius during budding season destroyed many vines and caused the loss of two consecutive harvests, reducing production to only 400 kilograms of grapes that year. This setback delayed the expansion of the second vineyard by approximately three years.",
+        "fr": "Un gel sévère de moins 9 degrés Celsius pendant la saison des bourgeons a détruit de nombreux ceps et entraîné la perte de deux récoltes consécutives, réduisant la production à seulement 400 kilogrammes de raisins cette année-là. Ce revers a retardé l'expansion du deuxième vignoble d'environ trois ans.",
+        "es": "Una helada severa de menos 9 grados Celsius durante la temporada de brotación destruyó muchas vides y provocó la pérdida de dos cosechas consecutivas, reduciendo la producción a solo 400 kilogramos de uvas ese año. Este revés retrasó la expansión del segundo viñedo aproximadamente tres años.",
+        "de": "Ein schwerer Frost von minus 9 Grad Celsius während der Knospungszeit zerstörte viele Reben und verursachte den Verlust von zwei aufeinanderfolgenden Ernten, wodurch die Produktion in jenem Jahr auf nur 400 Kilogramm Trauben reduziert wurde. Dieser Rückschlag verzögerte die Erweiterung des zweiten Weinbergs um etwa drei Jahre."
+      }
+    },
+    {
+      "date": "ongoing-2023",
+      "icon": "partnership",
+      "text": {
+        "en": "The winery established a formal contract to supply 300 bottles annually to the Vatican, linked through a local priest who had worked with Pope Francis in Buenos Aires. They also began a DNA study with INTA Mendoza to identify and classify ancient local Criolla vine varieties estimated to be 150 years old.",
+        "fr": "La cave a établi un contrat formel pour fournir 300 bouteilles annuellement au Vatican, grâce à un prêtre local ayant travaillé avec le pape François à Buenos Aires. Ils ont également lancé une étude ADN avec l'INTA Mendoza pour identifier et classer d'anciennes variétés locales de vigne Criolla estimées à 150 ans.",
+        "es": "La bodega estableció un contrato formal para suministrar 300 botellas anuales al Vaticano, vinculado a través de un sacerdote local que había trabajado con el Papa Francisco en Buenos Aires. También iniciaron un estudio de ADN con el INTA Mendoza para identificar y clasificar antiguas variedades locales de vid Criolla estimadas en 150 años de antigüedad.",
+        "de": "Das Weingut schloss einen formellen Vertrag zur jährlichen Lieferung von 300 Flaschen an den Vatikan ab, vermittelt durch einen lokalen Priester, der mit Papst Franziskus in Buenos Aires zusammengearbeitet hatte. Außerdem wurde eine DNA-Studie mit dem INTA Mendoza eingeleitet, um alte lokale Criolla-Rebsorten zu identifizieren und zu klassifizieren, die auf ein Alter von etwa 150 Jahren geschätzt werden."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "localfood",
+      "label": {
+        "en": "High-quality organic and biodynamic wines",
+        "fr": "Vins biologiques et biodynamiques de haute qualité",
+        "es": "Vinos orgánicos y biodinámicos de alta calidad",
+        "de": "Hochwertige Bio- und biodynamische Weine"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Guided winery tours with tastings",
+        "fr": "Visites guidées de la cave avec dégustations",
+        "es": "Visitas guiadas a la bodega con catas",
+        "de": "Geführte Weinguttouren mit Verkostungen"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Local gastronomy with regional products",
+        "fr": "Gastronomie locale avec des produits régionaux",
+        "es": "Gastronomía local con productos regionales",
+        "de": "Lokale Gastronomie mit regionalen Produkten"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Genetic study of 150-year-old native grape varieties",
+        "fr": "Étude génétique de cépages autochtones vieux de 150 ans",
+        "es": "Estudio genético de variedades de uva autóctonas de 150 años",
+        "de": "Genetische Untersuchung 150 Jahre alter einheimischer Rebsorten"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Wine distribution to restaurants and wine shops",
+        "fr": "Distribution de vins aux restaurants et caves à vin",
+        "es": "Distribución de vinos a restaurantes y tiendas especializadas",
+        "de": "Weinvertrieb an Restaurants und Weinhandlungen"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Biodynamic farming knowledge sharing via associations",
+        "fr": "Partage des connaissances en agriculture biodynamique via des associations",
+        "es": "Difusión del conocimiento sobre agricultura biodinámica a través de asociaciones",
+        "de": "Weitergabe von Wissen über biodynamischen Anbau über Verbände"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Biodynamic association partnerships for learning",
+        "fr": "Partenariats avec des associations biodynamiques pour l'apprentissage",
+        "es": "Asociaciones con organizaciones biodinámicas para el aprendizaje",
+        "de": "Partnerschaften mit biodynamischen Verbänden zum Lernen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Expand sales to restaurants and wine shops",
+        "fr": "Développer les ventes aux restaurants et aux cavistes",
+        "es": "Ampliar las ventas a restaurantes y vinotecas",
+        "de": "Ausweitung des Verkaufs an Restaurants und Weinhandlungen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Genetic identification of ancient Criolla vines",
+        "fr": "Identification génétique des anciennes vignes Criolla",
+        "es": "Identificación genética de las antiguas vides Criolla",
+        "de": "Genetische Identifizierung alter Criolla-Reben"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Geographic indication for Chos Malal wines",
+        "fr": "Indication géographique pour les vins de Chos Malal",
+        "es": "Indicación geográfica para los vinos de Chos Malal",
+        "de": "Geografische Angabe für Weine aus Chos Malal"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "State support for tourism infrastructure",
+        "fr": "Soutien de l'État pour l'infrastructure touristique",
+        "es": "Apoyo estatal para la infraestructura turística",
+        "de": "Staatliche Unterstützung für Tourismusinfrastruktur"
+      }
+    },
+    {
+      "icon": "suppliers",
+      "label": {
+        "en": "Reduce purchased grape dependency with own harvest",
+        "fr": "Réduire la dépendance aux raisins achetés grâce à sa propre récolte",
+        "es": "Reducir la dependencia de uvas compradas con cosecha propia",
+        "de": "Abhängigkeit von zugekauften Trauben durch eigene Ernte reduzieren"
+      }
+    }
+  ],
+  "gallery": []
 }
