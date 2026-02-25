@@ -8,7 +8,7 @@
         <div class="contact-info">
           <div class="contact-item">
             <div class="contact-icon">📧</div>
-            <a href="mailto:press@thesocioscope.org">press@thesocioscope.org</a>
+            <a href="mailto:info@thesocioscope.org">info@thesocioscope.org</a>
           </div>
           <div class="contact-item">
             <div class="contact-icon">🌐</div>
