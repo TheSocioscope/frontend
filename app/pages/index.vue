@@ -16,13 +16,13 @@
     <HomepageStoriesSection />
 
     <!-- Call to Join -->
-    <HomepageCallToJoinSection />
+    <!--<HomepageCallToJoinSection />-->
 
     <!-- Partners -->
     <HomepagePartnersSection />
 
     <!-- Newsletter -->
-    <HomepageNewsletterSection />
+    <!--<HomepageNewsletterSection />-->
   </div>
 </template>
 
