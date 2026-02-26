@@ -21,23 +21,23 @@
         </li>
         <li class="dropdown">
           <NuxtLink :to="localePath('/projects')">{{ $t('nav.projects') }}</NuxtLink>
-          <div class="dropdown-content">
+          <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/projects')">{{ $t('nav.database') }}</NuxtLink>
             <NuxtLink :to="localePath('/projects')">{{ $t('nav.submitInitiative') }}</NuxtLink>
-          </div>
+          </div>-->
         </li>
         <li>
           <NuxtLink :to="localePath('/products')">{{ $t('nav.products') }}</NuxtLink>
         </li>
         <li class="dropdown">
           <NuxtLink :to="localePath('/resources')">{{ $t('nav.resources') }}</NuxtLink>
-          <div class="dropdown-content">
+          <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/resources?filter=article')">{{
               $t('nav.articles')
             }}</NuxtLink>
             <NuxtLink :to="localePath('/resources?filter=book')">{{ $t('nav.books') }}</NuxtLink>
             <NuxtLink :to="localePath('/resources?filter=event')">{{ $t('nav.events') }}</NuxtLink>
-          </div>
+          </div>-->
         </li>
         <li class="dropdown">
           <a href="#contact">{{ $t('nav.contact') }}</a>
