@@ -19,7 +19,7 @@
             <NuxtLink :to="localePath('/faq')">{{ $t('nav.faq') }}</NuxtLink>
           </div>
         </li>
-        <li class="dropdown">
+       <!--<li class="dropdown">-->
           <NuxtLink :to="localePath('/projects')">{{ $t('nav.projects') }}</NuxtLink>
           <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/projects')">{{ $t('nav.database') }}</NuxtLink>
@@ -29,7 +29,7 @@
         <li>
           <NuxtLink :to="localePath('/products')">{{ $t('nav.products') }}</NuxtLink>
         </li>
-        <li class="dropdown">
+        <!--<li class="dropdown">-->
           <NuxtLink :to="localePath('/resources')">{{ $t('nav.resources') }}</NuxtLink>
           <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/resources?filter=article')">{{
