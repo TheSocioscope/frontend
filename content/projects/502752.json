@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Etienne Kayser - SATT Sayens"
   },
   "pubId": 502752,
-  "score": 0,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Etienne",
+      "lastname": "Kayser"
     }
   ],
   "thematic": [
@@ -50,5 +48,161 @@
   ],
   "url": "http://www.sayens.fr",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "2010",
+      "icon": "start",
+      "text": {
+        "en": "The SAT (Société d'Accélération du Transfert de Technologies) model was launched nationally in France, with the goal of creating a transfer channel between public research and the private sector.",
+        "fr": "Le modèle SAT (Société d'Accélération du Transfert de Technologies) a été lancé à l'échelle nationale en France, avec pour objectif de créer un canal de transfert entre la recherche publique et le secteur privé.",
+        "es": "El modelo SAT (Société d'Accélération du Transfert de Technologies) fue lanzado a nivel nacional en Francia, con el objetivo de crear un canal de transferencia entre la investigación pública y el sector privado.",
+        "de": "Das SAT-Modell (Société d'Accélération du Transfert de Technologies) wurde national in Frankreich eingeführt, mit dem Ziel, einen Transferkanal zwischen der öffentlichen Forschung und dem Privatsektor zu schaffen."
+      }
+    },
+    {
+      "date": "2013",
+      "icon": "milestone",
+      "text": {
+        "en": "SAT Science was officially structured in Burgundy, attached to public research institutions in Bourgogne-Franche-Comté, Lorraine, and Sud-Champagne, with a mission to facilitate technology transfer and intellectual property protection.",
+        "fr": "SAT Science a été officiellement structurée en Bourgogne, rattachée aux établissements de recherche publique de Bourgogne-Franche-Comté, de Lorraine et du Sud-Champagne, avec pour mission de faciliter le transfert de technologies et la protection de la propriété intellectuelle.",
+        "es": "SAT Science fue estructurada oficialmente en Borgoña, vinculada a instituciones de investigación pública de Bourgogne-Franche-Comté, Lorena y Sud-Champagne, con una misión de facilitar la transferencia de tecnología y la protección de la propiedad intelectual.",
+        "de": "SAT Science wurde offiziell in Burgund strukturiert und den öffentlichen Forschungseinrichtungen in Bourgogne-Franche-Comté, Lothringen und Sud-Champagne angegliedert, mit dem Auftrag, den Technologietransfer und den Schutz geistigen Eigentums zu fördern."
+      }
+    },
+    {
+      "date": "2013",
+      "icon": "partnership",
+      "text": {
+        "en": "A collaborative R&D activity, predating the SAT structure, was integrated into SAT Science to co-create innovation projects between academic laboratories and companies.",
+        "fr": "Une activité de R&D collaborative, antérieure à la structure SAT, a été intégrée à SAT Science afin de co-créer des projets d'innovation entre laboratoires académiques et entreprises.",
+        "es": "Una actividad colaborativa de I+D, anterior a la estructura SAT, fue integrada en SAT Science para co-crear proyectos de innovación entre laboratorios académicos y empresas.",
+        "de": "Eine kollaborative F&E-Tätigkeit, die der SAT-Struktur vorausging, wurde in SAT Science integriert, um gemeinsam Innovationsprojekte zwischen akademischen Laboren und Unternehmen zu entwickeln."
+      }
+    },
+    {
+      "date": "2025",
+      "icon": "growth",
+      "text": {
+        "en": "Etienne Kaiser formally took on the role of Director of Partnered R&D at SAT Science as of January 1st, 2025, overseeing collaborative projects between researchers and companies.",
+        "fr": "Etienne Kaiser a officiellement pris le rôle de Directeur de la R&D Partenariale chez SAT Science à compter du 1er janvier 2025, supervisant les projets collaboratifs entre chercheurs et entreprises.",
+        "es": "Etienne Kaiser asumió formalmente el rol de Director de I+D Asociada en SAT Science a partir del 1 de enero de 2025, supervisando proyectos colaborativos entre investigadores y empresas.",
+        "de": "Etienne Kaiser übernahm ab dem 1. Januar 2025 offiziell die Rolle des Direktors für kollaborative F&E bei SAT Science und leitet dabei gemeinsame Projekte zwischen Forschern und Unternehmen."
+      }
+    },
+    {
+      "date": "2025",
+      "icon": "expansion",
+      "text": {
+        "en": "SAT Science identified European-scale projects as a key development axis, aiming to expand beyond its primarily French client base and strengthen its position in the innovation ecosystem.",
+        "fr": "SAT Science a identifié les projets à l'échelle européenne comme un axe de développement clé, visant à s'étendre au-delà de sa clientèle principalement française et à renforcer sa position dans l'écosystème de l'innovation.",
+        "es": "SAT Science identificó los proyectos a escala europea como un eje clave de desarrollo, con el objetivo de expandirse más allá de su base de clientes principalmente francesa y reforzar su posición en el ecosistema de innovación.",
+        "de": "SAT Science identifizierte Projekte auf europäischer Ebene als eine wichtige Entwicklungsachse, mit dem Ziel, über seinen primär französischen Kundenstamm hinaus zu expandieren und seine Position im Innovationsökosystem zu stärken."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "research",
+      "label": {
+        "en": "R&D support services for agri-food companies",
+        "fr": "Services de soutien à la R&D pour les entreprises agroalimentaires",
+        "es": "Servicios de apoyo en I+D para empresas agroalimentarias",
+        "de": "F&E-Unterstützungsdienstleistungen für Agrar- und Lebensmittelunternehmen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Technology transfer from labs to businesses",
+        "fr": "Transfert de technologie des laboratoires vers les entreprises",
+        "es": "Transferencia de tecnología de laboratorios a empresas",
+        "de": "Technologietransfer von Laboren zu Unternehmen"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Intellectual property management and contract support",
+        "fr": "Gestion de la propriété intellectuelle et soutien contractuel",
+        "es": "Gestión de propiedad intelectual y apoyo contractual",
+        "de": "Management von geistigem Eigentum und Vertragsunterstützung"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Network connecting researchers and companies",
+        "fr": "Réseau reliant les chercheurs et les entreprises",
+        "es": "Red de conexión entre investigadores y empresas",
+        "de": "Netzwerk zur Verbindung von Forschern und Unternehmen"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Pilot-scale equipment access for product development",
+        "fr": "Accès à des équipements à échelle pilote pour le développement de produits",
+        "es": "Acceso a equipos a escala piloto para el desarrollo de productos",
+        "de": "Zugang zu Ausrüstung im Pilotmaßstab für die Produktentwicklung"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Expert guidance for innovation project funding",
+        "fr": "Accompagnement expert pour le financement de projets d'innovation",
+        "es": "Orientación experta para la financiación de proyectos de innovación",
+        "de": "Fachkundige Beratung zur Finanzierung von Innovationsprojekten"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Long-term partnerships with research laboratories",
+        "fr": "Partenariats à long terme avec des laboratoires de recherche",
+        "es": "Asociaciones a largo plazo con laboratorios de investigación",
+        "de": "Langfristige Partnerschaften mit Forschungslabors"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Companies seeking R&D innovation support",
+        "fr": "Entreprises cherchant un soutien à l'innovation en R&D",
+        "es": "Empresas que buscan apoyo en innovación I+D",
+        "de": "Unternehmen, die Unterstützung bei F&E-Innovationen suchen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "European-scale collaborative research projects",
+        "fr": "Projets de recherche collaborative à l'échelle européenne",
+        "es": "Proyectos de investigación colaborativa a escala europea",
+        "de": "Kollaborative Forschungsprojekte auf europäischer Ebene"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Financial aid for company innovation projects",
+        "fr": "Aides financières pour les projets d'innovation des entreprises",
+        "es": "Ayudas financieras para proyectos de innovación empresarial",
+        "de": "Finanzielle Förderung für Innovationsprojekte von Unternehmen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Greater visibility and market positioning",
+        "fr": "Meilleure visibilité et positionnement sur le marché",
+        "es": "Mayor visibilidad y posicionamiento en el mercado",
+        "de": "Größere Sichtbarkeit und Marktpositionierung"
+      }
+    }
+  ],
+  "gallery": []
 }

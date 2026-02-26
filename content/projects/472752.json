@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Open Food Facts"
   },
   "pubId": 472752,
-  "score": -183.4511853960102,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Colette",
+      "lastname": "Solomon"
     }
   ],
   "thematic": [
@@ -49,7 +47,182 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://world.openfoodfacts.org/",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "2012",
+      "icon": "start",
+      "text": {
+        "en": "Open Food Facts was founded by Stephane Gigante with the goal of making food product label data accessible to everyone. The project started as a community-driven, open source and open data initiative.",
+        "fr": "Open Food Facts a été fondé par Stephane Gigante avec pour objectif de rendre les données des étiquettes de produits alimentaires accessibles à tous. Le projet a débuté comme une initiative communautaire, open source et open data.",
+        "es": "Open Food Facts fue fundado por Stephane Gigante con el objetivo de hacer accesibles los datos de etiquetas de productos alimenticios para todos. El proyecto comenzó como una iniciativa comunitaria de código abierto y datos abiertos.",
+        "de": "Open Food Facts wurde von Stephane Gigante mit dem Ziel gegründet, Daten von Lebensmitteletiketten für alle zugänglich zu machen. Das Projekt begann als gemeinschaftsgetriebene Initiative für offene Quellen und offene Daten."
+      }
+    },
+    {
+      "date": "2015",
+      "icon": "partnership",
+      "text": {
+        "en": "Open Food Facts collaborated with the French epidemiology research team developing the five-color nutritional score, which later became Nutri-Score. This partnership helped the score gain widespread adoption, eventually being adopted by seven European countries.",
+        "fr": "Open Food Facts a collaboré avec l'équipe française de recherche en épidémiologie développant le score nutritionnel à cinq couleurs, qui est devenu par la suite le Nutri-Score. Ce partenariat a contribué à l'adoption généralisée du score, qui a finalement été adopté par sept pays européens.",
+        "es": "Open Food Facts colaboró con el equipo francés de investigación en epidemiología que desarrollaba la puntuación nutricional de cinco colores, que más tarde se convirtió en Nutri-Score. Esta asociación ayudó a que la puntuación tuviera una adopción generalizada, siendo finalmente adoptada por siete países europeos.",
+        "de": "Open Food Facts arbeitete mit dem französischen Epidemiologie-Forschungsteam zusammen, das den fünffarbigen Ernährungsscore entwickelte, der später zum Nutri-Score wurde. Diese Partnerschaft trug dazu bei, dass der Score weit verbreitet wurde und schließlich von sieben europäischen Ländern übernommen wurde."
+      }
+    },
+    {
+      "date": "2015-2024",
+      "icon": "growth",
+      "text": {
+        "en": "The database grew to 3.7 million products from 160 countries, reaching approximately 3 million monthly users. Open Food Facts was referenced in over 600 papers on Google Scholar and used in more than 50 formal research studies.",
+        "fr": "La base de données a atteint 3,7 millions de produits provenant de 160 pays, comptant environ 3 millions d'utilisateurs mensuels. Open Food Facts a été référencé dans plus de 600 articles sur Google Scholar et utilisé dans plus de 50 études de recherche formelles.",
+        "es": "La base de datos creció hasta 3,7 millones de productos de 160 países, alcanzando aproximadamente 3 millones de usuarios mensuales. Open Food Facts fue referenciado en más de 600 artículos en Google Scholar y utilizado en más de 50 estudios de investigación formales.",
+        "de": "Die Datenbank wuchs auf 3,7 Millionen Produkte aus 160 Ländern und erreichte etwa 3 Millionen monatliche Nutzer. Open Food Facts wurde in über 600 Artikeln auf Google Scholar referenziert und in mehr als 50 formalen Forschungsstudien verwendet."
+      }
+    },
+    {
+      "date": "2020s",
+      "icon": "milestone",
+      "text": {
+        "en": "Open Food Facts, as part of a consortium including Yuka, developed an environmental score for food called Eco Score, later renamed Green Score, based on life cycle analysis of products.",
+        "fr": "Open Food Facts, dans le cadre d'un consortium incluant Yuka, a développé un score environnemental pour les aliments appelé Eco Score, rebaptisé par la suite Green Score, basé sur l'analyse du cycle de vie des produits.",
+        "es": "Open Food Facts, como parte de un consorcio que incluye a Yuka, desarrolló una puntuación ambiental para los alimentos llamada Eco Score, posteriormente renombrada Green Score, basada en el análisis del ciclo de vida de los productos.",
+        "de": "Open Food Facts entwickelte im Rahmen eines Konsortiums, zu dem auch Yuka gehörte, einen Umwelt-Score für Lebensmittel namens Eco Score, der später in Green Score umbenannt wurde und auf einer Lebenszyklusanalyse der Produkte basiert."
+      }
+    },
+    {
+      "date": "2020s",
+      "icon": "sustainability",
+      "text": {
+        "en": "Open Food Facts won the Google Impact Challenge grant of 1 million euros focused on the Green Score, enabling the team to grow from two or three permanent staff to eight people.",
+        "fr": "Open Food Facts a remporté la subvention Google Impact Challenge d'un million d'euros axée sur le Green Score, permettant à l'équipe de passer de deux ou trois employés permanents à huit personnes.",
+        "es": "Open Food Facts ganó la subvención Google Impact Challenge de 1 millón de euros centrada en el Green Score, lo que permitió al equipo crecer de dos o tres empleados permanentes a ocho personas.",
+        "de": "Open Food Facts gewann den Google Impact Challenge-Zuschuss von 1 Million Euro mit Fokus auf den Green Score, was es dem Team ermöglichte, von zwei oder drei festen Mitarbeitern auf acht Personen zu wachsen."
+      }
+    },
+    {
+      "date": "2023-2024",
+      "icon": "expansion",
+      "text": {
+        "en": "The app was expanded beyond food to allow contributors to add non-food products including cosmetics, electronics, and clothing, connecting to sub-projects Open Beauty Facts, Open Products Facts, and Open Pet Food Facts.",
+        "fr": "L'application a été étendue au-delà de l'alimentation pour permettre aux contributeurs d'ajouter des produits non alimentaires, notamment des cosmétiques, de l'électronique et des vêtements, en se connectant aux sous-projets Open Beauty Facts, Open Products Facts et Open Pet Food Facts.",
+        "es": "La aplicación se amplió más allá de los alimentos para permitir a los colaboradores agregar productos no alimenticios, incluyendo cosméticos, electrónica y ropa, conectándose a los subproyectos Open Beauty Facts, Open Products Facts y Open Pet Food Facts.",
+        "de": "Die App wurde über Lebensmittel hinaus erweitert, um es Mitwirkenden zu ermöglichen, auch Nicht-Lebensmittelprodukte wie Kosmetika, Elektronik und Kleidung hinzuzufügen, und ist mit den Teilprojekten Open Beauty Facts, Open Products Facts und Open Pet Food Facts verbunden."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "research",
+      "label": {
+        "en": "Open food product database for researchers",
+        "fr": "Base de données ouverte sur les produits alimentaires pour les chercheurs",
+        "es": "Base de datos abierta de productos alimenticios para investigadores",
+        "de": "Offene Lebensmittelproduktdatenbank für Forscher"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Crowdsourced food label data collection",
+        "fr": "Collecte participative de données sur les étiquettes alimentaires",
+        "es": "Recopilación colaborativa de datos de etiquetas alimenticias",
+        "de": "Crowdsourced Datenerfassung von Lebensmitteletiketten"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Consumer tools for informed food choices",
+        "fr": "Outils pour les consommateurs afin de faire des choix alimentaires éclairés",
+        "es": "Herramientas para consumidores que facilitan decisiones alimenticias informadas",
+        "de": "Verbrauchertools für informierte Lebensmittelentscheidungen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Free open data for apps and services",
+        "fr": "Données ouvertes gratuites pour les applications et les services",
+        "es": "Datos abiertos y gratuitos para aplicaciones y servicios",
+        "de": "Kostenlose offene Daten für Apps und Dienste"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Nutri-Score and environmental Green Score display",
+        "fr": "Affichage du Nutri-Score et du Green Score environnemental",
+        "es": "Visualización del Nutri-Score y la Puntuación Verde ambiental",
+        "de": "Anzeige von Nutri-Score und ökologischem Green Score"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Workshops and events for community contributors",
+        "fr": "Ateliers et événements pour les contributeurs de la communauté",
+        "es": "Talleres y eventos para colaboradores de la comunidad",
+        "de": "Workshops und Veranstaltungen für Community-Mitwirkende"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "volunteers",
+      "label": {
+        "en": "Active contributors and community moderators",
+        "fr": "Contributeurs actifs et modérateurs de la communauté",
+        "es": "Colaboradores activos y moderadores de la comunidad",
+        "de": "Aktive Mitwirkende und Community-Moderatoren"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Grants for core infrastructure and maintenance",
+        "fr": "Subventions pour l'infrastructure principale et la maintenance",
+        "es": "Subvenciones para la infraestructura central y el mantenimiento",
+        "de": "Fördermittel für Kerninfrastruktur und Wartung"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Food producers willing to share product data",
+        "fr": "Producteurs alimentaires prêts à partager leurs données produits",
+        "es": "Productores de alimentos dispuestos a compartir datos de productos",
+        "de": "Lebensmittelhersteller, die bereit sind, Produktdaten zu teilen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Researchers using open food data",
+        "fr": "Chercheurs utilisant des données alimentaires ouvertes",
+        "es": "Investigadores que utilizan datos alimentarios abiertos",
+        "de": "Forscher, die offene Lebensmitteldaten nutzen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Global ambassadors to expand international presence",
+        "fr": "Ambassadeurs mondiaux pour renforcer la présence internationale",
+        "es": "Embajadores globales para ampliar la presencia internacional",
+        "de": "Globale Botschafter zur Erweiterung der internationalen Präsenz"
+      }
+    },
+    {
+      "icon": "recycling",
+      "label": {
+        "en": "Data on non-food product categories",
+        "fr": "Données sur les catégories de produits non alimentaires",
+        "es": "Datos sobre categorías de productos no alimentarios",
+        "de": "Daten zu Produktkategorien außerhalb des Lebensmittelbereichs"
+      }
+    }
+  ],
+  "gallery": []
 }

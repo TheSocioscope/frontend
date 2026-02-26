@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Gabriel Martinez - Eurogerm"
   },
   "pubId": 503052,
-  "score": 0,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Gabriel",
+      "lastname": "Martinez"
     }
   ],
   "thematic": [
@@ -50,5 +48,161 @@
   ],
   "url": "http://www.eurogerm.com",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "1989",
+      "icon": "start",
+      "text": {
+        "en": "Eurogerm est fondée à Dijon par Jean-Philippe Girard, avec une expertise analytique pour la filière blé et farine, accompagnant meuniers et boulangers pour standardiser la qualité de leurs produits malgré les variations de récolte.",
+        "fr": "Eurogerm est fondée à Dijon par Jean-Philippe Girard, avec une expertise analytique pour la filière blé et farine, accompagnant meuniers et boulangers pour standardiser la qualité de leurs produits malgré les variations de récolte.",
+        "es": "Eurogerm fue fundada en Dijon por Jean-Philippe Girard, con una experiencia analítica para el sector del trigo y la harina, acompañando a molineros y panaderos para estandarizar la calidad de sus productos a pesar de las variaciones de cosecha.",
+        "de": "Eurogerm wird in Dijon von Jean-Philippe Girard gegründet, mit analytischer Expertise für die Weizen- und Mehlbranche, um Müller und Bäcker dabei zu unterstützen, die Qualität ihrer Produkte trotz Ernteschwankungen zu standardisieren."
+      }
+    },
+    {
+      "date": "1998",
+      "icon": "sustainability",
+      "text": {
+        "en": "Eurogerm développe une offre d'ingrédients biologiques, anticipant tôt les tendances du marché en matière de durabilité alimentaire.",
+        "fr": "Eurogerm développe une offre d'ingrédients biologiques, anticipant tôt les tendances du marché en matière de durabilité alimentaire.",
+        "es": "Eurogerm desarrolla una oferta de ingredientes ecológicos, anticipando tempranamente las tendencias del mercado en materia de sostenibilidad alimentaria.",
+        "de": "Eurogerm entwickelt ein Angebot an biologischen Zutaten und nimmt damit früh die Markttrends im Bereich nachhaltige Ernährung vorweg."
+      }
+    },
+    {
+      "date": "2011",
+      "icon": "milestone",
+      "text": {
+        "en": "Eurogerm adhère au Global Compact des Nations Unies, formalisant son engagement envers les principes de développement durable, droits humains et normes du travail.",
+        "fr": "Eurogerm adhère au Pacte mondial des Nations Unies, formalisant son engagement envers les principes de développement durable, les droits humains et les normes du travail.",
+        "es": "Eurogerm se adhiere al Pacto Mundial de las Naciones Unidas, formalizando su compromiso con los principios de desarrollo sostenible, derechos humanos y normas laborales.",
+        "de": "Eurogerm tritt dem Global Compact der Vereinten Nationen bei und formalisiert damit sein Engagement für die Grundsätze nachhaltiger Entwicklung, Menschenrechte und Arbeitsnormen."
+      }
+    },
+    {
+      "date": "2018",
+      "icon": "expansion",
+      "text": {
+        "en": "Année record d'ouvertures de filiales, avec la création simultanée de trois nouvelles structures en Allemagne, Colombie et Liban, marquant une accélération forte de la croissance internationale.",
+        "fr": "Année record d'ouvertures de filiales, avec la création simultanée de trois nouvelles structures en Allemagne, en Colombie et au Liban, marquant une forte accélération de la croissance internationale.",
+        "es": "Año récord de apertura de filiales, con la creación simultánea de tres nuevas estructuras en Alemania, Colombia y Líbano, marcando una fuerte aceleración del crecimiento internacional.",
+        "de": "Rekordjahr für Tochtergesellschaftsgründungen, mit der gleichzeitigen Errichtung von drei neuen Strukturen in Deutschland, Kolumbien und dem Libanon, was eine starke Beschleunigung des internationalen Wachstums markiert."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "milestone",
+      "text": {
+        "en": "Inauguration d'une usine de biofermentation à Dijon, développée en partenariat avec des instituts de recherche et cofinancée par la région Bourgogne-Franche-Comté, permettant de valoriser des déchets agroalimentaires en bioressources.",
+        "fr": "Inauguration d'une usine de biofermentation à Dijon, développée en partenariat avec des instituts de recherche et cofinancée par la région Bourgogne-Franche-Comté, permettant de valoriser des déchets agroalimentaires en bioressources.",
+        "es": "Inauguración de una planta de biofermentación en Dijon, desarrollada en colaboración con institutos de investigación y cofinanciada por la región de Borgoña-Franco Condado, permitiendo transformar residuos agroalimentarios en bioresources.",
+        "de": "Einweihung einer Biofermentationsanlage in Dijon, die in Partnerschaft mit Forschungsinstituten entwickelt und von der Region Bourgogne-Franche-Comté mitfinanziert wurde, um agrarische Abfälle in Bioressourcen umzuwandeln."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "market",
+      "label": {
+        "en": "Ingredients and premix for bakers and pastry chefs",
+        "fr": "Ingrédients et prémix pour boulangers et pâtissiers",
+        "es": "Ingredientes y premezclas para panaderos y pasteleros",
+        "de": "Zutaten und Vormischungen für Bäcker und Konditoren"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Analytical expertise on wheat and flour quality",
+        "fr": "Expertise analytique sur la qualité du blé et de la farine",
+        "es": "Experiencia analítica en la calidad del trigo y la harina",
+        "de": "Analytisches Fachwissen zur Weizen- und Mehlqualität"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Technical training via Eurogerm Academy",
+        "fr": "Formation technique via Eurogerm Academy",
+        "es": "Formación técnica a través de Eurogerm Academy",
+        "de": "Technische Schulungen über die Eurogerm Academy"
+      }
+    },
+    {
+      "icon": "zerowaste",
+      "label": {
+        "en": "Upcycled ingredients from food industry waste",
+        "fr": "Ingrédients upcyclés issus des déchets de l'industrie alimentaire",
+        "es": "Ingredientes reciclados procedentes de residuos de la industria alimentaria",
+        "de": "Upcycelte Zutaten aus Lebensmittelindustrieabfällen"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Partnership with baking schools internationally",
+        "fr": "Partenariat avec des écoles de boulangerie à l'international",
+        "es": "Asociación con escuelas de panadería a nivel internacional",
+        "de": "Partnerschaften mit Bäckereischulen weltweit"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Low-carbon product range reducing clients carbon footprint",
+        "fr": "Gamme de produits bas-carbone réduisant l'empreinte carbone des clients",
+        "es": "Gama de productos bajos en carbono que reducen la huella de carbono de los clientes",
+        "de": "Kohlenstoffarmes Produktsortiment zur Reduzierung des CO₂-Fußabdrucks der Kunden"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Stronger links with upstream agricultural sector",
+        "fr": "Renforcement des liens avec le secteur agricole amont",
+        "es": "Vínculos más sólidos con el sector agrícola upstream",
+        "de": "Stärkere Verbindungen mit dem vorgelagerten Agrarsektor"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Research partnerships on biofermentation expertise",
+        "fr": "Partenariats de recherche sur l'expertise en biofermentation",
+        "es": "Asociaciones de investigación en experiencia en biofermentación",
+        "de": "Forschungspartnerschaften im Bereich Biofermentations-Expertise"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Expand sustainable low-carbon ingredient range",
+        "fr": "Élargir la gamme d'ingrédients durables à faible empreinte carbone",
+        "es": "Ampliar la gama de ingredientes sostenibles bajos en carbono",
+        "de": "Erweiterung des nachhaltigen kohlenstoffarmen Zutatenangebots"
+      }
+    },
+    {
+      "icon": "suppliers",
+      "label": {
+        "en": "Responsible sourcing from upcycled food industry waste",
+        "fr": "Approvisionnement responsable à partir de déchets valorisés de l'industrie alimentaire",
+        "es": "Aprovisionamiento responsable a partir de residuos reciclados de la industria alimentaria",
+        "de": "Verantwortungsvolle Beschaffung aus verwerteten Lebensmittelindustrieabfällen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Structured RSE framework for clients and investors",
+        "fr": "Cadre RSE structuré pour les clients et les investisseurs",
+        "es": "Marco RSE estructurado para clientes e inversores",
+        "de": "Strukturierter RSE-Rahmen für Kunden und Investoren"
+      }
+    }
+  ],
+  "gallery": []
 }
