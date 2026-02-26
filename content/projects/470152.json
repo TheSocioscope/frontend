@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -33,14 +33,12 @@
     "de": "Parks mit Minda"
   },
   "pubId": 470152,
-  "score": -189.96328730683825,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Zaad",
+      "lastname": "Kheladze"
     }
   ],
   "thematic": [
@@ -51,114 +49,180 @@
   "type": [
     "case-study"
   ],
-  "url": "",
-  "yt": "",
+  "url": "https://www.facebook.com/parkiarminda.ge/about?locale=ka_GE",
+  "yt": "7tfLSGpkP5U",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
       "icon": "start",
       "text": {
-        "en": "Parki ar Minda started as a plastic collection initiative in Tbilisi",
-        "fr": "Parki ar Minda a démarré comme initiative de collecte de plastique à Tbilissi",
-        "es": "Parki ar Minda comenzó como iniciativa de recolección de plástico en Tbilisi",
-        "de": "Parki ar Minda startete als Plastiksammelinitiative in Tiflis"
+        "en": "Parke Arminda was founded in Tbilisi with a mission to reduce waste in Georgia, initially focused on education and producing reusable fabric bags as an alternative to plastic bags.",
+        "fr": "Parke Arminda a été fondée à Tbilissi avec pour mission de réduire les déchets en Géorgie, en se concentrant initialement sur l'éducation et la production de sacs en tissu réutilisables comme alternative aux sacs en plastique.",
+        "es": "Parke Arminda fue fundada en Tiflis con la misión de reducir los residuos en Georgia, inicialmente enfocada en la educación y en la producción de bolsas de tela reutilizables como alternativa a las bolsas de plástico.",
+        "de": "Parke Arminda wurde in Tiflis mit dem Ziel gegründet, Abfälle in Georgien zu reduzieren, und konzentrierte sich zunächst auf Bildung sowie die Herstellung wiederverwendbarer Stofftaschen als Alternative zu Plastiktüten."
       }
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "challenge",
       "text": {
-        "en": "During pandemic, launched Eco Taxi service for home garbage collection; expanded to 15 types of recyclable materials",
-        "fr": "Pendant la pandémie, lancement du service Eco Taxi pour la collecte des déchets à domicile; expansion à 15 types de matériaux recyclables",
-        "es": "Durante la pandemia, lanzamiento del servicio Eco Taxi para recolección de basura a domicilio; expansión a 15 tipos de materiales reciclables",
-        "de": "Während der Pandemie Einführung des Eco Taxi Service für Hausmüllabholung; Ausweitung auf 15 Arten recycelbarer Materialien"
+        "en": "The COVID-19 pandemic paused all educational events but sparked the creation of the Eco Taxi service, as people in quarantine could no longer access existing collection points.",
+        "fr": "La pandémie de COVID-19 a mis en pause tous les événements éducatifs, mais a donné naissance au service Eco Taxi, les personnes en quarantaine ne pouvant plus accéder aux points de collecte existants.",
+        "es": "La pandemia de COVID-19 pausó todos los eventos educativos, pero impulsó la creación del servicio Eco Taxi, ya que las personas en cuarentena no podían acceder a los puntos de recolección existentes.",
+        "de": "Die COVID-19-Pandemie unterbrach alle Bildungsveranstaltungen, regte jedoch die Gründung des Eco-Taxi-Dienstes an, da Menschen in Quarantäne keine bestehenden Sammelstellen mehr aufsuchen konnten."
+      }
+    },
+    {
+      "date": "2022",
+      "icon": "growth",
+      "text": {
+        "en": "The war in Ukraine triggered explosive growth, with garage visits increasing roughly twelvefold as newly arrived expats sought familiar recycling routines; Eco Taxi orders quadrupled within a year.",
+        "fr": "La guerre en Ukraine a déclenché une croissance explosive, avec une multiplication par environ douze des visites au garage, les expatriés nouvellement arrivés cherchant à retrouver leurs habitudes de recyclage ; les commandes Eco Taxi ont quadruplé en l'espace d'un an.",
+        "es": "La guerra en Ucrania desencadenó un crecimiento explosivo, con visitas al garaje que aumentaron aproximadamente doce veces a medida que los expatriados recién llegados buscaban sus rutinas habituales de reciclaje; los pedidos de Eco Taxi se cuadruplicaron en un año.",
+        "de": "Der Krieg in der Ukraine löste ein explosionsartiges Wachstum aus: Die Besuche in der Garage stiegen um etwa das Zwölffache, da neu angekommene Expats vertraute Recyclingroutinen suchten; die Eco-Taxi-Bestellungen vervierfachten sich innerhalb eines Jahres."
+      }
+    },
+    {
+      "date": "2022-2023",
+      "icon": "partnership",
+      "text": {
+        "en": "Parke Arminda served as a key implementer in a UNDP pilot project to introduce separate plastic collection in Tbilisi and Batumi, collaborating with the municipal waste operator Tbilisi Service Group.",
+        "fr": "Parke Arminda a joué un rôle clé dans un projet pilote du PNUD visant à introduire la collecte séparée du plastique à Tbilissi et Batoumi, en collaboration avec l'opérateur municipal de gestion des déchets Tbilisi Service Group.",
+        "es": "Parke Arminda actuó como implementador clave en un proyecto piloto del PNUD para introducir la recolección separada de plástico en Tiflis y Batumi, colaborando con el operador municipal de residuos Tbilisi Service Group.",
+        "de": "Parke Arminda fungierte als wichtiger Umsetzer in einem UNDP-Pilotprojekt zur Einführung getrennter Kunststoffsammlung in Tiflis und Batumi und arbeitete dabei mit dem städtischen Abfallbetreiber Tbilisi Service Group zusammen."
+      }
+    },
+    {
+      "date": "2023-2024",
+      "icon": "milestone",
+      "text": {
+        "en": "The organization joined a European Commission grant project led by People in Need and the Red Cross to establish Georgia's first food bank, with Parke Arminda responsible for research and communication on food waste reduction.",
+        "fr": "L'organisation a rejoint un projet de subvention de la Commission européenne dirigé par People in Need et la Croix-Rouge pour créer la première banque alimentaire de Géorgie, Parke Arminda étant responsable de la recherche et de la communication sur la réduction du gaspillage alimentaire.",
+        "es": "La organización se unió a un proyecto de subvención de la Comisión Europea liderado por People in Need y la Cruz Roja para establecer el primer banco de alimentos de Georgia, siendo Parke Arminda responsable de la investigación y la comunicación sobre la reducción del desperdicio alimentario.",
+        "de": "Die Organisation beteiligte sich an einem Förderprojekt der Europäischen Kommission unter der Leitung von People in Need und dem Roten Kreuz zur Einrichtung von Georgiens erster Lebensmittelbank, wobei Parke Arminda für Forschung und Kommunikation zur Reduzierung von Lebensmittelverschwendung zuständig war."
       }
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "expansion",
       "text": {
-        "en": "Operates three garages and storage facilities; 80 volunteers and 20 paid staff; partnering on EU-funded food bank education project",
-        "fr": "Exploitation de trois garages et installations de stockage; 80 bénévoles et 20 employés rémunérés; partenariat sur un projet éducatif de banque alimentaire financé par l'UE",
-        "es": "Opera tres garajes e instalaciones de almacenamiento; 80 voluntarios y 20 empleados pagados; asociación en proyecto educativo de banco de alimentos financiado por la UE",
-        "de": "Betreibt drei Garagen und Lagerhallen; 80 Freiwillige und 20 bezahlte Mitarbeiter; Partnerschaft bei EU-finanziertem Lebensmittelbank-Bildungsprojekt"
+        "en": "Parke Arminda launched a mobile garage format, bringing temporary collection stations to city districts lacking fixed points, and initiated its first collaboration with Georgian juice brand Kampa on a reuse system.",
+        "fr": "Parke Arminda a lancé un format de garage mobile, apportant des stations de collecte temporaires dans les quartiers de la ville dépourvus de points fixes, et a initié sa première collaboration avec la marque géorgienne de jus Kampa sur un système de réemploi.",
+        "es": "Parke Arminda lanzó un formato de garaje móvil, llevando estaciones de recolección temporales a los distritos de la ciudad que carecen de puntos fijos, e inició su primera colaboración con la marca georgiana de jugos Kampa en un sistema de reutilización.",
+        "de": "Parke Arminda führte ein mobiles Garagenformat ein, das temporäre Sammelstationen in Stadtteile ohne feste Standorte bringt, und initiierte seine erste Zusammenarbeit mit der georgischen Saftmarke Kampa im Rahmen eines Mehrwegsystems."
       }
     }
   ],
   "offers": [
     {
-      "icon": "recycling",
+      "icon": "zerowaste",
       "label": {
-        "en": "Collection and Sorting of 15 Types of Recyclable Materials",
-        "fr": "Collecte et tri de 15 types de matériaux recyclables",
-        "es": "Recolección y clasificación de 15 tipos de materiales reciclables",
-        "de": "Sammlung und Sortierung von 15 Arten recycelbarer Materialien"
+        "en": "Waste collection and sorting service",
+        "fr": "Service de collecte et de tri des déchets",
+        "es": "Servicio de recolección y clasificación de residuos",
+        "de": "Abfallsammel- und Sortierdienst"
       }
     },
     {
-      "icon": "taxi",
+      "icon": "market",
       "label": {
-        "en": "Eco Taxi Home Collection Service",
-        "fr": "Service de collecte à domicile Eco Taxi",
-        "es": "Servicio de recolección a domicilio Eco Taxi",
-        "de": "Eco Taxi Hausabholservice"
+        "en": "Eco taxi pickup for recyclables",
+        "fr": "Éco-taxi pour la collecte des matières recyclables",
+        "es": "Eco taxi de recogida de materiales reciclables",
+        "de": "Öko-Taxi-Abholung für Wertstoffe"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Free drop-off garage points in neighborhoods",
+        "fr": "Points de dépôt gratuits dans les quartiers",
+        "es": "Puntos de entrega gratuitos en garajes de barrios",
+        "de": "Kostenlose Abgabepunkte in Garagen in Wohnvierteln"
       }
     },
     {
       "icon": "education",
       "label": {
-        "en": "Environmental Education Workshops for Schools and Companies",
-        "fr": "Ateliers d'éducation environnementale pour écoles et entreprises",
-        "es": "Talleres de educación ambiental para escuelas y empresas",
-        "de": "Umweltbildungsworkshops für Schulen und Unternehmen"
+        "en": "Workshops and lectures on recycling",
+        "fr": "Ateliers et conférences sur le recyclage",
+        "es": "Talleres y conferencias sobre reciclaje",
+        "de": "Workshops und Vorträge zum Thema Recycling"
       }
     },
     {
-      "icon": "dropoff",
+      "icon": "demonstration",
       "label": {
-        "en": "Public Drop-off Points for Sorted Recyclables",
-        "fr": "Points de dépôt publics pour recyclables triés",
-        "es": "Puntos de entrega públicos para reciclables clasificados",
-        "de": "Öffentliche Abgabestellen für sortierte Wertstoffe"
+        "en": "Mobile recycling stations in underserved districts",
+        "fr": "Stations de recyclage mobiles dans les quartiers défavorisés",
+        "es": "Estaciones móviles de reciclaje en distritos desatendidos",
+        "de": "Mobile Recycling-Stationen in unterversorgten Stadtteilen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Behavioral research for food waste reduction",
+        "fr": "Recherche comportementale pour la réduction du gaspillage alimentaire",
+        "es": "Investigación conductual para la reducción del desperdicio alimentario",
+        "de": "Verhaltensforschung zur Reduzierung von Lebensmittelverschwendung"
       }
     }
   ],
   "lookingFor": [
     {
+      "icon": "recycling",
+      "label": {
+        "en": "Recycling factory partners for new waste types",
+        "fr": "Partenaires d'usines de recyclage pour de nouveaux types de déchets",
+        "es": "Socios de fábricas de reciclaje para nuevos tipos de residuos",
+        "de": "Recyclingfabrik-Partner für neue Abfallarten"
+      }
+    },
+    {
+      "icon": "volunteers",
+      "label": {
+        "en": "Volunteers for garage and operations support",
+        "fr": "Bénévoles pour le soutien au garage et aux opérations",
+        "es": "Voluntarios para apoyo en garaje y operaciones",
+        "de": "Freiwillige für Garagen- und Betriebsunterstützung"
+      }
+    },
+    {
       "icon": "funding",
       "label": {
-        "en": "Sustainable Financial Model to Cover Operating Costs",
-        "fr": "Modèle financier durable pour couvrir les coûts d'exploitation",
-        "es": "Modelo financiero sostenible para cubrir costos operativos",
-        "de": "Nachhaltiges Finanzmodell zur Deckung der Betriebskosten"
+        "en": "Sponsors and private donors for operational costs",
+        "fr": "Sponsors et donateurs privés pour les coûts opérationnels",
+        "es": "Patrocinadores y donantes privados para costos operativos",
+        "de": "Sponsoren und private Spender für Betriebskosten"
       }
     },
     {
-      "icon": "awareness",
+      "icon": "partners",
       "label": {
-        "en": "Public Awareness Campaigns to Change Recycling Mindset",
-        "fr": "Campagnes de sensibilisation du public pour changer les mentalités sur le recyclage",
-        "es": "Campañas de concienciación pública para cambiar mentalidad sobre reciclaje",
-        "de": "Öffentlichkeitskampagnen zur Änderung der Recycling-Einstellung"
+        "en": "Corporate collaborators for educational workshops",
+        "fr": "Collaborateurs d'entreprises pour des ateliers éducatifs",
+        "es": "Colaboradores corporativos para talleres educativos",
+        "de": "Unternehmenspartner für Bildungsworkshops"
       }
     },
     {
-      "icon": "factories",
+      "icon": "adoption",
       "label": {
-        "en": "Recycling Factory Partners for New Material Types",
-        "fr": "Partenaires d'usines de recyclage pour nouveaux types de matériaux",
-        "es": "Socios de fábricas de reciclaje para nuevos tipos de materiales",
-        "de": "Recyclingfabrik-Partner für neue Materialarten"
+        "en": "Georgian residents to adopt waste sorting habits",
+        "fr": "Résidents géorgiens pour adopter des habitudes de tri des déchets",
+        "es": "Residentes georgianos para adoptar hábitos de clasificación de residuos",
+        "de": "Georgische Einwohner zur Übernahme von Mülltrenungsgewohnheiten"
       }
     },
     {
-      "icon": "corporate",
+      "icon": "market",
       "label": {
-        "en": "Corporate Sponsors for Educational Programs",
-        "fr": "Sponsors d'entreprise pour programmes éducatifs",
-        "es": "Patrocinadores corporativos para programas educativos",
-        "de": "Unternehmenssponsoren für Bildungsprogramme"
+        "en": "Reuse and refill system partners like Kampa",
+        "fr": "Partenaires de systèmes de réutilisation et de recharge comme Kampa",
+        "es": "Socios de sistemas de reutilización y recarga como Kampa",
+        "de": "Partner für Wiederverwendungs- und Nachfüllsysteme wie Kampa"
       }
     }
   ],
