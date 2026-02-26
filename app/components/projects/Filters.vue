@@ -46,19 +46,6 @@
 
     <!-- Row 2 -->
     <v-col cols="12" sm="6" md="3">
-      <v-select
-        :model-value="filters.selectedStatus"
-        :items="statusOptions"
-        :label="$t('projects.filterByStatus', 'Filter by status')"
-        clearable
-        outlined
-        bg-color="white"
-        hide-details
-        density="comfortable"
-        @update:model-value="updateFilter('selectedStatus', $event)"
-      />
-    </v-col>
-    <v-col cols="12" sm="6" md="3">
       <v-autocomplete
         :model-value="filters.selectedThematics"
         :items="thematicOptions"
@@ -88,22 +75,6 @@
         hide-details
         density="comfortable"
         @update:model-value="updateFilter('selectedFields', $event)"
-      />
-    </v-col>
-    <v-col cols="12" sm="6" md="3">
-      <v-autocomplete
-        :model-value="filters.selectedTypes"
-        :items="typeOptions"
-        :label="$t('projects.filterByType', 'Filter by types')"
-        multiple
-        outlined
-        bg-color="white"
-        chips
-        closable-chips
-        clearable
-        hide-details
-        density="comfortable"
-        @update:model-value="updateFilter('selectedTypes', $event)"
       />
     </v-col>
   </v-row>
