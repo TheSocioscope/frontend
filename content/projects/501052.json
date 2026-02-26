@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Costa Rica Regenerativ"
   },
   "pubId": 501052,
-  "score": 0,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Edward",
+      "lastname": "Muller"
     }
   ],
   "thematic": [
@@ -50,5 +48,180 @@
   ],
   "url": "https://www.costaricaregenerativa.org/",
   "yt": "",
-  "originalLang": "en"
+  "originalLang": "en",
+  "timeline": [
+    {
+      "date": "1994",
+      "icon": "start",
+      "text": {
+        "en": "Edward Muller founded the University for International Cooperation (UCI) in Costa Rica, which would later serve as the institutional home for Costa Rica Regenerativa.",
+        "fr": "Edward Muller a fondé l'Université pour la Coopération Internationale (UCI) au Costa Rica, qui servirait plus tard de foyer institutionnel à Costa Rica Regenerativa.",
+        "es": "Edward Muller fundó la Universidad para la Cooperación Internacional (UCI) en Costa Rica, que más tarde serviría como sede institucional de Costa Rica Regenerativa.",
+        "de": "Edward Muller gründete die Universität für Internationale Zusammenarbeit (UCI) in Costa Rica, die später als institutionelle Heimat für Costa Rica Regenerativa dienen sollte."
+      }
+    },
+    {
+      "date": "2010",
+      "icon": "milestone",
+      "text": {
+        "en": "UCI launched what Edward describes as the first green MBA in the world, establishing the university as a pioneer in sustainability-focused education.",
+        "fr": "L'UCI a lancé ce qu'Edward décrit comme le premier MBA vert au monde, établissant l'université comme pionnière dans l'enseignement axé sur la durabilité.",
+        "es": "UCI lanzó lo que Edward describe como el primer MBA verde del mundo, estableciendo a la universidad como pionera en educación orientada a la sostenibilidad.",
+        "de": "Die UCI lancierte das, was Edward als den ersten grünen MBA der Welt bezeichnet, und etablierte die Universität als Pionierin im Bereich nachhaltigkeitsorientierter Bildung."
+      }
+    },
+    {
+      "date": "2015-2016",
+      "icon": "milestone",
+      "text": {
+        "en": "UCI began a strategic transition toward regeneration, closing down existing programs including the green MBA and developing a new institutional framework centred on regenerative principles.",
+        "fr": "L'UCI a amorcé une transition stratégique vers la régénération, en fermant les programmes existants, y compris le MBA vert, et en développant un nouveau cadre institutionnel centré sur les principes régénératifs.",
+        "es": "UCI inició una transición estratégica hacia la regeneración, cerrando los programas existentes, incluido el MBA verde, y desarrollando un nuevo marco institucional centrado en principios regenerativos.",
+        "de": "Die UCI begann einen strategischen Wandel hin zur Regeneration, stellte bestehende Programme einschließlich des grünen MBA ein und entwickelte einen neuen institutionellen Rahmen auf der Grundlage regenerativer Prinzipien."
+      }
+    },
+    {
+      "date": "2018",
+      "icon": "start",
+      "text": {
+        "en": "Costa Rica Regenerativa was formally launched as a UCI initiative, following a scouting process that identified over 80 isolated regenerative projects across Costa Rica.",
+        "fr": "Costa Rica Regenerativa a été officiellement lancée en tant qu'initiative de l'UCI, à la suite d'un processus de prospection ayant identifié plus de 80 projets régénératifs isolés à travers le Costa Rica.",
+        "es": "Costa Rica Regenerativa fue lanzada formalmente como una iniciativa de la UCI, tras un proceso de exploración que identificó más de 80 proyectos regenerativos aislados en todo Costa Rica.",
+        "de": "Costa Rica Regenerativa wurde offiziell als UCI-Initiative gegründet, nach einem Erkundungsprozess, bei dem über 80 isolierte regenerative Projekte in ganz Costa Rica identifiziert wurden."
+      }
+    },
+    {
+      "date": "2020-2021",
+      "icon": "challenge",
+      "text": {
+        "en": "During COVID-19, Costa Rica Regenerativa mobilised food production support across Guanacaste, helping approximately 500 families through family and community farms using the Cuban organoponics system.",
+        "fr": "Durant la COVID-19, Costa Rica Regenerativa a mobilisé un soutien à la production alimentaire dans tout le Guanacaste, aidant environ 500 familles grâce à des fermes familiales et communautaires utilisant le système d'organoponique cubain.",
+        "es": "Durante el COVID-19, Costa Rica Regenerativa movilizó apoyo a la producción de alimentos en Guanacaste, ayudando a aproximadamente 500 familias a través de granjas familiares y comunitarias mediante el sistema de organopónicos cubanos.",
+        "de": "Während COVID-19 mobilisierte Costa Rica Regenerativa Unterstützung für die Nahrungsmittelproduktion in Guanacaste und half etwa 500 Familien durch Familien- und Gemeinschaftsfarmen nach dem kubanischen Organoponik-System."
+      }
+    },
+    {
+      "date": "2019-2024",
+      "icon": "growth",
+      "text": {
+        "en": "UCI launched a global certificate program in regenerative entrepreneurship and began developing an online learning platform aimed at reaching one million students across 60 countries.",
+        "fr": "L'UCI a lancé un programme de certificat mondial en entrepreneuriat régénératif et a commencé à développer une plateforme d'apprentissage en ligne visant à atteindre un million d'étudiants dans 60 pays.",
+        "es": "UCI lanzó un programa de certificación global en emprendimiento regenerativo y comenzó a desarrollar una plataforma de aprendizaje en línea orientada a llegar a un millón de estudiantes en 60 países.",
+        "de": "Die UCI lancierte ein globales Zertifikatsprogramm im Bereich regeneratives Unternehmertum und begann mit der Entwicklung einer Online-Lernplattform, die darauf abzielt, eine Million Studierende in 60 Ländern zu erreichen."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Demonstration sites for regenerative food production",
+        "fr": "Sites de démonstration pour la production alimentaire régénératrice",
+        "es": "Sitios de demostración para la producción regenerativa de alimentos",
+        "de": "Demonstrationsstandorte für regenerative Lebensmittelproduktion"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Online courses on regenerative entrepreneurship and agriculture",
+        "fr": "Cours en ligne sur l'entrepreneuriat et l'agriculture régénérateurs",
+        "es": "Cursos en línea sobre emprendimiento y agricultura regenerativa",
+        "de": "Online-Kurse zu regenerativem Unternehmertum und Landwirtschaft"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Technical support to families growing their own food",
+        "fr": "Soutien technique aux familles qui cultivent leur propre nourriture",
+        "es": "Apoyo técnico a familias que cultivan sus propios alimentos",
+        "de": "Technische Unterstützung für Familien, die ihre eigenen Lebensmittel anbauen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Scientific monitoring of biodiversity and ecosystem indicators",
+        "fr": "Suivi scientifique de la biodiversité et des indicateurs écosystémiques",
+        "es": "Monitoreo científico de la biodiversidad e indicadores ecosistémicos",
+        "de": "Wissenschaftliches Monitoring von Biodiversitäts- und Ökosystemindikatoren"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Agreements connecting local producers to hotels and restaurants",
+        "fr": "Accords reliant les producteurs locaux aux hôtels et aux restaurants",
+        "es": "Acuerdos que conectan a productores locales con hoteles y restaurantes",
+        "de": "Vereinbarungen zur Vernetzung lokaler Erzeuger mit Hotels und Restaurants"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Global learning network connecting regeneration practitioners worldwide",
+        "fr": "Réseau d'apprentissage mondial reliant les praticiens de la régénération à travers le monde",
+        "es": "Red global de aprendizaje que conecta a practicantes de la regeneración en todo el mundo",
+        "de": "Globales Lern-Netzwerk zur Vernetzung von Regenerationspraktikern weltweit"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Funding to relaunch cooperative food distribution",
+        "fr": "Financement pour relancer la distribution alimentaire coopérative",
+        "es": "Financiamiento para relanzar la distribución cooperativa de alimentos",
+        "de": "Finanzierung zur Wiederbelebung der genossenschaftlichen Lebensmittelverteilung"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Collaborators for ridge-to-reef bioregional initiative",
+        "fr": "Collaborateurs pour l'initiative biorégionale de la crête au récif",
+        "es": "Colaboradores para la iniciativa biorregional de cresta a arrecife",
+        "de": "Mitarbeiter für eine bioregionale Initiative von Kamm bis Riff"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Farmers adopting holistic regenerative grazing",
+        "fr": "Agriculteurs adoptant le pâturage régénératif holistique",
+        "es": "Agricultores adoptando el pastoreo regenerativo holístico",
+        "de": "Landwirte, die ganzheitliche regenerative Beweidung einführen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Functional biodiversity indicators for ecosystems",
+        "fr": "Indicateurs de biodiversité fonctionnelle pour les écosystèmes",
+        "es": "Indicadores de biodiversidad funcional para ecosistemas",
+        "de": "Funktionale Biodiversitätsindikatoren für Ökosysteme"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Market recognition for regenerative food products",
+        "fr": "Reconnaissance du marché pour les produits alimentaires régénératifs",
+        "es": "Reconocimiento de mercado para productos alimentarios regenerativos",
+        "de": "Marktanerkennung für regenerative Lebensmittelprodukte"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Students globally for online regenerative programs",
+        "fr": "Étudiants dans le monde entier pour les programmes régénératifs en ligne",
+        "es": "Estudiantes a nivel mundial para programas regenerativos en línea",
+        "de": "Studierende weltweit für Online-Programme zur Regeneration"
+      }
+    }
+  ],
+  "gallery": []
 }

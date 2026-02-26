@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Finca Luna Nueva"
   },
   "pubId": 465052,
-  "score": 55.77845588487105,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Gerardo",
+      "lastname": "Calderón"
     }
   ],
   "thematic": [
@@ -48,7 +46,7 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://fincalunanuevalodge.com/",
   "yt": "LHgMtlYWIjw",
   "editedAt": 1755739225,
   "feedback": [
@@ -60,5 +58,170 @@
   "updatedAt": [
     1755739225
   ],
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "1994",
+      "icon": "start",
+      "text": {
+        "en": "Finca Luna Nueva was founded by Steven Farrell, beginning with organic agriculture and production of turmeric and ginger for export to a US medical supplements company.",
+        "fr": "Finca Luna Nueva a été fondée par Steven Farrell, en commençant par l'agriculture biologique et la production de curcuma et de gingembre destinés à l'exportation vers une entreprise américaine de compléments médicaux.",
+        "es": "Finca Luna Nueva fue fundada por Steven Farrell, comenzando con la agricultura orgánica y la producción de cúrcuma y jengibre para exportación a una empresa estadounidense de suplementos médicos.",
+        "de": "Finca Luna Nueva wurde von Steven Farrell gegründet und begann mit biologischem Anbau sowie der Produktion von Kurkuma und Ingwer für den Export an ein US-amerikanisches Unternehmen für medizinische Nahrungsergänzungsmittel."
+      }
+    },
+    {
+      "date": "2008",
+      "icon": "expansion",
+      "text": {
+        "en": "The finca opened to tourism, initially receiving biologists and researchers interested in studying the local ecosystem near the Bosque Eterno de los Niños, before expanding to general tourism around 2010.",
+        "fr": "La finca s'est ouverte au tourisme, accueillant d'abord des biologistes et des chercheurs désireux d'étudier l'écosystème local près du Bosque Eterno de los Niños, avant de s'ouvrir au tourisme général vers 2010.",
+        "es": "La finca abrió sus puertas al turismo, recibiendo inicialmente a biólogos e investigadores interesados en estudiar el ecosistema local cerca del Bosque Eterno de los Niños, antes de expandirse al turismo general alrededor de 2010.",
+        "de": "Die Finca öffnete sich für den Tourismus und empfing zunächst Biologen und Forscher, die das lokale Ökosystem in der Nähe des Bosque Eterno de los Niños untersuchen wollten, bevor sie sich um 2010 für den allgemeinen Tourismus öffnete."
+      }
+    },
+    {
+      "date": "2018-2019",
+      "icon": "milestone",
+      "text": {
+        "en": "Advisor Scott Gallan introduced syntropic agroforestry systems to the finca, marking a strategic turning point in production philosophy and long-term land planning.",
+        "fr": "Le conseiller Scott Gallan a introduit des systèmes d'agroforesterie syntropique à la finca, marquant un tournant stratégique dans la philosophie de production et la planification à long terme des terres.",
+        "es": "El asesor Scott Gallan introdujo sistemas de agrosilvicultura sintrópica en la finca, marcando un punto de inflexión estratégico en la filosofía de producción y la planificación territorial a largo plazo.",
+        "de": "Berater Scott Gallan führte syntropische Agroforstsysteme auf der Finca ein und markierte damit einen strategischen Wendepunkt in der Produktionsphilosophie und der langfristigen Landplanung."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "milestone",
+      "text": {
+        "en": "The farm and hotel were formally separated into two distinct legal entities, allowing the finca to establish its own independent accounting and commercial operations for the first time.",
+        "fr": "La ferme et l'hôtel ont été formellement séparés en deux entités juridiques distinctes, permettant à la finca d'établir pour la première fois sa propre comptabilité indépendante et ses propres opérations commerciales.",
+        "es": "La finca y el hotel fueron separados formalmente en dos entidades legales distintas, lo que permitió a la finca establecer su propia contabilidad independiente y operaciones comerciales por primera vez.",
+        "de": "Der Bauernhof und das Hotel wurden formell in zwei eigenständige juristische Einheiten aufgeteilt, wodurch die Finca erstmals eine eigene unabhängige Buchhaltung und einen eigenständigen Geschäftsbetrieb einrichten konnte."
+      }
+    },
+    {
+      "date": "2024-2031",
+      "icon": "sustainability",
+      "text": {
+        "en": "The finca is currently subsidized by hotel revenues and covers approximately 50% of its own costs, with a plan to reach full economic self-sufficiency within six to seven years and profitability within ten.",
+        "fr": "La finca est actuellement subventionnée par les revenus de l'hôtel et couvre environ 50 % de ses propres coûts, avec un plan pour atteindre une pleine autonomie économique dans six à sept ans et la rentabilité dans dix ans.",
+        "es": "La finca está actualmente subsidiada por los ingresos del hotel y cubre aproximadamente el 50% de sus propios costos, con un plan para alcanzar la autosuficiencia económica plena en seis o siete años y la rentabilidad en diez.",
+        "de": "Die Finca wird derzeit durch Hoteleinnahmen subventioniert und deckt etwa 50 % ihrer eigenen Kosten, mit dem Plan, innerhalb von sechs bis sieben Jahren vollständige wirtschaftliche Eigenständigkeit und innerhalb von zehn Jahren Rentabilität zu erreichen."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "localfood",
+      "label": {
+        "en": "Farm-to-table produce for on-site restaurant",
+        "fr": "Produits de la ferme à la table pour le restaurant sur place",
+        "es": "Productos del campo a la mesa para restaurante en sitio",
+        "de": "Farm-to-Table-Produkte für das hauseigene Restaurant"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Ecotourism farm tours for hotel guests",
+        "fr": "Visites écotouristiques de la ferme pour les clients de l'hôtel",
+        "es": "Tours de ecoturismo en la granja para huéspedes del hotel",
+        "de": "Ökotourismus-Farmtouren für Hotelgäste"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Apprenticeships and mentorships in regenerative agriculture",
+        "fr": "Apprentissages et mentorats en agriculture régénératrice",
+        "es": "Aprendizajes y mentorías en agricultura regenerativa",
+        "de": "Ausbildungen und Mentorschaften in regenerativer Landwirtschaft"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Accessible tours for local university students",
+        "fr": "Visites accessibles pour les étudiants des universités locales",
+        "es": "Tours accesibles para estudiantes de universidades locales",
+        "de": "Zugängliche Touren für Studierende lokaler Universitäten"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Local sale of spices and surplus produce",
+        "fr": "Vente locale d'épices et de surplus de production",
+        "es": "Venta local de especias y excedentes de producción",
+        "de": "Lokaler Verkauf von Gewürzen und Überschussprodukten"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Stable local employment for community members",
+        "fr": "Emploi local stable pour les membres de la communauté",
+        "es": "Empleo local estable para miembros de la comunidad",
+        "de": "Stabile lokale Beschäftigung für Gemeindemitglieder"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "research",
+      "label": {
+        "en": "Develop structured education and training programs",
+        "fr": "Développer des programmes structurés d'éducation et de formation",
+        "es": "Desarrollar programas estructurados de educación y capacitación",
+        "de": "Strukturierte Bildungs- und Ausbildungsprogramme entwickeln"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Position farm products beyond restaurant sales",
+        "fr": "Positionner les produits de la ferme au-delà des ventes en restaurant",
+        "es": "Posicionar los productos de la granja más allá de las ventas en restaurantes",
+        "de": "Landwirtschaftliche Produkte über den Restaurantverkauf hinaus positionieren"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Collaborate with universities and research institutions",
+        "fr": "Collaborer avec des universités et des institutions de recherche",
+        "es": "Colaborar con universidades e instituciones de investigación",
+        "de": "Mit Universitäten und Forschungseinrichtungen zusammenarbeiten"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Access carbon market and environmental services payments",
+        "fr": "Accéder au marché du carbone et aux paiements pour services environnementaux",
+        "es": "Acceder al mercado de carbono y pagos por servicios ambientales",
+        "de": "Zugang zu Kohlenstoffmärkten und Zahlungen für Umweltdienstleistungen"
+      }
+    },
+    {
+      "icon": "suppliers",
+      "label": {
+        "en": "Source from local producers sharing regenerative values",
+        "fr": "S'approvisionner auprès de producteurs locaux partageant des valeurs régénératives",
+        "es": "Abastecerse de productores locales que compartan valores regenerativos",
+        "de": "Von lokalen Produzenten beziehen, die regenerative Werte teilen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Replicate syntropic agroforestry knowledge regionally",
+        "fr": "Répliquer les connaissances en agroforesterie syntropique à l'échelle régionale",
+        "es": "Replicar el conocimiento de agrosilvicultura sintrópica a nivel regional",
+        "de": "Wissen über syntropische Agroforstwirtschaft regional verbreiten"
+      }
+    }
+  ],
+  "gallery": []
 }

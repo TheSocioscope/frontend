@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "Finca Laguna Verde",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -32,14 +32,12 @@
     "de": "Finca Laguna Verde"
   },
   "pubId": 441152,
-  "score": 262.2019607843147,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "Finca Laguna Verde",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Sarah",
+      "lastname": "Stuckney"
     }
   ],
   "thematic": [
@@ -49,63 +47,63 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://www.monteverderoots.com/",
   "yt": "ueYirVMNhm4",
   "originalLang": "fr",
   "gallery": [],
   "offers": [
     {
-      "icon": "dairy",
+      "icon": "market",
       "label": {
-        "en": "Dairy Products (sold to local cheese factory)",
-        "fr": "Produits laitiers (vendus à la fromagerie locale)",
-        "es": "Productos lácteos (vendidos a la quesería local)",
-        "de": "Milchprodukte (an lokale Käserei verkauft)"
+        "en": "Premium dairy milk sold to local cheese factory",
+        "fr": "Lait premium vendu à une fromagerie locale",
+        "es": "Leche láctea premium vendida a la fábrica local de quesos",
+        "de": "Premium-Milch wird an lokale Käserei verkauft"
       }
     },
     {
-      "icon": "coffee",
+      "icon": "localfood",
       "label": {
-        "en": "Organic Coffee (locally sold)",
-        "fr": "Café biologique (vendu localement)",
-        "es": "Café orgánico (vendido localmente)",
-        "de": "Bio-Kaffee (lokal verkauft)"
+        "en": "Organic coffee and garden produce sold locally",
+        "fr": "Café biologique et produits du jardin vendus localement",
+        "es": "Café orgánico y productos del huerto vendidos localmente",
+        "de": "Biologischer Kaffee und Gartenprodukte werden lokal verkauft"
       }
     },
     {
-      "icon": "vegetables",
+      "icon": "research",
       "label": {
-        "en": "Organic Garden Products",
-        "fr": "Produits de jardin biologiques",
-        "es": "Productos de huerta orgánicos",
-        "de": "Bio-Gartenprodukte"
-      }
-    },
-    {
-      "icon": "fish",
-      "label": {
-        "en": "Tilapia Production (diversification)",
-        "fr": "Production de tilapia (diversification)",
-        "es": "Producción de tilapia (diversificación)",
-        "de": "Tilapia-Produktion (Diversifizierung)"
-      }
-    },
-    {
-      "icon": "livestock",
-      "label": {
-        "en": "Rabbit Production (diversification)",
-        "fr": "Production de lapins (diversification)",
-        "es": "Producción de conejos (diversificación)",
-        "de": "Kaninchenzucht (Diversifizierung)"
+        "en": "Land access for long-term biodiversity studies",
+        "fr": "Accès aux terres pour des études à long terme sur la biodiversité",
+        "es": "Acceso a tierras para estudios de biodiversidad a largo plazo",
+        "de": "Landzugang für langfristige Biodiversitätsstudien"
       }
     },
     {
       "icon": "education",
       "label": {
-        "en": "Educational Farm Visits & Research Collaboration",
-        "fr": "Visites éducatives de la ferme et collaboration de recherche",
-        "es": "Visitas educativas a la granja y colaboración en investigación",
-        "de": "Bildungsbesuche auf dem Bauernhof & Forschungskooperation"
+        "en": "Farm visits for university students and researchers",
+        "fr": "Visites de la ferme pour les étudiants universitaires et les chercheurs",
+        "es": "Visitas a la granja para estudiantes universitarios e investigadores",
+        "de": "Hofbesuche für Universitätsstudenten und Forscher"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Farmers association for knowledge and market sharing",
+        "fr": "Association d'agriculteurs pour le partage des connaissances et des marchés",
+        "es": "Asociación de agricultores para el intercambio de conocimientos y mercados",
+        "de": "Bauernverband für Wissens- und Marktaustausch"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Carbon-negative regenerative model for other farmers",
+        "fr": "Modèle régénératif à bilan carbone négatif pour d'autres agriculteurs",
+        "es": "Modelo regenerativo carbono-negativo para otros agricultores",
+        "de": "Kohlenstoffnegatives regeneratives Modell für andere Landwirte"
       }
     }
   ],
@@ -113,98 +111,108 @@
     {
       "icon": "market",
       "label": {
-        "en": "Premium Pricing for Regenerative Products",
-        "fr": "Prix premium pour les produits régénératifs",
-        "es": "Precios premium para productos regenerativos",
-        "de": "Premiumpreise für regenerative Produkte"
+        "en": "Premium buyers valuing regenerative dairy products",
+        "fr": "Acheteurs premium valorisant les produits laitiers régénératifs",
+        "es": "Compradores premium que valoran los productos lácteos regenerativos",
+        "de": "Premiumkäufer, die regenerative Milchprodukte schätzen"
       }
     },
     {
-      "icon": "partnership",
+      "icon": "partners",
       "label": {
-        "en": "Clients Supporting Regenerative Food Systems",
-        "fr": "Clients soutenant les systèmes alimentaires régénératifs",
-        "es": "Clientes que apoyan los sistemas alimentarios regenerativos",
-        "de": "Kunden, die regenerative Lebensmittelsysteme unterstützen"
-      }
-    },
-    {
-      "icon": "knowledge",
-      "label": {
-        "en": "Knowledge Exchange with Other Regenerative Farmers",
-        "fr": "Échange de connaissances avec d'autres agriculteurs régénératifs",
-        "es": "Intercambio de conocimientos con otros agricultores regenerativos",
-        "de": "Wissensaustausch mit anderen regenerativen Landwirten"
+        "en": "Farmers association for collective market access",
+        "fr": "Association d'agriculteurs pour un accès collectif au marché",
+        "es": "Asociación de agricultores para el acceso colectivo al mercado",
+        "de": "Landwirtschaftsverband für gemeinsamen Marktzugang"
       }
     },
     {
       "icon": "research",
       "label": {
-        "en": "Scientific Research Partnerships",
-        "fr": "Partenariats de recherche scientifique",
-        "es": "Asociaciones de investigación científica",
-        "de": "Wissenschaftliche Forschungspartnerschaften"
+        "en": "Long-term biodiversity and climate change studies",
+        "fr": "Études à long terme sur la biodiversité et le changement climatique",
+        "es": "Estudios a largo plazo sobre biodiversidad y cambio climático",
+        "de": "Langfristige Studien zu Biodiversität und Klimawandel"
       }
     },
     {
-      "icon": "funding",
+      "icon": "adoption",
       "label": {
-        "en": "Support for Diversification into Value-Added Products",
-        "fr": "Soutien à la diversification vers des produits à valeur ajoutée",
-        "es": "Apoyo para la diversificación hacia productos de valor añadido",
-        "de": "Unterstützung für Diversifizierung in wertschöpfende Produkte"
+        "en": "Peer farms transitioning to regenerative practices",
+        "fr": "Fermes homologues en transition vers des pratiques régénératives",
+        "es": "Granjas similares en transición hacia prácticas regenerativas",
+        "de": "Partnerbetriebe beim Übergang zu regenerativen Praktiken"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Regulatory reform favoring small regenerative farms",
+        "fr": "Réforme réglementaire favorisant les petites fermes régénératives",
+        "es": "Reforma regulatoria que favorece a las pequeñas granjas regenerativas",
+        "de": "Regulatorische Reformen zugunsten kleiner regenerativer Betriebe"
       }
     }
   ],
   "timeline": [
     {
-      "date": "~1975",
-      "icon": "foundation",
+      "date": "1957",
+      "icon": "start",
       "text": {
-        "en": "Finca Laguna Verde dairy farm established in Monteverde, Costa Rica",
-        "fr": "Création de la ferme laitière Finca Laguna Verde à Monteverde, Costa Rica",
-        "es": "Establecimiento de la granja lechera Finca Laguna Verde en Monteverde, Costa Rica",
-        "de": "Gründung des Milchviehbetriebs Finca Laguna Verde in Monteverde, Costa Rica"
+        "en": "Finca Laguna Verde began operating as a conventional dairy farm in Monteverde, Costa Rica. The farm was purchased by Sarah Stuckey's family in 1980.",
+        "fr": "La Finca Laguna Verde a commencé à fonctionner comme une ferme laitière conventionnelle à Monteverde, au Costa Rica. La ferme a été achetée par la famille de Sarah Stuckey en 1980.",
+        "es": "Finca Laguna Verde comenzó a operar como una granja lechera convencional en Monteverde, Costa Rica. La finca fue adquirida por la familia de Sarah Stuckey en 1980.",
+        "de": "Finca Laguna Verde begann als konventioneller Milchviehbetrieb in Monteverde, Costa Rica, zu arbeiten. Der Hof wurde 1980 von Sarah Stuckeys Familie erworben."
       }
     },
     {
-      "date": "~2017",
-      "icon": "transition",
+      "date": "2017",
+      "icon": "milestone",
       "text": {
-        "en": "Sarah Stuckey takes over farm and begins transition to regenerative agriculture, eliminating chemical fertilizers and ivermectin",
-        "fr": "Sarah Stuckey reprend la ferme et commence la transition vers l'agriculture régénérative, éliminant les engrais chimiques et l'ivermectine",
-        "es": "Sarah Stuckey asume la granja y comienza la transición a la agricultura regenerativa, eliminando fertilizantes químicos e ivermectina",
-        "de": "Sarah Stuckey übernimmt den Hof und beginnt den Übergang zur regenerativen Landwirtschaft, eliminiert chemische Düngemittel und Ivermectin"
+        "en": "Sarah Stuckey took over farm management and after one year under a conventional model, began transitioning to regenerative agriculture. This included eliminating chemical fertilizers, reducing grain inputs, and shifting to rotational grazing.",
+        "fr": "Sarah Stuckey a pris en charge la gestion de la ferme et, après un an sous un modèle conventionnel, a commencé la transition vers l'agriculture régénératrice. Cela comprenait l'élimination des engrais chimiques, la réduction des intrants en céréales et le passage au pâturage tournant.",
+        "es": "Sarah Stuckey asumió la gestión de la finca y, tras un año bajo un modelo convencional, comenzó la transición hacia la agricultura regenerativa. Esto incluyó la eliminación de fertilizantes químicos, la reducción de insumos de granos y el cambio al pastoreo rotacional.",
+        "de": "Sarah Stuckey übernahm die Betriebsleitung und begann nach einem Jahr unter dem konventionellen Modell mit dem Übergang zur regenerativen Landwirtschaft. Dazu gehörten die Abschaffung chemischer Düngemittel, die Reduzierung von Getreideimporten und der Wechsel zur Rotationsweide."
       }
     },
     {
-      "date": "2017-2024",
-      "icon": "environment",
+      "date": "2018-2019",
+      "icon": "sustainability",
       "text": {
-        "en": "Farm transitions from net carbon emitter to carbon negative, now sequestering 302 tons more carbon than cows emit",
-        "fr": "La ferme passe d'émetteur net de carbone à carbone négatif, séquestrant maintenant 302 tonnes de carbone de plus que les vaches n'en émettent",
-        "es": "La granja pasa de emisor neto de carbono a carbono negativo, ahora secuestrando 302 toneladas más de carbono de lo que emiten las vacas",
-        "de": "Hof wechselt von Netto-CO2-Emittent zu CO2-negativ, speichert jetzt 302 Tonnen mehr Kohlenstoff als die Kühe ausstoßen"
+        "en": "Within approximately ten months of transition, dung beetles returned to the pastures and soil health began visibly improving. The farm enrolled in Costa Rica's NAMA carbon neutral certification program.",
+        "fr": "En environ dix mois de transition, les bousiers sont revenus dans les pâturages et la santé des sols a commencé à s'améliorer visiblement. La ferme s'est inscrite au programme de certification carbone neutre NAMA du Costa Rica.",
+        "es": "En aproximadamente diez meses desde el inicio de la transición, los escarabajos peloteros regresaron a los pastizales y la salud del suelo comenzó a mejorar visiblemente. La finca se inscribió en el programa de certificación carbono neutro NAMA de Costa Rica.",
+        "de": "Innerhalb von etwa zehn Monaten nach dem Übergang kehrten Mistkäfer auf die Weiden zurück und die Bodengesundheit begann sich sichtbar zu verbessern. Der Hof nahm am kostarizensischen NAMA-Programm zur CO₂-Neutralitätszertifizierung teil."
       }
     },
     {
-      "date": "Ongoing",
-      "icon": "research",
+      "date": "2019-2020",
+      "icon": "growth",
       "text": {
-        "en": "Collaboration with biologists on long-term bird count studies and climate change impact documentation, including altitudinal migration of species",
-        "fr": "Collaboration avec des biologistes sur des études à long terme de comptage d'oiseaux et documentation des impacts du changement climatique, y compris la migration altitudinale des espèces",
-        "es": "Colaboración con biólogos en estudios a largo plazo de conteo de aves y documentación de impactos del cambio climático, incluyendo migración altitudinal de especies",
-        "de": "Zusammenarbeit mit Biologen bei Langzeitstudien zur Vogelzählung und Dokumentation der Auswirkungen des Klimawandels, einschließlich Höhenwanderung von Arten"
+        "en": "The farm expanded from 60 to 160 smaller pastures based on drone mapping and carrying capacity calculations, and began diversifying into coffee, organic gardens, tilapia, rabbits, and fruit trees.",
+        "fr": "La ferme s'est agrandie de 60 à 160 pâturages plus petits grâce à la cartographie par drone et aux calculs de capacité de charge, et a commencé à se diversifier dans le café, les jardins biologiques, le tilapia, les lapins et les arbres fruitiers.",
+        "es": "La finca se expandió de 60 a 160 potreros más pequeños basándose en mapeo con drones y cálculos de capacidad de carga, y comenzó a diversificarse en café, huertos orgánicos, tilapia, conejos y árboles frutales.",
+        "de": "Der Betrieb erweiterte sich von 60 auf 160 kleinere Weiden, basierend auf Drohnenkartierung und Tragfähigkeitsberechnungen, und begann sich in Kaffee, Bio-Gärten, Tilapia, Kaninchen und Obstbäume zu diversifizieren."
       }
     },
     {
-      "date": "Present",
-      "icon": "diversification",
+      "date": "2022",
+      "icon": "challenge",
       "text": {
-        "en": "Diversifying into coffee gardens, tilapia, rabbits and fruit trees while collaborating with Monteverde Institute, CIE, and local universities",
-        "fr": "Diversification dans les jardins de café, le tilapia, les lapins et les arbres fruitiers tout en collaborant avec l'Institut Monteverde, le CIE et les universités locales",
-        "es": "Diversificación en jardines de café, tilapia, conejos y árboles frutales mientras colabora con el Instituto Monteverde, CIE y universidades locales",
-        "de": "Diversifizierung in Kaffeegärten, Tilapia, Kaninchen und Obstbäume bei Zusammenarbeit mit dem Monteverde Institut, CIE und lokalen Universitäten"
+        "en": "The Russia-Ukraine war caused fertilizer prices to rise 300% in Costa Rica, catalyzing broader community interest in regenerative practices and validating Stuckey's earlier decision to eliminate chemical inputs.",
+        "fr": "La guerre Russie-Ukraine a provoqué une hausse de 300 % des prix des engrais au Costa Rica, suscitant un intérêt plus large de la communauté pour les pratiques régénératrices et validant la décision antérieure de Stuckey d'éliminer les intrants chimiques.",
+        "es": "La guerra entre Rusia y Ucrania provocó que los precios de los fertilizantes aumentaran un 300% en Costa Rica, impulsando un mayor interés comunitario en las prácticas regenerativas y validando la decisión anterior de Stuckey de eliminar los insumos químicos.",
+        "de": "Der Russland-Ukraine-Krieg ließ die Düngemittelpreise in Costa Rica um 300 % steigen, was ein breites Interesse der Gemeinschaft an regenerativen Praktiken auslöste und Stuckeys frühere Entscheidung, auf chemische Inputs zu verzichten, bestätigte."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "milestone",
+      "text": {
+        "en": "The farm achieved carbon negative status, sequestering 302 tons more carbon than its cows emit. Sarah began forming a local farmers association to support peer learning and develop added-value markets.",
+        "fr": "La ferme a atteint un statut carbone négatif, séquestrant 302 tonnes de carbone de plus que ce que ses vaches émettent. Sarah a commencé à former une association locale d'agriculteurs pour soutenir l'apprentissage entre pairs et développer des marchés à valeur ajoutée.",
+        "es": "La finca alcanzó el estatus de carbono negativo, secuestrando 302 toneladas más de carbono de las que emiten sus vacas. Sarah comenzó a formar una asociación local de agricultores para apoyar el aprendizaje entre pares y desarrollar mercados de valor agregado.",
+        "de": "Der Betrieb erreichte den Status der Kohlenstoffnegativität und speichert 302 Tonnen mehr Kohlenstoff, als seine Kühe ausstoßen. Sarah begann, einen lokalen Landwirtschaftsverband zu gründen, um gegenseitiges Lernen zu fördern und Märkte für Mehrwertprodukte zu entwickeln."
       }
     }
   ]
