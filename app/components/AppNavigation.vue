@@ -20,6 +20,7 @@
           </div>
         </li>
        <!--<li class="dropdown">-->
+        <li>
           <NuxtLink :to="localePath('/projects')">{{ $t('nav.projects') }}</NuxtLink>
           <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/projects')">{{ $t('nav.database') }}</NuxtLink>
@@ -30,6 +31,7 @@
           <NuxtLink :to="localePath('/products')">{{ $t('nav.products') }}</NuxtLink>
         </li>
         <!--<li class="dropdown">-->
+        <li>
           <NuxtLink :to="localePath('/resources')">{{ $t('nav.resources') }}</NuxtLink>
           <!--<div class="dropdown-content">
             <NuxtLink :to="localePath('/resources?filter=article')">{{
