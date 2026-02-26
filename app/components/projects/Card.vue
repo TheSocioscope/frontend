@@ -21,14 +21,6 @@
       <div class="project-card-overlay">
         <div class="overlay-content">
           <h3 class="text-h6 mb-3 font-weight-bold text-white">{{ localizedName }}</h3>
-          <v-chip
-            v-if="project.status !== undefined"
-            size="small"
-            class="mb-2"
-            :color="getStatusColor(project.status)"
-          >
-            {{ getStatusLabel(project.status) }}
-          </v-chip>
           <p v-if="project.location" class="text-caption mb-2 text-white">
             <v-icon size="x-small" class="mr-1">mdi-map-marker</v-icon>
             {{ project.location }}
@@ -65,14 +57,6 @@
     <v-card v-else class="project-card project-card-traditional" hover @click="handleClick">
       <div class="traditional-content">
         <div class="traditional-top">
-          <v-chip
-            v-if="project.status !== undefined"
-            size="small"
-            class="mb-2"
-            :color="getStatusColor(project.status)"
-          >
-            {{ getStatusLabel(project.status) }}
-          </v-chip>
         </div>
         <div class="traditional-middle">
           <h3 class="text-h6 mb-3 font-weight-bold text-grey-darken-4">{{ localizedName }}</h3>
