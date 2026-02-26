@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,22 @@
     "de": "WËIA"
   },
   "pubId": 499552,
-  "score": 0,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Javier",
+      "lastname": "Perez"
+    },
+    {
+      "entity": "",
+      "firstname": "Jairo",
+      "lastname": "Burgos"
+    },
+    {
+      "entity": "",
+      "firstname": "Arturo",
+      "lastname": "Harker Roa"
     }
   ],
   "thematic": [
@@ -53,109 +61,175 @@
   "originalLang": "en",
   "timeline": [
     {
-      "date": "2023",
+      "date": "2018-2019",
       "icon": "start",
       "text": {
-        "en": "WËIA (Huella) founded as fintech startup to provide agricultural financing through 'plant now, pay later' model",
-        "fr": "WËIA (Huella) fondée comme startup fintech pour fournir du financement agricole via le modèle 'plantez maintenant, payez plus tard'",
-        "es": "WËIA (Huella) fundada como startup fintech para proporcionar financiamiento agrícola a través del modelo 'siembra ahora, paga después'",
-        "de": "WËIA (Huella) als Fintech-Startup gegründet, um landwirtschaftliche Finanzierung durch das 'Jetzt pflanzen, später zahlen'-Modell anzubieten"
+        "en": "Huella's origins began in 2018-2019 when Jairo Burgos and Roberto Urbina started exploring business ideas with social impact, initially focusing on collecting organic restaurant waste for composting and selling compostable products.",
+        "fr": "Les origines de Huella remontent à 2018-2019, lorsque Jairo Burgos et Roberto Urbina ont commencé à explorer des idées d'affaires à impact social, en se concentrant initialement sur la collecte de déchets organiques de restaurants pour le compostage et la vente de produits compostables.",
+        "es": "Los orígenes de Huella comenzaron en 2018-2019 cuando Jairo Burgos y Roberto Urbina empezaron a explorar ideas de negocio con impacto social, enfocándose inicialmente en la recolección de residuos orgánicos de restaurantes para compostaje y en la venta de productos compostables.",
+        "de": "Huellas Ursprünge begannen 2018-2019, als Jairo Burgos und Roberto Urbina begannen, Geschäftsideen mit sozialem Impact zu erkunden, wobei sie sich zunächst auf das Sammeln organischer Restaurantabfälle für die Kompostierung und den Verkauf kompostierbarer Produkte konzentrierten."
       }
     },
     {
-      "date": "2024",
-      "icon": "growth",
+      "date": "2020",
+      "icon": "challenge",
       "text": {
-        "en": "Completed Friends and Family funding round; operating with corporate buyers (Alquería, La Fazenda) and small farmers in Colombia",
-        "fr": "Achèvement du tour de financement Friends and Family; opérant avec des acheteurs corporatifs (Alquería, La Fazenda) et petits agriculteurs en Colombie",
-        "es": "Completó ronda de financiamiento Friends and Family; operando con compradores corporativos (Alquería, La Fazenda) y pequeños agricultores en Colombia",
-        "de": "Friends and Family Finanzierungsrunde abgeschlossen; Zusammenarbeit mit Firmenkäufern (Alquería, La Fazenda) und Kleinbauern in Kolumbien"
+        "en": "The COVID-19 pandemic collapsed the restaurant sector just as the team had secured a lot in La Calera for their composting plant, forcing them to abandon the original model and pivot toward B2B corporate traceability using blockchain technology.",
+        "fr": "La pandémie de COVID-19 a provoqué l'effondrement du secteur de la restauration au moment même où l'équipe avait sécurisé un terrain à La Calera pour leur usine de compostage, les forçant à abandonner le modèle original et à pivoter vers une traçabilité B2B en entreprise utilisant la technologie blockchain.",
+        "es": "La pandemia de COVID-19 derrumbó el sector de restaurantes justo cuando el equipo había asegurado un lote en La Calera para su planta de compostaje, obligándolos a abandonar el modelo original y a pivotar hacia la trazabilidad B2B corporativa mediante tecnología blockchain.",
+        "de": "Die COVID-19-Pandemie ließ den Restaurantsektor einbrechen, genau als das Team ein Grundstück in La Calera für ihre Kompostieranlage gesichert hatte, was sie zwang, das ursprüngliche Modell aufzugeben und auf B2B-Unternehmensnachverfolgung mittels Blockchain-Technologie umzuschwenken."
       }
     },
     {
-      "date": "2025",
+      "date": "2020-2022",
       "icon": "expansion",
       "text": {
-        "en": "Planning Series A funding; developing sustainability measurement tools and expanding farmer portfolio",
-        "fr": "Planification du financement Série A; développement d'outils de mesure de durabilité et expansion du portefeuille d'agriculteurs",
-        "es": "Planificación de financiamiento Serie A; desarrollo de herramientas de medición de sostenibilidad y expansión del portafolio de agricultores",
-        "de": "Planung der Serie A Finanzierung; Entwicklung von Nachhaltigkeitsmesstools und Erweiterung des Bauernportfolios"
+        "en": "Arturo Harker joined the team in 2020, and the company built a blockchain traceability platform tracking agricultural inputs from farm to commercialization with carbon footprint estimation, initially gaining traction with corporate clients before economic pressures caused revenues to collapse by late 2022.",
+        "fr": "Arturo Harker a rejoint l'équipe en 2020, et la société a développé une plateforme de traçabilité blockchain suivant les intrants agricoles de la ferme à la commercialisation avec une estimation de l'empreinte carbone, gagnant d'abord l'adhésion de clients corporate avant que les pressions économiques ne provoquent l'effondrement des revenus fin 2022.",
+        "es": "Arturo Harker se unió al equipo en 2020, y la empresa construyó una plataforma de trazabilidad blockchain que rastreaba insumos agrícolas desde la finca hasta la comercialización con estimación de huella de carbono, logrando inicialmente tracción con clientes corporativos antes de que las presiones económicas provocaran el colapso de los ingresos a finales de 2022.",
+        "de": "Arturo Harker kam 2020 zum Team, und das Unternehmen baute eine Blockchain-Rückverfolgbarkeitsplattform auf, die landwirtschaftliche Betriebsmittel vom Hof bis zur Vermarktung verfolgt und den CO₂-Fußabdruck schätzt. Zunächst gewann man Unternehmenskunden, bevor wirtschaftlicher Druck die Einnahmen Ende 2022 zum Einbruch brachte."
+      }
+    },
+    {
+      "date": "Early 2023",
+      "icon": "milestone",
+      "text": {
+        "en": "Through a family connection to Dutch accelerator Startup Bootcamp, the team pivoted within days to a Fintech model, creating the 'Farm Now Pay Later' concept and were accepted into the accelerator program, receiving venture capital investment and relocating to Amsterdam to restructure.",
+        "fr": "Grâce à une connexion familiale avec l'accélérateur néerlandais Startup Bootcamp, l'équipe a pivoté en quelques jours vers un modèle Fintech, créant le concept « Farm Now Pay Later » et a été acceptée dans le programme d'accélération, recevant un investissement en capital-risque et se réinstallant à Amsterdam pour se restructurer.",
+        "es": "A través de una conexión familiar con la aceleradora holandesa Startup Bootcamp, el equipo pivotó en cuestión de días hacia un modelo Fintech, creando el concepto 'Farm Now Pay Later' y fueron aceptados en el programa de la aceleradora, recibiendo inversión de capital de riesgo y reubicándose en Ámsterdam para reestructurarse.",
+        "de": "Durch eine familiäre Verbindung zum niederländischen Accelerator Startup Bootcamp schwenkte das Team innerhalb weniger Tage auf ein Fintech-Modell um, entwickelte das Konzept 'Farm Now Pay Later' und wurde in das Accelerator-Programm aufgenommen, erhielt Risikokapitalinvestitionen und zog nach Amsterdam, um sich neu zu strukturieren."
+      }
+    },
+    {
+      "date": "Mid-2023",
+      "icon": "partnership",
+      "text": {
+        "en": "Javier Pérez joined as co-founder and COO, bringing expertise from his roles at the Ministry of Agriculture and UNDP, while Grupo Alpina's corporate venture capital fund became an investor after the company began working with Fundación Alpina.",
+        "fr": "Javier Pérez a rejoint l'entreprise en tant que co-fondateur et COO, apportant son expertise acquise au Ministère de l'Agriculture et au PNUD, tandis que le fonds de capital-risque corporate de Grupo Alpina est devenu investisseur après que la société a commencé à collaborer avec la Fundación Alpina.",
+        "es": "Javier Pérez se incorporó como cofundador y COO, aportando su experiencia en el Ministerio de Agricultura y el PNUD, mientras que el fondo de capital de riesgo corporativo del Grupo Alpina se convirtió en inversor tras comenzar la empresa a trabajar con Fundación Alpina.",
+        "de": "Javier Pérez trat als Mitgründer und COO bei und brachte seine Expertise aus Tätigkeiten beim Landwirtschaftsministerium und dem UNDP ein, während der Corporate-Venture-Capital-Fonds der Grupo Alpina nach der Zusammenarbeit des Unternehmens mit der Fundación Alpina zum Investor wurde."
+      }
+    },
+    {
+      "date": "2023-2024",
+      "icon": "growth",
+      "text": {
+        "en": "Huella scaled from 5 to 16 corporate clients, onboarded 562 profiled farmers with pre-approved credit, deployed nearly half a million dollars in financing, won the CAF Financial Inclusion Laboratory, and secured grants from Mercy Corps Ventures and the Aspen Institute.",
+        "fr": "Huella est passée de 5 à 16 clients corporate, a intégré 562 agriculteurs profilés avec un crédit pré-approuvé, a déployé près d'un demi-million de dollars en financement, a remporté le Laboratoire d'Inclusion Financière de la CAF, et a obtenu des subventions de Mercy Corps Ventures et de l'Institut Aspen.",
+        "es": "Huella escaló de 5 a 16 clientes corporativos, incorporó 562 agricultores perfilados con crédito preaprobado, desplegó casi medio millón de dólares en financiamiento, ganó el Laboratorio de Inclusión Financiera de la CAF y obtuvo subvenciones de Mercy Corps Ventures y el Instituto Aspen.",
+        "de": "Huella wuchs von 5 auf 16 Unternehmenskunden, nahm 562 profilierte Landwirte mit vorab genehmigten Krediten auf, vergab Finanzierungen von fast einer halben Million Dollar, gewann das CAF-Labor für finanzielle Inklusion und sicherte sich Zuschüsse von Mercy Corps Ventures und dem Aspen Institute."
       }
     }
   ],
   "offers": [
     {
-      "icon": "financing",
+      "icon": "market",
       "label": {
-        "en": "'Plant Now, Pay Later' Agricultural Input Financing for Small Farmers",
-        "fr": "Financement d'intrants agricoles 'Plantez maintenant, payez plus tard' pour petits agriculteurs",
-        "es": "Financiamiento de insumos agrícolas 'Siembra ahora, paga después' para pequeños agricultores",
-        "de": "'Jetzt pflanzen, später zahlen' Finanzierung landwirtschaftlicher Inputs für Kleinbauern"
+        "en": "Buy now pay later model for farmers",
+        "fr": "Modèle d'achat maintenant, paiement ultérieur pour les agriculteurs",
+        "es": "Modelo de compra ahora y paga después para agricultores",
+        "de": "Jetzt kaufen, später bezahlen Modell für Landwirte"
       }
     },
     {
-      "icon": "risk",
+      "icon": "localfood",
       "label": {
-        "en": "Price Risk Management Through Forward Contracts",
-        "fr": "Gestion du risque de prix par contrats à terme",
-        "es": "Gestión de riesgo de precios a través de contratos a futuro",
-        "de": "Preisrisikomanagement durch Terminkontrakte"
+        "en": "Agricultural input financing in kind",
+        "fr": "Financement en nature des intrants agricoles",
+        "es": "Financiamiento de insumos agrícolas en especie",
+        "de": "Finanzierung landwirtschaftlicher Betriebsmittel in Sachform"
       }
     },
     {
-      "icon": "data",
+      "icon": "research",
       "label": {
-        "en": "Data Analytics Platform Connecting Farmers to Corporate Buyers",
-        "fr": "Plateforme d'analyse de données connectant agriculteurs et acheteurs corporatifs",
-        "es": "Plataforma de análisis de datos conectando agricultores con compradores corporativos",
-        "de": "Datenanalyseplattform, die Bauern mit Firmenkäufern verbindet"
+        "en": "Alternative credit risk scoring from supply chain data",
+        "fr": "Évaluation alternative du risque de crédit à partir des données de la chaîne d'approvisionnement",
+        "es": "Evaluación alternativa de riesgo crediticio a partir de datos de la cadena de suministro",
+        "de": "Alternative Kreditrisikobewertung auf Basis von Lieferkettendaten"
       }
     },
     {
-      "icon": "sustainability",
+      "icon": "demonstration",
       "label": {
-        "en": "Sustainability Measurement and Reporting Tools (In Development)",
-        "fr": "Outils de mesure et de reporting de durabilité (en développement)",
-        "es": "Herramientas de medición y reporte de sostenibilidad (en desarrollo)",
-        "de": "Nachhaltigkeitsmess- und Berichtstools (in Entwicklung)"
+        "en": "QR traceability codes for agri products",
+        "fr": "Codes QR de traçabilité pour les produits agricoles",
+        "es": "Códigos QR de trazabilidad para productos agrícolas",
+        "de": "QR-Rückverfolgbarkeitscodes für landwirtschaftliche Produkte"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Agricultural forward contracts for price stability",
+        "fr": "Contrats à terme agricoles pour la stabilité des prix",
+        "es": "Contratos agrícolas a futuro para la estabilidad de precios",
+        "de": "Landwirtschaftliche Terminkontrakte zur Preisstabilität"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "WhatsApp bots providing technical agronomic assistance",
+        "fr": "Bots WhatsApp fournissant une assistance technique agronomique",
+        "es": "Bots de WhatsApp que brindan asistencia técnica agronómica",
+        "de": "WhatsApp-Bots zur technischen agronomischen Unterstützung"
       }
     }
   ],
   "lookingFor": [
     {
-      "icon": "investment",
+      "icon": "funding",
       "label": {
-        "en": "Series A Investment for Platform Scaling",
-        "fr": "Investissement Série A pour la mise à l'échelle de la plateforme",
-        "es": "Inversión Serie A para escalamiento de la plataforma",
-        "de": "Serie A Investition für Plattformskalierung"
+        "en": "Seed round of approximately 28-29 million dollars",
+        "fr": "Tour de table d'amorçage d'environ 28 à 29 millions de dollars",
+        "es": "Ronda semilla de aproximadamente 28-29 millones de dólares",
+        "de": "Seed-Runde von etwa 28-29 Millionen Dollar"
       }
     },
     {
-      "icon": "buyers",
+      "icon": "partners",
       "label": {
-        "en": "Corporate Buyers Interested in Sustainable Supply Chains",
-        "fr": "Acheteurs corporatifs intéressés par des chaînes d'approvisionnement durables",
-        "es": "Compradores corporativos interesados en cadenas de suministro sostenibles",
-        "de": "Firmenkäufer mit Interesse an nachhaltigen Lieferketten"
+        "en": "Corporate buyers to formalize supply chains",
+        "fr": "Acheteurs corporatifs pour formaliser les chaînes d'approvisionnement",
+        "es": "Compradores corporativos para formalizar cadenas de suministro",
+        "de": "Unternehmenskäufer zur Formalisierung von Lieferketten"
       }
     },
     {
-      "icon": "reinsurance",
+      "icon": "suppliers",
       "label": {
-        "en": "Reinsurance Partners for Agricultural Risk Management",
-        "fr": "Partenaires de réassurance pour la gestion des risques agricoles",
-        "es": "Socios de reaseguro para gestión de riesgos agrícolas",
-        "de": "Rückversicherungspartner für landwirtschaftliches Risikomanagement"
+        "en": "Agro-input providers for distribution agreements",
+        "fr": "Fournisseurs d'intrants agricoles pour des accords de distribution",
+        "es": "Proveedores de insumos agropecuarios para acuerdos de distribución",
+        "de": "Agrar-Input-Anbieter für Vertriebsvereinbarungen"
       }
     },
     {
-      "icon": "farmers",
+      "icon": "research",
       "label": {
-        "en": "Small Farmer Networks in Latin America for Portfolio Expansion",
-        "fr": "Réseaux de petits agriculteurs en Amérique latine pour expansion du portefeuille",
-        "es": "Redes de pequeños agricultores en América Latina para expansión del portafolio",
-        "de": "Kleinbauern-Netzwerke in Lateinamerika für Portfolio-Erweiterung"
+        "en": "Alternative credit risk data from corporates",
+        "fr": "Données alternatives sur le risque de crédit provenant des entreprises",
+        "es": "Datos alternativos de riesgo crediticio provenientes de corporativos",
+        "de": "Alternative Kreditrisikodaten von Unternehmen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Small and medium farmers for financing program",
+        "fr": "Petits et moyens agriculteurs pour le programme de financement",
+        "es": "Pequeños y medianos agricultores para programa de financiamiento",
+        "de": "Klein- und mittlere Landwirte für das Finanzierungsprogramm"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Impact investors and debt financing lines",
+        "fr": "Investisseurs à impact et lignes de financement par endettement",
+        "es": "Inversores de impacto y líneas de financiamiento de deuda",
+        "de": "Impact-Investoren und Fremdfinanzierungslinien"
       }
     }
   ],

@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -32,14 +32,17 @@
     "de": "Haus Luker"
   },
   "pubId": 488752,
-  "score": 38.567116315788574,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Elsa",
+      "lastname": "Munoz"
+    },
+    {
+      "entity": "",
+      "firstname": "Andrea",
+      "lastname": "Camacho"
     }
   ],
   "thematic": [
@@ -50,7 +53,7 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://www.casaluker.com/",
   "yt": "r_RK6mcp3hc",
   "editedAt": 1760068348,
   "feedback": [
@@ -62,5 +65,180 @@
   "updatedAt": [
     1760068348
   ],
-  "originalLang": "et"
+  "originalLang": "et",
+  "timeline": [
+    {
+      "date": "1906",
+      "icon": "start",
+      "text": {
+        "en": "Casa Luker was founded by José Jesús Restrepo in Manizales, Colombia, with a vision to make chocolate accessible to all people, not just the privileged, and to build a better country.",
+        "fr": "Casa Luker a été fondée par José Jesús Restrepo à Manizales, en Colombie, avec la vision de rendre le chocolat accessible à tous, et non seulement aux privilégiés, et de contribuer à bâtir un pays meilleur.",
+        "es": "Casa Luker fue fundada por José Jesús Restrepo en Manizales, Colombia, con la visión de hacer el chocolate accesible para todas las personas, no solo para los privilegiados, y de construir un país mejor.",
+        "de": "Casa Luker wurde von José Jesús Restrepo in Manizales, Kolumbien, mit der Vision gegründet, Schokolade für alle Menschen zugänglich zu machen – nicht nur für Privilegierte – und ein besseres Land aufzubauen."
+      }
+    },
+    {
+      "date": "119 years ago",
+      "icon": "milestone",
+      "text": {
+        "en": "The company, established as a family-owned business in Caldas, declared itself a purpose-driven enterprise focused on triple impact: social, economic, and environmental.",
+        "fr": "L'entreprise, créée en tant que société familiale en Caldas, s'est déclarée une entreprise à vocation sociale axée sur un triple impact : social, économique et environnemental.",
+        "es": "La empresa, establecida como negocio familiar en Caldas, se declaró una empresa con propósito enfocada en el triple impacto: social, económico y ambiental.",
+        "de": "Das Unternehmen, das als Familienunternehmen in Caldas gegründet wurde, erklärte sich zu einem zweckorientierten Unternehmen mit Fokus auf dreifache Wirkung: sozial, wirtschaftlich und ökologisch."
+      }
+    },
+    {
+      "date": "2018",
+      "icon": "sustainability",
+      "text": {
+        "en": "Casa Luker launched the Chocolate Dream (Sueño del Chocolate), a collaborative sustainability plan to transform the cacao value chain and generate sustainable wellbeing in strategic cacao-producing regions.",
+        "fr": "Casa Luker a lancé le Rêve du Chocolat (Sueño del Chocolate), un plan de durabilité collaboratif visant à transformer la chaîne de valeur du cacao et à générer un bien-être durable dans les régions stratégiques de production de cacao.",
+        "es": "Casa Luker lanzó el Sueño del Chocolate, un plan de sostenibilidad colaborativo para transformar la cadena de valor del cacao y generar bienestar sostenible en las regiones estratégicas productoras de cacao.",
+        "de": "Casa Luker startete den Schokoladentraum (Sueño del Chocolate), einen kollaborativen Nachhaltigkeitsplan zur Transformation der Kakao-Wertschöpfungskette und zur Förderung nachhaltigen Wohlbefindens in strategischen Kakaoanbauregionen."
+      }
+    },
+    {
+      "date": "2021",
+      "icon": "milestone",
+      "text": {
+        "en": "Using 2021 as a carbon emissions baseline, Luker reduced its Scope 1 and 2 emissions by 19% across its chocolate, coffee, and cleaning product plants.",
+        "fr": "En prenant 2021 comme année de référence pour les émissions de carbone, Luker a réduit ses émissions de portée 1 et 2 de 19 % dans ses usines de chocolat, de café et de produits d'entretien.",
+        "es": "Utilizando 2021 como línea base de emisiones de carbono, Luker redujo sus emisiones de Alcance 1 y 2 en un 19% en sus plantas de chocolate, café y productos de limpieza.",
+        "de": "Mit 2021 als Ausgangsbasis für CO₂-Emissionen reduzierte Luker seine Scope-1- und Scope-2-Emissionen in seinen Schokoladen-, Kaffee- und Reinigungsmittelwerken um 19 %."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "growth",
+      "text": {
+        "en": "The Chocolate Dream reached 4,320 families, supported over 2,000 children in educational programs, and improved income by more than 20% for 1,380 families through diversification and productivity gains.",
+        "fr": "Le Rêve du Chocolat a touché 4 320 familles, soutenu plus de 2 000 enfants dans des programmes éducatifs, et amélioré les revenus de plus de 20 % pour 1 380 familles grâce à la diversification et aux gains de productivité.",
+        "es": "El Sueño del Chocolate llegó a 4.320 familias, apoyó a más de 2.000 niños en programas educativos y mejoró los ingresos en más de un 20% para 1.380 familias mediante la diversificación y el aumento de la productividad.",
+        "de": "Der Schokoladentraum erreichte 4.320 Familien, unterstützte über 2.000 Kinder in Bildungsprogrammen und verbesserte das Einkommen von 1.380 Familien durch Diversifizierung und Produktivitätssteigerungen um mehr als 20 %."
+      }
+    },
+    {
+      "date": "2030",
+      "icon": "challenge",
+      "text": {
+        "en": "Luker set targets to eliminate multimaterial packaging and expand the Chocolate Dream to all cacao-producing regions where it sources, while preparing full compliance with EU deforestation regulation.",
+        "fr": "Luker s'est fixé des objectifs pour éliminer les emballages multimatériaux et étendre le Rêve du Chocolat à toutes les régions productrices de cacao où elle s'approvisionne, tout en se préparant à la pleine conformité avec la réglementation européenne sur la déforestation.",
+        "es": "Luker estableció objetivos para eliminar los empaques multimateriales y expandir el Sueño del Chocolate a todas las regiones productoras de cacao donde abastece, mientras se prepara para el cumplimiento total de la regulación de deforestación de la UE.",
+        "de": "Luker setzte sich Ziele, Mehrschichtverpackungen abzuschaffen und den Schokoladentraum auf alle Kakaoanbauregionen auszuweiten, aus denen das Unternehmen bezieht, während gleichzeitig die vollständige Einhaltung der EU-Entwaldungsverordnung vorbereitet wird."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "training",
+      "label": {
+        "en": "Sustainability training for cocoa farmers and families",
+        "fr": "Formation à la durabilité pour les agriculteurs de cacao et leurs familles",
+        "es": "Capacitación en sostenibilidad para agricultores de cacao y sus familias",
+        "de": "Nachhaltigkeitsschulungen für Kakaobauern und ihre Familien"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Educational programs and school infrastructure in rural areas",
+        "fr": "Programmes éducatifs et infrastructures scolaires dans les zones rurales",
+        "es": "Programas educativos e infraestructura escolar en zonas rurales",
+        "de": "Bildungsprogramme und Schulinfrastruktur in ländlichen Gebieten"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Permanent local teams supporting cocoa-growing communities",
+        "fr": "Équipes locales permanentes soutenant les communautés productrices de cacao",
+        "es": "Equipos locales permanentes que apoyan a las comunidades cacaoteras",
+        "de": "Permanente lokale Teams zur Unterstützung von Kakaoanbaugemeinden"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Fair price transfer and direct market access for farmers",
+        "fr": "Transfert de prix équitable et accès direct au marché pour les agriculteurs",
+        "es": "Transferencia de precios justos y acceso directo al mercado para los agricultores",
+        "de": "Fairer Preistransfer und direkter Marktzugang für Landwirte"
+      }
+    },
+    {
+      "icon": "zerowaste",
+      "label": {
+        "en": "Agroforestry and income diversification support for producers",
+        "fr": "Agroforesterie et soutien à la diversification des revenus pour les producteurs",
+        "es": "Apoyo en agroforestería y diversificación de ingresos para los productores",
+        "de": "Agroforstwirtschaft und Unterstützung zur Einkommensdiversifizierung für Erzeuger"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Biodiversity monitoring and supply chain traceability",
+        "fr": "Surveillance de la biodiversité et traçabilité de la chaîne d'approvisionnement",
+        "es": "Monitoreo de la biodiversidad y trazabilidad de la cadena de suministro",
+        "de": "Biodiversitätsmonitoring und Rückverfolgbarkeit der Lieferkette"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Allies for sustainable cocoa supply chain programs",
+        "fr": "Alliés pour les programmes de chaîne d'approvisionnement durable en cacao",
+        "es": "Aliados para programas de cadena de suministro de cacao sostenible",
+        "de": "Verbündete für nachhaltige Kakao-Lieferkettenprogramme"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Long-term B2B clients committed to sustainability",
+        "fr": "Clients B2B à long terme engagés envers la durabilité",
+        "es": "Clientes B2B a largo plazo comprometidos con la sostenibilidad",
+        "de": "Langfristige B2B-Kunden mit Nachhaltigkeitsverpflichtung"
+      }
+    },
+    {
+      "icon": "suppliers",
+      "label": {
+        "en": "Cacao farmers adopting sustainable practices",
+        "fr": "Producteurs de cacao adoptant des pratiques durables",
+        "es": "Agricultores de cacao que adoptan prácticas sostenibles",
+        "de": "Kakaobauern, die nachhaltige Praktiken übernehmen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "AI and technology solutions for biodiversity monitoring",
+        "fr": "Solutions d'IA et de technologie pour la surveillance de la biodiversité",
+        "es": "Soluciones de IA y tecnología para el monitoreo de la biodiversidad",
+        "de": "KI- und Technologielösungen zur Biodiversitätsüberwachung"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Companies joining informal sustainability knowledge network",
+        "fr": "Entreprises rejoignant le réseau informel de partage de connaissances sur la durabilité",
+        "es": "Empresas que se unen a la red informal de conocimiento sobre sostenibilidad",
+        "de": "Unternehmen, die einem informellen Nachhaltigkeitswissensnetzwerk beitreten"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Co-investors multiplying sustainability project resources",
+        "fr": "Co-investisseurs multipliant les ressources des projets de durabilité",
+        "es": "Co-inversores que multiplican los recursos de proyectos de sostenibilidad",
+        "de": "Co-Investoren, die Ressourcen für Nachhaltigkeitsprojekte vervielfachen"
+      }
+    }
+  ],
+  "gallery": []
 }

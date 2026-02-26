@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -33,14 +33,12 @@
     "de": "Plasa Kolumbien"
   },
   "pubId": 488852,
-  "score": 2.382258829790016,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Sara",
+      "lastname": "Rankin"
     }
   ],
   "thematic": [
@@ -52,7 +50,182 @@
   "type": [
     "case-study"
   ],
-  "url": "",
-  "yt": "",
-  "originalLang": "id"
+  "url": "https://plasacolombia.com/",
+  "yt": "ooFH7z8obwc",
+  "originalLang": "id",
+  "timeline": [
+    {
+      "date": "Pre-2022",
+      "icon": "start",
+      "text": {
+        "en": "Carlos began doctoral research analyzing food flows and calculating food miles (kilométricos) in Colombia using publicly available CIPSA data, initially as a response to a challenging professor. Simultaneously, Sara's team developed a food system profile mapping Cali's food environment.",
+        "fr": "Carlos a commencé une recherche doctorale analysant les flux alimentaires et calculant les kilomètres alimentaires (kilométricos) en Colombie à partir de données CIPSA publiquement disponibles, initialement en réponse à un professeur exigeant. Simultanément, l'équipe de Sara a développé un profil du système alimentaire cartographiant l'environnement alimentaire de Cali.",
+        "es": "Carlos comenzó una investigación doctoral analizando flujos de alimentos y calculando kilométricos en Colombia utilizando datos públicos de CIPSA, inicialmente como respuesta a un profesor desafiante. Al mismo tiempo, el equipo de Sara desarrolló un perfil del sistema alimentario que mapeó el entorno alimentario de Cali.",
+        "de": "Carlos begann mit der Doktorarbeit, in der er Lebensmittelströme analysierte und Lebensmittelkilometer (kilométricos) in Kolumbien mithilfe öffentlich zugänglicher CIPSA-Daten berechnete – zunächst als Reaktion auf einen anspruchsvollen Professor. Gleichzeitig entwickelte Saras Team ein Lebensmittelsystemprofil, das das Lebensmittelumfeld von Cali kartierte."
+      }
+    },
+    {
+      "date": "2022",
+      "icon": "milestone",
+      "text": {
+        "en": "The team decided to move forward with building Plaza Colombia, initially prototyping in Power BI with $25,000 USD in seed funding, which allowed them to create the first nine dashboards.",
+        "fr": "L'équipe a décidé d'aller de l'avant avec la construction de Plaza Colombia, en prototypant initialement sur Power BI avec 25 000 USD de financement initial, ce qui leur a permis de créer les neuf premiers tableaux de bord.",
+        "es": "El equipo decidió avanzar con la construcción de Plaza Colombia, prototipando inicialmente en Power BI con $25,000 USD en financiamiento semilla, lo que les permitió crear los primeros nueve tableros.",
+        "de": "Das Team beschloss, mit dem Aufbau von Plaza Colombia voranzuschreiten, und erstellte zunächst einen Prototyp in Power BI mit einem Startkapital von 25.000 USD, was ihnen ermöglichte, die ersten neun Dashboards zu erstellen."
+      }
+    },
+    {
+      "date": "2022-2023",
+      "icon": "partnership",
+      "text": {
+        "en": "Plaza Colombia established partnerships with 14 institutions including Universidad de los Andes, Javeriana, Icesi, Banco de la República, FAO, WWF, and PMA, creating a formal legal framework to govern intellectual property and data use among all partners.",
+        "fr": "Plaza Colombia a établi des partenariats avec 14 institutions, dont l'Universidad de los Andes, la Javeriana, l'Icesi, le Banco de la República, la FAO, le WWF et le PMA, créant un cadre juridique formel pour régir la propriété intellectuelle et l'utilisation des données entre tous les partenaires.",
+        "es": "Plaza Colombia estableció alianzas con 14 instituciones, entre ellas la Universidad de los Andes, Javeriana, Icesi, Banco de la República, FAO, WWF y PMA, creando un marco legal formal para regular la propiedad intelectual y el uso de datos entre todos los socios.",
+        "de": "Plaza Colombia schloss Partnerschaften mit 14 Institutionen, darunter Universidad de los Andes, Javeriana, Icesi, Banco de la República, FAO, WWF und PMA, und schuf einen formellen Rechtsrahmen zur Regelung von geistigem Eigentum und Datennutzung unter allen Partnern."
+      }
+    },
+    {
+      "date": "April 26, 2023",
+      "icon": "milestone",
+      "text": {
+        "en": "Plaza Colombia was officially launched as a public platform, featuring 16 interactive dashboards covering food production, transport, nutrition, environmental impact, and public policy across Colombia's food systems.",
+        "fr": "Plaza Colombia a été officiellement lancée en tant que plateforme publique, proposant 16 tableaux de bord interactifs couvrant la production alimentaire, le transport, la nutrition, l'impact environnemental et les politiques publiques à travers les systèmes alimentaires de Colombie.",
+        "es": "Plaza Colombia fue lanzada oficialmente como plataforma pública, con 16 tableros interactivos que cubren producción de alimentos, transporte, nutrición, impacto ambiental y política pública en los sistemas alimentarios de Colombia.",
+        "de": "Plaza Colombia wurde offiziell als öffentliche Plattform lanciert und umfasst 16 interaktive Dashboards zu den Themen Lebensmittelproduktion, Transport, Ernährung, Umweltauswirkungen und öffentliche Politik innerhalb der kolumbianischen Lebensmittelsysteme."
+      }
+    },
+    {
+      "date": "2023-2024",
+      "icon": "growth",
+      "text": {
+        "en": "The platform expanded its pedagogical use through university partnerships, conducting classroom exercises with engineering and nutrition students, and launched an open public lecture series (cátedra abierta) on food systems with four seminars.",
+        "fr": "La plateforme a élargi son usage pédagogique grâce à des partenariats universitaires, en menant des exercices en classe avec des étudiants en ingénierie et en nutrition, et a lancé une série de conférences publiques ouvertes (cátedra abierta) sur les systèmes alimentaires comprenant quatre séminaires.",
+        "es": "La plataforma amplió su uso pedagógico mediante alianzas universitarias, realizando ejercicios en el aula con estudiantes de ingeniería y nutrición, y lanzó una serie de conferencias públicas abiertas (cátedra abierta) sobre sistemas alimentarios con cuatro seminarios.",
+        "de": "Die Plattform weitete ihre pädagogische Nutzung durch Universitätspartnerschaften aus, führte Unterrichtsübungen mit Ingenieur- und Ernährungsstudierenden durch und startete eine offene öffentliche Vorlesungsreihe (cátedra abierta) zu Lebensmittelsystemen mit vier Seminaren."
+      }
+    },
+    {
+      "date": "2024-2025",
+      "icon": "sustainability",
+      "text": {
+        "en": "The team identified long-term sustainability and financing as the primary challenge, while pursuing goals of real-time data indicators, replication in other Latin American countries, and greater political incidence with government decision-makers.",
+        "fr": "L'équipe a identifié la durabilité à long terme et le financement comme le principal défi, tout en poursuivant des objectifs d'indicateurs de données en temps réel, de reproduction dans d'autres pays d'Amérique latine et d'une plus grande incidence politique auprès des décideurs gouvernementaux.",
+        "es": "El equipo identificó la sostenibilidad y el financiamiento a largo plazo como el principal desafío, mientras persigue objetivos de indicadores de datos en tiempo real, replicación en otros países de América Latina y una mayor incidencia política con los tomadores de decisiones gubernamentales.",
+        "de": "Das Team identifizierte langfristige Nachhaltigkeit und Finanzierung als zentrale Herausforderung und verfolgte gleichzeitig die Ziele der Einführung von Echtzeit-Datenindikatoren, der Replikation in anderen lateinamerikanischen Ländern sowie einer stärkeren politischen Einflussnahme auf staatliche Entscheidungsträger."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "research",
+      "label": {
+        "en": "Open platform with food system data",
+        "fr": "Plateforme ouverte avec des données sur les systèmes alimentaires",
+        "es": "Plataforma abierta con datos del sistema alimentario",
+        "de": "Offene Plattform mit Lebensmittelsystemdaten"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Pedagogical tools for universities and schools",
+        "fr": "Outils pédagogiques pour les universités et les écoles",
+        "es": "Herramientas pedagógicas para universidades y escuelas",
+        "de": "Pädagogische Werkzeuge für Universitäten und Schulen"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Community of practice with 14 institutions",
+        "fr": "Communauté de pratique avec 14 institutions",
+        "es": "Comunidad de práctica con 14 instituciones",
+        "de": "Praxisgemeinschaft mit 14 Institutionen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Visual dashboards on food supply chain flows",
+        "fr": "Tableaux de bord visuels sur les flux de la chaîne d'approvisionnement alimentaire",
+        "es": "Tableros visuales sobre flujos de la cadena de suministro alimentario",
+        "de": "Visuelle Dashboards zu Warenflüssen in der Lebensmittellieferkette"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Open seminars on food systems",
+        "fr": "Séminaires ouverts sur les systèmes alimentaires",
+        "es": "Seminarios abiertos sobre sistemas alimentarios",
+        "de": "Offene Seminare zu Lebensmittelsystemen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Evidence-based data for public policy decisions",
+        "fr": "Données probantes pour les décisions de politique publique",
+        "es": "Datos basados en evidencia para decisiones de política pública",
+        "de": "Evidenzbasierte Daten für politische Entscheidungen im öffentlichen Bereich"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Universities and research institutions to collaborate",
+        "fr": "Universités et institutions de recherche pour collaborer",
+        "es": "Universidades e instituciones de investigación para colaborar",
+        "de": "Universitäten und Forschungseinrichtungen zur Zusammenarbeit"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Government adoption for public policy decisions",
+        "fr": "Adoption gouvernementale pour les décisions de politique publique",
+        "es": "Adopción gubernamental para decisiones de políticas públicas",
+        "de": "Staatliche Übernahme für öffentliche Politikentscheidungen"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Financial resources for platform sustainability",
+        "fr": "Ressources financières pour la durabilité de la plateforme",
+        "es": "Recursos financieros para la sostenibilidad de la plataforma",
+        "de": "Finanzielle Ressourcen für die Nachhaltigkeit der Plattform"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "New data sources for underrepresented food systems",
+        "fr": "Nouvelles sources de données pour les systèmes alimentaires sous-représentés",
+        "es": "Nuevas fuentes de datos para sistemas alimentarios subrepresentados",
+        "de": "Neue Datenquellen für unterrepräsentierte Ernährungssysteme"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Replication in other Latin American countries",
+        "fr": "Réplication dans d'autres pays d'Amérique latine",
+        "es": "Replicación en otros países de América Latina",
+        "de": "Replikation in anderen lateinamerikanischen Ländern"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Real-time food price and supply indicators",
+        "fr": "Indicateurs en temps réel des prix et de l'offre alimentaire",
+        "es": "Indicadores de precios y suministro de alimentos en tiempo real",
+        "de": "Echtzeit-Indikatoren für Lebensmittelpreise und -versorgung"
+      }
+    }
+  ],
+  "gallery": []
 }
