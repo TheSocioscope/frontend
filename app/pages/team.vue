@@ -4,6 +4,7 @@
 
     <!-- Principal Investigators -->
     <TeamSection
+      v-if="principalInvestigators.length"
       :title="$t('team.categories.principalInvestigators.title')"
       :description="$t('team.categories.principalInvestigators.description')"
     >
@@ -20,6 +21,7 @@
 
     <!-- Co-Investigators & Post-Docs -->
     <TeamSection
+      v-if="coInvestigators.length"
       :title="$t('team.categories.coInvestigators.title')"
       :description="$t('team.categories.coInvestigators.description')"
       beige
@@ -38,6 +40,7 @@
 
     <!-- Technology & AI Team -->
     <TeamSection
+      v-if="technology.length"
       :title="$t('team.categories.technology.title')"
       :description="$t('team.categories.technology.description')"
     >
@@ -54,6 +57,7 @@
 
     <!-- Project Management -->
     <TeamSection
+      v-if="projectManagement.length"
       :title="$t('team.categories.projectManagement.title')"
       :description="$t('team.categories.projectManagement.description')"
       beige
@@ -72,6 +76,7 @@
 
     <!-- Data & Fieldwork Team -->
     <TeamSection
+      v-if="fieldwork.length"
       :title="$t('team.categories.fieldwork.title')"
       :description="$t('team.categories.fieldwork.description')"
     >
@@ -88,6 +93,7 @@
 
     <!-- Operations -->
     <TeamSection
+      v-if="operations.length"
       :title="$t('team.categories.operations.title')"
       :description="$t('team.categories.operations.description')"
       beige
@@ -106,6 +112,7 @@
 
     <!-- Institutional Partners -->
     <TeamSection
+      v-if="institutionalPartners"
       :title="$t('team.categories.institutionalPartners.title')"
       :description="$t('team.categories.institutionalPartners.description')"
     >
@@ -122,6 +129,7 @@
 
     <!-- Design and Legal Partners -->
     <TeamSection
+      v-if="designLegalPartners"
       :title="$t('team.categories.designLegalPartners.title')"
       :description="$t('team.categories.designLegalPartners.description')"
       beige
@@ -139,6 +147,7 @@
 
     <!-- Data Collection Partners -->
     <TeamSection
+      v-if="dataCollectionPartners"
       :title="$t('team.categories.dataCollectionPartners.title')"
       :description="$t('team.categories.dataCollectionPartners.description')"
     >
@@ -174,16 +183,14 @@
         :key="interviewer.name"
         class="interviewer-card"
       >
-        <!-- Show picture if available, otherwise show initials -->
         <div v-if="getResolvedPicture(interviewer.picture)" class="interviewer-image-wrapper">
-          <NuxtImg 
-            :src="getResolvedPicture(interviewer.picture)" 
-            :alt="interviewer.name" 
-            class="interviewer-image" 
+          <NuxtImg
+            :src="getResolvedPicture(interviewer.picture)"
+            :alt="interviewer.name"
+            class="interviewer-image"
           />
         </div>
         <div v-else class="interviewer-avatar beige">{{ getInitials(interviewer.name) }}</div>
-        
         <h3>{{ interviewer.name }}</h3>
         <p class="interviewer-country">{{ interviewer.country }}</p>
       </div>
@@ -204,12 +211,11 @@ useHead({
   ]
 })
 
-// Import the image path resolver
 const { resolveImagePath } = useImagePath()
 
-// Query team members by category
 const { data: allTeamMembers } = await useAsyncData('all-team-members', () =>
-  queryCollection('team').all()
+  queryCollection('team').all(),
+  { default: () => [] }
 )
 
 const principalInvestigators = computed(() => {
@@ -236,12 +242,11 @@ const operations = computed(() => {
   return allTeamMembers.value?.filter((m: any) => m.category === 'operations') || []
 })
 
-// Query all partner documents
 const { data: allPartners } = await useAsyncData('all-partners', () =>
-  queryCollection('partners').all()
+  queryCollection('partners').all(),
+  { default: () => [] }
 )
 
-// Filter partners by category using computed properties
 const institutionalPartners = computed(() => {
   if (!allPartners.value) return null
   return allPartners.value.find(
@@ -263,9 +268,9 @@ const dataCollectionPartners = computed(() => {
   )
 })
 
-// Query interviewer documents
 const { data: allInterviewers } = await useAsyncData('all-interviewers', () =>
-  queryCollection('interviewers').all()
+  queryCollection('interviewers').all(),
+  { default: () => [] }
 )
 
 const globalNetwork = computed(() => {
@@ -273,10 +278,8 @@ const globalNetwork = computed(() => {
   return allInterviewers.value.find((i: any) => i.category === 'global-interviewer-network')
 })
 
-// Search functionality for global interviewer network
 const searchQuery = ref('')
 
-// Helper function to get initials from name
 const getInitials = (name: string) => {
   const parts = name.split(' ')
   if (parts.length >= 2) {
@@ -285,16 +288,13 @@ const getInitials = (name: string) => {
   return name.charAt(0).toUpperCase()
 }
 
-// Helper function to resolve image paths
 const getResolvedPicture = (picture: string) => {
   return picture ? resolveImagePath(picture) : ''
 }
 
 const filteredGlobalInterviewers = computed(() => {
   if (!globalNetwork.value?.interviewers) return []
-
   if (!searchQuery.value) return globalNetwork.value.interviewers
-
   const query = searchQuery.value.toLowerCase()
   return globalNetwork.value.interviewers.filter(
     (interviewer: any) =>
