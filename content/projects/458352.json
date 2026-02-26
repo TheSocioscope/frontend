@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Larvia"
   },
   "pubId": 458352,
-  "score": 67.00000000000024,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Gabriel",
+      "lastname": "Martinez"
     }
   ],
   "thematic": [
@@ -48,7 +46,163 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://larvia.ai/",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "2018-2020",
+      "icon": "start",
+      "text": {
+        "en": "Larbia originated as a university project in aquaculture and received seed funding from Corporación LANEC, transitioning from an academic project to a registered startup within two years.",
+        "fr": "Larbia a débuté comme un projet universitaire en aquaculture et a reçu un financement initial de la Corporación LANEC, passant d'un projet académique à une startup enregistrée en deux ans.",
+        "es": "Larbia surgió como un proyecto universitario en acuicultura y recibió financiamiento inicial de la Corporación LANEC, pasando de ser un proyecto académico a una startup registrada en dos años.",
+        "de": "Larbia entstand als Universitätsprojekt im Bereich Aquakultur und erhielt eine Startfinanzierung von der Corporación LANEC, womit es innerhalb von zwei Jahren von einem akademischen Projekt zu einem eingetragenen Startup wurde."
+      }
+    },
+    {
+      "date": "2020",
+      "icon": "growth",
+      "text": {
+        "en": "Larbia launched commercially, offering AI-powered biometric analysis for shrimp farming via a mobile app, initially operating exclusively in Ecuador.",
+        "fr": "Larbia a été lancée commercialement, proposant une analyse biométrique alimentée par l'IA pour l'élevage de crevettes via une application mobile, opérant initialement exclusivement en Équateur.",
+        "es": "Larbia se lanzó comercialmente, ofreciendo análisis biométrico impulsado por inteligencia artificial para el cultivo de camarón a través de una aplicación móvil, operando inicialmente de forma exclusiva en Ecuador.",
+        "de": "Larbia wurde kommerziell eingeführt und bietet KI-gestützte biometrische Analysen für die Garnelenaufzucht über eine mobile App an, die zunächst ausschließlich in Ecuador betrieben wurde."
+      }
+    },
+    {
+      "date": "2023",
+      "icon": "milestone",
+      "text": {
+        "en": "A controlled experiment demonstrated that shrimp producers using Larbia reduced time to reach target weight by 1.5 days within three months, validating the platform's impact on production efficiency.",
+        "fr": "Une expérience contrôlée a démontré que les producteurs de crevettes utilisant Larbia ont réduit le temps nécessaire pour atteindre le poids cible de 1,5 jour en trois mois, validant l'impact de la plateforme sur l'efficacité de la production.",
+        "es": "Un experimento controlado demostró que los productores de camarón que usaban Larbia redujeron el tiempo para alcanzar el peso objetivo en 1.5 días en un período de tres meses, validando el impacto de la plataforma en la eficiencia productiva.",
+        "de": "Ein kontrolliertes Experiment zeigte, dass Garnelenproduzenten, die Larbia nutzten, die Zeit bis zum Erreichen des Zielgewichts innerhalb von drei Monaten um 1,5 Tage reduzierten, was die Auswirkungen der Plattform auf die Produktionseffizienz bestätigte."
+      }
+    },
+    {
+      "date": "2023",
+      "icon": "expansion",
+      "text": {
+        "en": "Following exposure at Aqua Expo in Ecuador, Larbia began expanding internationally, entering markets including Mexico, Honduras, Brazil, India, and Germany.",
+        "fr": "À la suite de son exposition à l'Aqua Expo en Équateur, Larbia a commencé à s'étendre à l'international, pénétrant des marchés tels que le Mexique, le Honduras, le Brésil, l'Inde et l'Allemagne.",
+        "es": "Tras su participación en Aqua Expo en Ecuador, Larbia comenzó su expansión internacional, ingresando a mercados como México, Honduras, Brasil, India y Alemania.",
+        "de": "Nach der Präsentation auf der Aqua Expo in Ecuador begann Larbia mit der internationalen Expansion und trat in Märkte wie Mexiko, Honduras, Brasilien, Indien und Deutschland ein."
+      }
+    },
+    {
+      "date": "2025",
+      "icon": "milestone",
+      "text": {
+        "en": "Larbia reached presence in 18 countries with over 1.6 million analyses processed, generating approximately 1,500 daily analysis consumptions and achieving financial self-sustainability.",
+        "fr": "Larbia a atteint une présence dans 18 pays avec plus de 1,6 million d'analyses traitées, générant environ 1 500 consommations d'analyses quotidiennes et atteignant l'autonomie financière.",
+        "es": "Larbia alcanzó presencia en 18 países con más de 1.6 millones de análisis procesados, generando aproximadamente 1,500 consumos de análisis diarios y logrando la autosostenibilidad financiera.",
+        "de": "Larbia war in 18 Ländern vertreten, mit über 1,6 Millionen verarbeiteten Analysen, etwa 1.500 täglichen Analyseanfragen und erreichte finanzielle Selbsttragfähigkeit."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "research",
+      "label": {
+        "en": "AI-powered biometric analysis of shrimp",
+        "fr": "Analyse biométrique des crevettes par intelligence artificielle",
+        "es": "Análisis biométrico de camarones impulsado por IA",
+        "de": "KI-gestützte biometrische Analyse von Garnelen"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Subscription platform for shrimp producers",
+        "fr": "Plateforme d'abonnement pour les producteurs de crevettes",
+        "es": "Plataforma de suscripción para productores de camarón",
+        "de": "Abonnementplattform für Garnelenproduzenten"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Harvest optimization simulations and projections",
+        "fr": "Simulations et projections pour l'optimisation des récoltes",
+        "es": "Simulaciones y proyecciones de optimización de cosecha",
+        "de": "Ernteoptimierende Simulationen und Prognosen"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Onboarding process for new platform users",
+        "fr": "Processus d'intégration pour les nouveaux utilisateurs de la plateforme",
+        "es": "Proceso de incorporación para nuevos usuarios de la plataforma",
+        "de": "Onboarding-Prozess für neue Plattformnutzer"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Data-driven decision tools for small producers",
+        "fr": "Outils de décision basés sur les données pour les petits producteurs",
+        "es": "Herramientas de decisión basadas en datos para pequeños productores",
+        "de": "Datengestützte Entscheidungswerkzeuge für Kleinproduzenten"
+      }
+    },
+    {
+      "icon": "zerowaste",
+      "label": {
+        "en": "Reduces feed waste and water contamination",
+        "fr": "Réduit le gaspillage d'aliments et la contamination de l'eau",
+        "es": "Reduce el desperdicio de alimento y la contaminación del agua",
+        "de": "Reduziert Futterverschwendung und Wasserverschmutzung"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "market",
+      "label": {
+        "en": "Expand into banana and cacao sectors",
+        "fr": "S'étendre dans les secteurs de la banane et du cacao",
+        "es": "Expandirse en los sectores de banano y cacao",
+        "de": "Expansion in die Bananen- und Kakaosektoren"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Onboard shrimp producers in 18 countries",
+        "fr": "Intégrer les producteurs de crevettes dans 18 pays",
+        "es": "Incorporar productores de camarón en 18 países",
+        "de": "Garnelenerzeuger in 18 Ländern gewinnen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Improve AI portfolio for disease detection",
+        "fr": "Améliorer le portefeuille d'IA pour la détection des maladies",
+        "es": "Mejorar el portafolio de IA para la detección de enfermedades",
+        "de": "KI-Portfolio zur Krankheitserkennung verbessern"
+      }
+    },
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Collaborate with aquaculture industry associations",
+        "fr": "Collaborer avec les associations de l'industrie aquacole",
+        "es": "Colaborar con asociaciones de la industria acuícola",
+        "de": "Zusammenarbeit mit Aquakultur-Branchenverbänden"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Scale globally as shrimp industry operating system",
+        "fr": "Se déployer à l'échelle mondiale en tant que système d'exploitation de l'industrie crevettière",
+        "es": "Escalar globalmente como sistema operativo de la industria camaronera",
+        "de": "Globale Skalierung als Betriebssystem der Garnelenbranche"
+      }
+    }
+  ],
+  "gallery": []
 }
