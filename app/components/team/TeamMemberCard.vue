@@ -28,9 +28,11 @@ const initials = computed(() => {
   return (props.firstname.charAt(0) + props.lastname.charAt(0)).toUpperCase()
 })
 
-const resolvedPicture = computed(() => {
-  return props.picture ? resolveImagePath(props.picture) : ''
+const resolvedPicture = ref('')
+onMounted(() => {
+  resolvedPicture.value = props.picture ? resolveImagePath(props.picture) : ''
 })
+  
 </script>
 
 <style scoped lang="scss">
