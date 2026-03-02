@@ -6,6 +6,8 @@ description: Linser for Livet is a small initiative based on a farm near Ohus,
   larger suppliers while maintaining direct relationships with customers. Its
   approach emphasizes sustainability, community engagement, and
   relationship-building within the food system.
+image: https://youtu.be/R-CTugqP-QU
+video: https://youtu.be/R-CTugqP-QU
 featured: false
 published: true
 publishedAt: 2026-03-02T11:54:00.000+01:00
