@@ -1,17 +1,18 @@
 ---
-title: "Linser for Livet: Connecting Farmers and Communities"
+title: 'Linser for Livet: Connecting Farmers and Communities'
 description: Linser for Livet is a small initiative based on a farm near Ohus,
   Denmark, centered on the production of 100% organic Danish vegetables. The
   initiative connects local farmers transitioning to pulse production with
   larger suppliers while maintaining direct relationships with customers. Its
   approach emphasizes sustainability, community engagement, and
   relationship-building within the food system.
-image: https://youtu.be/R-CTugqP-QU
-video: https://youtu.be/R-CTugqP-QU
+image: R-CTugqP-QU
+video: R-CTugqP-QU
 featured: false
 published: true
 publishedAt: 2026-03-02T11:54:00.000+01:00
 ---
+
 Linser for Livet operates from a farm near Ohus, Denmark, and is built around a small company specializing in 100% organic Danish vegetables. The initiative is led by an owner who plays a key role in connecting local farmers who are transitioning to pulse production with larger suppliers, while also maintaining direct engagement with customers.
 
 The initiative prioritizes sustainability and community involvement, deliberately favoring small-scale operations rather than expanding into large-scale production. This approach reflects a broader commitment to maintaining close relationships within the food system.

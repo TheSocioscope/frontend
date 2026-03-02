@@ -45,7 +45,7 @@
     </v-col>
 
     <!-- Row 2 -->
-    <v-col cols="12" sm="6" md="3">
+    <v-col cols="12" sm="6">
       <v-autocomplete
         :model-value="filters.selectedThematics"
         :items="thematicOptions"
@@ -61,7 +61,7 @@
         @update:model-value="updateFilter('selectedThematics', $event)"
       />
     </v-col>
-    <v-col cols="12" sm="6" md="3">
+    <v-col cols="12" sm="6">
       <v-autocomplete
         :model-value="filters.selectedFields"
         :items="fieldOptions"

@@ -6,7 +6,7 @@
  * @returns Paginated and sorted collection data with reactive state
  */
 export const useLocalizedCollection = <T = any>(
-  collection: 'products' | 'resources' | 'faq',
+  collection: 'products' | 'resources' | 'faq' | 'stories',
   options: {
     /** Number of items per page */
     itemsPerPage?: Ref<number> | number
@@ -54,7 +54,9 @@ export const useLocalizedCollection = <T = any>(
 
   // Update URL when pagination/sort changes
   watch([currentPage, itemsPerPage, sortBy, sortOrder], () => {
-    const query: Record<string, string> = { ...route.query }
+    const query: Record<string, string> = Object.fromEntries(
+      Object.entries(route.query).map(([k, v]) => [k, Array.isArray(v) ? v[0] ?? '' : v ?? ''])
+    )
 
     if (currentPage.value > 1) {
       query.page = currentPage.value.toString()
@@ -168,7 +170,7 @@ export const useLocalizedCollection = <T = any>(
     const currentLength = displayedItems.value.length
     const nextBatch = filteredItems.value.slice(currentLength, currentLength + itemsPerPage.value)
 
-    displayedItems.value.push(...nextBatch)
+    displayedItems.value.push(...(nextBatch as any[]))
     hasMore.value = displayedItems.value.length < filteredItems.value.length
   }
 

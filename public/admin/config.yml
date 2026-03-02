@@ -613,6 +613,9 @@ collections:
           - { label: 'Medicine', value: 'medicine' }
           - { label: 'Systems Science', value: 'systems-science' }
           - { label: 'Nutrition', value: 'nutrition' }
+          - { label: 'Biotechnology', value: 'biotechnology' }
+          - { label: 'Food Technology', value: 'food-technology' }
+          - { label: 'Energy Transition', value: 'energy-transition' }
       - label: 'Thematics'
         name: 'thematic'
         widget: 'select'

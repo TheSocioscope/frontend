@@ -21,10 +21,10 @@
           </div>
 
           <div class="tags">
-            <span v-if="project.status" class="tag">
+            <!--             <span v-if="project.status" class="tag">
               <v-icon size="small">mdi-check-circle</v-icon>
               {{ getStatusLabel(project.status) }}
-            </span>
+            </span> -->
 
             <span v-for="continent in project.continent" :key="continent" class="tag">
               <v-icon size="small">mdi-earth</v-icon>
@@ -87,7 +87,7 @@ defineEmits<{
 const { t: $t } = useI18n()
 const { resolveImagePath } = useImagePath()
 const {
-  getStatusLabel,
+  /*   getStatusLabel, */
   getContinentLabel,
   getCountryLabel,
   getFieldLabel,

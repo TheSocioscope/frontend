@@ -10,11 +10,23 @@
           v-for="(story, index) in displayedStories"
           :key="index"
           class="story-card"
-          @click="story._path && navigateTo(localePath(story._path))"
+          @click="openStory(story)"
         >
           <div class="story-thumbnail">
-            <img v-if="story.image" :src="story.image" :alt="story.title" class="story-image" />
-            <span v-else class="play-icon">{{ $t('stories.videoPlaceholder') }}</span>
+            <img
+              v-if="story.video"
+              :src="`https://img.youtube.com/vi/${story.video}/hqdefault.jpg`"
+              :alt="story.title"
+              class="story-image"
+            />
+            <img
+              v-else-if="story.image"
+              :src="story.image"
+              :alt="story.title"
+              class="story-image"
+            />
+            <span v-else class="thumbnail-placeholder" />
+            <span v-if="story.video" class="play-icon" aria-hidden="true">&#9654;</span>
           </div>
           <div class="story-content">
             <h4>{{ story.title }}</h4>
@@ -22,6 +34,8 @@
           </div>
         </div>
       </div>
+
+      <HomepageStoryModal :story="activeStory" @close="activeStory = null" />
 
       <div v-if="stories && stories.length > 6" class="text-center mt-8">
         <NuxtLink :to="localePath('/stories')" class="btn btn-outline"> View All Stories </NuxtLink>
@@ -31,20 +45,32 @@
 </template>
 
 <script setup lang="ts">
-const { t: $t, locale } = useI18n()
+interface Story {
+  title: string
+  description?: string
+  excerpt?: string
+  image?: string
+  video?: string
+  body?: object
+  _path?: string
+  [key: string]: unknown
+}
+
+const { t: $t } = useI18n()
 const localePath = useLocalePath()
 
-// Fetch stories from content
-const { data: stories } = await useAsyncData(
-  'stories',
-  () => queryContent(`stories/${locale.value}`)
-    .sort({ publishedAt: -1 })
-    .limit(6)
-    .find(),
-  { watch: [locale] }
-)
+const { allItems: stories } = useLocalizedCollection<Story>('stories', {
+  sortBy: 'publishedAt',
+  sortOrder: 'desc'
+})
 
-const displayedStories = computed(() => stories.value ?? [])
+const displayedStories = computed(() => stories.value.slice(0, 6))
+
+const activeStory = ref<Story | null>(null)
+
+const openStory = (story: Story) => {
+  activeStory.value = story
+}
 </script>
 
 <style scoped lang="scss">
@@ -82,14 +108,10 @@ const displayedStories = computed(() => stories.value ?? [])
 }
 
 .story-thumbnail {
+  position: relative;
   width: 100%;
   height: 200px;
   background: $green-bright;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  font-size: 3rem;
   overflow: hidden;
 }
 
@@ -99,8 +121,27 @@ const displayedStories = computed(() => stories.value ?? [])
   object-fit: cover;
 }
 
+.thumbnail-placeholder {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: $green-bright;
+}
+
 .play-icon {
-  font-size: 3rem;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  color: white;
+  background: rgba(0, 0, 0, 0.25);
+  transition: background 0.3s;
+
+  .story-card:hover & {
+    background: rgba(0, 0, 0, 0.45);
+  }
 }
 
 .story-content {
