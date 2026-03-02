@@ -6,6 +6,8 @@ description: Finca Laguna Verde is a regenerative rotational grazing and milking
   owner. Despite initial resistance from the local community and family, the
   transition aimed to restore land health and reduce environmental impact while
   maintaining the farm’s financial viability.
+image: https://youtu.be/ueYirVMNhm4
+video: https://youtu.be/ueYirVMNhm4
 featured: false
 published: true
 publishedAt: 2026-03-02T11:56:00.000+01:00
