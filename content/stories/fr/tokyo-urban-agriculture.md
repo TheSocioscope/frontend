@@ -1,9 +1,11 @@
 ---
 title: Agriculture urbaine à Tokyo
-description: Comment les jardins sur les toits transforment les systèmes alimentaires urbains
-location: Tokyo, Japon
+description: Comment les jardins sur les toits transforment les systèmes
+  alimentaires urbains
+location: Colombia
+author: null
 image: /images/stories/tokyo-urban-farming.jpg
-video: /videos/tokyo-urban-farming.mp4
+video: ""
 featured: true
 published: true
 publishedAt: 2024-11-15

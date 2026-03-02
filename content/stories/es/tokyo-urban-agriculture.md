@@ -1,9 +1,11 @@
 ---
 title: Agricultura urbana en Tokio
-description: Cómo los jardines en azoteas están transformando los sistemas alimentarios urbanos
-location: Tokio, Japón
+description: Cómo los jardines en azoteas están transformando los sistemas
+  alimentarios urbanos
+location: Colombia
+author: null
 image: /images/stories/tokyo-urban-farming.jpg
-video: /videos/tokyo-urban-farming.mp4
+video: ""
 featured: true
 published: true
 publishedAt: 2024-11-15
