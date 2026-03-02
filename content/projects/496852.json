@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Agrayu"
   },
   "pubId": 496852,
-  "score": 70.56460162000066,
   "state": "ongoing-project",
-  "status": "xfeatured",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "HUGO",
+      "lastname": "PIÑARRETA MEZA"
     }
   ],
   "thematic": [
@@ -49,7 +47,7 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "https://agros.tech/",
   "yt": "NPTaVn3ptnY",
   "editedAt": 1756738118,
   "feedback": [
@@ -61,5 +59,180 @@
   "updatedAt": [
     1756738118
   ],
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "2018-2019",
+      "icon": "start",
+      "text": {
+        "en": "Founders Hugo and Robinson liquidated their previous agritech company Sinergia Tech and invested $80,000 of personal capital to launch Agros, driven by the inequity they witnessed in family farming. They conducted a year-long anthropological study across Peru's coast, highlands, and jungle, interviewing over 400 stakeholders to deeply understand the rural agricultural problem.",
+        "fr": "Les fondateurs Hugo et Robinson ont liquidé leur précédente entreprise agrotech Sinergia Tech et investi 80 000 dollars de capital personnel pour lancer Agros, motivés par les inégalités qu'ils observaient dans l'agriculture familiale. Ils ont mené une étude anthropologique d'un an à travers la côte, les hauts plateaux et la jungle du Pérou, en interrogeant plus de 400 parties prenantes pour comprendre en profondeur le problème agricole rural.",
+        "es": "Los fundadores Hugo y Robinson liquidaron su empresa agrotecnológica anterior, Sinergia Tech, e invirtieron $80,000 de capital personal para lanzar Agros, impulsados por la inequidad que observaron en la agricultura familiar. Realizaron un estudio antropológico de un año a lo largo de la costa, sierra y selva del Perú, entrevistando a más de 400 actores para comprender profundamente el problema agrícola rural.",
+        "de": "Die Gründer Hugo und Robinson liquidierten ihr früheres Agrartech-Unternehmen Sinergia Tech und investierten 80.000 US-Dollar aus eigenen Mitteln, um Agros zu gründen – angetrieben von den Ungerechtigkeiten, die sie in der Familienwirtschaft beobachteten. Sie führten eine einjährige anthropologische Studie entlang der Küste, im Hochland und im Dschungel Perus durch und befragten über 400 Interessengruppen, um die ländlichen Agrarprobleme tiefgehend zu verstehen."
+      }
+    },
+    {
+      "date": "2019",
+      "icon": "milestone",
+      "text": {
+        "en": "Agros won the MIT competition, selected from 2,000 applicants down to 5 finalists, becoming only the second Peruvian startup to win this award. The MIT prize included $250,000 in investment and connected the team to academic resources, case studies, and expert mentorship that shaped their strategic focus on Peru.",
+        "fr": "Agros a remporté le concours du MIT, sélectionné parmi 2 000 candidats réduits à 5 finalistes, devenant seulement la deuxième startup péruvienne à remporter ce prix. Le prix du MIT comprenait 250 000 dollars d'investissement et a connecté l'équipe à des ressources académiques, des études de cas et un mentorat d'experts qui ont façonné leur orientation stratégique sur le Pérou.",
+        "es": "Agros ganó la competencia del MIT, seleccionada entre 2,000 postulantes hasta quedar entre los 5 finalistas, convirtiéndose en solo la segunda startup peruana en ganar este premio. El galardón del MIT incluyó $250,000 en inversión y conectó al equipo con recursos académicos, estudios de caso y mentoría especializada que moldearon su enfoque estratégico en el Perú.",
+        "de": "Agros gewann den MIT-Wettbewerb, wurde aus 2.000 Bewerbern unter die 5 Finalisten ausgewählt und wurde damit erst das zweite peruanische Startup, das diesen Preis gewann. Der MIT-Preis umfasste eine Investition von 250.000 US-Dollar und verband das Team mit akademischen Ressourcen, Fallstudien und Expertenmentoring, die ihren strategischen Fokus auf Peru prägten."
+      }
+    },
+    {
+      "date": "2020-2021",
+      "icon": "milestone",
+      "text": {
+        "en": "Agros developed a voice biometrics-based digital identity system called Identi, enabling farmers without smartphones or internet access to conduct financial and agronomic transactions via basic phone calls. A pilot with Tecnocer and USAID-funded Alianza Café successfully unlocked over 150 micro-credits for family farmers using this technology.",
+        "fr": "Agros a développé un système d'identité numérique basé sur la biométrie vocale appelé Identi, permettant aux agriculteurs sans smartphone ni accès à Internet d'effectuer des transactions financières et agronomiques via de simples appels téléphoniques. Un pilote avec Tecnocer et Alianza Café financé par l'USAID a permis de débloquer plus de 150 micro-crédits pour des agriculteurs familiaux grâce à cette technologie.",
+        "es": "Agros desarrolló un sistema de identidad digital basado en biometría de voz llamado Identi, que permite a los agricultores sin teléfonos inteligentes ni acceso a internet realizar transacciones financieras y agronómicas mediante llamadas telefónicas básicas. Un piloto con Tecnocer y Alianza Café, financiado por USAID, desbloqueó con éxito más de 150 microcréditos para agricultores familiares utilizando esta tecnología.",
+        "de": "Agros entwickelte ein auf Sprachbiometrie basierendes digitales Identitätssystem namens Identi, das es Bauern ohne Smartphones oder Internetzugang ermöglicht, Finanz- und agronomische Transaktionen über einfache Telefonanrufe durchzuführen. Ein Pilotprojekt mit Tecnocer und dem von USAID finanzierten Alianza Café ermöglichte mithilfe dieser Technologie erfolgreich über 150 Mikrokredite für Familienbauern."
+      }
+    },
+    {
+      "date": "2022-2023",
+      "icon": "expansion",
+      "text": {
+        "en": "Agros strategically split into two separate companies: Agrayu, focused on delivering agricultural input programs and technical assistance to family farmers, and Identi, dedicated to scaling the voice-based digital wallet technology globally. Identi began pilots in Nepal and Colombia, and engaged with the World Food Programme and FIDA for broader humanitarian applications.",
+        "fr": "Agros s'est stratégiquement divisé en deux sociétés distinctes : Agrayu, axée sur la fourniture de programmes d'intrants agricoles et d'assistance technique aux agriculteurs familiaux, et Identi, dédiée au déploiement à grande échelle de la technologie de portefeuille numérique vocal à l'échelle mondiale. Identi a lancé des pilotes au Népal et en Colombie, et s'est engagée avec le Programme alimentaire mondial et le FIDA pour des applications humanitaires plus larges.",
+        "es": "Agros se dividió estratégicamente en dos empresas separadas: Agrayu, enfocada en entregar programas de insumos agrícolas y asistencia técnica a agricultores familiares, e Identi, dedicada a escalar globalmente la tecnología de billetera digital basada en voz. Identi inició pilotos en Nepal y Colombia, y estableció vínculos con el Programa Mundial de Alimentos y el FIDA para aplicaciones humanitarias de mayor alcance.",
+        "de": "Agros wurde strategisch in zwei separate Unternehmen aufgeteilt: Agrayu, das sich auf die Bereitstellung von landwirtschaftlichen Betriebsmittelprogrammen und technischer Unterstützung für Familienbauern konzentriert, und Identi, das sich der weltweiten Skalierung der sprachbasierten digitalen Wallet-Technologie widmet. Identi startete Pilotprojekte in Nepal und Kolumbien und arbeitete mit dem Welternährungsprogramm und FIDA für umfassendere humanitäre Anwendungen zusammen."
+      }
+    },
+    {
+      "date": "2023",
+      "icon": "growth",
+      "text": {
+        "en": "Agrayu launched a franchise distribution model, recruiting farmer-franchisees who use their own properties as local distribution centers to deliver pre-packaged crop programs for cacao and avocado in Ayacucho and San Martín. Within 16 months of launch, the network reached four franchisees with a fifth closing, serving hundreds of farmers with double-digit monthly growth.",
+        "fr": "Agrayu a lancé un modèle de distribution en franchise, recrutant des agriculteurs-franchisés qui utilisent leurs propres propriétés comme centres de distribution locaux pour livrer des programmes de cultures préemballés pour le cacao et l'avocat à Ayacucho et San Martín. Dans les 16 mois suivant le lancement, le réseau a atteint quatre franchisés avec un cinquième en cours de finalisation, servant des centaines d'agriculteurs avec une croissance mensuelle à deux chiffres.",
+        "es": "Agrayu lanzó un modelo de distribución por franquicias, reclutando agricultores-franquiciados que utilizan sus propias propiedades como centros de distribución local para entregar programas de cultivo preempaquetados de cacao y palta en Ayacucho y San Martín. A los 16 meses del lanzamiento, la red contaba con cuatro franquiciados y un quinto en proceso de cierre, atendiendo a cientos de agricultores con un crecimiento mensual de dos dígitos.",
+        "de": "Agrayu führte ein Franchise-Vertriebsmodell ein und gewann Bauern als Franchisenehmer, die ihre eigenen Grundstücke als lokale Verteilzentren nutzen, um vorgefertigte Anbauprogramme für Kakao und Avocado in Ayacucho und San Martín zu liefern. Innerhalb von 16 Monaten nach dem Start umfasste das Netzwerk vier Franchisenehmer, ein fünfter stand kurz vor dem Abschluss, und es wurden Hunderte von Bauern mit zweistelligem monatlichen Wachstum bedient."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "partnership",
+      "text": {
+        "en": "Agrayu and Identi gained major institutional recognition, with the Inter-American Development Bank (IDB) becoming their principal investment partner and inviting them to present at the IDB annual governors assembly. Identi was also invited to present as a success case at FIDA's innovation forum in Rome, attended by the Pope and global ministers.",
+        "fr": "Agrayu et Identi ont obtenu une reconnaissance institutionnelle majeure, la Banque interaméricaine de développement (BID) devenant leur principal partenaire d'investissement et les invitant à présenter lors de l'assemblée annuelle des gouverneurs de la BID. Identi a également été invitée à se présenter comme cas de succès lors du forum d'innovation du FIDA à Rome, auquel assistaient le Pape et des ministres du monde entier.",
+        "es": "Agrayu e Identi obtuvieron un importante reconocimiento institucional, con el Banco Interamericano de Desarrollo (BID) convirtiéndose en su principal socio inversor e invitándolos a presentar en la asamblea anual de gobernadores del BID. Identi también fue invitada a presentarse como caso de éxito en el foro de innovación del FIDA en Roma, al que asistieron el Papa y ministros de todo el mundo.",
+        "de": "Agrayu und Identi erlangten bedeutende institutionelle Anerkennung: Die Interamerikanische Entwicklungsbank (IDB) wurde ihr wichtigster Investitionspartner und lud sie ein, bei der jährlichen Gouverneursversammlung der IDB zu präsentieren. Identi wurde zudem eingeladen, beim Innovationsforum von FIDA in Rom als Erfolgsbeispiel vorzustellen – einer Veranstaltung, an der der Papst und globale Minister teilnahmen."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "market",
+      "label": {
+        "en": "Access to traceable, original agricultural inputs",
+        "fr": "Accès à des intrants agricoles traçables et d'origine certifiée",
+        "es": "Acceso a insumos agrícolas originales y trazables",
+        "de": "Zugang zu rückverfolgbaren, originalen landwirtschaftlichen Betriebsmitteln"
+      }
+    },
+    {
+      "icon": "training",
+      "label": {
+        "en": "Crop-specific technical assistance programs 24/7",
+        "fr": "Programmes d'assistance technique spécifiques aux cultures 24h/24 et 7j/7",
+        "es": "Programas de asistencia técnica específicos por cultivo 24/7",
+        "de": "Kulturspezifische technische Hilfsprogramme rund um die Uhr"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Franchise model for rural farmer-distributors",
+        "fr": "Modèle de franchise pour les agriculteurs-distributeurs ruraux",
+        "es": "Modelo de franquicia para agricultores-distribuidores rurales",
+        "de": "Franchise-Modell für ländliche Bauern-Distributoren"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Digital identity wallet via voice biometrics",
+        "fr": "Portefeuille d'identité numérique par biométrie vocale",
+        "es": "Billetera de identidad digital mediante biometría de voz",
+        "de": "Digitale Identitätsbrieftasche über Sprachbiometrie"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Structured crop programs with soil and lab studies",
+        "fr": "Programmes de cultures structurés avec études de sol et analyses en laboratoire",
+        "es": "Programas estructurados de cultivo con estudios de suelo y laboratorio",
+        "de": "Strukturierte Anbauprogramme mit Boden- und Laborstudien"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Connection to buyers and credit financing systems",
+        "fr": "Mise en relation avec les acheteurs et les systèmes de financement par crédit",
+        "es": "Conexión con compradores y sistemas de financiamiento crediticio",
+        "de": "Verbindung zu Käufern und Kreditfinanzierungssystemen"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Franchise partners to distribute agricultural programs",
+        "fr": "Partenaires franchisés pour distribuer des programmes agricoles",
+        "es": "Socios franquiciados para distribuir programas agrícolas",
+        "de": "Franchise-Partner zur Verteilung landwirtschaftlicher Programme"
+      }
+    },
+    {
+      "icon": "suppliers",
+      "label": {
+        "en": "Input suppliers for last-mile distribution",
+        "fr": "Fournisseurs d'intrants pour la distribution au dernier kilomètre",
+        "es": "Proveedores de insumos para distribución de último kilómetro",
+        "de": "Inputlieferanten für die Verteilung auf der letzten Meile"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Investment capital to scale operations",
+        "fr": "Capital d'investissement pour développer les opérations",
+        "es": "Capital de inversión para escalar operaciones",
+        "de": "Investitionskapital zur Skalierung des Betriebs"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "New country markets in Latin America",
+        "fr": "Nouveaux marchés en Amérique latine",
+        "es": "Nuevos mercados en América Latina",
+        "de": "Neue Ländermärkte in Lateinamerika"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Family farmers to join platform as clients",
+        "fr": "Agriculteurs familiaux à rejoindre la plateforme en tant que clients",
+        "es": "Agricultores familiares para unirse a la plataforma como clientes",
+        "de": "Familienbauern, die der Plattform als Kunden beitreten"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "Technical talent for voice biometric technology",
+        "fr": "Talents techniques pour la technologie biométrique vocale",
+        "es": "Talento técnico para tecnología biométrica de voz",
+        "de": "Technisches Talent für Sprachbiometrie-Technologie"
+      }
+    }
+  ],
+  "gallery": []
 }
