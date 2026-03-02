@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Slow Food Uganda"
   },
   "pubId": 462552,
-  "score": -48.16472956592904,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Juan",
+      "lastname": "Sio"
     }
   ],
   "thematic": [
@@ -48,7 +46,172 @@
   "type": [
     "case-study"
   ],
-  "url": "",
+  "url": "http://www.slowfooduganda.org",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "timeline": [
+    {
+      "date": "1989",
+      "icon": "start",
+      "text": {
+        "en": "Slow Food was founded in the city of Bra, Italy, with the aim of preventing the disappearance of food traditions and cultures.",
+        "fr": "Slow Food a été fondé dans la ville de Bra, en Italie, avec pour objectif de prévenir la disparition des traditions et cultures alimentaires.",
+        "es": "Slow Food fue fundado en la ciudad de Bra, Italia, con el objetivo de prevenir la desaparición de las tradiciones y culturas alimentarias.",
+        "de": "Slow Food wurde in der Stadt Bra, Italien, gegründet, mit dem Ziel, das Verschwinden von Ernährungstraditionen und -kulturen zu verhindern."
+      }
+    },
+    {
+      "date": "2004",
+      "icon": "milestone",
+      "text": {
+        "en": "Slow Food Uganda began operating as a loose network, supporting communities to understand food and nutrition without a formal legal structure.",
+        "fr": "Slow Food Ouganda a commencé à fonctionner comme un réseau informel, aidant les communautés à comprendre l'alimentation et la nutrition sans structure juridique formelle.",
+        "es": "Slow Food Uganda comenzó a operar como una red informal, apoyando a las comunidades para comprender la alimentación y la nutrición sin una estructura legal formal.",
+        "de": "Slow Food Uganda begann als loses Netzwerk zu arbeiten und unterstützte Gemeinschaften dabei, Ernährung und Nahrung zu verstehen, ohne eine formelle rechtliche Struktur zu besitzen."
+      }
+    },
+    {
+      "date": "2015",
+      "icon": "milestone",
+      "text": {
+        "en": "Slow Food Uganda was officially registered as a legal not-for-profit organization, structured as a company limited by guarantee.",
+        "fr": "Slow Food Ouganda a été officiellement enregistré en tant qu'organisation légale à but non lucratif, structurée comme une société à responsabilité limitée par garantie.",
+        "es": "Slow Food Uganda fue registrado oficialmente como una organización legal sin fines de lucro, estructurada como una empresa limitada por garantía.",
+        "de": "Slow Food Uganda wurde offiziell als gemeinnützige Organisation eingetragen und als eine durch Garantie beschränkte Gesellschaft strukturiert."
+      }
+    },
+    {
+      "date": "2019",
+      "icon": "partnership",
+      "text": {
+        "en": "A Food Parliament held in Buyukwe led to the co-creation of a District Food and Nutrition Ordinance limiting monoculture sugarcane production on small landholdings.",
+        "fr": "Un Parlement Alimentaire tenu à Buyukwe a conduit à la co-création d'une Ordonnance Districale sur l'Alimentation et la Nutrition limitant la production de canne à sucre en monoculture sur les petites exploitations.",
+        "es": "Un Parlamento Alimentario celebrado en Buyukwe llevó a la co-creación de una Ordenanza Distrital de Alimentación y Nutrición que limita la producción de caña de azúcar en monocultivo en pequeñas parcelas de tierra.",
+        "de": "Ein in Buyukwe abgehaltenes Ernährungsparlament führte zur gemeinsamen Erarbeitung einer Bezirksverordnung zu Ernährung und Nahrung, die den Monokultур-Zuckerrohranbau auf kleinen Grundstücken einschränkt."
+      }
+    },
+    {
+      "date": "2024",
+      "icon": "expansion",
+      "text": {
+        "en": "Slow Food Uganda launched the Slow Food Farms initiative at the Terra Madre event in Italy, identifying and supporting existing agroecological farms, with five farms currently registered in Uganda.",
+        "fr": "Slow Food Ouganda a lancé l'initiative Slow Food Farms lors de l'événement Terra Madre en Italie, identifiant et soutenant des fermes agroécologiques existantes, avec cinq fermes actuellement enregistrées en Ouganda.",
+        "es": "Slow Food Uganda lanzó la iniciativa Slow Food Farms en el evento Terra Madre en Italia, identificando y apoyando granjas agroecológicas existentes, con cinco granjas actualmente registradas en Uganda.",
+        "de": "Slow Food Uganda startete die Initiative Slow Food Farms beim Terra Madre-Event in Italien, um bestehende agrarökologische Betriebe zu identifizieren und zu unterstützen, wobei derzeit fünf Betriebe in Uganda registriert sind."
+      }
+    }
+  ],
+  "offers": [
+    {
+      "icon": "market",
+      "label": {
+        "en": "Earth markets connecting farmers directly to consumers",
+        "fr": "Marchés de la Terre connectant directement les agriculteurs aux consommateurs",
+        "es": "Mercados de la Tierra que conectan directamente a agricultores con consumidores",
+        "de": "Erdmärkte verbinden Bauern direkt mit Verbrauchern"
+      }
+    },
+    {
+      "icon": "education",
+      "label": {
+        "en": "Slow Food gardens in schools and communities",
+        "fr": "Jardins Slow Food dans les écoles et les communautés",
+        "es": "Huertos de Slow Food en escuelas y comunidades",
+        "de": "Slow-Food-Gärten in Schulen und Gemeinden"
+      }
+    },
+    {
+      "icon": "zerowaste",
+      "label": {
+        "en": "Seed banks preserving local traditional seeds",
+        "fr": "Banques de semences préservant les semences traditionnelles locales",
+        "es": "Bancos de semillas que preservan semillas tradicionales locales",
+        "de": "Saatgutbanken zur Erhaltung lokaler traditioneller Samen"
+      }
+    },
+    {
+      "icon": "localfood",
+      "label": {
+        "en": "Presidia initiatives preserving endangered food products",
+        "fr": "Initiatives Presidia préservant les produits alimentaires en voie de disparition",
+        "es": "Iniciativas Presidia que preservan productos alimentarios en peligro de extinción",
+        "de": "Presidia-Initiativen zum Schutz gefährdeter Lebensmittelprodukte"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Youth network mobilizing young people on food systems",
+        "fr": "Réseau de jeunes mobilisant les jeunes sur les systèmes alimentaires",
+        "es": "Red de jóvenes que moviliza a la juventud en torno a los sistemas alimentarios",
+        "de": "Jugendnetzwerk mobilisiert junge Menschen für Ernährungssysteme"
+      }
+    },
+    {
+      "icon": "demonstration",
+      "label": {
+        "en": "Slow Food farms showcasing agroecological practices",
+        "fr": "Fermes Slow Food illustrant les pratiques agroécologiques",
+        "es": "Granjas de Slow Food que muestran prácticas agroecológicas",
+        "de": "Slow-Food-Höfe zur Demonstration agroökologischer Praktiken"
+      }
+    }
+  ],
+  "lookingFor": [
+    {
+      "icon": "partners",
+      "label": {
+        "en": "Like-minded organizations for collaborative agroecology work",
+        "fr": "Organisations partageant les mêmes idées pour des travaux collaboratifs en agroécologie",
+        "es": "Organizaciones afines para trabajo colaborativo en agroecología",
+        "de": "Gleichgesinnte Organisationen für kollaborative Agrarökologie-Arbeit"
+      }
+    },
+    {
+      "icon": "funding",
+      "label": {
+        "en": "Donors to reduce unpredictable funding dependency",
+        "fr": "Donateurs pour réduire la dépendance à un financement imprévisible",
+        "es": "Donantes para reducir la dependencia de financiamiento impredecible",
+        "de": "Geldgeber zur Reduzierung unvorhersehbarer Finanzierungsabhängigkeit"
+      }
+    },
+    {
+      "icon": "market",
+      "label": {
+        "en": "Market access for agroecological producers",
+        "fr": "Accès au marché pour les producteurs agroécologiques",
+        "es": "Acceso al mercado para productores agroecológicos",
+        "de": "Marktzugang für agrarökologische Erzeuger"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Government support for sustainable food policies",
+        "fr": "Soutien gouvernemental pour des politiques alimentaires durables",
+        "es": "Apoyo gubernamental para políticas alimentarias sostenibles",
+        "de": "Staatliche Unterstützung für nachhaltige Ernährungspolitik"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "Communities to adopt local traditional food practices",
+        "fr": "Communautés adoptant les pratiques alimentaires traditionnelles locales",
+        "es": "Comunidades para adoptar prácticas alimentarias tradicionales locales",
+        "de": "Gemeinschaften zur Übernahme lokaler traditioneller Ernährungspraktiken"
+      }
+    },
+    {
+      "icon": "volunteers",
+      "label": {
+        "en": "Regional coordinators and school garden volunteers",
+        "fr": "Coordinateurs régionaux et bénévoles pour les jardins scolaires",
+        "es": "Coordinadores regionales y voluntarios de huertos escolares",
+        "de": "Regionale Koordinatoren und Freiwillige für Schulgärten"
+      }
+    }
+  ],
+  "gallery": []
 }

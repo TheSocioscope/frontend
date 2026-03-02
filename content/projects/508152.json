@@ -1,8 +1,8 @@
 {
   "contact": {
-    "entity": "IEA",
-    "firstname": "Food",
-    "lastname": "Socioscope",
+    "entity": "",
+    "firstname": "",
+    "lastname": "",
     "contact_url": ""
   },
   "continent": [
@@ -31,14 +31,12 @@
     "de": "Overtown Green Haven Projekt"
   },
   "pubId": 508152,
-  "score": 0,
   "state": "ongoing-project",
-  "status": "published",
   "team": [
     {
-      "entity": "IEA",
-      "firstname": "Food",
-      "lastname": "Socioscope"
+      "entity": "",
+      "firstname": "Jorge",
+      "lastname": "Palacios"
     }
   ],
   "thematic": [
@@ -56,68 +54,116 @@
       "date": "2018",
       "icon": "start",
       "text": {
-        "en": "Overtown Green Haven Project founded as 501(c)(3) nonprofit community garden in downtown Miami food desert",
-        "fr": "Overtown Green Haven Project fondé comme jardin communautaire à but non lucratif 501(c)(3) dans un désert alimentaire du centre-ville de Miami",
-        "es": "Overtown Green Haven Project fundado como jardín comunitario sin fines de lucro 501(c)(3) en un desierto alimentario del centro de Miami",
-        "de": "Overtown Green Haven Project als gemeinnütziger 501(c)(3) Gemeinschaftsgarten in einer Lebensmittelwüste in Downtown Miami gegründet"
+        "en": "Jorge and co-founder David launched the Green Haven Project in Overtown, Miami, initially connecting with the space through a friend from Talent for Change. The organization was formally founded with nine people as a 501(c3) nonprofit.",
+        "fr": "Jorge et le co-fondateur David ont lancé le Green Haven Project à Overtown, Miami, en prenant contact avec l'espace initialement par l'intermédiaire d'un ami de Talent for Change. L'organisation a été officiellement fondée avec neuf personnes en tant qu'organisme à but non lucratif 501(c3).",
+        "es": "Jorge y el cofundador David lanzaron el Proyecto Green Haven en Overtown, Miami, conectándose inicialmente con el espacio a través de un amigo de Talent for Change. La organización fue fundada formalmente con nueve personas como una organización sin fines de lucro 501(c3).",
+        "de": "Jorge und Mitgründer David lancierten das Green Haven Project in Overtown, Miami, und kamen ursprünglich durch einen Bekannten von Talent for Change mit dem Ort in Kontakt. Die Organisation wurde offiziell mit neun Personen als gemeinnützige 501(c3)-Organisation gegründet."
       }
     },
     {
-      "date": "2018-2024",
+      "date": "2018-2019",
+      "icon": "partnership",
+      "text": {
+        "en": "Early partnerships formed with organizations including Save the Kids, which held the master lease on the property, and Talent for Change, which facilitated the original introduction to the space.",
+        "fr": "Des partenariats précoces ont été établis avec des organisations telles que Save the Kids, qui détenait le bail principal de la propriété, et Talent for Change, qui a facilité la présentation originale à l'espace.",
+        "es": "Se formaron alianzas tempranas con organizaciones como Save the Kids, que tenía el contrato de arrendamiento principal de la propiedad, y Talent for Change, que facilitó la introducción original al espacio.",
+        "de": "Frühe Partnerschaften wurden mit Organisationen geschlossen, darunter Save the Kids, das den Hauptmietvertrag für das Grundstück hielt, und Talent for Change, das die ursprüngliche Verbindung zum Standort vermittelte."
+      }
+    },
+    {
+      "date": "2019",
+      "icon": "milestone",
+      "text": {
+        "en": "Approximately a year and a half after initial operations began, the Green Haven Project was officially established with nine founding members, later stabilizing to four active board members.",
+        "fr": "Environ un an et demi après le début des opérations initiales, le Green Haven Project a été officiellement établi avec neuf membres fondateurs, se stabilisant ensuite à quatre membres actifs du conseil d'administration.",
+        "es": "Aproximadamente un año y medio después de que comenzaron las operaciones iniciales, el Proyecto Green Haven fue establecido oficialmente con nueve miembros fundadores, estabilizándose posteriormente a cuatro miembros activos de la junta directiva.",
+        "de": "Ungefähr eineinhalb Jahre nach Beginn des Betriebs wurde das Green Haven Project offiziell mit neun Gründungsmitgliedern etabliert, die sich später auf vier aktive Vorstandsmitglieder einpendelten."
+      }
+    },
+    {
+      "date": "2020-2023",
+      "icon": "challenge",
+      "text": {
+        "en": "The garden experienced recurring break-ins three to four times per year during its first several years, with tools, equipment, and materials stolen, forcing the organization to repeatedly replenish resources out of pocket.",
+        "fr": "Le jardin a connu des cambriolages récurrents trois à quatre fois par an durant ses premières années, avec des outils, équipements et matériaux volés, obligeant l'organisation à renouveler à plusieurs reprises les ressources à ses propres frais.",
+        "es": "El jardín experimentó robos recurrentes de tres a cuatro veces por año durante sus primeros años, con herramientas, equipos y materiales robados, lo que obligó a la organización a reponer los recursos repetidamente de su propio bolsillo.",
+        "de": "Der Garten erlebte in den ersten Jahren drei- bis viermal jährlich wiederkehrende Einbrüche, bei denen Werkzeuge, Ausrüstung und Materialien gestohlen wurden, sodass die Organisation die Ressourcen wiederholt aus eigener Tasche ersetzen musste."
+      }
+    },
+    {
+      "date": "2021-2023",
+      "icon": "partnership",
+      "text": {
+        "en": "Through FIU, Green Haven connected with iCare and BankUnited, securing additional funding and resources, while Cafe Namaste began monthly volunteer visits and Smile Trust began monthly houseless feedings on the property.",
+        "fr": "Par l'intermédiaire de la FIU, Green Haven a établi des liens avec iCare et BankUnited, obtenant des financements et des ressources supplémentaires, tandis que le Café Namaste a commencé des visites bénévoles mensuelles et que Smile Trust a débuté des distributions alimentaires mensuelles aux personnes sans abri sur la propriété.",
+        "es": "A través de FIU, Green Haven se conectó con iCare y BankUnited, asegurando financiamiento y recursos adicionales, mientras que Cafe Namaste comenzó visitas mensuales de voluntarios y Smile Trust inició alimentaciones mensuales para personas sin hogar en la propiedad.",
+        "de": "Über die FIU knüpfte Green Haven Kontakte zu iCare und BankUnited und sicherte sich zusätzliche Fördermittel und Ressourcen, während Cafe Namaste monatliche Freiwilligeneinsätze aufnahm und Smile Trust monatliche Essensausgaben für Obdachlose auf dem Gelände begann."
+      }
+    },
+    {
+      "date": "2023-2026",
       "icon": "growth",
       "text": {
-        "en": "Established partnerships with FIU, Smile Trust, Cafe Namaste; received CRA funding for security fencing; board reduced from 9 to 4 members",
-        "fr": "Établissement de partenariats avec FIU, Smile Trust, Cafe Namaste; financement CRA reçu pour clôture de sécurité; conseil réduit de 9 à 4 membres",
-        "es": "Estableció alianzas con FIU, Smile Trust, Cafe Namaste; recibió financiamiento CRA para cercado de seguridad; junta reducida de 9 a 4 miembros",
-        "de": "Partnerschaften mit FIU, Smile Trust, Cafe Namaste aufgebaut; CRA-Finanzierung für Sicherheitszaun erhalten; Vorstand von 9 auf 4 Mitglieder reduziert"
-      }
-    },
-    {
-      "date": "2024",
-      "icon": "expansion",
-      "text": {
-        "en": "Developing nursery as educational center; open daily for community access; hosting regular volunteer groups",
-        "fr": "Développement d'une pépinière comme centre éducatif; ouvert quotidiennement pour l'accès communautaire; accueil de groupes de bénévoles réguliers",
-        "es": "Desarrollando vivero como centro educativo; abierto diariamente para acceso comunitario; albergando grupos regulares de voluntarios",
-        "de": "Entwicklung einer Gärtnerei als Bildungszentrum; täglich für Gemeinschaftszugang geöffnet; Gastgeber für regelmäßige Freiwilligengruppen"
+        "en": "Using Community Redevelopment Agency of Overtown funding, Green Haven completed a full property re-fencing to address security issues, and began planning a nursery redesign in partnership with FIU to serve as an educational center.",
+        "fr": "Grâce au financement de la Community Redevelopment Agency d'Overtown, Green Haven a réalisé une clôture complète de la propriété pour répondre aux problèmes de sécurité, et a commencé à planifier une refonte de la pépinière en partenariat avec la FIU pour en faire un centre éducatif.",
+        "es": "Utilizando fondos de la Agencia de Reurbanización Comunitaria de Overtown, Green Haven completó un nuevo cercado completo de la propiedad para abordar problemas de seguridad, y comenzó a planificar un rediseño del vivero en asociación con FIU para que sirva como centro educativo.",
+        "de": "Mit Mitteln der Community Redevelopment Agency of Overtown schloss Green Haven eine vollständige Neueinfassung des Grundstücks zur Verbesserung der Sicherheit ab und begann in Partnerschaft mit der FIU mit der Planung einer Neugestaltung der Baumschule als Bildungszentrum."
       }
     }
   ],
   "offers": [
     {
-      "icon": "garden",
+      "icon": "localfood",
       "label": {
-        "en": "One-Acre Community Garden in Miami Food Desert",
-        "fr": "Jardin communautaire d'un acre dans un désert alimentaire de Miami",
-        "es": "Jardín comunitario de un acre en desierto alimentario de Miami",
-        "de": "Ein Hektar großer Gemeinschaftsgarten in Miamis Lebensmittelwüste"
+        "en": "Free vegetables and produce to community",
+        "fr": "Légumes et produits frais gratuits pour la communauté",
+        "es": "Verduras y productos gratuitos para la comunidad",
+        "de": "Kostenloses Gemüse und Produkte für die Gemeinschaft"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Space for houseless feedings by partners",
+        "fr": "Espace pour les repas des sans-abri organisés par des partenaires",
+        "es": "Espacio para alimentación de personas sin hogar por parte de socios",
+        "de": "Raum für Essensversorgung von Obdachlosen durch Partner"
+      }
+    },
+    {
+      "icon": "community",
+      "label": {
+        "en": "Back to school and holiday drives",
+        "fr": "Collectes pour la rentrée scolaire et les fêtes",
+        "es": "Campañas de regreso a clases y días festivos",
+        "de": "Schulstart- und Feiertagsaktionen"
       }
     },
     {
       "icon": "education",
       "label": {
-        "en": "Horticulture and Nutrition Education for Youth",
-        "fr": "Éducation en horticulture et nutrition pour les jeunes",
-        "es": "Educación en horticultura y nutrición para jóvenes",
-        "de": "Gartenbau- und Ernährungsbildung für Jugendliche"
+        "en": "Nursery for student gardening learning",
+        "fr": "Pépinière pour l'apprentissage du jardinage par les élèves",
+        "es": "Vivero para el aprendizaje de jardinería estudiantil",
+        "de": "Gärtnerei für das Gartenlernen von Schülern"
       }
     },
     {
-      "icon": "space",
+      "icon": "community",
       "label": {
-        "en": "Space for Partner Organizations (Feeding Programs, Wellness)",
-        "fr": "Espace pour organisations partenaires (programmes alimentaires, bien-être)",
-        "es": "Espacio para organizaciones socias (programas de alimentación, bienestar)",
-        "de": "Raum für Partnerorganisationen (Ernährungsprogramme, Wellness)"
+        "en": "Open sanctuary space for all visitors",
+        "fr": "Espace sanctuaire ouvert à tous les visiteurs",
+        "es": "Espacio santuario abierto para todos los visitantes",
+        "de": "Offener Schutzraum für alle Besucher"
       }
     },
     {
-      "icon": "nursery",
+      "icon": "zerowaste",
       "label": {
-        "en": "Educational Nursery for Practical Learning (In Development)",
-        "fr": "Pépinière éducative pour apprentissage pratique (en développement)",
-        "es": "Vivero educativo para aprendizaje práctico (en desarrollo)",
-        "de": "Bildungsgärtnerei für praktisches Lernen (in Entwicklung)"
+        "en": "Organic food grown without harmful chemicals",
+        "fr": "Aliments biologiques cultivés sans produits chimiques nocifs",
+        "es": "Alimentos orgánicos cultivados sin químicos dañinos",
+        "de": "Bio-Lebensmittel ohne schädliche Chemikalien angebaut"
       }
     }
   ],
@@ -125,37 +171,55 @@
     {
       "icon": "funding",
       "label": {
-        "en": "Consistent Funding Sources for Operations and Security",
-        "fr": "Sources de financement stables pour les opérations et la sécurité",
-        "es": "Fuentes de financiamiento consistentes para operaciones y seguridad",
-        "de": "Beständige Finanzierungsquellen für Betrieb und Sicherheit"
-      }
-    },
-    {
-      "icon": "board",
-      "label": {
-        "en": "Board Members to Rebuild Governance Capacity",
-        "fr": "Membres du conseil pour reconstruire la capacité de gouvernance",
-        "es": "Miembros de junta para reconstruir capacidad de gobernanza",
-        "de": "Vorstandsmitglieder zum Wiederaufbau der Führungskapazität"
+        "en": "Grants for garden operations and resources",
+        "fr": "Subventions pour les opérations et les ressources du jardin",
+        "es": "Subvenciones para operaciones y recursos del jardín",
+        "de": "Fördergelder für den Gartenbetrieb und Ressourcen"
       }
     },
     {
       "icon": "volunteers",
       "label": {
-        "en": "Regular Volunteers for Garden Maintenance and Programs",
-        "fr": "Bénévoles réguliers pour l'entretien du jardin et les programmes",
-        "es": "Voluntarios regulares para mantenimiento del jardín y programas",
-        "de": "Regelmäßige Freiwillige für Gartenpflege und Programme"
+        "en": "Regular volunteers for garden maintenance",
+        "fr": "Bénévoles réguliers pour l'entretien du jardin",
+        "es": "Voluntarios regulares para el mantenimiento del jardín",
+        "de": "Regelmäßige Freiwillige für die Gartenpflege"
       }
     },
     {
       "icon": "partners",
       "label": {
-        "en": "Additional Partner Organizations for Community Programs",
-        "fr": "Organisations partenaires supplémentaires pour programmes communautaires",
-        "es": "Organizaciones socias adicionales para programas comunitarios",
-        "de": "Zusätzliche Partnerorganisationen für Gemeinschaftsprogramme"
+        "en": "Community orgs to use space as vessel",
+        "fr": "Organisations communautaires pour utiliser l'espace comme lieu d'accueil",
+        "es": "Organizaciones comunitarias para usar el espacio como medio",
+        "de": "Gemeinschaftsorganisationen, die den Raum als Treffpunkt nutzen"
+      }
+    },
+    {
+      "icon": "adoption",
+      "label": {
+        "en": "More community members to grow own food",
+        "fr": "Plus de membres de la communauté pour cultiver leur propre nourriture",
+        "es": "Más miembros de la comunidad para cultivar su propio alimento",
+        "de": "Mehr Gemeindemitglieder, die eigene Lebensmittel anbauen"
+      }
+    },
+    {
+      "icon": "research",
+      "label": {
+        "en": "University partnerships for nursery education",
+        "fr": "Partenariats universitaires pour l'éducation en pépinière",
+        "es": "Asociaciones universitarias para educación en viveros",
+        "de": "Universitätspartnerschaften für die Ausbildung in der Baumschule"
+      }
+    },
+    {
+      "icon": "policy",
+      "label": {
+        "en": "Governmental support for Overtown food access",
+        "fr": "Soutien gouvernemental pour l'accès à la nourriture à Overtown",
+        "es": "Apoyo gubernamental para el acceso a alimentos en Overtown",
+        "de": "Staatliche Unterstützung für den Lebensmittelzugang in Overtown"
       }
     }
   ],
