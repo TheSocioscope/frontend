@@ -614,6 +614,9 @@ collections:
           - { label: 'Systems Science', value: 'systems-science' }
           - { label: 'Nutrition', value: 'nutrition' }
           - { label: 'Biotechnology', value: 'biotechnology' }
+          - { label: 'Chemical Sciences', value: 'chemical-sciences' }
+          - { label: 'Economic & Business', value: 'economic-business' }
+          - { label: 'Educational Sciences', value: 'educational-sciences' }
           - { label: 'Food Technology', value: 'food-technology' }
           - { label: 'Energy Transition', value: 'energy-transition' }
       - label: 'Thematics'
@@ -672,6 +675,7 @@ collections:
           - { label: 'Security, Violence, Crime', value: 'security-violence-crime' }
           - { label: 'Welfare, Work, Social protection', value: 'welfare-work-social-protection' }
           - { label: 'Industry', value: 'industry' }
+          - { label: 'Energy Transition', value: 'energy-transition' }
       - label: 'Types'
         name: 'type'
         widget: 'select'
