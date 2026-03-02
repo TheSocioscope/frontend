@@ -7,7 +7,7 @@ description: The Bwyd Sir Gar Food Partnership is a local initiative in
   communities and stakeholders to develop a diverse, inclusive, and sustainable
   food system. Its initiatives focus on improving access to food, promoting
   local sourcing, and supporting disadvantaged communities.
-featured: false
+featured: true
 published: true
 publishedAt: 2026-03-02T11:53:00.000+01:00
 ---
