@@ -34,55 +34,18 @@
 const { t: $t, locale } = useI18n()
 const localePath = useLocalePath()
 
-// Fallback stories from i18n
-const fallbackStories = [
-  {
-    title: $t('stories.video1.title'),
-    description: $t('stories.video1.description')
-  },
-  {
-    title: $t('stories.video2.title'),
-    description: $t('stories.video2.description')
-  },
-  {
-    title: $t('stories.video3.title'),
-    description: $t('stories.video3.description')
-  },
-  {
-    title: $t('stories.video4.title'),
-    description: $t('stories.video4.description')
-  },
-  {
-    title: $t('stories.video5.title'),
-    description: $t('stories.video5.description')
-  },
-  {
-    title: $t('stories.video6.title'),
-    description: $t('stories.video6.description')
-  }
-]
-
 // Fetch stories from content
 const { data: stories } = await useAsyncData(
   'stories',
-  async () => {
-    try {
-      const content = await queryContent(`stories/${locale.value}`)
-        .where({ published: true })
-        .sort({ publishedAt: -1 })
-        .limit(6)
-        .find()
-      return content
-    } catch (e) {
-      return null
-    }
-  },
-  { watch: [locale], default: () => null }
+  () => queryContent(`stories/${locale.value}`)
+    .where({ published: true })
+    .sort({ publishedAt: -1 })
+    .limit(6)
+    .find(),
+  { watch: [locale] }
 )
 
-const displayedStories = computed(() => {
-  return stories.value && stories.value.length > 0 ? stories.value : fallbackStories
-})
+const displayedStories = computed(() => stories.value ?? [])
 </script>
 
 <style scoped lang="scss">
