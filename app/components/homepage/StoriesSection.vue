@@ -38,7 +38,6 @@ const localePath = useLocalePath()
 const { data: stories } = await useAsyncData(
   'stories',
   () => queryContent(`stories/${locale.value}`)
-    .where({ published: true })
     .sort({ publishedAt: -1 })
     .limit(6)
     .find(),
