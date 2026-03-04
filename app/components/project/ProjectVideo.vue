@@ -1,9 +1,8 @@
 <template>
   <v-card v-if="project.yt" class="project-video">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-video-outline</v-icon>
+    <ProjectSectionHeader icon="mdi-video-outline">
       {{ $t('projects.detail.video') }}
-    </v-card-title>
+    </ProjectSectionHeader>
     <v-card-text>
       <div class="video-container">
         <iframe
@@ -29,15 +28,6 @@ const { t: $t } = useI18n()
 <style scoped lang="scss">
 .project-video {
   margin-bottom: 2rem;
-}
-
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
 }
 
 .video-container {

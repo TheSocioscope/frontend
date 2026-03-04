@@ -1,9 +1,8 @@
 <template>
   <v-card class="project-offers mb-4" elevation="2" id="offers">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-box-open</v-icon>
+    <ProjectSectionHeader icon="mdi-offer">
       {{ $t('projects.detail.offers') }}
-    </v-card-title>
+    </ProjectSectionHeader>
 
     <v-card-text>
       <div class="products-grid">
@@ -51,12 +50,6 @@ const getEmoji = (icon?: string) => {
 </script>
 
 <style scoped lang="scss">
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: #27421d;
-}
-
 .products-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));

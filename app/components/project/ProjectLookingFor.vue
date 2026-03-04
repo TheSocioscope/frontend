@@ -1,9 +1,8 @@
 <template>
   <v-card class="project-looking-for mb-4" elevation="2" id="lookingFor">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-magnify</v-icon>
+    <ProjectSectionHeader icon="mdi-magnify">
       {{ $t('projects.detail.lookingFor') }}
-    </v-card-title>
+    </ProjectSectionHeader>
 
     <v-card-text>
       <div class="offering-items">
@@ -39,12 +38,6 @@ const getEmoji = (icon?: string) => {
 </script>
 
 <style scoped lang="scss">
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: #27421d;
-}
-
 .offering-items {
   display: flex;
   flex-wrap: wrap;

@@ -1,9 +1,8 @@
 <template>
   <v-card id="about" class="project-about">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-information-outline</v-icon>
+    <ProjectSectionHeader icon="mdi-information-outline">
       {{ $t('projects.detail.about') }}
-    </v-card-title>
+    </ProjectSectionHeader>
     <v-card-text>
       <div class="description-content" v-html="localizedDescription" />
 
@@ -48,15 +47,6 @@ const { t: $t } = useI18n()
 <style scoped lang="scss">
 .project-about {
   margin-bottom: 2rem;
-}
-
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
 }
 
 .description-content {

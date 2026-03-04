@@ -1,9 +1,8 @@
 <template>
   <v-card class="project-timeline mb-4" elevation="2" id="milestones">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2" color="#4ca049">mdi-flag-checkered</v-icon>
+    <ProjectSectionHeader icon="mdi-timeline-text">
       {{ $t('projects.detail.timeline') }}
-    </v-card-title>
+    </ProjectSectionHeader>
 
     <v-card-text class="px-4 pb-6">
       <v-timeline
@@ -44,12 +43,6 @@ const { t: $t } = useI18n()
 </script>
 
 <style scoped lang="scss">
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 600;
-  color: #27421d;
-}
-
 .milestone-item {
   opacity: 0;
   animation: fadeInLeft 0.5s ease-out forwards;

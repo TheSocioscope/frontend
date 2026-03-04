@@ -1,9 +1,8 @@
 <template>
   <v-card class="project-share">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-share-variant-outline</v-icon>
+    <ProjectSectionHeader icon="mdi-share-variant-outline">
       {{ $t('projects.detail.share') }}
-    </v-card-title>
+    </ProjectSectionHeader>
     <v-card-text>
       <div class="share-content">
         <p class="share-description">
@@ -113,15 +112,6 @@ const copyLink = async () => {
 <style scoped lang="scss">
 .project-share {
   margin-bottom: 2rem;
-}
-
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
 }
 
 .share-content {

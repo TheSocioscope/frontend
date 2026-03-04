@@ -1,9 +1,8 @@
 <template>
   <v-card v-if="resolvedGallery && resolvedGallery.length > 0" id="gallery" class="project-gallery">
-    <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-image-multiple-outline</v-icon>
+    <ProjectSectionHeader icon="mdi-image-multiple-outline">
       {{ $t('projects.detail.gallery') }}
-    </v-card-title>
+    </ProjectSectionHeader>
     <v-card-text>
       <v-row>
         <v-col v-for="(item, index) in resolvedGallery" :key="index" cols="12" sm="6" md="4">
@@ -139,15 +138,6 @@ onMounted(() => {
 <style scoped lang="scss">
 .project-gallery {
   margin-bottom: 2rem;
-}
-
-.section-title {
-  font-size: 1.5rem;
-  font-weight: 700;
-  display: flex;
-  align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
 }
 
 .gallery-item {
