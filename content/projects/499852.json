@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Proyecto Utopía es una iniciativa educativa y social desarrollada por la Universidad de La Salle en Colombia, ubicada en Yopal, Casanare. El objetivo principal de este proyecto es formar a jóvenes de zonas rurales afectadas por el conflicto armado o con dificultades socioeconómicas para que se conviertan en agrónomos y líderes transformacionales en sus comunidades.",
     "de": "Das Utopia-Projekt ist eine Bildungs- und Sozialinitiative der La Salle Universität in Kolumbien mit Sitz in Yopal, Casanare. Das Hauptziel dieses Projekts ist es, junge Menschen aus ländlichen Gebieten, die vom bewaffneten Konflikt betroffen sind oder sozioökonomische Schwierigkeiten haben, zu Agronomen und transformativen Führungskräften in ihren Gemeinschaften auszubilden."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "en",
   "location": "Yopal, Casanare",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Fernando Molano"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.utopia.edu.co/es",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "Mid-1500s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Juan Bautista de la Salle founded the Institute of the Brothers of the Christian Schools in Reims, France, with a mission to provide quality education to children of artisans who lacked access to schooling.",
         "fr": "Juan Bautista de la Salle a fondé l'Institut des Frères des Écoles Chrétiennes à Reims, en France, avec pour mission d'offrir une éducation de qualité aux enfants d'artisans qui n'avaient pas accès à la scolarisation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1964",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The University of La Salle was founded in Colombia, building on 130 years of Lasallian presence in the country and a tradition linked to natural sciences, rural development, and research.",
         "fr": "L'Université de La Salle a été fondée en Colombie, s'appuyant sur 130 ans de présence lasallienne dans le pays et une tradition liée aux sciences naturelles, au développement rural et à la recherche.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2008-2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Brother Carlos Gómez Restrepo, upon becoming rector of the University of La Salle in 2008, formally launched the Utopía project and the university invested approximately $9 million USD to purchase land, construct facilities, and fund the first 60 scholarships in Yopal, Casanare.",
         "fr": "Le frère Carlos Gómez Restrepo, en devenant recteur de l'Université de La Salle en 2008, a officiellement lancé le projet Utopía et l'université a investi environ 9 millions de dollars USD pour acquérir des terrains, construire des installations et financer les 60 premières bourses à Yopal, Casanare.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Utopía officially opened its doors, welcoming its first cohort of 60 rural youth from conflict-affected regions as fully funded students in agronomy and agricultural engineering.",
         "fr": "Utopía a officiellement ouvert ses portes, accueillant sa première cohorte de 60 jeunes ruraux issus de régions touchées par les conflits en tant qu'étudiants entièrement boursiers en agronomie et en génie agricole.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2011-2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The University created a dedicated Office of Philanthropy and External Financing to seek outside funding for Utopía, raising approximately $14 million USD over the following years from financial institutions, the hydrocarbon sector, and foundations.",
         "fr": "L'Université a créé un Bureau dédié à la Philanthropie et au Financement Externe afin de rechercher des financements extérieurs pour Utopía, levant environ 14 millions de dollars USD au cours des années suivantes auprès d'institutions financières, du secteur des hydrocarbures et de fondations.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Utopía had graduated 445 professional engineers across 29 departments and 266 municipalities, with 217 active scholarship students enrolled, and was pursuing expansion toward 100 students per annual cohort under the Utopía 400 plan.",
         "fr": "Utopía avait diplômé 445 ingénieurs professionnels dans 29 départements et 266 municipalités, avec 217 étudiants boursiers actifs inscrits, et poursuivait une expansion vers 100 étudiants par cohorte annuelle dans le cadre du plan Utopía 400.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Full scholarship for rural youth in Colombia",
         "fr": "Bourse complète pour les jeunes ruraux en Colombie",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Professional degrees in agronomy and agriculture",
         "fr": "Diplômes professionnels en agronomie et agriculture",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Leadership development for territorial transformation",
         "fr": "Développement du leadership pour la transformation territoriale",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Seed capital for productive rural projects",
         "fr": "Capital de démarrage pour des projets ruraux productifs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Impact measurement of graduate outcomes",
         "fr": "Mesure de l'impact des résultats des diplômés",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Rural campus model replicable internationally",
         "fr": "Modèle de campus rural reproductible à l'international",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Philanthropic donors and endowment capital",
         "fr": "Donateurs philanthropiques et capital de dotation",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government allies for model replication",
         "fr": "Alliés gouvernementaux pour la réplication du modèle",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "External partners for impact measurement",
         "fr": "Partenaires externes pour la mesure de l'impact",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "International institutions to replicate model",
         "fr": "Institutions internationales pour répliquer le modèle",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agribusiness sector sponsoring student scholarships",
         "fr": "Secteur agro-industriel finançant des bourses pour étudiants",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Rural youth candidates for annual cohorts",
         "fr": "Jeunes ruraux candidats pour les cohortes annuelles",

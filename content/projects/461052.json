@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754561688,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Deep Agro es una empresa innovadora que aprovecha la inteligencia artificial para hacer frente a los retos de la agricultura, especialmente en el control de las malas hierbas. Fundada en 2017, su objetivo es optimizar el uso de productos agroquímicos, reduciendo los residuos y el impacto medioambiental. Mediante el desarrollo de tecnologías y algoritmos avanzados, Deep Agro permite aplicaciones de herbicidas específicas, mejorando significativamente la eficiencia para los agricultores. Con un enfoque en la sostenibilidad, la empresa está expandiendo sus soluciones a diversos cultivos y mercados, esforzándose por revolucionar las prácticas agrícolas a nivel mundial.",
     "de": "Deep Agro ist ein innovatives Unternehmen, das künstliche Intelligenz einsetzt, um Herausforderungen in der Landwirtschaft zu bewältigen, insbesondere bei der Unkrautbekämpfung. Das 2017 gegründete Unternehmen zielt darauf ab, den Einsatz von Agrochemikalien zu optimieren, Abfall zu reduzieren und die Umweltbelastung zu verringern. Durch die Entwicklung fortschrittlicher Technologien und Algorithmen ermöglicht Deep Agro gezielte Herbizidanwendungen, wodurch die Effizienz für Landwirte deutlich verbessert wird. Mit einem Fokus auf Nachhaltigkeit erweitert das Unternehmen seine Lösungen auf verschiedene Kulturpflanzen und Märkte und strebt danach, die landwirtschaftlichen Praktiken weltweit zu revolutionieren."
   },
-  "field": [
-    "nutrition",
-    "information-technology"
-  ],
+  "field": ["nutrition", "information-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Regali"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.deepagro.com.ar/index.html#counts",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "DeepAgro originated as a computer science undergraduate thesis by founder Juan Manuel, combining AI algorithms with agricultural problems observed through his father's farming operation. The project won the first agricultural hackathon held in Argentina, held in Rosario.",
         "fr": "DeepAgro est né comme un projet de fin d'études en informatique par le fondateur Juan Manuel, combinant des algorithmes d'IA avec des problèmes agricoles observés à travers l'exploitation agricole de son père. Le projet a remporté le premier hackathon agricole organisé en Argentine, tenu à Rosario.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The five co-founders formally established DeepAgro, setting up offices in Rosario and joining the Endeavor entrepreneurship network. Operations launched just before the COVID-19 pandemic, which brought significant import restrictions on electronic components.",
         "fr": "Les cinq cofondateurs ont officiellement créé DeepAgro, en établissant des bureaux à Rosario et en rejoignant le réseau entrepreneurial Endeavor. Les opérations ont été lancées juste avant la pandémie de COVID-19, qui a entraîné d'importantes restrictions à l'importation de composants électroniques.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "DeepAgro closed its first investment round in August 2020, raising $800,000 USD after initially targeting only $150,000. This funding enabled the company to hire staff and advance the product from MVP to a near-commercial state.",
         "fr": "DeepAgro a clôturé son premier tour de financement en août 2020, levant 800 000 USD alors qu'il ne visait initialement que 150 000 USD. Ce financement a permis à l'entreprise de recruter du personnel et de faire passer le produit d'un MVP à un état quasi commercial.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Spray product was officially launched commercially at Expoagro, one of Argentina's most important agricultural trade fairs. From the first commercial year, the Argentine operation reached break-even.",
         "fr": "Le produit Spray a été officiellement lancé commercialement à l'Expoagro, l'un des salons agricoles les plus importants d'Argentine. Dès la première année commerciale, l'opération argentine a atteint l'équilibre financier.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "DeepAgro closed a second investment round of $2 million USD to fund international market expansion into Brazil and the United States. The company also formalized a strategic alliance with Crucianelli group's subsidiary Lyft Agrotronics for hardware manufacturing and commercial distribution.",
         "fr": "DeepAgro a clôturé un deuxième tour de financement de 2 millions USD pour financer l'expansion sur les marchés internationaux au Brésil et aux États-Unis. L'entreprise a également formalisé une alliance stratégique avec la filiale Lyft Agrotronics du groupe Crucianelli pour la fabrication de matériel et la distribution commerciale.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "With 65 machines installed across Argentina, Uruguay, Brazil, and the USA covering approximately 500,000 hectares, DeepAgro began pursuing B Corporation certification and preparing to open a presence in Europe, while developing algorithms for new crops including cotton, peanut, and sugarcane.",
         "fr": "Avec 65 machines installées en Argentine, en Uruguay, au Brésil et aux États-Unis couvrant environ 500 000 hectares, DeepAgro a entrepris d'obtenir la certification B Corporation et de préparer une présence en Europe, tout en développant des algorithmes pour de nouvelles cultures, notamment le coton, l'arachide et la canne à sucre.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "AI algorithms for crop weed detection",
         "fr": "Algorithmes d'IA pour la détection des mauvaises herbes dans les cultures",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Selective herbicide application reducing chemical use",
         "fr": "Application sélective d'herbicides réduisant l'utilisation de produits chimiques",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Smart spraying system for agricultural machinery",
         "fr": "Système de pulvérisation intelligent pour les machines agricoles",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "AI courses at UBA and UNR universities",
         "fr": "Cours d'IA dans les universités UBA et UNR",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Red Selectiva farmer feedback network",
         "fr": "Réseau de retour d'information des agriculteurs Red Selectiva",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agricultural data platform for third-party use",
         "fr": "Plateforme de données agricoles pour une utilisation par des tiers",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International expansion into Brazil and USA",
         "fr": "Expansion internationale au Brésil et aux États-Unis",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances with agro machinery companies",
         "fr": "Alliances stratégiques avec des entreprises de machinerie agricole",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Producers adopting selective herbicide technology",
         "fr": "Producteurs adoptant la technologie des herbicides sélectifs",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Risk capital for new market penetration",
         "fr": "Capital-risque pour la pénétration de nouveaux marchés",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Algorithm development for new crops and insects",
         "fr": "Développement d'algorithmes pour de nouvelles cultures et insectes",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Empresa B sustainability certification",
         "fr": "Certification de durabilité Empresa B",

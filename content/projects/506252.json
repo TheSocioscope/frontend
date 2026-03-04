@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "VELOZBIO develops animal-free proteins using plant-based metabolic processes, replicating functional properties of egg and dairy proteins.",
     "de": "VELOZBIO develops animal-free proteins using plant-based metabolic processes, replicating functional properties of egg and dairy proteins."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "es",
   "location": "Monterrey, Nuevo León",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Margarita López"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.velozbio.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Veloz Bio was founded in January 2022 by Enrique, Flavio, and Margarita, after the founding idea was submitted to and funded by the accelerator Indivio. Margarita joined as technology coordinator after being connected through a mutual friend while working as a postdoctoral researcher at Tec de Monterrey.",
         "fr": "Veloz Bio a été fondée en janvier 2022 par Enrique, Flavio et Margarita, après que l'idée fondatrice a été soumise et financée par l'accélérateur Indivio. Margarita a rejoint l'équipe en tant que coordinatrice technologique après avoir été mise en relation par un ami commun alors qu'elle travaillait comme chercheuse postdoctorale au Tec de Monterrey.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team achieved their first major technical milestone by successfully expressing and validating their first recombinant casein protein (kappa-casein) in plant seeds. This proof of concept validated the production platform and opened the path toward more complex protein development.",
         "fr": "L'équipe a atteint sa première grande étape technique en exprimant et validant avec succès sa première protéine caséine recombinante (kappa-caséine) dans des graines de plantes. Cette preuve de concept a validé la plateforme de production et a ouvert la voie vers le développement de protéines plus complexes.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Veloz Bio secured a seed capital investment round, with their principal investor being Azola Ventures, a climate-focused fund based in Boston. This funding allowed the company to expand its team to 15 people across five research areas.",
         "fr": "Veloz Bio a obtenu un tour de table en capital d'amorçage, avec comme investisseur principal Azola Ventures, un fonds axé sur le climat basé à Boston. Ce financement a permis à l'entreprise d'élargir son équipe à 15 personnes réparties sur cinq domaines de recherche.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Early 2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team successfully expressed all four caseins together for the first time in the first quarter of the year, marking a critical scientific breakthrough after years of incremental progress.",
         "fr": "L'équipe a réussi pour la première fois à exprimer les quatre caséines ensemble au cours du premier trimestre de l'année, marquant une avancée scientifique décisive après des années de progrès progressifs.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company faced a significant setback when a potential client used their product samples for competitive intelligence without providing feedback or entering a commercial agreement, prompting the team to enforce formal agreements before sharing samples.",
         "fr": "L'entreprise a subi un revers important lorsqu'un client potentiel a utilisé ses échantillons de produits à des fins de veille concurrentielle sans fournir de retour ni conclure d'accord commercial, poussant l'équipe à imposer des accords formels avant tout partage d'échantillons.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2026",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The pilot plant is expected to be operational by April or May 2026, with equipment already being acquired and installed. The company plans to finalize its ingredient portfolio by end of 2025 and begin commercial scale validation shortly after.",
         "fr": "L'usine pilote devrait être opérationnelle en avril ou mai 2026, avec des équipements déjà en cours d'acquisition et d'installation. L'entreprise prévoit de finaliser son portefeuille d'ingrédients d'ici fin 2025 et de commencer la validation à l'échelle commerciale peu après.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Alternative proteins for dairy industry ingredients",
         "fr": "Protéines alternatives pour les ingrédients de l'industrie laitière",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Sustainable protein extraction from legume seeds",
         "fr": "Extraction durable de protéines à partir de graines de légumineuses",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Functional ingredients for food companies",
         "fr": "Ingrédients fonctionnels pour les entreprises agroalimentaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot plant to validate production processes",
         "fr": "Usine pilote pour valider les procédés de production",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Technical expertise shared within investor network",
         "fr": "Expertise technique partagée au sein du réseau d'investisseurs",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Non-dilutive investment funds for biotech",
         "fr": "Fonds d'investissement non dilutifs pour la biotech",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with food industry companies",
         "fr": "Alliances avec des entreprises de l'industrie alimentaire",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Direct partnerships with legume producers",
         "fr": "Partenariats directs avec des producteurs de légumineuses",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Clients for alternative dairy ingredients",
         "fr": "Clients pour des ingrédients laitiers alternatifs",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technical collaborations for protein development",
         "fr": "Collaborations techniques pour le développement de protéines",

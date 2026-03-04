@@ -5,13 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe",
-    "asia"
-  ],
-  "country": [
-    "georgia"
-  ],
+  "continent": ["europe", "asia"],
+  "country": ["georgia"],
   "createdAt": 1754657263,
   "date": null,
   "description": {
@@ -20,9 +15,7 @@
     "es": "El proyecto Parki ar Minda se dedica a mejorar la gestión de residuos en Georgia, recogiendo y clasificando diversos tipos de residuos, como plásticos, papel y vidrio. Tras comenzar en 2016 con la recogida de plásticos, ahora gestionan 15 tipos de residuos diferentes. Operando principalmente en Tiflis, ofrecen un servicio de Eco Taxi para particulares y empresas para facilitar la recogida de residuos. Sus planes de futuro incluyen ampliar los tipos de residuos que recogen en función de las capacidades de las fábricas de reciclaje.     ",
     "de": "Das Projekt Parki ar Minda widmet sich der Verbesserung des Abfallmanagements in Georgien, indem es verschiedene Arten von Abfall sammelt und sortiert, darunter Kunststoffe, Papier und Glas. Ursprünglich begannen sie 2016 mit der Sammlung von Kunststoffen, mittlerweile kümmern sie sich um 15 verschiedene Abfallarten. Sie arbeiten hauptsächlich in Tbilisi und bieten einen Eco-Taxi-Service für Einzelpersonen und Unternehmen an, um die Abfallsammlung zu erleichtern. Zukünftige Pläne beinhalten die Erweiterung der Abfallarten, die sie sammeln, basierend auf den Kapazitäten der Recycling-Fabriken.     "
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "Kheladze"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "cities-mobility-urban-planning"
-  ],
+  "thematic": ["ecology-environmental-change", "cities-mobility-urban-planning"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/parkiarminda.ge/about?locale=ka_GE",
   "yt": "7tfLSGpkP5U",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Parke Arminda was founded in Tbilisi with a mission to reduce waste in Georgia, initially focused on education and producing reusable fabric bags as an alternative to plastic bags.",
         "fr": "Parke Arminda a été fondée à Tbilissi avec pour mission de réduire les déchets en Géorgie, en se concentrant initialement sur l'éducation et la production de sacs en tissu réutilisables comme alternative aux sacs en plastique.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic paused all educational events but sparked the creation of the Eco Taxi service, as people in quarantine could no longer access existing collection points.",
         "fr": "La pandémie de COVID-19 a mis en pause tous les événements éducatifs, mais a donné naissance au service Eco Taxi, les personnes en quarantaine ne pouvant plus accéder aux points de collecte existants.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The war in Ukraine triggered explosive growth, with garage visits increasing roughly twelvefold as newly arrived expats sought familiar recycling routines; Eco Taxi orders quadrupled within a year.",
         "fr": "La guerre en Ukraine a déclenché une croissance explosive, avec une multiplication par environ douze des visites au garage, les expatriés nouvellement arrivés cherchant à retrouver leurs habitudes de recyclage ; les commandes Eco Taxi ont quadruplé en l'espace d'un an.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Parke Arminda served as a key implementer in a UNDP pilot project to introduce separate plastic collection in Tbilisi and Batumi, collaborating with the municipal waste operator Tbilisi Service Group.",
         "fr": "Parke Arminda a joué un rôle clé dans un projet pilote du PNUD visant à introduire la collecte séparée du plastique à Tbilissi et Batoumi, en collaboration avec l'opérateur municipal de gestion des déchets Tbilisi Service Group.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The organization joined a European Commission grant project led by People in Need and the Red Cross to establish Georgia's first food bank, with Parke Arminda responsible for research and communication on food waste reduction.",
         "fr": "L'organisation a rejoint un projet de subvention de la Commission européenne dirigé par People in Need et la Croix-Rouge pour créer la première banque alimentaire de Géorgie, Parke Arminda étant responsable de la recherche et de la communication sur la réduction du gaspillage alimentaire.",
@@ -105,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Parke Arminda launched a mobile garage format, bringing temporary collection stations to city districts lacking fixed points, and initiated its first collaboration with Georgian juice brand Kampa on a reuse system.",
         "fr": "Parke Arminda a lancé un format de garage mobile, apportant des stations de collecte temporaires dans les quartiers de la ville dépourvus de points fixes, et a initié sa première collaboration avec la marque géorgienne de jus Kampa sur un système de réemploi.",
@@ -116,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Waste collection and sorting service",
         "fr": "Service de collecte et de tri des déchets",
@@ -125,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Eco taxi pickup for recyclables",
         "fr": "Éco-taxi pour la collecte des matières recyclables",
@@ -134,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free drop-off garage points in neighborhoods",
         "fr": "Points de dépôt gratuits dans les quartiers",
@@ -143,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops and lectures on recycling",
         "fr": "Ateliers et conférences sur le recyclage",
@@ -152,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Mobile recycling stations in underserved districts",
         "fr": "Stations de recyclage mobiles dans les quartiers défavorisés",
@@ -161,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Behavioral research for food waste reduction",
         "fr": "Recherche comportementale pour la réduction du gaspillage alimentaire",
@@ -172,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Recycling factory partners for new waste types",
         "fr": "Partenaires d'usines de recyclage pour de nouveaux types de déchets",
@@ -181,7 +169,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers for garage and operations support",
         "fr": "Bénévoles pour le soutien au garage et aux opérations",
@@ -190,7 +178,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sponsors and private donors for operational costs",
         "fr": "Sponsors et donateurs privés pour les coûts opérationnels",
@@ -199,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate collaborators for educational workshops",
         "fr": "Collaborateurs d'entreprises pour des ateliers éducatifs",
@@ -208,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Georgian residents to adopt waste sorting habits",
         "fr": "Résidents géorgiens pour adopter des habitudes de tri des déchets",
@@ -217,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Reuse and refill system partners like Kampa",
         "fr": "Partenaires de systèmes de réutilisation et de recharge comme Kampa",
@@ -259,9 +247,7 @@
     }
   ],
   "editedAt": 1771239664,
-  "updatedAt": [
-    1771239664
-  ],
+  "updatedAt": [1771239664],
   "feedback": [
     {
       "content": false,

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754568713,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Dudu Master es una iniciativa innovadora centrada en la agricultura sostenible mediante la cría de insectos, en particular moscas soldado negras y lombrices rojas. Fundado por Jennifer, entomóloga de formación, el proyecto transforma los residuos orgánicos en valiosos recursos como fertilizantes orgánicos y piensos para animales. Dudu Master también ofrece formación y kits de iniciación para capacitar a los agricultores y los hogares, promoviendo una economía circular que mejora la salud del suelo y la seguridad alimentaria al tiempo que reduce la dependencia de los fertilizantes sintéticos.",
     "de": "Dudu Master ist eine innovative Initiative, die sich auf nachhaltige Landwirtschaft durch Insektenfarming konzentriert, insbesondere schwarze Soldatenfliege und rote Erdraupen. Das Projekt wurde von Jennifer, einer ausgebildeten Insektenforscherin, gegründet und verwandelt organische Abfälle in wertvolle Ressourcen wie organischen Dünger und Tierfutter. Dudu Master bietet auch Schulungen und Starterkits an, um Landwirte und Haushalte zu stärken und eine Kreislaufwirtschaft zu fördern, die die Bodengesundheit und Nahrungsmittelsicherheit verbessert und gleichzeitig die Abhängigkeit von künstlichen Düngemitteln verringert."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,14 +34,9 @@
       "lastname": "Muthike"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://dudumasters.com/about-us/",
   "yt": "JUihGr5ut5M",
   "editedAt": 1760066647,
@@ -58,9 +46,7 @@
       "at": 1760066647
     }
   ],
-  "updatedAt": [
-    1760066647
-  ],
+  "updatedAt": [1760066647],
   "originalLang": "en",
   "gallery": [
     {
@@ -96,7 +82,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Weekly paid insect farming training sessions",
         "fr": "Sessions de formation hebdomadaires rémunérées sur l'élevage d'insectes",
@@ -105,7 +91,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic vermicompost fertilizer for farmers",
         "fr": "Engrais de vermicompost biologique pour les agriculteurs",
@@ -114,7 +100,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demo farm showing insect farming results",
         "fr": "Ferme de démonstration montrant les résultats de l'élevage d'insectes",
@@ -123,7 +109,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Starter kit with insects and eggs included",
         "fr": "Kit de démarrage avec insectes et œufs inclus",
@@ -132,7 +118,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Design and setup of integrated insect farms",
         "fr": "Conception et mise en place de fermes d'insectes intégrées",
@@ -141,7 +127,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Virtual chatbot assistant for insect farmers",
         "fr": "Assistant chatbot virtuel pour les éleveurs d'insectes",
@@ -152,7 +138,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers to adopt household insect farming",
         "fr": "Agriculteurs pour adopter l'élevage d'insectes à domicile",
@@ -161,7 +147,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for East Africa expansion",
         "fr": "Collaborateurs pour l'expansion en Afrique de l'Est",
@@ -170,7 +156,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Feed millers to offtake insect protein",
         "fr": "Fabricants d'aliments pour animaux pour l'achat de protéines d'insectes",
@@ -179,7 +165,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants or awards for institutional development",
         "fr": "Subventions ou récompenses pour le développement institutionnel",
@@ -188,7 +174,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government support for organic fertilizer certification",
         "fr": "Soutien gouvernemental pour la certification des engrais biologiques",
@@ -197,7 +183,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "AI and automated climate control integration",
         "fr": "Intégration de l'IA et du contrôle climatique automatisé",
@@ -209,7 +195,7 @@
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jennifer Muthike founded Dudo Masters immediately after graduating with an entomology degree, starting with a small insect farming setup at her grandmother's house. She initially trained farmers for free and began consultancy work after receiving recommendations from ICIPE.",
         "fr": "Jennifer Muthike a fondé Dudo Masters immédiatement après avoir obtenu son diplôme en entomologie, en commençant par une petite installation d'élevage d'insectes chez sa grand-mère. Elle a d'abord formé des agriculteurs gratuitement et a commencé à travailler comme consultante après avoir reçu des recommandations de l'ICIPE.",
@@ -219,7 +205,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Dudo Masters Ltd was formally registered as a company. Jennifer began offering structured consultancy, design, and setup services for insect farms across Kenya and into East Africa including Rwanda, Tanzania, and Uganda.",
         "fr": "Dudo Masters Ltd a été officiellement enregistrée en tant qu'entreprise. Jennifer a commencé à proposer des services structurés de conseil, de conception et d'installation de fermes d'insectes à travers le Kenya et en Afrique de l'Est, notamment au Rwanda, en Tanzanie et en Ouganda.",
@@ -229,7 +215,7 @@
     },
     {
       "date": "2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Dudo Masters won a US$5,000 grant from the World Resource Institute Land Accelerator Program, enabling investment in machinery and improved farm setup.",
         "fr": "Dudo Masters a remporté une subvention de 5 000 USD du programme Land Accelerator du World Resources Institute, permettant d'investir dans des machines et d'améliorer l'installation des fermes.",
@@ -239,7 +225,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Dudo Masters won a second US$5,000 award from YALTA (Youth in Agroecology and Business Learning Track), further strengthening the business and production capacity.",
         "fr": "Dudo Masters a remporté un deuxième prix de 5 000 USD décerné par YALTA (Youth in Agroecology and Business Learning Track), renforçant davantage l'activité et la capacité de production.",
@@ -249,7 +235,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Dudo Masters expanded operations to Uganda, establishing one of the largest insect farms in East Africa producing one ton of black soldier fly larvae and five tons of organic fertilizer per day. The company also grew its training program to over 739 individual farmers.",
         "fr": "Dudo Masters a étendu ses activités en Ouganda, établissant l'une des plus grandes fermes d'insectes d'Afrique de l'Est produisant une tonne de larves de mouche soldat noire et cinq tonnes d'engrais organique par jour. L'entreprise a également développé son programme de formation pour atteindre plus de 739 agriculteurs individuels.",
@@ -259,7 +245,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Jennifer enrolled in a Master's program in Business Creation at the University of Utah while continuing to run Dudo Masters, and began developing an AI-powered climate control system and a WhatsApp chatbot to support insect farmers remotely.",
         "fr": "Jennifer s'est inscrite dans un programme de master en création d'entreprise à l'Université de l'Utah tout en continuant à diriger Dudo Masters, et a commencé à développer un système de contrôle climatique alimenté par l'IA ainsi qu'un chatbot WhatsApp pour soutenir les éleveurs d'insectes à distance.",

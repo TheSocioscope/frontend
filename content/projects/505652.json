@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Bioflora is a cooperative of 150+ beekeepers producing certified organic honey and derivatives, exported under International Fair Trade system.",
     "de": "Bioflora is a cooperative of 150+ beekeepers producing certified organic honey and derivatives, exported under International Fair Trade system."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Cuernavaca, Morelos",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Hermes"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://mielbioflora.mx/pages/nosotros",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1990s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The cooperative initiative emerged in Morelos to reduce migration, as up to 80% of men in the Ocuituco and Yecapixtla region were leaving for the United States. Seven founding beekeepers joined together to introduce organic apiculture as a sustainable livelihood.",
         "fr": "L'initiative coopérative a émergé à Morelos pour réduire la migration, car jusqu'à 80 % des hommes de la région d'Ocuituco et Yecapixtla partaient aux États-Unis. Sept apiculteurs fondateurs se sont réunis pour introduire l'apiculture biologique comme moyen de subsistance durable.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1996",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The group achieved sufficient honey production to make their first major export through Pan para el Mundo and Misereor, selling to Switzerland and then Italy.",
         "fr": "Le groupe a atteint une production de miel suffisante pour réaliser leur première grande exportation via Pan para el Mundo et Misereor, en vendant en Suisse puis en Italie.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2001",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The cooperative was formally constituted with statutes and legal structure, receiving a Yacatecutli prize for technological implementation that provided the economic resources needed to complete the registration.",
         "fr": "La coopérative a été formellement constituée avec des statuts et une structure juridique, recevant un prix Yacatecutli pour la mise en œuvre technologique qui a fourni les ressources économiques nécessaires pour finaliser l'enregistrement.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2004",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The cooperative obtained its organic certification, allowing them to produce and export certified organic honey despite skepticism from others who doubted it was possible given that bees fly freely.",
         "fr": "La coopérative a obtenu sa certification biologique, lui permettant de produire et d'exporter du miel biologique certifié malgré le scepticisme de ceux qui doutaient que cela soit possible étant donné que les abeilles volent librement.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2010-2011",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cooperative received multiple national and international recognitions, including the National Sustainable Development Award, a honey quality prize at Apimondia 2011, the PYME 2011 award, and the National Export Award 2011.",
         "fr": "La coopérative a reçu plusieurs reconnaissances nationales et internationales, dont le Prix National du Développement Durable, un prix de qualité du miel à Apimondia 2011, le prix PYME 2011 et le Prix National de l'Exportation 2011.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "After reaching their peak export year in 2019 with over 37 containers of organic honey, the cooperative faced a severe decline due to Brazilian and Chinese producers flooding the market at half the price, followed by the COVID-19 pandemic and the Ukraine war disrupting European demand.",
         "fr": "Après avoir atteint leur meilleure année d'exportation en 2019 avec plus de 37 conteneurs de miel biologique, la coopérative a subi un déclin sévère en raison des producteurs brésiliens et chinois inondant le marché à moitié prix, suivi par la pandémie de COVID-19 et la guerre en Ukraine perturbant la demande européenne.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organic honey for export and national market",
         "fr": "Miel biologique pour l'exportation et le marché national",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free beekeeping training among producers",
         "fr": "Formation apicole gratuite entre producteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cooperative model for small honey producers",
         "fr": "Modèle coopératif pour les petits producteurs de miel",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental education programs for children",
         "fr": "Programmes d'éducation environnementale pour les enfants",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits connecting city and rural communities",
         "fr": "Visites de fermes reliant les communautés urbaines et rurales",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge sharing on organic certification standards",
         "fr": "Partage des connaissances sur les normes de certification biologique",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand presence in Mexican domestic market",
         "fr": "Élargir la présence sur le marché intérieur mexicain",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Non-repayable grants or lost-fund financing",
         "fr": "Subventions non remboursables ou financement à fonds perdus",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public policies reducing agroquímico use",
         "fr": "Politiques publiques réduisant l'utilisation des agroquímicos",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "University alliances for product development",
         "fr": "Alliances universitaires pour le développement de produits",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Increase organic honey consumption per capita",
         "fr": "Augmenter la consommation de miel biologique par habitant",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Protected natural spaces free of agrochemicals",
         "fr": "Espaces naturels protégés exempts d'agrochimiques",

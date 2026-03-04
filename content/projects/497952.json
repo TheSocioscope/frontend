@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755092967,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa se centra en aprovechar el potencial de la mosca soldado negra para diversas aplicaciones, entre ellas la degradación de residuos y el desarrollo de nuevos antibióticos. Con sede en el Laboratorio Andino Amazónico de Química de la Vida, el proyecto pretende producir proteína de insecto y explorar la microbiota de la mosca en busca de propiedades antimicrobianas. Al abordar la gestión de los residuos orgánicos y mejorar la seguridad alimentaria, la iniciativa contribuye a las prácticas sostenibles en la agricultura y la acuicultura, beneficiando en última instancia a la salud humana y al medio ambiente.",
     "de": "Die Initiative konzentriert sich auf die Nutzung des Potenzials der Schwarzen Soldatenfliege für verschiedene Anwendungen, einschließlich des Abbaus von Abfällen und der Entwicklung neuer Antibiotika. Das im Anden-Amazonas-Labor für Chemie des Lebens angesiedelte Projekt zielt darauf ab, Insektenproteine zu produzieren und die Mikrobiota der Fliege auf antimikrobielle Eigenschaften zu untersuchen. Durch die Behandlung organischer Abfälle und die Verbesserung der Lebensmittelsicherheit trägt die Initiative zu nachhaltigen Praktiken in der Landwirtschaft und der Aquakultur bei, was letztlich der menschlichen Gesundheit und der Umwelt zugute kommt."
   },
-  "field": [
-    "biology",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["biology", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "HELAN CASTILLO PAREJA"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "public-health"
-  ],
+  "thematic": ["food-agriculture-fishery", "public-health"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "fu584zPNRwY",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "2005",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Andean Amazonian Laboratory of Chemistry of Life was founded at Universidad Peruana Cayetano Heredia with the objective of valorizing biodiversity through the search for new antiparasitic and antibacterial compounds.",
         "fr": "Le Laboratoire Andin Amazonien de Chimie de la Vie a été fondé à l'Universidad Peruana Cayetano Heredia avec pour objectif de valoriser la biodiversité à travers la recherche de nouveaux composés antiparasitaires et antibactériens.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Research with the black soldier fly began, initiated by Dr. Michel Sauvaín of the IRD France, transferring biological technology previously used in Indonesia to Peru using native species from the Peruvian jungle.",
         "fr": "La recherche sur la mouche soldat noire a débuté, initiée par le Dr Michel Sauvaín de l'IRD France, transférant une technologie biologique précédemment utilisée en Indonésie vers le Pérou en utilisant des espèces indigènes de la jungle péruvienne.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The laboratory won the Reto Bio competition, aiming to find commercial partners and investors for mass production of insect protein, but expansion was halted by the COVID-19 pandemic shortly after.",
         "fr": "Le laboratoire a remporté le concours Reto Bio, visant à trouver des partenaires commerciaux et des investisseurs pour la production de masse de protéines d'insectes, mais l'expansion a été interrompue par la pandémie de COVID-19 peu après.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2019-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The laboratory secured a S/400,000 grant from Prociencia to research new antibiotics from the black soldier fly larva microbiota, targeting pathogens such as Helicobacter pylori, Salmonella, and Staphylococcus aureus.",
         "fr": "Le laboratoire a obtenu une subvention de S/400 000 de Prociencia pour rechercher de nouveaux antibiotiques issus du microbiote des larves de mouche soldat noire, ciblant des agents pathogènes tels que Helicobacter pylori, Salmonella et Staphylococcus aureus.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The laboratory began implementing software-based resource management systems and expanded its role as a training hub for biomedical and environmental engineering students, while a team of pasantes advanced a chitosan-based hydrogel startup to pitch before investors in Miami.",
         "fr": "Le laboratoire a commencé à mettre en œuvre des systèmes de gestion des ressources basés sur des logiciels et a élargi son rôle de centre de formation pour les étudiants en ingénierie biomédicale et environnementale, tandis qu'une équipe de stagiaires a fait progresser une startup de gel à base de chitosane jusqu'à une présentation devant des investisseurs à Miami.",
@@ -105,7 +93,7 @@
     },
     {
       "date": "2015-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Throughout its operation, the laboratory faced persistent financial sustainability challenges, relying on competitive grants from Prociencia and Proinnovate and personal funds from researchers, with university financial crises further threatening continuity.",
         "fr": "Tout au long de son fonctionnement, le laboratoire a été confronté à des défis persistants en matière de viabilité financière, s'appuyant sur des subventions compétitives de Prociencia et Proinnovate ainsi que sur des fonds personnels des chercheurs, les crises financières de l'université menaçant davantage la continuité des activités.",
@@ -116,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Novel antibiotic discovery from insect microbiota",
         "fr": "Découverte de nouveaux antibiotiques issus du microbiote des insectes",
@@ -125,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Insect protein meal for livestock and fish",
         "fr": "Farine de protéines d'insectes pour l'élevage et la pisciculture",
@@ -134,7 +122,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Research training for undergraduate and graduate students",
         "fr": "Formation à la recherche pour les étudiants de licence et de master",
@@ -143,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Black soldier fly rearing center and biolab",
         "fr": "Centre d'élevage de mouches soldats noires et biolaboratoire",
@@ -152,7 +140,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Composting support for schools and families",
         "fr": "Soutien au compostage pour les écoles et les familles",
@@ -161,7 +149,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Chitosan biomaterial for medical and environmental use",
         "fr": "Biomatériau chitosane pour usage médical et environnemental",
@@ -172,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and competitive funds for research",
         "fr": "Subventions et fonds compétitifs pour la recherche",
@@ -181,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Industry partners in poultry and aquaculture sectors",
         "fr": "Partenaires industriels dans les secteurs de la volaille et de l'aquaculture",
@@ -190,7 +178,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Preclinical trials for new insect-derived antibiotics",
         "fr": "Essais précliniques pour de nouveaux antibiotiques dérivés des insectes",
@@ -199,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Investors for insect protein production plant",
         "fr": "Investisseurs pour une usine de production de protéines d'insectes",
@@ -208,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial entry into animal feed market",
         "fr": "Entrée commerciale sur le marché de l'alimentation animale",
@@ -217,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "University collaborators for biomedicine and environment",
         "fr": "Collaborateurs universitaires en biomédecine et environnement",

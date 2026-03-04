@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "One of South Africa's largest fresh produce markets connecting over 5,500 producers with 8,000+ buyers through a commission-based model.",
     "de": "One of South Africa's largest fresh produce markets connecting over 5,500 producers with 8,000+ buyers through a commission-based model."
   },
-  "field": [
-    "economics-business"
-  ],
+  "field": ["economics-business"],
   "lang": "en",
   "location": "Cape Town",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "de Villiers"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.ctmarket.co.za/contact-us/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1961",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cape Town Market officially opened in August 1961, inaugurated by the Mayor of Cape Town, after relocating from the Civic Centre as the inner-city space became too small.",
         "fr": "Le marché du Cap a officiellement ouvert ses portes en août 1961, inauguré par le maire du Cap, après avoir été déplacé depuis le Centre Civique car l'espace en centre-ville était devenu trop petit.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1994-1995",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Following the end of apartheid, the new government under President Mandela deregulated the fresh produce market, ending the legal requirement for farmers to sell exclusively through municipal markets and causing an initial 33-35% drop in turnover.",
         "fr": "À la suite de la fin de l'apartheid, le nouveau gouvernement du président Mandela a dérégulé le marché des produits frais, mettant fin à l'obligation légale pour les agriculteurs de vendre exclusivement par l'intermédiaire des marchés municipaux, entraînant une baisse initiale du chiffre d'affaires de 33 à 35 %.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2003-2004",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The City of Cape Town privatized the market, making Cape Town Market Pty Ltd the only privately owned fresh produce market in South Africa, while retaining all 400 staff members through the transition.",
         "fr": "La ville du Cap a privatisé le marché, faisant de Cape Town Market Pty Ltd le seul marché de produits frais privé en Afrique du Sud, tout en conservant l'ensemble des 400 employés tout au long de la transition.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2007",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A broad ownership base was formalized with 26% of shares held by producers and market agents, and a 12.5% stake given to previously disadvantaged informal traders, empowering them from informal trading to formal shareholders.",
         "fr": "Une base d'actionnariat élargie a été formalisée avec 26 % des parts détenues par les producteurs et les agents du marché, et une participation de 12,5 % accordée à des commerçants informels défavorisés, leur permettant de passer du commerce informel au statut d'actionnaires formels.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the COVID-19 pandemic the market remained fully operational, achieving unprecedented growth of approximately 20% per annum and gaining around 4,500 new clients per month, despite severe illness among key staff and the loss of colleagues.",
         "fr": "Durant la pandémie de COVID-19, le marché est resté pleinement opérationnel, enregistrant une croissance sans précédent d'environ 20 % par an et gagnant environ 4 500 nouveaux clients par mois, malgré de graves maladies parmi le personnel clé et la perte de collègues.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The market signed a 30-year lease extension with the City of Cape Town and began a major redevelopment programme including expanded solar panels, battery storage, and planned cold-room and roofing upgrades partially funded by the city.",
         "fr": "Le marché a signé une extension de bail de 30 ans avec la ville du Cap et a lancé un important programme de réaménagement comprenant l'extension des panneaux solaires, le stockage par batteries, ainsi que des améliorations prévues des chambres froides et de la toiture, partiellement financées par la ville.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Low-cost fresh produce distribution hub",
         "fr": "Plateforme de distribution de produits frais à bas prix",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Trading platform connecting farmers and buyers",
         "fr": "Plateforme commerciale reliant agriculteurs et acheteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Buyer cards for informal and small traders",
         "fr": "Cartes acheteur pour les commerçants informels et de petite taille",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Unsold edible produce donated to umbrella body",
         "fr": "Produits invendus comestibles donnés à l'organisation faîtière",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Hosting international university study visits",
         "fr": "Accueil de visites d'études universitaires internationales",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Cold storage and banana ripening facilities",
         "fr": "Installations de stockage frigorifique et de maturation des bananes",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International universities for research visits",
         "fr": "Universités internationales pour des visites de recherche",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Informal and small-scale buyers with buyer cards",
         "fr": "Acheteurs informels et de petite échelle avec des cartes d'acheteur",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Farmers to send produce via registered agents",
         "fr": "Agriculteurs pour envoyer des produits via des agents enregistrés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Umbrella body to redistribute unsold edible produce",
         "fr": "Organe faîtier pour redistribuer les produits comestibles invendus",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Technology app for farmer produce pre-allocation",
         "fr": "Application technologique pour la pré-allocation des produits agricoles",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "City of Cape Town infrastructure redevelopment funding",
         "fr": "Financement du redéveloppement des infrastructures de la ville du Cap",

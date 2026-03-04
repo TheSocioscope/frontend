@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1754675204,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en prácticas agrícolas sostenibles mediante una gestión holística, haciendo hincapié en la importancia de la conservación del agua, la biodiversidad y la participación de la comunidad. El responsable del proyecto gestiona casi 300 hectáreas de tierra, integrando la ganadería y diversos métodos agrícolas. El objetivo es crear una granja modelo que no sólo produzca carne de alta calidad criada con pastos, sino que también sirva de centro de aprendizaje para otros interesados en la agricultura regenerativa. La iniciativa persigue la sostenibilidad económica al tiempo que fomenta una comunidad solidaria.",
     "de": "Die Initiative konzentriert sich auf nachhaltige Landwirtschaftspraktiken durch ganzheitliches Management und betont die Bedeutung von Wasserschutz, Biodiversität und kommunaler Beteiligung. Der Projektleiter bewirtschaftet fast 300 Hektar Land, integriert Viehzucht und verschiedene landwirtschaftliche Methoden. Ziel ist es, einen Modellbetrieb zu schaffen, der nicht nur qualitativ hochwertiges, Weide-gereiftes Fleisch produziert, sondern auch als Lernzentrum für andere dient, die an regenerativer Landwirtschaft interessiert sind. Die Initiative zielt auf wirtschaftliche Nachhaltigkeit ab, während sie gleichzeitig eine unterstützende Gemeinschaft fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Gordon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://biograssfed.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Marisa Rech recovered the inherited family estate (Canche Nouve) instead of selling it, beginning a regenerative farming project. She started with Limousin cattle alongside a farming partner, initially focusing on pasture-only feeding.",
         "fr": "Marisa Rech a récupéré le domaine familial hérité (Canche Nouve) au lieu de le vendre, lançant ainsi un projet d'agriculture régénératrice. Elle a commencé avec des bovins Limousin en partenariat avec un agriculteur, en se concentrant initialement sur une alimentation exclusivement à l'herbe.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2004-2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Marisa worked in partnership with Josep, a conventional farmer, managing the estate jointly with shared cattle. Over this period pesticide use grew from 1-2 to 17 interventions annually, prompting Marisa to take full control.",
         "fr": "Marisa a travaillé en partenariat avec Josep, un agriculteur conventionnel, gérant le domaine conjointement avec un cheptel partagé. Au cours de cette période, l'utilisation de pesticides est passée de 1-2 à 17 interventions annuelles, ce qui a poussé Marisa à prendre le contrôle total de l'exploitation.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Marisa took sole management of the farm, banned all agrochemicals, and transitioned from Limousin to Aubrac cattle better suited to the dry limestone terrain. She also completed a master's degree in ecological agriculture that year.",
         "fr": "Marisa a pris la gestion exclusive de la ferme, interdit tous les agrochimiques et effectué la transition des bovins Limousin vers des bovins Aubrac, mieux adaptés au terrain calcaire et sec. Elle a également obtenu un master en agriculture écologique cette même année.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2014-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Marisa deepened her knowledge of holistic management after attending an Alan Savory conference in Seville, joined the ALEJAB board (the Iberian Peninsula hub for Savory's method), and completed a specialist course in holistic management with Argentine trainers. Annual EOV (Ecological Outcome Verification) monitoring began with accredited practitioner Adriana Targarona.",
         "fr": "Marisa a approfondi ses connaissances en gestion holistique après avoir assisté à une conférence d'Alan Savory à Séville, rejoint le conseil d'administration d'ALEJAB (le pôle de la péninsule ibérique pour la méthode Savory), et suivi une formation spécialisée en gestion holistique avec des formateurs argentins. La surveillance annuelle EOV (Vérification des Résultats Écologiques) a débuté avec la praticienne accréditée Adriana Targarona.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2019-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The departure of Edwin, the long-term Bolivian herdsman who had worked on the farm for 12 years, left a critical gap in operations. A butcher shop opened in Figueres to sell the pasture-raised beef proved economically unviable and was closed, halting direct meat sales.",
         "fr": "Le départ d'Edwin, le bouvier bolivien de longue date ayant travaillé sur l'exploitation pendant 12 ans, a laissé un vide critique dans les opérations. Une boucherie ouverte à Figueres pour vendre la viande bovine élevée à l'herbe s'est révélée économiquement non viable et a été fermée, mettant fin aux ventes directes de viande.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Marisa invested personal loan funds in virtual fencing collars for 60 cows, enabling rotation without physical fences and improving quality of life for staff. New team member Rubén joined, and the project resumed progress toward becoming an official Savory demonstrator farm.",
         "fr": "Marisa a investi des fonds issus d'un prêt personnel dans des colliers de clôture virtuelle pour 60 vaches, permettant la rotation sans clôtures physiques et améliorant la qualité de vie du personnel. Un nouveau membre de l'équipe, Rubén, a rejoint le projet, et celui-ci a repris sa progression vers le statut officiel de ferme de démonstration Savory.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Grass-fed ecological beef for consumers",
         "fr": "Bœuf écologique nourri à l'herbe pour les consommateurs",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration farm for holistic management method",
         "fr": "Ferme de démonstration pour la méthode de gestion holistique",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops and field visits for schools",
         "fr": "Ateliers et visites de terrain pour les écoles",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Shared knowledge house for professionals",
         "fr": "Maison de partage des connaissances pour les professionnels",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Soil biodiversity monitoring and EOV assessments",
         "fr": "Suivi de la biodiversité des sols et évaluations EOV",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Rural tourism in natural low-impact setting",
         "fr": "Tourisme rural dans un cadre naturel à faible impact",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consumers who value grass-fed meat",
         "fr": "Consommateurs qui valorisent la viande nourrie à l'herbe",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Professionals to form farm team",
         "fr": "Professionnels pour former l'équipe de la ferme",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Holistic management demonstration farm status",
         "fr": "Statut de ferme de démonstration en gestion holistique",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Spreading holistic management to Catalonia",
         "fr": "Diffusion de la gestion holistique en Catalogne",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Mobile butcher for on-farm meat processing",
         "fr": "Boucher mobile pour la transformation de la viande à la ferme",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Economic sustainability without relying on subsidies",
         "fr": "Durabilité économique sans dépendre des subventions",

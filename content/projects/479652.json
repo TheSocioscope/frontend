@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1754654776,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Swayyam, creada en 2012, es una fundación dedicada a la permacultura y la agrosilvicultura en Karnataka (India). Su objetivo es regenerar la tierra y apoyar los medios de vida locales mediante prácticas agrícolas sostenibles. La iniciativa incluye la granja de conchas abiertas, un lugar de demostración de técnicas agrícolas innovadoras, y el Proyecto de los Mil Árboles, que ayuda a los agricultores locales en la transición a la agricultura ecológica. Swayyam también hace hincapié en la participación de la comunidad, la educación y la capacitación de las mujeres mediante iniciativas de productos de valor añadido.",
     "de": "Swayyam wurde 2012 gegründet und ist eine Stiftung, die sich auf Permakultur und Agroforstwirtschaft in Karnataka, Indien, konzentriert. Ihr Ziel ist es, durch nachhaltige Anbaumethoden Land zu regenerieren und den lokalen Lebensunterhalt zu sichern. Die Initiative umfasst die Open Shell Farm, eine Demonstrationsanlage für innovative landwirtschaftliche Techniken, und das Thousand Trees Project, das lokalen Landwirten bei der Umstellung auf ökologischen Landbau hilft. Swayyam legt außerdem großen Wert auf das Engagement in der Gemeinde, auf Bildung und die Stärkung der Rolle der Frauen durch Initiativen zur Schaffung von Mehrwertprodukten."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Zorrilla"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://swayyam.org/about-swayyam/",
   "yt": "npY19cdwg9E",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Malvika became disillusioned with academic research after policy recommendations on water management were ignored by the Ministry of Environment and Forest. This prompted her shift toward grassroots, community-level work.",
         "fr": "Malvika a perdu ses illusions envers la recherche académique après que des recommandations politiques sur la gestion de l'eau ont été ignorées par le ministère de l'Environnement et des Forêts. Cela l'a poussée à se tourner vers un travail de terrain, au niveau communautaire.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Swayam was formally registered as a trust with the Government of India on December 2nd, formalizing ecological and community sustainability work already underway.",
         "fr": "Swayam a été officiellement enregistrée en tant que trust auprès du gouvernement indien le 2 décembre, formalisant ainsi les travaux de durabilité écologique et communautaire déjà en cours.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2014",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Swayam acquired a six-acre denuded and eroded plot near Bandipur National Park, establishing Open Shell Farm as a demonstration and learning site for regenerative agroforestry.",
         "fr": "Swayam a acquis une parcelle de six acres dégradée et érodée près du parc national de Bandipur, établissant la ferme Open Shell comme site de démonstration et d'apprentissage pour l'agroforesterie régénératrice.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2016",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A severe regional drought killed approximately 80% of local livestock, prompting Swayam to launch the Thousand Trees Project to restore abandoned farmland and collectivize small-scale farmers.",
         "fr": "Une grave sécheresse régionale a tué environ 80 % du bétail local, incitant Swayam à lancer le projet Mille Arbres afin de restaurer les terres agricoles abandonnées et de mettre en commun les ressources des petits agriculteurs.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Rain Matter Foundation (linked to Zerodha founders Nitin and Seema Kamath) became Swayam's first institutional funder, providing a grant to support ecological restoration across 100 acres of community farmland.",
         "fr": "La fondation Rain Matter (liée aux fondateurs de Zerodha, Nitin et Seema Kamath) est devenue le premier bailleur de fonds institutionnel de Swayam, en accordant une subvention pour soutenir la restauration écologique de 100 acres de terres agricoles communautaires.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Open Shell Farm reached its 11th year with over 4,000 trees and shrubs across six acres, while the Thousand Trees Project had planted 15,000-plus trees across 100 acres involving 25 farmer groups.",
         "fr": "La ferme Open Shell a atteint sa 11e année avec plus de 4 000 arbres et arbustes sur six acres, tandis que le projet Mille Arbres avait planté plus de 15 000 arbres sur 100 acres impliquant 25 groupes d'agriculteurs.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration site for regenerative farming techniques",
         "fr": "Site de démonstration pour les techniques d'agriculture régénératrice",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Permaculture courses and farmer training workshops",
         "fr": "Cours de permaculture et ateliers de formation pour agriculteurs",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic value-added produce from farm",
         "fr": "Produits biologiques à valeur ajoutée provenant de la ferme",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Assured crop buyback for local partner farmers",
         "fr": "Rachat garanti des récoltes pour les agriculteurs partenaires locaux",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Seed saving and forgotten food revival",
         "fr": "Conservation des semences et revalorisation des aliments oubliés",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "One-year residential farm school for rural youth",
         "fr": "École agricole résidentielle d'un an pour les jeunes ruraux",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and institutional donor support",
         "fr": "Subventions et soutien des donateurs institutionnels",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partner farmers for Thousand Trees Project",
         "fr": "Agriculteurs partenaires pour le Projet Mille Arbres",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers and interns for farm operations",
         "fr": "Bénévoles et stagiaires pour les opérations agricoles",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access for value-added produce",
         "fr": "Accès au marché pour les produits à valeur ajoutée",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth enrollment for farm school program",
         "fr": "Inscription des jeunes au programme d'école agricole",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Community seed bank and seed saving network",
         "fr": "Banque de semences communautaire et réseau de conservation des semences",

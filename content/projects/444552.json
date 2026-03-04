@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1718361521,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Recup et Gamelles es una asociación activa desde hace casi diez años en la lucha contra el desperdicio alimentario en Lyon y sus alrededores. Su misión comienza con la recogida de alimentos no vendidos, principalmente frutas y verduras estropeadas, que sirven de base para diversas actividades de sensibilización y tratamiento.\n\nCada año organizan unos 200 talleres de cocina y eventos para educar al público sobre el desperdicio de alimentos y la alimentación sostenible. También transforman los productos no vendidos en mermeladas, salsas y chutneys, que se distribuyen a tiendas de comestibles sociales y comunitarias.\n\nDesde 2018, ofrecen buffets para eventos, preparando comidas a partir de alimentos no vendidos, y recientemente han abierto restaurantes antigaspi y solidarios, como La MESA y La Récupéria, que ofrecen comidas completas a partir de alimentos no vendidos tres almuerzos a la semana. Recup et Gamelles se compromete a reducir el desperdicio alimentario y a promover una alimentación sostenible y socialmente responsable.",
     "de": "Recup et Gamelles ist ein Verein, der seit fast zehn Jahren im Kampf gegen die Lebensmittelverschwendung in Lyon und seiner Metropolregion aktiv ist. Ihre Mission beginnt mit der Sammlung unverkaufter Lebensmittel, hauptsächlich verdorbenes Obst und Gemüse, die als Grundlage für verschiedene Aufklärungs- und Verarbeitungsaktivitäten dienen.\n\nSie organisieren jedes Jahr etwa 200 Kochworkshops und Veranstaltungen, um die Öffentlichkeit über Lebensmittelverschwendung und nachhaltige Ernährung aufzuklären. Außerdem verarbeiten sie unverkaufte Lebensmittel zu Marmeladen, Soßen und Chutneys, die in Sozial- und Solidaritätsläden vertrieben werden.\n\nSeit 2018 bieten sie Buffets für Veranstaltungen an, bereiten Mahlzeiten aus den Unverkäufen zu und haben kürzlich Anti-Gaspi- und Solidaritätsrestaurants eröffnet, darunter La MESA und La Récupéria, die an drei Mittagen in der Woche vollwertige Mahlzeiten aus den Unverkäufen anbieten. Recup et Gamelles setzt sich somit für die Reduzierung der Lebensmittelverschwendung und die Förderung einer nachhaltigen und solidarischen Ernährung ein."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,13 +34,9 @@
       "lastname": "Bodet"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://recupetgamelles.fr",
   "yt": "tQtCDsjpulc",
   "editedAt": 1739529995,
@@ -56,14 +46,12 @@
       "at": 1739529995
     }
   ],
-  "updatedAt": [
-    1739529995
-  ],
+  "updatedAt": [1739529995],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Récup & Gamelle was founded in Lyon by three women from non-food backgrounds, starting with gleaning at end-of-market stalls to make jars and share anti-waste cooking tips with friends and family.",
         "fr": "Récup & Gamelle a été fondée à Lyon par trois femmes sans background dans l'alimentation, en commençant par le glanage sur les étals de fin de marché pour faire des bocaux et partager des conseils de cuisine anti-gaspillage avec leurs proches.",
@@ -73,7 +61,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association hired its first salaried employee, an animator, and won a four-year public procurement contract that enabled structured development of its workshops and educational tools.",
         "fr": "L'association a recruté sa première salariée, une animatrice, et a remporté un marché public de quatre ans qui a permis le développement structuré de ses ateliers et outils pédagogiques.",
@@ -83,7 +71,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Récup & Gamelle launched a catering and buffet activity serving up to 150 people using unsold food, and began planning a permanent restaurant space.",
         "fr": "Récup & Gamelle a lancé une activité de traiteur et de buffets pouvant accueillir jusqu'à 150 personnes à partir d'invendus alimentaires, et a commencé à planifier un espace restaurant permanent.",
@@ -93,7 +81,7 @@
     },
     {
       "date": "2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The MESA (Maison Engagée et Solidaire de l'Alimentation) opened in October in the 8th arrondissement, co-built and co-run with association VRAC, reaching 800 member households against an initial target of 400.",
         "fr": "La MESA (Maison Engagée et Solidaire de l'Alimentation) a ouvert en octobre dans le 8e arrondissement, co-construite et co-gérée avec l'association VRAC, atteignant 800 ménages adhérents contre un objectif initial de 400.",
@@ -103,7 +91,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "La Récupéria, a second anti-waste solidarity café-restaurant, opened in March in the États-Unis neighbourhood, centralising the association's activities and offering sliding-scale menus three lunchtimes per week.",
         "fr": "La Récupéria, un deuxième café-restaurant solidaire anti-gaspillage, a ouvert en mars dans le quartier des États-Unis, centralisant les activités de l'association et proposant des menus à prix libres trois midis par semaine.",
@@ -114,7 +102,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Collection and transformation of unsold food products",
         "fr": "Collecte et transformation de produits alimentaires invendus",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Awareness workshops and public cooking demonstrations",
         "fr": "Ateliers de sensibilisation et démonstrations culinaires publiques",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Affordable solidarity restaurants with sliding scale pricing",
         "fr": "Restaurants solidaires abordables avec tarification à prix glissant",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Solidarity preserves sold in social grocery stores",
         "fr": "Conserves solidaires vendues dans des épiceries sociales",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Professional and citizen training on zero waste",
         "fr": "Formations professionnelles et citoyennes sur le zéro déchet",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pedagogical zero-waste catering buffets",
         "fr": "Buffets traiteurs zéro déchet pédagogiques",
@@ -170,7 +158,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Co-construction partners for shared food spaces",
         "fr": "Partenaires de co-construction pour des espaces alimentaires partagés",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Organic unsold food suppliers and producers",
         "fr": "Fournisseurs et producteurs d'invendus biologiques",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and public subsidies for structuring activities",
         "fr": "Subventions et aides publiques pour les activités structurantes",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Vulnerable residents from popular neighborhoods",
         "fr": "Habitants vulnérables des quartiers populaires",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Advocacy partners for anti-food waste policy",
         "fr": "Partenaires de plaidoyer pour une politique anti-gaspillage alimentaire",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Initiatives to share anti-waste expertise and training",
         "fr": "Initiatives de partage d'expertise et de formation anti-gaspillage",

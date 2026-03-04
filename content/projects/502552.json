@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Liselore Martin is Director of AgrOnov, an agricultural innovation cluster focusing on consulting, knowledge services, education, and R&D in sustainable agriculture.",
     "de": "Liselore Martin is Director of AgrOnov, an agricultural innovation cluster focusing on consulting, knowledge services, education, and R&D in sustainable agriculture."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Martin"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://agronov.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Agronov was founded as an association dedicated to managing the real estate of a former INRAE site purchased by Dijon Métropole, with the goal of creating an agriculture-focused ecosystem.",
         "fr": "Agronov a été fondé en tant qu'association dédiée à la gestion immobilière d'un ancien site INRAE acquis par Dijon Métropole, avec pour objectif de créer un écosystème axé sur l'agriculture.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The site was inaugurated, prompting stakeholders to redefine the association's missions and transform it into an innovation hub beyond its original property management role.",
         "fr": "Le site a été inauguré, incitant les parties prenantes à redéfinir les missions de l'association et à la transformer en hub d'innovation au-delà de son rôle initial de gestion immobilière.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A new membership campaign launched with around 40 founding members, marking Agronov's transformation into a full innovation cluster connecting agricultural organizations, innovative companies, and research institutions.",
         "fr": "Une nouvelle campagne d'adhésion a été lancée avec une quarantaine de membres fondateurs, marquant la transformation d'Agronov en un véritable cluster d'innovation reliant les organisations agricoles, les entreprises innovantes et les établissements de recherche.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Interprofession des Vins de Bourgogne joined as a partner, signaling growing trust from the viticulture sector and expanding Agronov's reach across multiple agricultural sectors.",
         "fr": "L'Interprofession des Vins de Bourgogne a rejoint le réseau en tant que partenaire, témoignant d'une confiance croissante du secteur viticole et élargissant le rayonnement d'Agronov à plusieurs secteurs agricoles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The forestry sector was formally integrated as a fourth pillar alongside arable farming, viticulture, and livestock, enabling cross-sector innovation transfer and bringing membership to 130 by 2025.",
         "fr": "Le secteur forestier a été officiellement intégré comme quatrième pilier aux côtés des grandes cultures, de la viticulture et de l'élevage, permettant le transfert d'innovation intersectoriel et portant le nombre d'adhérents à 130 d'ici 2025.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Networking between agri, business, and research",
         "fr": "Mise en réseau entre acteurs agricoles, économiques et de la recherche",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Acculturation training for companies entering agriculture",
         "fr": "Formation d'acculturation pour les entreprises entrant dans le secteur agricole",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Innovation project support and experimentation",
         "fr": "Accompagnement de projets d'innovation et expérimentation",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Funding guidance and financing opportunities",
         "fr": "Orientation vers les financements et opportunités de financement",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits and innovation showcasing events",
         "fr": "Visites de fermes et événements de valorisation de l'innovation",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Cross-sector knowledge transfer between agricultural filières",
         "fr": "Transfert de connaissances intersectoriel entre filières agricoles",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Innovative companies to connect with agriculture",
         "fr": "Entreprises innovantes à connecter avec l'agriculture",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Agricultural organizations to accelerate transitions",
         "fr": "Organisations agricoles pour accélérer les transitions",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research and teaching institutions for expertise",
         "fr": "Établissements de recherche et d'enseignement pour l'expertise",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Diversified private and public funding sources",
         "fr": "Sources de financement privées et publiques diversifiées",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New regional territories beyond Côte-d'Or",
         "fr": "Nouveaux territoires régionaux au-delà de la Côte-d'Or",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "International innovators to attract to region",
         "fr": "Innovateurs internationaux à attirer dans la région",

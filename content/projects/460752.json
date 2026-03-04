@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754561135,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Ecomarcal forma parte del Sistema Participativo de Garantía (SPG): una iniciativa de certificación agroecológica que fomenta la colaboración entre productores, consumidores y expertos técnicos. Establecido en la región andina, su objetivo es generar confianza a través de un sello desarrollado localmente que certifica las prácticas agroecológicas. Mediante la organización de reuniones y visitas guiadas, el PGS promueve el intercambio de conocimientos y fortalece los lazos comunitarios, animando en última instancia a más productores a hacer la transición a la agroecología y concienciando a los consumidores sobre sus beneficios.",
     "de": "Ecomarcal ist Teil des Participatory Guarantee System (PGS), einer Initiative zur Zertifizierung von Agrarökologie, die die Zusammenarbeit zwischen Produzenten, Verbrauchern und technischen Experten fördert. Sie wurde in der Andenregion gegründet und zielt darauf ab, Vertrauen durch ein lokal entwickeltes Gütesiegel zu schaffen, das agroökologische Praktiken zertifiziert. Durch die Organisation von Treffen und geführten Besuchen fördert die PGS den Austausch von Wissen und stärkt die Beziehungen zwischen den Gemeinden, wodurch letztendlich mehr Landwirte ermutigt werden, auf Agrarökologie umzusteigen und das Bewusstsein der Verbraucher über die Vorteile der Agrarökologie gestärkt wird."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Cardozo"
     }
   ],
-  "thematic": [
-    "governance-democracy-civil-society",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["governance-democracy-civil-society", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "MMNCOfXloCg",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2004",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The participatory guarantee system (SPG) model emerged in Brazil, establishing the foundation for similar initiatives in Latin America.",
         "fr": "Le modèle de système de garantie participatif (SPG) est apparu au Brésil, posant les bases d'initiatives similaires en Amérique latine.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The first SPG in Argentina was established in Bellavista, Corrientes, becoming the national pioneer for participatory agroecological certification.",
         "fr": "Le premier SPG en Argentine a été créé à Bellavista, Corrientes, devenant le pionnier national de la certification agroécologique participative.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "SPG Ecomarcal began forming in the Comarca Andina del Paralelo 42 in Argentine Patagonia, initiated by agroecology students from the Universidad Nacional de Río Negro who wanted to promote and certify local agroecological production.",
         "fr": "Le SPG Ecomarcal a commencé à se former dans la Comarca Andina del Paralelo 42 en Patagonie argentine, à l'initiative d'étudiants en agroécologie de l'Universidad Nacional de Río Negro souhaitant promouvoir et certifier la production agroécologique locale.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first annual assembly was held, where members voted on and officially adopted the Ecomarcal name, logo, and seal design.",
         "fr": "La première assemblée annuelle a eu lieu, au cours de laquelle les membres ont voté et adopté officiellement le nom Ecomarcal, ainsi que le logo et le design du sceau.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The municipalities of El Bolsón and Lago Puelo passed ordinances formally recognizing the SPG and creating a dedicated municipal fund to finance its operations and outreach activities.",
         "fr": "Les municipalités d'El Bolsón et de Lago Puelo ont adopté des ordonnances reconnaissant formellement le SPG et créant un fonds municipal dédié au financement de ses opérations et de ses activités de sensibilisation.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ecomarcal reached 26 certified producers across the comarca, with a growing waiting list of producers seeking to join and ongoing expansion into community outreach through neighborhood fairs and school activities.",
         "fr": "Ecomarcal a atteint 26 producteurs certifiés dans la comarca, avec une liste d'attente croissante de producteurs souhaitant rejoindre le réseau et une expansion continue vers la sensibilisation communautaire à travers des foires de quartier et des activités scolaires.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agroecological seal for local products",
         "fr": "Label agroécologique pour les produits locaux",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cross-visits between producers and consumers",
         "fr": "Visites croisées entre producteurs et consommateurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free workshops and talks open to community",
         "fr": "Ateliers et conférences gratuits ouverts à la communauté",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Network of certified agroecological producers",
         "fr": "Réseau de producteurs agroécologiques certifiés",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits open to general public",
         "fr": "Visites de fermes ouvertes au grand public",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge exchange with technical institutions",
         "fr": "Échange de connaissances avec les institutions techniques",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New agroecological producers to join SPG",
         "fr": "Nouveaux producteurs agroécologiques à rejoindre le SPG",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Participants for cross-farm certification visits",
         "fr": "Participants pour les visites de certification inter-fermes",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Provincial laws promoting agroecology",
         "fr": "Lois provinciales promouvant l'agroécologie",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Municipal and institutional support across comarca",
         "fr": "Soutien municipal et institutionnel à travers la comarca",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funds for logistics and operational costs",
         "fr": "Fonds pour la logistique et les coûts opérationnels",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand reach to consumers beyond current niches",
         "fr": "Élargir l'accès aux consommateurs au-delà des niches actuelles",

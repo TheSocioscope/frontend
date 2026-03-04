@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Gabriel Martinez is CSR Director at Eurogerm, working on sustainable practices in agricultural production, food companies, and education.",
     "de": "Gabriel Martinez is CSR Director at Eurogerm, working on sustainable practices in agricultural production, food companies, and education."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Martinez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://www.eurogerm.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1989",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Eurogerm est fondée à Dijon par Jean-Philippe Girard, avec une expertise analytique pour la filière blé et farine, accompagnant meuniers et boulangers pour standardiser la qualité de leurs produits malgré les variations de récolte.",
         "fr": "Eurogerm est fondée à Dijon par Jean-Philippe Girard, avec une expertise analytique pour la filière blé et farine, accompagnant meuniers et boulangers pour standardiser la qualité de leurs produits malgré les variations de récolte.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1998",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Eurogerm développe une offre d'ingrédients biologiques, anticipant tôt les tendances du marché en matière de durabilité alimentaire.",
         "fr": "Eurogerm développe une offre d'ingrédients biologiques, anticipant tôt les tendances du marché en matière de durabilité alimentaire.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Eurogerm adhère au Global Compact des Nations Unies, formalisant son engagement envers les principes de développement durable, droits humains et normes du travail.",
         "fr": "Eurogerm adhère au Pacte mondial des Nations Unies, formalisant son engagement envers les principes de développement durable, les droits humains et les normes du travail.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Année record d'ouvertures de filiales, avec la création simultanée de trois nouvelles structures en Allemagne, Colombie et Liban, marquant une accélération forte de la croissance internationale.",
         "fr": "Année record d'ouvertures de filiales, avec la création simultanée de trois nouvelles structures en Allemagne, en Colombie et au Liban, marquant une forte accélération de la croissance internationale.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Inauguration d'une usine de biofermentation à Dijon, développée en partenariat avec des instituts de recherche et cofinancée par la région Bourgogne-Franche-Comté, permettant de valoriser des déchets agroalimentaires en bioressources.",
         "fr": "Inauguration d'une usine de biofermentation à Dijon, développée en partenariat avec des instituts de recherche et cofinancée par la région Bourgogne-Franche-Comté, permettant de valoriser des déchets agroalimentaires en bioressources.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Ingredients and premix for bakers and pastry chefs",
         "fr": "Ingrédients et prémix pour boulangers et pâtissiers",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Analytical expertise on wheat and flour quality",
         "fr": "Expertise analytique sur la qualité du blé et de la farine",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training via Eurogerm Academy",
         "fr": "Formation technique via Eurogerm Academy",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Upcycled ingredients from food industry waste",
         "fr": "Ingrédients upcyclés issus des déchets de l'industrie alimentaire",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Partnership with baking schools internationally",
         "fr": "Partenariat avec des écoles de boulangerie à l'international",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Low-carbon product range reducing clients carbon footprint",
         "fr": "Gamme de produits bas-carbone réduisant l'empreinte carbone des clients",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Stronger links with upstream agricultural sector",
         "fr": "Renforcement des liens avec le secteur agricole amont",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research partnerships on biofermentation expertise",
         "fr": "Partenariats de recherche sur l'expertise en biofermentation",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand sustainable low-carbon ingredient range",
         "fr": "Élargir la gamme d'ingrédients durables à faible empreinte carbone",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Responsible sourcing from upcycled food industry waste",
         "fr": "Approvisionnement responsable à partir de déchets valorisés de l'industrie alimentaire",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Structured RSE framework for clients and investors",
         "fr": "Cadre RSE structuré pour les clients et les investisseurs",

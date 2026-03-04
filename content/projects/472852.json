@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754908937,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Aux Gouts du Jour es una asociación dedicada a mejorar los hábitos alimentarios de niños y adultos. Fundada en 2006 por tres estudiantes de ingeniería agroalimentaria, su objetivo es concienciar sobre la alimentación a través de talleres participativos, formación y actos comunitarios. La iniciativa se centra en comprender el papel de los alimentos en la salud, el medio ambiente y las conexiones sociales, ofreciendo diversos programas que implican a distintos públicos, como escuelas, trabajadores sociales y el público en general, para promover elecciones alimentarias informadas.",
     "de": "Aux Gouts du Jour ist ein Verein, der sich der Verbesserung der Essgewohnheiten von Kindern und Erwachsenen widmet. Die 2006 von drei Studenten der Agrar- und Ernährungswissenschaften gegründete Organisation will das Bewusstsein für Lebensmittel durch partizipatorische Workshops, Schulungen und Gemeinschaftsveranstaltungen stärken. Die Initiative konzentriert sich auf das Verständnis der Rolle von Lebensmitteln für die Gesundheit, die Umwelt und soziale Verbindungen und bietet verschiedene Programme an, die unterschiedliche Zielgruppen, darunter Schulen, Sozialarbeiter und die allgemeine Öffentlichkeit, einbeziehen, um informierte Lebensmittelentscheidungen zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,14 +33,9 @@
       "lastname": "Rusch"
     }
   ],
-  "thematic": [
-    "education",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.association-alimentation.fr/",
   "yt": "w1YfMxCcDG4",
   "editedAt": 1755735729,
@@ -56,14 +45,12 @@
       "at": 1755735729
     }
   ],
-  "updatedAt": [
-    1755735729
-  ],
+  "updatedAt": [1755735729],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Three friends studying food engineering conceived the idea of creating a physical public space dedicated to food education, inspired by the constant questions from their entourage about what is in our plates.",
         "fr": "Trois amis étudiant en ingénierie alimentaire ont eu l'idée de créer un espace public physique dédié à l'éducation alimentaire, inspirés par les questions constantes de leur entourage sur ce qui se trouve dans nos assiettes.",
@@ -73,7 +60,7 @@
     },
     {
       "date": "2006",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association Au Goût du Jour was officially founded in January, pivoting from the original physical venue concept to a mobile outreach model meeting audiences in schools, companies, and public events.",
         "fr": "L'association Au Goût du Jour a été officiellement fondée en janvier, abandonnant le concept initial de lieu physique au profit d'un modèle itinérant allant à la rencontre des publics dans les écoles, les entreprises et les événements publics.",
@@ -83,7 +70,7 @@
     },
     {
       "date": "2009",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Charlotte Frigou joined as a project officer, bringing dietitian expertise the association lacked, after completing her internship there. The association progressively expanded its scope beyond taste education to cover environment, health, and social dimensions of food.",
         "fr": "Charlotte Frigou a rejoint l'association en tant que chargée de projet, apportant une expertise en diététique qui manquait à l'association, après y avoir effectué son stage. L'association a progressivement élargi son champ d'action au-delà de l'éducation au goût pour couvrir les dimensions environnementales, sanitaires et sociales de l'alimentation.",
@@ -93,7 +80,7 @@
     },
     {
       "date": "2014-2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Au Goût du Jour opened additional antennas in Rennes and Brest, extending its territorial reach across Brittany and the broader Grand Ouest region, growing to a team of 12 salaried staff.",
         "fr": "Au Goût du Jour a ouvert des antennes supplémentaires à Rennes et à Brest, étendant sa présence territoriale à travers la Bretagne et la région Grand Ouest, et faisant croître l'équipe à 12 salariés.",
@@ -103,7 +90,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Following the Covid-19 lockdown period, the association launched the itinerant Maison de l'Alimentation, a mobile wooden house installed on public squares for 2 to 6 weeks, fulfilling the founders' original vision of a physical food education space.",
         "fr": "À la suite de la période de confinement liée au Covid-19, l'association a lancé la Maison de l'Alimentation itinérante, une maison mobile en bois installée sur des places publiques pendant 2 à 6 semaines, concrétisant la vision originelle des fondateurs d'un espace physique dédié à l'éducation alimentaire.",
@@ -113,7 +100,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Political instability and budget freezes at national and local government levels threatened several projects, forcing the association to rely on bank loans for cash flow while navigating frozen municipal decision-making ahead of local elections.",
         "fr": "L'instabilité politique et les gels budgétaires aux niveaux national et local ont menacé plusieurs projets, contraignant l'association à recourir à des emprunts bancaires pour sa trésorerie, tout en naviguant dans un contexte de décisions municipales gelées à l'approche des élections locales.",
@@ -124,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Participatory workshops for all age groups",
         "fr": "Ateliers participatifs pour tous les groupes d'âge",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Professional training on food waste reduction",
         "fr": "Formation professionnelle sur la réduction du gaspillage alimentaire",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Itinerant food house on public squares",
         "fr": "Maison alimentaire itinérante sur les places publiques",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Cooking demonstrations by local chefs",
         "fr": "Démonstrations culinaires par des chefs locaux",
@@ -160,7 +147,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Connecting local producers with public audiences",
         "fr": "Mise en relation des producteurs locaux avec le grand public",
@@ -169,7 +156,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Audit and accompaniment on food waste",
         "fr": "Audit et accompagnement sur le gaspillage alimentaire",
@@ -180,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Reach vulnerable and food-insecure publics",
         "fr": "Atteindre les publics vulnérables et en insécurité alimentaire",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Diversified funding beyond public subsidies",
         "fr": "Financement diversifié au-delà des subventions publiques",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative projects with complementary associations",
         "fr": "Projets collaboratifs avec des associations complémentaires",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Civic service volunteers and active members",
         "fr": "Volontaires en service civique et membres actifs",
@@ -216,7 +203,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Paid professional training without Qualiopi certification",
         "fr": "Formations professionnelles payantes sans certification Qualiopi",
@@ -225,7 +212,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Actions aligned with emerging food legislation",
         "fr": "Actions alignées sur la législation alimentaire émergente",

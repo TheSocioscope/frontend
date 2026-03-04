@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-africa"
-  ],
-  "country": [
-    "morocco"
-  ],
+  "continent": ["north-africa"],
+  "country": ["morocco"],
   "createdAt": 1754651197,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa se centra en concienciar sobre el despilfarro de alimentos y agua, promover la agroecología y apoyar a los agricultores de Marruecos y otros países. Al diversificar los cultivos y evitar los pesticidas nocivos, el programa pretende mejorar la calidad de los alimentos y la salud. También hace hincapié en la participación de la comunidad en las prácticas agrícolas, la adaptación al clima y la generación de ingresos mediante métodos sostenibles. La fundación pretende empoderar a las comunidades locales, mejorar las condiciones de vida y fomentar una red de experiencias compartidas en agricultura sostenible.",
     "de": "Die Initiative konzentriert sich auf die Sensibilisierung für die Verschwendung von Lebensmitteln und Wasser, die Förderung der Agrarökologie und die Unterstützung von Landwirten in Marokko und darüber hinaus. Durch die Diversifizierung des Anbaus und den Verzicht auf schädliche Pestizide will das Programm die Lebensmittelqualität und die Gesundheit verbessern. Ein weiterer Schwerpunkt ist die Einbeziehung der Bevölkerung in landwirtschaftliche Praktiken, die Anpassung an den Klimawandel und die Schaffung von Einkommen durch nachhaltige Methoden. Die Stiftung ist bestrebt, die lokalen Gemeinschaften zu stärken, die Lebensbedingungen zu verbessern und ein Netzwerk für den Erfahrungsaustausch in der nachhaltigen Landwirtschaft zu fördern."
   },
-  "field": [
-    "ecology-environmental-sciences",
-    "nutrition"
-  ],
+  "field": ["ecology-environmental-sciences", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Didouquen"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://highatlasfoundation.org/en",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1990s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Youssef Ben Mir served as a Peace Corps volunteer in the Toubkal National Park region and later managed the sector in which he volunteered, building the foundational relationships that would shape the organization.",
         "fr": "Youssef Ben Mir a servi comme volontaire du Corps de la Paix dans la région du Parc National du Toubkal et a ensuite géré le secteur dans lequel il était bénévole, établissant les relations fondamentales qui allaient façonner l'organisation.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2000",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "High Atlas Foundation was formally founded by former Peace Corps volunteers, initially registered in the United States with early fundraising events held at the Moroccan ambassador's residence in Washington D.C.",
         "fr": "La High Atlas Foundation a été officiellement fondée par d'anciens volontaires du Corps de la Paix, initialement enregistrée aux États-Unis avec des événements de collecte de fonds organisés à la résidence de l'ambassadeur du Maroc à Washington D.C.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2003",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The first formal funding was received from the U.S. Embassy in Rabat to support tree planting programs, marking the organization's first official institutional partnership.",
         "fr": "Le premier financement officiel a été reçu de l'ambassade des États-Unis à Rabat pour soutenir des programmes de plantation d'arbres, marquant le premier partenariat institutionnel officiel de l'organisation.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization scaled its nursery operations to produce over two million seedlings annually, distributing approximately 1.5 million trees per year across 12 regions of Morocco.",
         "fr": "L'organisation a développé ses opérations de pépinière pour produire plus de deux millions de plants par an, distribuant environ 1,5 million d'arbres par an dans 12 régions du Maroc.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The 2023 earthquake severely impacted communities in the Al Haouz region where the foundation operates, damaging infrastructure and threatening ongoing agricultural projects.",
         "fr": "Le séisme de 2023 a gravement touché les communautés de la région d'Al Haouz où la fondation opère, endommageant les infrastructures et menaçant les projets agricoles en cours.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The foundation is expanding its carbon credit market model, selling certified carbon offset units at 40 euros per tonne with 80% of revenue returned to farming communities, aiming for greater financial self-reliance.",
         "fr": "La fondation développe son modèle de marché de crédits carbone, vendant des unités de compensation carbone certifiées à 40 euros par tonne avec 80 % des revenus reversés aux communautés agricoles, dans l'objectif d'une plus grande autonomie financière.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community-driven agricultural planning and empowerment",
         "fr": "Planification agricole communautaire et autonomisation",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free fruit trees to rural farmers",
         "fr": "Arbres fruitiers gratuits pour les agriculteurs ruraux",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Nurseries producing 1.5M trees annually",
         "fr": "Pépinières produisant 1,5 million d'arbres par an",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Behavioral change research on food systems",
         "fr": "Recherche sur le changement de comportement dans les systèmes alimentaires",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Carbon credit sales benefiting local farmers",
         "fr": "Vente de crédits carbone au bénéfice des agriculteurs locaux",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Family literacy and water infrastructure support",
         "fr": "Soutien à l'alphabétisation familiale et aux infrastructures hydrauliques",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Behavioral change data from 600-1000 initiatives",
         "fr": "Données sur le changement de comportement issues de 600 à 1000 initiatives",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners across African countries like Senegal",
         "fr": "Partenaires dans les pays africains comme le Sénégal",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers to support field operations",
         "fr": "Bénévoles pour soutenir les opérations de terrain",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Self-reliant revenue through carbon credit markets",
         "fr": "Revenus autonomes grâce aux marchés de crédits carbone",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers adopting agroecology and tree planting",
         "fr": "Agriculteurs adoptant l'agroécologie et la plantation d'arbres",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Carbon offset credit buyers internationally",
         "fr": "Acheteurs internationaux de crédits de compensation carbone",
@@ -258,9 +246,7 @@
     }
   ],
   "editedAt": 1771240290,
-  "updatedAt": [
-    1771240290
-  ],
+  "updatedAt": [1771240290],
   "feedback": [
     {
       "content": false,

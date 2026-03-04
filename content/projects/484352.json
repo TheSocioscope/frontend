@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754913019,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Aux Arbres Citoyens es una asociación dedicada a combatir el desperdicio de alimentos mediante la recogida de los excedentes de frutas de los jardines y huertos de particulares que no pueden recogerlas. Fundada en La Rochelle, la iniciativa redistribuye los frutos recogidos entre organizaciones benéficas y locales, fomentando los lazos comunitarios y preservando el patrimonio local. El proyecto funciona principalmente a través del voluntariado, haciendo hincapié en un enfoque espontáneo y orgánico para conectar tanto con los propietarios de la fruta como con los beneficiarios.     ",
     "de": "Aux Arbres Citoyens ist ein Verein, der sich gegen die Verschwendung von Lebensmitteln einsetzt, indem er überschüssiges Obst aus Gärten und Obstplantagen von Personen erntet, die es nicht selbst abholen können. Die in La Rochelle gegründete Initiative verteilt die gesammelten Früchte an Wohltätigkeitsorganisationen und örtliche Einrichtungen, um die Gemeinschaft zu fördern und das lokale Erbe zu bewahren. Das Projekt wird in erster Linie von Freiwilligen getragen, wobei ein spontaner und organischer Ansatz verfolgt wird, um sowohl mit den Obstbesitzern als auch mit den Begünstigten in Kontakt zu treten.     "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Janel"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://aux-arbres-citoyens.org/sud-strasbourg/",
   "yt": "1AchshYa9hY",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "7 years ago (referenced)",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Aux Arbres Citoyens was founded in La Rochelle by two women who became the association's only paid employees. The La Rochelle entity began spreading the model across France.",
         "fr": "Aux Arbres Citoyens a été fondée à La Rochelle par deux femmes devenues les seules salariées de l'association. L'entité de La Rochelle a commencé à diffuser le modèle à travers la France.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "4 years ago (referenced)",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Alsace branch (Sud Strasbourg) was officially created by Claudine Jamel as its volunteer president. The first year coincided with severe drought and hail, resulting in almost no harvests.",
         "fr": "La branche Alsace (Sud Strasbourg) a été officiellement créée par Claudine Jamel en tant que présidente bénévole. La première année a coïncidé avec une sécheresse sévère et de la grêle, entraînant presque aucune récolte.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Year of creation (Alsace)",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Alsace branch won a competition with the EuroMétropole and received 1,000 euros, which funded all necessary equipment including ladders, poles, and tarps. They also won a prize at the Maison des Associations for being the most dynamic and colorful association.",
         "fr": "La branche Alsace a remporté un concours avec l'EuroMétropole et a reçu 1 000 euros, ce qui a permis de financer tout le matériel nécessaire, notamment des échelles, des perches et des bâches. Elle a également remporté un prix à la Maison des Associations pour être l'association la plus dynamique et la plus colorée.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2 years ago (referenced)",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Five members of the Alsace branch trained with Grand Est arborists to learn fruit tree pruning, allowing them to offer this service to property owners during winter months.",
         "fr": "Cinq membres de la branche Alsace se sont formés auprès d'arboristes du Grand Est pour apprendre la taille des arbres fruitiers, leur permettant ainsi de proposer ce service aux propriétaires pendant les mois d'hiver.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Last year (referenced)",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Claudine visited La Rochelle to meet co-founder Coralie in person for the first time during an apricot harvest. The Alsace branch reached 80 total volunteers.",
         "fr": "Claudine s'est rendue à La Rochelle pour rencontrer la cofondatrice Coralie en personne pour la première fois lors d'une récolte d'abricots. La branche Alsace a atteint 80 bénévoles au total.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Current year (referenced)",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Alsace branch launched volunteer recruitment and expected to reach 120 volunteers. Plans were underway to establish a second sub-branch in Alsace approximately 20-25 km away, bringing the national total to 11 associations.",
         "fr": "La branche Alsace a lancé un recrutement de bénévoles et prévoyait d'atteindre 120 bénévoles. Des projets étaient en cours pour créer une deuxième sous-branche en Alsace à environ 20-25 km, portant le total national à 11 associations.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Fresh fruit redistribution to charities",
         "fr": "Redistribution de fruits frais aux associations caritatives",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Volunteer fruit picking open to all",
         "fr": "Cueillette bénévole de fruits ouverte à tous",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Short-circuit local seasonal produce",
         "fr": "Produits locaux et saisonniers en circuit court",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Fruit tree pruning training for volunteers",
         "fr": "Formation à la taille des arbres fruitiers pour les bénévoles",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Solar drying workshops during off-season",
         "fr": "Ateliers de séchage solaire en basse saison",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Full setup support for new local branches",
         "fr": "Accompagnement complet pour la création de nouvelles antennes locales",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Bénévoles pour les cueillettes saisonnières",
         "fr": "Bénévoles pour les cueillettes saisonnières",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Associations bénéficiaires pour redistribution fruits",
         "fr": "Associations bénéficiaires pour redistribution fruits",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Subventions régionales et concours locaux",
         "fr": "Subventions régionales et concours locaux",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Création de nouvelles antennes en Alsace",
         "fr": "Création de nouvelles antennes en Alsace",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Propriétaires de vergers avec surplus de fruits",
         "fr": "Propriétaires de vergers avec surplus de fruits",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Contact avec fondateurs de La Rochelle",
         "fr": "Contact avec fondateurs de La Rochelle",

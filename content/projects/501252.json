@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "CoopeCuna is a Costa Rican cooperative organization supporting local farmers and promoting sustainable agricultural practices.",
     "de": "CoopeCuna is a Costa Rican cooperative organization supporting local farmers and promoting sustainable agricultural practices."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Julio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1997",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Victor Valverde arrived in the region and began working in organic agriculture, acquiring the foundational knowledge and certifications that would later support the cooperative.",
         "fr": "Victor Valverde est arrivé dans la région et a commencé à travailler dans l'agriculture biologique, acquérant les connaissances fondamentales et les certifications qui allaient plus tard soutenir la coopérative.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "February 8, 2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Copecuna was officially founded on February 8, 2013, by 23 families in Cartagena de la Rita de Pococí, starting with no money and building their first structures from straw.",
         "fr": "Copecuna a été officiellement fondée le 8 février 2013 par 23 familles à Cartagena de la Rita de Pococí, en commençant sans argent et en construisant leurs premières structures en paille.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cooperative intentionally structured its membership so that 70% of associates were women, in order to strengthen community rootedness and ensure fairer income distribution to rural households.",
         "fr": "La coopérative a délibérément structuré ses adhésions de sorte que 70 % des associés soient des femmes, afin de renforcer l'ancrage communautaire et d'assurer une distribution des revenus plus équitable aux foyers ruraux.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic caused the cooperative's tourism activities to collapse, but their medicinal plant and essential oil production surged, demonstrating the resilience of their diversified model.",
         "fr": "La pandémie de COVID-19 a provoqué l'effondrement des activités touristiques de la coopérative, mais leur production de plantes médicinales et d'huiles essentielles a connu une forte hausse, démontrant la résilience de leur modèle diversifié.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2013-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Copecuna expanded from simply selling dried medicinal plants to producing certified organic essential oils using their own distillation units, and developed 5 hectares of cacao and up to 10 hectares of medicinal plants.",
         "fr": "Copecuna s'est développée, passant de la simple vente de plantes médicinales séchées à la production d'huiles essentielles biologiques certifiées grâce à leurs propres unités de distillation, et a développé 5 hectares de cacao ainsi que jusqu'à 10 hectares de plantes médicinales.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The cooperative received renewed certifications including Mayacert, Fair Trade, and Regenerative Agriculture, and began collaborating with the Universidad Nacional to explore launching their own branded market products.",
         "fr": "La coopérative a obtenu le renouvellement de ses certifications, notamment Mayacert, Fair Trade et Agriculture Régénératrice, et a commencé à collaborer avec l'Universidad Nacional pour explorer le lancement de leurs propres produits de marque sur le marché.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fair wages and dividends to member families",
         "fr": "Salaires équitables et dividendes pour les familles membres",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Organic farming training for community",
         "fr": "Formation en agriculture biologique pour la communauté",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic food and accommodation for tourists",
         "fr": "Alimentation biologique et hébergement pour les touristes",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Essential oils from certified organic medicinal plants",
         "fr": "Huiles essentielles issues de plantes médicinales biologiques certifiées",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Certified organic cacao for export markets",
         "fr": "Cacao biologique certifié pour les marchés d'exportation",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model for rural cooperative agroecotourism",
         "fr": "Modèle d'agroécotourisme coopératif rural",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export markets for certified organic products",
         "fr": "Marchés d'exportation pour les produits biologiques certifiés",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Investors to launch cooperative's own brand",
         "fr": "Investisseurs pour lancer la marque propre de la coopérative",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funds for bioclimatic tourism infrastructure",
         "fr": "Fonds pour l'infrastructure de tourisme bioclimatique",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University collaboration for product development",
         "fr": "Collaboration universitaire pour le développement de produits",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expand organic farming in rural communities",
         "fr": "Développer l'agriculture biologique dans les communautés rurales",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Buyers for essential oils and cacao",
         "fr": "Acheteurs d'huiles essentielles et de cacao",

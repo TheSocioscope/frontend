@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Milpa Azul has over 20 years of experience in alternative and environmental education, working at the intersection of children, education, and agriculture.",
     "de": "Milpa Azul has over 20 years of experience in alternative and environmental education, working at the intersection of children, education, and agriculture."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "es",
   "location": "Mexico City",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Malika Ginon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://huertosmilpazul.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Fabienne began working as a garden educator at a Montessori school in Mexico City, one of the first professionals dedicated exclusively to this role. She started learning urban agriculture while teaching children, developing her pedagogical approach through experimentation.",
         "fr": "Fabienne a commencé à travailler comme éducatrice en jardinage dans une école Montessori à Mexico, l'une des premières professionnelles dédiées exclusivement à ce rôle. Elle a commencé à apprendre l'agriculture urbaine tout en enseignant aux enfants, développant son approche pédagogique par l'expérimentation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2013-2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Huertos Milpa Azul was conceptually founded when women began approaching Fabienne to learn about her profession, organically forming into a full school-year training program. Daniela Lara co-founded the civil association alongside Fabienne.",
         "fr": "Huertos Milpa Azul a été fondée conceptuellement lorsque des femmes ont commencé à approcher Fabienne pour en apprendre davantage sur sa profession, se transformant organiquement en un programme de formation couvrant une année scolaire complète. Daniela Lara a co-fondé l'association civile aux côtés de Fabienne.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization trained over 250 garden educators and reached more than 5,000 students across numerous Mexican cities, expanding to countries including the Dominican Republic, Chile, Spain, Peru, and Colombia. The Huerto Autónomo methodology was developed through three editions and formally patented.",
         "fr": "L'organisation a formé plus de 250 éducateurs en jardinage et a touché plus de 5 000 élèves dans de nombreuses villes mexicaines, s'étendant à des pays tels que la République dominicaine, le Chili, l'Espagne, le Pérou et la Colombie. La méthodologie Huerto Autónomo a été développée en trois éditions et formellement brevetée.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic forced all school closures, ending the multi-year educator training program. In response, Fabienne redesigned the training into condensed three-day workshops to make educator certification faster and more accessible.",
         "fr": "La pandémie de COVID-19 a forcé la fermeture de toutes les écoles, mettant fin au programme de formation pluriannuel des éducateurs. En réponse, Fabienne a repensé la formation en ateliers condensés de trois jours afin de rendre la certification des éducateurs plus rapide et plus accessible.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization operates without external funding, sustaining itself through school contracts, educator workshops, family events with partners Arca Tierra and Hacienda San Andrés, and sales of pedagogical materials. Financial stability remains a key challenge as they develop a third age-group methodology level for children aged 9-12.",
         "fr": "L'organisation fonctionne sans financement externe, se soutenant grâce aux contrats avec les écoles, aux ateliers pour éducateurs, aux événements familiaux avec les partenaires Arca Tierra et Hacienda San Andrés, ainsi qu'à la vente de matériels pédagogiques. La stabilité financière reste un défi majeur alors qu'ils développent un troisième niveau de méthodologie pour les enfants âgés de 9 à 12 ans.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Autonomous garden methodology for children",
         "fr": "Méthodologie de jardin autonome pour les enfants",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "3-day educator training workshops",
         "fr": "Ateliers de formation pour éducateurs de 3 jours",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Educational materials and pedagogical tools",
         "fr": "Matériaux éducatifs et outils pédagogiques",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Family visits and nature camps",
         "fr": "Visites familiales et séjours nature",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "School garden installation and guidance",
         "fr": "Installation et accompagnement de jardins scolaires",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Teaching children food sovereignty skills",
         "fr": "Enseigner aux enfants les compétences en souveraineté alimentaire",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Ethical funding or donations for expansion",
         "fr": "Financement éthique ou dons pour l'expansion",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Schools to adopt autonomous garden methodology",
         "fr": "Écoles pour adopter la méthodologie de jardin autonome",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners for online educational platform development",
         "fr": "Partenaires pour le développement d'une plateforme éducative en ligne",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Support to complete third age-group curriculum level",
         "fr": "Soutien pour compléter le troisième niveau de programme par groupe d'âge",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Trained garden educators for public schools",
         "fr": "Éducateurs jardiniers formés pour les écoles publiques",

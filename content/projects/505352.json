@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "The Human Milk Bank recovers surplus milk from healthy donors and redistributes it to vulnerable newborns, supporting maternal health.",
     "de": "The Human Milk Bank recovers surplus milk from healthy donors and redistributes it to vulnerable newborns, supporting maternal health."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "es",
   "location": "Irapuato, Guanajuato",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Elena Cámara López"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://boletines.guanajuato.gob.mx/tag/banco-de-leche-humana/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first human milk bank in Mexico was established at INPER, coinciding with an alliance across the Ibero-American milk bank network, which now includes more than 35 members.",
         "fr": "La première banque de lait humain au Mexique a été établie à l'INPER, coïncidant avec une alliance au sein du réseau ibéro-américain de banques de lait, qui compte désormais plus de 35 membres.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Secretary of Health of Guanajuato, a pediatrician, proposed the creation of a state-level milk bank, aligning with legislative efforts by then-congresswoman Livia Denis to expand lactation spaces in public institutions.",
         "fr": "Le Secrétaire à la Santé de Guanajuato, pédiatre de formation, a proposé la création d'une banque de lait à l'échelle de l'État, en accord avec les efforts législatifs de la alors-députée Livia Denis visant à développer les espaces d'allaitement dans les institutions publiques.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Banco de Leche of Guanajuato was inaugurated as the only state-level milk bank in Mexico with an ISO quality management system certification, ensuring biosecurity standards for donated milk.",
         "fr": "La Banco de Leche de Guanajuato a été inaugurée en tant que seule banque de lait à l'échelle de l'État au Mexique dotée d'une certification ISO de système de management de la qualité, garantissant des normes de biosécurité pour le lait donné.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-present",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The bank built a statewide network of lactation rooms across public and private institutions, becoming the only bank in the country to deliver pasteurized milk to more than 15 neonatal intensive care units.",
         "fr": "La banque a constitué un réseau régional de salles d'allaitement dans des institutions publiques et privées à travers l'État, devenant la seule banque du pays à livrer du lait pasteurisé à plus de 15 unités de soins intensifs néonatals.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2019-present",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The bank has faced ongoing challenges securing stable administrative independence from the Hospital Materno Infantil de Irapuato, while also working to grow donor networks and public awareness through word-of-mouth and social media campaigns.",
         "fr": "La banque a fait face à des défis persistants pour obtenir une indépendance administrative stable vis-à-vis de l'Hospital Materno Infantil de Irapuato, tout en travaillant à développer les réseaux de donneuses et la sensibilisation du public grâce au bouche-à-oreille et à des campagnes sur les réseaux sociaux.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The bank was designated a training and teaching institution by the national network, hosting annual practicum courses for staff from other milk banks across Mexico, and is pursuing plans to expand into a broader state donation center.",
         "fr": "La banque a été désignée institution de formation et d'enseignement par le réseau national, accueillant des stages annuels pour le personnel d'autres banques de lait à travers le Mexique, et poursuit des projets d'expansion vers un centre de don étatique plus large.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Pasteurized donor breast milk to NICUs",
         "fr": "Lait maternel pasteurisé de donneuses aux unités de soins intensifs néonatals",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building for lactation room staff",
         "fr": "Renforcement des capacités du personnel des salles d'allaitement",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Breastfeeding promotion via social media campaigns",
         "fr": "Promotion de l'allaitement via des campagnes sur les réseaux sociaux",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "ISO-certified quality management system standards",
         "fr": "Normes de système de gestion de la qualité certifiées ISO",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model training site for new milk banks",
         "fr": "Site de formation modèle pour les nouvelles banques de lait",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Emotional support for donor and recipient mothers",
         "fr": "Soutien émotionnel pour les mères donneuses et receveuses",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Breast milk donations from lactating mothers",
         "fr": "Dons de lait maternel provenant de mères allaitantes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Hospital lactation rooms across Guanajuato",
         "fr": "Salles de lactation hospitalières à travers le Guanajuato",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Breastfeeding promotion in public and private institutions",
         "fr": "Promotion de l'allaitement dans les institutions publiques et privées",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Legal mandate guaranteeing state budget allocation",
         "fr": "Mandat légal garantissant l'allocation du budget de l'État",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University partnerships for health education outreach",
         "fr": "Partenariats universitaires pour la sensibilisation à l'éducation en santé",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with Ibero-American milk bank network",
         "fr": "Collaboration avec le réseau ibéro-américain de banques de lait",

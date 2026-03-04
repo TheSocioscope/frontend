@@ -1,22 +1,36 @@
 <template>
   <v-card class="project-timeline mb-4" elevation="2" id="milestones">
     <v-card-title class="section-title">
-      <v-icon class="mr-2">mdi-flag-checkered</v-icon>
+      <v-icon class="mr-2" color="#4ca049">mdi-flag-checkered</v-icon>
       {{ $t('projects.detail.timeline') }}
     </v-card-title>
 
-    <v-card-text>
-      <div class="timeline">
-        <div
+    <v-card-text class="px-4 pb-6">
+      <v-timeline
+        side="end"
+        align="start"
+        line-color="#4ca049"
+        line-thickness="2"
+        truncate-line="both"
+      >
+        <v-timeline-item
           v-for="(item, index) in localizedTimeline"
           :key="index"
-          class="milestone"
-          :style="{ animationDelay: `${index * 0.1}s` }"
+          :dot-color="index === 0 ? '#27421d' : '#4ca049'"
+          :icon="item.icon || 'mdi-circle-small'"
+          fill-dot
+          size="small"
+          class="milestone-item"
+          :style="{ animationDelay: `${index * 0.08}s` }"
         >
-          <div class="milestone-date">{{ item.date }}</div>
-          <div class="milestone-description">{{ item.text }}</div>
-        </div>
-      </div>
+          <v-card class="milestone-card" :elevation="index === 0 ? 3 : 1" rounded="lg">
+            <v-card-text class="pa-3">
+              <div class="milestone-date">{{ item.date }}</div>
+              <p class="milestone-description ma-0">{{ item.text }}</p>
+            </v-card-text>
+          </v-card>
+        </v-timeline-item>
+      </v-timeline>
     </v-card-text>
   </v-card>
 </template>
@@ -36,61 +50,47 @@ const { t: $t } = useI18n()
   color: #27421d;
 }
 
-.timeline {
-  position: relative;
-  padding-left: 40px;
-
-  &::before {
-    content: '';
-    position: absolute;
-    left: 15px;
-    top: 0;
-    bottom: 0;
-    width: 3px;
-    background-color: #4ca049;
-  }
-}
-
-.milestone {
-  position: relative;
-  margin-bottom: 30px;
+.milestone-item {
   opacity: 0;
-  animation: fadeInUp 0.6s forwards;
-
-  &::before {
-    content: '';
-    position: absolute;
-    left: -33px;
-    top: 5px;
-    width: 16px;
-    height: 16px;
-    border-radius: 50%;
-    background-color: #4ca049;
-    border: 3px solid #fffbf0;
-  }
+  animation: fadeInLeft 0.5s ease-out forwards;
 }
 
-@keyframes fadeInUp {
+@keyframes fadeInLeft {
   from {
     opacity: 0;
-    transform: translateY(20px);
+    transform: translateX(-12px);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
+    transform: translateX(0);
+  }
+}
+
+.milestone-card {
+  border-left: 3px solid #4ca049;
+  background-color: #fffbf0;
+  transition:
+    box-shadow 0.2s ease,
+    transform 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(76, 160, 73, 0.2) !important;
+    transform: translateX(2px);
   }
 }
 
 .milestone-date {
   font-weight: 800;
   color: #27421d;
-  font-size: 1.1em;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  margin-bottom: 4px;
 }
 
 .milestone-description {
   color: #2c2416;
-  margin-top: 5px;
   line-height: 1.6;
-  font-size: 1.15em;
+  font-size: 1.05rem;
 }
 </style>

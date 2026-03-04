@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560470,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Almacén Andante, fundado en 2008-2009 en Guaymayén, Mendoza, es un proyecto dedicado a la comercialización y distribución de productos de pequeños productores, cooperativas y organizaciones sociales. Inicialmente comenzó como un stand en la Universidad Nacional de Cuyo, pero ha evolucionado hasta convertirse en un almacén ambulante que hace hincapié en el comercio justo, la soberanía alimentaria y el consumo responsable. La iniciativa fomenta el consumo local y la sostenibilidad, al tiempo que proporciona una plataforma para que los productores marginados lleguen directamente a los consumidores.",
     "de": "Almacén Andante wurde 2008-2009 in Guaymayén, Mendoza, gegründet und ist ein Projekt, das sich der Vermarktung und dem Vertrieb von Produkten kleinerer Produzenten, Genossenschaften und sozialer Organisationen widmet. Ursprünglich als Stand an der Nationalen Universität von Cuyo gestartet, hat es sich zu einem Laufhaus entwickelt, das fairen Handel, Nahrungsmittelsouveränität und verantwortungsvollen Konsum betont. Die Initiative fördert den lokalen Konsum und die Nachhaltigkeit und bietet gleichzeitig eine Plattform für marginalisierte Produzenten, um direkt mit den Verbrauchern in Kontakt zu treten."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Tealdi"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://elalmacenandante.com.ar",
   "yt": "jdE370g1X8E",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008-2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Almacén Andante was founded in Guaymallén, Mendoza, initially operating as a distribution and commercialization project for small local producers, cooperatives, and social organizations. It began with a stand at Universidad Nacional de Cuyo known as the Red de Comercio Justo de Mendoza.",
         "fr": "Almacén Andante a été fondé à Guaymallén, Mendoza, opérant initialement comme un projet de distribution et de commercialisation pour les petits producteurs locaux, les coopératives et les organisations sociales. Il a débuté avec un stand à l'Universidad Nacional de Cuyo connu sous le nom de Red de Comercio Justo de Mendoza.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The cooperative La Chipica was formally created, uniting Almacén Andante with El Espejo, a collective producing board games and printed materials. This formalization allowed workers to begin receiving salaries and access labor rights.",
         "fr": "La coopérative La Chipica a été officiellement créée, unissant Almacén Andante à El Espejo, un collectif produisant des jeux de société et des imprimés. Cette formalisation a permis aux travailleurs de commencer à percevoir des salaires et d'accéder aux droits du travail.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the COVID-19 pandemic, Almacén Andante expanded its home delivery service from bi-weekly to weekly, reaching up to 40 orders per Saturday and serving hundreds of families who could not leave their homes.",
         "fr": "Durant la pandémie de COVID-19, Almacén Andante a étendu son service de livraison à domicile d'une fréquence bihebdomadaire à hebdomadaire, atteignant jusqu'à 40 commandes par samedi et servant des centaines de familles qui ne pouvaient pas quitter leur domicile.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2016-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Through cooperative membership and assembly-based governance, the project achieved financial sustainability, covering rent, worker salaries, and operational costs through a 30% markup model and occasional state subsidies.",
         "fr": "Grâce à l'adhésion coopérative et à une gouvernance basée sur des assemblées, le projet a atteint une viabilité financière, couvrant le loyer, les salaires des travailleurs et les coûts opérationnels grâce à un modèle de marge de 30 % et à des subventions étatiques occasionnelles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Almacén Andante now supplies over 500 families weekly, works with more than 40 producers across multiple provinces, and maintains a regular market stand at Universidad Nacional de Cuyo. It is recognized as a reference model for social and solidarity economy in Mendoza.",
         "fr": "Almacén Andante approvisionne désormais plus de 500 familles par semaine, travaille avec plus de 40 producteurs répartis dans plusieurs provinces et maintient un stand régulier sur le marché de l'Universidad Nacional de Cuyo. Il est reconnu comme un modèle de référence pour l'économie sociale et solidaire à Mendoza.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution of products from cooperatives and small producers",
         "fr": "Distribution de produits issus de coopératives et de petits producteurs",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Short supply chain connecting producers and consumers",
         "fr": "Circuit court reliant les producteurs et les consommateurs",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Home delivery of food to over 500 families",
         "fr": "Livraison à domicile de denrées alimentaires à plus de 500 familles",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Reference model for social economy organizations",
         "fr": "Modèle de référence pour les organisations d'économie sociale",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Visits and learning experiences for schools",
         "fr": "Visites et expériences d'apprentissage pour les écoles",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sales point at National University of Cuyo",
         "fr": "Point de vente à l'Université nationale de Cuyo",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New cooperative and small producer partnerships",
         "fr": "Nouveaux partenariats avec des coopératives et des petits producteurs",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand fair trade consumer base",
         "fr": "Élargir la base de consommateurs du commerce équitable",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Online sales and digital subscription model",
         "fr": "Ventes en ligne et modèle d'abonnement numérique",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Provincial subsidies for cooperative sustainability",
         "fr": "Subventions provinciales pour la durabilité des coopératives",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "University and educational institution alliances",
         "fr": "Alliances avec les universités et les établissements d'enseignement",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Replicate model in other Mendoza districts",
         "fr": "Reproduire le modèle dans d'autres districts de Mendoza",

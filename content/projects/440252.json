@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739458351,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Urban Farmers Pro es una innovadora startup de agrotecnología con sede en Bogotá especializada en agricultura hidropónica, que utiliza inteligencia artificial para el control centralizado de sus sistemas de producción. Esta iniciativa permite la agricultura urbana en espacios limitados, maximizando el uso de agua y fertilizantes y produciendo verduras de forma limpia y sin productos químicos. La startup opera unidades de producción hidropónicas, inicialmente alojadas en contenedores de carga, que han sido adaptadas para optimizar el espacio y los recursos. Centrándose en la alta productividad, pueden producir el equivalente de la agricultura tradicional en una superficie mucho menor, garantizando al mismo tiempo que sus productos no contienen pesticidas y se riegan con agua potable limpia. A medida que amplían sus operaciones para incluir la agricultura vertical, Urban Farmers Pro pretende ampliar su alcance de mercado, dirigiéndose tanto a consumidores particulares como a empresas del sector de la hostelería, al tiempo que explora asociaciones para llevar su modelo de agricultura sostenible a regiones con acceso limitado a productos frescos.",
     "de": "Urban Farmers Pro ist ein innovatives Agrotechnologie-Start-up aus Bogotá, das sich auf hydroponische Landwirtschaft spezialisiert hat und künstliche Intelligenz zur zentralen Steuerung seiner Produktionssysteme nutzt. Diese Initiative ermöglicht urbane Landwirtschaft auf begrenztem Raum, maximiert die Nutzung von Wasser und Düngemitteln und produziert gleichzeitig Gemüse in einer sauberen und chemikalienfreien Weise. Das Startup betreibt hydroponische Produktionseinheiten, die ursprünglich in Frachtcontainern untergebracht waren und nun so angepasst wurden, dass Platz und Ressourcen optimal genutzt werden. Mit einem Fokus auf hohe Produktivität können sie aus einem viel kleineren Gebiet die gleiche Leistung wie die traditionelle Landwirtschaft erbringen und gleichzeitig sicherstellen, dass ihre Produkte frei von Pestiziden sind und mit sauberem Trinkwasser bewässert werden. Die Urban Farmers Pro wollen ihre Marktreichweite ausbauen, indem sie sowohl Einzelverbraucher als auch Unternehmen im Gastgewerbe ansprechen und gleichzeitig Partnerschaften erkunden, um ihr nachhaltiges Landwirtschaftsmodell in Regionen mit begrenztem Zugang zu frischen Produkten zu bringen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Garzón"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.urbanfarmerspro.com/",
   "yt": "gP1mV_82Uso",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Urban Farmers Pro originated as a university project by founders Daniel and Klaus, administration students who wanted to create 100% chemical-free crops accessible to people year-round.",
         "fr": "Urban Farmers Pro est né comme un projet universitaire fondé par Daniel et Klaus, des étudiants en administration qui souhaitaient créer des cultures 100 % sans produits chimiques, accessibles aux personnes tout au long de l'année.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Urban Farmers Pro was legally constituted as a company in October 2021, with Jorge joining as a third partner.",
         "fr": "Urban Farmers Pro a été légalement constituée en société en octobre 2021, avec l'arrivée de Jorge en tant que troisième associé.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company began installing and structuring its first Bios unit, a 40-foot container with a smart hydroponic system capable of housing 5,600 plants.",
         "fr": "L'entreprise a commencé à installer et à structurer sa première unité Bios, un conteneur de 40 pieds équipé d'un système hydroponique intelligent capable d'accueillir 5 600 plants.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A second Bios container was developed with an improved NFT hydroponic system, increasing plant capacity from 5,600 to 7,120 plants in the same space. The company also shifted its commercial focus toward the HORECA sector (hotels, restaurants, cafeterias).",
         "fr": "Un deuxième conteneur Bios a été développé avec un système hydroponique NFT amélioré, augmentant la capacité de plants de 5 600 à 7 120 dans le même espace. L'entreprise a également repositionné son activité commerciale vers le secteur HORECA (hôtels, restaurants, cafétérias).",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Urban Farmers began developing a vertical farming module of 17,500 plants inside their warehouse, targeting total monthly production of two tonnes and pursuing a major investment round to scale operations tenfold.",
         "fr": "Urban Farmers a commencé à développer un module de culture verticale de 17 500 plants à l'intérieur de son entrepôt, visant une production mensuelle totale de deux tonnes et cherchant à réaliser un important tour d'investissement pour multiplier ses opérations par dix.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Chemical-free hydroponic produce year-round",
         "fr": "Production hydroponique sans produits chimiques toute l'année",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fresh produce delivery to restaurants and homes",
         "fr": "Livraison de produits frais aux restaurants et à domicile",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Container leasing with full production operations",
         "fr": "Location de conteneurs avec exploitation complète de la production",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Educational visits for university and school students",
         "fr": "Visites éducatives pour les étudiants universitaires et scolaires",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fresh produce donations to children's foundation",
         "fr": "Dons de produits frais à la fondation pour enfants",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Microbiological quality testing of water and crops",
         "fr": "Tests de qualité microbiologique de l'eau et des cultures",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment round to scale operations tenfold",
         "fr": "Tour de financement pour décupler les opérations",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government alliances for underserved community access",
         "fr": "Alliances gouvernementales pour l'accès des communautés mal desservies",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Large retail chains for product distribution",
         "fr": "Grandes chaînes de distribution pour la distribution des produits",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Institutional container rental clients",
         "fr": "Clients institutionnels en location de conteneurs",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Private firms for food access social impact",
         "fr": "Entreprises privées pour l'impact social sur l'accès à l'alimentation",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New crop varieties beyond current leafy greens",
         "fr": "Nouvelles variétés de cultures au-delà des légumes feuillus actuels",

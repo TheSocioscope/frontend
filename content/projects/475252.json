@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754576387,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Farm With Fred es una iniciativa innovadora dirigida por Fred Monene, agricultor y agrónomo keniano, cuyo objetivo es transformar las prácticas agrícolas en toda África. A través de las redes sociales, Fred comparte su experiencia en agricultura sostenible, conectando con agricultores de todo el mundo para promover las buenas prácticas y la seguridad alimentaria. La iniciativa no sólo educa a los agricultores, sino que también fomenta una comunidad centrada en la mejora de la productividad agrícola y la protección del medio ambiente, con el objetivo último de lograr un futuro más sano y próspero para todos.",
     "de": "Farm With Fred ist eine innovative Initiative unter der Leitung von Fred Monene, einem kenianischen Landwirt und Agronomen, die darauf abzielt, landwirtschaftliche Praktiken in ganz Afrika zu verändern. Über soziale Medien teilt Fred sein Fachwissen über nachhaltige Landwirtschaft und verbindet sich mit Landwirten weltweit, um gute Praktiken und Nahrungsmittelsicherheit zu fördern. Die Initiative bildet nicht nur Landwirte aus, sondern fördert auch eine Gemeinschaft, die sich auf die Verbesserung der landwirtschaftlichen Produktivität und des Umweltmanagements konzentriert und sich letztendlich für eine gesündere und wohlhabendere Zukunft für alle einsetzt."
   },
-  "field": [
-    "nutrition",
-    "communication-and-media-studies"
-  ],
+  "field": ["nutrition", "communication-and-media-studies"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/FarmwithFred/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Fred Munene graduated with a degree in agronomy, fulfilling his goal of becoming a professional farmer and trainer. He secured his first job at a Dutch-sponsored greenhouse training institution in Kajiado.",
         "fr": "Fred Munene a obtenu un diplôme en agronomie, réalisant son objectif de devenir agriculteur professionnel et formateur. Il a décroché son premier emploi dans un établissement de formation en serres financé par les Pays-Bas à Kajiado.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Fred began informally sharing his farming journey on Facebook as Fred Munene, posting pictures and descriptions of his work to friends and farmer groups. This marked the organic beginning of what would become Farm with Fred.",
         "fr": "Fred a commencé à partager de manière informelle son parcours agricole sur Facebook sous le nom de Fred Munene, publiant des photos et des descriptions de son travail pour ses amis et des groupes d'agriculteurs. Cela a marqué le début organique de ce qui allait devenir Farm with Fred.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Kajiado greenhouse project ended and Fred made the decision to leave employment and become an independent consultant agronomist. He faced significant early challenges around pricing and farmer expectations.",
         "fr": "Le projet de serres de Kajiado a pris fin et Fred a décidé de quitter l'emploi salarié pour devenir agronome consultant indépendant. Il a fait face à d'importants défis initiaux liés à la tarification et aux attentes des agriculteurs.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Fred began farming himself to complement his consultancy work, starting with watermelon and paddy rice. This practical farming activity significantly increased his online engagement and follower base.",
         "fr": "Fred a commencé à cultiver lui-même pour compléter son activité de conseil, en débutant avec la pastèque et le riz paddy. Cette activité agricole pratique a considérablement accru son engagement en ligne et sa base d'abonnés.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During the COVID-19 pandemic, Farm with Fred was officially born as a named brand and limited company. Fred was granted an essential services license to move freely across Kenya as a food producer and agricultural trainer.",
         "fr": "Durant la pandémie de COVID-19, Farm with Fred est officiellement né en tant que marque nommée et société à responsabilité limitée. Fred a obtenu une licence de services essentiels lui permettant de se déplacer librement à travers le Kenya en tant que producteur alimentaire et formateur agricole.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Farm with Fred grew from approximately 13,000 followers to over one million across social media platforms. Fred began receiving monthly YouTube revenue and joined the Africa Influencer Network, expanding consultancy across East Africa and beyond.",
         "fr": "Farm with Fred est passé d'environ 13 000 abonnés à plus d'un million sur les plateformes de médias sociaux. Fred a commencé à percevoir des revenus mensuels de YouTube et a rejoint l'Africa Influencer Network, étendant son activité de conseil à travers l'Afrique de l'Est et au-delà.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training farmers on good agricultural practices",
         "fr": "Former les agriculteurs aux bonnes pratiques agricoles",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Linking farmers to buyers and markets",
         "fr": "Mettre en relation les agriculteurs avec les acheteurs et les marchés",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free training for youth with no money",
         "fr": "Formation gratuite pour les jeunes sans ressources financières",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Sharing farming journey via social media",
         "fr": "Partager le parcours agricole via les réseaux sociaux",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Paid consultancy visits to farms across Africa",
         "fr": "Visites de conseil payantes dans des exploitations à travers l'Afrique",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Dispensing agricultural knowledge via planned app",
         "fr": "Diffusion des connaissances agricoles via une application planifiée",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market linkages for African farmers' produce",
         "fr": "Liens avec les marchés pour les produits des agriculteurs africains",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partnership to develop free farming app",
         "fr": "Partenariat pour développer une application agricole gratuite",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Capital to open Farm With Fred shop",
         "fr": "Capital pour ouvrir une boutique Farm With Fred",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers to adopt good agricultural practices",
         "fr": "Agriculteurs adoptant de bonnes pratiques agricoles",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "On-job training with international farmers",
         "fr": "Formation en cours d'emploi avec des agriculteurs internationaux",
@@ -248,9 +237,7 @@
     }
   ],
   "editedAt": 1771239407,
-  "updatedAt": [
-    1771239407
-  ],
+  "updatedAt": [1771239407],
   "feedback": [
     {
       "content": false,

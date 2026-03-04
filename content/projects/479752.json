@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "armenia"
-  ],
+  "continent": ["asia"],
+  "country": ["armenia"],
   "createdAt": 1754656387,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en crear una experiencia gastronómica sostenible a través del primer restaurante con cero residuos de Armenia, Steakarar. Fundado por Vahe y sus socios, el restaurante hace hincapié en los ingredientes orgánicos de origen local y minimiza los residuos adaptando su menú en función de los productos disponibles. El objetivo es inspirar a otros negocios para que adopten prácticas sostenibles similares, promoviendo al mismo tiempo una cultura de responsabilidad medioambiental. La iniciativa también incluye actividades educativas para implicar a los empleados y a la comunidad en los esfuerzos de sostenibilidad.",
     "de": "Die Initiative konzentriert sich auf die Schaffung eines nachhaltigen Speiseerlebnisses durch das erste abfallfreie Restaurant in Armenien, Steakarar. Das von Vahe und seinen Partnern gegründete Restaurant legt Wert auf biologische, lokal bezogene Zutaten und minimiert Abfall, indem es seine Speisekarte an die verfügbaren Produkte anpasst. Das Ziel ist es, andere Unternehmen zu ähnlichen nachhaltigen Praktiken zu inspirieren und gleichzeitig eine Kultur der Umweltverantwortung zu fördern. Die Initiative umfasst auch Aufklärungsmaßnahmen, um die Mitarbeiter und die Gemeinschaft in die Bemühungen um Nachhaltigkeit einzubeziehen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Hermes"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.steakarar.com/",
   "yt": "8S0MtyhvdTI",
   "originalLang": "sv",
   "timeline": [
     {
       "date": "2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Club was founded in Yerevan, becoming a unique cultural and dining space in Armenia. It was among the first of its kind, attracting artists, celebrities, and intellectuals.",
         "fr": "Le Club a été fondé à Erevan, devenant un espace culturel et gastronomique unique en Arménie. Il était parmi les premiers du genre, attirant artistes, célébrités et intellectuels.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2008",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Trinity Canyon Vineyards was established as the first organic winery in Armenia. The founders chose organic methods from the beginning, never using chemicals, and later inspired larger producers to follow suit.",
         "fr": "Trinity Canyon Vineyards a été établi en tant que premier domaine viticole biologique en Arménie. Les fondateurs ont choisi des méthodes biologiques dès le début, sans jamais utiliser de produits chimiques, inspirant par la suite les grands producteurs à en faire autant.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2011",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "After moving back to Armenia, the founder opened Invino, the first Armenian wine bar, helping introduce wine-drinking culture to wider audiences. Tapastan, an Armenian tapas restaurant, followed shortly after.",
         "fr": "Après son retour en Arménie, le fondateur a ouvert Invino, le premier bar à vins arménien, contribuant à introduire la culture du vin auprès d'un public plus large. Tapastan, un restaurant de tapas arménien, a suivi peu après.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Steak Garage opened as the first zero waste restaurant in Armenia, featuring a short rotating menu, locally sourced ingredients, and systematic waste separation. It was profitable from day one.",
         "fr": "Steak Garage a ouvert ses portes en tant que premier restaurant zéro déchet en Arménie, proposant un menu court et rotatif, des ingrédients d'origine locale et un tri systématique des déchets. Il a été rentable dès le premier jour.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Club transitioned to zero waste operations following the introduction of municipal recycling bins nearby. An announcement was planned for August, along with a collaborative exhibition with a Dilijan-based recycled fashion house.",
         "fr": "Le Club a opéré sa transition vers un fonctionnement zéro déchet à la suite de l'installation de bacs de recyclage municipaux à proximité. Une annonce était prévue en août, accompagnée d'une exposition collaborative avec une maison de mode recyclée basée à Dilijan.",
@@ -104,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "First zero waste restaurant in Armenia",
         "fr": "Premier restaurant zéro déchet en Arménie",
@@ -113,7 +103,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Meals made with 95% local Armenian ingredients",
         "fr": "Plats préparés avec 95% d'ingrédients arméniens locaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model for other restaurants to adopt zero waste",
         "fr": "Modèle pour que d'autres restaurants adoptent le zéro déchet",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free business lectures for young entrepreneurs",
         "fr": "Conférences commerciales gratuites pour les jeunes entrepreneurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Books donated to 120 Armenian schools",
         "fr": "Livres donnés à 120 écoles arméniennes",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Organic winemaking since 2008 as proof of concept",
         "fr": "Vinification biologique depuis 2008 comme preuve de concept",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Other Armenian restaurants to adopt zero waste",
         "fr": "D'autres restaurants arméniens à adopter le zéro déchet",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government certification process for zero waste",
         "fr": "Processus de certification gouvernementale pour le zéro déchet",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Composting machine to process organic waste on-site",
         "fr": "Machine de compostage pour traiter les déchets organiques sur place",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Recycling companies to collect separated waste nearby",
         "fr": "Entreprises de recyclage pour collecter les déchets triés à proximité",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local organic produce suppliers using no plastic packaging",
         "fr": "Fournisseurs locaux de produits biologiques sans emballage plastique",
@@ -238,9 +228,7 @@
     }
   ],
   "editedAt": 1771240355,
-  "updatedAt": [
-    1771240355
-  ],
+  "updatedAt": [1771240355],
   "feedback": [
     {
       "content": false,

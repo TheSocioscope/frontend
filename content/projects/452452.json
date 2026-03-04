@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754422206,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "AABDA, la Asociación para la Agricultura Biodinámica en Argentina, promueve y apoya las prácticas agrícolas biodinámicas. Fundada a principios de la década de 1990, actúa como centro de formación, certificación y compromiso comunitario entre productores, consumidores y defensores de la agricultura sostenible. La AABDA hace hincapié en la importancia del equilibrio ecológico, la conservación de los recursos y la interconexión de las prácticas agrícolas, con el objetivo de mejorar la calidad de los sistemas alimentarios y fomentar una comprensión más profunda de la sostenibilidad agrícola.",
     "de": "AABDA, die Vereinigung für biodynamische Landwirtschaft in Argentinien, fördert und unterstützt biodynamische Landwirtschaftspraktiken. Sie wurde in den frühen 1990er Jahren gegründet und dient als Drehscheibe für Ausbildung, Zertifizierung und kommunales Engagement unter Erzeugern, Verbrauchern und Befürwortern einer nachhaltigen Landwirtschaft. AABDA betont die Bedeutung des ökologischen Gleichgewichts, des Ressourcenschutzes und der Vernetzung der landwirtschaftlichen Praktiken, um die Qualität der Nahrungsmittelsysteme zu verbessern und gleichzeitig ein besseres Verständnis der landwirtschaftlichen Nachhaltigkeit zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,14 +33,9 @@
       "lastname": "Martín Richter"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://aabda.com.ar/",
   "yt": "",
   "editedAt": 1754423451,
@@ -56,14 +45,12 @@
       "at": 1754423451
     }
   ],
-  "updatedAt": [
-    1754423451
-  ],
+  "updatedAt": [1754423451],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1924",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Biodynamic agriculture originated in 1924 when Rudolf Steiner gave a course for farmers seeking guidance from anthroposophy. This course became the foundational reference text for biodynamic agriculture.",
         "fr": "L'agriculture biodynamique est née en 1924 lorsque Rudolf Steiner a donné un cours à des agriculteurs cherchant des orientations issues de l'anthroposophie. Ce cours est devenu le texte de référence fondateur de l'agriculture biodynamique.",
@@ -73,7 +60,7 @@
     },
     {
       "date": "Early 1990s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) was founded by agronomists and farmers interested in biodynamic agriculture. Initial activities centered on study groups, knowledge exchange, and early training courses.",
         "fr": "L'ABDA (Asociación para la Agricultura Biológico Dinámica de Argentina) a été fondée par des agronomes et des agriculteurs intéressés par l'agriculture biodynamique. Les activités initiales étaient centrées sur des groupes d'étude, l'échange de connaissances et les premiers cours de formation.",
@@ -83,7 +70,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "ABDA formalized regional chapters across Argentina, including Patagonia Norte, Mendoza, NOA, Córdoba, Litoral, and Misiones. This marked a shift from a single national body to a decentralized, regionally represented organization.",
         "fr": "L'ABDA a formalisé des chapitres régionaux à travers l'Argentine, notamment en Patagonie Norte, Mendoza, NOA, Córdoba, Litoral et Misiones. Cela a marqué une transition d'un organisme national unique vers une organisation décentralisée à représentation régionale.",
@@ -93,7 +80,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Argentina hosted the Latin American Biodynamic Agriculture Encounter in San Miguel, funded in part by the International Biodynamic Federation. The event drew participants from across Latin America and marked Argentina's growing leadership role in the regional movement.",
         "fr": "L'Argentine a accueilli la Rencontre latino-américaine d'agriculture biodynamique à San Miguel, financée en partie par la Fédération internationale de l'agriculture biodynamique. L'événement a réuni des participants de toute l'Amérique latine et a marqué le rôle de leadership croissant de l'Argentine dans le mouvement régional.",
@@ -103,7 +90,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "ABDA celebrated 100 years of biodynamic agriculture, with each Latin American country organizing its own commemorative events rather than a central gathering. The association was also advancing accreditation as a Demeter certifier for the local market through the Participatory Guarantee System.",
         "fr": "L'ABDA a célébré 100 ans d'agriculture biodynamique, chaque pays d'Amérique latine organisant ses propres événements commémoratifs plutôt qu'un rassemblement central. L'association avançait également vers l'accréditation en tant que certificateur Demeter pour le marché local, par le biais du Système de Garantie Participatif.",
@@ -114,7 +101,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Biodynamic agriculture training courses",
         "fr": "Cours de formation en agriculture biodynamique",
@@ -123,7 +110,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Published books and biodynamic calendar",
         "fr": "Livres publiés et calendrier biodynamique",
@@ -132,7 +119,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Comparative research on biodynamic practices",
         "fr": "Recherche comparative sur les pratiques biodynamiques",
@@ -141,7 +128,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Demeter certification for biodynamic products",
         "fr": "Certification Demeter pour les produits biodynamiques",
@@ -150,7 +137,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Regional network and member meeting spaces",
         "fr": "Réseau régional et espaces de rencontre pour les membres",
@@ -159,7 +146,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Advisory services for transitioning producers",
         "fr": "Services de conseil pour les producteurs en transition",
@@ -170,7 +157,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances with aligned movements",
         "fr": "Alliances stratégiques avec des mouvements alignés",
@@ -179,7 +166,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More producers adopting biodynamic practices",
         "fr": "Plus de producteurs adoptant des pratiques biodynamiques",
@@ -188,7 +175,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Development of local certified biodynamic market",
         "fr": "Développement du marché biodynamique certifié local",
@@ -197,7 +184,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External funding beyond biodynamic world",
         "fr": "Financement externe au-delà du monde biodynamique",
@@ -206,7 +193,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Participation in seed law and agricultural policy",
         "fr": "Participation à la législation semencière et à la politique agricole",
@@ -215,7 +202,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Comparative studies on biodynamic results",
         "fr": "Études comparatives sur les résultats biodynamiques",

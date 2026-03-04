@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A farm in Touwsriver contributing to local food production and community food security.",
     "de": "A farm in Touwsriver contributing to local food production and community food security."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Touwsriver",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Bothma"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Hexport Farms purchased the Sundom farm (also referred to as Riverland) approximately eight years ago, after the previous owner was no longer able to continue farming.",
         "fr": "Hexport Farms a acheté la ferme Sundom (également appelée Riverland) il y a environ huit ans, après que le propriétaire précédent n'était plus en mesure de continuer à exploiter la ferme.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm began cultivating both almonds and pistachios, marking a strategic shift toward high-value nut production in the Touwsrivier area.",
         "fr": "La ferme a commencé à cultiver des amandes et des pistaches, marquant un tournant stratégique vers la production de noix à haute valeur dans la région de Touwsrivier.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The farm faced significant challenges including frost damage, mildew, high electricity costs, and water quality constraints affecting crop development.",
         "fr": "La ferme a fait face à des défis importants, notamment des dommages causés par le gel, le mildiou, des coûts d'électricité élevés et des contraintes liées à la qualité de l'eau affectant le développement des cultures.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm adopted drip irrigation systems and began planning investment in solar panels to reduce dependence on Eskom and manage operational costs.",
         "fr": "La ferme a adopté des systèmes d'irrigation goutte-à-goutte et a commencé à planifier un investissement dans des panneaux solaires afin de réduire la dépendance à Eskom et de maîtriser les coûts opérationnels.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Almond trees are expected to reach their first harvest, after which seasonal labor of approximately 150 to 200 workers will be employed from the local Touwsrivier community.",
         "fr": "Les amandiers devraient atteindre leur première récolte, après quoi une main-d'œuvre saisonnière d'environ 150 à 200 travailleurs sera employée depuis la communauté locale de Touwsrivier.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2028",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pistachio trees are projected to reach full production after six to eight years of cultivation, with plans to supply both international export markets and local South African stores.",
         "fr": "Les pistachiers devraient atteindre leur pleine production après six à huit ans de culture, avec des plans pour approvisionner à la fois les marchés d'exportation internationaux et les magasins locaux sud-africains.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Almond and pistachio nuts for local market",
         "fr": "Amandes et pistaches pour le marché local",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seasonal employment for local Toast River community",
         "fr": "Emploi saisonnier pour la communauté locale de Toast River",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimental pistachio cultivation in Western Cape",
         "fr": "Culture expérimentale de pistaches dans le Western Cape",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "High-value nut exports to international markets",
         "fr": "Exportation de noix à haute valeur vers les marchés internationaux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Solar energy to reduce operational electricity costs",
         "fr": "Énergie solaire pour réduire les coûts opérationnels en électricité",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Openness to host farm visits and research",
         "fr": "Ouverture à l'accueil de visites de ferme et à la recherche",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to local South African market for nuts",
         "fr": "Accès au marché local sud-africain pour les noix",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Export market clients in EU, UAE, USA",
         "fr": "Clients du marché d'exportation dans l'UE, les Émirats arabes unis et les États-Unis",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment in solar panels for operations",
         "fr": "Investissement dans des panneaux solaires pour les opérations",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technical guidance on frost and pest control",
         "fr": "Conseils techniques sur le contrôle du gel et des parasites",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Irrigation systems and agricultural equipment suppliers",
         "fr": "Fournisseurs de systèmes d'irrigation et d'équipements agricoles",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Seasonal workers from local Toast River community",
         "fr": "Travailleurs saisonniers de la communauté locale de Toast River",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647745,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Rafiki Eco Solutions Limited se centra en la producción de briquetas de carbón ecológico a partir de residuos de biomasa. La iniciativa pretende reducir la deforestación, gestionar los residuos y proporcionar energía asequible para cocinar. Al convertir los residuos agrícolas y del mercado en combustible limpio para cocinar, Rafiki no sólo aborda los problemas medioambientales, sino que también crea oportunidades de empleo en la comunidad. Las briquetas ofrecen una alternativa rentable y más sana al carbón tradicional, promoviendo prácticas sostenibles en la cocina.",
     "de": "Rafiki Eco Solutions Limited konzentriert sich auf die Herstellung umweltfreundlicher Kohlebriketts aus Biomassenabfällen. Die Initiative zielt darauf ab, die Entwaldung zu reduzieren, Abfall zu managen und erschwingliche Kochenergie bereitzustellen. Durch die Umwandlung von Agrar- und Marktabfällen in sauberen Kochbrennstoff adressiert Rafiki nicht nur Umweltbelange, sondern schafft auch Arbeitsmöglichkeiten in der Gemeinde. Die Briketts bieten eine kosteneffektive und gesündere Alternative zu traditionellem Charcoal und fördern nachhaltige Praktiken beim Kochen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Wambugu Njevi"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.f6s.com/company/rafiki-eco-solutions-limited#about",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019-2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "George Wambugu first conceived the idea for Rafiki Eco Solutions around November 2022, but initial thinking began in the post-COVID period. He registered the business as a sole proprietor before later converting it to a limited company.",
         "fr": "George Wambugu a eu l'idée de Rafiki Eco Solutions pour la première fois vers novembre 2022, mais la réflexion initiale a commencé dans la période post-COVID. Il a enregistré l'entreprise en tant qu'entreprise individuelle avant de la convertir ultérieurement en société à responsabilité limitée.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "George formally registered Rafiki Eco Solutions Limited in November 2022, though he initially could not fully commit due to holding an eight-to-five job in the tech sector.",
         "fr": "George a officiellement enregistré Rafiki Eco Solutions Limited en novembre 2022, bien qu'il n'ait pas pu s'y consacrer pleinement dans un premier temps en raison d'un emploi de huit heures à dix-sept heures dans le secteur technologique.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "March 2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "George resigned from his salaried employment and transitioned full-time into Rafiki Eco Solutions, funding operations entirely from personal savings, including selling his own car.",
         "fr": "George a démissionné de son emploi salarié et s'est consacré à temps plein à Rafiki Eco Solutions, finançant les opérations entièrement à partir de ses économies personnelles, notamment en vendant sa propre voiture.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "April 2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A pivotal client opportunity emerged when a contact introduced George to a buyer consuming over 100 bags of charcoal monthly; after two months of machine modifications, George successfully delivered nine sample bags and secured an ongoing order of over 80 bags per month.",
         "fr": "Une opportunité client cruciale est apparue lorsqu'une connaissance a présenté George à un acheteur consommant plus de 100 sacs de charbon de bois par mois ; après deux mois de modifications de la machine, George a livré avec succès neuf sacs d'échantillons et obtenu une commande régulière de plus de 80 sacs par mois.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Kenya Climate Innovation Center partnered with Rafiki Eco Solutions, providing a machine, training, and advisory support, marking the company's first external institutional partnership.",
         "fr": "Le Kenya Climate Innovation Center s'est associé à Rafiki Eco Solutions, fournissant une machine, une formation et un soutien consultatif, marquant ainsi le premier partenariat institutionnel externe de l'entreprise.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Rafiki Eco Solutions grew to a team of approximately nine staff across production, sales, and logistics, with distribution reaching multiple towns and plans to expand packaging into smaller 5kg and 10kg units to serve lower-income households countrywide.",
         "fr": "Rafiki Eco Solutions a grandi pour atteindre une équipe d'environ neuf employés répartis dans la production, les ventes et la logistique, avec une distribution atteignant plusieurs villes et des projets d'extension de l'emballage en unités plus petites de 5 kg et 10 kg pour servir les ménages à faibles revenus à travers tout le pays.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Converts agricultural waste into cooking fuel",
         "fr": "Transforme les déchets agricoles en combustible de cuisson",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Creates jobs for youth and women",
         "fr": "Crée des emplois pour les jeunes et les femmes",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable clean cooking energy for households",
         "fr": "Énergie de cuisson propre et abordable pour les ménages",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Community mentorship on home briquette making",
         "fr": "Mentorat communautaire sur la fabrication de briquettes à domicile",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supplies briquettes to hotels and retailers",
         "fr": "Fournit des briquettes aux hôtels et aux détaillants",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Locally designed briquette production machines",
         "fr": "Machines de production de briquettes conçues localement",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investors and financial partners to scale",
         "fr": "Investisseurs et partenaires financiers pour se développer",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Distribution partners in major towns",
         "fr": "Partenaires de distribution dans les grandes villes",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Agricultural waste suppliers from farms and markets",
         "fr": "Fournisseurs de déchets agricoles provenant des fermes et des marchés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Hotels and retailers as bulk buyers",
         "fr": "Hôtels et détaillants en tant qu'acheteurs en gros",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Drying technology to speed up production",
         "fr": "Technologie de séchage pour accélérer la production",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community members to learn briquette making",
         "fr": "Membres de la communauté pour apprendre la fabrication de briquettes",

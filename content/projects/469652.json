@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754504061,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Fish and Farm Cooperative se creó en 2001 para ayudar a los pescadores locales a comercializar sus capturas. A pesar de las dificultades, incluido un devastador huracán en 2020 que dañó las infraestructuras y redujo el número de miembros de más de 100 a unos 45, la cooperativa ha avanzado en la reconstrucción y el mantenimiento de las operaciones. La iniciativa hace hincapié en la importancia del apoyo comunitario, las prácticas pesqueras responsables y la necesidad de aumentar la producción para satisfacer la demanda. La cooperativa también intenta implicar a las generaciones más jóvenes en la pesca y ha establecido asociaciones con organizaciones como la ONU para obtener apoyo.",
     "de": "Die Fish and Farm Cooperative wurde 2001 gegründet, um lokale Fischer bei der Vermarktung ihres Fangs zu unterstützen. Trotz Herausforderungen, darunter ein verheerender Hurrikan im Jahr 2020, der die Infrastruktur beschädigte und die Mitgliederzahl von über 100 auf rund 45 reduzierte, hat die Genossenschaft beim Wiederaufbau und der Aufrechterhaltung der Betriebe große Anstrengungen unternommen. Die Initiative unterstreicht die Bedeutung der Unterstützung der Gemeinschaft, verantwortungsvoller Angelpraktiken und der Notwendigkeit einer höheren Produktion, um die Nachfrage zu befriedigen. Die Genossenschaft will auch jüngere Generationen für den Fischfang gewinnen und hat zur Unterstützung Partnerschaften mit Organisationen wie den Vereinten Nationen geschlossen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Hooker"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/profile.php?id=61559606795569",
   "yt": "nYdTIeYJhI4",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Pre-2001",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "A predecessor fishing cooperative called Copropesca operated in Santa Catalina island but was eventually liquidated due to financial problems and member disloyalty.",
         "fr": "Une coopérative de pêche prédécesseure appelée Copropesca opérait sur l'île de Santa Catalina, mais a finalement été liquidée en raison de problèmes financiers et de la déloyauté de ses membres.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2001",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Fish and Farm Cooperative was founded in Providencia with support from the Inter-American Development Bank (IDB), which funded the construction of facilities including docks, cold storage, and an ice machine.",
         "fr": "La coopérative Fish and Farm a été fondée à Providencia avec le soutien de la Banque interaméricaine de développement (BID), qui a financé la construction d'installations comprenant des quais, un entrepôt frigorifique et une machine à glace.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Pre-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cooperative grew to over 200 members and operated multiple vessels including Mr. Sony, Fish and Farm, and Timeout, expanding sales to San Andrés and even Bogotá on the Colombian mainland.",
         "fr": "La coopérative a grandi pour atteindre plus de 200 membres et a exploité plusieurs embarcations, dont Mr. Sony, Fish and Farm et Timeout, en élargissant ses ventes à San Andrés et même à Bogotá sur le continent colombien.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Hurricane Iota devastated the cooperative, destroying its fleet, infrastructure, and approximately 150 million pesos worth of stored product, reducing staff from 8-10 employees to around 4.",
         "fr": "L'ouragan Iota a dévasté la coopérative, détruisant sa flotte, ses infrastructures et environ 150 millions de pesos de produits stockés, réduisant le personnel de 8 à 10 employés à environ 4.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Post-2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The cooperative began reconstruction with support from the United Nations and Colombia's National Development Agency, rebuilding its roof through donations and member contributions while resuming local and San Andrés sales.",
         "fr": "La coopérative a entamé sa reconstruction avec le soutien des Nations Unies et de l'Agence nationale de développement de Colombie, reconstruisant son toit grâce à des dons et aux contributions des membres, tout en reprenant les ventes locales et à San Andrés.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Present",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "With approximately 35-45 active members, the cooperative is pursuing projects to acquire larger technified vessels to increase production capacity and eventually re-establish continental sales.",
         "fr": "Avec environ 35 à 45 membres actifs, la coopérative poursuit des projets visant à acquérir de plus grands navires technifiés afin d'augmenter sa capacité de production et de rétablir éventuellement les ventes continentales.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fresh fish sales at cooperative point",
         "fr": "Vente de poisson frais au point coopératif",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Processed fish in portions, fillets, scales",
         "fr": "Poisson transformé en portions, filets, écailles",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Financial savings and advance loans for fishers",
         "fr": "Épargne financière et prêts anticipés pour les pêcheurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Boats and equipment provided to members",
         "fr": "Bateaux et équipements fournis aux membres",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Artisanal sustainable fishing practices",
         "fr": "Pratiques de pêche artisanale durable",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community event space for cultural activities",
         "fr": "Espace communautaire pour les activités culturelles",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International cooperation allies for reconstruction support",
         "fr": "Alliés de coopération internationale pour le soutien à la reconstruction",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New active fishermen members to join cooperative",
         "fr": "Nouveaux membres pêcheurs actifs à rejoindre la coopérative",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Projects to acquire technified fishing vessels",
         "fr": "Projets d'acquisition de bateaux de pêche technifiés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand sales point to San Andrés island",
         "fr": "Étendre le point de vente à l'île de San Andrés",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Loyal fishermen supplying quality marine products",
         "fr": "Pêcheurs fidèles fournissant des produits marins de qualité",

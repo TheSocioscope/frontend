@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Aurélien Thivent is Mission Officer for Career Transitions at Creativ21, a key pillar of the food transition initiative in Dijon.",
     "de": "Aurélien Thivent is Mission Officer for Career Transitions at Creativ21, a key pillar of the food transition initiative in Dijon."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Thivent"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.creativ21.fr/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Creative (Maison de l'Emploi et de la Formation de Dijon Métropole) is founded, initially as a Groupement d'Intérêt Public (GIP), operating for roughly twenty years under various forms and names.",
         "fr": "Creative (Maison de l'Emploi et de la Formation de Dijon Métropole) est fondée, initialement en tant que Groupement d'Intérêt Public (GIP), fonctionnant pendant environ vingt ans sous diverses formes et appellations.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Creative transitions from GIP status to an association loi 1901. Simultaneously, Dijon Métropole responds to the France 2030 PIA call for projects, launching Prodige with the ambition of making Dijon a showcase for sustainable food.",
         "fr": "Creative passe du statut de GIP à celui d'association loi 1901. Simultanément, Dijon Métropole répond à l'appel à projets France 2030 PIA, en lançant Prodige avec l'ambition de faire de Dijon une vitrine de l'alimentation durable.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Prodige officially launches on January 1st with 24 actions across public and private partners. Creative's Lab Compétences (Action 23) begins fieldwork, and Aurélien Thivan is recruited specifically for the project in September.",
         "fr": "Prodige est officiellement lancé le 1er janvier avec 24 actions impliquant des partenaires publics et privés. Le Lab Compétences de Creative (Action 23) débute ses travaux de terrain, et Aurélien Thivan est recruté spécifiquement pour le projet en septembre.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Lab Compétences conducts qualitative diagnostics and co-constructs experimental training resources across multiple food-chain sectors, including a hybrid e-learning module and escape game for CHU Dijon staff addressing malnutrition and food waste, and a soil/agroecology e-learning module for agricultural trainers.",
         "fr": "Le Lab Compétences réalise des diagnostics qualitatifs et co-construit des ressources de formation expérimentales dans plusieurs secteurs de la chaîne alimentaire, notamment un module e-learning hybride et un escape game pour le personnel du CHU Dijon traitant de la dénutrition et du gaspillage alimentaire, ainsi qu'un module e-learning sur les sols et l'agroécologie destiné aux formateurs agricoles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Prodige is labelled as a PAT (Plan Alimentaire Territorial), unlocking dedicated funding streams. Creative's soil training module is adopted by Chambre d'Agriculture Côte-d'Or and Biobourgogne, and disseminated nationally to agricultural cooperatives.",
         "fr": "Prodige est labellisé PAT (Plan Alimentaire Territorial), ouvrant l'accès à des financements dédiés. Le module de formation sur les sols développé par Creative est adopté par la Chambre d'Agriculture Côte-d'Or et Biobourgogne, et diffusé à l'échelle nationale auprès des coopératives agricoles.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Prodige funding ends December 2024; Creative negotiates PAT financing and reallocation of unconsumed Prodige funds to extend activities by one year, covering remaining diagnostics (independent restaurants) and new training modules on soils.",
         "fr": "Le financement de Prodige prend fin en décembre 2024 ; Creative négocie le financement PAT et la réaffectation des fonds Prodige non consommés afin de prolonger les activités d'un an, couvrant les diagnostics restants (restaurants indépendants) et de nouveaux modules de formation sur les sols.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Economic mutation diagnostics for local industries",
         "fr": "Diagnostics de mutation économique pour les industries locales",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Custom training modules and pedagogical resources",
         "fr": "Modules de formation sur mesure et ressources pédagogiques",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "E-learning tools for professional skills development",
         "fr": "Outils e-learning pour le développement des compétences professionnelles",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Co-construction of change management with stakeholders",
         "fr": "Co-construction de la conduite du changement avec les parties prenantes",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental pilot programs for sector transformation",
         "fr": "Programmes pilotes expérimentaux pour la transformation sectorielle",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Career support for job seekers furthest from employment",
         "fr": "Accompagnement professionnel pour les demandeurs d'emploi les plus éloignés de l'emploi",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Diagnoses on economic mutations in key sectors",
         "fr": "Diagnostics sur les mutations économiques dans les secteurs clés",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative co-construction partners for experiments",
         "fr": "Partenaires de co-construction collaborative pour les expérimentations",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public funding for diagnostic and training phases",
         "fr": "Financements publics pour les phases de diagnostic et de formation",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Organizations willing to integrate training resources",
         "fr": "Organisations prêtes à intégrer des ressources de formation",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to large distribution and independent restaurants",
         "fr": "Accès à la grande distribution et aux restaurants indépendants",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "PAT label support for territorial food transition",
         "fr": "Soutien au label PAT pour la transition alimentaire territoriale",

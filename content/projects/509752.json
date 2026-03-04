@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A 100% black-owned commercial table grape enterprise on 355.9 hectares, a successful model of land reform and BEE ownership.",
     "de": "A 100% black-owned commercial table grape enterprise on 355.9 hectares, a successful model of land reform and BEE ownership."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Robertson",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Boer"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2001",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "South Africa introduced the Land Redistribution Act (LRAD) as part of the post-apartheid land reform process, aimed at addressing the historical exclusion of black South African farmers from commercial agriculture.",
         "fr": "L'Afrique du Sud a introduit la loi sur la redistribution des terres (LRAD) dans le cadre du processus de réforme foncière post-apartheid, visant à remédier à l'exclusion historique des agriculteurs noirs sud-africains de l'agriculture commerciale.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The farm initiative was established in 2009 through the LRAD government program, which provided funding and land access opportunities for black farmers. Mr. Hendrik Davids, who grew up on a farm with parents who were farm workers, became the managing director.",
         "fr": "L'initiative agricole a été créée en 2009 dans le cadre du programme gouvernemental LRAD, qui offrait des financements et des opportunités d'accès aux terres pour les agriculteurs noirs. M. Hendrik Davids, qui a grandi dans une ferme avec des parents ouvriers agricoles, est devenu le directeur général.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The operation began growing on the Vergelegen Fehaliran land, with Umdavo as the operational company leasing the land. The farm focused on premium export table grapes covering approximately 45 hectares.",
         "fr": "L'exploitation a commencé à se développer sur les terres de Vergelegen Fehaliran, avec Umdavo comme société opérationnelle louant les terres. La ferme s'est concentrée sur le raisin de table d'exportation haut de gamme couvrant environ 45 hectares.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2009-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The workforce grew to 55 permanent staff and up to 250-300 seasonal workers during peak harvest season, with grapes exported internationally through partner Interfruit to markets including the UK, Europe, and China.",
         "fr": "La main-d'œuvre est passée à 55 employés permanents et jusqu'à 250 à 300 travailleurs saisonniers pendant la saison de récolte, avec des raisins exportés à l'international via le partenaire Interfruit vers des marchés tels que le Royaume-Uni, l'Europe et la Chine.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm diversified into cash crops including watermelon and butternut squash on 15 acres to generate income during the long table grape production cycle and provide year-round employment.",
         "fr": "La ferme s'est diversifiée dans des cultures de rente, notamment la pastèque et la courge butternut sur 15 acres, afin de générer des revenus pendant le long cycle de production du raisin de table et d'assurer un emploi tout au long de l'année.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-future",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Future plans include planting new grape cultivars such as Candy Floss to meet international market demand, expanding their own cooling facility, and developing an additional 70 acres with citrus crops to extend seasonal employment.",
         "fr": "Les projets futurs comprennent la plantation de nouveaux cépages tels que le Candy Floss pour répondre à la demande des marchés internationaux, l'expansion de leur propre installation frigorifique, et le développement de 70 acres supplémentaires avec des cultures d'agrumes pour prolonger l'emploi saisonnier.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export table grapes to Europe and China",
         "fr": "Exportation de raisins de table vers l'Europe et la Chine",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free grapes given to local community members",
         "fr": "Raisins offerts gratuitement aux membres de la communauté locale",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Employment for 200-250 seasonal farm workers",
         "fr": "Emploi pour 200 à 250 travailleurs agricoles saisonniers",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local market sales of smaller grape varieties",
         "fr": "Ventes au marché local de petites variétés de raisins",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Permanent housing for core farm staff on-site",
         "fr": "Logement permanent pour le personnel permanent de la ferme sur place",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Cash crops like watermelon for local market",
         "fr": "Cultures de rente comme la pastèque pour le marché local",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government support for cooling facility expansion",
         "fr": "Soutien gouvernemental pour l'expansion des installations de refroidissement",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to new international export markets",
         "fr": "Accès à de nouveaux marchés d'exportation internationaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New cultivars meeting international demand",
         "fr": "Nouveaux cultivars répondant à la demande internationale",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with financial and compliance consultants",
         "fr": "Collaboration avec des consultants financiers et en conformité",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Reliable chemical and fertilizer service providers",
         "fr": "Fournisseurs fiables de produits chimiques et d'engrais",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Seasonal worker housing solutions on farm",
         "fr": "Solutions de logement pour les travailleurs saisonniers à la ferme",

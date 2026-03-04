@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754475470,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa del Hotel Belmar se centra en la sostenibilidad y el compromiso con la comunidad, transformando el hotel en un destino ecológico de gama alta. Fundado por una familia costarricense, el hotel prima la calidad sobre la cantidad, reduciendo el número de habitaciones y mejorando la experiencia de los huéspedes. Sus esfuerzos de sostenibilidad incluyen un restaurante de la granja a la mesa, jardinería orgánica y asociaciones con organizaciones locales. El hotel pretende conectar a los huéspedes con la naturaleza y contribuir activamente a la comunidad mediante diversas iniciativas educativas y de conservación.",
     "de": "Die Initiative im Hotel Belmar konzentriert sich auf Nachhaltigkeit und Engagement für die Gemeinschaft und verwandelt das Hotel in ein umweltfreundliches High-End-Reiseziel. Gegründet von einer Familie aus Costa Rica, legt das Hotel Wert auf Qualität statt Quantität, indem es die Anzahl der Zimmer reduziert und gleichzeitig die Gästeerlebnisse steigert. Ihre Nachhaltigkeitsbemühungen umfassen ein Bauernhofrestaurant, organischen Gartenbau und Partnerschaften mit lokalen Organisationen. Das Hotel möchte seine Gäste mit der Natur verbinden, während es durch verschiedene Bildungs- und Naturschutzinitiativen aktiv zur Gemeinschaft beiträgt."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,13 +34,9 @@
       "lastname": "Belmar"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.hotelbelmar.net/",
   "yt": "vqKFX6Cm3p4",
   "editedAt": 1755739285,
@@ -56,14 +46,12 @@
       "at": 1755739285
     }
   ],
-  "updatedAt": [
-    1755739285
-  ],
+  "updatedAt": [1755739285],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1985",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Hotel Belmar was founded by Pedro and Vera Belmar as a simple family guest house in Monteverde, Costa Rica, at a time when the area was transitioning from an agricultural to an eco-touristic economy.",
         "fr": "L'Hôtel Belmar a été fondé par Pedro et Vera Belmar en tant que simple maison d'hôtes familiale à Monteverde, au Costa Rica, à une époque où la région était en transition d'une économie agricole vers une économie écotouristique.",
@@ -73,7 +61,7 @@
     },
     {
       "date": "1990",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Land across the street was acquired, doubling the property and allowing construction of a second building with more rooms.",
         "fr": "Un terrain de l'autre côté de la rue a été acquis, doublant la propriété et permettant la construction d'un deuxième bâtiment avec davantage de chambres.",
@@ -83,7 +71,7 @@
     },
     {
       "date": "2010-2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Major renovations in 2012 shifted the hotel from budget to upscale, reducing rooms from 34 to 26. Around this time the farm was added and on-site food gardens were established, beginning the farm-to-table program.",
         "fr": "De grandes rénovations en 2012 ont transformé l'hôtel d'un établissement économique en un établissement haut de gamme, réduisant le nombre de chambres de 34 à 26. À cette époque, la ferme a été ajoutée et des jardins alimentaires sur place ont été établis, lançant ainsi le programme de cuisine de la ferme à la table.",
@@ -93,7 +81,7 @@
     },
     {
       "date": "2012",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Hotel Belmar became the first hotel in Monteverde to achieve the Level 5 CST (Certificate for Sustainable Tourism), the highest rating in Costa Rica's government-sponsored sustainable tourism certification program.",
         "fr": "L'Hôtel Belmar est devenu le premier hôtel à Monteverde à obtenir le niveau 5 du CST (Certificat pour le Tourisme Durable), la note la plus élevée du programme de certification du tourisme durable parrainé par le gouvernement du Costa Rica.",
@@ -103,7 +91,7 @@
     },
     {
       "date": "2014-2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The brewery opened in 2014, integrating spent grain into the farm's composting system. By 2016 a dedicated agriculture manager post was created, professionalizing food production and enabling the farm-to-table model to become financially viable.",
         "fr": "La brasserie a ouvert en 2014, intégrant les drêches de brasserie dans le système de compostage de la ferme. En 2016, un poste dédié de responsable agricole a été créé, professionnalisant la production alimentaire et permettant au modèle de la ferme à la table de devenir financièrement viable.",
@@ -113,7 +101,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the COVID-19 pandemic, the hotel pivoted by packaging surplus garden produce as value-added products sold locally and to former guests, keeping staff employed and the food production systems operational.",
         "fr": "Durant la pandémie de COVID-19, l'hôtel a pivoté en conditionnant l'excédent de produits du jardin sous forme de produits à valeur ajoutée vendus localement et aux anciens clients, maintenant ainsi le personnel en emploi et les systèmes de production alimentaire en fonctionnement.",
@@ -124,7 +112,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm-to-table dining experiences for guests",
         "fr": "Expériences gastronomiques de la ferme à la table pour les clients",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Farm visits and culinary workshops for guests",
         "fr": "Visites de la ferme et ateliers culinaires pour les clients",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Funding and partnerships with local community organizations",
         "fr": "Financement et partenariats avec des organisations communautaires locales",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Organic agriculture courses and composting workshops",
         "fr": "Cours d'agriculture biologique et ateliers de compostage",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Locally grown organic produce for restaurant menus",
         "fr": "Produits biologiques cultivés localement pour les menus des restaurants",
@@ -169,7 +157,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biointensive agriculture model replicable by others",
         "fr": "Modèle d'agriculture biointensive reproductible par d'autres",
@@ -180,7 +168,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with local community organizations and NGOs",
         "fr": "Collaboration avec des organisations communautaires locales et des ONG",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Organic and ethical local food suppliers",
         "fr": "Fournisseurs alimentaires locaux biologiques et éthiques",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge on edible native plants for landscapes",
         "fr": "Connaissances sur les plantes indigènes comestibles pour les paysages",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Other hotels to adopt farm-to-table model",
         "fr": "D'autres hôtels pour adopter le modèle de la ferme à la table",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Agricultural experts and agronomists for consultation",
         "fr": "Experts agricoles et agronomes pour la consultation",

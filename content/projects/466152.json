@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754477478,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Finca Orgánica San Luis es una granja ecológica situada cerca de San José, Costa Rica, dedicada principalmente al cultivo y la venta de hortalizas a los consumidores locales. La finca hace hincapié en las prácticas sostenibles y la participación de la comunidad. Ofrecen visitas guiadas para educar a los visitantes sobre la agricultura ecológica y pretenden ampliar sus iniciativas educativas. Comprometida con la protección del medio ambiente, la granja equilibra la sostenibilidad económica con la pasión por cultivar la tierra.                                               ",
     "de": "Die Finca Organica San Luis ist ein Bio-Bauernhof in der Nähe von San Jose, Costa Rica, der sich hauptsächlich auf den Anbau und den Verkauf von Gemüse an lokale Verbraucher konzentriert. Der Hof legt Wert auf nachhaltige Praktiken und kommunales Engagement. Sie bieten Touren an, um Besucher über den ökologischen Landbau aufzuklären, und möchten ihre Bildungsinitiativen ausbauen. Mit einem Bekenntnis zu Umweltmanagement balanciert der Hof wirtschaftliche Nachhaltigkeit mit einer Leidenschaft für die Pflege des Landes.                                               "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,13 +34,9 @@
       "lastname": "Rodriguez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "9UUZcQ4t6M4",
   "editedAt": 1760067496,
@@ -56,14 +46,12 @@
       "at": 1760067496
     }
   ],
-  "updatedAt": [
-    1760067496
-  ],
+  "updatedAt": [1760067496],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1997",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Finca Orgánica San Luis began its transition to organic agriculture, initiated by Felicia's father after he suffered agrochemical poisoning and decided to shift away from conventional practices. The farm originally operated as a conventional coffee farm using agrochemicals before making this change.",
         "fr": "La Finca Orgánica San Luis a entamé sa transition vers l'agriculture biologique, initiée par le père de Felicia après avoir subi une intoxication aux produits agrochimiques et avoir décidé de s'éloigner des pratiques conventionnelles. La ferme fonctionnait à l'origine comme une exploitation caféière conventionnelle utilisant des produits agrochimiques avant d'effectuer ce changement.",
@@ -73,7 +61,7 @@
     },
     {
       "date": "Late 1990s–early 2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The founding family received training in organic and agroecological practices primarily through INA, Costa Rica's national agricultural institute. This formal education supported the early transition from conventional coffee monoculture to diversified organic horticulture.",
         "fr": "La famille fondatrice a reçu une formation aux pratiques biologiques et agroécologiques principalement par l'intermédiaire de l'INA, l'institut agricole national du Costa Rica. Cette formation formelle a soutenu la transition précoce de la monoculture caféière conventionnelle vers une horticulture biologique diversifiée.",
@@ -83,7 +71,7 @@
     },
     {
       "date": "2001",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "An NGO provided monetary support to help the farm obtain its first organic certification, covering the cost of a third-party certifier. This was the only time the farm held a conventional paid certification.",
         "fr": "Une ONG a fourni un soutien financier pour aider la ferme à obtenir sa première certification biologique, en couvrant le coût d'un certificateur tiers. C'était la seule fois que la ferme a détenu une certification payante conventionnelle.",
@@ -93,7 +81,7 @@
     },
     {
       "date": "2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The farm faced pressure from a Ministry of Agriculture official who challenged their use of the term 'organic' without certification. This prompted the family to pursue participatory certification, which they obtained without paying a third-party certifier.",
         "fr": "La ferme a subi des pressions de la part d'un fonctionnaire du ministère de l'Agriculture qui a contesté leur utilisation du terme « biologique » sans certification. Cela a incité la famille à poursuivre une certification participative, qu'elle a obtenue sans payer de certificateur tiers.",
@@ -103,7 +91,7 @@
     },
     {
       "date": "25+ years of operation",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm developed into a diversified agroecological system producing vegetables, coffee, and medicinal plants, while also launching agrotourism, Airbnb cabins, and a community garden project in Atenas. The farm began commercializing its own seeds and supplying an organic distributor in Guanacaste.",
         "fr": "La ferme s'est développée en un système agroécologique diversifié produisant des légumes, du café et des plantes médicinales, tout en lançant de l'agrotourisme, des cabines Airbnb et un projet de jardin communautaire à Atenas. La ferme a commencé à commercialiser ses propres semences et à approvisionner un distributeur biologique au Guanacaste.",
@@ -113,7 +101,7 @@
     },
     {
       "date": "Future plans",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The family plans to open a small farm restaurant and formalize a training and event space already under development on the property. They also aim to achieve 100% seed self-sufficiency and consolidate a fully local market.",
         "fr": "La famille prévoit d'ouvrir un petit restaurant à la ferme et de formaliser un espace de formation et d'événements déjà en cours de développement sur la propriété. Elle vise également à atteindre une autosuffisance en semences à 100 % et à consolider un marché entièrement local.",
@@ -124,7 +112,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic vegetables sold to local community",
         "fr": "Légumes biologiques vendus à la communauté locale",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm tours showing agroecological production",
         "fr": "Visites de la ferme illustrant la production agroécologique",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training and education sessions for visiting groups",
         "fr": "Sessions de formation et d'éducation pour les groupes visiteurs",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "School garden support in nearby communities",
         "fr": "Soutien aux jardins scolaires dans les communautés voisines",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct delivery of produce to households",
         "fr": "Livraison directe de produits aux foyers",
@@ -169,7 +157,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Seed production for local commercialization",
         "fr": "Production de semences pour la commercialisation locale",
@@ -180,7 +168,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand local direct-to-consumer vegetable sales",
         "fr": "Développer les ventes directes locales de légumes aux consommateurs",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Grow agrotourism visits and educational groups",
         "fr": "Accroître les visites d'agrotourisme et les groupes éducatifs",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Build collaborative organic farmer certification group",
         "fr": "Créer un groupe collaboratif de certification d'agriculteurs biologiques",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop seed production for commercial supply",
         "fr": "Développer la production de semences pour l'approvisionnement commercial",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Support to open on-farm restaurant and training center",
         "fr": "Soutien à l'ouverture d'un restaurant à la ferme et d'un centre de formation",

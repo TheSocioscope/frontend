@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754648136,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Coast Baobab es una iniciativa de la región costera de Kenia centrada en promover los aperitivos locales, en particular los productos del baobab y la kashata. Colaborando con diversas partes interesadas, mejoran la disponibilidad y el atractivo de estos aperitivos tradicionales, haciéndolos accesibles en todo Kenia y más allá. La iniciativa aspira a apoyar la sostenibilidad alimentaria al tiempo que aborda los retos de la producción y la distribución, fomentando en última instancia un mercado próspero para estas delicias costeras únicas.                 ",
     "de": "Coast Baobab ist eine Initiative in Kenias Küstenregion, die sich auf die Förderung lokaler Snacks, insbesondere Baobab-Produkte und Kashata, konzentriert. Durch die Zusammenarbeit mit verschiedenen Stakeholdern steigern sie die Verfügbarkeit und Attraktivität dieser traditionellen Snacks und machen sie in ganz Kenia und darüber hinaus zugänglich. The initiative aims to support food sustainability while addressing challenges in production and distribution, ultimately fostering a thriving market for these unique coastal delicacies.                 "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Ubah"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Early years",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The business owner started Islahi Mabuyu 001 as a single mother in Mombasa, beginning with very small capital and growing from the bottom up. She began producing coastal snacks including mabuyu, kashata, achari, and labania from home.",
         "fr": "La propriétaire de l'entreprise a lancé Islahi Mabuyu 001 en tant que mère célibataire à Mombasa, en commençant avec un très petit capital et en progressant depuis la base. Elle a commencé à produire des collations côtières, notamment le mabuyu, le kashata, l'achari et le labania, depuis chez elle.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Coast Baobab formed as an umbrella organization bringing together small businesses in Kenya's coastal region to value-add, repackage, and distribute traditional coastal snacks like mabuyu and kashata beyond their region of origin.",
         "fr": "Coast Baobab a été créé en tant qu'organisation faîtière regroupant de petites entreprises de la région côtière du Kenya pour valoriser, reconditionner et distribuer des collations côtières traditionnelles comme le mabuyu et le kashata au-delà de leur région d'origine.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The business expanded distribution beyond Mombasa to markets across Kenya, with products also being sent to Tanzania and Uganda, and active pursuit of the Middle East export market.",
         "fr": "L'entreprise a étendu sa distribution au-delà de Mombasa vers des marchés à travers le Kenya, avec des produits également envoyés en Tanzanie et en Ouganda, et une démarche active pour conquérir le marché d'exportation au Moyen-Orient.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Key operational challenges identified include weather-dependent sun drying of products, limited capital to purchase raw materials in large quantities from farmers, and highly manual production processes with no mechanized equipment.",
         "fr": "Les principaux défis opérationnels identifiés comprennent le séchage des produits au soleil selon les conditions météorologiques, le capital limité pour acheter des matières premières en grande quantité auprès des agriculteurs, et des processus de production très manuels sans équipement mécanisé.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Future",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The business is planning to set up a larger warehouse with electric-powered dryers and mechanized equipment to speed up production and meet high demand. The owner also expressed plans to open additional branches and expand to international markets.",
         "fr": "L'entreprise prévoit d'installer un entrepôt plus grand avec des séchoirs électriques et des équipements mécanisés pour accélérer la production et répondre à une forte demande. La propriétaire a également exprimé des projets d'ouverture de succursales supplémentaires et d'expansion vers des marchés internationaux.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Repackaged coastal snacks for wider availability",
         "fr": "Collations côtières reconditionnées pour une disponibilité élargie",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution across Kenya and East Africa",
         "fr": "Distribution à travers le Kenya et l'Afrique de l'Est",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for youth and women",
         "fr": "Emploi pour les jeunes et les femmes",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Value-added baobab and coconut products",
         "fr": "Produits à valeur ajoutée à base de baobab et de noix de coco",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Knowledge sharing with women's groups",
         "fr": "Partage de connaissances avec les groupes de femmes",
@@ -150,7 +140,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Capital to purchase raw materials in bulk",
         "fr": "Capital pour acheter des matières premières en vrac",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to Middle East export markets",
         "fr": "Accès aux marchés d'exportation du Moyen-Orient",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Reliable farmers for consistent raw material supply",
         "fr": "Agriculteurs fiables pour un approvisionnement constant en matières premières",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Supermarket distribution partnerships locally and regionally",
         "fr": "Partenariats de distribution avec des supermarchés localement et régionalement",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Mechanized drying and processing equipment",
         "fr": "Équipements mécanisés de séchage et de transformation",

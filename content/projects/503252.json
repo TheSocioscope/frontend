@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "hong-kong"
-  ],
+  "continent": ["asia"],
+  "country": ["hong-kong"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Mr. Calvin Yu developed a processed fishery food business with 'Hong Kong made' branding and serves on the Sustainable Fisheries Development Fund committee.",
     "de": "Mr. Calvin Yu developed a processed fishery food business with 'Hong Kong made' branding and serves on the Sustainable Fisheries Development Fund committee."
   },
-  "field": [
-    "economics-business"
-  ],
+  "field": ["economics-business"],
   "lang": "en",
   "location": "Hong Kong",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Yu"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.teamriver.com.hk/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Kelvin Yu began his involvement in Hong Kong's aquaculture industry by helping draft the first organic aquaculture standard for Hong Kong. This marked his entry into the sector on an individual basis before formally establishing a company.",
         "fr": "Kelvin Yu a commencé son implication dans l'industrie aquacole de Hong Kong en contribuant à la rédaction du premier standard d'aquaculture biologique pour Hong Kong. Cela a marqué son entrée dans le secteur à titre individuel avant de créer formellement une entreprise.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2013-2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After several years of failed attempts and fish losses, Kelvin formally registered a company and began small-scale commercial sales of organically certified fish. He identified key challenges around B2B supply consistency and pivoted toward direct-to-consumer (B2C) sales.",
         "fr": "Après plusieurs années de tentatives infructueuses et de pertes de poissons, Kelvin a officiellement enregistré une entreprise et a commencé des ventes commerciales à petite échelle de poissons certifiés biologiques. Il a identifié des défis clés liés à la régularité des approvisionnements B2B et s'est orienté vers les ventes directes aux consommateurs (B2C).",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic initially disrupted business but became a turning point, as home-bound consumers began ordering local fish and produce online. Customer acquisition grew rapidly during this period, providing valuable market data.",
         "fr": "La pandémie de COVID-19 a d'abord perturbé l'activité, mais est devenue un tournant décisif, les consommateurs confinés ayant commencé à commander en ligne du poisson et des produits locaux. L'acquisition de clients a connu une croissance rapide durant cette période, fournissant de précieuses données de marché.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Leveraging COVID-era momentum, the company transitioned toward B2B wholesale by becoming a general agent for imported products including mainland Chinese and foreign salmon. The company relocated to the wholesale food market to facilitate imports.",
         "fr": "Tirant parti de l'élan généré par la période COVID, l'entreprise s'est orientée vers la vente en gros B2B en devenant agent général de produits importés, notamment du saumon en provenance de Chine continentale et de l'étranger. L'entreprise a déménagé vers le marché alimentaire de gros pour faciliter les importations.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "By 2025, B2B wholesale revenue had surpassed B2C sales, representing roughly 70% of total revenue. The company expanded its product range beyond local fish to include imported fruits, vegetables, and processed fish products.",
         "fr": "D'ici 2025, le chiffre d'affaires de la vente en gros B2B avait dépassé celui des ventes B2C, représentant environ 70 % du chiffre d'affaires total. L'entreprise a élargi sa gamme de produits au-delà du poisson local pour inclure des fruits, légumes et produits de poisson transformés importés.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The fishery association partnered with Hong Kong University and MTR on a 34-hectare wetland conservation project near Lok Ma Chau, breeding fish fry to restore biodiversity. Kelvin also began lecturing at VTC on modern aquaculture to train the next generation of industry entrants.",
         "fr": "L'association de pêcheurs s'est associée à l'Université de Hong Kong et à la MTR dans le cadre d'un projet de conservation de zones humides de 34 hectares près de Lok Ma Chau, en élevant des alevins pour restaurer la biodiversité. Kelvin a également commencé à enseigner à la VTC sur l'aquaculture moderne afin de former la prochaine génération de professionnels du secteur.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Hong Kong certified organic fish products",
         "fr": "Produits de poisson biologiques certifiés à Hong Kong",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2C and B2B wholesale fish sales",
         "fr": "Vente de poisson en gros B2C et B2B",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Fish farm visits for public education",
         "fr": "Visites de fermes piscicoles pour l'éducation du public",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Vocational aquaculture courses at VTC",
         "fr": "Cours d'aquaculture professionnelle au VTC",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cooperative model support for local fishermen",
         "fr": "Soutien au modèle coopératif pour les pêcheurs locaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Organic aquaculture standards development",
         "fr": "Développement des normes d'aquaculture biologique",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for overseas halal-certified markets",
         "fr": "Collaborateurs pour les marchés halal certifiés à l'étranger",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B wholesale buyers for processed fish products",
         "fr": "Acheteurs grossistes B2B pour les produits de poisson transformés",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New entrants into local aquaculture industry",
         "fr": "Nouveaux entrants dans l'industrie aquacole locale",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic partners for biodiversity and sustainability data",
         "fr": "Partenaires académiques pour les données sur la biodiversité et la durabilité",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local fishermen to supply organic fish stock",
         "fr": "Pêcheurs locaux pour fournir du stock de poisson biologique",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government support for cooperative farming model",
         "fr": "Soutien gouvernemental pour le modèle d'agriculture coopérative",

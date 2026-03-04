@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1755263082,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, La Brasserie de l'Etre, se centra en la producción de bebidas de alta calidad como cerveza, kombucha y limonada, al tiempo que fomenta una red de colaboración de artesanos locales. El proyecto Kaamelott pretende apoyar a los artesanos mediante la puesta en común de recursos y conocimientos, mejorando la sostenibilidad y la resistencia en la producción de alimentos. Mediante actos culturales y la participación de la comunidad, la iniciativa fomenta la felicidad y la autosuficiencia, esforzándose por crear una economía local vibrante e interconectada en París.  ",
     "de": "Die Initiative \"La Brasserie de l'Etre\" konzentriert sich auf die Herstellung von hochwertigen Getränken wie Bier, Kombucha und Limonade und fördert gleichzeitig ein kollaboratives Netzwerk von lokalen Handwerkern. Das Kaamelott-Projekt zielt darauf ab, Handwerker durch die Bündelung von Ressourcen und Fachwissen zu unterstützen und die Nachhaltigkeit und Widerstandsfähigkeit der Lebensmittelproduktion zu verbessern. Durch kulturelle Veranstaltungen und gemeinschaftliches Engagement fördert die Initiative Glück und Selbstversorgung und strebt danach, eine lebendige, vernetzte lokale Wirtschaft in Paris zu schaffen.  "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Jalat-Dehen"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://brasseriedeletre.paris/nos-engagements/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Edouard Jaladouane fonde la Brasserie de Lettres à Paris avec cinq associés, passant d'une production de test à 80 litres à une production professionnelle de 1000 litres par brassin.",
         "fr": "Edouard Jaladouane fonde la Brasserie de Lettres à Paris avec cinq associés, passant d'une production de test à 80 litres à une production professionnelle de 1000 litres par brassin.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2014-2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Les trois premières années sont particulièrement éprouvantes, avec des difficultés bancaires, un équipement défectueux menant à un procès, et une montée en charge progressive jusqu'à neuf salariés.",
         "fr": "Les trois premières années sont particulièrement éprouvantes, avec des difficultés bancaires, un équipement défectueux menant à un procès, et une montée en charge progressive jusqu'à neuf salariés.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "La brasserie investit 400 000 euros, dont 200 000 en matériel et 200 000 pour soutenir une croissance de 20%, et modernise son processus d'embouteillage en passant à un système isobarométrique.",
         "fr": "La brasserie investit 400 000 euros, dont 200 000 en matériel et 200 000 pour soutenir une croissance de 20%, et modernise son processus d'embouteillage en passant à un système isobarométrique.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "La COVID-19 supprime la moitié des clients (bars et restaurants), puis la crise ukrainienne entraîne une hausse de plus de 100% du prix du verre, forçant la brasserie à augmenter ses prix de 15% tout en réduisant ses marges.",
         "fr": "La COVID-19 supprime la moitié des clients (bars et restaurants), puis la crise ukrainienne entraîne une hausse de plus de 100% du prix du verre, forçant la brasserie à augmenter ses prix de 15% tout en réduisant ses marges.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "La brasserie obtient le premier agrément ESU de cinq ans accordé à une brasserie sur la base de son activité réelle, et survit grâce à des buvettes aux JO de Paris 2024 et une procédure de conciliation.",
         "fr": "La brasserie obtient le premier agrément ESU de cinq ans accordé à une brasserie sur la base de son activité réelle, et survit grâce à des buvettes aux JO de Paris 2024 et une procédure de conciliation.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025-2026",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Un nouveau local de 700 m² dans le 19e arrondissement est en cours de validation, destiné à accueillir un tiers-lieu regroupant artisans, espace de dégustation, formation à la fermentation et projet Kaamelott de mutualisation des ressources.",
         "fr": "Un nouveau local de 700 m² dans le 19e arrondissement est en cours de validation, destiné à accueillir un tiers-lieu regroupant artisans, espace de dégustation, formation à la fermentation et projet Kaamelott de mutualisation des ressources.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisanal craft beers and fermented beverages",
         "fr": "Bières artisanales et boissons fermentées",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free literary salons open to public",
         "fr": "Salons littéraires gratuits ouverts au public",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Shared workspace for local artisans",
         "fr": "Espace de travail partagé pour les artisans locaux",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Brewery byproduct reuse and knowledge sharing",
         "fr": "Réutilisation des sous-produits de brasserie et partage des savoirs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Fermentation and brewing training programs",
         "fr": "Programmes de formation à la fermentation et au brassage",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "ESS-certified model for artisan resilience",
         "fr": "Modèle certifié ESS pour la résilience des artisans",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Artisans to join shared workspace Kaamelott",
         "fr": "Artisans à rejoindre l'espace de travail partagé Kaamelott",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public grants and ESS project calls",
         "fr": "Subventions publiques et appels à projets ESS",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Local customers within 19th arrondissement Paris",
         "fr": "Clients locaux dans le 19e arrondissement de Paris",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Solutions for brewery grain byproduct reuse",
         "fr": "Solutions pour la réutilisation des sous-produits de drêches de brasserie",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Paris Council validation for new premises lease",
         "fr": "Validation du Conseil de Paris pour le bail de nouveaux locaux",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local bio malt suppliers in Île-de-France",
         "fr": "Fournisseurs locaux de malt bio en Île-de-France",

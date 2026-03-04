@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754576689,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Rabbit Crew Kenya es una iniciativa pionera de cría de conejos creada en enero de 2019, centrada en la producción de carne de conejo para el mercado keniano. La empresa no solo vende carne, sino que también apoya a los agricultores locales proporcionándoles formación, reproductores y construcción de criaderos de conejos. Con el compromiso de mejorar la seguridad alimentaria y promover prácticas agrícolas sostenibles, Rabbit Crew tiene como objetivo educar a las comunidades sobre los beneficios nutricionales de la carne de conejo, al tiempo que fomenta una red de criadores de conejos en toda la región.",
     "de": "Rabbit Crew Kenya ist eine bahnbrechende Kaninchenzucht-Initiative, die im Januar 2019 gegründet wurde und sich auf die Herstellung von Kaninchenfleisch für den kenianischen Markt konzentriert. Das Unternehmen verkauft nicht nur Fleisch, sondern unterstützt auch lokale Bauern, indem es Schulungen, Zuchtbestände und den Bau von Kaninchenhüten anbietet. Mit dem Ziel, die Ernährungssicherheit zu erhöhen und nachhaltige landwirtschaftliche Praktiken zu fördern, möchte die Rabbit Crew die Gemeinden über die ernährungsphysiologischen Vorteile von Kaninchenfleisch aufklären und gleichzeitig ein Netzwerk von Kaninchenbauern in der gesamten Region aufbauen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Gathogo"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://rabbitcrewkenya.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "David Mwangi founded Rabbit Crew Kenya in January 2019, starting with approximately 15 rabbits for personal domestic meat consumption after being unable to restock rabbit meat at a local butchery.",
         "fr": "David Mwangi a fondé Rabbit Crew Kenya en janvier 2019, en commençant avec environ 15 lapins pour la consommation personnelle de viande après avoir été incapable de se réapprovisionner en viande de lapin dans une boucherie locale.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Rabbits multiplied beyond family consumption, prompting David to begin selling meat to neighbors and friends, which organically revealed demand for hatchery construction, breeder supply, and farming guidance.",
         "fr": "Les lapins se sont multipliés au-delà de la consommation familiale, ce qui a poussé David à commencer à vendre de la viande aux voisins et amis, révélant organiquement une demande pour la construction de clapiers, la fourniture de reproducteurs et des conseils en élevage.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The business expanded block by block from 22 hutches to over 1,000-rabbit capacity, adding carpentry services, breeder sales, accessories, and monthly training sessions every last Saturday.",
         "fr": "L'entreprise s'est développée progressivement, passant de 22 clapiers à une capacité de plus de 1 000 lapins, en ajoutant des services de menuiserie, la vente de reproducteurs, des accessoires et des sessions de formation mensuelles chaque dernier samedi.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Rabbit Crew secured its first hotel client after a sampling initiative that served approximately 600 people around Nairobi, providing a recurring weekly bulk order that significantly reduced individual marketing effort.",
         "fr": "Rabbit Crew a décroché son premier client hôtelier grâce à une initiative de dégustation ayant touché environ 600 personnes autour de Nairobi, offrant une commande groupée hebdomadaire récurrente qui a considérablement réduit les efforts individuels de marketing.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "David established the Kenya Rabbit Meat Forum WhatsApp community of around 900 farmers, and began selling rabbit urine and manure as organic fertilizer and pesticide to niche organic farming clients.",
         "fr": "David a créé la communauté WhatsApp Kenya Rabbit Meat Forum regroupant environ 900 éleveurs, et a commencé à vendre l'urine et le fumier de lapin comme engrais organique et pesticide à des clients spécialisés dans l'agriculture biologique.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A contact from the United Arab Emirates inquired about procuring ten tons of rabbit meat, exposing a critical supply gap and the core ongoing challenge of balancing international demand against insufficient local production capacity.",
         "fr": "Un contact des Émirats arabes unis a manifesté son intérêt pour l'achat de dix tonnes de viande de lapin, mettant en évidence un manque critique d'approvisionnement et le défi permanent d'équilibrer la demande internationale face à une capacité de production locale insuffisante.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Rabbit meat sales to homes and hotels",
         "fr": "Vente de viande de lapin aux particuliers et aux hôtels",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Monthly paid rabbit farming training sessions",
         "fr": "Sessions mensuelles payantes de formation à l'élevage de lapins",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Rabbit hutch construction and setup on-site",
         "fr": "Construction et installation de clapiers sur site",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Starter breeding rabbits supplied to new farmers",
         "fr": "Lapins reproducteurs de départ fournis aux nouveaux éleveurs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Rabbit urine and manure for organic farmers",
         "fr": "Urine et fumier de lapin pour les agriculteurs biologiques",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free online resources via website and WhatsApp group",
         "fr": "Ressources en ligne gratuites via le site web et le groupe WhatsApp",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Mainstream market for rabbit meat consumption",
         "fr": "Marché grand public pour la consommation de viande de lapin",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Business-to-business partners to fulfill bulk orders",
         "fr": "Partenaires interentreprises pour satisfaire les commandes en gros",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumers willing to try rabbit meat",
         "fr": "Consommateurs prêts à essayer la viande de lapin",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Rabbit farmers to outsource supply from",
         "fr": "Éleveurs de lapins auprès desquels externaliser l'approvisionnement",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Export buyers committing to rabbit meat orders",
         "fr": "Acheteurs à l'export s'engageant sur des commandes de viande de lapin",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Structured financing to scale farm operations",
         "fr": "Financement structuré pour développer les opérations agricoles",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754908756,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Open Food Facts es una iniciativa sin ánimo de lucro y de código abierto que recopila y comparte datos sobre productos alimenticios en todo el mundo. Fundada en 2012, permite a consumidores e investigadores acceder a información sobre nutrición e impacto medioambiental. El proyecto depende de las contribuciones de la comunidad para mejorar su base de datos, que actualmente incluye millones de productos de más de 160 países. Al promover la transparencia y la toma de decisiones informadas, Open Food Facts pretende fomentar hábitos alimentarios más saludables y hacer frente a las injusticias relacionadas con la alimentación.",
     "de": "Open Food Facts ist eine gemeinnützige, Open-Source-Initiative, die weltweit Daten über Lebensmittelprodukte sammelt und weitergibt. Sie wurde 2012 gegründet und stärkt Verbraucher und Forscher, indem sie zugängliche Informationen über Ernährung und Umweltauswirkungen bereitstellt. Das Projekt stützt sich auf Beiträge der Gemeinschaft, um seine Datenbank zu erweitern, die derzeit Millionen von Produkten aus über 160 Ländern umfasst. Durch die Förderung von Transparenz und informierten Entscheidungen will Open Food Facts gesündere Essgewohnheiten fördern und Ungerechtigkeiten bei Lebensmitteln beseitigen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Solomon"
     }
   ],
-  "thematic": [
-    "data-information-and-computing",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["data-information-and-computing", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://world.openfoodfacts.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Open Food Facts was founded by Stephane Gigante with the goal of making food product label data accessible to everyone. The project started as a community-driven, open source and open data initiative.",
         "fr": "Open Food Facts a été fondé par Stephane Gigante avec pour objectif de rendre les données des étiquettes de produits alimentaires accessibles à tous. Le projet a débuté comme une initiative communautaire, open source et open data.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2015",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Open Food Facts collaborated with the French epidemiology research team developing the five-color nutritional score, which later became Nutri-Score. This partnership helped the score gain widespread adoption, eventually being adopted by seven European countries.",
         "fr": "Open Food Facts a collaboré avec l'équipe française de recherche en épidémiologie développant le score nutritionnel à cinq couleurs, qui est devenu par la suite le Nutri-Score. Ce partenariat a contribué à l'adoption généralisée du score, qui a finalement été adopté par sept pays européens.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2015-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The database grew to 3.7 million products from 160 countries, reaching approximately 3 million monthly users. Open Food Facts was referenced in over 600 papers on Google Scholar and used in more than 50 formal research studies.",
         "fr": "La base de données a atteint 3,7 millions de produits provenant de 160 pays, comptant environ 3 millions d'utilisateurs mensuels. Open Food Facts a été référencé dans plus de 600 articles sur Google Scholar et utilisé dans plus de 50 études de recherche formelles.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Open Food Facts, as part of a consortium including Yuka, developed an environmental score for food called Eco Score, later renamed Green Score, based on life cycle analysis of products.",
         "fr": "Open Food Facts, dans le cadre d'un consortium incluant Yuka, a développé un score environnemental pour les aliments appelé Eco Score, rebaptisé par la suite Green Score, basé sur l'analyse du cycle de vie des produits.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2020s",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Open Food Facts won the Google Impact Challenge grant of 1 million euros focused on the Green Score, enabling the team to grow from two or three permanent staff to eight people.",
         "fr": "Open Food Facts a remporté la subvention Google Impact Challenge d'un million d'euros axée sur le Green Score, permettant à l'équipe de passer de deux ou trois employés permanents à huit personnes.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The app was expanded beyond food to allow contributors to add non-food products including cosmetics, electronics, and clothing, connecting to sub-projects Open Beauty Facts, Open Products Facts, and Open Pet Food Facts.",
         "fr": "L'application a été étendue au-delà de l'alimentation pour permettre aux contributeurs d'ajouter des produits non alimentaires, notamment des cosmétiques, de l'électronique et des vêtements, en se connectant aux sous-projets Open Beauty Facts, Open Products Facts et Open Pet Food Facts.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Open food product database for researchers",
         "fr": "Base de données ouverte sur les produits alimentaires pour les chercheurs",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Crowdsourced food label data collection",
         "fr": "Collecte participative de données sur les étiquettes alimentaires",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer tools for informed food choices",
         "fr": "Outils pour les consommateurs afin de faire des choix alimentaires éclairés",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Free open data for apps and services",
         "fr": "Données ouvertes gratuites pour les applications et les services",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Nutri-Score and environmental Green Score display",
         "fr": "Affichage du Nutri-Score et du Green Score environnemental",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops and events for community contributors",
         "fr": "Ateliers et événements pour les contributeurs de la communauté",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Active contributors and community moderators",
         "fr": "Contributeurs actifs et modérateurs de la communauté",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for core infrastructure and maintenance",
         "fr": "Subventions pour l'infrastructure principale et la maintenance",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Food producers willing to share product data",
         "fr": "Producteurs alimentaires prêts à partager leurs données produits",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers using open food data",
         "fr": "Chercheurs utilisant des données alimentaires ouvertes",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Global ambassadors to expand international presence",
         "fr": "Ambassadeurs mondiaux pour renforcer la présence internationale",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Data on non-food product categories",
         "fr": "Données sur les catégories de produits non alimentaires",

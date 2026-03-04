@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754406575,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Gordon Granja, situada en Choele Choel (Argentina), es una iniciativa agrícola pionera que hace hincapié en las prácticas sostenibles y la participación de la comunidad. Fundada a finales de la década de 1960, ha evolucionado hasta convertirse en una explotación diversificada que produce diversos cultivos, como cebollas, maíz y nueces. La explotación da prioridad a los mercados locales e internacionales, fomentando sólidas relaciones con los empleados y la comunidad. Su compromiso con la sostenibilidad medioambiental y el desarrollo del capital humano sustenta su modelo empresarial, garantizando la resistencia y el crecimiento en condiciones difíciles.",
     "de": "Gordon Granja in Choele Choel, Argentinien, ist eine bahnbrechende landwirtschaftliche Initiative, die nachhaltige Praktiken und kommunales Engagement betont. Das in den späten 1960er Jahren gegründete Unternehmen hat sich zu einem diversifizierten Betrieb entwickelt, der eine Vielzahl von Kulturen produziert, darunter Zwiebeln, Corn und Walnüsse. Der Betrieb konzentriert sich auf lokale und internationale Märkte und fördert starke Beziehungen zu den Mitarbeitern und der Gemeinde. Its commitment to environmental sustainability and human capital development underpins its business model, ensuring resilience and growth in challenging conditions."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Gordon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/gordonsfarm/reel/DCMg9S-ussD/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1960s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Gordon Farm was founded by Tibor Gordon, a Czechoslovakian immigrant, at Establecimiento La Media Luna in Choele Choel, Patagonia. The operation began as an ovine and cattle farm with 16 kilometers of Río Negro riverfront across 12,000 hectares.",
         "fr": "La Ferme Gordon a été fondée par Tibor Gordon, un immigrant tchécoslovaque, à l'Establecimiento La Media Luna à Choele Choel, en Patagonie. L'exploitation a débuté comme une ferme ovine et bovine avec 16 kilomètres de berges du Río Negro sur 12 000 hectares.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "1991-2000s",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Diego's father co-founded FUDEMPA (Fundación para el Desarrollo de la Norpatagonia), a public-private foundation involving seven municipalities, which also gave rise to the CEER regional technical training institute.",
         "fr": "Le père de Diego a cofondé la FUDEMPA (Fundación para el Desarrollo de la Norpatagonia), une fondation public-privé impliquant sept municipalités, qui a également donné naissance à l'institut régional de formation technique CEER.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "1996",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Diego Gordon joined the operation and began introducing pivot irrigation technology, expanding production into the mid-slope area and adding horticulture, starting with potatoes, onions, squash, carrots, and garlic.",
         "fr": "Diego Gordon a rejoint l'exploitation et a commencé à introduire la technologie d'irrigation par pivot, étendant la production vers la zone de mi-pente et ajoutant l'horticulture, en commençant par les pommes de terre, les oignons, les courges, les carottes et l'ail.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2006",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A fire destroyed much of the packing shed and potato processing line, prompting a strategic pivot away from horticulture toward livestock feed crops including alfalfa, corn, and feedlot operations.",
         "fr": "Un incendie a détruit une grande partie du hangar d'emballage et de la ligne de traitement des pommes de terre, entraînant un pivot stratégique abandonnant l'horticulture au profit des cultures fourragères pour le bétail, notamment la luzerne, le maïs et les opérations de parc d'engraissement.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2007-2016",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Gordon Farm partnered with Arcor under the Tomate Patagonia program, leading a regional shift from flood irrigation to drip irrigation that increased tomato yields from 35,000 to 100,000 kilos per hectare across 30 producers.",
         "fr": "La Ferme Gordon s'est associée à Arcor dans le cadre du programme Tomate Patagonia, menant une transition régionale de l'irrigation par inondation vers l'irrigation goutte-à-goutte, augmentant les rendements de tomates de 35 000 à 100 000 kilos par hectare auprès de 30 producteurs.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2010-present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Gordon Farm stabilized its diversified production matrix of onions, squash, alfalfa, corn, barley, cattle, and walnuts, securing long-term agreements with Cooperativa Obrera and developing export markets across Europe, Canada, and Japan under the Gordon Farm brand.",
         "fr": "La Ferme Gordon a stabilisé sa matrice de production diversifiée d'oignons, de courges, de luzerne, de maïs, d'orge, de bétail et de noix, en obtenant des accords à long terme avec la Cooperativa Obrera et en développant des marchés d'exportation en Europe, au Canada et au Japon sous la marque Gordon Farm.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh produce supplied to regional supermarket chain",
         "fr": "Produits frais fournis à une chaîne de supermarchés régionale",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export of vegetables to international markets",
         "fr": "Exportation de légumes vers les marchés internationaux",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Stable employment for 100+ local workers",
         "fr": "Emploi stable pour plus de 100 travailleurs locaux",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Internships and visits for local students",
         "fr": "Stages et visites pour les étudiants locaux",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular agricultural system minimizing resource waste",
         "fr": "Système agricole circulaire minimisant le gaspillage des ressources",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Technology transfer for drip irrigation adoption",
         "fr": "Transfert de technologie pour l'adoption de l'irrigation goutte-à-goutte",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New international export markets beyond Brazil",
         "fr": "Nouveaux marchés internationaux d'exportation au-delà du Brésil",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative producers for joint commercialization",
         "fr": "Producteurs collaboratifs pour la commercialisation conjointe",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth engagement in agricultural production",
         "fr": "Engagement des jeunes dans la production agricole",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Plastic waste recycling solution for agricultural inputs",
         "fr": "Solution de recyclage des déchets plastiques pour les intrants agricoles",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Mechanical transplant technology for large onions",
         "fr": "Technologie de transplantation mécanique pour les gros oignons",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Value-added product development partnerships",
         "fr": "Partenariats pour le développement de produits à valeur ajoutée",

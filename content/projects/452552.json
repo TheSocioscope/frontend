@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754422295,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Cáliz Bio es una innovadora startup argentina centrada en el aprovechamiento de plantas autóctonas y el reciclaje de subproductos agrícolas para desarrollar nutracéuticos y productos alimentarios sostenibles. Fundada en 2021, la empresa tiene como objetivo mejorar la sostenibilidad de los alimentos mediante la mejora de la genética de las plantas para una mayor eficiencia de los recursos. En colaboración con diversas partes interesadas, como universidades y grupos de inversión, Cáliz Bio se ha comprometido a explorar el potencial sin explotar de la diversa flora de Argentina, promoviendo al mismo tiempo la protección del medio ambiente y el bienestar de la comunidad.",
     "de": "Cáliz Bio ist ein innovatives argentinisches Start-up-Unternehmen, das sich auf die Hebelwirkung einheimischer Pflanzen und das Upcycling landwirtschaftlicher Nebenprodukte konzentriert, um nachhaltige Nutrazeutika und Lebensmittelprodukte zu entwickeln. Das 2021 gegründete Unternehmen zielt darauf ab, die Nachhaltigkeit von Lebensmitteln durch die Verbesserung der Pflanzengenetik für eine bessere Ressourceneffizienz zu erhöhen. Cáliz Bio arbeitet mit verschiedenen Stakeholdern zusammen, darunter Universitäten und Investitionsgruppen, und hat es sich zur Aufgabe gemacht, das unausgeschöpfte Potenzial der vielfältigen argentinischen Flora zu erforschen und gleichzeitig die Umweltverantwortung und das Wohlbefinden der Gemeinschaft zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Smolarz"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://caliz.bio/en/",
   "yt": "",
   "originalLang": "fr",
   "gallery": [],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Active ingredients from native plants research",
         "fr": "Recherche de principes actifs issus de plantes indigènes",
@@ -61,7 +51,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Upcycling of agricultural crop byproducts",
         "fr": "Valorisation des sous-produits de cultures agricoles",
@@ -70,7 +60,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B ingredients for cosmetic and nutraceutical industry",
         "fr": "Ingrédients B2B pour l'industrie cosmétique et nutraceutique",
@@ -79,7 +69,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Cell agriculture using 90% less soil and water",
         "fr": "Agriculture cellulaire utilisant 90% moins de sol et d'eau",
@@ -88,7 +78,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "International scientific and commercial network connections",
         "fr": "Connexions avec des réseaux scientifiques et commerciaux internationaux",
@@ -99,7 +89,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic partners for industrial scale-up",
         "fr": "Partenaires stratégiques pour la mise à l'échelle industrielle",
@@ -108,7 +98,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B buyers for active ingredients",
         "fr": "Acheteurs B2B pour les ingrédients actifs",
@@ -117,7 +107,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific collaborators for efficacy testing",
         "fr": "Collaborateurs scientifiques pour les tests d'efficacité",
@@ -126,7 +116,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Companies willing to switch to novel ingredients",
         "fr": "Entreprises prêtes à adopter de nouveaux ingrédients",
@@ -135,7 +125,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International labs for analytics and validation",
         "fr": "Laboratoires internationaux pour l'analyse et la validation",
@@ -147,7 +137,7 @@
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cáliz Bio was founded in 2021 when Damián Smolars and Pablo Rico secured their first significant investment from Facundo Garretón, launching the company to develop biotech ingredients from native plants.",
         "fr": "Cáliz Bio a été fondée en 2021 lorsque Damián Smolars et Pablo Rico ont obtenu leur premier investissement significatif de la part de Facundo Garretón, lançant ainsi l'entreprise pour développer des ingrédients biotechnologiques issus de plantes natives.",
@@ -157,7 +147,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Cáliz Bio established a key alliance with Biopropagaciones in Santiago del Estero, gaining access to a certified laboratory for research and development without duplicating infrastructure.",
         "fr": "Cáliz Bio a établi une alliance clé avec Biopropagaciones à Santiago del Estero, accédant à un laboratoire certifié pour la recherche et le développement sans dupliquer les infrastructures.",
@@ -167,7 +157,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Cáliz Bio made its first product sale to a Boston-based company, demonstrating the commercial-grade quality of their biotechnology-derived active ingredients.",
         "fr": "Cáliz Bio a réalisé sa première vente de produit à une entreprise basée à Boston, démontrant la qualité commerciale de ses ingrédients actifs dérivés de la biotechnologie.",
@@ -177,7 +167,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Cáliz Bio joined the Terrafloss group led by Facundo Garretón, gaining access to international commercial alliances and a network of innovation-focused companies across Argentina, Chile, Peru, Colombia, and Mexico.",
         "fr": "Cáliz Bio a rejoint le groupe Terrafloss dirigé par Facundo Garretón, accédant ainsi à des alliances commerciales internationales et à un réseau d'entreprises axées sur l'innovation en Argentine, au Chili, au Pérou, en Colombie et au Mexique.",
@@ -187,7 +177,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The company reached over 350 planted hectares and developed more than 10 cellular lines in plant cell agriculture, along with four products in the fermented cosmetics concept.",
         "fr": "L'entreprise a atteint plus de 350 hectares plantés et développé plus de 10 lignées cellulaires dans l'agriculture cellulaire végétale, ainsi que quatre produits dans le concept de cosmétiques fermentés.",

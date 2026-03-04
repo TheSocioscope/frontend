@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754912017,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa \"C'est qui le patron?\" pretende empoderar a los consumidores permitiéndoles elegir productos que garanticen una compensación justa a los productores. Inspirada en proyectos de recogida de verduras imperfectas que de otro modo se tirarían, la iniciativa se fundó en 2016, con un producto lácteo, animando a los consumidores a pagar un poco más para apoyar a los agricultores. El modelo cooperativo fomenta las conexiones directas entre productores y consumidores, promoviendo la transparencia y la sostenibilidad en la producción de alimentos al tiempo que desafía las normas tradicionales de fijación de precios en el mercado.",
     "de": "Die Initiative \"C'est qui le patron?\" will den Verbrauchern die Möglichkeit geben, sich für Produkte zu entscheiden, die eine faire Entlohnung der Erzeuger gewährleisten. Inspiriert von Projekten, die unvollkommenes Gemüse sammeln, das sonst weggeworfen würde, wurde die Initiative 2016 mit einem Milchprodukt gegründet, das die Verbraucher ermutigt, etwas mehr zu zahlen, um die Landwirte zu unterstützen. Das Genossenschaftsmodell fördert direkte Verbindungen zwischen Erzeugern und Verbrauchern, Transparenz und Nachhaltigkeit in der Lebensmittelproduktion und stellt gleichzeitig traditionelle Preisnormen auf dem Markt in Frage."
   },
-  "field": [
-    "communication-and-media-studies",
-    "nutrition"
-  ],
+  "field": ["communication-and-media-studies", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Chabanne"
     }
   ],
-  "thematic": [
-    "communication-public-sphere-rhetorics",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["communication-public-sphere-rhetorics", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://cestquilepatron.com/nos-convictions-et-notre-histoire-collective/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nicolas Chabanne co-founded 'C'est qui le patron?' after learning that dairy farmers needed only 8 extra centimes per litre to earn a living wage. The first product, a milk carton with a consumer-voted price and specifications, was launched without advertising or a sales force.",
         "fr": "Nicolas Chabanne a co-fondé 'C'est qui le patron?' après avoir appris que les agriculteurs laitiers n'avaient besoin que de 8 centimes supplémentaires par litre pour gagner un salaire décent. Le premier produit, une brique de lait avec un prix et des caractéristiques votés par les consommateurs, a été lancé sans publicité ni force de vente.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "In its first year, the milk carton sold 33 million litres, nearly ten times the 5-million-litre maximum predicted by industry experts.",
         "fr": "Lors de sa première année, la brique de lait s'est vendue à 33 millions de litres, soit près de dix fois le maximum de 5 millions de litres prévu par les experts du secteur.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2016",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following the milk's success, a apple juice was added after a fruit producer called to say he was uprooting his trees due to a shortfall of 9 centimes per kilogram, applying the same consumer-voted cahier des charges model.",
         "fr": "Suite au succès du lait, un jus de pomme a été ajouté après qu'un producteur fruitier a appelé pour dire qu'il arrachait ses arbres en raison d'un manque à gagner de 9 centimes par kilogramme, en appliquant le même modèle de cahier des charges voté par les consommateurs.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2016–2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cooperative grew to 16,000 members and 128 million products sold per year, becoming the best-selling new brand in France over ten years across products including milk, butter, eggs, and yoghurt, all without television advertising.",
         "fr": "La coopérative a grandi jusqu'à atteindre 16 000 membres et 128 millions de produits vendus par an, devenant la nouvelle marque la plus vendue en France sur dix ans avec des produits incluant le lait, le beurre, les œufs et le yaourt, le tout sans publicité télévisée.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Nicolas Chabanne transferred his shares, valued at approximately 30 million euros, into a shareholder foundation, legally preventing any future sale to a large group or personal enrichment, and securing the cooperative's mission permanently.",
         "fr": "Nicolas Chabanne a transféré ses parts, évaluées à environ 30 millions d'euros, dans une fondation actionnaire, empêchant légalement toute vente future à un grand groupe ou tout enrichissement personnel, et pérennisant définitivement la mission de la coopérative.",
@@ -105,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair-price products sold in supermarkets",
         "fr": "Produits à prix équitable vendus en supermarchés",
@@ -114,7 +102,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Consumer cooperative open to all members",
         "fr": "Coopérative de consommateurs ouverte à tous les membres",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local products with guaranteed producer income",
         "fr": "Produits locaux avec revenu garanti pour les producteurs",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Transparent pricing via consumer voting system",
         "fr": "Tarification transparente via un système de vote des consommateurs",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "On-site verification visits for consumers",
         "fr": "Visites de vérification sur site pour les consommateurs",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Anti-waste products from imperfect produce",
         "fr": "Produits anti-gaspillage issus de denrées imparfaites",
@@ -161,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Manufacturers able to meet consumer-voted specifications",
         "fr": "Fabricants capables de répondre aux spécifications votées par les consommateurs",
@@ -170,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New consumer members joining the cooperative",
         "fr": "Nouveaux membres consommateurs rejoignant la coopérative",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Farmers in financial difficulty needing fair pricing",
         "fr": "Agriculteurs en difficulté financière ayant besoin d'une tarification équitable",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Retailers willing to shelf fair-price products",
         "fr": "Détaillants prêts à mettre en rayon des produits à prix équitable",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Entrepreneurs to replicate model in other sectors",
         "fr": "Entrepreneurs pour reproduire le modèle dans d'autres secteurs",

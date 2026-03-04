@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754986767,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Sembrando Confianza es un mercado agroecológico puesto en marcha por la fundación colombo-francesa Proyecto Sin Fronteras. Creado en 2012, conecta a pequeños agricultores de Bogotá, Cundinamarca y Boyacá con los consumidores, promoviendo prácticas sostenibles y precios justos. La iniciativa se centra en la venta de productos frescos y procesados elaborados por agricultores locales, fomentando el apoyo a la comunidad y el cuidado del medio ambiente. A través de su plataforma en línea, Sembrando Confianza pretende mejorar la accesibilidad de los alimentos al tiempo que empodera a los productores locales.",
     "de": "Sembrando Confianza (Vertrauen säen) ist ein agro-ökologischer Markt, der von der kolumbianisch-französischen Stiftung Projekt ohne Grenzen initiiert wurde. Er wurde 2012 gegründet und bringt Kleinbauern aus Bogotá, Cundinamarca und Boyacá mit Verbrauchern zusammen, um nachhaltige Praktiken und faire Preise zu fördern. Die Initiative konzentriert sich auf den Verkauf frischer und verarbeiteter Produkte, die von lokalen Landwirten hergestellt werden, und fördert die Unterstützung der Gemeinschaft und den Schutz der Umwelt. Mit ihrer Online-Plattform will Sowing Confidence die Zugänglichkeit von Lebensmitteln verbessern und gleichzeitig die lokalen Erzeuger stärken."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Ujueta"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://sembrandoconfianza.com/lo-que-hacemos/",
   "yt": "vRY8TqwN1GA",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Fundación Proyectar sin Fronteras was created by Colombian founders who were studying in France, dedicated to emprendimiento social, environmental care, and community inclusion.",
         "fr": "La Fundación Proyectar sin Fronteras a été créée par des fondateurs colombiens qui étudiaient en France, dédiée à l'entrepreneuriat social, à la protection de l'environnement et à l'inclusion communautaire.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Sembrando Confianza was launched as a project within the foundation, connecting small agroecological farmers in Cundinamarca and Boyacá with consumers in Bogotá through an online platform.",
         "fr": "Sembrando Confianza a été lancé en tant que projet au sein de la fondation, reliant de petits agriculteurs agroécologiques de Cundinamarca et Boyacá avec des consommateurs à Bogotá via une plateforme en ligne.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2012-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The market operated steadily for nearly a decade, building relationships with small farmers and developing a weekly home-delivery model with a 60% revenue share for producers.",
         "fr": "Le marché a fonctionné de manière stable pendant près d'une décennie, tissant des liens avec de petits agriculteurs et développant un modèle de livraison à domicile hebdomadaire avec une part de 60 % des revenus reversée aux producteurs.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "During the pandemic, online food sales surged, allowing Sembrando Confianza to grow, hire more staff, and improve its web platform, also scaling up solidarity markets for vulnerable communities in southern Bogotá.",
         "fr": "Durant la pandémie, les ventes alimentaires en ligne ont fortement augmenté, permettant à Sembrando Confianza de se développer, d'embaucher davantage de personnel et d'améliorer sa plateforme web, tout en élargissant les marchés solidaires destinés aux communautés vulnérables du sud de Bogotá.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "Post-2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "International donations declined significantly after the pandemic, and the project's model proved financially unsustainable, as giving 60% of revenue to producers left insufficient funds to cover logistics, staffing, and operations.",
         "fr": "Les dons internationaux ont considérablement diminué après la pandémie, et le modèle du projet s'est révélé financièrement non viable, car reverser 60 % des revenus aux producteurs ne laissait pas suffisamment de fonds pour couvrir la logistique, le personnel et les opérations.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "With no new financing secured and the foundation prioritizing other projects, Sembrando Confianza announced closure, expecting to cease operations by February 2025.",
         "fr": "Sans nouveau financement obtenu et la fondation accordant la priorité à d'autres projets, Sembrando Confianza a annoncé sa fermeture, prévoyant de cesser ses activités en février 2025.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online platform connecting farmers to Bogotá consumers",
         "fr": "Plateforme en ligne connectant les agriculteurs aux consommateurs de Bogotá",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Weekly home delivery of agroecological products",
         "fr": "Livraison hebdomadaire à domicile de produits agroécologiques",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Solidarity food markets for vulnerable communities",
         "fr": "Marchés alimentaires solidaires pour les communautés vulnérables",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer education on sustainable food and environment",
         "fr": "Éducation des consommateurs sur l'alimentation durable et l'environnement",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Agroecological certification for small farmers",
         "fr": "Certification agroécologique pour les petits agriculteurs",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farmer representation at agroecological fairs",
         "fr": "Représentation des agriculteurs dans les foires agroécologiques",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Stable financing beyond international donations",
         "fr": "Financement stable au-delà des dons internationaux",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers for packaging and logistics",
         "fr": "Bénévoles pour l'emballage et la logistique",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agroecological certified small farmers",
         "fr": "Petits agriculteurs certifiés en agroécologie",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New consumers for weekly home delivery",
         "fr": "Nouveaux consommateurs pour la livraison hebdomadaire à domicile",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic partnerships for operational improvement",
         "fr": "Partenariats académiques pour l'amélioration opérationnelle",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand delivery days beyond Fridays",
         "fr": "Étendre les jours de livraison au-delà des vendredis",

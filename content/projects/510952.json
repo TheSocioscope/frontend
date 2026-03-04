@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A platform exploring Cape indigenous foods through culinary storytelling, workshops, and the Local WILD Food Hub at the Sustainability Institute.",
     "de": "A platform exploring Cape indigenous foods through culinary storytelling, workshops, and the Local WILD Food Hub at the Sustainability Institute."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Stellenbosch",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Rusch"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://foodsecurity.ac.za/news/greater-cape-indigenous-foods-back-on-the-map-with-groundbreaking-partnership/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Luby Rasch founded Making Course as a sole proprietorship, selling at markets and running workshops to explore and promote indigenous edible plants of the Western Cape region.",
         "fr": "Luby Rasch a fondé Making Course en tant qu'entreprise individuelle, vendant sur les marchés et animant des ateliers pour explorer et promouvoir les plantes comestibles indigènes de la région du Cap occidental.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Luby founded the Local Wild Food Hub to formalize and expand her work, and began a three-year NRF-funded research project in the Cederberg with UCT researcher Rachel Weinberg.",
         "fr": "Luby a fondé le Local Wild Food Hub pour formaliser et développer son travail, et a lancé un projet de recherche de trois ans financé par le NRF dans le Cederberg avec la chercheuse de l'UCT Rachel Weinberg.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Local Wild Food Hub became formally based at the Sustainability Institute in Stellenbosch, gaining access to institutional infrastructure including garden, cooking, finance, and communications teams.",
         "fr": "Le Local Wild Food Hub s'est officiellement installé à l'Institut de durabilité de Stellenbosch, bénéficiant ainsi d'un accès à une infrastructure institutionnelle comprenant des équipes dédiées au jardin, à la cuisine, aux finances et à la communication.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A Greater Cape Floristic Region Mapping workshop was hosted with funding from the Centre of Excellence in Food Security, marking the start of a formalized partnership and community of practice.",
         "fr": "Un atelier de cartographie de la Grande Région Floristique du Cap a été organisé grâce au financement du Centre d'excellence en sécurité alimentaire, marquant le début d'un partenariat formalisé et d'une communauté de pratique.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Farmer trainer workshops were run at the Sustainability Institute to encourage small-scale growers to plant indigenous foods and build an alternative local food system.",
         "fr": "Des ateliers de formation pour agriculteurs ont été organisés à l'Institut de durabilité afin d'encourager les petits producteurs à cultiver des aliments indigènes et à construire un système alimentaire local alternatif.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Field trials on indigenous food cultivation began in partnership with Kew Royal Botanic Gardens and the Gritbos Foundation, with plans to attract PhD supervision from the Sustainability Institute.",
         "fr": "Des essais sur le terrain portant sur la culture d'aliments indigènes ont débuté en partenariat avec les Jardins botaniques royaux de Kew et la Fondation Gritbos, avec des projets visant à attirer une supervision de doctorat de l'Institut de durabilité.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on indigenous edible plant species",
         "fr": "Ateliers sur les espèces de plantes comestibles indigènes",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Indigenous food recipe and cooking development",
         "fr": "Développement de recettes et de cuisine à base d'aliments indigènes",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutrition analysis of Cape indigenous foods",
         "fr": "Analyse nutritionnelle des aliments indigènes du Cap",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Field trials for growing indigenous food species",
         "fr": "Essais sur le terrain pour la culture d'espèces alimentaires indigènes",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community outreach linking food to cultural identity",
         "fr": "Sensibilisation communautaire reliant l'alimentation à l'identité culturelle",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farmer training to grow indigenous food crops",
         "fr": "Formation des agriculteurs à la culture de plantes alimentaires indigènes",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial support for Local Wild Food Hub",
         "fr": "Soutien financier pour le Hub local des aliments sauvages",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "PhD and academic research on Cape indigenous foods",
         "fr": "Recherche doctorale et académique sur les aliments indigènes du Cap",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Organizations aligned with localized food systems",
         "fr": "Organisations alignées sur les systèmes alimentaires localisés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Small-scale growers to adopt indigenous species",
         "fr": "Petits producteurs pour adopter des espèces indigènes",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Communities to engage with indigenous food traditions",
         "fr": "Communautés pour s'engager avec les traditions alimentaires indigènes",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Global partners for knowledge exchange and funding",
         "fr": "Partenaires mondiaux pour l'échange de connaissances et le financement",
@@ -256,9 +246,7 @@
     }
   ],
   "editedAt": 1771255594,
-  "updatedAt": [
-    1771255594
-  ],
+  "updatedAt": [1771255594],
   "feedback": [
     {
       "content": false,

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754988597,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Pura Fruta es una mediana empresa con sede en Cartagena, especializada en la producción de pulpa de fruta. Fundada en 1999, ha pasado de ser un negocio familiar a una empresa innovadora centrada en la sostenibilidad. Pura Fruta pretende minimizar los residuos creando vinos a partir de frutas fermentadas y hace hincapié en la calidad por encima de la cantidad. La empresa se dedica a educar a los consumidores sobre sus productos y a fomentar las asociaciones locales, al tiempo que afronta retos como los costes de transporte y los problemas de suministro energético.",
     "de": "Pura Fruta ist ein mittelständisches Unternehmen mit Sitz in Cartagena, das auf die Herstellung von Fruchtfleisch spezialisiert ist. Es wurde 1999 gegründet und hat sich von einem Familienbetrieb zu einem innovativen, auf Nachhaltigkeit ausgerichteten Unternehmen entwickelt. Pura Fruta hat sich zum Ziel gesetzt, durch die Herstellung von Weinen aus fermentierten Früchten die Abfallmenge zu minimieren und setzt auf Qualität statt Quantität. Das Unternehmen ist bestrebt, die Verbraucher über seine Produkte aufzuklären und lokale Partnerschaften zu fördern, während es gleichzeitig Herausforderungen wie Transportkosten und Fragen der Energieversorgung meistert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Tinoco"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://purafruta.com.co",
   "yt": "5wDVGfFyFV8",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1999",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Pura Fruta was founded as a family business in Cartagena by Rafael Tinoco's mother, initially as a secondary economic activity alongside the family's engineering company.",
         "fr": "Pura Fruta a été fondée en tant qu'entreprise familiale à Carthagène par la mère de Rafael Tinoco, initialement comme une activité économique secondaire parallèlement à l'entreprise d'ingénierie familiale.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Rafael Tinoco took full control of Pura Fruta and refocused it entirely on growth, improving marketing and product quality after his parents concentrated on the family engineering firm.",
         "fr": "Rafael Tinoco a pris le contrôle total de Pura Fruta et l'a entièrement recentrée sur la croissance, en améliorant le marketing et la qualité des produits après que ses parents se sont concentrés sur l'entreprise d'ingénierie familiale.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "During the pandemic, sales of artisanal fruit wines surged as alcohol consumption increased, giving Pura Fruta greater local recognition and accelerating their fermentation-based innovation.",
         "fr": "Durant la pandémie, les ventes de vins de fruits artisanaux ont explosé en raison de l'augmentation de la consommation d'alcool, offrant à Pura Fruta une plus grande reconnaissance locale et accélérant leur innovation en matière de fermentation.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "post-pandemic",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Pura Fruta began shipping 100% natural fruit pulp to San Andrés island, pioneering a new market despite high air freight costs and refrigeration challenges that still make the route unprofitable.",
         "fr": "Pura Fruta a commencé à expédier des pulpes de fruits 100 % naturelles vers l'île de San Andrés, en ouvrant un nouveau marché malgré des coûts élevés de fret aérien et des défis de réfrigération qui rendent encore la route non rentable.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company adopted a zero-waste model, converting fermented or unsold fruit into artisanal wines, and began installing solar panels to reduce dependence on the costly and unreliable local electricity grid.",
         "fr": "L'entreprise a adopté un modèle zéro déchet, transformant les fruits fermentés ou invendus en vins artisanaux, et a commencé à installer des panneaux solaires pour réduire la dépendance au réseau électrique local, coûteux et peu fiable.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pura Fruta received the Green Business certification from Bolívar's environmental authority EPA, being recognized among 18 new sustainable enterprises in the department.",
         "fr": "Pura Fruta a reçu la certification Entreprise Verte de l'autorité environnementale EPA de Bolívar, étant reconnue parmi 18 nouvelles entreprises durables du département.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "100% natural fruit pulp, no chemicals",
         "fr": "100% pulpe de fruits naturelle, sans produits chimiques",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Converts fermented fruit waste into wine",
         "fr": "Transforme les déchets de fruits fermentés en vin",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Home delivery of fruit pulp in Cartagena",
         "fr": "Livraison à domicile de pulpe de fruits à Carthagène",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local and regional farmers as suppliers",
         "fr": "Agriculteurs locaux et régionaux comme fournisseurs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fruit pulp export to San Andrés islands",
         "fr": "Exportation de pulpe de fruits vers les îles de San Andrés",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local fruit suppliers in Bolívar region",
         "fr": "Fournisseurs locaux de fruits dans la région de Bolívar",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Restaurant and hotel clients in San Andrés",
         "fr": "Clients restaurants et hôtels à San Andrés",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government or private funding support",
         "fr": "Soutien financier gouvernemental ou privé",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer education on 100% natural pulp",
         "fr": "Éducation des consommateurs sur la pulpe 100% naturelle",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Distribution partners for refrigerated transport",
         "fr": "Partenaires de distribution pour le transport réfrigéré",

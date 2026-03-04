@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "José Fatien is Head of Catering at CHU de Dijon, leading institutional food service initiatives promoting sustainable practices in healthcare catering.",
     "de": "José Fatien is Head of Catering at CHU de Dijon, leading institutional food service initiatives promoting sustainable practices in healthcare catering."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Fatien"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.linkedin.com/in/jos%C3%A9fatien/?originalSubdomain=fr",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "José Facien arrived at CHU Dijon in May 2018 as deputy head of catering, replacing two people simultaneously. He began restructuring the kitchen by introducing sector-based management with dedicated chiefs per production area.",
         "fr": "José Facien est arrivé au CHU Dijon en mai 2018 en tant que responsable adjoint de la restauration, remplaçant deux personnes simultanément. Il a commencé à restructurer la cuisine en introduisant une gestion par secteur avec des chefs dédiés à chaque zone de production.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Low-temperature cooking techniques were introduced to improve energy efficiency, reduce food waste, and enhance gustative quality. Over 90% of meals became homemade, including full pastry production.",
         "fr": "Des techniques de cuisson à basse température ont été introduites pour améliorer l'efficacité énergétique, réduire le gaspillage alimentaire et améliorer la qualité gustative. Plus de 90 % des repas sont devenus faits maison, y compris une production complète de pâtisserie.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Creative 21 conducted a year-long diagnostic audit at CHU covering patient malnutrition and food waste, interviewing over 50 staff members. The initiative generated significant internal resistance and recommendations were reportedly never implemented.",
         "fr": "Creative 21 a mené un audit diagnostique d'un an au CHU portant sur la dénutrition des patients et le gaspillage alimentaire, en interrogeant plus de 50 membres du personnel. L'initiative a suscité une résistance interne importante et les recommandations n'auraient jamais été mises en œuvre.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Food budget rose from approximately 2.7 million euros in 2021 to 4.2 million euros by 2024, driven largely by ingredient price inflation rather than quality improvements. Bio procurement reached only 4% despite regulatory targets.",
         "fr": "Le budget alimentaire est passé d'environ 2,7 millions d'euros en 2021 à 4,2 millions d'euros en 2024, principalement en raison de l'inflation des prix des ingrédients plutôt que d'améliorations de la qualité. Les achats biologiques n'ont atteint que 4 % malgré les objectifs réglementaires.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A partnership was established with the Légumerie de Dijon to source local organic vegetables including carrots and courgettes. The collaboration required significant internal budget negotiation and creative procurement workarounds.",
         "fr": "Un partenariat a été établi avec la Légumerie de Dijon pour s'approvisionner en légumes biologiques locaux, notamment des carottes et des courgettes. La collaboration a nécessité d'importantes négociations budgétaires internes et des solutions créatives en matière d'approvisionnement.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "CHU Dijon recorded 1,305,399 meals served, averaging 5,021 meals per day across seven sites. Vegetarian menus were introduced weekly for patients and regularly in staff cafeterias, representing 14 distinct recipes.",
         "fr": "Le CHU Dijon a enregistré 1 305 399 repas servis, soit une moyenne de 5 021 repas par jour sur sept sites. Des menus végétariens ont été introduits chaque semaine pour les patients et régulièrement dans les cafétérias du personnel, représentant 14 recettes distinctes.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "1.3 million meals per year for CHU",
         "fr": "1,3 million de repas par an pour le CHU",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local bio vegetables from Dijon market garden",
         "fr": "Légumes bio locaux du maraîchage dijonnais",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "90%+ homemade food production",
         "fr": "Plus de 90% de production alimentaire maison",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Vegetarian menu options for patients and staff",
         "fr": "Options de menus végétariens pour les patients et le personnel",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Low-temperature cooking for energy savings",
         "fr": "Cuisson à basse température pour les économies d'énergie",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Food redistribution to food bank",
         "fr": "Redistribution alimentaire à la banque alimentaire",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Increased budget for local and organic products",
         "fr": "Budget augmenté pour les produits locaux et biologiques",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local short-circuit suppliers meeting sanitary standards",
         "fr": "Fournisseurs locaux en circuit court respectant les normes sanitaires",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Markets adapted to sustainable procurement volumes",
         "fr": "Marchés adaptés aux volumes d'approvisionnement durable",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Greater institutional recognition of in-house cooking quality",
         "fr": "Meilleure reconnaissance institutionnelle de la qualité de la cuisine faite maison",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with regional agricultural producers",
         "fr": "Collaboration avec des producteurs agricoles régionaux",

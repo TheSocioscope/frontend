@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755002914,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El proyecto Sembrando Hábitos Cosechando Salud comenzó tras ganar el segundo puesto en un concurso universitario. Su objetivo es mejorar los hábitos alimentarios de 480 niños de la escuela Nuestra Señora del Rosario integrando la cría de pollos y el compostaje con actividades educativas. El proyecto hace hincapié en la importancia del trabajo en equipo, la transparencia y la comunicación entre sus cuatro principales colaboradores. Los planes futuros incluyen ampliar el cultivo de hortalizas y abordar la obesidad infantil a través de una nueva iniciativa llamada Xucoico Perú.",
     "de": "Das Projekt Sembrando Habitos Cosechando Salud (Gesunde Gewohnheiten säen, gesunde Praktiken ernten) begann, nachdem es den zweiten Platz bei einem Universitätswettbewerb gewonnen hatte. Es zielt darauf ab, die Ernährungsgewohnheiten von 480 Kindern an der Schule Our Lady of the Rosary zu verbessern, indem Hühnerzucht und Kompostierung mit pädagogischen Aktivitäten verbunden werden. Das Projekt betont die Bedeutung von Teamarbeit, Transparenz und Kommunikation zwischen den vier Hauptbeteiligten. Für die Zukunft ist geplant, den Gemüseanbau auszuweiten und die Fettleibigkeit bei Kindern durch eine neue Initiative namens Xucoico Peru zu bekämpfen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "VICTORA MARULL ESPINOZA"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ciencias.cayetano.edu.pe/noticias/proyecto-de-docentes-ocupo-el-segundo-lugar-en-el-x-concurso-de-proyectos-de-promocion-de-la-responsabilidad-social-2024/",
   "yt": "qrgqf_Kum6M",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2017-2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The team began conducting unfunded social responsibility activities at the Nuestra Señora del Rosario school in San Martín de Porres, leveraging the school's seven garden plots and teaching bokashi composting techniques.",
         "fr": "L'équipe a commencé à mener des activités de responsabilité sociale non financées à l'école Nuestra Señora del Rosario à San Martín de Porres, en tirant parti des sept parcelles de jardin de l'école et en enseignant les techniques de compostage bokashi.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "Pre-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team won first place in the DURBIS university competition and received three years of funding, but the project was halted when the COVID-19 pandemic struck.",
         "fr": "L'équipe a remporté la première place au concours universitaire DURBIS et a obtenu trois ans de financement, mais le projet a été interrompu lorsque la pandémie de COVID-19 a éclaté.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The project 'Volviendo al Trueque' launched with a one-year DURBIS grant of S/9,000, establishing a circular economy model where 25 hens fed on black soldier fly larvae produced eggs for 480 children.",
         "fr": "Le projet 'Volviendo al Trueque' a été lancé avec une subvention DURBIS d'un an de S/9 000, établissant un modèle d'économie circulaire où 25 poules nourries aux larves de mouche soldat noire produisaient des œufs pour 480 enfants.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The project expanded into a second phase called 'Sembrando Hábitos y Cosechando Prácticas Saludables,' relocating the hens onto school grounds and increasing focus on vegetable consumption and composting habits.",
         "fr": "Le projet s'est étendu à une deuxième phase appelée 'Sembrando Hábitos y Cosechando Prácticas Saludables', déplaçant les poules sur le terrain scolaire et renforçant l'accent sur la consommation de légumes et les habitudes de compostage.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Following a presentation to the network of nine school directors in UGEL 16, three schools and 13 teachers joined a pilot program promoting vegetable consumption and physical activity, reducing excess weight in children.",
         "fr": "Suite à une présentation au réseau des neuf directeurs d'école de l'UGEL 16, trois écoles et 13 enseignants ont rejoint un programme pilote promouvant la consommation de légumes et l'activité physique, réduisant le surpoids chez les enfants.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-2027",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A new three-year project called 'Xukoico Perú,' inspired by Japan's school food education policy, was launched across seven schools to combat childhood obesity through vegetable gardens, healthy eating habits, and exercise.",
         "fr": "Un nouveau projet de trois ans appelé 'Xukoico Perú', inspiré de la politique japonaise d'éducation alimentaire scolaire, a été lancé dans sept écoles pour lutter contre l'obésité infantile à travers des jardins potagers, des habitudes alimentaires saines et l'exercice physique.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Vivential learning for preschool children",
         "fr": "Apprentissage vivantiel pour les enfants d'âge préscolaire",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Eggs and vegetables for 480 students",
         "fr": "Œufs et légumes pour 480 élèves",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic waste converted into compost",
         "fr": "Déchets organiques transformés en compost",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building for parents on urban farming",
         "fr": "Renforcement des capacités des parents en agriculture urbaine",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Healthy eating habits promoted in schools",
         "fr": "Habitudes alimentaires saines promues dans les écoles",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Circular economy model replicable in other schools",
         "fr": "Modèle d'économie circulaire reproductible dans d'autres écoles",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External funding sources beyond university grants",
         "fr": "Sources de financement externes au-delà des subventions universitaires",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government or municipal partners for scaling",
         "fr": "Partenaires gouvernementaux ou municipaux pour la mise à l'échelle",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Student and parent volunteers for project activities",
         "fr": "Bénévoles étudiants et parents pour les activités du projet",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More schools to replicate vegetable garden model",
         "fr": "Plus d'écoles pour reproduire le modèle de jardin potager",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutritional impact data from larvae-fed egg consumption",
         "fr": "Données sur l'impact nutritionnel de la consommation d'œufs issus de poules nourries aux larves",

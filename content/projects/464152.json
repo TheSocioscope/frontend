@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754426701,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Ecas, creada hace 12 años, pretende conectar a los agricultores locales con los consumidores del Gran Buenos Aires, proporcionándoles productos asequibles y saludables. Empezó con un pequeño grupo que transportaba verduras a una feria de barrio y ha evolucionado hasta convertirse en una cooperativa que apoya a los productores locales al tiempo que garantiza precios justos para los consumidores. Ecas se centra en fortalecer el sector agrícola, promover prácticas agroecológicas y crear medios de vida sostenibles tanto para los agricultores como para los miembros de la comunidad.",
     "de": "Die Ecas-Initiative, die vor 12 Jahren gegründet wurde, zielt darauf ab, lokale Bauern mit Verbrauchern in Greater Buenos Aires zu verbinden und erschwingliche, gesunde Produkte anzubieten. Es begann mit einer kleinen Gruppe, die Gemüse zu einer Nachbarschaftsmesse transportierte, und hat sich zu einer Genossenschaft entwickelt, die lokale Produzenten unterstützt und gleichzeitig faire Preise für die Verbraucher sicherstellt. Ecas konzentriert sich auf die Stärkung des Agrarsektors, die Förderung agroökologischer Praktiken und die Schaffung nachhaltiger Lebensgrundlagen für Landwirte und Gemeindemitglieder."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Balduga"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "MRQIStGFHTs",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "ECAS was founded as the commercial arm of UTT (Unión de Trabajadores de la Tierra), starting with just 3-4 people driving a old car to farms to collect 10 crates of vegetables for sale at a community market in Luis Guillón, Gran Buenos Aires.",
         "fr": "ECAS a été fondée en tant que branche commerciale de l'UTT (Unión de Trabajadores de la Tierra), en commençant avec seulement 3 à 4 personnes conduisant une vieille voiture jusqu'aux fermes pour collecter 10 caisses de légumes destinées à la vente sur un marché communautaire à Luis Guillón, Grand Buenos Aires.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "early years",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The first physical store was established in Luis Guillón, Partido Esteban Echeverría, built entirely through the collective effort of members. A wholesale warehouse was also set up, working with state clients and expanding supplier relationships.",
         "fr": "Le premier magasin physique a été établi à Luis Guillón, Partido Esteban Echeverría, construit entièrement grâce à l'effort collectif des membres. Un entrepôt de gros a également été mis en place, travaillant avec des clients étatiques et élargissant les relations avec les fournisseurs.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Germán joined ECAS, starting as a produce worker in the store and progressively taking on roles in cashiering, store management, and wholesale warehouse operations over the following years.",
         "fr": "Germán a rejoint ECAS en commençant comme employé aux produits frais dans le magasin, puis en assumant progressivement des rôles en caisse, en gestion de magasin et dans les opérations de l'entrepôt de gros au cours des années suivantes.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "~2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "ECAS split from UTT due to political disputes and allegations of misappropriation of funds. Approximately 14-15 cooperatives left UTT alongside ECAS, causing organizational and financial instability.",
         "fr": "ECAS s'est séparée de l'UTT en raison de conflits politiques et d'allégations de détournement de fonds. Environ 14 à 15 coopératives ont quitté l'UTT aux côtés d'ECAS, provoquant une instabilité organisationnelle et financière.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "~2022-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A major economic crisis forced ECAS to close its wholesale warehouse, restructure operations, and begin working directly from the Mercado Central using a truck. Staff reductions occurred as members left for other employment.",
         "fr": "Une grave crise économique a contraint ECAS à fermer son entrepôt de gros, à restructurer ses opérations et à commencer à travailler directement depuis le Mercado Central à l'aide d'un camion. Des réductions d'effectifs ont eu lieu alors que des membres quittaient pour d'autres emplois.",
@@ -107,7 +97,7 @@
     },
     {
       "date": "~2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "ECAS stabilized by diversifying its supplier base to include private SMEs like Yatasto and family producers, expanding product variety, and launching community initiatives such as training indigenous Chaco communities in honey production.",
         "fr": "ECAS s'est stabilisée en diversifiant sa base de fournisseurs pour inclure des PME privées comme Yatasto et des producteurs familiaux, en élargissant la variété des produits et en lançant des initiatives communautaires telles que la formation de communautés indigènes du Chaco à la production de miel.",
@@ -118,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct sales of fresh produce at low prices",
         "fr": "Vente directe de produits frais à prix bas",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment and income for cooperative members",
         "fr": "Emploi et revenus pour les membres de la coopérative",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological and local food distribution",
         "fr": "Distribution alimentaire agroécologique et locale",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Field clearance to prevent food waste",
         "fr": "Glanage pour éviter le gaspillage alimentaire",
@@ -154,7 +144,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agroecological production training for farmers",
         "fr": "Formation à la production agroécologique pour les agriculteurs",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Commercial channel for small rural producers",
         "fr": "Débouché commercial pour les petits producteurs ruraux",
@@ -174,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small local and cooperative food producers",
         "fr": "Petits producteurs alimentaires locaux et coopératifs",
@@ -183,7 +173,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Organizations sharing agroecological values",
         "fr": "Organisations partageant des valeurs agroécologiques",
@@ -192,7 +182,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct buyers for bulk surplus harvests",
         "fr": "Acheteurs directs pour les surplus de récoltes en vrac",
@@ -201,7 +191,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "State financing for equipment and training",
         "fr": "Financement public pour l'équipement et la formation",
@@ -210,7 +200,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumers valuing food origin and seasonality",
         "fr": "Consommateurs valorisant l'origine et la saisonnalité des aliments",

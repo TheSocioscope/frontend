@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560322,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Bio, fundada en 2005-2006, tiene como objetivo transformar la producción local de maíz en bioetanol, potenciando el valor en origen. La planta de Río Cuarto empezó a funcionar en 2012, con una producción anual de 83.000 metros cúbicos de bioetanol, que desde entonces se ha ampliado a 140.000 metros cúbicos. Bio también produce biodiésel y coproductos como la burlanda, que se utiliza en la alimentación animal. La empresa ha desarrollado múltiples unidades de negocio, como la producción de biogás y los servicios de medición de la huella de carbono, haciendo hincapié en los principios de sostenibilidad y economía circular. El crecimiento de Bio ha fomentado el desarrollo económico regional y las asociaciones con productores y universidades locales.",
     "de": "Bio wurde 2005-2006 gegründet und hat sich zum Ziel gesetzt, die lokale Getreideproduktion in Bioethanol umzuwandeln und damit den Wert an der Quelle zu steigern. Die Anlage in Río Cuarto nahm 2012 ihren Betrieb auf und produzierte jährlich 83.000 Kubikmeter Bioethanol, die inzwischen auf 140.000 Kubikmeter erweitert wurden. Bio stellt auch Biodiesel und Nebenprodukte wie Burlanda her, das in Tierfutter verwendet wird. Das Unternehmen hat mehrere Geschäftsbereiche aufgebaut, darunter die Biogasproduktion und Dienstleistungen zur Messung des CO2-Ausstoßes, wobei die Prinzipien der Nachhaltigkeit und der Kreislaufwirtschaft betont werden. Das Wachstum von Bio hat die regionale Wirtschaftsentwicklung und Partnerschaften mit lokalen Erzeugern und Universitäten gefördert."
   },
-  "field": [
-    "engineering-and-technology"
-  ],
+  "field": ["engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Cane"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "innovation-rd"
-  ],
+  "thematic": ["ecology-environmental-change", "innovation-rd"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://bio4.com.ar/en",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2005-2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Founders Manuel Ron and Marcelo Otero, corn producers from Río Cuarto, Córdoba, begin developing the bioethanol business model to add value to locally produced corn instead of shipping it to the port of Rosario.",
         "fr": "Les fondateurs Manuel Ron et Marcelo Otero, producteurs de maïs de Río Cuarto, Córdoba, commencent à développer le modèle commercial du bioéthanol pour valoriser le maïs produit localement plutôt que de l'expédier vers le port de Rosario.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Argentina's new biofuels law is enacted, allowing bioethanol from corn to be blended with gasoline. Bio receives its production quota, triggering full project financing and construction.",
         "fr": "La nouvelle loi argentine sur les biocarburants est promulguée, permettant le mélange de bioéthanol de maïs avec de l'essence. Bio reçoit son quota de production, déclenchant le financement complet du projet et la construction.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The first bioethanol plant from corn in Argentina is commissioned, delivering its first batch on August 26, 2012, with an initial capacity of 83,000 cubic meters per year and approximately 100 employees.",
         "fr": "La première usine de bioéthanol à base de maïs en Argentine est mise en service, livrant son premier lot le 26 août 2012, avec une capacité initiale de 83 000 mètres cubes par an et environ 100 employés.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The first biogas plant is commissioned, initially designed to run on corn silage and later adapted to use vinaza, a byproduct of the bioethanol process, significantly reducing the carbon footprint of the integrated system.",
         "fr": "La première unité de biogaz est mise en service, initialement conçue pour fonctionner au maïs ensilé, puis adaptée pour utiliser la vinasse, un sous-produit du processus de bioéthanol, réduisant considérablement l'empreinte carbone du système intégré.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2016-2018",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Bio participates in the Argentine government's Renovar renewable energy auction program, selling electricity to CAMESA through the national grid, and expands biogas capacity to reach 6.6 megawatts of renewable energy generation.",
         "fr": "Bio participe au programme d'appel d'offres en énergies renouvelables Renovar du gouvernement argentin, vendant de l'électricité à CAMESA via le réseau national, et augmente la capacité de biogaz pour atteindre 6,6 mégawatts de production d'énergie renouvelable.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Carbon Neutral Plus is launched as a digital platform offering carbon footprint measurement and environmental commodity services to banks and other industries, leveraging 15 years of circular economy expertise.",
         "fr": "Carbon Neutral Plus est lancé en tant que plateforme numérique proposant des services de mesure de l'empreinte carbone et de gestion de produits environnementaux aux banques et autres industries, en s'appuyant sur 15 ans d'expertise en économie circulaire.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular economy converting byproducts into new resources",
         "fr": "Économie circulaire convertissant les sous-produits en nouvelles ressources",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Animal feed from corn distillation byproduct",
         "fr": "Alimentation animale à partir du sous-produit de distillation du maïs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biogas technology sold as turnkey projects",
         "fr": "Technologie de biogaz vendue sous forme de projets clés en main",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Carbon footprint measurement platform for companies",
         "fr": "Plateforme de mesure de l'empreinte carbone pour les entreprises",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Sustainable community garden for vulnerable families",
         "fr": "Jardin communautaire durable pour les familles vulnérables",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "University internship program for engineering students",
         "fr": "Programme de stages universitaires pour les étudiants en ingénierie",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Associative investors for capital-intensive projects",
         "fr": "Investisseurs associatifs pour les projets à forte intensité de capital",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Stable biofuel blending mandate above 12%",
         "fr": "Mandat stable de mélange de biocarburants supérieur à 12%",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New markets for bioethanol as SAF or chemical feedstock",
         "fr": "Nouveaux marchés pour le bioéthanol en tant que SAF ou matière première chimique",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technology licensing for biogas-bioethanol integration",
         "fr": "Licence technologique pour l'intégration biogaz-bioéthanol",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Biofertilizer commercialization regulatory approval",
         "fr": "Approbation réglementaire pour la commercialisation des biofertilisants",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Qualified talent willing to relocate to Río Cuarto",
         "fr": "Talents qualifiés prêts à se relocaliser à Río Cuarto",

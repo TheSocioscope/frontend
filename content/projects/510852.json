@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A feminist organisation empowering women on commercial farms through rights-based capacity building and advocacy.",
     "de": "A feminist organisation empowering women on commercial farms through rights-based capacity building and advocacy."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Stellenbosch",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Solomon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://wfp.org.za/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1994",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Lawyers for Human Rights conducted research on vulnerable communities during the run-up to South Africa's 1994 elections, identifying particular vulnerabilities faced by women farm workers and laying the groundwork for the organisation.",
         "fr": "Lawyers for Human Rights a mené des recherches sur les communautés vulnérables dans la période précédant les élections sud-africaines de 1994, identifiant les vulnérabilités particulières auxquelles font face les femmes travailleuses agricoles et posant les bases de l'organisation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1996",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Women on Farms Project was formally established as a feminist NGO in South Africa, with a primary focus on rights-based capacity building and empowering women farm workers and dwellers.",
         "fr": "Women on Farms Project a été officiellement créé en tant qu'ONG féministe en Afrique du Sud, avec pour objectif principal le renforcement des capacités fondé sur les droits et l'autonomisation des femmes travailleuses et résidentes agricoles.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2009",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "In response to requests from local communities, Women on Farms Project expanded its operations into the Northern Cape province, establishing a satellite office in Keimoes to address similar agricultural challenges there.",
         "fr": "En réponse aux demandes des communautés locales, Women on Farms Project a étendu ses activités à la province du Cap-du-Nord, en établissant un bureau satellite à Keimoes pour y répondre à des défis agricoles similaires.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A major farm worker uprising over minimum wage violations took place, prompting farmers to erect high fences and gates across farms. That same year, research by Professor Devereux found that 88% of women farm workers in the Northern Cape reported increased household food insecurity during off-season months.",
         "fr": "Un important soulèvement de travailleurs agricoles contre les violations du salaire minimum a eu lieu, poussant les agriculteurs à ériger des clôtures et des portails élevés autour des exploitations. Cette même année, des recherches du professeur Devereux ont révélé que 88 % des femmes travailleuses agricoles du Cap-du-Nord faisaient état d'une insécurité alimentaire accrue au sein de leur foyer durant les mois hors saison.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2019",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Women on Farms Project launched its pesticides campaign, highlighting double standards in international pesticide trade where substances banned in the EU are still exported to and used in South Africa, advocating at EU and German government levels for a ban on production and export.",
         "fr": "Women on Farms Project a lancé sa campagne sur les pesticides, mettant en lumière les doubles standards dans le commerce international des pesticides, où des substances interdites dans l'UE sont toujours exportées vers l'Afrique du Sud et y sont utilisées, tout en plaidant auprès de l'UE et du gouvernement allemand pour une interdiction de leur production et de leur exportation.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "As part of a broader coalition, Women on Farms Project participated in the South African People's Tribunal on Agro-Toxins, marking growing collective momentum around pesticide regulation after years of sustained advocacy.",
         "fr": "Dans le cadre d'une coalition plus large, Women on Farms Project a participé au Tribunal populaire sud-africain sur les agro-toxines, marquant un élan collectif croissant autour de la réglementation des pesticides après des années de plaidoyer soutenu.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Rights-based capacity building workshops for women",
         "fr": "Ateliers de renforcement des capacités basés sur les droits pour les femmes",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Agroecological food garden starter kits for women",
         "fr": "Kits de démarrage de jardins alimentaires agroécologiques pour les femmes",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Labor rights and minimum wage training",
         "fr": "Formation sur les droits du travail et le salaire minimum",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Gender-based violence psychosocial and legal support",
         "fr": "Soutien psychosocial et juridique en matière de violence basée sur le genre",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "International pesticide regulation advocacy campaigns",
         "fr": "Campagnes de plaidoyer pour la réglementation internationale des pesticides",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Annual World Food Day produce exchange events",
         "fr": "Événements annuels d'échange de produits pour la Journée mondiale de l'alimentation",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Ban of hazardous pesticides by South African government",
         "fr": "Interdiction des pesticides dangereux par le gouvernement sud-africain",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sustainable funding amid declining global north support",
         "fr": "Financement durable face à la diminution du soutien du Nord global",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Like-minded NGOs for joint pesticide advocacy campaigns",
         "fr": "ONG partageant les mêmes idées pour des campagnes conjointes de plaidoyer sur les pesticides",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Women farm workers joining rights-based training programs",
         "fr": "Ouvrières agricoles rejoignant des programmes de formation axés sur les droits",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Productive land access for women farm dwellers",
         "fr": "Accès à des terres productives pour les femmes résidant dans les exploitations agricoles",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documentation of seasonal hunger and food insecurity impacts",
         "fr": "Documentation des impacts de la faim saisonnière et de l'insécurité alimentaire",

@@ -5,12 +5,8 @@
     "lastname": "Socioscope",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754502792,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Postobón es una empresa colombiana de bebidas con 120 años de historia, 19 plantas y más de 60 centros de distribución, cubriendo el 95% del territorio colombiano. Su modelo de sostenibilidad 'Uno Más Todos' aborda el bienestar del consumidor (reducción de azúcar, programas de vida activa), gestión ambiental (economía circular, acción climática, gestión del agua) y desarrollo social (empoderamiento de recicladores, programas para pequeños agricultores). La empresa trabaja con 6.500 recicladores, 1.600 familias agricultoras de frutas, y ha logrado certificación de carbono neutral mientras implementa programas integrales de sostenibilidad en la cadena de suministro.",
     "de": "Postobón ist ein 120 Jahre altes kolumbianisches Getränkeunternehmen mit 19 Werken und über 60 Vertriebszentren, das 95% des kolumbianischen Territoriums abdeckt. Ihr Nachhaltigkeitsmodell 'Uno Más Todos' befasst sich mit Verbraucherwohl (Zuckerreduktion, aktive Lebensstilprogramme), Umweltmanagement (Kreislaufwirtschaft, Klimamaßnahmen, Wassermanagement) und sozialer Entwicklung (Recycler-Empowerment, Programme für Kleinbauern). Das Unternehmen arbeitet mit 6.500 Recyclern, 1.600 Obstbauernfamilien und hat die CO2-Neutralitätszertifizierung erreicht, während umfassende Nachhaltigkeitsprogramme in der Lieferkette implementiert werden."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -42,21 +35,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "gallery": [],
   "offers": [
     {
-      "icon": "beverages",
+      "icon": "mdi-cup",
       "label": {
         "en": "Multi-Category Beverages (Soft Drinks, Water, Tea, Coffee, Dairy, Beer)",
         "fr": "Boissons multicatégories (Sodas, Eau, Thé, Café, Produits laitiers, Bière)",
@@ -65,7 +53,7 @@
       }
     },
     {
-      "icon": "food",
+      "icon": "mdi-food",
       "label": {
         "en": "Food Products (Sauces, Dressings, Basic Pantry Items)",
         "fr": "Produits alimentaires (Sauces, Vinaigrettes, Articles de base)",
@@ -74,7 +62,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "FARO Program: Comprehensive Recycler Support (6,500+ recyclers in 50 organizations)",
         "fr": "Programme FARO: Soutien complet aux recycleurs (6 500+ recycleurs dans 50 organisations)",
@@ -83,7 +71,7 @@
       }
     },
     {
-      "icon": "agriculture",
+      "icon": "mdi-sprout",
       "label": {
         "en": "HIT Social Program: Fruit Farmer Development (1,600 families, 10 departments)",
         "fr": "Programme HIT Social: Développement des agriculteurs fruitiers (1 600 familles, 10 départements)",
@@ -92,7 +80,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Boom Activa Tu Vida: School Health & Active Lifestyle Program (150,000+ children)",
         "fr": "Boom Activa Tu Vida: Programme de santé et mode de vie actif scolaire (150 000+ enfants)",
@@ -101,7 +89,7 @@
       }
     },
     {
-      "icon": "transport",
+      "icon": "mdi-bike",
       "label": {
         "en": "Mi Bici Program: Bicycles for Rural Students (15,000+ delivered in 23 departments)",
         "fr": "Programme Mi Bici: Vélos pour élèves ruraux (15 000+ livrés dans 23 départements)",
@@ -112,7 +100,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners for Circular Economy & Extended Producer Responsibility Programs",
         "fr": "Partenaires pour l'économie circulaire et les programmes de responsabilité élargie des producteurs",
@@ -121,7 +109,7 @@
       }
     },
     {
-      "icon": "water",
+      "icon": "mdi-water",
       "label": {
         "en": "Water Fund Partnerships for Watershed Protection",
         "fr": "Partenariats avec des fonds de l'eau pour la protection des bassins versants",
@@ -130,7 +118,7 @@
       }
     },
     {
-      "icon": "climate",
+      "icon": "mdi-weather-sunny",
       "label": {
         "en": "Climate-Smart Agriculture Partners for Farmer Adaptation",
         "fr": "Partenaires d'agriculture intelligente face au climat pour l'adaptation des agriculteurs",
@@ -139,7 +127,7 @@
       }
     },
     {
-      "icon": "innovation",
+      "icon": "mdi-lightbulb-on",
       "label": {
         "en": "Innovation Partners for Sustainable Packaging Solutions",
         "fr": "Partenaires d'innovation pour des solutions d'emballage durables",
@@ -148,7 +136,7 @@
       }
     },
     {
-      "icon": "certification",
+      "icon": "mdi-stamper",
       "label": {
         "en": "ESG Standards & Due Diligence Frameworks Development",
         "fr": "Développement de normes ESG et de cadres de diligence raisonnable",
@@ -160,7 +148,7 @@
   "timeline": [
     {
       "date": "1904",
-      "icon": "foundation",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Postobón founded; becomes one of Colombia's leading beverage companies over the following century",
         "fr": "Fondation de Postobón; devient l'une des principales entreprises de boissons de Colombie au cours du siècle suivant",
@@ -170,7 +158,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "strategy",
+      "icon": "mdi-strategy",
       "text": {
         "en": "Launch of strategic transformation 'MEGA 2025': quadruple revenue, multi-category expansion, internationalization, and sustainability platform 'Uno Más Todos'",
         "fr": "Lancement de la transformation stratégique 'MEGA 2025': quadrupler les revenus, expansion multicatégorie, internationalisation et plateforme de durabilité 'Uno Más Todos'",
@@ -180,7 +168,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "text": {
         "en": "Launch of FARO recycler empowerment program; preparation for Colombia's Extended Producer Responsibility regulations",
         "fr": "Lancement du programme d'autonomisation des recycleurs FARO; préparation aux réglementations de responsabilité élargie des producteurs de Colombie",
@@ -190,7 +178,7 @@
     },
     {
       "date": "2019",
-      "icon": "climate",
+      "icon": "mdi-molecule-co2",
       "text": {
         "en": "Carbon footprint baseline established; decarbonization plan initiated with target of 30% reduction in Scope 1&2 emissions by 2025",
         "fr": "Référence d'empreinte carbone établie; plan de décarbonisation initié avec objectif de réduction de 30% des émissions Scope 1&2 d'ici 2025",
@@ -200,7 +188,7 @@
     },
     {
       "date": "2023",
-      "icon": "certification",
+      "icon": "mdi-stamper",
       "text": {
         "en": "Achieved carbon neutral certification (ICONTEC); 100% of packaging equivalent collected and transformed; 39% of sales from low/no sugar products",
         "fr": "Obtention de la certification carbone neutre (ICONTEC); 100% de l'équivalent des emballages collecté et transformé; 39% des ventes de produits à faible teneur en sucre ou sans sucre",
@@ -210,7 +198,7 @@
     },
     {
       "date": "2024",
-      "icon": "innovation",
+      "icon": "mdi-lightbulb-on",
       "text": {
         "en": "Implementing parametric insurance for climate-vulnerable farmers; piloting water replenishment methodology across priority watersheds",
         "fr": "Mise en œuvre d'assurances paramétriques pour les agriculteurs vulnérables au climat; pilotage de méthodologie de reconstitution de l'eau dans les bassins versants prioritaires",

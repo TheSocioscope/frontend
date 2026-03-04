@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909990,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "MyFood es una iniciativa innovadora lanzada en 2015 por tres cofundadores con el objetivo de mejorar la autonomía alimentaria de las personas. Reconociendo las limitaciones de los supermercados convencionales, desarrollaron invernaderos verticales conectados que utilizan la acuaponía para permitir a los hogares cultivar sus propios alimentos nutritivos. Este proyecto no solo aborda la calidad nutricional y las preocupaciones medioambientales, sino que también fomenta una comunidad de apoyo entre los usuarios, promoviendo la autosuficiencia y las prácticas sostenibles en la producción de alimentos.",
     "de": "MyFood ist eine innovative Initiative, die 2015 von drei Mitbegründern ins Leben gerufen wurde und darauf abzielt, die Ernährungsautonomie des Einzelnen zu verbessern. Sie erkannten die Grenzen herkömmlicher Supermärkte und entwickelten zusammenhängende vertikale Gewächshäuser mit Aquaponik, die es Haushalten ermöglichen, ihre eigenen nahrhaften Lebensmittel anzubauen. Dieses Projekt berücksichtigt nicht nur die Ernährungsqualität und Umweltbelange, sondern fördert auch eine unterstützende Gemeinschaft unter den Nutzern, die Selbstversorgung und nachhaltige Praktiken in der Lebensmittelproduktion."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Urban"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://myfood.eu",
   "yt": "paR8oka7-d4",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "MyFood was founded by three co-founders in Alsace, launched in the context of COP21 as one of 12 international maker projects focused on ecological transition. The project started in a garage with the goal of giving individuals autonomy over their food production.",
         "fr": "MyFood a été fondée par trois co-fondateurs en Alsace, lancée dans le contexte de la COP21 en tant que l'un des 12 projets makers internationaux axés sur la transition écologique. Le projet a démarré dans un garage avec pour objectif de donner aux individus une autonomie sur leur production alimentaire.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team commercialized their first beta greenhouse units and generated revenue from the first year. The approach was deliberately bootstrapped, relying on founders' own funds rather than early external investment.",
         "fr": "L'équipe a commercialisé ses premières serres bêta et a généré des revenus dès la première année. L'approche était délibérément autofinancée, reposant sur les fonds propres des fondateurs plutôt que sur un investissement externe précoce.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "After two years of operation, MyFood raised its first external funds to move out of the garage, secure warehouse space, hire a team, and begin industrialization investments.",
         "fr": "Après deux ans d'activité, MyFood a levé ses premiers fonds externes pour quitter le garage, sécuriser un espace d'entrepôt, recruter une équipe et commencer les investissements d'industrialisation.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The COVID-19 pandemic acted as a significant accelerator for MyFood, as lockdowns and supply chain disruptions prompted many families to seek food autonomy, boosting demand for their greenhouse systems.",
         "fr": "La pandémie de COVID-19 a agi comme un accélérateur significatif pour MyFood, car les confinements et les perturbations des chaînes d'approvisionnement ont poussé de nombreuses familles à rechercher une autonomie alimentaire, stimulant la demande pour leurs systèmes de serres.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A commercial director joined the leadership team approximately five years ago, becoming part of the three-person executive committee alongside the remaining co-founders.",
         "fr": "Un directeur commercial a rejoint l'équipe dirigeante il y a environ cinq ans, faisant partie du comité exécutif de trois personnes aux côtés des co-fondateurs restants.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "MyFood surpassed 5 million euros in annual revenue and reached profitability, with 1,300 pioneer families equipped worldwide including clients in Canada and Qatar. Two crowd equity campaigns were completed, with the most recent raising one million euros from the community in 15 days.",
         "fr": "MyFood a dépassé 5 millions d'euros de chiffre d'affaires annuel et atteint la rentabilité, avec 1 300 familles pionnières équipées dans le monde entier, dont des clients au Canada et au Qatar. Deux campagnes de crowdequity ont été réalisées, la plus récente ayant levé un million d'euros auprès de la communauté en 15 jours.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Connected vertical farming greenhouses for families",
         "fr": "Serres d'agriculture verticale connectées pour les familles",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Active pioneer community on Teams platform",
         "fr": "Communauté pionnière active sur la plateforme Teams",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Full starter kits with plants, fish, seeds",
         "fr": "Kits de démarrage complets avec plantes, poissons et graines",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Sensory workshops in schools and care homes",
         "fr": "Ateliers sensoriels dans les écoles et les maisons de retraite",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Aquaponic system recycling rainwater and fish waste",
         "fr": "Système aquaponique recyclant l'eau de pluie et les déjets de poissons",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Webinars for prospective buyers and community members",
         "fr": "Webinaires pour les acheteurs potentiels et les membres de la communauté",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Families seeking food autonomy via greenhouses",
         "fr": "Familles cherchant l'autonomie alimentaire via des serres",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Crowd equity investors supporting the mission",
         "fr": "Investisseurs en capital participatif soutenant la mission",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local business partners for logistics and storage",
         "fr": "Partenaires commerciaux locaux pour la logistique et le stockage",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Fish and starter kit supply partners",
         "fr": "Partenaires fournisseurs de poissons et de kits de démarrage",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory change on greenhouse urban planning taxes",
         "fr": "Changement réglementaire sur les taxes d'urbanisme des serres",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Studies on health impact post-greenhouse installation",
         "fr": "Études sur l'impact sur la santé après l'installation de serres",

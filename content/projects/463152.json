@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754424266,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Nehuen es un animado mercado situado en Mallín Ahogado, Patagonia, que exhibe una variada gama de productos de productores locales. Ofrece productos caseros y artesanales, como cerveza artesanal, mermeladas, hierbas medicinales y cosméticos naturales. La iniciativa fomenta una estrecha relación entre productores y consumidores, haciendo hincapié en las prácticas agroecológicas y la participación de la comunidad. Nehuen sirve de punto de encuentro para vecinos y turistas, promoviendo economías locales sostenibles y eventos culturales al tiempo que refuerza los lazos dentro de la comunidad.",
     "de": "Nehuen ist ein pulsierender Markt in Mallín Ahogado, Patagonien, der eine breite Palette an Produkten von lokalen Produzenten anbietet. Er bietet selbstgemachte und handgefertigte Waren an, darunter Craft Beer, Schinken, Heilkräuter und Naturkosmetik. Die Initiative fördert eine enge Beziehung zwischen Erzeugern und Verbrauchern, betont agrarökologische Praktiken und kommunales Engagement. Nehuen dient als Treffpunkt für Nachbarn und Touristen, fördert die nachhaltige lokale Wirtschaft und kulturelle Veranstaltungen, während die Bindungen innerhalb der Gemeinde gestärkt werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "López"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "economy-business-markets-finance"
-  ],
+  "thematic": ["food-agriculture-fishery", "economy-business-markets-finance"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "lAtUieLSPq4",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2005",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nehuen was founded approximately 20 years ago by a group of local producers in Mallín Ahogado, Patagonia, seeking a space to commercialize and promote local production. The physical space was built through a natural construction workshop and the organization was formalized as a civil association with support from the Secretaría de Agricultura Familiar.",
         "fr": "Nehuen a été fondé il y a environ 20 ans par un groupe de producteurs locaux à Mallín Ahogado, en Patagonie, cherchant un espace pour commercialiser et promouvoir la production locale. L'espace physique a été construit lors d'un atelier de construction naturelle et l'organisation a été formalisée en tant qu'association civile avec le soutien de la Secretaría de Agricultura Familiar.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Nehuen ceased operating as a market around 2016, largely because founding members had aged and the group's president passed away before the closure. The space remained inactive for several years until a new generation took over.",
         "fr": "Nehuen a cessé de fonctionner comme marché aux alentours de 2016, en grande partie parce que les membres fondateurs avaient vieilli et que le président du groupe est décédé avant la fermeture. L'espace est resté inactif pendant plusieurs années jusqu'à ce qu'une nouvelle génération prenne le relais.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A new cohort of producers reopened Nehuen in 2020, updating the civil association paperwork and reoccupying the space with a renewed focus on collective production, exchange, and community encounter. This group is largely composed of newer residents who had migrated to the rural area.",
         "fr": "Une nouvelle cohorte de producteurs a rouvert Nehuen en 2020, mettant à jour les documents de l'association civile et réoccupant l'espace avec un nouvel accent sur la production collective, l'échange et la rencontre communautaire. Ce groupe est largement composé de nouveaux résidents qui avaient migré vers la zone rurale.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A major wildfire devastated the Mallín Ahogado area, directly affecting approximately 50% of Nehuen's producers by destroying homes, production sites, irrigation systems, and equipment. The market was forced to close temporarily and the collective lost important documents and infrastructure.",
         "fr": "Un violent incendie de forêt a dévasté la région de Mallín Ahogado, touchant directement environ 50 % des producteurs de Nehuen en détruisant des habitations, des sites de production, des systèmes d'irrigation et des équipements. Le marché a été contraint de fermer temporairement et le collectif a perdu d'importants documents et infrastructures.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Nehuen reopened after the fire, initially operating only two sessions per month before expanding to three mornings per week (Monday, Wednesday, and Friday). The collective also installed a WiFi repeater to enable digital payments and began coordinating with the municipal Secretaría de Producción to obtain materials for roof repairs.",
         "fr": "Nehuen a rouvert après l'incendie, fonctionnant initialement à raison de seulement deux sessions par mois avant de passer à trois matinées par semaine (lundi, mercredi et vendredi). Le collectif a également installé un répéteur WiFi pour permettre les paiements numériques et a commencé à se coordonner avec la Secretaría de Producción municipale pour obtenir des matériaux pour les réparations de toiture.",
@@ -104,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local artisan and food products marketplace",
         "fr": "Marché de produits artisanaux et alimentaires locaux",
@@ -113,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological local produce from family farms",
         "fr": "Produits locaux agroécologiques provenant de fermes familiales",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community gathering and cultural events space",
         "fr": "Espace de rassemblement communautaire et d'événements culturels",
@@ -131,7 +120,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge-sharing rounds, workshops and book presentations",
         "fr": "Cercles de partage des savoirs, ateliers et présentations de livres",
@@ -140,7 +129,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Seed exchange and barter fairs",
         "fr": "Échanges de semences et foires de troc",
@@ -149,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seasonal communal events like curanto and locro",
         "fr": "Événements communautaires saisonniers comme le curanto et le locro",
@@ -160,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New local producers to join collective",
         "fr": "Nouveaux producteurs locaux à rejoindre le collectif",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing lines for infrastructure projects",
         "fr": "Lignes de financement pour les projets d'infrastructure",
@@ -178,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sales point closer to main road",
         "fr": "Point de vente plus proche de la route principale",
@@ -187,7 +176,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Members willing to commit time and attendance",
         "fr": "Membres prêts à s'engager en temps et en présence",
@@ -196,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Municipal production secretariat support",
         "fr": "Soutien du secrétariat municipal de production",
@@ -205,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community re-engagement after wildfire disruption",
         "fr": "Réengagement de la communauté après la perturbation causée par l'incendie de forêt",

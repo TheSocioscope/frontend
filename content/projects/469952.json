@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754559704,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Agrocalidad en Ecuador supervisa la regulación y el control de la producción orgánica, establecida por un acuerdo ministerial en 2003 y formalizada en 2013. Promueve modelos de producción sostenibles, incluidas prácticas orgánicas, ecológicas y agroecológicas. Con más de 2.300 productos orgánicos certificados, Ecuador es uno de los principales exportadores a la Unión Europea y el segundo a nivel mundial. La iniciativa pretende potenciar el consumo interno, garantizar la integridad de los productos y apoyar a los productores mediante la formación y la certificación.",
     "de": "Agrocalidad in Ecuador überwacht die Regulierung und Kontrolle der ökologischen Produktion, die durch ein Ministerialabkommen im Jahr 2003 eingeführt und 2013 formalisiert wurde. Sie fördert nachhaltige Produktionsmodelle, einschließlich organischer, ökologischer und agroökologischer Praktiken. Mit über 2.300 zertifizierten Bio-Produkten ist Ecuador ein führender Exporteur in die Europäische Union und der zweitgrößte weltweit. Die Initiative zielt darauf ab, den Inlandsverbrauch zu steigern, die Produktintegrität zu gewährleisten und die Erzeuger durch Schulungen und Zertifizierungen zu unterstützen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Santillán"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.agrocalidad.gob.ec/direccion-de-organicos-2/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2003",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Organic production was formally recognized in Ecuador through a ministerial agreement, establishing the foundation for regulating organic, ecological, and biological production models.",
         "fr": "La production biologique a été officiellement reconnue en Équateur par un accord ministériel, établissant les bases de la réglementation des modèles de production biologique, écologique et organique.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Agrocalidad, the agency for phytosanitary and zoosanitary regulation and control, was established or renamed in its current form as an entity attached to the Ministry of Agriculture.",
         "fr": "Agrocalidad, l'agence de réglementation et de contrôle phytosanitaire et zoosanitaire, a été créée ou renommée sous sa forme actuelle en tant qu'entité rattachée au ministère de l'Agriculture.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The national organic regulation was issued and the Dirección de Orgánicos was created, establishing standards for organic, ecological, and biological production and enabling formal certification and export.",
         "fr": "La réglementation nationale sur l'agriculture biologique a été publiée et la Dirección de Orgánicos a été créée, établissant des normes pour la production biologique, écologique et organique et permettant la certification et l'exportation formelles.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Subsecretariat of Family and Peasant Agriculture was created within the Ministry to promote agroecological and smallholder production, though implementation in territories proved difficult. Sampling at self-declared agroecological fairs also revealed pesticide contamination, highlighting the need for regulation.",
         "fr": "La Sous-secrétairerie de l'Agriculture familiale et paysanne a été créée au sein du ministère pour promouvoir la production agroécologique et celle des petits exploitants, bien que la mise en œuvre sur les territoires se soit avérée difficile. Des échantillonnages réalisés dans des foires agroécologiques déclarées ont également révélé une contamination par des pesticides, soulignant la nécessité d'une réglementation.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A public database of registered organic operators was launched, providing transparent, province-level information on certified producers and their products across Ecuador.",
         "fr": "Une base de données publique des opérateurs biologiques enregistrés a été lancée, fournissant des informations transparentes au niveau provincial sur les producteurs certifiés et leurs produits à travers l'Équateur.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2013-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Ecuador maintained its position as the top exporter of organic products to the European Union for five consecutive years and ranked second globally, with over 2,300 registered operators and more than 90% of organic production destined for export.",
         "fr": "L'Équateur a maintenu sa position de premier exportateur de produits biologiques vers l'Union européenne pendant cinq années consécutives et s'est classé deuxième à l'échelle mondiale, avec plus de 2 300 opérateurs enregistrés et plus de 90 % de la production biologique destinée à l'exportation.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Public database of certified organic operators",
         "fr": "Base de données publique des opérateurs biologiques certifiés",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free monthly virtual courses on organic regulation",
         "fr": "Cours virtuels mensuels gratuits sur la réglementation biologique",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "In-province training and field inspections",
         "fr": "Formations en province et inspections sur le terrain",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organic seal for nationally registered producers",
         "fr": "Label biologique pour les producteurs enregistrés au niveau national",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Registry of certification bodies and inspectors",
         "fr": "Registre des organismes de certification et des inspecteurs",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Annual statistical bulletin on organic exports",
         "fr": "Bulletin statistique annuel sur les exportations biologiques",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory equivalence with US organic standards",
         "fr": "Équivalence réglementaire avec les normes biologiques américaines",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Updated agroecology regulation framework",
         "fr": "Cadre réglementaire d'agroécologie mis à jour",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Incentives to boost domestic organic consumption",
         "fr": "Incitations pour stimuler la consommation biologique intérieure",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Coordination with Cancillería for trade agreements",
         "fr": "Coordination avec la Cancillería pour les accords commerciaux",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Reduce EU export fraud notifications",
         "fr": "Réduire les notifications de fraude à l'exportation vers l'UE",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Register and certify more organic operators",
         "fr": "Enregistrer et certifier davantage d'opérateurs biologiques",

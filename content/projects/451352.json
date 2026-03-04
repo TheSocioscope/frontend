@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754406791,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa se centra en una cooperativa lechera conocida como Choza, que elabora productos lácteos ecológicos y biodinámicos. Creada hace 25 años, funciona con un modelo impulsado por la comunidad, que hace hincapié en las prácticas sostenibles y el bienestar animal. La cooperativa cuenta con unos 30 miembros que comparten beneficios y responsabilidades, fomentando un entorno de colaboración. Su objetivo es ampliar la producción respetando los principios biodinámicos, garantizando la salud de la tierra y el ganado, y manteniendo fuertes lazos con otras cooperativas y comunidades locales.",
     "de": "Die Initiative konzentriert sich auf eine Molkereigenossenschaft namens Choza, die organische und biodynamische Molkereiprodukte herstellt. Sie wurde vor 25 Jahren gegründet und arbeitet nach einem gemeinschaftsbasierten Modell, das nachhaltige Praktiken und Tierschutz in den Vordergrund stellt. Die Genossenschaft umfasst rund 30 Mitglieder, die Gewinne und Verantwortlichkeiten teilen und eine kollaborative Umgebung fördern. Sie streben eine Ausweitung der Produktion an, wobei sie sich an biodynamische Prinzipien halten, die Gesundheit von Land und Vieh gewährleisten und starke Bindungen zu anderen Genossenschaften und lokalen Gemeinschaften aufrechterhalten."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Cardiello"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lachoza.com.ar/",
   "yt": "3XxCHUdD67o",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1982",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "La Choza was founded as a biodynamic agricultural project on a 130-hectare field, beginning dairy production with cows following biodynamic principles from the start.",
         "fr": "La Choza a été fondée en tant que projet agricole biodynamique sur un terrain de 130 hectares, commençant la production laitière avec des vaches selon les principes biodynamiques dès le départ.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "1995",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The operation was formally established as a foundation (Fundación La Choza) to legally receive donated land, enabling the project to continue under biodynamic guidelines.",
         "fr": "L'exploitation a été officiellement constituée en fondation (Fundación La Choza) afin de recevoir légalement des terres données, permettant au projet de se poursuivre selon les directives biodynamiques.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The cooperative was officially created to enable commercial-scale operations, with major investments made to build and certify the dairy factory and open the first retail store in Martínez.",
         "fr": "La coopérative a été officiellement créée pour permettre des opérations à échelle commerciale, avec des investissements majeurs réalisés pour construire et certifier la laiterie et ouvrir le premier magasin de vente au détail à Martínez.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2015-2017",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Significant funding from private and international investors was secured over two to three years, enabling rapid infrastructure development and full regulatory compliance for food production.",
         "fr": "Des financements importants provenant d'investisseurs privés et internationaux ont été obtenus sur deux à trois ans, permettant un développement rapide des infrastructures et la pleine conformité réglementaire pour la production alimentaire.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The COVID-19 pandemic accelerated the cooperative's online sales channel, expanding their consumer reach while reinforcing demand for healthy, organic food products.",
         "fr": "La pandémie de COVID-19 a accéléré le canal de vente en ligne de la coopérative, élargissant leur portée auprès des consommateurs tout en renforçant la demande pour des produits alimentaires sains et biologiques.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2022-present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "A new governing council took over, successfully restructuring all defaulted debts and achieving full financial self-sufficiency, reducing total debt to approximately one-sixth of its original amount.",
         "fr": "Un nouveau conseil de gouvernance a pris les rênes, restructurant avec succès toutes les dettes en défaut et atteignant une pleine autonomie financière, réduisant la dette totale à environ un sixième de son montant initial.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic biodynamic dairy products for consumers",
         "fr": "Produits laitiers biologiques et biodynamiques pour les consommateurs",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Returnable glass bottle packaging system",
         "fr": "Système d'emballage en bouteilles de verre consignées",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution of allied cooperative products in stores",
         "fr": "Distribution de produits de coopératives partenaires en magasin",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Guided school visits and community outreach",
         "fr": "Visites scolaires guidées et actions communautaires",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Full farm-to-store production chain experience",
         "fr": "Expérience complète de la chaîne de production de la ferme au magasin",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer education on food vitality and care",
         "fr": "Éducation des consommateurs sur la vitalité alimentaire et les soins",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing to expand productive land",
         "fr": "Financement pour agrandir les terres productives",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New retail stores for direct sales",
         "fr": "Nouveaux points de vente au détail pour la vente directe",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Connect with biodynamic farms globally",
         "fr": "Se connecter avec des fermes biodynamiques à l'échelle mondiale",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Solutions to remove invasive acacia trees",
         "fr": "Solutions pour éliminer les acacias envahissants",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Grow consumer base for organic dairy",
         "fr": "Développer la clientèle pour les produits laitiers biologiques",

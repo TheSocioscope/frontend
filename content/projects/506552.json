@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Arca Tierra revitalizes the ancient chinampa system, promoting agroecology, fair trade, and local food distribution in Mexico City.",
     "de": "Arca Tierra revitalizes the ancient chinampa system, promoting agroecology, fair trade, and local food distribution in Mexico City."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Mexico City",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "G. Hernández"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.arcatierra.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Arca Tierra began as a small artisanal products store, founded by Lucio Usobiaga. A visit to Xochimilco revealed the agricultural abandonment of the chinampas, sparking a mission to recover traditional farming practices.",
         "fr": "Arca Tierra a débuté comme une petite boutique de produits artisanaux, fondée par Lucio Usobiaga. Une visite à Xochimilco a révélé l'abandon agricole des chinampas, déclenchant une mission de récupération des pratiques agricoles traditionnelles.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2009-2013",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The predecessor project Yolkan was created to connect city residents with the countryside through agroecological food baskets delivered to households and restaurants in Mexico City, gradually building a supplier network beyond Xochimilco.",
         "fr": "Le projet précurseur Yolkan a été créé pour connecter les habitants de la ville à la campagne grâce à des paniers alimentaires agroécologiques livrés aux foyers et aux restaurants de Mexico, construisant progressivement un réseau de fournisseurs au-delà de Xochimilco.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Iniciativa Agroecológica Xochimilco (IAX) was established as a civil association to address the social and educational dimensions of chinampa restoration, launching the Doctor Chinampa and Escuela Campesina programs.",
         "fr": "L'Iniciativa Agroecológica Xochimilco (IAX) a été établie en tant qu'association civile pour aborder les dimensions sociales et éducatives de la restauration des chinampas, en lançant les programmes Doctor Chinampa et Escuela Campesina.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The project evolved and rebranded as Arca Tierra during the COVID-19 pandemic. Being an open-air agricultural space, rural tourism experiences gained significant visibility, attracting local, national, and international visitors.",
         "fr": "Le projet a évolué et a été rebaptisé Arca Tierra durant la pandémie de COVID-19. En tant qu'espace agricole en plein air, les expériences de tourisme rural ont gagné une visibilité significative, attirant des visiteurs locaux, nationaux et internationaux.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Arca Tierra expanded its network to over 60 farming families across six regions, recovered more than 10 chinampas, and grew to supply 45 restaurants and approximately 300 household subscriptions in Mexico City.",
         "fr": "Arca Tierra a élargi son réseau à plus de 60 familles d'agriculteurs réparties dans six régions, a récupéré plus de 10 chinampas, et a développé son approvisionnement pour desservir 45 restaurants et environ 300 abonnements de foyers à Mexico.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological food baskets to 300 homes",
         "fr": "Paniers alimentaires agroécologiques pour 300 foyers",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fresh produce supply to 45 restaurants",
         "fr": "Approvisionnement en produits frais pour 45 restaurants",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Rural tourism experiences in Xochimilco chinampas",
         "fr": "Expériences de tourisme rural dans les chinampas de Xochimilco",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Campesina school for agricultural training",
         "fr": "École paysanne pour la formation agricole",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Chinampa restoration programs for organizations",
         "fr": "Programmes de restauration des chinampas pour les organisations",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fair trade network for 60 farming families",
         "fr": "Réseau de commerce équitable pour 60 familles d'agriculteurs",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies with ESG objectives for chinampa adoption",
         "fr": "Entreprises avec des objectifs ESG pour l'adoption des chinampas",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funds to support campesino school scholarships",
         "fr": "Fonds pour soutenir les bourses de l'école paysanne",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand food subscription to more households",
         "fr": "Étendre l'abonnement alimentaire à plus de foyers",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More farming families for regenerative network",
         "fr": "Plus de familles agricoles pour le réseau régénératif",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public policy recognizing farmers ecosystem value",
         "fr": "Politique publique reconnaissant la valeur écosystémique des agriculteurs",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Restore more abandoned chinampas in Xochimilco",
         "fr": "Restaurer davantage de chinampas abandonnées à Xochimilco",

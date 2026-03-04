@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754390264,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, dirigida por la Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV), se centra en promover la cadena de valor del agave en Ecuador. Su objetivo es preservar las prácticas agrícolas ancestrales e integrar al mismo tiempo tecnologías modernas para mejorar la seguridad alimentaria y la identidad de las comunidades. Mediante la colaboración con el mundo académico y los productores locales, ANAGABEV pretende revitalizar los diversos usos de la planta del agave, garantizando su sostenibilidad para las generaciones futuras y fomentando el desarrollo social, académico y medioambiental.",
     "de": "Die Initiative, die von der Asociación Nacional de las Cadenas Productivas del Penco y la Cabulla (ANAGABEV) geleitet wird, konzentriert sich auf die Förderung der Wertschöpfungskette der Agave in Ecuador. Ziel ist es, althergebrachte landwirtschaftliche Praktiken zu bewahren und gleichzeitig moderne Technologien zu integrieren, um die Ernährungssicherheit und die Identität der Gemeinschaft zu gewährleisten. Durch die Zusammenarbeit mit Akademikern und lokalen Produzenten will ANAGABEV die vielfältigen Nutzungsmöglichkeiten der Agave wiederbeleben, ihre Nachhaltigkeit für zukünftige Generationen sichern und die soziale, akademische und ökologische Entwicklung fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Quishpe"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://anagavec.ec/es/",
   "yt": "",
   "editedAt": 1754391958,
@@ -55,14 +45,12 @@
       "at": 1754391958
     }
   ],
-  "updatedAt": [
-    1754391958
-  ],
+  "updatedAt": [1754391958],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2000 BC",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Archaeological evidence shows agave cultivation in Ecuador dating back 2000 years before Christ, with clay vessels used to process chaguarmiski, the sap of the agave plant.",
         "fr": "Des preuves archéologiques montrent la culture de l'agave en Équateur remontant à 2000 ans avant Jésus-Christ, avec des récipients en argile utilisés pour traiter le chaguarmiski, la sève de la plante agave.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2010-2012",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ecuador's Prometeo program brought international researchers from France's IRD institute and Mexico's UNAM to study agave potential, catalyzing connections between producers across 10 Andean provinces.",
         "fr": "Le programme Prometeo de l'Équateur a amené des chercheurs internationaux de l'institut IRD de France et de l'UNAM du Mexique pour étudier le potentiel de l'agave, catalysant des liens entre des producteurs dans 10 provinces andines.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2011-2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Edison Quispe and other producers began identifying and connecting with fellow agave cultivators across Ecuador, with a viral social media post linking producers from Cayambe and Cuenca who organized the first agave symposium.",
         "fr": "Edison Quispe et d'autres producteurs ont commencé à identifier et à se connecter avec d'autres cultivateurs d'agave à travers l'Équateur, grâce à une publication virale sur les réseaux sociaux reliant des producteurs de Cayambe et de Cuenca qui ont organisé le premier symposium sur l'agave.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Anagabec was formally founded and received legal recognition the same year, uniting 72 representatives from indigenous communities including Salasaca, Cayambi, Cañari, and Panzaleo peoples alongside academic researchers.",
         "fr": "Anagabec a été officiellement fondée et a obtenu une reconnaissance juridique la même année, réunissant 72 représentants de communautés indigènes, notamment les peuples Salasaca, Cayambi, Cañari et Panzaleo, aux côtés de chercheurs académiques.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "During the COVID-19 pandemic, Anagabec partnered with Fundación Progresio after being selected from 500 projects, gaining access to international networks and enabling producers to participate in festivals in France and Mexico.",
         "fr": "Durant la pandémie de COVID-19, Anagabec s'est associée à la Fundación Progresio après avoir été sélectionnée parmi 500 projets, accédant ainsi à des réseaux internationaux et permettant aux producteurs de participer à des festivals en France et au Mexique.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Anagabec secured Ecuador's denomination of origin for Misque, the agave distillate, and advanced a new INEN norm for agave spirits while planning the association's first product export to Europe.",
         "fr": "Anagabec a obtenu la dénomination d'origine équatorienne pour le Misque, le distillat d'agave, et a fait avancer une nouvelle norme INEN pour les spiritueux à base d'agave, tout en planifiant la première exportation de produits de l'association vers l'Europe.",
@@ -123,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Denominación de origen para destilado de agave",
         "fr": "Appellation d'origine pour le distillat d'agave",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Productos alimenticios y bebidas derivadas del agave",
         "fr": "Produits alimentaires et boissons dérivés de l'agave",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Investigación científica y ancestral sobre el agave",
         "fr": "Recherche scientifique et ancestrale sur l'agave",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacitaciones a comunidades productoras rurales",
         "fr": "Formations aux communautés productrices rurales",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Comercialización unificada bajo marca común",
         "fr": "Commercialisation unifiée sous marque commune",
@@ -168,7 +156,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Normas y políticas de regulación productiva",
         "fr": "Normes et politiques de régulation productive",
@@ -179,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic research on agave plant varieties",
         "fr": "Recherche académique sur les variétés de plantes d'agave",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International export markets for Miske",
         "fr": "Marchés d'exportation internationaux pour le Miske",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory norms and food safety certifications",
         "fr": "Normes réglementaires et certifications de sécurité alimentaire",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with NGOs and cooperative foundations",
         "fr": "Alliances avec des ONG et des fondations coopératives",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New producers joining denomination of origin",
         "fr": "Nouveaux producteurs rejoignant la dénomination d'origine",
@@ -224,7 +212,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Agave raw material supply chain consolidation",
         "fr": "Consolidation de la chaîne d'approvisionnement en matière première d'agave",

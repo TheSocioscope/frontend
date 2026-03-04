@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Solidaridad SREC India promotes sustainable supply chains, having trained over 1M farmers in regenerative farming and brought over 1.1M hectares under sustainable management.",
     "de": "Solidaridad SREC India promotes sustainable supply chains, having trained over 1M farmers in regenerative farming and brought over 1.1M hectares under sustainable management."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "Delhi, India",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Chattopadhayay"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://solidaridad.in/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1969",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Solidaridad was founded as the world's oldest civil society organization dedicated to sustainability, initially focused on democratizing agricultural trade through initiatives like Fair Trade.",
         "fr": "Solidaridad a été fondée en tant qu'organisation de la société civile la plus ancienne au monde dédiée à la durabilité, initialement axée sur la démocratisation du commerce agricole à travers des initiatives comme le commerce équitable.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2007-2008",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Shatadru Chattopadhyay met Solidaridad founder Nico Rosen in Brazil and returned to India to establish SREC, formally registered as a trust in 2008 with three founding members.",
         "fr": "Shatadru Chattopadhyay a rencontré Nico Rosen, fondateur de Solidaridad, au Brésil, puis est retourné en Inde pour établir le SREC, officiellement enregistré en tant que fiducie en 2008 avec trois membres fondateurs.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011-2015",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Solidaridad developed multiple national sustainability standards in India, including the Trustee certification for tea, partnering with Hindustan Unilever and Tata to transform the entire Indian tea sector.",
         "fr": "Solidaridad a développé plusieurs normes nationales de durabilité en Inde, notamment la certification Trustee pour le thé, en s'associant avec Hindustan Unilever et Tata pour transformer l'ensemble du secteur indien du thé.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2015-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The organization expanded beyond certification to address pollution, launching collaboration with the National Mission on Clean Ganga to reduce tannery effluents, and created Bharatkhand, a farmer-owned federation of producer companies.",
         "fr": "L'organisation a élargi son champ d'action au-delà de la certification pour lutter contre la pollution, en lançant une collaboration avec la Mission nationale pour un Gange propre afin de réduire les effluents des tanneries, et a créé Bharatkhand, une fédération de sociétés de producteurs appartenant aux agriculteurs.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Solidaridad developed Region Agri, which became the world's largest regenerative agriculture standard covering over 2.5 million hectares globally, and pursued carbon credit mechanisms to reward farmers for ecosystem services.",
         "fr": "Solidaridad a développé Region Agri, qui est devenu la plus grande norme mondiale d'agriculture régénératrice couvrant plus de 2,5 millions d'hectares à l'échelle mondiale, et a poursuivi des mécanismes de crédits carbone pour récompenser les agriculteurs pour les services écosystémiques.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Solidaridad signed a landmark partnership with WWF India, described as India's biggest NGO partnership, aimed at transforming the sustainability landscape across overlapping supply chain and conservation areas.",
         "fr": "Solidaridad a signé un partenariat historique avec WWF Inde, décrit comme le plus grand partenariat entre ONG en Inde, visant à transformer le paysage de la durabilité dans les domaines communs de la chaîne d'approvisionnement et de la conservation.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farmer field schools for agricultural training",
         "fr": "Écoles paysannes d'apprentissage pour la formation agricole",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Organizing farmers into producer companies",
         "fr": "Organisation des agriculteurs en sociétés de producteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Connecting farmers to sustainable supply chains",
         "fr": "Connexion des agriculteurs aux chaînes d'approvisionnement durables",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Developing national sustainability certification standards",
         "fr": "Élaboration de normes nationales de certification en matière de durabilité",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Smart agriculture tools and weather stations",
         "fr": "Outils d'agriculture intelligente et stations météorologiques",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Policy advocacy for sustainable farming implementation",
         "fr": "Plaidoyer politique pour la mise en œuvre d'une agriculture durable",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Businesses committed to net zero sourcing",
         "fr": "Entreprises engagées dans un approvisionnement à zéro émission nette",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "High value supply chains for smallholder farmers",
         "fr": "Chaînes d'approvisionnement à haute valeur ajoutée pour les petits agriculteurs",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Indian-led sustainability standards and frameworks",
         "fr": "Normes et cadres de durabilité dirigés par l'Inde",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Franchise-style grassroots NGO partners to scale",
         "fr": "Partenaires ONG de terrain de type franchise pour une mise à l'échelle",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Models demonstrating growth within planetary boundaries",
         "fr": "Modèles démontrant une croissance dans les limites planétaires",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Regenerative agriculture adoption across commodity sectors",
         "fr": "Adoption de l'agriculture régénératrice dans les secteurs des produits de base",

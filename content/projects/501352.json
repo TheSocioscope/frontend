@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "CAMAPEZ focuses on sustainable fisheries and aquaculture, promoting responsible practices in Costa Rica's fishing industry.",
     "de": "CAMAPEZ focuses on sustainable fisheries and aquaculture, promoting responsible practices in Costa Rica's fishing industry."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Alonso"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://www.camapez.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2002",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Manrique and his wife founded Camapés de la Costa, beginning as a family operation selling fish from home using a handcart. The project was initially called 'El Chato' before being formally registered as Camapés de la Costa.",
         "fr": "Manrique et sa femme ont fondé Camapés de la Costa, débutant comme une entreprise familiale vendant du poisson à domicile à l'aide d'une charrette à bras. Le projet s'appelait initialement « El Chato » avant d'être officiellement enregistré sous le nom de Camapés de la Costa.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2013",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Camapés joined a responsible fishing pilot project with support from Fundación MarViva, receiving training in sustainable fishing standards, traceability, and business administration. This marked a turning point, though enforcing minimum catch sizes initially drove some fishermen to competitors.",
         "fr": "Camapés a rejoint un projet pilote de pêche responsable avec le soutien de la Fundación MarViva, recevant une formation sur les normes de pêche durable, la traçabilité et la gestion d'entreprise. Cela a marqué un tournant, bien que l'application des tailles minimales de capture ait d'abord poussé certains pêcheurs vers des concurrents.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Through a partnership brokered by the Centro Científico Tropical, chefs and business owners from Monteverde visited Camapés, leading to their first sales relationship with Hotel Belmar and opening access to a differentiated, higher-value market.",
         "fr": "Grâce à un partenariat organisé par le Centro Científico Tropical, des chefs et des propriétaires d'entreprises de Monteverde ont rendu visite à Camapés, conduisant à leur première relation commerciale avec l'Hôtel Belmar et ouvrant l'accès à un marché différencié à plus haute valeur ajoutée.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic forced hotel and restaurant clients to cancel all orders, threatening the business. Camapés responded by launching a home-delivery route across the San José metropolitan area, supported by MarViva's digital routing tools.",
         "fr": "La pandémie de COVID-19 a contraint les hôtels et restaurants clients à annuler toutes leurs commandes, mettant l'entreprise en péril. Camapés a réagi en lançant une tournée de livraison à domicile dans la région métropolitaine de San José, soutenue par les outils de planification d'itinéraires numériques de MarViva.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2002-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Camapés grew from a two-person family operation to a business supporting approximately 36 artisanal fishing boats, benefiting 80–90 families, and employing around 10 people in its processing facility. The company expanded its physical infrastructure with financing from Banca para el Desarrollo.",
         "fr": "Camapés est passé d'une entreprise familiale de deux personnes à une société soutenant environ 36 bateaux de pêche artisanale, bénéficiant à 80 à 90 familles et employant une dizaine de personnes dans son atelier de transformation. L'entreprise a développé son infrastructure physique grâce à un financement de la Banca para el Desarrollo.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sustainably sourced fish to hotels and restaurants",
         "fr": "Poisson d'approvisionnement durable fourni aux hôtels et restaurants",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Livelihood support for 90 local fishing families",
         "fr": "Soutien aux moyens de subsistance de 90 familles de pêcheurs locaux",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Responsible fish processing with full traceability",
         "fr": "Transformation responsable du poisson avec traçabilité complète",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Fishermen trained in sustainable catch standards",
         "fr": "Pêcheurs formés aux normes de pêche durable",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh seafood delivered directly to consumers",
         "fr": "Fruits de mer frais livrés directement aux consommateurs",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model for sustainable artisanal fishing practices",
         "fr": "Modèle de pratiques de pêche artisanale durable",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New buyers for sustainably sourced fish",
         "fr": "Nouveaux acheteurs pour le poisson d'approvisionnement durable",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "More artisanal fishermen meeting sustainability standards",
         "fr": "Plus de pêcheurs artisanaux répondant aux normes de durabilité",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Tourism permits for eco-fishing experiences",
         "fr": "Permis touristiques pour des expériences de pêche écologique",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment for expanded cold storage infrastructure",
         "fr": "Investissement pour l'expansion des infrastructures de stockage frigorifique",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Social media presence to reach new consumers",
         "fr": "Présence sur les réseaux sociaux pour atteindre de nouveaux consommateurs",

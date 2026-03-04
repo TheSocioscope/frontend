@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Finca San José es una de las mayores fincas productoras de leche en la región central de Colombia (Cundinamarca). Ubicada en Mosquera, la finca opera con más de 200 cabezas de ganado activas produciendo leche, contribuyendo significativamente a la cadena de suministro lácteo regional y a la seguridad alimentaria local.",
     "de": "Finca San José ist einer der größten Milchviehbetriebe in der zentralen Region Kolumbiens (Cundinamarca). Der in Mosquera gelegene Betrieb verfügt über mehr als 200 aktive Milchkühe und leistet einen wichtigen Beitrag zur regionalen Milchversorgungskette und zur lokalen Ernährungssicherheit."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "Mosquera",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Vargas"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "Late 1980s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Felipe's family acquired approximately 120 hectares of land on the Sabana de Bogotá, originally farmed for barley by distant relatives of the previous owner. The family began by renting the land to vegetable growers before transitioning to direct operation.",
         "fr": "La famille de Felipe a acquis environ 120 hectares de terrain sur la Sabana de Bogotá, initialement cultivés en orge par des parents éloignés de l'ancien propriétaire. La famille a commencé par louer les terres à des maraîchers avant de passer à l'exploitation directe.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "Early 1990s",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The farm shifted from horticulture to dairy cattle, starting with around 30 cows producing approximately 40 liters per day. The transition was driven by the difficulty of competing in the volatile vegetable market without strong connections at Corabastos.",
         "fr": "La ferme est passée de l'horticulture à l'élevage laitier, en démarrant avec une trentaine de vaches produisant environ 40 litres par jour. Cette transition a été motivée par la difficulté de s'imposer sur le marché volatil des légumes sans relations solides à Corabastos.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "1990s–2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm scaled up to over 200 active milking cows out of a total herd of around 460 animals, making it significantly larger than the Colombian average of roughly 18 active cows per producer. A long-term commercial relationship was established first with Algarra, lasting over 20 years, then with Parmalat-Lactalis for approximately 15 years.",
         "fr": "La ferme a évolué pour atteindre plus de 200 vaches en lactation active sur un troupeau total d'environ 460 animaux, ce qui la rendait nettement plus grande que la moyenne colombienne d'environ 18 vaches actives par producteur. Une relation commerciale de longue durée a été établie d'abord avec Algarra, pendant plus de 20 ans, puis avec Parmalat-Lactalis pendant environ 15 ans.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2012–2015",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Free trade agreements between Colombia and the US and EU introduced tariff reduction schedules on dairy inputs such as powdered milk and whey, making imports increasingly cost-competitive. Pasteurizers began building large inventories, reportedly equivalent to 35 days of national consumption, depressing prices paid to raw milk producers.",
         "fr": "Les accords de libre-échange conclus entre la Colombie, les États-Unis et l'UE ont introduit des calendriers de réduction tarifaire sur les intrants laitiers tels que le lait en poudre et le lactosérum, rendant les importations de plus en plus compétitives. Les pasteurisateurs ont commencé à constituer d'importants stocks, représentant selon certaines sources l'équivalent de 35 jours de consommation nationale, ce qui a fait baisser les prix payés aux producteurs de lait cru.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020s",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A confluence of crises hit raw milk producers: falling consumer demand for liquid milk, surging imports of subsidized foreign dairy, and accusations of processors adulterating milk with whey. Farm-gate prices dropped from approximately COP 2,500 to COP 1,900 per liter within a year, while fixed costs remained unchanged.",
         "fr": "Une convergence de crises a frappé les producteurs de lait cru : une baisse de la demande des consommateurs en lait liquide, une hausse des importations de produits laitiers étrangers subventionnés, et des accusations de falsification du lait par les transformateurs avec du lactosérum. Les prix à la ferme ont chuté d'environ 2 500 COP à 1 900 COP par litre en l'espace d'un an, tandis que les coûts fixes sont restés inchangés.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2020s onward",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Part of the original farm had already been rezoned as urban land and sold to large retail developments including Home Center, but unresolved water and utility access issues have blocked full development. The family anticipates an 8-to-12-year horizon before the remaining agricultural land can be sold at urban land values, after which dairy operations will cease entirely.",
         "fr": "Une partie de la ferme d'origine avait déjà été rezonée en terrain urbain et vendue à de grandes enseignes de distribution, dont Home Center, mais des problèmes non résolus d'accès à l'eau et aux réseaux ont bloqué tout aménagement complet. La famille anticipe un horizon de 8 à 12 ans avant que les terres agricoles restantes puissent être cédées à des valeurs foncières urbaines, après quoi les activités laitières cesseront entièrement.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Industry context on Colombia's dairy crisis",
         "fr": "Contexte industriel sur la crise laitière en Colombie",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Raw milk supply to pasteurizers daily",
         "fr": "Approvisionnement quotidien en lait cru aux pasteurisateurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Autodidact knowledge sharing on cattle farming",
         "fr": "Partage de connaissances autodidacte sur l'élevage bovin",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for local farm families",
         "fr": "Emploi pour les familles agricoles locales",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Mobile milking stable innovation model",
         "fr": "Modèle d'innovation d'étable de traite mobile",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Resolution of land use zoning conflicts",
         "fr": "Résolution des conflits de zonage d'utilisation des terres",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Buyer offering fair development deal",
         "fr": "Acheteur proposant un accord de développement équitable",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Developers able to resolve water access",
         "fr": "Promoteurs capables de résoudre l'accès à l'eau",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for farmland at non-distressed price",
         "fr": "Acheteurs pour terres agricoles à prix non défavorable",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Stronger producer association and collective action",
         "fr": "Association de producteurs plus forte et action collective",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1739454633,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Nordic Harvest es una iniciativa de agricultura vertical situada en las afueras de Copenhague. La iniciativa pretende hacer frente a los importantes retos medioambientales que plantean los métodos de cultivo tradicionales, en particular la deforestación y los problemas climáticos derivados de las prácticas agrícolas convencionales.\n\nLa misión de Nordic Harvest es cultivar más alimentos en menos espacio, utilizando tecnologías innovadoras como la iluminación LED y un entorno controlado para maximizar el rendimiento de los cultivos. La granja funciona según un modelo de prueba de concepto, y actualmente produce cultivos como lechuga, hierbas y col rizada en unas instalaciones de 3.500 metros cuadrados, con planes de ampliación a 66.000 metros cuadrados, lo que permitiría producir 1.000 toneladas de productos al año.\n\nNordic Harvest hace hincapié en la investigación y el desarrollo, y emplea a un equipo de expertos, entre ellos doctores y especialistas en microbiología y agricultura sostenible, para garantizar unas condiciones de cultivo óptimas e innovar en la producción de cultivos.\n",
     "de": "Nordic Harvest ist eine Initiative für vertikale Landwirtschaft am Stadtrand von Kopenhagen. Die Initiative will die erheblichen ökologischen Herausforderungen angehen, die durch die traditionelle Landwirtschaft entstehen, insbesondere die Entwaldung und die Klimaproblematik, die sich aus den konventionellen landwirtschaftlichen Praktiken ergeben.\n\nDie Mission von Nordic Harvest ist es, mehr Lebensmittel auf weniger Fläche anzubauen und dabei innovative Technologien wie LED-Beleuchtung und ein kontrolliertes Umfeld zu nutzen, um die Ernteerträge zu maximieren. Der Betrieb arbeitet nach einem Proof-of-Concept-Modell und produziert derzeit Pflanzen wie Lettuce, Kräuter und Grünkohl in einer Anlage, die sich über 3.500 Quadratmeter erstreckt. Es ist geplant, die Anlage auf 66.000 Quadratmeter zu erweitern, was die Produktion von jährlich 1.000 Tonnen Erzeugnissen ermöglichen würde.\n\nNordic Harvest legt großen Wert auf Forschung und Entwicklung und beschäftigt ein Team von Experten, darunter Doktoranden und Spezialisten für Mikrobiologie und nachhaltige Landwirtschaft, um optimale Wachstumsbedingungen zu gewährleisten und Innovationen in der Pflanzenproduktion voranzutreiben.\n"
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Riemann"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.nordicharvest.com/",
   "yt": "BUO_FmW8eT8",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Anders Riemann, a former business analyst at Maersk and Saxo Bank, conceived the idea of vertical farming after researching LED light technology and its potential for stacked crop production. He developed a study plan and wrote to Dr. Dixon Despommier, a vertical farming pioneer at Columbia University, who invited him to New York and became his advisor.",
         "fr": "Anders Riemann, ancien analyste commercial chez Maersk et Saxo Bank, a eu l'idée de l'agriculture verticale après avoir étudié la technologie des éclairages LED et son potentiel pour la production de cultures en couches superposées. Il a élaboré un plan d'études et a écrit au Dr Dixon Despommier, pionnier de l'agriculture verticale à l'Université Columbia, qui l'a invité à New York et est devenu son conseiller.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2014-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After quitting his job, Anders spent four years developing the concept across four workstreams: technology, building selection, securing supermarket contracts, and finding investors. He exhausted his savings, borrowed from friends and family, and accumulated significant debt to a lawyer and engineer.",
         "fr": "Après avoir quitté son emploi, Anders a passé quatre ans à développer le concept autour de quatre axes de travail : la technologie, la sélection des bâtiments, l'obtention de contrats avec des supermarchés et la recherche d'investisseurs. Il a épuisé ses économies, emprunté à des amis et à sa famille, et accumulé des dettes importantes auprès d'un avocat et d'un ingénieur.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "March 2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A shareholder agreement was secured with 50 individual shareholders, raising €9 million to build the proof of concept facility. Co-founder Fleming joined the initiative around this time to help raise the capital.",
         "fr": "Un accord d'actionnaires a été conclu avec 50 actionnaires individuels, permettant de lever 9 millions d'euros pour construire l'installation pilote. Le cofondateur Fleming a rejoint l'initiative à cette période pour aider à lever les fonds.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "December 2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Construction of the vertical farm facility was completed, covering 3,500 square meters of growing area across 14 stacked layers, capable of producing 8 kilos of lettuce per square meter per month.",
         "fr": "La construction de l'installation d'agriculture verticale a été achevée, couvrant 3 500 mètres carrés de surface de culture répartis sur 14 couches superposées, capable de produire 8 kilos de laitue par mètre carré par mois.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "April 2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Commercial production launched, with products sold to Selling Group, which owns approximately 700 supermarkets in Denmark. Product testing began, including some failures such as mustard lettuce, alongside successful mixed salads and herbs.",
         "fr": "La production commerciale a été lancée, avec des produits vendus au Selling Group, qui possède environ 700 supermarchés au Danemark. Des tests de produits ont débuté, incluant certains échecs comme la laitue moutarde, aux côtés de salades composées et d'herbes aromatiques commercialisées avec succès.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "Future (planned)",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Nordic Harvest plans to expand to 26,000 square meters of growing area, targeting approximately 1,000 tonnes per year and supplying around 1,400 supermarkets, with ambitions to enter the German market and eventually integrate vertical farms into urban infrastructure globally.",
         "fr": "Nordic Harvest prévoit de s'étendre à 26 000 mètres carrés de surface de culture, avec pour objectif d'atteindre environ 1 000 tonnes par an et d'approvisionner quelque 1 400 supermarchés, tout en ayant l'ambition de pénétrer le marché allemand et d'intégrer à terme des fermes verticales dans les infrastructures urbaines à l'échelle mondiale.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fresh lettuce, herbs, and kale to supermarkets",
         "fr": "Laitue fraîche, herbes et chou frisé pour les supermarchés",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Pesticide-free food with 2-week shelf life",
         "fr": "Aliments sans pesticides avec une durée de conservation de 2 semaines",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Proof of concept for vertical farming technology",
         "fr": "Preuve de concept pour la technologie d'agriculture verticale",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supply to hotels, restaurants, and canteens",
         "fr": "Approvisionnement des hôtels, restaurants et cantines",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "2000 hours monthly research on crop production",
         "fr": "2000 heures de recherche mensuelle sur la production agricole",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Educating food and agriculture authorities",
         "fr": "Sensibilisation des autorités alimentaires et agricoles",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private investor funding for expansion",
         "fr": "Financement par des investisseurs privés pour l'expansion",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Entry into German supermarket market",
         "fr": "Entrée sur le marché des supermarchés allemands",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Best-in-class specialized equipment suppliers",
         "fr": "Fournisseurs d'équipements spécialisés de premier ordre",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "PhD and master-level research talent",
         "fr": "Talents de recherche de niveau doctorat et master",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer acceptance of new crop varieties",
         "fr": "Acceptation par les consommateurs des nouvelles variétés de cultures",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Seed vendors breeding indoor-optimized seeds",
         "fr": "Fournisseurs de semences développant des graines optimisées pour l'intérieur",

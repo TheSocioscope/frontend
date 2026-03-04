@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754403343,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en el programa Agrupar de Quito (Ecuador), cuyo objetivo es mejorar la seguridad alimentaria y promover el espíritu empresarial a través de huertos urbanos. Creado en 2003, funciona como una entidad sin ánimo de lucro, que moviliza fondos públicos y privados. El programa ofrece formación, asistencia técnica y acceso al mercado a los participantes, y se dirige principalmente a poblaciones vulnerables, como los adultos mayores y los desempleados. Con más de 1.200 huertos y 5.200 beneficiarios, ha contribuido significativamente a reducir las tasas de malnutrición en la comunidad.",
     "de": "Die Initiative konzentriert sich auf das Agrupar-Programm in Quito, Ecuador, das die Ernährungssicherheit erhöhen und das Unternehmertum durch städtische Gemüsegärten fördern soll. Das 2003 gegründete Programm arbeitet als gemeinnütziges Unternehmen, das sowohl öffentliche als auch private Gelder aufbringt. Das Programm bietet Schulungen, technische Unterstützung und Marktzugang für Teilnehmer, die sich vor allem an besonders gefährdete Bevölkerungsgruppen richten, darunter ältere Erwachsene und Arbeitslose. Mit über 1.200 Gärten und 5.200 Begünstigten hat das Projekt erheblich zur Verringerung der Unterernährungsraten in der Gemeinde beigetragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Garófalo"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "conquito.org.ec",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2001-2002",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Urban Management Program (PGU) conducted research on urban agriculture in Latin America, leading to the signing of the Quito Agreement where local governments committed to developing urban agriculture programs. AGRUPAR (Agricultura Urbana Participativa) was officially launched in May 2002 as a strategy to improve food security for vulnerable populations in Quito.",
         "fr": "Le Programme de Gestion Urbaine (PGU) a mené des recherches sur l'agriculture urbaine en Amérique latine, conduisant à la signature de l'Accord de Quito par lequel les gouvernements locaux se sont engagés à développer des programmes d'agriculture urbaine. AGRUPAR (Agricultura Urbana Participativa) a été officiellement lancé en mai 2002 comme stratégie pour améliorer la sécurité alimentaire des populations vulnérables de Quito.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2003",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Conquito, the economic development agency of Quito, was formally established in October 2003 as a nonprofit municipal entity with a multi-stakeholder board including the Mayor, Chamber of Commerce, UNDP, and the National Polytechnic School. AGRUPAR was transferred from the Municipal Directorate of Human Development to Conquito in 2005.",
         "fr": "Conquito, l'agence de développement économique de Quito, a été formellement créée en octobre 2003 en tant qu'entité municipale à but non lucratif avec un conseil multi-parties prenantes comprenant le Maire, la Chambre de Commerce, le PNUD et l'École Polytechnique Nationale. AGRUPAR a été transféré de la Direction Municipale du Développement Humain à Conquito en 2005.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2008-2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "AGRUPAR expanded steadily, achieving an annual sales growth rate of 27% through 2018 across its network of urban gardens and 19 healthy food market points. By 2019, the program reached a peak of USD 380,000 in total sales by beneficiary producers and grew to over 5,500 beneficiaries across 2,200+ urban gardens.",
         "fr": "AGRUPAR s'est développé régulièrement, atteignant un taux de croissance annuel des ventes de 27 % jusqu'en 2018 dans son réseau de jardins urbains et ses 19 points de marché d'alimentation saine. En 2019, le programme a atteint un pic de 380 000 USD de ventes totales par les producteurs bénéficiaires et a compté plus de 5 500 bénéficiaires répartis dans plus de 2 200 jardins urbains.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic severely impacted AGRUPAR's commercialization channels and reduced production surpluses as unemployment rose, causing annual sales to drop to approximately USD 200,000. Recovery has been slow, with 2024 sales reaching USD 325,000, still below the 2019 peak.",
         "fr": "La pandémie de COVID-19 a gravement affecté les canaux de commercialisation d'AGRUPAR et réduit les surplus de production à mesure que le chômage augmentait, entraînant une baisse des ventes annuelles à environ 200 000 USD. La reprise a été lente, avec des ventes atteignant 325 000 USD en 2024, encore en dessous du pic de 2019.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Quito Metropolitan Council approved an ordinance in May 2024 to formally institutionalize and guarantee continued public funding for urban agriculture promotion. Conquito also strategically expanded its Popular and Solidarity Economy area by adding an innovation dimension, rebranding it as Economía Popular, Solidaria e Innovadora (EPSI).",
         "fr": "Le Conseil Métropolitain de Quito a approuvé une ordonnance en mai 2024 pour institutionnaliser formellement et garantir un financement public continu pour la promotion de l'agriculture urbaine. Conquito a également élargi stratégiquement son domaine d'Économie Populaire et Solidaire en y ajoutant une dimension innovation, le rebaptisant Economía Popular, Solidaria e Innovadora (EPSI).",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacitaciones en producción orgánica de hortalizas",
         "fr": "Formations en production biologique de légumes",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "19 ferias de venta de productos orgánicos",
         "fr": "19 foires de vente de produits biologiques",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Asistencia técnica personalizada a huertos urbanos",
         "fr": "Assistance technique personnalisée aux jardins urbains",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Huertos comunitarios en escuelas y centros barriales",
         "fr": "Jardins communautaires dans les écoles et centres de quartier",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Investigación sobre impacto de agricultura urbana",
         "fr": "Recherche sur l'impact de l'agriculture urbaine",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Formación en compostaje con residuos domésticos",
         "fr": "Formation au compostage avec les déchets ménagers",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances national and international institutions",
         "fr": "Alliances stratégiques avec des institutions nationales et internationales",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth engagement to close generational farming gap",
         "fr": "Engagement des jeunes pour combler le fossé générationnel agricole",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University research on urban agriculture impact",
         "fr": "Recherche universitaire sur l'impact de l'agriculture urbaine",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion to other cities like Guayaquil and Cuenca",
         "fr": "Extension à d'autres villes comme Guayaquil et Cuenca",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political support to preserve social program nature",
         "fr": "Soutien politique pour préserver la nature du programme social",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Composting adoption in 90% of beneficiary households",
         "fr": "Adoption du compostage dans 90% des ménages bénéficiaires",

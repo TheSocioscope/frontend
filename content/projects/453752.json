@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1741085931,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Tyddynteg se centra en una granja regenerativa de gestión cooperativa que lleva funcionando casi una década. Se centra en el cultivo sostenible de hortalizas sin ganado, fomentando la participación de la comunidad a través de un sistema de cajas de hortalizas y una tienda in situ. La estructura cooperativa promueve la propiedad compartida y la retribución equitativa entre sus miembros, garantizando que todas las tareas se valoren por igual. La granja se inspira en prácticas regenerativas arraigadas en la cultura palestina, con el objetivo de crear resiliencia frente a los cambios políticos y económicos. Además, es un activo de la comunidad, que organiza actos para reforzar los lazos sociales y promover la concienciación sobre los sistemas alimentarios.",
     "de": "Tyddynteg konzentriert sich auf eine genossenschaftlich geführte regenerative Farm, die seit fast einem Jahrzehnt in Betrieb ist. Sie betont die nachhaltige Förderung von Gemüse ohne Viehbestand und fördert das Engagement der Gemeinschaft durch ein Gemüsekistensystem und einen Vor-Ort-Shop. Die genossenschaftliche Struktur fördert den gemeinsamen Besitz und die gerechte Bezahlung unter den Mitgliedern, sodass alle Aufgaben gleichwertig bewertet werden. Der Hof lässt sich von regenerativen Praktiken inspirieren, die in der palästinensischen Kultur verwurzelt sind und darauf abzielen, Widerstandsfähigkeit gegen politische und wirtschaftliche Veränderungen aufzubauen. Darüber hinaus fungiert der Hof als Aktivposten der Gemeinschaft, indem er Veranstaltungen zur Stärkung sozialer Bindungen und zur Förderung des Bewusstseins für Ernährungssysteme ausrichtet."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Gray"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.tyddynteg.com/",
   "yt": "oniTHdmIsZw",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Tithen Teg was founded as a workers cooperative in North Wales, taking over a farm previously run by Pippa and John who had established an organic veg box scheme. The founding members, many of whom had studied at Bangor University and worked in Palestine, launched the farm with a cooperative structure from the beginning.",
         "fr": "Tithen Teg a été fondée en tant que coopérative de travailleurs au nord du Pays de Galles, reprenant une ferme précédemment gérée par Pippa et John qui avaient mis en place un système de paniers de légumes biologiques. Les membres fondateurs, dont beaucoup avaient étudié à l'Université de Bangor et travaillé en Palestine, ont lancé la ferme avec une structure coopérative dès le départ.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Alice Gray joined as a full cooperative member after volunteering in 2015, becoming one of the earliest and longest-serving members of the farm team.",
         "fr": "Alice Gray a rejoint la coopérative en tant que membre à part entière après avoir été bénévole en 2015, devenant l'un des membres les plus anciens et les plus fidèles de l'équipe de la ferme.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "During COVID-19",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The farm opened an on-site shop during the pandemic to provide a safe local shopping alternative, significantly diversifying their retail offering to include dried goods, dairy, and products from other local producers. This period accelerated their development into a community food hub.",
         "fr": "La ferme a ouvert une boutique sur place pendant la pandémie afin d'offrir une alternative d'achat locale et sécurisée, diversifiant considérablement son offre de vente au détail pour inclure des produits secs, des produits laitiers et des articles d'autres producteurs locaux. Cette période a accéléré leur développement en tant que centre alimentaire communautaire.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Approx. 2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Tithen Teg completed phase one of a community share offer, raising over £125,000 from approximately 200 investors with a maximum individual investment of £20,000. This was designed to distribute land ownership broadly and protect the farm from future inheritance or political instability.",
         "fr": "Tithen Teg a achevé la première phase d'une offre de parts communautaires, levant plus de 125 000 £ auprès d'environ 200 investisseurs avec un investissement individuel maximum de 20 000 £. Cela visait à répartir largement la propriété foncière et à protéger la ferme contre d'éventuelles instabilités successorales ou politiques.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Within 10 years",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm grew its veg box scheme from around 60 boxes per week inherited from previous farmers to 180 active members, with capacity for up to 240, while annual turnover grew from £30,000 to approximately £260,000.",
         "fr": "La ferme a fait croître son système de paniers de légumes d'environ 60 paniers par semaine hérités des agriculteurs précédents à 180 membres actifs, avec une capacité pouvant atteindre 240, tandis que le chiffre d'affaires annuel est passé de 30 000 £ à environ 260 000 £.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Veg box scheme for 200 local families",
         "fr": "Programme de paniers de légumes pour 200 familles locales",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Farm shop selling local producer goods",
         "fr": "Boutique de la ferme vendant des produits de producteurs locaux",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Freshly baked bread from on-site bakery",
         "fr": "Pain fraîchement cuit au four de la boulangerie sur place",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Six-month paid farming traineeship program",
         "fr": "Programme de stage agricole rémunéré de six mois",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community events, meals, and open days",
         "fr": "Événements communautaires, repas et journées portes ouvertes",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops for schools and community groups",
         "fr": "Ateliers pour les écoles et les groupes communautaires",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local producers to sell via farm shop",
         "fr": "Producteurs locaux pour vendre via la boutique de la ferme",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New cooperative members with farming skills",
         "fr": "Nouveaux membres de la coopérative avec des compétences agricoles",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Planning permission for permanent worker accommodation",
         "fr": "Permis de construire pour un hébergement permanent des travailleurs",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Community share investment to transfer land ownership",
         "fr": "Investissement participatif communautaire pour transférer la propriété foncière",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded veg box scheme up to 240 members",
         "fr": "Système de paniers de légumes élargi jusqu'à 240 membres",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Global agroecology and peasant movement connections",
         "fr": "Connexions mondiales avec les mouvements agroécologiques et paysans",

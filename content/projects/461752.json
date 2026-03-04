@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754564527,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en la agricultura sostenible a través de un modelo de huerta, haciendo hincapié en los productos ecológicos y la participación de la comunidad. Combina el cultivo de hortalizas con la educación pública, ofreciendo paseos por el campo y jornadas de trabajo en colaboración con organizaciones locales. El proyecto pretende crear un entorno agrícola cooperativo, que permita a los participantes explorar métodos de cultivo alternativos al tiempo que se fomenta el sentido de comunidad. Al dar prioridad a las conexiones locales y a la educación, la iniciativa pretende redefinir las prácticas agrícolas y promover una vida sostenible.",
     "de": "Die Initiative konzentriert sich auf nachhaltige Landwirtschaft durch ein Marktgartenmodell, das organische Produkte und kommunales Engagement betont. Sie verbindet Gemüseanbau mit öffentlicher Bildung, indem sie Feldspaziergänge und Arbeitstage in Zusammenarbeit mit lokalen Organisationen anbietet. The project aims to create a cooperative farming environment, allowing participants to explore alternative farming methods while fostering a sense of community. Durch die Priorisierung von lokalen Verbindungen und Bildung will die Initiative landwirtschaftliche Praktiken neu definieren und ein nachhaltiges Leben fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -45,21 +39,16 @@
       "lastname": "Obling"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.dn.dk/arrangementer/49983-markvandring-pa-jordbruget-soldug/",
   "yt": "GjWFgPIXVdA",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Three friends from Kallø organic farming school rented a farm in Djursland, Denmark in November 2023. They moved in with the landowner Kai, an elderly man with Parkinson's, in an intergenerational arrangement that kept costs low.",
         "fr": "Trois amis issus de l'école d'agriculture biologique de Kallø ont loué une ferme dans le Djursland, au Danemark, en novembre 2023. Ils ont emménagé avec le propriétaire Kai, un homme âgé atteint de la maladie de Parkinson, dans un arrangement intergénérationnel qui permettait de maintenir les coûts bas.",
@@ -69,7 +58,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "In their first growing season, the team successfully sold all produce they produced, selling to local restaurants and private consumers through a small farm shop. They were able to repay all initial capital invested, ending the year debt-free.",
         "fr": "Lors de leur première saison de culture, l'équipe a réussi à vendre l'intégralité de sa production, en la commercialisant auprès de restaurants locaux et de consommateurs privés via une petite boutique à la ferme. Ils ont pu rembourser l'ensemble du capital initial investi, terminant l'année sans dettes.",
@@ -79,7 +68,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The farm joined Andelskår, a national association connecting farmers with shared values, which became their main collaborator providing paid public education work including field walks and open farm events making up roughly one fifth of their income.",
         "fr": "La ferme a rejoint Andelskår, une association nationale mettant en relation des agriculteurs partageant les mêmes valeurs, qui est devenue leur principal collaborateur en leur fournissant des missions d'éducation publique rémunérées, notamment des promenades dans les champs et des journées portes ouvertes représentant environ un cinquième de leurs revenus.",
@@ -89,7 +78,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The team co-founded Bundelavet, a local producer association gathering small-scale producers on Djursland to collectively improve access to markets and sales channels.",
         "fr": "L'équipe a co-fondé Bundelavet, une association locale de producteurs rassemblant des petits producteurs du Djursland afin d'améliorer collectivement l'accès aux marchés et aux circuits de vente.",
@@ -99,7 +88,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Entering their second season, the team planned to increase weekly hours to around 20 per person and pay themselves a salary for the first time, while doubling vegetable production capacity using previously unused beds.",
         "fr": "En entrant dans leur deuxième saison, l'équipe a prévu d'augmenter les heures hebdomadaires à environ 20 heures par personne et de se verser un salaire pour la première fois, tout en doublant la capacité de production maraîchère grâce à des parcelles jusque-là inutilisées.",
@@ -110,7 +99,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct sales to restaurants and private consumers",
         "fr": "Vente directe aux restaurants et aux consommateurs privés",
@@ -119,7 +108,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Public field tours and open farm events",
         "fr": "Visites guidées et événements ouverts à la ferme",
@@ -128,7 +117,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Public work days on the farm",
         "fr": "Journées de travail ouvertes au public à la ferme",
@@ -137,7 +126,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local organic white asparagus production",
         "fr": "Production locale d'asperges blanches biologiques",
@@ -146,7 +135,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Alternative farming lifestyle model for young people",
         "fr": "Modèle de mode de vie agricole alternatif pour les jeunes",
@@ -155,7 +144,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Intergenerational care arrangement with farm owner",
         "fr": "Arrangement de soins intergénérationnels avec le propriétaire de la ferme",
@@ -166,7 +155,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Young farmers to run organic productions",
         "fr": "Jeunes agriculteurs pour gérer des productions biologiques",
@@ -175,7 +164,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Leasing model over farm ownership",
         "fr": "Modèle de location plutôt que de propriété agricole",
@@ -184,7 +173,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct sales to local restaurants and consumers",
         "fr": "Vente directe aux restaurants locaux et aux consommateurs",
@@ -193,7 +182,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Public participation in field walks and work days",
         "fr": "Participation du public aux visites de terrain et aux journées de travail",
@@ -202,7 +191,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Redefining sustainable farming lifestyle for youth",
         "fr": "Redéfinir le mode de vie agricole durable pour les jeunes",
@@ -211,7 +200,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documenting intergenerational farm collaboration model",
         "fr": "Documentation d'un modèle de collaboration agricole intergénérationnelle",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754912385,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "El proyecto PRODIGE, dirigido por Sophie Nicklaus en el INRAE, pretende mejorar los sistemas alimentarios regionales fomentando las asociaciones público-privadas. Involucra a diversas partes interesadas, como gobiernos locales, cooperativas agrícolas y ciudadanos, para abordar los retos del suministro de alimentos y promover prácticas sostenibles. La iniciativa hace hincapié en el papel de la investigación a la hora de cuantificar las repercusiones y facilitar el debate sobre las compensaciones a las partes afectadas, al tiempo que se sortean las complejidades de las estructuras de gobernanza locales, regionales y nacionales.",
     "de": "Das von Sophie Nicklaus vom INRAE geleitete Projekt PRODIGE zielt darauf ab, regionale Lebensmittelsysteme durch die Förderung öffentlich-privater Partnerschaften zu verbessern. Es bezieht verschiedene Interessengruppen ein, darunter lokale Regierungen, landwirtschaftliche Genossenschaften und Bürger, um Herausforderungen bei der Lebensmittelversorgung anzugehen und nachhaltige Praktiken zu fördern. Die Initiative betont die Rolle der Forschung bei der Quantifizierung der Auswirkungen und der Erleichterung von Diskussionen über Entschädigungen für die Betroffenen, während gleichzeitig die Komplexität lokaler, regionaler und nationaler Verwaltungsstrukturen bewältigt wird."
   },
-  "field": [
-    "nutrition",
-    "sociology"
-  ],
+  "field": ["nutrition", "sociology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,16 +39,14 @@
     "governance-democracy-civil-society"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.inrae.fr/actualites/sophie-nicklaus-est-nommee-directrice-scientifique-alimentation-sante-dinrae",
   "yt": "",
   "originalLang": "de",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Philippe Lemenceau begins developing the concept of territorial agroecological transition in Dijon, initially envisioning an international laboratory. The food consumption dimension is added after collaborators point out that farmers cannot sell legumes if there is no market for them.",
         "fr": "Philippe Lemenceau commence à développer le concept de transition agroécologique territoriale à Dijon, envisageant initialement un laboratoire international. La dimension de consommation alimentaire est ajoutée après que des collaborateurs ont fait remarquer que les agriculteurs ne peuvent pas vendre des légumineuses s'il n'existe pas de marché pour elles.",
@@ -65,7 +56,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Sophie Niclos joins the project as the food and nutrition dimension is formalized. A long, participatory design process begins involving up to 160 stakeholders, including industrialists, cooperatives, social actors, and elected officials.",
         "fr": "Sophie Niclos rejoint le projet au moment où la dimension alimentation et nutrition est formalisée. Un long processus de conception participative débute, impliquant jusqu'à 160 parties prenantes, dont des industriels, des coopératives, des acteurs sociaux et des élus.",
@@ -75,7 +66,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Dijon Alimentation Durable 2030 project dossier is submitted on April 19, 2019, the day Notre-Dame Cathedral burned. The project is awarded laureate status in September 2019, requiring at least 30% private financing to unlock public funds.",
         "fr": "Le dossier du projet Dijon Alimentation Durable 2030 est déposé le 19 avril 2019, jour où la cathédrale Notre-Dame a brûlé. Le projet est désigné lauréat en septembre 2019, nécessitant au moins 30 % de financement privé pour débloquer les fonds publics.",
@@ -85,7 +76,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The contractualization phase is disrupted by the Covid-19 pandemic, causing a prolonged period of latency. Post-Covid, France Relance and France 2030 funding windows attracted industrialists away from the original financing structure, forcing project reconfiguration.",
         "fr": "La phase de contractualisation est perturbée par la pandémie de Covid-19, entraînant une longue période de latence. Après la crise sanitaire, les fenêtres de financement France Relance et France 2030 ont attiré les industriels loin de la structure de financement initiale, contraignant à une reconfiguration du projet.",
@@ -95,7 +86,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The planned agroecological label fails to materialize, partly due to political rivalries between the Metropole and the Bourgogne-Franche-Comté region, which withdrew its promised co-financing. A rebranded concept, Mon Produit Local Engagé, is developed instead through participatory focus groups with farmers and consumers.",
         "fr": "Le label agroécologique prévu ne voit pas le jour, en partie en raison de rivalités politiques entre la Métropole et la région Bourgogne-Franche-Comté, qui a retiré son cofinancement promis. Un concept rebaptisé, Mon Produit Local Engagé, est développé à la place à travers des groupes de discussion participatifs avec des agriculteurs et des consommateurs.",
@@ -105,7 +96,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The project's themes are embedded into the Metropole's long-term governance structures, including the Conseil de Développement and the PCAET territorial plan. Sophie reflects in March 2025 that environmental concerns risk disappearing from public discourse, underscoring the importance of the territorial scale for keeping transitions visible.",
         "fr": "Les thématiques du projet sont intégrées dans les structures de gouvernance à long terme de la Métropole, notamment le Conseil de Développement et le plan territorial PCAET. Sophie souligne en mars 2025 que les préoccupations environnementales risquent de disparaître du débat public, ce qui met en évidence l'importance de l'échelle territoriale pour maintenir les transitions visibles.",
@@ -116,7 +107,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific direction for territorial food transition projects",
         "fr": "Direction scientifique pour les projets de transition alimentaire territoriale",
@@ -125,7 +116,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Methodological support to local stakeholders and elected officials",
         "fr": "Accompagnement méthodologique des acteurs locaux et des élus",
@@ -134,7 +125,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental menus to shift consumption toward plant-based food",
         "fr": "Menus expérimentaux pour orienter la consommation vers une alimentation végétale",
@@ -143,7 +134,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Multi-stakeholder coordination across economic and social actors",
         "fr": "Coordination multi-acteurs entre les acteurs économiques et sociaux",
@@ -152,7 +143,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local engaged product label development for producers",
         "fr": "Développement d'un label produit engagé local pour les producteurs",
@@ -161,7 +152,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Systemic modelling to quantify transition costs and gains",
         "fr": "Modélisation systémique pour quantifier les coûts et les gains de la transition",
@@ -172,7 +163,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific models to quantify transition costs and gains",
         "fr": "Modèles scientifiques pour quantifier les coûts et les gains de la transition",
@@ -181,7 +172,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Multi-stakeholder cooperation across public and private sectors",
         "fr": "Coopération multi-acteurs entre secteurs public et privé",
@@ -190,7 +181,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory mechanisms to compensate transition losers",
         "fr": "Mécanismes réglementaires pour compenser les perdants de la transition",
@@ -199,7 +190,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local agroecological labelling scheme for differentiated products",
         "fr": "Schéma de labellisation agroécologique local pour des produits différenciés",
@@ -208,7 +199,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer behavior change toward sustainable food practices",
         "fr": "Changement de comportement des consommateurs vers des pratiques alimentaires durables",
@@ -217,7 +208,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Rural-urban territorial alliances for food system transition",
         "fr": "Alliances territoriales rural-urbain pour la transition du système alimentaire",

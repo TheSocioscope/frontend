@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754421256,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Catena Institute of Wine, una rama de la renombrada empresa vinícola argentina Catena Zapata, se centra en mejorar la calidad del vino a través de la investigación científica y la innovación. Fundado por la familia Catena, su objetivo es posicionar los vinos argentinos a escala mundial, abordando al mismo tiempo los retos de la sostenibilidad y el cambio climático. El instituto colabora con diversas instituciones académicas y de investigación para desarrollar nuevas técnicas en viticultura, asegurando el futuro de la vinicultura en Argentina y promoviendo el legado de la variedad Malbec.",
     "de": "Das Catena Institute of Wine, ein Arm des renommierten argentinischen Winzerunternehmens Catena Zapata, konzentriert sich auf die Verbesserung der Weinqualität durch wissenschaftliche Forschung und Innovation. Das von der Familie Catena gegründete Institut zielt darauf ab, argentinische Weine global zu positionieren und gleichzeitig die Herausforderungen der Nachhaltigkeit und des Klimawandels zu bewältigen. Das Institut arbeitet mit verschiedenen akademischen und Forschungsinstitutionen zusammen, um neue Techniken im Weinbau zu entwickeln, die Zukunft des Weinbaus in Argentinien zu sichern und das Erbe der Sorte Malbec zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Buscema"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.catenainstitute.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1902",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Catena family plants their first Malbec vineyard in Mendoza, beginning their winemaking journey in Argentina.",
         "fr": "La famille Catena plante son premier vignoble de Malbec à Mendoza, commençant ainsi son aventure viticole en Argentine.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1980s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Nicolás Catena Zapata, inspired by California's Napa Valley and the 1976 Paris Tasting, sets a new vision to produce Argentine wines competitive with the best in the world.",
         "fr": "Nicolás Catena Zapata, inspiré par la Napa Valley en Californie et la Dégustation de Paris de 1976, établit une nouvelle vision visant à produire des vins argentins capables de rivaliser avec les meilleurs du monde.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "1995",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Laura Catena, a biologist and medical doctor trained at Harvard and Stanford, founds the Catena Institute of Wine to use science to answer key questions about producing world-class Argentine wines.",
         "fr": "Laura Catena, biologiste et médecin formée à Harvard et à Stanford, fonde l'Institut Catena du Vin afin d'utiliser la science pour répondre aux questions essentielles sur la production de vins argentins de classe mondiale.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2000s",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Institute publishes its first scientific papers and forms research alliances with CONICET, Universidad Nacional de Cuyo, UC Davis, and the University of Burgundy, establishing scientific publishing as a cornerstone of its strategy.",
         "fr": "L'Institut publie ses premiers articles scientifiques et noue des alliances de recherche avec le CONICET, l'Universidad Nacional de Cuyo, UC Davis et l'Université de Bourgogne, faisant de la publication scientifique un pilier central de sa stratégie.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2007",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Fernando Buscema becomes director of the Catena Institute, leading expanded research into high-altitude viticulture, terroir mapping, and microbiome studies, resulting in publications in journals such as Scientific Reports and Nature.",
         "fr": "Fernando Buscema devient directeur de l'Institut Catena, pilotant des recherches approfondies sur la viticulture en haute altitude, la cartographie des terroirs et les études sur le microbiome, aboutissant à des publications dans des revues telles que Scientific Reports et Nature.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2013-2014",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The Institute implements a formal sustainability plan, becoming the first vineyard in Argentina to measure and certify its carbon footprint, develop solar energy programs, and achieve a roughly 30% reduction in glass use for bottles.",
         "fr": "L'Institut met en œuvre un plan de développement durable formel, devenant le premier vignoble d'Argentine à mesurer et certifier son empreinte carbone, à développer des programmes d'énergie solaire et à réduire d'environ 30 % l'utilisation du verre pour ses bouteilles.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific publications in top international journals",
         "fr": "Publications scientifiques dans les principales revues internationales",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Applied field research on vineyard parcels",
         "fr": "Recherche appliquée sur le terrain dans les parcelles de vignobles",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Carbon footprint certification and reduction program",
         "fr": "Certification et programme de réduction de l'empreinte carbone",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Genetic biodiversity preservation of Malbec varieties",
         "fr": "Préservation de la biodiversité génétique des variétés de Malbec",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer guidance on wine and health facts",
         "fr": "Orientation des consommateurs sur le vin et les données relatives à la santé",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Innovation-driven premium wine product development",
         "fr": "Développement de produits viticoles haut de gamme axé sur l'innovation",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific collaborators for vineyard research questions",
         "fr": "Collaborateurs scientifiques pour les questions de recherche viticole",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International university and institutional research alliances",
         "fr": "Alliances de recherche universitaires et institutionnelles internationales",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Global recognition for Argentine premium wine",
         "fr": "Reconnaissance mondiale pour le vin argentin haut de gamme",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Sustainability protocols and carbon footprint reduction",
         "fr": "Protocoles de durabilité et réduction de l'empreinte carbone",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Genetic biodiversity preservation of Malbec varieties",
         "fr": "Préservation de la biodiversité génétique des variétés de Malbec",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Science-based knowledge transfer to wine production",
         "fr": "Transfert de connaissances scientifiques vers la production vinicole",

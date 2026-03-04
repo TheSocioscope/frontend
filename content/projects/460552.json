@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560808,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en la agricultura agroecológica a través de la Cooperativa Trabajadores de la Tierra de Río Colorado. Cultivan hortalizas de temporada sin agroquímicos, haciendo hincapié en la sostenibilidad y la participación de la comunidad. La cooperativa gestiona un mercado semanal, la feria Nehuen, donde venden productos frescos. Su objetivo es ampliar sus operaciones y animar a otros a seguir prácticas sostenibles similares, destacando los beneficios de los remedios caseros y la agricultura ecológica.              ",
     "de": "Die Initiative konzentriert sich auf agroökologischen Landbau durch die Cooperativa Trabajadores de la Tierra in Río Colorado. Sie bauen saisonale Gemüse ohne Agrochemikalien an und legen Wert auf Nachhaltigkeit und Einbindung der Gemeinschaft. Die Genossenschaft betreibt einen Wochenmarkt, den Nehuen fair, auf dem sie frische Produkte verkaufen. Ihr Ziel ist es, ihre Betriebe zu erweitern und andere zu ermutigen, ähnliche nachhaltige Praktiken zu verfolgen, indem sie die Vorteile von Hausmitteln und organischem Landbau hervorheben.              "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Zon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "tZ8lVPGeIuE",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The cooperative's founding members began their agroecological journey through workshops linked to the UTT (Unión de Trabajadores de la Tierra), learning organic production techniques. Karina, an INTA technician, played a key role in forming the initial producer group.",
         "fr": "Les membres fondateurs de la coopérative ont entamé leur parcours agroécologique à travers des ateliers liés à l'UTT (Unión de Trabajadores de la Tierra), en apprenant des techniques de production biologique. Karina, technicienne de l'INTA, a joué un rôle clé dans la formation du groupe initial de producteurs.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "~2019-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The group formally separated from the UTT and established the Cooperativa Trabajadores de la Tierra (CTT) as a legally registered entity with accounting, bank accounts, and official documentation. The cooperative was formed from a core group of producers who already knew each other.",
         "fr": "Le groupe s'est formellement séparé de l'UTT et a créé la Cooperativa Trabajadores de la Tierra (CTT) en tant qu'entité légalement enregistrée, dotée d'une comptabilité, de comptes bancaires et de documents officiels. La coopérative a été constituée à partir d'un groupe central de producteurs qui se connaissaient déjà.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "During the pandemic, the cooperative reached a significant peak through the collective sale of vegetable bolsones (produce boxes), boosting organization and commercial activity. After restrictions lifted, collective commercialization declined and members shifted to individual sales.",
         "fr": "Pendant la pandémie, la coopérative a atteint un pic important grâce à la vente collective de bolsones de légumes (paniers de produits), stimulant ainsi l'organisation et l'activité commerciale. Après la levée des restrictions, la commercialisation collective a diminué et les membres sont passés à des ventes individuelles.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Late 2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Through a project financed by INTA and the Argentine national government, the cooperative obtained a plot of land via comodato and installed large greenhouses totaling 6,400 m². This was described as unprecedented greenhouse-scale production for the Patagonia region.",
         "fr": "Grâce à un projet financé par l'INTA et le gouvernement national argentin, la coopérative a obtenu une parcelle de terrain via comodato et a installé de grandes serres totalisant 6 400 m². Cette production à l'échelle de serres a été décrite comme sans précédent pour la région de Patagonie.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the first greenhouse season, a tomato pest spread across the shared enclosed space, exposing the need for coordinated crop management practices. Members identified that individual management decisions in a shared structure affect all producers collectively.",
         "fr": "Lors de la première saison en serre, un ravageur de la tomate s'est propagé dans l'espace clos partagé, mettant en évidence la nécessité de pratiques coordonnées de gestion des cultures. Les membres ont constaté que les décisions de gestion individuelles dans une structure commune affectent l'ensemble des producteurs collectivement.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Schools began visiting the greenhouses, and cooperative members also visited schools to share knowledge on agroecological bio-inputs. The site began functioning as a demonstrative model for sustainable production in the region.",
         "fr": "Des établissements scolaires ont commencé à visiter les serres, et des membres de la coopérative se sont également rendus dans des écoles pour partager leurs connaissances sur les bio-intrants agroécologiques. Le site a commencé à fonctionner comme un modèle démonstratif de production durable dans la région.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh agroecological vegetables year-round",
         "fr": "Légumes agroécologiques frais toute l'année",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Personalized weekly vegetable boxes delivery",
         "fr": "Livraison hebdomadaire de paniers de légumes personnalisés",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Saturday farmers market sales",
         "fr": "Vente au marché fermier le samedi",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Greenhouse visits for schools and community",
         "fr": "Visites de serres pour les écoles et la communauté",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Bio-input workshops and training for visitors",
         "fr": "Ateliers et formations sur les bio-intrants pour les visiteurs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Homemade bioinputs sold to home gardeners",
         "fr": "Bio-intrants faits maison vendus aux jardiniers amateurs",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop joint greenhouse management calendar",
         "fr": "Développer un calendrier commun de gestion des serres",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expand agroecological production under cover",
         "fr": "Étendre la production agroécologique sous abri",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Grow direct sales and customized box orders",
         "fr": "Développer la vente directe et les commandes de paniers personnalisés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Acquire own land and private greenhouses",
         "fr": "Acquérir des terres propres et des serres privées",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Maintain technical support from INTA",
         "fr": "Maintenir le soutien technique de l'INTA",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Source locally adapted seeds for production",
         "fr": "S'approvisionner en semences localement adaptées à la production",

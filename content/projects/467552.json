@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754480580,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Organicos Villa Aurora se centra en la transformación de frutas y plantas aromáticas locales en diversos productos ecológicos, como infusiones y artículos a base de yacón. Surgido del viaje de salud de una familia hacia la agricultura ecológica, el proyecto hace hincapié en las prácticas sostenibles y la permacultura. Comprometido con el bienestar de la comunidad, no sólo produce sino que también educa a través de talleres, fomentando un enfoque holístico de la agricultura al tiempo que promueve la biodiversidad local y una vida sana.",
     "de": "Die Initiative Organicos Villa Aurora konzentriert sich auf die Verarbeitung von lokalen Früchten und aromatischen Pflanzen zu verschiedenen organischen Produkten, darunter Kräutertees und Yacón-basierte Artikel. Das Projekt, das aus der Gesundheitsreise einer Familie hin zum ökologischen Landbau hervorgegangen ist, legt Wert auf nachhaltige Praktiken und Permakultur. Mit einem Engagement für das Wohlergehen der Gemeinschaft produziert es nicht nur, sondern bildet auch in Workshops aus und fördert so einen ganzheitlichen Ansatz in der Landwirtschaft, der die lokale Biodiversität und ein gesundes Leben fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Rincón"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.ova.com.co/lo-que-hacemos/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ova Orgánicos Villaurora was founded, initially focused on organic meats including goat, free-range chicken, and rabbit using canning and vacuum-sealing techniques. The brand was created by Josué Rincón, inspired by his grandmother's severe food intolerances and the family's difficulty finding organic products.",
         "fr": "Ova Orgánicos Villaurora a été fondée, initialement axée sur les viandes biologiques incluant la chèvre, le poulet fermier et le lapin, en utilisant des techniques de mise en conserve et de mise sous vide. La marque a été créée par Josué Rincón, inspiré par les graves intolérances alimentaires de sa grand-mère et la difficulté de la famille à trouver des produits biologiques.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2008-2010",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The organic meat line was discontinued due to high production and processing costs, as consumers perceived the products as too expensive. The focus shifted toward fresh vegetables and unconventional tubers like yacón, camote, and malanga.",
         "fr": "La gamme de viandes biologiques a été abandonnée en raison des coûts élevés de production et de transformation, les consommateurs percevant les produits comme trop chers. L'activité s'est alors orientée vers les légumes frais et les tubercules non conventionnels tels que le yacón, la patate douce et le malanga.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2010s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Josué partnered with a student from UPTC on a chemical engineering internship to standardize yacón-derived products, validating that they met documented nutritional parameters. Yacón became the flagship product line of the brand.",
         "fr": "Josué s'est associé à un étudiant de l'UPTC dans le cadre d'un stage en génie chimique afin de standardiser les produits dérivés du yacón, en validant qu'ils répondaient aux paramètres nutritionnels documentés. Le yacón est devenu la gamme phare de la marque.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2010s",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ova joined Asoproc Villa (Azoprovilla), the alternative farmers' market in Villa de Leyva, which became their primary commercial platform and provided equipment, visibility, and institutional support for product development.",
         "fr": "Ova a rejoint Asoproc Villa (Azoprovilla), le marché alternatif des agriculteurs de Villa de Leyva, qui est devenu leur principale plateforme commerciale et a fourni du matériel, de la visibilité et un soutien institutionnel pour le développement des produits.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2010s",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Boyacá Gobernación's Territorio de Sabores program supported Ova by providing training, access to trade fairs at national and international levels, and entry into retail stores, significantly raising the brand's profile.",
         "fr": "Le programme Territorio de Sabores de la Gobernación de Boyacá a soutenu Ova en lui offrant des formations, un accès à des foires commerciales aux niveaux national et international, ainsi qu'une entrée dans les magasins de détail, ce qui a considérablement renforcé le profil de la marque.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ova launched a new aromatic infusions line using biodegradable PLA packaging and began developing a concept of 144 infusions tied to lunar cycles and meditative routines. The brand also initiated export ambitions and deeper integration with neighboring producers.",
         "fr": "Ova a lancé une nouvelle gamme d'infusions aromatiques dans des emballages biodégradables en PLA et a commencé à développer un concept de 144 infusions liées aux cycles lunaires et aux routines méditatives. La marque a également initié des ambitions à l'exportation et une intégration plus étroite avec les producteurs voisins.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic fresh and processed food products",
         "fr": "Produits alimentaires biologiques frais et transformés",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Weekly sales at local alternative farmers market",
         "fr": "Ventes hebdomadaires au marché alternatif local des agriculteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration farm for organic permaculture practices",
         "fr": "Ferme de démonstration pour les pratiques de permaculture biologique",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops on organic farming and ancestral recipes",
         "fr": "Ateliers sur l'agriculture biologique et les recettes ancestrales",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Biodegradable packaging and glass container reuse",
         "fr": "Emballages biodégradables et réutilisation de contenants en verre",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seed preservation and sharing with local producers",
         "fr": "Préservation et partage de semences avec les producteurs locaux",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export market for herbal infusion line",
         "fr": "Marché d'exportation pour la gamme d'infusions aux herbes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Buyers valuing organic and sustainable values",
         "fr": "Acheteurs valorisant les principes biologiques et durables",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumers shifting to organic lifestyle",
         "fr": "Consommateurs adoptant un mode de vie biologique",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Certified organic local input providers",
         "fr": "Fournisseurs locaux d'intrants certifiés biologiques",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Resources to strengthen commercial operations",
         "fr": "Ressources pour renforcer les opérations commerciales",

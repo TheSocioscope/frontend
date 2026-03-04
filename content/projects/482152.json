@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754995776,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Arroz Reserva de la Hacienda se centra en potenciar la producción arrocera de la meseta de Ibagué mediante el establecimiento de una denominación de origen para su arroz de alta calidad. El proyecto pretende añadir valor a su producto industrializando la transformación del arroz y comercializándolo directamente a los consumidores. En colaboración con la cooperativa Serbe Arroz, ha desempeñado un papel decisivo en la promoción de la calidad del arroz entre los consumidores y en la aplicación de prácticas agrícolas modernas, a través de una plataforma llamada Amtec, que se centra en la adopción masiva de tecnología entre los agricultores para aumentar la eficiencia y reducir los costes.",
     "de": "Das Projekt Arroz Reserva de la Hacienda zielt darauf ab, die Reiserzeugung in der Hochebene von Ibagué durch die Einführung einer Ursprungsbezeichnung für den hochwertigen Reis zu fördern. Das Projekt zielt darauf ab, den Wert des Produkts durch die Industrialisierung der Reisverarbeitung und die direkte Vermarktung an die Verbraucher zu steigern. In Zusammenarbeit mit der Kooperative Serbe Arroz hat es dazu beigetragen, die Qualität des Reises bei den Verbrauchern bekannt zu machen und moderne landwirtschaftliche Praktiken über eine Plattform namens Amtec einzuführen, die sich auf die Massenanwendung von Technologien unter den Landwirten konzentriert, um die Effizienz zu steigern und die Kosten zu senken."
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,22 +33,16 @@
       "lastname": "Rivera"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "innovation-rd",
-    "industry"
-  ],
+  "thematic": ["food-agriculture-fishery", "innovation-rd", "industry"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "www.arrozlareservadelahacienda.com",
   "yt": "WrR_N3dVj9c",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~1960",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Rivera family purchased land on the Meseta de Ibagué, discovering a natural water source and beginning rice cultivation after failed irrigation attempts using leather seals instead of rubber gaskets.",
         "fr": "La famille Rivera a acheté des terres sur la Meseta de Ibagué, découvrant une source d'eau naturelle et commençant la culture du riz après des tentatives d'irrigation infructueuses utilisant des joints en cuir à la place de joints en caoutchouc.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "1973-1978",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ricaurte Rivera's father separated from his brothers in 1973 to farm independently, then passed away in 1978, leaving 18-year-old Ricaurte to take over the rice operation.",
         "fr": "Le père de Ricaurte Rivera s'est séparé de ses frères en 1973 pour cultiver de manière indépendante, puis est décédé en 1978, laissant Ricaurte, alors âgé de 18 ans, reprendre l'exploitation rizicole.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "2010",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Colombia signed a Free Trade Agreement with the United States under the Uribe government, establishing a 20-year window with gradually declining tariffs from 80% to zero by 2030, pressuring local rice farmers to become competitive.",
         "fr": "La Colombie a signé un accord de libre-échange avec les États-Unis sous le gouvernement Uribe, établissant une période de 20 ans avec des tarifs douaniers progressivement décroissants, passant de 80 % à zéro d'ici 2030, contraignant les riziculteurs locaux à devenir compétitifs.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ricaurte Rivera and the Serviarroz cooperative began pursuing a denomination of origin for Meseta de Ibagué rice, one of only six such designations worldwide at the time.",
         "fr": "Ricaurte Rivera et la coopérative Serviarroz ont commencé à poursuivre une dénomination d'origine pour le riz de la Meseta de Ibagué, l'une des six seules désignations de ce type dans le monde à l'époque.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The denomination of origin 'Arroz de la Meseta de Ibagué' was officially granted by the Superintendencia de Industria y Comercio, making it the seventh rice denomination of origin in the world.",
         "fr": "La dénomination d'origine « Arroz de la Meseta de Ibagué » a été officiellement accordée par la Superintendencia de Industria y Comercio, en faisant la septième dénomination d'origine du riz dans le monde.",
@@ -105,7 +92,7 @@
     },
     {
       "date": "~2011-present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The family launched their own brand 'Arroz La Reserva de la Hacienda,' dedicating six of their 35 hectares to premium certified seed varieties, while pursuing organic inputs, satellite-guided leveling, and drip irrigation to reduce costs ahead of the 2030 zero-tariff deadline.",
         "fr": "La famille a lancé sa propre marque « Arroz La Reserva de la Hacienda », consacrant six de leurs 35 hectares à des variétés de semences certifiées haut de gamme, tout en poursuivant l'utilisation d'intrants biologiques, le nivellement guidé par satellite et l'irrigation goutte-à-goutte afin de réduire les coûts avant l'échéance de 2030 et la suppression totale des droits de douane.",
@@ -116,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Premium rice with denomination of origin",
         "fr": "Riz premium avec appellation d'origine",
@@ -125,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Branded packaged rice for restaurants",
         "fr": "Riz conditionné sous marque pour les restaurants",
@@ -134,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot testing of satellite tractor leveling",
         "fr": "Test pilote de nivellement par tracteur satellite",
@@ -143,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cooperative input supply and technology access",
         "fr": "Approvisionnement coopératif en intrants et accès à la technologie",
@@ -152,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Rice seed development and genetic improvement",
         "fr": "Développement de semences de riz et amélioration génétique",
@@ -161,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Massive technology adoption program for farmers",
         "fr": "Programme massif d'adoption technologique pour les agriculteurs",
@@ -172,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand premium rice brand market reach",
         "fr": "Étendre la portée du marché de la marque de riz premium",
@@ -181,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New restaurant and HORECA channel partners",
         "fr": "Nouveaux partenaires restaurants et circuits HORECA",
@@ -190,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Adoption of drone and satellite farming tech",
         "fr": "Adoption des technologies agricoles par drone et satellite",
@@ -199,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Policy support for rice export channels",
         "fr": "Soutien politique aux canaux d'exportation du riz",
@@ -208,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New certified seed varieties for denomination",
         "fr": "Nouvelles variétés de semences certifiées pour la dénomination",
@@ -217,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for on-farm milling equipment",
         "fr": "Financement pour équipements de mouture à la ferme",

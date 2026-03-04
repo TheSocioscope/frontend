@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754955878,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Profesor Hass es una agroindustria familiar, centrada en el cultivo del aguacate y la extracción de aceite en Colombia. La empresa pretende apoyar a los agricultores de todas las escalas proporcionándoles conocimientos y recursos para mejorar sus prácticas agrícolas y aumentar sus ingresos. La iniciativa también incluye el turismo educativo, donde los visitantes pueden aprender sobre el cultivo del aguacate y el proceso de extracción del aceite, generando así ingresos adicionales para la empresa. En general, el Profesor Hass pretende transformar el paisaje agrícola colombiano promoviendo productos orgánicos de alta calidad y fomentando una comunidad de agricultores informados y empoderados.",
     "de": "Professor Hass ist ein Agrarunternehmen in Familienbesitz, das sich auf den Avocadoanbau und die Ölgewinnung in Kolumbien konzentriert. Das Unternehmen hat sich zum Ziel gesetzt, Landwirte aller Größenordnungen zu unterstützen, indem es ihnen Wissen und Ressourcen zur Verfügung stellt, um ihre landwirtschaftlichen Verfahren zu verbessern und ihr Einkommen zu steigern. Die Initiative umfasst auch einen Bildungstourismus, bei dem Besucher etwas über den Avocadoanbau und den Prozess der Ölgewinnung lernen können, was dem Unternehmen zusätzliche Einnahmen verschafft. Insgesamt möchte Professor Hass die kolumbianische Agrarlandschaft durch die Förderung hochwertiger, ökologischer Produkte und die Förderung einer Gemeinschaft informierter und befähigter Landwirte verändern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Esteban Echavarría"
     }
   ],
-  "thematic": [
-    "leisure-tourism",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["leisure-tourism", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://profesorhass.com/?srsltid=AfmBOoomj8bQ1mr9etxZYk633DS7fHNXt-RKuARxJRRyNJYUA6MRAxMI",
   "yt": "d5IsiYiX1Z4",
   "originalLang": "sv",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Juan Esteban Echavarría and his parents founded a family avocado farming operation in San Vicente Ferrer, Antioquia, investing all their capital to purchase land and plant approximately 2,000 Hass avocado trees across 9 hectares.",
         "fr": "Juan Esteban Echavarría et ses parents ont fondé une exploitation familiale d'avocats à San Vicente Ferrer, Antioquia, investissant tout leur capital pour acheter des terres et planter environ 2 000 avocatiers Hass sur 9 hectares.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Five years after starting the farm, the family began exploring avocado oil extraction to generate added value and reduce dependence on volatile fruit market prices.",
         "fr": "Cinq ans après le démarrage de la ferme, la famille a commencé à explorer l'extraction d'huile d'avocat afin de générer de la valeur ajoutée et de réduire la dépendance aux prix volatils du marché des fruits.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Facing cash flow shortages, the company launched an ecotourism operation at the farm, receiving approximately 250 visitors and generating 3 to 5 million pesos monthly to cover operating costs including staff salaries.",
         "fr": "Face à des problèmes de trésorerie, l'entreprise a lancé une activité d'écotourisme à la ferme, accueillant environ 250 visiteurs et générant entre 3 et 5 millions de pesos par mois pour couvrir les coûts d'exploitation, notamment les salaires du personnel.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The operation suffered a major setback when a trusted farm manager stole the avocado harvest, pushing the company into financial losses and compounding existing debts of approximately 200 million pesos.",
         "fr": "L'exploitation a subi un revers majeur lorsqu'un gérant de confiance a volé la récolte d'avocats, plongeant l'entreprise dans des pertes financières et aggravant des dettes existantes d'environ 200 millions de pesos.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The avocado oil processing plant was formally established as a SAS entity called En Guardia, becoming operational with full regulatory requirements including HACCP certification.",
         "fr": "L'usine de traitement d'huile d'avocat a été officiellement créée en tant qu'entité SAS appelée En Guardia, devenant opérationnelle avec toutes les exigences réglementaires, notamment la certification HACCP.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company completed its first international export, shipping a pallet of approximately 2,000 bottles of refined avocado oil to Madrid, Spain, marking its entry into international markets.",
         "fr": "L'entreprise a réalisé sa première exportation internationale, expédiant une palette d'environ 2 000 bouteilles d'huile d'avocat raffinée à Madrid, en Espagne, marquant ainsi son entrée sur les marchés internationaux.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "YouTube channel for avocado knowledge diffusion",
         "fr": "Chaîne YouTube pour la diffusion des connaissances sur l'avocat",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Eco-tourism farm tours for visitors",
         "fr": "Visites écotouristiques de la ferme pour les visiteurs",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Avocado oil export to international markets",
         "fr": "Exportation d'huile d'avocat vers les marchés internationaux",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Full avocado byproduct use via vermicompost",
         "fr": "Utilisation complète des sous-produits de l'avocat via le vermicompost",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Talks and workshops at universities and fairs",
         "fr": "Conférences et ateliers dans les universités et les foires",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Avocado oil for national food market",
         "fr": "Huile d'avocat pour le marché alimentaire national",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Second chance financing for indebted entrepreneurs",
         "fr": "Financement de seconde chance pour les entrepreneurs endettés",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International organizations for innovation support",
         "fr": "Organisations internationales pour le soutien à l'innovation",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export clients beyond Spain Madrid",
         "fr": "Clients à l'export au-delà de Madrid en Espagne",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Avocado suppliers at stable low prices",
         "fr": "Fournisseurs d'avocats à des prix bas et stables",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "International food safety certifications HACCP ISO",
         "fr": "Certifications internationales de sécurité alimentaire HACCP ISO",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Visibility for avocado oil brand scaling",
         "fr": "Visibilité pour le développement de la marque d'huile d'avocat",

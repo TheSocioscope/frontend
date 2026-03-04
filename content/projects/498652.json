@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1755262184,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en la transformación de un edificio de los años setenta en un espacio multifuncional con un invernadero climatizado. Este proyecto pretende integrar la eficiencia energética, la producción de alimentos y el compromiso social, mejorando los lazos comunitarios y promoviendo la agricultura urbana. Al implicar a los residentes locales y abordar los retos normativos, la iniciativa pretende demostrar el potencial de los espacios urbanos infrautilizados, fomentando al mismo tiempo la educación alimentaria y la sostenibilidad. En última instancia, pone de relieve el valor de los enfoques innovadores de la vida urbana y el bienestar de la comunidad.",
     "de": "Im Mittelpunkt der Initiative steht die Umwandlung eines Gebäudes aus den 1970er Jahren in einen multifunktionalen Raum mit einem beheizten Gewächshaus. Das Projekt zielt darauf ab, Energieeffizienz, Lebensmittelproduktion und soziales Engagement miteinander zu verbinden, um die Beziehungen zur Gemeinschaft zu stärken und die urbane Landwirtschaft zu fördern. Durch die Einbeziehung der Anwohner und die Bewältigung rechtlicher Herausforderungen soll die Initiative das Potenzial ungenutzter städtischer Flächen aufzeigen und gleichzeitig die Ernährungsbildung und Nachhaltigkeit fördern. Letztlich unterstreicht sie den Wert innovativer Ansätze für das Leben in der Stadt und das Wohlbefinden der Gemeinschaft."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,22 +33,16 @@
       "lastname": "Stephan"
     }
   ],
-  "thematic": [
-    "cities-mobility-urban-planning",
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["cities-mobility-urban-planning", "food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://nmh.fr/actus/Symbiose-une-serre-en-toiture-au-service-de-la-transition-energetique-et-alimentaire",
   "yt": "_MZyK63h21s",
   "originalLang": "de",
   "timeline": [
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Symbiose project launched in September-October 2022, installing a greenhouse on the roof of a 1970s social housing building in Nantes as an experimental energy, agricultural, and social initiative funded through the Quartier Fertile program.",
         "fr": "Le projet Symbiose a été lancé en septembre-octobre 2022, avec l'installation d'une serre sur le toit d'un immeuble de logements sociaux des années 1970 à Nantes, en tant qu'initiative expérimentale énergétique, agricole et sociale financée par le programme Quartier Fertile.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The project faced major regulatory hurdles, as the greenhouse did not fit any standard administrative category, requiring creative requalification of elements to obtain permits, certifications, and funding. Issues included seismic norms, weight limits, fire safety, and energy certification.",
         "fr": "Le projet a rencontré d'importants obstacles réglementaires, la serre ne correspondant à aucune catégorie administrative standard, nécessitant une requalification créative des éléments pour obtenir les permis, certifications et financements. Les problèmes incluaient les normes sismiques, les limites de charge, la sécurité incendie et la certification énergétique.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Chamber of Agriculture became an unexpected partner, sending its full board to visit and commissioning an agricultural study. They identified workforce pipeline potential, hoping to inspire interest in farming among youth from the neighborhood.",
         "fr": "La Chambre d'Agriculture est devenue un partenaire inattendu, envoyant son conseil d'administration en visite et commandant une étude agricole. Elle a identifié un potentiel de filière de main-d'œuvre, espérant susciter l'intérêt des jeunes du quartier pour les métiers agricoles.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A professional market gardener funded through the Quartier Fertile project managed the greenhouse for the first two seasons, revealing that production volumes were too small and irregular to support commercial sales or a viable agricultural business model.",
         "fr": "Un maraîcher professionnel financé par le projet Quartier Fertile a géré la serre pendant les deux premières saisons, révélant que les volumes de production étaient trop faibles et irréguliers pour permettre des ventes commerciales ou un modèle économique agricole viable.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization responded to a CCAS call for projects on food transition, aiming to add a solidarity kitchen, cooking workshops, and partnerships with a new health center and nutritionists to expand the social and dietary impact of the initiative.",
         "fr": "L'organisation a répondu à un appel à projets du CCAS sur la transition alimentaire, visant à ajouter une cuisine solidaire, des ateliers culinaires et des partenariats avec un nouveau centre de santé et des nutritionnistes afin d'élargir l'impact social et nutritionnel de l'initiative.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Plans emerged to transition greenhouse management from the external market gardener to in-house gardening staff, converting the space into a nursery for the organization's 35 community gardens across the city, while a metropolitan study was launched to evaluate the full-cost economics of rooftop construction versus greenfield development.",
         "fr": "Des projets ont émergé pour transférer la gestion de la serre du maraîcher externe à des agents de jardinage en interne, en convertissant l'espace en pépinière pour les 35 jardins partagés de l'organisation à travers la ville, tandis qu'une étude métropolitaine a été lancée pour évaluer l'économie en coût complet de la construction en toiture par rapport au développement en terrain vierge.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free distribution of locally grown vegetables",
         "fr": "Distribution gratuite de légumes cultivés localement",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Rooftop greenhouse as innovation pilot",
         "fr": "Serre sur toit comme pilote d'innovation",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Social animation for neighborhood residents",
         "fr": "Animation sociale pour les résidents du quartier",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School visits and food education workshops",
         "fr": "Visites scolaires et ateliers d'éducation alimentaire",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Energy and agricultural production data sharing",
         "fr": "Partage de données sur la production énergétique et agricole",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Future onsite nursery for social housing gardeners",
         "fr": "Futur pépinière sur site pour les jardiniers en logement social",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory framework adaptation for rooftop agriculture",
         "fr": "Adaptation du cadre réglementaire pour l'agriculture sur toiture",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Project grants for innovative urban initiatives",
         "fr": "Subventions de projets pour des initiatives urbaines innovantes",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agricultural chamber and urban farming collaborators",
         "fr": "Chambre agricole et collaborateurs en agriculture urbaine",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Resident engagement in rooftop greenhouse use",
         "fr": "Implication des résidents dans l'utilisation des serres sur toiture",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Economic model for rooftop agricultural viability",
         "fr": "Modèle économique pour la viabilité de l'agriculture sur toiture",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Dedicated on-site project coordinator half-time",
         "fr": "Coordinateur de projet dédié sur site à mi-temps",

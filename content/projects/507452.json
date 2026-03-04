@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "An initiative promoting innovation and research ecosystem with sustainability focus in Huyro, La Convención province, Cusco.",
     "de": "An initiative promoting innovation and research ecosystem with sustainability focus in Huyro, La Convención province, Cusco."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "es",
   "location": "Lima, Cusco",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Vergara"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2011-2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The PUCP research group began its presence in the Güiro area, working with the community of the Guayopata district in Cusco. Initial activities focused on developing productive-use technologies in partnership with local communities.",
         "fr": "Le groupe de recherche de la PUCP a commencé sa présence dans la zone de Güiro, en travaillant avec la communauté du district de Guayopata à Cusco. Les activités initiales étaient axées sur le développement de technologies à usage productif en partenariat avec les communautés locales.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "CIGÜIRO won a collaborative project with the Technical University of Munich (TUM), joining seven other universities in the Global South to develop living laboratories working directly with communities. This marked the transition from isolated technology projects to a broader co-creation vision.",
         "fr": "CIGÜIRO a remporté un projet collaboratif avec l'Université Technique de Munich (TUM), rejoignant sept autres universités du Sud mondial pour développer des laboratoires vivants travaillant directement avec les communautés. Cela a marqué la transition de projets technologiques isolés vers une vision plus large de co-création.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Physical technologies were installed in the living laboratory, including solar dryers, photovoltaic systems, and a hydraulic wheel for coffee pulping, completing most installations by 2023. These tools were designed to be used by and with the community.",
         "fr": "Des technologies physiques ont été installées dans le laboratoire vivant, notamment des séchoirs solaires, des systèmes photovoltaïques et une roue hydraulique pour le dépulpage du café, avec la plupart des installations achevées en 2023. Ces outils ont été conçus pour être utilisés par et avec la communauté.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Phase 1 of the TUM project concluded and Phase 2 launched, extending through 2029. The broader CIGÜIRO articulation initiative was formalized with a 10-year master plan running through 2035, incorporating partners from engineering, gastronomy, hospitality, and tourism faculties.",
         "fr": "La phase 1 du projet TUM s'est conclue et la phase 2 a été lancée, s'étendant jusqu'en 2029. L'initiative d'articulation CIGÜIRO au sens large a été formalisée avec un plan directeur de 10 ans courant jusqu'en 2035, intégrant des partenaires des facultés d'ingénierie, de gastronomie, d'hôtellerie et de tourisme.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Plans were set in motion to create two new institutions: a governance roundtable led by local productive sector representatives and a formal association named CIGÜIRO. These bodies are designed to ensure long-term operational sustainability independent of direct university funding.",
         "fr": "Des plans ont été mis en œuvre pour créer deux nouvelles institutions : une table ronde de gouvernance dirigée par des représentants du secteur productif local et une association formelle nommée CIGÜIRO. Ces organes sont conçus pour assurer une durabilité opérationnelle à long terme, indépendamment du financement direct de l'université.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Living lab with renewable energy technologies",
         "fr": "Laboratoire vivant avec des technologies d'énergie renouvelable",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research support and thesis development for students",
         "fr": "Soutien à la recherche et développement de thèses pour les étudiants",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training for local entrepreneurs and producers",
         "fr": "Formation technique pour les entrepreneurs et producteurs locaux",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access and commercial risk reduction support",
         "fr": "Accès au marché et soutien à la réduction des risques commerciaux",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Innovation ecosystem bridging university and rural community",
         "fr": "Écosystème d'innovation reliant l'université et la communauté rurale",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Value-added processing for local agricultural products",
         "fr": "Transformation à valeur ajoutée des produits agricoles locaux",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Universities and local institutions to collaborate",
         "fr": "Universités et institutions locales à collaborer",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers across disciplines to join initiative",
         "fr": "Chercheurs de diverses disciplines à rejoindre l'initiative",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Non-reimbursable funds for new projects",
         "fr": "Fonds non remboursables pour de nouveaux projets",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Entrepreneurs adopting appropriate technologies",
         "fr": "Entrepreneurs adoptant des technologies appropriées",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Markets for local value-added products",
         "fr": "Marchés pour les produits locaux à valeur ajoutée",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Students and professors for fieldwork",
         "fr": "Étudiants et professeurs pour le travail de terrain",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754406069,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Fundación Alimentaris, creada en Argentina en 2012, tiene como objetivo mejorar las iniciativas económicas, sociales y medioambientales a través de metodologías basadas en la evidencia. La fundación se centra en la alimentación como derecho fundamental, promoviendo el bienestar de la comunidad y las prácticas sostenibles. Con tres áreas temáticas -Comunidad, Medio Ambiente y Prosperidad- Alimentaris actúa como catalizador del cambio, fomentando proyectos colaborativos que fortalecen los lazos comunitarios y mejoran las condiciones de vida. Su labor hace hincapié en un enfoque sistémico para abordar los complejos retos que plantean los sistemas alimentarios y el desarrollo comunitario.",
     "de": "Fundación Alimentaris wurde 2012 in Argentinien gegründet und zielt darauf ab, wirtschaftliche, soziale und ökologische Initiativen mithilfe evidenzbasierter Methoden zu fördern. Die Stiftung konzentriert sich auf Nahrungsmittel als Grundrecht, fördert das Wohlbefinden der Gemeinschaft und nachhaltige Praktiken. Mit drei thematischen Bereichen - Gemeinschaft, Umwelt und Wohlstand - fungiert Alimentaris als Katalysator für den Wandel, indem sie gemeinschaftliche Projekte fördert, die die Gemeinschaft stärken und die Lebensbedingungen verbessern. Ihre Arbeit betont einen systemischen Ansatz, um komplexe Herausforderungen in Ernährungssystemen und Gemeindeentwicklung anzugehen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Laje"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "equality-diversity-studies-and-social-justice"
-  ],
+  "thematic": ["food-agriculture-fishery", "equality-diversity-studies-and-social-justice"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://alimentaris.org.ar/",
   "yt": "6uQAIi1aJMw",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Fundación Alimentaris was established in Argentina by nutritionist Karina Bentivoglio, initially focused on addressing child malnutrition through evidence-based methodologies.",
         "fr": "La Fundación Alimentaris a été fondée en Argentine par la nutritionniste Karina Bentivoglio, avec pour objectif initial de lutter contre la malnutrition infantile grâce à des méthodologies fondées sur des données probantes.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Alimentaris began its first conversations with Fundación Potenciar to co-develop the SAS (Sistemas Alimentarios Sostenibles) program, starting with a comprehensive research and knowledge consolidation phase.",
         "fr": "Alimentaris a entamé ses premières discussions avec la Fundación Potenciar pour co-développer le programme SAS (Sistemas Alimentarios Sostenibles), en commençant par une phase approfondie de recherche et de consolidation des connaissances.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A diagnostic report was published consolidating existing frameworks on sustainable food systems, drawing on UNICEF and FAO approaches, and national prize editions were launched to map organizations working on the topic.",
         "fr": "Un rapport de diagnostic a été publié, consolidant les cadres existants sur les systèmes alimentaires durables, s'appuyant sur les approches de l'UNICEF et de la FAO, et des éditions nationales de prix ont été lancées pour recenser les organisations travaillant sur le sujet.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The organization restructured internally, bringing previously outsourced program work in-house by creating new roles including area directorships, communications, and project coordination, growing the team to ten people.",
         "fr": "L'organisation s'est restructurée en interne, en internalisant les travaux programmatiques précédemment externalisés grâce à la création de nouveaux postes, notamment des directions de domaine, des fonctions de communication et de coordination de projets, portant l'équipe à dix personnes.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Programa de Acción Local (PAL) was formally launched, with a year dedicated to territorial diagnosis in Santiago del Estero through partnerships with local universities, health units, and community organizations.",
         "fr": "Le Programa de Acción Local (PAL) a été officiellement lancé, avec une année consacrée au diagnostic territorial à Santiago del Estero, en partenariat avec des universités locales, des unités de santé et des organisations communautaires.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Four interconnected projects under PAL began simultaneous implementation in Barrio General Paz: Sembrando Hábitos, Impulso Productor, Cocinas en Acción, and the Con Sabor y Conciencia awareness campaign co-created with community members.",
         "fr": "Quatre projets interconnectés dans le cadre du PAL ont débuté leur mise en œuvre simultanée dans le Barrio General Paz : Sembrando Hábitos, Impulso Productor, Cocinas en Acción, ainsi que la campagne de sensibilisation Con Sabor y Conciencia, co-créée avec les membres de la communauté.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Evidence-based methodologies for social initiatives",
         "fr": "Méthodologies fondées sur des données probantes pour les initiatives sociales",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local community food programs in vulnerable territories",
         "fr": "Programmes alimentaires communautaires locaux dans les territoires vulnérables",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Nutrition and food education in schools",
         "fr": "Éducation nutritionnelle et alimentaire dans les écoles",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training for small food producers",
         "fr": "Formation technique pour les petits producteurs alimentaires",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Awareness campaigns with community members",
         "fr": "Campagnes de sensibilisation auprès des membres de la communauté",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Capacity building for community kitchen coordinators",
         "fr": "Renforcement des capacités des coordinateurs de cuisines communautaires",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local allied organizations in Santiago del Estero",
         "fr": "Organisations alliées locales à Santiago del Estero",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Evidence-based methodologies for food systems",
         "fr": "Méthodologies fondées sur des données probantes pour les systèmes alimentaires",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replication of PAL in new territories",
         "fr": "Réplication du PAL dans de nouveaux territoires",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small food producers for program integration",
         "fr": "Petits producteurs alimentaires pour l'intégration au programme",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community members as campaign protagonists",
         "fr": "Membres de la communauté comme protagonistes de la campagne",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Engagement with government health institutions",
         "fr": "Engagement auprès des institutions gouvernementales de santé",

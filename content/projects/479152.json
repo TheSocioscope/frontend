@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "sri-lanka"
-  ],
+  "continent": ["asia"],
+  "country": ["sri-lanka"],
   "createdAt": 1754653786,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Honest Greens es una iniciativa pionera de agricultura vertical en Sri Lanka, fundada en 2015 para hacer frente a los problemas de seguridad alimentaria. Utilizando tecnología avanzada, la granja cultiva diversos productos, principalmente lechugas y hierbas, en un entorno controlado. Este enfoque innovador permite la producción durante todo el año, reduciendo significativamente el uso de la tierra y el impacto ambiental. Centrada en la sostenibilidad, Honest Greens aspira a ampliar sus operaciones y compartir su modelo a escala mundial, promoviendo la autosuficiencia en la producción de alimentos.",
     "de": "Honest Greens ist eine bahnbrechende Initiative für vertikale Landwirtschaft in Sri Lanka, die 2015 gegründet wurde, um den Herausforderungen der Ernährungssicherheit zu begegnen. Mithilfe fortschrittlicher Technologie baut die Farm eine Vielzahl von Pflanzen, vor allem Salat und Kräuter, in einer kontrollierten Umgebung an. Dieser innovative Ansatz ermöglicht eine ganzjährige Produktion und reduziert den Landverbrauch und die Umweltbelastung erheblich. Mit dem Fokus auf Nachhaltigkeit will Honest Greens seine Aktivitäten ausweiten und sein Modell weltweit verbreiten, um die Selbstversorgung mit Lebensmitteln zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Lopez del Rio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://honestgreens.asia/",
   "yt": "CwaFZC2kG9s",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Honest Greens was incorporated in Sri Lanka by three co-founders who had studied in the UK and Europe, aiming to address food insecurity through vertical farming. The early years from 2015 to 2018 focused heavily on research and development with no commercial activity.",
         "fr": "Honest Greens a été créée au Sri Lanka par trois co-fondateurs ayant étudié au Royaume-Uni et en Europe, avec pour objectif de lutter contre l'insécurité alimentaire grâce à l'agriculture verticale. Les premières années, de 2015 à 2018, ont été largement consacrées à la recherche et au développement, sans aucune activité commerciale.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Construction of the climate-controlled indoor vertical farming facility began after the R&D phase concluded. The company also began developing proprietary lighting systems and cloud-based monitoring technology in-house.",
         "fr": "La construction de l'installation d'agriculture verticale intérieure à climat contrôlé a débuté à l'issue de la phase de R&D. L'entreprise a également commencé à développer en interne des systèmes d'éclairage propriétaires et une technologie de surveillance basée sur le cloud.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Honest Greens launched commercially in May-June 2019, immediately following terrorist attacks in Sri Lanka that devastated tourism and wiped out anticipated hotel orders. The company pivoted to focus on supermarket supply, which inspired the Honest Greens brand name.",
         "fr": "Honest Greens a lancé ses activités commerciales en mai-juin 2019, juste après les attentats terroristes au Sri Lanka qui ont dévasté le tourisme et anéanti les commandes hôtelières anticipées. L'entreprise a pivoté pour se concentrer sur l'approvisionnement des supermarchés, ce qui a inspiré le nom de marque Honest Greens.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company navigated a succession of crises including the COVID-19 pandemic, during which they built a home delivery platform, followed by a severe economic crisis that caused electricity prices to rise nearly 300%. These pressures forced innovation that ultimately increased farm output by 200-300%.",
         "fr": "L'entreprise a traversé une succession de crises, notamment la pandémie de COVID-19, durant laquelle elle a mis en place une plateforme de livraison à domicile, suivie d'une grave crise économique qui a entraîné une hausse des prix de l'électricité de près de 300 %. Ces pressions ont contraint à innover, ce qui a finalement permis d'augmenter la production agricole de 200 à 300 %.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Honest Greens exported its first containerized vertical farming unit to a resort in the Maldives, operational for approximately six to seven months at time of interview. This marked the launch of a new franchise and export business model offering AI-supported farm solutions to international clients.",
         "fr": "Honest Greens a exporté sa première unité d'agriculture verticale conteneurisée vers un complexe hôtelier aux Maldives, opérationnelle depuis environ six à sept mois au moment de l'entretien. Cela a marqué le lancement d'un nouveau modèle commercial de franchise et d'exportation proposant des solutions agricoles assistées par intelligence artificielle à des clients internationaux.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consistent leafy green supply to hotels and supermarkets",
         "fr": "Approvisionnement régulier en légumes-feuilles pour les hôtels et les supermarchés",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Containerized vertical farming units for export",
         "fr": "Unités d'agriculture verticale conteneurisées destinées à l'exportation",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Staff training in niche vertical farming skills",
         "fr": "Formation du personnel aux compétences spécialisées en agriculture verticale",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Crop data sharing with Netherlands seed supplier",
         "fr": "Partage de données sur les cultures avec un fournisseur de semences néerlandais",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "AI-powered remote technical support for franchise clients",
         "fr": "Assistance technique à distance alimentée par l'IA pour les clients franchisés",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Expert consulting to Sri Lankan government on agriculture",
         "fr": "Conseil d'experts au gouvernement sri-lankais en matière d'agriculture",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand franchise model to international markets",
         "fr": "Étendre le modèle de franchise aux marchés internationaux",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Hotel and resort clients for containerized farming units",
         "fr": "Clients hôteliers et de villégiature pour des unités d'agriculture en conteneurs",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ongoing R&D for new crop varieties",
         "fr": "Recherche et développement continus pour de nouvelles variétés de cultures",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment rounds to support global scaling",
         "fr": "Tours d'investissement pour soutenir l'expansion mondiale",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Awareness and acceptance of vertical farming",
         "fr": "Sensibilisation et acceptation de l'agriculture verticale",

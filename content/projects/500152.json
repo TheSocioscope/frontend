@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Subcaso del caso paraguas CO-319 GDPP ANDES: El diseño de productos con base en alimentos no convencionales busca diversificar la oferta alimentaria y aprovechar ingredientes subutilizados o poco conocidos de la biodiversidad colombiana, como algas, plantas amazónicas o subproductos agroindustriales. Esta línea de trabajo promueve la sostenibilidad alimentaria al reducir la presión sobre los cultivos tradicionales y preservar el conocimiento local, al tiempo que implementa tecnologías de extracción limpias como los fluidos supercríticos. Esta línea innovadora está liderada por la profesora Andrea del Pilar Sánchez, quien combina ingeniería química y biotecnología para transformar estos recursos en ingredientes funcionales de alto valor.",
     "de": "Unterfall des Dachfalls CO-319 GDPP ANDES: Die Produktentwicklung auf Basis nicht-konventioneller Lebensmittel zielt darauf ab, das Nahrungsangebot zu diversifizieren und untergenutzte oder weniger bekannte Zutaten aus Kolumbiens Biodiversität zu nutzen, wie Algen, Amazonas-Pflanzen oder agroindustrielle Nebenprodukte. Diese Arbeitslinie fördert die Nachhaltigkeit in der Ernährung, indem sie den Druck auf traditionelle Kulturen verringert und lokales Wissen bewahrt, während gleichzeitig saubere Extraktionstechnologien wie überkritische Fluide eingesetzt werden. Diese innovative Linie wird von Professorin Andrea del Pilar Sánchez geleitet, die Chemieingenieurwesen und Biotechnologie kombiniert, um diese Ressourcen in hochwertige funktionelle Inhaltsstoffe umzuwandeln."
   },
-  "field": [
-    "chemical-sciences"
-  ],
+  "field": ["chemical-sciences"],
   "lang": "en",
   "location": "Bogotá",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "del Pilar Sanchez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://quimicayalimentos.uniandes.edu.co/es/noticia/nueva-profesora-andrea-del-pilar-sanchez",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2004-2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Andrea Sánchez worked at Tecnas in Medellín, a company creating new food ingredients from Colombian biodiversity to replace imports. This experience sparked her interest in valorizing subproducts and led her toward academia.",
         "fr": "Andrea Sánchez a travaillé chez Tecnas à Medellín, une entreprise créant de nouveaux ingrédients alimentaires à partir de la biodiversité colombienne pour remplacer les importations. Cette expérience a éveillé son intérêt pour la valorisation des sous-produits et l'a orientée vers le monde académique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2006-2010",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Sánchez pursued a doctorate at the Universidad Autónoma de Madrid, focusing on bioactive compound extraction from rosemary and its effects on colon cancer cells. Her research used environmentally friendly extraction technologies.",
         "fr": "Sánchez a poursuivi un doctorat à l'Universidad Autónoma de Madrid, axé sur l'extraction de composés bioactifs du romarin et ses effets sur les cellules cancéreuses du côlon. Ses recherches ont utilisé des technologies d'extraction respectueuses de l'environnement.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2010-2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After her doctorate, Sánchez completed postdoctoral research at Universidad Nacional in Colombia and later in Brazil, working with mango, banana peel, and other undervalued plant biomasses to develop natural ingredients.",
         "fr": "Après son doctorat, Sánchez a effectué des recherches postdoctorales à l'Universidad Nacional en Colombie, puis au Brésil, en travaillant avec la mangue, la peau de banane et d'autres biomasses végétales sous-valorisées pour développer des ingrédients naturels.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Food Engineering program was created at Universidad de los Andes during the pandemic, and Sánchez joined as a professor leading research on bioactive compound extraction and subproduct valorization.",
         "fr": "Le programme de génie alimentaire a été créé à l'Universidad de los Andes durant la pandémie, et Sánchez l'a rejoint en tant que professeure, dirigeant des recherches sur l'extraction de composés bioactifs et la valorisation des sous-produits.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Through a joint initiative between Universidad de los Andes and Universidad Javeriana called 'Co-creando con las Comunidades,' the team partnered with FENACHO and peace accord signatories in San José del Guaviare to valorize chontaduro fruit.",
         "fr": "Dans le cadre d'une initiative conjointe entre l'Universidad de los Andes et l'Universidad Javeriana appelée « Co-creando con las Comunidades », l'équipe s'est associée à la FENACHO et à des signataires des accords de paix à San José del Guaviare pour valoriser le fruit chontaduro.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Sebastián Mercado developed his master's thesis on a product-oriented biorefinery for chontaduro, extracting carotenoids for cosmetic and food applications and characterizing residual starch as an alternative food ingredient.",
         "fr": "Sebastián Mercado a développé sa thèse de master sur une bioraffinerie orientée produit pour le chontaduro, extrayant des caroténoïdes pour des applications cosmétiques et alimentaires, et caractérisant l'amidon résiduel comme ingrédient alimentaire alternatif.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Bioactive compound extraction from agro-residues",
         "fr": "Extraction de composés bioactifs à partir de résidus agro-industriels",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Valorization of food industry byproducts",
         "fr": "Valorisation des sous-produits de l'industrie alimentaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Knowledge transfer to peace accord communities",
         "fr": "Transfert de connaissances vers les communautés des accords de paix",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Advisory services to food companies",
         "fr": "Services de conseil aux entreprises alimentaires",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "University research training for graduate students",
         "fr": "Formation à la recherche universitaire pour les étudiants diplômés",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New food ingredients from Colombian biodiversity",
         "fr": "Nouveaux ingrédients alimentaires issus de la biodiversité colombienne",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Industry partners for biomass valorization projects",
         "fr": "Partenaires industriels pour des projets de valorisation de la biomasse",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment for startup and scale-up phases",
         "fr": "Investissement pour les phases de démarrage et de montée en puissance",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial outlets for chontaduro-derived products",
         "fr": "Débouchés commerciaux pour les produits dérivés du chontaduro",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory framework for alternative protein ingredients",
         "fr": "Cadre réglementaire pour les ingrédients protéiques alternatifs",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaboration to map Colombian agro-residue volumes",
         "fr": "Collaboration pour cartographier les volumes d'agro-résidus colombiens",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community adoption of biorefinery knowledge transfer",
         "fr": "Adoption communautaire du transfert de connaissances en bioraffinerie",

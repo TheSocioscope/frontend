@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-africa"
-  ],
-  "country": [
-    "morocco"
-  ],
+  "continent": ["north-africa"],
+  "country": ["morocco"],
   "createdAt": 1754651298,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La asociación Terre et Humanisme Maroc, fundada en 2005, se dedica a promover la agroecología y la agricultura sostenible en Marruecos. Con el compromiso de respetar a todos los seres vivos, la iniciativa forma a los agricultores en prácticas sostenibles, preserva las semillas locales y mejora la seguridad alimentaria. La asociación también hace hincapié en la educación, trabajando con diversos grupos de edad para fomentar el conocimiento de la agricultura ecológica. Al integrar los métodos tradicionales con la ciencia moderna, pretende crear comunidades rurales resistentes y salvaguardar los recursos naturales.",
     "de": "Der 2005 gegründete Verein Terre et Humanisme Maroc setzt sich für die Förderung der Agrarökologie und der nachhaltigen Landwirtschaft in Marokko ein. Mit der Verpflichtung, alle Lebewesen zu respektieren, schult die Initiative Landwirte in nachhaltigen Praktiken, bewahrt lokales Saatgut und verbessert die Ernährungssicherheit. Die Vereinigung legt auch großen Wert auf Bildung und arbeitet mit verschiedenen Altersgruppen zusammen, um das Wissen über ökologische Landwirtschaft zu fördern. Durch die Verknüpfung traditioneller Methoden mit moderner Wissenschaft sollen widerstandsfähige ländliche Gemeinschaften geschaffen und die natürlichen Ressourcen geschützt werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Luisa Duque"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://thm.ma/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2001",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Terre et Humanisme Maroc began operating informally with three founding members, with no legal status, premises, or resources. The initiative was inspired by a meeting between women from East and West where Pierre Rabhi was present.",
         "fr": "Terre et Humanisme Maroc a commencé à fonctionner de manière informelle avec trois membres fondateurs, sans statut juridique, locaux ni ressources. L'initiative a été inspirée par une rencontre entre des femmes d'Orient et d'Occident en présence de Pierre Rabhi.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2003",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The co-founder visited Pierre Rabhi in France and the Terre et Humanisme association there, as well as AMAP networks in Toulon, to gather knowledge for the Moroccan initiative.",
         "fr": "La cofondatrice a rendu visite à Pierre Rabhi en France ainsi qu'à l'association Terre et Humanisme, et aux réseaux AMAP à Toulon, afin de recueillir des connaissances pour l'initiative marocaine.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2005",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Terre et Humanisme Maroc was officially founded as an association, with support from Pierre Rabhi's team and French trainers. The first cohorts of farmers and local trainers were formed that same year.",
         "fr": "Terre et Humanisme Maroc a été officiellement fondée en tant qu'association, avec le soutien de l'équipe de Pierre Rabhi et de formateurs français. Les premières cohortes d'agriculteurs et de formateurs locaux ont été constituées la même année.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2010",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organic farming movement in Morocco reached its peak, partly attributed to conferences organized by Terre et Humanisme in Rabat and Casablanca, where the association was invited to present by the bio sector.",
         "fr": "Le mouvement de l'agriculture biologique au Maroc a atteint son apogée, en partie grâce aux conférences organisées par Terre et Humanisme à Rabat et Casablanca, où l'association a été invitée à intervenir par le secteur bio.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Following COVID-19, the death of Pierre Rabhi, and seven consecutive years of drought, the association reduced staff from six to one salaried employee and its training center faced severe water scarcity.",
         "fr": "À la suite du COVID-19, du décès de Pierre Rabhi et de sept années consécutives de sécheresse, l'association a réduit son personnel de six à un seul salarié et son centre de formation a été confronté à une grave pénurie d'eau.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "For the first time, the Moroccan Ministry of Agriculture formally recognized the term agroecology, and Terre et Humanisme secured funding from the Agence Française de Développement and supported the creation of a master's program in agroecological engineering at the Meknes School of Agriculture.",
         "fr": "Pour la première fois, le ministère marocain de l'Agriculture a officiellement reconnu le terme agroécologie, et Terre et Humanisme a obtenu un financement de l'Agence Française de Développement et a soutenu la création d'un master en ingénierie agroécologique à l'École d'Agriculture de Meknès.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agroecology training for farmers and project leaders",
         "fr": "Formation en agroécologie pour les agriculteurs et les chefs de projet",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School garden programs from primary to university",
         "fr": "Programmes de jardins scolaires du primaire à l'université",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seed preservation training for 2000 women",
         "fr": "Formation à la conservation des semences pour 2000 femmes",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot farm with training center and lodging",
         "fr": "Ferme pilote avec centre de formation et hébergement",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Field diagnostics and local initiative support",
         "fr": "Diagnostics de terrain et soutien aux initiatives locales",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Self-confidence and public speaking for rural farmers",
         "fr": "Confiance en soi et prise de parole en public pour les agriculteurs ruraux",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Agroécologie intégrée dans manuels scolaires nationaux",
         "fr": "Agroécologie intégrée dans manuels scolaires nationaux",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Associations locales pour diffuser formations partout",
         "fr": "Associations locales pour diffuser formations partout",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Formateurs et animateurs bénévoles supplémentaires",
         "fr": "Formateurs et animateurs bénévoles supplémentaires",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Plaidoyer gouvernemental pour agriculture durable",
         "fr": "Plaidoyer gouvernemental pour agriculture durable",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Préservation semences endémiques avec femmes rurales",
         "fr": "Préservation semences endémiques avec femmes rurales",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financement pour surmonter crise eau sécheresse",
         "fr": "Financement pour surmonter crise eau sécheresse",

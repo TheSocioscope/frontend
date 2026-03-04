@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754385034,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Waylla Kuri es una asociación indígena de Ecuador centrada en la producción de café orgánico, sobre todo robusta. Con 33 socios legales y 300 socios comerciales, gestionan 42.000 hectáreas utilizando el sistema ancestral de chacra, que promueve la biodiversidad y la sostenibilidad. La iniciativa pretende lograr la seguridad alimentaria y la sostenibilidad financiera de la comunidad, haciendo hincapié en la solidaridad, los valores comunitarios y las prácticas de comercio justo. Pretenden ampliar su presencia en el mercado preservando al mismo tiempo su patrimonio cultural y sus prácticas medioambientales.",
     "de": "Waylla Kuri ist ein indigener Verein in Ecuador, der sich auf die organische Kaffeeproduktion, insbesondere Robusta-Kaffee, konzentriert. Mit 33 Rechts- und 300 Geschäftspartnern bewirtschaften sie 42.000 Hektar Land nach dem uralten Chacra-System, das Biodiversität und Nachhaltigkeit fördert. Die Initiative zielt darauf ab, Nahrungsmittelsicherheit und finanzielle Nachhaltigkeit für die Gemeinschaft zu erreichen, indem sie Solidarität, Gemeinschaftswerte und faire Handelspraktiken betont. Sie wollen ihre Marktpräsenz ausbauen, während sie ihr kulturelles Erbe und ihre Umweltpraktiken bewahren."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Snaider"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://wayllakuri.com/quienes-somos/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2007",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Huayla Curi was founded as a cooperative (Cooperativa de Producción Agropecuaria) under the pueblo Kichwa Rukullakta, with a diversified portfolio seeking financial sustainability. The cooperative model eventually collapsed, leading to a structural transition.",
         "fr": "Huayla Curi a été fondée en tant que coopérative (Cooperativa de Producción Agropecuaria) au sein du pueblo Kichwa Rukullakta, avec un portefeuille diversifié visant la durabilité financière. Le modèle coopératif a finalement échoué, entraînant une transition structurelle.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Through connections with the Consejo Nacional Cafetalero (COFENAC) and support from German Cooperation, the association began focusing on coffee production and started exporting coffee to Germany. The government was promoting coffee as a viable export crop.",
         "fr": "Grâce à des liens avec le Consejo Nacional Cafetalero (COFENAC) et au soutien de la Coopération allemande, l'association a commencé à se concentrer sur la production de café et a débuté l'exportation de café vers l'Allemagne. Le gouvernement promouvait le café comme culture d'exportation viable.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "On October 1, 2015, the association was formally registered as Asociación de Producción Agropecuaria Huayla Curi under the Superintendencia de Economía Popular y Solidaria (SEPS). This formalization enabled them to obtain legal certifications required for commercial operations.",
         "fr": "Le 1er octobre 2015, l'association a été officiellement enregistrée sous le nom d'Asociación de Producción Agropecuaria Huayla Curi auprès de la Superintendencia de Economía Popular y Solidaria (SEPS). Cette formalisation leur a permis d'obtenir les certifications légales requises pour les opérations commerciales.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2015-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The association grew to 33 legal members and approximately 300 commercial producer partners, with around 200-300 hectares under coffee production using the ancestral chacra system. Infrastructure including marquesinas and a processing facility was built with support from Italian and German cooperation.",
         "fr": "L'association a grandi pour atteindre 33 membres légaux et environ 300 partenaires producteurs commerciaux, avec environ 200 à 300 hectares dédiés à la production de café selon le système ancestral de la chacra. Des infrastructures comprenant des marquesinas et une unité de transformation ont été construites avec le soutien des coopérations italienne et allemande.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The association exports approximately 350 quintals of specialty robusta coffee annually to Quijote Café in Hamburg, Germany, generating roughly $97,000-$130,000 USD per year. They hold BPA certification and are pursuing organic certification while working toward financial break-even at 450-500 quintals.",
         "fr": "L'association exporte environ 350 quintaux de café robusta de spécialité par an vers Quijote Café à Hambourg, en Allemagne, générant approximativement entre 97 000 et 130 000 USD par an. Elle détient la certification BPA et poursuit une certification biologique, tout en visant l'équilibre financier à 450-500 quintaux.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic robusta specialty coffee production",
         "fr": "Production de café robusta biologique de spécialité",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair price and weight to coffee producers",
         "fr": "Prix et poids équitables pour les producteurs de café",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Financial advances/loans to member producers",
         "fr": "Avances financières/prêts aux producteurs membres",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Chacra ancestral agroforestry production system",
         "fr": "Système de production agroforestier ancestral Chacra",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Open to NGOs, universities, and international allies",
         "fr": "Ouvert aux ONG, universités et partenaires internationaux",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Conservation of 11,000 hectares of indigenous territory",
         "fr": "Conservation de 11 000 hectares de territoire indigène",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGOs and international foundations to join project",
         "fr": "ONG et fondations internationales à rejoindre le projet",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers to investigate and study coffee initiative",
         "fr": "Chercheurs pour enquêter et étudier l'initiative café",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New international buyers beyond Quijote Café",
         "fr": "Nouveaux acheteurs internationaux au-delà de Quijote Café",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More producers following chacra system",
         "fr": "Plus de producteurs suivant le système chacra",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Support for organic certification costs",
         "fr": "Soutien aux coûts de certification biologique",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Young people to take leadership roles",
         "fr": "Jeunes personnes pour assumer des rôles de leadership",

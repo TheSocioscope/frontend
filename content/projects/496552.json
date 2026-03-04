@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755087620,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa se centra en crear un modelo de agricultura urbana sostenible mediante invernaderos hidropónicos en la escuela Santana. Surgida de una tesis de bachillerato sobre huertos verticales, pretende implicar a los estudiantes en la producción de alimentos al tiempo que promueve los productos ecológicos y sin pesticidas. El proyecto colabora con restaurantes e instituciones educativas locales, fomentando la participación de la comunidad y la concienciación medioambiental. Al integrar la educación y la agricultura, pretende mejorar la calidad de los alimentos y la sostenibilidad en los entornos urbanos.",
     "de": "Die Initiative konzentriert sich auf die Schaffung eines nachhaltigen städtischen Landwirtschaftsmodells durch Hydrokultur-Gewächshäuser an der Santana-Schule. Das Projekt, das aus einer Highschool-Diplomarbeit über vertikale Gärten hervorgegangen ist, zielt darauf ab, Schüler in die Lebensmittelproduktion einzubeziehen und gleichzeitig organische, pestizidfreie Produkte zu fördern. Das Projekt arbeitet mit lokalen Restaurants und Bildungseinrichtungen zusammen und fördert die Beteiligung der Gemeinschaft und das Umweltbewusstsein. Durch die Integration von Bildung und Landwirtschaft sollen die Lebensmittelqualität und die Nachhaltigkeit im städtischen Umfeld verbessert werden."
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "MUÑOZ SOVERO"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://red.pucp.edu.pe/ciclodevida/",
   "yt": "WmPNYUTq8-w",
   "originalLang": "es",
   "timeline": [
     {
       "date": "~5 years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Eizo Muñoz began studying hydroponics and urban agriculture through English-language sources, developing knowledge that would form the foundation of Invernaderos Pelkan.",
         "fr": "Eizo Muñoz a commencé à étudier l'hydroponie et l'agriculture urbaine à travers des sources en anglais, développant des connaissances qui allaient constituer les fondements d'Invernaderos Pelkan.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "~1 year ago",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A first small hydroponic greenhouse (5m x 5m) was built on the rooftop of an NGO in Barranco, Lima, funded by a grant from the Autonomous Region of Sardinia, Italy.",
         "fr": "Une première petite serre hydroponique (5m x 5m) a été construite sur le toit d'une ONG à Barranco, Lima, financée par une subvention de la Région Autonome de Sardaigne, en Italie.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "~6-10 months ago",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Eizo approached Colegio Santana, his former school, and secured their participation before successfully applying for a second Sardinian grant to build a larger 12m x 12m greenhouse on the school grounds.",
         "fr": "Eizo a approché le Colegio Santana, son ancienne école, et a obtenu leur participation avant de soumettre avec succès une candidature pour une deuxième subvention sarde afin de construire une serre plus grande de 12m x 12m dans l'enceinte de l'école.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "~2-3 months ago",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Santana greenhouse began operating, with fifth-year secondary students managing harvests and selling pesticide-free produce to local restaurants at introductory prices.",
         "fr": "La serre de Santana a commencé à fonctionner, avec des élèves de cinquième année du secondaire gérant les récoltes et vendant des produits sans pesticides aux restaurants locaux à des prix d'introduction.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "October, prior year",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Eizo won a hackathon at the Pontificia Universidad Católica del Perú focused on sustainable campus solutions, receiving 50% of the $8,000 needed to build a third greenhouse on the university campus.",
         "fr": "Eizo a remporté un hackathon à la Pontificia Universidad Católica del Perú axé sur des solutions durables pour le campus, recevant 50% des 8 000 $ nécessaires à la construction d'une troisième serre sur le campus universitaire.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "March onward (planned)",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "First and second year secondary students are set to formally integrate the greenhouse into their science and technology curriculum, and harvests are planned to supply both local households and restaurants.",
         "fr": "Les élèves de première et deuxième année du secondaire sont appelés à intégrer formellement la serre dans leur programme de sciences et technologie, et les récoltes sont prévues pour approvisionner à la fois les ménages locaux et les restaurants.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Pesticide-free hydroponic produce for restaurants",
         "fr": "Produits hydroponiques sans pesticides pour les restaurants",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Hydroponics and food security classes for students",
         "fr": "Cours d'hydroponique et de sécurité alimentaire pour les étudiants",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Harvest access for neighboring families and parents",
         "fr": "Accès à la récolte pour les familles et les parents du voisinage",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Traceable supply chain from seed to consumer",
         "fr": "Chaîne d'approvisionnement traçable de la graine au consommateur",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building for teachers on urban agriculture",
         "fr": "Renforcement des capacités des enseignants en agriculture urbaine",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Replicable urban greenhouse model for unused spaces",
         "fr": "Modèle de serre urbaine reproductible pour les espaces inutilisés",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Remaining 50% funding for PUCP greenhouse",
         "fr": "Financement des 50% restants pour la serre de la PUCP",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Institutions with unused urban spaces",
         "fr": "Institutions disposant d'espaces urbains inutilisés",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local restaurants valuing organic pesticide-free produce",
         "fr": "Restaurants locaux valorisant les produits biologiques sans pesticides",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Neighboring households for harvest subscription model",
         "fr": "Ménages voisins pour un modèle d'abonnement à la récolte",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Agronomist expertise for crop planning",
         "fr": "Expertise agronomique pour la planification des cultures",

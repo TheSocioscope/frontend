@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754990049,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "El proyecto Growing Hope apoya a los agricultores de la zona de Perico Negro mediante el establecimiento de granjas satélite. Inicialmente se evaluaron 15 granjas, que revelaron problemas como el monocultivo y la mala gestión de los recursos. La iniciativa se centra en formar a los agricultores en diversificación de tierras y prácticas sostenibles, lo que ha llevado a la creación de nueve granjas satélite. Este proyecto no sólo mejora la producción de alimentos, sino que también fomenta el compromiso de la comunidad y la concienciación sobre el valor de sus tierras para la agricultura sostenible.",
     "de": "Das Projekt Growing Hope unterstützt Landwirte in der Region Perico Negro durch die Einrichtung von Satellitenfarmen. Ursprünglich wurden 15 Farmen bewertet, wobei Probleme wie Monokulturen und schlechtes Ressourcenmanagement zutage traten. Die Initiative konzentriert sich auf die Schulung der Landwirte in der Diversifizierung der Anbauflächen und in nachhaltigen Praktiken, was zur Gründung von neun Satellitenfarmen führte. Dieses Projekt verbessert nicht nur die Nahrungsmittelproduktion, sondern fördert auch das Engagement der Gemeinschaft und das Bewusstsein für den Wert ihres Landes für eine nachhaltige Landwirtschaft."
   },
-  "field": [
-    "engineering-and-technology",
-    "nutrition"
-  ],
+  "field": ["engineering-and-technology", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Correa"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.rockefellerfoundation.org/grantee-impact-stories/desperate-to-heal-the-soil-colombias-smallholder-farmers-go-regenerative/",
   "yt": "PGRw0B-grNQ",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1994",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "María Cristina Mosquera began working in the Perico Negro territory, establishing deep community ties that would later facilitate her role in the satellite farms project.",
         "fr": "María Cristina Mosquera a commencé à travailler dans le territoire de Perico Negro, établissant des liens communautaires profonds qui faciliteraient plus tard son rôle dans le projet de fermes satellites.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "30+ years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cristina began her career in agricultural development in the Norte del Cauca region, accumulating over 30 years of experience in territory, community, and productive processes.",
         "fr": "Cristina a débuté sa carrière dans le développement agricole dans la région Norte del Cauca, accumulant plus de 30 ans d'expérience dans les domaines du territoire, de la communauté et des processus productifs.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "Initial phase",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "When the Growing Hope satellite farms project began, all 15 surveyed farms in Perico Negro showed monoculture of sugarcane and plantain, degraded soils, and abandoned fruit trees with no diversification.",
         "fr": "Lorsque le projet de fermes satellites Cultiver l'Espoir a débuté, les 15 fermes recensées à Perico Negro présentaient une monoculture de canne à sucre et de plantain, des sols dégradés et des arbres fruitiers abandonnés sans aucune diversification.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "Year 1 of project",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Practical-theoretical workshops began with 15 farmers; only one farm was sufficiently complete with both agricultural and animal production zones, serving as a model for the rest.",
         "fr": "Des ateliers théoriques et pratiques ont débuté avec 15 agriculteurs ; une seule ferme était suffisamment complète, disposant à la fois de zones de production agricole et animale, servant de modèle pour les autres.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "1 year 8 months into project",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The network grew to 9 active satellite farms and 17 productive patios in Perico Negro, with a spillover effect reaching neighboring farmers in Alegrias, Mingo, and Agua Azul who joined capacitations voluntarily.",
         "fr": "Le réseau s'est élargi à 9 fermes satellites actives et 17 patios productifs à Perico Negro, avec un effet d'entraînement atteignant les agriculteurs voisins d'Alegrias, Mingo et Agua Azul qui ont rejoint les formations volontairement.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Farmers transitioned from chemical inputs to organic practices and began selling directly at local markets without intermediaries, though full financial self-sufficiency is projected to require 3-5 more years as newly planted fruit trees mature.",
         "fr": "Les agriculteurs ont abandonné les intrants chimiques au profit de pratiques biologiques et ont commencé à vendre directement sur les marchés locaux sans intermédiaires, bien que l'autonomie financière complète devrait nécessiter encore 3 à 5 ans, le temps que les arbres fruitiers nouvellement plantés arrivent à maturité.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Theoretical and practical workshops for farmers",
         "fr": "Ateliers théoriques et pratiques pour les agriculteurs",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration plots for diversified farming",
         "fr": "Parcelles de démonstration pour une agriculture diversifiée",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Farmer-to-farmer knowledge sharing encounters",
         "fr": "Rencontres de partage de connaissances entre agriculteurs",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct market access without intermediaries",
         "fr": "Accès direct au marché sans intermédiaires",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Baseline assessments of farm conditions",
         "fr": "Évaluations de référence des conditions agricoles",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Inputs and equipment support for productive projects",
         "fr": "Soutien en intrants et équipements pour les projets productifs",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Farmers willing to commit to regenerative transition",
         "fr": "Agriculteurs prêts à s'engager dans la transition régénérative",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Family labor for satellite farm operations",
         "fr": "Main-d'œuvre familiale pour les opérations des fermes satellites",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct buyers for organic farm products",
         "fr": "Acheteurs directs pour les produits agricoles biologiques",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Clean quantitative baseline data for impact measurement",
         "fr": "Données de référence quantitatives fiables pour la mesure d'impact",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Inputs and infrastructure support for satellite farms",
         "fr": "Intrants et soutien en infrastructure pour les fermes satellites",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth engagement in agricultural production processes",
         "fr": "Engagement des jeunes dans les processus de production agricole",

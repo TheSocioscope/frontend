@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739449267,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Champ des Possibles es una iniciativa destinada a apoyar a los aspirantes a agricultores de la región de Île-de-France mediante un modelo de incubadora de granjas. Fundada en 2008, la iniciativa aborda los retos que plantea la creación de nuevas explotaciones, en particular las dificultades relacionadas con el acceso a la tierra, la formación y la transición a la agricultura para personas sin formación agrícola.\n\nEl programa ofrece un entorno de apoyo en el que los participantes pueden poner a prueba sus proyectos agrícolas de forma reversible, lo que les permite evaluar la viabilidad técnica, económica y personal de sus empresas sin compromisos a largo plazo. Champs des Possibles proporciona acceso a tierras, equipos de producción y un marco jurídico, así como formación y tutoría por parte de agricultores establecidos.\n\nLa iniciativa ha ampliado su enfoque más allá de la agricultura tradicional para incluir la transformación de alimentos y los servicios relacionados, fomentando una red de apoyo empresarial en diversos sectores del sistema alimentario. Cuenta con 17 centros en la región de París y colabora con otras organizaciones para adaptar su modelo a distintos contextos geográficos.\n\nChamps des Possibles aspira a hacer de la agricultura una opción profesional más accesible y atractiva, promoviendo prácticas ecológicas y sostenibles al tiempo que aborda los retos demográficos a los que se enfrenta el sector agrícola.\"\n",
     "de": "Champ des Possibles ist eine Initiative, die aufstrebende Landwirte in der Region Île-de-France unterstützen möchte, indem sie ein Modell für einen landwirtschaftlichen Inkubator bereitstellt. Die 2008 gegründete Initiative befasst sich mit den Herausforderungen bei der Gründung neuer Betriebe, insbesondere mit den Schwierigkeiten im Zusammenhang mit dem Zugang zu Land, der Ausbildung und dem Übergang zur Landwirtschaft für Personen ohne landwirtschaftlichen Hintergrund.\n\nDas Programm bietet ein unterstützendes Umfeld, in dem die Teilnehmer ihre landwirtschaftlichen Projekte in einem reversiblen Modus testen können, sodass sie die technische, wirtschaftliche und persönliche Machbarkeit ihres Vorhabens ohne langfristige Verpflichtungen beurteilen können. Champs des Possibles bietet Zugang zu Land, Produktionsmitteln und einem rechtlichen Rahmen sowie Schulungen und Mentoring durch etablierte Landwirte.\n\nDie Initiative hat ihren Fokus über die traditionelle Landwirtschaft hinaus auf die Lebensmittelverarbeitung und damit verbundene Dienstleistungen ausgeweitet und fördert ein Netzwerk unternehmerischer Unterstützung in verschiedenen Bereichen des Lebensmittelsystems. Sie betreibt 17 Standorte in der Region Paris und arbeitet mit anderen Organisationen zusammen, um ihr Modell an unterschiedliche geografische Kontexte anzupassen.\n\nChamps des Possibles zielt darauf ab, die Landwirtschaft zu einer zugänglicheren und attraktiveren Berufsoption zu machen, organische und nachhaltige Praktiken zu fördern und gleichzeitig die demografischen Herausforderungen des Agrarsektors zu adressieren.\"\n"
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Pechoux"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.leschampsdespossibles.fr",
   "yt": "1WfKiWzMiDM",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The AMAP Network of Île-de-France was founded, quickly experiencing rapid growth that created a mismatch between consumer demand for local organic produce and the limited number of nearby bio farmers.",
         "fr": "Le Réseau AMAP d'Île-de-France a été fondé, connaissant rapidement une croissance soutenue qui a créé un décalage entre la demande des consommateurs en produits biologiques locaux et le nombre limité d'agriculteurs bio à proximité.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2008-2009",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Sylvain Péchoux was hired in 2008 by the AMAP Network to develop the project, leading to the founding of Champs des Possibles in 2009 as an agricultural business incubator to bridge the gap between farming training and installation.",
         "fr": "Sylvain Péchoux a été recruté en 2008 par le Réseau AMAP pour développer le projet, conduisant à la création de Champs des Possibles en 2009 en tant que couveuse d'activités agricoles, afin de combler le fossé entre la formation agricole et l'installation.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Champs des Possibles expanded its scope beyond agricultural production to include food transformation activities such as bakeries, canneries, and fermented beverage producers.",
         "fr": "Champs des Possibles a élargi son périmètre au-delà de la production agricole pour inclure des activités de transformation alimentaire telles que les boulangeries, les conserveries et les producteurs de boissons fermentées.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association converted its legal status from an association into a cooperative (SCIC SARL), reflecting its growth and evolving governance needs.",
         "fr": "L'association a transformé son statut juridique d'association en coopérative (SCIC SARL), reflétant sa croissance et l'évolution de ses besoins en matière de gouvernance.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2017",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The arrival of Valérie Pécresse at the regional government led to the withdrawal of subsidies; the organization responded with petitions and demonstrations, successfully recovering regional council support.",
         "fr": "L'arrivée de Valérie Pécresse à la tête de la région a entraîné le retrait des subventions ; l'organisation a répondu par des pétitions et des manifestations, parvenant à retrouver le soutien du conseil régional.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A post-Covid downturn resulted in only three new test-activity entrants for the year, compared to the usual 10–20, causing the cooperative's first deficit in 15 years and triggering the founder's burnout and transition to a new director.",
         "fr": "Un ralentissement post-Covid n'a abouti qu'à trois nouvelles entrées en test d'activité pour l'année, contre les 10 à 20 habituelles, provoquant le premier déficit de la coopérative en 15 ans et déclenchant le burn-out du fondateur ainsi qu'une transition vers un nouveau directeur.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Business activity testing for aspiring farmers",
         "fr": "Test d'activité agricole pour les agriculteurs en devenir",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Professional training on agricultural and food topics",
         "fr": "Formation professionnelle sur les thématiques agricoles et alimentaires",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Farmer mentorship and peer knowledge transmission",
         "fr": "Parrainage agricole et transmission de savoirs entre pairs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Legal and financial hosting for entrepreneur-employees",
         "fr": "Hébergement juridique et financier pour les entrepreneurs-salariés",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Support for food transformation and artisan producers",
         "fr": "Accompagnement à la transformation alimentaire et aux producteurs artisans",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Access to land, equipment, and production facilities",
         "fr": "Accès au foncier, au matériel et aux installations de production",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New aspiring farmers to accompany in test",
         "fr": "Nouveaux agriculteurs aspirants à accompagner en test",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public grants to reduce financial dependency",
         "fr": "Subventions publiques pour réduire la dépendance financière",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Farmer mentors for tutoring program",
         "fr": "Agriculteurs mentors pour le programme de tutorat",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Hosts farms welcoming activity test candidates",
         "fr": "Fermes d'accueil pour les candidats en test d'activité",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Understanding 2023 enrollment drop causes",
         "fr": "Comprendre les causes de la baisse des inscriptions en 2023",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collective territorial structures as subsidiary units",
         "fr": "Structures territoriales collectives en tant qu'unités subsidiaires",

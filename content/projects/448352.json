@@ -8,7 +8,7 @@
   "timeline": [
     {
       "date": "pre-2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ditte founded Linserfal, initially selling flour made from red lentils sourced from Turkey. She sold her apartment in Aarhus and used modest funding (under US$50,000) to purchase an old farm property outside the city to run operations.",
         "fr": "Ditte a fondé Linserfal, vendant initialement de la farine fabriquée à partir de lentilles rouges provenant de Turquie. Elle a vendu son appartement à Aarhus et utilisé un financement modeste (moins de 50 000 USD) pour acheter une ancienne propriété agricole en dehors de la ville afin d'y mener ses activités.",
@@ -18,7 +18,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Linserfal officially launched, with Ditte pioneering the first 100% organic Danish-grown legumes in collaboration with local small-scale farmers, including her father.",
         "fr": "Linserfal a officiellement été lancée, avec Ditte pionnière des premières légumineuses biologiques à 100 % cultivées au Danemark, en collaboration avec des agriculteurs locaux à petite échelle, dont son père.",
@@ -28,7 +28,7 @@
     },
     {
       "date": "post-2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ditte secured green fund investment through the Danish co-op supermarket network, which functioned like corporate-vetted crowdfunding. This funding went toward building her on-farm packaging and production facilities.",
         "fr": "Ditte a obtenu un investissement de fonds verts par le biais du réseau de supermarchés coopératifs danois, qui fonctionnait comme un financement participatif validé par des entreprises. Ce financement a été consacré à la construction de ses installations d'emballage et de production à la ferme.",
@@ -38,7 +38,7 @@
     },
     {
       "date": "post-2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ditte expanded her product range to include lentils, peas, beans, flaxseed, quinoa flour, buckwheat flour, and lupine, while diversifying her business model to include chef workshops and storytelling-based marketing to build consumer and institutional demand.",
         "fr": "Ditte a élargi sa gamme de produits pour inclure des lentilles, des pois, des haricots, des graines de lin, de la farine de quinoa, de la farine de sarrasin et du lupin, tout en diversifiant son modèle commercial pour inclure des ateliers culinaires et un marketing basé sur la narration afin de développer la demande des consommateurs et des institutions.",
@@ -48,7 +48,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Aarhus Municipality brokered a three-month trial period with Denmark's centralized food supplier (AB Catering, controlling 70% of food supply to businesses), enabling Ditte's products to enter institutional food systems through a pilot supply arrangement.",
         "fr": "La municipalité d'Aarhus a négocié une période d'essai de trois mois avec le fournisseur alimentaire centralisé du Danemark (AB Catering, contrôlant 70 % de l'approvisionnement alimentaire des entreprises), permettant aux produits de Ditte d'intégrer les systèmes alimentaires institutionnels via un accord d'approvisionnement pilote.",
@@ -58,7 +58,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ditte announced new products planned for release in 2024, signaling continued incremental expansion while maintaining her deliberate strategy of slow, organic growth without hiring additional staff.",
         "fr": "Ditte a annoncé de nouveaux produits prévus pour 2024, signalant une expansion progressive continue tout en maintenant sa stratégie délibérée de croissance lente et organique sans embauche de personnel supplémentaire.",
@@ -75,7 +75,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Small-scale organic farmers to collaborate with",
         "fr": "Petits agriculteurs biologiques avec lesquels collaborer",
@@ -84,7 +84,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Chefs willing to adopt legume-forward cooking",
         "fr": "Chefs prêts à adopter une cuisine axée sur les légumineuses",
@@ -93,7 +93,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer demand for Danish organic legumes",
         "fr": "Demande des consommateurs pour les légumineuses biologiques danoises",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Diverse crop varieties grown on Danish fields",
         "fr": "Variétés de cultures diversifiées cultivées dans les champs danois",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Green financing for production infrastructure",
         "fr": "Financement vert pour l'infrastructure de production",
@@ -120,9 +120,7 @@
       }
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "name": {
     "nb": "Linser for Livet",
     "en": "Lentils for Life",
@@ -132,9 +130,7 @@
   },
   "time": "",
   "lang": "en",
-  "updatedAt": [
-    1771238857
-  ],
+  "updatedAt": [1771238857],
   "date": null,
   "url": "https://linserforlivet.dk/",
   "state": "ongoing-project",
@@ -170,16 +166,12 @@
       "category": "team"
     }
   ],
-  "continent": [
-    "europe"
-  ],
+  "continent": ["europe"],
   "location": "",
-  "country": [
-    "denmark"
-  ],
+  "country": ["denmark"],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "100% organic Danish legumes and flours",
         "fr": "100% de légumineuses et farines danoises biologiques",
@@ -188,7 +180,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Products sold to shops and customers",
         "fr": "Produits vendus aux magasins et aux clients",
@@ -197,7 +189,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Recipes and cooking guidance for consumers",
         "fr": "Recettes et conseils culinaires pour les consommateurs",
@@ -206,7 +198,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops for chefs on using legumes",
         "fr": "Ateliers pour les chefs sur l'utilisation des légumineuses",
@@ -215,7 +207,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Connects small farmers to local food supply",
         "fr": "Relie les petits agriculteurs à l'approvisionnement alimentaire local",
@@ -224,7 +216,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Individualized storytelling and marketing for farms",
         "fr": "Narration et marketing individualisés pour les exploitations agricoles",
@@ -234,12 +226,8 @@
     }
   ],
   "pubId": 448352,
-  "field": [
-    "nutrition"
-  ],
-  "type": [
-    "case-study"
-  ],
+  "field": ["nutrition"],
+  "type": ["case-study"],
   "createdAt": 1739454812,
   "yt": "R-CTugqP-QU",
   "editedAt": 1771238857,

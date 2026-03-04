@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754480727,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Finca Macaní es una granja basada en la permacultura en Sotaquirá, Boyacá, dedicada a la sostenibilidad alimentaria y al compromiso con la comunidad. La iniciativa hace hincapié en trabajar en armonía con la naturaleza al tiempo que promueve el comercio local y la educación. Los visitantes pueden participar en talleres, aprender sobre prácticas alimentarias tradicionales y experimentar los diversos procesos agrícolas de la granja. Macaní pretende fomentar una comprensión más profunda de la producción de alimentos y su significado cultural, contribuyendo a un futuro más sostenible para la comunidad.",
     "de": "Die Finca Macaní ist ein Permakultur-Bauernhof in Sotaquirá, Boyacá, der sich der Nachhaltigkeit von Lebensmitteln und dem Engagement der Gemeinschaft verschrieben hat. Die Initiative legt Wert darauf, harmonisch mit der Natur zu arbeiten und gleichzeitig den lokalen Handel und die Bildung zu fördern. Besucher können an Workshops teilnehmen, etwas über traditionelle Ernährungspraktiken lernen und die vielfältigen landwirtschaftlichen Prozesse des Hofes erleben. Macaní möchte ein tieferes Verständnis der Lebensmittelproduktion und ihrer kulturellen Bedeutung fördern und so zu einer nachhaltigeren Zukunft für die Gemeinde beitragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Sandoval"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.youtube.com/watch?v=cELstpNjudI",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2006-2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nicolás begins managing Finca Macaní in Sotaquirá, Boyacá, attempting various agricultural activities including pigs, potatoes, cows, and chickens. All ventures result in losses over approximately six years.",
         "fr": "Nicolás commence à gérer la Finca Macaní à Sotaquirá, Boyacá, en tentant diverses activités agricoles incluant des porcs, des pommes de terre, des vaches et des poulets. Toutes les entreprises se soldent par des pertes sur environ six ans.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "~2014-2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Nicolás moves to Bogotá and opens a hostel with the goal of building a future rural tourism destination linked to the family farm. A restaurant was being built inside the hostel one month before the pandemic began.",
         "fr": "Nicolás s'installe à Bogotá et ouvre une auberge de jeunesse dans le but de créer une future destination de tourisme rural liée à la ferme familiale. Un restaurant était en construction à l'intérieur de l'auberge un mois avant le début de la pandémie.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic forces Nicolás to close the Bogotá hostel and return permanently to the farm, marking a turning point toward rebuilding Macaní under the permaculture philosophy.",
         "fr": "La pandémie de COVID-19 contraint Nicolás à fermer l'auberge de Bogotá et à retourner définitivement à la ferme, marquant un tournant vers la reconstruction de Macaní selon la philosophie de la permaculture.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Nicolás formally restructures Finca Macaní around permacultura principles, introducing sheep, goats, cows, an organic vegetable garden, beehives, and an ecoglamping hotel with a farm-to-table restaurant.",
         "fr": "Nicolás restructure formellement la Finca Macaní autour des principes de la permaculture, en introduisant des moutons, des chèvres, des vaches, un potager biologique, des ruches, ainsi qu'un hôtel d'écoglamping avec un restaurant de la ferme à la table.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Macaní establishes academic partnerships with Universidad de Boyacá, UPTC, and Universidad de San Martín for research on biofertilizers, sustainable pastures, and organic queso Paipa production, including a doctoral research project.",
         "fr": "Macaní établit des partenariats académiques avec l'Universidad de Boyacá, l'UPTC et l'Universidad de San Martín pour des recherches sur les biofertilisants, les pâturages durables et la production biologique de queso Paipa, incluant un projet de recherche doctoral.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Macaní reaches a fragile but improving financial equilibrium, driven mainly by growing dairy production with 8 INVIMA registrations, while reducing chemical use in the durazno monoculture by approximately 70%.",
         "fr": "Macaní atteint un équilibre financier fragile mais en amélioration, porté principalement par une production laitière croissante avec 8 enregistrements INVIMA, tout en réduisant l'utilisation de produits chimiques dans la monoculture de durazno d'environ 70 %.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Permaculture farm tours and process demonstrations",
         "fr": "Visites de ferme en permaculture et démonstrations de processus",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on traditional regional cooking",
         "fr": "Ateliers sur la cuisine régionale traditionnelle",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic vegetable garden farm-to-table restaurant",
         "fr": "Restaurant de la ferme à la table avec jardin potager biologique",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University research partnerships on sustainable agriculture",
         "fr": "Partenariats de recherche universitaire sur l'agriculture durable",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Biofertilizers made from whey and animal waste",
         "fr": "Biofertilisants fabriqués à partir de lactosérum et de déchets animaux",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Cheesemaking and artisan dairy product workshops",
         "fr": "Ateliers de fabrication de fromage et de produits laitiers artisanaux",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University partnerships for permaculture investigation",
         "fr": "Partenariats universitaires pour la recherche en permaculture",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution channels for dairy products",
         "fr": "Canaux de distribution pour les produits laitiers",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Fair agrarian policies recognizing all chain actors",
         "fr": "Politiques agraires équitables reconnaissant tous les acteurs de la chaîne",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and seed capital for farm expansion",
         "fr": "Subventions et capital d'amorçage pour l'expansion agricole",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local actors to invest in dairy production",
         "fr": "Acteurs locaux pour investir dans la production laitière",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replication of permaculture models in the region",
         "fr": "Réplication des modèles de permaculture dans la région",

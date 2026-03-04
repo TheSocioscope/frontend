@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "An ECD centre integrating education and nutrition with a food garden producing spinach, pumpkins, and beetroot, supported by the Do More Foundation.",
     "de": "An ECD centre integrating education and nutrition with a food garden producing spinach, pumpkins, and beetroot, supported by the Do More Foundation."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "en",
   "location": "Zwelethemba",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Madaka"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Leticia Madaka founded Siyahluma Creche in Zolani Temba, starting from her home at number 94 due to a lack of early childhood facilities in the area. The creche quickly filled to capacity, prompting a move to the local Apostolic Faith Church hall in January 2014.",
         "fr": "Leticia Madaka a fondé la Crèche Siyahluma à Zolani Temba, en commençant depuis son domicile au numéro 94 en raison du manque d'infrastructures pour la petite enfance dans la région. La crèche a rapidement atteint sa capacité maximale, ce qui a entraîné un déménagement vers la salle de l'église apostolique de la foi locale en janvier 2014.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After relocating to the church hall, the creche applied to Breadline Africa for dedicated classroom containers to better separate age groups. Community skepticism was high, with neighbouring creches doubting the initiative would survive.",
         "fr": "Après avoir déménagé dans la salle de l'église, la crèche a fait une demande auprès de Breadline Africa pour obtenir des conteneurs-salles de classe dédiés afin de mieux séparer les groupes d'âge. Le scepticisme de la communauté était élevé, les crèches voisines doutant que l'initiative survive.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Siyahluma Creche was formally registered with the Department of Social Development, achieving a five-year certificate for 39 children. Breadline Africa visited and signed an agreement to provide container classrooms, toilets, and a kitchen, which were installed in January 2018.",
         "fr": "La Crèche Siyahluma a été officiellement enregistrée auprès du Département du Développement Social, obtenant un certificat de cinq ans pour 39 enfants. Breadline Africa s'est rendu sur place et a signé un accord pour fournir des salles de classe en conteneurs, des toilettes et une cuisine, qui ont été installés en janvier 2018.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The creche applied to BOGMA (Department of Agriculture) for garden tools, manure, and seedlings to establish a food garden on the premises. Funding was received in early 2020, enabling the installation of protective green nets and irrigation pipes.",
         "fr": "La crèche a soumis une demande au BOGMA (Département de l'Agriculture) pour obtenir des outils de jardinage, du fumier et des plants afin d'établir un potager sur le terrain. Le financement a été reçu début 2020, permettant l'installation de filets de protection verts et de tuyaux d'irrigation.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The registration certificate expired during the COVID-19 pandemic, making renewal extremely difficult due to office closures and documentation challenges. Leticia secured the zoning certificate and renewed registration through persistent effort, including selling Wonderbags to raise the required 8,560 rand for building plans.",
         "fr": "Le certificat d'enregistrement a expiré pendant la pandémie de COVID-19, rendant le renouvellement extrêmement difficile en raison de la fermeture des bureaux et des difficultés liées à la documentation. Leticia a obtenu le certificat de zonage et a renouvelé l'enregistrement grâce à des efforts persistants, notamment en vendant des Wonderbags pour réunir les 8 560 rands nécessaires aux plans de construction.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The creche secured a new plot of land with municipal support and began planning relocation to a larger site to expand capacity and grow a bigger food garden. A key obstacle remains the estimated 150,000 rand cost of moving the container structures to the new location.",
         "fr": "La crèche a obtenu un nouveau terrain avec le soutien municipal et a commencé à planifier son déménagement vers un site plus grand afin d'augmenter sa capacité et de développer un potager plus important. Un obstacle majeur demeure le coût estimé à 150 000 rands pour déplacer les structures en conteneurs vers le nouvel emplacement.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Early childhood care for ages zero to five",
         "fr": "Soins à la petite enfance pour les enfants de zéro à cinq ans",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh vegetables grown in on-site garden",
         "fr": "Légumes frais cultivés dans le jardin sur place",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Extended aftercare beyond standard school hours",
         "fr": "Garde prolongée au-delà des heures scolaires habituelles",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Parent sessions on breastfeeding and nutrition",
         "fr": "Sessions pour parents sur l'allaitement et la nutrition",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Daily meals and feeding scheme for children",
         "fr": "Repas quotidiens et programme d'alimentation pour les enfants",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Small home garden training for parents",
         "fr": "Formation au petit jardinage à domicile pour les parents",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Increased government subsidy per child beyond 17 rand",
         "fr": "Augmentation de la subvention gouvernementale par enfant au-delà de 17 rands",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Private sector farmers to donate surplus produce",
         "fr": "Les agriculteurs du secteur privé pour faire don des surplus de production",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community members to support garden and security",
         "fr": "Les membres de la communauté pour soutenir le jardin et la sécurité",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More families to enroll children in ECD",
         "fr": "Plus de familles pour inscrire leurs enfants dans l'ECD",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for surplus vegetables from food garden",
         "fr": "Acheteurs pour les légumes excédentaires du jardin alimentaire",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funds to relocate containers to new site",
         "fr": "Fonds pour déplacer les conteneurs vers un nouveau site",

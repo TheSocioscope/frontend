@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1739456677,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Zero Dig, con sede en Stroud, es una organización sin ánimo de lucro centrada en la agricultura sostenible mediante un método conocido como \"excavación cero\" o \"sin excavación\". Este enfoque hace hincapié en la mínima perturbación del suelo, preservando la red de micelio y fomentando la biodiversidad, lo que mejora la densidad de nutrientes en los cultivos. Fundada por el filántropo Mario, que buscaba utilizar su riqueza de forma significativa después de la crisis, la iniciativa pretende producir alimentos de alta calidad a nivel local, fomentando al mismo tiempo el compromiso de la comunidad y la creación de empleo.\n\nLa organización funciona con un modelo que combina la investigación científica con estrategias empresariales, lo que le permite explorar asociaciones comerciales y ampliar su alcance. Zero Dig ha establecido relaciones con restaurantes locales y ha empezado a atraer la atención de entidades más grandes, incluidas posibles colaboraciones con supermercados y urbanizaciones. La iniciativa también se centra en educar a la comunidad sobre los beneficios de los alimentos ricos en nutrientes y las prácticas agrícolas sostenibles.",
     "de": "Die in Stroud ansässige Zero Dig Initiative ist eine gemeinnützige Organisation, die sich auf nachhaltige Landwirtschaft durch eine Methode konzentriert, die als \"zero dig\" oder \"no dig\" bekannt ist. Dieser Ansatz betont die minimale Störung des Bodens, bewahrt das Myzelium-Netzwerk und fördert die Artenvielfalt, die die Nährstoffdichte in den Kulturen erhöht. Die Initiative wurde von dem Philanthropen Mario gegründet, der sein Vermögen nach dem Tod des Präsidenten sinnvoll einsetzen wollte. Ziel der Initiative ist es, hochwertige Lebensmittel vor Ort zu produzieren und gleichzeitig das Engagement der Gemeinschaft und die Schaffung von Arbeitsplätzen zu fördern.\n\nDie Organisation arbeitet nach einem Modell, das wissenschaftliche Forschung mit unternehmerischen Strategien verbindet und es ihr ermöglicht, kommerzielle Partnerschaften zu erforschen und ihre Reichweite zu erweitern. Zero Dig hat Beziehungen zu lokalen Restaurants aufgebaut und begonnen, die Aufmerksamkeit größerer Unternehmen auf sich zu ziehen, darunter potenzielle Kooperationen mit Supermärkten und Wohnungsbauprojekten. Die Initiative konzentriert sich auch auf die Aufklärung der Gemeinde über die Vorteile von nährstoffreichem Essen und nachhaltigen landwirtschaftlichen Praktiken."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Peters"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://zerodig.earth/",
   "yt": "4eDEhkyVytk",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mario Peters sold his businesses just before the pandemic and co-founded Zero Dig Farms in Stroud with Christopher Upton, investing personal capital to establish a no-dig regenerative farming research and development site on half an acre at Oakbrook Farm.",
         "fr": "Mario Peters a vendu ses entreprises juste avant la pandémie et a cofondé Zero Dig Farms à Stroud avec Christopher Upton, investissant des capitaux personnels pour établir un site de recherche et développement agricole régénératif sans labour sur un demi-acre à Oakbrook Farm.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Zero Dig invested approximately £200,000-£250,000 in developing and refining the physical bed-building system and farm management model, with the first two years focused on building the system rather than commercial production.",
         "fr": "Zero Dig a investi environ 200 000 à 250 000 £ dans le développement et le perfectionnement du système de construction de planches et du modèle de gestion agricole, les deux premières années étant consacrées à la mise en place du système plutôt qu'à la production commerciale.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Westmoreland family's M5 motorway service station near Gloucester became Zero Dig's first major commercial client, providing a leveling-up moment and real use case for the model.",
         "fr": "L'aire de service de l'autoroute M5 de la famille Westmoreland près de Gloucester est devenue le premier grand client commercial de Zero Dig, offrant un moment décisif et un cas d'usage concret pour le modèle.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Zero Dig expanded to four or five sites including a partnership with the Royal Agricultural University in Cirencester, where FWAG fundraised £100,000 from external charities to establish a Zero Dig site.",
         "fr": "Zero Dig s'est étendu à quatre ou cinq sites, notamment grâce à un partenariat avec la Royal Agricultural University de Cirencester, où le FWAG a levé 100 000 £ auprès de fondations caritatives externes pour créer un site Zero Dig.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Zero Dig conducted a nutrient density study on kale, demonstrating nearly three times the nutrient density of a European organic sample, attracting interest from a large company focused on health supplements and nutrient density.",
         "fr": "Zero Dig a mené une étude sur la densité nutritionnelle du chou frisé, démontrant une densité nutritionnelle presque trois fois supérieure à celle d'un échantillon biologique européen, suscitant l'intérêt d'une grande entreprise spécialisée dans les compléments alimentaires et la densité nutritionnelle.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Zero Dig began exploring partnerships with housing developers and local government around integrating market gardens into new housing developments, while also attracting international interest including from an American company seeking nutrient-dense kale.",
         "fr": "Zero Dig a commencé à explorer des partenariats avec des promoteurs immobiliers et des collectivités locales autour de l'intégration de jardins maraîchers dans de nouveaux lotissements, tout en attirant également un intérêt international, notamment de la part d'une entreprise américaine à la recherche de chou frisé à haute densité nutritionnelle.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Open-source regenerative farming model for replication",
         "fr": "Modèle agricole régénératif open-source pour la réplication",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "On-farm training for local college students",
         "fr": "Formation en exploitation agricole pour les étudiants des collèges locaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific research on soil health and nutrient density",
         "fr": "Recherche scientifique sur la santé des sols et la densité nutritionnelle",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Locally grown vegetables for nearby businesses",
         "fr": "Légumes cultivés localement pour les entreprises voisines",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment and volunteering for local community members",
         "fr": "Emploi et bénévolat pour les membres de la communauté locale",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consultancy and open days for visiting growers",
         "fr": "Conseil et journées portes ouvertes pour les producteurs en visite",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local growers to adopt Zero Dig system",
         "fr": "Producteurs locaux pour adopter le système Zéro Bêchage",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supermarket buyers for local regenerative produce",
         "fr": "Acheteurs de supermarchés pour les produits régénératifs locaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific validation of nutrient density claims",
         "fr": "Validation scientifique des allégations sur la densité nutritive",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Startup capital fund for young growers",
         "fr": "Fonds de capital de démarrage pour les jeunes producteurs",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Housing developers to integrate market gardens",
         "fr": "Promoteurs immobiliers pour intégrer des jardins maraîchers",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Young people seeking agricultural livelihoods",
         "fr": "Jeunes personnes à la recherche de moyens de subsistance agricoles",

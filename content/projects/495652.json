@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1755008602,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa Espigoladors se puso en marcha en 2014 para hacer frente al desperdicio de alimentos y promover el derecho a una alimentación sana y sostenible en medio de la actual crisis social y económica. Su objetivo es reducir las pérdidas de alimentos mediante el espigado urbano, poniendo en contacto los excedentes de alimentos de los agricultores con los necesitados y generando al mismo tiempo oportunidades de empleo y formación para grupos marginados. Al revivir la antigua práctica del espigado, Espigoladors fomenta el compromiso de la comunidad y sensibiliza sobre la sostenibilidad alimentaria y la reducción de residuos.",
     "de": "Die Initiative Espigoladors wurde 2014 ins Leben gerufen, um die Lebensmittelverschwendung zu bekämpfen und das Recht auf gesunde, nachhaltige Lebensmittel inmitten der anhaltenden sozialen und wirtschaftlichen Krise zu fördern. Ziel ist es, Lebensmittelverluste durch städtische Sammelaktionen zu reduzieren, überschüssige Lebensmittel von Landwirten an Bedürftige weiterzugeben und gleichzeitig Beschäftigungs- und Ausbildungsmöglichkeiten für marginalisierte Gruppen zu schaffen. Durch die Wiederbelebung des alten Brauchs des Sammelns fördert Espigoladors das Engagement der Gemeinschaft und schärft das Bewusstsein für die Nachhaltigkeit von Lebensmitteln und die Verringerung von Abfällen."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,14 +33,9 @@
       "lastname": "Gras"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "equality-diversity-studies-and-social-justice"
-  ],
+  "thematic": ["food-agriculture-fishery", "equality-diversity-studies-and-social-justice"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://espigoladors.cat/en/;",
   "yt": "Lu6jSX_F1CY",
   "editedAt": 1771240424,
@@ -57,14 +45,12 @@
       "at": 1771240424
     }
   ],
-  "updatedAt": [
-    1771240424
-  ],
+  "updatedAt": [1771240424],
   "originalLang": "es",
   "timeline": [
     {
       "date": "2008",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The 2008 economic crisis created rising food bank demand and high unemployment in Spain, exposing the paradox of massive food waste alongside growing food insecurity.",
         "fr": "La crise économique de 2008 a entraîné une hausse de la demande auprès des banques alimentaires et un chômage élevé en Espagne, mettant en lumière le paradoxe d'un gaspillage alimentaire massif face à une insécurité alimentaire croissante.",
@@ -74,7 +60,7 @@
     },
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Espigoladors launched as a pilot project near Barcelona, inspired by the ancient practice of gleaning, to recover surplus crops from farms and distribute them to social entities.",
         "fr": "Espigoladors a été lancé en tant que projet pilote près de Barcelone, inspiré par l'ancienne pratique du glanage, afin de récupérer les surplus agricoles des fermes et de les distribuer à des entités sociales.",
@@ -84,7 +70,7 @@
     },
     {
       "date": "2015",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The project became fully operational across all phases of its model, including volunteer gleaning networks, social entity distribution, and the Es Imperfect food transformation line.",
         "fr": "Le projet est devenu pleinement opérationnel dans toutes les phases de son modèle, incluant les réseaux de glanage bénévole, la distribution aux entités sociales et la ligne de transformation alimentaire Es Imperfect.",
@@ -94,7 +80,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The organization transitioned from an association to a foundation, better reflecting its social mission and enabling it to receive donations and manage food donations to entities more effectively.",
         "fr": "L'organisation est passée du statut d'association à celui de fondation, reflétant mieux sa mission sociale et lui permettant de recevoir des dons et de gérer plus efficacement les dons alimentaires destinés aux entités.",
@@ -104,7 +90,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Espigoladors expanded gleaning activities to Tarragona and Girona, launched the urban orange project La Amarga in Barcelona, and opened a research and knowledge-generation area focused on food loss data.",
         "fr": "Espigoladors a étendu ses activités de glanage à Tarragone et Gérone, lancé le projet d'oranges urbaines La Amarga à Barcelone, et ouvert un pôle de recherche et de production de connaissances axé sur les données relatives aux pertes alimentaires.",
@@ -114,7 +100,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization moved Es Imperfect to a larger 1000m² production center and celebrated Spain's first national food waste law approved in March 2025, a milestone they had actively advocated for.",
         "fr": "L'organisation a déménagé Es Imperfect dans un centre de production plus grand de 1000m² et a célébré l'adoption de la première loi nationale espagnole contre le gaspillage alimentaire en mars 2025, une avancée pour laquelle elle avait activement milité.",
@@ -125,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recovery of surplus crops from fields",
         "fr": "Récupération des surplus de récoltes dans les champs",
@@ -134,7 +120,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh produce distributed to food banks",
         "fr": "Produits frais distribués aux banques alimentaires",
@@ -143,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Volunteer gleaning activities open to public",
         "fr": "Activités de glanage bénévole ouvertes au public",
@@ -152,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "3-year job training for vulnerable people",
         "fr": "Formation professionnelle de 3 ans pour les personnes vulnérables",
@@ -161,7 +147,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Imperfect vegetable conserves for sale",
         "fr": "Conserves de légumes imparfaits en vente",
@@ -170,7 +156,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Food loss data and research publications",
         "fr": "Données sur les pertes alimentaires et publications de recherche",
@@ -181,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers to join field gleaning activities",
         "fr": "Bénévoles pour participer aux activités de glanage sur le terrain",
@@ -190,7 +176,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Producer network to donate surplus crops",
         "fr": "Réseau de producteurs pour faire don des surplus de récoltes",
@@ -199,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Social entities for food distribution",
         "fr": "Entités sociales pour la distribution alimentaire",
@@ -208,7 +194,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Advocacy for national food waste legislation",
         "fr": "Plaidoyer pour une législation nationale sur le gaspillage alimentaire",
@@ -217,7 +203,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supermarket chains to accept imperfect produce",
         "fr": "Chaînes de supermarchés pour accepter les produits imparfaits",
@@ -226,7 +212,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data on primary sector food losses",
         "fr": "Données sur les pertes alimentaires dans le secteur primaire",

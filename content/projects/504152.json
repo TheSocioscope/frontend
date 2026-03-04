@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Nuvedo grows functional mushrooms on agricultural waste, developing mushroom-based foods and extracts as sustainable protein alternatives.",
     "de": "Nuvedo grows functional mushrooms on agricultural waste, developing mushroom-based foods and extracts as sustainable protein alternatives."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "Bengaluru, Karnataka",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Kini"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://nuvedo.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Co-founders Jashid and Prithvi quit their corporate jobs and traveled India doing organic farm volunteering, earning a Permaculture Design Certification and identifying mushrooms as their focus area.",
         "fr": "Les cofondateurs Jashid et Prithvi ont quitté leurs emplois en entreprise et ont voyagé à travers l'Inde en faisant du volontariat dans des fermes biologiques, obtenant une certification en design en permaculture et identifiant les champignons comme leur domaine de prédilection.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Nuvedo was formally registered and launched its first product, a mushroom growing kit, while operating initially out of a spare bedroom before renting their current facility.",
         "fr": "Nuvedo a été officiellement enregistrée et a lancé son premier produit, un kit de culture de champignons, tout en opérant initialement depuis une chambre d'appoint avant de louer leurs locaux actuels.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The company secured its only angel investment round in September 2022, raising approximately 42,000 USD at a post-money valuation of around 735,000 USD from a senior ex-JP Morgan executive and Bits Pilani alumnus.",
         "fr": "L'entreprise a obtenu son unique tour de financement providentiel en septembre 2022, levant environ 42 000 USD à une valorisation post-money d'environ 735 000 USD auprès d'un ancien cadre supérieur de JP Morgan et diplômé de Bits Pilani.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Nuvedo launched its first in-house mushroom extract product after the contracted food-tech research institute withdrew, forcing the team to build their own extraction machinery and pharmaceutical-grade processes.",
         "fr": "Nuvedo a lancé son premier produit d'extrait de champignons en interne après le retrait de l'institut de recherche en technologie alimentaire sous contrat, contraignant l'équipe à construire ses propres machines d'extraction et à mettre en place des procédés de qualité pharmaceutique.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company appeared on India's Shark Tank, gaining national television exposure for functional mushrooms, and won the Karnataka government's Elevate grant in the biotech category for extraction and substrate optimization research.",
         "fr": "L'entreprise est apparue dans l'émission Shark Tank India, gagnant une exposition télévisée nationale pour les champignons fonctionnels, et a remporté la subvention Elevate du gouvernement du Karnataka dans la catégorie biotechnologie pour des recherches sur l'extraction et l'optimisation des substrats.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Nuvedo expanded into co-branded B2B ingredient partnerships, including a mushroom coffee with Maverick and Farmer and a pet supplement with Whole Woofs, while growing annual revenue to approximately 86 lakh rupees.",
         "fr": "Nuvedo s'est développée dans des partenariats d'ingrédients B2B en co-branding, notamment un café au champignon avec Maverick and Farmer et un complément pour animaux de compagnie avec Whole Woofs, tout en portant son chiffre d'affaires annuel à environ 86 lakh de roupies.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge and education about mushrooms",
         "fr": "Connaissances et éducation sur les champignons",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Safe community space for mushroom enthusiasts",
         "fr": "Espace communautaire sûr pour les passionnés de champignons",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Paid and free mushroom cultivation workshops",
         "fr": "Ateliers de culture de champignons payants et gratuits",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Mushroom growing kits for home cultivation",
         "fr": "Kits de culture de champignons pour la culture à domicile",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Mushroom extracts as ingredient for food brands",
         "fr": "Extraits de champignons comme ingrédient pour les marques alimentaires",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Substrate and extraction optimization R&D",
         "fr": "R&D sur l'optimisation des substrats et de l'extraction",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Co-branding partners in food and beverage",
         "fr": "Partenaires de co-branding dans l'alimentation et les boissons",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B ingredient buyers for mushroom extracts",
         "fr": "Acheteurs d'ingrédients B2B pour les extraits de champignons",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Farmer producer organizations for mushroom cultivation",
         "fr": "Organisations de producteurs agricoles pour la culture des champignons",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Medical practitioners to prescribe mushroom products",
         "fr": "Praticiens médicaux pour prescrire des produits à base de champignons",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International and export market channels",
         "fr": "Canaux de marché internationaux et d'exportation",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory approval for lesser-known mushroom ingredients",
         "fr": "Approbation réglementaire pour les ingrédients de champignons moins connus",

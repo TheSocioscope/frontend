@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754422684,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Elementa Foods es una empresa innovadora con sede en el Gran Buenos Aires, especializada en el desarrollo de harinas funcionales, en particular harina de altramuz, rica en proteínas y sin sabor residual amargo. Fundada por un grupo de antiguos profesionales de empresa, Elementa pretende crear productos alimentarios sostenibles y de alta calidad integrando conocimientos ancestrales con prácticas agrícolas modernas. Su misión se centra en mejorar la nutrición y adaptarse a los estilos de vida contemporáneos, fomentando al mismo tiempo las asociaciones locales y la sostenibilidad en la industria alimentaria.",
     "de": "Elementa Foods ist ein innovatives Unternehmen mit Sitz in Greater Buenos Aires, das sich auf die Entwicklung funktioneller Flours spezialisiert hat, insbesondere Lupinenflour, das reich an Proteinen und frei von bitterem Restgeschmack ist. Elementa wurde von einer Gruppe ehemaliger Unternehmensfachleute gegründet und zielt auf die Schaffung nachhaltiger, hochwertiger Lebensmittelprodukte durch die Integration von überliefertem Wissen und modernen landwirtschaftlichen Praktiken ab. Ihre Mission konzentriert sich auf die Verbesserung der Ernährung und die Anpassung an zeitgemäße Lebensweisen, wobei sie lokale Partnerschaften und Nachhaltigkeit in der Lebensmittelindustrie fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Benito"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://elementafoods.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Elementa Foods was founded by a group of former corporate professionals, including ex-Louis Dreyfus employees, starting with three people in a 300-square-meter office in Buenos Aires with self-financing.",
         "fr": "Elementa Foods a été fondée par un groupe d'anciens professionnels du secteur corporatif, dont d'ex-employés de Louis Dreyfus, débutant avec trois personnes dans un bureau de 300 mètres carrés à Buenos Aires avec un autofinancement.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "~2019-2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Elementa partnered with the CGNA genomics center in Temuco, Chile, to develop a non-GMO lupine variety with high protein content, low alkaloids, and a neutral flavor profile, also engaging local Mapuche producers.",
         "fr": "Elementa s'est associée au centre de génomique CGNA à Temuco, au Chili, pour développer une variété de lupin non-OGM à haute teneur en protéines, faible en alcaloïdes et au profil de saveur neutre, en impliquant également des producteurs Mapuche locaux.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "~2020-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company built a five-link innovation chain spanning field production, industrial processing (via third-party milling), R&D partnerships, and commercial operations, keeping sustainability and traceability as core pillars.",
         "fr": "L'entreprise a construit une chaîne d'innovation en cinq maillons couvrant la production agricole, la transformation industrielle (via une mouture par des tiers), les partenariats en R&D et les opérations commerciales, en maintenant la durabilité et la traçabilité comme piliers fondamentaux.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "within 5 years of founding",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Elementa reached its first retail shelves with products from major consumer brands, a milestone described by the founders as a major emotional and strategic validation of their model.",
         "fr": "Elementa a atteint ses premiers rayons de vente au détail avec des produits issus de grandes marques de consommation, une étape décrite par les fondateurs comme une validation à la fois émotionnelle et stratégique majeure de leur modèle.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "within 5 years of founding",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company expanded commercially across Latin America and beyond, with plant-based protein ingredients reaching markets in Chile, Brazil, Peru, Spain, the United States, and China.",
         "fr": "L'entreprise s'est développée commercialement à travers l'Amérique latine et au-delà, avec des ingrédients protéiques d'origine végétale atteignant des marchés au Chili, au Brésil, au Pérou, en Espagne, aux États-Unis et en Chine.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "present",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Elementa grew to over 60 direct employees and a broader network of 200-300 collaborators including scientists, field producers, and industrial partners, while pursuing Empresa B certification and holding a Great Place to Work certification.",
         "fr": "Elementa a grandi jusqu'à plus de 60 employés directs et un réseau élargi de 200 à 300 collaborateurs incluant des scientifiques, des producteurs agricoles et des partenaires industriels, tout en poursuivant la certification Empresa B et en détenant une certification Great Place to Work.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Functional legume-based ingredients for food industry",
         "fr": "Ingrédients fonctionnels à base de légumineuses pour l'industrie alimentaire",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaborative R&D with scientific institutions",
         "fr": "R&D collaborative avec des institutions scientifiques",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Non-GMO plant proteins from local producers",
         "fr": "Protéines végétales non-OGM provenant de producteurs locaux",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Partnership support for small and indigenous farmers",
         "fr": "Soutien aux partenariats pour les petits agriculteurs et les agriculteurs autochtones",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Sustainable low carbon footprint crop ingredients",
         "fr": "Ingrédients agricoles durables à faible empreinte carbone",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Support for startups developing protein-based products",
         "fr": "Soutien aux startups développant des produits à base de protéines",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Partnerships with scientific research centers globally",
         "fr": "Partenariats avec des centres de recherche scientifique à l'échelle mondiale",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local agricultural producers for legume cultivation",
         "fr": "Producteurs agricoles locaux pour la culture des légumineuses",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Industry partners for fazon ingredient processing",
         "fr": "Partenaires industriels pour le traitement des ingrédients fazon",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B clients developing plant-based food products",
         "fr": "Clients B2B développant des produits alimentaires à base de plantes",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Regulatory approvals for novel ingredients internationally",
         "fr": "Approbations réglementaires pour les nouveaux ingrédients à l'échelle internationale",

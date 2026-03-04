@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560998,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Queseria Ventimiglia comenzó una fábrica de quesos en 2009 como un hobby familiar en una granja, inspirada por los recuerdos de infancia de la comida tradicional. El negocio pasó de ser un hobby a pequeña escala a una quesería reconocida, que produce entre 15.000 y 20.000 litros de leche al mes. Sus prácticas hacen hincapié en la calidad y la sostenibilidad, utilizando métodos de pastoreo regenerativo. Sus quesos ganaron popularidad entre cocineros y consumidores, lo que les valió premios y reconocimientos en concursos internacionales. En la actualidad, pretenden aumentar su capacidad de producción y desarrollar una atracción turística en la granja.",
     "de": "Queseria Ventimiglia startete 2009 eine Käsefabrik als Familienhobby auf einem Bauernhof, inspiriert von Kindheitserinnerungen an traditionelle Lebensmittel. Das Unternehmen wuchs von einem kleinen Hobby zu einer anerkannten Käsefabrik heran, die monatlich etwa 15.000 bis 20.000 Liter Milch produziert. Sie legen Wert auf Qualität und Nachhaltigkeit in ihren Praktiken und verwenden regenerative Weidemethoden. Ihr Käse wurde bei Köchen und Verbrauchern immer beliebter, was zu Auszeichnungen und Anerkennung bei internationalen Wettbewerben führte. Heute wollen sie ihre Produktionskapazität steigern und eine Touristenattraktion auf dem Hof entwickeln."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Couly"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "cdg6Ysm9mzs",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mauricio and his brothers purchased an abandoned farm in Cipolletti, Patagonia, initially as a family hobby project. They began experimenting with a single cow named Lourdes, producing dulce de leche and mozzarella.",
         "fr": "Mauricio et ses frères ont acheté une ferme abandonnée à Cipolletti, en Patagonie, initialement comme projet familial de loisir. Ils ont commencé à expérimenter avec une seule vache nommée Lourdes, produisant du dulce de leche et de la mozzarella.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2009-2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The operation expanded from one cow to include 20 sheep from Neuquén and three goats acquired from a local school. Mauricio took cheesemaking courses in Buenos Aires and began developing more complex cheeses.",
         "fr": "L'exploitation s'est étendue d'une vache à 20 moutons de Neuquén et trois chèvres acquises auprès d'une école locale. Mauricio a suivi des cours de fromagerie à Buenos Aires et a commencé à développer des fromages plus complexes.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2012-2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first formal cheese facility was built, replacing the garage setup, and was subsequently expanded five times. All regulatory permits and health authorizations were obtained despite the lack of existing frameworks for artisanal cheesemaking in the region.",
         "fr": "La première installation fromagère formelle a été construite, remplaçant l'atelier dans le garage, puis agrandie à cinq reprises. Tous les permis réglementaires et autorisations sanitaires ont été obtenus malgré l'absence de cadres existants pour la fabrication artisanale de fromage dans la région.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2015-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Prominent Buenos Aires chefs including Narda Lepes began consuming and promoting Ventimiglia cheeses, driving national commercial expansion. The brand developed a distinctive identity with proprietary cheese names like Patagonzola and Cuatro Esquinas.",
         "fr": "De grands chefs de Buenos Aires, dont Narda Lepes, ont commencé à consommer et à promouvoir les fromages Ventimiglia, stimulant l'expansion commerciale nationale. La marque a développé une identité distinctive avec des noms de fromages exclusifs tels que Patagonzola et Cuatro Esquinas.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ventimiglia won awards in international competitions in Brazil and Norway for two consecutive years, placing among the top 100 of 5,000 cheeses entered. The herd grew to 50 cows, 130 goats, and 50 sheep, processing 15,000–20,000 liters of milk per month.",
         "fr": "Ventimiglia a remporté des prix lors de concours internationaux au Brésil et en Norvège pendant deux années consécutives, se classant parmi les 100 meilleurs sur 5 000 fromages présentés. Le troupeau est passé à 50 vaches, 130 chèvres et 50 moutons, traitant 15 000 à 20 000 litres de lait par mois.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2023-present",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A major expansion of the cheese facility is underway to increase aging capacity and enable agritourism. The operation employs approximately 10–12 full-time staff across the dairy, cheese plant, and administration.",
         "fr": "Une expansion majeure de l'installation fromagère est en cours pour augmenter la capacité d'affinage et permettre l'agritourisme. L'exploitation emploie environ 10 à 12 employés à temps plein répartis entre la laiterie, l'atelier fromager et l'administration.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisan cheeses with Patagonian identity",
         "fr": "Fromages artisanaux à l'identité patagonienne",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Specialty cheeses sold to restaurants nationwide",
         "fr": "Fromages de spécialité vendus aux restaurants à l'échelle nationale",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Future agrotourism visits to farm and dairy",
         "fr": "Futures visites d'agrotourisme à la ferme et à la laiterie",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Training for new artisan cheesemakers via association",
         "fr": "Formation de nouveaux fromagers artisanaux via une association",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Sustainable regenerative animal feed management",
         "fr": "Gestion durable et régénérative de l'alimentation animale",
@@ -161,7 +151,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export markets for Patagonian artisan cheeses",
         "fr": "Marchés d'exportation pour les fromages artisanaux de Patagonie",
@@ -170,7 +160,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Agrotourism visitors to experience cheese production",
         "fr": "Visiteurs d'agrotourisme pour découvrir la production fromagère",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Gastronomy chefs and curated food festivals",
         "fr": "Chefs gastronomiques et festivals culinaires sélectionnés",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Specialized dairy genetics for Patagonian conditions",
         "fr": "Génétique laitière spécialisée pour les conditions de Patagonie",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Clearer artisan cheesemaking regulations and permits",
         "fr": "Réglementations et permis plus clairs pour la fabrication fromagère artisanale",

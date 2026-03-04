@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739451465,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "CoopCircuits es una cooperativa de interés colectivo que pretende reconectar a productores y consumidores a través de una plataforma digital diseñada para la venta a corta distancia. Lanzada en marzo de 2020, se inspira en un proyecto que comenzó en 2012 en Victoria (Australia), donde los horticultores buscaban vender directamente sus productos. La iniciativa combina el software de código abierto con la producción agrícola local, fomentando la resiliencia y la tendencia de comer localmente, que ha ganado tracción tras el COVID.\n\nLa plataforma funciona con el software Open Food Network, que se comparte internacionalmente y permite a diversas partes interesadas -como productores individuales, grupos de compra, autoridades locales y tiendas de comestibles- gestionar sus ventas y distribución de forma eficiente. Los usuarios pueden crear sus tiendas en línea gratuitamente, siempre que se adhieran a una carta de valores que garantice precios justos tanto para los productores como para los consumidores.\n\nA pesar de su crecimiento y del establecimiento de una comunidad de apoyo, CoopCircuits se enfrenta a retos como la inercia en la toma de decisiones y la necesidad de una estrategia comercial más definida. La iniciativa se posiciona como una respuesta a las disfunciones del sistema alimentario actual, con el objetivo de crear una red de distribución sostenible que beneficie tanto a los productores como a los consumidores, al tiempo que fomenta las economías locales.\n",
     "de": "CoopCircuits ist eine gemeinnützige Genossenschaft, die Erzeuger und Verbraucher über eine digitale Plattform für Kurzstreckenverkäufe wieder miteinander verbinden will. Die im März 2020 gestartete Initiative wurde von einem Projekt inspiriert, das 2012 in Victoria, Australien, begann, wo Marktgärtner ihre Produkte direkt verkaufen wollten. Die Initiative verbindet Open-Source-Software mit lokaler landwirtschaftlicher Produktion und fördert so die Widerstandsfähigkeit und den Trend zum Essen vor Ort, der nach dem COVID an Zugkraft gewonnen hat.\n\nDie Plattform basiert auf der Software des Open Food Network, die international geteilt wird und es verschiedenen Akteuren - wie einzelnen Produzenten, Einkaufsgruppen, lokalen Behörden und Großhändlern - ermöglicht, ihren Verkauf und Vertrieb effizient zu verwalten. Die Nutzer können ihre Online-Shops kostenlos einrichten, sofern sie sich an eine Wertschöpfungskette halten, die faire Preise für Produzenten und Verbraucher gewährleistet.\n\nTrotz seines Wachstums und des Aufbaus einer unterstützenden Gemeinschaft steht CoopCircuits vor Herausforderungen wie der Trägheit bei der Entscheidungsfindung und dem Bedarf an einer genauer definierten Geschäftsstrategie. Die Initiative ist als Antwort auf die Dysfunktionen des derzeitigen Lebensmittelsystems positioniert und zielt auf die Schaffung eines nachhaltigen Vertriebsnetzes ab, das sowohl den Erzeugern als auch den Verbrauchern zugute kommt und gleichzeitig die lokale Wirtschaft fördert.\n"
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Batiot"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://coopcircuits.fr/",
   "yt": "dlFEs_8XGeQ",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Open Food Network was born in the state of Victoria, Australia, when a group of market gardeners looking to organize direct sales began writing lines of code. The software was published under an open license (AGPL V3), quickly attracting a global community of developers and users.",
         "fr": "Open Food Network est né dans l'État de Victoria, en Australie, lorsqu'un groupe de maraîchers cherchant à organiser des ventes directes a commencé à écrire des lignes de code. Le logiciel a été publié sous une licence ouverte (AGPL V3), attirant rapidement une communauté mondiale de développeurs et d'utilisateurs.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Open Food Network platform was deployed in France under the association Open Food France, a law 1901 association. Users could access the platform on a free-contribution basis, without support included.",
         "fr": "La plateforme Open Food Network a été déployée en France sous l'association Open Food France, une association loi 1901. Les utilisateurs pouvaient accéder à la plateforme sur la base d'une contribution libre, sans assistance incluse.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "March 2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "CoopCircuit was officially created as a cooperative of collective interest (SCIC), with statutes filed in March 2020. It was founded by 20 founding members, more than half of whom were legal entities organizing short food supply chains across France.",
         "fr": "CoopCircuit a été officiellement créée en tant que société coopérative d'intérêt collectif (SCIC), avec des statuts déposés en mars 2020. Elle a été fondée par 20 membres fondateurs, dont plus de la moitié étaient des personnes morales organisant des circuits courts alimentaires à travers la France.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Bérangère Bathiau joined CoopCircuit in summer 2020 to lead communication and community development. The COVID-19 context drove a spike in interest for local food circuits and digital tools, establishing a lasting upward growth trend of around 20% per year.",
         "fr": "Bérangère Bathiau a rejoint CoopCircuit à l'été 2020 pour piloter la communication et le développement de la communauté. Le contexte de la COVID-19 a provoqué un pic d'intérêt pour les circuits alimentaires locaux et les outils numériques, établissant une tendance de croissance durable d'environ 20 % par an.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "At the 2023 General Assembly, CoopCircuit voted to raise its platform commission from 1% to 3.5% of online turnover to better finance the shared commons. The new pricing came into effect on January 1st of the following year.",
         "fr": "Lors de l'Assemblée Générale 2023, CoopCircuit a voté pour relever sa commission de plateforme de 1 % à 3,5 % du chiffre d'affaires en ligne afin de mieux financer les biens communs partagés. La nouvelle tarification est entrée en vigueur le 1er janvier de l'année suivante.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Open-source platform for short food circuit sales",
         "fr": "Plateforme open-source pour la vente en circuit court alimentaire",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Shared digital infrastructure for diverse food actors",
         "fr": "Infrastructure numérique partagée pour divers acteurs de l'alimentation",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Online storefronts for producers and food collectives",
         "fr": "Boutiques en ligne pour les producteurs et les collectifs alimentaires",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "User support and guide for platform management",
         "fr": "Accompagnement des utilisateurs et guide pour la gestion de la plateforme",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaboration with research bodies on local food",
         "fr": "Collaboration avec des organismes de recherche sur l'alimentation locale",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Digital services for local food network projects",
         "fr": "Services numériques pour les projets de réseaux alimentaires locaux",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Networks supporting agroecological producers (CIVAM, GAB)",
         "fr": "Réseaux soutenant les producteurs agroécologiques (CIVAM, GAB)",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Short circuit organizers to use the platform",
         "fr": "Organisateurs de circuits courts pour utiliser la plateforme",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "European funds via Open Food Europe",
         "fr": "Fonds européens via Open Food Europe",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaboration with research bodies like INRAE",
         "fr": "Collaboration avec des organismes de recherche comme l'INRAE",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand interoperability via Data Food Consortium",
         "fr": "Élargir l'interopérabilité via le Data Food Consortium",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Contributor developers and engaged community members",
         "fr": "Développeurs contributeurs et membres engagés de la communauté",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754993512,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en la piscicultura sostenible, especialmente de truchas, a través de PezFresco, una empresa con más de 40 años de experiencia. La empresa ha transformado sus prácticas para dar prioridad a la responsabilidad medioambiental, incluida la conservación del agua y la gestión de residuos. Pez Fresco hace hincapié en la producción de trucha blanca natural, de la que exporta el 85% de su producción, al tiempo que realiza contribuciones sociales, como donaciones a bancos de alimentos y la creación de productos de valor añadido para los mercados locales.        ",
     "de": "Die Initiative konzentriert sich auf die nachhaltige Fischzucht, insbesondere von Forellen, durch PezFresco, ein Unternehmen mit über 40 Jahren Erfahrung. Das Unternehmen hat seine Praktiken umgestellt, um der Umweltverantwortung Vorrang einzuräumen, einschließlich Wasserschutz und Abfallmanagement. Pez Fresco legt den Schwerpunkt auf die Produktion von naturbelassenen weißen Forellen, die zu 85 % exportiert werden, und leistet gleichzeitig einen sozialen Beitrag, indem es z. B. an Lebensmittelbanken spendet und Produkte mit Mehrwert für den lokalen Markt herstellt.        "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Bermúdez Torres"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.pezfrescosas.com/sostenibilidad",
   "yt": "ZUdh-PCiiSI",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1989",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Pez Fresco was founded as a fish farming company in the Risaralda region of Colombia, originally owned by the Carvajal family group.",
         "fr": "Pez Fresco a été fondée en tant que société d'aquaculture dans la région de Risaralda en Colombie, appartenant à l'origine au groupe familial Carvajal.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1997",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Pez Fresco began exporting to the United States, starting at 10% of production and gradually increasing export volume over subsequent years.",
         "fr": "Pez Fresco a commencé à exporter vers les États-Unis, débutant à 10 % de la production et augmentant progressivement le volume des exportations au fil des années suivantes.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2003",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Exports reached approximately 90% of total production, consolidating the US market including major clients like Costco, hotels, and restaurants.",
         "fr": "Les exportations ont atteint environ 90 % de la production totale, consolidant le marché américain avec des clients majeurs tels que Costco, des hôtels et des restaurants.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2006-2007",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "50 hectares of the company's 104-hectare property were donated to the local water utility as part of an environmental commitment, with the remaining land dedicated to forest preservation.",
         "fr": "50 hectares de la propriété de 104 hectares de l'entreprise ont été donnés à la société locale des eaux dans le cadre d'un engagement environnemental, le reste des terres étant dédié à la préservation des forêts.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pez Fresco obtained the BAP international certification for best aquaculture practices, covering social, environmental, and animal welfare components.",
         "fr": "Pez Fresco a obtenu la certification internationale BAP pour les meilleures pratiques aquacoles, couvrant les volets social, environnemental et bien-être animal.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Oscar Murillo returned to Pez Fresco as part-owner after a 15-year absence, initiating a full sustainability transformation including water treatment systems, circular economy projects, and environmental compliance with the regional authority CARDER.",
         "fr": "Oscar Murillo est revenu chez Pez Fresco en tant que copropriétaire après une absence de 15 ans, initiant une transformation complète vers la durabilité, incluant des systèmes de traitement des eaux, des projets d'économie circulaire et la mise en conformité environnementale avec l'autorité régionale CARDER.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh trout products for local Pereira market",
         "fr": "Produits frais de truite pour le marché local de Pereira",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Fish oil sold as biodiesel and animal feed",
         "fr": "Huile de poisson vendue comme biocarburant et aliment pour animaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic compost from fish sludge and waste",
         "fr": "Compost organique issu des boues et déchets de poisson",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Food donations to food banks and elderly",
         "fr": "Dons alimentaires aux banques alimentaires et aux personnes âgées",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Value-added products: nuggets, burgers, milanesas",
         "fr": "Produits à valeur ajoutée : nuggets, burgers, milanesas",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Sustainable aquaculture model with BAP certification",
         "fr": "Modèle d'aquaculture durable avec certification BAP",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Suppliers meeting environmental and social standards",
         "fr": "Fournisseurs respectant les normes environnementales et sociales",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New export markets beyond USA",
         "fr": "Nouveaux marchés d'exportation au-delà des États-Unis",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "School feeding program PAE partnerships",
         "fr": "Partenariats avec le programme d'alimentation scolaire PAE",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Increase local Colombian fish consumption",
         "fr": "Augmenter la consommation locale de poisson colombien",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Circular economy product development",
         "fr": "Développement de produits pour l'économie circulaire",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Secure environmental certification compliance",
         "fr": "Assurer la conformité aux certifications environnementales",

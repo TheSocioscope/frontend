@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "paraguay"
-  ],
+  "continent": ["south-america"],
+  "country": ["paraguay"],
   "createdAt": 1754384375,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Banco de Alimentos de Paraguay, creado en la década de 1990 y formalizado en 2004, tiene como objetivo combatir el despilfarro de alimentos y el hambre. Con un equipo dedicado de seis personas, recogen y distribuyen excedentes de alimentos a más de 100 organizaciones, que atienden principalmente a comunidades vulnerables. Sus operaciones se basan en donaciones, asociaciones y cooperación internacional, centrándose en la logística y la promoción para mejorar su impacto. Sus planes de futuro incluyen ampliar los centros de recogida y mejorar la capacidad de procesamiento de alimentos.",
     "de": "Die Banco de Alimentos in Paraguay, die 1990 gegründet und 2004 formalisiert wurde, zielt darauf ab, Lebensmittelabfälle und Hunger zu bekämpfen. Mit einem engagierten Team von sechs Mitarbeitern sammeln und verteilen sie Lebensmittelüberschüsse an über 100 Organisationen, die vor allem gefährdete Gemeinden bedienen. Ihre Operationen basieren auf Spenden, Partnerschaften und internationaler Zusammenarbeit, wobei sie sich auf Logistik und Advocacy konzentrieren, um ihre Wirkung zu steigern. Zukünftige Pläne beinhalten die Erweiterung von Sammelzentren und die Verbesserung der Lebensmittelverarbeitungskapazitäten."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Rivas"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://bancodealimentos.org.py/nosotros/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1996",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "A group of enthusiastic volunteers, influenced by the experience of food banks in Italy, began informal food collection and distribution operations in Paraguay without any legal formalization.",
         "fr": "Un groupe de bénévoles enthousiastes, inspirés par l'expérience des banques alimentaires en Italie, a commencé des opérations informelles de collecte et de distribution de nourriture au Paraguay, sans aucune formalisation juridique.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2004",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Fundación Banco de Alimentos was formally constituted as a nonprofit organization by executive decree, becoming the only food bank operating at the national level in Paraguay.",
         "fr": "La Fundación Banco de Alimentos a été officiellement constituée en tant qu'organisation à but non lucratif par décret exécutif, devenant la seule banque alimentaire opérant à l'échelle nationale au Paraguay.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2012",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The foundation became a member of the Global Food Banking Network, through which it receives subventions, monitoring, methodological tools, and capacity-building support for its operations.",
         "fr": "La fondation est devenue membre du Réseau mondial des banques alimentaires, par l'intermédiaire duquel elle reçoit des subventions, un suivi, des outils méthodologiques et un soutien au renforcement des capacités pour ses opérations.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "~2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The foundation reactivated daily fruit and vegetable collection inside the Mercado de Abasto, driven by a group of women from Bañado Sur, achieving that 70% of annual food deliveries are now fresh produce.",
         "fr": "La fondation a réactivé la collecte quotidienne de fruits et légumes au sein du Mercado de Abasto, portée par un groupe de femmes du Bañado Sur, permettant que 70 % des livraisons alimentaires annuelles soient désormais des produits frais.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The foundation opened its first distribution and storage center in Alto Paraná, supported by a private company, as part of a strategy to decentralize operations and build a national network of food banks.",
         "fr": "La fondation a inauguré son premier centre de distribution et de stockage à Alto Paraná, soutenu par une entreprise privée, dans le cadre d'une stratégie visant à décentraliser les opérations et à construire un réseau national de banques alimentaires.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "For the first time, the foundation received state funding through Itaipú Binacional after successfully applying to a national call, while also working toward the regulation of Law 6601 on food donation to incentivize greater corporate participation.",
         "fr": "Pour la première fois, la fondation a reçu un financement public d'Itaipú Binacional après avoir répondu avec succès à un appel national, tout en œuvrant à la réglementation de la loi 6601 sur le don alimentaire afin d'encourager une plus grande participation des entreprises.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recovery of surplus food from companies",
         "fr": "Récupération des surplus alimentaires auprès des entreprises",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Monthly food kit delivery to vulnerable organizations",
         "fr": "Livraison mensuelle de paniers alimentaires aux organisations vulnérables",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh produce rescue from field producers",
         "fr": "Sauvetage de produits frais auprès des producteurs locaux",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Food safety and nutrition workshops for communities",
         "fr": "Ateliers sur la sécurité alimentaire et la nutrition pour les communautés",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Donation receipts for corporate tax deductions",
         "fr": "Reçus de dons pour les déductions fiscales des entreprises",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Monitoring and reporting on food distribution impact",
         "fr": "Suivi et rapport sur l'impact de la distribution alimentaire",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate donors to manage food surplus",
         "fr": "Donateurs corporatifs pour gérer les surplus alimentaires",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers for daily operations and collections",
         "fr": "Bénévoles pour les opérations quotidiennes et les collectes",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Food producers donating agricultural surplus",
         "fr": "Producteurs alimentaires faisant don de surplus agricoles",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Project-based international cooperation funding",
         "fr": "Financement de coopération internationale basé sur des projets",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulation of food donation law 6601",
         "fr": "Réglementation de la loi sur le don alimentaire 6601",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expansion to new departments via collection centers",
         "fr": "Extension vers de nouveaux départements via des centres de collecte",

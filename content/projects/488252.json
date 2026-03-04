@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754987330,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa pretende apoyar a los pequeños productores del municipio mejorando sus prácticas agrícolas y ganaderas mediante la participación de la comunidad. Dirigida por la Oficina de Desarrollo Económico y Medio Ambiente, se centra en la promoción de métodos de producción sostenibles, la mejora de la calidad de la leche y la prestación de servicios veterinarios gratuitos. El programa hace hincapié en la educación y la formación, ayudando a los productores a adaptarse a retos como el cambio climático, al tiempo que fomenta la autosuficiencia y la dignidad en su trabajo.   ",
     "de": "Die Initiative zielt darauf ab, Kleinerzeuger in der Gemeinde zu unterstützen, indem sie ihre landwirtschaftlichen und viehwirtschaftlichen Praktiken durch die Einbeziehung der Gemeinschaft verbessert. Unter der Leitung des Amtes für wirtschaftliche Entwicklung und Umwelt konzentriert sich die Initiative auf die Förderung nachhaltiger Produktionsmethoden, die Verbesserung der Milchqualität und die Bereitstellung kostenloser tierärztlicher Dienste. Das Programm legt den Schwerpunkt auf Bildung und Ausbildung und hilft den Erzeugern, sich an Herausforderungen wie den Klimawandel anzupassen und gleichzeitig die Selbstversorgung und die Würde ihrer Arbeit zu fördern.   "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Andres"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/productosputumayo1/?hl=es",
   "yt": "PJFVBASoLkA",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Late 1990s - Early 2000s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Plan Colombia brought significant international cooperation resources to the Putumayo region, incentivizing farmers to replace coca crops with alternatives like palmito and Amazonian fruits such as arazá, cocona, and copoazú.",
         "fr": "Le Plan Colombie a apporté d'importantes ressources de coopération internationale à la région du Putumayo, incitant les agriculteurs à remplacer les cultures de coca par des alternatives telles que le palmito et des fruits amazoniens comme l'arazá, la cocona et le copoazú.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2006",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Agroimpa was formally founded in October 2006, operating from a former water bottling plant. By March 2007, their products were already listed in seven Carrefour stores in northern Bogotá.",
         "fr": "Agroimpa a été officiellement fondée en octobre 2006, opérant depuis une ancienne usine d'embouteillage d'eau. Dès mars 2007, leurs produits étaient déjà référencés dans sept magasins Carrefour du nord de Bogotá.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2008",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A sharp drop in raw material supply occurred mid-2008 when producers sold their land to invest in pyramid schemes, forcing Agroimpa to exit Carrefour and nearly collapse the business.",
         "fr": "Une forte baisse de l'approvisionnement en matières premières s'est produite mi-2008 lorsque des producteurs ont vendu leurs terres pour investir dans des systèmes pyramidaux, forçant Agroimpa à quitter Carrefour et menaçant l'entreprise d'effondrement.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Agroimpa helped establish the Asofrumayo producer association, starting with nine families. The French NGO Acción contra el Hambre later supported the formalization of a 10-year alliance between Agroimpa and Asofrumayo, signed in 2019.",
         "fr": "Agroimpa a contribué à la création de l'association de producteurs Asofrumayo, en démarrant avec neuf familles. L'ONG française Acción contra el Hambre a ensuite soutenu la formalisation d'une alliance de 10 ans entre Agroimpa et Asofrumayo, signée en 2019.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2019 - 2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Agroimpa successfully obtained Fondo Emprender funding after years of refusing corrupt practices, and restructured as a legal entity. The association grew to 30 families producing over 16,000 kg per harvest through improved agroforestry practices.",
         "fr": "Agroimpa a réussi à obtenir un financement du Fondo Emprender après des années de refus de pratiques corrompues, et s'est restructurée en entité juridique. L'association est passée à 30 familles produisant plus de 16 000 kg par récolte grâce à l'amélioration des pratiques agroforestières.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A government purchase order of 17 tonnes of pulp was largely cancelled due to a corruption scandal, leaving Agroimpa with unsold inventory, unpaid producers, and significant financial strain.",
         "fr": "Une commande gouvernementale de 17 tonnes de pulpe a été largement annulée en raison d'un scandale de corruption, laissant Agroimpa avec des stocks invendus, des producteurs impayés et de graves difficultés financières.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Transformation of Amazonian fruits into products",
         "fr": "Transformation de fruits amazoniens en produits",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Guaranteed fruit purchase from 30 associated families",
         "fr": "Achat garanti de fruits auprès de 30 familles associées",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Fruit waste repurposed as agricultural compost",
         "fr": "Déchets de fruits réutilisés comme compost agricole",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training and capacity building for producers",
         "fr": "Formation technique et renforcement des capacités des producteurs",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Value chain model for illicit crop substitution",
         "fr": "Modèle de chaîne de valeur pour la substitution des cultures illicites",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access via local, regional and airport stores",
         "fr": "Accès au marché via les commerces locaux, régionaux et les boutiques d'aéroport",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New commercial buyers for fruit products",
         "fr": "Nouveaux acheteurs commerciaux pour les produits fruitiers",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies for export and internationalization",
         "fr": "Alliés pour l'exportation et l'internationalisation",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technical knowledge on Amazonian fruit cultivation",
         "fr": "Connaissances techniques sur la culture des fruits amazoniens",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and public programs for growth",
         "fr": "Subventions et programmes publics pour la croissance",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More families substituting coca crops",
         "fr": "Plus de familles substituant les cultures de coca",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Green certification for fruits and products",
         "fr": "Certification verte pour les fruits et les produits",

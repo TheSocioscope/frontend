@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754663362,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Harriets of Hove es un supermercado ecológico situado en Brighton, centrado en productos sostenibles. Funciona como una tienda de comestibles rellenable, que permite a los clientes llevar sus propios envases para comprar a granel diversos artículos de despensa. Fundada hace seis años, la iniciativa pretende reducir los residuos plásticos y fomentar el consumo sostenible. Harriets of Hove colabora con empresas locales en esta tienda de productos ecológicos. Recientemente, ha evolucionado hasta convertirse en un centro de sostenibilidad, ampliando sus servicios para incluir ofertas B2B y eventos comunitarios.",
     "de": "Harriets of Hove ist ein Öko-Supermarkt in Brighton, der sich auf nachhaltige Produkte konzentriert. Er funktioniert wie ein refillable grocery store, so dass die Kunden ihre eigenen Behälter mitbringen können, um verschiedene Hausratartikel in großen Mengen zu kaufen. Die Initiative wurde vor sechs Jahren gegründet und zielt auf die Reduzierung von Plastikmüll und die Förderung eines nachhaltigen Konsums ab. Harriets of Hove arbeitet in diesem biologisch basierten Laden mit lokalen Unternehmen zusammen. In letzter Zeit hat er sich zu einem Nachhaltigkeitszentrum entwickelt und seine Dienstleistungen auf B2B-Angebote und Gemeindeveranstaltungen ausgeweitet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Mockford"
     }
   ],
-  "thematic": [
-    "consumption-and-production-patterns"
-  ],
+  "thematic": ["consumption-and-production-patterns"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.harrietsofhove.com/",
   "yt": "UTju--d64Eg",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Harriet's of Hove was founded after the owner had a literal dream about opening a refill store. The business went from concept to opening in just 12 weeks, starting as a plastic-free pantry.",
         "fr": "Harriet's of Hove a été fondée après que la propriétaire a littéralement rêvé d'ouvrir un magasin de recharge. L'entreprise est passée du concept à l'ouverture en seulement 12 semaines, en débutant comme une épicerie sans plastique.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The business faced a major crisis when the COVID-19 pandemic hit, just one year after opening. The store remained open throughout but was forced to rapidly pivot and adapt its operations.",
         "fr": "L'entreprise a traversé une crise majeure lorsque la pandémie de COVID-19 a frappé, un an seulement après l'ouverture. Le magasin est resté ouvert tout au long de cette période, mais a été contraint de pivoter rapidement et d'adapter ses opérations.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Harriet's relocated from a side street to a main shopping street in Brighton, gaining more customers but requiring significant personal financial investment after banks refused a loan. The move also introduced a new event space.",
         "fr": "Harriet's a déménagé d'une rue secondaire vers une rue commerçante principale à Brighton, attirant davantage de clients mais nécessitant un investissement financier personnel important après le refus des banques d'accorder un prêt. Le déménagement a également introduit un nouvel espace événementiel.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The business received a council-funded cargo bike through the Brighton and Hove City Council accelerator program, enabling carbon-free deliveries to homes and businesses. Over 40,000 container refills were recorded in the first year at the new location.",
         "fr": "L'entreprise a reçu un vélo cargo financé par la municipalité dans le cadre du programme accélérateur du conseil municipal de Brighton and Hove, permettant des livraisons sans carbone aux particuliers et aux entreprises. Plus de 40 000 recharges de contenants ont été enregistrées au cours de la première année dans le nouveau local.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A formal B2B platform was launched on the website, and the store rebranded as a Sustainable Living Hub. After five years of losses or break-even, the business achieved its first 13 consecutive months of profitability.",
         "fr": "Une plateforme B2B officielle a été lancée sur le site web, et le magasin a été repositionné en tant que Hub de vie durable. Après cinq années de pertes ou d'équilibre financier, l'entreprise a atteint ses 13 premiers mois consécutifs de rentabilité.",
@@ -107,7 +97,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The store reached 30 business customers and began targeting 90 by year end, adding one to two new businesses per week. A second council grant of £8,000 funded new back-of-house shelving.",
         "fr": "Le magasin a atteint 30 clients professionnels et a commencé à viser 90 d'ici la fin de l'année, en ajoutant une à deux nouvelles entreprises par semaine. Une deuxième subvention municipale de 8 000 £ a financé de nouveaux rayonnages en arrière-boutique.",
@@ -118,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Refillable grocery shopping by weight",
         "fr": "Courses d'épicerie rechargeables au poids",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic and local food products",
         "fr": "Produits alimentaires biologiques et locaux",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B bulk eco cleaning product delivery",
         "fr": "Livraison en gros de produits d'entretien écologiques B2B",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Event space for sustainability and wellness",
         "fr": "Espace événementiel dédié au développement durable et au bien-être",
@@ -154,7 +144,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Guidance and mentorship for sustainable startups",
         "fr": "Accompagnement et mentorat pour les startups durables",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Recycling collection point for niche materials",
         "fr": "Point de collecte pour le recyclage de matériaux de niche",
@@ -174,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "More local businesses for B2B platform",
         "fr": "Plus d'entreprises locales pour la plateforme B2B",
@@ -183,7 +173,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Treble home delivery customer base",
         "fr": "Tripler la clientèle de livraison à domicile",
@@ -192,7 +182,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants to support operational growth",
         "fr": "Subventions pour soutenir la croissance opérationnelle",
@@ -201,7 +191,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Wider community engagement in sustainable living",
         "fr": "Engagement communautaire plus large en faveur d'un mode de vie durable",
@@ -210,7 +200,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Reliable ethical wholesaler partnerships",
         "fr": "Partenariats fiables avec des grossistes éthiques",
@@ -219,7 +209,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data collection on sustainability impact",
         "fr": "Collecte de données sur l'impact environnemental",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754568929,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Amazing Grace Centre, fundado en 2016, es una organización comunitaria de Vihiga (Kenia) dedicada a empoderar a chicas jóvenes de entre 14 y 24 años. Lanzada durante la pandemia del COVID-19, la iniciativa se centra en la tutoría, la educación y el empoderamiento económico a través de programas de habilidades para la vida, STEM, agroindustria y salud sexual reproductiva. Al fomentar la autosuficiencia y romper el ciclo de la pobreza, el Centro aspira a crear mujeres jóvenes seguras de sí mismas e independientes que puedan alcanzar sus sueños.  ",
     "de": "Das 2016 gegründete Amazing Grace Centre ist eine gemeindebasierte Organisation in Vihiga, Kenia, die sich dem Empowerment junger Mädchen im Alter von 14 bis 24 Jahren widmet. Die Initiative, die während der COVID-19-Pandemie ins Leben gerufen wurde, konzentriert sich auf Mentoring, Bildung und wirtschaftliche Stärkung durch Programme in den Bereichen Lebenskompetenzen, STEM, Agrarwirtschaft und sexuelle Reproduktionsgesundheit. Durch die Förderung der Selbstständigkeit und das Durchbrechen des Armutszyklus will das Zentrum selbstbewusste, unabhängige junge Frauen schaffen, die ihre Träume verwirklichen können.  "
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Awinja"
     }
   ],
-  "thematic": [
-    "equality-diversity-studies-and-social-justice",
-    "education"
-  ],
+  "thematic": ["equality-diversity-studies-and-social-justice", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.amazinggracekenya.org/contact-us",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Amazing Grace Center Kenya was formally registered as a community-based organization with the Ministry of Labor Social Security Services. However, technical challenges prevented active operations from beginning immediately.",
         "fr": "Amazing Grace Center Kenya a été officiellement enregistrée en tant qu'organisation communautaire auprès du Ministère du Travail et des Services de Sécurité Sociale. Cependant, des difficultés techniques ont empêché le début immédiat des opérations actives.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The organization began active programming during the COVID-19 pandemic, launching mentorship sessions for girls who were staying home from school. The first cohort started with groups of around 30 students.",
         "fr": "L'organisation a lancé ses programmes actifs pendant la pandémie de COVID-19, en démarrant des sessions de mentorat pour les filles restant à la maison en raison de la fermeture des écoles. La première cohorte a débuté avec des groupes d'environ 30 élèves.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Attendance grew from an initial cohort of 30 students to 70-80 participants per holiday session, with approximately 200-300 girls having passed through the program in total.",
         "fr": "La participation est passée d'une cohorte initiale de 30 élèves à 70-80 participants par session de vacances, avec environ 200 à 300 filles ayant suivi le programme au total.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Key partnerships were established with Inspire Her STEM, Bioversity International for climate-smart farming and seed supply, and Waste No Talent Kenya, which provides financial support for high-performing girls.",
         "fr": "Des partenariats clés ont été établis avec Inspire Her STEM, Bioversity International pour l'agriculture intelligente face au climat et la fourniture de semences, ainsi qu'avec Waste No Talent Kenya, qui apporte un soutien financier aux filles les plus méritantes.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first cohort of girls who joined in 2020 graduated from secondary school, with all participants qualifying for university entry, including students pursuing STEM-related courses such as radiology, nursing, and data science.",
         "fr": "La première cohorte de filles ayant rejoint le programme en 2020 a obtenu son diplôme de l'enseignement secondaire, toutes les participantes ayant satisfait aux conditions d'entrée à l'université, y compris des étudiantes s'orientant vers des filières STEM telles que la radiologie, les soins infirmiers et la science des données.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-future",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The organization identified land for a permanent physical center estimated to cost US$40,000, and is seeking full-time paid staff to replace the current volunteer-only model of approximately 20 community volunteers.",
         "fr": "L'organisation a identifié un terrain pour un centre physique permanent estimé à 40 000 USD, et recherche du personnel salarié à temps plein pour remplacer le modèle actuel basé uniquement sur le bénévolat, avec environ 20 volontaires communautaires.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Mentorship and life skills for girls aged 14-24",
         "fr": "Mentorat et compétences de vie pour les filles âgées de 14 à 24 ans",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Climate smart vertical farming training at home",
         "fr": "Formation en agriculture verticale intelligente face au climat à domicile",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agribusiness and financial literacy skills program",
         "fr": "Programme de compétences en agroalimentaire et en littératie financière",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Reusable sanitary products for girls in school",
         "fr": "Produits sanitaires réutilisables pour les filles scolarisées",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demo garden with home visit follow-up",
         "fr": "Jardin de démonstration avec suivi à domicile",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "African indigenous seed bank for food sustainability",
         "fr": "Banque de semences indigènes africaines pour la durabilité alimentaire",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "US$40,000 to build own physical center",
         "fr": "40 000 USD pour construire notre propre centre physique",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Full-time paid staff members",
         "fr": "Membres du personnel rémunérés à temps plein",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "University scholarship program collaborators",
         "fr": "Collaborateurs pour le programme de bourses universitaires",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donors to sustain holiday mentorship programs",
         "fr": "Donateurs pour soutenir les programmes de mentorat des vacances",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "High quality indigenous African vegetable seeds",
         "fr": "Semences de légumes africains indigènes de haute qualité",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More girls enrolled in secondary school",
         "fr": "Plus de filles inscrites dans l'enseignement secondaire",

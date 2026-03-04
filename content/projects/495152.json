@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-africa"
-  ],
-  "country": [
-    "morocco"
-  ],
+  "continent": ["north-africa"],
+  "country": ["morocco"],
   "createdAt": 1755007639,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Niya Casablanca, el primer restaurante vegano de Marruecos, forma parte de una iniciativa internacional centrada en proyectos de alimentación sostenible. El restaurante pretende transformar los hábitos alimentarios fomentando el consumo ético y la concienciación medioambiental. A través de una cocina vegana innovadora, Niya pretende cuestionar los conceptos erróneos sobre las dietas basadas en plantas, al tiempo que fomenta una comunidad en torno a una vida sana y sostenible. La iniciativa pone de relieve la intersección entre alimentación, cultura y responsabilidad social en un panorama culinario en rápida evolución.",
     "de": "Niya Casablanca, das erste vegane Restaurant Marokkos, ist Teil einer internationalen Initiative, die sich auf nachhaltige Lebensmittelprojekte konzentriert. Ziel des Restaurants ist es, die Essgewohnheiten durch die Förderung von ethischem Konsum und Umweltbewusstsein zu verändern. Mit innovativer veganer Küche will Nia falsche Vorstellungen über pflanzliche Ernährung widerlegen und gleichzeitig eine Gemeinschaft für ein gesundes, nachhaltiges Leben aufbauen. Die Initiative beleuchtet die Überschneidung von Essen, Kultur und sozialer Verantwortung in einer sich schnell verändernden kulinarischen Landschaft."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Tahiri Ivorra"
     }
   ],
-  "thematic": [
-    "leisure-tourism",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["leisure-tourism", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://niya-casablanca.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Chama Tahiri graduated from Reims Management School (now Néoma) with a specialization in sustainable development and social economy, marking the beginning of her ecological and political awareness. She also stopped eating meat the same year.",
         "fr": "Chama Tahiri est diplômée de Reims Management School (aujourd'hui Néoma) avec une spécialisation en développement durable et économie sociale, marquant le début de sa prise de conscience écologique et politique. Elle a également arrêté de manger de la viande la même année.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Chama began caring for stray animals in Morocco, deepening her connection to animal welfare and leading her toward an anti-speciesist philosophy.",
         "fr": "Chama a commencé à s'occuper des animaux errants au Maroc, renforçant son lien avec la cause animale et l'orientant vers une philosophie anti-spéciste.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Chama stopped eating fish and began conceptualizing the Nia project, initially intending to open it abroad to export contemporary Moroccan culture with a vegan identity.",
         "fr": "Chama a arrêté de manger du poisson et a commencé à conceptualiser le projet Nia, avec l'intention initiale de l'ouvrir à l'étranger pour exporter la culture marocaine contemporaine avec une identité végane.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Chama met her business partner and associate, who became the primary investor and financier of the Nia project.",
         "fr": "Chama a rencontré son associée et partenaire commerciale, qui est devenue la principale investisseuse et financière du projet Nia.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nia opened in Casablanca, becoming the first vegan restaurant in Morocco, with a team of around ten employees and a wide menu designed to showcase the full range of vegan cuisine.",
         "fr": "Nia a ouvert ses portes à Casablanca, devenant le premier restaurant végane au Maroc, avec une équipe d'une dizaine d'employés et un menu varié conçu pour mettre en valeur l'étendue de la cuisine végane.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Nia began developing a second location in a business district of Casablanca, featuring a shorter seasonal menu, aiming to reach a new clientele and deepen the restaurant's commitment to local sourcing.",
         "fr": "Nia a commencé à développer un second établissement dans un quartier d'affaires de Casablanca, proposant un menu saisonnier plus court, dans le but d'atteindre une nouvelle clientèle et de renforcer l'engagement du restaurant envers l'approvisionnement local.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Vegan meals made from local seasonal produce",
         "fr": "Repas végétaliens préparés à partir de produits locaux et de saison",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cultural events, concerts and community gatherings",
         "fr": "Événements culturels, concerts et rassemblements communautaires",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops raising awareness on veganism",
         "fr": "Ateliers de sensibilisation au véganisme",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Seasonal menu minimizing food waste",
         "fr": "Menu saisonnier minimisant le gaspillage alimentaire",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Platform promoting local Moroccan food brands",
         "fr": "Plateforme de promotion des marques alimentaires locales marocaines",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fundraising for humanitarian and animal welfare causes",
         "fr": "Collecte de fonds pour des causes humanitaires et de protection animale",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Reliable local short-circuit food suppliers",
         "fr": "Fournisseurs locaux fiables en circuits courts alimentaires",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Serious partners for expansion abroad",
         "fr": "Partenaires sérieux pour une expansion à l'étranger",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Omnivore customers open to vegan food",
         "fr": "Clients omnivores ouverts à la nourriture végane",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Business district clientele for second location",
         "fr": "Clientèle du quartier d'affaires pour un second emplacement",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Artists and creators to animate events",
         "fr": "Artistes et créateurs pour animer des événements",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Associations for cultural and humanitarian causes",
         "fr": "Associations pour des causes culturelles et humanitaires",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "CEPROBI is a research center specializing in biotechnology, agroecology, and nutrition, developing biotic products and ecological pest management.",
     "de": "CEPROBI is a research center specializing in biotechnology, agroecology, and nutrition, developing biotic products and ecological pest management."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "es",
   "location": "Yautepec, Morelos",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Bermúdez Torres"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.ceprobi.ipn.mx/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1936-1939",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The National Polytechnic Institute was founded in 1936 under President Lázaro Cárdenas, who also opened Mexico's doors to Spanish refugees fleeing the Civil War. Among them was biochemist Dr. Manuel Castañeda Gulló, who joined the Polytechnic and began researching proteolytic enzymes found in native Mexican plants like Jacaratia mexicana.",
         "fr": "L'Institut National Polytechnique a été fondé en 1936 sous la présidence de Lázaro Cárdenas, qui a également ouvert les portes du Mexique aux réfugiés espagnols fuyant la Guerre Civile. Parmi eux se trouvait le biochimiste Dr. Manuel Castañeda Gulló, qui rejoignit le Polytechnique et commença à rechercher les enzymes protéolytiques présentes dans des plantes mexicaines indigènes telles que la Jacaratia mexicana.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1984",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "CEPROVI (Centro de Desarrollo de Productos Bióticos) was formally founded in Yautepec, Morelos, on ejidal lands donated by local community members. The center was established to study bioactive plant compounds and generate regional agro-industrial development.",
         "fr": "Le CEPROVI (Centro de Desarrollo de Productos Bióticos) a été officiellement fondé à Yautepec, Morelos, sur des terres ejidales données par des membres de la communauté locale. Le centre a été créé pour étudier les composés végétaux bioactifs et favoriser le développement agro-industriel régional.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "1999",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The first postgraduate program, the Master of Science in Development of Biotic Products, was launched in 1999, marking a turning point that transformed CEPROVI into a full academic and research institution capable of training high-level researchers.",
         "fr": "Le premier programme de troisième cycle, le Master of Science en Développement de Produits Biotiques, a été lancé en 1999, marquant un tournant qui a transformé le CEPROVI en une institution académique et de recherche à part entière, capable de former des chercheurs de haut niveau.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2012",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A multi-campus Doctorate in Sciences in Conservation of Landscape Heritage was established in 2012, linking five institutional sites and integrating environmental, cultural, and biodiversity research into CEPROVI's academic offerings.",
         "fr": "Un Doctorat en Sciences pour la Conservation du Patrimoine Paysager à plusieurs campus a été établi en 2012, reliant cinq sites institutionnels et intégrant des recherches environnementales, culturelles et sur la biodiversité dans l'offre académique du CEPROVI.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2014-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "CEPROVI developed and deployed aquaponics modules in the low-income community of La Nopalera, combining fish farming with hydroponic crop production. These systems were later enhanced with photovoltaic cells to operate independently of the electrical grid.",
         "fr": "Le CEPROVI a développé et déployé des modules d'aquaponie dans la communauté défavorisée de La Nopalera, combinant la pisciculture avec la production de cultures hydroponiques. Ces systèmes ont ensuite été améliorés avec des cellules photovoltaïques pour fonctionner indépendamment du réseau électrique.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "CEPROVI operates six postgraduate programs, holds 17 patents, and has over 500 graduates. The center is preparing to launch a seventh program, a professional doctorate in Productive Biotechnology, aimed at deepening ties with industry.",
         "fr": "Le CEPROVI gère six programmes de troisième cycle, détient 17 brevets et compte plus de 500 diplômés. Le centre se prépare à lancer un septième programme, un doctorat professionnel en Biotechnologie Productive, visant à renforcer les liens avec l'industrie.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific research on biotic products from plants",
         "fr": "Recherche scientifique sur les produits biotiques issus des plantes",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Six postgraduate programs in agroecology and nutrition",
         "fr": "Six programmes de troisième cycle en agroécologie et nutrition",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training communities in agroecological food production",
         "fr": "Formation des communautés à la production alimentaire agroécologique",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Aquaponics modules for sustainable local food production",
         "fr": "Modules d'aquaponie pour une production alimentaire locale durable",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "External consulting and lab analysis services",
         "fr": "Services de conseil externe et d'analyse en laboratoire",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Knowledge exchange with rural farming communities",
         "fr": "Échange de connaissances avec les communautés agricoles rurales",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with companies and industry",
         "fr": "Collaboration avec des entreprises et l'industrie",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "External research projects and consultancies",
         "fr": "Projets de recherche externes et consultances",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Agroecological transition in local communities",
         "fr": "Transition agroécologique dans les communautés locales",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "National science grants for research programs",
         "fr": "Subventions scientifiques nationales pour les programmes de recherche",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Technology and machinery licensing opportunities",
         "fr": "Opportunités de licence de technologies et de machines",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with other research centers",
         "fr": "Alliances avec d'autres centres de recherche",

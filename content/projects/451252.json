@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754406691,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Zopilote es una iniciativa agrícola familiar con sede en Viedma, Río Negro, Argentina. Se centra en la producción sostenible de frutas y frutos secos, adaptándose a las condiciones climáticas locales y a la demanda del mercado. La empresa prima la calidad sobre la cantidad y utiliza prácticas ecológicas como el compostaje y los modelos circulares. Zopilote también se dedica al ecoturismo abriendo su granja a los visitantes, fomentando las conexiones con la comunidad y promocionando los productos locales mediante asociaciones con supermercados regionales.    ",
     "de": "Zopilote ist eine familiengeführte landwirtschaftliche Initiative mit Sitz in Viedma, Río Negro, Argentinien. Sie konzentriert sich auf eine nachhaltige Obst- und Gemüseproduktion, die sich an die lokalen klimatischen Bedingungen und Marktanforderungen anpasst. Das Unternehmen legt Wert auf Qualität statt Quantität und nutzt umweltfreundliche Praktiken wie Kompostierung und Kreislaufmodelle. Zopilote engagiert sich auch im Ökotourismus, indem er seine Farm für Besucher öffnet, Gemeinschaftsverbindungen fördert und lokale Produkte durch Partnerschaften mit regionalen Supermärkten bewirbt.    "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Leiza"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/zopilotepatagonia/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1972",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Leiza family received their farm plot in Viedma, Valle Inferior, through the provincial development institute IDEVI, which offered pre-built homes and 20-year credit terms to populate the agricultural zone.",
         "fr": "La famille Leiza a reçu sa parcelle agricole à Viedma, Valle Inferior, par l'intermédiaire de l'institut provincial de développement IDEVI, qui proposait des maisons préfabriquées et des conditions de crédit sur 20 ans pour peupler la zone agricole.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1989",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Zopilote brand was officially created, shifting the farm's value-added production from household consumption to commercial sales, driven partly by economic uncertainty around privatization of public institutions.",
         "fr": "La marque Zopilote a été officiellement créée, faisant évoluer la production à valeur ajoutée de la ferme de la consommation domestique vers la vente commerciale, motivée en partie par l'incertitude économique liée à la privatisation des institutions publiques.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2002",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The death of co-founder Carlos Leiza forced the family to decide whether to sell, rent, or continue the farm; matriarch Olga Liberatore chose to carry on, sustaining the brand and production independently.",
         "fr": "Le décès du cofondateur Carlos Leiza a contraint la famille à décider de vendre, louer ou poursuivre l'exploitation ; la matriarche Olga Liberatore a choisi de continuer, maintenant la marque et la production de manière indépendante.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Andrés and his wife Josefina relocated from La Plata to Viedma to take active management of the farm, launching an open-farm agrotourism model and revamping commercial and digital strategies.",
         "fr": "Andrés et son épouse Josefina ont quitté La Plata pour s'installer à Viedma afin de prendre en charge la gestion active de la ferme, en lançant un modèle d'agrotourisme à ferme ouverte et en repensant les stratégies commerciales et numériques.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2019",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm adopted circular economy practices, including using walnut shell waste as combustion fuel for the drying kiln and composting organic residues to fertilize crops.",
         "fr": "La ferme a adopté des pratiques d'économie circulaire, notamment l'utilisation des déchets de coques de noix comme combustible pour le four de séchage et le compostage des résidus organiques pour fertiliser les cultures.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Two consecutive seasons of severe frost destroyed nearly the entire harvest, forcing the family to draw on their established reputation and financial reserves while reducing stone-fruit hectares in favor of more climate-resilient almond cultivation.",
         "fr": "Deux saisons consécutives de gel sévère ont détruit la quasi-totalité de la récolte, obligeant la famille à s'appuyer sur leur réputation établie et leurs réserves financières, tout en réduisant les hectares de fruits à noyau au profit de la culture de l'amandier, plus résistante au climat.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh fruits and nuts sold directly",
         "fr": "Fruits frais et noix vendus directement",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Products supplied to regional supermarkets",
         "fr": "Produits fournis aux supermarchés régionaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular production using walnut shell as fuel",
         "fr": "Production circulaire utilisant la coque de noix comme combustible",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Open farm visits for schools and public",
         "fr": "Visites de ferme ouvertes aux écoles et au public",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Direct home delivery to local consumers",
         "fr": "Livraison à domicile directe aux consommateurs locaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Agricultural experience and production tours",
         "fr": "Expérience agricole et visites de production",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Low-interest provincial credit for farm investment",
         "fr": "Crédit provincial à faible taux d'intérêt pour l'investissement agricole",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agro-tech partners for drone agricultural solutions",
         "fr": "Partenaires agro-technologiques pour des solutions agricoles par drone",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Buyers for surplus dry fruit production",
         "fr": "Acheteurs pour la production excédentaire de fruits secs",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export channels for Patagonian nuts abroad",
         "fr": "Canaux d'exportation pour les noix de Patagonie à l'étranger",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Permanent farm staff for daily operations",
         "fr": "Personnel agricole permanent pour les opérations quotidiennes",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Producers to expand managed farm network",
         "fr": "Producteurs pour étendre le réseau de fermes gérées",

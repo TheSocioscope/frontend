@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754987015,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en transformar los residuos orgánicos en humus mediante diversos métodos de compostaje, como el anaeróbico, el aeróbico y la lombricultura. Hace hincapié en la participación de la comunidad, la sostenibilidad y la importancia de mantener buenas relaciones con los vecinos y la familia. Al fomentar la cooperación y la concienciación, la iniciativa pretende promover la soberanía alimentaria y la responsabilidad medioambiental, reconectando en última instancia a las personas con la naturaleza y su papel dentro del ecosistema.",
     "de": "Die Initiative konzentriert sich auf die Umwandlung von organischen Abfällen in Humus durch verschiedene Kompostierungsmethoden, darunter anaerobe Kompostierung, aerobe Kompostierung und Vermiculture. Der Schwerpunkt liegt auf der Einbeziehung der Gemeinschaft, der Nachhaltigkeit und der Bedeutung guter Beziehungen zu Nachbarn und Familie. Durch die Förderung der Zusammenarbeit und des Bewusstseins zielt die Initiative darauf ab, Ernährungssouveränität und ökologisches Verantwortungsbewusstsein zu fördern und letztlich den Einzelnen wieder mit der Natur und seiner Rolle im Ökosystem zu verbinden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Gomez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://sembramos.com.co/",
   "yt": "-2Hv6431twU",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Pietro founded a software and digital marketing agency, which he ran successfully but found unfulfilling, waking up every day dreading his work.",
         "fr": "Pietro a fondé une agence de logiciels et de marketing numérique, qu'il a dirigée avec succès mais qu'il trouvait peu épanouissante, se réveillant chaque jour en redoutant son travail.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pietro began a personal transformation process through psychoanalysis, focusing on coherence between his inner values and daily life, reconnecting with his childhood love of nature.",
         "fr": "Pietro a entamé un processus de transformation personnelle par la psychanalyse, en se concentrant sur la cohérence entre ses valeurs intérieures et sa vie quotidienne, et en reouant avec son amour d'enfance pour la nature.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Sembramos was formally launched using a lean startup approach: Pietro built a website with plant photos taken at a nursery without purchasing any inventory, validating that people would buy plants online before investing capital.",
         "fr": "Sembramos a été officiellement lancé selon une approche lean startup : Pietro a créé un site web avec des photos de plantes prises dans une pépinière sans acheter de stock, validant ainsi que les gens achèteraient des plantes en ligne avant d'investir du capital.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2010-2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pietro developed and refined an urban vermicomposting system over years of experimentation, becoming one of the first to offer urban lombricultivos in Medellín when no search results existed for the term.",
         "fr": "Pietro a développé et perfectionné un système de vermicompostage urbain au fil d'années d'expérimentation, devenant l'un des premiers à proposer des lombricultivos urbains à Medellín, à une époque où aucun résultat de recherche n'existait pour ce terme.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Sembramos experienced five months of missed sales targets, prompting a structural shift toward stricter performance metrics, commission-based pay, and a more disciplined hiring and accountability process.",
         "fr": "Sembramos a connu cinq mois de résultats de ventes en deçà des objectifs, ce qui a entraîné une restructuration vers des indicateurs de performance plus stricts, une rémunération à la commission et un processus de recrutement et de responsabilisation plus rigoureux.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Pietro outlined plans to expand into immersive rural experiential spaces near Guarne, where visitors can live among plants, practice composting, manage greywater systems, and experience sustainable living firsthand.",
         "fr": "Pietro a exposé des projets d'expansion vers des espaces ruraux expérientiels immersifs près de Guarne, où les visiteurs peuvent vivre au milieu des plantes, pratiquer le compostage, gérer des systèmes d'eaux grises et découvrir concrètement un mode de vie durable.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online plant sales delivered nationwide Colombia",
         "fr": "Vente de plantes en ligne livrées partout en Colombie",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Urban home composting kits with worm farming",
         "fr": "Kits de compostage urbain à domicile avec lombricompostage",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Courses on lombricultura, bonsai, urban gardens",
         "fr": "Cours sur la lombriculture, le bonsaï et les jardins urbains",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Plant hotel care service for traveling owners",
         "fr": "Service d'hôtel pour plantes pour les propriétaires en déplacement",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Ecological clay irrigation systems for urban homes",
         "fr": "Systèmes d'irrigation écologiques en argile pour les maisons urbaines",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Tools to produce own soil and food at home",
         "fr": "Outils pour produire sa propre terre et sa propre nourriture à domicile",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for rural experiential living spaces",
         "fr": "Collaborateurs pour des espaces de vie expérientiels ruraux",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Urban residents to adopt home composting",
         "fr": "Résidents urbains pour adopter le compostage à domicile",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for plants and ecological products online",
         "fr": "Acheteurs de plantes et de produits écologiques en ligne",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge exchange on urban lombriculture methods",
         "fr": "Échange de connaissances sur les méthodes de lombiculture urbaine",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Passionate people to join the team organically",
         "fr": "Personnes passionnées pour rejoindre l'équipe naturellement",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "canada"
-  ],
+  "continent": ["north-america"],
+  "country": ["canada"],
   "createdAt": 1755007917,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa se centra en crear un cambio sistémico en los sectores de la producción y distribución de alimentos, especialmente en Montreal y Quebec. La organización, cofundada por dos mujeres, pretende apoyar a las empresas alimentarias y abordar la inseguridad alimentaria mediante la creación conjunta de soluciones con diversas partes interesadas, como productores, municipios y organizaciones comunitarias. La organización opera con un enfoque ecosistémico, haciendo hincapié en la colaboración y escuchando las necesidades de todos los actores implicados en el sistema alimentario. Prestan una serie de servicios, como consultoría, desarrollo de competencias y aplicación de soluciones innovadoras, como una plataforma informática para gestionar programas de cupones alimentarios.",
     "de": "Die Initiative konzentriert sich auf die Schaffung eines systemischen Wandels in den Bereichen Lebensmittelproduktion und -vertrieb, insbesondere in Montreal und Quebec. Die von zwei Frauen mitbegründete Organisation hat sich zum Ziel gesetzt, Lebensmittelunternehmen zu unterstützen und die Ernährungsunsicherheit zu bekämpfen, indem sie gemeinsam mit verschiedenen Akteuren, darunter Erzeugern, Gemeinden und Gemeindeorganisationen, Lösungen erarbeitet. Die Organisation verfolgt einen ökosystemischen Ansatz, bei dem die Zusammenarbeit und das Eingehen auf die Bedürfnisse aller am Lebensmittelsystem beteiligten Akteure im Vordergrund stehen. Sie bietet eine Reihe von Dienstleistungen an, darunter Beratung, Kompetenzentwicklung und die Umsetzung innovativer Lösungen, wie etwa eine IT-Plattform für die Verwaltung von Lebensmittelgutscheinprogrammen."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,22 +33,16 @@
       "lastname": "Lalonde"
     }
   ],
-  "thematic": [
-    "education",
-    "welfare-work-social-protection",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "welfare-work-social-protection", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://recolte.ca/accueil/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Collectif Ricolt was co-founded by two women who identified gaps in the food system, particularly that innovative food businesses lacked the winning conditions needed to survive and thrive.",
         "fr": "Le Collectif Ricolt a été cofondé par deux femmes qui ont identifié des lacunes dans le système alimentaire, notamment le fait que les entreprises alimentaires innovantes manquaient des conditions gagnantes nécessaires pour survivre et prospérer.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Dominique joined the organization in November 2018, becoming one of three co-directors helping to structure and scale operations.",
         "fr": "Dominique a rejoint l'organisation en novembre 2018, devenant l'une des trois codirectrices contribuant à structurer et à faire évoluer les opérations.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Montreal won the Smart Cities Challenge federal grant of $50 million, awarding Collectif Ricolt the mandate to pilot a multi-million dollar, five-year food mobility and data project despite having only three staff and two interns at the time.",
         "fr": "Montréal a remporté la subvention fédérale du Défi des villes intelligentes de 50 millions de dollars, confiant au Collectif Ricolt le mandat de piloter un projet pluriannuel de mobilité alimentaire et de données de plusieurs millions de dollars, alors que l'organisation ne comptait que trois employés et deux stagiaires à l'époque.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The organization grew rapidly from 3 to 24 employees as it delivered multiple projects under the Montreal Smart Cities mandate, representing 80-90% of its budget during this period.",
         "fr": "L'organisation a connu une croissance rapide, passant de 3 à 24 employés, en réalisant plusieurs projets dans le cadre du mandat Villes intelligentes de Montréal, représentant 80 à 90 % de son budget durant cette période.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Smart Cities project concluded, forcing a major restructuring that reduced staff from 24 to 14 and prompted a rethinking of the organization's business model and governance structure.",
         "fr": "Le projet Villes intelligentes a pris fin, entraînant une restructuration majeure qui a réduit les effectifs de 24 à 14 personnes et a conduit à repenser le modèle d'affaires et la structure de gouvernance de l'organisation.",
@@ -105,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Collectif Ricolt launched a new four-part service offer combining accompaniment and consulting, skills development, solution implementation, and education, aiming to diversify revenue through consulting contracts and private foundation funding.",
         "fr": "Le Collectif Ricolt a lancé une nouvelle offre de services en quatre volets combinant accompagnement et conseil, développement des compétences, mise en œuvre de solutions et formation, dans le but de diversifier ses revenus grâce à des contrats de consultation et au financement de fondations privées.",
@@ -116,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Co-creating solutions for local food system gaps",
         "fr": "Co-création de solutions pour les lacunes des systèmes alimentaires locaux",
@@ -125,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Skills development workshops and cohort programs",
         "fr": "Ateliers de développement des compétences et programmes de cohorte",
@@ -134,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Feasibility, market, and ecosystem portrait studies",
         "fr": "Études de faisabilité, de marché et de portrait des écosystèmes",
@@ -143,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Piloting structuring projects like local food hubs",
         "fr": "Pilotage de projets structurants comme les pôles alimentaires locaux",
@@ -152,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Food coupon management platform for community orgs",
         "fr": "Plateforme de gestion de coupons alimentaires pour les organismes communautaires",
@@ -161,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Resource center with guides and knowledge tools",
         "fr": "Centre de ressources avec guides et outils de partage des connaissances",
@@ -172,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private foundation funding to replace government grants",
         "fr": "Financement de fondations privées pour remplacer les subventions gouvernementales",
@@ -181,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners for co-created food system solutions",
         "fr": "Partenaires pour des solutions co-créées en matière de systèmes alimentaires",
@@ -190,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Paying clients for consulting and advisory services",
         "fr": "Clients payants pour des services de conseil et d'accompagnement",
@@ -199,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community organizations to accompany and support",
         "fr": "Organisations communautaires à accompagner et à soutenir",
@@ -208,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government allies to advocate for systemic food policy",
         "fr": "Alliés gouvernementaux pour défendre une politique alimentaire systémique",

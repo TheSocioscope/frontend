@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754483310,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La Universidad La Gran Colombia (UGC) de Armenia lleva más de 15 años comprometida a ser la universidad verde de la región cafetera. La universidad, que celebra su 54 aniversario, integra la responsabilidad medioambiental en su marco educativo, garantizando que todos los programas incluyan competencias de sostenibilidad. A través de iniciativas como el voluntariado medioambiental, proyectos de investigación y una red de programas ecológicos, la universidad fomenta una cultura de concienciación medioambiental entre los estudiantes y la comunidad en general, con el objetivo de influir positivamente en el medio ambiente.",
     "de": "Die Universidad La Gran Colombia (UGC) in Armenien hat sich seit über 15 Jahren dazu verpflichtet, die grüne Universität der Kaffeeanbauregion zu sein. Celebrating its 54th anniversary, the university integrates environmental responsibility into its educational framework, ensuring that all programs include sustainability competencies. Through initiatives like environmental volunteering, research projects, and a network of green programs, the university fosters a culture of environmental awareness among students and the broad community, aiming to positively impact the environment."
   },
-  "field": [
-    "nutrition",
-    "education-sciences"
-  ],
+  "field": ["nutrition", "education-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Diaz"
     }
   ],
-  "thematic": [
-    "education",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.ugc.edu.co/sede/armenia/index.php/sostenibilidad",
   "yt": "S1PpuVgQtYM",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2009",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The UI GreenMetric ranking, which evaluates sustainable universities worldwide, was launched by the University of Indonesia. Universidad La Gran Colombia Armenia later joined this international benchmarking system.",
         "fr": "Le classement UI GreenMetric, qui évalue les universités durables dans le monde entier, a été lancé par l'Université d'Indonésie. L'Universidad La Gran Colombia Armenia a ensuite rejoint ce système international de référence.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "~2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Universidad La Gran Colombia Armenia declared itself the 'Universidad Verde del Eje Cafetero' approximately 15 years before the interview, marking a formal institutional commitment to environmental responsibility embedded in its foundational PEI document.",
         "fr": "L'Universidad La Gran Colombia Armenia s'est déclarée « Universidad Verde del Eje Cafetero » environ 15 ans avant l'entretien, marquant un engagement institutionnel formel envers la responsabilité environnementale, inscrit dans son document fondateur PEI.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The university entered the UI GreenMetric ranking for the first time, eventually reaching position 738 internationally and 37 nationally by the time of the interview.",
         "fr": "L'université a intégré le classement UI GreenMetric pour la première fois, atteignant finalement la position 738 au niveau international et 37 au niveau national au moment de l'entretien.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The university launched its environmental gestors program in partnership with local schools, training students as community environmental leaders. By the time of the interview, 232 gestors had been formed across participating institutions.",
         "fr": "L'université a lancé son programme de gestionnaires environnementaux en partenariat avec des écoles locales, formant des élèves en tant que leaders environnementaux communautaires. Au moment de l'entretien, 232 gestionnaires avaient été formés dans les établissements participants.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The university updated its Proyecto Educativo Institucional, formally embedding environmental responsibility, sustainability challenges, and green competency profiles across all 12 academic programs.",
         "fr": "L'université a mis à jour son Proyecto Educativo Institucional, intégrant formellement la responsabilité environnementale, les défis liés au développement durable et les profils de compétences vertes dans l'ensemble de ses 12 programmes académiques.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "~2020-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The university established its agroecological unit on the Santa María campus, operating without agrochemicals, and secured a government regalías project to replicate this regenerative agriculture model across surrounding territories.",
         "fr": "L'université a établi son unité agroécologique sur le campus Santa María, fonctionnant sans agrochimiques, et a obtenu un projet gouvernemental de regalías pour reproduire ce modèle d'agriculture régénératrice dans les territoires environnants.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental competencies integrated across all academic programs",
         "fr": "Compétences environnementales intégrées dans tous les programmes académiques",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research projects focused on sustainability and agroecology",
         "fr": "Projets de recherche axés sur la durabilité et l'agroécologie",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Environmental gestors training program in local schools",
         "fr": "Programme de formation de gestionnaires environnementaux dans les écoles locales",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Environmental volunteer program for university community",
         "fr": "Programme de bénévolat environnemental pour la communauté universitaire",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Agroecological unit demonstrating chemical-free farming",
         "fr": "Unité agroécologique démontrant une agriculture sans produits chimiques",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Green laboratory waste management protocol for institutions",
         "fr": "Protocole de gestion des déchets de laboratoire vert pour les institutions",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Expand green research lines across all programs",
         "fr": "Développer les axes de recherche verte dans tous les programmes",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External funding for sustainable infrastructure upgrades",
         "fr": "Financement externe pour la modernisation durable des infrastructures",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with government and environmental organizations",
         "fr": "Alliances avec les gouvernements et les organisations environnementales",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replicate agroecological model in nearby territories",
         "fr": "Répliquer le modèle agroécologique dans les territoires voisins",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Environmental volunteers for conservation activities",
         "fr": "Bénévoles environnementaux pour les activités de conservation",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Institutional influence on regional environmental policy",
         "fr": "Influence institutionnelle sur la politique environnementale régionale",

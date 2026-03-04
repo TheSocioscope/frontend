@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1718289311,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Organic Denmark (Økologisk Landsforening) es la principal agrupación de alimentos ecológicos del país. Entre sus miembros hay agricultores ecológicos, empresas alimentarias con productos ecológicos y consumidores de toda Dinamarca. Con más de 190 empresas miembros, Organic Denmark representa prácticamente a todo el sector de la alimentación ecológica del país, promoviendo la sostenibilidad, defendiendo las normas ecológicas y apoyando el crecimiento y el desarrollo de prácticas y productos ecológicos en toda Dinamarca, garantizando una alta calidad y confianza.",
     "de": "Organic Denmark (Økologisk Landsforening) ist der erste Bio-Lebensmittelcluster des Landes. Zu seinen Mitgliedern gehören organische Landwirte, Lebensmittelunternehmen mit organischen Produkten und Verbraucher in ganz Dänemark. Mit über 190 Mitgliedsunternehmen repräsentiert Organic Denmark praktisch die gesamte organische Lebensmittelindustrie des Landes, fördert die Nachhaltigkeit, setzt sich für organische Standards ein und unterstützt das Wachstum und die Entwicklung organischer Praktiken und Produkte in ganz Dänemark, um hohe Qualität und Vertrauen zu gewährleisten."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Kyed"
     }
   ],
-  "thematic": [
-    "industry",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["industry", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.organicdenmark.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1981",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Organic Denmark was founded as a grassroots organization under the name Landsforeningen Økologisk Jordbrug, built around four ecological principles: health, fairness, ecology, and care.",
         "fr": "Organic Denmark a été fondée en tant qu'organisation populaire sous le nom de Landsforeningen Økologisk Jordbrug, construite autour de quatre principes écologiques : la santé, l'équité, l'écologie et le soin.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "1982",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "IFOAM (International Federation of Organic Movements) was established, adopting foundational principles of organic agriculture that Organic Denmark aligned itself with.",
         "fr": "L'IFOAM (Fédération internationale des mouvements biologiques) a été créée, adoptant les principes fondateurs de l'agriculture biologique auxquels Organic Denmark s'est alignée.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "1995",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The interviewee joined Organic Denmark, starting as a technical staff member handling organic regulations, control, exhibitions, and educational seminars.",
         "fr": "La personne interrogée a rejoint Organic Denmark, débutant en tant que membre du personnel technique chargé des réglementations biologiques, du contrôle, des expositions et des séminaires éducatifs.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2000",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Organic Denmark merged with sector organizations that focused more on the commercial side of organic sales, broadening the organization's scope and structure.",
         "fr": "Organic Denmark a fusionné avec des organisations sectorielles davantage axées sur le côté commercial des ventes biologiques, élargissant ainsi la portée et la structure de l'organisation.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A Danish agricultural agreement established a goal to double the organic farming area and organic market, later incorporated into the Green Tripartite Agreement framework.",
         "fr": "Un accord agricole danois a établi un objectif visant à doubler la superficie agricole biologique et le marché biologique, intégré par la suite dans le cadre de l'Accord tripartite vert.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Organic Denmark was excluded from the official Green Tripartite Agreement negotiations, with the government instead choosing the Danish Nature Conservation Association to represent nature's interests alongside industry groups.",
         "fr": "Organic Denmark a été exclue des négociations officielles de l'Accord tripartite vert, le gouvernement ayant choisi à la place l'Association danoise pour la conservation de la nature pour représenter les intérêts de la nature aux côtés des groupes industriels.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Policy analyses and recommendations for law changes",
         "fr": "Analyses politiques et recommandations pour les changements législatifs",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge and insights shared with politicians",
         "fr": "Connaissances et perspectives partagées avec les politiciens",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Promotion of state-controlled organic label",
         "fr": "Promotion du label biologique contrôlé par l'État",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Consultancy support for organic procurement offices",
         "fr": "Soutien en conseil pour les bureaux d'approvisionnement biologiques",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Concrete legislative amendment proposals for politicians",
         "fr": "Propositions concrètes d'amendements législatifs pour les politiciens",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Membership network representing farmers and food companies",
         "fr": "Réseau de membres représentant les agriculteurs et les entreprises alimentaires",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Influence on agricultural and food policy",
         "fr": "Influence sur la politique agricole et alimentaire",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with green NGOs and organizations",
         "fr": "Collaboration avec des ONG et organisations écologistes",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "25% organic farmland and consumption by 2030",
         "fr": "25% de terres agricoles biologiques et de consommation d'ici 2030",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Correction of market failures in food pricing",
         "fr": "Correction des défaillances du marché dans la tarification alimentaire",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Membership from farmers, companies, and kitchens",
         "fr": "Adhésion d'agriculteurs, d'entreprises et de cuisines",

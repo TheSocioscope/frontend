@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Preservados revitalizes ancestral food processing techniques using wind, temperatures, solar radiation and water to guarantee survival of harvests.",
     "de": "Preservados revitalizes ancestral food processing techniques using wind, temperatures, solar radiation and water to guarantee survival of harvests."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "es",
   "location": "Cusco, Lima",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "MARTINEZ VELIZ"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://materiniciativa.com/proyectos/preservados",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Preservados project was launched in 2023 with researcher Andrea Faur, who was brought in from the Bass Culinary Center to map and validate ancestral preservation techniques. A historian from a rural community, who had already verified the functionality of these methods, provided the foundational guidance for the project.",
         "fr": "Le projet Preservados a été lancé en 2023 avec la chercheuse Andrea Faur, recrutée depuis le Bass Culinary Center pour cartographier et valider des techniques ancestrales de conservation. Un historien issu d'une communauté rurale, ayant déjà vérifié la fonctionnalité de ces méthodes, a fourni les bases directrices du projet.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The project tested 17 ancestral preservation techniques across 31 different products including seeds, roots, fruits, and bark. Techniques utilized environmental conditions such as cold, heat, solar radiation, river water, and frost.",
         "fr": "Le projet a testé 17 techniques ancestrales de conservation sur 31 produits différents, notamment des graines, des racines, des fruits et des écorces. Les techniques ont exploité des conditions environnementales telles que le froid, la chaleur, le rayonnement solaire, l'eau de rivière et le gel.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A key challenge emerged around efficiency: some techniques produced significant volume loss during processing, such as transforming a large quantity of potatoes into only one kilogram of preserved product. This led the team to discard or edit certain techniques through a systematic trial-and-error process.",
         "fr": "Un défi majeur est apparu autour de l'efficacité : certaines techniques entraînaient une perte de volume significative lors du traitement, comme la transformation d'une grande quantité de pommes de terre en seulement un kilogramme de produit conservé. Cela a conduit l'équipe à écarter ou modifier certaines techniques grâce à un processus systématique d'essais et d'erreurs.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The project demonstrated that preserved products represent new culinary ingredients with distinct qualities, as illustrated by chuño, which in Quechua culture and gastronomy is considered an entirely different ingredient from fresh potato with unique uses and nutritional potential.",
         "fr": "Le projet a démontré que les produits conservés représentent de nouveaux ingrédients culinaires aux qualités distinctes, comme l'illustre le chuño, qui dans la culture et la gastronomie quechua est considéré comme un ingrédient entièrement différent de la pomme de terre fraîche, avec des usages et un potentiel nutritionnel uniques.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Preservados expanded its scope beyond the project's original chacra, testing techniques with fruits, seeds such as achiote and ayrampo, and various Andean roots and tubers. The team drew on historical research into colcas, traditional Andean storehouses, finding that roots and tubers, especially potatoes, made up approximately 60% of stored goods.",
         "fr": "Preservados a élargi sa portée au-delà de la chacra d'origine du projet, en testant des techniques avec des fruits, des graines telles que l'achiote et l'ayrampo, ainsi que diverses racines et tubercules andins. L'équipe s'est appuyée sur des recherches historiques sur les colcas, les greniers traditionnels andins, découvrant que les racines et tubercules, en particulier les pommes de terre, représentaient environ 60 % des denrées stockées.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Plans emerged to extend Preservados techniques to Amazonian roots and tubers through a parallel project, recognizing that ancestral preservation methods could be adapted to entirely different climatic conditions including higher humidity and temperatures found in the Amazon region.",
         "fr": "Des plans ont émergé pour étendre les techniques de Preservados aux racines et tubercules amazoniens dans le cadre d'un projet parallèle, reconnaissant que les méthodes ancestrales de conservation pourraient être adaptées à des conditions climatiques entièrement différentes, notamment une humidité et des températures plus élevées caractéristiques de la région amazonienne.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Recovery of 17 ancestral food preservation techniques",
         "fr": "Récupération de 17 techniques ancestrales de conservation des aliments",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Education on food storage for rural communities",
         "fr": "Éducation sur le stockage des aliments pour les communautés rurales",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Post-harvest preservation to reduce food waste",
         "fr": "Conservation post-récolte pour réduire le gaspillage alimentaire",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "New culinary ingredients from transformed products",
         "fr": "Nouveaux ingrédients culinaires issus de produits transformés",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Validation of ancestral techniques through experimentation",
         "fr": "Validation des techniques ancestrales par l'expérimentation",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Food security support for Andean families",
         "fr": "Soutien à la sécurité alimentaire des familles andines",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Validate ancestral food preservation techniques",
         "fr": "Valider les techniques ancestrales de conservation des aliments",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Andean rural communities for experimentation",
         "fr": "Communautés rurales andines pour l'expérimentation",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Innovative culinary ingredients from preserved products",
         "fr": "Ingrédients culinaires innovants issus de produits conservés",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutritional analysis of preserved vs fresh ingredients",
         "fr": "Analyse nutritionnelle des ingrédients conservés par rapport aux ingrédients frais",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replicate techniques in Amazonian communities",
         "fr": "Reproduire les techniques dans les communautés amazoniennes",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Reduce post-harvest food loss in rural households",
         "fr": "Réduire les pertes alimentaires post-récolte dans les ménages ruraux",

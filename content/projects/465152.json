@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754475373,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Valle Escondido se centra en fomentar el compromiso y la educación de la comunidad a través de una organización sin ánimo de lucro, AVER, que funciona paralelamente a un negocio de hostelería. Esta doble estructura permite integrar los principios de la agricultura regenerativa tanto en la granja como en el restaurante. El objetivo es promover prácticas sostenibles al tiempo que se ofrece formación y recursos a los visitantes, inspirándoles en última instancia para que contribuyan positivamente al cuidado del medio ambiente y al bienestar de la comunidad.      ",
     "de": "Valle Escondido konzentriert sich auf die Förderung des Engagements der Gemeinschaft und der Bildung durch eine gemeinnützige Organisation, AVER, die neben einem Gastgewerbebetrieb tätig ist. Diese duale Struktur ermöglicht es, regenerative Landwirtschaftsprinzipien sowohl in den landwirtschaftlichen als auch in den Restaurantbetrieb zu integrieren. Ziel ist es, nachhaltige Praktiken zu fördern und gleichzeitig den Besuchern Schulungen und Ressourcen zur Verfügung zu stellen, um sie letztendlich dazu zu inspirieren, einen positiven Beitrag zum Umweltschutz und zum Wohlbefinden der Gemeinschaft zu leisten.      "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.valleescondidocr.com/",
   "yt": "lS7CWd_nDC0",
   "editedAt": 1754477175,
@@ -55,14 +45,12 @@
       "at": 1754477175
     }
   ],
-  "updatedAt": [
-    1754477175
-  ],
+  "updatedAt": [1754477175],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jonah moved to Costa Rica from the Bay Area of California, initially working as a kindergarten teacher in Guanacaste before eventually deciding to relocate full time.",
         "fr": "Jonah a déménagé au Costa Rica depuis la région de la Baie de Californie, travaillant initialement comme enseignant de maternelle dans le Guanacaste avant de décider finalement de s'y installer à temps plein.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Jonah purchased and took over Valle Escondido, then a nine-room hotel in various stages of disrepair, with a vision to use tourism as a vehicle for environmental and community impact.",
         "fr": "Jonah a acheté et repris Valle Escondido, alors un hôtel de neuf chambres en divers états de délabrement, avec la vision d'utiliser le tourisme comme vecteur d'impact environnemental et communautaire.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "AVER (Association Valle Escondido for Regeneration) was founded as a sister nonprofit to formalize education, regenerative agriculture training, and community engagement, and to access grant funding.",
         "fr": "AVER (Association Valle Escondido pour la Régénération) a été fondée en tant qu'organisation à but non lucratif associée pour formaliser l'éducation, la formation en agriculture régénérative et l'engagement communautaire, ainsi que pour accéder à des financements par subventions.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Valle Escondido was recognized as a four-star hotel, reached a strong post-COVID tourism year, and hosted permaculture design certificate courses with up to 35 students at highly accessible prices.",
         "fr": "Valle Escondido a été reconnu comme hôtel quatre étoiles, a connu une solide année touristique post-COVID, et a accueilli des cours de certification en conception de permaculture avec jusqu'à 35 étudiants à des prix très accessibles.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The property was nearing its maximum intended capacity of 44 rooms, having grown from 9 rooms at acquisition, and held elite-level CST Sustainable Tourism Certification across hotel, restaurant, and nature reserve.",
         "fr": "La propriété approchait de sa capacité maximale prévue de 44 chambres, ayant grandi depuis 9 chambres lors de l'acquisition, et détenait une certification de tourisme durable CST de niveau élite pour l'hôtel, le restaurant et la réserve naturelle.",
@@ -113,7 +101,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Permaculture design certificate training courses",
         "fr": "Cours de formation au certificat de conception en permaculture",
@@ -122,7 +110,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free public access to trails and open space",
         "fr": "Accès public gratuit aux sentiers et espaces ouverts",
@@ -131,7 +119,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Farm-to-table restaurant with 30-40% on-site produce",
         "fr": "Restaurant de la ferme à la table avec 30 à 40 % de produits cultivés sur place",
@@ -140,7 +128,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Greenhouse program in six local schools",
         "fr": "Programme de serres dans six écoles locales",
@@ -149,7 +137,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Open-source virtual library of eco techniques",
         "fr": "Bibliothèque virtuelle open source de techniques écologiques",
@@ -158,7 +146,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fundraising concerts and community events",
         "fr": "Concerts de collecte de fonds et événements communautaires",
@@ -169,7 +157,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative partners in regenerative agriculture networks",
         "fr": "Partenaires collaboratifs dans les réseaux d'agriculture régénératrice",
@@ -178,7 +166,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "International grants and donations for nonprofit AVER",
         "fr": "Subventions et dons internationaux pour l'association à but non lucratif AVER",
@@ -187,7 +175,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Tourist destinations adopting sustainable education practices",
         "fr": "Destinations touristiques adoptant des pratiques d'éducation durable",
@@ -196,7 +184,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Broader online engagement beyond on-site visitors",
         "fr": "Engagement en ligne plus large au-delà des visiteurs sur site",
@@ -205,7 +193,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local organic producers for restaurant sourcing",
         "fr": "Producteurs biologiques locaux pour l'approvisionnement du restaurant",
@@ -214,7 +202,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Support forming small-scale organic producer association",
         "fr": "Soutien à la formation d'une association de petits producteurs biologiques",

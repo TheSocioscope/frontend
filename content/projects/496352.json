@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1755009640,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Cooperativa de Viver, fundada en 1990, empezó como almazara y desde entonces ha diversificado su producción para aumentar su resistencia frente a las incertidumbres agrícolas. Con 530 socios, produce aceite de oliva virgen extra, vino, frutos secos y diversas frutas y verduras. La cooperativa también aborda la despoblación rural proporcionando servicios esenciales como supermercados y soluciones energéticas, fomentando el crecimiento económico local al tiempo que promueve prácticas agrícolas sostenibles y el compromiso de la comunidad.      ",
     "de": "Die 1990 gegründete Cooperativa de Viver begann als Ölmühle und hat seither ihre Produktion diversifiziert, um die Widerstandsfähigkeit gegenüber landwirtschaftlichen Unsicherheiten zu erhöhen. Mit 530 Mitgliedern produziert sie natives Olivenöl extra, Wein, Nüsse sowie verschiedene Obst- und Gemüsesorten. Die Genossenschaft wirkt auch der Landflucht entgegen, indem sie wichtige Dienstleistungen wie Supermärkte und Energielösungen anbietet, das lokale Wirtschaftswachstum fördert und gleichzeitig nachhaltige landwirtschaftliche Praktiken und das Engagement der Gemeinschaft unterstützt.      "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Marco Carrasco"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "welfare-work-social-protection"
-  ],
+  "thematic": ["food-agriculture-fishery", "welfare-work-social-protection"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.cooperativaviver.es/sobre-nosotros/?_gl=1*b3qx7k*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwna6_BhCbARIsALId2Z3ONr_OaTWhnmxE_sJoGlpHhrJd3RPQuNXvM6-aJdl1YHwido2pMRYaAofcEALw_wcB",
   "yt": "",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "1990",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cooperativa de Viver was founded exclusively as an olive oil mill with around 200 members, driven by new sanitary regulations requiring certified production processes.",
         "fr": "La Cooperativa de Viver a été fondée exclusivement en tant que moulin à huile d'olive avec environ 200 membres, motivée par de nouvelles réglementations sanitaires exigeant des processus de production certifiés.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2015-2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The cooperative diversified into wine production, nuts, almonds, fruits, and vegetables, and began opening Charter supermarket franchises in rural municipalities to combat depopulation.",
         "fr": "La coopérative s'est diversifiée dans la production de vin, de noix, d'amandes, de fruits et de légumes, et a commencé à ouvrir des franchises de supermarchés Charter dans des communes rurales pour lutter contre la dépopulation.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The wine bodega was relocated to the cooperative's main facilities, consolidating production and marking the formal establishment of their enological project.",
         "fr": "La bodega viticole a été déplacée vers les installations principales de la coopérative, consolidant la production et marquant l'établissement formel de leur projet œnologique.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A major wildfire on August 15 devastated fields belonging to some member producers, compounding an already poor harvest caused by drought and extreme heat, with effects lasting multiple subsequent seasons.",
         "fr": "Un violent incendie de forêt le 15 août a ravagé les champs de certains producteurs membres, aggravant une récolte déjà mauvaise causée par la sécheresse et la chaleur extrême, avec des effets se prolongeant sur plusieurs saisons suivantes.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The cooperative implemented new yield-measurement technology to pay producer members based on individual olive oil output rather than collective averages, improving fairness and transparency in liquidation.",
         "fr": "La coopérative a mis en place une nouvelle technologie de mesure des rendements pour rémunérer les producteurs membres en fonction de leur production individuelle d'huile d'olive plutôt que sur des moyennes collectives, améliorant ainsi l'équité et la transparence dans la liquidation.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The cooperative joined the Sustenta program and began collaborations with Global Nature Foundation and IVIA on agroecological transition, water optimization through subsurface drip irrigation, and climate resilience research.",
         "fr": "La coopérative a rejoint le programme Sustenta et a entamé des collaborations avec la Fondation Global Nature et l'IVIA sur la transition agroécologique, l'optimisation de l'eau par irrigation goutte-à-goutte souterraine et la recherche sur la résilience climatique.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Olive oil, wine, nuts, and local produce",
         "fr": "Huile d'olive, vin, noix et produits locaux",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Rural services: fuel, phone, insurance, internet",
         "fr": "Services ruraux : carburant, téléphone, assurance, internet",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Cooperative supermarkets in rural villages",
         "fr": "Supermarchés coopératifs dans les villages ruraux",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Agritourism visits, tastings, and seasonal events",
         "fr": "Visites agrotouristiques, dégustations et événements saisonniers",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Water efficiency and climate resilience studies",
         "fr": "Études sur l'efficacité de l'eau et la résilience climatique",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Common land management for abandoned farmland",
         "fr": "Gestion des terres communes pour les terres agricoles abandonnées",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research partnerships on sustainable irrigation systems",
         "fr": "Partenariats de recherche sur les systèmes d'irrigation durables",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborations with other cooperatives for production",
         "fr": "Collaborations avec d'autres coopératives pour la production",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Younger generation involvement in agricultural work",
         "fr": "Implication de la jeune génération dans les travaux agricoles",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Markets for ecological certified products",
         "fr": "Marchés pour les produits certifiés écologiques",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Coordination with local government for rural tourism",
         "fr": "Coordination avec les autorités locales pour le tourisme rural",

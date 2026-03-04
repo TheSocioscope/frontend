@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "switzerland"
-  ],
+  "continent": ["europe"],
+  "country": ["switzerland"],
   "createdAt": 1739456110,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Eaternity es una iniciativa con sede en Zúrich (Suiza) centrada en el cálculo de las emisiones de CO2 asociadas a los alimentos. La organización pretende promover prácticas sostenibles proporcionando herramientas que ayuden a particulares y empresas a tomar decisiones informadas sobre su consumo de alimentos. La iniciativa comenzó con un proyecto piloto en la Universidad ETH, que obtuvo reconocimiento y apoyo, lo que llevó al desarrollo de una plataforma de software que permite a restaurantes y otros clientes calcular sus huellas de carbono relacionadas con la alimentación.\n\nEaternity funciona como una empresa social, equilibrando su misión de sostenibilidad medioambiental con la necesidad de generar ingresos. La organización se ha comprometido con éxito con varios clientes, incluidos comedores municipales y restaurantes, ofreciendo un servicio por suscripción que cubre los costes operativos y proporciona informes detallados sobre las emisiones de CO2. Su software ha evolucionado desde un enfoque de bricolaje utilizando Excel a un sistema de código abierto más sofisticado que hace hincapié en la transparencia y la precisión de los cálculos",
     "de": "Eaternity ist eine in Zürich, Schweiz, ansässige Initiative, die sich auf die Berechnung der mit Lebensmitteln verbundenen CO2-Emissionen konzentriert. Die Organisation möchte nachhaltige Praktiken fördern, indem sie Tools zur Verfügung stellt, die Einzelpersonen und Unternehmen dabei helfen, informierte Entscheidungen über ihren Lebensmittelkonsum zu treffen. The initiative began with a pilot project at ETH University, which garnered recognition and support, leading to the development of a software platform that allows restaurants and other clients to calculate their food-related carbon footprints.\n\nEaternity operiert als soziales Unternehmen und balanciert seine Mission der ökologischen Nachhaltigkeit mit der Notwendigkeit, Einnahmen zu generieren. Die Organisation hat erfolgreich mit verschiedenen Kunden, darunter Stadtkantinen und Restaurants, zusammengearbeitet, indem sie einen abonnierten Service anbietet, der die Betriebskosten deckt und detaillierte Berichte über CO2-Emissionen liefert. Ihre Software hat sich von einem Do-it-yourself-Ansatz mit Excel zu einem ausgefeilteren Open-Source-System entwickelt, das Transparenz und Genauigkeit bei den Berechnungen betont."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Klarmann"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://eaternity.org/",
   "yt": "ZtiE-StatYo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008-2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Co-founder Judith won a 24-hour university workshop at ETH Zurich with the idea of calculating food CO2 emissions, launching the first pilot project. Manuel joined shortly after, and they presented at COP in Copenhagen following the pilot.",
         "fr": "La co-fondatrice Judith a remporté un atelier universitaire de 24 heures à l'ETH Zurich avec l'idée de calculer les émissions de CO2 des aliments, lançant ainsi le premier projet pilote. Manuel l'a rejointe peu après, et ils ont présenté lors de la COP à Copenhague à la suite du pilote.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2009-2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Operating as an NGO association, Eternity developed open-source software for rough CO2 calculations and shared communication materials publicly to encourage replication at other universities.",
         "fr": "Fonctionnant en tant qu'association à but non lucratif, Eternity a développé un logiciel open-source pour des calculs approximatifs de CO2 et a partagé publiquement des supports de communication afin d'encourager la réplication dans d'autres universités.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The City of Zurich approached Eternity to replicate the ETH pilot in city canteens, resulting in a €20,000 contract and the first income, enabling Manuel to commit full-time to the project.",
         "fr": "La Ville de Zurich a contacté Eternity pour reproduire le projet pilote de l'ETH dans les cantines municipales, aboutissant à un contrat de 20 000 € et aux premiers revenus, permettant à Manuel de se consacrer à plein temps au projet.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After winning social entrepreneurship competitions including Impact Hub, Eternity formalized into a business with product offers and a business plan, securing their first major client, Compass Group Switzerland.",
         "fr": "Après avoir remporté des concours d'entrepreneuriat social dont Impact Hub, Eternity s'est formalisée en entreprise avec des offres de produits et un plan d'affaires, décrochant son premier grand client, Compass Group Suisse.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Eternity secured their second client, German caterer Apetito, through the Delegate software system used by multiple caterers including Sodexo, opening access to a broader market across Europe.",
         "fr": "Eternity a obtenu son deuxième client, le traiteur allemand Apetito, grâce au système logiciel Delegate utilisé par plusieurs traiteurs dont Sodexo, ouvrant l'accès à un marché plus large à travers l'Europe.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Accelerated by COVID-19, the Fridays for Future movement, and rising plant-based food visibility, Eternity grew from a few hundred to over a thousand restaurants, reaching approximately €1 million in annual revenues funded solely by clients.",
         "fr": "Accélérée par la COVID-19, le mouvement Fridays for Future et la visibilité croissante des aliments à base de plantes, Eternity est passée de quelques centaines à plus d'un millier de restaurants, atteignant environ 1 million d'euros de chiffre d'affaires annuel financé uniquement par les clients.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "CO2 lifecycle assessments for food products",
         "fr": "Analyses du cycle de vie en CO2 pour les produits alimentaires",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Carbon impact labels printed on food packaging",
         "fr": "Étiquettes d'impact carbone imprimées sur les emballages alimentaires",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Real-time CO2 calculations for restaurant menus",
         "fr": "Calculs de CO2 en temps réel pour les menus de restaurants",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Open-source environmental data freely shared publicly",
         "fr": "Données environnementales open source partagées librement avec le public",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "European Sustainable Food Coalition co-founded",
         "fr": "Coalition européenne pour une alimentation durable co-fondée",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Software API for partner organizations and consultancies",
         "fr": "API logicielle pour les organisations partenaires et les cabinets de conseil",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Retailers to calculate and publish product emissions",
         "fr": "Détaillants pour calculer et publier les émissions des produits",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants or institutional funding to scale operations",
         "fr": "Subventions ou financements institutionnels pour développer les opérations",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific collaborations for LCA data quality",
         "fr": "Collaborations scientifiques pour la qualité des données ACV",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Software partners to integrate CO2 calculation API",
         "fr": "Partenaires logiciels pour intégrer l'API de calcul CO2",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "EU policy support for mandatory carbon labeling",
         "fr": "Soutien politique de l'UE pour l'étiquetage carbone obligatoire",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "First major retailer to publicly label all products",
         "fr": "Premier grand détaillant à étiqueter publiquement tous les produits",

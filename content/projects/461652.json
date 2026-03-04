@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754564335,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Jordbrugets Uddannelses Center Aarhus (La Academia Verde), situado en Dinamarca, ofrece formación profesional diversa en campos como el paisajismo, la horticultura y la agricultura. Centrado en la sostenibilidad, el Centro participa en proyectos internacionales, como Erasmus+, enviando y recibiendo estudiantes para mejorar sus conocimientos en bienestar animal y prácticas medioambientales. La iniciativa pretende formar licenciados inteligentes y concienciados con el medio ambiente que puedan contribuir positivamente a la evolución del sistema alimentario y a los retos climáticos.",
     "de": "Das Jordbrugets Uddannelses Center Aarhus (The Green Academy) in Dänemark bietet verschiedene Berufsausbildungen in Bereichen wie Landschaftsgestaltung, Gartenbau und Landwirtschaft an. Mit einem Schwerpunkt auf Nachhaltigkeit beteiligt sich das Zentrum an internationalen Projekten, darunter Erasmus+, und sendet und empfängt Schüler, um ihr Wissen über Tierschutz und Umweltpraktiken zu erweitern. Die Initiative zielt darauf ab, intelligente, umweltbewusste Absolventen heranzuziehen, die einen positiven Beitrag zu dem sich entwickelnden Nahrungsmittelsystem und den klimatischen Herausforderungen leisten können."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,15 +34,9 @@
       "lastname": "Sikala"
     }
   ],
-  "thematic": [
-    "education",
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ju.dk",
   "yt": "ORzZbfozen8",
   "editedAt": 1755736190,
@@ -58,14 +46,12 @@
       "at": 1755736190
     }
   ],
-  "updatedAt": [
-    1755736190
-  ],
+  "updatedAt": [1755736190],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Karolina joined Green Academy as EU and sustainability coordinator. At that time, the school had only one EU project and had just begun embedding the 17 UN Sustainable Development Goals into its institutional strategy.",
         "fr": "Karolina a rejoint Green Academy en tant que coordinatrice EU et développement durable. À cette époque, l'école n'avait qu'un seul projet européen et venait tout juste de commencer à intégrer les 17 objectifs de développement durable de l'ONU dans sa stratégie institutionnelle.",
@@ -75,7 +61,7 @@
     },
     {
       "date": "2017-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Green Academy grew from one EU project to six or seven active international projects annually, including collaborations with partners in Poland, Italy, Spain, the Netherlands, and Finland.",
         "fr": "Green Academy est passée d'un seul projet européen à six ou sept projets internationaux actifs par an, incluant des collaborations avec des partenaires en Pologne, en Italie, en Espagne, aux Pays-Bas et en Finlande.",
@@ -85,7 +71,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The school invested significantly in energy efficiency by replacing all lighting with low-energy bulbs and installing solar panels and green roofs on buildings to improve biodiversity and reduce energy consumption.",
         "fr": "L'école a investi de manière significative dans l'efficacité énergétique en remplaçant tous les éclairages par des ampoules basse consommation et en installant des panneaux solaires et des toits végétalisés sur les bâtiments afin d'améliorer la biodiversité et de réduire la consommation d'énergie.",
@@ -95,7 +81,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Green Academy joined the AVEXA project, a five-year EU-funded initiative with 22 partners across six countries focused on creating six new vocational courses in climate-smart and regenerative agriculture, including digital and AI integration.",
         "fr": "Green Academy a rejoint le projet AVEXA, une initiative financée par l'UE sur cinq ans regroupant 22 partenaires dans six pays, axée sur la création de six nouveaux cours de formation professionnelle en agriculture climato-intelligente et régénératrice, incluant l'intégration du numérique et de l'IA.",
@@ -105,7 +91,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The school faces a significant recruitment challenge, as only 12% of students in the Aarhus area choose vocational education, prompting efforts to rebrand agriculture as a modern, sustainability-driven career path.",
         "fr": "L'école est confrontée à un défi majeur en matière de recrutement, car seulement 12 % des élèves de la région d'Aarhus choisissent la voie professionnelle, ce qui pousse à des efforts pour revaloriser l'agriculture en tant que carrière moderne et orientée vers le développement durable.",
@@ -116,7 +102,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Practical bachelor education in agriculture and forestry",
         "fr": "Formation pratique de bachelor en agriculture et foresterie",
@@ -125,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Lifelong learning courses for adult farmers",
         "fr": "Cours de formation continue pour agriculteurs adultes",
@@ -134,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "On-site farm as living lab for students",
         "fr": "Ferme sur site comme laboratoire vivant pour les étudiants",
@@ -143,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Urban greening projects with Aarhus municipality",
         "fr": "Projets de verdissement urbain avec la municipalité d'Aarhus",
@@ -152,7 +138,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New sustainability curriculum development via EU projects",
         "fr": "Développement d'un nouveau programme de durabilité via des projets européens",
@@ -161,7 +147,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training for 400 international students annually",
         "fr": "Formation pour 400 étudiants internationaux par an",
@@ -172,7 +158,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International partners for EU sustainability projects",
         "fr": "Partenaires internationaux pour les projets de durabilité de l'UE",
@@ -181,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New student demographic interested in sustainability",
         "fr": "Nouveau profil d'étudiants intéressés par la durabilité",
@@ -190,7 +176,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Applied research on regenerative and climate-smart farming",
         "fr": "Recherche appliquée sur l'agriculture régénératrice et climato-intelligente",
@@ -199,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Industry sponsors providing modern agricultural tools",
         "fr": "Sponsors industriels fournissant des outils agricoles modernes",
@@ -208,7 +194,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Collaboration with labor unions on curriculum regulation",
         "fr": "Collaboration avec les syndicats sur la réglementation des programmes scolaires",
@@ -217,7 +203,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Teachers willing to participate in EU project work",
         "fr": "Enseignants prêts à participer aux projets de l'UE",

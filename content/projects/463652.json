@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754425082,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "El proyecto pretende aprovechar los residuos de la industria cervecera para cultivar hongos comestibles, fomentando la sostenibilidad y reduciendo los residuos. Micelio Bio, empresa formada por un grupo de investigadores y profesionales del mundo empresarial, pretende aplicar la biotecnología fúngica a la producción de alimentos. Hacen hincapié en la importancia de la educación y la participación de la comunidad, ofreciendo formación y kits de autocultivo para fomentar la producción local.                                                                                 ",
     "de": "Das Projekt zielt darauf ab, Abfälle aus der Brauindustrie für den Anbau essbarer Mushrooms zu nutzen, um so die Nachhaltigkeit zu fördern und Abfall zu reduzieren. Micelio Bio, ein von einer Gruppe von Forschern und Geschäftsleuten gegründetes Unternehmen, strebt die Anwendung der Pilzbiotechnologie in der Lebensmittelproduktion an. Sie betonen die Bedeutung von Bildung und kommunaler Beteiligung und bieten Schulungen und Selbstzuchtsets an, um die lokale Produktion zu fördern.                                                                                 "
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,13 +34,9 @@
       "lastname": "Jurado"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.micelio.bio/",
   "yt": "cQRloMEztAs",
   "editedAt": 1755739793,
@@ -57,14 +46,12 @@
       "at": 1755739793
     }
   ],
-  "updatedAt": [
-    1755739793
-  ],
+  "updatedAt": [1755739793],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Micelio Bio originated from research initiated in 2018 to find uses for brewery waste (bagazo), discovering it could serve as a substrate for mushroom cultivation in partnership with INTECH researchers.",
         "fr": "Micelio Bio est née de recherches lancées en 2018 pour trouver des utilisations aux déchets de brasserie (bagazo), découvrant qu'ils pouvaient servir de substrat pour la culture de champignons en partenariat avec des chercheurs d'INTECH.",
@@ -74,7 +61,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The founding team, including biologist Alejandro Jurado, biotechnologist Santiago Jaramillo, and others, formalized the company as a corporation (sociedad anónima), incubated and accelerated by La Ciudad Posible.",
         "fr": "L'équipe fondatrice, comprenant le biologiste Alejandro Jurado, le biotechnologiste Santiago Jaramillo et d'autres, a formalisé l'entreprise en société anonyme, incubée et accélérée par La Ciudad Posible.",
@@ -84,7 +71,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Micelio Bio began full productive operations, achieving break-even within the first year by producing fresh mushrooms and developing a vertically integrated model from seed to consumer.",
         "fr": "Micelio Bio a démarré ses opérations productives à plein régime, atteignant l'équilibre financier dès la première année en produisant des champignons frais et en développant un modèle verticalement intégré, de la semence au consommateur.",
@@ -94,7 +81,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company faced significant setbacks including production contamination, difficulty developing national equipment due to import restrictions, and loss of their main seed supplier INTECH, forcing them to build an in-house laboratory.",
         "fr": "L'entreprise a fait face à des revers importants, notamment une contamination de la production, des difficultés à développer des équipements nationaux en raison des restrictions d'importation, et la perte de leur principal fournisseur de semences INTECH, les obligeant à créer un laboratoire interne.",
@@ -104,7 +91,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Micelio Bio expanded its product line to include dried mushrooms, mushroom milanesas, and hydroalcoholic concentrated drops for medicinal use, while launching the Micelia program serving over 5,000 people across Argentina with cultivation training.",
         "fr": "Micelio Bio a élargi sa gamme de produits pour inclure des champignons séchés, des milanesas de champignons et des gouttes concentrées hydroalcooliques à usage médicinal, tout en lançant le programme Micelia au service de plus de 5 000 personnes à travers l'Argentine avec des formations à la culture.",
@@ -114,7 +101,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company secured land in Chascomús to build a new 4,000 m² plant powered by solar and geothermal energy, aiming to scale production from 2 to 20+ tons per month and open retail points in Buenos Aires.",
         "fr": "L'entreprise a sécurisé un terrain à Chascomús pour construire une nouvelle usine de 4 000 m² alimentée par l'énergie solaire et géothermique, avec pour objectif d'augmenter la production de 2 à plus de 20 tonnes par mois et d'ouvrir des points de vente au détail à Buenos Aires.",
@@ -125,7 +112,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Edible and medicinal mushrooms in multiple formats",
         "fr": "Champignons comestibles et médicinaux en plusieurs formats",
@@ -134,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Technical training and consulting for producers",
         "fr": "Formation technique et conseil pour les producteurs",
@@ -143,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Home cultivation kits for self-production",
         "fr": "Kits de culture à domicile pour l'autoproduction",
@@ -152,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Capacity building for women in social kitchens",
         "fr": "Renforcement des capacités des femmes dans les cuisines sociales",
@@ -161,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "R&D services through La Honguera brand",
         "fr": "Services de R&D via la marque La Honguera",
@@ -170,7 +157,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular production using industrial organic waste",
         "fr": "Production circulaire utilisant des déchets organiques industriels",
@@ -181,7 +168,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Scientific research institutions for R&D collaboration",
         "fr": "Institutions de recherche scientifique pour la collaboration en R&D",
@@ -190,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New markets beyond current Buenos Aires distribution",
         "fr": "Nouveaux marchés au-delà de la distribution actuelle à Buenos Aires",
@@ -199,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment round for production plant scaling",
         "fr": "Tour de financement pour la mise à l'échelle de l'usine de production",
@@ -208,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Broader consumer adoption beyond niche market",
         "fr": "Adoption plus large par les consommateurs au-delà du marché de niche",
@@ -217,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Organic waste suppliers from agro-industrial sector",
         "fr": "Fournisseurs de déchets organiques issus du secteur agro-industriel",
@@ -226,7 +213,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Development of myceliated food products",
         "fr": "Développement de produits alimentaires mycelisés",

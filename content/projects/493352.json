@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755003147,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Mucilago Atomizado de Sanky se centra en la extracción y transformación del mucílago del fruto del sanky, una fruta poco conocida de la región peruana de Ayacucho. Desarrollado por un equipo multidisciplinar de la Universidad Católica, el proyecto pretende resaltar el valor nutricional de la fruta y su potencial como espesante natural para productos alimenticios. Lanzado en 2014 con financiación de Prociencia, busca promover prácticas agroindustriales sostenibles al tiempo que aborda la infrautilización de los recursos locales.",
     "de": "Die Initiative Mucilago Atomizado de Sanky konzentriert sich auf die Gewinnung und Verarbeitung von Schleim aus der Sanky-Frucht, einer weniger bekannten Frucht aus der Region Ayacucho in Peru. Das von einem multidisziplinären Team der Katholischen Universität entwickelte Projekt zielt darauf ab, den Nährwert der Frucht und ihr Potenzial als natürliches Verdickungsmittel für Lebensmittelprodukte herauszustellen. Es wurde 2014 mit finanzieller Unterstützung von Prociencia ins Leben gerufen und soll nachhaltige agroindustrielle Praktiken fördern und gleichzeitig die unzureichende Nutzung lokaler Ressourcen bekämpfen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "EDWARD ROJAS POLO"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "2013-2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The research team began analyzing the sanki fruit, conducting initial characterization studies and publishing findings on innovation. This preliminary phase laid the groundwork for a formal research project.",
         "fr": "L'équipe de recherche a commencé à analyser le fruit sanki, en menant des études de caractérisation initiales et en publiant des résultats sur l'innovation. Cette phase préliminaire a jeté les bases d'un projet de recherche formel.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The project was officially launched after receiving internal university funding of S/50,000 through the CAP program. The team, led by Jonathan Rojas alongside engineers Freddy Guaita, Elian Amango, and Henry Obregón, began fieldwork in Ayacucho and Huancavelica.",
         "fr": "Le projet a été officiellement lancé après avoir reçu un financement universitaire interne de S/50 000 via le programme CAP. L'équipe, dirigée par Jonathan Rojas aux côtés des ingénieurs Freddy Guaita, Elian Amango et Henry Obregón, a commencé les travaux de terrain à Ayacucho et Huancavelica.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The team completed a multi-phase investigation including field collection trips, post-harvest analysis, physicochemical characterization, and development of a documented process diagram for extracting atomized mucilage from sanki.",
         "fr": "L'équipe a réalisé une investigation en plusieurs phases comprenant des collectes sur le terrain, une analyse post-récolte, une caractérisation physicochimique et l'élaboration d'un diagramme de processus documenté pour l'extraction du mucilage atomisé du sanki.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A key challenge was the absence of the ICOBA characterization laboratory at the university, forcing the team to send samples to external specialized labs, consuming a significant portion of the S/50,000 budget.",
         "fr": "Un défi majeur a été l'absence du laboratoire de caractérisation ICOBA au sein de l'université, obligeant l'équipe à envoyer les échantillons à des laboratoires spécialisés externes, ce qui a consommé une part significative du budget de S/50 000.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "Post-project",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The research demonstrated that sanki mucilage could serve as a natural thickening agent with high nutritional value for use in food products. Results were published but no patent was filed and commercialization was never pursued.",
         "fr": "La recherche a démontré que le mucilage de sanki pouvait servir d'agent épaississant naturel à haute valeur nutritionnelle pour une utilisation dans des produits alimentaires. Les résultats ont été publiés, mais aucun brevet n'a été déposé et la commercialisation n'a jamais été envisagée.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "Post-project",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The sanki project served as a foundational milestone that opened the door to subsequent agroindustrial research projects, including work on grape industry waste in partnership with a private winery, establishing a methodology for characterizing other underutilized Peruvian products.",
         "fr": "Le projet sanki a constitué une étape fondatrice qui a ouvert la voie à des projets de recherche agroindustrielle ultérieurs, notamment des travaux sur les déchets de l'industrie viticole en partenariat avec une cave privée, établissant ainsi une méthodologie pour la caractérisation d'autres produits péruviens sous-exploités.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Characterization of Sanki fruit nutritional properties",
         "fr": "Caractérisation des propriétés nutritionnelles du fruit Sanki",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Post-harvest handling advice to rural collectors",
         "fr": "Conseils sur la manipulation post-récolte aux collecteurs ruraux",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Atomized mucilage as food thickener additive",
         "fr": "Mucilage atomisé comme additif épaississant alimentaire",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Knowledge of underutilized Andean native species",
         "fr": "Connaissance des espèces natives andines sous-utilisées",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Published research freely available for industry use",
         "fr": "Recherches publiées librement disponibles pour l'usage industriel",
@@ -161,7 +151,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Funding for commercialization phase of mucilage",
         "fr": "Financement pour la phase de commercialisation du mucilage",
@@ -170,7 +160,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market entry for atomized sanki mucilage",
         "fr": "Entrée sur le marché du mucilage de sanki atomisé",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Industry partners for food sector application",
         "fr": "Partenaires industriels pour l'application dans le secteur alimentaire",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Domestic cultivation of wild sanki fruit",
         "fr": "Culture nationale du fruit sauvage de sanki",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government mapping of native fruit species",
         "fr": "Cartographie gouvernementale des espèces de fruits indigènes",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754420536,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Turba Agroecologia es una cooperativa dedicada a la producción de harina integral agroecológica, al tiempo que proporciona apoyo técnico a los productores que están en transición hacia prácticas sostenibles. Nuestra iniciativa pretende promover la sostenibilidad alimentaria restaurando la fertilidad del suelo y garantizando alimentos sanos y seguros tanto para los productores como para los consumidores. Nos esforzamos por lograr la sostenibilidad a largo plazo, ampliando nuestro alcance y nuestra oferta de productos, a pesar de las dificultades para formalizar la producción y acceder a los recursos necesarios.                                ",
     "de": "Turba Agroecologia ist eine Genossenschaft, die sich der Produktion von agroökologischem Vollkornmehl widmet, während sie Bauern, die zu nachhaltigen Praktiken übergehen, technische Unterstützung bietet. Unsere Initiative zielt darauf ab, die Nachhaltigkeit von Lebensmitteln durch die Wiederherstellung der Bodenfruchtbarkeit und die Gewährleistung sicherer, gesunder Lebensmittel für Erzeuger und Verbraucher zu fördern. We strive for long-term sustainability, expanding our range and product offerings, despite challenges in formalizing production and accessing necessary resources.                                "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Muñecas"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://linktr.ee/turbaagroecologia",
   "yt": "B2aE-GXa8YI",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The founding members of what would become Turba met during a one-year agroecology specialization at the Universidad de la Matanza. They were the third and final cohort of the program.",
         "fr": "Les membres fondateurs de ce qui allait devenir Turba se sont rencontrés lors d'une spécialisation d'un an en agroécologie à l'Universidad de la Matanza. Ils constituaient la troisième et dernière promotion du programme.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The group began offering technical advisory services to producers in the Pergamino and Rosario areas seeking to transition to agroecological production. These early efforts were largely unsuccessful due to intrafamily conflicts and the slow pace of agroecological transition.",
         "fr": "Le groupe a commencé à proposer des services de conseil technique aux producteurs des régions de Pergamino et de Rosario souhaitant passer à une production agroécologique. Ces premiers efforts ont été largement infructueux en raison de conflits intrafamiliaux et de la lenteur de la transition agroécologique.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Turba formally constituted as a cooperative and pivoted to productive activity, beginning wheat cultivation and flour milling in the context of the COVID-19 pandemic. They also received support from a provincial cooperative incubator program for formalization.",
         "fr": "Turba s'est formellement constituée en coopérative et a pivoté vers une activité productive, en débutant la culture du blé et la mouture de farine dans le contexte de la pandémie de COVID-19. Elle a également bénéficié du soutien d'un programme provincial d'incubation de coopératives pour sa formalisation.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The cooperative moved its milling operation from a partner's garage into a rented warehouse in Pergamino, marking a significant scale-up with new fixed costs. They also lost access to their first rented field when the landowner decided to develop a private housing estate.",
         "fr": "La coopérative a déplacé son activité de meunerie du garage d'un partenaire vers un entrepôt loué à Pergamino, marquant une montée en échelle significative avec de nouveaux coûts fixes. Elle a également perdu l'accès à son premier champ loué lorsque le propriétaire a décidé de développer un lotissement résidentiel privé.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Turba joined a WhatsApp-based network of agroecological flour producers coordinated through INTA, and participated as a study subject in a Conicet-INTA research project on the nutritional quality of agroecological integral flour.",
         "fr": "Turba a rejoint un réseau de producteurs de farine agroécologique coordonné via WhatsApp par l'INTA, et a participé en tant que sujet d'étude dans un projet de recherche Conicet-INTA sur la qualité nutritionnelle de la farine intégrale agroécologique.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2023-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The cooperative received a national Fontar technology grant in November 2023, though inflation meant the funds only covered a dust-filter machine rather than the planned white-flour mill. Sales fell approximately 30% amid Argentina's deep economic crisis, leaving habilitación permits and expansion plans stalled.",
         "fr": "La coopérative a reçu une subvention technologique nationale Fontar en novembre 2023, bien que l'inflation ait fait en sorte que les fonds ne couvrent qu'une machine de filtration de poussière plutôt que le moulin à farine blanche prévu. Les ventes ont chuté d'environ 30 % au milieu de la profonde crise économique argentine, laissant les permis d'habilitación et les projets d'expansion au point mort.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological integral flour production",
         "fr": "Production intégrale de farine agroécologique",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sales through solidarity economy networks",
         "fr": "Ventes via les réseaux d'économie solidaire",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical support for agroecological transition",
         "fr": "Soutien technique pour la transition agroécologique",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstrates alternative farming in soy region",
         "fr": "Démontre une agriculture alternative dans la région du soja",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Grain milling service for other producers",
         "fr": "Service de mouture de grains pour d'autres producteurs",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cooperative work model for members",
         "fr": "Modèle de travail coopératif pour les membres",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and subsidies for machinery and habilitación",
         "fr": "Subventions et aides pour les machines et l'habilitación",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded commercial channels requiring official registration",
         "fr": "Circuits commerciaux élargis nécessitant une inscription officielle",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agroecological producers for joint contracting",
         "fr": "Producteurs agroécologiques pour la passation de marchés conjoints",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New cooperative member based in Pergamino",
         "fr": "Nouveau membre coopératif basé à Pergamino",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutritional data on integral agroecological flour",
         "fr": "Données nutritionnelles sur la farine agroécologique intégrale",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Agroecological wheat suppliers for milling service",
         "fr": "Fournisseurs de blé agroécologique pour le service de mouture",

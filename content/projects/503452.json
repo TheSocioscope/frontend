@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Greenway Grameen manufactures efficient wood-burning cookstoves using one-third as much firewood and producing 70% less smoke than traditional stoves.",
     "de": "Greenway Grameen manufactures efficient wood-burning cookstoves using one-third as much firewood and producing 70% less smoke than traditional stoves."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Mumbai, India",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Mathor"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.greenwayappliances.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ankit Mathur and co-founder Neha Juneja founded Greenway with the goal of designing and distributing products to improve quality of life for rural customers, focusing on clean cooking energy.",
         "fr": "Ankit Mathur et la cofondatrice Neha Juneja ont fondé Greenway avec pour objectif de concevoir et distribuer des produits améliorant la qualité de vie des clients ruraux, en se concentrant sur l'énergie de cuisson propre.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2011-2014",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Greenway worked with various vendors to produce and sell the Greenway Smart Stove, reaching rural middle-class customers before establishing its own manufacturing facility.",
         "fr": "Greenway a collaboré avec divers fournisseurs pour produire et vendre le réchaud intelligent Greenway, atteignant les clients de la classe moyenne rurale avant d'établir sa propre installation de fabrication.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Greenway became profitable, generating enough revenue to sustain a small team without relying on external capital.",
         "fr": "Greenway est devenue rentable, générant suffisamment de revenus pour maintenir une petite équipe sans dépendre de capitaux externes.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2014",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Greenway established its manufacturing facility in Bhadotara, Gujarat, using grant funding from the Global Alliance for Clean Cookstoves to set up operations.",
         "fr": "Greenway a établi son installation de fabrication à Bhadotara, au Gujarat, en utilisant des fonds de subvention de l'Alliance mondiale pour les foyers de cuisson propres afin de mettre en place ses opérations.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2015",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Greenway raised approximately $1.5 million from impact investors Acumen and Asha Impact, enabling further scaling of the business.",
         "fr": "Greenway a levé environ 1,5 million de dollars auprès des investisseurs à impact Acumen et Asha Impact, permettant une expansion supplémentaire de l'entreprise.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Greenway leveraged the voluntary carbon markets boom to subsidize nearly one million cookstoves, using forward sales of carbon credits to reduce the product price for end customers.",
         "fr": "Greenway a tiré parti de l'essor des marchés volontaires du carbone pour subventionner près d'un million de réchauds, en utilisant des ventes à terme de crédits carbone pour réduire le prix du produit pour les clients finaux.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Improved cookstoves for cleaner rural cooking",
         "fr": "Fourneaux améliorés pour une cuisine rurale plus propre",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Subsidized stoves via carbon credit financing",
         "fr": "Fourneaux subventionnés via le financement par crédits carbone",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Micro-loan access for rural cookstove buyers",
         "fr": "Accès aux micro-crédits pour les acheteurs ruraux de fourneaux",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Door-to-door product demos in rural villages",
         "fr": "Démonstrations de produits porte-à-porte dans les villages ruraux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Rooftop solar installation for urban housing",
         "fr": "Installation de panneaux solaires en toiture pour les logements urbains",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Kitchen appliances beyond cookstoves for customers",
         "fr": "Appareils électroménagers au-delà des fourneaux pour les clients",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Intermediate B2B partners for distribution",
         "fr": "Partenaires B2B intermédiaires pour la distribution",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Capital for scaling and expansion",
         "fr": "Capital pour la mise à l'échelle et l'expansion",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Vendors for manufacturing raw materials",
         "fr": "Fournisseurs pour la fabrication de matières premières",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Dealer distributor network in rural areas",
         "fr": "Réseau de distributeurs concessionnaires dans les zones rurales",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Supportive policies for clean cooking access",
         "fr": "Politiques favorables pour l'accès à une cuisine propre",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for end customers via NBFCs",
         "fr": "Financement pour les clients finaux via les NBFC",
@@ -256,9 +246,7 @@
     }
   ],
   "editedAt": 1771254944,
-  "updatedAt": [
-    1771254944
-  ],
+  "updatedAt": [1771254944],
   "feedback": [
     {
       "content": false,

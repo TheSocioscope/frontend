@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739449535,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Nona es una iniciativa de nueva creación que pretende transformar el sector de la restauración, en particular el de los comedores, mediante una aplicación de gestión integral. La iniciativa pretende ofrecer apoyo operativo a los comedores optimizando sus pedidos de comida, el diseño de menús y los procesos generales de gestión. La aplicación de Nona sirve de herramienta centralizada que conecta a los cocineros de los comedores con los proveedores locales, permitiéndoles acceder a una amplia base de datos de productos alimentarios, incluidas opciones estacionales y sostenibles.\n\nLa iniciativa también se centra en fomentar la colaboración entre diversas partes interesadas, como autoridades locales, productores y proveedores, para crear un ecosistema de apoyo a los comedores.\n\nAdemás, Nona lleva a cabo evaluaciones de las prácticas de compra en los comedores, realiza un seguimiento estadístico y ayuda en la adquisición de equipos para facilitar la transición a prácticas alimentarias sostenibles. Al reunir a todos los agentes implicados en la cadena de suministro alimentario, Nona pretende crear asociaciones que mejoren la calidad y la sostenibilidad de las comidas servidas en los comedores, contribuyendo en última instancia a una transición alimentaria más amplia en la sociedad.",
     "de": "Nona ist eine Start-up-Initiative, die darauf abzielt, die Cateringbranche, insbesondere in Kantinen, durch eine umfassende Managementanwendung umzugestalten. Die Initiative will Kantinen operativ unterstützen, indem sie die Bestellung von Lebensmitteln, die Gestaltung von Menüs und allgemeine Managementprozesse optimiert. Nonas Anwendung dient als zentrales Werkzeug, das die Küchenchefs mit lokalen Lieferanten verbindet und ihnen den Zugriff auf eine große Datenbank mit Lebensmitteln ermöglicht, darunter auch saisonale und nachhaltige Optionen.\n\nDie Initiative konzentriert sich auch auf die Förderung der Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter lokale Behörden, Produzenten und Lieferanten, um ein unterstützendes Ökosystem für Kantinen zu schaffen.\n\nDarüber hinaus führt Nona Bewertungen der Einkaufspraktiken von Kantinen durch, bietet statistisches Monitoring und unterstützt die Beschaffung von Geräten, um den Übergang zu nachhaltigen Ernährungspraktiken zu erleichtern. Durch die Zusammenführung aller an der Lebensmittelversorgungskette beteiligten Akteure will Nona Partnerschaften aufbauen, die die Qualität und Nachhaltigkeit der in Kantinen servierten Mahlzeiten verbessern und so letztendlich zu einem breiteren Übergang von Lebensmitteln in der Gesellschaft beitragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Sibille"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.nona.fr",
   "yt": "uuyEkNVaVZo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nona was co-founded by Louis Siby and a partner with the mission to equip collective catering with a management software to optimize operations and promote more sustainable food practices.",
         "fr": "Nona a été cofondée par Louis Siby et un associé avec pour mission d'équiper la restauration collective d'un logiciel de gestion pour optimiser les opérations et promouvoir des pratiques alimentaires plus durables.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Nona raised a round of funding and achieved profitability through an annual subscription model, deliberately avoiding dependence on systematic fundraising or public subsidies.",
         "fr": "Nona a levé un tour de financement et atteint la rentabilité grâce à un modèle d'abonnement annuel, évitant délibérément toute dépendance aux levées de fonds systématiques ou aux subventions publiques.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Nona scaled to approximately 500 canteen clients across France and built partnerships with nearly 900 producers, becoming one of the largest food data networks in French collective catering.",
         "fr": "Nona s'est développée pour atteindre environ 500 cantines clientes à travers la France et a noué des partenariats avec près de 900 producteurs, devenant l'un des plus grands réseaux de données alimentaires de la restauration collective française.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Nona launched 'Le Champ des Cantines' in Isère, federating 20 structures including a bio cooperative and agricultural groups to pilot a multi-actor territorial support program for canteens.",
         "fr": "Nona a lancé « Le Champ des Cantines » en Isère, fédérant 20 structures dont une coopérative bio et des groupements agricoles, pour piloter un programme d'accompagnement territorial multi-acteurs destiné aux cantines.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Nona grew to approximately 30 employees across tech, sales, account management, and communications teams, while prioritizing data partnerships with major distributors such as DS Restauration and initiating talks with others like Kryll.",
         "fr": "Nona a grandi pour atteindre environ 30 collaborateurs répartis entre les équipes tech, commerciale, gestion de compte et communication, tout en privilégiant des partenariats data avec de grands distributeurs tels que DS Restauration et en engageant des discussions avec d'autres comme Kryll.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Nona began developing a 'Fresque de la Cantine' awareness tool and preparing to duplicate the Isère territorial model across other French regions, aiming to become a single-entry advisory platform for PATs and communes.",
         "fr": "Nona a commencé à développer un outil de sensibilisation « Fresque de la Cantine » et à préparer la duplication du modèle territorial isérois dans d'autres régions françaises, avec l'ambition de devenir une plateforme de conseil à entrée unique pour les PAT et les communes.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Canteen management software for collective catering",
         "fr": "Logiciel de gestion de cantine pour la restauration collective",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Chef training on vegetarian and sustainable cooking",
         "fr": "Formation des cuisiniers à la cuisine végétarienne et durable",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Real-time access to 900 local producers",
         "fr": "Accès en temps réel à 900 producteurs locaux",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Multi-stakeholder coordination at territory level",
         "fr": "Coordination multi-acteurs à l'échelle du territoire",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seasonal recipe guides for school canteens",
         "fr": "Guides de recettes saisonnières pour les cantines scolaires",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Food purchasing data analysis for PAT programs",
         "fr": "Analyse des données d'achats alimentaires pour les programmes PAT",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Network of territorial food system actors",
         "fr": "Réseau d'acteurs des systèmes alimentaires territoriaux",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local producers and distributors data partnerships",
         "fr": "Partenariats de données avec les producteurs et distributeurs locaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "School canteens subscribing to management platform",
         "fr": "Cantines scolaires abonnées à la plateforme de gestion",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public institutions to fund canteen transformation",
         "fr": "Institutions publiques pour financer la transformation des cantines",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Comprehensive French canteen purchasing database",
         "fr": "Base de données complète des achats des cantines françaises",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "PAT project managers to deploy local programs",
         "fr": "Chefs de projet PAT pour déployer des programmes locaux",

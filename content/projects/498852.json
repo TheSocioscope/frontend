@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1755262460,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa \"Les Pieds dans le Plat\" fue fundada por un grupo de chefs y cocineros en respuesta al Foro Medioambiental de Grenelle. El colectivo pretende transformar las prácticas alimentarias en la restauración colectiva promoviendo comidas caseras 100% ecológicas con productos locales y de temporada. Entre sus principales actividades figura la formación y el apoyo a los equipos de cocina de diversas instituciones, como escuelas y residencias de ancianos, para que apliquen eficazmente estas prácticas. La iniciativa hace hincapié en la colaboración con grupos locales de agricultura ecológica, autoridades públicas y otras organizaciones relacionadas con la alimentación para crear una red que apoye la autosuficiencia alimentaria y combata la malnutrición, especialmente entre poblaciones vulnerables como los ancianos.",
     "de": "Die Initiative \"Les Pieds dans le Plat\" wurde von einer Gruppe von Köchen und Köchinnen als Reaktion auf das Umweltforum von Grenelle gegründet. Ziel des Kollektivs ist es, die Verpflegungspraxis in der Gemeinschaftsverpflegung durch die Förderung von 100 % biologischen, hausgemachten Mahlzeiten mit lokalen und saisonalen Produkten zu verändern. Zu den wichtigsten Aktivitäten gehören die Schulung und Unterstützung von Küchenteams in verschiedenen Einrichtungen wie Schulen und Altenheimen, um diese Praktiken wirksam umzusetzen. Die Initiative legt großen Wert auf die Zusammenarbeit mit lokalen Bio-Anbauverbänden, Behörden und anderen Organisationen, die mit Lebensmitteln zu tun haben, um ein Netzwerk zu schaffen, das die Selbstversorgung mit Lebensmitteln unterstützt und Mangelernährung bekämpft, insbesondere bei gefährdeten Bevölkerungsgruppen wie älteren Menschen."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,22 +33,16 @@
       "lastname": "Marc Mouillac"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "aging-demography",
-    "human-behaviours-social-relations"
-  ],
+  "thematic": ["food-agriculture-fishery", "aging-demography", "human-behaviours-social-relations"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.collectiflespiedsdansleplat.org",
   "yt": "8iDN8N0w8gg",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jean-Marc Mouyak co-founds the collective Les Pieds dans le Plat following the Grenelle de l'environnement, which brought together cooks and dieticians to transition collective catering toward organic food.",
         "fr": "Jean-Marc Mouyak co-fonde le collectif Les Pieds dans le Plat à la suite du Grenelle de l'environnement, qui a réuni cuisiniers et diététiciens pour faire évoluer la restauration collective vers une alimentation biologique.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The collective Les Pieds dans le Plat is formally created as an association, building on encounters from the post-Grenelle training network to advocate for 100% organic, homemade collective catering.",
         "fr": "Le collectif Les Pieds dans le Plat est officiellement créé en tant qu'association, s'appuyant sur les rencontres issues du réseau de formation post-Grenelle pour défendre une restauration collective 100% biologique et faite maison.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "Before 2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Jean-Marc achieves the first 100% organic school canteen in France, receiving significant media attention, and is subsequently recruited by the Dordogne department to train cooks across its colleges.",
         "fr": "Jean-Marc réalise la première cantine scolaire 100% biologique de France, suscitant une attention médiatique considérable, et est ensuite recruté par le département de la Dordogne pour former les cuisiniers de ses collèges.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Société Coopérative d'Intérêt Collectif (SCIC) Nourrir l'Avenir is created to give the collective a national economic dimension, deploying over 40 trainers across French territories.",
         "fr": "La Société Coopérative d'Intérêt Collectif (SCIC) Nourrir l'Avenir est créée pour donner au collectif une dimension économique nationale, en déployant plus de 40 formateurs sur les territoires français.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Centre d'Education Populaire à l'Alimentation (CEPA) is launched in Cadouin, Dordogne, serving as a training and restaurant hub for food autonomy, supported by a 500,000-euro departmental investment in its kitchen.",
         "fr": "Le Centre d'Education Populaire à l'Alimentation (CEPA) est lancé à Cadouin, en Dordogne, servant de pôle de formation et de restauration pour l'autonomie alimentaire, soutenu par un investissement départemental de 500 000 euros dans sa cuisine.",
@@ -105,7 +92,7 @@
     },
     {
       "date": "2028",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The Dordogne department aims to become the first French department where all its colleges operate at 100% organic and 100% homemade before the end of the political mandate.",
         "fr": "Le département de la Dordogne ambitionne de devenir le premier département français où l'ensemble de ses collèges fonctionnent à 100% en biologique et 100% en fait maison avant la fin du mandat politique.",
@@ -116,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Immersive training for collective catering teams",
         "fr": "Formation immersive pour les équipes de restauration collective",
@@ -125,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Popular education center for food autonomy",
         "fr": "Centre d'éducation populaire pour l'autonomie alimentaire",
@@ -134,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "100% organic homemade meal programs",
         "fr": "Programmes de repas faits maison 100% biologiques",
@@ -143,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support for elderly people's food autonomy",
         "fr": "Soutien à l'autonomie alimentaire des personnes âgées",
@@ -152,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local bio supply platform for territories",
         "fr": "Plateforme d'approvisionnement bio local pour les territoires",
@@ -161,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "First 100% organic school district in France",
         "fr": "Premier district scolaire 100% biologique en France",
@@ -172,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expanding 100% organic school canteens nationally",
         "fr": "Déploiement national des cantines scolaires 100% biologiques",
@@ -181,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Additional cooperative shareholders and social capital",
         "fr": "Nouveaux sociétaires coopératifs et capital social",
@@ -190,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Public institutions for collective catering contracts",
         "fr": "Institutions publiques pour les marchés de restauration collective",
@@ -199,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Food experimentation with traditional ingredients",
         "fr": "Expérimentation alimentaire avec des ingrédients traditionnels",
@@ -208,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Network of regional trainers across France",
         "fr": "Réseau de formateurs régionaux à travers la France",
@@ -217,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political advocacy for homemade organic food law",
         "fr": "Plaidoyer politique pour une loi sur l'alimentation biologique faite maison",
@@ -259,9 +246,7 @@
     }
   ],
   "editedAt": 1771254824,
-  "updatedAt": [
-    1771254824
-  ],
+  "updatedAt": [1771254824],
   "feedback": [
     {
       "content": false,

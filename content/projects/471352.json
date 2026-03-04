@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1754673056,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Pescartes es una asociación de pescadores artesanales de Cabo de Gata (España) que representa a los pescadores a pequeña escala que utilizan prácticas sostenibles. Creada hace 18 años, su objetivo es hacer oír la voz de estos pescadores en los debates con las autoridades, sobre todo en relación con la normativa pesquera y la conservación marina. La asociación se enfrenta a retos como el acceso limitado a las mesas de toma de decisiones y a la financiación, al tiempo que se esfuerza por preservar los conocimientos pesqueros tradicionales y promover los productos del mar locales dentro de la comunidad.",
     "de": "Pescartes ist eine Vereinigung von handwerklichen Fischern in Cabo de Gata, Spanien, die kleinbäuerliche Fischer vertritt, die nachhaltige Praktiken anwenden. Die vor 18 Jahren gegründete Organisation zielt darauf ab, die Stimmen dieser Fischer in Gesprächen mit den Behörden zu verstärken, insbesondere in Bezug auf Fischereiregelungen und den Schutz der Meere. Der Verband steht vor Herausforderungen, darunter ein begrenzter Zugang zu Entscheidungstischen und Finanzmitteln, und bemüht sich gleichzeitig um die Erhaltung des traditionellen Fischfangwissens und die Förderung des lokalen Seafoods in der Gemeinde."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Zotwana"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/PescartesP/",
   "yt": "FBh_AuX3IEg",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1986",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The marine reserve at Cabo de Gata was declared by the Junta de Andalucía, initially for environmental protection. Fishermen were not consulted in the process.",
         "fr": "La réserve marine de Cabo de Gata a été déclarée par la Junta de Andalucía, initialement à des fins de protection environnementale. Les pêcheurs n'ont pas été consultés au cours du processus.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1995",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Ministry converted the area into a Reserva Marina de Interés Pesquero, imposing regulations that restricted artisanal fishermen to only two fishing methods without their input.",
         "fr": "Le ministère a transformé la zone en Reserva Marina de Interés Pesquero, imposant des réglementations qui limitaient les pêcheurs artisanaux à seulement deux méthodes de pêche sans les consulter.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Pescarte was founded by artisanal fishermen in Cabo de Gata to create a legitimate representative voice and remove the administration's excuse of having no valid interlocutor from the fishing community.",
         "fr": "Pescarte a été fondée par des pêcheurs artisanaux à Cabo de Gata afin de créer une voix représentative légitime et de supprimer le prétexte de l'administration selon lequel il n'existait pas d'interlocuteur valable au sein de la communauté des pêcheurs.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2004-present",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Despite 18+ years of operation, Pescarte has never been granted an official seat on the park's governing board, and fishermen remain excluded from key decision-making tables.",
         "fr": "Malgré plus de 18 ans d'activité, Pescarte n'a jamais obtenu de siège officiel au conseil de gouvernance du parc, et les pêcheurs restent exclus des principales instances décisionnelles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "post-2004",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Pescarte joined the European platform LIFE (Low Impact Fishers of Europe), gaining access to European funding, political representation in Brussels, and a sense of community with artisanal fishers across the continent.",
         "fr": "Pescarte a rejoint la plateforme européenne LIFE (Low Impact Fishers of Europe), accédant ainsi à des financements européens, à une représentation politique à Bruxelles et à un sentiment d'appartenance à une communauté de pêcheurs artisanaux à travers le continent.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Pescarte runs cultural outreach programs including school visits, gastronomic events, and the 'Pescados con Arte' campaign to raise awareness of traditional fishing knowledge and undervalued species.",
         "fr": "Pescarte mène des programmes de sensibilisation culturelle comprenant des visites scolaires, des événements gastronomiques et la campagne 'Pescados con Arte' afin de valoriser les savoirs traditionnels de la pêche et les espèces méconnues.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Collective voice for artisanal fishermen",
         "fr": "Voix collective pour les pêcheurs artisanaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Outreach events for schools and local community",
         "fr": "Événements de sensibilisation pour les écoles et la communauté locale",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Sustainable local seafood to nearby restaurants",
         "fr": "Produits de la mer locaux et durables pour les restaurants environnants",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Vessel and data access for scientific studies",
         "fr": "Accès aux embarcations et aux données pour les études scientifiques",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Gastronomy events showcasing lesser-known species",
         "fr": "Événements gastronomiques mettant en valeur les espèces méconnues",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Advocacy for direct local fish sales point",
         "fr": "Plaidoyer pour un point de vente directe de poisson local",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Formal seat in marine reserve governing board",
         "fr": "Siège formel au conseil de gestion de la réserve marine",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Official local fish sale point",
         "fr": "Point de vente local officiel de poisson",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Project-based grants for association operations",
         "fr": "Subventions par projet pour les opérations de l'association",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific feedback from collaborative studies",
         "fr": "Retours scientifiques issus d'études collaboratives",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies within public administration",
         "fr": "Alliés au sein de l'administration publique",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer awareness of artisanal fish species",
         "fr": "Sensibilisation des consommateurs aux espèces de poissons artisanaux",

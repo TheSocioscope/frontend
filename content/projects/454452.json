@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1741095071,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Frej es un grupo de reflexión sin ánimo de lucro situado en una gran ciudad, centrado en promover prácticas sostenibles dentro del sistema alimentario. Fundado por un grupo de estudiantes hace siete años, ha crecido hasta emplear a unos 20 trabajadores a tiempo completo. La organización actúa como puente entre diversas partes interesadas, produciendo conocimientos, organizando actos y ofreciendo asesoramiento político para fomentar la colaboración. Su misión es transformar el sistema alimentario, implicando al público y abordando la división entre comunidades urbanas y rurales. La financiación depende de las subvenciones, que son cruciales para sus proyectos en curso.",
     "de": "Frej ist ein gemeinnütziger Think Tank in einer Großstadt, der sich auf die Förderung nachhaltiger Praktiken innerhalb des Lebensmittelsystems konzentriert. Sie wurde vor sieben Jahren von einer Gruppe von Studenten gegründet und ist mittlerweile auf rund 20 Vollzeitmitarbeiter angewachsen. Die Organisation fungiert als Brücke zwischen verschiedenen Interessengruppen, indem sie Wissen produziert, Veranstaltungen ausrichtet und politische Beratung zur Förderung der Zusammenarbeit anbietet. Ihre Aufgabe ist es, das Ernährungssystem umzugestalten, indem sie die Öffentlichkeit einbezieht und die Kluft zwischen städtischen und ländlichen Gemeinden überwindet. Die Finanzierung basiert auf Zuschüssen, die für ihre laufenden Projekte von entscheidender Bedeutung sind."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Hoffmann"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.taenk-frej.dk",
   "yt": "OHXmJSzv4ro",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Frei was founded by four students who had moved from the Danish countryside to Copenhagen and felt a divide between rural and urban life. They created a student group to bridge understanding between farming communities and city life.",
         "fr": "Frei a été fondée par quatre étudiants qui avaient quitté la campagne danoise pour Copenhague et ressentaient un fossé entre la vie rurale et la vie urbaine. Ils ont créé un groupe étudiant pour favoriser la compréhension entre les communautés agricoles et la vie citadine.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization grew from one employee at founding to approximately 20 full-time staff over seven years, funded entirely through competitive grants from foundations such as Novo Nordisk.",
         "fr": "L'organisation est passée d'un seul employé à sa création à environ 20 membres du personnel à temps plein en sept ans, financée entièrement par des subventions compétitives de fondations telles que Novo Nordisk.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Frei expanded its activities to include policy advisory work, knowledge production, public events, school programs, and a volunteer network of 25 young people running initiatives across Denmark.",
         "fr": "Frei a élargi ses activités pour inclure des travaux consultatifs en matière de politique, la production de connaissances, des événements publics, des programmes scolaires et un réseau de bénévoles composé de 25 jeunes menant des initiatives à travers le Danemark.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Frei collaborated with the Danish Vegetarian Association on advancing a plant-based political agenda in Denmark, leveraging complementary networks to reach different age groups within society.",
         "fr": "Frei a collaboré avec l'Association végétarienne danoise pour faire avancer un programme politique axé sur les végétaux au Danemark, en s'appuyant sur des réseaux complémentaires pour atteindre différentes tranches d'âge au sein de la société.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Frei delivered policy recommendations on regenerative farming to Christian Spo, gathering stakeholders from farmers to major corporations like Carlsberg to inform policymakers.",
         "fr": "Frei a remis des recommandations politiques sur l'agriculture régénérative à Christian Spo, en réunissant des parties prenantes allant des agriculteurs aux grandes entreprises comme Carlsberg pour informer les décideurs politiques.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The organization faced a significant funding crisis with three grant applications rejected simultaneously, leaving only enough funding to sustain operations for approximately one year despite having 20 permanent employees.",
         "fr": "L'organisation a été confrontée à une grave crise de financement avec trois demandes de subvention rejetées simultanément, ne laissant suffisamment de fonds que pour maintenir les opérations pendant environ un an malgré 20 employés permanents.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Policy briefs and recommendations for decision makers",
         "fr": "Notes de politique et recommandations pour les décideurs",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Bridge building between food system stakeholders",
         "fr": "Construction de ponts entre les parties prenantes du système alimentaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Educational programs for school children and teachers",
         "fr": "Programmes éducatifs pour les écoliers et les enseignants",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Networking events connecting industry and political actors",
         "fr": "Événements de réseautage reliant les acteurs industriels et politiques",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Knowledge translation for actors driving change",
         "fr": "Transfert de connaissances pour les acteurs qui impulsent le changement",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Volunteer-led projects engaging younger population",
         "fr": "Projets dirigés par des bénévoles impliquant les jeunes générations",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants to sustain operations and staff",
         "fr": "Subventions pour maintenir les opérations et le personnel",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Cross-sector collaborators across food system",
         "fr": "Collaborateurs intersectoriels à travers le système alimentaire",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Policy recommendations for Danish food regulation",
         "fr": "Recommandations politiques pour la réglementation alimentaire danoise",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge production on sustainable food topics",
         "fr": "Production de connaissances sur les thématiques alimentaires durables",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Young volunteers for outreach and events",
         "fr": "Jeunes bénévoles pour la sensibilisation et les événements",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Broader sustainable consumption among Danish citizens",
         "fr": "Consommation durable plus large parmi les citoyens danois",

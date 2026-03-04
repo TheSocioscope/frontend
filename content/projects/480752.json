@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754991959,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Mamma Mia es un restaurante que hace hincapié en la importancia de la calidad y el servicio personalizado, optando por un restaurante pequeño con sólo dos mesas. Se centra en ofrecer un menú limitado pero especial, con la langosta como plato estrella debido a su popularidad entre los turistas. El restaurante funciona con reservas, lo que le permite gestionar el número de comensales y mantener un alto nivel de servicio. El restaurante pretende mantener su exclusividad y su reputación como lugar de visita obligada en Providencia.",
     "de": "Mamma Mia ist ein Restaurant, das Wert auf Qualität und persönlichen Service legt und sich für ein kleines Restaurant mit nur zwei Tischen entschieden hat. Es konzentriert sich darauf, eine begrenzte, aber spezielle Speisekarte anzubieten, wobei Hummer aufgrund seiner Beliebtheit bei den Touristen zu einem typischen Gericht wird. Das Restaurant arbeitet auf Reservierungsbasis, was es ihr ermöglicht, die Anzahl der Gäste zu kontrollieren und einen hohen Servicestandard aufrechtzuerhalten. Das Restaurant ist bestrebt, seine Exklusivität und seinen Ruf als ein Muss in Providencia aufrechtzuerhalten."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Pavina Alvarez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "leisure-tourism"
-  ],
+  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://oldprovidence.co/directorio/mamma-mia-2/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1989",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "María Paola moved to Providencia island from Bogotá, beginning her career working in restaurants and hotels for various employers in the tourism sector.",
         "fr": "María Paola a déménagé de Bogotá à l'île de Providencia, débutant sa carrière en travaillant dans des restaurants et des hôtels pour divers employeurs du secteur touristique.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2002",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Mamma Mía was founded on December 22nd, María Paola's birthday, initially as an Italian restaurant in the Agua Dulce tourist zone, funded by her husband's back-pay settlement.",
         "fr": "Mamma Mía a été fondée le 22 décembre, jour de l'anniversaire de María Paola, d'abord en tant que restaurant italien dans la zone touristique d'Agua Dulce, financé par l'indemnité de départ de son mari.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2005",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Hurricane Beta damaged the Agua Dulce location, forcing María Paola to relocate the restaurant and begin scaling down operations over subsequent years.",
         "fr": "L'ouragan Beta a endommagé l'emplacement d'Agua Dulce, obligeant María Paola à déplacer le restaurant et à réduire progressivement ses activités au cours des années suivantes.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Hurricane Iota destroyed their home and restaurant entirely, displacing María Paola for nearly two years while she stayed with friends in Bogotá and Palmira.",
         "fr": "L'ouragan Iota a entièrement détruit leur maison et leur restaurant, forçant María Paola à se déplacer pendant près de deux ans, le temps qu'elle séjourne chez des amis à Bogotá et à Palmira.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "María Paola returned to Providencia and reopened Mamma Mía in a government-rebuilt home with integrated terrace seating, refocusing the menu around lobster and a high-quality, intimate dining experience for two tables.",
         "fr": "María Paola est retournée à Providencia et a rouvert Mamma Mía dans une maison reconstruite par le gouvernement avec une terrasse intégrée, recentrant le menu autour du homard et proposant une expérience gastronomique intime et de haute qualité pour deux tables.",
@@ -104,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Lobster and fish dishes with local ingredients",
         "fr": "Plats de homard et de poisson avec des ingrédients locaux",
@@ -113,7 +102,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Tourist education on fishing seasons and bans",
         "fr": "Éducation des touristes sur les saisons de pêche et les interdictions",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Personalized dining experience in owner's home",
         "fr": "Expérience culinaire personnalisée dans la maison du propriétaire",
@@ -131,7 +120,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sourcing products from local fishers and suppliers",
         "fr": "Approvisionnement en produits auprès des pêcheurs et fournisseurs locaux",
@@ -140,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Open kitchen cooking visible to guests",
         "fr": "Cuisine ouverte visible par les convives",
@@ -151,7 +140,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local suppliers for lobster and produce",
         "fr": "Fournisseurs locaux pour le homard et les produits frais",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Posadas to refer and send clients",
         "fr": "Posadas pour référer et envoyer des clients",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Temporary helpers for busy seasons",
         "fr": "Aides temporaires pour les saisons chargées",

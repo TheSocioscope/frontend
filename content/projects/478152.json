@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-africa"
-  ],
-  "country": [
-    "morocco"
-  ],
+  "continent": ["north-africa"],
+  "country": ["morocco"],
   "createdAt": 1754651068,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Mouzouna Poulaillers es una granja que forma parte de la Red Marroquí de Iniciativas Agroecológicas (RIAM). Se centra en la avicultura sostenible, produciendo in situ el 80-90% de los piensos para garantizar prácticas ecológicas. El proyecto, iniciado hace cuatro años, hace hincapié en la autosuficiencia y la rentabilidad mediante la venta de pollos y huevos ecológicos. Además, apoya el empoderamiento de la comunidad impartiendo talleres para jóvenes y ayudando a las mujeres locales a comercializar sus productos, fomentando un enfoque holístico de la agricultura y el espíritu empresarial.",
     "de": "Die Initiative Mouzouna Poulaillers ist ein landwirtschaftlicher Betrieb, der dem marokkanischen Netzwerk für agrarökologische Initiativen (RIAM) angehört. Der Schwerpunkt liegt auf nachhaltiger Geflügelzucht, wobei 80-90 % des Futters vor Ort produziert werden, um ökologische Praktiken zu gewährleisten. Das vor vier Jahren gestartete Projekt legt den Schwerpunkt auf Selbstversorgung und Rentabilität durch den Verkauf von Bio-Hühnern und Eiern. Darüber hinaus unterstützt es die Stärkung der Gemeinschaft, indem es Workshops für Jugendliche anbietet und den Frauen vor Ort hilft, ihre Produkte zu vermarkten, und so einen ganzheitlichen Ansatz für Landwirtschaft und Unternehmertum fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Dach"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Adil Dash and his friend Jihad completed a bicycle tour across Morocco, covering approximately 5,600 kilometers. This experience exposed them to rural lifestyles and peasant practices, inspiring their decision to leave city life.",
         "fr": "Adil Dash et son ami Jihad ont effectué un tour à vélo à travers le Maroc, couvrant environ 5 600 kilomètres. Cette expérience les a exposés aux modes de vie ruraux et aux pratiques paysannes, inspirant leur décision de quitter la vie citadine.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Adil Dash founded Ferme Mouzouna in Khmiset, starting with 300 chickens of a local breed purchased from Al Aroui with no prior experience in poultry farming.",
         "fr": "Adil Dash a fondé la Ferme Mouzouna à Khmiset, en commençant avec 300 poulets d'une race locale achetés à Al Aroui, sans expérience préalable en aviculture.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the first attempt, nearly 70% of the initial flock died due to disease and lack of experience, including failed natural remedy treatments that killed much of the production.",
         "fr": "Lors de la première tentative, près de 70 % du troupeau initial est mort en raison de maladies et d'un manque d'expérience, notamment des traitements à base de remèdes naturels qui ont décimé une grande partie de la production.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After the initial failures, Adil replaced the original breed with the French Gaulois chicken, imported through a Moroccan breeder who had introduced it from the UAE, chosen for its superior egg production and faster maturity of 4 months.",
         "fr": "Après les échecs initiaux, Adil a remplacé la race d'origine par le poulet Gaulois français, importé par un éleveur marocain qui l'avait introduit depuis les Émirats arabes unis, choisi pour sa production d'œufs supérieure et sa maturité plus rapide de 4 mois.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2022-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm developed an integrated agroecological cycle producing 70-80% of chicken feed on-site, including Azolla aquaponics, pasture grazing, and crop cultivation, significantly reducing feed costs and increasing profitability.",
         "fr": "La ferme a développé un cycle agroécologique intégré produisant 70 à 80 % de l'alimentation des poulets sur place, incluant l'aquaponie à base d'Azolla, le pâturage et la culture de céréales, réduisant considérablement les coûts d'alimentation et augmentant la rentabilité.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "With conventional chicken prices rising from 15 dirhams in 2022 to nearly 26 dirhams in 2025, the farm's self-sufficiency model turned market inflation into a competitive advantage, while plans to acquire owned land and scale beyond 200 birds were underway.",
         "fr": "Alors que le prix du poulet conventionnel est passé de 15 dirhams en 2022 à près de 26 dirhams en 2025, le modèle d'autosuffisance de la ferme a transformé l'inflation du marché en avantage concurrentiel, tandis que des projets d'acquisition de terres propres et d'extension au-delà de 200 volailles étaient en cours.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic free-range chicken and eggs for sale",
         "fr": "Poulet fermier biologique et œufs à vendre",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sales to local markets and other farms",
         "fr": "Vente aux marchés locaux et aux autres fermes",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Knowledge sharing on natural poultry farming",
         "fr": "Partage de connaissances sur l'élevage avicole naturel",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cooperative network supporting rural women sellers",
         "fr": "Réseau coopératif soutenant les femmes vendeuses rurales",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "On-farm aquaponic Azolla production system",
         "fr": "Système de production d'Azolla aquaponique à la ferme",
@@ -161,7 +151,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local and urban buyers for organic poultry",
         "fr": "Acheteurs locaux et urbains pour la volaille biologique",
@@ -170,7 +160,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Other farms to supply or buy chicks and eggs",
         "fr": "Autres fermes pour fournir ou acheter des poussins et des œufs",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "On-farm feed production via natural cycles",
         "fr": "Production d'aliments à la ferme via des cycles naturels",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New farmers wanting to start poultry projects",
         "fr": "Nouveaux agriculteurs souhaitant démarrer des projets avicoles",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Cooperative network to bypass intermediaries for rural women",
         "fr": "Réseau coopératif pour contourner les intermédiaires au profit des femmes rurales",

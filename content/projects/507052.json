@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Sierra Encantada is Morelos' first certified goat farm producing artisanal organic cheeses, awarded Super Gold at the World Cheese Awards.",
     "de": "Sierra Encantada is Morelos' first certified goat farm producing artisanal organic cheeses, awarded Super Gold at the World Cheese Awards."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "es",
   "location": "Huitzilac, Morelos",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Alvarez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.sierra-encantada.com/#intro",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Sierra Encantada was founded in Huitzilac, Morelos, when the founder began with three goats and personal savings to produce artisanal goat cheese.",
         "fr": "Sierra Encantada a été fondée à Huitzilac, Morelos, lorsque le fondateur a commencé avec trois chèvres et des économies personnelles pour produire du fromage de chèvre artisanal.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2010",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The founder began participating in tourism events, connecting with chefs, hotels, and restaurants in Morelos that became early clients and helped grow product sales.",
         "fr": "Le fondateur a commencé à participer à des événements touristiques, nouant des liens avec des chefs, des hôtels et des restaurants à Morelos qui sont devenus les premiers clients et ont contribué à développer les ventes de produits.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The initiative was formally consolidated as a business, supported by the government program Orgullo Morelos, which provided funding, training, and market access opportunities.",
         "fr": "L'initiative a été formellement consolidée en tant qu'entreprise, soutenue par le programme gouvernemental Orgullo Morelos, qui a fourni des financements, des formations et des opportunités d'accès au marché.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2012-2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "With continued government support, the ranch expanded its machinery, production capacity, and distribution network across Mexico City and Cuernavaca.",
         "fr": "Avec le soutien continu du gouvernement, le ranch a élargi ses équipements, sa capacité de production et son réseau de distribution à Mexico et Cuernavaca.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Government support through the Orgullo Morelos program ceased following a federal administration change, though the business remained stable without it.",
         "fr": "Le soutien gouvernemental du programme Orgullo Morelos a cessé à la suite d'un changement d'administration fédérale, bien que l'entreprise soit restée stable sans celui-ci.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Sierra Encantada operates with 4-5 family employees, sells in over 20 stores and restaurants, and has won international awards including recognitions in London, Spain, and Norway, though the founder faces succession uncertainty with no clear successor identified.",
         "fr": "Sierra Encantada fonctionne avec 4 à 5 employés familiaux, vend dans plus de 20 magasins et restaurants, et a remporté des prix internationaux incluant des reconnaissances à Londres, en Espagne et en Norvège, bien que le fondateur soit confronté à une incertitude de succession sans successeur clairement identifié.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisanal goat cheese products for sale",
         "fr": "Produits fromagers artisanaux de chèvre à vendre",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Guided tours of the goat ranch",
         "fr": "Visites guidées du ranch de chèvres",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fertilizer and organic compost from goats",
         "fr": "Engrais et compost organique issus des chèvres",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support for artisanal cheese producer network",
         "fr": "Soutien au réseau de producteurs de fromage artisanal",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Promotes local and traceable food production",
         "fr": "Promotion d'une production alimentaire locale et traçable",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New distribution channels beyond current stores",
         "fr": "Nouveaux canaux de distribution au-delà des magasins actuels",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies for business succession and generational handover",
         "fr": "Alliés pour la succession d'entreprise et la transmission générationnelle",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government support for farm infrastructure renewal",
         "fr": "Soutien gouvernemental pour le renouvellement des infrastructures agricoles",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Broader consumer adoption of artisanal goat cheese",
         "fr": "Adoption plus large du fromage de chèvre artisanal par les consommateurs",

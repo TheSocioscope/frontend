@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754476541,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de la Finca Sol y Valle pretende crear un centro sostenible de aprendizaje y bienestar. Establecido hace seis años, el proyecto se centra en la vida en comunidad, la gestión medioambiental y la autosuficiencia a través de la agricultura ecológica y la bioconstrucción. Con un grupo diverso de residentes, la finca hace hincapié en la colaboración, la educación y el intercambio de recursos, a la vez que acoge a voluntarios y visitantes para que aprendan sobre prácticas sostenibles y contribuyan al crecimiento de la comunidad.                  ",
     "de": "Die Initiative auf der Finca Sol y Valle zielt auf die Schaffung eines nachhaltigen Lern- und Wellnesszentrums ab. Das Projekt wurde vor sechs Jahren gegründet und konzentriert sich auf das Leben in der Gemeinschaft, Umweltmanagement und Selbstversorgung durch organischen Landbau und biologischen Bau. Mit einer vielfältigen Gruppe von Bewohnern legt der Hof Wert auf Zusammenarbeit, Bildung und Ressourcenaustausch, während er gleichzeitig Freiwillige und Besucher einlädt, um nachhaltige Praktiken zu erlernen und zum Wachstum der Gemeinschaft beizutragen.                  "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,22 +33,16 @@
       "lastname": "Jimenez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "leisure-tourism",
-    "governance-democracy-civil-society"
-  ],
+  "thematic": ["food-agriculture-fishery", "leisure-tourism", "governance-democracy-civil-society"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.solyvalle.com/",
   "yt": "GY_nQZPExxk",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jeff founded Finca Solivaje in Cartago, Costa Rica, purchasing land that was fully abandoned and overgrown with king grass. He moved in with a group of six to eight people and began clearing the land with machetes and rebuilding structures.",
         "fr": "Jeff a fondé Finca Solivaje à Cartago, au Costa Rica, en achetant un terrain totalement abandonné et envahi par l'herbe royale. Il s'y est installé avec un groupe de six à huit personnes et a commencé à défricher le terrain à la machette et à reconstruire les structures.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The farm began developing its four core working areas: gardens, edible forest, bioconstruction, and logistics. The community opened volunteering and apprenticeship programs, listing on platforms like Workaway and Worldpackers to attract international participants.",
         "fr": "La ferme a commencé à développer ses quatre domaines de travail principaux : les jardins, la forêt comestible, la bioconstruction et la logistique. La communauté a ouvert des programmes de bénévolat et d'apprentissage, en s'inscrivant sur des plateformes comme Workaway et Worldpackers pour attirer des participants internationaux.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Daniela joined the project after her friend Anamor, who had been living at the farm for four years, posted that they were looking for a new community member. Daniela, an environmental engineer, relocated permanently and took on coordination of agricultural tasks and sustainability planning.",
         "fr": "Daniela a rejoint le projet après que son amie Anamor, qui vivait à la ferme depuis quatre ans, a publié qu'ils recherchaient un nouveau membre pour la communauté. Daniela, ingénieure en environnement, s'est installée définitivement et a pris en charge la coordination des tâches agricoles et la planification de la durabilité.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm raised approximately $11,000 through a crowdfunding campaign to fund construction of a new learning center built with bioconstruction techniques using guadua bamboo. The community grew to a stable base of three core eco-villagers with up to seven people on site at any time.",
         "fr": "La ferme a récolté environ 11 000 $ grâce à une campagne de financement participatif pour financer la construction d'un nouveau centre d'apprentissage bâti avec des techniques de bioconstruction utilisant du bambou guadua. La communauté a atteint une base stable de trois éco-villageois permanents, avec jusqu'à sept personnes présentes sur le site à tout moment.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm began a three-year organic certification transition process with a regional organic farming association. Construction of the learning center, designed to host post-harvest facilities, a yoga and workshop salon, and a living loft, was actively underway at the time of the interview.",
         "fr": "La ferme a entamé un processus de transition vers la certification biologique sur trois ans avec une association régionale d'agriculture biologique. La construction du centre d'apprentissage, conçu pour accueillir des installations de post-récolte, un salon de yoga et d'ateliers, ainsi qu'un loft habitable, était activement en cours au moment de l'entretien.",
@@ -105,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Volunteering and apprenticeship programs for learners",
         "fr": "Programmes de bénévolat et d'apprentissage pour les apprenants",
@@ -114,7 +102,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Sustainability and wellness courses offered",
         "fr": "Cours de durabilité et de bien-être proposés",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Retreats and workshops hosted on-site",
         "fr": "Retraites et ateliers organisés sur place",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Bioconstruction workshops using bamboo",
         "fr": "Ateliers de bioconstruction utilisant le bambou",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Permaculture design certificate training planned",
         "fr": "Formation au certificat de conception en permaculture prévue",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Excess harvest shared with community",
         "fr": "L'excédent de récolte partagé avec la communauté",
@@ -161,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New permanent community members to join",
         "fr": "Nouveaux membres permanents de la communauté à accueillir",
@@ -170,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants or non-returnable foundation funding",
         "fr": "Subventions ou financements non remboursables de fondations",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Buyers of community ownership shares",
         "fr": "Acheteurs de parts de propriété communautaire",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Apprentices and long-term skilled volunteers",
         "fr": "Apprentis et bénévoles qualifiés à long terme",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "University groups for educational programs",
         "fr": "Groupes universitaires pour des programmes éducatifs",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Permaculture design course PDC participants",
         "fr": "Participants au cours de conception en permaculture PDC",

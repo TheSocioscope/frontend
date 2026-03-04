@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754430523,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Hegnstrup es una iniciativa centrada en la agricultura ecológica sostenible, fundada por Allan, que regresó a la casa de su infancia para crear una granja orientada a la comunidad. Inspirado en su educación y sus preocupaciones medioambientales, el proyecto hace hincapié en la autosuficiencia, las prácticas ecológicas y el compromiso comunitario. Mediante la producción de diversos cultivos y la cría de animales, Hegnstrup pretende proporcionar alimentos de alta calidad y libres de pesticidas, al tiempo que fomenta la conexión entre las personas y la naturaleza. La iniciativa también promueve la educación sobre biodiversidad y prácticas sostenibles.",
     "de": "Hegnstrup ist eine auf nachhaltigen ökologischen Landbau ausgerichtete Initiative, die von Allan gegründet wurde, der in sein Elternhaus zurückkehrte, um einen gemeindeorientierten Bauernhof zu gründen. Inspiriert durch seine Aufzucht und seine Umweltbedenken, betont das Projekt Selbstversorgung, ökologische Praktiken und kommunales Engagement. Durch die Produktion einer Vielzahl von Nutzpflanzen und die Aufzucht von Tieren will Hegnstrup hochwertige, pestizidfreie Lebensmittel bereitstellen und gleichzeitig eine Verbindung zwischen Mensch und Natur herstellen. Die Initiative fördert auch die Bildung über Biodiversität und nachhaltige Praktiken."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Bornoe Clausen"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.hegnstrup.dk/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Mid-1970s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Allan returned to his family farm in Klausen after studying scientific ecology, founding one of Denmark's first organic farms based on a communal living model. A group from his university community moved with him to begin experimenting with organic production.",
         "fr": "Allan est retourné dans la ferme familiale à Klausen après avoir étudié l'écologie scientifique, fondant l'une des premières fermes biologiques du Danemark basée sur un modèle de vie communautaire. Un groupe de sa communauté universitaire l'a rejoint pour commencer à expérimenter la production biologique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1980s",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Three farms formed a cooperative community of around 60 people, sharing income, resources, and a joint company to grow and sell organic produce. International exchanges with farms in Germany, Sweden, France, and Italy shaped their practices during this period.",
         "fr": "Trois fermes ont formé une communauté coopérative d'environ 60 personnes, partageant revenus, ressources et une entreprise commune pour cultiver et vendre des produits biologiques. Des échanges internationaux avec des fermes en Allemagne, en Suède, en France et en Italie ont façonné leurs pratiques durant cette période.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Late 1980s",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The cooperative collapsed after one farmer took a large bank loan to supply a supermarket chain with organic root celery, but two consecutive crop failures due to frost and fungus left the debt unpaid and the community unable to continue.",
         "fr": "La coopérative s'est effondrée après qu'un agriculteur a contracté un important emprunt bancaire pour approvisionner une chaîne de supermarchés en céleri-rave biologique, mais deux mauvaises récoltes consécutives dues au gel et aux champignons ont laissé la dette impayée et la communauté dans l'incapacité de continuer.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "1990s",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following the cooperative's collapse, Allan sold produce independently at local markets every Saturday for 17 years, building a loyal customer base and a stable, valued income stream.",
         "fr": "À la suite de l'effondrement de la coopérative, Allan a vendu ses produits de manière indépendante sur les marchés locaux chaque samedi pendant 17 ans, fidélisant une clientèle et générant une source de revenus stable et appréciée.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~2002",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A serious back injury forced Allan to stop market trading and fundamentally restructure the farm, scaling down intensive cropping and shifting toward small intensive vegetable plots surrounded by extensive wildflower meadows and grazing animals.",
         "fr": "Une grave blessure au dos a contraint Allan à cesser la vente sur les marchés et à restructurer fondamentalement la ferme, réduisant les cultures intensives et s'orientant vers de petites parcelles maraîchères intensives entourées de vastes prairies fleuries et d'animaux en pâturage.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Allan's son and daughter-in-law bought a half share of the farm, and Allan began teaching seed saving at a permaculture school while supplying indigenous seeds to the national Seed Savers network, focusing on biodiversity and knowledge transfer ahead of retirement.",
         "fr": "Le fils d'Allan et sa belle-fille ont acheté la moitié de la ferme, et Allan a commencé à enseigner la conservation des semences dans une école de permaculture tout en fournissant des semences indigènes au réseau national des Gardiens de Semences, en mettant l'accent sur la biodiversité et le transfert de connaissances avant sa retraite.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh organic vegetables and meat for sale",
         "fr": "Vente de légumes biologiques frais et de viande",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School visits teaching children about biodiversity",
         "fr": "Visites scolaires pour enseigner la biodiversité aux enfants",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Beginner courses for aspiring organic farmers",
         "fr": "Cours pour débutants souhaitant devenir agriculteurs biologiques",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Apprenticeships and practicant stays on farm",
         "fr": "Apprentissages et séjours de stagiaires à la ferme",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Host site for university biodiversity research",
         "fr": "Site d'accueil pour la recherche universitaire sur la biodiversité",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Advice to municipalities on rewilding with wildflowers",
         "fr": "Conseils aux municipalités sur la renaturation avec des fleurs sauvages",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Practitioners to stay long-term for full crop cycle",
         "fr": "Praticiens pour rester à long terme pour un cycle complet de culture",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Next generation farmer to take over farm",
         "fr": "Agriculteur de la prochaine génération pour reprendre la ferme",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers studying biodiversity soil and insects",
         "fr": "Chercheurs étudiant la biodiversité, le sol et les insectes",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Customers valuing local organic small-scale production",
         "fr": "Clients valorisant la production locale biologique à petite échelle",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local direct sales without supermarket intermediaries",
         "fr": "Ventes directes locales sans intermédiaires de supermarché",

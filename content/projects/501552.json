@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "The Organic Production Department of Costa Rica's MAG promotes and regulates organic agricultural practices for sustainable food systems.",
     "de": "The Organic Production Department of Costa Rica's MAG promotes and regulates organic agricultural practices for sustainable food systems."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.mag.go.cr/acerca_del_mag/estructura/oficinas/Dep.produccion-organica.html",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2012-2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "NAMA Café was launched as the first NAMA program in Costa Rica, preceding the formal livestock strategy. It marked the country's initial entry into nationally appropriate mitigation actions.",
         "fr": "Le NAMA Café a été lancé en tant que premier programme NAMA au Costa Rica, précédant la stratégie formelle pour l'élevage. Il a marqué l'entrée initiale du pays dans les mesures d'atténuation appropriées au niveau national.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Costa Rica established its National Livestock Strategy, providing the policy framework that would formalize the NAMA Ganadería program. This strategy brought together the Ministry of Agriculture and the Ministry of Environment, two historically opposing institutions.",
         "fr": "Le Costa Rica a établi sa Stratégie nationale pour l'élevage, fournissant le cadre politique qui allait formaliser le programme NAMA Ganadería. Cette stratégie a réuni le ministère de l'Agriculture et le ministère de l'Environnement, deux institutions historiquement opposées.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "NAMA Ganadería was officially signed, becoming the first livestock NAMA in the world. The agreement united the agricultural and environmental sectors around shared sustainability goals.",
         "fr": "Le NAMA Ganadería a été officiellement signé, devenant le premier NAMA pour l'élevage dans le monde. L'accord a uni les secteurs agricole et environnemental autour d'objectifs communs de durabilité.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Measurement, Reporting and Verification (MRV) processes were established for livestock farms, enabling quantitative carbon balance data collection. Over 300 farms were selected for monitoring, demonstrating that NAMA farms were carbon neutral or carbon negative.",
         "fr": "Des processus de mesure, de notification et de vérification (MRV) ont été mis en place pour les exploitations d'élevage, permettant la collecte de données quantitatives sur le bilan carbone. Plus de 300 exploitations ont été sélectionnées pour le suivi, démontrant que les exploitations NAMA étaient neutres ou négatives en carbone.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "More than 3,000 farms were enrolled in NAMA Ganadería nationwide, with approximately 308 new farms joining that year. Published data estimated an average carbon capture of 1.4 tonnes per hectare per year on monitored farms.",
         "fr": "Plus de 3 000 exploitations étaient inscrites au NAMA Ganadería à l'échelle nationale, avec environ 308 nouvelles exploitations rejoignant le programme cette année-là. Les données publiées estimaient une capture moyenne de carbone de 1,4 tonne par hectare par an sur les exploitations surveillées.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Plans were underway to expand NAMA principles into three new agricultural sectors: musáceas (bananas), rice, and sugar cane. Annual farm enrollment targets of roughly 300 additional farms were set to continue scaling the program.",
         "fr": "Des plans étaient en cours pour étendre les principes du NAMA à trois nouveaux secteurs agricoles : les musacées (bananes), le riz et la canne à sucre. Des objectifs annuels d'inscription d'environ 300 exploitations supplémentaires ont été fixés pour continuer à développer le programme.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free technical training for agricultural producers",
         "fr": "Formation technique gratuite pour les producteurs agricoles",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Field demonstrations of sustainable farming practices",
         "fr": "Démonstrations en champ de pratiques agricoles durables",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Carbon balance monitoring and quantitative data",
         "fr": "Suivi du bilan carbone et données quantitatives",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Coordination with academic institutions for specialized training",
         "fr": "Coordination avec les établissements académiques pour des formations spécialisées",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Certificate for farms implementing sustainable production",
         "fr": "Certificat pour les fermes mettant en œuvre une production durable",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Support connecting producers to value-added markets",
         "fr": "Soutien pour connecter les producteurs aux marchés à valeur ajoutée",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Scale up NAMA practices to more farms",
         "fr": "Étendre les pratiques NAMA à davantage de fermes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Interinstitutional coordination with aligned organizations",
         "fr": "Coordination interinstitutionnelle avec des organisations alignées",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Quantitative data and carbon balance metrics",
         "fr": "Données quantitatives et indicateurs de bilan carbone",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "International financing for climate adaptation projects",
         "fr": "Financement international pour les projets d'adaptation climatique",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Differentiated market for sustainable Costa Rican products",
         "fr": "Marché différencié pour les produits costariciens durables",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Expand NAMA to new sectors like bananas and rice",
         "fr": "Étendre le NAMA à de nouveaux secteurs comme la banane et le riz",

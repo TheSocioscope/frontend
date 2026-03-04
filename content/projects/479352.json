@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1754654365,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa \"No Food Waste\" pretende combatir el despilfarro de alimentos recogiendo el exceso de comida de eventos, instituciones y restaurantes, y redistribuyéndola entre quienes la necesitan. Fundada en 2014 en Coimbatore, se ha expandido a múltiples ciudades, entre ellas Chennai, donde gestiona una cocina para preparar comidas nutritivas y ofrece apoyo en comestibles. La organización hace hincapié en la sostenibilidad medioambiental y la participación de la comunidad, y se esfuerza por concienciar sobre el desperdicio de alimentos y su impacto en la sociedad.         ",
     "de": "Die Initiative \"No Food Waste\" will die Lebensmittelverschwendung bekämpfen, indem sie überschüssige Lebensmittel von Veranstaltungen, Einrichtungen und Restaurants einsammelt und an Bedürftige weitergibt. Sie wurde 2014 in Coimbatore gegründet und hat sich inzwischen auf mehrere Städte ausgeweitet, darunter auch Chennai, wo sie eine Küche betreibt, in der sie nahrhafte Mahlzeiten zubereitet und Unterstützung bei der Beschaffung von Lebensmitteln bietet. Die Organisation legt großen Wert auf ökologische Nachhaltigkeit und gesellschaftliches Engagement und möchte das Bewusstsein für Lebensmittelverschwendung und deren Auswirkungen auf die Gesellschaft schärfen.         "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Leticia Camacho"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://nofoodwaste.org/index.html",
   "yt": "LRAhcDHGXeA",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "No Food Waste was founded in Coimbatore by three engineers who witnessed large amounts of food being wasted at weddings. They launched a helpline number and collected food that fed 52 people on their first day.",
         "fr": "No Food Waste a été fondée à Coimbatore par trois ingénieurs qui ont été témoins de grandes quantités de nourriture gaspillée lors de mariages. Ils ont lancé un numéro d'assistance téléphonique et collecté de la nourriture qui a nourri 52 personnes lors de leur premier jour.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016-2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A pilot chapter was launched in Chennai in 2016 with one vehicle, and by 2017 the current regional director joined the organization as a coordinator.",
         "fr": "Une section pilote a été lancée à Chennai en 2016 avec un seul véhicule, et en 2017, l'actuel directeur régional a rejoint l'organisation en tant que coordinateur.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Chennai chapter was officially launched in February 2018 with two vehicles, secured through support from the Tamil Nadu Food Safety Commissioner and a departmental association.",
         "fr": "La section de Chennai a été officiellement lancée en février 2018 avec deux véhicules, obtenus grâce au soutien du Commissaire à la sécurité alimentaire du Tamil Nadu et d'une association départementale.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "No Food Waste signed an MOU with food delivery app Swiggy to collect excess food from cancellations, and also began collecting surplus food from IPL Chennai Super Kings home matches.",
         "fr": "No Food Waste a signé un protocole d'accord avec l'application de livraison de repas Swiggy pour collecter les excédents alimentaires issus des annulations, et a également commencé à collecter les surplus de nourriture lors des matchs à domicile des Chennai Super Kings de l'IPL.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "COVID-19 caused volunteer numbers to drop from 80-100 to 20-30 as people returned to hometowns, though operational demand for food distribution significantly increased during this period.",
         "fr": "La COVID-19 a entraîné une chute du nombre de bénévoles, passant de 80-100 à 20-30, en raison du retour des personnes dans leur ville natale, bien que la demande opérationnelle de distribution alimentaire ait considérablement augmenté durant cette période.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "No Food Waste expanded partnerships with major institutions including IIT Madras and Zoho, reaching a capacity to feed approximately 40,000 people per month across 150 identified hunger hotspots in Chennai.",
         "fr": "No Food Waste a élargi ses partenariats avec de grandes institutions, dont l'IIT Madras et Zoho, atteignant une capacité à nourrir environ 40 000 personnes par mois dans 150 points de faim identifiés à Chennai.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Surplus food rescue from events and institutions",
         "fr": "Récupération des surplus alimentaires lors d'événements et dans les institutions",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Food distribution to hunger hotspots daily",
         "fr": "Distribution alimentaire quotidienne dans les zones à forte insécurité alimentaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh nutritious meals prepared in kitchen",
         "fr": "Repas frais et nutritifs préparés en cuisine",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Grocery and ration kits for vulnerable families",
         "fr": "Kits d'épicerie et de rations pour les familles vulnérables",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Mentorship for replicating food rescue model",
         "fr": "Mentorat pour la reproduction du modèle de récupération alimentaire",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Carbon footprint tracking of rescued food",
         "fr": "Suivi de l'empreinte carbone des aliments récupérés",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "More volunteers to expand city operations",
         "fr": "Plus de bénévoles pour étendre les opérations dans la ville",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donors to support vehicle and operational costs",
         "fr": "Des donateurs pour soutenir les coûts des véhicules et des opérations",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate partners for surplus food collection",
         "fr": "Des partenaires corporatifs pour la collecte des excédents alimentaires",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Awareness to reduce food waste culturally",
         "fr": "Sensibilisation pour réduire le gaspillage alimentaire sur le plan culturel",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Tech grant funding from IIT Carbon Zero Challenge",
         "fr": "Financement technologique du IIT Carbon Zero Challenge",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Replication partners across 50-100 Indian cities",
         "fr": "Partenaires de réplication dans 50 à 100 villes indiennes",

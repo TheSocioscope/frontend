@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754663074,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, The Bevy Pub, es un pub único de propiedad comunitaria situado en Brighton, que se distingue por ser el único en una urbanización del Reino Unido. Sirve de centro social, ofreciendo comida, bebida y diversas actividades comunitarias, al tiempo que promueve la sostenibilidad medioambiental mediante operaciones de residuo cero. El pub involucra a los residentes locales en iniciativas como un huerto comunitario, clubes de empleo y eventos familiares, fomentando un sentimiento de pertenencia y colaboración entre el vecindario y sus residentes.",
     "de": "Die Initiative, The Bevy Pub, ist ein einzigartiges, kommunal betriebenes Pub in Brighton, das als einziges in einem Wohnhaus in Großbritannien ausgezeichnet ist. Es dient als soziale Drehscheibe, die Essen, Getränke und verschiedene Gemeinschaftsaktivitäten anbietet und gleichzeitig die ökologische Nachhaltigkeit durch abfallfreie Betriebe fördert. Das Pub beteiligt die Bewohner an Initiativen wie einem Gemeinschaftsgarten, Jobclubs und Familienveranstaltungen und fördert so ein Gefühl der Zugehörigkeit und Zusammenarbeit in der Nachbarschaft und mit den Bewohnern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Carter"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://thebevypub.co.uk/about/",
   "yt": "tD03XIIRWgc",
   "editedAt": 1755736534,
@@ -55,14 +45,12 @@
       "at": 1755736534
     }
   ],
-  "updatedAt": [
-    1755736534
-  ],
+  "updatedAt": [1755736534],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "A small group of community activists came together to campaign for the reopening of the Bevy pub, which had been closed by police due to repeated fights and disorder. They spent five years raising awareness and funds before opening.",
         "fr": "Un petit groupe de militants communautaires s'est réuni pour mener campagne en faveur de la réouverture du pub Bevy, qui avait été fermé par la police en raison de bagarres et de troubles répétés. Ils ont passé cinq ans à sensibiliser le public et à collecter des fonds avant l'ouverture.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Bevy Community Pub officially opened after raising over £200,000, including £50,000 from approximately 800 local shareholders who each contributed as little as £10.",
         "fr": "Le pub communautaire Bevy a officiellement ouvert ses portes après avoir réuni plus de 200 000 £, dont 50 000 £ provenant d'environ 800 actionnaires locaux ayant chacun contribué à partir de 10 £.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2014-2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The pub faced three major early challenges: transitioning from community activism to running a business, overcoming the venue's deeply negative reputation, and sustaining operations in a low-income area with tight finances.",
         "fr": "Le pub a dû faire face à trois grands défis initiaux : passer de l'activisme communautaire à la gestion d'une entreprise, surmonter la très mauvaise réputation du lieu, et maintenir les opérations dans un quartier à faibles revenus avec des finances serrées.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2019",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The pub developed zero-waste operations including a community fruit and vegetable garden, a rocket composter using food waste, and partnerships with Fair Share Sussex and Infinity Wholesalers to source surplus food at heavily discounted prices.",
         "fr": "Le pub a développé des opérations zéro déchet, notamment un jardin communautaire de fruits et légumes, un composteur à fusée utilisant les déchets alimentaires, ainsi que des partenariats avec Fair Share Sussex et Infinity Wholesalers pour s'approvisionner en surplus alimentaires à des prix fortement réduits.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The pub relaunched its Music and Memory Dementia Cafe and expanded community programming, including Family Thursdays with free meals and activities, a seniors club, disability disco, and a job club.",
         "fr": "Le pub a relancé son café Musique et Mémoire pour les personnes atteintes de démence et a élargi sa programmation communautaire, notamment les Jeudis en famille avec des repas et des activités gratuits, un club pour seniors, une disco pour personnes handicapées et un club emploi.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The pub faces growing financial pressure from the UK-wide cost of living crisis and an upcoming increase in National Insurance contributions, while pursuing long-term goals of acquiring charitable status and purchasing the housing estate building.",
         "fr": "Le pub fait face à une pression financière croissante liée à la crise du coût de la vie à l'échelle du Royaume-Uni et à une prochaine hausse des cotisations d'assurance nationale, tout en poursuivant ses objectifs à long terme d'obtention du statut d'organisme de bienfaisance et d'acquisition du bâtiment de la cité résidentielle.",
@@ -123,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Weekly seniors club with hot meals",
         "fr": "Club hebdomadaire pour seniors avec repas chauds",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free family activities and meals Thursdays",
         "fr": "Activités et repas gratuits en famille le jeudi",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Monthly disability disco open to all",
         "fr": "Disco mensuel pour personnes handicapées ouvert à tous",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Community garden producing food for pub",
         "fr": "Jardin communautaire produisant de la nourriture pour le pub",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Discounted lunches under five pounds",
         "fr": "Déjeuners à prix réduit à moins de cinq livres",
@@ -168,7 +156,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Dementia memory cafe hosted monthly",
         "fr": "Café mémoire pour la démence organisé chaque mois",
@@ -179,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants to sustain and expand community initiatives",
         "fr": "Subventions pour soutenir et développer les initiatives communautaires",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers for garden and community activities",
         "fr": "Bénévoles pour le jardin et les activités communautaires",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local organizations for community events",
         "fr": "Organisations locales pour les événements communautaires",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Surplus food suppliers for cheap meals",
         "fr": "Fournisseurs de surplus alimentaires pour des repas à bas prix",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New members and shareholders from local area",
         "fr": "Nouveaux membres et actionnaires de la région locale",
@@ -224,7 +212,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Charitable status recognition despite alcohol license",
         "fr": "Reconnaissance du statut caritatif malgré la licence d'alcool",

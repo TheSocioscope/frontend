@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739520438,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Ruche qui dit Oui es una iniciativa que conecta directamente a agricultores y artesanos alimentarios con los consumidores a través de una red de comunidades locales llamadas \"colmenas\". Creada en 2011, la iniciativa opera en siete países europeos y hace hincapié en la venta directa, el abastecimiento local y la participación de la comunidad. El objetivo de la iniciativa es promover un sistema alimentario justo mediante la creación de un modelo de negocio descentralizado que ofrezca a las comunidades la posibilidad de vender sus productos directamente. Promueve la transparencia en la fijación de precios, garantizando que los productores reciban una parte significativa de las ventas, y fomenta las conexiones sociales entre los miembros de la comunidad.",
     "de": "La Ruche qui dit Oui ist eine Initiative, die Bauern und Lebensmittelhandwerker über ein Netzwerk lokaler Gemeinschaften, sogenannter \"hives\", direkt mit den Verbrauchern verbindet. Die 2011 gegründete Initiative ist in sieben europäischen Ländern tätig und legt Wert auf Direktvertrieb, lokale Beschaffung und kommunales Engagement. Die Initiative will ein faires Lebensmittelsystem fördern, indem sie ein dezentralisiertes Geschäftsmodell schafft, das den Gemeinden die Möglichkeit gibt, ihre Produkte direkt zu verkaufen. Sie fördert die Transparenz bei der Preisgestaltung, stellt sicher, dass die Erzeuger einen bedeutenden Anteil des Umsatzes erhalten, und fördert soziale Verbindungen unter den Gemeindemitgliedern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Fernier"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://laruchequiditoui.fr",
   "yt": "5PAANWDCwmA",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2011",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "La Ruche qui dit Oui is founded as a company, creating an online marketplace connecting local farmers and food artisans with consumers through community-based physical distribution points called 'ruches'.",
         "fr": "La Ruche qui dit Oui est fondée en tant qu'entreprise, créant une place de marché en ligne reliant les agriculteurs locaux et les artisans alimentaires aux consommateurs via des points de distribution physiques communautaires appelés « ruches ».",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2013",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The network begins international expansion, starting with Belgium in 2013, followed by Germany, Italy, Spain, the Netherlands, and Switzerland in 2014, eventually reaching 7 countries across Europe.",
         "fr": "Le réseau amorce son expansion internationale, en commençant par la Belgique en 2013, suivie de l'Allemagne, de l'Italie, de l'Espagne, des Pays-Bas et de la Suisse en 2014, pour atteindre finalement 7 pays à travers l'Europe.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Sales radius is temporarily extended beyond the standard 250 km limit during the Christmas period, allowing artisans to sell regional specialties across all of France.",
         "fr": "Le rayon de vente est temporairement étendu au-delà de la limite habituelle de 250 km pendant la période de Noël, permettant aux artisans de vendre des spécialités régionales sur l'ensemble de la France.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "La Ruche acquires a last-mile logistics company to address producer transport needs, launching delivery and boutique projects; most are shut down as unprofitable, and service commissions are raised to cover operating costs.",
         "fr": "La Ruche acquiert une entreprise de logistique du dernier kilomètre pour répondre aux besoins de transport des producteurs, en lançant des projets de livraison et de boutique ; la plupart sont fermés comme non rentables, et les commissions de service sont augmentées pour couvrir les coûts opérationnels.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Covid-19 crisis triggers a boom for the network, with sales multiplying by 4 to 5 times almost overnight as consumers seek local food sources and producers lose traditional outlets.",
         "fr": "La crise du Covid-19 provoque un essor pour le réseau, avec des ventes multipliées par 4 à 5 presque du jour au lendemain, alors que les consommateurs recherchent des sources d'alimentation locales et que les producteurs perdent leurs débouchés traditionnels.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Activity drops below pre-Covid levels in the wake of a broader organic food sector crisis, forcing La Ruche to reduce staff and refocus its strategy toward activism and ecosystem engagement rather than pure e-commerce growth.",
         "fr": "L'activité tombe en dessous des niveaux d'avant la Covid dans le sillage d'une crise plus large du secteur biologique, contraignant La Ruche à réduire ses effectifs et à recentrer sa stratégie vers le militantisme et l'engagement écosystémique plutôt que vers une croissance pure du commerce en ligne.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online ordering with local pickup markets",
         "fr": "Commande en ligne avec marchés de retrait locaux",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Direct sales from 3500 local producers",
         "fr": "Vente directe auprès de 3500 producteurs locaux",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community distribution points called hives",
         "fr": "Points de distribution communautaires appelés ruches",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training and support for hive managers",
         "fr": "Formation et accompagnement des gestionnaires de ruches",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Monthly digital magazine on food transition",
         "fr": "Magazine numérique mensuel sur la transition alimentaire",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data sharing with academic research teams",
         "fr": "Partage de données avec des équipes de recherche académique",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New consumer members for local food hives",
         "fr": "Nouveaux membres consommateurs pour les ruches alimentaires locales",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Ecosystem partners for short food circuit advocacy",
         "fr": "Partenaires de l'écosystème pour la promotion des circuits alimentaires courts",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local farmers and artisans to join network",
         "fr": "Agriculteurs et artisans locaux à intégrer au réseau",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research institutions for data exchange and studies",
         "fr": "Institutions de recherche pour l'échange de données et les études",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Last-mile logistics solutions for producers",
         "fr": "Solutions logistiques du dernier kilomètre pour les producteurs",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Impact investors supporting non-profitable growth phase",
         "fr": "Investisseurs à impact soutenant la phase de croissance non lucrative",

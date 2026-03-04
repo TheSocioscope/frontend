@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "CDIL supports day laborers and indigenous families in accessing nutritious food, promoting traditional food knowledge and defending farmworkers' rights.",
     "de": "CDIL supports day laborers and indigenous families in accessing nutritious food, promoting traditional food knowledge and defending farmworkers' rights."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "es",
   "location": "Leon, Guanajuato",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Martínez Sánchez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/centroindigenaloyola/?locale=es_LA",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "~1983",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Comunidad Loyola was founded by a group of people with Ignatian spirituality, launching the Casas Hogar project approximately 42 years before the interview. The Centro de Desarrollo Indígena Loyola (CEDIL) later emerged from this foundation to address the needs of indigenous families migrating to León, Guanajuato.",
         "fr": "La Comunidad Loyola a été fondée par un groupe de personnes animées par la spiritualité ignatienne, lançant le projet Casas Hogar environ 42 ans avant l'entretien. Le Centro de Desarrollo Indígena Loyola (CEDIL) a ensuite émergé de cette fondation pour répondre aux besoins des familles indigènes migrant vers León, Guanajuato.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "~1995",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "CEDIL began as a temporary shelter (albergue) on donated land, housing indigenous families from Veracruz, Querétaro, Estado de México, and Michoacán. The organization later partnered with IMOVIE to help families access permanent housing.",
         "fr": "Le CEDIL a débuté comme hébergement temporaire (albergue) sur un terrain donné, accueillant des familles indigènes de Veracruz, Querétaro, Estado de México et Michoacán. L'organisation a ensuite établi un partenariat avec IMOVIE pour aider les familles à accéder à un logement permanent.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The intercultural school Nenemi was formally established, evolving from a childcare facility run in partnership with Universidad Iberoamericana into a fully accredited multilevel school. The school offers preschool, primary, and secondary education with an intercultural curriculum in indigenous languages.",
         "fr": "L'école interculturelle Nenemi a été officiellement créée, évoluant d'une structure de garde d'enfants gérée en partenariat avec l'Universidad Iberoamericana vers une école multiniveaux pleinement accréditée. L'école propose un enseignement préscolaire, primaire et secondaire avec un programme interculturel en langues indigènes.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2012-2014",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "CEDIL staff began visiting agricultural fields and documented the dangerous living and working conditions of indigenous migrant farmworker families. In 2012, they shared findings with municipal government, prompting the creation of a municipal roundtable on farmworker welfare.",
         "fr": "Le personnel du CEDIL a commencé à visiter les champs agricoles et a documenté les conditions de vie et de travail dangereuses des familles de travailleurs agricoles migrants indigènes. En 2012, ils ont partagé leurs conclusions avec le gouvernement municipal, ce qui a conduit à la création d'une table ronde municipale sur le bien-être des travailleurs agricoles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first Navalí camps were launched, providing education, nutrition, and health services to indigenous children working in agricultural fields in León, Guanajuato. The program name Navalí means 'children' in Mixtec.",
         "fr": "Les premiers camps Navalí ont été lancés, offrant des services d'éducation, de nutrition et de santé aux enfants indigènes travaillant dans les champs agricoles de León, Guanajuato. Le nom du programme Navalí signifie « enfants » en mixtèque.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the COVID-19 pandemic, CEDIL continued field operations and for the first time integrated a permanent medical professional into the Navalí program. This became a lasting addition to subsequent field seasons, improving timely diagnosis and treatment for farmworker families.",
         "fr": "Durant la pandémie de COVID-19, le CEDIL a poursuivi ses activités sur le terrain et a intégré pour la première fois un professionnel de santé permanent au programme Navalí. Cela est devenu un ajout durable aux saisons de terrain suivantes, améliorant le diagnostic et le traitement en temps opportun pour les familles de travailleurs agricoles.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Intercultural school for indigenous children",
         "fr": "École interculturelle pour enfants autochtones",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support for indigenous artisan families",
         "fr": "Soutien aux familles artisanes autochtones",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Health and nutrition care in agricultural fields",
         "fr": "Soins de santé et de nutrition dans les champs agricoles",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documentation of labor rights violations",
         "fr": "Documentation des violations des droits du travail",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Spaces and trámites for artisan product sales",
         "fr": "Espaces et démarches pour la vente de produits artisanaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Legal rights information in indigenous languages",
         "fr": "Information sur les droits légaux dans les langues autochtones",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alianzas con organizaciones en estados origen y destino",
         "fr": "Partenariats avec des organisations dans les états d'origine et de destination",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financiamiento para pago de salarios del equipo",
         "fr": "Financement pour le paiement des salaires de l'équipe",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Voluntarios y prestadores de servicio social en temporada",
         "fr": "Bénévoles et prestataires de service social en saison",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Colaboración académica para estudios de estado nutricio",
         "fr": "Collaboration académique pour des études sur l'état nutritionnel",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Reconocimiento institucional de derechos jornaleros agrícolas",
         "fr": "Reconnaissance institutionnelle des droits des travailleurs agricoles journaliers",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Intérpretes en lenguas indígenas para atención en campo",
         "fr": "Interprètes en langues autochtones pour les soins sur le terrain",

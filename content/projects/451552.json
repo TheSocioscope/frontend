@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754420813,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Unibaio es una empresa de base tecnológica centrada en el desarrollo de micropartículas naturales para mejorar la eficacia de productos fitosanitarios como herbicidas y pesticidas. Utilizando quitosano, un polímero biodegradable derivado de las cáscaras de camarón, Unibaio pretende reducir las dosis de aplicación y minimizar el impacto ambiental. La iniciativa surgió de una oportunidad de financiación pública para la investigación regional, aprovechando más de 20 años de experiencia científica para crear soluciones innovadoras para la agricultura sostenible.",
     "de": "Unibaio ist ein technologieorientiertes Unternehmen, das sich auf die Entwicklung natürlicher Mikropartikel konzentriert, um die Wirksamkeit von Pflanzenschutzmitteln wie Herbiziden und Pestiziden zu erhöhen. Durch die Verwendung von Chitosan, einem biologisch abbaubaren Polymer aus Krabbenschalen, will Unibaio die Anwendungsdosen reduzieren und die Umweltauswirkungen minimieren. Die Initiative entstand aus einer öffentlichen Finanzierungsmöglichkeit für regionale Forschung und hebt über 20 Jahre wissenschaftlicher Expertise auf, um innovative Lösungen für eine nachhaltige Landwirtschaft zu schaffen."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Casalongue"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.unibaio.com/",
   "yt": "IJYE1FwG-1c",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Pre-2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Unibayo originated from over 20 years of basic science research, when public funding for regionally strategic projects enabled researchers to apply their knowledge of chitosan—derived from shrimp shell waste—to agricultural protection.",
         "fr": "Unibayo est née de plus de 20 ans de recherche en sciences fondamentales, lorsque des financements publics destinés à des projets stratégiques régionaux ont permis aux chercheurs d'appliquer leurs connaissances sur le chitosan—dérivé des déchets de carapaces de crevettes—à la protection agricole.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During the COVID-19 pandemic, the research team participated in the Gridx accelerator program, where they identified the need for commercial vision and met Matías Figliosi, who later became CEO.",
         "fr": "Durant la pandémie de COVID-19, l'équipe de recherche a participé au programme d'accélération Gridx, où elle a identifié le besoin d'une vision commerciale et a rencontré Matías Figliosi, qui est devenu par la suite PDG.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Unibayo was formally established as a startup upon the incorporation of entrepreneur Matías Figliosi, and subsequently Matías participated in Startup Chile, building an international network of contacts.",
         "fr": "Unibayo a été officiellement créée en tant que startup lors de l'intégration de l'entrepreneur Matías Figliosi, et par la suite Matías a participé à Startup Chile, en développant un réseau international de contacts.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Unibayo secured financing from Indie Bio—the leading biotech accelerator in New York—and from SF500, Argentina's principal life sciences fund backed by Bioceres, while also filing six patent applications in Argentina and six in the United States.",
         "fr": "Unibayo a obtenu un financement d'Indie Bio—le principal accélérateur de biotechnologie à New York—et de SF500, le principal fonds de sciences de la vie en Argentine soutenu par Bioceres, tout en déposant six demandes de brevets en Argentine et six aux États-Unis.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "May 2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Unibayo won the top prize at the Grove New York international competition, selected from 350 global startups, receiving a $1 million award for its dual B2B and B2C business model applied to apple crop protection in New York State.",
         "fr": "Unibayo a remporté le premier prix du concours international Grove New York, sélectionnée parmi 350 startups mondiales, recevant une récompense d'un million de dollars pour son modèle commercial double B2B et B2C appliqué à la protection des cultures de pommes dans l'État de New York.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Unibayo is pursuing its first commercial sales of the 'turbocharge' tank-mix product for direct use by farmers, while simultaneously negotiating pre-commercial licensing agreements with major global agrochemical companies and advancing regulatory approval through SENASA.",
         "fr": "Unibayo poursuit ses premières ventes commerciales du produit en mélange en cuve « turbocharge » destiné à une utilisation directe par les agriculteurs, tout en négociant simultanément des accords de licence pré-commerciaux avec de grandes entreprises agrochimiques mondiales et en faisant avancer l'approbation réglementaire auprès du SENASA.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Chitosan nanoparticles to encapsulate agrochemicals",
         "fr": "Nanoparticules de chitosane pour encapsuler les produits agrochimiques",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Valorization of shrimp shell industrial waste",
         "fr": "Valorisation des déchets industriels de carapaces de crevettes",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Reduced agrochemical doses via nanotechnology",
         "fr": "Réduction des doses d'agrochimiques grâce à la nanotechnologie",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B coformulation with agrochemical companies",
         "fr": "Coformulation B2B avec des entreprises agrochimiques",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Turbocharge product for farmers tank mixing",
         "fr": "Produit booster pour la préparation en cuve des agriculteurs",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge transfer from public research to industry",
         "fr": "Transfert de connaissances de la recherche publique vers l'industrie",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agrochemical companies for co-formulation agreements",
         "fr": "Entreprises agrochimiques pour des accords de co-formulation",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "New financing sources replacing reduced CONICET grants",
         "fr": "Nouvelles sources de financement remplaçant les subventions CONICET réduites",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "First commercial sales of turbocharge product",
         "fr": "Premières ventes commerciales du produit turbocharge",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "European market expansion by 2030 regulation",
         "fr": "Expansion sur le marché européen d'ici la réglementation de 2030",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Regulatory approval from SENASA for turbocharge",
         "fr": "Approbation réglementaire du SENASA pour le turbocharge",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agricultural cooperatives as distribution channels",
         "fr": "Coopératives agricoles en tant que canaux de distribution",

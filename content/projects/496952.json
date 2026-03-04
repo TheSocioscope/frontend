@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755088242,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Cirkula es una plataforma innovadora diseñada para ayudar a la industria alimentaria a minimizar los residuos conectando a las empresas con excedentes de alimentos con los consumidores. Fundada en 2019, Cirkula tiene como objetivo mejorar la sostenibilidad evitando que alimentos en perfecto estado acaben en vertederos, donde emiten gases nocivos de efecto invernadero. Con una red creciente de más de 600 socios, Cirkula se compromete a expandir su impacto en toda América Latina, promoviendo tanto la eficiencia alimentaria como la responsabilidad ambiental. La plataforma está tratando de diversificar su oferta para incluir otros productos perecederos además de los alimentos, como flores y medicamentos, y se centra en la construcción de una sólida red de socios para mejorar su impacto.",
     "de": "Cirkula ist eine innovative Plattform, die der Lebensmittelindustrie helfen soll, Abfall zu minimieren, indem sie Unternehmen mit überschüssigen Lebensmitteln mit Verbrauchern verbindet. Cirkula wurde 2019 gegründet und hat sich zum Ziel gesetzt, die Nachhaltigkeit zu verbessern, indem es verhindert, dass einwandfreie Lebensmittel auf Mülldeponien landen, wo sie schädliche Treibhausgase freisetzen. Mit einem wachsenden Netzwerk von über 600 Partnern ist Cirkula bestrebt, seinen Einfluss in ganz Lateinamerika auszuweiten und sowohl die Lebensmitteleffizienz als auch die Umweltverantwortung zu fördern. Die Plattform ist bestrebt, ihr Angebot zu diversifizieren, um neben Lebensmitteln auch andere verderbliche Waren wie Blumen und Medikamente anzubieten, und konzentriert sich auf den Aufbau eines starken Partnernetzwerks, um ihre Wirkung zu verstärken."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,14 +33,9 @@
       "lastname": "BAUDTS"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "consumption-and-production-patterns"
-  ],
+  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.cirkulaapp.com/",
   "yt": "JYuid5ARFtI",
   "editedAt": 1760067094,
@@ -56,14 +45,12 @@
       "at": 1760067094
     }
   ],
-  "updatedAt": [
-    1760067094
-  ],
+  "updatedAt": [1760067094],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Circula was founded in early 2019 after the co-founder discovered a similar app while on exchange in Australia. The team began prototyping the product and working with freelancers to build basic flows.",
         "fr": "Circula a été fondée début 2019 après que le co-fondateur a découvert une application similaire lors d'un échange en Australie. L'équipe a commencé à prototyper le produit et à travailler avec des freelances pour développer des flux de base.",
@@ -73,7 +60,7 @@
     },
     {
       "date": "October 2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first real product tests were conducted over three weeks with actual users, having already integrated a payment gateway. A small advertising budget supported these initial trials.",
         "fr": "Les premiers véritables tests produit ont été menés sur trois semaines avec de vrais utilisateurs, après avoir déjà intégré une passerelle de paiement. Un petit budget publicitaire a soutenu ces premiers essais.",
@@ -83,7 +70,7 @@
     },
     {
       "date": "January–March 2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Circula launched to market in mid-January 2020 but was forced to suspend operations after only two months due to the COVID-19 pandemic, losing its early partners who closed their businesses.",
         "fr": "Circula a été lancée sur le marché à la mi-janvier 2020, mais a été contrainte de suspendre ses activités après seulement deux mois en raison de la pandémie de COVID-19, perdant ses premiers partenaires qui ont fermé leurs entreprises.",
@@ -93,7 +80,7 @@
     },
     {
       "date": "July 2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Circula re-entered the market in mid-July 2020 as economic activity resumed in Peru, rebuilding its network of allied businesses.",
         "fr": "Circula est revenue sur le marché à la mi-juillet 2020, à mesure que l'activité économique reprenait au Pérou, en reconstruisant son réseau d'entreprises partenaires.",
@@ -103,7 +90,7 @@
     },
     {
       "date": "Early 2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Circula closed its first angel investor round of $100,000 with three angel investors, which provided runway through 2023.",
         "fr": "Circula a conclu son premier tour de table avec des investisseurs providentiels à hauteur de 100 000 $, réunissant trois business angels, ce qui a assuré une autonomie financière jusqu'en 2023.",
@@ -113,7 +100,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A second investment round of $500,000 was closed, providing extended operational support. A new open round was later launched to fund international expansion into Andean markets, starting with Ecuador.",
         "fr": "Un second tour de financement de 500 000 $ a été bouclé, offrant un soutien opérationnel prolongé. Un nouveau tour ouvert a ensuite été lancé pour financer l'expansion internationale vers les marchés andins, en commençant par l'Équateur.",
@@ -124,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Platform to sell surplus food at discount",
         "fr": "Plateforme pour vendre les surplus alimentaires à prix réduit",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to high-end food at reduced prices",
         "fr": "Accès à des aliments haut de gamme à prix réduits",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Impact metrics showing CO2 emissions avoided",
         "fr": "Indicateurs d'impact montrant les émissions de CO2 évitées",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Sustainability seal for allied businesses",
         "fr": "Label de durabilité pour les entreprises partenaires",
@@ -160,7 +147,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical setup and support for partner venues",
         "fr": "Configuration technique et assistance pour les établissements partenaires",
@@ -169,7 +156,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental awareness via food bloggers",
         "fr": "Sensibilisation à l'environnement via les blogueurs culinaires",
@@ -180,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Food business allies across all verticals",
         "fr": "Alliés commerciaux alimentaires dans tous les secteurs",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment round for international expansion",
         "fr": "Tour de financement pour l'expansion internationale",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Entry into Andean region starting Ecuador",
         "fr": "Entrée dans la région andine en commençant par l'Équateur",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Supermarket partnerships currently being finalized",
         "fr": "Partenariats avec les supermarchés en cours de finalisation",
@@ -216,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Full Peruvian food industry platform adoption",
         "fr": "Adoption complète de la plateforme par l'industrie alimentaire péruvienne",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "paraguay"
-  ],
+  "continent": ["south-america"],
+  "country": ["paraguay"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Tu Kokue produces preserves, jams, and yoghurts with an agroecological line sourcing from small local producers without pesticides.",
     "de": "Tu Kokue produces preserves, jams, and yoghurts with an agroecological line sourcing from small local producers without pesticides."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "es",
   "location": "Luque, Paraguay",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://tukokue.com.py/index.php/about/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Raúl Soberina launches a home delivery business of agroecological fruits and vegetables in Asunción, building relationships with small local producers. He begins making preserves and jams from surplus produce that farmers could not sell.",
         "fr": "Raúl Soberina lance une entreprise de livraison à domicile de fruits et légumes agroécologiques à Asunción, en tissant des liens avec de petits producteurs locaux. Il commence à fabriquer des conserves et des confitures à partir des surplus de produits que les agriculteurs ne pouvaient pas vendre.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Raúl meets Ángel Montero at a local fair, where both were selling their products separately. They join forces informally, combining Raúl's preserves with Ángel's yogurts and dulce de leche under one shared kitchen.",
         "fr": "Raúl rencontre Ángel Montero lors d'une foire locale, où tous deux vendaient leurs produits séparément. Ils unissent leurs forces de manière informelle, combinant les conserves de Raúl avec les yaourts et le dulce de leche d'Ángel sous une cuisine partagée.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "José Chávez joins as the third partner and formalizes the company as Tucocué EAS. The company enters supermarket Casa Rica, which triggers explosive yogurt sales and marks a pivotal shift in business focus.",
         "fr": "José Chávez rejoint l'équipe en tant que troisième associé et officialise l'entreprise sous le nom de Tucocué EAS. L'entreprise intègre le supermarché Casa Rica, ce qui déclenche une croissance explosive des ventes de yaourts et marque un tournant décisif dans l'orientation de l'activité.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Tucocué secures a government loan of 70 million guaraníes from the Crédito Agrícola de Habilitación to upgrade their facility and obtain sanitary certifications. They also win 50 million guaraníes in equipment from the Ministry of Industry and Commerce's Microenterprise Competitiveness Program, purchasing their first cold storage chamber.",
         "fr": "Tucocué obtient un prêt gouvernemental de 70 millions de guaraníes auprès du Crédito Agrícola de Habilitación pour moderniser ses installations et obtenir des certifications sanitaires. L'entreprise remporte également 50 millions de guaraníes en équipements dans le cadre du Programme de Compétitivité des Microentreprises du Ministère de l'Industrie et du Commerce, ce qui lui permet d'acquérir sa première chambre froide.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Greek yogurt is introduced after a customer suggestion, quickly becoming the company's star product. The business formally transitions from a broad product line to specializing in natural yogurts, retaining only two jam varieties.",
         "fr": "Le yaourt grec est introduit suite à la suggestion d'un client et devient rapidement le produit phare de l'entreprise. L'activité opère une transition formelle, passant d'une gamme de produits étendue à une spécialisation dans les yaourts naturels, ne conservant que deux variétés de confitures.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "A second, more affordable brand called Yopoi is launched in plastic packaging to make natural yogurt accessible to lower-income families. A new factory in Itagua is also under construction, expected to be completed by end of year to enable greater production capacity and new product lines.",
         "fr": "Une deuxième marque plus abordable appelée Yopoi est lancée dans un emballage en plastique afin de rendre le yaourt naturel accessible aux familles à faibles revenus. Une nouvelle usine à Itagua est également en construction, dont l'achèvement est prévu pour la fin de l'année, afin d'augmenter la capacité de production et de développer de nouvelles gammes de produits.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Glass jar return and reuse program",
         "fr": "Programme de retour et de réutilisation des bocaux en verre",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "100% natural yogurt without additives",
         "fr": "Yaourt 100% naturel sans additifs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Products sourced from agroecological farmers",
         "fr": "Produits provenant d'agriculteurs agroécologiques",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Affordable natural yogurt line Yopoi",
         "fr": "Gamme de yaourts naturels abordables Yopoi",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Weekly farmers market presence and sales",
         "fr": "Présence et ventes hebdomadaires sur les marchés de producteurs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Artisanal small-batch dairy production model",
         "fr": "Modèle de production laitière artisanale en petites séries",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand to new supermarkets and retail channels",
         "fr": "S'étendre vers de nouveaux supermarchés et canaux de distribution",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Increase glass jar return and reuse rate",
         "fr": "Augmenter le taux de retour et de réutilisation des bocaux en verre",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Formalize agreements with agroecological producers",
         "fr": "Formaliser les accords avec les producteurs agroécologiques",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Educate consumers on natural product value",
         "fr": "Sensibiliser les consommateurs à la valeur des produits naturels",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop and test new natural product lines",
         "fr": "Développer et tester de nouvelles gammes de produits naturels",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "uganda"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["uganda"],
   "createdAt": 1754566685,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Zoe Farms and Fisheries, fundada en 2021, empezó como un pequeño huerto en el patio trasero, cultivando hortalizas para consumo doméstico, y ha crecido hasta convertirse en una próspera granja de cuatro acres. La iniciativa se centra en el cultivo de hortalizas y el empoderamiento de la comunidad, en particular de las mujeres, proporcionándoles formación y recursos. Mediante la reinversión de los beneficios, la granja pretende combatir el hambre y mejorar la seguridad alimentaria de la comunidad, al tiempo que aborda la violencia de género a través de la independencia económica.                                   ",
     "de": "Zoe Farms and Fisheries, gegründet 2021, begann als kleiner Hinterhofgarten, in dem Gemüse für den Hausgebrauch angebaut wurde, und hat sich zu einem dreistöckigen Vier-Acker-Hof entwickelt. Die Initiative konzentriert sich auf den Gemüseanbau und die Stärkung der Gemeinschaft, insbesondere von Frauen, durch die Bereitstellung von Schulungen und Ressourcen. Durch die Reinvestition von Gewinnen will die Farm den Hunger bekämpfen und die Ernährungssicherheit in der Gemeinde verbessern, wobei auch die Bekämpfung von geschlechtsspezifischer Gewalt durch wirtschaftliche Unabhängigkeit im Vordergrund steht.                                   "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Josephine"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://zoefarmsandfisheries.com/",
   "yt": "qGCYgATLuyU",
   "editedAt": 1755737263,
@@ -55,14 +45,12 @@
       "at": 1755737263
     }
   ],
-  "updatedAt": [
-    1755737263
-  ],
+  "updatedAt": [1755737263],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Martha Owino quit her job as an accountant to start Zoe Farms and Fisheries, initially growing vegetables on a four-acre plot. The farm began as a small backyard garden for home consumption before becoming a commercial venture.",
         "fr": "Martha Owino a quitté son emploi de comptable pour créer Zoe Farms and Fisheries, cultivant initialement des légumes sur un terrain de quatre acres. La ferme a commencé comme un petit jardin familial destiné à la consommation domestique avant de devenir une entreprise commerciale.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "In the early stages, the farm faced resistance from family members over land use, difficulty securing affordable labor, and challenges establishing a reliable market for produce. Weather variability and the high cost of irrigation also emerged as recurring obstacles.",
         "fr": "Dans les premières étapes, la ferme a rencontré la résistance de membres de la famille concernant l'utilisation des terres, des difficultés à trouver une main-d'œuvre abordable, et des défis pour établir un marché fiable pour les produits. La variabilité climatique et le coût élevé de l'irrigation sont également apparus comme des obstacles récurrents.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Martha's husband invested in the farm after seeing its early success, enabling significant expansion. The farm diversified into poultry, piggery, aquaculture, beekeeping, and large-scale vegetable production.",
         "fr": "Le mari de Martha a investi dans la ferme après avoir constaté ses premiers succès, permettant une expansion significative. La ferme s'est diversifiée dans l'aviculture, l'élevage porcin, l'aquaculture, l'apiculture et la production maraîchère à grande échelle.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm established a self-funding model, reinvesting profits from produce sales to cover operational costs including feed, seeds, and organic fertilizers. Loans were also identified as an additional capital source when needed.",
         "fr": "La ferme a mis en place un modèle d'autofinancement, réinvestissant les bénéfices tirés de la vente des produits pour couvrir les coûts opérationnels, notamment l'alimentation animale, les semences et les engrais biologiques. Des emprunts ont également été identifiés comme source de capital supplémentaire en cas de besoin.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "East West Seed Company began partnering with Zoe Farms, providing free seeds, agronomic training, and using the farm as a demonstration site for new seed varieties. Local restaurants and supermarkets in Tororo District became consistent buyers.",
         "fr": "La société East West Seed Company a commencé à collaborer avec Zoe Farms, fournissant des semences gratuites, des formations agronomiques et utilisant la ferme comme site de démonstration pour de nouvelles variétés de semences. Les restaurants locaux et les supermarchés du district de Tororo sont devenus des acheteurs réguliers.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Zoe Farms launched a community training program, offering free agricultural training to women every Wednesday and Friday. Plans were underway to build dormitory facilities to host students and interns for extended farm-based learning.",
         "fr": "Zoe Farms a lancé un programme de formation communautaire, offrant une formation agricole gratuite aux femmes chaque mercredi et vendredi. Des plans étaient en cours pour construire des dortoirs afin d'accueillir des étudiants et des stagiaires pour des apprentissages prolongés sur la ferme.",
@@ -123,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free vegetable farming training for women",
         "fr": "Formation gratuite en maraîchage pour les femmes",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Agricultural internship programs for university students",
         "fr": "Programmes de stage agricole pour les étudiants universitaires",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seed company demo trials for new varieties",
         "fr": "Essais de démonstration de sociétés semencières pour de nouvelles variétés",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic food supply to restaurants and supermarkets",
         "fr": "Approvisionnement en aliments biologiques pour les restaurants et supermarchés",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Farm visit and hands-on agro-tourism experience",
         "fr": "Visite de ferme et expérience d'agrotourisme pratique",
@@ -168,7 +156,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access support for community producers",
         "fr": "Soutien à l'accès au marché pour les producteurs communautaires",
@@ -179,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Loans or grants to expand farm capital",
         "fr": "Prêts ou subventions pour augmenter le capital agricole",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to international export markets",
         "fr": "Accès aux marchés d'exportation internationaux",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More community members adopting farming",
         "fr": "Plus de membres de la communauté adoptant l'agriculture",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Seed companies for demos and supplies",
         "fr": "Entreprises semencières pour les démonstrations et les fournitures",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Better irrigation solutions for dry seasons",
         "fr": "De meilleures solutions d'irrigation pour les saisons sèches",
@@ -224,7 +212,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Women and youth for farm training academy",
         "fr": "Femmes et jeunes pour l'académie de formation agricole",

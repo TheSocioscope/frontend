@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "The Institute fosters innovation and social entrepreneurship in the agro-food sector through initiatives like Agrohackathon and alternative protein ventures.",
     "de": "The Institute fosters innovation and social entrepreneurship in the agro-food sector through initiatives like Agrohackathon and alternative protein ventures."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "es",
   "location": "Monterrey, Nuevo León",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Carbajal"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://emprendimiento.tec.mx/es/social",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1978",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Tecnológico de Monterrey launched its first entrepreneurship course, marking the origin of what would become the Institute of Entrepreneurship.",
         "fr": "Le Tecnológico de Monterrey a lancé son premier cours d'entrepreneuriat, marquant l'origine de ce qui allait devenir l'Institut d'Entrepreneuriat.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1990s",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The entrepreneurship program was consolidated as a formal directorate, evolving into a vice-rectorship dedicated to supporting the university's mission.",
         "fr": "Le programme d'entrepreneuriat a été consolidé en tant que direction formelle, évoluant vers un vice-rectorat dédié à soutenir la mission de l'université.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Instituto de Emprendimiento Eugenio Garza La Güera was officially created with the objective of promoting innovation and entrepreneurship at local, national, and international levels.",
         "fr": "L'Instituto de Emprendimiento Eugenio Garza La Güera a été officiellement créé avec pour objectif de promouvoir l'innovation et l'entrepreneuriat aux niveaux local, national et international.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2013-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The institute expanded to a national structure of four national directorates, three regional directorates, and four centers of excellence distributed across campuses throughout Mexico.",
         "fr": "L'institut s'est développé en une structure nationale composée de quatre directions nationales, trois directions régionales et quatre centres d'excellence répartis sur des campus à travers tout le Mexique.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Querétaro campus secured a research consortium worth approximately one million dollars involving UNAM, UAQ, state government, and CONACYT, focused on agri-food sustainability across six projects.",
         "fr": "Le campus de Querétaro a obtenu un consortium de recherche d'une valeur d'environ un million de dollars impliquant l'UNAM, l'UAQ, le gouvernement de l'État et le CONACYT, axé sur la durabilité agroalimentaire à travers six projets.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The institute advanced efforts toward financial self-sufficiency through Venture Builder models, the Orion Fund, and diversified funding from corporate sponsors, international foundations, and government agreements.",
         "fr": "L'institut a fait progresser ses efforts vers l'autonomie financière grâce aux modèles Venture Builder, au Fonds Orion et à un financement diversifié provenant de sponsors d'entreprises, de fondations internationales et d'accords gouvernementaux.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Entrepreneurship courses for students at all levels",
         "fr": "Cours d'entrepreneuriat pour les étudiants de tous niveaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Applied research consortia with partner universities",
         "fr": "Consortiums de recherche appliquée avec des universités partenaires",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Connections between startups and corporate investors",
         "fr": "Connexions entre les startups et les investisseurs institutionnels",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Innovation ecosystem development in Querétaro",
         "fr": "Développement de l'écosystème d'innovation à Querétaro",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Technology parks and innovation districts",
         "fr": "Parcs technologiques et districts d'innovation",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Latin America's largest entrepreneurship festival",
         "fr": "Le plus grand festival d'entrepreneuriat d'Amérique latine",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate allies for open innovation projects",
         "fr": "Alliés corporatifs pour des projets d'innovation ouverte",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "National and international investment funds",
         "fr": "Fonds d'investissement nationaux et internationaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Joint research consortia with public universities",
         "fr": "Consortiums de recherche conjoints avec des universités publiques",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Entrepreneurs with scalable high-impact ideas",
         "fr": "Entrepreneurs avec des idées évolutives à fort impact",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion as top entrepreneurship hub in Latin America",
         "fr": "Expansion en tant que principal pôle d'entrepreneuriat en Amérique latine",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government collaboration to shape innovation agenda",
         "fr": "Collaboration gouvernementale pour façonner l'agenda de l'innovation",

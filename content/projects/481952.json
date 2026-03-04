@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754995426,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Grupo Ceiba, fundado en 2016, es una microempresa centrada en la producción sostenible a través de un modelo de economía circular. Ubicada en Prado Tolima, que abarca 170 hectáreas de bosque seco tropical, integra ovejas, cabras y abejas en sus operaciones, produciendo alimentos saludables, biocosméticos y agroinsumos. La iniciativa hace hincapié en la protección del medio ambiente y la participación de la comunidad, con el objetivo de crear un modelo replicable de agricultura sostenible, al tiempo que atiende las necesidades locales y promueve el consumo responsable.",
     "de": "Die 2016 gegründete Grupo Ceiba ist ein Kleinstunternehmen, das sich auf nachhaltige Produktion durch ein Kreislaufwirtschaftsmodell konzentriert. Das Unternehmen befindet sich in Prado Tolima und umfasst 170 Hektar tropischen Trockenwald. Es integriert Schafe, Ziegen und Bienen in seinen Betrieb und produziert gesunde Lebensmittel, Biokosmetik und Agrarrohstoffe. Die Initiative legt den Schwerpunkt auf den Umweltschutz und das Engagement der Gemeinde und will ein nachahmenswertes Modell für nachhaltige Landwirtschaft schaffen, das gleichzeitig auf die lokalen Bedürfnisse eingeht und einen verantwortungsvollen Konsum fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Montaña"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://laceiba.com.co/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ricardo Montaña acquired the 170-hectare family property in Prado, Tolima, laying the foundation for what would become Grupo Ceiba.",
         "fr": "Ricardo Montaña a acquis la propriété familiale de 170 hectares à Prado, Tolima, posant ainsi les bases de ce qui allait devenir le Grupo Ceiba.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm experience formally began, initiating the sustainable productive chain model integrating sheep, goats, bees, and poultry.",
         "fr": "L'expérience agricole a officiellement débuté, lançant le modèle de chaîne productive durable intégrant moutons, chèvres, abeilles et volailles.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Grupo Ceiba was officially registered with the Chamber of Commerce, and university visits for student research and internships began in earnest.",
         "fr": "Le Grupo Ceiba a été officiellement enregistré auprès de la Chambre de Commerce, et les visites universitaires à des fins de recherche et de stages ont véritablement commencé.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The business transitioned to a family enterprise as Ricardo's son Juan Sebastián assumed legal representation, and product design improvements were introduced targeting new market segments.",
         "fr": "L'entreprise s'est transformée en société familiale lorsque Juan Sebastián, le fils de Ricardo, a pris la représentation légale, et des améliorations dans la conception des produits ont été introduites pour cibler de nouveaux segments de marché.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic tested the model but validated its self-sufficiency, as the farm's internal feed bank meant no external inputs were needed for animal nutrition, though commercial sales were affected.",
         "fr": "La pandémie de COVID-19 a mis le modèle à l'épreuve mais en a validé l'autosuffisance : la banque d'aliments interne de la ferme a permis de n'avoir recours à aucun intrant extérieur pour la nutrition animale, bien que les ventes commerciales aient été affectées.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Grupo Ceiba reported approximately $60 million COP in sales, with biocosméticos as the top-selling product line and active participation in Procolombia's international trade rounds targeting export markets.",
         "fr": "Le Grupo Ceiba a enregistré environ 60 millions de COP de ventes, avec les biocosmétiques comme ligne de produits la plus vendue, et une participation active aux rondes de commerce international de Procolombia ciblant les marchés à l'exportation.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Farm as research lab for universities",
         "fr": "Ferme comme laboratoire de recherche pour les universités",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Student internships and field practice",
         "fr": "Stages étudiants et pratique sur le terrain",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Replicable sustainable livestock production model",
         "fr": "Modèle reproductible de production animale durable",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular economy biocosmetcs from animal byproducts",
         "fr": "Biocosmétiques d'économie circulaire issus des sous-produits animaux",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Healthy food from sheep, goat and cattle",
         "fr": "Alimentation saine issue des moutons, chèvres et bovins",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Nature tourism and ecotourism experiences",
         "fr": "Tourisme nature et expériences écotouristiques",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances to strengthen productive units",
         "fr": "Alliances pour renforcer les unités productives",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial distribution channels for products",
         "fr": "Canaux de distribution commerciale pour les produits",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Universities for investigation and student practices",
         "fr": "Universités pour la recherche et les stages étudiants",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replication of silvopastoral sustainable production model",
         "fr": "Réplication du modèle de production durable sylvopastoral",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Soft credits for farm sustainability",
         "fr": "Crédits souples pour la durabilité des exploitations agricoles",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International buyers for cosmetics export",
         "fr": "Acheteurs internationaux pour l'exportation de cosmétiques",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647637,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de bombeo de agua Hydrolic en Kenia aborda el grave problema de la escasez de agua al que se enfrentan muchas comunidades. Utilizando un sencillo sistema de bombeo por gravedad, ofrece una solución sostenible para acceder a agua limpia sin necesidad de costosas fuentes de energía. Este proyecto pretende aliviar la carga que soportan las mujeres y los niños que a menudo recorren largas distancias para conseguir agua, mejorando en última instancia su calidad de vida y apoyando las actividades agrícolas en las regiones áridas.           ",
     "de": "Die Hydrolic-Wasserpumpen-Initiative in Kenia ist eine Antwort auf die kritische Herausforderung der Wasserknappheit in vielen Gemeinden. Durch den Einsatz eines einfachen, schwerkraftbetriebenen Pumpensystems bietet sie eine nachhaltige Lösung für den Zugang zu sauberem Wasser, ohne dass teure Energiequellen benötigt werden. Das Projekt zielt darauf ab, die Belastung von Frauen und Kindern zu verringern, die oft weite Strecken für Wasser zurücklegen müssen, und so ihre Lebensqualität zu verbessern und die landwirtschaftlichen Aktivitäten in den Trockengebieten zu unterstützen.           "
   },
-  "field": [
-    "engineering-and-technology"
-  ],
+  "field": ["engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Lukoye Onyango"
     }
   ],
-  "thematic": [
-    "inequalities-poverty-development",
-    "cities-mobility-urban-planning"
-  ],
+  "thematic": ["inequalities-poverty-development", "cities-mobility-urban-planning"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1995",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A hydraulic ram pump was installed in Machakos that continued operating without failure for decades, demonstrating the technology's long-term durability and inspiring Samuel's later work.",
         "fr": "Une pompe à bélier hydraulique a été installée à Machakos et a continué à fonctionner sans panne pendant des décennies, démontrant la durabilité à long terme de la technologie et inspirant les travaux ultérieurs de Samuel.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Samuel Lukoya Onyango began researching hydraulic ram pumps after observing water access challenges in communities, motivated by the economic hardships of the COVID-19 pandemic and rising fuel costs.",
         "fr": "Samuel Lukoya Onyango a commencé à rechercher des pompes à bélier hydrauliques après avoir observé les difficultés d'accès à l'eau dans les communautés, motivé par les difficultés économiques de la pandémie de COVID-19 et la hausse des coûts du carburant.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Samuel completed multiple pump installations across Kenya including projects in Ukambani, Maseno, Yandaro, and Tigania, serving farmers, livestock keepers, and a university with irrigation needs.",
         "fr": "Samuel a réalisé plusieurs installations de pompes à travers le Kenya, notamment des projets à Ukambani, Maseno, Yandaro et Tigania, au service des agriculteurs, des éleveurs et d'une université ayant des besoins en irrigation.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A client from Germany found Samuel through YouTube and funded a pump installation through her brother in Yandaro, marking Samuel's first internationally connected project and a key personal turning point.",
         "fr": "Une cliente d'Allemagne a trouvé Samuel via YouTube et a financé une installation de pompe par l'intermédiaire de son frère à Yandaro, marquant le premier projet à connexion internationale de Samuel et un tournant personnel décisif.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Samuel secured a procurement project with the National Youth Service in Nairobi, representing his largest institutional contract to date and expanding beyond rural community installations.",
         "fr": "Samuel a décroché un contrat d'approvisionnement avec le Service national de la jeunesse à Nairobi, représentant son plus grand contrat institutionnel à ce jour et élargissant ses activités au-delà des installations communautaires rurales.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company continues to face financing constraints limiting scale, with Samuel seeking NGO partners, foundations, and well-wishers to fund free or subsidised installations in arid and semi-arid areas.",
         "fr": "L'entreprise continue de faire face à des contraintes de financement limitant sa croissance, Samuel cherchant des partenaires ONG, des fondations et des donateurs pour financer des installations gratuites ou subventionnées dans les zones arides et semi-arides.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Hydraulic ram pumps for purchase and installation",
         "fr": "Pompes à bélier hydrauliques à acheter et à installer",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free water access for arid and semi-arid communities",
         "fr": "Accès gratuit à l'eau pour les communautés arides et semi-arides",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "On-site surveys before any pump installation",
         "fr": "Études sur site avant toute installation de pompe",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Community members trained to operate and maintain pump",
         "fr": "Membres de la communauté formés pour utiliser et entretenir la pompe",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Solar, diesel, and submersible pump solutions",
         "fr": "Solutions de pompes solaires, diesel et submersibles",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Post-warranty ongoing machine servicing support",
         "fr": "Assistance continue pour l'entretien des équipements après garantie",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial supporters and grants for pump installations",
         "fr": "Soutiens financiers et subventions pour l'installation de pompes",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGOs and foundations to help communities",
         "fr": "ONG et fondations pour aider les communautés",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners sharing vision of free water access",
         "fr": "Partenaires partageant la vision d'un accès gratuit à l'eau",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Clients in arid and semi-arid areas",
         "fr": "Clients dans les zones arides et semi-arides",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Institutions like schools and universities needing water",
         "fr": "Institutions telles que les écoles et les universités ayant besoin d'eau",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Steel pipe manufacturers for pressure tanks",
         "fr": "Fabricants de tuyaux en acier pour réservoirs sous pression",

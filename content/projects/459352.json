@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754403126,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Acción Ecológica es una organización activista dedicada a defender los derechos de la naturaleza y promover la soberanía alimentaria en Ecuador. Con casi 40 años de experiencia, lleva a cabo diversas iniciativas, como la creación de huertos urbanos agroecológicos, el control de los OMG y la formación de miembros de la comunidad. Mediante la colaboración con colectivos y redes locales, Acción Ecológica pretende crear espacios urbanos sostenibles, mejorar la interacción comunitaria y defender la justicia medioambiental, al tiempo que se enfrenta a las políticas extractivistas que amenazan los ecosistemas y los medios de vida.",
     "de": "Acción Ecológica ist eine engagierte Aktivistenorganisation, die sich auf den Schutz der Rechte der Natur und die Förderung der Ernährungssouveränität in Ecuador konzentriert. Mit fast 40 Jahren Erfahrung engagiert sie sich in verschiedenen Initiativen, darunter urbane agroökologische Gärten, die Überwachung von GVOs und die Schulung von Gemeindemitgliedern. Durch die Zusammenarbeit mit lokalen Kollektiven und Netzwerken will Acción Ecológica nachhaltige städtische Räume schaffen, die Interaktion der Gemeinschaft verbessern und sich für Umweltgerechtigkeit einsetzen, während sie gleichzeitig extraktivistische Politiken konfrontiert, die Ökosysteme und Lebensgrundlagen bedrohen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Buitran"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.accionecologica.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~1985",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Acción Ecológica was formally founded by a group of biology, communication, and agriculture students concerned with environmental degradation. The organization was registered with Ecuador's Ministry of Environment and has operated continuously for nearly 40 years.",
         "fr": "Acción Ecológica a été officiellement fondée par un groupe d'étudiants en biologie, communication et agriculture préoccupés par la dégradation environnementale. L'organisation a été enregistrée auprès du ministère de l'Environnement de l'Équateur et fonctionne en continu depuis près de 40 ans.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "Late 1990s–2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Acción Ecológica played a key role in drafting Ecuador's constitutional prohibition on genetically modified organisms. They became founding members of the Latin American network for a GMO-free Latin America.",
         "fr": "Acción Ecológica a joué un rôle clé dans l'élaboration de l'interdiction constitutionnelle des organismes génétiquement modifiés en Équateur. Elle est devenue membre fondatrice du réseau latino-américain pour une Amérique latine sans OGM.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2008 onward",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Following a national policy shift that promoted mining as a replacement for oil revenues, Ecuador opened its doors to large-scale mining, which Acción Ecológica opposed. The government attempted to shut down the organization twice during this period.",
         "fr": "À la suite d'un changement de politique nationale visant à promouvoir l'exploitation minière en remplacement des revenus pétroliers, l'Équateur a ouvert ses portes à l'exploitation minière à grande échelle, à laquelle Acción Ecológica s'est opposée. Le gouvernement a tenté de fermer l'organisation à deux reprises au cours de cette période.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Acción Ecológica co-founded the Cabildo Cívico de Quito, a coalition of 70 urban organizations, and joined the Basura Cero network to amplify advocacy on waste, agroecology, and public space.",
         "fr": "Acción Ecológica a co-fondé le Cabildo Cívico de Quito, une coalition de 70 organisations urbaines, et a rejoint le réseau Basura Cero pour amplifier le plaidoyer sur les déchets, l'agroécologie et l'espace public.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "~1 year ago",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A legal action filed by Acción Ecológica resulted in a court ruling declaring the Machangara River a subject of rights and ordering the municipality to implement decontamination measures. The ruling is currently under appeal.",
         "fr": "Une action en justice intentée par Acción Ecológica a abouti à une décision de justice déclarant la rivière Machangara sujet de droits et ordonnant à la municipalité de mettre en œuvre des mesures de décontamination. La décision est actuellement en appel.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "Present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization operates community composting stations, agroecological gardens, and urban green corridors in Quito neighborhoods, engaging 30 families per site and partnering with local schools to close the food production and composting cycle.",
         "fr": "L'organisation gère des stations de compostage communautaires, des jardins agroécologiques et des corridors verts urbains dans les quartiers de Quito, mobilisant 30 familles par site et s'associant avec des écoles locales pour boucler le cycle de production alimentaire et de compostage.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological urban gardens for communities",
         "fr": "Jardins urbains agroécologiques pour les communautés",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Community compost station for organic waste",
         "fr": "Station de compost communautaire pour les déchets organiques",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food cycle workshops for school children",
         "fr": "Ateliers sur le cycle alimentaire pour les enfants scolarisés",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Monitoring of transgenic organisms in crops",
         "fr": "Surveillance des organismes transgéniques dans les cultures",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agroecology training for campesino schools",
         "fr": "Formation en agroécologie pour les écoles paysannes",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Urban green corridors with native wild plants",
         "fr": "Corridors verts urbains avec des plantes sauvages indigènes",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Project-based grants from international cooperation",
         "fr": "Subventions basées sur des projets issus de la coopération internationale",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with European humanist organizations",
         "fr": "Alliances avec des organisations humanistes européennes",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Investigation of GMO presence in national crops",
         "fr": "Enquête sur la présence d'OGM dans les cultures nationales",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Legal defense of nature and water rights",
         "fr": "Défense juridique des droits de la nature et de l'eau",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community adoption of urban agroecological gardens",
         "fr": "Adoption communautaire de jardins agroécologiques urbains",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community volunteers for compost station management",
         "fr": "Bénévoles communautaires pour la gestion des stations de compostage",

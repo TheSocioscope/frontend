@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754915259,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Proceso de Montpellier es una iniciativa lanzada en 2015 para crear una colaboración intersectorial entre grupos de expertos internacionales (HLPE, IPBES, IPCC) que trabajan en sistemas alimentarios, medio ambiente y salud. El proyecto evolucionó para apoyar las hojas de ruta nacionales para la transformación de los sistemas alimentarios tras la declaración de los EAU de la COP28. Se centra en crear una comunidad de aprendizaje que comparta estudios de casos a nivel local (Montpellier, São Paulo, Cali) y nacional (México, Colombia, Vietnam, Suiza, Camboya), conectando diferentes escalas a través del diálogo transectorial.",
     "de": "Der Montpellier-Prozess ist eine 2015 gestartete Initiative zur sektorübergreifenden Zusammenarbeit zwischen internationalen Expertengruppen (HLPE, IPBES, IPCC), die sich mit Lebensmittelsystemen, Umwelt und Gesundheit beschäftigen. Das Projekt wurde entwickelt, um nationale Fahrpläne für die Transformation der Lebensmittelsysteme im Anschluss an die Erklärung der COP28 in den Vereinigten Arabischen Emiraten zu unterstützen. Es konzentriert sich auf die Schaffung einer Lerngemeinschaft, die Fallstudien auf lokaler (Montpellier, São Paulo, Cali) und nationaler Ebene (Mexiko, Kolumbien, Vietnam, Schweiz, Kambodscha) austauscht und verschiedene Ebenen durch einen sektorübergreifenden Dialog miteinander verbindet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -47,16 +41,14 @@
     "public-policy-evaluation-impact"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://sites.google.com/view/montpellierprocess/home",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Amanda Collen began as president of the HLPE (High Level Panel of Experts on Food Security) and proposed cross-sector collaboration between agriculture, environment, and health bodies. The foundational idea of connecting siloed international expert panels was conceived during this period.",
         "fr": "Amanda Collen a commencé en tant que présidente du HLPE (Groupe d'experts de haut niveau sur la sécurité alimentaire) et a proposé une collaboration intersectorielle entre les organismes chargés de l'agriculture, de l'environnement et de la santé. L'idée fondatrice de relier des panels internationaux d'experts cloisonnés a été conçue durant cette période.",
@@ -66,7 +58,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A virtual conference on science-policy interfaces was held, serving as a precursor to the Montpellier Process. A commentary was published in Nature and the concept of 'pooling collective intelligence for action' began to take shape.",
         "fr": "Une conférence virtuelle sur les interfaces science-politique a été organisée, servant de précurseur au Processus de Montpellier. Un commentaire a été publié dans Nature et le concept de « mise en commun de l'intelligence collective pour l'action » a commencé à prendre forme.",
@@ -76,7 +68,7 @@
     },
     {
       "date": "October 2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A preparatory workshop was held in Montpellier with approximately 30 high-level decision-makers from organizations including HLPE, UN Food Systems Hub, European Commission, CGIAR, and OECD. This event, funded by the University of Montpellier and the French Ministry of Research with around 40,000 euros, formalized the governance structure and launched the initiative.",
         "fr": "Un atelier préparatoire a été organisé à Montpellier avec environ 30 décideurs de haut niveau issus d'organisations telles que le HLPE, le Hub des systèmes alimentaires de l'ONU, la Commission européenne, le CGIAR et l'OCDE. Cet événement, financé par l'Université de Montpellier et le ministère français de la Recherche à hauteur d'environ 40 000 euros, a formalisé la structure de gouvernance et lancé l'initiative.",
@@ -86,7 +78,7 @@
     },
     {
       "date": "March 2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A major event was organized in Montpellier with approximately 300 participants, including 60 doctoral students from the Global South, supported by a total budget of roughly 500,000 euros from the European Commission, Canadian IDRC, CIRAD, and French ministries. This event catalyzed the formal emergence of what participants called the Montpellier Process.",
         "fr": "Un événement majeur a été organisé à Montpellier avec environ 300 participants, dont 60 doctorants issus du Sud global, soutenu par un budget total d'environ 500 000 euros provenant de la Commission européenne, du CRDI canadien, du CIRAD et des ministères français. Cet événement a catalysé l'émergence formelle de ce que les participants ont appelé le Processus de Montpellier.",
@@ -96,7 +88,7 @@
     },
     {
       "date": "Late 2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The initiative participated in COP16 in Cali, Colombia, co-hosting eight side events with partners including the European Commission. CGIAR and CIRAD formally committed as institutional 'gardeners,' and a new France-CGIAR action plan referenced the Montpellier Process as a key axis of collaboration.",
         "fr": "L'initiative a participé à la COP16 à Cali, en Colombie, en co-organisant huit événements parallèles avec des partenaires dont la Commission européenne. Le CGIAR et le CIRAD se sont formellement engagés en tant que « jardiniers » institutionnels, et un nouveau plan d'action France-CGIAR a référencé le Processus de Montpellier comme un axe clé de collaboration.",
@@ -106,7 +98,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The initiative entered a fundraising phase and began transitioning its name to 'Nexus Action' to avoid confusion with the city of Montpellier. A multi-year EU grant application was submitted, while the lack of stable funding and formal mandate continued to constrain operations.",
         "fr": "L'initiative est entrée dans une phase de collecte de fonds et a commencé à faire évoluer son nom vers « Nexus Action » afin d'éviter toute confusion avec la ville de Montpellier. Une demande de subvention pluriannuelle auprès de l'UE a été soumise, tandis que le manque de financement stable et de mandat formel continuait de contraindre les opérations.",
@@ -117,7 +109,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Facilitates cross-sector dialogue between international experts",
         "fr": "Facilite le dialogue intersectoriel entre experts internationaux",
@@ -126,7 +118,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Organizes deliberative science-policy-society interface spaces",
         "fr": "Organise des espaces délibératifs d'interface science-politique-société",
@@ -135,7 +127,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develops use cases for food system transformation",
         "fr": "Développe des cas d'usage pour la transformation des systèmes alimentaires",
@@ -144,7 +136,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Models effective science-policy interfaces for replication",
         "fr": "Modélise des interfaces science-politique efficaces pour la réplication",
@@ -153,7 +145,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Supports national food system roadmap development",
         "fr": "Soutient le développement de feuilles de route nationales pour les systèmes alimentaires",
@@ -162,7 +154,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Builds collective intelligence across siloed institutions",
         "fr": "Construit une intelligence collective au sein d'institutions cloisonnées",
@@ -173,7 +165,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Institutional gardeners from Global South organizations",
         "fr": "Jardiniers institutionnels issus d'organisations du Sud mondial",
@@ -182,7 +174,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Stable multi-year funding for secretariat",
         "fr": "Financement pluriannuel stable pour le secrétariat",
@@ -191,7 +183,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Case studies linking local to national food systems",
         "fr": "Études de cas reliant les systèmes alimentaires locaux aux systèmes nationaux",
@@ -200,7 +192,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Support for national food system roadmaps",
         "fr": "Soutien aux feuilles de route nationales pour les systèmes alimentaires",
@@ -209,7 +201,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Champions within institutions to drive change",
         "fr": "Champions au sein des institutions pour impulser le changement",
@@ -218,7 +210,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Cross-sector science-policy dialogue spaces",
         "fr": "Espaces de dialogue science-politique intersectoriels",

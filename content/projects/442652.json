@@ -6,9 +6,7 @@
     "contact_url": ""
   },
   "continent": [],
-  "country": [
-    "morocco"
-  ],
+  "country": ["morocco"],
   "createdAt": 1739871726,
   "date": null,
   "description": {
@@ -17,9 +15,7 @@
     "es": "Zitouna Life es una granja agroecológica situada a unos 60 kilómetros de Rabat, en una región semiárida. La explotación, de 4 hectáreas, se fundó en 2020 y destaca por su compromiso con la promoción de prácticas agrícolas sostenibles y respetuosas con el medio ambiente, en particular mediante la cría de pollos y el cultivo de algarrobos e higueras. La granja utiliza técnicas de optimización del agua para hacer frente a los retos climáticos y a la sequía, al tiempo que crea un espacio verde en medio de un entorno degradado. Además de sus actividades agrícolas, la granja es activa en las redes sociales, concienciando al público sobre las prácticas ecológicas y compartiendo consejos sobre agroecología.",
     "de": "Zitouna Life ist ein Agrarökologiebetrieb, der sich etwa 60 km von Rabat entfernt in einer semiariden Region befindet. Der 4 Hektar große Betrieb wurde 2020 gegründet und zeichnet sich durch sein Engagement für die Förderung nachhaltiger, umweltfreundlicher landwirtschaftlicher Praktiken aus, insbesondere durch die Zucht von Ziegen und den Anbau von Karob- und Feigenbäumen. Die Farm nutzt Wasseroptimierungstechniken, um klimatischen Herausforderungen und Dürre zu begegnen und gleichzeitig einen grünen Raum inmitten einer degradierten Umwelt zu schaffen. Zusätzlich zu seinen landwirtschaftlichen Aktivitäten ist der Hof in sozialen Netzwerken aktiv, um das öffentliche Bewusstsein für ökologische Praktiken zu schärfen und Ratschläge zur Agrarökologie weiterzugeben."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "",
   "name": {
@@ -38,20 +34,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://zitounalife.com/",
   "yt": "xgQshnrEiRQ",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "pre-2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Salma and her husband began growing their own vegetables in a small family garden for four years, discovering a passion for natural, chemical-free agriculture before deciding to scale up.",
         "fr": "Salma et son mari ont commencé à cultiver leurs propres légumes dans un petit jardin familial pendant quatre ans, découvrant une passion pour l'agriculture naturelle et sans produits chimiques avant de décider de passer à une plus grande échelle.",
@@ -61,7 +53,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Salma and her husband acquired a 4-hectare plot in the Tifelt region and began developing Ferme Zitouna from bare land, starting with tree planting and drip irrigation systems.",
         "fr": "Salma et son mari ont acquis une parcelle de 4 hectares dans la région de Tifelt et ont commencé à développer la Ferme Zitouna à partir d'un terrain nu, en débutant par la plantation d'arbres et la mise en place de systèmes d'irrigation goutte-à-goutte.",
@@ -71,7 +63,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Early challenges included finding reliable labor, with permanent workers leaving after 3-4 months, leading Salma to switch to day laborers with specific assigned tasks.",
         "fr": "Les premiers défis comprenaient la difficulté à trouver une main-d'œuvre fiable, les travailleurs permanents partant après 3 à 4 mois, ce qui a conduit Salma à passer à des journaliers avec des tâches spécifiques assignées.",
@@ -81,7 +73,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm received state subsidies under the Maroc Vert program for tree purchases and irrigation systems, though reimbursements took two to three years to process.",
         "fr": "La ferme a reçu des subventions de l'État dans le cadre du programme Maroc Vert pour l'achat d'arbres et les systèmes d'irrigation, bien que les remboursements aient pris deux à trois ans à être traités.",
@@ -91,7 +83,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm obtained certification from RIAM (Réseau d'initiatives agroécologiques au Maroc) for its agroecological practices, helping build client trust for product sales.",
         "fr": "La ferme a obtenu la certification du RIAM (Réseau d'initiatives agroécologiques au Maroc) pour ses pratiques agroécologiques, contribuant à renforcer la confiance des clients pour la vente des produits.",
@@ -101,7 +93,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Salma's social media presence grew to nearly 100,000 Instagram followers and 55,000 YouTube subscribers, becoming a key tool for commercialization and raising awareness of agroecology in Morocco.",
         "fr": "La présence de Salma sur les réseaux sociaux a atteint près de 100 000 abonnés sur Instagram et 55 000 abonnés sur YouTube, devenant un outil clé pour la commercialisation et la sensibilisation à l'agroécologie au Maroc.",
@@ -112,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh organic vegetables for sale",
         "fr": "Légumes biologiques frais à vendre",
@@ -121,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free-range eggs and poultry for sale",
         "fr": "Œufs et volailles élevés en plein air à vendre",
@@ -130,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Farm visits and day tours for visitors",
         "fr": "Visites de ferme et excursions d'une journée pour les visiteurs",
@@ -139,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Social media content on agroecology practices",
         "fr": "Contenu sur les réseaux sociaux sur les pratiques agroécologiques",
@@ -148,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "YouTube farm visits showcasing agroecology",
         "fr": "Visites de ferme sur YouTube présentant l'agroécologie",
@@ -157,7 +149,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organic product baskets sold online",
         "fr": "Paniers de produits biologiques vendus en ligne",
@@ -168,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agroecology network connections and collaborations",
         "fr": "Connexions et collaborations au sein du réseau d'agroécologie",
@@ -177,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for certified organic carob",
         "fr": "Acheteurs pour la caroube certifiée biologique",
@@ -186,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Public awareness of chemical-free farming",
         "fr": "Sensibilisation du public à l'agriculture sans produits chimiques",
@@ -195,7 +187,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local sources for untreated organic seeds",
         "fr": "Sources locales de semences biologiques non traitées",
@@ -204,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "State subsidies via Green Generation program",
         "fr": "Subventions publiques via le programme Génération Verte",
@@ -213,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documentation of traditional local farming techniques",
         "fr": "Documentation des techniques agricoles locales traditionnelles",

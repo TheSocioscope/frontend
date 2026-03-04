@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739451887,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "ANDES es una asociación nacional de tiendas de comestibles solidarias de Francia, fundada en 2000. Su objetivo es proporcionar ayuda alimentaria a personas en situación precaria permitiéndoles comprar en tiendas de comestibles donde pagan una cuota simbólica del 10 al 20% del precio básico del producto. Este planteamiento pretende mantener la dignidad de los beneficiarios permitiéndoles elegir sus alimentos y hacer una pequeña contribución económica.\n\nAndès gestiona más de 600 tiendas de comestibles solidarias, que distribuyen unos 40 millones de comidas al año a unas 230.000 personas, lo que la convierte en el quinto proveedor de ayuda alimentaria de Francia. La red apoya a estas tiendas de comestibles mediante asistencia logística, formación y gobernanza, ayudándoles a gestionar los suministros y a crear un entorno acogedor que fomente las conexiones sociales y la confianza en sí mismos de los beneficiarios.\n\nLa iniciativa también se centra en la capacitación de las personas, implicándolas en la gestión de las tiendas y ofreciéndoles talleres para compartir conocimientos, como cocina y costura. Además, Andès lleva a cabo actividades contra el despilfarro recogiendo los alimentos no vendidos de los mayoristas y redistribuyéndolos entre las tiendas de comestibles y otras organizaciones de ayuda.\n\nLa organización aspira a ampliar su alcance a zonas desatendidas y modernizar su oferta, promoviendo prácticas alimentarias sostenibles y la participación de la comunidad a través de diversos programas, como actividades culturales y visitas a granjas.\n",
     "de": "ANDES ist ein im Jahr 2000 gegründeter nationaler Verband von Solidaritätsgrocery Shops in Frankreich. Sie zielt darauf ab, Menschen in prekären Situationen Nahrungsmittelhilfe zukommen zu lassen, indem sie ihnen ermöglicht, in Lebensmittelgeschäften einzukaufen, wo sie eine symbolische Gebühr von 10 bis 20 % des Grundpreises des Produkts zahlen. Mit diesem Ansatz soll die Würde der Begünstigten gewahrt werden, indem sie ihr Essen auswählen und einen kleinen finanziellen Beitrag leisten können.\n\nAndès betreibt über 600 solidarische Lebensmittelgeschäfte und verteilt jährlich rund 40 Millionen Mahlzeiten an etwa 230.000 Menschen, was ihn zum fünftgrößten Anbieter von Nahrungsmittelhilfe in Frankreich macht. The network supports these grocery shops through logistics, training, and governance assistance, helping them to manage supplies and create a welcoming environment that fosters social connections and self-confidence among beneficiaries.\n\nDie Initiative konzentriert sich auch auf die Stärkung von Einzelpersonen, indem sie diese in die Leitung der Grocery-Shops einbezieht und Workshops anbietet, um Fähigkeiten wie Kochen und Nähen zu teilen. Darüber hinaus engagiert sich Andès in Anti-Waste-Aktivitäten, indem sie unsold food von Großhändlern sammelt und an Grocery Shops und andere Hilfsorganisationen weiterverteilt.\n\nThe organization aims to expand its range to underserved areas and modernize its offerings, promoting sustainable food practices and community engagement through various programs, including cultural activities and farm visits.\n"
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Perrin"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://andes-france.com",
   "yt": "CVg5E0esmaQ",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2000",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Andès (Association Nationale des Épiceries Solidaires) was founded, coinciding with the emergence of the first solidarity grocery stores in France.",
         "fr": "Andès (Association Nationale des Épiceries Solidaires) a été fondée, coïncidant avec l'émergence des premières épiceries solidaires en France.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Andès faced severe economic and governance difficulties, entering bankruptcy proceedings before being taken over by Groupe SOS, which saved the association and allowed it to resume all activities and retain its teams.",
         "fr": "Andès a fait face à de graves difficultés économiques et de gouvernance, entrant en procédure de redressement judiciaire avant d'être reprise par le Groupe SOS, qui a sauvé l'association et lui a permis de reprendre l'ensemble de ses activités et de conserver ses équipes.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Following integration into Groupe SOS, Andès gained access to shared services such as legal and payroll support, and benefited from inter-structure financial solidarity within the group.",
         "fr": "Suite à l'intégration au Groupe SOS, Andès a eu accès à des services mutualisés tels que le soutien juridique et la gestion de la paie, et a bénéficié de la solidarité financière inter-structures au sein du groupe.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Covid-19 crisis triggered an explosion in demand, leading Andès to create an entirely new pole dedicated to incubating solidarity grocery stores, with the goal of creating 300 new stores in 3 years supported by the France Relance plan.",
         "fr": "La crise du Covid-19 a provoqué une explosion de la demande, poussant Andès à créer un pôle entièrement nouveau dédié à l'incubation d'épiceries solidaires, avec pour objectif la création de 300 nouvelles épiceries en 3 ans soutenues par le plan France Relance.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Andès conducted an impact study on solidarity grocery stores, using food access as an entry point to address self-esteem, knowledge of rights, and broader social inclusion.",
         "fr": "Andès a mené une étude d'impact sur les épiceries solidaires, en utilisant l'accès à l'alimentation comme point d'entrée pour aborder l'estime de soi, la connaissance des droits et l'inclusion sociale au sens large.",
@@ -107,7 +97,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A 30% drop in food donations from large retailers was recorded across the network, driven by anti-food-waste laws redirecting unsold products to commercial anti-waste actors rather than aid associations, severely straining the financial balance of the network.",
         "fr": "Une baisse de 30 % des dons alimentaires des grandes enseignes a été enregistrée au sein du réseau, portée par des lois anti-gaspillage alimentaire réorientant les invendus vers des acteurs commerciaux de l'anti-gaspillage plutôt que vers les associations d'aide, fragilisant sévèrement l'équilibre financier du réseau.",
@@ -118,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Affordable food access at 10-20% of retail price",
         "fr": "Accès à des aliments abordables à 10-20% du prix de détail",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training and support for solidarity grocery stores",
         "fr": "Formation et soutien aux épiceries solidaires",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Incubator program for creating new grocery stores",
         "fr": "Programme incubateur pour la création de nouvelles épiceries",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recovery and redistribution of unsold food products",
         "fr": "Récupération et redistribution des produits alimentaires invendus",
@@ -154,7 +144,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Insertion employment in logistics and delivery",
         "fr": "Emploi d'insertion dans la logistique et la livraison",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Access to local, organic and bulk products",
         "fr": "Accès à des produits locaux, biologiques et en vrac",
@@ -174,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public and private funding for network activities",
         "fr": "Financements publics et privés pour les activités du réseau",
@@ -183,7 +173,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local producers and anti-waste product donors",
         "fr": "Producteurs locaux et donateurs de produits anti-gaspillage",
@@ -192,7 +182,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Complementary aid organizations to collaborate with",
         "fr": "Organisations d'aide complémentaires avec lesquelles collaborer",
@@ -201,7 +191,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New solidarity grocery store project applicants",
         "fr": "Nouveaux porteurs de projets d'épicerie solidaire",
@@ -210,7 +200,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers for grocery store operations",
         "fr": "Bénévoles pour le fonctionnement des épiceries",
@@ -219,7 +209,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into uncovered food aid zones",
         "fr": "Extension vers des zones d'aide alimentaire non couvertes",

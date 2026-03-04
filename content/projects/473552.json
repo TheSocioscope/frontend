@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754569346,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Eco Scapes es una iniciativa agroecológica innovadora. Creada en 2015, se centra en la agricultura ecológica y la conservación de la vida salvaje en torno al lago Naivasha. Eco Scapes combina la producción ecológica de hortalizas con la conservación de la vida silvestre, operando en 150 acres, de los cuales 20 son de cultivo ecológico. El objetivo de la granja es proporcionar alimentos sanos a las familias locales al tiempo que se abordan cuestiones medioambientales relacionadas con el uso de pesticidas y el cambio climático.  La iniciativa también sirve como granja de demostración, que exhibe diversos cultivos y ofrece oportunidades educativas a la comunidad sobre agricultura ecológica y esfuerzos de conservación.",
     "de": "Eco Scapes ist eine innovative agroökologische Initiative. Sie wurde 2015 gegründet und konzentriert sich auf organischen Landbau und Wildtierschutz in der Umgebung des Lake Naivasha. Eco Scapes verbindet organische Pflanzenproduktion mit dem Schutz von Wildtieren und ist auf 150 Acres tätig, von denen 20 unter organischem Anbau stehen. Der Betrieb zielt darauf ab, gesunde Lebensmittel für lokale Familien zu liefern und gleichzeitig Umweltprobleme im Zusammenhang mit dem Einsatz von Pestiziden und dem Klimawandel anzugehen.  Die Initiative dient auch als Demonstrationsbetrieb, der verschiedene Feldfrüchte vorführt und der Gemeinde Bildungsmöglichkeiten über den ökologischen Landbau und Naturschutzbemühungen bietet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Wageer, James Kimiri, Florence, Alexandra"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecoscapes.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Alex and Richard Bell purchased the property at Lake Naivasha, a commercial bean farm operated by a Dutch company for fine bean exports to Europe. They overpaid for the high-value lakeside land, driven by a vision to protect the area and combine organic farming with wildlife conservation.",
         "fr": "Alex et Richard Bell ont acquis la propriété au lac Naivasha, une ferme commerciale de haricots exploitée par une entreprise néerlandaise pour l'exportation de haricots fins vers l'Europe. Ils ont surpayé ce terrain riverain de grande valeur, portés par une vision de protéger la région et de combiner l'agriculture biologique avec la conservation de la faune sauvage.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2015",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ecoscapes began organic farming operations after the Dutch company that had leased back the farm went bust. An initial attempt to plant thirty acres of organic vegetables failed quickly due to lack of market, forcing the team to scale back significantly.",
         "fr": "Ecoscapes a débuté ses activités d'agriculture biologique après la faillite de l'entreprise néerlandaise qui avait repris la ferme en bail. Une première tentative de planter trente acres de légumes biologiques a rapidement échoué faute de débouchés commerciaux, contraignant l'équipe à réduire considérablement ses ambitions.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ecoscapes achieved organic certification following the mandatory two-year conversion process, establishing what Alex describes as the gold standard of organic production in Kenya. The farm has maintained its certification continuously since then.",
         "fr": "Ecoscapes a obtenu la certification biologique à l'issue du processus de conversion obligatoire de deux ans, établissant ce qu'Alex décrit comme la référence absolue de la production biologique au Kenya. La ferme a maintenu sa certification de manière continue depuis lors.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The Gray Crowned Crane rehabilitation and soft-release program launched in partnership with the Raptor Rehabilitation Trust, with the first birds released later that year. Released birds successfully paired with wild cranes and began returning to roost at the farm.",
         "fr": "Le programme de réhabilitation et de relâchage progressif de la Grue royale a été lancé en partenariat avec le Raptor Rehabilitation Trust, les premiers oiseaux étant relâchés plus tard dans l'année. Les oiseaux relâchés se sont avec succès appariés à des grues sauvages et ont commencé à revenir se percher à la ferme.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ecoscapes took a lease on the neighbouring farm, adding land for both agricultural production and wildlife conservation using the same model of sixty percent conservation to forty percent farming. The farm also recently secured a formal conservancy licence from Kenya Wildlife Service after a five-year process.",
         "fr": "Ecoscapes a pris un bail sur la ferme voisine, ajoutant des terres à la fois pour la production agricole et la conservation de la faune sauvage selon le même modèle de soixante pour cent dédié à la conservation et quarante pour cent à l'agriculture. La ferme a également récemment obtenu une licence officielle de conservatoire auprès du Kenya Wildlife Service au terme d'un processus de cinq ans.",
@@ -104,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Certified organic produce for local families",
         "fr": "Produits biologiques certifiés pour les familles locales",
@@ -113,7 +103,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment with meals and medical cover",
         "fr": "Emploi avec repas et couverture médicale",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Open farm tours showcasing organic methods",
         "fr": "Visites de ferme ouvertes présentant les méthodes biologiques",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training farmers in agroecological practices",
         "fr": "Formation des agriculteurs aux pratiques agroécologiques",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular farming with composting and manure",
         "fr": "Agriculture circulaire avec compostage et fumier",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Gray Crown Crane rehabilitation and release program",
         "fr": "Programme de réhabilitation et de relâche de la Grue royale",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for wildlife corridor and training center",
         "fr": "Subventions pour le couloir faunique et le centre de formation",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for agroecological farming training institute",
         "fr": "Collaborateurs pour l'institut de formation en agriculture agroécologique",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Guaranteed offtake buyers like chefs and schools",
         "fr": "Acheteurs garantis comme des chefs cuisiniers et des écoles",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Land buyers committed to conservation vision",
         "fr": "Acquéreurs fonciers engagés dans la vision de conservation",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Wildlife conservancy formal management plan support",
         "fr": "Soutien au plan de gestion formel de la réserve faunique",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754481679,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) es una asociación de productores de cacao situada en Limón, Tolima. Creada en 2008, su objetivo es unir a los agricultores locales para aumentar la producción de cacao y mejorar los medios de subsistencia. Con 82 miembros, la asociación se centra en prácticas sostenibles, incluida la transformación del cacao en productos finales. Fomenta la colaboración comunitaria, apoya el crecimiento económico y trata de conseguir la certificación orgánica al tiempo que afronta retos como el cambio climático y las fluctuaciones del mercado.   ",
     "de": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) ist eine Vereinigung von Kakaobauern in Limón, Tolima. Sie wurde 2008 gegründet und zielt darauf ab, lokale Landwirte zu vereinen, um die Kokosproduktion zu steigern und die Lebensbedingungen zu verbessern. Mit 82 Mitgliedern konzentriert sich der Verband auf nachhaltige Praktiken, einschließlich der Verarbeitung von Kokos zu Endprodukten. Sie fördert die Zusammenarbeit mit der Gemeinschaft, unterstützt das Wirtschaftswachstum und strebt eine Bio-Zertifizierung an, wobei Herausforderungen wie Klimawandel und Marktschwankungen bewältigt werden sollen.   "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Carlos Peralta"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/aprocasurt.cacao",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "APROCASUR was founded by cacao producers in the Limón corregimiento of southern Tolima, driven by the need to unite families, access resources, and improve livelihoods through collective organization.",
         "fr": "APROCASUR a été fondée par des producteurs de cacao dans le corregimiento de Limón, dans le sud du Tolima, motivés par le besoin d'unir les familles, d'accéder aux ressources et d'améliorer leurs conditions de vie grâce à une organisation collective.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2011",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The association nearly dissolved due to internal management issues and regional difficulties, but was revived by founding members including Jorge Sichero and Olimpo Tafur.",
         "fr": "L'association a failli se dissoudre en raison de problèmes de gestion interne et de difficultés régionales, mais a été relancée par des membres fondateurs, dont Jorge Sichero et Olimpo Tafur.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The association secured a comodato agreement with the Alcaldía de Chaparral for two hectares of land, establishing a clonal orchard to produce and distribute cacao seedlings to members.",
         "fr": "L'association a obtenu un accord de comodato avec l'Alcaldía de Chaparral pour deux hectares de terrain, établissant un verger clonal afin de produire et de distribuer des plants de cacao à ses membres.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A state-backed alliance project provided each associated producer with one new hectare of cacao and one hectare for reforestation, significantly strengthening the association's productive capacity.",
         "fr": "Un projet d'alliance soutenu par l'État a fourni à chaque producteur associé un nouvel hectare de cacao et un hectare destiné au reboisement, renforçant considérablement la capacité productive de l'association.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association reopened its weekly cacao purchasing operation and established a revolving fund (fondo rotatorio) backed by the Ministry of Agriculture, enabling low-interest loans to members and becoming financially self-sustaining.",
         "fr": "L'association a rouvert son opération hebdomadaire d'achat de cacao et a mis en place un fonds rotatif (fondo rotatorio) soutenu par le ministère de l'Agriculture, permettant des prêts à faible taux d'intérêt aux membres et assurant son autonomie financière.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "APROCASUR reached its highest annual cacao commercialization volume at approximately 24 tonnes, generating around 1.76 billion pesos in movement, while renewing its Green Seal certification from Cortolima.",
         "fr": "APROCASUR a atteint son volume annuel le plus élevé de commercialisation de cacao, avec environ 24 tonnes, générant près de 1,76 milliard de pesos de mouvement financier, tout en renouvelant sa certification Sceau Vert délivrée par Cortolima.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Weekly cacao purchasing point for producers",
         "fr": "Point d'achat hebdomadaire de cacao pour les producteurs",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "SENA-backed training on cacao processing",
         "fr": "Formation soutenue par le SENA sur la transformation du cacao",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Low-interest loans via internal rotating fund",
         "fr": "Prêts à faible taux d'intérêt via un fonds rotatif interne",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Cacao seedlings distributed to member farmers",
         "fr": "Plants de cacao distribués aux agriculteurs membres",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Transition support toward organic fertilization",
         "fr": "Accompagnement à la transition vers la fertilisation biologique",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Clonal garden for cacao variety reproduction",
         "fr": "Jardin clonal pour la reproduction de variétés de cacao",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Commercial allies offering better cacao prices",
         "fr": "Alliés commerciaux offrant de meilleurs prix pour le cacao",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for processing infrastructure",
         "fr": "Financement pour l'infrastructure de transformation",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New buyers beyond Nacional de Chocolates",
         "fr": "Nouveaux acheteurs au-delà de Nacional de Chocolates",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Organic certification for artisanal cacao",
         "fr": "Certification biologique pour le cacao artisanal",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth retention strategies in cacao farming",
         "fr": "Stratégies de rétention des jeunes dans la culture du cacao",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Increased cacao production volume from members",
         "fr": "Augmentation du volume de production de cacao des membres",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754991740,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Kandelo Cocktails celebra la rica tradición de las bebidas ancestrales del Pacífico. Con más de 15 años de experiencia, elaboran bebidas medicinales únicas a base de biche y hierbas locales, con el objetivo de curar y mejorar el bienestar. Su compromiso con la calidad y el patrimonio cultural les ha valido el reconocimiento, con premios e interés internacional. Producen diversos productos, entre ellos cremas y cócteles, y se han comprometido a mantener la esencia de sus recetas tradicionales al tiempo que exploran oportunidades de expansión internacional.",
     "de": "Kandelo Cocktails zelebriert die reiche Tradition der Getränke der pazifischen Vorfahren. Mit mehr als 15 Jahren Erfahrung stellen sie einzigartige, medizinische Getränke aus Biche und lokalen Kräutern her, die heilen und das Wohlbefinden steigern sollen. Ihr Engagement für Qualität und kulturelles Erbe hat ihnen Anerkennung eingebracht, darunter Auszeichnungen und internationales Interesse. Sie stellen eine Vielzahl von Produkten her, darunter Cremes und Cocktails, und sind bestrebt, die Essenz ihrer traditionellen Rezepte beizubehalten und gleichzeitig Möglichkeiten für eine internationale Expansion zu erkunden."
   },
-  "field": [
-    "nutrition",
-    "medicine"
-  ],
+  "field": ["nutrition", "medicine"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "G. Hernández"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "public-health"
-  ],
+  "thematic": ["food-agriculture-fishery", "public-health"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/cocteleskandelo/",
   "yt": "ONLsJ6hyW38",
   "originalLang": "et",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cócteles Candelo was founded by Jesús Antonio Candelo and his wife Karen Portocarrero, initially distributing their first bottles for tasting at Clínica Confamar. The business grew from ancestral knowledge passed down through Candelo's mother, who had been preparing medicinal bottles for over 40 years.",
         "fr": "Cócteles Candelo a été fondée par Jesús Antonio Candelo et sa femme Karen Portocarrero, distribuant initialement leurs premières bouteilles pour dégustation à la Clínica Confamar. L'entreprise s'est développée à partir de savoirs ancestraux transmis par la mère de Candelo, qui préparait des bouteilles médicinales depuis plus de 40 ans.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2009-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The business expanded from selling to coworkers to establishing a physical point of sale in their home's first floor and placing stands in shopping centers and commercial walkways across Buenaventura and Valle del Cauca. Delivery infrastructure was built through a partnership with a Taxis VIP service for domicile orders.",
         "fr": "L'entreprise s'est développée, passant de la vente à des collègues à l'établissement d'un point de vente physique au premier étage de leur domicile et à l'installation de stands dans des centres commerciaux et des galeries marchandes à Buenaventura et dans le Valle del Cauca. Une infrastructure de livraison a été mise en place grâce à un partenariat avec un service Taxis VIP pour les commandes à domicile.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During the COVID-19 pandemic, demand for their ancestral beverages surged significantly as people sought natural products, allowing the owners to purchase new equipment. This period validated the commercial potential of their cocktail-based presentation of ancestral drinks.",
         "fr": "Durant la pandémie de COVID-19, la demande pour leurs boissons ancestrales a considérablement augmenté alors que les gens recherchaient des produits naturels, permettant aux propriétaires d'acquérir de nouveaux équipements. Cette période a validé le potentiel commercial de leur présentation en cocktail des boissons ancestrales.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Cócteles Candelo won the Compromiso Valle competition on their first formal entry, receiving approximately 5 million pesos in seed capital used to improve their physical space. They also competed at the Festival Petronio Álvarez, gaining regional and national visibility.",
         "fr": "Cócteles Candelo a remporté le concours Compromiso Valle dès leur première participation formelle, recevant environ 5 millions de pesos en capital d'amorçage utilisé pour améliorer leur espace physique. Ils ont également participé au Festival Petronio Álvarez, gagnant en visibilité régionale et nationale.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The business began pursuing national and international distribution, with products reportedly reaching Chile, Spain, and Italy through DHL shipments. They identified the Ley del Biche as a legal framework that could enable formal INVIMA certification and broader export operations.",
         "fr": "L'entreprise a commencé à poursuivre une distribution nationale et internationale, avec des produits atteignant apparemment le Chili, l'Espagne et l'Italie via des expéditions DHL. Ils ont identifié la Ley del Biche comme un cadre juridique pouvant permettre une certification INVIMA formelle et des opérations d'exportation plus larges.",
@@ -106,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Ancestral beverages from Pacific coast fruits",
         "fr": "Boissons ancestrales à base de fruits de la côte Pacifique",
@@ -115,7 +103,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Home delivery service to local clients",
         "fr": "Service de livraison à domicile pour les clients locaux",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sales at commercial centers and tourist spots",
         "fr": "Vente dans les centres commerciaux et les sites touristiques",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Medicinal and nutritional properties guidance to customers",
         "fr": "Conseils sur les propriétés médicinales et nutritionnelles aux clients",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Traditional cocktails using ancestral ingredients",
         "fr": "Cocktails traditionnels à base d'ingrédients ancestraux",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Personalized curative bottles with medicinal herbs",
         "fr": "Bouteilles curatives personnalisées aux herbes médicinales",
@@ -162,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Retail distribution in commercial centers",
         "fr": "Distribution au détail dans les centres commerciaux",
@@ -171,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Ethical allies from Afro-descendant community",
         "fr": "Alliés éthiques de la communauté afro-descendante",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment for industrial bottling machinery",
         "fr": "Investissement pour des machines d'embouteillage industriel",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local ethnic providers of ancestral fruits",
         "fr": "Fournisseurs locaux ethniques de fruits ancestraux",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "National and international export clients",
         "fr": "Clients nationaux et internationaux à l'exportation",

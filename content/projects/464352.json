@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754429048,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, Foodshare Copenhague, tiene como objetivo combatir el desperdicio de alimentos mediante la redistribución de los excedentes de alimentos a personas y familias necesitadas. Fundada en 2018, opera a través de esfuerzos voluntarios, recogiendo alimentos de supermercados y panaderías, y distribuyéndolos en eventos comunitarios. La organización fomenta un sentido de comunidad entre los ecologistas y promueve la sostenibilidad, alentando a los participantes a compartir alimentos en lugar de desperdiciarlos. Su misión hace hincapié en la educación y la colaboración para crear un sistema alimentario más sostenible.",
     "de": "Die Initiative Foodshare Copenhagen will Lebensmittelabfälle bekämpfen, indem sie überschüssiges Essen an bedürftige Einzelpersonen und Familien weiterverteilt. Die 2018 gegründete Organisation arbeitet ehrenamtlich, sammelt Lebensmittel von Supermärkten und Bäckereien ein und verteilt sie bei Gemeinschaftsveranstaltungen. The organization fosters a sense of community among environmentalists and promotes sustainability, encouraging participants to share food rather than waste it. Its mission emphasis education and collaboration to create a more sustainable food system."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Aleksandrova"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://foodsharingcph.org",
   "yt": "ZV2qZRSYuOY",
   "editedAt": 1760065605,
@@ -55,14 +45,12 @@
       "at": 1760065605
     }
   ],
-  "updatedAt": [
-    1760065605
-  ],
+  "updatedAt": [1760065605],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Food Sharing Copenhagen was founded by a small group of entrepreneurs passionate about reducing food waste, organizing the first surplus food collection and distribution events in Copenhagen.",
         "fr": "Food Sharing Copenhagen a été fondée par un petit groupe d'entrepreneurs passionnés par la réduction du gaspillage alimentaire, organisant les premiers événements de collecte et de distribution de surplus alimentaires à Copenhague.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Veslava Alexandrova joined as a volunteer and within two months became board member for social media, growing the communication working group to 12 people and establishing a strong social media presence.",
         "fr": "Veslava Alexandrova a rejoint l'organisation en tant que bénévole et est devenue membre du conseil d'administration chargée des réseaux sociaux en l'espace de deux mois, faisant passer le groupe de travail communication à 12 personnes et établissant une forte présence sur les réseaux sociaux.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A new location in Christianshavn was launched under anthropologist Aurelia Breeda, and the AMA location also opened, expanding Food Sharing Copenhagen to multiple districts with up to three events per week.",
         "fr": "Un nouveau site à Christianshavn a été lancé sous la direction de l'anthropologue Aurelia Breeda, et le site AMA a également ouvert ses portes, étendant Food Sharing Copenhagen à plusieurs quartiers avec jusqu'à trois événements par semaine.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic forced the organization to adapt its physical distribution model to time-slot-based events with face masks, while also triggering a major wave of volunteer departures as key members graduated, moved abroad, or took full-time jobs.",
         "fr": "La pandémie de COVID-19 a contraint l'organisation à adapter son modèle de distribution physique à des événements par créneaux horaires avec port du masque, tout en déclenchant une importante vague de départs de bénévoles, des membres clés ayant obtenu leur diplôme, déménagé à l'étranger ou trouvé des emplois à temps plein.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The AMA location split off to become the separate organization Mailbox, Christianshavn died out due to lack of volunteers, and the Sulhavn culture house closed for renovation, leaving Food Sharing Copenhagen operating from a single location with only about five active core members.",
         "fr": "Le site AMA s'est séparé pour devenir l'organisation indépendante Mailbox, Christianshavn a cessé ses activités faute de bénévoles, et la maison culturelle Sulhavn a fermé pour rénovation, laissant Food Sharing Copenhagen opérer depuis un seul site avec seulement une cinquantaine de membres actifs au cœur de l'organisation.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Veslava became chairperson and secured a major donation from the American organization Support and Feed, offering the prospect of hiring a first paid staff member and relaunching the organization with restored structure and multiple locations.",
         "fr": "Veslava est devenue présidente et a obtenu un don majeur de l'organisation américaine Support and Feed, offrant la perspective d'embaucher un premier membre du personnel rémunéré et de relancer l'organisation avec une structure restaurée et plusieurs sites.",
@@ -123,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Surplus food collection from markets and bakeries",
         "fr": "Collecte des surplus alimentaires des marchés et boulangeries",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free food distribution events for attendees",
         "fr": "Événements de distribution gratuite de nourriture pour les participants",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on food preservation and fermentation",
         "fr": "Ateliers sur la conservation des aliments et la fermentation",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Volunteer opportunities for environmentally minded people",
         "fr": "Opportunités de bénévolat pour les personnes soucieuses de l'environnement",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Food waste awareness via social media and recipes",
         "fr": "Sensibilisation au gaspillage alimentaire via les réseaux sociaux et les recettes",
@@ -168,7 +156,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Presentations for universities and companies",
         "fr": "Présentations pour les universités et les entreprises",
@@ -179,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "New volunteers for working groups and events",
         "fr": "Nouveaux bénévoles pour les groupes de travail et les événements",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and applications for operational costs",
         "fr": "Subventions et demandes pour les coûts opérationnels",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Supermarket network for surplus food collection",
         "fr": "Réseau de supermarchés pour la collecte des surplus alimentaires",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Student researcher to study volunteer motivations",
         "fr": "Chercheur étudiant pour étudier les motivations des bénévoles",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Paid coordinator to stabilize organization",
         "fr": "Coordinateur rémunéré pour stabiliser l'organisation",

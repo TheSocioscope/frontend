@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "The food transition strategy for Dijon Metropole is a comprehensive umbrella project. Philippe Lemanceau serves as scientific coordinator and Vice-President, leading this extensive policy effort.",
     "de": "The food transition strategy for Dijon Metropole is a comprehensive umbrella project. Philippe Lemanceau serves as scientific coordinator and Vice-President, leading this extensive policy effort."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Lemanceau"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.dijon-metropole.fr/trombinoscope/philippe-lemanceau/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2002-2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mayor François Rebsamen made a strategic political decision to purchase land designated for urbanization and preserve it for agriculture around Dijon. A central kitchen was also constructed to prepare meals for schools, managed as a public service.",
         "fr": "Le maire François Rebsamen a pris la décision politique stratégique d'acquérir des terrains destinés à l'urbanisation et de les préserver pour l'agriculture autour de Dijon. Une cuisine centrale a également été construite pour préparer les repas des écoles, gérée en tant que service public.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2013-2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Philippe Lemenceau, as director of the UMR Agroécologie research unit, began integrating demand-side thinking into agricultural research, realizing that sustainable farming systems required consumer demand to succeed. A territorial innovation laboratory label was obtained following a visit by Agriculture Minister Stéphane Le Foll.",
         "fr": "Philippe Lemenceau, en tant que directeur de l'unité de recherche UMR Agroécologie, a commencé à intégrer la réflexion sur la demande dans la recherche agricole, réalisant que les systèmes agricoles durables nécessitaient une demande des consommateurs pour réussir. Un label de laboratoire d'innovation territoriale a été obtenu à la suite d'une visite du ministre de l'Agriculture Stéphane Le Foll.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Dijon Métropole submitted a pre-candidacy for the national Territoires d'Innovation de Grande Ambition call, securing 800,000 euros in funding from the State, the Métropole, and the Region within days, enabled by a pre-existing open contract between the Métropole and the Region.",
         "fr": "La Dijon Métropole a soumis une pré-candidature à l'appel national Territoires d'Innovation de Grande Ambition, obtenant 800 000 euros de financement de l'État, de la Métropole et de la Région en quelques jours, grâce à un contrat ouvert préexistant entre la Métropole et la Région.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Marie-Hélène joined the project team and the full TIGA candidacy was developed and submitted, assembling approximately 48 million euros in total project value including private investments, ultimately securing 6.8 million euros in State-backed financing and 3 million euros in direct subsidies.",
         "fr": "Marie-Hélène a rejoint l'équipe du projet et la candidature complète TIGA a été élaborée et soumise, rassemblant environ 48 millions d'euros de valeur totale de projet incluant des investissements privés, obtenant finalement 6,8 millions d'euros de financement garanti par l'État et 3 millions d'euros de subventions directes.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Covid-19 pandemic caused most private industrial partners to withdraw from the project, but public subsidies were retained and the initiative continued. Philippe Lemenceau was elected to the Métropole council and became Vice-President for food transition.",
         "fr": "La pandémie de Covid-19 a conduit la plupart des partenaires industriels privés à se retirer du projet, mais les subventions publiques ont été maintenues et l'initiative s'est poursuivie. Philippe Lemenceau a été élu au conseil de la Métropole et est devenu Vice-Président chargé de la transition alimentaire.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The PRODIGE food transition policy matured with a local food hub (légumerie), a food transition charter signed by community actors, and a living lab for citizen innovation. By January 2024, the CHU hospital began serving one vegetarian meal per week to all patients.",
         "fr": "La politique de transition alimentaire PRODIGE a mûri avec un pôle alimentaire local (légumerie), une charte de transition alimentaire signée par les acteurs de la communauté, et un living lab dédié à l'innovation citoyenne. En janvier 2024, le CHU a commencé à servir un repas végétarien par semaine à tous les patients.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Large-scale case study research on food transitions",
         "fr": "Recherche par études de cas à grande échelle sur les transitions alimentaires",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Online platform connecting sustainable food initiatives",
         "fr": "Plateforme en ligne reliant les initiatives alimentaires durables",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "AI-powered content analysis of transition actors",
         "fr": "Analyse de contenu par IA des acteurs de la transition",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Regional food system transformation with industry partners",
         "fr": "Transformation du système alimentaire régional avec des partenaires industriels",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge sharing between global sustainable food actors",
         "fr": "Partage des connaissances entre les acteurs mondiaux de l'alimentation durable",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Skills and cultural change for food sector workers",
         "fr": "Compétences et changement culturel pour les travailleurs du secteur alimentaire",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Case study participants across 15+ countries",
         "fr": "Participants aux études de cas dans plus de 15 pays",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "600 deep empirical cases on food systems",
         "fr": "600 cas empiriques approfondis sur les systèmes alimentaires",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Meso-structure actors like municipalities and networks",
         "fr": "Acteurs méso-structurels tels que les municipalités et les réseaux",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Emblematic regional initiatives for field interviews",
         "fr": "Initiatives régionales emblématiques pour les entretiens de terrain",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Multi-agent modelling collaborators for complex systems",
         "fr": "Collaborateurs en modélisation multi-agents pour les systèmes complexes",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Long-term collaboration with Dijon Métropole stakeholders",
         "fr": "Collaboration à long terme avec les parties prenantes de Dijon Métropole",

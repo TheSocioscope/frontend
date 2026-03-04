@@ -5,12 +5,8 @@
     "lastname": "Socioscope",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "uganda"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["uganda"],
   "createdAt": 1754567090,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Iniciativa de Desarrollo de la Mujer de TESO se centra en capacitar a las comunidades locales de Uganda mediante prácticas sostenibles. Reciclan residuos agrícolas para convertirlos en briquetas limpias para cocinar, capacitan a pequeños agricultores y desarrollan sistemas de riego con materiales locales. La iniciativa también promueve la educación financiera de las mujeres a través de grupos de ahorro y apoya la producción de cocinas mejoradas. Al aumentar la seguridad alimentaria y la resiliencia, pretenden mejorar la nutrición de los hogares y reducir la deforestación.",
     "de": "Die TESO Women Development Initiative konzentriert sich auf die Stärkung lokaler Gemeinschaften in Uganda durch nachhaltige Praktiken. Sie recyceln landwirtschaftliche Abfälle zu sauberen Kochbriketts, bauen Kapazitäten für Kleinbauern auf und entwickeln Bewässerungssysteme aus lokal gewonnenen Materialien. Die Initiative fördert außerdem die Finanzkompetenz von Frauen durch Spargruppen und unterstützt die Produktion von verbesserten Kochöfen. Durch die Verbesserung der Ernährungssicherheit und der Widerstandsfähigkeit sollen die Ernährung der Haushalte verbessert und die Entwaldung verringert werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +35,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "inequalities-poverty-development",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Foundation",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "TESO Women Development Initiative (TEWODI) established as NGO in Soroti district, Eastern Uganda",
         "fr": "TESO Women Development Initiative (TEWODI) établie comme ONG dans le district de Soroti, est de l'Ouganda",
@@ -65,7 +54,7 @@
     },
     {
       "date": "Pre-COVID",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Organization expanded to 12 employees operating across five districts in Uganda",
         "fr": "L'organisation s'est étendue à 12 employés opérant dans cinq districts en Ouganda",
@@ -75,7 +64,7 @@
     },
     {
       "date": "COVID Period",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Faced funding challenges; pivoted to commercial production of briquettes and stoves for sustainability",
         "fr": "A fait face à des défis de financement; pivot vers la production commerciale de briquettes et poêles pour la durabilité",
@@ -85,7 +74,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Secured five-year funding; focus on Soroti district with six employees; expanding briquette sales to Kampala",
         "fr": "Financement de cinq ans obtenu; focus sur le district de Soroti avec six employés; expansion des ventes de briquettes vers Kampala",
@@ -96,7 +85,7 @@
   ],
   "offers": [
     {
-      "icon": "briquettes",
+      "icon": "mdi-wall",
       "label": {
         "en": "Clean Fuel Briquettes from Agricultural Waste",
         "fr": "Briquettes de combustible propre à partir de déchets agricoles",
@@ -105,7 +94,7 @@
       }
     },
     {
-      "icon": "stoves",
+      "icon": "mdi-stove",
       "label": {
         "en": "Improved Cooking Stoves Using Clay Technology",
         "fr": "Poêles de cuisson améliorés utilisant la technologie de l'argile",
@@ -114,7 +103,7 @@
       }
     },
     {
-      "icon": "irrigation",
+      "icon": "mdi-watering-can",
       "label": {
         "en": "Community Irrigation Systems Using Local Materials",
         "fr": "Systèmes d'irrigation communautaires utilisant des matériaux locaux",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agricultural Training and Horticulture Support",
         "fr": "Formation agricole et soutien à l'horticulture",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "savings",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Village Savings and Loan Groups for Women",
         "fr": "Groupes d'épargne et de crédit villageois pour les femmes",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "soil",
+      "icon": "mdi-tractor-variant",
       "label": {
         "en": "Soil Testing Services for Farmers",
         "fr": "Services de test de sol pour les agriculteurs",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "marketing",
+      "icon": "mdi-chart-bar",
       "label": {
         "en": "Collective Vegetable Marketing Support",
         "fr": "Soutien à la commercialisation collective de légumes",
@@ -161,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sustainable Funding Sources for Program Expansion",
         "fr": "Sources de financement durables pour l'expansion des programmes",
@@ -170,7 +159,7 @@
       }
     },
     {
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "label": {
         "en": "Partners to Expand Beyond Eastern Uganda",
         "fr": "Partenaires pour s'étendre au-delà de l'est de l'Ouganda",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "distribution",
+      "icon": "mdi-truck",
       "label": {
         "en": "Distribution Networks for Briquettes and Stoves",
         "fr": "Réseaux de distribution pour briquettes et poêles",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "youth",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Youth Engagement in Water Engineering and Innovation",
         "fr": "Engagement des jeunes dans l'ingénierie de l'eau et l'innovation",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "succession",
+      "icon": "mdi-sitemap",
       "label": {
         "en": "Leadership Development for Organizational Succession",
         "fr": "Développement du leadership pour la succession organisationnelle",
@@ -249,9 +238,7 @@
     }
   ],
   "editedAt": 1771238971,
-  "updatedAt": [
-    1771238971
-  ],
+  "updatedAt": [1771238971],
   "feedback": [
     {
       "content": false,

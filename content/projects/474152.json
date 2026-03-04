@@ -5,12 +5,8 @@
     "lastname": "Kimama",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754573838,
   "date": "2024-04-23",
   "description": {
@@ -19,10 +15,7 @@
     "es": "Shambani Pro es una empresa social pionera en Kenia centrada en eliminar las pérdidas postcosecha de los pequeños agricultores mediante una red de microfábricas descentralizadas. Fundada en 2022 y construida por el venture builder Enviu (Países Bajos), la empresa procesa excedentes y productos de segunda calidad —actualmente mangos— en productos secos de alta calidad que retienen entre el 60 y el 70% de su valor nutricional. Operando en el condado de Makueni, la principal región productora de mangos de Kenia, Shambani Pro ofrece a los agricultores una compra garantizada a precios superiores a los de los intermediarios, generando aumentos de ingresos superiores al 200%.",
     "de": "Shambani Pro ist ein bahnbrechendes Sozialunternehmen in Kenia, das auf die Beseitigung von Nachernteverlusten für Kleinbauern durch ein Netzwerk dezentraler Mikrofabriken ausgerichtet ist. 2022 gegründet und vom Venture Builder Enviu (Niederlande) aufgebaut, verarbeitet das Unternehmen überschüssige Ernte und Produkte zweiter Wahl – derzeit Mangos – zu hochwertigen getrockneten Produkten, die 60–70 % ihres Nährwerts behalten. Im Makueni County tätig, Kenias führender Mangoanbauregion, garantiert Shambani Pro den Bauern einen Abnahme zu Preisen über dem Maklerniveau und erzielt über 200 % Einkommenssteigerung."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "Makueni County, Kenya",
   "name": {
@@ -41,14 +34,9 @@
       "lastname": "Kimama"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "2022–present",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://enviu.org/agrifood/",
   "yt": "",
   "originalLang": "en",
@@ -96,7 +84,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Guaranteed offtake of all grades of mango at above-broker prices for smallholder farmers",
         "fr": "Achat garanti de toutes les qualités de mangues à des prix supérieurs à ceux des courtiers pour les petits exploitants",
@@ -105,7 +93,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Dried mango snacks retaining 60–70% nutritional value, sold to domestic and international bulk buyers",
         "fr": "Mangues séchées conservant 60 à 70 % de leur valeur nutritionnelle, vendues aux acheteurs en gros nationaux et internationaux",
@@ -114,7 +102,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Microfactory model replicable across mango-producing regions, designed for eventual farmer ownership via franchise",
         "fr": "Modèle de micro-usine reproductible dans les régions productrices de mangues, conçu pour être éventuellement détenu par les agriculteurs via une franchise",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Women-led seasonal employment at microfactory sites (~15 casual workers per site per season)",
         "fr": "Emploi saisonnier féminin dans les micro-usines (~15 travailleuses occasionnelles par site et par saison)",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Small-batch processing of alternative crops — pumpkin flour, sweet potato flour, banana — on order for local markets",
         "fr": "Transformation en petites séries de cultures alternatives — farine de potiron, de patate douce, banane — sur commande pour les marchés locaux",
@@ -143,7 +131,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International bulk buyers (Europe and beyond) for dried mango and other processed fruits",
         "fr": "Acheteurs en gros internationaux (Europe et au-delà) pour les mangues séchées et autres fruits transformés",
@@ -152,7 +140,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Certification consultants to obtain international food safety and quality certifications for export market access",
         "fr": "Consultants en certification pour obtenir les certifications internationales de sécurité alimentaire et de qualité en vue de l'accès au marché export",
@@ -161,7 +149,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Additional smallholder mango farmers in Makueni to supply produce and expand processing capacity",
         "fr": "Petits producteurs de mangues supplémentaires à Makueni pour approvisionner et augmenter la capacité de transformation",
@@ -170,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grant funders and impact investors to support microfactory replication and scale across Kenya",
         "fr": "Bailleurs de fonds et investisseurs à impact pour soutenir la réplication des micro-usines et leur passage à l'échelle au Kenya",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Identification of 2–3 additional high post-harvest-loss value chains (bananas, pineapples, sweet potatoes) to optimize factory year-round use",
         "fr": "Identification de 2 à 3 filières supplémentaires à fortes pertes post-récolte (bananes, ananas, patates douces) pour optimiser l'utilisation annuelle des usines",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Senior commercial hire to drive market development and value chain diversification",
         "fr": "Recrutement commercial senior pour stimuler le développement des marchés et la diversification des filières",
@@ -200,7 +188,7 @@
   "timeline": [
     {
       "date": "2019–2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Enviu, a Dutch venture builder, conducted a landscape study identifying post-harvest loss as a critical gap in Kenya's agri-food system. The study found that 40–50% of fruits and vegetables harvested by smallholder farmers never reach market, resulting in income loss, greenhouse gas emissions, and wasted productive resources. Enviu incubated its first agri-food venture, Socofresh, providing farm-level cold storage and market linkage, collectively impacting over 12,000 farmers. Shambani Pro was conceived as a complementary venture to handle second-grade produce that cold storage could not fully redirect to market.",
         "fr": "Enviu, un venture builder néerlandais, a réalisé une étude de marché identifiant les pertes post-récolte comme une lacune critique dans le système agroalimentaire kenyan. L'étude a révélé que 40 à 50 % des fruits et légumes récoltés par les petits exploitants n'atteignent jamais le marché. Enviu a incubé sa première entreprise agroalimentaire, Socofresh, fournissant le stockage frigorifique et la mise en marché au premier kilomètre, impactant collectivement plus de 12 000 agriculteurs. Shambani Pro a été conçu comme un complément pour valoriser les produits de second choix.",
@@ -210,7 +198,7 @@
     },
     {
       "date": "2022-10",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Shambani Pro was formally registered in Kenya in October 2022, 100% owned by Enviu. The company launched its first microfactory in Embo, focused on avocado oil production. It produced and sold approximately 2,000 liters of avocado oil before pivoting. The avocado value chain attracted significant investor attention, reducing post-harvest loss pressure for avocado farmers and prompting Shambani Pro to look for a value chain with greater unmet need.",
         "fr": "Shambani Pro a été officiellement enregistrée au Kenya en octobre 2022, détenue à 100 % par Enviu. L'entreprise a lancé sa première micro-usine à Embo, axée sur la production d'huile d'avocat. Elle a produit et vendu environ 2 000 litres d'huile d'avocat avant de pivoter. La filière avocat ayant attiré de nombreux investisseurs, réduisant ainsi la pression des pertes post-récolte, Shambani Pro s'est tournée vers une filière avec un besoin plus important.",
@@ -220,7 +208,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Shambani Pro pivoted to the mango value chain, targeting Makueni County, the highest mango-producing region in Kenya. Over 700 million metric tons of mangoes are harvested in Kenya annually, with approximately half going to waste due to seasonal glut, long distances to market, broker price suppression, and lack of storage. The company began testing solar greenhouse dryers for mango processing, but erratic weather patterns — particularly during the peak December–March mango season — made these insufficiently reliable. A second attempt using locally designed biomass-powered dryers also proved ineffective.",
         "fr": "Shambani Pro a pivoté vers la filière mangue, ciblant le comté de Makueni, principale région productrice de mangues au Kenya. Plus de 700 millions de tonnes métriques de mangues sont récoltées chaque année au Kenya, dont environ la moitié est gaspillée en raison d'une offre excédentaire saisonnière, de longues distances jusqu'au marché, de prix déprimés par les courtiers et du manque de stockage. L'entreprise a testé des séchoirs solaires, mais les conditions météorologiques erratiques ont rendu la technologie insuffisamment fiable.",
@@ -230,7 +218,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Shambani Pro invested in a commercial-grade dryer, their most effective technology to date. Ruth Kimama joined as CEO and Venture Builder in July 2024. In the first full mango season using the commercial dryer (November 2024–early 2025), 50 farmers supplied approximately 70 tons of mangoes, from which 5 tons of dried mango were produced — below initial projections but well ahead of prior technologies. The company worked with over 300 smallholder farmers in total across all processing activities, delivering 200%+ income improvements at the produce level. Total funding raised reached approximately USD $450,000, comprising Enviu's initial ~$100,000 seed and ~$350,000 of additional fundraising supported by Enviu, including grants from FID (Agence Française de Développement) and the Livelihood Impact Fund.",
         "fr": "Shambani Pro a investi dans un séchoir commercial, sa technologie la plus performante à ce jour. Ruth Kimama a rejoint l'entreprise en tant que PDG et Venture Builder en juillet 2024. Lors de la première saison complète de mangues avec le séchoir commercial (novembre 2024 - début 2025), 50 agriculteurs ont fourni environ 70 tonnes de mangues, dont 5 tonnes de mangues séchées ont été produites. L'entreprise a travaillé avec plus de 300 petits exploitants au total, générant plus de 200 % d'amélioration des revenus. Le financement total levé a atteint environ 450 000 USD.",

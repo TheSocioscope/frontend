@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755004770,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El proyecto Qumir Sunqu se centra en la formación en jardinería urbana y la producción de kits de cultivo biodegradables para hortalizas y plantas ornamentales. Dirigida por un agrónomo, la iniciativa pretende mejorar la seguridad alimentaria en Lima, afrontando los retos que plantean la urbanización y la migración. Con valores de responsabilidad y coherencia, el proyecto hace hincapié en las prácticas respetuosas con el medio ambiente en todos sus procesos, desde la formación hasta la producción, fomentando la autosuficiencia en la producción de alimentos entre las comunidades vulnerables.",
     "de": "Das Projekt Qumir Sunqu konzentriert sich auf die Ausbildung im städtischen Gartenbau und die Herstellung von biologisch abbaubaren Anbausätzen für Gemüse und Zierpflanzen. Die von einem Agrarwissenschaftler geleitete Initiative zielt darauf ab, die Ernährungssicherheit in Lima zu verbessern und die Herausforderungen der Urbanisierung und Migration zu bewältigen. Das Projekt, das auf Verantwortung und Kohärenz setzt, betont umweltfreundliche Praktiken in allen seinen Prozessen, von der Ausbildung bis zur Produktion, und fördert die Selbstversorgung mit Nahrungsmitteln in gefährdeten Gemeinschaften."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "LOAYZA PAREDES"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "cities-mobility-urban-planning"
-  ],
+  "thematic": ["food-agriculture-fishery", "cities-mobility-urban-planning"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "hX1wWqxD_-0",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2010-2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Yolanda Loaiza began developing the concept of Kumir Sunku during her years at the Universidad Nacional Agraria, working in university extension programs and giving early workshops on plants and biogardens at schools and care homes.",
         "fr": "Yolanda Loaiza a commencé à développer le concept de Kumir Sunku durant ses années à l'Universidad Nacional Agraria, en travaillant dans des programmes d'extension universitaire et en animant des ateliers précoces sur les plantes et les biojardins dans des écoles et des maisons de retraite.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Kumir Sunku took formal shape as a project, obtaining a RUC registration with SUNAT and beginning to offer structured workshops and the Kumir Kit product to the public.",
         "fr": "Kumir Sunku a pris une forme officielle en tant que projet, obtenant un enregistrement RUC auprès de la SUNAT et commençant à proposer des ateliers structurés ainsi que le produit Kumir Kit au grand public.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The COVID-19 pandemic drove a major surge in demand for the Kumir Kit, with the initiative dispatching over 100 kits per week as people sought productive activities at home, significantly expanding its national reach.",
         "fr": "La pandémie de COVID-19 a provoqué une forte hausse de la demande pour le Kumir Kit, l'initiative expédiant plus de 100 kits par semaine alors que les gens cherchaient des activités productives à faire chez eux, ce qui a considérablement élargi sa portée nationale.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Kumir Sunku established recurring contracts with multiple Lima Metropolitan municipalities including La Punta, San Isidro, San Borja, and Miraflores, and collaborated with international NGOs such as Korea Food for the Hungry International and the IOM on projects in vulnerable peri-urban zones.",
         "fr": "Kumir Sunku a établi des contrats récurrents avec plusieurs municipalités de la métropole de Lima, notamment La Punta, San Isidro, San Borja et Miraflores, et a collaboré avec des ONG internationales telles que Korea Food for the Hungry International et l'OIM sur des projets dans des zones périurbaines vulnérables.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The initiative consolidated a stable monthly structure of approximately six municipal workshops and up to five weekly workshops under NGO projects, while beginning to plan a virtual educational platform and formal legal registration as a constituted company.",
         "fr": "L'initiative a consolidé une structure mensuelle stable d'environ six ateliers municipaux et jusqu'à cinq ateliers hebdomadaires dans le cadre de projets d'ONG, tout en commençant à planifier une plateforme éducative virtuelle et un enregistrement juridique formel en tant qu'entreprise constituée.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025+",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Kumir Sunku set long-term goals to launch an AI-powered interactive digital platform offering certified courses, establish a community environmental demonstration center, and influence public educational policy to include urban agriculture in school curricula nationwide.",
         "fr": "Kumir Sunku s'est fixé des objectifs à long terme : lancer une plateforme numérique interactive dotée d'intelligence artificielle proposant des cours certifiés, créer un centre de démonstration environnementale communautaire, et influencer les politiques éducatives publiques afin d'intégrer l'agriculture urbaine dans les programmes scolaires à l'échelle nationale.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Botanical and environmental education workshops",
         "fr": "Ateliers d'éducation botanique et environnementale",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Home gardening starter kit with seeds",
         "fr": "Kit de démarrage pour jardinage à domicile avec graines",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "School and community garden implementation",
         "fr": "Mise en place de jardins scolaires et communautaires",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Eco-fairs and seed exchange events",
         "fr": "Éco-foires et événements d'échange de graines",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Post-sale cultivation training for clients",
         "fr": "Formation en culture après-vente pour les clients",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Sustainable practices for companies and municipalities",
         "fr": "Pratiques durables pour les entreprises et les municipalités",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants or financing for business expansion",
         "fr": "Subventions ou financements pour l'expansion de l'entreprise",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with environmental NGOs",
         "fr": "Alliances avec des ONG environnementales",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Schools to host environmental education programs",
         "fr": "Écoles pour accueillir des programmes d'éducation environnementale",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sustainability offices in private companies",
         "fr": "Services de développement durable dans les entreprises privées",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Certified wildlife centers for joint workshops",
         "fr": "Centres animaliers certifiés pour des ateliers communs",

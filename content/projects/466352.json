@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754477725,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Rewild Organics es una marca centrada en la creación y venta de productos para la salud a base de cúrcuma, como leche dorada en polvo y tinturas. Operan principalmente en Costa Rica y hacen hincapié en la compensación justa a los agricultores y en las prácticas sostenibles. Su misión es promover la salud garantizando al mismo tiempo un abastecimiento y una producción éticos, y dirigirse a los mercados de gama alta de Estados Unidos y Canadá. A pesar de las dificultades de ampliación y visibilidad en el mercado, siguen comprometidos con el consumo responsable y la integridad de su cadena de suministro.",
     "de": "Rewild Organics ist eine Marke, die sich auf die Herstellung und den Verkauf von Kurkuma-Gesundheitsprodukten konzentriert, darunter Goldmilchpulver und Tinkturen. Sie sind hauptsächlich in Costa Rica tätig und legen Wert auf faire Entschädigungen für Bauern und nachhaltige Praktiken. Ihr Ziel ist es, die Gesundheit zu fördern und gleichzeitig die ethische Beschaffung und Produktion sicherzustellen, wobei sie sich an High-End-Märkte in den USA und Kanada richten. Trotz Herausforderungen bei der Skalierung und Marktvisibilität bleiben sie einem verantwortungsvollen Konsumverhalten und der Integrität ihrer Lieferkette verpflichtet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Hughes"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://rewildorganics.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Rewild Organics launched its first products to market in late 2020, following several years of research and development with Costa Rican laboratories to develop extracts and drying protocols.",
         "fr": "Rewild Organics a lancé ses premiers produits sur le marché fin 2020, après plusieurs années de recherche et développement avec des laboratoires costariciens pour mettre au point des extraits et des protocoles de séchage.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The brand launched one month before COVID-19 lockdowns began, halting planned expo appearances and forcing the company to rely almost entirely on digital sales for its first two and a half years.",
         "fr": "La marque a été lancée un mois avant le début des confinements liés à la COVID-19, ce qui a mis fin aux participations prévues à des salons et a contraint l'entreprise à s'appuyer presque entièrement sur les ventes numériques pendant ses deux premières années et demie.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "From late 2022, Rewild Organics resumed in-person outreach to retailers and buyers, attending industry events and expanding into private label manufacturing for wholesale clients including hotels.",
         "fr": "À partir de fin 2022, Rewild Organics a repris ses démarches en personne auprès des détaillants et des acheteurs, en participant à des événements sectoriels et en se développant dans la fabrication sous marque privée pour des clients grossistes, notamment des hôtels.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Throughout its operation, Rewild maintained a commitment to fully organic and compostable packaging, absorbing higher costs and manual processing to stay aligned with its environmental values.",
         "fr": "Tout au long de son activité, Rewild a maintenu un engagement envers des emballages entièrement biologiques et compostables, en absorbant des coûts plus élevés et un traitement manuel afin de rester fidèle à ses valeurs environnementales.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "By the time of the interview in June, Rewild had built a loyal repeat customer base across the US, Canada, and Europe, and was pivoting strategically toward B2B private label supply to reduce the cost of finding individual retail customers.",
         "fr": "Au moment de l'entretien en juin, Rewild avait constitué une clientèle fidèle et récurrente aux États-Unis, au Canada et en Europe, et pivotait stratégiquement vers l'approvisionnement B2B sous marque privée afin de réduire le coût d'acquisition de clients détaillants individuels.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Retail and wholesale turmeric and ginger products",
         "fr": "Produits de curcuma et de gingembre en vente au détail et en gros",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic golden milk blends and tinctures",
         "fr": "Mélanges de lait doré biologique et teintures",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fair compensation for local farmers in supply chain",
         "fr": "Rémunération équitable pour les agriculteurs locaux dans la chaîne d'approvisionnement",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic eco-friendly packaging for all products",
         "fr": "Emballages biologiques écologiques pour tous les produits",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Private label manufacturing for hotels and brands",
         "fr": "Fabrication sous marque privée pour les hôtels et les marques",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutrient-dense processing developed with university labs",
         "fr": "Transformation riche en nutriments développée avec des laboratoires universitaires",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Retail market share and shelf space",
         "fr": "Part de marché au détail et espace en rayon",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Industry-specific investors in consumer packaged goods",
         "fr": "Investisseurs spécialisés dans les biens de consommation emballés",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Wholesale and private label buyers",
         "fr": "Acheteurs en gros et de marques privées",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local farmers to grow new crops on demand",
         "fr": "Agriculteurs locaux pour cultiver de nouvelles cultures à la demande",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Collaborative co-packer network for small farms",
         "fr": "Réseau collaboratif de co-emballeurs pour les petites exploitations agricoles",

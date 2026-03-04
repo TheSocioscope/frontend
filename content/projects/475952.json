@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754579456,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, dirigida por Kapi Limited, se centra en mejorar la seguridad alimentaria en Kenia mediante el desarrollo y la distribución de biopesticidas. Al abastecerse de ingredientes naturales procedentes de pequeños agricultores locales, Kapi pretende ofrecer alternativas eficaces y sin residuos a los productos químicos sintéticos. Este enfoque no sólo apoya la agricultura local, sino que también promueve alimentos más seguros para los consumidores. La iniciativa hace hincapié en la educación y la accesibilidad, garantizando que los agricultores puedan elegir con conocimiento de causa prácticas agrícolas sostenibles.",
     "de": "Die von Kapi Limited geleitete Initiative konzentriert sich auf die Verbesserung der Lebensmittelsicherheit in Kenia durch die Entwicklung und den Vertrieb von Biopestiziden. Durch die Beschaffung natürlicher Inhaltsstoffe von lokalen Kleinbauern will Kapi effektive, residuenfreie Alternativen zu synthetischen Chemikalien bieten. Dieser Ansatz unterstützt nicht nur die lokale Landwirtschaft, sondern fördert auch sichere Lebensmittel für die Verbraucher. Die Initiative legt Wert auf Bildung und Zugänglichkeit und stellt sicher, dass die Landwirte informierte Entscheidungen für nachhaltige Anbaumethoden treffen können."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Shaw"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://flowerbrand.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1964",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Carpi Limited was founded by Robin McClellan, a former Pyrethrum Board of Kenya employee, initially producing mosquito coils using pyrethrum as its core ingredient.",
         "fr": "Carpi Limited a été fondée par Robin McClellan, un ancien employé du Pyrethrum Board of Kenya, produisant initialement des spirales anti-moustiques à base de pyrèthre comme ingrédient principal.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2007-2008",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ian Shaw and his family acquired Carpi Limited after the company faced financial distress, investing to stabilize operations and refocus on pyrethrum-based biopesticides.",
         "fr": "Ian Shaw et sa famille ont acquis Carpi Limited après que l'entreprise a connu des difficultés financières, en investissant pour stabiliser les opérations et recentrer l'activité sur les biopesticides à base de pyrèthre.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2008-2010",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Following acquisition, Carpi was forced to register chemical products due to a pyrethrum supply crisis at the Pyrethrum Board of Kenya, while working to revive their natural product line.",
         "fr": "Suite à l'acquisition, Carpi a été contrainte d'enregistrer des produits chimiques en raison d'une crise d'approvisionnement en pyrèthre au Pyrethrum Board of Kenya, tout en travaillant à la relance de sa gamme de produits naturels.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "~2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Carpi began a six-year research and development program for Agripest, a biopesticide using oil from the indigenous Croton megalocarpus plant, developed in partnership with Ecofix.",
         "fr": "Carpi a lancé un programme de recherche et développement de six ans pour Agripest, un biopesticide utilisant l'huile de la plante indigène Croton megalocarpus, développé en partenariat avec Ecofix.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "~2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Agriculture grew to represent 40 percent of Carpi's revenue, driven by large-scale and export farms, with the company stocking products across approximately 300 agrovets nationwide.",
         "fr": "L'agriculture a représenté jusqu'à 40 pourcent du chiffre d'affaires de Carpi, portée par les grandes exploitations et les fermes d'exportation, l'entreprise distribuant ses produits dans environ 300 agrovets à l'échelle nationale.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2023-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Carpi launched new biopesticide products including Biopest and Killer Ticks, began registrations in Uganda and Tanzania, and initiated early-stage collaborations to reach smallholder farmers at scale.",
         "fr": "Carpi a lancé de nouveaux produits biopesticides, notamment Biopest et Killer Ticks, a entamé des enregistrements en Ouganda et en Tanzanie, et a initié des collaborations en phase précoce pour atteindre les petits exploitants agricoles à grande échelle.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero-residue bio-insecticides for safe food",
         "fr": "Bio-insecticides sans résidus pour une alimentation saine",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable biopesticides for smallholder farmers",
         "fr": "Biopesticides abordables pour les petits agriculteurs",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Products stocked in agrovets countrywide",
         "fr": "Produits disponibles dans les agrovétérinaires à travers le pays",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Agronomist field training for farmers",
         "fr": "Formation en agronomie sur le terrain pour les agriculteurs",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Efficacy trials and new biopesticide development",
         "fr": "Essais d'efficacité et développement de nouveaux biopesticides",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Purchase of inputs from Kenyan small-scale farmers",
         "fr": "Achat d'intrants auprès des petits agriculteurs kényans",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Smallholder pyrethrum and neem farmers",
         "fr": "Petits agriculteurs de pyrèthre et de neem",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Small-scale farmers to adopt biopesticides",
         "fr": "Petits agriculteurs adoptant les biopesticides",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborations to expand farmer outreach",
         "fr": "Collaborations pour élargir la portée auprès des agriculteurs",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Agrovets to stock products nationwide",
         "fr": "Agrovets pour stocker des produits à l'échelle nationale",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New bio-active ingredients pipeline",
         "fr": "Pipeline de nouveaux ingrédients bioactifs",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909541,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Les Cols Vert es una asociación innovadora con sede en París centrada en la agricultura urbana y la transición alimentaria. La asociación se dedica a la agricultura urbana y la transición alimentaria. Funciona como una institución híbrida, que combina elementos tanto de una empresa social como de una red de asociaciones independientes. La iniciativa pretende apoyar a las autoridades locales y educar a los ciudadanos en prácticas sostenibles, ofreciendo formación, experiencia y servicios para promover las granjas urbanas y una transición alimentaria integral en toda Francia.     ",
     "de": "Les Cols Vert ist eine innovative Vereinigung mit Sitz in Paris, die sich mit städtischer Landwirtschaft und Ernährungsumstellung befasst. Der Verein widmet sich der städtischen Landwirtschaft und der Ernährungsumstellung. Es handelt sich um eine hybride Einrichtung, die Elemente eines Sozialunternehmens und eines Netzwerks unabhängiger Vereinigungen kombiniert. Ziel der Initiative ist es, die lokalen Behörden zu unterstützen und die Bürger über nachhaltige Praktiken aufzuklären. Sie bietet Schulungen, Fachwissen und Dienstleistungen an, um urbane Landwirtschaftsbetriebe und eine umfassende Ernährungsumstellung in ganz Frankreich zu fördern.     "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Marcel"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.lescolsverts.fr/",
   "yt": "hRxvpJEZtJM",
   "originalLang": "de",
   "timeline": [
     {
       "date": "2012-2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Boris Marcel launches the Europe Tomorrow program, traveling through 23 countries to identify social and environmental innovations. This experience leads him to focus on agriculture and food transition as both a key societal challenge and source of solutions.",
         "fr": "Boris Marcel lance le programme Europe Tomorrow, en voyageant à travers 23 pays pour identifier des innovations sociales et environnementales. Cette expérience l'amène à se concentrer sur la transition agricole et alimentaire comme défi sociétal majeur et source de solutions.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Boris meets co-founder Emmanuel Kaspersky, who had created an urban farm in Valenciennes combining social insertion with food production. The two co-found the Colvert network with the goal of replicating this model across France.",
         "fr": "Boris rencontre le co-fondateur Emmanuel Kaspersky, qui avait créé une ferme urbaine à Valenciennes alliant insertion sociale et production alimentaire. Les deux co-fondent le réseau Colvert avec pour objectif de répliquer ce modèle à travers la France.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2016-2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Colvert-Rennes is established, becoming the network's largest local collective with three farm sites, eight employees, and activities spanning urban farming, environmental education, and health initiatives.",
         "fr": "Colvert-Rennes est créé, devenant le plus grand collectif local du réseau avec trois sites agricoles, huit employés, et des activités couvrant l'agriculture urbaine, l'éducation environnementale et les initiatives de santé.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A free MOOC on professional urban agriculture is launched, gathering 70 contributors and over 100 videos. By 2023, more than 30,000 people had enrolled across three sessions, significantly raising the network's national visibility.",
         "fr": "Un MOOC gratuit sur l'agriculture urbaine professionnelle est lancé, rassemblant 70 contributeurs et plus de 100 vidéos. D'ici 2023, plus de 30 000 personnes s'étaient inscrites sur trois sessions, renforçant considérablement la visibilité nationale du réseau.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A 9-month incubator program is created to accompany existing urban agriculture project holders, complementing the MOOC by providing hands-on support to mature initiatives across France.",
         "fr": "Un programme d'incubation de 9 mois est créé pour accompagner les porteurs de projets d'agriculture urbaine existants, complétant le MOOC en apportant un soutien concret aux initiatives matures à travers la France.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The 'De la Fourche à la Fourchette' training is launched, a 3-month intensive program covering the entire food system across five thematic blocks, with over 200 expert contributors and sessions held in Brittany and Île-de-France.",
         "fr": "La formation 'De la Fourche à la Fourchette' est lancée, un programme intensif de 3 mois couvrant l'ensemble du système alimentaire en cinq blocs thématiques, avec plus de 200 contributeurs experts et des sessions organisées en Bretagne et en Île-de-France.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free online courses on urban agriculture",
         "fr": "Cours en ligne gratuits sur l'agriculture urbaine",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "9-month incubator for project developers",
         "fr": "Incubateur de 9 mois pour les porteurs de projets",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "3-month food system career training",
         "fr": "Formation aux métiers de l'alimentation de 3 mois",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Urban farms in priority city neighborhoods",
         "fr": "Fermes urbaines dans les quartiers prioritaires de la ville",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Citizen workshops for nature reconnection",
         "fr": "Ateliers citoyens pour la reconnexion à la nature",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local organic produce and solidarity food baskets",
         "fr": "Produits biologiques locaux et paniers alimentaires solidaires",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collectivités locales pour soutien foncier et politique",
         "fr": "Collectivités locales pour soutien foncier et politique",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financements publics et privés diversifiés",
         "fr": "Financements publics et privés diversifiés",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Bénévoles citoyens pour mobilisation terrain",
         "fr": "Bénévoles citoyens pour mobilisation terrain",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Porteurs de projets agriculture urbaine à incuber",
         "fr": "Porteurs de projets agriculture urbaine à incuber",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Formations payantes en transition alimentaire",
         "fr": "Formations payantes en transition alimentaire",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Partenariats chercheurs pour légitimité scientifique",
         "fr": "Partenariats chercheurs pour légitimité scientifique",

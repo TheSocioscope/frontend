@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754663630,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La Iniciativa Mundial del Salmón (GSI) es una iniciativa de liderazgo lanzada en 2013 por empresas salmoneras para mejorar la sostenibilidad del sector. Formada por 14 empresas miembros de seis países, la GSI se centra en la colaboración para afrontar retos comunes, mejorar el rendimiento del sector y promover prácticas responsables. Entre sus principales actividades se incluyen el intercambio de conocimientos, la investigación conjunta y la elaboración de informes de sostenibilidad, todo ello con el objetivo de fomentar un sector acuícola más sostenible y, al mismo tiempo, implicar a los directores ejecutivos en un diálogo y una acción significativos.",
     "de": "Die Global Salmon Initiative (GSI) ist eine Führungsinitiative, die 2013 von Lachsfarmen ins Leben gerufen wurde, um die Nachhaltigkeit in der Branche zu verbessern. GSI umfasst 14 Mitgliedsunternehmen in sechs Ländern und konzentriert sich auf die Zusammenarbeit, um gemeinsame Herausforderungen zu bewältigen, die Leistung der Branche zu verbessern und verantwortungsvolle Praktiken zu fördern. Zu den wichtigsten Aktivitäten gehören Wissensaustausch, gemeinsame Forschung und Nachhaltigkeitsberichterstattung, die alle darauf abzielen, eine nachhaltigere Aquakulturbranche zu fördern, indem die CEOs in einen fruchtbaren Dialog und in Maßnahmen eingebunden werden."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,9 +39,7 @@
     "ecology-environmental-change"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://globalsalmoninitiative.org/en/contact-gsi/",
   "yt": "yGHmooAEc4A",
   "editedAt": 1760515024,
@@ -58,14 +49,12 @@
       "at": 1760515024
     }
   ],
-  "updatedAt": [
-    1760515024
-  ],
+  "updatedAt": [1760515024],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "A small group of approximately six global salmon farming CEOs convened for an initial meeting on sustainability, recognizing that key environmental challenges were shared across the sector regardless of company or location.",
         "fr": "Un petit groupe d'environ six PDG mondiaux de l'élevage du saumon s'est réuni pour une première rencontre sur la durabilité, reconnaissant que les principaux défis environnementaux étaient partagés dans l'ensemble du secteur, indépendamment de l'entreprise ou de la localisation.",
@@ -75,7 +64,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Global Salmon Initiative was formally established as a CEO-led coordination mechanism to accelerate sustainability improvements in the farmed salmon sector at speed and scale.",
         "fr": "La Global Salmon Initiative a été officiellement créée en tant que mécanisme de coordination dirigé par des PDG afin d'accélérer les améliorations en matière de durabilité dans le secteur du saumon d'élevage, avec rapidité et à grande échelle.",
@@ -85,7 +74,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "GSI launched its interactive sustainability dashboard following stakeholder roundtables to identify the most material data points, creating an open-access platform tracking environmental, social, and animal welfare metrics across member companies.",
         "fr": "Le GSI a lancé son tableau de bord interactif sur la durabilité à la suite de tables rondes avec les parties prenantes visant à identifier les données les plus pertinentes, créant ainsi une plateforme en accès libre permettant de suivre les indicateurs environnementaux, sociaux et de bien-être animal au sein des entreprises membres.",
@@ -95,7 +84,7 @@
     },
     {
       "date": "2013-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "GSI grew to represent approximately 40% of global farmed salmon production, with ASC certification among member production rising to around 60%, a significant achievement compared to similar certification schemes in other sectors.",
         "fr": "Le GSI a progressivement représenté environ 40 % de la production mondiale de saumon d'élevage, la certification ASC parmi la production des membres atteignant environ 60 %, une réalisation significative par rapport à des schémas de certification similaires dans d'autres secteurs.",
@@ -105,7 +94,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "GSI partnered with the Gates Foundation to act as secretariat for a new pre-competitive sustainability coordination model focused on tilapia and carp farming in Africa, directly replicating the GSI approach in a new sector and continent.",
         "fr": "Le GSI s'est associé à la Fondation Gates pour agir en tant que secrétariat d'un nouveau modèle de coordination de la durabilité pré-concurrentiel axé sur l'élevage du tilapia et de la carpe en Afrique, reproduisant directement l'approche du GSI dans un nouveau secteur et sur un nouveau continent.",
@@ -115,7 +104,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "GSI faced growing tension around ASC certification as market demand stalled due to tariffs and competing standards, prompting debate about balancing high certification standards with commercial viability for member companies.",
         "fr": "Le GSI a été confronté à des tensions croissantes autour de la certification ASC, la demande du marché ayant stagné en raison des droits de douane et de la multiplication des normes concurrentes, suscitant un débat sur l'équilibre entre des exigences de certification élevées et la viabilité commerciale des entreprises membres.",
@@ -126,7 +115,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Joint R&D on feed and disease management",
         "fr": "R&D conjoint sur l'alimentation et la gestion des maladies",
@@ -135,7 +124,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Interactive sustainability dashboard with decade of data",
         "fr": "Tableau de bord interactif sur la durabilité avec une décennie de données",
@@ -144,7 +133,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Support achieving ASC certification standards",
         "fr": "Soutien à l'obtention des normes de certification ASC",
@@ -153,7 +142,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "CEO-level platform for pre-competitive collaboration",
         "fr": "Plateforme au niveau des PDG pour une collaboration pré-compétitive",
@@ -162,7 +151,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Working groups sharing best practices across companies",
         "fr": "Groupes de travail partageant les meilleures pratiques entre entreprises",
@@ -171,7 +160,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to NGO and foundation partnerships",
         "fr": "Accès aux partenariats avec des ONG et des fondations",
@@ -182,7 +171,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGOs and multilateral organizations sharing sustainability vision",
         "fr": "ONG et organisations multilatérales partageant une vision de durabilité",
@@ -191,7 +180,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "100% ASC certification across all member companies",
         "fr": "100% de certification ASC dans toutes les entreprises membres",
@@ -200,7 +189,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Joint R&D on sustainable feed ingredients",
         "fr": "R&D conjointe sur les ingrédients d'aliments durables",
@@ -209,7 +198,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market demand for certified sustainable salmon",
         "fr": "Demande du marché pour le saumon durable certifié",
@@ -218,7 +207,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Supportive policy frameworks enabling aquaculture innovation",
         "fr": "Cadres politiques favorables permettant l'innovation en aquaculture",
@@ -227,7 +216,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Private sector partners for Africa agriculture model",
         "fr": "Partenaires du secteur privé pour le modèle agricole en Afrique",

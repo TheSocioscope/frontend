@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754988265,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Plasa Colombia es una iniciativa innovadora destinada a comprender y mejorar los sistemas alimentarios de Colombia. Mediante la cartografía de la producción, el consumo y el impacto ambiental de los alimentos, crea una plataforma en línea integral que alberga datos vitales. Este esfuerzo de colaboración involucra a universidades y organizaciones, fomentando una comunidad de práctica centrada en temas relacionados con la alimentación. Plasa Colombia sirve como recurso para la toma de decisiones informadas, promoviendo la concienciación y la defensa de prácticas y políticas alimentarias sostenibles en todo el país.",
     "de": "Plasa Colombia ist eine innovative Initiative mit dem Ziel, die Lebensmittelsysteme in Kolumbien zu verstehen und zu verbessern. Durch die Kartierung von Lebensmittelproduktion, -konsum und Umweltauswirkungen wird eine umfassende Online-Plattform geschaffen, die wichtige Daten enthält. An dieser gemeinsamen Anstrengung sind Universitäten und Organisationen beteiligt, die eine Gemeinschaft von Praktikern fördern, die sich mit Lebensmittelthemen befassen. Plasa Colombia dient als Ressource für eine fundierte Entscheidungsfindung und fördert das Bewusstsein für nachhaltige Lebensmittelpraktiken und -politiken im ganzen Land und setzt sich dafür ein."
   },
-  "field": [
-    "nutrition",
-    "information-technology"
-  ],
+  "field": ["nutrition", "information-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,22 +34,16 @@
       "lastname": "Rankin"
     }
   ],
-  "thematic": [
-    "industry",
-    "food-agriculture-fishery",
-    "consumption-and-production-patterns"
-  ],
+  "thematic": ["industry", "food-agriculture-fishery", "consumption-and-production-patterns"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://plasacolombia.com/",
   "yt": "ooFH7z8obwc",
   "originalLang": "id",
   "timeline": [
     {
       "date": "Pre-2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Carlos began doctoral research analyzing food flows and calculating food miles (kilométricos) in Colombia using publicly available CIPSA data, initially as a response to a challenging professor. Simultaneously, Sara's team developed a food system profile mapping Cali's food environment.",
         "fr": "Carlos a commencé une recherche doctorale analysant les flux alimentaires et calculant les kilomètres alimentaires (kilométricos) en Colombie à partir de données CIPSA publiquement disponibles, initialement en réponse à un professeur exigeant. Simultanément, l'équipe de Sara a développé un profil du système alimentaire cartographiant l'environnement alimentaire de Cali.",
@@ -66,7 +53,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team decided to move forward with building Plaza Colombia, initially prototyping in Power BI with $25,000 USD in seed funding, which allowed them to create the first nine dashboards.",
         "fr": "L'équipe a décidé d'aller de l'avant avec la construction de Plaza Colombia, en prototypant initialement sur Power BI avec 25 000 USD de financement initial, ce qui leur a permis de créer les neuf premiers tableaux de bord.",
@@ -76,7 +63,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Plaza Colombia established partnerships with 14 institutions including Universidad de los Andes, Javeriana, Icesi, Banco de la República, FAO, WWF, and PMA, creating a formal legal framework to govern intellectual property and data use among all partners.",
         "fr": "Plaza Colombia a établi des partenariats avec 14 institutions, dont l'Universidad de los Andes, la Javeriana, l'Icesi, le Banco de la República, la FAO, le WWF et le PMA, créant un cadre juridique formel pour régir la propriété intellectuelle et l'utilisation des données entre tous les partenaires.",
@@ -86,7 +73,7 @@
     },
     {
       "date": "April 26, 2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Plaza Colombia was officially launched as a public platform, featuring 16 interactive dashboards covering food production, transport, nutrition, environmental impact, and public policy across Colombia's food systems.",
         "fr": "Plaza Colombia a été officiellement lancée en tant que plateforme publique, proposant 16 tableaux de bord interactifs couvrant la production alimentaire, le transport, la nutrition, l'impact environnemental et les politiques publiques à travers les systèmes alimentaires de Colombie.",
@@ -96,7 +83,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The platform expanded its pedagogical use through university partnerships, conducting classroom exercises with engineering and nutrition students, and launched an open public lecture series (cátedra abierta) on food systems with four seminars.",
         "fr": "La plateforme a élargi son usage pédagogique grâce à des partenariats universitaires, en menant des exercices en classe avec des étudiants en ingénierie et en nutrition, et a lancé une série de conférences publiques ouvertes (cátedra abierta) sur les systèmes alimentaires comprenant quatre séminaires.",
@@ -106,7 +93,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The team identified long-term sustainability and financing as the primary challenge, while pursuing goals of real-time data indicators, replication in other Latin American countries, and greater political incidence with government decision-makers.",
         "fr": "L'équipe a identifié la durabilité à long terme et le financement comme le principal défi, tout en poursuivant des objectifs d'indicateurs de données en temps réel, de reproduction dans d'autres pays d'Amérique latine et d'une plus grande incidence politique auprès des décideurs gouvernementaux.",
@@ -117,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Open platform with food system data",
         "fr": "Plateforme ouverte avec des données sur les systèmes alimentaires",
@@ -126,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Pedagogical tools for universities and schools",
         "fr": "Outils pédagogiques pour les universités et les écoles",
@@ -135,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community of practice with 14 institutions",
         "fr": "Communauté de pratique avec 14 institutions",
@@ -144,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Visual dashboards on food supply chain flows",
         "fr": "Tableaux de bord visuels sur les flux de la chaîne d'approvisionnement alimentaire",
@@ -153,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Open seminars on food systems",
         "fr": "Séminaires ouverts sur les systèmes alimentaires",
@@ -162,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Evidence-based data for public policy decisions",
         "fr": "Données probantes pour les décisions de politique publique",
@@ -173,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Universities and research institutions to collaborate",
         "fr": "Universités et institutions de recherche pour collaborer",
@@ -182,7 +169,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government adoption for public policy decisions",
         "fr": "Adoption gouvernementale pour les décisions de politique publique",
@@ -191,7 +178,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial resources for platform sustainability",
         "fr": "Ressources financières pour la durabilité de la plateforme",
@@ -200,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New data sources for underrepresented food systems",
         "fr": "Nouvelles sources de données pour les systèmes alimentaires sous-représentés",
@@ -209,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replication in other Latin American countries",
         "fr": "Réplication dans d'autres pays d'Amérique latine",
@@ -218,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Real-time food price and supply indicators",
         "fr": "Indicateurs en temps réel des prix et de l'offre alimentaire",

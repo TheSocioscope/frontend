@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754908286,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Crisalim es una iniciativa fundada en 2021-2022 destinada a empoderar a los jóvenes y las comunidades vulnerables a través de la alimentación y la cocina. Ofrece talleres que combinan debates sobre nutrición con comidas compartidas, abordando la resiliencia alimentaria y promoviendo hábitos alimentarios saludables. Los proyectos clave incluyen \"Parcours Alim\" para estudiantes y \"ANAP\", un programa de restaurantes solidarios. Al fomentar el compromiso y la colaboración de la comunidad, Crisalim pretende hacer frente a la inseguridad alimentaria y mejorar las conexiones sociales entre los participantes.",
     "de": "Crisalim ist eine 2021-2022 gegründete Initiative, die junge Menschen und benachteiligte Gemeinschaften durch Essen und Kochen stärken möchte. Sie bietet Workshops an, die Diskussionen über Ernährung mit gemeinsamen Mahlzeiten verbinden, die Widerstandsfähigkeit von Lebensmitteln adressieren und gesunde Essgewohnheiten fördern. Zu den wichtigsten Projekten gehören \"Parcours Alim\" für Studenten und \"ANAP\", ein solidarisches Restaurantprogramm. Durch die Förderung des Engagements und der Zusammenarbeit in der Gemeinschaft will Crisalim die Ernährungsunsicherheit bekämpfen und die sozialen Beziehungen unter den Teilnehmern stärken."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,14 +33,9 @@
       "lastname": "Brodie"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "equality-diversity-studies-and-social-justice"
-  ],
+  "thematic": ["food-agriculture-fishery", "equality-diversity-studies-and-social-justice"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.crisalim.co/",
   "yt": "FvGUlanwF1E",
   "editedAt": 1760065200,
@@ -57,14 +45,12 @@
       "at": 1760065200
     }
   ],
-  "updatedAt": [
-    1760065200
-  ],
+  "updatedAt": [1760065200],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017-2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Damien Houssa s'investit dans un projet d'épicerie coopérative autogérée à Angers-les-Bains, qui voit le jour en mars 2020 au moment du confinement.",
         "fr": "Damien Houssa s'investit dans un projet d'épicerie coopérative autogérée à Angers-les-Bains, qui voit le jour en mars 2020 au moment du confinement.",
@@ -74,7 +60,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Le projet Parcours Alim est déposé pour financement auprès du département de Seine-Saint-Denis en mai 2021 et mis en œuvre dès septembre 2021 sous l'égide de WeShare, avec un premier pilote de six ateliers dans les facs de Paris 13 et Paris 8.",
         "fr": "Le projet Parcours Alim est déposé pour financement auprès du département de Seine-Saint-Denis en mai 2021 et mis en œuvre dès septembre 2021 sous l'égide de WeShare, avec un premier pilote de six ateliers dans les facs de Paris 13 et Paris 8.",
@@ -84,7 +70,7 @@
     },
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "L'association Crisalim est officiellement créée le 6 janvier 2022, et une première alternante en communication est recrutée à la rentrée de septembre 2022.",
         "fr": "L'association Crisalim est officiellement créée le 6 janvier 2022, et une première alternante en communication est recrutée à la rentrée de septembre 2022.",
@@ -94,7 +80,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "La première Nappe, restaurant éphémère solidaire, est lancée en mai 2023 à l'Université Paris VIII. En septembre 2023, une promotion de huit animatrices freelance est recrutée et formée sur deux jours pour animer l'ensemble des programmes.",
         "fr": "La première Nappe, restaurant éphémère solidaire, est lancée en mai 2023 à l'Université Paris VIII. En septembre 2023, une promotion de huit animatrices freelance est recrutée et formée sur deux jours pour animer l'ensemble des programmes.",
@@ -104,7 +90,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Deux alternances sont renouvelées pour deux ans et une coordinatrice en CDI est recrutée, portant l'équipe à un nouveau palier organisationnel.",
         "fr": "Deux alternances sont renouvelées pour deux ans et une coordinatrice en CDI est recrutée, portant l'équipe à un nouveau palier organisationnel.",
@@ -114,7 +100,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Crisalim engage une réflexion stratégique collective sur trois ans, visant à standardiser son modèle, essaimer en Île-de-France et diversifier ses financements vers le secteur privé pour réduire la dépendance aux subventions publiques.",
         "fr": "Crisalim engage une réflexion stratégique collective sur trois ans, visant à standardiser son modèle, essaimer en Île-de-France et diversifier ses financements vers le secteur privé pour réduire la dépendance aux subventions publiques.",
@@ -125,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food education workshops for youth 15-25",
         "fr": "Ateliers d'éducation alimentaire pour les jeunes de 15 à 25 ans",
@@ -134,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Shared meals at ephemeral solidarity restaurants",
         "fr": "Repas partagés dans des restaurants solidaires éphémères",
@@ -143,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seasonal vegetarian menus as learning experience",
         "fr": "Menus végétariens de saison comme expérience d'apprentissage",
@@ -152,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Freelance animator training for food workshops",
         "fr": "Formation d'animateurs freelance pour les ateliers alimentaires",
@@ -161,7 +147,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Social link creation through shared dining",
         "fr": "Création de lien social à travers les repas partagés",
@@ -170,7 +156,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Territorial food system coordination support",
         "fr": "Soutien à la coordination du système alimentaire territorial",
@@ -181,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private funds and corporate donations",
         "fr": "Fonds privés et dons d'entreprises",
@@ -190,7 +176,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New venue partners across Île-de-France",
         "fr": "Nouveaux partenaires de lieux en Île-de-France",
@@ -199,7 +185,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Freelance animators for workshops",
         "fr": "Animateurs freelance pour les ateliers",
@@ -208,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expanding to new territories like Paris 18e",
         "fr": "Extension vers de nouveaux territoires comme Paris 18e",
@@ -217,7 +203,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Replicable and standardized operational model",
         "fr": "Modèle opérationnel reproductible et standardisé",

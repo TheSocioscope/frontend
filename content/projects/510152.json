@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "The Sarel and Hettie Pool Charitable Trust supporting community development in the Breede Valley region.",
     "de": "The Sarel and Hettie Pool Charitable Trust supporting community development in the Breede Valley region."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Breede Valley",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Pool"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://poolfamilytrust.org.za/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1955",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Sarel Pool began making deliveries for his wife Hetty's general store, laying the foundation for a legacy of community service and generosity in the Breeder Valley.",
         "fr": "Sarel Pool a commencé à effectuer des livraisons pour l'épicerie générale de sa femme Hetty, posant ainsi les bases d'un héritage de service communautaire et de générosité dans la vallée de Breeder.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1990s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pool Transport was formally established as a family business, operating from a premises in Worcester that would later also house the charitable trust.",
         "fr": "Pool Transport a été officiellement créé en tant qu'entreprise familiale, opérant depuis des locaux à Worcester qui accueilleraient plus tard également la fondation caritative.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Sarel and Hettie Pool Charitable Trust was officially established by family members after a year of prayer, reflection, and community consultation to continue the founders' legacy.",
         "fr": "La Fondation caritative Sarel et Hettie Pool a été officiellement créée par des membres de la famille après une année de prière, de réflexion et de consultation communautaire afin de perpétuer l'héritage des fondateurs.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Trust formed key partnerships with the Dumo Foundation, SA Harvest, ACW Boland, and Breeder Valley APD to coordinate food distribution to ECD centers, replacing undignified sidewalk deliveries.",
         "fr": "La Fondation a établi des partenariats clés avec la Fondation Dumo, SA Harvest, ACW Boland et Breeder Valley APD pour coordonner la distribution alimentaire aux centres ECD, remplaçant ainsi les livraisons indécentes sur le trottoir.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Trust expanded its focus beyond leadership and entrepreneurship to include nutritional education for ECD practitioners, driven by insights from community stakeholders and a nutritional assessment highlighting malnutrition in Worcester.",
         "fr": "La Fondation a élargi son champ d'action au-delà du leadership et de l'entrepreneuriat pour inclure l'éducation nutritionnelle destinée aux praticiens ECD, motivée par les retours des parties prenantes communautaires et une évaluation nutritionnelle mettant en évidence la malnutrition à Worcester.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Trust began the process of registering as a nonprofit and public benefit organization to unlock external funding, grants, and donor partnerships for future sustainability.",
         "fr": "La Fondation a entamé le processus d'enregistrement en tant qu'organisation à but non lucratif et d'utilité publique afin de débloquer des financements externes, des subventions et des partenariats avec des donateurs pour assurer sa pérennité future.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building programs for ECD practitioners",
         "fr": "Programmes de renforcement des capacités pour les praticiens de la DPE",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Entrepreneurship academy for high school learners",
         "fr": "Académie d'entrepreneuriat pour les élèves du secondaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Physical space for community training and meetings",
         "fr": "Espace physique pour la formation et les réunions communautaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Logistics and transport coordination for food distribution",
         "fr": "Coordination de la logistique et du transport pour la distribution alimentaire",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Nutritional meal planning guidance for ECD centers",
         "fr": "Conseils en planification de repas nutritifs pour les centres de DPE",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Networking and partnership connections for local organizations",
         "fr": "Connexions de réseautage et de partenariat pour les organisations locales",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External grants and donor partnerships for operations",
         "fr": "Subventions externes et partenariats avec des donateurs pour les opérations",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New organizational collaborators beyond current network",
         "fr": "Nouveaux collaborateurs organisationnels au-delà du réseau actuel",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "NPO and public benefit organization registration",
         "fr": "Enregistrement en tant qu'OSBL et organisation d'utilité publique",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data on nutrition outcomes in ECD centers",
         "fr": "Données sur les résultats nutritionnels dans les centres DEJ",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion beyond Worcester into Breeder Valley",
         "fr": "Expansion au-delà de Worcester dans la vallée de Breeder",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Farmer Didi cultivates onions and vegetables, employing local residents and supplying fresh produce to community initiatives.",
     "de": "Farmer Didi cultivates onions and vegetables, employing local residents and supplying fresh produce to community initiatives."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Touwsriver",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "~2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The farm in the Karoo began operating under a previous owner, with agricultural activity established approximately 20 years before the interview.",
         "fr": "La ferme dans le Karoo a commencé à fonctionner sous un propriétaire précédent, avec une activité agricole établie environ 20 ans avant l'entretien.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Didi purchased the 1500-hectare Karoo farm from a farmer in Ceres and began operations with lucerne, onion seedlings, and pumpkins exported to France.",
         "fr": "Didi a acheté la ferme de 1500 hectares dans le Karoo à un agriculteur de Ceres et a débuté les opérations avec de la luzerne, des plants d'oignons et des citrouilles exportées vers la France.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014-2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm achieved significant commercial success exporting pumpkins to France, generating substantial profit and establishing international trade relationships.",
         "fr": "La ferme a connu un succès commercial significatif en exportant des citrouilles vers la France, générant des bénéfices substantiels et établissant des relations commerciales internationales.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Russia-Ukraine war disrupted shipping logistics, halting pumpkin exports to France and forcing Didi to abandon pumpkin farming entirely.",
         "fr": "La guerre russo-ukrainienne a perturbé la logistique maritime, interrompant les exportations de citrouilles vers la France et forçant Didi à abandonner complètement la culture des citrouilles.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm pivoted to carrot and onion seed production for export to Japan and the USA, while Didi expanded community support through a daily soup kitchen providing 120 litres of soup to Toes River.",
         "fr": "La ferme s'est reconvertie dans la production de semences de carottes et d'oignons destinées à l'exportation vers le Japon et les États-Unis, tandis que Didi a renforcé le soutien communautaire grâce à une soupe populaire quotidienne fournissant 120 litres de soupe à Toes River.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "After a four-year government approval process costing approximately R200,000, Didi received clearance to cultivate a new plot, though the allocated soil was of poor quality and presented ongoing production challenges.",
         "fr": "Après un processus d'approbation gouvernementale de quatre ans coûtant environ 200 000 rands, Didi a reçu l'autorisation de cultiver une nouvelle parcelle, bien que le sol attribué fût de mauvaise qualité et présentât des défis de production persistants.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Exports carrot and onion seeds internationally",
         "fr": "Exporte des graines de carottes et d'oignons à l'international",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Daily soup kitchen serving 120 litres",
         "fr": "Soupe populaire quotidienne servant 120 litres",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free vegetables grown for local community",
         "fr": "Légumes gratuits cultivés pour la communauté locale",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farming knowledge shared with schools and elderly homes",
         "fr": "Connaissances agricoles partagées avec les écoles et les maisons de retraite",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Daily paid work opportunities for local residents",
         "fr": "Opportunités de travail rémunéré quotidiennes pour les habitants locaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Surplus produce donated to Gift of the Givers",
         "fr": "Les surplus de production sont donnés à Gift of the Givers",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand seedling supply to more farmers",
         "fr": "Étendre l'approvisionnement en plants à davantage d'agriculteurs",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborate with neighboring farmers on produce sharing",
         "fr": "Collaborer avec les agriculteurs voisins sur le partage des produits",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research support on soil and water management",
         "fr": "Soutien à la recherche sur la gestion des sols et de l'eau",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Streamlined government land clearance approvals",
         "fr": "Simplification des approbations gouvernementales de défrichement des terres",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Resources to diversify local vegetable production",
         "fr": "Ressources pour diversifier la production maraîchère locale",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Improved water supply for farm expansion",
         "fr": "Amélioration de l'approvisionnement en eau pour l'expansion agricole",

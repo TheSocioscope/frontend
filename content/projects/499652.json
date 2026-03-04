@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Crepes & Waffles es una cadena de restaurantes colombiana certificada como Empresa B desde 2016. La compañía es reconocida por su compromiso con la responsabilidad social, particularmente a través de su modelo de empleo que prioriza la contratación de mujeres cabeza de hogar. El restaurante combina gastronomía de alta calidad con prácticas empresariales sostenibles y un fuerte enfoque en el apoyo a comunidades vulnerables.",
     "de": "Crepes & Waffles ist eine kolumbianische Restaurantkette, die seit 2016 B Corp-zertifiziert ist. Das Unternehmen ist für sein Engagement für soziale Verantwortung bekannt, insbesondere durch sein Beschäftigungsmodell, das die Einstellung von alleinerziehenden Müttern priorisiert. Das Restaurant verbindet hochwertige Gastronomie mit nachhaltigen Geschäftspraktiken und einem starken Fokus auf die Unterstützung gefährdeter Gemeinschaften."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Bogotá",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Losada"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://crepesywaffles.com/blog/crepeswaffles-empresa-b-certificada-r-desde-el-2016",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1980s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Crepes and Waffles was founded by Beatriz Fernández and Eduardo Macía, deliberately employing women heads of household who lacked opportunities in other industries. From the outset, the company's mission centered on generating opportunities for vulnerable populations.",
         "fr": "Crepes and Waffles a été fondée par Beatriz Fernández et Eduardo Macía, employant délibérément des femmes chefs de famille qui manquaient d'opportunités dans d'autres secteurs. Dès le début, la mission de l'entreprise était centrée sur la création d'opportunités pour les populations vulnérables.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "2016-2017",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The sustainability area was formally created under Felipe Macía, son of the founders, launching the Montes de María project to support post-conflict farming communities. The initiative identified the traditional frijol rojo cuarentano bean and began agroecological production with displaced families returning to their land.",
         "fr": "Le département du développement durable a été officiellement créé sous la direction de Felipe Macía, fils des fondateurs, lançant le projet Montes de María pour soutenir les communautés agricoles de l'après-conflit. L'initiative a identifié le haricot traditionnel frijol rojo cuarentano et a lancé une production agroécologique avec des familles déplacées retournant sur leurs terres.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Crepes and Waffles ran a customer campaign that funded the planting of approximately 160,000 trees in the Montes de María region. Proceeds from specific menu dishes were matched by the company and donated to local campesino organizations to lead the reforestation.",
         "fr": "Crepes and Waffles a mené une campagne client qui a financé la plantation d'environ 160 000 arbres dans la région des Montes de María. Les recettes de certains plats du menu ont été complétées par l'entreprise et reversées aux organisations paysannes locales pour diriger le reboisement.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Crepes and Waffles completed construction of the Colegio La Leona in Cajamarca, a multi-million dollar school built by redirecting tax payments into public infrastructure under Colombia's obras por impuestos mechanism. The project supported the 88 farming families supplying arracacha and lemon to the company.",
         "fr": "Crepes and Waffles a achevé la construction du Colegio La Leona à Cajamarca, une école à plusieurs millions de dollars construite en réorientant des paiements fiscaux vers des infrastructures publiques dans le cadre du mécanisme colombien obras por impuestos. Le projet a soutenu les 88 familles d'agriculteurs fournissant de l'arracacha et du citron à l'entreprise.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After roughly 18 months of unstable supply and quality problems, the frijol cuarentano supply chain stabilized and the ingredient was incorporated into two permanent menu dishes. The Montes de María partnership expanded to include honey from local beekeepers whose production depends on the preserved dry tropical forest.",
         "fr": "Après environ 18 mois d'instabilité d'approvisionnement et de problèmes de qualité, la chaîne d'approvisionnement en frijol cuarentano s'est stabilisée et l'ingrédient a été incorporé dans deux plats permanents du menu. Le partenariat avec les Montes de María s'est élargi pour inclure le miel d'apiculteurs locaux dont la production dépend de la forêt tropicale sèche préservée.",
@@ -108,7 +98,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct market access for small rural producers",
         "fr": "Accès direct au marché pour les petits producteurs ruraux",
@@ -117,7 +107,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Business formalization and accounting coaching",
         "fr": "Coaching en formalisation d'entreprise et en comptabilité",
@@ -126,7 +116,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Sourcing of rare native ingredients like frijol cuarentano",
         "fr": "Approvisionnement en ingrédients locaux rares comme le frijol cuarentano",
@@ -135,7 +125,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "School infrastructure built via tax investment scheme",
         "fr": "Infrastructure scolaire construite via un dispositif d'investissement fiscal",
@@ -144,7 +134,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Quality and food safety training for supplier associations",
         "fr": "Formation à la qualité et à la sécurité alimentaire pour les associations de fournisseurs",
@@ -153,7 +143,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Technical solutions for post-harvest crop preservation",
         "fr": "Solutions techniques pour la conservation des récoltes après la moisson",
@@ -164,7 +154,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Direct partnerships with small-scale agricultural producers",
         "fr": "Partenariats directs avec des producteurs agricoles à petite échelle",
@@ -173,7 +163,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New market demand for native ingredients like frijol cuarentano",
         "fr": "Nouvelle demande du marché pour des ingrédients indigènes comme le frijol cuarentano",
@@ -182,7 +172,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with NGOs universities and conservation organizations",
         "fr": "Alliances avec des ONG, des universités et des organisations de conservation",
@@ -191,7 +181,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Cost accounting data on sustainability investment returns",
         "fr": "Données comptables sur les retours sur investissement en matière de durabilité",
@@ -200,7 +190,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Other companies inspired by sustainable supply chain model",
         "fr": "D'autres entreprises inspirées par le modèle de chaîne d'approvisionnement durable",
@@ -209,7 +199,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Feedback to improve obras por impuestos tax mechanism",
         "fr": "Retours pour améliorer le mécanisme fiscal obras por impuestos",

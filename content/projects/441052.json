@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739459528,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa La Huerta es un proyecto de hotel sostenible situado en Oca Lima. Esta iniciativa hace hincapié en el uso de productos orgánicos cultivados en su propio huerto, que abastece al restaurante del hotel, reduciendo así su huella de carbono y promoviendo el turismo regenerativo. El hotel emplea metodologías de triple impacto, tratando los residuos y utilizando las aguas residuales para crear fertilizantes bioquímicos para el huerto. Los huéspedes participan en un aprendizaje experimental sobre prácticas de agricultura ecológica, fomentando una conexión con la tierra y animándoles a cultivar sus propios productos en casa. La iniciativa también pretende crear un impacto local positivo contratando a miembros de la comunidad y colaborando con diversas organizaciones para promover la educación y la sostenibilidad, priorizando en última instancia los valores ecológicos y sociales sobre el mero beneficio.",
     "de": "Die Initiative La Huerta ist ein nachhaltiges Hotelprojekt, das sich in Oca Lima befindet. Die Initiative legt Wert auf die Verwendung von organischen Produkten aus dem eigenen Garten, der das Restaurant des Hotels versorgt, wodurch der CO2-Ausstoß des Hotels reduziert und der regenerative Tourismus gefördert wird. Das Hotel wendet Methoden mit dreifacher Wirkung an, behandelt Abfall und nutzt Abwasser, um biochemische Düngemittel für den Garten zu erzeugen. Die Gäste werden in das Erfahrungslernen über organische Landwirtschaftspraktiken eingebunden, wodurch eine Verbindung zum Land hergestellt und sie ermutigt werden, ihre eigenen Pflanzen zu Hause anzubauen. Die Initiative zielt auch darauf ab, eine positive lokale Wirkung zu erzielen, indem sie Gemeindemitglieder einstellt und mit verschiedenen Organisationen zusammenarbeitet, um Bildung und Nachhaltigkeit zu fördern, wobei letztlich ökologische und soziale Werte Vorrang vor reinen Profiten haben."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Zarate"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lahuertahotel.com.co/educacion/",
   "yt": "ekAfR_kMkx0",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1975",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The family acquired the farm under a 1973 agrarian law allowing agricultural professionals of limited means to purchase land. Founder Iván Castrillón developed a deep bond with the property during his adolescence, deciding at age 14 to study agronomy with the dream of one day living there.",
         "fr": "La famille a acquis la ferme en vertu d'une loi agraire de 1973 permettant aux professionnels agricoles aux moyens limités d'acheter des terres. Le fondateur Iván Castrillón a développé un lien profond avec la propriété durant son adolescence, décidant à l'âge de 14 ans d'étudier l'agronomie avec le rêve d'y vivre un jour.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2002-2006",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A family meeting in 2002 confirmed the decision to develop the land for agrotourism rather than sell it. Iván's father passed away in December 2002, and the project paused until 2006 when Iván met Gina, who left her journalism career to study hotel administration and co-write the business plan.",
         "fr": "Une réunion de famille en 2002 a confirmé la décision de développer les terres pour l'agrotourisme plutôt que de les vendre. Le père d'Iván est décédé en décembre 2002, et le projet a été suspendu jusqu'en 2006, lorsqu'Iván a rencontré Gina, qui a quitté sa carrière de journaliste pour étudier l'administration hôtelière et co-rédiger le plan d'affaires.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Huerta Hotel opened to the public, initially operated by an external hotel chain called Hotel SMS, which generated losses of approximately 190 million pesos over its first two years and lacked alignment with the founders' vision.",
         "fr": "L'Huerta Hotel a ouvert ses portes au public, initialement exploité par une chaîne hôtelière externe appelée Hotel SMS, qui a généré des pertes d'environ 190 millions de pesos au cours de ses deux premières années et manquait d'alignement avec la vision des fondateurs.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Iván resigned from his position as Country Manager at BASF, the world's largest chemical company, and relocated with his family to take over direct management of the hotel and begin developing organic farming using bioinputs instead of agrochemicals.",
         "fr": "Iván a démissionné de son poste de Directeur Pays chez BASF, la plus grande entreprise chimique du monde, et a déménagé avec sa famille pour prendre en charge la gestion directe de l'hôtel et commencer à développer l'agriculture biologique en utilisant des biointrants à la place des agrochimiques.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The first year of organic cultivation resulted in near-total crop failure as the soil, accustomed to agrochemicals, lost its microbiota. The team overcame this by building terraces to retain rainwater and gradually restore soil organic matter, eventually achieving stable and productive harvests.",
         "fr": "La première année de culture biologique a entraîné une quasi-totale perte de récolte, le sol, habitué aux agrochimiques, ayant perdu sa microbiote. L'équipe a surmonté cela en construisant des terrasses pour retenir l'eau de pluie et restaurer progressivement la matière organique du sol, obtenant finalement des récoltes stables et productives.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The hotel now produces over 50% of its restaurant ingredients on-site across 63 food varieties, employs around 28–30 local rural workers, has won TripAdvisor's Travelers' Choice award three consecutive years, and is operating under Colombia's Law 1116 debt restructuring framework while reinvesting profits toward long-term ecological and social goals.",
         "fr": "L'hôtel produit désormais plus de 50 % des ingrédients de son restaurant sur place, répartis sur 63 variétés alimentaires, emploie environ 28 à 30 travailleurs ruraux locaux, a remporté le prix Travelers' Choice de TripAdvisor trois années consécutives, et opère dans le cadre de la loi colombienne 1116 de restructuration de la dette, tout en réinvestissant les bénéfices vers des objectifs écologiques et sociaux à long terme.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Farm-to-table dining with 63+ organic ingredients",
         "fr": "Restauration de la ferme à la table avec plus de 63 ingrédients biologiques",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Regenerative lifestyle tour for hotel guests",
         "fr": "Visite du mode de vie régénératif pour les clients de l'hôtel",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Campo escuela immersive organic farming program",
         "fr": "Programme d'agriculture biologique immersif Campo escuela",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local rural employment for 28-30 families",
         "fr": "Emploi rural local pour 28 à 30 familles",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Bioinput production and soil preparation training",
         "fr": "Production de biointrants et formation à la préparation des sols",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Circular waste treatment using animal and water residues",
         "fr": "Traitement circulaire des déchets à l'aide de résidus animaux et d'eau",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances with tourism and environmental entities",
         "fr": "Alliances stratégiques avec des entités touristiques et environnementales",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Guests and visitors for regenerative tourism experiences",
         "fr": "Clients et visiteurs pour des expériences de tourisme régénératif",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Broader visibility through COP16 and green business networks",
         "fr": "Plus grande visibilité grâce à la COP16 et aux réseaux d'entreprises vertes",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Applied agroecology research to expand organic crops",
         "fr": "Recherche en agroécologie appliquée pour développer les cultures biologiques",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment to purchase adjacent land and expand hotel",
         "fr": "Investissement pour acquérir des terres adjacentes et agrandir l'hôtel",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers and campesinos to adopt organic farming methods",
         "fr": "Agriculteurs et paysans pour adopter des méthodes d'agriculture biologique",

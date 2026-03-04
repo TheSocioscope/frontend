@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647296,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Bella Farm es una iniciativa innovadora en Kenia centrada en la apicultura y la producción de miel natural y sus derivados. Motivado por la prevalencia de miel adulterada en el mercado, el proyecto pretende ofrecer alternativas puras y saludables, al tiempo que educa a la comunidad sobre los beneficios de las abejas. Bella Farm también se especializa en apiterapia, utilizando el veneno de las abejas con fines terapéuticos, y colabora con el gobierno y centros médicos para promover la concienciación y la formación en prácticas apícolas sostenibles.",
     "de": "Bella Farm ist eine innovative Initiative in Kenia, die sich auf die Bienenhaltung und die Produktion von natürlichem Honig und seinen Nebenprodukten konzentriert. Motiviert durch die Verbreitung von gepanschtem Honig auf dem Markt, zielt das Projekt darauf ab, reine, gesunde Alternativen anzubieten und gleichzeitig die Gemeinschaft über die Vorteile von Bienen aufzuklären. Bella Farm ist auch auf Apitherapy spezialisiert, bei der Bienengift für therapeutische Zwecke verwendet wird, und arbeitet mit Regierungs- und medizinischen Einrichtungen zusammen, um das Bewusstsein und die Ausbildung in nachhaltigen Bienenpflegepraktiken zu fördern."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,20 +34,16 @@
       "lastname": "Stephen Kimani"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://bellafam.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Stephen Kimani Kaboyo founded Bella Farm Africa on July 10th, initially as a general agricultural company. He started with dairy farming, keeping around 10 heads of cattle.",
         "fr": "Stephen Kimani Kaboyo a fondé Bella Farm Africa le 10 juillet, initialement en tant qu'entreprise agricole générale. Il a commencé par l'élevage laitier, en gardant environ 10 têtes de bétail.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After the dairy cows died due to management challenges, Steven shifted from dairy to beekeeping. He took a certificate course in basic beekeeping and began developing his bee products business.",
         "fr": "Après la mort des vaches laitières en raison de difficultés de gestion, Steven s'est tourné de l'élevage laitier vers l'apiculture. Il a suivi un cours certifiant en apiculture de base et a commencé à développer son activité de produits apicoles.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2020-2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Steven traveled to Romania to earn a diploma in apitherapy, then returned to formally establish the commercial beekeeping enterprise in Thika, Gatanga, Kenya. He converted former cattle sheds into apiaries.",
         "fr": "Steven s'est rendu en Roumanie pour obtenir un diplôme en apithérapie, puis est retourné pour établir officiellement l'entreprise apicole commerciale à Thika, Gatanga, au Kenya. Il a transformé d'anciens étables en ruchers.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Steven's grandmother Isabella, who had believed in his vision and provided a 2 million loan to start the farm, passed away in 2022. Steven had repaid her loan before her passing.",
         "fr": "La grand-mère de Steven, Isabella, qui avait cru en sa vision et lui avait accordé un prêt de 2 millions pour lancer la ferme, est décédée en 2022. Steven avait remboursé son prêt avant son décès.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Bella Farm opened its shop in Thika, starting with only half a kilogram of honey sold in the first month. Steven restructured his marketing strategy and grew the business to employ between 12 and 15 staff regularly.",
         "fr": "Bella Farm a ouvert sa boutique à Thika, en commençant par seulement un demi-kilogramme de miel vendu le premier mois. Steven a restructuré sa stratégie marketing et a développé l'entreprise jusqu'à employer entre 12 et 15 membres du personnel régulièrement.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2023-present",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Bella Farm established collaboration with KALRO, a government agricultural research institution, integrating bee pollination services into seed multiplication units. The farm also became recognized as the only apitherapy provider in East Africa.",
         "fr": "Bella Farm a établi une collaboration avec le KALRO, un organisme gouvernemental de recherche agricole, en intégrant des services de pollinisation par les abeilles dans des unités de multiplication de semences. La ferme est également devenue reconnue comme le seul prestataire d'apithérapie en Afrique de l'Est.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Nine bee products available at farm shop",
         "fr": "Neuf produits apicoles disponibles à la boutique de la ferme",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Monthly beekeeping training for farmers and stakeholders",
         "fr": "Formation mensuelle en apiculture pour les agriculteurs et les parties prenantes",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Apitherapy bee sting therapy sessions on-site",
         "fr": "Séances de thérapie par piqûres d'abeilles (apithérapie) sur place",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Pure unadulterated honey for households and hotels",
         "fr": "Miel pur et non frelaté pour les ménages et les hôtels",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Pollination services for agricultural research institutions",
         "fr": "Services de pollinisation pour les institutions de recherche agricole",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Wound treatment guidance for community health workers",
         "fr": "Conseils en traitement des plaies pour les agents de santé communautaire",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Reach 70% of Kenyan households with pure honey",
         "fr": "Atteindre 70% des ménages kényans avec du miel pur",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and unsecured financing for infrastructure",
         "fr": "Subventions et financement non garanti pour l'infrastructure",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Laboratory testing and global research collaborations",
         "fr": "Tests en laboratoire et collaborations mondiales en matière de recherche",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Land leasing partners for beehive placement",
         "fr": "Partenaires de location de terrains pour le placement des ruches",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Public awareness of apitherapy and bee benefits",
         "fr": "Sensibilisation du public à l'apithérapie et aux bienfaits des abeilles",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Regulatory approval for natural honey cough syrup",
         "fr": "Approbation réglementaire pour le sirop contre la toux au miel naturel",

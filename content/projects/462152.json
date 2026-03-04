@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754565203,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Lille Bakery es una iniciativa centrada en la comunidad fundada en 2018. Su objetivo es ofrecer alimentos nutritivos y de origen local a precios asequibles, alejándose del modelo de alta cocina. La panadería fomenta las conexiones con agricultores y productores locales, haciendo hincapié en la transparencia y la sostenibilidad. Al crear un espacio acogedor para la comunidad, Lille Bakery no solo sirve deliciosos productos horneados, ofreciendo desayunos y almuerzos, sino que también organiza talleres y eventos, enriqueciendo la cultura alimentaria local en una zona muy turística.",
     "de": "Lille Bakery ist eine 2018 gegründete gemeindebasierte Initiative. Ihr Ziel ist es, nahrhafte, lokal bezogene Lebensmittel zu erschwinglichen Preisen anzubieten und sich damit vom Fine-Dining-Modell zu lösen. The bakery fosters connections with local farmers and producers, emphasizing transparency and sustainability. Durch die Schaffung eines einladenden Raums für die Gemeinschaft serviert die Lille Bakery nicht nur köstliche Backwaren, bietet Frühstück und Mittagessen an, sondern richtet auch Workshops und Veranstaltungen aus und bereichert damit die lokale Esskultur in einem touristisch geprägten Gebiet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Boland"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.lillegrocery.com",
   "yt": "QB0OgtVFUoc",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Lille Bakery opened on Refshalevej island in Copenhagen, founded by Mia and two partners after leaving fine dining. They launched with a crowdfunding campaign instead of investors, building an early community of supporters before opening.",
         "fr": "Lille Bakery a ouvert sur l'île de Refshalevej à Copenhague, fondée par Mia et deux associés après avoir quitté la haute gastronomie. Ils ont lancé une campagne de financement participatif plutôt que de faire appel à des investisseurs, construisant ainsi une communauté de soutiens avant l'ouverture.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A founding partner left after the first year, requiring a buyout that significantly weakened the bakery's financial equity. Shortly after, COVID-19 hit, creating a precarious period with very low capital and uncertainty about survival.",
         "fr": "Un associé fondateur est parti après la première année, nécessitant un rachat qui a considérablement affaibli les fonds propres de la boulangerie. Peu après, la COVID-19 a frappé, créant une période précaire avec très peu de capital et une incertitude quant à la survie de l'entreprise.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Lille Bakery co-founded the Grød Market alongside Viola and Richie, originally conceived as a first birthday celebration featuring their producer network. The market succeeded and became a recurring monthly event connecting farmers directly with urban consumers.",
         "fr": "Lille Bakery a co-fondé le Grød Market aux côtés de Viola et Richie, initialement conçu comme une célébration du premier anniversaire mettant en valeur leur réseau de producteurs. Le marché a été un succès et est devenu un événement mensuel régulier reliant directement les agriculteurs aux consommateurs urbains.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2020-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "COVID-19 reinforced their commitment to close producer relationships, as small farmers showed flexibility on payments while larger suppliers did not. This period clarified their philosophy of maintaining personal-level relationships with all collaborators.",
         "fr": "La COVID-19 a renforcé leur engagement envers des relations étroites avec les producteurs, les petits agriculteurs ayant fait preuve de souplesse sur les paiements contrairement aux grands fournisseurs. Cette période a clarifié leur philosophie de maintien de relations personnelles avec tous leurs collaborateurs.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Lille Bakery transitioned from a top-down structure to a shared responsibilities and flat salary model across three sections: bakery, kitchen, and front of house. All 12 full-time staff receive equal wages and share decision-making through weekly team meetings.",
         "fr": "Lille Bakery est passée d'une structure hiérarchique à un modèle de responsabilités partagées et de salaires égaux, réparti en trois sections : boulangerie, cuisine et salle. Les 12 employés à temps plein reçoivent des salaires égaux et participent aux prises de décision lors de réunions d'équipe hebdomadaires.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Four team members became pregnant within a short period, prompting a new transition phase focused on long-term financial sustainability, including raising salaries and exploring new revenue streams such as a potential mill or countryside space.",
         "fr": "Quatre membres de l'équipe sont tombées enceintes en peu de temps, déclenchant une nouvelle phase de transition axée sur la viabilité financière à long terme, notamment l'augmentation des salaires et l'exploration de nouvelles sources de revenus telles qu'un éventuel moulin ou un espace à la campagne.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable meals made from local produce",
         "fr": "Repas abordables préparés à partir de produits locaux",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Welcoming space for regular local visitors",
         "fr": "Espace accueillant pour les visiteurs locaux réguliers",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops hosted by farmers and producers",
         "fr": "Ateliers animés par des agriculteurs et des producteurs",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero waste cooking across bakery and kitchen",
         "fr": "Cuisine zéro déchet dans la boulangerie et la cuisine",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Monthly stall at local farmers market",
         "fr": "Stand mensuel au marché local des producteurs",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Shared flat-salary workplace model for staff",
         "fr": "Modèle de travail à salaire égal partagé pour le personnel",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and public funding sources",
         "fr": "Subventions et sources de financement public",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborations with other food initiatives",
         "fr": "Collaborations avec d'autres initiatives alimentaires",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Additional local and regenerative farmers",
         "fr": "Agriculteurs locaux et régénératifs supplémentaires",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New revenue streams beyond bakery sales",
         "fr": "Nouvelles sources de revenus au-delà des ventes de boulangerie",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge on sustainable business scaling",
         "fr": "Connaissances sur la mise à l'échelle durable des entreprises",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Customers engaging beyond tourism and photos",
         "fr": "Clients s'engageant au-delà du tourisme et des photos",

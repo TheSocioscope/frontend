@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A Black Economic Empowerment table grape enterprise producing 80,000-100,000 cartons annually for export to EU and Far East.",
     "de": "A Black Economic Empowerment table grape enterprise producing 80,000-100,000 cartons annually for export to EU and Far East."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "De Doorns",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Abrahams"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Siyazama Clipland Table Grape Farm was established with three founding partners. The farm began producing table grapes for export markets.",
         "fr": "La ferme viticole Siyazama Clipland a été fondée par trois associés fondateurs. La ferme a commencé à produire des raisins de table destinés aux marchés d'exportation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm was formally established through the Department of Rural Development and Land Reform's Proactive Land Acquisition Strategy (PLAS). This enabled black economic empowerment access to commercial agricultural land.",
         "fr": "La ferme a été officiellement constituée dans le cadre de la Stratégie d'acquisition proactive des terres (PLAS) du Département du développement rural et de la réforme foncière. Cela a permis à des personnes issues de l'émancipation économique des Noirs d'accéder à des terres agricoles commerciales.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "~2018-2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The farm faced bankruptcy after its exporter withdrew due to an overabundance of seeded grapes that the market no longer wanted. Operations effectively shut down for approximately a year.",
         "fr": "La ferme a frôlé la faillite après que son exportateur s'est retiré en raison d'une surproduction de raisins à pépins que le marché ne souhaitait plus. Les activités ont effectivement cessé pendant environ un an.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "~2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alec Abrams approached the Department of Agriculture, the South African Table Grape Industry, and export company Interfruit to revive the farm. A key decision was made to bring the export company on board as a strategic partner.",
         "fr": "Alec Abrams a approché le Département de l'agriculture, l'industrie sud-africaine du raisin de table et la société d'exportation Interfruit pour relancer la ferme. Une décision clé a été prise d'intégrer la société d'exportation en tant que partenaire stratégique.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~2019-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The farm transitioned fully from seeded to seedless grape varieties, reaching 100% seedless production. It grew to employ up to 150 seasonal workers and became ranked second in quality and pricing within Interfruit's entire producer group.",
         "fr": "La ferme est passée entièrement des variétés de raisins à pépins aux variétés sans pépins, atteignant une production 100 % sans pépins. Elle a évolué pour employer jusqu'à 150 travailleurs saisonniers et s'est classée deuxième en termes de qualité et de prix au sein de l'ensemble du groupe de producteurs d'Interfruit.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Future",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm aims to expand from 24.5 hectares to 50 hectares, with the national Minister of Land Affairs acknowledging the need for a larger land allocation. Plans also include building an on-site pack house to improve grape quality and reduce handling losses.",
         "fr": "La ferme vise à s'étendre de 24,5 hectares à 50 hectares, le ministre national des Affaires foncières ayant reconnu la nécessité d'une allocation de terres plus importante. Les projets prévoient également la construction d'un entrepôt de conditionnement sur site afin d'améliorer la qualité des raisins et de réduire les pertes liées à la manutention.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export table grapes to international markets",
         "fr": "Exporter des raisins de table vers les marchés internationaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local employment for up to 150 seasonal workers",
         "fr": "Emploi local pour jusqu'à 150 travailleurs saisonniers",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Induction training for new seasonal farm workers",
         "fr": "Formation d'initiation pour les nouveaux travailleurs agricoles saisonniers",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh seedless table grapes for export",
         "fr": "Raisins de table sans pépins frais pour l'exportation",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support to local schools when needed",
         "fr": "Soutien aux écoles locales en cas de besoin",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government grants and loans for operations",
         "fr": "Subventions et prêts gouvernementaux pour les opérations",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Export company partnerships for market access",
         "fr": "Partenariats avec des sociétés d'exportation pour l'accès aux marchés",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New international markets beyond current buyers",
         "fr": "Nouveaux marchés internationaux au-delà des acheteurs actuels",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "On-farm pack house infrastructure development",
         "fr": "Développement d'infrastructures de station de conditionnement à la ferme",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Farm expansion to 50 hectares",
         "fr": "Extension de la ferme à 50 hectares",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Skilled seasonal labor during harvest",
         "fr": "Main-d'œuvre saisonnière qualifiée pendant la récolte",

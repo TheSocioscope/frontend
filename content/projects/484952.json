@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754913743,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, conocida como AMAP (Asociación para el Mantenimiento de la Agricultura Campesina), conecta a los productores locales con los consumidores de la región de Murat. Fundada en 2011, promueve la agricultura ecológica y apoya la agricultura local permitiendo a los miembros hacer pedidos anticipados de productos, lo que garantiza que los productores sepan qué cultivar. El colectivo funciona de forma voluntaria, fomentando los lazos comunitarios y proporcionando alimentos de alta calidad y de origen local, al tiempo que mantiene un entorno flexible y de apoyo tanto para los productores como para los consumidores.",
     "de": "Die Initiative mit dem Namen AMAP (Association for the Maintenance of Peasant Agriculture) verbindet lokale Erzeuger mit Verbrauchern in der Region Murat. Die 2011 gegründete Organisation fördert den ökologischen Landbau und unterstützt die lokale Landwirtschaft, indem sie ihren Mitgliedern die Möglichkeit gibt, Produkte vorzubestellen, damit die Erzeuger wissen, was sie anbauen sollen. Das Kollektiv arbeitet auf freiwilliger Basis, fördert die Gemeinschaftsbeziehungen und bietet qualitativ hochwertige, lokal bezogene Lebensmittel an, während es gleichzeitig ein flexibles und unterstützendes Umfeld für Erzeuger und Verbraucher aufrechterhält."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Fuivarch"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.amap-murat.fr/presentation",
   "yt": "XX8UTmdrfn8",
   "originalLang": "tr",
   "timeline": [
     {
       "date": "2011",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The AMAP de Murat was founded with approximately 3-4 producers, including one market gardener, and around 15 member households. The initiative aimed to connect local organic producers with consumers in the Murat area.",
         "fr": "L'AMAP de Murat a été fondée avec environ 3 à 4 producteurs, dont un maraîcher, et une quinzaine de foyers adhérents. L'initiative visait à mettre en relation des producteurs biologiques locaux avec des consommateurs de la région de Murat.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A new market gardener joined the AMAP, replacing the original one who had stopped his activity. This producer became the central pillar of the association and remains in place over ten years later.",
         "fr": "Un nouveau maraîcher a rejoint l'AMAP, en remplacement du premier qui avait cessé son activité. Ce producteur est devenu le pilier central de l'association et est toujours en place plus de dix ans plus tard.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Elsa joined the AMAP collective, at which point the association had around 6-7 producers and approximately 30 member families. Her motivation was access to quality organic products at fair prices.",
         "fr": "Elsa a rejoint le collectif de l'AMAP, à une époque où l'association comptait environ 6 à 7 producteurs et une trentaine de familles adhérentes. Sa motivation était l'accès à des produits biologiques de qualité à des prix justes.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 period forced the association to constantly adapt its distribution rules and cancel events like the general assembly and galette des rois, though it also resulted in a surplus in the treasury due to reduced expenses.",
         "fr": "La période COVID-19 a contraint l'association à adapter en permanence ses règles de distribution et à annuler des événements tels que l'assemblée générale et la galette des rois, bien qu'elle ait également engendré un excédent de trésorerie en raison de la réduction des dépenses.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A major storm destroyed the market gardener's greenhouses and a poultry farmer's facilities. Around thirty people, including AMAP members, volunteered during the Christmas period to help rebuild the structures.",
         "fr": "Une violente tempête a détruit les serres du maraîcher et les installations d'un éleveur de volailles. Une trentaine de personnes, dont des membres de l'AMAP, se sont portées volontaires durant la période de Noël pour aider à reconstruire les structures.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The AMAP reached over 80 member households and 15 producers, and began developing a solidarity basket project in partnership with the Secours Populaire to provide affordable local organic products to families in need.",
         "fr": "L'AMAP a atteint plus de 80 foyers adhérents et 15 producteurs, et a commencé à développer un projet de panier solidaire en partenariat avec le Secours Populaire afin de fournir des produits biologiques locaux à prix abordable aux familles dans le besoin.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local bio products from 15+ producers",
         "fr": "Produits bio locaux issus de plus de 15 producteurs",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Weekly Thursday distribution for 80 households",
         "fr": "Distribution hebdomadaire le jeudi pour 80 foyers",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Flexible pre-order system direct with producers",
         "fr": "Système de pré-commande flexible directement auprès des producteurs",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Conferences and workshops on food topics",
         "fr": "Conférences et ateliers sur les thèmes alimentaires",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits for members",
         "fr": "Visites de fermes pour les membres",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Solidarity food baskets for vulnerable families",
         "fr": "Paniers alimentaires solidaires pour les familles vulnérables",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New local organic producers to join",
         "fr": "Nouveaux producteurs biologiques locaux à rejoindre",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteer members for collective management",
         "fr": "Membres bénévoles pour la gestion collective",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New household members to subscribe",
         "fr": "Nouveaux membres foyers à inscrire",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donations to fund solidarity food baskets",
         "fr": "Dons pour financer des paniers alimentaires solidaires",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local associations for event co-organization",
         "fr": "Associations locales pour la co-organisation d'événements",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fruit producers for seasonal supply",
         "fr": "Producteurs de fruits pour l'approvisionnement saisonnier",

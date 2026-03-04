@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754559538,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Andes Resilientes en Ecuador pretende mejorar la resiliencia climática y los servicios técnicos para la agricultura familiar campesina. Ejecutado por un consorcio de la Fundación Avina y Betas, el proyecto aboga por políticas públicas de apoyo en los principales ministerios. Al fomentar la colaboración entre las partes interesadas, busca crear prácticas agrícolas sostenibles, mejorar la seguridad alimentaria y garantizar que los agricultores tengan acceso a recursos esenciales y oportunidades de mercado, priorizando en última instancia sus necesidades frente al cambio climático.",
     "de": "Die Initiative Andes Resilientes in Ecuador zielt darauf ab, die Klimaresistenz und technische Dienstleistungen für Kleinbauernfamilien zu verbessern. Implementiert von einem Konsortium aus der Avina Foundation und Betas, setzt sich das Projekt für eine unterstützende öffentliche Politik in den wichtigsten Ministerien ein. By fostering collaboration between stakeholders, it seeks to create sustainable agricultural practices, improve food security, and ensure farmers have access to essential resources and market opportunities, ultimately prioritizing their needs in the face of climate change."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://andesresilientes.org/quienes-somos/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Andes Resilientes al Cambio Climático project was launched, financed by COSUDE (Swiss Cooperation). It was implemented by a consortium of two organizations: Betas Swiss Intercooperation and Fundación Avina, operating across Ecuador, Peru, and Bolivia.",
         "fr": "Le projet Andes Resilientes al Cambio Climático a été lancé, financé par la COSUDE (Coopération suisse). Il a été mis en œuvre par un consortium de deux organisations : Betas Swiss Intercooperation et Fundación Avina, opérant en Équateur, au Pérou et en Bolivie.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Fundación Avina and Betas formed a consortium after approximately four years of proposal development, stakeholder mapping, and consultative processes before securing COSUDE funding.",
         "fr": "Fundación Avina et Betas ont formé un consortium après environ quatre ans de développement de propositions, de cartographie des parties prenantes et de processus consultatifs avant d'obtenir le financement de la COSUDE.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Phase 1 of the project was implemented, during which the consortium built social capital with technical teams in Ministries of Environment, Agriculture, and Social Inclusion, and conducted work with rural women on ancestral knowledge, producing six radio programs and infographics distributed through the Ministry of Agriculture.",
         "fr": "La phase 1 du projet a été mise en œuvre, au cours de laquelle le consortium a constitué un capital social avec les équipes techniques des ministères de l'Environnement, de l'Agriculture et de l'Inclusion sociale, et a mené des travaux avec des femmes rurales sur les savoirs ancestraux, produisant six programmes radio et des infographies distribués par le ministère de l'Agriculture.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "An effort to mobilize approximately 60 rural service providers to work directly in agricultural communities failed; none agreed to adjust their agendas, prompting the team to reverse strategy and instead empower farming communities to demand services themselves.",
         "fr": "Une tentative de mobiliser environ 60 prestataires de services ruraux pour travailler directement dans les communautés agricoles a échoué ; aucun n'a accepté d'adapter son agenda, ce qui a conduit l'équipe à inverser sa stratégie et à autonomiser les communautés agricoles pour qu'elles réclament elles-mêmes les services.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Working with the indigenous women's organization OMIXE in Cotopaxi, the project successfully built community governance and self-management capacity; OMIXE subsequently won a competitive grant of 30,000 USD to establish a seed bank.",
         "fr": "En travaillant avec l'organisation de femmes autochtones OMIXE à Cotopaxi, le projet a réussi à renforcer la gouvernance communautaire et la capacité d'autogestion ; OMIXE a par la suite remporté une subvention compétitive de 30 000 USD pour créer une banque de semences.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2027",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Phase 2 began with a budget of 3.9 million Swiss francs, focusing on converting existing strategies into formal public policies, including the Rural Women Policy, the Drought Plan, and the Land Degradation Neutrality Plan, while preparing a successor project proposal for post-2027 continuity.",
         "fr": "La phase 2 a débuté avec un budget de 3,9 millions de francs suisses, axée sur la conversion des stratégies existantes en politiques publiques formelles, notamment la Politique des femmes rurales, le Plan de lutte contre la sécheresse et le Plan de neutralité de la dégradation des terres, tout en préparant une proposition de projet successeur pour assurer la continuité après 2027.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Policy incidence with national ministries",
         "fr": "Incidence politique auprès des ministères nationaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building for farmers and technicians",
         "fr": "Renforcement des capacités des agriculteurs et des techniciens",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercialization fairs for rural entrepreneurs",
         "fr": "Foires de commercialisation pour les entrepreneurs ruraux",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ancestral knowledge documentation and radio programs",
         "fr": "Documentation des savoirs ancestraux et programmes radio",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot agroforestry territories for policy scaling",
         "fr": "Territoires agroforestiers pilotes pour la mise à l'échelle des politiques",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Water schools for vulnerable rural communities",
         "fr": "Écoles de l'eau pour les communautés rurales vulnérables",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Incidence in public policies with ministries",
         "fr": "Incidence dans les politiques publiques avec les ministères",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative allies sharing development philosophy",
         "fr": "Alliés collaboratifs partageant la philosophie du développement",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "New financing for post-2027 project continuity",
         "fr": "Nouveaux financements pour la continuité des projets après 2027",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access for smallholder farmer entrepreneurs",
         "fr": "Accès au marché pour les petits agriculteurs entrepreneurs",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Scaling agroforestry practices across territories",
         "fr": "Mise à l'échelle des pratiques agroforestières sur les territoires",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documenting ancestral knowledge and climate adaptation",
         "fr": "Documentation des savoirs ancestraux et de l'adaptation climatique",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909774,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Défis Foyers es una iniciativa organizada por el proyecto alimentario territorial Sungo, en el sur de Alsacia. Su objetivo es educar a las familias en hábitos alimentarios positivos a través de diversos talleres, que incluyen visitas a granjas, sesiones de cocina y debates sobre el desperdicio de alimentos y el abastecimiento local. A lo largo de cuatro meses, los participantes ganan puntos participando en actividades que promueven prácticas alimentarias sostenibles, con el objetivo último de transformar sus hábitos alimentarios y demostrar que una alimentación sana puede ser asequible.",
     "de": "Défis Foyers ist eine Initiative, die von dem territorialen Ernährungsprojekt Sungo im Südelsass organisiert wird. Ihr Ziel ist es, Familien durch verschiedene Workshops, darunter Besuche auf Bauernhöfen, Kochkurse und Diskussionen über Lebensmittelverschwendung und lokale Beschaffung, zu positiven Ernährungsgewohnheiten zu erziehen. Über einen Zeitraum von vier Monaten sammeln die Teilnehmer Punkte, indem sie an Aktivitäten teilnehmen, die nachhaltige Ernährungspraktiken fördern, um ihre Ernährungsgewohnheiten zu ändern und gleichzeitig zu zeigen, dass eine gesunde Ernährung budgetfreundlich sein kann."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Sie"
     }
   ],
-  "thematic": [
-    "education",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.foyersaalimentationpositive.fr/defi/68_payssundgau_2025/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Défi Foyer Alimentation Positive was first launched in Lyon, initiated nationally by the FNAB (Fédération Nationale des Agriculteurs Biologiques).",
         "fr": "Le Défi Foyer Alimentation Positive a été lancé pour la première fois à Lyon, à l'initiative nationale de la FNAB (Fédération Nationale des Agriculteurs Biologiques).",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Projet Alimentaire Territorial (PAT) of the Pays du Sungo was established, with a mission to connect food system actors across the territory.",
         "fr": "Le Projet Alimentaire Territorial (PAT) du Pays du Sungo a été créé, avec pour mission de connecter les acteurs du système alimentaire sur le territoire.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The PAT du Pays du Sungo ran its first edition of the Défi Foyer Alimentation Positive, targeting around 30 participating families.",
         "fr": "Le PAT du Pays du Sungo a organisé sa première édition du Défi Foyer Alimentation Positive, ciblant une trentaine de familles participantes.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Barbara joined as the sole PAT chargée de mission in January 2024, and the PAT achieved Level 2 labelling, unlocking a five-year action plan.",
         "fr": "Barbara a rejoint l'équipe en tant qu'unique chargée de mission du PAT en janvier 2024, et le PAT a obtenu le label Niveau 2, ouvrant la voie à un plan d'action sur cinq ans.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The PAT co-organised the first professional food forum in Sud-Alsace with 4 partner collectivités, connecting producers, distributors, and collective catering buyers for the first time.",
         "fr": "Le PAT a co-organisé le premier forum professionnel de l'alimentation en Sud-Alsace avec 4 collectivités partenaires, réunissant pour la première fois producteurs, distributeurs et acheteurs de la restauration collective.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The second edition of the Défi ran from March to June with only 30 families instead of the 60 targeted, after expected funding was cancelled due to political budget cuts, forcing the team to draw on the PAT's core budget.",
         "fr": "La deuxième édition du Défi s'est déroulée de mars à juin avec seulement 30 familles au lieu des 60 visées, après l'annulation des financements attendus en raison de coupes budgétaires politiques, contraignant l'équipe à puiser dans le budget central du PAT.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Family workshops on local seasonal cooking",
         "fr": "Ateliers familiaux sur la cuisine locale et saisonnière",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Workshops on food waste reduction",
         "fr": "Ateliers sur la réduction du gaspillage alimentaire",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits to meet local producers",
         "fr": "Visites de fermes pour rencontrer les producteurs locaux",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Small group exchanges between participant families",
         "fr": "Échanges en petits groupes entre familles participantes",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Map of local producers and farm shops",
         "fr": "Carte des producteurs locaux et des magasins de ferme",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Budget tracking before and after diet changes",
         "fr": "Suivi budgétaire avant et après les changements alimentaires",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partner structures to recruit and animate workshops",
         "fr": "Structures partenaires à recruter et animer des ateliers",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Households not yet sensitized to positive eating",
         "fr": "Ménages pas encore sensibilisés à l'alimentation positive",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "New grant sources to replace lost financing",
         "fr": "Nouvelles sources de financement pour remplacer les financements perdus",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Best practices exchange with other PAT territories",
         "fr": "Échange de bonnes pratiques avec d'autres territoires PAT",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded reach into medico-social and corporate catering",
         "fr": "Extension vers la restauration médico-sociale et d'entreprise",

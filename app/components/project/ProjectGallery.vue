@@ -1,16 +1,12 @@
 <template>
-  <v-card
-    v-if="localizedGallery && localizedGallery.length > 0"
-    id="gallery"
-    class="project-gallery"
-  >
+  <v-card v-if="resolvedGallery && resolvedGallery.length > 0" id="gallery" class="project-gallery">
     <v-card-title class="section-title">
       <v-icon class="mr-2">mdi-image-multiple-outline</v-icon>
       {{ $t('projects.detail.gallery') }}
     </v-card-title>
     <v-card-text>
       <v-row>
-        <v-col v-for="(item, index) in localizedGallery" :key="index" cols="12" sm="6" md="4">
+        <v-col v-for="(item, index) in resolvedGallery" :key="index" cols="12" sm="6" md="4">
           <v-card class="gallery-item" elevation="2" @click="openLightbox(index)">
             <v-img
               :src="item.url"
@@ -51,15 +47,15 @@
               </v-btn>
 
               <v-img
-                :src="localizedGallery[currentIndex].url"
-                :alt="localizedGallery[currentIndex].caption"
+                :src="resolvedGallery[currentIndex].url"
+                :alt="resolvedGallery[currentIndex].caption"
                 max-height="80vh"
                 contain
                 class="lightbox-image"
               />
 
               <v-btn
-                v-if="currentIndex < localizedGallery.length - 1"
+                v-if="currentIndex < resolvedGallery.length - 1"
                 icon
                 class="lightbox-nav lightbox-next"
                 size="large"
@@ -68,8 +64,8 @@
                 <v-icon>mdi-chevron-right</v-icon>
               </v-btn>
 
-              <div v-if="localizedGallery[currentIndex].caption" class="lightbox-caption">
-                {{ localizedGallery[currentIndex].caption }}
+              <div v-if="resolvedGallery[currentIndex].caption" class="lightbox-caption">
+                {{ resolvedGallery[currentIndex].caption }}
               </div>
             </div>
           </v-card-text>
@@ -85,6 +81,18 @@ const props = defineProps<{
 }>()
 
 const { t: $t } = useI18n()
+
+const { app } = useRuntimeConfig()
+const baseURL = app.baseURL?.replace(/\/$/, '') ?? ''
+
+const resolveUrl = (url: string) =>
+  url.startsWith('http://') || url.startsWith('https://') || url.startsWith('//')
+    ? url
+    : `${baseURL}${url.startsWith('/') ? url : `/${url}`}`
+
+const resolvedGallery = computed(() =>
+  props.localizedGallery?.map((item) => ({ ...item, url: resolveUrl(item.url) }))
+)
 
 const lightboxOpen = ref(false)
 const currentIndex = ref(0)

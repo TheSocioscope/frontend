@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754500434,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Grupo de Diseño de Productos y Procesos (GDPP) de la Universidad de los Andes se centra en la mejora de la sostenibilidad en los sistemas alimentarios a través de la investigación cualitativa y proyectos innovadores. Su objetivo es explorar la intersección entre el sonido, la música y la percepción de la sostenibilidad por parte de los consumidores, especialmente en contextos alimentarios. Mediante la realización de experimentos de campo y la colaboración con diversas partes interesadas, la iniciativa pretende mejorar la comprensión y apreciación por parte del público de las prácticas sostenibles, contribuyendo en última instancia a una transición alimentaria más sostenible.",
     "de": "Die Gruppe für Produkt- und Prozessdesign (GDPP) an der Universität der Anden konzentriert sich auf die Verbesserung der Nachhaltigkeit in Lebensmittelsystemen durch qualitative Forschung und innovative Projekte. Ziel ist es, die Schnittmenge von Klang, Musik und Verbraucherwahrnehmung von Nachhaltigkeit, insbesondere in Lebensmittelkontexten, zu erforschen. Durch die Durchführung von Feldexperimenten und die Zusammenarbeit mit verschiedenen Stakeholdern will die Initiative das Verständnis und die Wertschätzung nachhaltiger Praktiken in der Öffentlichkeit verbessern und so letztendlich zu einem nachhaltigeren Übergang der Ernährung beitragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Humberto Reyes"
     }
   ],
-  "thematic": [
-    "culture-and-the-arts",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["culture-and-the-arts", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://gdpp.uniandes.edu.co/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Luis joined the Universidad de los Andes eight years before the interview, becoming part of the GPP (Grupo de Diseño de Productos y Procesos), an existing umbrella research group in the Chemical Engineering department. The group was originally founded by Professor Oscar and a colleague who has since left the university.",
         "fr": "Luis a rejoint l'Universidad de los Andes huit ans avant l'entretien, devenant membre du GPP (Grupo de Diseño de Productos y Procesos), un groupe de recherche chapeau existant au sein du département de Génie Chimique. Le groupe a été fondé à l'origine par le Professeur Oscar et un collègue qui a depuis quitté l'université.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Luis served his first term as GPP director, during which he won three Minciencias-funded projects that helped advance his academic career. The group held a top-tier Category A ranking in Colombia's national research classification system.",
         "fr": "Luis a effectué son premier mandat en tant que directeur du GPP, au cours duquel il a remporté trois projets financés par Minciencias qui ont contribué à faire avancer sa carrière académique. Le groupe détenait un classement de premier rang, catégorie A, dans le système national colombien de classification de la recherche.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "GPP partnered with Enel on a large-scale project to address hydrogen sulfide odor emissions near the Mesitas del Colegio municipality, acting as scientific validator for the energy company before regulators including ANLA and CAR. The contract became one of the group's largest, helping Luis ascend academically.",
         "fr": "Le GPP s'est associé à Enel dans le cadre d'un projet de grande envergure visant à traiter les émissions odorantes de sulfure d'hydrogène près de la municipalité de Mesitas del Colegio, agissant en tant que validateur scientifique pour la compagnie énergétique auprès des régulateurs, notamment l'ANLA et la CAR. Le contrat est devenu l'un des plus importants du groupe, contribuant à l'ascension académique de Luis.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Luis returned as GPP director and initiated a structural reorganization, reorienting the group from a loose collection of individual research lines into five thematic clusters: industrial sustainability, bioinnovation and biomaterials, digital process design, sensory product design, and agroindustry.",
         "fr": "Luis est revenu en tant que directeur du GPP et a initié une réorganisation structurelle, réorientant le groupe d'un ensemble disparate de lignes de recherche individuelles vers cinq clusters thématiques : durabilité industrielle, bioinnovation et biomatériaux, conception numérique des procédés, conception sensorielle des produits, et agroindustrie.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The group identified a strategic gap: unlike research centers, GPP had no outbound outreach strategy and relied entirely on inbound demand from companies. Luis set a new directional goal to proactively offer GPP's scientific services to industry rather than waiting to be contacted.",
         "fr": "Le groupe a identifié un manque stratégique : contrairement aux centres de recherche, le GPP ne disposait d'aucune stratégie de communication sortante et dépendait entièrement de la demande entrante des entreprises. Luis a fixé un nouvel objectif directionnel consistant à proposer de manière proactive les services scientifiques du GPP à l'industrie plutôt que d'attendre d'être contacté.",
@@ -104,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Qualitative research on food system transitions",
         "fr": "Recherche qualitative sur les transitions des systèmes alimentaires",
@@ -113,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Graduate student training via research projects",
         "fr": "Formation des étudiants diplômés par le biais de projets de recherche",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Laboratory prototyping and product development services",
         "fr": "Services de prototypage en laboratoire et de développement de produits",
@@ -131,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Scientific validation for regulatory compliance",
         "fr": "Validation scientifique pour la conformité réglementaire",
@@ -140,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Applied research consulting for industry partners",
         "fr": "Conseil en recherche appliquée pour les partenaires industriels",
@@ -149,7 +138,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Solutions for Colombian food and cosmetics industry",
         "fr": "Solutions pour l'industrie alimentaire et cosmétique colombienne",
@@ -160,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Field experiment partners like sustainable restaurants",
         "fr": "Partenaires d'expériences de terrain comme des restaurants durables",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaborators in behavioral science projects",
         "fr": "Collaborateurs dans des projets de sciences comportementales",
@@ -178,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Industry clients needing applied research services",
         "fr": "Clients industriels ayant besoin de services de recherche appliquée",
@@ -187,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Proactive outreach strategy to Colombian companies",
         "fr": "Stratégie de sensibilisation proactive auprès des entreprises colombiennes",
@@ -196,7 +185,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private sector contracts to finance doctoral students",
         "fr": "Contrats avec le secteur privé pour financer des doctorants",

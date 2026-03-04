@@ -35,7 +35,7 @@
           :original-lang="project.originalLang"
           :current-locale="String(locale)"
           :showing-original="showOriginal"
-          @toggle-language="toggleOriginal"
+          @toggle-original="toggleOriginal"
         />
 
         <!-- About Component -->

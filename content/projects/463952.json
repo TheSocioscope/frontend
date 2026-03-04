@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754425718,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Casa Vegana es una empresa de alimentos vegetales fundada por una pareja que transformó un negocio en dificultades en una marca próspera en ocho años. Su prioridad es la producción artesanal, con ingredientes naturales y sin conservantes, mientras afrontan los retos de la expansión. A pesar de las presiones del mercado, su objetivo es mantener sus valores fundamentales de sostenibilidad y alimentación sana. Con la vista puesta en el crecimiento, exploran nuevas líneas de productos y posibles oportunidades de exportación, lo que refleja su compromiso tanto con la calidad como con la conciencia medioambiental.",
     "de": "Casa Vegana ist ein pflanzliches Lebensmittelunternehmen, das von einem Ehepaar gegründet wurde, das im Laufe von acht Jahren ein kränkelndes Geschäft in eine erfolgreiche Marke verwandelt hat. Sie priorisieren die handwerkliche Produktion und verwenden natürliche Zutaten ohne Konservierungsstoffe, während sie die Herausforderungen des Skalierens meistern. Trotz des Drucks auf den Markt wollen sie ihre Kernwerte Nachhaltigkeit und gesunde Ernährung beibehalten. With a focus on growth, they explore new product lines and potential export opportunities, reflecting a commitment to both quality and environmental consciousness."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "del Valle Caricato (Mery)"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.casavegana.com.ar/;",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Casa Vegana was founded by a friend of Pancho's at a very small scale, with Pancho providing a small initial contribution to help it launch.",
         "fr": "Casa Vegana a été fondée par un ami de Pancho à très petite échelle, Pancho ayant apporté une modeste contribution initiale pour aider au lancement.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pancho and Meri acquired the business from the original founder when it was on the verge of closing due to low sales volumes, transforming it into a family-run operation.",
         "fr": "Pancho et Meri ont racheté l'entreprise au fondateur d'origine alors qu'elle était sur le point de fermer en raison de faibles volumes de ventes, la transformant en une affaire familiale.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017-2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The business scaled from selling 5,000 units per month to 80,000 units per month, moving from a 100m² space making hamburgers by hand to a 2,500m² plant with 30 employees.",
         "fr": "L'entreprise est passée de 5 000 unités vendues par mois à 80 000 unités par mois, quittant un espace de 100 m² où les hamburgers étaient faits à la main pour une usine de 2 500 m² employant 30 personnes.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A strong growth phase began as plant-based food consumption surged in Argentina, driven by growing environmental awareness, establishing Casa Vegana as one of the pioneer brands in artisanal plant-based products.",
         "fr": "Une forte phase de croissance a débuté avec l'essor de la consommation d'aliments d'origine végétale en Argentine, portée par une sensibilisation croissante à l'environnement, établissant Casa Vegana comme l'une des marques pionnières dans les produits végétaux artisanaux.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company moved into its current large plant and reached a peak of 80,000 units per month, with products available in approximately 3,500 stores across Argentina from Jujuy to Patagonia.",
         "fr": "L'entreprise a emménagé dans sa grande usine actuelle et a atteint un pic de 80 000 unités par mois, avec des produits disponibles dans environ 3 500 magasins à travers l'Argentine, de Jujuy à la Patagonie.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Sales dropped nearly 50% to around 48,000 units per month due to Argentina's severe economic recession, compounded by a packaging redesign that unintentionally made products appear more industrial and hurt brand perception.",
         "fr": "Les ventes ont chuté de près de 50 % pour atteindre environ 48 000 unités par mois en raison de la grave récession économique argentine, aggravée par une refonte de l'emballage qui a involontairement donné aux produits un aspect plus industriel et nui à la perception de la marque.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Plant-based artisanal food products",
         "fr": "Produits alimentaires artisanaux à base de plantes",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Products available in 3500+ stores nationwide",
         "fr": "Produits disponibles dans plus de 3500 magasins à travers le pays",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Nutritional workshops for dietitian store vendors",
         "fr": "Ateliers nutritionnels pour les vendeurs diététiciens en magasin",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Machine rental for other food entrepreneurs",
         "fr": "Location de machines pour d'autres entrepreneurs alimentaires",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support network for plant-based food sector",
         "fr": "Réseau de soutien pour le secteur des aliments à base de plantes",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Direct relationships with local raw material producers",
         "fr": "Relations directes avec les producteurs locaux de matières premières",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Food service channel expansion",
         "fr": "Expansion du canal de restauration collective",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Broader consumer reach across Latin America",
         "fr": "Portée plus large des consommateurs à travers l'Amérique latine",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies to sublease production machinery",
         "fr": "Entreprises pour sous-louer des machines de production",

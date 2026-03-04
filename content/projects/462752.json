@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "tanzania"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["tanzania"],
   "createdAt": 1754567554,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El proyecto Drive Inn, iniciado en 1999, es un colectivo de agricultores que transformaron un antiguo vertedero en una próspera granja urbana en Dar es Salaam. Este grupo de 19 agricultores cultiva diversas hortalizas, que vende directamente a los clientes, incluidos restaurantes y hoteles locales. Hacen hincapié en las prácticas agrícolas sostenibles, utilizando fertilizantes orgánicos y remedios naturales. A lo largo de los años, se han enfrentado a retos relacionados con el valor de la tierra y el acceso al agua, pero siguen comprometidos con la sostenibilidad alimentaria y la participación de la comunidad.",
     "de": "Das 1999 ins Leben gerufene Drive Inn-Projekt ist eine Gruppe von Landwirten, die in Daressalam eine ehemalige Dumping-Anlage in einen lebendigen städtischen Bauernhof verwandelt haben. Diese Gruppe von 19 Landwirten baut eine Vielzahl von Gemüsesorten an und verkauft direkt an Kunden, darunter lokale Restaurants und Hotels. Sie setzen auf nachhaltige Landwirtschaftspraktiken und verwenden Düngemittel und natürliche Heilmittel. Im Laufe der Jahre haben sie Herausforderungen im Zusammenhang mit dem Landwert und dem Wasserzugang bewältigt, bleiben aber der Nachhaltigkeit von Lebensmitteln und dem Engagement der Gemeinschaft verpflichtet."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Gkibasa"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.canva.com/design/DAGjqb5MfzU/dZM9GvQAGd0gHsNXP17OfQ/view?utm_content=DAGjqb5MfzU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec7c9f149d",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1999",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Driving Group was founded by 19 urban farmers who cleared a dumping site on public land in Msasani, Dar es Salaam, and began growing vegetables collectively.",
         "fr": "Le Groupe Moteur a été fondé par 19 agriculteurs urbains qui ont déblayé un dépôt sauvage sur un terrain public à Msasani, Dar es Salaam, et ont commencé à cultiver des légumes collectivement.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "2000",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Following advice from agricultural extension officers, the group formally registered as a collective, drafted a constitution, and became officially recognized by the municipality.",
         "fr": "Sur les conseils des agents de vulgarisation agricole, le groupe s'est officiellement enregistré en tant que collectif, a rédigé une constitution et a été officiellement reconnu par la municipalité.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2002",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "After struggling with water access from the Dar es Salaam Water and Sewage Authority (DAWASCO), the group partnered with the US Embassy, which funded the construction of a water well on their site.",
         "fr": "Après avoir rencontré des difficultés d'accès à l'eau auprès de l'Autorité de l'eau et de l'assainissement de Dar es Salaam (DAWASCO), le groupe s'est associé à l'ambassade des États-Unis, qui a financé la construction d'un puits d'eau sur leur site.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "2002-2010",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Local government authorities attempted to claim ownership of the well and collected payments that were misappropriated; the dispute was eventually resolved around 2010, confirming the farmers as rightful owners.",
         "fr": "Les autorités gouvernementales locales ont tenté de revendiquer la propriété du puits et ont perçu des paiements qui ont été détournés ; le différend a finalement été résolu vers 2010, confirmant les agriculteurs comme les propriétaires légitimes.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Civil society organizations linked through the local council provided training sessions lasting several days, bringing together farmers, market vendors, and shop owners to share agricultural knowledge.",
         "fr": "Des organisations de la société civile liées au conseil local ont dispensé des sessions de formation de plusieurs jours, rassemblant des agriculteurs, des vendeurs de marché et des commerçants pour partager des connaissances agricoles.",
@@ -107,7 +97,7 @@
     },
     {
       "date": "2015-present",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The group's land was progressively reduced when authorities allocated portions to a private investor who built a mall; a replacement plot in Kigamboni proved to be military land, leaving the group with a significantly smaller farming area and only six original members remaining.",
         "fr": "Les terres du groupe ont été progressivement réduites lorsque les autorités en ont attribué des portions à un investisseur privé qui a construit un centre commercial ; une parcelle de remplacement à Kigamboni s'est avérée être un terrain militaire, laissant le groupe avec une superficie agricole considérablement réduite et seulement six membres fondateurs restants.",
@@ -118,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh vegetables sold directly to customers",
         "fr": "Légumes frais vendus directement aux clients",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic farming using natural fertilizers only",
         "fr": "Agriculture biologique utilisant uniquement des engrais naturels",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Collective land use and resource sharing",
         "fr": "Utilisation collective des terres et partage des ressources",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration site for sustainable urban farming",
         "fr": "Site de démonstration pour l'agriculture urbaine durable",
@@ -154,7 +144,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training new farmers on-site upon request",
         "fr": "Formation de nouveaux agriculteurs sur place sur demande",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct supply to hotels and restaurants",
         "fr": "Approvisionnement direct des hôtels et restaurants",
@@ -174,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government policy prioritizing urban farming land",
         "fr": "Politique gouvernementale privilégiant les terres d'agriculture urbaine",
@@ -183,7 +173,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial support to expand to larger plot",
         "fr": "Soutien financier pour s'étendre sur une parcelle plus grande",
@@ -192,7 +182,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Agricultural training and extension services",
         "fr": "Formation agricole et services de vulgarisation",
@@ -201,7 +191,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Structured partnerships with civil society organizations",
         "fr": "Partenariats structurés avec des organisations de la société civile",
@@ -210,7 +200,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Bulk institutional buyers like hotels and restaurants",
         "fr": "Acheteurs institutionnels en gros tels que les hôtels et les restaurants",
@@ -219,7 +209,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New generation farmers to continue operations",
         "fr": "Agriculteurs de nouvelle génération pour poursuivre les activités",

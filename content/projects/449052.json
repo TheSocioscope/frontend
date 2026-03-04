@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "switzerland"
-  ],
+  "continent": ["europe"],
+  "country": ["switzerland"],
   "createdAt": 1739455835,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Vergers d'Épicure, situada en el cantón de Ginebra (Suiza), es una cooperativa agrícola centrada en la producción de fruta y miel siguiendo métodos de cultivo sostenibles en armonía con la naturaleza. Esta cooperativa pretende promover una transición alimentaria concienciando a sus miembros sobre la importancia de los alimentos locales y el esfuerzo que requiere su producción.\n\nLos Vergers d'Épicure funcionan según un modelo cooperativo en el que los miembros deben comprometerse a un determinado número de horas de trabajo al año para beneficiarse de las cosechas. La iniciativa se esfuerza por reforzar sus actividades y mantener una estrecha conexión con la tierra, al tiempo que fomenta valores de aprendizaje e intercambio de conocimientos.",
     "de": "The Vergers d'Épicure initiative, located in the canton of Geneva, Switzerland, is an agricultural cooperative focused on fruit and honey production while adhering to sustainable farming methods in harmony with nature. Die Genossenschaft will den Übergang zu einer neuen Ernährungsweise fördern, indem sie bei ihren Mitgliedern das Bewusstsein für die Bedeutung lokaler Lebensmittel und den für die Lebensmittelproduktion erforderlichen Aufwand schärft.\n\nThe Vergers d'Épicure operates on a cooperative model where members are required to commit a certain number of work hours per year to benefit from the harvests. Die Initiative bemüht sich, ihre Aktivitäten zu stärken und eine enge Verbindung zum Land aufrechtzuerhalten, während sie gleichzeitig die Werte des Lernens und des Wissensaustauschs fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Schneider"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://www.vergers-epicure.ch/",
   "yt": "QcF63A1ADG0",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Early years",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Les Vergers d'Épicure are founded at the initiative of Christian Bavarelle, a gardener and member of the Greens party, with the goal of creating an agricultural cooperative connecting members to food production and the work it represents. Brigitte Schneider-Bideau, who becomes president, is among the founding members.",
         "fr": "Les Vergers d'Épicure sont fondés à l'initiative de Christian Bavarelle, jardinier et membre du parti des Verts, avec pour objectif de créer une coopérative agricole reliant les membres à la production alimentaire et au travail qu'elle représente. Brigitte Schneider-Bideau, qui en devient présidente, fait partie des membres fondateurs.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "10-15 years ago",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The cooperative secures its main terrain, formerly used for wheat cultivation, and begins planting fruit trees from scratch. Soil regeneration work is undertaken, including clover seeding to restore the land.",
         "fr": "La coopérative acquiert son terrain principal, anciennement utilisé pour la culture du blé, et commence à planter des arbres fruitiers de zéro. Des travaux de régénération des sols sont entrepris, notamment l'ensemencement de trèfle pour restaurer la terre.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "~10 years ago",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A second terrain of approximately half a hectare is acquired for viticulture, made possible through a cooperator's personal connection to the landowner. Beehives are also installed to support pollination and honey production.",
         "fr": "Un second terrain d'environ un demi-hectare est acquis pour la viticulture, rendu possible grâce au lien personnel d'un coopérateur avec le propriétaire du terrain. Des ruches sont également installées pour favoriser la pollinisation et la production de miel.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Membership declines from a peak of around 25 cooperators to approximately 15, pushing the cooperative out of financial balance. The project was originally designed to accommodate around 100 members.",
         "fr": "Le nombre de membres diminue, passant d'un pic d'environ 25 coopérateurs à approximativement 15, ce qui déséquilibre financièrement la coopérative. Le projet était initialement conçu pour accueillir une centaine de membres.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The cooperative faces growing competition from a proliferation of participatory garden initiatives in the Geneva region, reducing their ability to attract new members. The unexpected death of the owner of the second terrain also creates uncertainty about the future of that plot.",
         "fr": "La coopérative fait face à une concurrence croissante due à la prolifération d'initiatives de jardins participatifs dans la région genevoise, ce qui réduit leur capacité à attirer de nouveaux membres. Le décès inattendu du propriétaire du second terrain crée également une incertitude quant à l'avenir de cette parcelle.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh fruit exclusively for cooperative members",
         "fr": "Fruits frais exclusivement pour les membres de la coopérative",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Fruit transformation into juice, jam, compote",
         "fr": "Transformation des fruits en jus, confiture, compote",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Collective land maintenance by member cooperators",
         "fr": "Entretien collectif des terres par les coopérateurs membres",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Permaculture methods applied in practice",
         "fr": "Méthodes de permaculture appliquées en pratique",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Honey production via on-site beehives",
         "fr": "Production de miel via des ruches sur site",
@@ -150,7 +140,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "New cooperative members to reach 100",
         "fr": "Nouveaux membres coopératifs pour atteindre 100",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial balance through member contributions",
         "fr": "Équilibre financier grâce aux contributions des membres",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Informal exchanges with local farmers",
         "fr": "Échanges informels avec les agriculteurs locaux",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Urban residents willing to commit time",
         "fr": "Résidents urbains prêts à consacrer du temps",

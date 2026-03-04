@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754574249,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Allure of Soil es una iniciativa innovadora dirigida por cineastas, cuyo objetivo es concienciar sobre la salud del suelo y su papel vital en la seguridad alimentaria. A través de experiencias inmersivas, narraciones y eventos colaborativos, conecta a las personas con la tierra y sus fuentes de alimentos. La iniciativa aborda las lagunas de conocimiento en las prácticas agrícolas y promueve métodos sostenibles, fomentando una comprensión más profunda de las cuestiones medioambientales al tiempo que involucra a las comunidades en un diálogo y una acción significativos.              ",
     "de": "Allure of Soil ist eine innovative, von Filmemachern geleitete Initiative, die das Bewusstsein für die Gesundheit des Bodens und seine wichtige Rolle für die Lebensmittelsicherheit schärfen soll. Durch immersive Erfahrungen, Storytelling und gemeinschaftliche Veranstaltungen verbindet sie die Menschen mit der Erde und ihren Nahrungsquellen. Die Initiative schließt Wissenslücken in der Landwirtschaft und fördert nachhaltige Methoden. Sie fördert ein besseres Verständnis für Umweltfragen, während sie die Gemeinden in einen fruchtbaren Dialog und in Aktionen einbindet.              "
   },
-  "field": [
-    "ecology-environmental-sciences",
-    "arts-architecture-and-museology"
-  ],
+  "field": ["ecology-environmental-sciences", "arts-architecture-and-museology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,22 +33,16 @@
       "lastname": "Selvin"
     }
   ],
-  "thematic": [
-    "culture-and-the-arts",
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["culture-and-the-arts", "food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "theallureofsoil.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2022-2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Meraki Africa spent approximately two years submitting grant applications for a soil documentary called 'Ground Up' with no success. After two years, the founders decided to launch a campaign to keep the idea alive and build a community around the topic of soil.",
         "fr": "Meraki Africa a passé environ deux ans à soumettre des demandes de subventions pour un documentaire sur le sol intitulé « Ground Up », sans succès. Après deux ans, les fondateurs ont décidé de lancer une campagne pour maintenir l'idée en vie et bâtir une communauté autour du thème du sol.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Allure of Soil campaign was formally launched, with social media pages established on LinkedIn, Instagram, and X to reach a target audience of youth, who represent 60% of the African population.",
         "fr": "La campagne L'Attrait du Sol a été officiellement lancée, avec des pages sur les réseaux sociaux créées sur LinkedIn, Instagram et X pour atteindre un public cible de jeunes, qui représentent 60 % de la population africaine.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Allure of Soil partnered with Forest Foods for farm tours demonstrating syntropic agriculture, and co-hosted its first webinar with the Coalition for Soil Health to bring accessible soil science to broader audiences.",
         "fr": "L'Attrait du Sol s'est associé à Forest Foods pour des visites de fermes illustrant l'agriculture syntropique, et a co-organisé son premier webinaire avec la Coalition pour la Santé des Sols afin de rendre la science des sols accessible à un public plus large.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The campaign expanded its four core activities: soil stories, farm tours, webinars, and garden parties, with a Rwandan scientist-filmmaker joining the core team and conversations initiated with partners in the Caribbean and Germany.",
         "fr": "La campagne a élargi ses quatre activités principales : les récits sur le sol, les visites de fermes, les webinaires et les garden-parties, avec l'intégration d'un scientifique-cinéaste rwandais au sein de l'équipe centrale et des discussions engagées avec des partenaires aux Caraïbes et en Allemagne.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "African Wildlife Foundation provided their venue for the campaign launch at no cost, and conversations began with global organisations including Save Soil and Better Soil in Germany, signalling growing international recognition of the initiative.",
         "fr": "La Fondation africaine pour la faune sauvage a mis à disposition son lieu pour le lancement de la campagne gratuitement, et des discussions ont débuté avec des organisations mondiales dont Save Soil et Better Soil en Allemagne, témoignant d'une reconnaissance internationale croissante de l'initiative.",
@@ -106,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Webinars translating soil science into accessible language",
         "fr": "Webinaires traduisant la science des sols en langage accessible",
@@ -115,7 +102,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm tours showcasing healthy regenerative soil practices",
         "fr": "Visites de fermes présentant des pratiques régénératives saines pour les sols",
@@ -124,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Themed garden parties connecting food to soil health",
         "fr": "Fêtes de jardin thématiques reliant l'alimentation à la santé des sols",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Soil stories documenting farmers scientists and communities",
         "fr": "Histoires de sols documentant agriculteurs, scientifiques et communautés",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops and tools for schools and youth",
         "fr": "Ateliers et outils pour les écoles et les jeunes",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Merchandise and products promoting soil awareness",
         "fr": "Marchandises et produits favorisant la sensibilisation aux sols",
@@ -162,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate sustainability partners to fund activities",
         "fr": "Partenaires d'entreprise en développement durable pour financer les activités",
@@ -171,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for soil documentary film production",
         "fr": "Subventions pour la production de documentaires sur les sols",
@@ -180,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Conscious consumers demanding better farming practices",
         "fr": "Consommateurs conscients exigeant de meilleures pratiques agricoles",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators across food agriculture and conservation sectors",
         "fr": "Collaborateurs dans les secteurs de l'alimentation, de l'agriculture et de la conservation",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Smallholder farmers and youth audiences in Africa",
         "fr": "Petits agriculteurs et jeunes publics en Afrique",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Policymakers to include soil health in frameworks",
         "fr": "Décideurs politiques pour intégrer la santé des sols dans les cadres réglementaires",

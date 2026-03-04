@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A transport company supporting agricultural logistics and food distribution in the Breede Valley.",
     "de": "A transport company supporting agricultural logistics and food distribution in the Breede Valley."
   },
-  "field": [
-    "economics-business"
-  ],
+  "field": ["economics-business"],
   "lang": "en",
   "location": "Worcester",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Pieterse"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.pooltransport.co.za/index.php/pool-today/today",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1955",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "SN Pool Karweiers was founded by Mr. S.N. Pool, initially delivering goods for his wife's general store before expanding into loads for a local crusher business. The company grew steadily from this small owner-managed operation.",
         "fr": "SN Pool Karweiers a été fondée par M. S.N. Pool, livrant initialement des marchandises pour l'épicerie générale de sa femme avant de se développer vers des chargements pour une entreprise locale de concassage. La société a grandi régulièrement à partir de cette petite exploitation gérée par son propriétaire.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1956",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Pool Transport established a banking relationship with Standard Bank, a partnership that has continued for over 70 years and supports working capital and vehicle financing.",
         "fr": "Pool Transport a établi une relation bancaire avec Standard Bank, un partenariat qui dure depuis plus de 70 ans et soutient le fonds de roulement et le financement des véhicules.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "1955–2000s",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company expanded from a single Worcester depot to four operational sites in Worcester, Epping, Port Elizabeth, and Johannesburg, growing its fleet and client base significantly. This transition from a small owner-managed firm to a multi-depot corporate structure was identified as the company's greatest scaling challenge.",
         "fr": "La société s'est développée d'un seul dépôt à Worcester à quatre sites opérationnels à Worcester, Epping, Port Elizabeth et Johannesburg, augmentant considérablement sa flotte et sa clientèle. Cette transition d'une petite entreprise gérée par son propriétaire vers une structure d'entreprise multi-dépôts a été identifiée comme le plus grand défi de croissance de la société.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Pool Transport established the Gemeenskapstichting, a community ownership structure giving 26% of the company to an NPC comprising approximately 20 smaller NGOs. This model was designed to deliver broad-based community empowerment rather than benefiting a single BEE partner.",
         "fr": "Pool Transport a créé la Gemeenskapstichting, une structure de propriété communautaire accordant 26 % de la société à une OPC comprenant environ 20 petites ONG. Ce modèle a été conçu pour offrir une autonomisation communautaire élargie plutôt que de bénéficier à un seul partenaire BEE.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024–2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company began exploring hydrogen-powered vehicles as a long-term green energy strategy, citing a German truck that completed 1,047 km on a hydrogen fuel cell. Pool Transport simultaneously engaged with government and Transnet on an intermodal rail hub to reduce truck congestion on Western Cape roads.",
         "fr": "La société a commencé à explorer les véhicules à hydrogène comme stratégie d'énergie verte à long terme, citant un camion allemand ayant parcouru 1 047 km grâce à une pile à combustible à hydrogène. Pool Transport s'est simultanément engagé auprès du gouvernement et de Transnet sur un hub ferroviaire intermodal afin de réduire la congestion des camions sur les routes du Cap-Occidental.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "26% ownership shared with 20 local NGOs",
         "fr": "26% de propriété partagée avec 20 ONG locales",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training academy for drivers and admin staff",
         "fr": "Académie de formation pour les chauffeurs et le personnel administratif",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Long-distance food transport across South Africa",
         "fr": "Transport alimentaire longue distance à travers l'Afrique du Sud",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Free logistics support for food donation initiatives",
         "fr": "Soutien logistique gratuit pour les initiatives de dons alimentaires",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Owner-driver program with company-financed trucks",
         "fr": "Programme propriétaire-chauffeur avec camions financés par l'entreprise",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Hydrogen vehicle exploration for green logistics",
         "fr": "Exploration de véhicules à hydrogène pour une logistique verte",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Hydrogen powered vehicles for green energy transition",
         "fr": "Véhicules à hydrogène pour la transition vers l'énergie verte",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Intermodal hub collaboration with government and Transnet",
         "fr": "Collaboration sur un hub intermodal avec le gouvernement et Transnet",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Last mile delivery expansion in Breeder Valley",
         "fr": "Expansion de la livraison du dernier kilomètre dans la vallée de Breeder",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Rail system reform dialogue with local government",
         "fr": "Dialogue sur la réforme du système ferroviaire avec le gouvernement local",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "NGO accreditation support for independent funding access",
         "fr": "Soutien à l'accréditation des ONG pour l'accès à des financements indépendants",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Refrigerated truck fleet investment with Mercedes-Benz",
         "fr": "Investissement dans une flotte de camions réfrigérés avec Mercedes-Benz",

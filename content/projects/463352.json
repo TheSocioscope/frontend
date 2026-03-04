@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754424732,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Colonia Jaime es una comunidad única de Santiago del Estero (Argentina), fundada en 1932, donde un centenar de residentes viven según principios filosóficos que hacen hincapié en la coexistencia, la educación y las prácticas sostenibles. Esta emblemática colonia ha sido estudiada por sus innovadores métodos agrícolas y tecnologías sociales, como los biodigestores y el riego por goteo. Centrada en la participación y la formación de la comunidad, la Colonia Jaime es un modelo de vida sostenible que combina los valores tradicionales con los avances modernos.",
     "de": "Colonia Jaime ist eine einzigartige Gemeinde in Santiago del Estero, Argentinien, die 1932 gegründet wurde und in der rund 100 Bewohner nach philosophischen Grundsätzen leben, die Koexistenz, Bildung und nachhaltige Praktiken betonen. Diese emblematische Siedlung wurde wegen ihrer innovativen landwirtschaftlichen Methoden und sozialen Technologien, wie Biogasanlagen und Drip-Bewässerung, untersucht. Die Colonia Jaime dient als Vorbild für nachhaltiges Leben und verbindet traditionelle Werte mit modernen Fortschritten."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Lazo"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "governance-democracy-civil-society"
-  ],
+  "thematic": ["food-agriculture-fishery", "governance-democracy-civil-society"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://coloniajaime.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1903",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Spanish philosopher Joaquín Trincado emigrated to Argentina and began developing his philosophical doctrine on communal living and spiritual fraternity.",
         "fr": "Le philosophe espagnol Joaquín Trincado émigra en Argentine et commença à développer sa doctrine philosophique sur la vie communautaire et la fraternité spirituelle.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "1932",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Colonia Jaime was officially founded on July 25th in Santiago del Estero on land purchased with the help of local followers, becoming the first communal project of Trincado's philosophy.",
         "fr": "La Colonia Jaime fut officiellement fondée le 25 juillet à Santiago del Estero sur des terres achetées grâce à l'aide de sympathisants locaux, devenant ainsi le premier projet communautaire de la philosophie de Trincado.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "1992",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The community gained access to the electrical grid through the provincial government, marking a turning point that enabled technological and industrial development.",
         "fr": "La communauté obtint l'accès au réseau électrique grâce au gouvernement provincial, marquant un tournant qui permit le développement technologique et industriel.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "1993",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The community opened its first retail stores, known as 'granjas,' providing daily income and enabling more stable financial planning and debt repayment.",
         "fr": "La communauté ouvrit ses premiers commerces de détail, connus sous le nom de « granjas », fournissant des revenus quotidiens et permettant une planification financière plus stable ainsi que le remboursement des dettes.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2008",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Provincial Secretariat of Science and Technology proposed and funded the installation of drip irrigation, which expanded from 0.75 hectares to 11 hectares and significantly improved crop quality and water efficiency.",
         "fr": "Le Secrétariat provincial des sciences et de la technologie proposa et finança l'installation d'un système d'irrigation goutte-à-goutte, qui s'étendit de 0,75 hectare à 11 hectares, améliorant considérablement la qualité des cultures et l'efficacité de l'utilisation de l'eau.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The community celebrated its 90th anniversary by publishing a book titled 'Colonia Jaime, el arte de vivir en comunidad,' researched and written by the community's youth documenting its four pillars and founder's biography.",
         "fr": "La communauté célébra son 90e anniversaire en publiant un livre intitulé « Colonia Jaime, el arte de vivir en comunidad », recherché et rédigé par les jeunes de la communauté, documentant ses quatre piliers et la biographie de son fondateur.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free guided visits for schools of all levels",
         "fr": "Visites guidées gratuites pour les écoles de tous niveaux",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Living demonstration of communal sustainable life",
         "fr": "Démonstration vivante de vie communautaire durable",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh artisanal food products sold at fair prices",
         "fr": "Produits alimentaires artisanaux frais vendus à des prix équitables",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Space for university theses and field research",
         "fr": "Espace pour les thèses universitaires et la recherche de terrain",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacitation in sustainable agricultural technologies",
         "fr": "Formation aux technologies agricoles durables",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Workshops and talks shared with broader community",
         "fr": "Ateliers et conférences partagés avec la communauté élargie",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University researchers and doctoral thesis candidates",
         "fr": "Chercheurs universitaires et candidats à la thèse de doctorat",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "State institutions for joint productive projects",
         "fr": "Institutions étatiques pour des projets productifs communs",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Technology adoption for sustainable production",
         "fr": "Adoption de technologies pour une production durable",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand regional sales of community products",
         "fr": "Élargir les ventes régionales des produits communautaires",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "New community members sharing collective values",
         "fr": "Nouveaux membres de la communauté partageant des valeurs collectives",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Scale circular economy and alternative energy systems",
         "fr": "Développer l'économie circulaire et les systèmes d'énergie alternative",

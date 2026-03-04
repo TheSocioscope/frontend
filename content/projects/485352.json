@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754929076,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa es un hotel familiar fundado en 2010, situado en Bucaramanga, Colombia. Comenzó como una granja recreativa y evolucionó hasta convertirse en un alojamiento sostenible centrado en la protección del medio ambiente y las energías renovables. El hotel funciona con un modelo de cero residuos, utilizando energía solar y recogida de agua de lluvia. Sirve como centro educativo para los visitantes, promoviendo prácticas ecológicas y la autosuficiencia a través de la jardinería orgánica y el compostaje, al tiempo que fomenta el compromiso de la comunidad y la concienciación sobre la sostenibilidad.",
     "de": "Die Initiative ist ein familiengeführtes Hotel, das 2010 in Bucaramanga, Kolumbien, gegründet wurde. Es begann als Erholungsbauernhof und entwickelte sich zu einer nachhaltigen Beherbergungseinrichtung mit Schwerpunkt auf Umweltschutz und erneuerbaren Energien. Das Hotel arbeitet mit einem Null-Abfall-Modell, nutzt Solarenergie und sammelt Regenwasser. Es dient als Bildungszentrum für Besucher, das umweltfreundliche Praktiken und Selbstversorgung durch biologischen Gartenbau und Kompostierung fördert, während es gleichzeitig das Engagement der Gemeinschaft und das Bewusstsein für Nachhaltigkeit stärkt."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,22 +34,16 @@
       "lastname": "Quintero"
     }
   ],
-  "thematic": [
-    "leisure-tourism",
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["leisure-tourism", "food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.youtube.com/watch?app=desktop&v=QNa69rWGYUI",
   "yt": "aUzdRAzJ5NA",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Villalúci Ecoturístico Hotel was officially inaugurated in Curití, Santander, Colombia, starting as a family recreational farm that evolved into a hotel with lodging and camping services.",
         "fr": "L'hôtel Villalúci Ecoturístico a été officiellement inauguré à Curití, Santander, Colombie, en débutant comme une ferme récréative familiale qui a évolué en un hôtel proposant des services d'hébergement et de camping.",
@@ -66,7 +53,7 @@
     },
     {
       "date": "2010",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Before or shortly after the hotel opened, the family installed an ecological dry toilet after the property's septic tank collapsed, becoming an early adopter of waterless sanitation technology promoted by the Bill Gates Foundation.",
         "fr": "Avant ou peu après l'ouverture de l'hôtel, la famille a installé des toilettes sèches écologiques après l'effondrement de la fosse septique de la propriété, devenant ainsi l'un des premiers utilisateurs de la technologie d'assainissement sans eau promue par la Fondation Bill Gates.",
@@ -76,7 +63,7 @@
     },
     {
       "date": "2013-2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Approximately three to four years after purchasing the property, solar panels were installed to address chronic electricity outages in the rural area, making the grid connection a backup rather than the primary power source.",
         "fr": "Environ trois à quatre ans après l'achat de la propriété, des panneaux solaires ont été installés pour remédier aux coupures d'électricité chroniques dans la zone rurale, faisant du raccordement au réseau une source d'énergie de secours plutôt que principale.",
@@ -86,7 +73,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The hotel was selected as a finalist in the Premios Latinoamérica Verde held in Guayaquil, Ecuador, competing among projects from over 24 countries for innovation in alternative energy.",
         "fr": "L'hôtel a été sélectionné comme finaliste aux Premios Latinoamérica Verde organisés à Guayaquil, en Équateur, en concourant parmi des projets de plus de 24 pays pour l'innovation en matière d'énergie alternative.",
@@ -96,7 +83,7 @@
     },
     {
       "date": "2015",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The hotel became a certified green business under the CAS (Corporación Autónoma Regional de Santander), joining a network of over 100 green businesses and gaining regional recognition for its sustainable practices.",
         "fr": "L'hôtel est devenu une entreprise verte certifiée par le CAS (Corporación Autónoma Regional de Santander), rejoignant un réseau de plus de 100 entreprises vertes et obtenant une reconnaissance régionale pour ses pratiques durables.",
@@ -106,7 +93,7 @@
     },
     {
       "date": "2015-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The hotel expanded its impact through educational visits from universities, primary and secondary schools, and participation in national competitions including Titanes Caracol, finishing among the top three in Latin America for energy savings.",
         "fr": "L'hôtel a élargi son impact grâce à des visites éducatives d'universités, d'écoles primaires et secondaires, et à sa participation à des concours nationaux dont Titanes Caracol, se classant parmi les trois premiers en Amérique latine pour les économies d'énergie.",
@@ -117,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Technical visits for students and universities",
         "fr": "Visites techniques pour étudiants et universités",
@@ -126,7 +113,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "15 ecological systems open to visitors",
         "fr": "15 systèmes écologiques ouverts aux visiteurs",
@@ -135,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free environmental talks for local neighbors",
         "fr": "Conférences environnementales gratuites pour les riverains",
@@ -144,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic waste composting and worm farming",
         "fr": "Compostage des déchets organiques et vermiculture",
@@ -153,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Guided induction on sustainable practices for guests",
         "fr": "Introduction guidée aux pratiques durables pour les hôtes",
@@ -162,7 +149,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic kitchen garden for daily consumption",
         "fr": "Potager biologique pour la consommation quotidienne",
@@ -173,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Community collaboration for waste recycling initiatives",
         "fr": "Collaboration communautaire pour les initiatives de recyclage des déchets",
@@ -182,7 +169,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Spread simple eco-technologies to rural families",
         "fr": "Diffuser des écotechnologies simples aux familles rurales",
@@ -191,7 +178,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Potable rainwater certification and validation",
         "fr": "Certification et validation de l'eau de pluie potable",
@@ -200,7 +187,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Educational visits from schools and universities",
         "fr": "Visites éducatives des écoles et des universités",
@@ -209,7 +196,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Collection of discarded bulbs and solar components",
         "fr": "Collecte d'ampoules usagées et de composants solaires",
@@ -218,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Visibility to attract eco-conscious tourists",
         "fr": "Visibilité pour attirer les touristes soucieux de l'environnement",

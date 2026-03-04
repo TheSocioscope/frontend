@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "paraguay"
-  ],
+  "continent": ["south-america"],
+  "country": ["paraguay"],
   "createdAt": 1754384542,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "High Farm es una innovadora granja urbana fundada en 2019, centrada en la producción sostenible de alimentos mediante técnicas de cultivo vertical. Mediante el cultivo de microgreens, flores comestibles y verduras en entornos controlados, High Farm pretende acercar los productos frescos y sin pesticidas a los consumidores urbanos. La iniciativa hace hincapié en la armonía entre tecnología, naturaleza y sociedad, fomentando la diversidad gastronómica al tiempo que se minimiza el impacto medioambiental. Con un compromiso con la investigación y el desarrollo, High Farm aspira a ser líder en prácticas agrícolas sostenibles en América Latina.",
     "de": "High Farm ist ein 2019 gegründeter innovativer städtischer Bauernhof, der sich auf die nachhaltige Lebensmittelproduktion durch vertikale Anbautechniken konzentriert. Durch den Anbau von Mikrogreens, essbaren Blumen und Greens in kontrollierten Umgebungen will High Farm frische, pestizidfreie Produkte näher an die städtischen Verbraucher heranbringen. Die Initiative betont die Harmonie zwischen Technologie, Natur und Gesellschaft und fördert die gastronomische Vielfalt bei gleichzeitiger Minimierung der Umweltauswirkungen. High Farm hat sich der Forschung und Entwicklung verschrieben und strebt eine führende Rolle bei nachhaltigen landwirtschaftlichen Praktiken in Lateinamerika an."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://highfarm.com.py/about-us/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "HiFarm was officially launched on October 9, 2019, at the Tigo Conecta awards competition. The three co-founding partners began with their own capital, starting with microgreens cultivation in a single room of an urban house in Asunción.",
         "fr": "HiFarm a été officiellement lancée le 9 octobre 2019, lors du concours de prix Tigo Conecta. Les trois associés cofondateurs ont démarré avec leurs propres capitaux, en commençant la culture de micropousses dans une seule pièce d'une maison urbaine à Asunción.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The first year focused on starting production, with initial sales reaching around 100 units generating approximately 2 million guaraníes. Early customers were primarily family and friends before securing first restaurant and gourmet market clients.",
         "fr": "La première année a été consacrée au lancement de la production, avec des ventes initiales atteignant environ 100 unités générant approximativement 2 millions de guaraníes. Les premiers clients étaient principalement de la famille et des amis, avant de décrocher les premiers clients dans les restaurants et les marchés gastronomiques.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Years two and three were dedicated to ordering and scaling up production, while a third co-founding partner joined and contributed additional capital to support growth.",
         "fr": "Les deuxième et troisième années ont été dédiées à l'organisation et à l'augmentation de la production, tandis qu'un troisième associé cofondateur a rejoint l'équipe et apporté des capitaux supplémentaires pour soutenir la croissance.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Year four focused on administrative organization and consolidating cultivation knowledge and techniques. HiFarm also diversified into edible flowers, becoming the first in Latin America to cultivate them in a controlled urban environment.",
         "fr": "La quatrième année a été axée sur l'organisation administrative et la consolidation des connaissances et techniques de culture. HiFarm s'est également diversifiée dans les fleurs comestibles, devenant la première en Amérique latine à les cultiver dans un environnement urbain contrôlé.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "HiFarm completed construction of its largest two-story module with an elevator, designed specifically as a purpose-built urban farm. The company also formalized membership in the Unión Industrial Paraguaya, becoming the first urban farm recognized as an industrial plant factory in Paraguay.",
         "fr": "HiFarm a achevé la construction de son plus grand module à deux étages avec ascenseur, conçu spécifiquement comme une ferme urbaine dédiée. La société a également formalisé son adhésion à l'Unión Industrial Paraguaya, devenant ainsi la première ferme urbaine reconnue comme usine industriale de production au Paraguay.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Declared the year of consolidation, with monthly revenue reaching over 7,000 USD. The company is finalizing the edible flower cultivation prototype and preparing infrastructure for a future production scale-up across Asunción and potentially other Paraguayan cities.",
         "fr": "Déclarée année de consolidation, avec un chiffre d'affaires mensuel dépassant 7 000 USD. La société finalise le prototype de culture de fleurs comestibles et prépare l'infrastructure en vue d'une future montée en puissance de la production à Asunción et potentiellement dans d'autres villes du Paraguay.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh microgreens and edible flowers",
         "fr": "Micropousses fraîches et fleurs comestibles",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Closed water cycle, over 85% reuse",
         "fr": "Cycle d'eau fermé, plus de 85% de réutilisation",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Pesticide-free produce to restaurants and stores",
         "fr": "Produits sans pesticides pour les restaurants et les magasins",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Urban farm prototype for sustainable technologies",
         "fr": "Prototype de ferme urbaine pour les technologies durables",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Controlled environment crop system development",
         "fr": "Développement de systèmes de culture en environnement contrôlé",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Future workshops on urban vertical farming",
         "fr": "Futurs ateliers sur l'agriculture urbaine verticale",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances for smart investment",
         "fr": "Alliances stratégiques pour un investissement intelligent",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Development partners to accelerate cultivation systems",
         "fr": "Partenaires de développement pour accélérer les systèmes de culture",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand to restaurants and gourmet markets",
         "fr": "S'étendre aux restaurants et aux marchés gastronomiques",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consolidate edible flowers production model",
         "fr": "Consolider le modèle de production de fleurs comestibles",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External investment aligned with sustainability vision",
         "fr": "Investissement externe aligné sur la vision de durabilité",

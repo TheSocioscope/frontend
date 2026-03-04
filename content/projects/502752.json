@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Etienne Kayser is R&D Director of SATT Sayens, overseeing technological platforms including Biotechinnov specialized in solid-state fermentation.",
     "de": "Etienne Kayser is R&D Director of SATT Sayens, overseeing technological platforms including Biotechinnov specialized in solid-state fermentation."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Kayser"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://www.sayens.fr",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The SAT (Société d'Accélération du Transfert de Technologies) model was launched nationally in France, with the goal of creating a transfer channel between public research and the private sector.",
         "fr": "Le modèle SAT (Société d'Accélération du Transfert de Technologies) a été lancé à l'échelle nationale en France, avec pour objectif de créer un canal de transfert entre la recherche publique et le secteur privé.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "SAT Science was officially structured in Burgundy, attached to public research institutions in Bourgogne-Franche-Comté, Lorraine, and Sud-Champagne, with a mission to facilitate technology transfer and intellectual property protection.",
         "fr": "SAT Science a été officiellement structurée en Bourgogne, rattachée aux établissements de recherche publique de Bourgogne-Franche-Comté, de Lorraine et du Sud-Champagne, avec pour mission de faciliter le transfert de technologies et la protection de la propriété intellectuelle.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A collaborative R&D activity, predating the SAT structure, was integrated into SAT Science to co-create innovation projects between academic laboratories and companies.",
         "fr": "Une activité de R&D collaborative, antérieure à la structure SAT, a été intégrée à SAT Science afin de co-créer des projets d'innovation entre laboratoires académiques et entreprises.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Etienne Kaiser formally took on the role of Director of Partnered R&D at SAT Science as of January 1st, 2025, overseeing collaborative projects between researchers and companies.",
         "fr": "Etienne Kaiser a officiellement pris le rôle de Directeur de la R&D Partenariale chez SAT Science à compter du 1er janvier 2025, supervisant les projets collaboratifs entre chercheurs et entreprises.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "SAT Science identified European-scale projects as a key development axis, aiming to expand beyond its primarily French client base and strengthen its position in the innovation ecosystem.",
         "fr": "SAT Science a identifié les projets à l'échelle européenne comme un axe de développement clé, visant à s'étendre au-delà de sa clientèle principalement française et à renforcer sa position dans l'écosystème de l'innovation.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "R&D support services for agri-food companies",
         "fr": "Services de soutien à la R&D pour les entreprises agroalimentaires",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Technology transfer from labs to businesses",
         "fr": "Transfert de technologie des laboratoires vers les entreprises",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Intellectual property management and contract support",
         "fr": "Gestion de la propriété intellectuelle et soutien contractuel",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Network connecting researchers and companies",
         "fr": "Réseau reliant les chercheurs et les entreprises",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot-scale equipment access for product development",
         "fr": "Accès à des équipements à échelle pilote pour le développement de produits",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Expert guidance for innovation project funding",
         "fr": "Accompagnement expert pour le financement de projets d'innovation",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Long-term partnerships with research laboratories",
         "fr": "Partenariats à long terme avec des laboratoires de recherche",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Companies seeking R&D innovation support",
         "fr": "Entreprises cherchant un soutien à l'innovation en R&D",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "European-scale collaborative research projects",
         "fr": "Projets de recherche collaborative à l'échelle européenne",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial aid for company innovation projects",
         "fr": "Aides financières pour les projets d'innovation des entreprises",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Greater visibility and market positioning",
         "fr": "Meilleure visibilité et positionnement sur le marché",

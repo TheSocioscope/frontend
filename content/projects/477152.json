@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754648561,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Zipporah Ochoi es una criadora de pollos de la región costera de Kenia cuyo objetivo es mejorar las comunidades locales proporcionando pollos gratis a mujeres y jóvenes. Su iniciativa funciona como una subvención empresarial que permite a los beneficiarios poner en marcha sus propias empresas de cría de pollos. Este modelo no sólo fomenta el espíritu empresarial, sino que también responde a las necesidades de suministro de alimentos en una zona muy dependiente del turismo. Los esfuerzos de Zipporah están transformando vidas, permitiendo a los miembros de la comunidad convertirse en criadores de pollos autosuficientes.               ",
     "de": "Zipporah Ochoi ist eine Hühnerfarmerin in Kenias Küstenregion, die sich zum Ziel gesetzt hat, lokale Gemeinschaften zu stärken, indem sie Frauen und Jugendlichen kostenlose Küken anbietet. Ihre Initiative fungiert als Unternehmenszuschuss und ermöglicht es den Empfängern, ihr eigenes Hühnerfarming-Unternehmen zu gründen. Dieses Modell fördert nicht nur das Unternehmertum, sondern adressiert auch den Bedarf an Nahrungsmitteln in einer Region, die stark auf den Tourismus angewiesen ist. Zipporahs Bemühungen sind lebensverändernd, indem sie Gemeindemitglieder zu selbstständigen Hühnerfarmern macht.               "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Ochoi"
     }
   ],
-  "thematic": [
-    "inequalities-poverty-development",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Zippora Ochoi started her poultry farming and community empowerment project in Mwatundo village, Kilifi County, after leaving college without securing employment. She began by giving free chicks to community members, starting with neighbors and friends.",
         "fr": "Zippora Ochoi a lancé son projet d'élevage de volailles et d'autonomisation communautaire dans le village de Mwatundo, comté de Kilifi, après avoir quitté l'université sans trouver d'emploi. Elle a commencé par distribuer gratuitement des poussins aux membres de la communauté, en débutant par ses voisins et amis.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Lioness Women Group was formally established, bringing together 25 women from the local community to support each other through welfare contributions, communal activities, and agricultural projects.",
         "fr": "Le groupe de femmes Lioness a été officiellement créé, réunissant 25 femmes de la communauté locale pour se soutenir mutuellement grâce à des cotisations de solidarité, des activités collectives et des projets agricoles.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Zippora expanded her operation to approximately 200 hens and a 528-egg incubator, while growing her mentorship program to include youth and women groups engaged in poultry farming and vegetable growing.",
         "fr": "Zippora a étendu son exploitation à environ 200 poules et un incubateur de 528 œufs, tout en développant son programme de mentorat pour inclure des groupes de jeunes et de femmes engagés dans l'élevage de volailles et la culture maraîchère.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Repeated power outages caused significant losses of eggs and chicks in the incubator, including one incident where over 246 chickens died, pushing Zippora to the brink of giving up.",
         "fr": "Des coupures de courant répétées ont causé des pertes importantes d'œufs et de poussins dans l'incubateur, notamment un incident au cours duquel plus de 246 poulets sont morts, poussant Zippora au bord de l'abandon.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Zippora established supply relationships with local hotels in the coastal region, becoming one of their primary chicken suppliers while also connecting community group members to these markets.",
         "fr": "Zippora a établi des relations d'approvisionnement avec des hôtels locaux de la région côtière, devenant l'un de leurs principaux fournisseurs de poulets tout en connectant les membres des groupes communautaires à ces marchés.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Zippora identified solar panels and larger incubators as critical next steps for expansion, while also pursuing plans to form additional groups across Kilifi County and seek NGO or government partnerships for financial support.",
         "fr": "Zippora a identifié les panneaux solaires et les incubateurs de plus grande capacité comme des étapes essentielles pour son développement, tout en poursuivant des plans visant à créer des groupes supplémentaires dans tout le comté de Kilifi et à rechercher des partenariats avec des ONG ou le gouvernement pour obtenir un soutien financier.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free chickens given to women and youth",
         "fr": "Poulets gratuits donnés aux femmes et aux jeunes",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Mentorship and monitoring of new farmers",
         "fr": "Mentorat et suivi des nouveaux agriculteurs",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market connections to local hotels",
         "fr": "Connexions commerciales avec les hôtels locaux",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Financial literacy and business guidance",
         "fr": "Éducation financière et conseils en affaires",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local chicken supply for coastal region",
         "fr": "Approvisionnement en poulets locaux pour la région côtière",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Welfare support for community members in need",
         "fr": "Soutien social aux membres de la communauté dans le besoin",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial support to expand incubation capacity",
         "fr": "Soutien financier pour développer la capacité d'incubation",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGO or institutional partnerships for project growth",
         "fr": "Partenariats avec des ONG ou des institutions pour la croissance du projet",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New farmers to join poultry empowerment program",
         "fr": "Nouveaux agriculteurs à rejoindre le programme d'autonomisation avicole",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Solar panel system to replace unreliable grid power",
         "fr": "Système de panneaux solaires pour remplacer le réseau électrique peu fiable",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded hotel and market access for chicken sales",
         "fr": "Accès élargi aux hôtels et aux marchés pour la vente de poulets",

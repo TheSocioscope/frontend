@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754404489,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Crick Superfood, fundada por Francisca Castellanos, surgió para ofrecer a los intolerantes a la lactosa aperitivos nutritivos elaborados con proteína de grillo. Lanzada justo antes de la pandemia, la empresa se centra en crear productos de etiqueta limpia, sin gluten, sin conservantes y sostenibles desde el punto de vista medioambiental. Comprometida con el impacto social, Crick dona el 5% de las ventas a un banco de alimentos local. El equipo, compuesto íntegramente por mujeres, aspira a promover proteínas alternativas atendiendo al mismo tiempo a las necesidades nutricionales y las preocupaciones medioambientales.",
     "de": "Das von Francisca Castellanos gegründete Unternehmen Crick Superfood hat sich zum Ziel gesetzt, laktoseintolerante Menschen mit nahrhaften Snacks aus Grillenprotein zu versorgen. Das Unternehmen, das kurz vor der Pandemie gegründet wurde, konzentriert sich auf die Herstellung von Clean-Label-Produkten, die glutenfrei, konservierungsmittelfrei und ökologisch nachhaltig sind. Crick ist der sozialen Wirkung verpflichtet und spendet 5 % des Umsatzes an eine lokale Lebensmittelbank. Das Team, das ausschließlich aus Frauen besteht, möchte alternative Proteine fördern und gleichzeitig Ernährungsbedürfnisse und Umweltbelange berücksichtigen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Castellanos"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://cricksuperfoods.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Crick Superfood was founded by Francisca Castellanos in Quito, Ecuador, one week before the COVID-19 pandemic lockdown. The company was born from her personal need to find a lactose-free, non-inflammatory protein source after years of athletic training.",
         "fr": "Crick Superfood a été fondée par Francisca Castellanos à Quito, en Équateur, une semaine avant le confinement lié à la pandémie de COVID-19. L'entreprise est née de son besoin personnel de trouver une source de protéines sans lactose et non inflammatoire après des années d'entraînement sportif.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After approximately eight to nine months of product testing and prototyping, Crick launched its first product: cricket protein nachos in two flavors, ají and sea salt. The team prioritized fully ground cricket flour so no visible insect parts would appear in the final product.",
         "fr": "Après environ huit à neuf mois de tests et de prototypage, Crick a lancé son premier produit : des nachos à base de protéines de grillons en deux saveurs, ají et sel de mer. L'équipe a privilégié une farine de grillons entièrement moulue afin qu'aucune partie visible d'insecte n'apparaisse dans le produit final.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company reached its break-even point roughly one year after launch, having started with basic manual packaging and selling exclusively through WhatsApp, phone, and social media during the pandemic period.",
         "fr": "L'entreprise a atteint son seuil de rentabilité environ un an après le lancement, ayant débuté avec un emballage manuel basique et en vendant exclusivement via WhatsApp, par téléphone et sur les réseaux sociaux pendant la période de pandémie.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Crick won a seed capital grant from Conquito, the municipal economic development agency of Quito, which funded a brand refresh, new packaging design, and the development of new protein bar products. Conquito also provided business training and ecosystem support.",
         "fr": "Crick a remporté une subvention en capital d'amorçage de Conquito, l'agence municipale de développement économique de Quito, qui a financé une refonte de la marque, un nouveau design d'emballage et le développement de nouveaux produits de barres protéinées. Conquito a également fourni une formation commerciale et un soutien à l'écosystème.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Crick secured distribution in major national retail chains including Supermaxi and Farmenlace Mediciti pharmacies, achieving nationwide distribution across Ecuador. The company also launched its 100% pure cricket protein powder as a standalone product.",
         "fr": "Crick a obtenu une distribution dans les principales chaînes de distribution nationales, notamment les supermarchés Supermaxi et les pharmacies Farmenlace Mediciti, réalisant ainsi une distribution à l'échelle nationale en Équateur. L'entreprise a également lancé sa poudre de protéines de grillons 100 % pure en tant que produit autonome.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The CEO traveled to Europe to pursue international certifications and explore export opportunities, identifying Mexico as the most accessible initial export market due to its cultural openness to insect consumption. New protein bars in pineapple-coconut and chocolate-almond flavors were in development.",
         "fr": "La PDG s'est rendue en Europe pour obtenir des certifications internationales et explorer des opportunités d'exportation, identifiant le Mexique comme le marché d'exportation initial le plus accessible en raison de son ouverture culturelle à la consommation d'insectes. De nouvelles barres protéinées aux saveurs ananas-noix de coco et chocolat-amande étaient en cours de développement.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Cricket protein snacks sold nationally",
         "fr": "Collations à base de protéines de grillons vendues à l'échelle nationale",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Sustainable protein using fewer resources",
         "fr": "Protéines durables utilisant moins de ressources",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "5% of sales donated to food bank",
         "fr": "5% des ventes reversés à une banque alimentaire",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Open facilities for university research studies",
         "fr": "Installations ouvertes pour les études de recherche universitaire",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Entrepreneurship training via Conquito partnership",
         "fr": "Formation à l'entrepreneuriat via le partenariat Conquito",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Clean-label food without preservatives or additives",
         "fr": "Aliments à étiquette propre sans conservateurs ni additifs",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export markets starting with Mexico",
         "fr": "Marchés d'exportation en commençant par le Mexique",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Distribution alliances in coastal Ecuador regions",
         "fr": "Alliances de distribution dans les régions côtières de l'Équateur",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer education on insect protein",
         "fr": "Éducation des consommateurs sur les protéines d'insectes",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Additional seed capital for product diversification",
         "fr": "Capital d'amorçage supplémentaire pour la diversification des produits",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University research collaborations on cricket protein",
         "fr": "Collaborations de recherche universitaire sur les protéines de grillon",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Certified cricket farming supply chain partners",
         "fr": "Partenaires certifiés de la chaîne d'approvisionnement en élevage de grillons",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["south-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754566296,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Harmony Projects es una iniciativa multifacética centrada en la hostelería sostenible y el compromiso comunitario en Nosara, Costa Rica. Fundada en 2004, abarca hoteles y restaurantes, dando prioridad al abastecimiento local y a la gestión medioambiental. Con un compromiso con las prácticas regenerativas, Harmony Projects pretende fomentar la resiliencia económica apoyando a los productores locales y mejorando el bienestar de la comunidad. La organización hace hincapié en la educación, la preservación cultural y la conservación del medio ambiente, esforzándose por crear un impacto positivo tanto en los huéspedes como en la comunidad circundante.",
     "de": "Harmony Projects ist eine facettenreiche Initiative, die sich auf nachhaltige Gastfreundschaft und kommunales Engagement in Nosara, Costa Rica, konzentriert. Die 2004 gegründete Initiative umfasst Hotels und Restaurants und legt Wert auf lokale Beschaffung und Umweltverantwortung. With a commitment to regenerative practices, Harmony Projects aims to foster economic resilience by supporting local producers and enhancing community well-being. Die Organisation legt Wert auf Bildung, Kultur- und Umweltschutz und bemüht sich, positive Auswirkungen auf die Gäste und die umliegende Gemeinde zu erzielen."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Arias"
     }
   ],
-  "thematic": [
-    "economy-business-markets-finance",
-    "leisure-tourism"
-  ],
+  "thematic": ["economy-business-markets-finance", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.harmonynosara.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2002",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "A couple of American founders purchased the Harmony property in Nosara, Costa Rica, originally an old hotel called Villa Taipé, with a vision of creating a community-integrated, sustainable hospitality project.",
         "fr": "Quelques fondateurs américains ont acquis la propriété Harmony à Nosara, au Costa Rica, anciennement un vieil hôtel appelé Villa Taipé, avec la vision de créer un projet hôtelier durable et intégré à la communauté.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2004",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Harmony Project officially began operating as Harmony Hotel, launching its sustainable hospitality model with a focus on community involvement, native plant gardens, and local impact.",
         "fr": "Le Projet Harmony a officiellement commencé à fonctionner en tant que Harmony Hotel, lançant son modèle d'hôtellerie durable axé sur l'implication communautaire, les jardins de plantes indigènes et l'impact local.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Prompted by the COVID-19 pandemic, Harmony shifted toward a regenerative business vision, conducting field visits to identify local producers and launching a seed-financing program with farmers in Santa Cruz to source frijoles, hortalizas, and maize.",
         "fr": "Poussé par la pandémie de COVID-19, Harmony s'est orienté vers une vision d'entreprise régénératrice, en effectuant des visites de terrain pour identifier des producteurs locaux et en lançant un programme de financement en amorçage avec des agriculteurs à Santa Cruz pour s'approvisionner en frijoles, hortalizas et maïs.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A US-based dentist guest initiated the Nosara Sonríe program in partnership with Banco de Alimentos de Nosara and Harmony, providing free dental education and treatment to school-age children; by 2025 it had run for three consecutive years.",
         "fr": "Un dentiste américain, client de l'hôtel, a lancé le programme Nosara Sonríe en partenariat avec le Banco de Alimentos de Nosara et Harmony, offrant une éducation dentaire gratuite et des soins aux enfants d'âge scolaire ; en 2025, le programme avait été reconduit trois années consécutives.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Harmony Projects was recertified at the elite level of Costa Rica's CST (Certification for Sustainable Tourism) and holds a global B Corp certification, reflecting commitments across environmental, social, and economic sustainability dimensions.",
         "fr": "Harmony Projects a été recertifié au niveau d'excellence du CST (Certification pour le Tourisme Durable) du Costa Rica et détient une certification mondiale B Corp, reflétant des engagements en matière de durabilité environnementale, sociale et économique.",
@@ -104,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local food sourcing from regional producers",
         "fr": "Approvisionnement alimentaire local auprès de producteurs régionaux",
@@ -113,7 +102,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Funding for local community projects",
         "fr": "Financement de projets communautaires locaux",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free English classes for local children",
         "fr": "Cours d'anglais gratuits pour les enfants locaux",
@@ -131,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic waste composting program",
         "fr": "Programme de compostage des déchets organiques",
@@ -140,7 +129,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Sustainable farming training for suppliers",
         "fr": "Formation à l'agriculture durable pour les fournisseurs",
@@ -149,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Eco-tourism sustainability tours for guests",
         "fr": "Visites de durabilité écotouristique pour les clients",
@@ -160,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More local food producers within watershed",
         "fr": "Plus de producteurs alimentaires locaux au sein du bassin versant",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Community organizations for volunteer programs",
         "fr": "Organisations communautaires pour les programmes de bénévolat",
@@ -178,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Businesses adopting sustainable regenerative practices",
         "fr": "Entreprises adoptant des pratiques durables et régénératives",
@@ -187,7 +176,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Solutions toward zero waste operation",
         "fr": "Solutions vers une exploitation zéro déchet",
@@ -196,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Sensibilized eco-conscious tourists to attract",
         "fr": "Touristes éco-conscients sensibilisés à attirer",
@@ -205,7 +194,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Community projects via Harmony Fund grants",
         "fr": "Projets communautaires via les subventions du Fonds Harmonie",

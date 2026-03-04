@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Cerro Verde promotes organic cultivation of native nopales, offering local and nutritious foods based on cultural traditions.",
     "de": "Cerro Verde promotes organic cultivation of native nopales, offering local and nutritious foods based on cultural traditions."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "es",
   "location": "Valtierrilla, Guanajuato",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Andrés Robles Martínez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/people/Cerro-Verde-Celaya/100064141749307/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1989-1990",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cerro Verde was founded approximately 35 years ago by Andrés Robles López, who became the first producer in the Baltierrilla region to cultivate nopal at a large-scale, hectare-level production.",
         "fr": "Cerro Verde a été fondée il y a environ 35 ans par Andrés Robles López, qui est devenu le premier producteur de la région de Baltierrilla à cultiver le nopal à grande échelle, au niveau de la production à l'hectare.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "~2004",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Around 15 years before the interview, Cerro Verde began producing processed nopal derivatives such as nopal in brine and pickled nopal, diversifying beyond fresh nopal sales.",
         "fr": "Environ 15 ans avant l'entretien, Cerro Verde a commencé à produire des dérivés transformés du nopal tels que le nopal en saumure et le nopal mariné, diversifiant ainsi ses activités au-delà de la vente de nopal frais.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "~2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Approximately 10 years before the interview, Cerro Verde began working with export companies like Marques Brothers, selling around 500 tonnes of nopal per year to the US market.",
         "fr": "Environ 10 ans avant l'entretien, Cerro Verde a commencé à travailler avec des entreprises exportatrices comme Marques Brothers, vendant environ 500 tonnes de nopal par an sur le marché américain.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "~2017",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Around 7 years before the interview, Cerro Verde expanded its product line to include nopal tortillas, nopal churros, and dehydrated nopal fiber, further adding value beyond fresh produce.",
         "fr": "Environ 7 ans avant l'entretien, Cerro Verde a élargi sa gamme de produits pour inclure des tortillas au nopal, des churros au nopal et des fibres de nopal déshydratées, ajoutant ainsi davantage de valeur au-delà des produits frais.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Andrés became president of Pronopal, a regional nopal producers' society originally founded by his father, consolidating his leadership role across the Baltierrilla nopal production community.",
         "fr": "Andrés est devenu président de Pronopal, une société régionale de producteurs de nopal fondée à l'origine par son père, consolidant ainsi son rôle de leader au sein de la communauté de production de nopal de Baltierrilla.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh organic nopal harvested every 21 days",
         "fr": "Nopal biologique frais récolté tous les 21 jours",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Processed nopal products reducing field waste",
         "fr": "Produits transformés à base de nopal réduisant les déchets des champs",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Income for 120 families via informal work",
         "fr": "Revenus pour 120 familles grâce au travail informel",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "500 tons nopal exported to US annually",
         "fr": "500 tonnes de nopal exportées annuellement vers les États-Unis",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Expertise and guidance to smaller producers",
         "fr": "Expertise et conseils aux petits producteurs",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Tortillas, escabeche, flour, fiber from nopal",
         "fr": "Tortillas, escabèche, farine, fibres à base de nopal",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand to national market beyond Guanajuato",
         "fr": "S'étendre au marché national au-delà de Guanajuato",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Enter US market with processed nopal products",
         "fr": "Entrer sur le marché américain avec des produits de nopal transformés",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Diversify buyers beyond Marques Brothers",
         "fr": "Diversifier les acheteurs au-delà des Frères Marques",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Increase nopal consumption among general population",
         "fr": "Augmenter la consommation de nopal parmi la population générale",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Source certified organic corn for tortillas",
         "fr": "S'approvisionner en maïs biologique certifié pour les tortillas",

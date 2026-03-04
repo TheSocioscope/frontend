@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909208,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Esta iniciativa se centra en la educación medioambiental y la vida sostenible a través de diversas actividades. Ofrece clases de descubrimiento para niños, cursos de formación sobre el uso alternativo de la tierra y vacaciones en régimen de autoservicio. La organización colabora con escuelas y centros comunitarios locales para promover la educación alimentaria y hábitos alimenticios saludables. Al involucrar a los participantes en experiencias prácticas, pretende fomentar una conexión con los productos locales y alentar elecciones alimentarias más sanas, contribuyendo en última instancia a un esfuerzo más amplio de transición alimentaria.",
     "de": "Diese Initiative konzentriert sich auf Umwelterziehung und nachhaltige Lebensweise durch verschiedene Aktivitäten. Sie bietet Entdeckungskurse für Kinder, Schulungen über alternative Landnutzung und Ferien für Selbstversorger an. Die Organisation arbeitet mit örtlichen Schulen und Gemeindezentren zusammen, um Ernährungserziehung und gesunde Essgewohnheiten zu fördern. Indem sie den Teilnehmern praktische Erfahrungen vermittelt, will sie die Verbindung zu lokalen Produkten fördern und zu einer gesünderen Ernährung ermutigen und damit letztlich zu einer breiteren Ernährungsumstellung beitragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,14 +33,9 @@
       "lastname": "Rabourdin"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.loubatas.org",
   "yt": "OLqZdy-B4MU",
   "editedAt": 1755735829,
@@ -56,14 +45,12 @@
       "at": 1755735829
     }
   ],
-  "updatedAt": [
-    1755735829
-  ],
+  "updatedAt": [1755735829],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1980-1981",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Loubatas association was founded in 1980-1981, initiated by citizens including a teacher who federated a community around an environmental education project.",
         "fr": "L'association Loubatas a été fondée en 1980-1981, à l'initiative de citoyens dont un enseignant qui a fédéré une communauté autour d'un projet d'éducation à l'environnement.",
@@ -73,7 +60,7 @@
     },
     {
       "date": "1986-1997",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Construction of the main building began in 1986 on land donated by a schoolteacher, completed through international youth and participatory workcamps over 11 years, with the main building inaugurated in 1997.",
         "fr": "La construction du bâtiment principal a débuté en 1986 sur un terrain donné par un instituteur, achevée grâce à des chantiers internationaux de jeunes et participatifs sur 11 ans, avec l'inauguration du bâtiment principal en 1997.",
@@ -83,7 +70,7 @@
     },
     {
       "date": "2001",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Loubatas formalized its sustainable food approach, serving meat only one to two times per week, sourcing bio-local and peasant-farmed products, and integrating strong pedagogical components around food education for children.",
         "fr": "Loubatas a formalisé son approche alimentaire durable, en ne servant de la viande qu'une à deux fois par semaine, en s'approvisionnant en produits bio-locaux et issus de l'agriculture paysanne, et en intégrant de solides composantes pédagogiques autour de l'éducation alimentaire des enfants.",
@@ -93,7 +80,7 @@
     },
     {
       "date": "2013",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The founding director retired, creating a leadership transition coinciding with a difficult financial period, prompting the organization to move away from dependence on a single key figure toward collective governance.",
         "fr": "Le directeur fondateur a pris sa retraite, entraînant une transition de direction coïncidant avec une période financière difficile, poussant l'organisation à s'éloigner de la dépendance envers une figure clé unique au profit d'une gouvernance collective.",
@@ -103,7 +90,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The COVID-19 crisis halted activities but triggered a strategic reset, leading to renewal of the board, deployment of new activities including a restructured training division and the creation of the Loubatas gardens.",
         "fr": "La crise du COVID-19 a interrompu les activités mais a déclenché une remise à plat stratégique, conduisant au renouvellement du conseil d'administration, au déploiement de nouvelles activités dont une division formation restructurée et à la création des jardins de Loubatas.",
@@ -113,7 +100,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Severe public funding cuts, including a 60% reduction in sustainable food policy budgets in PACA, forced Loubatas to accelerate its shift toward self-financing through professional training programs to maintain operations.",
         "fr": "De sévères réductions des financements publics, dont une baisse de 60 % des budgets de la politique alimentaire durable en PACA, ont contraint Loubatas à accélérer sa transition vers l'autofinancement par le biais de programmes de formation professionnelle pour maintenir ses activités.",
@@ -124,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental education programs for children",
         "fr": "Programmes d'éducation environnementale pour les enfants",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Professional training for food transition",
         "fr": "Formation professionnelle pour la transition alimentaire",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Eco-gite hosting for school discovery stays",
         "fr": "Hébergement en éco-gîte pour les séjours de découverte scolaire",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Sustainable food practices modeled on-site",
         "fr": "Pratiques alimentaires durables modélisées sur site",
@@ -160,7 +147,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Support for collective catering sustainable transition",
         "fr": "Accompagnement à la transition durable de la restauration collective",
@@ -169,7 +156,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Behavioral impact assessment with social scientists",
         "fr": "Évaluation de l'impact comportemental avec des chercheurs en sciences sociales",
@@ -180,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies for full food chain collaboration",
         "fr": "Alliés pour une collaboration sur toute la chaîne alimentaire",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers to measure behavioral impact",
         "fr": "Chercheurs pour mesurer l'impact comportemental",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Board members to sustain governance",
         "fr": "Membres du conseil d'administration pour soutenir la gouvernance",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Professional training financing via OPCO",
         "fr": "Financement de la formation professionnelle via OPCO",
@@ -216,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Collective catering adopting sustainable food practices",
         "fr": "Restauration collective adoptant des pratiques alimentaires durables",
@@ -225,7 +212,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local producers for sustainable supply network",
         "fr": "Producteurs locaux pour un réseau d'approvisionnement durable",

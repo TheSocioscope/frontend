@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "canada"
-  ],
+  "continent": ["north-america"],
+  "country": ["canada"],
   "createdAt": 1755007804,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Lufa, fundada en 2009 por 4 cofundadores, es una innovadora iniciativa de agricultura urbana con sede en Montreal que se centra en la agricultura en azoteas para mejorar la transparencia y la sostenibilidad alimentarias.  La iniciativa pretende cultivar alimentos donde vive la gente, garantizando la frescura y la sostenibilidad. Con cinco invernaderos, Lufa colabora con productores locales para ofrecer una amplia gama de productos a través de un mercado en línea, reduciendo el desperdicio de alimentos y apoyando el compromiso de la comunidad, al tiempo que da prioridad a las prácticas éticas y respetuosas con el medio ambiente.",
     "de": "Die 2009 von vier Mitbegründern ins Leben gerufene Lufa ist eine innovative urbane Landwirtschaftsinitiative mit Sitz in Montreal, die sich auf den Anbau auf Dächern konzentriert, um die Transparenz und Nachhaltigkeit von Lebensmitteln zu verbessern.  Ziel der Initiative ist es, Lebensmittel dort anzubauen, wo die Menschen leben, um Frische und Nachhaltigkeit zu gewährleisten. In fünf Gewächshäusern arbeitet Lufa mit lokalen Erzeugern zusammen, um über einen Online-Marktplatz eine breite Palette von Produkten anzubieten, die Lebensmittelverschwendung zu reduzieren und das Engagement der Gemeinschaft zu fördern, wobei ethische und umweltbewusste Praktiken im Vordergrund stehen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "cities-mobility-urban-planning",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["cities-mobility-urban-planning", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lufa.com/en/about",
   "yt": "",
   "originalLang": "en",
   "gallery": [],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Rooftop grown vegetables in Montreal",
         "fr": "Légumes cultivés sur les toits à Montréal",
@@ -62,7 +51,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online marketplace for local food products",
         "fr": "Marché en ligne pour les produits alimentaires locaux",
@@ -71,7 +60,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero overproduction through pre-order system",
         "fr": "Zéro surproduction grâce au système de précommande",
@@ -80,7 +69,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Platform connecting consumers to local producers",
         "fr": "Plateforme reliant les consommateurs aux producteurs locaux",
@@ -89,7 +78,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Viable model for urban rooftop farming",
         "fr": "Modèle viable pour l'agriculture urbaine sur les toits",
@@ -100,7 +89,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local food producers sharing sustainability values",
         "fr": "Producteurs alimentaires locaux partageant des valeurs de durabilité",
@@ -109,7 +98,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consumers seeking fresh local food online",
         "fr": "Consommateurs à la recherche de produits locaux frais en ligne",
@@ -118,7 +107,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Building owners for rooftop greenhouse space",
         "fr": "Propriétaires d'immeubles pour l'espace de serre en toiture",
@@ -127,7 +116,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small farmers needing distribution and logistics support",
         "fr": "Petits agriculteurs ayant besoin de soutien en distribution et logistique",
@@ -136,7 +125,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Cities to expand rooftop greenhouse model globally",
         "fr": "Villes pour étendre le modèle de serre en toiture à l'échelle mondiale",
@@ -148,7 +137,7 @@
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Lufa Farms was founded in Montreal by four co-founders, including Mohammed (Mo), who was originally from Lebanon. Mo was motivated by the lack of food chain transparency he experienced after leaving Lebanon.",
         "fr": "Lufa Farms a été fondée à Montréal par quatre co-fondateurs, dont Mohammed (Mo), originaire du Liban. Mo était motivé par le manque de transparence de la chaîne alimentaire qu'il avait vécu après avoir quitté le Liban.",
@@ -158,7 +147,7 @@
     },
     {
       "date": "2010-2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first commercial rooftop greenhouse was built in Montreal, proving the model was viable despite widespread skepticism. A building owner initially refused, then agreed after his wife and daughter endorsed the project.",
         "fr": "La première serre commerciale sur toit a été construite à Montréal, prouvant que le modèle était viable malgré un scepticisme généralisé. Un propriétaire d'immeuble a d'abord refusé, puis accepté après que sa femme et sa fille eurent approuvé le projet.",
@@ -168,7 +157,7 @@
     },
     {
       "date": "2013",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Lufa Farms partnered with a real estate developer in Laval to build a second greenhouse simultaneously with the construction of a new building, establishing a new model for integrated development.",
         "fr": "Lufa Farms s'est associée à un promoteur immobilier à Laval pour construire une deuxième serre simultanément à la construction d'un nouvel immeuble, établissant ainsi un nouveau modèle de développement intégré.",
@@ -178,7 +167,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The world's largest rooftop greenhouse, at 163,000 square feet, was built in Saint-Laurent on top of the company's distribution center, marking a major scale milestone.",
         "fr": "La plus grande serre sur toit du monde, d'une superficie de 163 000 pieds carrés, a été construite à Saint-Laurent sur le toit du centre de distribution de l'entreprise, marquant une étape majeure en termes d'échelle.",
@@ -188,7 +177,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the pandemic, demand surged as consumers became more conscious of local food systems, and Lufa expanded its network of partners including small producers like local bakeries struggling to reach customers.",
         "fr": "Durant la pandémie, la demande a explosé alors que les consommateurs prenaient davantage conscience des systèmes alimentaires locaux, et Lufa a élargi son réseau de partenaires incluant de petits producteurs comme des boulangeries locales ayant du mal à atteindre leurs clients.",
@@ -198,7 +187,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Lufa Farms celebrated its 15th anniversary, operating five rooftop greenhouses across Montreal and supplying approximately 2% of the city's food through its online marketplace.",
         "fr": "Lufa Farms a célébré son 15e anniversaire, exploitant cinq serres sur toit à travers Montréal et fournissant environ 2 % de l'alimentation de la ville via sa place de marché en ligne.",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754575913,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Centro de Agricultura Ecológica de Kenia (OAK) es una organización sin ánimo de lucro fundada en 2006, dedicada a promover prácticas de agricultura ecológica en el condado de Muranga. Desde 2007, OAK educa a los pequeños agricultores en métodos de agricultura sostenible, les proporciona apoyo técnico y les facilita el acceso a insumos orgánicos a través de su empresa hermana, Organic Kenya Ltd. (OAK). La iniciativa pretende mejorar la seguridad alimentaria, mejorar la salud del suelo y promover prácticas agrícolas respetuosas con el medio ambiente para lograr comunidades más sanas.",
     "de": "Das Organic Agriculture Centre of Kenya (OAK) ist eine im Jahr 2006 gegründete gemeinnützige Organisation, die sich der Förderung von organischen Anbaumethoden im Bezirk Muranga widmet. Seit 2007 hat OAK Kleinbauern über nachhaltige landwirtschaftliche Methoden aufgeklärt, technische Unterstützung geleistet und über seine Schwesterfirma Organic Kenya Ltd. den Zugang zu organischen Inputs erleichtert. Die Initiative zielt darauf ab, die Ernährungssicherheit zu verbessern, die Bodengesundheit zu erhöhen und umweltfreundliche Anbaumethoden für gesündere Gemeinden zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Gathuka Karauja"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://oack.or.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Organic Agriculture Centre of Kenya (OWAC) was founded and registered as an NGO by co-founders David Karanja and the late Stephen. Initial startup capital came from the founders' own contributions.",
         "fr": "Le Centre d'Agriculture Biologique du Kenya (OWAC) a été fondé et enregistré en tant qu'ONG par les cofondateurs David Karanja et feu Stephen. Le capital de démarrage initial provenait des contributions personnelles des fondateurs.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2007",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "OWAC began active field operations, training smallholder farmers on organic farming practices directly in their villages across central Kenya.",
         "fr": "OWAC a commencé ses opérations actives sur le terrain, formant les petits agriculteurs aux pratiques d'agriculture biologique directement dans leurs villages à travers le centre du Kenya.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2006-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Over 19 years of operations, OWAC expanded into six counties and reached over 20,000 smallholder farmers working in crops including tea, coffee, avocado, maize, and beans.",
         "fr": "Au cours de 19 années d'activités, OWAC s'est développé dans six comtés et a touché plus de 20 000 petits agriculteurs travaillant sur des cultures comprenant le thé, le café, l'avocat, le maïs et les haricots.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "~2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "OWAC launched a sister company, Organic Kenya Limited, to manufacture and sell ready-made organic fertilizers, biopesticides, foliar feeds, and animal dewormers to generate income and supplement NGO funding.",
         "fr": "OWAC a lancé une société sœur, Organic Kenya Limited, pour fabriquer et vendre des engrais biologiques prêts à l'emploi, des biopesticides, des engrais foliaires et des vermifuges pour animaux, afin de générer des revenus et de compléter le financement de l'ONG.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Muranga County, where OWAC is headquartered, became the first county in Kenya to enact an agroecology policy and act, with OWAC playing a key role in advocacy. The national government also launched a National Agroecology Strategy Plan.",
         "fr": "Le comté de Muranga, où OWAC a son siège, est devenu le premier comté du Kenya à adopter une politique et une loi sur l'agroécologie, OWAC ayant joué un rôle clé dans la plaidoirie. Le gouvernement national a également lancé un Plan stratégique national pour l'agroécologie.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "On-farm organic farming training for farmer groups",
         "fr": "Formation en agriculture biologique à la ferme pour les groupes d'agriculteurs",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration plots for hands-on organic learning",
         "fr": "Parcelles de démonstration pour l'apprentissage pratique de l'agriculture biologique",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Nutritional and cooking education to preserve nutrients",
         "fr": "Éducation nutritionnelle et culinaire pour préserver les nutriments",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Exchange visits between farmer groups across counties",
         "fr": "Visites d'échange entre groupes d'agriculteurs dans différents comtés",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organic fertilizers, biopesticides and dewormers for sale",
         "fr": "Engrais biologiques, biopesticides et vermifuges en vente",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Basic animal veterinary skills training for farmers",
         "fr": "Formation aux compétences vétérinaires de base pour les agriculteurs",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmer adoption of organic farming practices",
         "fr": "Adoption par les agriculteurs des pratiques d'agriculture biologique",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Like-minded organizations for joint projects",
         "fr": "Organisations partageant les mêmes idées pour des projets communs",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market linkages for organically grown produce",
         "fr": "Liens avec les marchés pour les produits cultivés biologiquement",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government policy support for agroecology",
         "fr": "Soutien des politiques gouvernementales en faveur de l'agroécologie",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Demo farms owned by OAC across counties",
         "fr": "Fermes de démonstration appartenant à l'OAC dans les comtés",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth engagement in organic agriculture",
         "fr": "Engagement des jeunes dans l'agriculture biologique",

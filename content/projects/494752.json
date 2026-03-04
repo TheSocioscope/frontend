@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1755006847,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de la Universidad Nacional del Litoral (UNL) se centra en la producción de alimentos fortificados a través de un programa de alimentación social que comenzó como respuesta a emergencias, como las inundaciones de 2003 en Santa Fe. El objetivo de la planta de alimentos es mejorar la nutrición de las poblaciones vulnerables mediante la elaboración de productos deshidratados ricos en nutrientes. Hace hincapié en la educación sobre la preparación de alimentos y la nutrición, colaborando con las comunidades locales para garantizar que los alimentos satisfagan sus necesidades al tiempo que se promueven prácticas sostenibles y la seguridad alimentaria.",
     "de": "Die Initiative an der Universidad Nacional del Litoral (UNL) konzentriert sich auf die Herstellung angereicherter Lebensmittel im Rahmen eines sozialen Lebensmittelprogramms, das als Reaktion auf Notfälle wie die Überschwemmungen in Santa Fe im Jahr 2003 ins Leben gerufen wurde. Die Nahrungsmittelfabrik zielt darauf ab, die Ernährung gefährdeter Bevölkerungsgruppen durch die Entwicklung dehydrierter, nährstoffreicher Produkte zu verbessern. Der Schwerpunkt liegt auf der Aufklärung über Lebensmittelzubereitung und Ernährung, wobei mit den lokalen Gemeinschaften zusammengearbeitet wird, um sicherzustellen, dass die Lebensmittel ihren Bedürfnissen entsprechen und gleichzeitig nachhaltige Praktiken und Ernährungssicherheit gefördert werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Reyna"
     }
   ],
-  "thematic": [
-    "education",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.unl.edu.ar/extension/alimentos-de-interes-social/",
   "yt": "ZGJFybsuB-U",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "1970s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Universidad Nacional del Litoral created a research group that later became the Institute of Food Technology, initially under the rectorate and focused on fortified foods for vulnerable populations.",
         "fr": "L'Universidad Nacional del Litoral a créé un groupe de recherche qui est devenu par la suite l'Institut de Technologie Alimentaire, initialement rattaché au rectorat et axé sur les aliments enrichis destinés aux populations vulnérables.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "1980s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Institute of Food Technology moved to the Faculty of Chemical Engineering, expanding work on food fortification including bread, cookies, milk, and soy milk for provincial health programs.",
         "fr": "L'Institut de Technologie Alimentaire a rejoint la Faculté de Génie Chimique, élargissant ses travaux sur la fortification alimentaire, notamment le pain, les biscuits, le lait et le lait de soja, dans le cadre de programmes de santé provinciaux.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2003",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Santa Fe flood submerged over one-third of the city, prompting the university to redesign its fortified food prototypes into shelf-stable, transportable, desiccated emergency rations aligned with FAO nutritional requirements.",
         "fr": "Les inondations de Santa Fe ont submergé plus d'un tiers de la ville, poussant l'université à reconcevoir ses prototypes d'aliments enrichis en rations d'urgence déshydratées, stables à température ambiante et transportables, conformes aux exigences nutritionnelles de la FAO.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2003-2007",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Following the 2003 and 2007 floods, the university began producing dehydrated foods in an artisanal way to supply evacuation shelters, laying the operational groundwork for a formal plant.",
         "fr": "À la suite des inondations de 2003 et 2007, l'université a commencé à produire des aliments déshydratés de manière artisanale pour approvisionner les centres d'évacuation, posant ainsi les bases opérationnelles d'une installation formelle.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "Post-2007",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A public-private partnership with Banco Credicoop enabled the acquisition of equipment and the formal establishment of the food plant, with the university contributing human resources and ongoing project funding.",
         "fr": "Un partenariat public-privé avec le Banco Credicoop a permis l'acquisition d'équipements et la création formelle de l'usine alimentaire, l'université apportant ses ressources humaines et le financement continu des projets.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The plant relocated to a new certified facility, expanded to seven product lines with a capacity of 50,000 rations per month, and launched a solidarity donor program while developing new formulations for elderly, children, and community kitchens.",
         "fr": "L'usine a été déplacée vers une nouvelle installation certifiée, étendue à sept lignes de produits avec une capacité de 50 000 rations par mois, et a lancé un programme de dons solidaires tout en développant de nouvelles formulations pour les personnes âgées, les enfants et les cuisines communautaires.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fortified dehydrated food rations for vulnerable populations",
         "fr": "Rations alimentaires déshydratées enrichies pour les populations vulnérables",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Food donations to community kitchens and soup kitchens",
         "fr": "Dons alimentaires aux cuisines communautaires et aux soupes populaires",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food handling courses with municipal government",
         "fr": "Cours de manipulation des aliments avec le gouvernement municipal",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New food formula development for elderly and children",
         "fr": "Développement de nouvelles formules alimentaires pour les personnes âgées et les enfants",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Nutritional education and cooking recipe guides",
         "fr": "Guides d'éducation nutritionnelle et de recettes de cuisine",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot plant model replicable by other universities",
         "fr": "Modèle d'usine pilote reproductible par d'autres universités",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic partner for animal protein development",
         "fr": "Partenaire stratégique pour le développement des protéines animales",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Dehydrated vegetable inputs from local school farm",
         "fr": "Intrants végétaux déshydratés provenant de la ferme scolaire locale",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Government institutions to purchase food rations",
         "fr": "Institutions gouvernementales pour l'achat de rations alimentaires",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Solidarity donors for ration bank program",
         "fr": "Donateurs solidaires pour le programme de banque de rations",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New formulas for elderly and infant nutrition",
         "fr": "Nouvelles formules pour la nutrition des personnes âgées et des nourrissons",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Universities to replicate food plant model",
         "fr": "Universités pour reproduire le modèle d'usine alimentaire",

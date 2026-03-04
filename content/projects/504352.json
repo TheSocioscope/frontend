@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "De la Chinampa rescues and conserves the traditional chinampa system in the ecological reserve of Xochimilco, a pre-hispanic sustainable agricultural system.",
     "de": "De la Chinampa rescues and conserves the traditional chinampa system in the ecological reserve of Xochimilco, a pre-hispanic sustainable agricultural system."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Mexico City",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Rodríguez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://delachinampa.mx/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ricardo Rodríguez founded De la Chinampa (originally called 'De la Chinampa Tu Mesa') with the initial motivation of restoring the axolotl population in Xochimilco. Upon arriving, he discovered commercialization challenges faced by local producers and pivoted to building a fair-trade bridge between chinamperos and consumers.",
         "fr": "Ricardo Rodríguez a fondé De la Chinampa (initialement appelée « De la Chinampa Tu Mesa ») avec la motivation première de restaurer la population d'axolotls à Xochimilco. À son arrivée, il a découvert les défis de commercialisation auxquels faisaient face les producteurs locaux et a réorienté son projet vers la création d'un pont de commerce équitable entre les chinamperos et les consommateurs.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2009",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "By 2009, the project had established relationships with nearly 20 top restaurants in Mexico, including chefs like Enrique Olvera and Jorge Vallejo, targeting high-profile clients to raise awareness about Xochimilco's agricultural heritage.",
         "fr": "En 2009, le projet avait établi des relations avec près de 20 grands restaurants au Mexique, dont des chefs comme Enrique Olvera et Jorge Vallejo, ciblant des clients de premier plan pour sensibiliser au patrimoine agricole de Xochimilco.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2009-2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Chef Patti Quintana became a key partner, inspiring the launch of immersive VIP ecological tours—now called 'De la Chinampa Experience'—featuring local clay tableware, chinampa-grown food, and canal boat rides to promote environmental consciousness.",
         "fr": "La cheffe Patti Quintana est devenue une partenaire clé, inspirant le lancement de visites écologiques VIP immersives — désormais appelées « De la Chinampa Experience » — mettant en vedette de la vaisselle locale en argile, des aliments cultivés sur les chinampas et des promenades en bateau sur les canaux pour promouvoir la conscience environnementale.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2008-2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Over 18 years, De la Chinampa restored approximately 10 chinampas and catalyzed numerous similar local initiatives, including kayak tours and producer-led experiences, establishing Ricardo as a pioneer in sustainable Xochimilco tourism.",
         "fr": "En 18 ans, De la Chinampa a restauré environ 10 chinampas et a catalysé de nombreuses initiatives locales similaires, notamment des tours en kayak et des expériences animées par des producteurs, établissant Ricardo comme un pionnier du tourisme durable à Xochimilco.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic severely impacted operations: the vegetable basket e-commerce distribution arm was suspended in 2022 after reaching a peak of 12 employees in 2021, forcing the company back to a core team of three people sustained solely by tour revenues.",
         "fr": "La pandémie de COVID-19 a gravement affecté les opérations : le bras de distribution e-commerce de paniers de légumes a été suspendu en 2022 après avoir atteint un pic de 12 employés en 2021, forçant l'entreprise à revenir à une équipe de base de trois personnes soutenue uniquement par les revenus des visites.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "De la Chinampa was formally incorporated as a company in 2023, with plans to relaunch its direct-to-consumer vegetable basket distribution and expand chinampa restoration, aiming to restore at least four more chinampas over the next decade.",
         "fr": "De la Chinampa a été officiellement constituée en société en 2023, avec des projets de relancement de sa distribution de paniers de légumes en vente directe aux consommateurs et d'expansion de la restauration des chinampas, visant à restaurer au moins quatre chinampas supplémentaires au cours de la prochaine décennie.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Ecological tours showcasing chinampa farming systems",
         "fr": "Visites écologiques présentant les systèmes agricoles des chinampas",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Direct delivery of local vegetable baskets",
         "fr": "Livraison directe de paniers de légumes locaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair trade links between producers and consumers",
         "fr": "Liens de commerce équitable entre producteurs et consommateurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Platform for local producers to gain visibility",
         "fr": "Plateforme de visibilité pour les producteurs locaux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero-waste VIP experiences with local tableware",
         "fr": "Expériences VIP zéro déchet avec de la vaisselle locale",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Large companies to buy chinampa harvests directly",
         "fr": "Grandes entreprises pour acheter directement les récoltes des chinampas",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local producers to restore and cultivate chinampas",
         "fr": "Producteurs locaux pour restaurer et cultiver les chinampas",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumers for home delivery vegetable baskets",
         "fr": "Consommateurs pour des paniers de légumes livrés à domicile",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Ecological restoration of abandoned chinampas",
         "fr": "Restauration écologique des chinampas abandonnées",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Verified local producers for fair trade network",
         "fr": "Producteurs locaux certifiés pour un réseau de commerce équitable",

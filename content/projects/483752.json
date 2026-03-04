@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754910406,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Les Glaneuses es una tienda de cero residuos, ultramarinos y droguería, todo en uno, situada en el distrito 11 de París. Fundada en diciembre de 2020, la tienda ofrece productos locales ecorresponsables de alta calidad sin envases, animando a los clientes a traer sus propios envases. Más allá de la venta de productos, sirve como centro comunitario para el intercambio y el aprendizaje, promoviendo la vida sostenible y la alimentación saludable al tiempo que fomenta las conexiones entre los residentes y los productores locales. También gestionan una tienda en línea, que permite a los clientes comprar por Internet.",
     "de": "Les Glaneuses ist ein Zero-Waste-Laden, Lebensmittelgeschäft und Drogerie in einem, der sich im 11. Der im Dezember 2020 eröffnete Laden bietet qualitativ hochwertige, umweltverträgliche und verpackungsfreie Produkte aus der Region an und ermutigt seine Kunden, ihre eigenen Behälter mitzubringen. Über den Verkauf von Waren hinaus dient der Laden als gemeinschaftlicher Knotenpunkt für Austausch und Lernen, der einen nachhaltigen Lebensstil und eine gesunde Ernährung fördert und gleichzeitig die Beziehungen zwischen Anwohnern und Erzeugern stärkt. Das Unternehmen betreibt auch einen Online-Shop, in dem die Kunden online einkaufen können."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Knittl"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "economy-business-markets-finance"
-  ],
+  "thematic": ["food-agriculture-fishery", "economy-business-markets-finance"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lesglaneuses.fr/",
   "yt": "yKMfK8g3Q5I",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Milena and her associate Jennifer met through ecology-focused social media networks, discovering they shared the same values. One wanted to open a grocery store focused on food, the other a zero-waste drugstore, and they decided to combine both concepts.",
         "fr": "Milena et son associée Jennifer se sont rencontrées via des réseaux sociaux axés sur l'écologie, découvrant qu'elles partageaient les mêmes valeurs. L'une souhaitait ouvrir une épicerie spécialisée dans l'alimentation, l'autre une droguerie zéro déchet, et elles ont décidé de combiner les deux concepts.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The preparation of the business project was slowed by the Covid-19 pandemic, adding approximately three months to the process. The founders spent around three months formalizing their business plan with support from state advisors (BGE) and secured a bank loan.",
         "fr": "La préparation du projet d'entreprise a été ralentie par la pandémie de Covid-19, ajoutant environ trois mois au processus. Les fondatrices ont passé environ trois mois à formaliser leur plan d'affaires avec le soutien de conseillers de l'État (BGE) et ont obtenu un prêt bancaire.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "December 2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Les Glaneuses officially opened in the 11th arrondissement of Paris on Avenue Voltaire, operating as a 60m² zero-waste grocery and drugstore SARL co-founded by Milena and Jennifer. The shop opened during the third lockdown, requiring closure at 6pm daily.",
         "fr": "Les Glaneuses ont officiellement ouvert dans le 11e arrondissement de Paris sur l'Avenue Voltaire, sous la forme d'une SARL d'épicerie et droguerie zéro déchet de 60m², cofondée par Milena et Jennifer. La boutique a ouvert durant le troisième confinement, imposant une fermeture quotidienne à 18h.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After approximately two years of operation, the business reached a stable footing and became well anchored in the neighborhood. The founders received financial subsidies from the local mayor's office twice under the sustainable food program.",
         "fr": "Après environ deux ans d'activité, l'entreprise a atteint une stabilité et s'est bien ancrée dans le quartier. Les fondatrices ont reçu des subventions financières de la mairie de quartier à deux reprises dans le cadre du programme d'alimentation durable.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "As of April 2025, Les Glaneuses employs three staff members including two alternating students and one part-time employee, and is actively planning to open a second location in Paris within approximately one year.",
         "fr": "En avril 2025, Les Glaneuses emploient trois membres du personnel, dont deux étudiants en alternance et un employé à temps partiel, et envisagent activement d'ouvrir un second établissement à Paris d'ici environ un an.",
@@ -104,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Package-free bulk food and household products",
         "fr": "Produits alimentaires et ménagers en vrac sans emballage",
@@ -113,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local seasonal produce from French farmers",
         "fr": "Produits locaux et saisonniers issus d'agriculteurs français",
@@ -122,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free community workshops and neighborhood events",
         "fr": "Ateliers communautaires gratuits et événements de quartier",
@@ -131,7 +120,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Advice and guidance on zero waste living",
         "fr": "Conseils et accompagnement pour un mode de vie zéro déchet",
@@ -140,7 +129,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training for young commerce students",
         "fr": "Formation pour les jeunes étudiants en commerce",
@@ -149,7 +138,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online shop for eco-responsible products",
         "fr": "Boutique en ligne de produits éco-responsables",
@@ -160,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local and regional bio producers",
         "fr": "Producteurs bio locaux et régionaux",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New customers seeking zero-waste lifestyle",
         "fr": "Nouveaux clients en quête d'un mode de vie zéro déchet",
@@ -178,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Neighborhood merchants for joint events",
         "fr": "Commerçants du quartier pour des événements communs",
@@ -187,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Local municipality sustainable food grants",
         "fr": "Subventions alimentaires durables de la municipalité locale",
@@ -196,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Second Paris shop location",
         "fr": "Deuxième emplacement de boutique à Paris",
@@ -205,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Suppliers reducing packaging and waste",
         "fr": "Fournisseurs réduisant les emballages et les déchets",

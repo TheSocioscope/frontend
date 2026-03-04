@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A creative media company dedicated to storytelling within agricultural and food systems through video production and digital storytelling.",
     "de": "A creative media company dedicated to storytelling within agricultural and food systems through video production and digital storytelling."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Worcester",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Brodie"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lucentlands.co.za;",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Lucent Lands Media was formally established as a media production company working exclusively in the agricultural sector. The company was founded by Louise Brodie, a career agricultural journalist, and Dewalt Kirsten, an award-winning agricultural photographer and videographer.",
         "fr": "Lucent Lands Media a été officiellement créée en tant que société de production médiatique travaillant exclusivement dans le secteur agricole. La société a été fondée par Louise Brodie, journaliste agricole de carrière, et Dewalt Kirsten, photographe et vidéaste agricole primé.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During COVID-19, Lucent Lands secured a major contract to conduct approximately 50 live-stream inspections between Chinese government officials and South African agricultural producers. This contract generated significant capital that enabled the company to purchase essential equipment and build its reputation.",
         "fr": "Durant la COVID-19, Lucent Lands a décroché un contrat majeur pour mener environ 50 inspections en direct entre des représentants du gouvernement chinois et des producteurs agricoles sud-africains. Ce contrat a généré un capital significatif qui a permis à la société d'acquérir du matériel essentiel et de bâtir sa réputation.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Lucent Lands produced a documentary about food systems on behalf of the Centre of Excellence, in collaboration with international research partners. This project deepened the company's understanding of the disconnect between local food production and community food access in the Breede River Valley.",
         "fr": "Lucent Lands a produit un documentaire sur les systèmes alimentaires pour le compte du Centre d'excellence, en collaboration avec des partenaires de recherche internationaux. Ce projet a approfondi la compréhension de la société sur le fossé entre la production alimentaire locale et l'accès des communautés à la nourriture dans la vallée de la Breede River.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Lucent Lands published its 100th podcast episode, reflecting consistent growth in its storytelling output and an expanding international audience including listeners from Brazil, Argentina, and New Zealand.",
         "fr": "Lucent Lands a publié son 100e épisode de podcast, témoignant d'une croissance constante de sa production narrative et d'un audience internationale en expansion, incluant des auditeurs du Brésil, d'Argentine et de Nouvelle-Zélande.",
@@ -93,7 +83,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Storytelling and documentary films about agriculture",
         "fr": "Films de narration et documentaires sur l'agriculture",
@@ -102,7 +92,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Promotional video productions for agricultural companies",
         "fr": "Productions vidéo promotionnelles pour les entreprises agricoles",
@@ -111,7 +101,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Podcast sharing stories from agricultural sector",
         "fr": "Podcast partageant des histoires du secteur agricole",
@@ -120,7 +110,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Live stream farm and packhouse inspections",
         "fr": "Inspections en direct des fermes et des stations de conditionnement",
@@ -129,7 +119,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documentary production for research institutions",
         "fr": "Production de documentaires pour les institutions de recherche",
@@ -138,7 +128,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Social media content for agricultural businesses",
         "fr": "Contenu pour les réseaux sociaux des entreprises agricoles",
@@ -149,7 +139,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agricultural sector clients for media contracts",
         "fr": "Clients du secteur agricole pour des contrats médias",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International audiences for English language podcast",
         "fr": "Audiences internationales pour le podcast en langue anglaise",
@@ -167,7 +157,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Social media management for agricultural companies",
         "fr": "Gestion des réseaux sociaux pour les entreprises agricoles",
@@ -176,7 +166,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Documentary production for research institutions",
         "fr": "Production de documentaires pour les institutions de recherche",
@@ -185,7 +175,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Technology companies for equipment procurement",
         "fr": "Entreprises technologiques pour l'approvisionnement en équipements",

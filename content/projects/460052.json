@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560006,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa es un proyecto internacional de investigación centrado en potenciar la sostenibilidad en el sector alimentario. Dirigido por el Instituto de Estudios Avanzados de París y el Centro de Ciencias de la Complejidad de Viena, su objetivo es identificar casos locales de producción sostenible en las distintas fases de la cadena alimentaria. El proyecto, financiado por la Fundación Nomis, cuenta con un equipo de entrevistadores en Argentina que documentarán y analizarán estas iniciativas, contribuyendo a una comprensión global de las prácticas sostenibles en la producción de alimentos.",
     "de": "Die Initiative ist ein internationales Forschungsprojekt, das sich auf die Verbesserung der Nachhaltigkeit im Lebensmittelsektor konzentriert. Das Projekt wird vom Institute for Advanced Studies in Paris und dem Centre for Complexity Sciences in Wien geleitet und zielt darauf ab, lokale Fälle nachhaltiger Produktion in verschiedenen Phasen der Lebensmittelkette zu identifizieren. Das von der Nomis-Stiftung finanzierte Projekt umfasst ein Team von Interviewern in Argentinien, die diese Initiativen dokumentieren und analysieren und so zu einem globalen Verständnis von nachhaltigen Praktiken in der Lebensmittelproduktion beitragen werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Schedlbauer"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "innovation-rd"
-  ],
+  "thematic": ["food-agriculture-fishery", "innovation-rd"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "kBypO2bulAE",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1985",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Manuela arrives in Argentina from Germany, originally for a short visit, and ends up staying three years working in film and editorial projects.",
         "fr": "Manuela arrive en Argentine depuis l'Allemagne, initialement pour une courte visite, et finit par y rester trois ans en travaillant sur des projets cinématographiques et éditoriaux.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Anton begins the Molino Mayal project in Bécar, importing a stone mill from Austria and spending nearly three years navigating regulatory approvals and habilitaciones.",
         "fr": "Anton lance le projet Molino Mayal à Bécar, en important un moulin à pierre d'Autriche et en passant près de trois ans à naviguer dans les approbations réglementaires et les habilitaciones.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Molino Mayal officially begins selling flour after obtaining required certifications; Manuela joins the project, contributing branding, marketing, and client relations.",
         "fr": "Molino Mayal commence officiellement à vendre de la farine après l'obtention des certifications requises ; Manuela rejoint le projet en apportant sa contribution en matière d'image de marque, de marketing et de relations clients.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2016-2017",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The mill establishes a supply relationship with the organic farming family Magadán in Bordenave and gains visibility after chef Diego Vegas visits and promotes their flour, leading to an invitation to the Masticar food fair.",
         "fr": "Le moulin établit une relation d'approvisionnement avec la famille d'agriculteurs biologiques Magadán à Bordenave et gagne en visibilité après la visite du chef Diego Vegas qui fait la promotion de leur farine, menant à une invitation au salon gastronomique Masticar.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The family faces its hardest year: the COVID-19 pandemic, Manuela's brain tumor diagnosis, Anton's COVID illness and spinal surgery, and a serious health episode affecting her father all occur simultaneously.",
         "fr": "La famille traverse sa pire année : la pandémie de COVID-19, le diagnostic de tumeur cérébrale de Manuela, la maladie de COVID d'Anton et son opération de la colonne vertébrale, ainsi qu'un grave épisode de santé touchant son père, surviennent tous simultanément.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Molino Mayal imports 10 tonnes of patented Austrian spelt seed via Germany, begins cultivating it in Coronel Suárez, and launches a new flour blend combining spelt with dried brewery bagasse, validated by the national INTI institute.",
         "fr": "Molino Mayal importe 10 tonnes de semences d'épeautre autrichien breveté via l'Allemagne, commence à les cultiver à Coronel Suárez et lance un nouveau mélange de farines combinant l'épeautre avec des drêches de brasserie séchées, validé par l'institut national INTI.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisanal stone-milled organic flour varieties",
         "fr": "Variétés de farines biologiques artisanales moulues sur pierre",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Spent grain repurposed into nutritious flour blend",
         "fr": "Drêches réutilisées en un mélange de farine nutritif",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Personalized direct relationship with clients",
         "fr": "Relation directe et personnalisée avec les clients",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Open mill visits to show production process",
         "fr": "Visites ouvertes du moulin pour présenter le processus de production",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific validation of products at INTI institute",
         "fr": "Validation scientifique des produits à l'institut INTI",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution to small stores, restaurants, and chefs",
         "fr": "Distribution dans les petites épiceries, restaurants et auprès des chefs",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Document local sustainable food production cases",
         "fr": "Documenter les cas locaux de production alimentaire durable",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Identify initiatives across four continents",
         "fr": "Identifier des initiatives sur quatre continents",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Promote circular use of food byproducts",
         "fr": "Promouvoir l'utilisation circulaire des sous-produits alimentaires",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand artisanal flour distribution channels",
         "fr": "Élargir les canaux de distribution de la farine artisanale",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Access financing for production machinery",
         "fr": "Accéder au financement pour les machines de production",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Grow espelta grain cultivation in Argentina",
         "fr": "Développer la culture du grain d'épeautre en Argentine",

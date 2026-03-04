@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754403425,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Biocompost es una empresa de gestión de residuos calificada con sede en Quito, establecida en 2018. Nos centramos en transformar los residuos orgánicos en compost, promoviendo un modelo de economía circular. Mediante la recolección de residuos de hogares y empresas, no solo reducimos las contribuciones a los vertederos, sino que también devolvemos el compost a nuestros clientes para la reforestación y las prácticas sostenibles. Nuestra iniciativa hace hincapié en la educación medioambiental y la implicación de la comunidad, con el objetivo de fomentar un compromiso colectivo para reducir la huella de carbono y mejorar la sostenibilidad alimentaria.",
     "de": "Biocompost ist ein qualifiziertes Abfallentsorgungsunternehmen mit Sitz in Quito, das 2018 gegründet wurde. Wir konzentrieren uns auf die Umwandlung von organischen Abfällen in Kompost und fördern damit ein zirkuläres Wirtschaftsmodell. Durch das Sammeln von Abfällen aus Haushalten und Unternehmen reduzieren wir nicht nur die Deponiebeiträge, sondern geben auch Kompost an unsere Kunden zur Wiederaufforstung und für nachhaltige Praktiken zurück. Our initiative emphasises environmental education and community involvement, aiming to foster a collective commitment to reducing carbon footprints and enhancing food sustainability."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Mayorga"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.biocompost.net/",
   "yt": "U4S5M4p58Lc",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Biocompost was founded in Quito by Karla and Francisca, starting with household-level organic waste collection. They launched with a single pickup truck, a website, and social media presence, becoming pioneers in composting services in the city.",
         "fr": "Biocompost a été fondée à Quito par Karla et Francisca, en commençant par la collecte de déchets organiques ménagers. Elles ont lancé l'activité avec un seul camion, un site web et une présence sur les réseaux sociaux, devenant des pionnières dans les services de compostage dans la ville.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "During the pandemic, household engagement with organic waste management increased significantly. Biocompost saw a surge in family subscriptions as people became more conscious of what to do with their organic residues.",
         "fr": "Durant la pandémie, l'engagement des ménages dans la gestion des déchets organiques a considérablement augmenté. Biocompost a connu une forte hausse des abonnements familiaux, les gens prenant davantage conscience de la gestion de leurs résidus organiques.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A major Ecuadorian company approached Biocompost to manage their organic waste, marking the pivotal shift from residential to industrial-scale operations. This partnership transformed their processes and volume capacity substantially.",
         "fr": "Une grande entreprise équatorienne a contacté Biocompost pour gérer ses déchets organiques, marquant le tournant décisif du passage des opérations résidentielles à l'échelle industrielle. Ce partenariat a transformé de manière significative leurs processus et leur capacité de traitement en volume.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2022-present",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Biocompost scaled to processing 500 tonnes of organic waste per month, partnering with over 30 large companies and employing 15 full-time staff across multiple collection points in Quito.",
         "fr": "Biocompost a atteint une capacité de traitement de 500 tonnes de déchets organiques par mois, en partenariat avec plus de 30 grandes entreprises et en employant 15 salariés à temps plein répartis sur plusieurs points de collecte à Quito.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company operates a closed-loop circular economy model, returning compost to companies for redistribution to their agricultural suppliers and conducting reforestation projects, including donations following wildfires near Cayambe.",
         "fr": "L'entreprise opère selon un modèle d'économie circulaire en boucle fermée, restituant le compost aux entreprises pour redistribution à leurs fournisseurs agricoles et menant des projets de reboisement, notamment des dons à la suite d'incendies de forêt près de Cayambe.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "future",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Biocompost is actively pursuing expansion into Guayaquil targeting corporate clients, and exploring organic compost certification and potential transition to renewable energy at a company-owned facility.",
         "fr": "Biocompost poursuit activement son expansion vers Guayaquil en ciblant des clients entreprises, et explore la certification du compost organique ainsi qu'une éventuelle transition vers les énergies renouvelables dans un établissement appartenant à la société.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Collection and composting of organic waste",
         "fr": "Collecte et compostage des déchets organiques",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Compost returned to households and companies",
         "fr": "Compost redistribué aux ménages et aux entreprises",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental training for company staff",
         "fr": "Formation environnementale pour le personnel des entreprises",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Compost donated for reforestation projects",
         "fr": "Compost offert pour des projets de reboisement",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Monthly carbon footprint reduction certificates",
         "fr": "Certificats mensuels de réduction de l'empreinte carbone",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Circular economy model support for businesses",
         "fr": "Soutien au modèle d'économie circulaire pour les entreprises",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate clients for organic waste collection",
         "fr": "Clients corporatifs pour la collecte des déchets organiques",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Household subscribers for composting program",
         "fr": "Abonnés résidentiels pour le programme de compostage",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into Guayaquil business market",
         "fr": "Expansion sur le marché des entreprises de Guayaquil",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Certification as organic compost generator",
         "fr": "Certification en tant que producteur de compost organique",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Lab analysis for compost quality standards",
         "fr": "Analyse en laboratoire pour les normes de qualité du compost",

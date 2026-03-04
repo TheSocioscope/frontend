@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755087898,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Greencycle es una startup innovadora, centrada en revolucionar el sector agrícola en Perú. Al proporcionar identificaciones digitales, o \"pasaportes alimentarios\", para los productos agrícolas, Greencycle garantiza la seguridad, calidad y sostenibilidad de los alimentos a lo largo de toda la cadena de producción. Colaborando con 25.000 agricultores, la iniciativa pretende mejorar los ingresos de los agricultores, combatir la deforestación y mejorar la seguridad alimentaria, contribuyendo en última instancia a un sistema alimentario más sano y a una mejor calidad de vida para las comunidades.",
     "de": "Greencycle ist ein innovatives Start-up-Unternehmen, das sich darauf konzentriert, den Agrarsektor in Peru zu revolutionieren. Durch die Bereitstellung digitaler Identifikationen oder \"Lebensmittelpässe\" für landwirtschaftliche Produkte gewährleistet Greencycle die Sicherheit, Qualität und Nachhaltigkeit von Lebensmitteln in der gesamten Produktionskette. Durch die Zusammenarbeit mit 25 000 Landwirten will die Initiative die Einkommen der Landwirte verbessern, die Abholzung der Wälder bekämpfen und die Lebensmittelsicherheit erhöhen, was letztlich zu einem gesünderen Lebensmittelsystem und einer besseren Lebensqualität für die Gemeinschaften beiträgt."
   },
-  "field": [
-    "information-technology",
-    "nutrition"
-  ],
+  "field": ["information-technology", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,14 +33,9 @@
       "lastname": "ELEAZAR VILLAFUERTE ALARCON"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://greencycle.tech/",
   "yt": "lFl_Kv_yMnQ",
   "editedAt": 1755739578,
@@ -57,14 +45,12 @@
       "at": 1755739578
     }
   ],
-  "updatedAt": [
-    1755739578
-  ],
+  "updatedAt": [1755739578],
   "originalLang": "en",
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "GreenCycle was founded by four co-founders who met at a hackathon focused on agriculture, initially developing a solution for the cacao sector before expanding to a multi-product platform.",
         "fr": "GreenCycle a été fondée par quatre co-fondateurs qui se sont rencontrés lors d'un hackathon axé sur l'agriculture, développant initialement une solution pour le secteur du cacao avant de s'étendre à une plateforme multi-produits.",
@@ -74,7 +60,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "GreenCycle won the Startup Perú fund from the Ministry of Production, which helped validate early assumptions and build credibility in the agricultural sector.",
         "fr": "GreenCycle a remporté le fonds Startup Perú du ministère de la Production, ce qui a contribué à valider les premières hypothèses et à renforcer sa crédibilité dans le secteur agricole.",
@@ -84,7 +70,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "GreenCycle secured partnerships and funding from international organizations including KOICA (South Korea), JICA (Japan), Héroes Anónimos (Poland), and the FAO, in exchange for delivering measurable social and environmental impact indicators.",
         "fr": "GreenCycle a conclu des partenariats et obtenu des financements d'organisations internationales, notamment la KOICA (Corée du Sud), la JICA (Japon), Héroes Anónimos (Pologne) et la FAO, en échange de la fourniture d'indicateurs d'impact social et environnemental mesurables.",
@@ -94,7 +80,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The company scaled to 25,000 farmers and over 100 partner companies across Peru, while refining its go-to-market strategy from individual farmers to cooperatives to accelerate growth.",
         "fr": "L'entreprise a étendu son activité à 25 000 agriculteurs et plus de 100 entreprises partenaires à travers le Pérou, tout en affinant sa stratégie de mise sur le marché, passant des agriculteurs individuels aux coopératives pour accélérer sa croissance.",
@@ -104,7 +90,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "After growing to 13 employees, GreenCycle restructured down to 7, recognizing that headcount growth did not equate to productivity and that resources had been allocated inefficiently.",
         "fr": "Après avoir atteint 13 employés, GreenCycle a restructuré ses effectifs à 7, reconnaissant que la croissance du nombre de salariés n'était pas synonyme de productivité et que les ressources avaient été allouées de manière inefficace.",
@@ -114,7 +100,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The EU Green Deal regulation requiring proof of zero-deforestation for exports of cacao, coffee, palm, and soy accelerated adoption of GreenCycle's platform, with the company targeting expansion into Colombia, Chile, and Central America.",
         "fr": "La réglementation du Pacte vert européen exigeant la preuve de zéro déforestation pour les exportations de cacao, de café, de palme et de soja a accéléré l'adoption de la plateforme de GreenCycle, l'entreprise ciblant une expansion en Colombie, au Chili et en Amérique centrale.",
@@ -125,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Digital food passports for export markets",
         "fr": "Passeports alimentaires numériques pour les marchés d'exportation",
@@ -134,7 +120,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Traceability system guaranteeing inocuity and sustainability",
         "fr": "Système de traçabilité garantissant l'innocuité et la durabilité",
@@ -143,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Regulatory compliance guidance for farming cooperatives",
         "fr": "Accompagnement à la conformité réglementaire pour les coopératives agricoles",
@@ -152,7 +138,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Digital identity and visibility for smallholder farmers",
         "fr": "Identité numérique et visibilité pour les petits agriculteurs",
@@ -161,7 +147,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Impact indicators for international funding organizations",
         "fr": "Indicateurs d'impact pour les organisations internationales de financement",
@@ -172,7 +158,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand to more agricultural cooperatives in Peru",
         "fr": "S'étendre à davantage de coopératives agricoles au Pérou",
@@ -181,7 +167,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances to close full export cycle",
         "fr": "Alliances stratégiques pour clôturer le cycle d'exportation complet",
@@ -190,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Faster technology adoption via deforestation regulations",
         "fr": "Adoption technologique accélérée grâce aux réglementations sur la déforestation",
@@ -199,7 +185,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "International impact funds from global organizations",
         "fr": "Fonds d'impact international provenant d'organisations mondiales",
@@ -208,7 +194,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International expansion to Central America and Colombia",
         "fr": "Expansion internationale vers l'Amérique centrale et la Colombie",
@@ -217,7 +203,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Measure and report social and environmental impact indicators",
         "fr": "Mesurer et rapporter les indicateurs d'impact social et environnemental",

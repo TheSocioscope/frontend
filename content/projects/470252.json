@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754658034,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Asociación Alimentaria de Bwyd Sir Gar es una iniciativa local de Carmarthenshire, Gales Occidental, creada durante la pandemia de COVID. Como miembro de Sustainable Food Places, su objetivo es crear un sistema alimentario diverso, integrador y sostenible mediante la colaboración con las comunidades y las partes interesadas. La asociación se centra en proyectos que mejoran el acceso a los alimentos, promueven el abastecimiento local y empoderan a las comunidades desfavorecidas, garantizando que todo el mundo tenga acceso a alimentos sanos y sostenibles y fomentando al mismo tiempo el compromiso y la resiliencia de la comunidad.",
     "de": "Die Bwyd Sir Gar Food Partnership ist eine lokale Initiative in Carmarthenshire, West Wales, die während der COVID-Pandemie gegründet wurde. Als Mitglied von Sustainable Food Places will sie durch die Zusammenarbeit mit Gemeinden und Interessenvertretern ein vielfältiges, integratives und nachhaltiges Ernährungssystem schaffen. The partnership focuses on projects that enhance food access, promote local sourcing, and empower disadvantaged communities, ensuring that everyone has access to healthy, sustainable food while fostering community engagement and resilience."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Cook & Augusta Lewis & Piers Lunt"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.bwydsirgarfood.org",
   "yt": "_SVDLulEtSE",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020-2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "During the COVID pandemic, CAVS (Association of Voluntary Services) ran online network establishment events to develop a local food network in Carmarthenshire, bringing together community food initiatives, restaurants, and cafes. This marked the founding of what would become the Local Food Partnership.",
         "fr": "Pendant la pandémie de COVID, le CAVS (Association des services bénévoles) a organisé des événements en ligne pour établir un réseau visant à développer un réseau alimentaire local dans le Carmarthenshire, en rassemblant des initiatives alimentaires communautaires, des restaurants et des cafés. Cela a marqué la fondation de ce qui allait devenir le Partenariat alimentaire local.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "~2021-2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Sustainable Food Places programme was identified as a natural fit for the network, and a strategic steering group was formed alongside the grassroots Food Network. A coordinator role was funded, with Augusta Lewis appointed to help formalise the partnership.",
         "fr": "Le programme Sustainable Food Places a été identifié comme correspondant naturellement au réseau, et un groupe de pilotage stratégique a été formé aux côtés du Réseau alimentaire de base. Un poste de coordinateur a été financé, avec Augusta Lewis nommée pour aider à formaliser le partenariat.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "~2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Food Partnership launched the Food System Development Project with three strands: communications and community food movement building, strategic use of public land at the county farm in Llanarthney, and enabling inclusive access in deprived communities. The project drew down approximately £1.2–1.3 million via the UK Shared Prosperity Fund.",
         "fr": "Le Partenariat alimentaire a lancé le Projet de développement du système alimentaire avec trois axes : la communication et le développement du mouvement alimentaire communautaire, l'utilisation stratégique des terres publiques à la ferme du comté à Llanarthney, et la facilitation d'un accès inclusif dans les communautés défavorisées. Le projet a mobilisé environ 1,2 à 1,3 million de livres sterling via le Fonds de prospérité partagée du Royaume-Uni.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "~2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The county council farm began organic market gardening on a two-acre plot, producing 6.5 tonnes of food from roughly a third of an acre in its first growing season. Produce was distributed to schools, care homes, local businesses, food banks, and Fair Share Cymru.",
         "fr": "La ferme du conseil de comté a commencé le maraîchage biologique sur une parcelle de deux acres, produisant 6,5 tonnes de nourriture à partir d'environ un tiers d'acre lors de sa première saison de culture. Les produits ont été distribués aux écoles, aux maisons de retraite, aux entreprises locales, aux banques alimentaires et à Fair Share Cymru.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~2022-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Social Farms and Gardens facilitated a Welsh government grant to establish a machinery ring hosted at the farm, providing shared small-scale and field-scale growing equipment to growers across Carmarthenshire and neighbouring counties via an online booking platform.",
         "fr": "Social Farms and Gardens a facilité l'obtention d'une subvention du gouvernement gallois pour créer un anneau de machines hébergé à la ferme, fournissant des équipements agricoles partagés à petite et grande échelle aux producteurs du Carmarthenshire et des comtés voisins via une plateforme de réservation en ligne.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Next 3-5 years",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The Food Partnership plans to bid for the farm tenancy within three to four years, onboard a full-time volunteer coordinator, and work toward measurable targets in the Food Strategy, including higher percentages of sustainably accredited food across all public sector partners.",
         "fr": "Le Partenariat alimentaire prévoit de soumissionner pour la location de la ferme dans trois à quatre ans, d'intégrer un coordinateur bénévole à temps plein, et de travailler vers des objectifs mesurables dans la Stratégie alimentaire, incluant des pourcentages plus élevés d'alimentation durablement certifiée auprès de tous les partenaires du secteur public.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic local produce for schools and care homes",
         "fr": "Produits biologiques locaux pour les écoles et les maisons de soins",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community garden with roundhouse for groups",
         "fr": "Jardin communautaire avec maison ronde pour les groupes",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Farm-based education for schools and community groups",
         "fr": "Éducation à la ferme pour les écoles et les groupes communautaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Shared machinery ring for local growers",
         "fr": "Anneau de machines partagées pour les producteurs locaux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Public procurement pilots for local food supply",
         "fr": "Projets pilotes d'approvisionnement public pour la fourniture alimentaire locale",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free nutritional awareness training for teachers",
         "fr": "Formation gratuite à la sensibilisation nutritionnelle pour les enseignants",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Stable long-term funding beyond annual grant cycles",
         "fr": "Financement stable à long terme au-delà des cycles annuels de subventions",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic buy-in from local Health Board",
         "fr": "Adhésion stratégique du Conseil de santé local",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Alignment with council food strategy implementation",
         "fr": "Alignement avec la mise en œuvre de la stratégie alimentaire du conseil",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded public sector markets for local produce",
         "fr": "Marchés du secteur public élargis pour les produits locaux",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farm tenancy to secure site long-term",
         "fr": "Bail agricole pour sécuriser le site à long terme",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Full-time volunteer coordinator for community programs",
         "fr": "Coordinateur de bénévoles à temps plein pour les programmes communautaires",
@@ -256,9 +246,7 @@
     }
   ],
   "editedAt": 1771239341,
-  "updatedAt": [
-    1771239341
-  ],
+  "updatedAt": [1771239341],
   "feedback": [
     {
       "content": false,

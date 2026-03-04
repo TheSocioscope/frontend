@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754662660,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La Granja Comunitaria de Oakbrook, creada por el Biodynamic Land Trust, tiene como objetivo promover la agricultura biodinámica al tiempo que fomenta las conexiones de la comunidad con los alimentos y la naturaleza. La granja, que ocupa un terreno de 42 acres, utiliza un modelo de sociedad en beneficio de la comunidad, arrendando la tierra a varios arrendatarios que se adhieren a los principios biodinámicos. La iniciativa se centra en la agricultura sostenible, la educación y la asistencia social, creando un entorno propicio para las iniciativas alimentarias locales y mejorando el bienestar de la comunidad mediante prácticas terapéuticas.",
     "de": "Die vom Biodynamic Land Trust gegründete Oakbrook Community Farm zielt darauf ab, die biodynamische Landwirtschaft zu fördern und gleichzeitig die Verbindung der Gemeinschaft mit Lebensmitteln und der Natur zu stärken. Die Farm, die auf einem 42-Morgen-Gelände betrieben wird, nutzt ein Modell der Gemeinnützigen Gesellschaft und verleast Land an verschiedene Pächter, die sich an biodynamische Prinzipien halten. Die Initiative konzentriert sich auf nachhaltige Landwirtschaft, Bildung und Sozialfürsorge, schafft ein unterstützendes Umfeld für lokale Lebensmittelinitiativen und fördert das Wohlbefinden der Gemeinschaft durch therapeutische Praktiken."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Lambert"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://oakbrookfarm.org.uk/projects/",
   "yt": "SG_XrLBg-MI",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015-2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Biodynamic Land Trust purchased 42 acres of fields with no existing infrastructure. The Stroud Microdairy became the first tenant, taking on the whole of the land around 2016.",
         "fr": "Le Biodynamic Land Trust a acheté 42 acres de champs sans infrastructure existante. La Stroud Microdairy est devenue la première locataire, prenant en charge l'ensemble des terres aux alentours de 2016.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Oakbrook Community Benefit Society was formally established and launched a share offer, raising approximately £120,000 as seed funding for infrastructure. A two-day visioning event was held with Marina O'Connell from the Apricot Centre.",
         "fr": "La société Oakbrook Community Benefit Society a été officiellement créée et a lancé une offre d'actions, levant environ 120 000 £ en tant que financement initial pour l'infrastructure. Un événement de vision de deux jours a été organisé avec Marina O'Connell du Centre Apricot.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Additional tenants and enterprises joined the farm, including Zero Dig, Stroud Community Agriculture, a bee observatory, and an agroforestry orchard scheme, expanding the farm toward its multi-tenant model.",
         "fr": "Des locataires et des entreprises supplémentaires ont rejoint la ferme, notamment Zero Dig, Stroud Community Agriculture, un observatoire des abeilles et un projet de verger en agroforesterie, développant la ferme vers son modèle multi-locataires.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Stroud Microdairy folded after failing to recover sales following the COVID-19 lockdown, ending eight years of tenancy and leaving the grazing land in need of new management solutions.",
         "fr": "La Stroud Microdairy a fermé après avoir échoué à relancer ses ventes suite au confinement lié au COVID-19, mettant fin à huit ans de location et laissant les pâturages dans le besoin de nouvelles solutions de gestion.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The barn was completed and divided into units leased to six businesses, providing a new revenue stream and community space, though formal planning permission for community use was still pending.",
         "fr": "La grange a été achevée et divisée en unités louées à six entreprises, offrant une nouvelle source de revenus et un espace communautaire, bien que le permis de construire officiel pour un usage communautaire soit encore en attente.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Stroud Community Agriculture began extending its plot from just over one acre to approximately eight acres, incorporating an agroforestry scheme, while the farm sought planning support for broader community and social prescribing activities.",
         "fr": "Stroud Community Agriculture a commencé à étendre sa parcelle de juste un peu plus d'un acre à environ huit acres, en intégrant un projet d'agroforesterie, tandis que la ferme cherchait un soutien en matière d'urbanisme pour des activités communautaires et de prescription sociale plus larges.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Land access for local growers and farmers",
         "fr": "Accès à la terre pour les cultivateurs et agriculteurs locaux",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Beacon of biodynamic farming practice",
         "fr": "Phare de la pratique agricole biodynamique",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Community connection to food and nature",
         "fr": "Lien communautaire avec la nourriture et la nature",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School visits and outdoor learning programs",
         "fr": "Visites scolaires et programmes d'apprentissage en plein air",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Barn units leased to small food businesses",
         "fr": "Unités de grange louées à de petites entreprises alimentaires",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Social prescribing and therapeutic farm access",
         "fr": "Prescription sociale et accès thérapeutique à la ferme",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Tenants meeting biodynamic farming criteria",
         "fr": "Locataires répondant aux critères de l'agriculture biodynamique",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for infrastructure and core staffing",
         "fr": "Subventions pour les infrastructures et le personnel essentiel",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Task-specific volunteers for community outreach",
         "fr": "Bénévoles spécialisés pour la sensibilisation communautaire",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Planning permission for change of use",
         "fr": "Permis d'urbanisme pour changement d'usage",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Social prescribing referrals from local GPs",
         "fr": "Orientations de prescription sociale par les médecins généralistes locaux",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Grazing land management after dairy closure",
         "fr": "Gestion des terres de pâturage après la fermeture de la laiterie",

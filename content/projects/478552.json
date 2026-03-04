@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "united-states"
-  ],
+  "continent": ["north-america"],
+  "country": ["united-states"],
   "createdAt": 1754652906,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Cadena de Cereales de Colorado es una iniciativa destinada a establecer una economía sostenible de cereales en Colorado. Pone en contacto a pequeños productores de cereales, molineros, panaderos y destiladores para promover los cereales tradicionales y autóctonos. La organización facilita el acceso al mercado, proporciona recursos para el procesado del grano y organiza actos comunitarios para concienciar sobre los beneficios nutricionales y medioambientales de la producción diversa de grano. Mediante la colaboración, pretende revitalizar la agricultura local y reforzar los lazos comunitarios.",
     "de": "Die Colorado Grain Chain ist eine Initiative, die auf die Schaffung einer nachhaltigen Getreidewirtschaft in Colorado abzielt. Sie verbindet kleine Getreidebauern, Mühlen, Bäcker und Brennereien, um traditionelle und alte Getreidesorten zu fördern. Die Organisation erleichtert den Marktzugang, stellt Ressourcen für die Getreideverarbeitung zur Verfügung und veranstaltet Gemeindeveranstaltungen, um das Bewusstsein für die ernährungsphysiologischen und ökologischen Vorteile einer vielfältigen Getreideproduktion zu schärfen. Durch die Zusammenarbeit soll die lokale Landwirtschaft wiederbelebt und die Beziehungen zwischen den Gemeinden gestärkt werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Wroe"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "economy-business-markets-finance"
-  ],
+  "thematic": ["food-agriculture-fishery", "economy-business-markets-finance"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.coloradograinchain.com/grain_finder",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Colorado Grain Chain was founded following conversations at the Colorado Grain School hosted by the University of Colorado Colorado Springs and the Rocky Mountain Farmers Union. It emerged from a recognized need to connect independent growers, millers, and makers who were working in isolation.",
         "fr": "La Colorado Grain Chain a été fondée à la suite de conversations tenues lors de la Colorado Grain School, organisée par l'Université du Colorado Colorado Springs et la Rocky Mountain Farmers Union. Elle est née d'un besoin reconnu de connecter des producteurs, des meuniers et des artisans indépendants qui travaillaient de manière isolée.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2017-2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The organization initially operated as a volunteer-led, membership-based group and struggled to gain traction due to limited funding and difficulty coordinating busy small-business owners. After approximately two years, it began gaining momentum from significant grower and maker interest across the state.",
         "fr": "L'organisation a d'abord fonctionné comme un groupe bénévole à adhésion et a eu du mal à prendre de l'élan en raison d'un financement limité et de la difficulté à coordonner des propriétaires de petites entreprises très occupés. Après environ deux ans, elle a commencé à gagner en dynamisme grâce à l'intérêt marqué des producteurs et des artisans à travers l'État.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2019-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Colorado Grain Chain transitioned to a 501c3 nonprofit structure, unlocking access to public and private grant funding including support from the Walton Family Foundation. This shift also enabled the hiring of full-time staff, including an executive director and marketing director.",
         "fr": "La Colorado Grain Chain a adopté une structure à but non lucratif 501c3, ouvrant l'accès à des financements publics et privés, notamment le soutien de la Walton Family Foundation. Ce changement a également permis l'embauche de personnel à temps plein, dont un directeur exécutif et un directeur marketing.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization launched a micro-grant program funded through a USDA grant, providing small-scale financial support to growers, beverage makers, and supply chain intermediaries across Colorado.",
         "fr": "L'organisation a lancé un programme de micro-subventions financé par une subvention de l'USDA, offrant un soutien financier à petite échelle aux producteurs, aux fabricants de boissons et aux intermédiaires de la chaîne d'approvisionnement à travers le Colorado.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Colorado Grain Chain hosted its first Grain Summit in Salida, Colorado, attracting 175 participants against an expectation of 50 to 75, demonstrating strong community appetite for grain education and networking.",
         "fr": "La Colorado Grain Chain a organisé son premier Grain Summit à Salida, Colorado, attirant 175 participants alors que les prévisions tablaient sur 50 à 75 personnes, témoignant d'un fort engouement de la communauté pour l'éducation et le réseautage autour des céréales.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization began developing impact measurement frameworks in collaboration with partners such as MAD Agriculture and the Rodale Institute, while diversifying funding sources to build organizational resilience amid broader economic uncertainty.",
         "fr": "L'organisation a commencé à développer des cadres de mesure d'impact en collaboration avec des partenaires tels que MAD Agriculture et le Rodale Institute, tout en diversifiant ses sources de financement afin de renforcer sa résilience organisationnelle face à une incertitude économique plus large.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Connects grain growers with buyers and makers",
         "fr": "Met en relation les producteurs de céréales avec les acheteurs et les fabricants",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Hosts grain summits and community events",
         "fr": "Organise des sommets sur les céréales et des événements communautaires",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Educates bakers, millers, brewers on grain varieties",
         "fr": "Informe les boulangers, meuniers et brasseurs sur les variétés de céréales",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Micro-grants to support small-scale growers",
         "fr": "Micro-subventions pour soutenir les petits producteurs",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Sources heirloom and heritage grains locally",
         "fr": "S'approvisionne localement en céréales anciennes et patrimoniales",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develops environmental impact metrics for grain farming",
         "fr": "Développe des indicateurs d'impact environnemental pour l'agriculture céréalière",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for grain supply chain integration",
         "fr": "Collaborateurs pour l'intégration de la chaîne d'approvisionnement en céréales",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants to support small grain growers",
         "fr": "Subventions pour soutenir les petits producteurs de céréales",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for specialty and heirloom Colorado grains",
         "fr": "Acheteurs pour les céréales spécialisées et patrimoniales du Colorado",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Restaurants and retailers to stock local grains",
         "fr": "Restaurants et détaillants pour stocker les céréales locales",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Shared environmental impact measurement frameworks",
         "fr": "Cadres partagés de mesure de l'impact environnemental",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community members to join grain education events",
         "fr": "Membres de la communauté pour participer aux événements d'éducation sur les céréales",

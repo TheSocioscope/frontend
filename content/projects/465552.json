@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754475894,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa es un proyecto agroecológico comunitario centrado en la educación medioambiental y la vida sostenible. Fundado en 1998, ha evolucionado hasta incluir programas de voluntariado, talleres y retiros que promueven la autosuficiencia y la responsabilidad social. El proyecto hace hincapié en la importancia de fomentar las conexiones entre las personas y la naturaleza, al tiempo que aborda retos relacionados con la gobernanza, la sostenibilidad económica y el compromiso de la comunidad. Sus planes de futuro incluyen el desarrollo de una ecoaldea para aumentar su impacto y alcance.",
     "de": "The initiative is a community-driven agroecological project focused on environmental education and sustainable living. Sie wurde 1998 gegründet und hat sich zu Freiwilligenprogrammen, Workshops und Rückzugsorten entwickelt, die Selbstversorgung und soziale Verantwortung fördern. Das Projekt betont die Bedeutung der Förderung von Verbindungen zwischen Mensch und Natur, während es gleichzeitig Herausforderungen in Bezug auf Governance, wirtschaftliche Nachhaltigkeit und kommunales Engagement adressiert. Ihre Zukunftspläne beinhalten die Entwicklung eines Öko-Dorfes, um ihre Wirkung und Reichweite zu erhöhen."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change"
-  ],
+  "thematic": ["ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.fincalaflor.org/",
   "yt": "dElnwP7RDB8",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1998",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Brigitte, a German social worker, used an inheritance to purchase land in Costa Rica and founded Finca Agroecológica La Flor alongside her partner Ana Rosa, an educator. They began outreach to schools to teach environmental awareness and enrolled in the Organic Farming Institute (INA).",
         "fr": "Brigitte, une travailleuse sociale allemande, a utilisé un héritage pour acheter un terrain au Costa Rica et a fondé la Finca Agroecológica La Flor avec sa partenaire Ana Rosa, une éducatrice. Elles ont commencé à sensibiliser les écoles à la conscience environnementale et se sont inscrites à l'Institut d'agriculture biologique (INA).",
@@ -63,7 +53,7 @@
     },
     {
       "date": "early 2000s",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm partnered with German organization AFS, which sent four to six groups per year of 20 to 40 students for intensive Spanish learning programs. This generated thousands of dollars annually and funded infrastructure including cabins and roads.",
         "fr": "La ferme s'est associée à l'organisation allemande AFS, qui envoyait quatre à six groupes par an de 20 à 40 étudiants pour des programmes intensifs d'apprentissage de l'espagnol. Cela générait des milliers de dollars par an et finançait des infrastructures, notamment des cabines et des routes.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2001-2008",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The farm expanded its volunteer program and began receiving university groups for environmental field trips alongside the AFS partnership, establishing the dual model of educational visits and residential volunteers.",
         "fr": "La ferme a élargi son programme de bénévolat et a commencé à accueillir des groupes universitaires pour des excursions scolaires environnementales en parallèle du partenariat AFS, établissant ainsi le double modèle de visites éducatives et de bénévoles résidentiels.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Stephen arrived as a volunteer while studying at the Organic Farming Institute, beginning an eight-year on-and-off relationship with the farm that eventually led to him managing administration, finances, and programs.",
         "fr": "Stephen est arrivé comme bénévole tout en étudiant à l'Institut d'agriculture biologique, commençant une relation de huit ans, faite d'allers-retours, avec la ferme, qui l'a finalement conduit à gérer l'administration, les finances et les programmes.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Mauricio, a retired Colombian engineer, bought a share of the land from Brigitte and entered a co-ownership arrangement covering the full farm including forest, providing Brigitte with long-term financial stability.",
         "fr": "Mauricio, un ingénieur colombien à la retraite, a acheté une part du terrain à Brigitte et a conclu un accord de copropriété couvrant l'ensemble de la ferme, y compris la forêt, offrant à Brigitte une stabilité financière à long terme.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic ended the AFS German student program, which had been a primary income source for roughly two decades. The farm restructured its economy around volunteers, retreat groups, and university visits without recovering that revenue stream.",
         "fr": "La pandémie de COVID-19 a mis fin au programme d'étudiants allemands AFS, qui avait été une source de revenus principale pendant près de deux décennies. La ferme a restructuré son économie autour des bénévoles, des groupes en retraite et des visites universitaires, sans retrouver cette source de revenus.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental education for university field trips",
         "fr": "Éducation environnementale pour les sorties universitaires",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Apprenticeship program for agroecology learners",
         "fr": "Programme d'apprentissage pour les apprenants en agroécologie",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Volunteer residency with food and accommodation",
         "fr": "Résidence bénévole avec nourriture et hébergement",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimentation center for permaculture practices",
         "fr": "Centre d'expérimentation pour les pratiques de permaculture",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Movement, yoga, and meditation classes",
         "fr": "Cours de mouvement, yoga et méditation",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Intensive Spanish language learning program",
         "fr": "Programme intensif d'apprentissage de l'espagnol",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Paying volunteers for apprenticeship program",
         "fr": "Bénévoles rémunérés pour le programme d'apprentissage",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "University groups for field trips",
         "fr": "Groupes universitaires pour les sorties sur le terrain",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Buyers for eco village shares",
         "fr": "Acheteurs de parts d'éco-village",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Visitors for wellness and agroecology retreats",
         "fr": "Visiteurs pour les retraites de bien-être et d'agroécologie",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Spanish language learning groups",
         "fr": "Groupes d'apprentissage de l'espagnol",

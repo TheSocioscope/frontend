@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754954854,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Ideas Biológicas se especializa en la producción de bioinsumos para el desarrollo sostenible de cultivos y la gestión de plagas. Utilizando hongos entomopatógenos y extractos naturales, la iniciativa se centra en métodos de control biológico que no son tóxicos para los agricultores y promueven la biodiversidad. Con su compromiso con la innovación y la colaboración con universidades, Ideas Biológicas pretende abordar los retos a los que se enfrentan los agricultores, al tiempo que amplía su oferta de productos y su alcance de mercado en Colombia y más allá de sus fronteras.                 ",
     "de": "Ideas Biologicas hat sich auf die Herstellung von Bio-Inputs für die nachhaltige Pflanzenentwicklung und Schädlingsbekämpfung spezialisiert. Unter Verwendung entomopathogener Pilze und natürlicher Extrakte konzentriert sich die Initiative auf biologische Bekämpfungsmethoden, die für Landwirte ungiftig sind und die Artenvielfalt fördern. Mit seinem Engagement für Innovation und die Zusammenarbeit mit Universitäten will Ideas Biologicas die Herausforderungen angehen, mit denen Landwirte konfrontiert sind, und gleichzeitig sein Produktangebot und seine Marktreichweite in Kolumbien und darüber hinaus ausbauen.                 "
   },
-  "field": [
-    "ecology-environmental-sciences",
-    "nutrition"
-  ],
+  "field": ["ecology-environmental-sciences", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -45,21 +38,16 @@
       "lastname": "Pablo Garzon"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ideasbiologicas.com/",
   "yt": "nGkBqouMObc",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1993",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Guillermo León Hernández joins Biocaribe as a biologist, marking the beginning of biological control work in Colombia. The company launches its first projects focused on controlling coffee berry borer using parasitic wasps in partnership with the National Coffee Growers Federation.",
         "fr": "Guillermo León Hernández rejoint Biocaribe en tant que biologiste, marquant le début des travaux de lutte biologique en Colombie. L'entreprise lance ses premiers projets axés sur le contrôle du scolyte du café à l'aide de guêpes parasites, en partenariat avec la Fédération nationale des producteurs de café.",
@@ -69,7 +57,7 @@
     },
     {
       "date": "2003",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Biocaribe is liquidated due to unresolvable tax debts with DIAN and the end of federation-funded projects. Biotropical (Ideas Biológicas) is founded with eight partners, obtaining ICA registration as a bioinput producer in 2004.",
         "fr": "Biocaribe est liquidée en raison de dettes fiscales irrésolvables auprès de la DIAN et de la fin des projets financés par la fédération. Biotropical (Ideas Biológicas) est fondée avec huit associés, obtenant l'enregistrement ICA en tant que producteur de biointrants en 2004.",
@@ -79,7 +67,7 @@
     },
     {
       "date": "2005",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Biotropical hires its first professional manager, stabilizing the company financially. The business sustains operations through this period but fails to achieve significant commercial growth beyond existing clients.",
         "fr": "Biotropical recrute son premier directeur professionnel, stabilisant financièrement l'entreprise. L'activité maintient ses opérations durant cette période, mais ne parvient pas à réaliser une croissance commerciale significative au-delà des clients existants.",
@@ -89,7 +77,7 @@
     },
     {
       "date": "2010",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Seven of eight founding partners stop attending assemblies, leaving Guillermo as the sole active socio. This triggers a personal and organizational crisis that forces him to begin self-educating in administration, accounting, and sales management.",
         "fr": "Sept des huit associés fondateurs cessent d'assister aux assemblées, laissant Guillermo comme seul associé actif. Cela déclenche une crise personnelle et organisationnelle qui l'oblige à commencer à se former en administration, comptabilité et gestion des ventes.",
@@ -99,7 +87,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Guillermo replaces the manager, buys out absent partners, reduces staff from ten to two employees, and restructures the company. From 2017 onward the company returns to net positive financial results under his direct leadership.",
         "fr": "Guillermo remplace le directeur, rachète les parts des associés absents, réduit les effectifs de dix à deux employés et restructure l'entreprise. À partir de 2017, l'entreprise retrouve des résultats financiers nets positifs sous sa direction directe.",
@@ -109,7 +97,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Biotropical relaunches with a strengthened portfolio of four products including Bionin, Bioderma, Nimp, and Bioquilata, grows from 67 to 250 annual clients, reaches eight departments nationally, and targets 2 billion pesos in sales within four years.",
         "fr": "Biotropical se relance avec un portefeuille renforcé de quatre produits incluant Bionin, Bioderma, Nimp et Bioquilata, passe de 67 à 250 clients annuels, étend sa présence à huit départements au niveau national et vise 2 milliards de pesos de ventes en quatre ans.",
@@ -120,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Biological pest control without toxic chemicals",
         "fr": "Lutte biologique contre les nuisibles sans produits chimiques toxiques",
@@ -129,7 +117,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Bioinputs for flowers, avocado, and passiflora crops",
         "fr": "Biointrants pour les cultures de fleurs, d'avocats et de passiflores",
@@ -138,7 +126,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Product development with Colombian universities",
         "fr": "Développement de produits avec des universités colombiennes",
@@ -147,7 +135,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Distribution through agricultural stores nationwide",
         "fr": "Distribution via des magasins agricoles à l'échelle nationale",
@@ -156,7 +144,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Pest control solutions for small and large farmers",
         "fr": "Solutions de lutte antiparasitaire pour les petits et grands agriculteurs",
@@ -165,7 +153,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Farmer education on biological vs chemical control",
         "fr": "Formation des agriculteurs sur la lutte biologique par rapport à la lutte chimique",
@@ -176,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Research alliances with universities globally",
         "fr": "Alliances de recherche avec des universités à l'échelle mondiale",
@@ -185,7 +173,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export markets for biological products",
         "fr": "Marchés d'exportation pour les produits biologiques",
@@ -194,7 +182,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Commercial distribution partners nationwide",
         "fr": "Partenaires de distribution commerciale à l'échelle nationale",
@@ -203,7 +191,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers shifting from agrochemicals to biocontrol",
         "fr": "Agriculteurs passant des agrochimiques au biocontrôle",
@@ -212,7 +200,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Development of biofertilizers as new product line",
         "fr": "Développement de biofertilisants comme nouvelle ligne de produits",
@@ -221,7 +209,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "ICA registration for avocado crop applications",
         "fr": "Enregistrement ICA pour les applications sur la culture d'avocat",

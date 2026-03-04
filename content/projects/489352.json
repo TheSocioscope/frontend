@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754988902,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa pretende transformar la gestión de residuos en Cartagena a través de la App Ambientado, que conecta a los recicladores con los generadores de residuos. Promueve el reciclaje como fuente de ingresos para las comunidades empobrecidas, al tiempo que fomenta el turismo responsable a través del programa Turismo Circular. Aprovechando la tecnología y la participación de la comunidad, la iniciativa pretende cambiar la percepción de los residuos, convirtiéndolos en un recurso valioso y, en última instancia, contribuyendo a un medio ambiente más limpio y sostenible.         ",
     "de": "Die Initiative zielt darauf ab, die Abfallwirtschaft in Cartagena durch die Ambientado-App zu verändern, die Recycler und Abfallerzeuger miteinander verbindet. Sie fördert das Recycling als Einkommensquelle für verarmte Gemeinden und unterstützt gleichzeitig einen verantwortungsvollen Tourismus durch das Programm \"Circular Tourism\". Durch den Einsatz von Technologie und kommunalem Engagement versucht die Initiative, die Wahrnehmung von Abfall zu verändern, ihn zu einer wertvollen Ressource zu machen und letztlich zu einer saubereren, nachhaltigeren Umwelt beizutragen.         "
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Perdomo"
     }
   ],
-  "thematic": [
-    "consumption-and-production-patterns",
-    "leisure-tourism"
-  ],
+  "thematic": ["consumption-and-production-patterns", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ambientados.app/quienes_somos/",
   "yt": "pG-wY1Ube0U",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Founder Susana began working at a waste materials trading company, learning the supply chain and identifying gaps in the recycling ecosystem, particularly the exploitation of street recyclers.",
         "fr": "La fondatrice Susana a commencé à travailler dans une entreprise de commerce de matériaux de récupération, apprenant la chaîne d'approvisionnement et identifiant les lacunes de l'écosystème du recyclage, notamment l'exploitation des recycleurs de rue.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Colombian government issued Decree 596 of 2018, allowing organizations to provide waste collection services without being formal public utility companies, creating the legal framework Ambientados would leverage.",
         "fr": "Le gouvernement colombien a publié le décret 596 de 2018, permettant aux organisations de fournir des services de collecte des déchets sans être des entreprises de services publics formelles, créant ainsi le cadre juridique qu'Ambientados allait exploiter.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ambientados officially launched, developing a three-platform technology ecosystem that digitized waste management routes, PQR tracking, and geolocation, effectively turning the decree into functional technology.",
         "fr": "Ambientados a officiellement été lancée, développant un écosystème technologique à trois plateformes qui a numérisé les itinéraires de gestion des déchets, le suivi des PQR et la géolocalisation, transformant efficacement le décret en technologie fonctionnelle.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Circular Tourism program was launched, winning a national entrepreneurship award for highest impact and bringing Cartagena the Ibero-American Smart City award. The program enrolled over 92 establishments in the historic center.",
         "fr": "Le programme Tourisme Circulaire a été lancé, remportant un prix national d'entrepreneuriat pour l'impact le plus élevé et apportant à Carthagène le prix ibéro-américain de la Ville Intelligente. Le programme a enregistré plus de 92 établissements dans le centre historique.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ambientados scaled to 54 contracted recyclers with indefinite-term employment, formed alliances with cruise lines, major retailers, Pepsico, and Ecoplanet, and began sending 20 tons of cardboard per week to Cartón Colombia in Cali.",
         "fr": "Ambientados a étendu ses activités à 54 recycleurs sous contrat à durée indéterminée, a formé des alliances avec des compagnies de croisière, de grands détaillants, Pepsico et Ecoplanet, et a commencé à envoyer 20 tonnes de carton par semaine à Cartón Colombia à Cali.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company began formalizing internal processes, hiring dedicated marketing, technology, and administrative staff, while expanding operations to serve a multinational client and pursuing replication of their model beyond Cartagena.",
         "fr": "L'entreprise a commencé à formaliser ses processus internes, en recrutant du personnel dédié au marketing, à la technologie et à l'administration, tout en développant ses activités pour servir un client multinational et en cherchant à reproduire son modèle au-delà de Carthagène.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Waste collection and sorting service for businesses",
         "fr": "Service de collecte et de tri des déchets pour les entreprises",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Eight-module training program for recyclers",
         "fr": "Programme de formation en huit modules pour les recycleurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Formal employment contracts for informal recyclers",
         "fr": "Contrats de travail formels pour les recycleurs informels",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Waste exchange for grocery products with residents",
         "fr": "Échange de déchets contre des produits alimentaires avec les résidents",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Circular tourism sustainability program in five steps",
         "fr": "Programme de durabilité du tourisme circulaire en cinq étapes",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Waste management app for businesses and households",
         "fr": "Application de gestion des déchets pour les entreprises et les ménages",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies to receive glass waste in Cartagena",
         "fr": "Alliés pour recevoir les déchets de verre à Cartagena",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Tourism businesses to join circular program",
         "fr": "Entreprises touristiques à rejoindre le programme circulaire",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Waste collectors for formal training program",
         "fr": "Collecteurs de déchets pour le programme de formation formelle",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public regulations mandating waste separation",
         "fr": "Réglementations publiques imposant la séparation des déchets",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand model to other Colombian cities",
         "fr": "Étendre le modèle à d'autres villes colombiennes",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External investment for operational sustainability",
         "fr": "Investissement externe pour la durabilité opérationnelle",

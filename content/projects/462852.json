@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "tanzania"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["tanzania"],
   "createdAt": 1754567821,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Biobuu Recycler, también conocida como Mabwepande Compost, es una colaboración única en Tanzania en la que participan el gobierno, el municipio de Hamburgo y Biobuu, una consultora privada. Lanzada en 2018, se centra en el reciclaje de residuos de alimentos de Dar es Salaam, produciendo fertilizantes orgánicos y alimentos para animales a partir de gusanos. Este proyecto innovador tiene como objetivo abordar los desafíos de la gestión de residuos al tiempo que promueve prácticas sostenibles y mejora la productividad agrícola local.                         ",
     "de": "Die Biobuu Recycler Initiative, auch bekannt als Mabwepande Compost, ist eine einzigartige Zusammenarbeit in Tansania, an der die Regierung, die Hamburger Stadtverwaltung und Biobuu, ein privates Beratungsunternehmen, beteiligt sind. Das 2018 gestartete Projekt konzentriert sich auf das Recycling von Lebensmittelabfällen aus Dar es Salaam, die Herstellung von organischem Dünger und Tierfutter aus Maggots. Dieses innovative Projekt zielt darauf ab, Herausforderungen im Bereich der Abfallwirtschaft zu bewältigen und gleichzeitig nachhaltige Praktiken zu fördern und die lokale landwirtschaftliche Produktivität zu steigern.                         "
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Mkenda"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.biobuutz.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Magwepande Compost plant began construction, funded by Hamburg City, Germany as a grant. The site was established under the Kinondoni Municipal Council in Dar es Salaam, Tanzania.",
         "fr": "La construction de l'usine de compostage de Magwepande a débuté, financée par la ville de Hambourg, en Allemagne, sous forme de subvention. Le site a été établi sous l'autorité du Conseil municipal de Kinondoni à Dar es Salaam, en Tanzanie.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The facility was completed and began operations, processing food waste from markets across Dar es Salaam. The plant produces organic fertilizer and animal feed using black soldier flies.",
         "fr": "L'installation a été achevée et a commencé ses opérations, traitant les déchets alimentaires provenant des marchés de Dar es Salaam. L'usine produit de l'engrais organique et de l'alimentation animale grâce aux mouches soldats noires.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "An article published about the initiative drew wider attention to the facility's unique approach of converting rotten fruit and food waste into fertilizer and affordable protein. The project had by this point produced over 50,000 tons of fertilizer sold entirely through word of mouth.",
         "fr": "Un article publié sur l'initiative a attiré une attention plus large sur l'approche unique de l'installation, qui consiste à convertir les fruits pourris et les déchets alimentaires en engrais et en protéines abordables. Le projet avait à ce stade produit plus de 50 000 tonnes d'engrais vendues entièrement par le bouche-à-oreille.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Hamburg City formally handed over operational responsibility to the Tanzania government and Biobu, an Italian private consultant, while retaining a technical advisory role. Kinondoni Municipal Council became the co-funding partner alongside revenue from operations.",
         "fr": "La ville de Hambourg a officiellement transféré la responsabilité opérationnelle au gouvernement tanzanien et à Biobu, un consultant privé italien, tout en conservant un rôle consultatif technique. Le Conseil municipal de Kinondoni est devenu le partenaire de cofinancement aux côtés des revenus générés par les opérations.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The facility began engaging with carbon credit markets as a future revenue stream, citing significant methane reduction achieved by diverting organic waste from open dump sites. Partnerships with organizations such as the Aga Khan Foundation emerged as growing sources of demand for the compost.",
         "fr": "L'installation a commencé à s'engager avec les marchés de crédits carbone en tant que future source de revenus, en citant la réduction significative du méthane obtenue en détournant les déchets organiques des décharges à ciel ouvert. Des partenariats avec des organisations telles que la Fondation Aga Khan sont apparus comme des sources croissantes de demande pour le compost.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024 onward",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Plans were developed to require waste contractors, through new government tender documents starting in July, to deliver organic waste directly to the plant. Multiple local governments and regions including Dodoma, Zanzibar, and Singida expressed interest in replicating the model.",
         "fr": "Des plans ont été élaborés pour exiger des entrepreneurs en gestion des déchets, via de nouveaux appels d'offres gouvernementaux à partir de juillet, de livrer les déchets organiques directement à l'usine. Plusieurs collectivités locales et régions, dont Dodoma, Zanzibar et Singida, ont exprimé leur intérêt pour la reproduction du modèle.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic food waste recycling into compost",
         "fr": "Recyclage des déchets alimentaires organiques en compost",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable organic fertilizer sold to farmers",
         "fr": "Engrais organique abordable vendu aux agriculteurs",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Animal feed protein from black soldier flies",
         "fr": "Protéines pour alimentation animale issues des mouches soldats noires",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Waste sorting education for market vendors",
         "fr": "Éducation au tri des déchets pour les vendeurs du marché",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Site visits for other regional governments",
         "fr": "Visites de site pour d'autres gouvernements régionaux",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for local community workers",
         "fr": "Emploi pour les travailleurs de la communauté locale",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Waste collectors and contractors to supply organic waste",
         "fr": "Collecteurs de déchets et entrepreneurs pour fournir des déchets organiques",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government regulation mandating waste separation",
         "fr": "Réglementation gouvernementale imposant la séparation des déchets",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Farmers and buyers for compost fertilizer",
         "fr": "Agriculteurs et acheteurs pour l'engrais compost",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Municipal partners for regional expansion",
         "fr": "Partenaires municipaux pour l'expansion régionale",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Carbon credit funding opportunities",
         "fr": "Opportunités de financement par crédits carbone",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community behavior change for waste sorting",
         "fr": "Changement de comportement communautaire pour le tri des déchets",

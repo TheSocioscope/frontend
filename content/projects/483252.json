@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909681,
   "date": null,
   "description": {
@@ -19,11 +15,7 @@
     "es": "Veragrow es una start-up innovadora con sede en Normandía, fundada en 2019 por tres ingenieros apasionados por el impacto ecológico. Se especializan en la creación de bioestimulantes derivados del compost de lombriz, con el objetivo de mejorar la productividad agrícola al tiempo que promueven la sostenibilidad. Sus productos estrella, Veraspida y Veralif, mejoran el crecimiento de las plantas y su resiliencia frente al estrés ambiental. Centrada en la investigación y la colaboración, Veragro está preparada para crecer, dirigiéndose a los mercados locales e internacionales para revolucionar las prácticas agrícolas.",
     "de": "Veragrow ist ein innovatives Start-up-Unternehmen mit Sitz in der Normandie, das 2019 von drei Ingenieuren gegründet wurde, die sich für ökologische Auswirkungen begeistern. Sie haben sich auf die Entwicklung von Biostimulanzien auf Basis von Regenwurmkompost spezialisiert, um die landwirtschaftliche Produktivität zu steigern und gleichzeitig die Nachhaltigkeit zu fördern. Ihre Vorzeigeprodukte, Veraspida und Veralif, verbessern das Pflanzenwachstum und die Widerstandsfähigkeit gegenüber Umweltbelastungen. Mit dem Schwerpunkt auf Forschung und Zusammenarbeit ist Veragro auf Wachstum eingestellt und zielt sowohl auf lokale als auch internationale Märkte ab, um die landwirtschaftlichen Praktiken zu revolutionieren."
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "engineering-and-technology", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +33,16 @@
       "lastname": "Thierry"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://veragrow.fr/contact/",
   "yt": "xkp2HNiJiDI",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Two co-founders completed internships in Spain and the USA, both independently discovering the benefits of vermicompost. This experience inspired them to launch an agricultural biotech venture together.",
         "fr": "Deux co-fondateurs ont effectué des stages en Espagne et aux États-Unis, découvrant chacun de leur côté les bienfaits du vermicompost. Cette expérience les a inspirés à lancer ensemble une startup de biotechnologie agricole.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Veragro was officially founded in September 2019 by three complementary engineers who left high-profile positions to build an ecologically impactful startup. The initial business model focused on selling vermicompost directly, but this was quickly abandoned as uncompetitive against conventional compost priced at €1 per tonne.",
         "fr": "Veragro a été officiellement fondée en septembre 2019 par trois ingénieurs aux profils complémentaires qui ont quitté des postes prestigieux pour créer une startup à impact écologique. Le modèle économique initial reposait sur la vente directe de vermicompost, mais cette approche a rapidement été abandonnée car non compétitive face au compost conventionnel vendu à 1 € la tonne.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Maxime Gauthier joined as the first non-founder CDI hire in February 2021, leading R&D and product formulation. The company won its first research funding call that year, enabling early product development and pilot industrial prototypes.",
         "fr": "Maxime Gauthier a rejoint l'équipe en février 2021 en tant que premier embauché en CDI non fondateur, prenant en charge la R&D et la formulation des produits. La société a remporté son premier appel à financement à la recherche cette année-là, permettant le développement précoce des produits et la réalisation de premiers prototypes industriels pilotes.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Veragro secured its first market authorization and fulfilled its first major commercial order of 30,000 liters, generating the initial revenue needed to support fundraising. A first funding round was completed, enabling recruitment across R&D and commercial teams and expansion into proper premises.",
         "fr": "Veragro a obtenu sa première autorisation de mise sur le marché et a honoré sa première commande commerciale majeure de 30 000 litres, générant les premiers revenus nécessaires pour soutenir la levée de fonds. Un premier tour de financement a été finalisé, permettant le recrutement au sein des équipes R&D et commerciales ainsi que l'emménagement dans des locaux adaptés.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Veragro began international market development, obtaining market authorizations in Italy, Ukraine, and starting processes in Spain and Morocco. A second, larger funding round was underway to optimize production, scale the commercial team nationally, and accelerate international growth.",
         "fr": "Veragro a entamé le développement de marchés internationaux, obtenant des autorisations de mise sur le marché en Italie et en Ukraine, et engageant des démarches en Espagne et au Maroc. Un second tour de financement, plus important, était en cours afin d'optimiser la production, renforcer l'équipe commerciale à l'échelle nationale et accélérer la croissance internationale.",
@@ -106,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biostimulant solutions from vermicompost for crops",
         "fr": "Solutions biostimulantes issues du vermicompost pour les cultures",
@@ -115,7 +102,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Valorization of organic waste into inputs",
         "fr": "Valorisation des déchets organiques en intrants",
@@ -124,7 +111,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vermicompost machines sold to collectives and industry",
         "fr": "Machines à vermicompost vendues aux collectivités et à l'industrie",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Field trials showing crop yield improvements",
         "fr": "Essais en champ démontrant l'amélioration des rendements agricoles",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Network and knowledge sharing via Ferme Digitale",
         "fr": "Réseau et partage de connaissances via la Ferme Digitale",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Accompaniment via incubators and accelerators",
         "fr": "Accompagnement via des incubateurs et des accélérateurs",
@@ -162,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Second fundraising round for growth",
         "fr": "Deuxième tour de financement pour la croissance",
@@ -171,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Commercial partners for national expansion",
         "fr": "Partenaires commerciaux pour l'expansion nationale",
@@ -180,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New agricultural markets internationally",
         "fr": "Nouveaux marchés agricoles à l'international",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research collaborations for product development",
         "fr": "Collaborations de recherche pour le développement de produits",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Biodegradable waste suppliers for raw materials",
         "fr": "Fournisseurs de déchets biodégradables pour les matières premières",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Cooperative clients to distribute biostimulants",
         "fr": "Clients coopératifs pour distribuer des biostimulants",

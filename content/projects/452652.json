@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754422383,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Aromáticas del Alto Valle es una cooperativa centrada en la producción y comercialización de hierbas aromáticas y medicinales. Creada hace más de 20 años, cobró impulso durante la pandemia al adoptar el comercio digital. La iniciativa promueve la diversificación productiva de las familias locales, permitiendo el cultivo a pequeña escala de hierbas que antes estaban infravaloradas. Con un compromiso con las normas agroecológicas, la cooperativa ha evolucionado para incluir la comercialización y la formación en línea, garantizando la sostenibilidad y el crecimiento del sector.",
     "de": "Aromáticas del Alto Valle ist eine Genossenschaft, die sich auf die Herstellung und den Vertrieb von aromatischen und medizinischen Kräutern konzentriert. Sie wurde vor über 20 Jahren gegründet und gewann während der Pandemie durch die Einführung des digitalen Handels an Dynamik. Die Initiative fördert die produktive Diversifizierung lokaler Familien und ermöglicht die kleinbäuerliche Bewirtschaftung von Kräutern, die zuvor unterbewertet waren. Mit einem Bekenntnis zu agrarökologischen Standards hat sich die Genossenschaft weiterentwickelt und umfasst nun auch Online-Marketing und -Training, um die Nachhaltigkeit und das Wachstum des Sektors zu sichern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Laura Berzins"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.aromaticasaltovalle.com.ar/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2003-2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The cooperative was founded as an association of producers in late 2003 and early 2004, emerging from provincial training sessions on diversification alternatives to the dominant pear and apple monoculture in the Alto Valle region.",
         "fr": "La coopérative a été fondée en tant qu'association de producteurs fin 2003 et début 2004, émergeant de sessions de formation provinciales sur les alternatives de diversification à la monoculture dominante de poires et de pommes dans la région de l'Alto Valle.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2008-2009",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A national 'Manos a la Obra' project grant enabled the purchase of specialized processing machinery. The association formally became a cooperative in 2009.",
         "fr": "Une subvention nationale du projet 'Manos a la Obra' a permis l'achat de machines de transformation spécialisées. L'association est officiellement devenue une coopérative en 2009.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The cooperative relocated to a new municipal facility in Fernández Oro, a purpose-built processing space obtained through a comodato agreement, after nearly a decade in a converted abandoned hospital building.",
         "fr": "La coopérative a déménagé dans un nouvel établissement municipal à Fernández Oro, un espace de transformation construit à cet effet obtenu par un accord de comodato, après près d'une décennie dans un ancien bâtiment hospitalier abandonné et reconverti.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "During the COVID-19 pandemic, the cooperative shifted from 80% in-person to 90% online sales, expanded its reach nationwide, and developed an online education platform offering courses via Zoom to students across Argentina and abroad.",
         "fr": "Durant la pandémie de COVID-19, la coopérative est passée de 80 % de ventes en personne à 90 % de ventes en ligne, a étendu sa portée à l'échelle nationale et a développé une plateforme d'éducation en ligne proposant des cours via Zoom à des étudiants de toute l'Argentine et de l'étranger.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The cooperative, with 12 associates and several employees, is finalizing a greenhouse to produce specialty plantings, while also pursuing official food code approval for essential oils and hydrolates.",
         "fr": "La coopérative, qui compte 12 associés et plusieurs employés, finalise la construction d'une serre pour produire des plantations spécialisées, tout en cherchant à obtenir l'approbation officielle du code alimentaire pour les huiles essentielles et les hydrolats.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological aromatic and medicinal herbs",
         "fr": "Herbes aromatiques et médicinales agroécologiques",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Online and in-person training courses",
         "fr": "Formations en ligne et en présentiel",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Nationwide direct sales via website",
         "fr": "Vente directe nationale via le site web",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Processing facility services for third-party producers",
         "fr": "Services de transformation pour les producteurs tiers",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seedling production for regional growers",
         "fr": "Production de plants pour les agriculteurs régionaux",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School visits and university internships",
         "fr": "Visites scolaires et stages universitaires",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New agroecological herb producers to supply",
         "fr": "Nouveaux producteurs d'herbes agroécologiques à approvisionner",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Cooperative members for generational renewal",
         "fr": "Membres de coopérative pour le renouvellement générationnel",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand online sales internationally",
         "fr": "Développer les ventes en ligne à l'international",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory approval for essential oils and hydrolates",
         "fr": "Approbation réglementaire pour les huiles essentielles et hydrolats",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing to complete greenhouse for seedlings",
         "fr": "Financement pour achever la serre de plants",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Institutional support for agroecological crop research",
         "fr": "Soutien institutionnel pour la recherche sur les cultures agroécologiques",

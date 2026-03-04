@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754996901,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Escuela Viva es una escuela innovadora de Armenia centrada en la sostenibilidad y la educación holística. Su misión es concienciar a los niños de sus relaciones consigo mismos, con los demás y con el medio ambiente. Mediante la integración de principios de educación alternativa, como los de Montessori y Leonardo da Vinci, la escuela hace hincapié en el aprendizaje experimental a través de proyectos y la participación de la comunidad. Con un compromiso con la conciencia medioambiental, Escuela Viva aspira a fomentar una generación que valore la sostenibilidad y la paz.",
     "de": "Die Escuela Viva ist eine innovative Schule in Armenien, die sich auf Nachhaltigkeit und ganzheitliche Bildung konzentriert. Ihr Ziel ist es, das Bewusstsein der Kinder für ihre Beziehungen zu sich selbst, zu anderen und zur Umwelt zu fördern. Durch die Integration von Prinzipien der alternativen Pädagogik, wie z. B. Montessori und Leonardo da Vinci, legt die Schule den Schwerpunkt auf Erfahrungslernen durch Projekte und Engagement in der Gemeinschaft. Mit ihrem Engagement für Umweltbewusstsein will die Escuela Viva eine Generation heranbilden, die Nachhaltigkeit und Frieden schätzt."
   },
-  "field": [
-    "education-sciences"
-  ],
+  "field": ["education-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Hernández"
     }
   ],
-  "thematic": [
-    "education"
-  ],
+  "thematic": ["education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/escuelavivaco/?locale=id&hl=af",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Escuela Viva was founded in Armenia, Quindío, Colombia, starting with only 13 children. The school was co-created by Marta Inés Giannini and María Fernanda Prada with a mission to provide holistic, sustainability-focused education.",
         "fr": "Escuela Viva a été fondée à Armenia, Quindío, Colombie, en commençant avec seulement 13 enfants. L'école a été co-créée par Marta Inés Giannini et María Fernanda Prada avec pour mission de fournir une éducation holistique axée sur la durabilité.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The school grew from 13 to 105 children over five years, expanding from preschool to include primary and beginning secondary education (sixth and seventh grade). The school remained financially self-sustaining through tuition fees alone.",
         "fr": "L'école est passée de 13 à 105 enfants en cinq ans, s'étendant du préscolaire pour inclure l'enseignement primaire et le début du secondaire (sixième et septième année). L'école est restée financièrement autonome grâce aux seuls frais de scolarité.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The school implemented sustainability practices including a no-plastic-materials policy, recycling programs, student-grown food cultivation on a parent's land, and sugar-free meals provided entirely by the school.",
         "fr": "L'école a mis en œuvre des pratiques de durabilité comprenant une politique d'interdiction des matériaux en plastique, des programmes de recyclage, la culture d'aliments par les élèves sur le terrain d'un parent, et des repas sans sucre entièrement fournis par l'école.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Escuela Viva purchased a new plot of land with plans to build a new campus, establish a waste collection center, and develop an expanded garden capable of supplying food directly to the school community.",
         "fr": "Escuela Viva a acquis un nouveau terrain avec des projets de construction d'un nouveau campus, de création d'un centre de collecte des déchets et de développement d'un jardin élargi capable de fournir des aliments directement à la communauté scolaire.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The school maintained collaborative relationships with external institutions including the Banco de la República's 'La Paz Toma la Palabra' program, the Universidad del Quindío, local cultural organizations in La Tebaida, and previously with OEI and CERLALC on reading formation projects.",
         "fr": "L'école a maintenu des relations de collaboration avec des institutions externes, notamment le programme 'La Paz Toma la Palabra' de la Banco de la República, l'Universidad del Quindío, des organisations culturelles locales à La Tebaida, et précédemment avec l'OEI et le CERLALC sur des projets de formation à la lecture.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Alternative education for children ages 2-12",
         "fr": "Éducation alternative pour les enfants de 2 à 12 ans",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Nutritious meals and snacks provided daily",
         "fr": "Repas nutritifs et collations fournis quotidiennement",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recycled materials center and waste collection",
         "fr": "Centre de matériaux recyclés et collecte des déchets",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Family entrepreneurship fairs and market spaces",
         "fr": "Foires d'entrepreneuriat familial et espaces de marché",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Hands-on agriculture and land cultivation",
         "fr": "Agriculture pratique et culture des terres",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Peace building and environmental stewardship roles",
         "fr": "Rôles de consolidation de la paix et de gérance environnementale",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Cultural and educational institutional alliances",
         "fr": "Alliances institutionnelles culturelles et éducatives",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Waste collection center for residues",
         "fr": "Centre de collecte des déchets pour les résidus",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Student productive entrepreneurship with recyclable goods",
         "fr": "Entrepreneuriat productif étudiant avec des biens recyclables",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Families aligned with permaculture and sustainability",
         "fr": "Familles engagées dans la permaculture et la durabilité",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Connection with global alternative education networks",
         "fr": "Connexion avec les réseaux mondiaux d'éducation alternative",

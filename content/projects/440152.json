@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739458215,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en el desarrollo y la implantación de sistemas de acuaponía, que integran la piscicultura y el cultivo de plantas en un entorno sostenible de circuito cerrado. Situados en una zona rural, los fundadores se dedicaban inicialmente a la venta de productos frescos, como hierbas aromáticas y lechugas, pero pasaron a diseñar y construir sistemas de acuaponía adaptados a diversos clientes, como restaurantes y centros comunitarios. Su enfoque hace hincapié en la sostenibilidad, utilizando la energía solar y el reciclaje de residuos, al tiempo que incorpora tecnología innovadora como el Internet de las Cosas para mejorar la gestión del sistema. La iniciativa no solo aborda la producción de alimentos, sino que también pretende crear un impacto social ofreciendo oportunidades educativas y recursos a las comunidades locales, fomentando así la autosuficiencia y la gestión medioambiental.",
     "de": "The initiative focuses on the development and implementation of aquaponics systems, which integrate fish farming and plant cultivation in a sustainable, closed-loop environment. Die Gründer, die in einer ländlichen Gegend ansässig sind, wollten ursprünglich frische Produkte wie aromatische Kräuter und Gemüse verkaufen, haben sich dann aber auf die Entwicklung und den Bau von Aquaponiksystemen für verschiedene Kunden, darunter Restaurants und Gemeindezentren, verlegt. Ihr Ansatz betont die Nachhaltigkeit, indem sie Solarenergie und Abfallverwertung nutzen, aber auch innovative Technologien wie das Internet der Dinge zur Verbesserung des Systemmanagements einbeziehen. Die Initiative befasst sich nicht nur mit der Lebensmittelproduktion, sondern zielt auch auf soziale Auswirkungen ab, indem sie Bildungsmöglichkeiten und Ressourcen für lokale Gemeinschaften bereitstellt und so die Selbstversorgung und Umweltverantwortung fördert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Canacué Ortiz"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://afoacuaponia.com/",
   "yt": "0Ie8D7Zp_hc",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "AFO Acuaponía originated as a rejected university thesis on aquaponics systems, proposed by environmental engineering students. The university rejected it stating the topic belonged to food engineering, costing the founders two years in their graduation process.",
         "fr": "AFO Acuaponía est née d'une thèse universitaire rejetée sur les systèmes aquaponiques, proposée par des étudiants en ingénierie environnementale. L'université l'a rejetée en affirmant que le sujet relevait de l'ingénierie alimentaire, ce qui a coûté aux fondateurs deux ans dans leur parcours de diplomation.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "AFO Acuaponía was formally created as a project after the founders continued experimenting with aquaponics following their graduation. The initial focus was on selling organic food products such as aromatic herbs and lettuce.",
         "fr": "AFO Acuaponía a été formellement créée en tant que projet après que les fondateurs ont continué à expérimenter l'aquaponie après l'obtention de leur diplôme. L'objectif initial était de vendre des produits alimentaires biologiques tels que des herbes aromatiques et de la laitue.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "AFO became a formal company and established its experimental farm in Villavicencio, Meta, during the pandemic. The first greenhouse prototype failed due to flooding and material degradation, leading to a significant process of trial and error.",
         "fr": "AFO est devenue une entreprise formelle et a établi sa ferme expérimentale à Villavicencio, Meta, pendant la pandémie. Le premier prototype de serre a échoué en raison d'inondations et de la dégradation des matériaux, entraînant un important processus d'essais et d'erreurs.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2020-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Over four years of operation, AFO developed projects and consultancies in nine Latin American countries and won the H Zero prize from the United Nations. The company shifted its primary business model from selling food products to designing and selling aquaponic systems.",
         "fr": "Au cours de quatre années d'activité, AFO a développé des projets et des consultances dans neuf pays d'Amérique latine et a remporté le prix H Zero des Nations Unies. L'entreprise a fait évoluer son modèle commercial principal, passant de la vente de produits alimentaires à la conception et à la vente de systèmes aquaponiques.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "AFO received direct investment from Startup Bootcamp, a major European accelerator fund, to support expansion into new markets. The company also participated in Fundación Bancolombia's financial support program and presented at a global event in Montreal, Canada.",
         "fr": "AFO a reçu un investissement direct de Startup Bootcamp, un important fonds accélérateur européen, pour soutenir son expansion vers de nouveaux marchés. L'entreprise a également participé au programme de soutien financier de la Fundación Bancolombia et a présenté lors d'un événement mondial à Montréal, Canada.",
@@ -104,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Aquaponic system design and installation for businesses",
         "fr": "Conception et installation de systèmes aquaponiques pour les entreprises",
@@ -113,7 +103,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh fish and organic vegetables to restaurants",
         "fr": "Poissons frais et légumes biologiques pour les restaurants",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimentation and technique improvement on farm",
         "fr": "Expérimentation et amélioration des techniques à la ferme",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Aquaponic systems for vulnerable and rural communities",
         "fr": "Systèmes aquaponiques pour les communautés vulnérables et rurales",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical support and ongoing client subscription service",
         "fr": "Support technique et service d'abonnement continu pour les clients",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Scalable systems from apartment-size to industrial",
         "fr": "Systèmes évolutifs de la taille d'un appartement à l'échelle industrielle",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "B2B clients needing organic food inputs",
         "fr": "Clients B2B ayant besoin d'intrants alimentaires biologiques",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Community organizations for social impact projects",
         "fr": "Organisations communautaires pour des projets à impact social",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Industrial clients for large-scale aquaponic systems",
         "fr": "Clients industriels pour des systèmes aquaponiques à grande échelle",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "IoT and AI integration for process automation",
         "fr": "Intégration de l'IoT et de l'IA pour l'automatisation des processus",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private investors for scaling operations",
         "fr": "Investisseurs privés pour le développement des opérations",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Lightweight materials to reduce logistics costs",
         "fr": "Matériaux légers pour réduire les coûts logistiques",

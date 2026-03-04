@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754994939,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Aproemsurt es una asociación de apicultores ubicada en Chaparral, Tolima, fundada el 10 de septiembre de 2009. La organización cuenta actualmente con 26 miembros y está estructurada con una junta directiva, que incluye cargos como presidente, vicepresidente, tesorero y representante legal, junto con una asamblea general integrada por todos los miembros. Cada miembro mantiene sus propias colmenas, y aunque la asociación tiene sus propias colmenas, su objetivo es servir eventualmente como centro de acopio de miel, comprando tanto a miembros como a no miembros.",
     "de": "Aproemsurt ist ein Verband von Imkern mit Sitz in Chaparral, Tolima, der am 10. September 2009 gegründet wurde. Die Organisation hat derzeit 26 Mitglieder und verfügt über einen Vorstand mit Positionen wie Präsident, Vizepräsident, Schatzmeister und Rechtsvertreter sowie eine Generalversammlung, in der alle Mitglieder vertreten sind. Jedes Mitglied unterhält seine eigenen Bienenstöcke, und obwohl der Verband über eigene Bienenstöcke verfügt, ist er bestrebt, letztendlich als Sammelstelle für Honig zu fungieren und sowohl von Mitgliedern als auch von Nichtmitgliedern zu kaufen."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "Fermin Guzman"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/aproemsurTolima/about?locale=es_LA",
   "yt": "Mo9afVvpwIs",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "APROHENSUR was founded on September 10, 2009 by a group of beekeepers in Chaparral, Sur del Tolima, after being denied entry to an existing association. They started from scratch with borrowed chairs, renting a small space, and with no hives of their own.",
         "fr": "APROHENSUR a été fondée le 10 septembre 2009 par un groupe d'apiculteurs à Chaparral, Sur del Tolima, après s'être vu refuser l'entrée dans une association existante. Ils ont démarré de zéro avec des chaises empruntées, en louant un petit espace, et sans ruches propres.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2014-2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association acquired its own land and began constructing its facility after receiving machinery that required a permanent location. This marked a turning point toward financial and operational independence.",
         "fr": "L'association a acquis son propre terrain et a commencé la construction de ses installations après avoir reçu des machines nécessitant un emplacement permanent. Cela a marqué un tournant vers l'indépendance financière et opérationnelle.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "APROHENSUR obtained the Sello Verde (Green Seal) from Cortolima and the Ministerio de Ambiente, and later received support from Fondo Colombia en Paz, which provided 72 beekeepers with 10 hives each and funded a switch from plastic to glass packaging.",
         "fr": "APROHENSUR a obtenu le Sello Verde (Label Vert) de Cortolima et du Ministerio de Ambiente, et a ensuite reçu le soutien du Fondo Colombia en Paz, qui a fourni à 72 apiculteurs 10 ruches chacun et a financé le passage d'un emballage en plastique à un emballage en verre.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The association registered two commercial brands: El Colmenar de Aprohensur for honey and derivatives, and B'Bee for artisanal honey beer, and began four years of product development and market testing for the beer line.",
         "fr": "L'association a enregistré deux marques commerciales : El Colmenar de Aprohensur pour le miel et ses dérivés, et B'Bee pour la bière de miel artisanale, et a entamé quatre années de développement de produits et de tests de marché pour la gamme de bières.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Heavy rainfall severely reduced honey production, limiting 2024 honey sales to approximately 500 kg and $15 million COP in association revenue, increasing reliance on project-based income. Chinese honey imports also began threatening local market prices.",
         "fr": "De fortes précipitations ont considérablement réduit la production de miel, limitant les ventes de miel de 2024 à environ 500 kg et 15 millions de COP de revenus pour l'association, augmentant la dépendance aux revenus issus de projets. Les importations de miel chinois ont également commencé à menacer les prix du marché local.",
@@ -105,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The association won the Fondo Emprender project for an apicultural supply store and the Fondo Mujer project for an artisanal brewery, with machinery expected by June 2025, aiming to eliminate intermediaries and sell directly to supermarket chains.",
         "fr": "L'association a remporté le projet Fondo Emprender pour un magasin de fournitures apicoles et le projet Fondo Mujer pour une brasserie artisanale, avec des machines attendues pour juin 2025, dans le but d'éliminer les intermédiaires et de vendre directement aux chaînes de supermarchés.",
@@ -116,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Beekeeping training and technical assistance",
         "fr": "Formation apicole et assistance technique",
@@ -125,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Honey and hive-derived products for sale",
         "fr": "Miel et produits dérivés de la ruche à vendre",
@@ -134,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration and school apiary for visitors",
         "fr": "Rucher de démonstration et scolaire pour les visiteurs",
@@ -143,7 +131,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisanal honey beer and mead products",
         "fr": "Bière de miel artisanale et produits à base d'hydromel",
@@ -152,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Reforestation and native flora preservation",
         "fr": "Reboisement et préservation de la flore indigène",
@@ -161,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Product innovation research with universities",
         "fr": "Recherche en innovation produit avec les universités",
@@ -172,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct sales to supermarkets and chain stores",
         "fr": "Ventes directes aux supermarchés et chaînes de magasins",
@@ -181,7 +169,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing to buy member honey production",
         "fr": "Financement pour l'achat de la production de miel des membres",
@@ -190,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with ONGs for productive projects",
         "fr": "Alliances avec des ONG pour des projets productifs",
@@ -199,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research projects on honey quality and origin",
         "fr": "Projets de recherche sur la qualité et l'origine du miel",
@@ -208,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New beekeepers to join association",
         "fr": "Nouveaux apiculteurs à rejoindre l'association",
@@ -217,7 +205,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Apicultural inputs store for local producers",
         "fr": "Magasin d'intrants apicoles pour les producteurs locaux",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647948,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Lizsa Farmer Service Centre, fundado en marzo de 2023, pretende empoderar a las madres jóvenes del condado de Makwene mediante el cultivo y el valor añadido de la judía Nyota, tolerante a la sequía. La iniciativa se centra en mejorar la nutrición y los ingresos de los agricultores proporcionándoles formación, semillas certificadas y diversos productos, como alubias precocinadas y harina de alubias. Mediante la promoción de la agricultura regenerativa y de técnicas agrícolas innovadoras, Lisa pretende mejorar la seguridad alimentaria y las oportunidades económicas de la comunidad.",
     "de": "Das im März 2023 gegründete Lizsa Farmer Service Centre zielt darauf ab, junge Mütter in Makwene County durch den Anbau und die Wertschöpfung der trostlosen Nyota-Banane zu stärken. Die Initiative konzentriert sich auf die Verbesserung der Ernährung und des Einkommens von Landwirten durch die Bereitstellung von Schulungen, zertifiziertem Saatgut und verschiedenen Produkten, darunter vorgekochte Beans und Bean Flour. Durch die Förderung der regenerativen Landwirtschaft und innovativer Anbautechniken will Lisa die Ernährungssicherheit und die wirtschaftlichen Chancen in der Gemeinde verbessern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Mulika"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Pre-2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Elizabeth Mulika founded Lisa Pharmaceutical/Farm Enterprise in McQueen County, Lower Eastern Kenya, motivated by witnessing food insecurity and poverty in semi-arid communities where she was born and raised.",
         "fr": "Elizabeth Mulika a fondé Lisa Pharmaceutical/Farm Enterprise dans le comté de McQueen, dans l'est du Kenya inférieur, motivée par les situations d'insécurité alimentaire et de pauvreté qu'elle a observées dans les communautés semi-arides où elle est née et a grandi.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "Pre-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Lisa Enterprise became a trusted distribution agent for KALRO (Kenya Agricultural and Livestock Research Organization), supplying the drought-tolerant Nyota bean variety to small-scale farmers at subsidized costs.",
         "fr": "Lisa Enterprise est devenue un agent de distribution de confiance pour le KALRO (Organisation kényane de recherche agricole et d'élevage), fournissant la variété de haricot Nyota résistante à la sécheresse aux petits agriculteurs à des coûts subventionnés.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The enterprise stabilized its business model by selling farm inputs, buying harvested beans from community groups, and adding value through bean cookies and repackaged products sold to supermarkets and local markets.",
         "fr": "L'entreprise a stabilisé son modèle économique en vendant des intrants agricoles, en achetant des haricots récoltés auprès de groupements communautaires, et en ajoutant de la valeur grâce à des biscuits aux haricots et des produits reconditionnés vendus dans les supermarchés et les marchés locaux.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "World Food Program began collaborating with Lisa Enterprise to expand its farming and value-addition model beyond McQueen County to other drought-affected counties including Turkana.",
         "fr": "Le Programme alimentaire mondial a commencé à collaborer avec Lisa Enterprise pour étendre son modèle d'agriculture et de valorisation au-delà du comté de McQueen vers d'autres comtés touchés par la sécheresse, dont le Turkana.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Several of the original women's farming groups Lisa trained became financially independent and self-sufficient, no longer requiring direct support from the enterprise.",
         "fr": "Plusieurs des groupements féminins agricoles d'origine formés par Lisa sont devenus financièrement indépendants et autosuffisants, ne nécessitant plus de soutien direct de la part de l'entreprise.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023+",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Lisa Enterprise established plans to expand to additional regions of Kenya, diversify into other grain varieties beyond beans, and increase permanent local presence beyond sponsored visits.",
         "fr": "Lisa Enterprise a établi des plans pour s'étendre à d'autres régions du Kenya, se diversifier dans d'autres variétés de céréales au-delà des haricots, et renforcer une présence locale permanente au-delà des visites financées.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Subsidized seeds and farm inputs supply",
         "fr": "Approvisionnement en semences et intrants agricoles subventionnés",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training women in regenerative farming practices",
         "fr": "Formation des femmes aux pratiques agricoles régénératives",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Value-added bean products including cookies and flour",
         "fr": "Produits à valeur ajoutée à base de haricots, notamment des biscuits et de la farine",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Women and youth group formation and empowerment",
         "fr": "Formation et autonomisation de groupes de femmes et de jeunes",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access and warehouse for bean sales",
         "fr": "Accès au marché et entrepôt pour la vente de haricots",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on farming best practices and technologies",
         "fr": "Ateliers sur les meilleures pratiques et technologies agricoles",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing to scale farmer production capacity",
         "fr": "Financement pour augmenter la capacité de production des agriculteurs",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGO and institutional collaboration for expansion",
         "fr": "Collaboration avec des ONG et des institutions pour l'expansion",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Wider market networks for bean products",
         "fr": "Réseaux de marché plus larges pour les produits à base de haricots",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More women farmer groups in drought areas",
         "fr": "Plus de groupes d'agricultrices dans les zones de sécheresse",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Additional grain varieties beyond beans",
         "fr": "Variétés de céréales supplémentaires au-delà des haricots",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Expansion into new drought-affected counties",
         "fr": "Expansion vers de nouveaux comtés touchés par la sécheresse",

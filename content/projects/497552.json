@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755089230,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "TarwiFoods, fundada en 2017, se centra en el tarwi, una legumbre andina rica en proteínas. Inicialmente surgió de un proyecto sobre los alcaloides del tarwi, pero su fundador se centró en su potencial culinario y nutricional, lo que dio lugar a la creación de la empresa. TarwiFoods penetró con éxito en el mercado, pasando de las ferias locales a más de 150 tiendas especializadas. La intiativa destaca la importancia de la transparencia y la colaboración con los agricultores, así como el compromiso de la empresa con la promoción de la biodiversidad y la alimentación sana.",
     "de": "TarwiFoods wurde 2017 gegründet und konzentriert sich auf Tarwi, eine proteinreiche Hülsenfrucht aus den Anden. Ursprünglich durch ein Projekt über Tarwi-Alkaloide ausgelöst, verlagerte der Gründer den Schwerpunkt auf das kulinarische und ernährungsphysiologische Potenzial, was zur Gründung des Unternehmens führte. TarwiFoods konnte sich erfolgreich auf dem Markt etablieren und expandierte von lokalen Messen zu über 150 Fachgeschäften. Das Unternehmen unterstreicht die Bedeutung von Transparenz und Zusammenarbeit mit den Landwirten sowie sein Engagement für die Förderung der biologischen Vielfalt und einer gesunden Ernährung."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "JAIMES ARMAS"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://tarwicorp.com/",
   "yt": "PZ1Tl73G_bY",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Tarwi Foods was founded by Daisy Jaimes and her academic partner William, initially selling at organic fairs to validate their products based on tarwi, a high-protein Andean legume.",
         "fr": "Tarwi Foods a été fondée par Daisy Jaimes et son partenaire académique William, vendant initialement dans des foires biologiques pour valider leurs produits à base de tarwi, une légumineuse andine riche en protéines.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The company faced two major early obstacles: educating consumers about tarwi and developing a safe debittering process to remove alkaloids and make the grain fit for consumption.",
         "fr": "L'entreprise a fait face à deux obstacles majeurs dès ses débuts : sensibiliser les consommateurs au tarwi et développer un processus de désamérisation sûr pour éliminer les alcaloïdes et rendre la graine propre à la consommation.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Within five months of validating their product, Tarwi Foods entered approximately 30 specialized organic stores, growing to 150 stores the following year and also beginning B2B sales to food manufacturers.",
         "fr": "Cinq mois après avoir validé leur produit, Tarwi Foods a intégré environ 30 magasins biologiques spécialisés, puis 150 magasins l'année suivante, tout en commençant des ventes B2B auprès de fabricants alimentaires.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company won a Proinnovate government fund to improve the debittering process using ultrasound technology, and later won a joint Mincetur-Proinnovate fund to internationalize tarwi in the American market.",
         "fr": "L'entreprise a remporté un fonds gouvernemental Proinnovate pour améliorer le processus de désamérisation grâce à la technologie ultrasonique, puis a obtenu un fonds conjoint Mincetur-Proinnovate pour internationaliser le tarwi sur le marché américain.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic strained operations, forcing the two founders to work over 12-hour days and slowing team growth, though the company continued to expand gradually.",
         "fr": "La pandémie de COVID-19 a mis à rude épreuve les opérations, obligeant les deux fondateurs à travailler plus de 12 heures par jour et ralentissant la croissance de l'équipe, bien que l'entreprise ait continué à se développer progressivement.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Tarwi Foods entered Supermercados Peruanos chains including Plaza Vea and Vivanda, obtained the first organic certification for tarwi, exported a container to Miami, and co-created the official Peruvian technical standard for the tarwi debittering process with the Ministry of Agriculture.",
         "fr": "Tarwi Foods a intégré les enseignes Supermercados Peruanos, dont Plaza Vea et Vivanda, a obtenu la première certification biologique pour le tarwi, a exporté un conteneur vers Miami, et a co-créé la norme technique officielle péruvienne pour le processus de désamérisation du tarwi avec le ministère de l'Agriculture.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Andean tarwi-based protein products for sale",
         "fr": "Produits protéinés à base de tarwi andin à vendre",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access for Andean tarwi farmers",
         "fr": "Accès au marché pour les agriculteurs de tarwi andin",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer education on tarwi nutritional benefits",
         "fr": "Éducation des consommateurs sur les bienfaits nutritionnels du tarwi",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technical standards for tarwi desamargado process",
         "fr": "Normes techniques pour le processus de désamargado du tarwi",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Connections linking farmers to agronomy organizations",
         "fr": "Connexions reliant les agriculteurs aux organisations agronomiques",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Quality and cultivation guidance to farmer associations",
         "fr": "Conseils en qualité et en culture aux associations d'agriculteurs",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International market expansion for tarwi products",
         "fr": "Expansion internationale du marché des produits à base de tarwi",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "International research alliances for product development",
         "fr": "Alliances de recherche internationales pour le développement de produits",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More Andean agricultural associations as suppliers",
         "fr": "Plus d'associations agricoles andines en tant que fournisseurs",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer education to drive tarwi adoption",
         "fr": "Éducation des consommateurs pour encourager l'adoption du tarwi",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for scaling operations and team growth",
         "fr": "Financement pour le développement des opérations et la croissance de l'équipe",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partnerships with organic retail chains",
         "fr": "Partenariats avec des chaînes de vente au détail biologiques",

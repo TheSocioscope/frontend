@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739453345,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Pic'Assiette es una asociación con sede en los suburbios de Montpellier, centrada en mejorar la accesibilidad y sostenibilidad de los alimentos en una región a menudo olvidada por las iniciativas existentes. Pic'Assiette pretende abordar los problemas alimentarios combinando componentes de agricultura, ordenación del territorio y salud. Fundada en 2010, Pic'Assiette es una asociación dedicada a la educación alimentaria sostenible, que promueve una alimentación en armonía con el medio ambiente, la salud y la región, como una cadena que va de la tierra a nuestros platos.",
     "de": "Pic'Assiette ist ein in den Vororten von Montpellier ansässiger Verein, der sich auf die Verbesserung des Zugangs zu Lebensmitteln und der Nachhaltigkeit in einer Region konzentriert, die von bestehenden Initiativen oft übersehen wird. Pic'Assiette will Ernährungsprobleme durch die Kombination von Landwirtschaft, Regionalplanung und Gesundheitskomponenten angehen. Pic'Assiette wurde 2010 gegründet und ist ein Verein, der sich der nachhaltigen Ernährungserziehung verschrieben hat. Er fördert Lebensmittel, die im Einklang mit der Umwelt, der Gesundheit und der Region stehen, wie eine Kette, die von der Erde bis zu unseren Tellern verläuft."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Viala"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://letsfoodideas.com/fr/initiative/alimentation-durable-association/",
   "yt": "jWlXNAHbcwo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2009-2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Françoise Viala and a group of citizens conducted a first diagnostic on food access in the Grand-Pic-Saint-Loup area, noting the lack of local food circuits beyond wine. A first buying group was formed to improve local food access.",
         "fr": "Françoise Viala et un groupe de citoyens ont réalisé un premier diagnostic sur l'accès à l'alimentation dans le secteur du Grand-Pic-Saint-Loup, constatant le manque de circuits alimentaires locaux au-delà du vin. Un premier groupement d'achat a été constitué pour améliorer l'accès à l'alimentation locale.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Picassiette was formally created and Françoise Viala joined as a salaried employee, with the mission to sensibilize inhabitants of the Pic Saint-Loup territory to eat better and source food through local circuits.",
         "fr": "Picassiette a été officiellement créée et Françoise Viala l'a rejointe en tant que salariée, avec pour mission de sensibiliser les habitants du territoire du Pic Saint-Loup à mieux manger et à s'approvisionner via des circuits locaux.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2013-2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The emergence of the PAT network in Occitanie and a particularly engaged mission officer at the DRAF helped legitimize and propel the project, leading to Picassiette being solicited to participate in reflections on sustainable food education.",
         "fr": "L'émergence du réseau PAT en Occitanie et un chargé de mission particulièrement engagé à la DRAF ont contribué à légitimer et à propulser le projet, conduisant Picassiette à être sollicitée pour participer à des réflexions sur l'éducation alimentaire durable.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2017",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Picassiette was selected to animate a full week of interventions for the Montpellier metropolis around a short-circuit food campaign, marking a key milestone that propelled the association beyond its local territory.",
         "fr": "Picassiette a été sélectionnée pour animer une semaine complète d'interventions pour la métropole de Montpellier autour d'une campagne alimentaire en circuit court, marquant une étape clé qui a propulsé l'association au-delà de son territoire local.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Covid-19 pandemic reduced Picassiette from four salaried employees to eventually one, as all in-person interventions and training activities were suspended. The association pivoted toward a new 'archipelago' operating model.",
         "fr": "La pandémie de Covid-19 a réduit l'effectif de Picassiette de quatre salariés à un seul, toutes les interventions en présentiel et les activités de formation ayant été suspendues. L'association s'est réorientée vers un nouveau modèle de fonctionnement en 'archipel'.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Françoise Viala became the sole salaried coordinator, managing a network of external contributors per project. The association increasingly focused on professional training driven by the Egalim law, while launching a new diagnostic on food precarity in the territory.",
         "fr": "Françoise Viala est devenue la seule coordinatrice salariée, gérant un réseau de contributeurs externes par projet. L'association s'est concentrée de plus en plus sur la formation professionnelle portée par la loi Egalim, tout en lançant un nouveau diagnostic sur la précarité alimentaire sur le territoire.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food education from nursery to high school",
         "fr": "Éducation alimentaire de la crèche au lycée",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training for canteen and animation staff",
         "fr": "Formation du personnel de cantine et d'animation",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Citizen awareness actions at local markets",
         "fr": "Actions de sensibilisation citoyenne sur les marchés locaux",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Short circuit food diagnostics for local territories",
         "fr": "Diagnostics alimentaires en circuit court pour les territoires locaux",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Nourishing corridor for seasonal growing practices",
         "fr": "Couloir nourricier pour les pratiques de culture saisonnière",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Citizen consultations within food territory projects",
         "fr": "Consultations citoyennes dans le cadre de projets de territoire alimentaire",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Associations complémentaires dans réseau d'éducation environnement",
         "fr": "Complementary associations in the environmental education network",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Subventions de fonctionnement non fléchées",
         "fr": "Non-earmarked operating grants",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Élus sensibilisés à l'alimentation durable",
         "fr": "Elected officials made aware of sustainable food",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Études d'impact sur actions de sensibilisation",
         "fr": "Impact studies on awareness-raising actions",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Bénévoles formés pour appuyer coordination",
         "fr": "Trained volunteers to support coordination",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Cadre PAT pérenne sur territoires ruraux",
         "fr": "Sustainable PAT framework in rural territories",

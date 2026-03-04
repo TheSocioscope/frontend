@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Biofutura is a Costa Rican company focused on developing sustainable and innovative solutions for agriculture and food systems.",
     "de": "Biofutura is a Costa Rican company focused on developing sustainable and innovative solutions for agriculture and food systems."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Rodríguez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://biofuturacr.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2010",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Javier Rodríguez co-founded Bio Futura with his wife, beginning by collecting food waste from large companies such as Intel, Procter & Gamble, and Coca-Cola FEMSA to produce organic compost.",
         "fr": "Javier Rodríguez a cofondé Bio Futura avec sa femme, en commençant par collecter les déchets alimentaires de grandes entreprises telles qu'Intel, Procter & Gamble et Coca-Cola FEMSA pour produire du compost organique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2010-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Over 10 years of operation, Bio Futura collected approximately 2,500 tonnes of food waste and 1,500 tonnes of woody residues, producing over 50,000 bags of organic fertilizer from a rented 2,000 square metre facility.",
         "fr": "Au cours de 10 ans d'activité, Bio Futura a collecté environ 2 500 tonnes de déchets alimentaires et 1 500 tonnes de résidus ligneux, produisant plus de 50 000 sacs d'engrais organique depuis une installation louée de 2 000 mètres carrés.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Bio Futura launched its own line of residential composting units, designing and manufacturing them nationally; Javier personally delivered nearly all 1,000 units sold across Costa Rica.",
         "fr": "Bio Futura a lancé sa propre gamme d'unités de compostage résidentiel, les concevant et les fabriquant localement ; Javier a personnellement livré près de la totalité des 1 000 unités vendues à travers le Costa Rica.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic reduced client demand and, combined with the Ministry of Health's refusal to renew the operating permit without costly infrastructure upgrades, forced Bio Futura to close its composting plant after 10 years.",
         "fr": "La pandémie de COVID-19 a réduit la demande des clients et, combinée au refus du Ministère de la Santé de renouveler le permis d'exploitation sans coûteux travaux d'infrastructure, a contraint Bio Futura à fermer son usine de compostage après 10 ans d'activité.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Bio Futura pivoted to consultancy, applying its accumulated know-how to design and implement forced-air composting systems for municipalities, including pilot projects in Turrialba and San Rafael de Heredia.",
         "fr": "Bio Futura s'est reconvertie dans le conseil, en appliquant son savoir-faire accumulé pour concevoir et mettre en œuvre des systèmes de compostage à air forcé pour les municipalités, notamment des projets pilotes à Turrialba et San Rafael de Heredia.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Bio Futura is actively pursuing larger municipal contracts, including a 300-tonne-per-month project in Cobano valued at approximately two million dollars, while exploring biochar technology as a complementary solution.",
         "fr": "Bio Futura poursuit activement de plus grands contrats municipaux, dont un projet de 300 tonnes par mois à Cobano d'une valeur d'environ deux millions de dollars, tout en explorant la technologie du biochar comme solution complémentaire.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Forced air composting systems for municipalities",
         "fr": "Systèmes de compostage à air forcé pour les municipalités",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical consulting and staff training for compost plants",
         "fr": "Conseil technique et formation du personnel pour les usines de compostage",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Operation manuals and data tracking tools",
         "fr": "Manuels d'exploitation et outils de suivi des données",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Home composting systems for households",
         "fr": "Systèmes de compostage domestique pour les ménages",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic waste collection from large companies",
         "fr": "Collecte des déchets organiques auprès des grandes entreprises",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organic compost production and sales",
         "fr": "Production et vente de compost organique",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Municipal governments for pilot composting projects",
         "fr": "Gouvernements municipaux pour des projets de compostage pilotes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donations from foundations like Fundacion Crusa",
         "fr": "Dons de fondations telles que Fundacion Crusa",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Adoption of forced air composting technology",
         "fr": "Adoption de la technologie de compostage à air forcé",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for organic compost from facilities",
         "fr": "Acheteurs de compost organique provenant des installations",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data from pilot projects to scale solutions",
         "fr": "Données issues de projets pilotes pour développer des solutions à grande échelle",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government regulatory flexibility for innovation",
         "fr": "Flexibilité réglementaire gouvernementale pour l'innovation",

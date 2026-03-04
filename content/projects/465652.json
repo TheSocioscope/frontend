@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754476018,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de Rancho Mastatal se centra en las prácticas regenerativas, la vida sostenible y la educación en permacultura en Costa Rica. Fundado por un entregado equipo de extranjeros, el centro ofrece programas de formación, aprendizaje y experiencias de ecoturismo, fomentando una comunidad que hace hincapié en la armonía con la naturaleza. Con un compromiso con el abastecimiento local y la integración en la comunidad, su objetivo es inspirar a los visitantes a adoptar estilos de vida sostenibles, creando un efecto dominó que se extiende más allá de su entorno inmediato.",
     "de": "Die Initiative auf Rancho Mastatal konzentriert sich auf regenerative Praktiken, nachhaltiges Leben und Permakultur-Erziehung in Costa Rica. Das von einem engagierten Team von Ausländern gegründete Zentrum bietet Trainingsprogramme, Lehrlingsausbildungen und Öko-Tourismus-Erfahrungen an und fördert eine Gemeinschaft, die Harmonie mit der Natur betont. Mit ihrem Engagement für die lokale Beschaffung und die Integration der Gemeinschaft wollen sie Besucher dazu inspirieren, nachhaltige Lebensstile anzunehmen und so einen Ripple-Effekt zu erzeugen, der über ihre unmittelbare Umgebung hinausgeht."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Ann Nunes"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change"
-  ],
+  "thematic": ["ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ranchomastatal.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2001",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Rancho Mastatal was founded in 2001 by Tim O'Hara and fellow core team members in the rural community of Mastatal, Costa Rica. The project was established as a sustainability education center focused on permaculture, regenerative land management, and natural building.",
         "fr": "Rancho Mastatal a été fondé en 2001 par Tim O'Hara et d'autres membres fondateurs de l'équipe centrale dans la communauté rurale de Mastatal, au Costa Rica. Le projet a été créé en tant que centre d'éducation à la durabilité axé sur la permaculture, la gestion régénérative des terres et la construction naturelle.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2001-2011",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "For the first ten years, the founders had no phones or Internet access, with the nearest connection requiring a several-hour drive on rough dirt roads. Operating as a hospitality and education center under these conditions posed significant logistical challenges.",
         "fr": "Pendant les dix premières années, les fondateurs n'avaient ni téléphone ni accès à Internet, la connexion la plus proche nécessitant plusieurs heures de route sur des chemins de terre difficiles. Gérer un centre d'hébergement et d'éducation dans ces conditions posait des défis logistiques considérables.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "ongoing early years",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The project developed a 12-acre food production system with over 100 species of food-producing trees in a perennial polyculture model, experimenting with food sovereignty alternatives to monoculture farming. A conscious sourcing policy was also established to supply the kitchen almost entirely from producers within a five-kilometer radius.",
         "fr": "Le projet a développé un système de production alimentaire de 12 acres avec plus de 100 espèces d'arbres producteurs de nourriture dans un modèle de polyculture pérenne, expérimentant des alternatives de souveraineté alimentaire à l'agriculture en monoculture. Une politique d'approvisionnement responsable a également été mise en place pour fournir la cuisine presque entièrement auprès de producteurs situés dans un rayon de cinq kilomètres.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "over 24 years",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The ranch grew to serve approximately 20,000 meals per year and receive around 400 people annually for training, including a year-long apprenticeship program and permaculture design certification courses. This activity helped stimulate a more diverse and robust local rural economy.",
         "fr": "Le ranch a évolué pour servir environ 20 000 repas par an et accueillir près de 400 personnes chaque année pour des formations, dont un programme d'apprentissage d'un an et des cours de certification en conception en permaculture. Cette activité a contribué à stimuler une économie rurale locale plus diversifiée et plus dynamique.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "recent years",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Internet access arrived in the area for the first time within roughly the last five years, enabling the ranch to develop an online audience and social media presence for the first time in its history. This marked a significant shift in how the project communicates and markets its educational offerings.",
         "fr": "L'accès à Internet est arrivé dans la région pour la première fois au cours des cinq dernières années environ, permettant au ranch de développer pour la première fois de son histoire une audience en ligne et une présence sur les réseaux sociaux. Cela a marqué un changement significatif dans la façon dont le projet communique et commercialise ses offres éducatives.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "present",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The core team is currently constructing a large new bioconstruction housing structure, using the project itself as a training opportunity to attract paying participants who contribute labor. They are also establishing a trust to safeguard the project's assets and ensure continuity as the founders plan for long-term legacy.",
         "fr": "L'équipe centrale construit actuellement une grande nouvelle structure d'hébergement en bioconstruction, utilisant le projet lui-même comme opportunité de formation pour attirer des participants payants qui apportent leur travail. Ils mettent également en place une fiducie pour protéger les actifs du projet et assurer sa continuité alors que les fondateurs planifient leur legs à long terme.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Courses in permaculture and natural building",
         "fr": "Cours en permaculture et construction naturelle",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Year-long apprenticeship program for sustainability",
         "fr": "Programme d'apprentissage d'un an pour la durabilité",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental food forest with 100+ species",
         "fr": "Forêt nourricière expérimentale avec plus de 100 espèces",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Stable market for local food producers",
         "fr": "Marché stable pour les producteurs alimentaires locaux",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Job creation for rural local community",
         "fr": "Création d'emplois pour la communauté rurale locale",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "20,000 meals sourced from local farmers",
         "fr": "20 000 repas provenant d'agriculteurs locaux",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local community suppliers within 5km radius",
         "fr": "Fournisseurs locaux de la communauté dans un rayon de 5 km",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Students and apprentices for permaculture training",
         "fr": "Étudiants et apprentis pour la formation en permaculture",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Universities and institutions sending student groups",
         "fr": "Universités et institutions envoyant des groupes d'étudiants",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimental perennial polyculture food production",
         "fr": "Production alimentaire expérimentale en polyculture pérenne",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local producers needing stable food system markets",
         "fr": "Producteurs locaux ayant besoin de marchés stables pour les systèmes alimentaires",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Apprentices for year-long sustainability programs",
         "fr": "Apprentis pour des programmes de durabilité d'un an",

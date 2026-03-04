@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754563115,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Ghretek Sustratos Inteligentes es una empresa innovadora centrada en la producción de bioproductos y bioinsumos para la agricultura mediante la transformación de subproductos agroindustriales. Fundada por un equipo de experimentados emprendedores, Ghretek pretende dar respuesta a las necesidades del sector de los viveros, crucial para la multiplicación de las plantas. Mediante el desarrollo de sustratos inteligentes adaptados a especies vegetales específicas, la empresa promueve prácticas sostenibles y mejora la productividad agrícola, al tiempo que contribuye a la economía circular a través de la valorización de materiales de desecho.",
     "de": "Ghretek Sustratos Inteligentes ist ein innovatives Unternehmen, das sich auf die Herstellung von Bioprodukten und Bioinputs für die Landwirtschaft durch die Verarbeitung agro-industrieller Nebenprodukte konzentriert. Das von einem Team erfahrener Unternehmer gegründete Unternehmen Ghretek zielt darauf ab, die Bedürfnisse des Kindergartensektors zu erfüllen, der für die Pflanzenvermehrung von entscheidender Bedeutung ist. By developing intelligent substrates tailored to specific plant species, the company promotes sustainable practices and enhances agricultural productivity while contributing to the circular economy through the valorization of waste materials."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Cecilia Celinas Palmieri"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ghretek.com/",
   "yt": "WsKPbc7YtTo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "INTA Mendoza began receiving consultations about substrate problems in container crops, identifying widespread knowledge gaps in the viverista sector. Research into stabilizing agroindustrial byproducts, particularly from the wine industry, began at this time.",
         "fr": "L'INTA Mendoza a commencé à recevoir des consultations concernant des problèmes de substrats dans les cultures en conteneurs, identifiant des lacunes de connaissances généralisées dans le secteur viveriste. Des recherches sur la stabilisation des sous-produits agroindustriels, notamment issus de l'industrie viticole, ont débuté à cette époque.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Gretec Sustratos Inteligentes was formally constituted as a company in December 2023, after co-founders participated in INTA's innovation contest and completed a biobusiness diploma at Universidad Nacional de San Martín.",
         "fr": "Gretec Sustratos Inteligentes a été formellement constituée en tant que société en décembre 2023, après que ses cofondateurs ont participé au concours d'innovation de l'INTA et obtenu un diplôme de bioentreprise à l'Universidad Nacional de San Martín.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The startup began operating within INTA's innovation node (Nodo de Innovación Cuyo), using its laboratories for R&D and receiving incubation support including business plan development and intellectual property guidance.",
         "fr": "La startup a commencé à opérer au sein du nœud d'innovation de l'INTA (Nodo de Innovación Cuyo), en utilisant ses laboratoires pour la R&D et en bénéficiant d'un soutien à l'incubation comprenant le développement d'un plan d'affaires et des conseils en propriété intellectuelle.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Gretec won third place at the IBK prize from Instituto Balseiro and first prize for small innovative enterprises at Universidad Nacional de Cuyo, gaining visibility that attracted large early-adopter clients such as Arcor.",
         "fr": "Gretec a remporté la troisième place au prix IBK de l'Instituto Balseiro et le premier prix pour les petites entreprises innovantes à l'Universidad Nacional de Cuyo, gagnant en visibilité et attirant de grands clients pionniers tels qu'Arcor.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company established a production plant in Rivadavia, Mendoza, hiring approximately 10 people and beginning commercial deliveries of intelligent substrates to major viverista clients across Argentina.",
         "fr": "La société a établi une usine de production à Rivadavia, Mendoza, en embauchant environ 10 personnes et en commençant les livraisons commerciales de substrats intelligents à de grands clients viveristes à travers l'Argentine.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Early investment conversations did not materialize, prompting the team to self-fund operations, refine their value proposition, and join the BCR Startup Network of the Bolsa de Comercio Rosario for mentorship and market access.",
         "fr": "Les premières discussions avec des investisseurs n'ont pas abouti, ce qui a poussé l'équipe à autofinancer ses activités, à affiner sa proposition de valeur et à rejoindre le BCR Startup Network de la Bolsa de Comercio Rosario pour bénéficier de mentorat et d'un accès au marché.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biotechnology-based intelligent substrate design",
         "fr": "Conception de substrats intelligents basée sur la biotechnologie",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Upcycling of agro-industrial byproducts",
         "fr": "Valorisation des sous-produits agro-industriels",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Bioinputs for nursery and food production",
         "fr": "Biointrants pour la pépinière et la production alimentaire",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Post-sale technical advisory for growers",
         "fr": "Conseil technique après-vente pour les producteurs",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Future software for global substrate formulation",
         "fr": "Futur logiciel de formulation de substrats à l'échelle mondiale",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental module for crop substrate testing",
         "fr": "Module expérimental pour les tests de substrats de culture",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment rounds to scale operations",
         "fr": "Tours de financement pour développer les opérations",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic agroindustrial partners nationwide",
         "fr": "Partenaires agroindustriels stratégiques à l'échelle nationale",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Viverista clients to validate smart substrates",
         "fr": "Clients pépiniéristes pour valider les substrats intelligents",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Regional agroindustrial and mining byproduct mapping",
         "fr": "Cartographie régionale des sous-produits agroindustriels et miniers",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Global software platform for substrate design",
         "fr": "Plateforme logicielle mondiale pour la conception de substrats",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754576541,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Charlie's Winery Ltd. es una empresa vinícola innovadora especializada en la producción de vino de hibisco ecológico. Inspirada en los experimentos vinícolas de su padre, la bodega utiliza flores de hibisco de origen local procedentes del lago Victoria. Esta iniciativa no sólo ofrece una opción de bebida única, sino que también apoya a los agricultores locales y promueve los beneficios para la salud asociados al hibisco. Centrándose en la sostenibilidad y las prácticas ecológicas, Charlie's Winery pretende educar a los consumidores sobre las ventajas de su producto.",
     "de": "Charlie's Winery Ltd. ist ein innovatives Weinunternehmen, das sich auf die Herstellung von organischem Hibiskus-Wein spezialisiert hat. Inspiriert von den Weinbauexperimenten seines Vaters, verwendet die Weinkellerei lokal angebaute Hibiskusblüten aus dem Lake Victoria. Diese Initiative bietet nicht nur eine einzigartige Getränkeoption, sondern unterstützt auch lokale Bauern und fördert die mit Hibiskus verbundenen gesundheitlichen Vorteile. Mit einem Schwerpunkt auf Nachhaltigkeit und organischen Praktiken möchte Charlie's Winery die Verbraucher über die Vorteile ihres Produkts aufklären."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Mwangi"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://charlieswinery.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1969",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The founder began making fruit wine as a hobby after being introduced to the craft by a British colleague who brought books and techniques from the UK. Early wines were made from pears, apples, oranges, bananas, and grapes.",
         "fr": "Le fondateur a commencé à fabriquer du vin de fruits comme passe-temps après avoir été initié à cet art par un collègue britannique qui avait apporté des livres et des techniques du Royaume-Uni. Les premiers vins étaient fabriqués à partir de poires, de pommes, d'oranges, de bananes et de raisins.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1989",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The founder became a committed Christian and stepped back from winemaking, handing over the hobby and knowledge to his son Charles, who continued experimenting independently.",
         "fr": "Le fondateur est devenu un chrétien engagé et a pris du recul par rapport à la vinification, transmettant le passe-temps et le savoir-faire à son fils Charles, qui a continué à expérimenter de manière indépendante.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During COVID-19 lockdowns, Charles resumed winemaking and identified hibiscus as his core ingredient, choosing it for its deep red color, health benefits, and consistent supply from the Lake Victoria region.",
         "fr": "Pendant les confinements liés au COVID-19, Charles a repris la vinification et a identifié l'hibiscus comme ingrédient principal, le choisissant pour sa couleur rouge profonde, ses bienfaits pour la santé et son approvisionnement régulier depuis la région du lac Victoria.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The licensing process took approximately two and a half years to complete, during which the business could not legally sell commercially, with expensive equipment requirements and regulatory delays posing major obstacles.",
         "fr": "Le processus d'obtention de licence a pris environ deux ans et demi, durant lesquels l'entreprise ne pouvait pas légalement vendre à des fins commerciales, les exigences coûteuses en équipement et les retards réglementaires constituant des obstacles majeurs.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Charles attended a university course to formally study wine production parameters, building on decades of self-taught practical experience from his father's books.",
         "fr": "Charles a suivi un cours universitaire pour étudier formellement les paramètres de production du vin, s'appuyant sur des décennies d'expérience pratique autodidacte acquise grâce aux livres de son père.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Charles Winery began legally selling hibiscus wine commercially, entering approximately 50 outlets around Nairobi and six stores of a major supermarket chain, with plans to expand to every county and eventually export regionally.",
         "fr": "Charles Winery a commencé à vendre légalement du vin d'hibiscus à des fins commerciales, entrant dans environ 50 points de vente autour de Nairobi et dans six magasins d'une grande chaîne de supermarchés, avec des projets d'expansion dans chaque comté et d'exportation régionale à terme.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic hibiscus wine with no preservatives",
         "fr": "Vin d'hibiscus biologique sans conservateurs",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consistent market for hibiscus flower farmers",
         "fr": "Marché stable pour les agriculteurs de fleurs d'hibiscus",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cash payments on delivery to farmers",
         "fr": "Paiements en espèces à la livraison aux agriculteurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Healthy alcoholic drink with natural health benefits",
         "fr": "Boisson alcoolisée saine avec des bienfaits naturels pour la santé",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Wine available in 50+ outlets across Nairobi",
         "fr": "Vin disponible dans plus de 50 points de vente à Nairobi",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Consistent hibiscus flower suppliers from lake region",
         "fr": "Fournisseurs réguliers de fleurs d'hibiscus de la région lacustre",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supermarket and hotel distribution partnerships",
         "fr": "Partenariats de distribution avec les supermarchés et les hôtels",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Health-conscious consumers for organic wine",
         "fr": "Consommateurs soucieux de leur santé pour le vin biologique",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External financing for production expansion",
         "fr": "Financement externe pour l'expansion de la production",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Export market partners in East Africa and beyond",
         "fr": "Partenaires de marché d'exportation en Afrique de l'Est et au-delà",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Education on hibiscus health benefits",
         "fr": "Sensibilisation aux bienfaits de l'hibiscus pour la santé",

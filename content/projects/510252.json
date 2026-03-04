@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A major food rescue and distribution organization addressing food insecurity across South Africa.",
     "de": "A major food rescue and distribution organization addressing food insecurity across South Africa."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "South Africa",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Du Plessis"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://foodforwardsa.org/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Food Forward SA was established to address the paradox of surplus food waste while millions of South Africans remained food insecure and malnourished. It was formed through an amalgamation of smaller regional food recovery organizations under a unified national structure, originally named Food Bank.",
         "fr": "Food Forward SA a été créée pour répondre au paradoxe du gaspillage alimentaire excédentaire alors que des millions de Sud-Africains restaient en situation d'insécurité alimentaire et de malnutrition. Elle a été formée par la fusion de petites organisations régionales de récupération alimentaire au sein d'une structure nationale unifiée, initialement nommée Food Bank.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The South African Reserve Bank required the organization to change its name from Food Bank, as it was not a lending institution. The organization rebranded to Food Forward SA.",
         "fr": "La Banque de réserve sud-africaine a exigé que l'organisation change son nom de Food Bank, car elle n'était pas un établissement de crédit. L'organisation a été rebaptisée Food Forward SA.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2009-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Over 16 years of operation, Food Forward SA scaled to serve over 250,000 beneficiary organizations, reaching approximately 1 million people daily and distributing over 22 tons of food annually across all nine provinces via five physical warehouses and a mobile rural program.",
         "fr": "Au cours de 16 années d'activité, Food Forward SA a évolué pour servir plus de 250 000 organisations bénéficiaires, atteignant environ 1 million de personnes par jour et distribuant plus de 22 tonnes de nourriture annuellement dans les neuf provinces via cinq entrepôts physiques et un programme mobile en milieu rural.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2009-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Food Forward SA developed the Food Share digital platform, an ERP-based tracking system connecting food donors directly with beneficiary organizations, enabling real-time monitoring of incoming donations and outgoing distributions while lowering operational costs.",
         "fr": "Food Forward SA a développé la plateforme numérique Food Share, un système de suivi basé sur un ERP reliant directement les donateurs alimentaires aux organisations bénéficiaires, permettant un suivi en temps réel des dons entrants et des distributions sortantes tout en réduisant les coûts opérationnels.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Food Forward SA established research collaborations with institutions including Stellenbosch University, UCT, MIT, and Harvard Law School's Food Law and Policy Clinic to generate evidence on food insecurity and malnutrition and strengthen policy advocacy.",
         "fr": "Food Forward SA a établi des collaborations de recherche avec des institutions telles que l'Université de Stellenbosch, l'UCT, le MIT et la Clinique de droit et de politique alimentaire de la faculté de droit de Harvard, afin de produire des données probantes sur l'insécurité alimentaire et la malnutrition et de renforcer le plaidoyer politique.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Food Forward SA has engaged government for years to advocate for a national food donation policy that would formalize surplus food redistribution and prevent edible food from being dumped in landfills, though government bureaucracy and lack of direct funding support remain persistent obstacles.",
         "fr": "Food Forward SA s'engage depuis des années auprès du gouvernement pour plaider en faveur d'une politique nationale de don alimentaire qui formaliserait la redistribution des excédents alimentaires et empêcherait que des aliments comestibles soient jetés dans des décharges, bien que la bureaucratie gouvernementale et le manque de soutien financier direct restent des obstacles persistants.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recovery of edible surplus food from supply chain",
         "fr": "Récupération des surplus alimentaires comestibles de la chaîne d'approvisionnement",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Food redistribution to vulnerable communities",
         "fr": "Redistribution alimentaire aux communautés vulnérables",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Monthly food allocations to beneficiary organizations",
         "fr": "Allocations alimentaires mensuelles aux organisations bénéficiaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Digital platform connecting food donors and beneficiaries",
         "fr": "Plateforme numérique reliant les donateurs alimentaires et les bénéficiaires",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data sharing with research institutions on malnutrition",
         "fr": "Partage de données avec les institutions de recherche sur la malnutrition",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Mobile rural food delivery to remote provinces",
         "fr": "Livraison alimentaire mobile en milieu rural vers les provinces éloignées",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More food donors from farms and manufacturers",
         "fr": "Plus de donneurs de nourriture issus des fermes et des fabricants",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "National food donation policy from government",
         "fr": "Politique nationale de don alimentaire de la part du gouvernement",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Corporate and philanthropic financial support",
         "fr": "Soutien financier des entreprises et des philanthropes",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New beneficiary organizations across South Africa",
         "fr": "Nouvelles organisations bénéficiaires à travers l'Afrique du Sud",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand rural mobile distribution program",
         "fr": "Développer le programme de distribution mobile en milieu rural",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research collaboration on malnutrition and food insecurity",
         "fr": "Collaboration de recherche sur la malnutrition et l'insécurité alimentaire",

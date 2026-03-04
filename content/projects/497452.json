@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755089065,
   "date": null,
   "description": {
@@ -19,11 +15,7 @@
     "es": "Bio Flash es una iniciativa innovadora fundada en 2017, destinada a abordar los desafíos de la gestión de residuos orgánicos en Perú. Mediante la utilización de un consorcio microbiano único, Bio Flash acelera el proceso de compostaje, transformando los residuos orgánicos en compost rico en nutrientes en tan solo 30 a 35 días. La iniciativa no solo apoya la agricultura sostenible, sino que también capacita a los agricultores y empresas locales para gestionar sus residuos de manera eficaz, contribuyendo a una economía circular y a la sostenibilidad medioambiental.",
     "de": "Bio Flash ist eine innovative Initiative, die 2017 gegründet wurde, um die Herausforderungen der Bewirtschaftung organischer Abfälle in Peru zu bewältigen. Durch den Einsatz eines einzigartigen mikrobiellen Konsortiums beschleunigt Bio Flash den Kompostierungsprozess und verwandelt organische Abfälle in nur 30 bis 35 Tagen in nährstoffreichen Kompost. Die Initiative unterstützt nicht nur die nachhaltige Landwirtschaft, sondern befähigt auch lokale Landwirte und Unternehmen, ihre Abfälle effektiv zu bewirtschaften und so zu einer Kreislaufwirtschaft und ökologischen Nachhaltigkeit beizutragen."
   },
-  "field": [
-    "ecology-environmental-sciences",
-    "nutrition",
-    "biology"
-  ],
+  "field": ["ecology-environmental-sciences", "nutrition", "biology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +33,16 @@
       "lastname": "LAURO LOPEZ SANCHEZ"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/bioflashperu/",
   "yt": "RUBSH8JG8Zc",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017-2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cristian López, a zootechnical engineer, began developing Bioflash after observing improper organic waste disposal near the Huaycoloro river. After two years of trial and error using residues from dairy, sugar, and brewery industries, the formula was finalized.",
         "fr": "Cristian López, ingénieur zootechnicien, a commencé à développer Bioflash après avoir observé une élimination inappropriée de déchets organiques près de la rivière Huaycoloro. Après deux ans d'essais et d'erreurs utilisant des résidus des industries laitière, sucrière et brassicole, la formule a été finalisée.",
@@ -65,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Bioflash was formally constituted as a SAC and won the Startup G fund from the Ministry of Production, receiving S/50,000 used to improve product packaging with specialized valved caps that extended product shelf life.",
         "fr": "Bioflash a été formellement constituée en SAC et a remporté le fonds Startup G du ministère de la Production, recevant S/50 000 utilisés pour améliorer l'emballage du produit avec des bouchons à valve spécialisés qui ont prolongé la durée de conservation du produit.",
@@ -75,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Bioflash was recognized as a company aligned with the Sustainable Development Goals in Peru, gaining national visibility and credibility.",
         "fr": "Bioflash a été reconnue comme une entreprise alignée sur les Objectifs de Développement Durable au Pérou, gagnant en visibilité et en crédibilité à l'échelle nationale.",
@@ -85,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic severely disrupted operations after a promising launch, forcing the company to pause and only resume commercialization in mid-2021. In response, they developed Bioflash Home, a product adapted for household and garden use.",
         "fr": "La pandémie de COVID-19 a gravement perturbé les opérations après un lancement prometteur, forçant l'entreprise à faire une pause et à ne reprendre la commercialisation qu'à la mi-2021. En réponse, ils ont développé Bioflash Home, un produit adapté à un usage domestique et pour le jardin.",
@@ -95,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Bioflash was recognized among the top green economy startups in Ecuador and established a strategic alliance with Tecnológico de Monterrey, successfully testing Bioflash on wastewater to reduce pathogenic load.",
         "fr": "Bioflash a été reconnue parmi les meilleures startups de l'économie verte en Équateur et a établi une alliance stratégique avec le Tecnológico de Monterrey, testant avec succès Bioflash sur des eaux usées pour réduire la charge pathogène.",
@@ -105,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Bioflash reached over 10,000 tons of valorized organic waste and 200 clients across mining, agro-export, livestock, and municipal sectors, while pursuing a new Proinnovate grant to acquire bioreactors and improve product quality.",
         "fr": "Bioflash a atteint plus de 10 000 tonnes de déchets organiques valorisés et 200 clients dans les secteurs minier, agro-exportateur, de l'élevage et municipal, tout en poursuivant une nouvelle subvention Proinnovate pour acquérir des bioréacteurs et améliorer la qualité des produits.",
@@ -116,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Accelerated composting in 30-35 days",
         "fr": "Compostage accéléré en 30-35 jours",
@@ -125,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Consulting for organic waste management",
         "fr": "Conseil en gestion des déchets organiques",
@@ -134,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Improved compost for organic agriculture",
         "fr": "Compost amélioré pour l'agriculture biologique",
@@ -143,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building for 500+ farmers and students",
         "fr": "Renforcement des capacités pour plus de 500 agriculteurs et étudiants",
@@ -152,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Product kits bundled with organic fertilizers",
         "fr": "Kits de produits associés à des engrais organiques",
@@ -161,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Joint research with university on biotechnology",
         "fr": "Recherche conjointe avec l'université sur la biotechnologie",
@@ -172,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand to Chile, Ecuador, and Mexico markets",
         "fr": "Expansion vers les marchés du Chili, de l'Équateur et du Mexique",
@@ -181,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Stricter organic waste management regulations",
         "fr": "Réglementations plus strictes sur la gestion des déchets organiques",
@@ -190,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investors to scale production capacity",
         "fr": "Investisseurs pour augmenter la capacité de production",
@@ -199,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Membership in Red Impacto Latam network",
         "fr": "Adhésion au réseau Red Impacto Latam",
@@ -208,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Joint research with university on new formulas",
         "fr": "Recherche conjointe avec une université sur de nouvelles formules",
@@ -217,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Corporate clients in private agricultural sector",
         "fr": "Clients corporatifs dans le secteur agricole privé",

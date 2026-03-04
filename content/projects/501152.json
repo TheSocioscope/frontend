@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Suelos Vivos promotes soil health and regenerative agricultural practices to improve food production sustainability in Costa Rica.",
     "de": "Suelos Vivos promotes soil health and regenerative agricultural practices to improve food production sustainability in Costa Rica."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Sio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.suelosvivos.org/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Costa Rica Regenerativa was founded under the University for International Cooperation (UCI), becoming one of the first universities fully focused on regenerative practices and launching projects to demonstrate regeneration in the field.",
         "fr": "Costa Rica Regenerativa a été fondée au sein de l'Université pour la Coopération Internationale (UCI), devenant l'une des premières universités entièrement axées sur les pratiques régénératives et lançant des projets pour démontrer la régénération sur le terrain.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Suelos Vivos was established as the first Savory Institute hub in Central America, providing farmers with holistic land management frameworks including farm planning, grazing plans, and ecological outcome verification.",
         "fr": "Suelos Vivos a été créé en tant que premier hub du Savory Institute en Amérique centrale, offrant aux agriculteurs des cadres holistiques de gestion des terres, incluant la planification agricole, les plans de pâturage et la vérification des résultats écologiques.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Suelos Vivos trained 29 extensionists from Costa Rica's Ministry of Agriculture, gaining significant institutional backing and credibility within the national livestock sector.",
         "fr": "Suelos Vivos a formé 29 agents de vulgarisation du ministère de l'Agriculture du Costa Rica, obtenant un soutien institutionnel significatif et une crédibilité au sein du secteur national de l'élevage.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Suelos Vivos partnered with hubs from Colombia and Ecuador to launch a tri-national training program, combining online modules with in-person field days across all three countries.",
         "fr": "Suelos Vivos s'est associé à des hubs de Colombie et d'Équateur pour lancer un programme de formation trinational, combinant des modules en ligne avec des journées de terrain en présentiel dans les trois pays.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Gambos project (Ganadería y Bosques) was launched in June 2025 in partnership with Replanet, Liga Comunal de La Gua, and UCI, combining regenerative grazing with reforestation financed through voluntary carbon markets.",
         "fr": "Le projet Gambos (Ganadería y Bosques) a été lancé en juin 2025 en partenariat avec Replanet, Liga Comunal de La Gua et UCI, combinant le pâturage régénératif avec le reboisement financé par des marchés volontaires du carbone.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A Free Trade Agreement took effect allowing dairy products to enter Costa Rica tax-free, intensifying competition for local producers already under financial pressure and reinforcing the urgency of Suelos Vivos' mission.",
         "fr": "Un accord de libre-échange est entré en vigueur, permettant aux produits laitiers d'entrer au Costa Rica en franchise de droits, intensifiant la concurrence pour les producteurs locaux déjà sous pression financière et renforçant l'urgence de la mission de Suelos Vivos.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building courses for cattle farmers",
         "fr": "Cours de renforcement des capacités pour les éleveurs de bovins",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm planning and rotational grazing design services",
         "fr": "Services de planification agricole et de conception de pâturage rotatif",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ecological monitoring and outcome verification",
         "fr": "Suivi écologique et vérification des résultats",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Land to Market certification pathway for farms",
         "fr": "Parcours de certification Land to Market pour les exploitations agricoles",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Technical support through certified field technicians",
         "fr": "Soutien technique par des techniciens de terrain certifiés",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training for Ministry of Agriculture extension agents",
         "fr": "Formation pour les agents de vulgarisation du ministère de l'Agriculture",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More farmers adopting regenerative grazing practices",
         "fr": "Plus d'agriculteurs adoptant des pratiques de pâturage régénératif",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with regional livestock chambers",
         "fr": "Collaboration avec les chambres d'élevage régionales",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funding for farm infrastructure and capacity building",
         "fr": "Financement pour les infrastructures agricoles et le renforcement des capacités",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ecological monitoring data from participating farms",
         "fr": "Données de surveillance écologique provenant des exploitations participantes",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Land to Market certification for regenerative farms",
         "fr": "Certification Land to Market pour les exploitations régénératives",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Suppliers of fencing and water distribution equipment",
         "fr": "Fournisseurs de clôtures et d'équipements de distribution d'eau",

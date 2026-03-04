@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1718366299,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Feedbac está especializada en la gestión de residuos alimentarios y ofrece servicios de instalación y ayuda a la clasificación para profesionales que producen residuos, empresas con empleados que almuerzan in situ y autoridades locales.\n\nEl objetivo es realizar un diagnóstico de los residuos alimentarios, conociendo su origen, cantidad y localización. Feedbac proporciona el equipo necesario y organiza las recogidas en función de la producción, hasta seis veces por semana. A continuación, realizan un seguimiento y facilitan información a los profesionales sobre su producción de residuos.\n\nComo intermediario, Feedbac trabaja con profesionales de la recuperación de residuos que los transforman en compost, que luego se redistribuye a agricultores, espacios verdes urbanos y plataformas de venta en línea para particulares.",
     "de": "Feedbac hat sich auf die Entsorgung von Lebensmittelabfällen spezialisiert und bietet Dienstleistungen zur Einrichtung und Begleitung der Mülltrennung für abfallerzeugende Gewerbetreibende, Unternehmen mit Mitarbeitern, die dort zu Mittag essen, und Kommunen an.\n\nZiel ist es, eine Diagnose der Lebensmittelabfälle zu erstellen und deren Herkunft, Menge und Standort zu verstehen. Feedbac stellt die erforderliche Ausrüstung zur Verfügung und organisiert die Abholungen entsprechend der Produktion, die bis zu sechsmal pro Woche stattfinden können. Anschließend führen sie ein Monitoring durch und versorgen die Gewerbetreibenden mit Informationen über ihre Abfallproduktion.\n\nAls Vermittler arbeitet Feedbac mit professionellen Verwertern zusammen, die den Abfall zu Kompost verarbeiten, der dann an Landwirte, städtische Grünflächen und auf Online-Verkaufsplattformen für Privatpersonen weitergegeben wird."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,14 +33,9 @@
       "lastname": "Bonnet"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.feedbac.fr/",
   "yt": "w0iyIUDuB9c",
   "editedAt": 1739530084,
@@ -56,14 +45,12 @@
       "at": 1739530084
     }
   ],
-  "updatedAt": [
-    1739530084
-  ],
+  "updatedAt": [1739530084],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Feedback was co-founded in September 2021 by Pierrick Bonnet and Enzo Mariotti, following Pierrick's experience working in Bocuse restaurants and a year of travel where he witnessed widespread plastic and food waste pollution.",
         "fr": "Feedback a été co-fondée en septembre 2021 par Pierrick Bonnet et Enzo Mariotti, à la suite de l'expérience de Pierrick dans les restaurants Bocuse et d'une année de voyage au cours de laquelle il a été témoin d'une pollution généralisée par les plastiques et les déchets alimentaires.",
@@ -73,7 +60,7 @@
     },
     {
       "date": "March 2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Feedback launched its first waste collection in March 2022, followed by its first staff recruitment and the purchase of a second collection truck.",
         "fr": "Feedback a lancé sa première collecte de déchets en mars 2022, suivie de son premier recrutement de personnel et de l'achat d'un deuxième camion de collecte.",
@@ -83,7 +70,7 @@
     },
     {
       "date": "Late 2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A bank that had committed to a 240,000-euro bridge loan withdrew without notice, triggering a financially difficult period compounded by the energy crisis and the war in Ukraine.",
         "fr": "Une banque qui s'était engagée à accorder un prêt relais de 240 000 euros s'est retirée sans préavis, déclenchant une période financièrement difficile, aggravée par la crise énergétique et la guerre en Ukraine.",
@@ -93,7 +80,7 @@
     },
     {
       "date": "December 31, 2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Feedback finalized a fundraising round of nearly 800,000 euros, enabling the company to move into a commercial development phase with a profitability objective.",
         "fr": "Feedback a finalisé une levée de fonds de près de 800 000 euros, permettant à l'entreprise d'entrer dans une phase de développement commercial avec un objectif de rentabilité.",
@@ -103,7 +90,7 @@
     },
     {
       "date": "January 2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A French law making separate sorting of food waste mandatory came into force, opening up significant commercial opportunities and expected growth in public procurement contracts over the following three to four years.",
         "fr": "Une loi française rendant obligatoire le tri séparé des biodéchets est entrée en vigueur, ouvrant des opportunités commerciales significatives et une croissance attendue des marchés publics au cours des trois à quatre années suivantes.",
@@ -113,7 +100,7 @@
     },
     {
       "date": "Future",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Feedback plans to develop micro-methanization centers capable of processing one to five tonnes of food waste per day close to urban areas, creating a local circular energy loop for the city of Lyon.",
         "fr": "Feedback prévoit de développer des centres de micro-méthanisation capables de traiter une à cinq tonnes de déchets alimentaires par jour à proximité des zones urbaines, créant une boucle énergétique circulaire locale pour la ville de Lyon.",
@@ -124,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Food waste collection and sorting service",
         "fr": "Service de collecte et de tri des déchets alimentaires",
@@ -133,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Waste sorting training and awareness sessions",
         "fr": "Sessions de formation et de sensibilisation au tri des déchets",
@@ -142,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Waste audit and diagnostic for professionals",
         "fr": "Audit et diagnostic des déchets pour les professionnels",
@@ -151,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Consulting on waste flow and sorting implementation",
         "fr": "Conseil sur les flux de déchets et la mise en place du tri",
@@ -160,7 +147,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Compost production via valorization partner",
         "fr": "Production de compost via un partenaire de valorisation",
@@ -169,7 +156,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Competitive subscription-based collection pricing",
         "fr": "Tarification de collecte compétitive par abonnement",
@@ -180,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "New bridge funding round before major raise",
         "fr": "Nouveau tour de table relutif avant une levée majeure",
@@ -189,7 +176,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial clients in underserved French cities",
         "fr": "Clients commerciaux dans des villes françaises mal desservies",
@@ -198,7 +185,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Technology partner for micro-methanization project",
         "fr": "Partenaire technologique pour un projet de micro-méthanisation",
@@ -207,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Local micro-methanization site near Lyon",
         "fr": "Site local de micro-méthanisation près de Lyon",
@@ -216,7 +203,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public market contracts from mandatory sorting law",
         "fr": "Marchés publics issus de la loi sur le tri obligatoire",
@@ -225,7 +212,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Proof of concept for complete waste valorization",
         "fr": "Preuve de concept pour la valorisation complète des déchets",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754575763,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Eco Post, con sede en Nairobi (Kenia), es una empresa social dedicada a reciclar plástico y fabricar productos de construcción duraderos, principalmente postes para ventanas y señalización. Fundada en 2009, la iniciativa pretende combatir el cambio climático proporcionando alternativas ecológicas a los postes de madera, salvando así más de 5.000 hectáreas de tierras y bosques. Además, Eco Post empodera a mujeres marginadas ofreciéndoles oportunidades laborales y formación profesional, fomentando tanto la sostenibilidad medioambiental como la mejora social.",
     "de": "Eco Post mit Sitz in Nairobi, Kenia, ist ein soziales Unternehmen, das sich dem Recycling von Kunststoffen und der Herstellung nachhaltiger Bauprodukte widmet, vor allem Fenster- und Beschilderungspaneele. Die 2009 gegründete Initiative will den Klimawandel bekämpfen, indem sie umweltfreundliche Alternativen zu Holzpostern anbietet und so über 5.000 Hektar Land und Wälder einspart. Darüber hinaus stärkt Eco Post marginalisierte Frauen, indem es ihnen Arbeitsmöglichkeiten und Schulungen anbietet und damit sowohl die ökologische Nachhaltigkeit als auch die soziale Aufwertung fördert."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Miusyoka"
     }
   ],
-  "thematic": [
-    "industry",
-    "equality-diversity-studies-and-social-justice"
-  ],
+  "thematic": ["industry", "equality-diversity-studies-and-social-justice"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://ecopost.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "EcoPost was founded in Nairobi, Kenya by a former banker who resigned to start the company after researching recycling opportunities. They were the first company of this kind, learning the production process through trial and error.",
         "fr": "EcoPost a été fondée à Nairobi, au Kenya, par un ancien banquier qui a démissionné pour créer l'entreprise après avoir étudié les opportunités de recyclage. Ils étaient la première entreprise de ce type, apprenant le processus de production par essais et erreurs.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2010",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "EcoPost began working with marginalized women waste collectors, eventually partnering with 42 groups of 15-20 people to supply and add value to plastic waste.",
         "fr": "EcoPost a commencé à travailler avec des femmes marginalisées collectrices de déchets, s'associant finalement à 42 groupes de 15 à 20 personnes pour approvisionner en déchets plastiques et leur apporter de la valeur.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company brought in investors from the US and Italy who provided equity funding, enabling expansion to a larger factory producing a wider range of plastic construction products.",
         "fr": "L'entreprise a accueilli des investisseurs des États-Unis et d'Italie qui ont fourni un financement en fonds propres, permettant l'expansion vers une usine plus grande produisant une gamme plus large de produits de construction en plastique.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A fire caused by a power surge on a Sunday destroyed most of EcoPost's machinery. The foreign investors pulled out after insurance refused to pay, forcing the founders to restart from scratch with support from two companies.",
         "fr": "Un incendie causé par une surtension électrique un dimanche a détruit la majeure partie des machines d'EcoPost. Les investisseurs étrangers se sont retirés après le refus de l'assurance de payer, obligeant les fondateurs à repartir de zéro avec le soutien de deux entreprises.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "EcoPost launched a women's empowerment project funded by Borealis, providing shredding machines to women's groups on a checkoff repayment system, after recognition from Arnold Schwarzenegger helped secure the grant.",
         "fr": "EcoPost a lancé un projet d'autonomisation des femmes financé par Borealis, fournissant des machines à déchiqueter aux groupes de femmes selon un système de remboursement par retenue sur salaire, après que la reconnaissance d'Arnold Schwarzenegger a contribué à l'obtention de la subvention.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "EcoPost reported saving over 5,000 acres of forest since inception and operating across 80% of major Kenyan dump sites, with plans to expand to Tanzania and Uganda within two years.",
         "fr": "EcoPost a annoncé avoir sauvé plus de 5 000 acres de forêt depuis sa création et opérer sur 80 % des principales décharges kényanes, avec des projets d'expansion en Tanzanie et en Ouganda dans un délai de deux ans.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Plastic recycling into durable fencing posts",
         "fr": "Recyclage du plastique en poteaux de clôture durables",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Recycled plastic pellets sold to manufacturers",
         "fr": "Granulés de plastique recyclé vendus aux fabricants",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Livelihood support for marginalized women groups",
         "fr": "Soutien aux moyens de subsistance des groupes de femmes marginalisées",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building and machines for waste collectors",
         "fr": "Renforcement des capacités et machines pour les collecteurs de déchets",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Road signage posts supplied to government",
         "fr": "Poteaux de signalisation routière fournis au gouvernement",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Televised environmental education sessions",
         "fr": "Sessions d'éducation environnementale télévisées",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investors for geographic expansion to Tanzania Uganda",
         "fr": "Investisseurs pour l'expansion géographique en Tanzanie et en Ouganda",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Subsidized industrial electricity rates from government",
         "fr": "Tarifs d'électricité industrielle subventionnés par le gouvernement",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies aligned with environmental sustainability values",
         "fr": "Entreprises alignées sur les valeurs de durabilité environnementale",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More women waste collector groups nationwide",
         "fr": "Plus de groupes de femmes collectrices de déchets à l'échelle nationale",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Customers adopting plastic over concrete wood posts",
         "fr": "Clients adoptant les poteaux en plastique plutôt qu'en béton ou en bois",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Franchise partners to duplicate model across Africa",
         "fr": "Partenaires franchisés pour dupliquer le modèle à travers l'Afrique",

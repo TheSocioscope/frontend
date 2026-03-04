@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754988343,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Cacao Hunters es una iniciativa dedicada a transformar la industria colombiana del cacao centrándose en la calidad y la sostenibilidad. Creada en 2011, conecta a pequeños agricultores con centros de procesamiento para producir cacao especial. La organización hace hincapié en la investigación genética, la fermentación adecuada y la colaboración entre productores para mejorar la calidad del cacao. Mediante el fomento de asociaciones y la inversión en tecnología, Cacao Hunters pretende elevar el cacao colombiano en el mercado mundial, garantizando al mismo tiempo una compensación justa para los agricultores.",
     "de": "Cacao Hunters ist eine Initiative, die sich der Umgestaltung der kolumbianischen Kakaobranche widmet und dabei auf Qualität und Nachhaltigkeit setzt. Sie wurde 2011 gegründet und bringt Kleinbauern mit Verarbeitungszentren zusammen, um Spezialkakao zu produzieren. Die Organisation legt den Schwerpunkt auf genetische Forschung, ordnungsgemäße Fermentierung und die Zusammenarbeit zwischen den Erzeugern, um die Kakaoqualität zu verbessern. Durch die Förderung von Partnerschaften und Investitionen in Technologien will Cacao Hunters den kolumbianischen Kakao auf dem Weltmarkt aufwerten und gleichzeitig eine faire Entlohnung der Bauern sicherstellen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Figueroa"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://cacaohunters.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "One of the founding partners, working in coffee at the time, began exploring cacao as a potential product to position Colombia internationally, inspired by the country's proximity to cacao powerhouses Venezuela and Ecuador.",
         "fr": "L'un des associés fondateurs, travaillant alors dans le café, a commencé à explorer le cacao comme produit potentiel pour positionner la Colombie à l'échelle internationale, inspiré par la proximité du pays avec les grandes puissances cacaoyères que sont le Venezuela et l'Équateur.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2011",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Cacao de Colombia SAS began field operations, researching cultivation cycles and identifying genetic potential in three initial origins: Arauca, Sierra Nevada, and Tumaco.",
         "fr": "Cacao de Colombia SAS a débuté ses opérations sur le terrain, en étudiant les cycles de culture et en identifiant le potentiel génétique dans trois origines initiales : Arauca, Sierra Nevada et Tumaco.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Cacao Hunters was officially launched in December 2013, and the factory in Popayán began operations with exports representing nearly all of its initial production.",
         "fr": "Cacao Hunters a été officiellement lancé en décembre 2013, et l'usine de Popayán a démarré ses activités, les exportations représentant la quasi-totalité de sa production initiale.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2015",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "After winning an international distinction for a bar made with Arhuaco cacao, the company received investment from Acumen, an American impact investment fund, enabling factory expansion to a capacity of 400 kg per day.",
         "fr": "Après avoir remporté une distinction internationale pour une tablette fabriquée avec du cacao Arhuaco, l'entreprise a reçu un investissement d'Acumen, un fonds américain d'investissement à impact, permettant l'expansion de l'usine jusqu'à une capacité de 400 kg par jour.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Cacao Hunters reached 956 producers across six origins and operated 16 benefit centers, with one proprietary center in Popayán and a growth target of quadrupling production within three years.",
         "fr": "Cacao Hunters a atteint 956 producteurs répartis sur six origines et exploitait 16 centres de traitement, dont un centre propriétaire à Popayán, avec un objectif de croissance visant à quadrupler la production en trois ans.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company launched a six-month applied research initiative to find uses for lixiviates, which represent 30% of cacao processing byproducts, exploring alcohols, sweeteners, and organic fertilizers as potential outputs.",
         "fr": "L'entreprise a lancé une initiative de recherche appliquée de six mois visant à trouver des utilisations pour les lixiviats, qui représentent 30 % des sous-produits de la transformation du cacao, en explorant les alcools, les édulcorants et les engrais organiques comme débouchés potentiels.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support network for 956 small cacao producers",
         "fr": "Réseau de soutien pour 956 petits producteurs de cacao",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical post-harvest training for farmers",
         "fr": "Formation technique post-récolte pour les agriculteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Premium price access for specialty cacao",
         "fr": "Accès à un prix premium pour le cacao de spécialité",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Research on cacao byproduct reuse",
         "fr": "Recherche sur la réutilisation des sous-produits du cacao",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Crop diversification alongside cacao cultivation",
         "fr": "Diversification des cultures parallèlement à la culture du cacao",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "16 cacao processing and collection centers",
         "fr": "16 centres de transformation et de collecte du cacao",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research on lixiviate waste valorization",
         "fr": "Recherche sur la valorisation des déchets de lixiviat",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small cacao producers in conflict zones",
         "fr": "Petits producteurs de cacao dans les zones de conflit",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Domestic market adoption of high-percentage chocolate",
         "fr": "Adoption du marché intérieur pour le chocolat à haute teneur",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Beneficio centers for post-harvest processing",
         "fr": "Centres Beneficio pour le traitement post-récolte",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for plant technification and scaling",
         "fr": "Financement pour la technification et la mise à l'échelle des installations",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Solutions for cacao byproduct reuse",
         "fr": "Solutions pour la réutilisation des sous-produits du cacao",

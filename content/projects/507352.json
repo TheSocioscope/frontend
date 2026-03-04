@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A socio-environmental company growing sustainable coffee in the Carpish Montane Forest at 2100-2400m with volunteer forest rangers.",
     "de": "A socio-environmental company growing sustainable coffee in the Carpish Montane Forest at 2100-2400m with volunteer forest rangers."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Huanuco",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "LUIS JARA CABALLERO"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecoybionegocios.pe/negocios/tangara-cafe/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Regional Government and ACR began running awareness workshops in the Valle de Repente area to shift coca farmers toward conservation and sustainable agriculture. José, initially one of the most vocal opponents, was a key target of these efforts.",
         "fr": "Le gouvernement régional et l'ACR ont commencé à organiser des ateliers de sensibilisation dans la zone de Valle de Repente pour orienter les agriculteurs de coca vers la conservation et l'agriculture durable. José, initialement l'un des opposants les plus virulents, était une cible principale de ces efforts.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The ACR Bosque Montano de Carpich was formally established via Supreme Decree, protecting 51,540 hectares across four districts in the Huánuco region, with Chinchao contributing 80% of the area.",
         "fr": "L'ACR Bosque Montano de Carpich a été officiellement créée par décret suprême, protégeant 51 540 hectares répartis sur quatre districts de la région de Huánuco, Chinchao contribuant à 80 % de la superficie.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "José Luis Jara Caballero and Guadalupe Vela Ramírez co-founded San Juan del Bosque de Carpich SAC, branded as Tangara Café, to produce and commercialize specialty coffee from within the conservation area.",
         "fr": "José Luis Jara Caballero et Guadalupe Vela Ramírez ont co-fondé San Juan del Bosque de Carpich SAC, sous la marque Tangara Café, pour produire et commercialiser du café de spécialité issu de la zone de conservation.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Tangara Café placed third at a national coffee competition, gaining visibility and attracting international buyers. The company secured its own sanitary registration and began the process of trademarking the Tangara brand with INDECOPI.",
         "fr": "Tangara Café a remporté la troisième place lors d'un concours national de café, gagnant en visibilité et attirant des acheteurs internationaux. L'entreprise a obtenu son propre enregistrement sanitaire et a entamé le processus de dépôt de marque Tangara auprès de l'INDECOPI.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The affiliated growers' association won a regional Procompite fund of 151,000 soles, receiving equipment such as motorized sprayers, organic fertilizers, and solar dryers to improve specialty coffee production.",
         "fr": "L'association de producteurs affiliée a remporté un fonds régional Procompite de 151 000 soles, recevant des équipements tels que des pulvérisateurs motorisés, des engrais biologiques et des séchoirs solaires pour améliorer la production de café de spécialité.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "José attended the World Coffee Conference in Switzerland, secured a new export contract for 2,000 kg of specialty coffee, and established contact with PromPerú France, signaling Tangara's growing international commercial footprint.",
         "fr": "José a participé à la Conférence mondiale du café en Suisse, a signé un nouveau contrat d'exportation pour 2 000 kg de café de spécialité et a établi un contact avec PromPerú France, témoignant de l'empreinte commerciale internationale croissante de Tangara.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct specialty coffee sales without intermediaries",
         "fr": "Vente directe de café de spécialité sans intermédiaires",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Fair price payment to local coffee producers",
         "fr": "Paiement équitable aux producteurs de café locaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacity building workshops for farmers",
         "fr": "Ateliers de renforcement des capacités pour les agriculteurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Administrative support and government grant assistance",
         "fr": "Soutien administratif et aide aux subventions gouvernementales",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic agroforestry practices in protected forest",
         "fr": "Pratiques agroforestières biologiques en forêt protégée",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Voluntary forest guardianship and conservation monitoring",
         "fr": "Gardiennage forestier volontaire et suivi de la conservation",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct international buyers for specialty coffee",
         "fr": "Acheteurs internationaux directs pour le café de spécialité",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Gastronomy businesses sharing conservation values",
         "fr": "Entreprises gastronomiques partageant les valeurs de conservation",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for ecotourism project development",
         "fr": "Subventions pour le développement de projets d'écotourisme",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More specialty coffee producers from local communities",
         "fr": "Plus de producteurs de café de spécialité issus des communautés locales",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Converting conventional farmers to specialty production",
         "fr": "Conversion des agriculteurs conventionnels à la production de spécialité",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Voluntary forest guardians among local farmers",
         "fr": "Gardiens forestiers volontaires parmi les agriculteurs locaux",

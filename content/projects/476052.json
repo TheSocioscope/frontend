@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647222,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa SERM Smart Farm Kenya, dirigida por un joven empresario, se centra en el cultivo de hortalizas autóctonas locales para hacer frente al desempleo y promover la agricultura sostenible. Al formar a los jóvenes de la zona, sobre todo a los que luchan contra el consumo de drogas, el proyecto fomenta la capacitación económica a través de la agricultura ecológica. La granja funciona en terrenos familiares y colabora con diversas partes interesadas, como escuelas y empresas locales, para crear un modelo autosuficiente que no sólo proporcione productos frescos, sino que también rehabilite a la comunidad.",
     "de": "Die von einem Jugendunternehmer geleitete Initiative SERM Smart Farm Kenya konzentriert sich auf den Anbau einheimischer einheimischer Gemüse, um die Arbeitslosigkeit zu bekämpfen und eine nachhaltige Landwirtschaft zu fördern. Durch die Ausbildung lokaler Jugendlicher, insbesondere solcher, die mit dem Drogenkonsum zu kämpfen haben, fördert das Projekt die wirtschaftliche Ermächtigung durch organische Landwirtschaft. Die Farm arbeitet auf Familienland und kooperiert mit verschiedenen Stakeholdern, darunter Schulen und lokale Unternehmen, um ein Selbstversorgermodell zu schaffen, das nicht nur frische Produkte liefert, sondern auch die Gemeinschaft rehabilitiert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Ndungu"
     }
   ],
-  "thematic": [
-    "inequalities-poverty-development",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/smartfarmingkenya/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Samuel Ndomuru founded Sam Farm in Githongori, Kiambu County after the COVID-19 pandemic revealed farming as a viable primary livelihood. He left his employment as a construction manager and began with a few beds of Ethiopian mustard and spider plants.",
         "fr": "Samuel Ndomuru a fondé Sam Farm à Githongori, dans le comté de Kiambu, après que la pandémie de COVID-19 a révélé l'agriculture comme un moyen de subsistance principal viable. Il a quitté son emploi de chef de chantier et a commencé avec quelques planches de moutarde éthiopienne et de plantes araignées.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm expanded from a few small beds to a full acre of diverse organic vegetables. Samuel reinvested all profits back into the farm, acquiring cattle for manure and diversifying into modern vegetable varieties alongside indigenous ones.",
         "fr": "La ferme s'est agrandie, passant de quelques petites planches à un acre complet de légumes biologiques diversifiés. Samuel a réinvesti tous les bénéfices dans la ferme, acquérant du bétail pour le fumier et diversifiant sa production avec des variétés modernes de légumes aux côtés des variétés indigènes.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Sam Farm established supply relationships with Tawi Fresh, Farm to Feed, local schools, hotels, and farmers markets, becoming a reliable multi-channel supplier of organic vegetables, fruits, and spices.",
         "fr": "Sam Farm a établi des relations d'approvisionnement avec Tawi Fresh, Farm to Feed, des écoles locales, des hôtels et des marchés fermiers, devenant un fournisseur multicanal fiable de légumes biologiques, de fruits et d'épices.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Samuel launched seedling propagation and farmer training services, creating a network of youth growers who purchase his certified seedlings, grow produce, and sell back through his aggregation and marketing channels.",
         "fr": "Samuel a lancé des services de propagation de plants et de formation des agriculteurs, créant un réseau de jeunes cultivateurs qui achètent ses plants certifiés, produisent des récoltes et revendent via ses canaux d'agrégation et de commercialisation.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Sam Farm began organizing a formal youth training program targeting unemployed youth and those recovering from drug addiction, providing seedlings on credit and market linkages to support community rehabilitation.",
         "fr": "Sam Farm a commencé à organiser un programme officiel de formation pour les jeunes, ciblant les jeunes sans emploi et ceux en voie de rétablissement après une dépendance aux drogues, en fournissant des plants à crédit et des liens avec les marchés pour soutenir la réhabilitation communautaire.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Samuel attended a Global G.A.P. training to meet international export standards, with herbs already being exported through intermediaries and plans underway to pursue direct export markets.",
         "fr": "Samuel a participé à une formation Global G.A.P. afin de répondre aux normes internationales d'exportation, les herbes étant déjà exportées par l'intermédiaire d'intermédiaires, avec des projets en cours pour accéder directement aux marchés d'exportation.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic indigenous and modern vegetables",
         "fr": "Légumes biologiques indigènes et modernes",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farm training on organic crop management",
         "fr": "Formation agricole en gestion biologique des cultures",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Seedling propagation and sales to farmers",
         "fr": "Propagation de plants et vente aux agriculteurs",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vegetable aggregation and market linkages",
         "fr": "Agrégation de légumes et liens avec les marchés",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Youth mentorship and drug rehabilitation support",
         "fr": "Mentorat des jeunes et soutien à la réhabilitation contre la drogue",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Farm tours and youth farming programs",
         "fr": "Visites de fermes et programmes agricoles pour les jeunes",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "High-end buyers recognizing organic produce",
         "fr": "Acheteurs haut de gamme reconnaissant les produits biologiques",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Formal linkages with institutional buyers",
         "fr": "Liens formels avec des acheteurs institutionnels",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Youth engagement in vegetable farming",
         "fr": "Engagement des jeunes dans la culture maraîchère",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Global GAP certification for export readiness",
         "fr": "Certification Global GAP pour la préparation à l'exportation",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External capital for farm mechanization",
         "fr": "Capital externe pour la mécanisation agricole",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government or NGO support for youth rehabilitation",
         "fr": "Soutien gouvernemental ou des ONG pour la réinsertion des jeunes",

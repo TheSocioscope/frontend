@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754385609,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Latbio, fundada el 31 de octubre de 2019, es una iniciativa innovadora nacida de un grupo de amigos apasionados por la agricultura. Centrada en prácticas biodinámicas, la empresa tiene como objetivo comercializar productos orgánicos, principalmente plátanos, al tiempo que promueve métodos de cultivo sostenibles. A través de su ecosistema de empresas, entre las que se encuentran Latitude Provisions y Caupa, Latbio procesa frutas no exportables y ofrece servicios de consultoría. La iniciativa aspira a ser líder mundial en agricultura orgánica, haciendo hincapié en la responsabilidad medioambiental y el apoyo a la comunidad.",
     "de": "Latbio, gegründet am 31. Oktober 2019, ist eine innovative Initiative, die aus einer Gruppe von Freunden mit einer Leidenschaft für die Landwirtschaft hervorgegangen ist. Das Unternehmen ist auf biodynamische Praktiken fokussiert und will organische Produkte, vor allem Bananen, vermarkten und dabei nachhaltige Anbaumethoden fördern. Über ein System von Unternehmen, darunter Latitude Provisions und Caupa, verarbeitet Latbio nicht exportierbares Obst und bietet Beratungsdienste an. The initiative strives to be a global leader in organic agriculture, emphasizing environmental responsibility and community support."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Erazo"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://latbio.com.ec/",
   "yt": "4xcdtHuCnEs",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "La Bio fue fundada el 31 de octubre de 2019 por seis socios apasionados por la agricultura, con el objetivo inicial de vender ingredientes naturales como puré de banano biodinámico certificado Demeter.",
         "fr": "La Bio a été fondée le 31 octobre 2019 par six associés passionnés par l'agriculture, avec l'objectif initial de vendre des ingrédients naturels tels que la purée de banane biodynamique certifiée Demeter.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "La pandemia interrumpió los planes originales de la compañía, causando la pérdida de permisos de exportación y obligando a replantear el modelo de negocio hacia la comercialización de banano orgánico fresco.",
         "fr": "La pandémie a interrompu les plans initiaux de l'entreprise, entraînant la perte des autorisations d'exportation et obligeant à repenser le modèle commercial vers la commercialisation de bananes biologiques fraîches.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Se incorporaron dos nuevos socios, Matthew en la parte comercial y Juan Carlos como especialista en certificaciones orgánicas y biodinámicas, consolidando un equipo de ocho socios en total.",
         "fr": "Deux nouveaux associés ont rejoint l'équipe : Matthew pour la partie commerciale et Juan Carlos en tant que spécialiste des certifications biologiques et biodynamiques, consolidant une équipe de huit associés au total.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "La empresa comenzó a comercializar puré de banano como ingrediente natural a través de Latitude Provisions, retomando parte del objetivo fundacional de procesar fruta no exportable.",
         "fr": "L'entreprise a commencé à commercialiser de la purée de banane comme ingrédient naturel par l'intermédiaire de Latitude Provisions, reprenant une partie de l'objectif fondateur de transformer les fruits non exportables.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "La Bio obtuvo la certificación Regenerative Organic Certified (ROC), convirtiéndose en la primera empresa del país en obtener este sello, diferenciándose con un enfoque simultáneo en agricultura biodinámica y regenerativa.",
         "fr": "La Bio a obtenu la certification Regenerative Organic Certified (ROC), devenant ainsi la première entreprise du pays à obtenir ce label, se démarquant par une approche simultanée de l'agriculture biodynamique et régénérative.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "La compañía adquirió una propiedad de 115 hectáreas propias e inició la construcción de una finca experimental con bosque comestible, mientras el ecosistema de cuatro empresas alcanzó 60 personas vinculadas directamente.",
         "fr": "L'entreprise a acquis une propriété de 115 hectares et a lancé la construction d'une ferme expérimentale avec une forêt comestible, tandis que l'écosystème de quatre entreprises a atteint 60 personnes directement liées.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export organic tropical fruits to Europe and Asia",
         "fr": "Exporter des fruits tropicaux biologiques vers l'Europe et l'Asie",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Processes non-exportable fruit into organic ingredients",
         "fr": "Transforme les fruits non exportables en ingrédients biologiques",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Trains organic auditors across 14 provinces",
         "fr": "Forme des auditeurs biologiques dans 14 provinces",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimental agroforestry and edible forest farm",
         "fr": "Ferme agroforestière expérimentale et forêt comestible",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Certifications and advisory for local organic producers",
         "fr": "Certifications et conseil pour les producteurs biologiques locaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biodynamic and regenerative agriculture model",
         "fr": "Modèle d'agriculture biodynamique et régénératrice",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local organic producers and farmer associations",
         "fr": "Producteurs biologiques locaux et associations d'agriculteurs",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand presence in Asian markets",
         "fr": "Développer la présence sur les marchés asiatiques",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "EU-funded project participation and grants",
         "fr": "Participation à des projets financés par l'UE et subventions",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small producers for organic supply chain",
         "fr": "Petits producteurs pour la chaîne d'approvisionnement biologique",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimental agroforestry and edible forest trials",
         "fr": "Essais expérimentaux d'agroforesterie et de forêts comestibles",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Biodynamic and regenerative certification uptake",
         "fr": "Adoption des certifications biodynamiques et régénératives",

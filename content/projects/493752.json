@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755004854,
   "date": null,
   "description": {
@@ -19,11 +15,7 @@
     "es": "La iniciativa Hidroponía Sotelo, dirigida por un ingeniero en Perú, aborda los retos de la seguridad alimentaria a través de la hidroponía. Este innovador proyecto utiliza una solución nutritiva en entornos controlados para cultivar hortalizas de alta calidad conservando el agua y el suelo. A pesar de llevar dos años en fase de investigación, el equipo aspira a ampliar la producción y establecer asociaciones para obtener financiación y conocimientos especializados, centrándose en prácticas agrícolas sostenibles y avances tecnológicos en el control de las plantas.",
     "de": "Die von einem peruanischen Ingenieur geleitete Initiative Hidroponía Sotelo stellt sich den Herausforderungen der Ernährungssicherheit durch Hydrokultur. Bei diesem innovativen Projekt wird eine Nährstofflösung in einer kontrollierten Umgebung verwendet, um hochwertiges Gemüse anzubauen und dabei Wasser und Boden zu schonen. Obwohl es sich seit zwei Jahren in der Forschungsphase befindet, will das Team die Produktion ausweiten und Partnerschaften für die Finanzierung und das Fachwissen aufbauen, wobei der Schwerpunkt auf nachhaltigen landwirtschaftlichen Verfahren und technologischen Fortschritten bei der Pflanzenüberwachung liegt."
   },
-  "field": [
-    "engineering-and-technology",
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["engineering-and-technology", "nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -42,21 +34,16 @@
       "lastname": "ALBERTO SOTELO LOPEZ"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "ro",
   "timeline": [
     {
       "date": "Pre-2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Carlos Sotelo began experimenting with hydroponics at home after watching a YouTube video, starting with a single 3-meter tube on his balcony. Early challenges with pests and unprotected crops motivated him to develop a more controlled system.",
         "fr": "Carlos Sotelo a commencé à expérimenter l'hydroponie à domicile après avoir regardé une vidéo YouTube, en débutant avec un seul tube de 3 mètres sur son balcon. Les premiers défis liés aux nuisibles et aux cultures non protégées l'ont motivé à développer un système plus contrôlé.",
@@ -66,7 +53,7 @@
     },
     {
       "date": "Pre-2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The initiative moved to the Faculty of Electronic Engineering at the university, where Sotelo recruited students and made early attempts at open-air cultivation. A first casamaya structure was built but collapsed due to construction errors.",
         "fr": "L'initiative s'est déplacée vers la Faculté de génie électronique de l'université, où Sotelo a recruté des étudiants et effectué de premières tentatives de culture en plein air. Une première structure casamaya a été construite mais s'est effondrée en raison d'erreurs de construction.",
@@ -76,7 +63,7 @@
     },
     {
       "date": "~2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The project won a competitive grant from the Vicerrectorado de Investigación, funding the construction of three casamayas with anti-aphid mesh, a 7-tube hydroponic system of 210 plant positions, and solar panels.",
         "fr": "Le projet a remporté une subvention compétitive du Vicerrectorado de Investigación, finançant la construction de trois casamayas avec un filet anti-pucerons, un système hydroponique de 7 tubes offrant 210 positions de plantes, ainsi que des panneaux solaires.",
@@ -86,7 +73,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The team grew to include three core students and several rotating volunteers, producing lettuce, chard, squash, peppers, and other vegetables. A student completed a thesis on solar energy integration for hydroponic systems.",
         "fr": "L'équipe s'est agrandie pour inclure trois étudiants principaux et plusieurs bénévoles tournants, produisant de la laitue, de la bette, de la courge, des poivrons et d'autres légumes. Un étudiant a rédigé une thèse sur l'intégration de l'énergie solaire dans les systèmes hydroponiques.",
@@ -96,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The initial university funding was exhausted, leaving the project financially sustained primarily by Sotelo himself. Products were sold at cost price (3.50 soles) only to nearby university cafeterias and kiosks, with no outside clients or private investment secured.",
         "fr": "Le financement initial de l'université a été épuisé, laissant le projet financièrement soutenu principalement par Sotelo lui-même. Les produits étaient vendus au prix coûtant (3,50 soles) uniquement aux cafétérias et kiosques universitaires voisins, sans clients extérieurs ni investissement privé obtenu.",
@@ -106,7 +93,7 @@
     },
     {
       "date": "2024+",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The project is pursuing future alliances with INIA and private investors to scale production to at least 100 square meters, while also developing AI-assisted camera monitoring prototypes and working toward publishing additional research articles.",
         "fr": "Le projet cherche à établir de futures alliances avec l'INIA et des investisseurs privés afin d'étendre la production à au moins 100 mètres carrés, tout en développant des prototypes de surveillance par caméra assistée par intelligence artificielle et en travaillant à la publication d'articles de recherche supplémentaires.",
@@ -117,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Hydroponic research and technological solutions",
         "fr": "Recherche hydroponique et solutions technologiques",
@@ -126,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Student training in transdisciplinary applied projects",
         "fr": "Formation des étudiants dans des projets appliqués transdisciplinaires",
@@ -135,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Working hydroponic demonstration system on campus",
         "fr": "Système de démonstration hydroponique fonctionnel sur le campus",
@@ -144,7 +131,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh vegetables sold to university cafeterias",
         "fr": "Légumes frais vendus aux cafétérias universitaires",
@@ -153,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge sharing on sustainable hydroponic farming",
         "fr": "Partage des connaissances sur l'agriculture hydroponique durable",
@@ -164,7 +151,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private investors to scale production",
         "fr": "Investisseurs privés pour augmenter la production à grande échelle",
@@ -173,7 +160,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agronomist or plant biology specialists",
         "fr": "Agronomes ou spécialistes en biologie végétale",
@@ -182,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government entities like INIA for agronomy support",
         "fr": "Entités gouvernementales comme l'INIA pour le soutien agronomique",
@@ -191,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expand hydroponic system to commercial scale",
         "fr": "Développer le système hydroponique à l'échelle commerciale",
@@ -200,7 +187,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "International research collaborators especially Netherlands",
         "fr": "Collaborateurs internationaux en recherche, notamment aux Pays-Bas",
@@ -209,7 +196,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Students to join research team voluntarily",
         "fr": "Étudiants souhaitant rejoindre l'équipe de recherche bénévolement",

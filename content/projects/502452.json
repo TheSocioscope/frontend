@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Frédéric Imbert from Dijon Céréales is involved in research, development, policy advocacy, and education initiatives related to sustainable food systems in Dijon.",
     "de": "Frédéric Imbert from Dijon Céréales is involved in research, development, policy advocacy, and education initiatives related to sustainable food systems in Dijon."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "Dijon",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Imbert"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-imbert-528b1872/?originalSubdomain=fr",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Climate change begins to visibly impact agricultural systems in the region, with erratic precipitation and temperature data. Crop protection becomes increasingly difficult, pushing cooperatives to seek adaptive solutions.",
         "fr": "Le changement climatique commence à impacter visiblement les systèmes agricoles de la région, avec des données de précipitations et de températures erratiques. La protection des cultures devient de plus en plus difficile, poussant les coopératives à chercher des solutions d'adaptation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Alliance BFC was officially created on July 1, 2018, uniting three cooperatives: Dijon Céréales, Bourgogne du Sud, and Terre Comtoise. A data-driven R&D strategy began taking shape, with key hires made to build the innovation team.",
         "fr": "Alliance BFC a été officiellement créée le 1er juillet 2018, unissant trois coopératives : Dijon Céréales, Bourgogne du Sud et Terre Comtoise. Une stratégie de R&D axée sur les données a commencé à prendre forme, avec des recrutements clés pour constituer l'équipe innovation.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The data and diversification pillars were structured, with new hires and apprentices joining to develop digital tools for farmers. INRAE engineers began collaborating on research projects including climate projections for 12 major regional crops.",
         "fr": "Les piliers données et diversification ont été structurés, avec l'arrivée de nouveaux collaborateurs et apprentis pour développer des outils numériques à destination des agriculteurs. Des ingénieurs de l'INRAE ont commencé à collaborer sur des projets de recherche incluant des projections climatiques pour 12 grandes cultures régionales.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Alliance BFC formally employed its own staff, transferring personnel from the individual cooperatives into the Alliance structure. Experimental platforms for new crops and diversification were established, including fruit tree trials.",
         "fr": "Alliance BFC a officiellement employé son propre personnel, en transférant des agents des coopératives individuelles vers la structure Alliance. Des plateformes expérimentales pour de nouvelles cultures et la diversification ont été mises en place, notamment des essais sur des arbres fruitiers.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A framework agreement was signed with INRAE, formalizing the research partnership. Scientific publications and agri-energy demonstration projects, including a methanization unit heating part of Dijon, gained national recognition.",
         "fr": "Un accord-cadre a été signé avec l'INRAE, formalisant le partenariat de recherche. Des publications scientifiques et des projets de démonstration agri-énergie, dont une unité de méthanisation chauffant une partie de Dijon, ont obtenu une reconnaissance nationale.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Significant internal divergences emerged between the three cooperatives, effectively ending plans for a full merger. The scientific director announced his departure, citing misaligned visions and interpersonal conflicts among leadership.",
         "fr": "Des divergences internes significatives ont émergé entre les trois coopératives, mettant effectivement fin aux projets de fusion complète. Le directeur scientifique a annoncé son départ, invoquant des visions mal alignées et des conflits interpersonnels au sein de la direction.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "R&D solutions for climate adaptation",
         "fr": "Solutions R&D pour l'adaptation climatique",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Decision-support tools for member farmers",
         "fr": "Outils d'aide à la décision pour les agriculteurs adhérents",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental platforms for new crop varieties",
         "fr": "Plateformes expérimentales pour de nouvelles variétés de cultures",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Regional brand for local food products",
         "fr": "Marque régionale pour les produits alimentaires locaux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Methanisation projects for agri-energy production",
         "fr": "Projets de méthanisation pour la production agri-énergétique",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Diversification into local fruit production",
         "fr": "Diversification dans la production de fruits locaux",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Expérimentation agronomique sur nouvelles cultures diversifiées",
         "fr": "Expérimentation agronomique sur nouvelles cultures diversifiées",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partenariats avec instituts de recherche régionaux",
         "fr": "Partenariats avec instituts de recherche régionaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Outils numériques d'aide à la décision agricole",
         "fr": "Outils numériques d'aide à la décision agricole",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Relocalisation productions fruits légumes marché local",
         "fr": "Relocalisation productions fruits légumes marché local",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Adhésion agriculteurs aux coopératives membres",
         "fr": "Adhésion agriculteurs aux coopératives membres",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Soutien politique collectivités territoriales régionales",
         "fr": "Soutien politique collectivités territoriales régionales",

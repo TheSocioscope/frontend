@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647824,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Baridi es una iniciativa innovadora de Kenia centrada en ofrecer a los agricultores soluciones de almacenamiento en frío alimentadas por energía solar. Al abordar los retos de la conectividad eléctrica y la conservación de alimentos, Baridi permite a los agricultores almacenar productos perecederos como leche, carne y verduras, reduciendo significativamente la pérdida de alimentos. Este enfoque sostenible no sólo aumenta la vida útil de los productos, sino que también mejora el acceso al mercado y la rentabilidad de los agricultores, especialmente en regiones con electricidad limitada.             ",
     "de": "Baridi ist eine innovative Initiative in Kenia, die sich auf die Bereitstellung von solarbetriebenen Lagerlösungen für Landwirte konzentriert. By addressing the challenges of power connectivity and food preservation, Baridi enmers to store perishable goods like milk, meat, and vegetables, significantly reducing food loss. Dieser nachhaltige Ansatz erhöht nicht nur die Haltbarkeit der Produkte, sondern verbessert auch den Marktzugang und die Rentabilität der Landwirte, insbesondere in Regionen mit begrenzter Stromversorgung.             "
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Kimathi"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://baridi.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Baridi was founded and installed its first asset at Barmani market, offering solar-powered cold storage solutions for fish, potato, meat, and milk value chains.",
         "fr": "Baridi a été fondée et a installé son premier équipement au marché de Barmani, proposant des solutions de stockage frigorifique solaire pour les filières du poisson, de la pomme de terre, de la viande et du lait.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company preserved approximately 1,500,000 kilograms of produce and expanded to 10 counties in Kenya with 13 cold storage units and 9 employees.",
         "fr": "L'entreprise a conservé environ 1 500 000 kilogrammes de produits et s'est étendue à 10 comtés du Kenya avec 13 unités de stockage frigorifique et 9 employés.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Baridi transitioned its core technology from battery-based storage to thermal storage, significantly extending off-grid operation from hours to eight to nine months.",
         "fr": "Baridi a fait évoluer sa technologie principale du stockage par batterie vers le stockage thermique, prolongeant considérablement le fonctionnement hors réseau de quelques heures à huit à neuf mois.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Baridi partnered with an Indian manufacturer for off-grid thermal cooling technology and collaborated with international institutions including NC State University, USDA, and UN-backed DFIs.",
         "fr": "Baridi s'est associée à un fabricant indien spécialisé dans la technologie de refroidissement thermique hors réseau et a collaboré avec des institutions internationales, notamment la NC State University, l'USDA et des IFD soutenues par l'ONU.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The dairy sector became Baridi's biggest impact area, with cooperatives reducing operational costs and expanding cooling capacity, leading to repeat and larger orders from existing clients.",
         "fr": "Le secteur laitier est devenu le principal domaine d'impact de Baridi, les coopératives réduisant leurs coûts opérationnels et augmentant leur capacité de refroidissement, ce qui a conduit à des commandes répétées et plus importantes de la part des clients existants.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025-2030",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Baridi targets installation of 400 cold storage units across East Africa, including Kenya, Uganda, Rwanda, Ethiopia, and Tanzania, aiming to reach 200,000 farmers through franchise-style partnerships.",
         "fr": "Baridi vise l'installation de 400 unités de stockage frigorifique à travers l'Afrique de l'Est, notamment au Kenya, en Ouganda, au Rwanda, en Éthiopie et en Tanzanie, avec pour objectif d'atteindre 200 000 agriculteurs grâce à des partenariats de type franchise.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Solar-powered cold storage reducing food losses",
         "fr": "Stockage frigorifique solaire réduisant les pertes alimentaires",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Asset financing connections to banks for farmers",
         "fr": "Connexions de financement d'actifs auprès des banques pour les agriculteurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demo sites available for farmers to visit",
         "fr": "Sites de démonstration accessibles aux agriculteurs",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cold storage solutions for farmer cooperatives and groups",
         "fr": "Solutions de stockage frigorifique pour les coopératives et groupements d'agriculteurs",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Collaborative projects with international research institutions",
         "fr": "Projets collaboratifs avec des institutions de recherche internationales",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Preservation of fish, potato, milk value chains",
         "fr": "Préservation des chaînes de valeur du poisson, de la pomme de terre et du lait",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners to access farmer networks",
         "fr": "Partenaires pour accéder aux réseaux d'agriculteurs",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investors to finance farmer asset loans",
         "fr": "Investisseurs pour financer les prêts d'actifs aux agriculteurs",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Credit-worthy farmer groups as clients",
         "fr": "Groupes d'agriculteurs solvables en tant que clients",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government tax relief on solar assets",
         "fr": "Allègements fiscaux gouvernementaux sur les actifs solaires",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "IKEA Foundation grant funding",
         "fr": "Financement par subvention de la Fondation IKEA",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Bank guarantors to lower farmer interest rates",
         "fr": "Garants bancaires pour réduire les taux d'intérêt des agriculteurs",

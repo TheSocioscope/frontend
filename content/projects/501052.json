@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Costa Rica Regenerativa promotes regenerative agriculture and sustainable land use practices to restore ecosystems and enhance food security.",
     "de": "Costa Rica Regenerativa promotes regenerative agriculture and sustainable land use practices to restore ecosystems and enhance food security."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Muller"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.costaricaregenerativa.org/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1994",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Edward Muller founded the University for International Cooperation (UCI) in Costa Rica, which would later serve as the institutional home for Costa Rica Regenerativa.",
         "fr": "Edward Muller a fondé l'Université pour la Coopération Internationale (UCI) au Costa Rica, qui servirait plus tard de foyer institutionnel à Costa Rica Regenerativa.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "UCI launched what Edward describes as the first green MBA in the world, establishing the university as a pioneer in sustainability-focused education.",
         "fr": "L'UCI a lancé ce qu'Edward décrit comme le premier MBA vert au monde, établissant l'université comme pionnière dans l'enseignement axé sur la durabilité.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "UCI began a strategic transition toward regeneration, closing down existing programs including the green MBA and developing a new institutional framework centred on regenerative principles.",
         "fr": "L'UCI a amorcé une transition stratégique vers la régénération, en fermant les programmes existants, y compris le MBA vert, et en développant un nouveau cadre institutionnel centré sur les principes régénératifs.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Costa Rica Regenerativa was formally launched as a UCI initiative, following a scouting process that identified over 80 isolated regenerative projects across Costa Rica.",
         "fr": "Costa Rica Regenerativa a été officiellement lancée en tant qu'initiative de l'UCI, à la suite d'un processus de prospection ayant identifié plus de 80 projets régénératifs isolés à travers le Costa Rica.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During COVID-19, Costa Rica Regenerativa mobilised food production support across Guanacaste, helping approximately 500 families through family and community farms using the Cuban organoponics system.",
         "fr": "Durant la COVID-19, Costa Rica Regenerativa a mobilisé un soutien à la production alimentaire dans tout le Guanacaste, aidant environ 500 familles grâce à des fermes familiales et communautaires utilisant le système d'organoponique cubain.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "UCI launched a global certificate program in regenerative entrepreneurship and began developing an online learning platform aimed at reaching one million students across 60 countries.",
         "fr": "L'UCI a lancé un programme de certificat mondial en entrepreneuriat régénératif et a commencé à développer une plateforme d'apprentissage en ligne visant à atteindre un million d'étudiants dans 60 pays.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration sites for regenerative food production",
         "fr": "Sites de démonstration pour la production alimentaire régénératrice",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Online courses on regenerative entrepreneurship and agriculture",
         "fr": "Cours en ligne sur l'entrepreneuriat et l'agriculture régénérateurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Technical support to families growing their own food",
         "fr": "Soutien technique aux familles qui cultivent leur propre nourriture",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific monitoring of biodiversity and ecosystem indicators",
         "fr": "Suivi scientifique de la biodiversité et des indicateurs écosystémiques",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agreements connecting local producers to hotels and restaurants",
         "fr": "Accords reliant les producteurs locaux aux hôtels et aux restaurants",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Global learning network connecting regeneration practitioners worldwide",
         "fr": "Réseau d'apprentissage mondial reliant les praticiens de la régénération à travers le monde",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funding to relaunch cooperative food distribution",
         "fr": "Financement pour relancer la distribution alimentaire coopérative",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators for ridge-to-reef bioregional initiative",
         "fr": "Collaborateurs pour l'initiative biorégionale de la crête au récif",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers adopting holistic regenerative grazing",
         "fr": "Agriculteurs adoptant le pâturage régénératif holistique",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Functional biodiversity indicators for ecosystems",
         "fr": "Indicateurs de biodiversité fonctionnelle pour les écosystèmes",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market recognition for regenerative food products",
         "fr": "Reconnaissance du marché pour les produits alimentaires régénératifs",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Students globally for online regenerative programs",
         "fr": "Étudiants dans le monde entier pour les programmes régénératifs en ligne",

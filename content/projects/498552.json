@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1755262072,
   "date": null,
   "description": {
@@ -19,11 +15,7 @@
     "es": "La iniciativa se centra en fomentar la colaboración entre diversas partes interesadas para abordar los retos energéticos y medioambientales de la zona de Chantrerie, en Nantes. Con un fuerte énfasis en la acción colectiva, la asociación participa en proyectos relacionados con la producción de energía, la gestión de residuos y los sistemas alimentarios sostenibles. Aprovechando la experiencia de sus miembros, incluidas instituciones educativas y organizaciones locales, la iniciativa pretende promover transiciones ecológicas y sociales al tiempo que mejora la resiliencia de la comunidad.",
     "de": "Die Initiative konzentriert sich auf die Förderung der Zusammenarbeit zwischen verschiedenen Interessengruppen, um Energie- und Umweltherausforderungen in der Region Chantrerie in Nantes zu bewältigen. Mit dem Schwerpunkt auf kollektivem Handeln engagiert sich der Verein in Projekten in den Bereichen Energieerzeugung, Abfallmanagement und nachhaltige Lebensmittelsysteme. Durch die Nutzung des Fachwissens ihrer Mitglieder, darunter Bildungseinrichtungen und lokale Organisationen, will die Initiative den ökologischen und gesellschaftlichen Wandel fördern und gleichzeitig die Widerstandsfähigkeit der Gemeinschaft stärken."
   },
-  "field": [
-    "political-science",
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["political-science", "nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -47,16 +39,14 @@
     "ecology-environmental-change"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://aful-chantrerie.fr/commission-agriculture-biodiversite-et-alimentation/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2008",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Bernard Lemoult, director of research at the École des Mines on the Chantrerie site, initiated a collective energy project in response to rising energy prices, proposing a switch from gas to biomass heating shared among neighboring institutions.",
         "fr": "Bernard Lemoult, directeur de recherche à l'École des Mines sur le site de la Chantrerie, a initié un projet énergétique collectif en réponse à la hausse des prix de l'énergie, proposant un passage du chauffage au gaz à la biomasse, partagé entre les établissements voisins.",
@@ -66,7 +56,7 @@
     },
     {
       "date": "2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Engie commissioned the biomass heat network on the Chantrerie site, marking the founding of AFUL and the first structured collective project among public and private actors on the territory.",
         "fr": "Engie a mis en service le réseau de chaleur biomasse sur le site de la Chantrerie, marquant la fondation de l'AFUL et le premier projet collectif structuré entre acteurs publics et privés sur le territoire.",
@@ -76,7 +66,7 @@
     },
     {
       "date": "2013",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following the heat network's success, AFUL expanded into mobility with an inter-company travel plan, establishing a carpooling system and later collaborating with cycling associations and a riverboat shuttle.",
         "fr": "Fort du succès du réseau de chaleur, l'AFUL s'est étendue à la mobilité avec un plan de déplacements inter-entreprises, en mettant en place un système de covoiturage, puis en collaborant avec des associations cyclistes et une navette fluviale.",
@@ -86,7 +76,7 @@
     },
     {
       "date": "2018",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "AFUL launched a collective biodegradable waste collection and composting program with local provider Terra Compost, routing organic waste from campus restaurants to nearby farmers across the Erdre river, seven years ahead of the French regulatory mandate.",
         "fr": "L'AFUL a lancé un programme collectif de collecte et de compostage des déchets biodégradables avec le prestataire local Terra Compost, acheminant les déchets organiques des restaurants du campus vers des agriculteurs proches, de l'autre côté de l'Erdre, sept ans avant l'obligation réglementaire française.",
@@ -96,7 +86,7 @@
     },
     {
       "date": "2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A 1,200 m² photovoltaic roof installation on Polytech Nantes was commissioned, producing 250 MWh annually and covering approximately 18% of the school's electricity needs, financed through citizen investment and bank loans.",
         "fr": "Une installation photovoltaïque en toiture de 1 200 m² sur Polytech Nantes a été mise en service, produisant 250 MWh par an et couvrant environ 18 % des besoins en électricité de l'école, financée par l'investissement citoyen et des emprunts bancaires.",
@@ -106,7 +96,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "AFUL launched the kiosk project in co-piloting with Nantes Métropole Aménagement, targeting two sustainable food distribution points operated collectively by existing campus restaurateurs, aiming for carbon neutrality before 2030.",
         "fr": "L'AFUL a lancé le projet de kiosque en co-pilotage avec Nantes Métropole Aménagement, visant deux points de distribution alimentaire durable exploités collectivement par les restaurateurs existants du campus, avec pour objectif la neutralité carbone avant 2030.",
@@ -117,7 +107,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Experimental territory for ecological transition",
         "fr": "Territoire expérimental pour la transition écologique",
@@ -126,7 +116,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Collective energy network shared by members",
         "fr": "Réseau énergétique collectif partagé par les membres",
@@ -135,7 +125,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic waste composting for local farmers",
         "fr": "Compostage des déchets organiques pour les agriculteurs locaux",
@@ -144,7 +134,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Monthly cooking workshops for students",
         "fr": "Ateliers de cuisine mensuels pour les étudiants",
@@ -153,7 +143,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vegetarian food kiosks with local restaurants",
         "fr": "Kiosques de restauration végétarienne avec les restaurants locaux",
@@ -162,7 +152,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free site visits and peer advice for networks",
         "fr": "Visites de site gratuites et conseils entre pairs pour les réseaux",
@@ -173,7 +163,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Other territorial networks to replicate model",
         "fr": "Autres réseaux territoriaux pour répliquer le modèle",
@@ -182,7 +172,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Commission project leaders from member structures",
         "fr": "Mandater des chefs de projet issus des structures membres",
@@ -191,7 +181,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Local composting partners for biodiversity waste",
         "fr": "Partenaires locaux de compostage pour les déchets de biodiversité",
@@ -200,7 +190,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Subventions for urban agriculture and kiosk project",
         "fr": "Subventions pour l'agriculture urbaine et le projet de kiosque",
@@ -209,7 +199,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New member structures joining collective territory",
         "fr": "Nouvelles structures membres rejoignant le territoire collectif",
@@ -218,7 +208,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Student and academic research on energy transition",
         "fr": "Recherche étudiante et académique sur la transition énergétique",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754385143,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en una asociación a gran escala en la que participan 395 socios legales, 776 productores comerciales y 1.200 familias beneficiarias. Hace hincapié en las prácticas sostenibles, como la energía solar y los sistemas de secado de biocombustibles, y promueve el liderazgo femenino. La organización aspira a mejorar la educación dentro de la comunidad, garantizando que sus miembros puedan cursar estudios superiores. Además, pretende establecer una presencia mundial en la producción de cacao orgánico, al tiempo que aborda retos como el cambio climático y la minería ilegal en la región.",
     "de": "Die Initiative konzentriert sich auf eine groß angelegte Partnerschaft, an der 395 Rechtspartner, 776 kommerzielle Produzenten und 1.200 begünstigte Familien beteiligt sind. Sie betont nachhaltige Praktiken, einschließlich Solarenergie- und Biokraftstoff-Trocknungssystemen, und fördert weibliche Führungsqualitäten. Die Organisation zielt darauf ab, die Bildung innerhalb der Gemeinde zu verbessern, damit ihre Mitglieder eine höhere Bildung erlangen können. Darüber hinaus strebt sie eine globale Präsenz in der organischen Kokosproduktion an, während sie Herausforderungen wie den Klimawandel und illegalen Bergbau in der Region adressiert."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Thivent"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://kallari.com.ec/#",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1997",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Families from Quichua indigenous communities began organizing around artisan exports and identified cacao as a commercial opportunity. Cacao plants already existed in the territory but were used only for personal consumption.",
         "fr": "Des familles de communautés indigènes Quichua ont commencé à s'organiser autour des exportations artisanales et ont identifié le cacao comme une opportunité commerciale. Des plants de cacao existaient déjà sur le territoire mais n'étaient utilisés que pour la consommation personnelle.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2003",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Asociación Cayari was formally legalized under Ecuador's Superintendencia de Economía Popular y Solidaria. The association began actively seeking international markets and launched its first chocolate bar under the Cayari brand.",
         "fr": "L'Asociación Cayari a été officiellement légalisée sous la Superintendencia de Economía Popular y Solidaria de l'Équateur. L'association a commencé à rechercher activement des marchés internationaux et a lancé sa première tablette de chocolat sous la marque Cayari.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2006",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Cayari exported its first container of cacao to Max Felkl in Germany, marking its entry into international trade. The first Cayari chocolate bar was officially launched the same year.",
         "fr": "Cayari a exporté son premier conteneur de cacao vers Max Felkl en Allemagne, marquant son entrée dans le commerce international. La première tablette de chocolat Cayari a été officiellement lancée la même année.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2013",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Cayari began researching and integrating vanilla, an Amazonian orchid, into its chacra production system. That same year the association won a best chocolate bar award at a fair in Paris.",
         "fr": "Cayari a commencé à rechercher et à intégrer la vanille, une orchidée amazonienne, dans son système de production de chacra. Cette même année, l'association a remporté un prix de la meilleure tablette de chocolat lors d'une foire à Paris.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2018",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Cayari obtained organic certification, covering 776 producers across the Napo province. The association also developed a georeference system mapping 100% of member chacras to monitor productivity and compliance.",
         "fr": "Cayari a obtenu la certification biologique, couvrant 776 producteurs dans la province de Napo. L'association a également développé un système de géoréférencement cartographiant 100 % des chacras des membres afin de surveiller la productivité et la conformité.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Following a suspension of organic certification during the COVID-19 pandemic in 2021, Cayari renewed its certification in 2023. The association also faced growing threats from legal and illegal mining operations affecting water quality and community security in the Napo region.",
         "fr": "À la suite d'une suspension de la certification biologique pendant la pandémie de COVID-19 en 2021, Cayari a renouvelé sa certification en 2023. L'association a également fait face à des menaces croissantes liées aux exploitations minières légales et illégales affectant la qualité de l'eau et la sécurité des communautés dans la région de Napo.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct export of organic cacao internationally",
         "fr": "Exportation directe de cacao biologique à l'international",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Chocolate bars and cacao-derived products",
         "fr": "Tablettes de chocolat et produits dérivés du cacao",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training for member producers",
         "fr": "Formation technique pour les producteurs membres",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Third-level education funding for community members",
         "fr": "Financement de l'enseignement supérieur pour les membres de la communauté",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Ancestral chacra production certification and monitoring",
         "fr": "Certification et suivi de la production ancestrale de chacra",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Solar and biofuel drying systems for processing",
         "fr": "Systèmes de séchage solaire et aux biocarburants pour la transformation",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances with international commercial buyers",
         "fr": "Alliances stratégiques avec des acheteurs commerciaux internationaux",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New international markets for chocolate bars",
         "fr": "Nouveaux marchés internationaux pour les tablettes de chocolat",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "International cooperation funds and projects",
         "fr": "Fonds et projets de coopération internationale",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More producers adopting ancestral chacra system",
         "fr": "Plus de producteurs adoptant le système ancestral de chacra",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Bioknowledge lab innovation for new products",
         "fr": "Innovation du laboratoire de bioconnaissance pour de nouveaux produits",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political advocacy for indigenous community rights",
         "fr": "Plaidoyer politique pour les droits des communautés autochtones",

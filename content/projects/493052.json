@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755002635,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, Cocina Optimista, se centra en el desarrollo de programas como \"Kind Kitchens\" y \"Optimal Cooking\" para mejorar la educación alimentaria y reducir el desperdicio en las prácticas culinarias. Creada en 2015, la iniciativa pretende empoderar a las comunidades, incluidas las penitenciarias, enseñando técnicas culinarias eficientes que utilicen todas las partes de los ingredientes. Este enfoque no solo promueve una mejor nutrición, sino que también fomenta el optimismo y las habilidades entre los participantes, contribuyendo en última instancia al cambio social.      ",
     "de": "Die Initiative Cocina Optimista konzentriert sich auf die Entwicklung von Programmen wie \"Kind Kitchens\" und \"Optimal Cooking\", um die Lebensmittelerziehung zu verbessern und die Verschwendung in der Küche zu reduzieren. Die 2015 ins Leben gerufene Initiative zielt darauf ab, Gemeinschaften - auch in Gefängnissen - zu stärken, indem sie effiziente Kochtechniken vermittelt, bei denen alle Bestandteile der Zutaten verwendet werden. Dieser Ansatz fördert nicht nur eine bessere Ernährung, sondern auch den Optimismus und die Fähigkeiten der Teilnehmer, was letztlich zu einem sozialen Wandel beiträgt.      "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,22 +33,16 @@
       "lastname": "OCAMPO GREY"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "welfare-work-social-protection",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "welfare-work-social-protection", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "6c_VMEIGS_g",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Chef Palmiro Campo began informally teaching optimal cooking techniques in shelters supported by the Banco de Alimentos del Perú, funding activities from his own restaurant income. This empirical phase lasted roughly two to three years before becoming formalized.",
         "fr": "Le chef Palmiro Campo a commencé à enseigner de manière informelle des techniques de cuisine optimales dans des refuges soutenus par le Banco de Alimentos del Perú, finançant les activités grâce aux revenus de son propre restaurant. Cette phase empirique a duré environ deux à trois ans avant d'être formalisée.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Palmiro began conducting culinary workshops inside Peruvian prisons in collaboration with the INPE (Instituto Nacional Penitenciario), visiting facilities including Castro Castro, Lurigancho, Santa Mónica, and Virgen de Fátima. This marked the launch of what would become the Cocina Optimista program.",
         "fr": "Palmiro a commencé à animer des ateliers culinaires dans des prisons péruviennes en collaboration avec l'INPE (Instituto Nacional Penitenciario), visitant des établissements tels que Castro Castro, Lurigancho, Santa Mónica et Virgen de Fátima. Cela a marqué le lancement de ce qui allait devenir le programme Cocina Optimista.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The NGO Jori was formally constituted and the Cocinas Bondadosas program officially launched with stakeholders and sponsors. Sodexo Perú, led by Alfonso de los Ceros, became the first institutional partner when the organization was close to shutting down due to lack of resources.",
         "fr": "L'ONG Jori a été officiellement constituée et le programme Cocinas Bondadosas a été lancé officiellement avec des parties prenantes et des sponsors. Sodexo Perú, dirigé par Alfonso de los Ceros, est devenu le premier partenaire institutionnel alors que l'organisation était sur le point de fermer faute de ressources.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A subsequent partnership was formed with Repsol through its Impulsa Red initiative, enabling a longer-format program of three to six months targeting popular community kitchens and training women as certified cooking instructors.",
         "fr": "Un partenariat ultérieur a été établi avec Repsol dans le cadre de son initiative Impulsa Red, permettant un programme de plus longue durée, de trois à six mois, ciblant les cuisines communautaires populaires et formant des femmes en tant que monitrices de cuisine certifiées.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2015-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Jori expanded its organizational structure to include research partnerships with Universidad Cayetano Heredia, Universidad de Lima, and France's IRD institute, focusing on functional foods and nutritional value of underutilized ingredients. The team grew to include a head chef, project coordinators, certified community kitchen instructors, and volunteer staff.",
         "fr": "Jori a élargi sa structure organisationnelle pour inclure des partenariats de recherche avec l'Universidad Cayetano Heredia, l'Universidad de Lima et l'Institut de recherche pour le développement (IRD) en France, axés sur les aliments fonctionnels et la valeur nutritionnelle d'ingrédients peu utilisés. L'équipe s'est agrandie pour inclure un chef cuisinier, des coordinateurs de projet, des monitrices de cuisine communautaire certifiées et du personnel bénévole.",
@@ -105,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Culinary optimization training to eliminate food waste",
         "fr": "Formation en optimisation culinaire pour éliminer le gaspillage alimentaire",
@@ -114,7 +102,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Cooking workshops inside Peruvian prisons",
         "fr": "Ateliers de cuisine dans les prisons péruviennes",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Food preservation and ingredient recycling techniques",
         "fr": "Techniques de conservation des aliments et de recyclage des ingrédients",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Capacity building for popular kitchen cooks",
         "fr": "Renforcement des capacités des cuisiniers de cuisines populaires",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutritional research on underused food parts",
         "fr": "Recherche nutritionnelle sur les parties alimentaires sous-utilisées",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Live cooking demonstrations using whole ingredients",
         "fr": "Démonstrations culinaires en direct utilisant des ingrédients entiers",
@@ -161,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Other renowned chefs to join program",
         "fr": "D'autres chefs renommés à rejoindre le programme",
@@ -170,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sponsors to sustain free culinary workshops",
         "fr": "Sponsors pour soutenir des ateliers culinaires gratuits",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Institutionalize program within INPE structure",
         "fr": "Institutionnaliser le programme au sein de la structure de l'INPE",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteer cooks and culinary instructors",
         "fr": "Cuisiniers bénévoles et instructeurs culinaires",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University partners for food optimization research",
         "fr": "Partenaires universitaires pour la recherche sur l'optimisation alimentaire",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand reach to all popular community kitchens",
         "fr": "Étendre la portée à toutes les cuisines communautaires populaires",

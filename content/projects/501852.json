@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Del Campo Al Plato connects local farmers directly with consumers, promoting short supply chains and sustainable food systems in Costa Rica.",
     "de": "Del Campo Al Plato connects local farmers directly with consumers, promoting short supply chains and sustainable food systems in Costa Rica."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Morales"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.delcampoalplato.com/es/sobre-del-campo-al-plato/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Del Campo al Plato project began operations under the GIZ Biodiversity and Business portfolio, funded by the International Climate Initiative (IKI). The project aimed to integrate biodiversity into pineapple and banana value chains in Costa Rica and the Dominican Republic.",
         "fr": "Le projet Del Campo al Plato a démarré ses opérations dans le cadre du portefeuille Biodiversité et Entreprises de la GIZ, financé par l'Initiative Internationale pour le Climat (IKI). Le projet visait à intégrer la biodiversité dans les chaînes de valeur de l'ananas et de la banane au Costa Rica et en République dominicaine.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Over 40 innovative projects were implemented across both countries through the Innovation Fund, supporting ideas for biodiversity integration in pineapple and banana production. The Biodiversity Check Agricultural tool was developed and deployed, resulting in 138 farms creating biodiversity action plans covering approximately 45,000 hectares.",
         "fr": "Plus de 40 projets innovants ont été mis en œuvre dans les deux pays grâce au Fonds d'Innovation, soutenant des idées pour l'intégration de la biodiversité dans la production d'ananas et de bananes. L'outil agricole Biodiversity Check a été développé et déployé, permettant à 138 exploitations d'élaborer des plans d'action pour la biodiversité couvrant environ 45 000 hectares.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The project entered an extension phase, running through June 2027, allowing the team to deepen work in areas identified as priorities during the initial phase. A dedicated innovation contest focused on women, called Mujeres Transformando Paisajes Productivos, was launched during this period.",
         "fr": "Le projet est entré dans une phase de prolongation, s'étendant jusqu'en juin 2027, permettant à l'équipe d'approfondir le travail dans les domaines identifiés comme prioritaires lors de la phase initiale. Un concours d'innovation dédié aux femmes, appelé Mujeres Transformando Paisajes Productivos, a été lancé au cours de cette période.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A pilot financial mechanism was established in partnership with a Costa Rican supermarket through the HAWA en la Biodiversidad campaign, including a co-funding model via reusable bag sales. The initiative was subsequently replicated with CCN supermarkets in the Dominican Republic.",
         "fr": "Un mécanisme financier pilote a été établi en partenariat avec un supermarché costaricien dans le cadre de la campagne HAWA en la Biodiversidad, incluant un modèle de cofinancement via la vente de sacs réutilisables. L'initiative a ensuite été répliquée avec les supermarchés CCN en République dominicaine.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Costa Rica hosted its second National Bioinputs Forum, while the Dominican Republic held its first, both aligned with strengthening national bioinput strategies. The project also supported the establishment of the Corredor Verde de Azua, the Dominican Republic's first biological corridor, modeled on Costa Rica's experience.",
         "fr": "Le Costa Rica a accueilli son deuxième Forum National sur les Biointrants, tandis que la République dominicaine tenait le sien pour la première fois, tous deux axés sur le renforcement des stratégies nationales en matière de biointrants. Le projet a également soutenu la création du Corredor Verde de Azua, premier corridor biologique de la République dominicaine, inspiré de l'expérience du Costa Rica.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2027",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The project is working toward formalizing financial mechanisms that channel investment from European retailers into productive landscapes in Costa Rica and the Dominican Republic. Future ambitions include replicating the project model in other agricultural sectors and additional countries beyond the current scope.",
         "fr": "Le projet œuvre à la formalisation de mécanismes financiers permettant de canaliser les investissements des détaillants européens vers les paysages productifs au Costa Rica et en République dominicaine. Les ambitions futures incluent la réplication du modèle du projet dans d'autres secteurs agricoles et dans des pays supplémentaires au-delà du périmètre actuel.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge management and lessons learned sharing",
         "fr": "Gestion des connaissances et partage des leçons apprises",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biodiversity Check tool for farm diagnostics",
         "fr": "Outil de vérification de la biodiversité pour le diagnostic agricole",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Biodiversity action plans for producer organizations",
         "fr": "Plans d'action pour la biodiversité destinés aux organisations de producteurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Recommendations for biodiversity certification criteria",
         "fr": "Recommandations pour les critères de certification de la biodiversité",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Innovation fund contests for biodiversity ideas",
         "fr": "Concours du fonds d'innovation pour les idées liées à la biodiversité",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consumer awareness of biodiversity-friendly products",
         "fr": "Sensibilisation des consommateurs aux produits respectueux de la biodiversité",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Private sector companies in pineapple and banana industries",
         "fr": "Entreprises du secteur privé dans les industries de l'ananas et de la banane",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "European retailers to invest in productive landscapes",
         "fr": "Détaillants européens pour investir dans des paysages productifs",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory frameworks for bioinputs in Costa Rica and Dominican Republic",
         "fr": "Cadres réglementaires pour les biointrants au Costa Rica et en République Dominicaine",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic collaboration for bioinput research and development",
         "fr": "Collaboration académique pour la recherche et le développement de biointrants",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Additional funds beyond IKI for project expansion",
         "fr": "Fonds supplémentaires au-delà de l'IKI pour l'expansion du projet",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Consumer awareness of biodiversity-integrated products",
         "fr": "Sensibilisation des consommateurs aux produits intégrant la biodiversité",

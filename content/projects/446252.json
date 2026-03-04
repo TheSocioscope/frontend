@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739391973,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "EDENN es una asociación mixta centrada en la protección y gestión de los ecosistemas fluviales de la región de Anthèse, especialmente en lo que respecta a la cuenca que alimenta a Nantes a través de los ríos Erdre y Loira. Creada a finales de la década de 1990, la iniciativa pasó de coordinar diversos usos del río, como la pesca y la navegación, a abordar objetivos medioambientales, especialmente tras convertirse en una estructura administrativa en 2018. Entre sus principales misiones figuran garantizar la salud ecológica de las masas de agua de acuerdo con las directivas europeas, gestionar los espacios Natura 2000 para la protección de la biodiversidad y coordinar los usos recreativos del agua.\n\nEDENN hace hincapié en la colaboración con los agricultores locales para reducir los insumos químicos que contaminan las fuentes de agua, promoviendo prácticas agrícolas sostenibles. Su objetivo es fomentar el diálogo entre las diversas partes interesadas, equilibrando las necesidades ecológicas con los intereses económicos, mientras navegan por las complejidades de la gobernanza medioambiental.",
     "de": "EDENN is a joint association focused on the protection and management of river ecosystems in the Anthèse region, particularly concerning the catchment area that feeds into Nantes via the Erdre and Loire rivers. Established in the late 1990s, the initiative evolved from coordinating various river uses, such as fishing and boating, to addressing environmental objectives, especially after becoming a administrative structure in 2018. The primary missions include ensuring the ecological health of water bodies in line with European directives, managing Natura 2000 sites for biodiversity protection, and coordinating recreational water uses.\n\nEDENN betont die Zusammenarbeit mit lokalen Landwirten, um den Einsatz von Chemikalien, die Wasserquellen verschmutzen, zu reduzieren und nachhaltige landwirtschaftliche Praktiken zu fördern. They aim to foster dialogue between various stakeholders, balancing ecological needs with economic interests, while navigating the complexities of environmental governance."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Fenard"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.edenn.fr/",
   "yt": "eYxK23hHn58",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Late 1990s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "EDEN was founded as an association by the department to coordinate uses of the Erdre river, including cohabitation between fishermen, nautical sports, and leisure navigation.",
         "fr": "EDEN a été fondée en tant qu'association par le département pour coordonner les usages de la rivière Erdre, notamment la cohabitation entre pêcheurs, sports nautiques et navigation de loisir.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The EU Water Framework Directive of 2000 and subsequent French water laws prompted EDEN to begin responding to project calls and expanding its environmental mission.",
         "fr": "La directive-cadre européenne sur l'eau de 2000 et les lois françaises sur l'eau qui ont suivi ont conduit EDEN à répondre à des appels à projets et à élargir sa mission environnementale.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2008",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "EDEN transitioned from an association to an administrative structure (syndicat mixte), adding its second 'N' and formally incorporating environmental objectives alongside its original coordination mission.",
         "fr": "EDEN est passée du statut d'association à celui de structure administrative (syndicat mixte), ajoutant son deuxième « N » et intégrant formellement des objectifs environnementaux à sa mission de coordination initiale.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "EDEN expanded its competency to cover the entire watershed, merging with another structure and seeing the department withdraw, with all member EPCIs taking governance roles.",
         "fr": "EDEN a élargi sa compétence à l'ensemble du bassin versant, en fusionnant avec une autre structure et en voyant le département se retirer, tous les EPCI membres prenant des rôles de gouvernance.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2028",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "EDEN launched its current 6-year strategy with a 24 million euro budget, including a first 3-year contract of 12 million euros targeting morphological river works and agricultural practice change.",
         "fr": "EDEN a lancé sa stratégie actuelle sur 6 ans avec un budget de 24 millions d'euros, comprenant un premier contrat de 3 ans de 12 millions d'euros ciblant les travaux morphologiques sur les cours d'eau et le changement des pratiques agricoles.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "EDEN faces ongoing challenges including political instability affecting subsidies, actor burnout, and the agricultural debate threatening to roll back environmental regulations that underpin their funding and mission.",
         "fr": "EDEN fait face à des défis persistants, notamment l'instabilité politique affectant les subventions, l'épuisement des acteurs, et le débat agricole menaçant de revenir sur les réglementations environnementales qui sous-tendent leur financement et leur mission.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Water quality studies and ecological assessments",
         "fr": "Études de la qualité de l'eau et évaluations écologiques",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Individual farmer accompaniment up to 3 days yearly",
         "fr": "Accompagnement individuel des agriculteurs jusqu'à 3 jours par an",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "River morphology restoration works",
         "fr": "Travaux de restauration de la morphologie des rivières",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Coordination of nautical and recreational water uses",
         "fr": "Coordination des usages nautiques et récréatifs de l'eau",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Anti-transfer works reducing chemical runoff",
         "fr": "Travaux anti-transfert réduisant le ruissellement chimique",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Sensibilisation and training in agricultural schools",
         "fr": "Sensibilisation et formation dans les lycées agricoles",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New actors to support agricultural transition work",
         "fr": "Nouveaux acteurs pour soutenir le travail de transition agricole",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Stable regulatory and legislative support for water policy",
         "fr": "Soutien réglementaire et législatif stable pour la politique de l'eau",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sustained public funding from water agency and region",
         "fr": "Financement public soutenu par l'agence de l'eau et la région",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers willing to reduce chemical inputs",
         "fr": "Agriculteurs prêts à réduire les intrants chimiques",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Demonstrators for wetland buffer zone techniques",
         "fr": "Démonstrateurs pour les techniques de zones tampons humides",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Training institutions to integrate water-agriculture content",
         "fr": "Établissements de formation pour intégrer les contenus eau-agriculture",

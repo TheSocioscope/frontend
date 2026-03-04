@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754560665,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Universo Vigil es una empresa de rápido crecimiento con sede en Mendoza, conocida por su variada oferta de vino, cerveza y gastronomía. Fundada por el renombrado enólogo Alejandro Vigil, la iniciativa hace hincapié en la sostenibilidad, las relaciones con la comunidad y la innovación. Con más de 25 unidades de producción, incluido el restaurante Casa Vigil, galardonado con una estrella Michelin, la empresa se centra en productos locales de alta calidad, a la vez que fomenta las asociaciones con productores locales y promueve la responsabilidad medioambiental. Su compromiso con el impacto social y la educación refuerza aún más su compromiso con la comunidad.",
     "de": "Universo Vigil ist ein schnell wachsendes Unternehmen mit Sitz in Mendoza, das für seine vielfältigen Angebote in den Bereichen Wein, Bier und Gastronomie bekannt ist. Die von dem renommierten Önologen Alejandro Vigil gegründete Initiative legt Wert auf Nachhaltigkeit, Gemeinschaftsbeziehungen und Innovation. Mit über 25 Produktionsstätten, darunter das Michelin-prämierte Restaurant Casa Vigil, konzentriert sich das Unternehmen auf qualitativ hochwertige, lokal erzeugte Produkte, während es Partnerschaften mit lokalen Produzenten fördert und die Umweltverantwortung unterstützt. Ihr Engagement für soziale Auswirkungen und Bildung fördert ihr Engagement in der Gemeinschaft."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,13 +34,9 @@
       "lastname": "MArtin Riera"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://universovigil.com/",
   "yt": "yOCGdarAb0M",
   "editedAt": 1754562302,
@@ -56,14 +46,12 @@
       "at": 1754562302
     }
   ],
-  "updatedAt": [
-    1754562302
-  ],
+  "updatedAt": [1754562302],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2006",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Alejandro and María arrive and settle in Chachingo, Mendoza, where the community warmly receives them, laying the groundwork for future projects.",
         "fr": "Alejandro et María arrivent et s'installent à Chachingo, Mendoza, où la communauté les accueille chaleureusement, posant ainsi les bases de futurs projets.",
@@ -73,7 +61,7 @@
     },
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Casa Vigil officially opens in March-April 2015, starting with just five people hosting simple wine tastings and asados from their home garden.",
         "fr": "Casa Vigil ouvre officiellement ses portes en mars-avril 2015, en commençant avec seulement cinq personnes proposant de simples dégustations de vins et des asados depuis leur jardin familial.",
@@ -83,7 +71,7 @@
     },
     {
       "date": "2017",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The community and sustainability area is formally established, beginning impact measurement and developing social and environmental programs including the Aprendamos Labrando school initiative.",
         "fr": "Le pôle communautaire et développement durable est officiellement créé, avec le début de la mesure d'impact et le développement de programmes sociaux et environnementaux, dont l'initiative scolaire Aprendamos Labrando.",
@@ -93,7 +81,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The balsamic aceto production unit is launched after Gabriel Guardia trained in Módena, Italy, producing Argentina's first certified balsamic aceto and fabricating the country's first artisanal cocinador.",
         "fr": "L'unité de production d'aceto balsamique est lancée après la formation de Gabriel Guardia à Modène, en Italie, produisant le premier aceto balsamique certifié d'Argentine et fabriquant le premier cocinador artisanal du pays.",
@@ -103,7 +91,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Casa Vigil celebrates 10 years of operation, having grown from 5 to 600 people across more than 25 diversified productive units, and revalidates its Michelin Red Star and Green Star awards.",
         "fr": "Casa Vigil célèbre 10 ans d'activité, ayant grandi de 5 à 600 personnes à travers plus de 25 unités productives diversifiées, et revalide ses distinctions Étoile Rouge et Étoile Verte Michelin.",
@@ -114,7 +102,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Michelin-starred seasonal tasting menus",
         "fr": "Menus dégustation saisonniers étoilés au Michelin",
@@ -123,7 +111,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Financial support for local producers",
         "fr": "Soutien financier aux producteurs locaux",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Composting and recycling infrastructure for cooperatives",
         "fr": "Infrastructure de compostage et de recyclage pour les coopératives",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Agroecology and cooking workshops for children",
         "fr": "Ateliers d'agroécologie et de cuisine pour les enfants",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Tomato biodiversity festival for producers and researchers",
         "fr": "Festival de la biodiversité de la tomate pour les producteurs et les chercheurs",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Exhibition space for local artists and artisans",
         "fr": "Espace d'exposition pour les artistes et artisans locaux",
@@ -170,7 +158,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local agroecological producers for quality inputs",
         "fr": "Producteurs agroécologiques locaux pour des intrants de qualité",
@@ -179,7 +167,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Alliances with urban recycler cooperatives",
         "fr": "Alliances avec des coopératives de recycleurs urbains",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborative networks with research institutions",
         "fr": "Réseaux collaboratifs avec des institutions de recherche",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Provincial state financing for sustainability projects",
         "fr": "Financement public provincial pour les projets de durabilité",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Rescue of native seeds and andean crops",
         "fr": "Sauvetage des semences indigènes et des cultures andines",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Gastronomic sector adoption of sustainability standards",
         "fr": "Adoption des normes de durabilité par le secteur gastronomique",

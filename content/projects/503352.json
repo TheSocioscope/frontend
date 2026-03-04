@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "india"
-  ],
+  "continent": ["asia"],
+  "country": ["india"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Promethean Power Systems designs refrigeration systems for cold-storage and milk chilling in off-grid areas, empowering smallholder farmers through sustainable cold storage solutions.",
     "de": "Promethean Power Systems designs refrigeration systems for cold-storage and milk chilling in off-grid areas, empowering smallholder farmers through sustainable cold storage solutions."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "Pune, India",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Joseph"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://coolectrica.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2007",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Promethean Power Systems was founded in Boston by MIT innovators Sam White and Soren Gramma, initially developing a solar-based thermal storage technology.",
         "fr": "Promethean Power Systems a été fondée à Boston par des innovateurs du MIT, Sam White et Soren Gramma, développant initialement une technologie de stockage thermique à base d'énergie solaire.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2007-2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The founders traveled to India, fine-tuned their technology with an Indo-US Technology Foundation grant, and pivoted from solar to a grid-unreliability solution after visiting Nandini dairy milk collection centers in Karnataka.",
         "fr": "Les fondateurs se sont rendus en Inde, ont perfectionné leur technologie grâce à une subvention de l'Indo-US Technology Foundation, et ont pivoté du solaire vers une solution face à l'instabilité du réseau électrique après avoir visité les centres de collecte de lait de la laiterie Nandini au Karnataka.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014-2016",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Hudson Dairy, led by MD Chandra Mogan, became the first major customer and co-created the thermal battery chilling product, providing advance funding; Sam White departed in 2014 and Soren Gramma in 2016.",
         "fr": "Hudson Dairy, dirigée par le directeur général Chandra Mogan, est devenue le premier client majeur et a co-créé le produit de réfrigération à batterie thermique en fournissant un financement anticipé ; Sam White est parti en 2014 et Soren Gramma en 2016.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2016",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Joffy Joseph joined as Managing Director in February 2016, and the equipment business achieved profitability, running on repeat orders that grew to represent 75-80% of all sales.",
         "fr": "Joffy Joseph a rejoint l'entreprise en tant que directeur général en février 2016, et l'activité d'équipement a atteint la rentabilité, fonctionnant sur des commandes récurrentes qui ont représenté jusqu'à 75-80 % de l'ensemble des ventes.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Promethean launched a milk solutions business in Latur and Osmanabad districts of Maharashtra, buying milk directly from farmers, installing equipment at its own cost, and partnering with local NGO SSP to pay only to women farmers' bank accounts.",
         "fr": "Promethean a lancé une activité de solutions laitières dans les districts de Latur et Osmanabad au Maharashtra, achetant le lait directement auprès des agriculteurs, installant des équipements à ses propres frais, et s'associant à l'ONG locale SSP pour verser les paiements uniquement sur les comptes bancaires des agricultrices.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company registered a carbon markets project targeting reduction of methane emissions per liter of milk through improved farm productivity, and received its most recent patent for the micro chiller capable of chilling 240 liters per day.",
         "fr": "L'entreprise a enregistré un projet sur les marchés carbone visant à réduire les émissions de méthane par litre de lait grâce à une meilleure productivité agricole, et a reçu son brevet le plus récent pour le micro-refroidisseur capable de refroidir 240 litres par jour.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Milk chilling solutions for dairy processors",
         "fr": "Solutions de refroidissement du lait pour les transformateurs laitiers",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Direct milk procurement from smallholder farmers",
         "fr": "Approvisionnement direct en lait auprès des petits agriculteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farming inputs and veterinary support to farmers",
         "fr": "Intrants agricoles et soutien vétérinaire aux agriculteurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Organized dairy market access for rural villages",
         "fr": "Accès organisé au marché laitier pour les villages ruraux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Dairy management training for smallholder farmers",
         "fr": "Formation en gestion laitière pour les petits agriculteurs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Software tools for dairy efficiency and monitoring",
         "fr": "Outils logiciels pour l'efficacité et le suivi de la production laitière",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand into fruits and vegetables cold storage",
         "fr": "S'étendre dans le stockage frigorifique des fruits et légumes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Convince dairies to chill milk at village level",
         "fr": "Convaincre les laiteries de réfrigérer le lait au niveau du village",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Farmer producer organizations for milk aggregation",
         "fr": "Organisations de producteurs agricoles pour la collecte du lait",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grant agencies to fund impact studies",
         "fr": "Agences de subvention pour financer des études d'impact",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Scale milk procurement to 500 villages",
         "fr": "Élargir l'approvisionnement en lait à 500 villages",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Carbon market verification for methane reduction project",
         "fr": "Vérification du marché carbone pour le projet de réduction du méthane",

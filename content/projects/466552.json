@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754478347,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Centro Nacional Especializado en Agricultura Ecológica, creado en 1997, se dedica a promover la agricultura ecológica en Costa Rica. Ofrece programas de formación gratuitos, haciendo hincapié en las prácticas ecológicas y la transferencia de tecnologías apropiadas a diversos sectores agrícolas. El centro apoya a los estudiantes, incluidas las poblaciones vulnerables, mediante becas y servicios integrales de bienestar social. Con el compromiso de reducir el uso de productos químicos en la agricultura, pretende mejorar los sistemas alimentarios y fomentar prácticas sostenibles en todo el país.",
     "de": "Das 1997 gegründete National Specialized Centre for Organic Agriculture konzentriert sich auf die Förderung des ökologischen Landbaus in Costa Rica. Es bietet kostenlose Ausbildungsprogramme mit Schwerpunkt auf ökologischen Praktiken und dem Transfer geeigneter Technologien in verschiedene Landwirtschaftssektoren an. Das Zentrum unterstützt Studierende, einschließlich gefährdeter Bevölkerungsgruppen, durch Stipendien und umfassende Wohlfahrtsleistungen. Mit dem Ziel, den Einsatz von Chemikalien in der Landwirtschaft zu reduzieren, möchte das Zentrum die Nahrungsmittelsysteme verbessern und nachhaltige Praktiken im ganzen Land fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,16 +40,14 @@
     "equality-diversity-studies-and-social-justice"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://sites.google.com/view/cneao/inicio",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1997",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Centro Nacional Especializado en Agricultura Orgánica was founded as part of the Instituto Nacional de Aprendizaje, with the mission of promoting organic agriculture and transferring appropriate technologies to productive sectors across Costa Rica.",
         "fr": "Le Centro Nacional Especializado en Agricultura Orgánica a été fondé dans le cadre de l'Instituto Nacional de Aprendizaje, avec pour mission de promouvoir l'agriculture biologique et de transférer des technologies appropriées aux secteurs productifs de tout le Costa Rica.",
@@ -65,7 +57,7 @@
     },
     {
       "date": "2006",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Fabian Pacheco joined the center as a professor, beginning nearly two decades of involvement that would eventually lead him to become director.",
         "fr": "Fabian Pacheco a rejoint le centre en tant que professeur, débutant près de deux décennies d'implication qui l'ont finalement conduit à en devenir le directeur.",
@@ -75,7 +67,7 @@
     },
     {
       "date": "2006-2014",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Under Fabian's directorship, the center expanded its staff, upgraded infrastructure, and developed the full Técnico en Agricultura Orgánica program comprising 20 modules and 1,160 hours of professional training.",
         "fr": "Sous la direction de Fabian, le centre a élargi son personnel, amélioré ses infrastructures et développé l'intégralité du programme Técnico en Agricultura Orgánica, composé de 20 modules et de 1 160 heures de formation professionnelle.",
@@ -85,7 +77,7 @@
     },
     {
       "date": "2010s",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Mujer Semilla program was created in partnership with the Instituto Nacional de la Mujer and the Instituto Mixto de Ayuda Social, graduating over 200 indigenous and rural women in agroecology and personal empowerment.",
         "fr": "Le programme Mujer Semilla a été créé en partenariat avec l'Instituto Nacional de la Mujer et l'Instituto Mixto de Ayuda Social, permettant à plus de 200 femmes indigènes et rurales d'obtenir un diplôme en agroécologie et en épanouissement personnel.",
@@ -95,7 +87,7 @@
     },
     {
       "date": "2010s",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The center collaborated with the UNDP to launch the AlternativasAPlaguicidasCR platform, documenting how agroindustrial sectors reduced chemical inputs through the center's technical assistance.",
         "fr": "Le centre a collaboré avec le PNUD pour lancer la plateforme AlternativasAPlaguicidasCR, documentant la manière dont les secteurs agroindustriels ont réduit leurs intrants chimiques grâce à l'assistance technique du centre.",
@@ -105,7 +97,7 @@
     },
     {
       "date": "Near future",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A strategic growth plan was approved by institutional leadership, committing over one billion colones to new infrastructure and sending biotechnologists to Cuba to train in advanced biological pest control techniques not yet taught at the center.",
         "fr": "Un plan de croissance stratégique a été approuvé par la direction institutionnelle, engageant plus d'un milliard de colones pour de nouvelles infrastructures et envoyant des biotechnologistes à Cuba afin de se former à des techniques avancées de lutte biologique contre les ravageurs, non encore enseignées au centre.",
@@ -116,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free vocational training in organic agriculture",
         "fr": "Formation professionnelle gratuite en agriculture biologique",
@@ -125,7 +117,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Technical certification program across 20 modules",
         "fr": "Programme de certification technique en 20 modules",
@@ -134,7 +126,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Scholarships covering housing, food, and transport",
         "fr": "Bourses couvrant le logement, la nourriture et le transport",
@@ -143,7 +135,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "On-site labs and demo farm for hands-on learning",
         "fr": "Laboratoires sur site et ferme de démonstration pour l'apprentissage pratique",
@@ -152,7 +144,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biological pest control inputs and techniques",
         "fr": "Intrants et techniques de lutte biologique contre les nuisibles",
@@ -161,7 +153,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Agroecology training for rural and indigenous women",
         "fr": "Formation en agroécologie pour les femmes rurales et autochtones",
@@ -172,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Promote organic agriculture adoption across Costa Rica",
         "fr": "Promouvoir l'adoption de l'agriculture biologique au Costa Rica",
@@ -181,7 +173,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partner with productive agricultural sectors nationwide",
         "fr": "Collaborer avec les secteurs agricoles productifs à l'échelle nationale",
@@ -190,7 +182,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop new biological pest control techniques",
         "fr": "Développer de nouvelles techniques biologiques de lutte antiparasitaire",
@@ -199,7 +191,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Support agroecological entrepreneurship and market access",
         "fr": "Soutenir l'entrepreneuriat agroécologique et l'accès aux marchés",
@@ -208,7 +200,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Defend public education from privatization attempts",
         "fr": "Défendre l'éducation publique contre les tentatives de privatisation",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1739452606,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Re-Belle es una iniciativa centrada en la revalorización del desperdicio alimentario mediante la producción de mermeladas de primera calidad a partir de fruta demasiado madura o dañada. El proyecto pretende combinar la reducción del desperdicio alimentario con la integración social, especialmente de las mujeres en situación de vulnerabilidad del departamento del 93. La empresa funciona como un centro de reinserción laboral, ofreciendo formación y apoyo a personas que se enfrentan a retos sociales, al tiempo que participa en actividades de sensibilización medioambiental.\n\nRe-Belle emplea a unas 45 personas, de las que unas 30 trabajan en programas de integración, y se basa en un modelo de negocio híbrido que combina la financiación pública y los ingresos procedentes de la venta de mermeladas. Sus planes de futuro incluyen diversificar la oferta de productos y ampliar las actividades de sensibilización para seguir promoviendo prácticas alimentarias sostenibles.\n",
     "de": "Re-Belle ist eine Initiative, die sich auf die Aufwertung von Lebensmittelabfällen konzentriert, indem sie Premiumschinken aus überreifem oder beschädigtem Obst herstellt. The project aims to combine food waste reduction with social integration, particularly targeting women in vulnerable situations in the 93 department. Das Unternehmen fungiert als Back-to-Work-Standort und bietet Schulungen und Unterstützung für Menschen, die mit sozialen Herausforderungen konfrontiert sind, während es sich auch an Aktivitäten im Bereich Umweltbewusstsein und -raising beteiligt.\n\nRe-Belle beschäftigt rund 45 Mitarbeiter, davon etwa 30 in Integrationsprogrammen, und stützt sich auf ein hybrides Geschäftsmodell, das öffentliche Gelder und Einnahmen aus Jam-Sales kombiniert. Zukünftige Pläne beinhalten die Diversifizierung des Produktangebots und die Ausweitung von Werbemaßnahmen zur weiteren Förderung nachhaltiger Ernährungspraktiken.\n"
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Porez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.confiturerebelle.fr",
   "yt": "ohh6DyL7MYk",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2014-2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Rebelle was founded following a feasibility study and incubation phase. The initiative was conceived to combine anti-food waste action with a professional insertion support attractive to women in Seine-Saint-Denis.",
         "fr": "Rebelle a été fondée à la suite d'une étude de faisabilité et d'une phase d'incubation. L'initiative a été conçue pour combiner la lutte contre le gaspillage alimentaire avec un accompagnement à l'insertion professionnelle attractif pour les femmes de Seine-Saint-Denis.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The association was officially created and launched its activity with the first insertion employees starting in December. Operations began in a low-cost premises made available to minimize startup costs.",
         "fr": "L'association a été officiellement créée et a lancé son activité avec les premières salariées en insertion débutant en décembre. Les opérations ont démarré dans des locaux à faible coût mis à disposition afin de minimiser les frais de démarrage.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Rebelle moved into new, larger premises, doubling its workforce from approximately 15 insertion employees and 7 permanent staff to 30 insertion employees and 13-14 permanent staff. The move enabled industrialized production processes and cold storage capacity.",
         "fr": "Rebelle a emménagé dans de nouveaux locaux plus grands, doublant ses effectifs d'environ 15 salariées en insertion et 7 permanents à 30 salariées en insertion et 13-14 permanents. Le déménagement a permis l'industrialisation des processus de production et une capacité de stockage frigorifique.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022-present",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The scale-up phase brought significant difficulties including construction defects, insufficient revenue growth to match investment, team departures, and ongoing economic turbulence described by the director as an insecure period of transition.",
         "fr": "La phase de montée en charge a engendré des difficultés importantes, notamment des malfaçons, une croissance des revenus insuffisante par rapport aux investissements, des départs d'équipe et des turbulences économiques persistantes décrites par la directrice comme une période de transition instable.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Rebelle reached a team of approximately 45 people, had accompanied over 82 people through its insertion program since founding, saved over 200 tonnes of fruits and vegetables, and delivered around 400 awareness workshops to more than 7,000 people.",
         "fr": "Rebelle a atteint une équipe d'environ 45 personnes, a accompagné plus de 82 personnes dans son programme d'insertion depuis sa création, a sauvé plus de 200 tonnes de fruits et légumes, et a animé environ 400 ateliers de sensibilisation auprès de plus de 7 000 personnes.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Premium jams from unsold fruits and vegetables",
         "fr": "Confitures premium à partir de fruits et légumes invendus",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Job insertion program for vulnerable people",
         "fr": "Programme d'insertion professionnelle pour les personnes vulnérables",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Sustainable food awareness workshops",
         "fr": "Ateliers de sensibilisation à l'alimentation durable",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Workshops in priority neighborhoods and schools",
         "fr": "Ateliers dans les quartiers prioritaires et les écoles",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Anti-waste products sold to hotels and retailers",
         "fr": "Produits anti-gaspillage vendus aux hôtels et aux détaillants",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Custom jam production for local farmers",
         "fr": "Production de confitures personnalisées pour les agriculteurs locaux",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Engaged local partners in Seine-Saint-Denis",
         "fr": "Partenaires locaux engagés en Seine-Saint-Denis",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Fruit and vegetable donors to collect",
         "fr": "Donateurs de fruits et légumes à collecter",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Hotel and retail clients for premium jams",
         "fr": "Clients hôteliers et de détail pour des confitures premium",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public and private grants for operations",
         "fr": "Subventions publiques et privées pour les opérations",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Businesses seeking sustainable workshop experiences",
         "fr": "Entreprises à la recherche d'expériences d'ateliers durables",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Producers needing surplus harvest transformation",
         "fr": "Producteurs ayant besoin de transformer leurs surplus de récolte",

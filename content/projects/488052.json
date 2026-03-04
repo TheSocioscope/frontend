@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754987142,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Selva Nevada es una empresa dedicada a conservar la biodiversidad colombiana al tiempo que fomenta la prosperidad de las comunidades locales. Al elaborar productos alimenticios a partir de frutas autóctonas, recolectadas y procesadas por pequeños productores, Selva Nevada promueve prácticas agrícolas sostenibles que apoyan la conservación de los bosques. Centrada en la creación de productos saludables para los consumidores, la iniciativa pretende equilibrar la salud de las personas, la sociedad y el medio ambiente, mejorando en última instancia los medios de subsistencia de las comunidades rurales de toda Colombia.",
     "de": "Selva Nevada ist ein Unternehmen, das sich für den Erhalt der kolumbianischen Artenvielfalt einsetzt und gleichzeitig den Wohlstand der lokalen Gemeinschaften fördert. Durch die Herstellung von Lebensmitteln aus einheimischen Früchten, die von Kleinproduzenten geerntet und verarbeitet werden, fördert Selva Nevada nachhaltige landwirtschaftliche Praktiken, die den Schutz der Wälder unterstützen. Mit dem Schwerpunkt auf der Herstellung gesunder Produkte für die Verbraucher zielt die Initiative darauf ab, ein Gleichgewicht zwischen der Gesundheit des Einzelnen, der Gesellschaft und der Umwelt herzustellen und letztlich die Lebensgrundlage der ländlichen Gemeinden in ganz Kolumbien zu verbessern."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,21 +39,16 @@
       "lastname": "Alvarez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.alimentandoelmanana.org/col",
   "yt": "YINPdVm0hsY",
   "originalLang": "nb",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Alimentando el Mañana was launched in Colombia by Diana, initially focusing on improving human health by increasing consumption of fruits and vegetables in institutional dining settings.",
         "fr": "Alimentando el Mañana a été lancé en Colombie par Diana, en se concentrant initialement sur l'amélioration de la santé humaine en augmentant la consommation de fruits et légumes dans les restaurants institutionnels.",
@@ -70,7 +58,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic reshaped the program's relevance, elevating concerns about food security and access to affordable nutrition, which strengthened the case for plant-based institutional menus.",
         "fr": "La pandémie de COVID-19 a redéfini la pertinence du programme, en faisant émerger des préoccupations concernant la sécurité alimentaire et l'accès à une alimentation abordable, ce qui a renforcé l'argumentaire en faveur de menus institutionnels à base de plantes.",
@@ -80,7 +68,7 @@
     },
     {
       "date": "2020-2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Under coordinator Natalia, the program expanded its focus to include strong environmental dimensions, and later extended to Argentina and Indonesia.",
         "fr": "Sous la coordination de Natalia, le programme a élargi son champ d'action pour inclure de fortes dimensions environnementales, puis s'est étendu à l'Argentine et à l'Indonésie.",
@@ -90,7 +78,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Alimentando el Mañana reached 48 institutions across seven Colombian cities including Bogotá, Medellín, Cali, Popayán, La Guajira, Sincelejo, and Santa Marta.",
         "fr": "Alimentando el Mañana a atteint 48 institutions dans sept villes colombiennes, dont Bogotá, Medellín, Cali, Popayán, La Guajira, Sincelejo et Santa Marta.",
@@ -100,7 +88,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Sinergia Animal began a nationalization process in Colombia, appointing its first in-country director and expanding the team to seven people, with plans to add political and legislative advocacy as a new area of work.",
         "fr": "Sinergia Animal a entamé un processus de nationalisation en Colombie, en nommant son premier directeur national et en élargissant l'équipe à sept personnes, avec des projets d'intégration du plaidoyer politique et législatif comme nouveau domaine d'activité.",
@@ -110,7 +98,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alimentando el Mañana secured an agreement with Hospital Universitario San José in Popayán, marking its first entry into the health sector, while pursuing outreach to the Vice Ministry of Tourism for hotel sector engagement.",
         "fr": "Alimentando el Mañana a conclu un accord avec l'Hospital Universitario San José à Popayán, marquant sa première entrée dans le secteur de la santé, tout en poursuivant des démarches auprès du Vice-ministère du Tourisme pour un engagement dans le secteur hôtelier.",
@@ -121,7 +109,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free training for institution kitchen staff",
         "fr": "Formation gratuite pour le personnel de cuisine des institutions",
@@ -130,7 +118,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "On-site plant-based meal tastings for institutions",
         "fr": "Dégustations de repas à base de plantes sur site pour les institutions",
@@ -139,7 +127,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Gastronomy labs teaching plant-based cooking",
         "fr": "Laboratoires gastronomiques enseignant la cuisine végétale",
@@ -148,7 +136,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Weekly plant-based menu recipes for comedores",
         "fr": "Recettes de menus hebdomadaires à base de plantes pour les cantines",
@@ -157,7 +145,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Undercover farm investigations exposing animal conditions",
         "fr": "Enquêtes undercover dans les fermes révélant les conditions animales",
@@ -166,7 +154,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Nutritional and environmental awareness talks",
         "fr": "Conférences de sensibilisation nutritionnelle et environnementale",
@@ -177,7 +165,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partnerships with academic institutions for research support",
         "fr": "Partenariats avec des institutions académiques pour le soutien à la recherche",
@@ -186,7 +174,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More institutions committing to weekly plant-based meals",
         "fr": "De plus en plus d'institutions s'engagent à proposer des repas à base de plantes chaque semaine",
@@ -195,7 +183,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political and legislative advocacy for regulatory framework",
         "fr": "Plaidoyer politique et législatif pour un cadre réglementaire",
@@ -204,7 +192,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Growing base of volunteers and activists",
         "fr": "Base croissante de bénévoles et d'activistes",
@@ -213,7 +201,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into hotel and hospital sectors",
         "fr": "Expansion dans les secteurs hôtelier et hospitalier",
@@ -222,7 +210,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donations from major and individual donors",
         "fr": "Dons de grands donateurs et de donateurs individuels",

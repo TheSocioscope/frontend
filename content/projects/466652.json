@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754479435,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La Fundación Botellas de Amor se dedica a reciclar los residuos plásticos contaminados que suelen acabar en los vertederos. Al compactar este plástico en botellas, crean un material denso conocido como \"madera plástica\", que se utiliza para construir escuelas, parques infantiles y viviendas. Su doble misión aborda la sostenibilidad medioambiental y las necesidades sociales, con el objetivo de reducir la contaminación por plásticos y abordar al mismo tiempo el déficit de vivienda en América Latina. La fundación opera a través del compromiso con la comunidad y la colaboración con diversas organizaciones.",
     "de": "Die Botellas de Amor Foundation konzentriert sich auf die Wiederverwertung von kontaminiertem Plastikmüll, der typischerweise auf Mülldeponien landet. Durch die Komprimierung dieses Plastiks in Flaschen schaffen sie ein dichtes Material, das als \"Plastikholz\" bekannt ist und zum Bau von Schulen, Spielplätzen und Wohnungen verwendet wird. Ihre duale Mission adressiert ökologische Nachhaltigkeit und soziale Bedürfnisse und zielt darauf ab, die Plastikverschmutzung zu reduzieren und gleichzeitig die Wohnungsnot in Lateinamerika zu bekämpfen. Die Stiftung arbeitet durch kommunales Engagement und Partnerschaften mit verschiedenen Organisationen."
   },
-  "field": [
-    "engineering-and-technology",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["engineering-and-technology", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "innovation-rd"
-  ],
+  "thematic": ["innovation-rd"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://botellasdeamor.org/co/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2000s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "John, co-founder of Botellas de Amor, began working in recycling and producing recycled plastic lumber (madera plástica) using post-industrial plastic, laying the groundwork for the initiative over 25 years ago.",
         "fr": "John, co-fondateur de Botellas de Amor, a commencé à travailler dans le recyclage et la production de bois plastique recyclé (madera plástica) à partir de plastique post-industriel, posant les bases de l'initiative il y a plus de 25 ans.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Fundación Botellas de Amor was legally constituted as a nonprofit foundation, formalizing the circular economy initiative to collect flexible plastic waste compacted in bottles and transform it into recycled plastic profiles.",
         "fr": "La Fundación Botellas de Amor a été légalement constituée en tant que fondation à but non lucratif, formalisant l'initiative d'économie circulaire visant à collecter des déchets plastiques flexibles compactés dans des bouteilles et à les transformer en profilés plastiques recyclés.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2016-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The foundation grew organically from 2 employees to approximately 70-100 collaborators, expanded to over 300 collection points nationwide, and has recovered more than 7,000 tonnes of flexible plastic waste to date.",
         "fr": "La fondation a grandi de manière organique, passant de 2 employés à environ 70 à 100 collaborateurs, s'est étendue à plus de 300 points de collecte à l'échelle nationale, et a récupéré à ce jour plus de 7 000 tonnes de déchets plastiques flexibles.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2016-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The foundation achieved financial self-sufficiency primarily through project sales (70% of revenue), which include construction of housing, school classrooms, and playgrounds using recycled plastic profiles for clients such as ODL, Esentia, and Argos.",
         "fr": "La fondation a atteint l'autosuffisance financière principalement grâce aux ventes de projets (70 % des revenus), qui comprennent la construction de logements, de salles de classe et d'aires de jeux à partir de profilés plastiques recyclés pour des clients tels que ODL, Esentia et Argos.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "Recent years",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Botellas de Amor established a partnership with Reporpus Global, receiving payments for certified plastic credits (50 tonnes per month), and began international expansion into Ecuador and the Dominican Republic.",
         "fr": "Botellas de Amor a établi un partenariat avec Reporpus Global, recevant des paiements pour des crédits plastiques certifiés (50 tonnes par mois), et a amorcé une expansion internationale en Équateur et en République dominicaine.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "Future (10-year goal)",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The foundation aims to build 4 million homes, capture 20 million tonnes of plastic waste, and operate in 20 Latin American countries, with additional interest from the United States, Spain, and India.",
         "fr": "La fondation vise à construire 4 millions de logements, à capturer 20 millions de tonnes de déchets plastiques et à opérer dans 20 pays d'Amérique latine, avec un intérêt supplémentaire des États-Unis, de l'Espagne et de l'Inde.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Recycled plastic profiles from flexible waste",
         "fr": "Profilés en plastique recyclé issus de déchets flexibles",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Housing for vulnerable populations",
         "fr": "Logements pour les populations vulnérables",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "School classrooms built from recycled plastic",
         "fr": "Salles de classe scolaires construites en plastique recyclé",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Children's parks donated to communities",
         "fr": "Parcs pour enfants offerts aux communautés",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Awareness talks for schools and companies",
         "fr": "Conférences de sensibilisation pour les écoles et les entreprises",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Circular economy model for unrecyclable plastics",
         "fr": "Modèle d'économie circulaire pour les plastiques non recyclables",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Plastic waste collection points nationwide",
         "fr": "Points de collecte de déchets plastiques à l'échelle nationale",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Corporate allies for extended producer responsibility",
         "fr": "Alliés corporatifs pour la responsabilité élargie des producteurs",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Loans or social-return investments for expansion",
         "fr": "Prêts ou investissements à retour social pour l'expansion",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for recycled plastic profiles and projects",
         "fr": "Acheteurs de profilés et projets en plastique recyclé",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More individuals to fill love bottles",
         "fr": "Plus de personnes pour remplir des bouteilles d'amour",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New countries for international replication",
         "fr": "De nouveaux pays pour la réplication internationale",

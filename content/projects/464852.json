@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754430912,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, fundada por dos licenciados en biología, pretende hacer frente a la creciente escasez de proteínas en la acuicultura desarrollando un suplemento proteínico sostenible para la alimentación animal. Utilizando recursos infrautilizados, como los cangrejos, el proyecto pretende crear una alternativa más respetuosa con el medio ambiente que la harina de pescado tradicional. Centrado en la innovación y la colaboración, el equipo ha conseguido financiación y asociaciones para avanzar en su misión de promover la sostenibilidad en el sector de la producción de alimentos.     ",
     "de": "Die von zwei Biologieabsolventen gegründete Initiative zielt darauf ab, den wachsenden Proteinmangel in der Aquakultur durch die Entwicklung eines nachhaltigen Proteinzusatzes für Tierfutter zu beheben. Durch die Verwendung von ungenutzten Ressourcen wie Krabben soll eine umweltfreundlichere Alternative zu traditionellem Fischmehl geschaffen werden. With a focus on innovation and collaboration, the team has secured funding and partnerships to advance their mission of promoting sustainability in the food production sector.     "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,20 +38,16 @@
       "lastname": "Happylan"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://decameal.com",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Leander and Happy conceived the idea for Decameal during a Bio Entrepreneurship course at university, focusing on using invasive shore crabs to produce sustainable marine protein for animal feed.",
         "fr": "Leander et Happy ont conçu l'idée de Decameal lors d'un cours de Bio-Entrepreneuriat à l'université, en se concentrant sur l'utilisation de crabes de rivage envahissants pour produire des protéines marines durables destinées à l'alimentation animale.",
@@ -67,7 +57,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Both founders completed their master's dissertations and began applying for grants and soft funding while Leander worked as a consultant and Happy participated in entrepreneurship courses at The Kitchen incubator.",
         "fr": "Les deux fondateurs ont terminé leurs mémoires de master et ont commencé à postuler à des subventions et des financements souples, tandis que Leander travaillait comme consultant et que Happy participait à des cours d'entrepreneuriat à l'incubateur The Kitchen.",
@@ -77,7 +67,7 @@
     },
     {
       "date": "2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "At the end of 2022, both founders secured an Innovator grant from the Innovation Fund, providing a year's salary each and enabling them to work full-time on Decameal.",
         "fr": "Fin 2022, les deux fondateurs ont obtenu une subvention Innovateur du Fonds d'Innovation, leur accordant un an de salaire chacun et leur permettant de travailler à temps plein sur Decameal.",
@@ -87,7 +77,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The team raised their first investment round including venture capital from Rockstart and business angels, and secured a major 4.3 million DKK Agri-Future grant in partnership with LG, Aarhus University, and fishing partners, then relocated production to Grensted.",
         "fr": "L'équipe a levé son premier tour d'investissement incluant du capital-risque de Rockstart et des business angels, et a obtenu une importante subvention Agri-Futur de 4,3 millions DKK en partenariat avec LG, l'Université d'Aarhus et des partenaires de pêche, puis a relocalisé la production à Grensted.",
@@ -97,7 +87,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ella Aqua became their first corporate investor, provided free feeding trials, and agreed to purchase their first batch of 1,500 kg of product, giving the company significant market validation.",
         "fr": "Ella Aqua est devenu leur premier investisseur institutionnel, a fourni des essais d'alimentation gratuits et a accepté d'acheter leur premier lot de 1 500 kg de produit, offrant à l'entreprise une validation commerciale significative.",
@@ -107,7 +97,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Decameal received a new grant of approximately 7-8 million DKK from the Danish Ministry for Food, Agriculture and Fisheries, enabling them to hire a chemist, chemical engineer, and commercial lead to scale up production and expand into new product lines from crab shells.",
         "fr": "Decameal a reçu une nouvelle subvention d'environ 7 à 8 millions DKK du ministère danois de l'Alimentation, de l'Agriculture et de la Pêche, leur permettant de recruter un chimiste, un ingénieur chimiste et un responsable commercial afin d'augmenter la production et de se développer vers de nouvelles gammes de produits à base de carapaces de crabes.",
@@ -118,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Sustainable protein from invasive crab species",
         "fr": "Protéine durable issue d'espèces de crabes envahissantes",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Marine protein ingredient for animal feed",
         "fr": "Ingrédient protéique marin pour l'alimentation animale",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "First sales to large feed companies",
         "fr": "Premières ventes aux grandes entreprises d'alimentation animale",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Pilot production facility for feed development",
         "fr": "Installation pilote de production pour le développement d'aliments",
@@ -154,7 +144,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Partnership support for small coastal fishermen",
         "fr": "Soutien au partenariat pour les petits pêcheurs côtiers",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Crab shell extraction and processing technology",
         "fr": "Technologie d'extraction et de traitement de carapaces de crabes",
@@ -174,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and investment rounds for scaling",
         "fr": "Subventions et tours d'investissement pour la mise à l'échelle",
@@ -183,7 +173,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Aquaculture companies as first customers",
         "fr": "Entreprises d'aquaculture comme premiers clients",
@@ -192,7 +182,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small sustainable fishermen supplying crabs",
         "fr": "Petits pêcheurs durables fournissant des crabes",
@@ -201,7 +191,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Chemical engineers to optimize extraction process",
         "fr": "Ingénieurs chimistes pour optimiser le processus d'extraction",
@@ -210,7 +200,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "International sustainable aquaculture feed markets",
         "fr": "Marchés internationaux d'aliments pour l'aquaculture durable",
@@ -219,7 +209,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "First continuous commercial sales agreements",
         "fr": "Premiers accords commerciaux continus de vente",

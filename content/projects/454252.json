@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1741094523,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Madfællesskabet se centra en mejorar la industria alimentaria mediante la colaboración entre diversas partes interesadas, como productores, chefs y entidades políticas. Su objetivo es impulsar el debate político sobre el abastecimiento local de alimentos, facilitar la creación de redes y promover el intercambio de conocimientos a través de talleres y festivales. Mediante la creación de plataformas de diálogo y colaboración, la iniciativa pretende mejorar la cultura y las prácticas alimentarias, garantizando que se dé prioridad a los productos locales en las cocinas públicas. El objetivo global es fomentar un ecosistema alimentario sostenible que beneficie tanto a los consumidores como a los productores.",
     "de": "Madfællesskabet konzentriert sich auf die Stärkung der Lebensmittelindustrie durch die Zusammenarbeit zwischen verschiedenen Akteuren, darunter Produzenten, Köche und politische Instanzen. Ziel ist es, politische Gespräche über die Beschaffung von Lebensmitteln aus der Region anzuregen, Networking-Events zu erleichtern und den Wissensaustausch durch Workshops und Festivals zu fördern. Durch die Schaffung von Plattformen für Dialog und Zusammenarbeit will die Initiative die Esskultur und -praktiken verbessern und sicherstellen, dass lokale Produkte in öffentlichen Küchen bevorzugt werden. The overarching goal is to foster a sustainable food ecosystem that benefits both consumers and producers alike."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Maria Kampmann"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.madfællesskabet.dk",
   "yt": "5K_UxhPp08s",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Food Organization of Denmark took over and revived Madfelsskabet (MF) after the previous host organization went bankrupt. The initiative was rebranded as a collaboration between two Danish regions and six municipalities focused on getting more local food into public kitchens.",
         "fr": "L'Organisation alimentaire du Danemark a repris et relancé Madfelsskabet (MF) après la faillite de l'organisation hôte précédente. L'initiative a été rebaptisée en tant que collaboration entre deux régions danoises et six municipalités, axée sur l'introduction d'une plus grande quantité d'aliments locaux dans les cuisines publiques.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Jutland municipalities joined the MF initiative, expanding the geographic scope of the collaboration. Working groups and annual political steering committee meetings were established to guide the initiative's direction.",
         "fr": "Les municipalités du Jutland ont rejoint l'initiative MF, élargissant ainsi la portée géographique de la collaboration. Des groupes de travail et des réunions annuelles du comité de pilotage politique ont été mis en place pour orienter la direction de l'initiative.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2021-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "MF launched its Bogenmark speed dating events in partnership with the Agriculture and Trade Council, bringing together producers and public or private kitchen buyers six times per year to facilitate direct food supply transactions.",
         "fr": "MF a lancé ses événements de speed dating Bogenmark en partenariat avec le Conseil de l'agriculture et du commerce, réunissant producteurs et acheteurs de cuisines publiques ou privées six fois par an afin de faciliter les transactions directes d'approvisionnement alimentaire.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "MF developed online qualification webinars for public kitchen staff to improve plant-based cooking skills, reaching small kitchens unable to attend in-person courses. Inspirational videos from other public kitchens were produced to support knowledge sharing.",
         "fr": "MF a développé des webinaires de qualification en ligne destinés au personnel des cuisines publiques afin d'améliorer les compétences en cuisine à base de plantes, atteignant les petites cuisines dans l'impossibilité d'assister à des cours en présentiel. Des vidéos inspirantes provenant d'autres cuisines publiques ont été produites pour soutenir le partage des connaissances.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The annual political steering committee meeting was replaced with a directional-level meeting due to upcoming national elections and strong operational momentum. MF simultaneously began securing funding for 2027 projects, reflecting a proactive multi-year planning approach.",
         "fr": "La réunion annuelle du comité de pilotage politique a été remplacée par une réunion au niveau directionnel en raison des élections nationales à venir et d'une forte dynamique opérationnelle. MF a simultanément commencé à sécuriser des financements pour les projets de 2027, témoignant d'une approche proactive de planification pluriannuelle.",
@@ -104,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Speed dating matchmaking between producers and kitchens",
         "fr": "Speed dating de mise en relation entre producteurs et cuisines",
@@ -113,7 +103,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Qualification webinars for public kitchen staff",
         "fr": "Webinaires de qualification pour le personnel des cuisines publiques",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Inspirational content and large-scale recipes for canteens",
         "fr": "Contenus inspirants et recettes à grande échelle pour les cantines",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Festivals connecting food producers and public",
         "fr": "Festivals réunissant producteurs alimentaires et grand public",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Political advocacy for local food in public kitchens",
         "fr": "Plaidoyer politique pour l'alimentation locale dans les cuisines publiques",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm tours and theme meetings for municipalities",
         "fr": "Visites de fermes et réunions thématiques pour les municipalités",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Producers and public kitchens for matchmaking",
         "fr": "Producteurs et cuisines publiques pour le matchmaking",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political support for local food agenda",
         "fr": "Soutien politique pour un agenda alimentaire local",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public and private project grants",
         "fr": "Subventions publiques et privées pour les projets",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More local food in public kitchens",
         "fr": "Plus d'aliments locaux dans les cuisines publiques",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expanded speed dating events across Denmark",
         "fr": "Événements de speed dating élargis à travers le Danemark",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge sharing on sustainable sourcing",
         "fr": "Partage des connaissances sur l'approvisionnement durable",

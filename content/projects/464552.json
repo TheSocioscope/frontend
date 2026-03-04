@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754430007,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, conocida como Domestic, comenzó en 2015 para promover la cocina local danesa a través de una experiencia gastronómica de calidad. Fundada por tres copropietarios, hace hincapié en la experiencia del cliente y la sostenibilidad, centrándose en los productos locales. Tras enfrentarse a retos posteriores a la crisis de COVID, el único propietario, Christopher, ha fomentado la colaboración con agricultores locales y otros restaurantes para mejorar las prácticas de sostenibilidad. El restaurante aspira a un sistema alimentario regenerativo, al tiempo que da prioridad a la comunidad y a enfoques innovadores de la restauración.",
     "de": "Die Initiative, bekannt als Domestic, begann 2015, um die lokale dänische Küche durch ein feines Ess-Erlebnis zu fördern. Gegründet von drei Miteigentümern, legt sie Wert auf Kundenerfahrung und Nachhaltigkeit und konzentriert sich dabei auf lokale Produkte. Nach der Bewältigung der Herausforderungen nach dem COVID-Prozess hat der Alleininhaber Christopher die Zusammenarbeit mit lokalen Bauern und anderen Restaurants gefördert, um die Nachhaltigkeitspraktiken zu verbessern. Das Restaurant strebt ein regeneratives Lebensmittelsystem an, wobei der Schwerpunkt auf der Gemeinschaft und innovativen Ansätzen beim Essen liegt."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -69,13 +63,9 @@
       "lastname": "Norton"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://restaurantdomestic.dk",
   "yt": "PGb8J1jxQYo",
   "editedAt": 1755736126,
@@ -85,14 +75,12 @@
       "at": 1755736126
     }
   ],
-  "updatedAt": [
-    1755736126
-  ],
+  "updatedAt": [1755736126],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Domestic restaurant was founded in Aarhus by four co-owners, including two chefs and service industry experts. The concept focused on 100% local Danish cuisine from day one.",
         "fr": "Le restaurant Domestic a été fondé à Aarhus par quatre co-propriétaires, dont deux chefs et des experts du secteur des services. Le concept était axé dès le premier jour sur une cuisine danoise 100% locale.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2017",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Sustainability became an explicit focus for the restaurant, building on the existing commitment to local and seasonal produce.",
         "fr": "La durabilité est devenue un axe explicite pour le restaurant, s'appuyant sur l'engagement existant envers les produits locaux et de saison.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "One co-owner departed before the COVID period, and the remaining two exited after COVID, leaving Christopher as the sole owner with new investors.",
         "fr": "Un co-propriétaire est parti avant la période COVID, et les deux autres ont quitté l'aventure après le COVID, laissant Christopher comme seul propriétaire avec de nouveaux investisseurs.",
@@ -122,7 +110,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Despite managing relatively well during COVID with government support, the restaurant experienced significant economic decline in the years following the pandemic, nearly facing bankruptcy.",
         "fr": "Malgré une gestion relativement bonne pendant le COVID grâce aux aides gouvernementales, le restaurant a connu un déclin économique significatif dans les années suivant la pandémie, frôlant presque la faillite.",
@@ -132,7 +120,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Christopher secured three investors who provided financial backing and business expertise while sharing the restaurant's sustainability values, stabilizing the business model.",
         "fr": "Christopher a obtenu le soutien de trois investisseurs qui ont apporté un soutien financier et une expertise commerciale tout en partageant les valeurs de durabilité du restaurant, stabilisant ainsi le modèle économique.",
@@ -142,7 +130,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The restaurant returned to financial sustainability, earning its first profit in several years and receiving three circles in the 360 Eat Guide for its sustainability practices.",
         "fr": "Le restaurant a retrouvé une viabilité financière, réalisant son premier bénéfice en plusieurs années et recevant trois cercles dans le 360 Eat Guide pour ses pratiques en matière de durabilité.",
@@ -153,7 +141,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fine dining with local seasonal Danish ingredients",
         "fr": "Gastronomie raffinée avec des ingrédients danois locaux de saison",
@@ -162,7 +150,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero waste dining experience and practices",
         "fr": "Expérience culinaire et pratiques zéro déchet",
@@ -171,7 +159,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Knowledge sharing with local restaurants and producers",
         "fr": "Partage des connaissances avec les restaurants et producteurs locaux",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model for sustainable fine dining in Denmark",
         "fr": "Modèle de gastronomie durable au Danemark",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct trade supporting local small-scale farmers",
         "fr": "Commerce direct soutenant les petits agriculteurs locaux",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Guest storytelling about sustainability and food origins",
         "fr": "Récits pour les convives sur la durabilité et l'origine des aliments",
@@ -209,7 +197,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local farmers for seasonal produce collaboration",
         "fr": "Agriculteurs locaux pour une collaboration sur les produits de saison",
@@ -218,7 +206,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Like-minded restaurants to share knowledge networks",
         "fr": "Restaurants partageant les mêmes valeurs pour échanger des réseaux de connaissances",
@@ -227,7 +215,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small local producers committed to sustainability",
         "fr": "Petits producteurs locaux engagés en faveur de la durabilité",
@@ -236,7 +224,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Values-aligned investors with business expertise",
         "fr": "Investisseurs partageant les mêmes valeurs avec une expertise en affaires",
@@ -245,7 +233,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Corporate clients for events and seasonal dining",
         "fr": "Clients corporatifs pour les événements et la restauration saisonnière",
@@ -254,7 +242,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Reform of organic certification regulations",
         "fr": "Réforme des réglementations de certification biologique",

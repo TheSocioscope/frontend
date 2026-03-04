@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754405925,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "El Instituto Nacional de Tecnología Industrial (INTI) de Argentina se centra en apoyar el desarrollo de la industria alimentaria local mediante prácticas sostenibles. El INTI colabora con diversas partes interesadas, incluidos pequeños productores y grandes industrias, para mejorar el procesamiento de alimentos y el desarrollo de productos. Sus iniciativas hacen hincapié en la utilización de recursos locales, el valor nutricional y los principios de la economía circular. Abogan por asociaciones y proyectos de impacto social, con el objetivo de fomentar la sostenibilidad de los sistemas alimentarios, y también destacan la importancia de la formación y el intercambio de conocimientos para empoderar a las empresas locales.",
     "de": "Das Nationale Institut für Industrietechnologie (INTI) in Argentinien konzentriert sich auf die Unterstützung der lokalen Entwicklung der Lebensmittelindustrie durch nachhaltige Praktiken. INTI arbeitet mit verschiedenen Stakeholdern, darunter Kleinproduzenten und Großindustrie, zusammen, um die Lebensmittelverarbeitung und Produktentwicklung zu verbessern. Ihre Initiativen konzentrieren sich auf die lokale Ressourcennutzung, den Nährwert und die Prinzipien der Kreislaufwirtschaft. They advocate for partnerships and social impact projects, aiming to foster sustainability in food systems, and also highlight the importance of training and knowledge sharing to empower local enterprises."
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,13 +33,9 @@
       "lastname": "Sánchez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.argentina.gob.ar/linea-estrategica/alimentos",
   "yt": "qaa3JSEiBYA",
   "editedAt": 1755739671,
@@ -56,14 +45,12 @@
       "at": 1755739671
     }
   ],
-  "updatedAt": [
-    1755739671
-  ],
+  "updatedAt": [1755739671],
   "originalLang": "fr",
   "gallery": [],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Laboratory testing and food analysis services",
         "fr": "Services d'analyses en laboratoire et d'analyse alimentaire",
@@ -72,7 +59,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training and capacity building for food producers",
         "fr": "Formation et renforcement des capacités pour les producteurs alimentaires",
@@ -81,7 +68,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Product development from prototypes to scale",
         "fr": "Développement de produits des prototypes à la mise à l'échelle",
@@ -90,7 +77,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Technical support for microentrepreneurs entering formal market",
         "fr": "Soutien technique aux micro-entrepreneurs intégrant le marché formel",
@@ -99,7 +86,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Valorization of food byproducts and discards",
         "fr": "Valorisation des sous-produits et des déchets alimentaires",
@@ -108,7 +95,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Regulatory compliance and nutritional labeling assistance",
         "fr": "Aide à la conformité réglementaire et à l'étiquetage nutritionnel",
@@ -119,7 +106,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "SMEs and startups for product development",
         "fr": "PME et startups pour le développement de produits",
@@ -128,7 +115,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic institutions for applied food research",
         "fr": "Institutions académiques pour la recherche appliquée en alimentation",
@@ -137,7 +124,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Foundations funding healthy food programs",
         "fr": "Fondations finançant des programmes alimentaires sains",
@@ -146,7 +133,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local raw material suppliers for value-added products",
         "fr": "Fournisseurs locaux de matières premières pour des produits à valeur ajoutée",
@@ -155,7 +142,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Microentrepreneurs entering formal food channels",
         "fr": "Micro-entrepreneurs intégrant les circuits alimentaires formels",
@@ -164,7 +151,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International Horizon Europe research collaborators",
         "fr": "Collaborateurs internationaux de recherche Horizon Europe",
@@ -176,7 +163,7 @@
   "timeline": [
     {
       "date": "1995",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mariana Sánchez joined INTI as a career civil servant, later moving to permanent staff in 1998. She has remained with the institution for approximately 30 years.",
         "fr": "Mariana Sánchez a rejoint l'INTI en tant que fonctionnaire de carrière, avant de passer au personnel permanent en 1998. Elle est restée au sein de l'institution pendant environ 30 ans.",
@@ -186,7 +173,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "INTI began a long-term project with Red Puna, a cooperative of 15 indigenous Colla communities near the Bolivia border, developing value-added llama meat products including cured meats and sausages. This became the first certified charcuterie processing plant in Jujuy province.",
         "fr": "L'INTI a lancé un projet à long terme avec Red Puna, une coopérative de 15 communautés indigènes Colla près de la frontière bolivienne, développant des produits à valeur ajoutée à base de viande de lama, notamment des charcuteries et des saucisses. Cela est devenu le premier atelier de transformation charcutière certifié de la province de Jujuy.",
@@ -196,7 +183,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Mariana formed a new technical team within her directorate, later replicating the model into two parallel teams focused on sustainable and healthy food development.",
         "fr": "Mariana a constitué une nouvelle équipe technique au sein de sa direction, reproduisant ensuite ce modèle en deux équipes parallèles axées sur le développement d'aliments durables et sains.",
@@ -206,7 +193,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "INTI launched the Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados program to help small food producers enter formal commercial channels, later co-executing it with Fundación Alimentaris across 40 microenterprises in Córdoba, Santa Fe, and Santiago del Estero.",
         "fr": "L'INTI a lancé le programme Clínica de Alimentos Saludables, Sostenibles y Culturalmente Adecuados pour aider les petits producteurs alimentaires à intégrer les circuits commerciaux formels, avant de le co-exécuter avec la Fundación Alimentaris auprès de 40 microentreprises en Córdoba, Santa Fe et Santiago del Estero.",
@@ -216,7 +203,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Mariana was designated Argentina's National Contact Point for Horizon Europe projects in the food sector, expanding INTI's international institutional linkages.",
         "fr": "Mariana a été désignée Point de Contact National de l'Argentine pour les projets Horizon Europe dans le secteur alimentaire, renforçant les liens institutionnels internationaux de l'INTI.",
@@ -226,7 +213,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Under the Milei administration, INTI was moved from the Ministry of Industry to the Ministry of Economy, creating institutional uncertainty, though the directorate maintained stability through a sustained private-sector client pipeline covering 35% of its salary costs.",
         "fr": "Sous l'administration Milei, l'INTI a été transféré du ministère de l'Industrie au ministère de l'Économie, créant une incertitude institutionnelle, bien que la direction ait maintenu sa stabilité grâce à un portefeuille soutenu de clients du secteur privé couvrant 35 % de ses coûts salariaux.",

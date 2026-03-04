@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754404371,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa La Cuica Cosmica, inspirada en la sabiduría ancestral y las enseñanzas de la permacultura, pretende promover prácticas sostenibles a través del compostaje y la jardinería ecológica. Fundada por un grupo de apasionados, hace hincapié en la importancia de comprender la gestión de residuos y fomentar la conexión con la naturaleza. Al ofrecer talleres y recursos educativos, la iniciativa pretende capacitar a las comunidades para que adopten prácticas ecológicas, mejoren la soberanía alimentaria y cultiven una relación más profunda con el medio ambiente.",
     "de": "Die Initiative La Cuica Cosmica, die von der Weisheit unserer Vorfahren und den Lehren der Permakultur inspiriert ist, will nachhaltige Praktiken durch Kompostierung und organisches Gärtnern fördern. Das von einer leidenschaftlichen Gruppe gegründete Projekt betont die Wichtigkeit, die Abfallwirtschaft zu verstehen und eine Verbindung zur Natur zu fördern. Durch das Angebot von Workshops und Bildungsressourcen will die Initiative Gemeinden ermutigen, ökologische Praktiken zu übernehmen, die Nahrungsmittelsouveränität zu stärken und eine bessere Beziehung zur Umwelt zu pflegen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Franco"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "La Cuica Cósmica comenzó a gestarse como proyecto de permacultura y agroecología, aunque aún sin nombre formal ni estructura definida.",
         "fr": "La Cuica Cósmica a commencé à se former en tant que projet de permaculture et d'agroécologie, bien que sans nom formel ni structure définie.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alicia se vincula a la Alianza Basura Cero, un proyecto de la Universidad Andina Simón Bolívar financiado por GAIA, donde asume la coordinación del tema de compostaje y residuos orgánicos.",
         "fr": "Alicia rejoint l'Alliance Zéro Déchet, un projet de l'Université Andine Simón Bolívar financé par GAIA, où elle assume la coordination du thème du compostage et des déchets organiques.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "La Cuica Cósmica se formaliza como colectivo bajo ese nombre, conformado por tres mujeres, con el propósito de ofrecer talleres, asesoría en compostaje y diseño de huertas agroecológicas.",
         "fr": "La Cuica Cósmica se formalise en tant que collectif sous ce nom, composé de trois femmes, dans le but de proposer des ateliers, des conseils en compostage et la conception de potagers agroécologiques.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alicia ingresa a la Red de Guardianes de Semillas de Ecuador, aportando semillas de tomate rescatadas en Italia y accediendo a la plataforma Radio Semilla, que amplió la visibilidad de la Cuica Cósmica.",
         "fr": "Alicia intègre le Réseau des Gardiens de Semences de l'Équateur, en apportant des graines de tomates sauvegardées en Italie et en accédant à la plateforme Radio Semilla, qui a élargi la visibilité de la Cuica Cósmica.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "El colectivo desarrolló dos modelos de composteras para venta con acompañamiento pedagógico, e implementó un programa piloto de compostaje en siete escuelas del Noroccidente de Pichincha.",
         "fr": "Le collectif a développé deux modèles de composteurs destinés à la vente avec un accompagnement pédagogique, et a mis en œuvre un programme pilote de compostage dans sept écoles du Nord-Ouest de Pichincha.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Alicia participa en una conferencia internacional de ciudades Basura Cero en Tanzania e inicia diálogos directos con empresas privadas de gestión de residuos en Quito para promover alternativas a la incineración.",
         "fr": "Alicia participe à une conférence internationale des villes Zéro Déchet en Tanzanie et entame des dialogues directs avec des entreprises privées de gestion des déchets à Quito pour promouvoir des alternatives à l'incinération.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops teaching composting to families",
         "fr": "Ateliers d'enseignement du compostage aux familles",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Composting kits sold with hands-on training",
         "fr": "Kits de compostage vendus avec formation pratique",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Permaculture and urban garden design",
         "fr": "Permaculture et conception de jardins urbains",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero waste advocacy and residue management",
         "fr": "Plaidoyer zéro déchet et gestion des résidus",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "School composting networks in rural areas",
         "fr": "Réseaux de compostage scolaire en milieu rural",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological production and seed preservation",
         "fr": "Production agroécologique et conservation des semences",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Organizations to collaborate on zero waste",
         "fr": "Organisations pour collaborer sur le zéro déchet",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Communities learning composting at home",
         "fr": "Communautés apprenant le compostage à domicile",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Municipal policy change on waste management",
         "fr": "Changement de politique municipale sur la gestion des déchets",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for agroecological food baskets",
         "fr": "Acheteurs pour des paniers alimentaires agroécologiques",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Funds to scale permaculture workshops",
         "fr": "Fonds pour développer les ateliers de permaculture",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Expanded land for permaculture experimentation",
         "fr": "Terrain élargi pour l'expérimentation en permaculture",

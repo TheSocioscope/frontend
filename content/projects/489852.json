@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754990465,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Cervecería La Trocha, creada por excombatientes en el marco del acuerdo de paz de Colombia, es una iniciativa comunitaria centrada en promover la paz y apoyar las economías locales. Con un equipo de trabajadores entregados, gestiona una fábrica de cerveza y ofrece diversos productos artesanales, fomentando la colaboración con artistas e instituciones locales. La iniciativa hace hincapié en los derechos de los trabajadores, la sostenibilidad y el crecimiento colectivo, con el objetivo de crear un entorno propicio tanto para los firmantes como para las víctimas del conflicto.",
     "de": "Die Cerveceria La Trocha, die von ehemaligen Kämpfern im Rahmen des kolumbianischen Friedensabkommens gegründet wurde, ist eine von der Gemeinschaft getragene Initiative, die sich auf die Förderung des Friedens und die Unterstützung der lokalen Wirtschaft konzentriert. Mit einem Team engagierter Mitarbeiter betreibt sie eine Brauerei und bietet verschiedene handwerkliche Produkte an, wobei sie die Zusammenarbeit mit lokalen Künstlern und Institutionen fördert. Die Initiative legt den Schwerpunkt auf die Rechte der Arbeitnehmer, Nachhaltigkeit und kollektives Wachstum und zielt darauf ab, ein unterstützendes Umfeld sowohl für die Unterzeichner als auch für die Opfer des Konflikts zu schaffen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -49,21 +43,16 @@
       "lastname": "Enersto Correa"
     }
   ],
-  "thematic": [
-    "welfare-work-social-protection",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["welfare-work-social-protection", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/latrochacerveza/?hl=en",
   "yt": "6BLbiDlTNuo",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ten FARC signatories pooled their individual $8 million seed capital grants to found Cervecería La Trocha in the Chapinero neighborhood of Bogotá, following the Peace Agreement.",
         "fr": "Dix signataires des FARC ont mis en commun leurs dotations individuelles en capital d'amorçage de 8 millions de dollars pour fonder la Cervecería La Trocha dans le quartier Chapinero de Bogotá, à la suite de l'Accord de paix.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "After one year in Chapinero, the landlord refused to renew their contract because they were ex-combatants, forcing the organization to find a new location.",
         "fr": "Après un an à Chapinero, le propriétaire a refusé de renouveler leur contrat au motif qu'ils étaient d'anciens combattants, obligeant l'organisation à trouver un nouvel emplacement.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The group relocated to a house in the Sagrado Corazón neighborhood, which enabled the creation of La Casa de la Paz, integrating civil society, signatories, and conflict victims under one roof.",
         "fr": "Le groupe a déménagé dans une maison du quartier Sagrado Corazón, ce qui a permis la création de La Casa de la Paz, réunissant sous un même toit la société civile, les signataires et les victimes du conflit.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2019-2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Over four years the initiative reached financial breakeven while employing nine workers on indefinite contracts with full legal benefits, funded primarily through artisanal beer sales with no external grants.",
         "fr": "En quatre ans, l'initiative a atteint l'équilibre financier tout en employant neuf travailleurs sous contrats à durée indéterminée avec l'ensemble des avantages légaux, financée principalement par la vente de bières artisanales sans aucune subvention externe.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Fariana beer was launched in commemoration of the eighth anniversary of the Peace Accord signing, and the onsite library was formally inaugurated, expanding the space's cultural and educational offerings.",
         "fr": "La bière Fariana a été lancée en commémoration du huitième anniversaire de la signature de l'Accord de paix, et la bibliothèque sur place a été officiellement inaugurée, enrichissant les offres culturelles et éducatives de l'espace.",
@@ -113,7 +102,7 @@
     },
     {
       "date": "2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The owners of the rented house announced plans to sell the property, prompting La Casa de la Paz to plan an international crowdfunding campaign to raise a down payment and seek a mortgage.",
         "fr": "Les propriétaires de la maison louée ont annoncé leur intention de vendre le bien, poussant La Casa de la Paz à planifier une campagne de financement participatif international afin de réunir un apport initial et d'obtenir un prêt hypothécaire.",
@@ -124,7 +113,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Space for artistic collectives and events",
         "fr": "Espace pour les collectifs artistiques et les événements",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Artisanal products from conflict-affected territories",
         "fr": "Produits artisanaux issus des territoires touchés par les conflits",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Platform to sell ex-combatant and victim products",
         "fr": "Plateforme de vente de produits d'ex-combattants et de victimes",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Guided tours on peace and conflict history",
         "fr": "Visites guidées sur la paix et l'histoire des conflits",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "University student internships and practicum",
         "fr": "Stages et pratiques pour étudiants universitaires",
@@ -169,7 +158,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Free library with no-deposit book lending",
         "fr": "Bibliothèque gratuite avec prêt de livres sans dépôt",
@@ -180,7 +169,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Crowdfunding to purchase current house",
         "fr": "Financement participatif pour l'achat de la maison actuelle",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collective replication in other cities",
         "fr": "Réplication collective dans d'autres villes",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Direct local artisan producers no intermediaries",
         "fr": "Producteurs artisans locaux directs sans intermédiaires",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Visitors and collectives for peace construction",
         "fr": "Visiteurs et collectifs pour la construction de la paix",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University internships and academic alliances",
         "fr": "Stages universitaires et alliances académiques",

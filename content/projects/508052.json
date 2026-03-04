@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "united-states"
-  ],
+  "continent": ["north-america"],
+  "country": ["united-states"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A composting initiative in Miami that has diverted over 6.1 million lbs of organics from landfills since October 2020.",
     "de": "A composting initiative in Miami that has diverted over 6.1 million lbs of organics from landfills since October 2020."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "Miami, FL",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Torres"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.compostforlifemiami.com",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "20+ years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Francisco Torres began composting while living in Milwaukee, Wisconsin, building over 20 years of composting knowledge and experience before founding Compost for Life.",
         "fr": "Francisco Torres a commencé le compostage alors qu'il vivait à Milwaukee, dans le Wisconsin, accumulant plus de 20 ans de connaissances et d'expérience en compostage avant de fonder Compost for Life.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "October 2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Compost for Life was founded during the pandemic using personal savings, beginning its first week by collecting 110 pounds of compost from four families and one business.",
         "fr": "Compost for Life a été fondé pendant la pandémie grâce à des économies personnelles, en commençant sa première semaine en collectant 110 livres de compost auprès de quatre familles et d'une entreprise.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A partnership with the One Hotel was established following a sustainability audit facilitated by the Footprint Group, becoming a cornerstone relationship for the organization's growth.",
         "fr": "Un partenariat avec le One Hotel a été établi à la suite d'un audit de durabilité facilité par le Footprint Group, devenant une relation fondamentale pour la croissance de l'organisation.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Compost for Life expanded to serve over 83 businesses and 400 families, growing weekly collection from 110 pounds to over 100,000 pounds and diverting a total of 6.5 million pounds from landfills.",
         "fr": "Compost for Life s'est développé pour servir plus de 83 entreprises et 400 familles, faisant passer la collecte hebdomadaire de 110 livres à plus de 100 000 livres et détournant un total de 6,5 millions de livres des décharges.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Glass for Life was launched as a sister organization in response to a demand from the One Hotel for glass recycling services, broadening the scope of Compost for Life's operations.",
         "fr": "Glass for Life a été lancé en tant qu'organisation sœur en réponse à une demande du One Hotel pour des services de recyclage du verre, élargissant ainsi le champ d'action de Compost for Life.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A first legislative reading was scheduled to establish formal registration for community composters in Miami-Dade County, a critical step toward enabling municipal pilot programs across 36 municipalities.",
         "fr": "Une première lecture législative a été programmée pour établir un enregistrement formel des composteurs communautaires dans le comté de Miami-Dade, une étape cruciale vers la mise en place de programmes pilotes municipaux dans 36 municipalités.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Doorstep compost pickup for homes and businesses",
         "fr": "Collecte de compost à domicile pour les particuliers et les entreprises",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Food scraps diverted from landfills",
         "fr": "Déchets alimentaires détournés des décharges",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Finished compost donated to local farms",
         "fr": "Compost fini donné aux fermes locales",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community drop-off composting sites",
         "fr": "Sites de compostage communautaires avec dépôt libre",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Educational workshops and community outreach",
         "fr": "Ateliers éducatifs et sensibilisation communautaire",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free compost for underserved community gardens",
         "fr": "Compost gratuit pour les jardins communautaires défavorisés",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Hotel and hospitality industry partnerships",
         "fr": "Partenariats avec l'industrie hôtelière et de l'hospitalité",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Local legislation supporting community composting",
         "fr": "Législation locale soutenant le compostage communautaire",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Expand composting habit across Miami communities",
         "fr": "Développer les habitudes de compostage dans les communautés de Miami",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Pilot programs with Miami-Dade municipalities",
         "fr": "Programmes pilotes avec les municipalités de Miami-Dade",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "School and university composting partnerships",
         "fr": "Partenariats de compostage avec les écoles et les universités",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community volunteers for compost operations",
         "fr": "Bénévoles communautaires pour les opérations de compostage",

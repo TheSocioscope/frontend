@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739459255,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Alpina se centra en los esfuerzos de sostenibilidad dentro de una destacada empresa láctea colombiana, líder del mercado desde hace más de 70 años. El equipo de sostenibilidad, impulsado por los valores de propiedad de la empresa, tiene como objetivo aplicar prácticas que superen la normativa local y promuevan la responsabilidad medioambiental en todas sus operaciones. Esto incluye iniciativas como la reducción del uso de plásticos, la mejora de la gestión del agua y la prestación de asistencia técnica a los productores lácteos para mejorar la eficiencia de la producción de leche minimizando al mismo tiempo el impacto medioambiental. La empresa se ha comprometido a integrar la sostenibilidad en su modelo de negocio, considerándola esencial para la supervivencia a largo plazo y no una mera estrategia de marketing. La iniciativa también hace hincapié en la colaboración con proveedores y partes interesadas para fomentar un impacto más amplio en la industria y la comunidad.",
     "de": "Alpina konzentriert sich auf Nachhaltigkeitsbemühungen innerhalb eines prominenten kolumbianischen Molkereiunternehmens, das seit über 70 Jahren Marktführer ist. Das Nachhaltigkeitsteam, das von den Eigentumswerten des Unternehmens geleitet wird, strebt die Umsetzung von Praktiken an, die über die örtlichen Vorschriften hinausgehen und die Umweltverantwortung im gesamten Betrieb fördern. Dazu gehören Initiativen wie die Reduzierung des Plastikverbrauchs, die Verbesserung des Wassermanagements und die Bereitstellung technischer Unterstützung für Milchbauern zur Steigerung der Milcherzeugungseffizienz bei gleichzeitiger Minimierung der Umweltauswirkungen. Das Unternehmen hat sich der Integration von Nachhaltigkeit in sein Geschäftsmodell verschrieben und betrachtet sie als wesentlich für das langfristige Überleben und nicht nur als Marketingstrategie. Die Initiative betont auch die Zusammenarbeit mit Zulieferern und Stakeholdern, um einen größeren Einfluss auf die Branche und die Gemeinschaft zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Camila Orjuela"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://alpina.com/",
   "yt": "0ljrb4URfKE",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1945",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Alpina Colombia was founded in Sopó by a Swiss family that had first arrived in Ecuador before settling in Colombia. The company began with cheese production and grew into the country's largest dairy brand.",
         "fr": "Alpina Colombia a été fondée à Sopó par une famille suisse qui s'était d'abord installée en Équateur avant de s'établir en Colombie. L'entreprise a débuté avec la production de fromage et est devenue la plus grande marque laitière du pays.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2000s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A large sustainability initiative was launched under the previous company president, with a dedicated team of around 30 people working transversally across all operations.",
         "fr": "Une grande initiative de développement durable a été lancée sous la direction du précédent président de l'entreprise, avec une équipe dédiée d'environ 30 personnes travaillant de manière transversale à travers toutes les opérations.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2007",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alpina launched a rural development program in Huachucal, Nariño, associating small farmers, improving productivity, and achieving their financial inclusion. Those associations continue supplying milk to this day.",
         "fr": "Alpina a lancé un programme de développement rural à Huachucal, Nariño, en associant de petits agriculteurs, en améliorant la productivité et en favorisant leur inclusion financière. Ces associations continuent d'approvisionner en lait jusqu'à aujourd'hui.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Alpina published its first sustainability report, beginning formal tracking of environmental and social commitments aligned with the UN Sustainable Development Goals.",
         "fr": "Alpina a publié son premier rapport de développement durable, amorçant un suivi formel des engagements environnementaux et sociaux alignés sur les Objectifs de Développement Durable des Nations Unies.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2017",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Following a leadership change, the sustainability team was significantly reduced from roughly 30 people to a small team of three, shifting from a transversal operational role to a more advisory and communications-focused function.",
         "fr": "À la suite d'un changement de direction, l'équipe développement durable a été considérablement réduite, passant d'environ 30 personnes à une petite équipe de trois personnes, passant d'un rôle opérationnel transversal à une fonction davantage axée sur le conseil et la communication.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2021",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Alpina formally embedded sustainability as a strategic pillar, redefining its corporate purpose to 'nourish a more sustainable world' and establishing 18 specific sustainability commitments covering environmental, social, and governance dimensions.",
         "fr": "Alpina a formellement intégré le développement durable comme pilier stratégique, redéfinissant sa raison d'être à « nourrir un monde plus durable » et établissant 18 engagements spécifiques en matière de développement durable couvrant les dimensions environnementales, sociales et de gouvernance.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical assistance to dairy farmers on sustainability",
         "fr": "Assistance technique aux producteurs laitiers en matière de durabilité",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge and capacity building for farmers",
         "fr": "Renforcement des connaissances et des capacités des agriculteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Food donations to vulnerable families via food banks",
         "fr": "Dons alimentaires aux familles vulnérables via les banques alimentaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biogas plant and solar farm energy production",
         "fr": "Production d'énergie par unité de biogaz et parc solaire",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Dialogue spaces with local municipalities",
         "fr": "Espaces de dialogue avec les municipalités locales",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Sustainability tools co-developed with research partners",
         "fr": "Outils de durabilité co-développés avec des partenaires de recherche",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Articulation with international organizations like TNC and USAID",
         "fr": "Articulation avec des organisations internationales comme TNC et USAID",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic partnerships for carbon footprint measurement tools",
         "fr": "Partenariats académiques pour les outils de mesure de l'empreinte carbone",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Green finance and results-based payment funds",
         "fr": "Finance verte et fonds de paiement basés sur les résultats",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Sustainable dairy farmers meeting higher standards",
         "fr": "Éleveurs laitiers durables répondant à des normes plus élevées",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Recyclable packaging material suppliers and recyclers",
         "fr": "Fournisseurs d'emballages recyclables et recycleurs",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Anticipating EU-aligned environmental regulations in Colombia",
         "fr": "Anticipation des réglementations environnementales alignées sur l'UE en Colombie",

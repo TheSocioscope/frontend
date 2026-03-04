@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755005425,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Resto Zero es una iniciativa que comenzó en 2016 con el objetivo de abordar los problemas medioambientales causados por los residuos de café en Perú, uno de los principales productores de café del mundo. El proyecto se centra en la utilización de cáscaras de café que, si no se tratan, pueden liberar metano y contaminar las aguas subterráneas. Resto Cero ha desarrollado un producto a partir de estas cáscaras que se vende a un importante cliente, Fidelia Tea, para su uso en infusiones. También están investigando la harina de cáscara de café, que tiene potenciales beneficios digestivos y podría exportarse.",
     "de": "Resto Zero ist eine Initiative, die 2016 mit dem Ziel ins Leben gerufen wurde, die durch Kaffeeabfälle verursachten Umweltprobleme in Peru, einem der größten Kaffeeproduzenten der Welt, anzugehen. Das Projekt konzentriert sich auf die Verwertung von Kaffeeschalen, die unbehandelt Methan freisetzen und das Grundwasser verschmutzen können. Resto Cero hat aus diesen Schalen ein Produkt entwickelt, das an einen Großkunden, Fidelia Tea, zur Verwendung in Aufgüssen verkauft wird. Das Unternehmen forscht auch an Kaffeeschalenmehl, das potenziell verdauungsfördernd ist und exportiert werden könnte."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "ANAI RAMOS LI"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "consumption-and-production-patterns"
-  ],
+  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.resto-zero.com/",
   "yt": "",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Resto Cero was founded by three partners with backgrounds in sustainability, launching as a research project to find value in coffee cherry byproducts. Initial seed funding was obtained through CONCYTEC's 'Ideas Audaces' competitive grant program.",
         "fr": "Resto Cero a été fondée par trois associés ayant des formations en développement durable, lancée en tant que projet de recherche pour trouver de la valeur dans les sous-produits de la cerise de café. Un financement initial a été obtenu grâce au programme de subventions compétitives « Ideas Audaces » du CONCYTEC.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The team developed and stabilized a proprietary solar-biomass drying technology that could operate day and night without grid electricity. This allowed consistent, food-safe deshidration of coffee husk, enabling reliable supply commitments to buyers.",
         "fr": "L'équipe a développé et stabilisé une technologie de séchage solaire-biomasse propriétaire capable de fonctionner jour et nuit sans électricité du réseau. Cela a permis une déshydratation constante et conforme aux normes alimentaires de l'écorce de café, garantissant des engagements d'approvisionnement fiables aux acheteurs.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Resto Cero transferred the production process to partner farmers in Junín's central jungle and began selling dried coffee husk to clients including Tés Fidelia and specialty coffee shops. Additional Proinnovate funding supported commercial development during this period.",
         "fr": "Resto Cero a transféré le processus de production à des agriculteurs partenaires dans la jungle centrale de Junín et a commencé à vendre de l'écorce de café séchée à des clients dont Tés Fidelia et des cafés spécialisés. Un financement supplémentaire de Proinnovate a soutenu le développement commercial au cours de cette période.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A commercial mission to Europe revealed that coffee cherry husk was classified as a Novel Food under EU regulation, blocking export to that market. The regulation was later revised in 2022 following research by Nestlé and Starbucks.",
         "fr": "Une mission commerciale en Europe a révélé que l'écorce de cerise de café était classée comme Nouvel Aliment selon la réglementation européenne, bloquant ainsi l'exportation vers ce marché. La réglementation a ensuite été révisée en 2022 à la suite de recherches menées par Nestlé et Starbucks.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic caused a hard stop to operations for nearly two years, disrupting logistics and forcing farmers to prioritize coffee exports. The partner cooperative subsequently dissolved, lost its organic certification, and entered internal litigation.",
         "fr": "La pandémie de COVID-19 a provoqué un arrêt brutal des opérations pendant près de deux ans, perturbant la logistique et obligeant les agriculteurs à prioriser les exportations de café. La coopérative partenaire s'est ensuite dissoute, a perdu sa certification biologique et est entrée dans un contentieux interne.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Operations resumed at a minimal scale with two small farmer groups, with Tés Fidelia representing approximately 80% of revenue. Both remaining partners shifted to part-time dedication as the venture entered a dormant phase despite recognized market potential.",
         "fr": "Les opérations ont repris à une échelle minimale avec deux petits groupes d'agriculteurs, Tés Fidelia représentant environ 80 % des revenus. Les deux associés restants sont passés à un engagement à temps partiel alors que l'entreprise entrait dans une phase dormante malgré un potentiel de marché reconnu.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Dried coffee husk for food industry",
         "fr": "Enveloppe de café séchée pour l'industrie alimentaire",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Coffee cherry flour as nutritional supplement",
         "fr": "Farine de cerise de café comme complément nutritionnel",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Free training for smallholder coffee farmers",
         "fr": "Formation gratuite pour les petits producteurs de café",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Technical research on coffee byproduct processing",
         "fr": "Recherche technique sur le traitement des sous-produits du café",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Replicable solar drying technology for farmers",
         "fr": "Technologie de séchage solaire reproductible pour les agriculteurs",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Supply quality assurance for B2B clients",
         "fr": "Assurance qualité de l'approvisionnement pour les clients B2B",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Product-market fit for coffee husk products",
         "fr": "Adéquation produit-marché pour les produits à base d'enveloppe de café",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Person or team to take over project",
         "fr": "Personne ou équipe pour reprendre le projet",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More small coffee farmers to join network",
         "fr": "Plus de petits agriculteurs de café à rejoindre le réseau",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Buyers in food industry for bulk supply",
         "fr": "Acheteurs dans l'industrie alimentaire pour l'approvisionnement en gros",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Scaling coffee cherry husk valorization process",
         "fr": "Mise à l'échelle du processus de valorisation de l'enveloppe de cerise de café",

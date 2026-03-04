@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755002722,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Frigorífico Manu, fundada en 1985 en Puerto Maldonado, Perú, es una empresa familiar de producción de carne centrada en garantizar la seguridad y la calidad de la proteína cárnica. Bajo el liderazgo de Paul Pacheco, la empresa ha crecido significativamente, alcanzando ventas de aproximadamente 54 millones de soles en 2024. Comprometido con la sostenibilidad medioambiental, Frigorífico Manu trabaja para conseguir la certificación de carne con cero emisiones de carbono y colabora con diversas partes interesadas, incluidas universidades y entidades gubernamentales, para mejorar sus prácticas.",
     "de": "Frigorífico Manu wurde 1985 in Puerto Maldonado, Peru, gegründet und ist ein Fleischproduktionsunternehmen in Familienbesitz, das sich auf die Gewährleistung der Sicherheit und Qualität von Fleischeiweiß konzentriert. Unter der Leitung von Paul Pacheco ist das Unternehmen erheblich gewachsen und hat im Jahr 2024 einen Umsatz von rund 54 Millionen Soles erzielt. Frigorífico Manu hat sich der ökologischen Nachhaltigkeit verschrieben, strebt eine Zertifizierung für kohlenstofffreies Fleisch an und arbeitet mit verschiedenen Interessengruppen, darunter Universitäten und Regierungsstellen, zusammen, um seine Verfahren zu verbessern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "JESUS PACHECO PALMA"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "it",
   "timeline": [
     {
       "date": "1985",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Pacheco family founded Curtiembre Pacheco, a leather processing business focused on purchasing hides nationally to supply footwear companies with leather.",
         "fr": "La famille Pacheco a fondé Curtiembre Pacheco, une entreprise de traitement du cuir spécialisée dans l'achat de peaux au niveau national pour approvisionner les entreprises de chaussures en cuir.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2001",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Frigorífico Manu was established in Puerto Maldonado, Madre de Dios, as a family meat processing operation to complete the leather value chain, with annual sales of approximately 2 million soles.",
         "fr": "Frigorífico Manu a été créé à Puerto Maldonado, Madre de Dios, en tant qu'opération familiale de transformation de viande afin de compléter la chaîne de valeur du cuir, avec des ventes annuelles d'environ 2 millions de soles.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Peruvian government created the Dirección General Ganadera, providing Frigorífico Manu a formal institutional partner for regulatory engagement and livestock sector development.",
         "fr": "Le gouvernement péruvien a créé la Dirección General Ganadera, offrant à Frigorífico Manu un partenaire institutionnel formel pour l'engagement réglementaire et le développement du secteur de l'élevage.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2019-2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The company secured multiple Proinóvate public grants to develop pilot projects including biological tick control, biodigesters, and fermentation of wastewater into fertilizer; they also received MINAM training on impact business models.",
         "fr": "L'entreprise a obtenu plusieurs subventions publiques Proinóvate pour développer des projets pilotes incluant le contrôle biologique des tiques, des biodigesteurs et la fermentation des eaux usées en engrais ; elle a également reçu une formation du MINAM sur les modèles d'entreprise à impact.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Frigorífico Manu became the only Peruvian company to join the Global Roundtable for Sustainable Beef, gaining access to international knowledge networks on regenerative and sustainable cattle ranching.",
         "fr": "Frigorífico Manu est devenu la seule entreprise péruvienne à rejoindre la Table ronde mondiale pour l'élevage bovin durable, accédant ainsi à des réseaux internationaux de connaissances sur l'élevage bovin régénératif et durable.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Following ownership consolidation under Paul Pacheco and expansion into the Lima market, annual sales grew from 2 million to 54 million soles, while the company pursued carbon-zero meat certification under a regenerative ranching model.",
         "fr": "À la suite de la consolidation de la propriété sous Paul Pacheco et de l'expansion sur le marché de Lima, les ventes annuelles sont passées de 2 millions à 54 millions de soles, tandis que l'entreprise poursuivait une certification de viande zéro carbone dans le cadre d'un modèle d'élevage régénératif.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Meat processing and cold chain distribution",
         "fr": "Transformation de la viande et distribution en chaîne du froid",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Carbon zero certified beef production",
         "fr": "Production bovine certifiée zéro carbone",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Protein supply to local markets year-round",
         "fr": "Approvisionnement en protéines des marchés locaux tout au long de l'année",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Pilot projects on biodigesters and environmental certification",
         "fr": "Projets pilotes sur les biodigesteurs et la certification environnementale",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Laboratory equipment donated to public university",
         "fr": "Équipement de laboratoire offert à une université publique",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Regenerative livestock model replicable across Peruvian Amazon",
         "fr": "Modèle d'élevage régénératif reproductible dans toute l'Amazonie péruvienne",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Large-scale financing above 2-3 million dollars",
         "fr": "Financement à grande échelle supérieur à 2-3 millions de dollars",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "National and international allied organizations",
         "fr": "Organisations alliées nationales et internationales",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Stronger market presence in Lima",
         "fr": "Présence plus forte sur le marché de Lima",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Dedicated government direction for livestock sector",
         "fr": "Direction gouvernementale dédiée au secteur de l'élevage",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Carbon zero certification for regenerative cattle",
         "fr": "Certification zéro carbone pour l'élevage bovin régénératif",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Global regenerative livestock practices and benchmarks",
         "fr": "Pratiques et références mondiales en matière d'élevage régénératif",

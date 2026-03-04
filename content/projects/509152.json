@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "An ECD centre providing daycare and nutritious meals for children, supported by the Do More Foundation and LunchBox.",
     "de": "An ECD centre providing daycare and nutritious meals for children, supported by the Do More Foundation and LunchBox."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "en",
   "location": "Zwelethemba",
   "name": {
@@ -33,20 +27,16 @@
   "pubId": 509152,
   "state": "ongoing-project",
   "team": [],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2011",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Near Care Center was founded by Brenda Seiko and a partner in an informal settlement at Manila, motivated by children scavenging for food in a nearby pigsty while parents worked on farms. They were assisted by Korean pastors who shared their vision.",
         "fr": "Le Near Care Center a été fondé par Brenda Seiko et un partenaire dans un quartier informel à Manille, motivés par des enfants qui fouillaient pour trouver de la nourriture dans une porcherie voisine pendant que leurs parents travaillaient dans des fermes. Ils ont été aidés par des pasteurs coréens qui partageaient leur vision.",
@@ -56,7 +46,7 @@
     },
     {
       "date": "2013",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "One of the co-founders left the school because there was no financial remuneration, leaving Brenda to continue running the center alone. The school struggled with no government funding and relied solely on school fees.",
         "fr": "L'un des cofondateurs a quitté l'école en raison de l'absence de rémunération financière, laissant Brenda continuer à gérer le centre seule. L'école peinait sans financement gouvernemental et dépendait uniquement des frais de scolarité.",
@@ -66,7 +56,7 @@
     },
     {
       "date": "2013-2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Operating from an informal settlement made it impossible to meet government registration requirements such as zoning certificates and building plans, blocking access to funding for years. Seasonal farm closures also caused recurring drops in enrollment and income.",
         "fr": "Le fait d'opérer depuis un quartier informel rendait impossible le respect des exigences d'enregistrement gouvernementales, telles que les certificats de zonage et les plans de construction, bloquant l'accès aux financements pendant des années. Les fermetures saisonnières des fermes entraînaient également des baisses récurrentes des inscriptions et des revenus.",
@@ -76,7 +66,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Brenda secured a lease agreement on a new plot at ASLA Phase 2, and a supporting organization purchased and equipped shipping containers to serve as classrooms, transforming what had been a dumping area into a functional school facility.",
         "fr": "Brenda a obtenu un contrat de bail sur un nouveau terrain à ASLA Phase 2, et une organisation de soutien a acheté et équipé des conteneurs maritimes pour servir de salles de classe, transformant ce qui était auparavant une décharge en un établissement scolaire fonctionnel.",
@@ -86,7 +76,7 @@
     },
     {
       "date": "December 2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After years of attempting to meet government requirements, Brenda finally received her official ECD registration certificate. She was also nominated to speak at parliament on behalf of ECD practitioners serving children in informal settlements.",
         "fr": "Après des années de tentatives pour satisfaire aux exigences gouvernementales, Brenda a finalement reçu son certificat officiel d'enregistrement ECD. Elle a également été nommée pour prendre la parole au parlement au nom des praticiens ECD travaillant auprès des enfants dans les quartiers informels.",
@@ -96,7 +86,7 @@
     },
     {
       "date": "Future",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Brenda plans to establish a large vegetable garden to supplement food provided by an NPO lunchbox program, open a soup kitchen for the community, and launch a night creche to support parents working night shifts such as police and nurses.",
         "fr": "Brenda prévoit de créer un grand potager pour compléter la nourriture fournie par le programme de boîtes à lunch d'une ONG, d'ouvrir une soupe populaire pour la communauté, et de lancer une crèche de nuit pour soutenir les parents travaillant de nuit, tels que les policiers et les infirmiers.",
@@ -107,7 +97,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Early childhood development care and education",
         "fr": "Soins et éducation pour le développement de la petite enfance",
@@ -116,7 +106,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Aftercare for school-going children",
         "fr": "Garde après l'école pour les enfants scolarisés",
@@ -125,7 +115,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Planned vegetable garden for children",
         "fr": "Potager planifié pour les enfants",
@@ -134,7 +124,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Planned overnight childcare for night shift workers",
         "fr": "Garde de nuit planifiée pour les enfants des travailleurs de nuit",
@@ -143,7 +133,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Meals provided to children via food donations",
         "fr": "Repas fournis aux enfants grâce à des dons alimentaires",
@@ -154,7 +144,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government funding after recent registration",
         "fr": "Financement gouvernemental après inscription récente",
@@ -163,7 +153,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partners to support night crèche operations",
         "fr": "Partenaires pour soutenir les opérations de crèche nocturne",
@@ -172,7 +162,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Active committee members and board participation",
         "fr": "Membres actifs du comité et participation au conseil d'administration",
@@ -181,7 +171,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vegetable garden to feed children",
         "fr": "Jardin potager pour nourrir les enfants",
@@ -190,7 +180,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Community involvement and parental participation",
         "fr": "Implication communautaire et participation parentale",
@@ -199,7 +189,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Policy reform for informal settlement ECDs",
         "fr": "Réforme des politiques pour les ECD des établissements informels",

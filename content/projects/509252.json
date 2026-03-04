@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A thriving educational and community food garden that has operated year-round for eight years, teaching students about agriculture.",
     "de": "A thriving educational and community food garden that has operated year-round for eight years, teaching students about agriculture."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "en",
   "location": "Worcester",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Lawrence"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Principal Aubrey Lawrence started the school garden at Glen Itley Primary School on a small scale to address food insecurity among learners. The initiative was motivated by visible hunger among students and the insufficiency of the National School Nutrition Programme meals.",
         "fr": "Le directeur Aubrey Lawrence a lancé le jardin scolaire de l'école primaire Glen Itley à petite échelle pour lutter contre l'insécurité alimentaire parmi les élèves. L'initiative a été motivée par la faim visible parmi les étudiants et l'insuffisance des repas du Programme national de nutrition scolaire.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "After winning a garden competition, the school used prize money to purchase two polytunnels, donating one to a nearby school. A neighboring farmer donated netting following a storm, enabling further expansion of the garden.",
         "fr": "Après avoir remporté un concours de jardinage, l'école a utilisé la prime pour acheter deux serres tunnel, en donnant une à une école voisine. Un agriculteur voisin a fait don de filets à la suite d'une tempête, permettant une expansion supplémentaire du jardin.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Following outreach efforts that failed to secure local funding, Lawrence connected with an international donor based in France or Switzerland who began providing quarterly funding of 80,000 to 100,000 rand for garden operations and school infrastructure.",
         "fr": "Suite à des démarches de sensibilisation qui n'ont pas réussi à obtenir des financements locaux, Lawrence a pris contact avec un donateur international basé en France ou en Suisse qui a commencé à fournir un financement trimestriel de 80 000 à 100 000 rands pour les opérations du jardin et l'infrastructure scolaire.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The garden expanded to supply the school kitchen year-round with spinach, beans, beetroot, and seasonal vegetables, while surplus produce was sold to community members and other schools at subsidized prices. The school also began producing and selling bottled chili pepper under a third-party brand.",
         "fr": "Le jardin s'est étendu pour approvisionner la cuisine scolaire toute l'année en épinards, haricots, betteraves et légumes de saison, tandis que les surplus de production étaient vendus aux membres de la communauté et à d'autres écoles à des prix subventionnés. L'école a également commencé à produire et à vendre du piment en bouteille sous une marque tierce.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The national dietician and director of the school food programme visited and declared Glen Itley the best school she had visited in 14 years for food quality and nutrition. A donation of one million rand was received to purchase a minibus for learners.",
         "fr": "La diététicienne nationale et directrice du programme alimentaire scolaire a rendu visite à l'école et a déclaré que Glen Itley était la meilleure école qu'elle ait visitée en 14 ans en matière de qualité alimentaire et de nutrition. Un don d'un million de rands a été reçu pour l'achat d'un minibus pour les élèves.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh vegetables supplied to school kitchen",
         "fr": "Légumes frais fournis à la cuisine scolaire",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Surplus produce sold affordably to community",
         "fr": "Surplus de produits vendus à prix abordable à la communauté",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Agricultural skills taught to students",
         "fr": "Compétences agricoles enseignées aux élèves",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Replicable garden model shared with other schools",
         "fr": "Modèle de jardin reproductible partagé avec d'autres écoles",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Seedlings and compost donated to nearby schools",
         "fr": "Semis et compost donnés aux écoles voisines",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Bottled chili pepper sold to local vendors",
         "fr": "Piment en bouteille vendu aux vendeurs locaux",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donors to sustain garden and school operations",
         "fr": "Donateurs pour soutenir les opérations du jardin et de l'école",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local farmers for compost and seeds",
         "fr": "Agriculteurs locaux pour le compost et les semences",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vendors to sell surplus produce",
         "fr": "Vendeurs pour écouler les surplus de production",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Other schools to replicate garden model",
         "fr": "Autres écoles pour reproduire le modèle de jardin",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community members to support harvest labor",
         "fr": "Membres de la communauté pour soutenir les travaux de récolte",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Recognition from national nutrition authorities",
         "fr": "Reconnaissance des autorités nationales en matière de nutrition",

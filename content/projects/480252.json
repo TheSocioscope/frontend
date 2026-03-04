@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754991031,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa de la Universidad EAFIT se centra en potenciar los sectores agrícolas mediante un enfoque multidisciplinar. Creada hace más de seis años, su objetivo es integrar la tecnología y la investigación en agronomía, fomentando sistemas agroalimentarios sostenibles. La universidad se ha reestructurado para abordar complejos retos regionales, haciendo hincapié en la colaboración con diversas partes interesadas, incluidos los sectores público y privado. Esta iniciativa no sólo promueve la educación y la investigación, sino que también pretende transformar las comunidades locales mejorando los sistemas alimentarios y las prácticas de sostenibilidad.",
     "de": "Die Initiative an der EAFIT-Hochschule konzentriert sich auf die Verbesserung des Agrarsektors durch einen multidisziplinären Ansatz. Sie wurde vor über sechs Jahren gegründet und zielt darauf ab, Technologie und Forschung in die Agrarwissenschaft zu integrieren und nachhaltige Agrar- und Ernährungssysteme zu fördern. Die Universität hat sich neu strukturiert, um komplexe regionale Herausforderungen zu bewältigen, und setzt dabei auf die Zusammenarbeit mit verschiedenen Interessengruppen, einschließlich des privaten und öffentlichen Sektors. Diese Initiative dient nicht nur der Förderung von Bildung und Forschung, sondern zielt auch darauf ab, lokale Gemeinschaften durch die Verbesserung von Lebensmittelsystemen und Nachhaltigkeitspraktiken zu verändern."
   },
-  "field": [
-    "nutrition",
-    "engineering-and-technology"
-  ],
+  "field": ["nutrition", "engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Carbajal"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.eafit.edu.co/",
   "yt": "7KVJOuL7y-M",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~6-7 years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "EAFIT launched the Agronomy Engineering program (originally called 'Agronomía Digital') as part of a strategic bet to consolidate its capabilities around the agricultural sector. An area of specialization in rural development was also created within the Master's in Applied Economics.",
         "fr": "EAFIT a lancé le programme d'ingénierie agronomique (initialement appelé 'Agronomía Digital') dans le cadre d'un pari stratégique visant à consolider ses capacités autour du secteur agricole. Une spécialisation en développement rural a également été créée au sein du Master en économie appliquée.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "last 5 years",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "EAFIT underwent a major structural reorganization, replacing traditional departments with interdisciplinary areas oriented around solving real-world problems. Four centers of incidence were created, including the Center for Public Value, which leads the university's agri-food agenda.",
         "fr": "EAFIT a entrepris une importante réorganisation structurelle, remplaçant les départements traditionnels par des domaines interdisciplinaires orientés vers la résolution de problèmes concrets. Quatre centres d'incidence ont été créés, dont le Centre pour la valeur publique, qui pilote l'agenda agroalimentaire de l'université.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "recent years",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "EAFIT created a Master's in Agribusiness in partnership with Zamorano University in Honduras, and joined networks such as Plaza Colombia and Biosuroeste to strengthen its presence in the agri-food system.",
         "fr": "EAFIT a créé un Master en agribusiness en partenariat avec l'Université Zamorano au Honduras, et a rejoint des réseaux tels que Plaza Colombia et Biosuroeste pour renforcer sa présence dans le système agroalimentaire.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "recent years",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The university developed SIMONA (Antioquia's agri-food supply monitoring system) in collaboration with the FAO, and conducted studies on productive chains including rice, potato, and coffee, as well as a multi-country pandemic impact study with the World Bank.",
         "fr": "L'université a développé SIMONA (le système de surveillance de l'approvisionnement agroalimentaire d'Antioquia) en collaboration avec la FAO, et a mené des études sur des chaînes productives incluant le riz, la pomme de terre et le café, ainsi qu'une étude multi-pays sur l'impact de la pandémie avec la Banque mondiale.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "current",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "EAFIT launched the EAFIT Agri-food Hub to coordinate all agri-food initiatives across the university's schools and departments. The hub is co-led by a postdoctoral researcher who is also a founder of Colombia's Community Supported Agriculture (CSA) movement.",
         "fr": "EAFIT a lancé le Hub agroalimentaire EAFIT pour coordonner toutes les initiatives agroalimentaires à travers les écoles et départements de l'université. Le hub est codirigé par un chercheur postdoctoral qui est également l'un des fondateurs du mouvement colombien d'agriculture soutenue par la communauté (ASC).",
@@ -104,7 +92,7 @@
     },
     {
       "date": "short-term future",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The university aims to institutionalize the Agri-food Hub and transform the entire EAFIT campus into a living demonstration of a sustainable agri-food system, including traceable food sourcing in cafeterias and diet-conscious consumption practices.",
         "fr": "L'université vise à institutionnaliser le Hub agroalimentaire et à transformer l'ensemble du campus EAFIT en une démonstration vivante d'un système agroalimentaire durable, incluant un approvisionnement alimentaire traçable dans les cafétérias et des pratiques de consommation soucieuses de l'alimentation.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Undergraduate and graduate programs in agronomy",
         "fr": "Programmes de premier et deuxième cycle en agronomie",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Applied research on agri-food supply chains",
         "fr": "Recherche appliquée sur les chaînes d'approvisionnement agroalimentaires",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Leadership training for agri-food system actors",
         "fr": "Formation en leadership pour les acteurs du système agroalimentaire",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Direct intervention and support for rural communities",
         "fr": "Intervention directe et soutien aux communautés rurales",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agribusiness models connecting productive chain actors",
         "fr": "Modèles d'agribusiness reliant les acteurs de la chaîne productive",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "University campus as sustainable food system model",
         "fr": "Campus universitaire comme modèle de système alimentaire durable",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Alliances with private and public sector actors",
         "fr": "Alliances avec des acteurs des secteurs privé et public",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "External funding for agroalimentary research projects",
         "fr": "Financement externe pour des projets de recherche agroalimentaire",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Indicators to measure agri-food system impact",
         "fr": "Indicateurs pour mesurer l'impact des systèmes agroalimentaires",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Scale sustainable agri-food practices in communities",
         "fr": "Développer les pratiques agroalimentaires durables dans les communautés",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Influence public policy on food systems",
         "fr": "Influencer les politiques publiques sur les systèmes alimentaires",

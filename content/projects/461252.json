@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754563325,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Agrojusto es una iniciativa innovadora centrada en transformar el panorama de la comercialización de alimentos para crear un sistema más justo y eficiente para los pequeños agricultores y comerciantes. La organización aprovecha la tecnología para mejorar la conexión entre los pequeños productores y toda la cadena de valor, con el objetivo de mejorar los procesos de comercialización. Agrojusto ofrece un servicio de suscripción tanto para comercializadores como para productores, adaptando su modelo de negocio a distintos países, como Argentina y México, donde colabora con ONG para poner en marcha programas a medida que respondan a las necesidades locales.",
     "de": "Agrojusto ist eine innovative Initiative, die sich auf die Umgestaltung der Lebensmittelvermarktungslandschaft konzentriert, um ein faires und effizienteres System für Kleinbauern und Händler zu schaffen. Die Organisation setzt Technologien ein, um die Verbindung zwischen Kleinbauern und der gesamten Wertschöpfungskette zu verbessern und so die Vermarktungsprozesse zu optimieren. Agrojusto bietet einen abonnierten Service sowohl für Vermarkter als auch für Produzenten an und passt sein Geschäftsmodell an verschiedene Länder wie Argentinien und Mexiko an, wo es mit NGOs zusammenarbeitet, um maßgeschneiderte Programme zu implementieren, die den lokalen Bedürfnissen entsprechen."
   },
-  "field": [
-    "nutrition",
-    "information-technology"
-  ],
+  "field": ["nutrition", "information-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Bonesso"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://agrojusto.com.ar/",
   "yt": "dkphie3yCRw",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "María Fernanda received a call from her mother about unfair changes during harvest, sparking the initial idea for Agrojusto. She began meeting with co-founders Matías and Nacho on weekends to explore how technology could improve food commercialization for small farmers.",
         "fr": "María Fernanda a reçu un appel de sa mère concernant des changements injustes pendant la récolte, ce qui a déclenché l'idée initiale d'Agrojusto. Elle a commencé à se réunir avec les cofondateurs Matías et Nacho les week-ends pour explorer comment la technologie pourrait améliorer la commercialisation des aliments pour les petits agriculteurs.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Agrojusto was selected by CIPPEC's Bitlab program, which identified innovative platforms in Argentina's interior cities. This program provided key training, mentorship, and a foundational grant that allowed the team to formally constitute the company.",
         "fr": "Agrojusto a été sélectionné par le programme Bitlab de CIPPEC, qui identifiait des plateformes innovantes dans les villes de l'intérieur de l'Argentine. Ce programme a fourni une formation clé, du mentorat et une subvention fondatrice qui a permis à l'équipe de constituer officiellement l'entreprise.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "During the pandemic, Agrojusto received an important grant from Bitlab and officially became a registered company. The team also received a notable mention at the United Nations pre-summit, gaining international visibility.",
         "fr": "Pendant la pandémie, Agrojusto a reçu une subvention importante de Bitlab et est officiellement devenu une entreprise enregistrée. L'équipe a également reçu une mention notable lors du pré-sommet des Nations Unies, gagnant ainsi une visibilité internationale.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020-2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Agrojusto expanded into Mexico through a partnership with a major local NGO called Nu, shifting their business model from direct subscriptions to a white-label program approach serving NGOs funded by donors.",
         "fr": "Agrojusto s'est développé au Mexique grâce à un partenariat avec une importante ONG locale appelée Nu, faisant évoluer leur modèle commercial des abonnements directs vers une approche de programme en marque blanche au service des ONG financées par des donateurs.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Agrojusto secured a private impact investment round and received a second global recognition from the United Nations for their approach to agricultural ecosystem innovation.",
         "fr": "Agrojusto a obtenu un tour d'investissement à impact privé et a reçu une deuxième reconnaissance mondiale des Nations Unies pour leur approche de l'innovation dans l'écosystème agricole.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Mexico became Agrojusto's primary market, and the team announced the launch of the first rural digital youth academy in Mexico, co-created with their local NGO partner to train new generations of farmers in digital commerce.",
         "fr": "Le Mexique est devenu le marché principal d'Agrojusto, et l'équipe a annoncé le lancement de la première académie numérique rurale pour les jeunes au Mexique, co-créée avec leur partenaire ONG local pour former les nouvelles générations d'agriculteurs au commerce numérique.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Technology platform connecting farmers to markets",
         "fr": "Plateforme technologique connectant les agriculteurs aux marchés",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Capacitation and training programs for producers",
         "fr": "Programmes de renforcement des capacités et de formation pour les producteurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "White-label tech programs for NGOs",
         "fr": "Programmes technologiques en marque blanche pour les ONG",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Digital rural youth academy in Mexico",
         "fr": "Académie numérique rurale pour les jeunes au Mexique",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Support for organic and agroecological producers",
         "fr": "Soutien aux producteurs biologiques et agroécologiques",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Food traceability for gastronomy sector",
         "fr": "Traçabilité alimentaire pour le secteur de la gastronomie",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGOs to co-create territory-based programs",
         "fr": "ONG pour co-créer des programmes basés sur les territoires",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government and international organizations alliances",
         "fr": "Alliances avec les gouvernements et les organisations internationales",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Small farmers adopting digital commerce tools",
         "fr": "Petits agriculteurs adoptant des outils de commerce numérique",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New markets for organic and agroecological products",
         "fr": "Nouveaux marchés pour les produits biologiques et agroécologiques",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Impact funds and grants for scaling",
         "fr": "Fonds d'impact et subventions pour la mise à l'échelle",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Intergenerational rural digital academy expansion",
         "fr": "Expansion de l'académie numérique rurale intergénérationnelle",

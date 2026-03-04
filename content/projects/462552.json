@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "uganda"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["uganda"],
   "createdAt": 1754566873,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Slow Food es una organización mundial de base dedicada a promover el acceso a alimentos buenos, limpios y justos. Fundada en 1989 en Italia y establecida en Uganda en 2015, se centra en defender la biodiversidad, educar a las comunidades sobre sistemas alimentarios sostenibles y abogar por prácticas justas. A través de diversas iniciativas, como huertos comunitarios, mercados de agricultores y alianzas alimentarias locales, Slow Food empodera a los pequeños agricultores y fomenta una cultura de consumo responsable y agroecología.",
     "de": "Slow Food ist eine globale Graswurzel-Organisation, die sich der Förderung des Zugangs zu guten, sauberen und fairen Lebensmitteln widmet. Die 1989 in Italien gegründete und 2015 in Uganda gegründete Organisation konzentriert sich auf den Schutz der biologischen Vielfalt, die Aufklärung der Bevölkerung über nachhaltige Lebensmittelsysteme und die Förderung fairer Praktiken. Durch verschiedene Initiativen, darunter Gemeinschaftsgärten, Bauernmärkte und lokale Lebensmittelbündnisse, stärkt Slow Food Kleinbauern und fördert eine Kultur des verantwortungsbewussten Konsums und der Agrarökologie."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Sio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://www.slowfooduganda.org",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1989",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Slow Food was founded in the city of Bra, Italy, with the aim of preventing the disappearance of food traditions and cultures.",
         "fr": "Slow Food a été fondé dans la ville de Bra, en Italie, avec pour objectif de prévenir la disparition des traditions et cultures alimentaires.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2004",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Slow Food Uganda began operating as a loose network, supporting communities to understand food and nutrition without a formal legal structure.",
         "fr": "Slow Food Ouganda a commencé à fonctionner comme un réseau informel, aidant les communautés à comprendre l'alimentation et la nutrition sans structure juridique formelle.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Slow Food Uganda was officially registered as a legal not-for-profit organization, structured as a company limited by guarantee.",
         "fr": "Slow Food Ouganda a été officiellement enregistré en tant qu'organisation légale à but non lucratif, structurée comme une société à responsabilité limitée par garantie.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "A Food Parliament held in Buyukwe led to the co-creation of a District Food and Nutrition Ordinance limiting monoculture sugarcane production on small landholdings.",
         "fr": "Un Parlement Alimentaire tenu à Buyukwe a conduit à la co-création d'une Ordonnance Districale sur l'Alimentation et la Nutrition limitant la production de canne à sucre en monoculture sur les petites exploitations.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Slow Food Uganda launched the Slow Food Farms initiative at the Terra Madre event in Italy, identifying and supporting existing agroecological farms, with five farms currently registered in Uganda.",
         "fr": "Slow Food Ouganda a lancé l'initiative Slow Food Farms lors de l'événement Terra Madre en Italie, identifiant et soutenant des fermes agroécologiques existantes, avec cinq fermes actuellement enregistrées en Ouganda.",
@@ -103,7 +93,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Earth markets connecting farmers directly to consumers",
         "fr": "Marchés de la Terre connectant directement les agriculteurs aux consommateurs",
@@ -112,7 +102,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Slow Food gardens in schools and communities",
         "fr": "Jardins Slow Food dans les écoles et les communautés",
@@ -121,7 +111,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Seed banks preserving local traditional seeds",
         "fr": "Banques de semences préservant les semences traditionnelles locales",
@@ -130,7 +120,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Presidia initiatives preserving endangered food products",
         "fr": "Initiatives Presidia préservant les produits alimentaires en voie de disparition",
@@ -139,7 +129,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Youth network mobilizing young people on food systems",
         "fr": "Réseau de jeunes mobilisant les jeunes sur les systèmes alimentaires",
@@ -148,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Slow Food farms showcasing agroecological practices",
         "fr": "Fermes Slow Food illustrant les pratiques agroécologiques",
@@ -159,7 +149,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Like-minded organizations for collaborative agroecology work",
         "fr": "Organisations partageant les mêmes idées pour des travaux collaboratifs en agroécologie",
@@ -168,7 +158,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Donors to reduce unpredictable funding dependency",
         "fr": "Donateurs pour réduire la dépendance à un financement imprévisible",
@@ -177,7 +167,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market access for agroecological producers",
         "fr": "Accès au marché pour les producteurs agroécologiques",
@@ -186,7 +176,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government support for sustainable food policies",
         "fr": "Soutien gouvernemental pour des politiques alimentaires durables",
@@ -195,7 +185,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Communities to adopt local traditional food practices",
         "fr": "Communautés adoptant les pratiques alimentaires traditionnelles locales",
@@ -204,7 +194,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Regional coordinators and school garden volunteers",
         "fr": "Coordinateurs régionaux et bénévoles pour les jardins scolaires",

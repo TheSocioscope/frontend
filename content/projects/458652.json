@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754390133,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Panc Ecuador, fundada por Nina Duarte, se centra en la conservación de la agrobiodiversidad a través de la investigación y la educación sobre plantas alimenticias no convencionales. Ubicada en la Reserva de Intijacta, en el Chocó andino, la iniciativa promueve la gestión del conocimiento mediante guías, materiales didácticos y talleres vivenciales. Al involucrar a las comunidades en la siembra, cosecha, cocción y procesamiento de estas plantas, Panc pretende mejorar la soberanía alimentaria y diversificar las dietas locales, fomentando una conexión más profunda con el medio ambiente.",
     "de": "Die von Nina Duarte gegründete Initiative Panc Ecuador konzentriert sich auf die Erhaltung der Agrobiodiversität durch Forschung und Bildung zu nicht-konventionellen Nahrungsmittelpflanzen. Die Initiative befindet sich im Intijacta-Reservat in der Andenregion Chocó und fördert das Wissensmanagement durch Führungen, didaktische Materialien und Erfahrungsworkshops. Durch die Einbeziehung der Gemeinden in das Säen, Ernten, Kochen und Verarbeiten dieser Pflanzen will Panc die Nahrungsmittelsouveränität stärken, die lokale Ernährung diversifizieren und eine stärkere Verbindung zur Umwelt schaffen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Duarte"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Nina began investigating unconventional food plants (PANKs) in the Chocondino territory, searching around the reserve and collecting species, supported by the concept originated in Brazil by botanist professor Valdeliki Nub.",
         "fr": "Nina a commencé à étudier les plantes alimentaires non conventionnelles (PANKs) sur le territoire Chocondino, en explorant la réserve et en collectant des espèces, soutenue par le concept développé au Brésil par le professeur botaniste Valdeliki Nub.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first guide was launched during the COVID-19 pandemic, documenting 25 non-conventional food plant species with information on edible parts, nutritional properties, reproduction, and easy recipes.",
         "fr": "Le premier guide a été lancé pendant la pandémie de COVID-19, documentant 25 espèces de plantes alimentaires non conventionnelles avec des informations sur les parties comestibles, les propriétés nutritionnelles, la reproduction et des recettes simples.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A second guide was developed, bringing the total documented species to 50, and an updated species list of 450 plants from 97 families was compiled with support from botanists and local communities.",
         "fr": "Un deuxième guide a été élaboré, portant le total des espèces documentées à 50, et une liste d'espèces mise à jour recensant 450 plantes de 97 familles a été compilée avec le soutien de botanistes et de communautés locales.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Fundación Maimana became the key financial backer of the project, funding the guides, free community workshops, and subsidized forest school activities through international cooperation funds.",
         "fr": "La Fundación Maimana est devenue le principal bailleur de fonds du projet, finançant les guides, des ateliers communautaires gratuits et des activités subventionnées d'école forestière grâce à des fonds de coopération internationale.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Punk expanded its reach through workshops held across multiple territories including Cuenca and the Amazon, and began collaborating with networks such as the Seed Guardians Network and Slow Food.",
         "fr": "Punk a élargi son rayonnement grâce à des ateliers organisés dans plusieurs territoires, notamment à Cuenca et en Amazonie, et a commencé à collaborer avec des réseaux tels que le Réseau des Gardiens de Semences et Slow Food.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Future",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Nina envisions creating a multidisciplinary research and conservation center for agrobiodiversity where agronomists, nutritionists, chefs, and students can collaborate to deepen scientific knowledge of non-conventional food plants.",
         "fr": "Nina envisage la création d'un centre multidisciplinaire de recherche et de conservation de l'agrobiodiversité, où agronomes, nutritionnistes, chefs et étudiants pourront collaborer pour approfondir les connaissances scientifiques sur les plantes alimentaires non conventionnelles.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research and documentation of unconventional edible plants",
         "fr": "Recherche et documentation des plantes comestibles non conventionnelles",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free community workshops on plant identification and cooking",
         "fr": "Ateliers communautaires gratuits sur l'identification des plantes et la cuisine",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Guides with recipes using local wild plants",
         "fr": "Guides avec des recettes utilisant des plantes sauvages locales",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Knowledge sharing with farming families and communities",
         "fr": "Partage des connaissances avec les familles agricoles et les communautés",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Living plant collection for hands-on learning",
         "fr": "Collection de plantes vivantes pour un apprentissage pratique",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Guides on growing unconventional plants at home",
         "fr": "Guides sur la culture de plantes non conventionnelles à la maison",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic partnerships for nutritional analysis studies",
         "fr": "Partenariats académiques pour des études d'analyse nutritionnelle",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Multidisciplinary professionals: agronomists, nutritionists, chefs",
         "fr": "Professionnels multidisciplinaires : agronomes, nutritionnistes, chefs",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Resources to scale impact and research",
         "fr": "Ressources pour amplifier l'impact et la recherche",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Communities to diversify gardens with unconventional plants",
         "fr": "Communautés pour diversifier les jardins avec des plantes non conventionnelles",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public policy for vulnerable population food access",
         "fr": "Politiques publiques pour l'accès alimentaire des populations vulnérables",

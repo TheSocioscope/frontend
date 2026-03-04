@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754568353,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Zuhura Solutions es una iniciativa innovadora centrada en la creación de carritos inteligentes de venta ambulante, conocidos como carritos Hallease, para empoderar a los vendedores de alimentos de Kenia. Estos carritos utilizan energías renovables, como la energía solar y el etanol, para ofrecer una solución de cocina sostenible al tiempo que mejoran la seguridad y la higiene de los alimentos. Al ofrecer un modelo de pago por uso, Zuhura permite a los vendedores pasar del carbón vegetal a una energía más limpia, mejorando en última instancia sus ingresos y contribuyendo a la sostenibilidad medioambiental.",
     "de": "Zuhura Solutions ist eine innovative Initiative, die sich auf die Entwicklung intelligenter Straßenverkaufstrolleys, den sogenannten Hallease Trolley, konzentriert, um die Lebensmittelverkäufer in Kenia zu stärken. Diese Trolleys nutzen erneuerbare Energie, einschließlich Solarenergie und Ethanol, um eine nachhaltige Kochlösung zu bieten und gleichzeitig die Lebensmittelsicherheit und -hygiene zu verbessern. Durch das Angebot eines Pay-as-you-go-Modells ermöglicht Zuhura den Verkäufern den Übergang von Kohle zu sauberer Energie, was letztendlich ihr Einkommen verbessert und zur ökologischen Nachhaltigkeit beiträgt."
   },
-  "field": [
-    "engineering-and-technology",
-    "nutrition"
-  ],
+  "field": ["engineering-and-technology", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "KIBITI"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://zuhurasolutions.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Cofounders Benson, Lloyd, and Felistas met as students at university in Nairobi, where they observed street food vendors relying on charcoal for cooking. This shared experience planted the seed for what would become Zuhura Solutions.",
         "fr": "Les cofondateurs Benson, Lloyd et Felistas se sont rencontrés en tant qu'étudiants à l'université de Nairobi, où ils ont observé des vendeurs de rue utilisant le charbon de bois pour cuisiner. Cette expérience partagée a semé les graines de ce qui allait devenir Zuhura Solutions.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Benson and Lloyd reconnected at an economics conference in Nairobi, both working as interns, and began discussing a social impact venture. They joined forces with Felistas and began prototyping at Gearbox Kenya, a rapid prototyping space.",
         "fr": "Benson et Lloyd se sont retrouvés lors d'une conférence économique à Nairobi, tous deux travaillant comme stagiaires, et ont commencé à discuter d'une entreprise à impact social. Ils ont uni leurs forces avec Felistas et ont commencé le prototypage chez Gearbox Kenya, un espace de prototypage rapide.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Zuhura Solutions was formally founded, focused on building solar-hybrid food vending trolleys called Halisi Trolleys to replace charcoal use among Nairobi street food vendors.",
         "fr": "Zuhura Solutions a été officiellement fondée, avec pour objectif de concevoir des chariots de vente alimentaire solaires-hybrides appelés Halisi Trolleys, afin de remplacer l'usage du charbon de bois parmi les vendeurs de rue de Nairobi.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The company won the Microgrid Academy Award in 2021 receiving approximately 5,000 euros, followed by the Africa Climate Accelerator Award in 2022 worth 15,000 pounds, and a 15,000 USD grant from Kawisafi Ventures in 2023.",
         "fr": "L'entreprise a remporté le Prix de l'Académie des Microréseaux en 2021, recevant environ 5 000 euros, suivi du Prix de l'Accélérateur Climatique Afrique en 2022 d'une valeur de 15 000 livres sterling, ainsi qu'une subvention de 15 000 USD de Kawisafi Ventures en 2023.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Zuhura moved into the Kenya Industrial Research and Development Institute (KIRDI), gaining access to manufacturing tools, and secured a Shell Foundation grant of approximately 30,000 USD to scale production toward a target of 20 trolleys by December.",
         "fr": "Zuhura a emménagé à l'Institut kenyan de recherche et de développement industriels (KIRDI), accédant ainsi à des outils de fabrication, et a obtenu une subvention de la Fondation Shell d'environ 30 000 USD pour accroître la production vers un objectif de 20 chariots d'ici décembre.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "With roughly 10 trolleys operational and a waitlist of over 100 vendors, the company identified battery supply from China as its critical bottleneck, with a 3-month lead time per shipment. A target of 100 trolleys and a MOU with microfinance institution K-Unity were set as next milestones for financial sustainability.",
         "fr": "Avec environ 10 chariots en service et une liste d'attente de plus de 100 vendeurs, l'entreprise a identifié l'approvisionnement en batteries depuis la Chine comme son principal goulot d'étranglement, avec un délai de livraison de 3 mois par expédition. Un objectif de 100 chariots et un protocole d'accord avec l'institution de microfinance K-Unity ont été définis comme prochaines étapes vers la viabilité financière.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Solar-powered mobile street food trolleys",
         "fr": "Chariots de rue mobiles alimentés à l'énergie solaire",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical training and user manuals for vendors",
         "fr": "Formation technique et manuels d'utilisation pour les vendeurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Access to affordable nutritious street food",
         "fr": "Accès à une alimentation de rue nutritive et abordable",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "City operating licenses for food vendors",
         "fr": "Licences d'exploitation municipales pour les vendeurs de nourriture",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food preparation coaching via chef partnership",
         "fr": "Coaching en préparation culinaire via un partenariat avec des chefs",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Clean energy replacing charcoal for cooking",
         "fr": "Énergie propre remplaçant le charbon de bois pour la cuisson",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grant funding to build 100 trolley units",
         "fr": "Financement par subvention pour construire 100 unités de chariots",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local African suppliers for lithium batteries",
         "fr": "Fournisseurs africains locaux pour les batteries au lithium",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Microfinance partners to match raised funds",
         "fr": "Partenaires de microfinance pour compléter les fonds collectés",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Vetted food vendors committed full-time",
         "fr": "Vendeurs de nourriture sélectionnés engagés à temps plein",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Financial advisor for 5-year projections",
         "fr": "Conseiller financier pour les projections sur 5 ans",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Advisory board members by June",
         "fr": "Membres du conseil consultatif d'ici juin",

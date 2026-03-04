@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Padre Huerto promotes urban gardens and agroecological education throughout Mexico through workshops on health, nutrition, and sustainability.",
     "de": "Padre Huerto promotes urban gardens and agroecological education throughout Mexico through workshops on health, nutrition, and sustainability."
   },
-  "field": [
-    "educational-sciences"
-  ],
+  "field": ["educational-sciences"],
   "lang": "es",
   "location": "Cuernavaca, Morelos",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Zorrilla"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.padrehuerto.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2010-2011",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Fernando Zorrilla founded Padre Huerto after returning from Europe, motivated by the disconnect between people and food production. He began by raising awareness in schools about the origins of food, alongside co-founder Dr. Omar Silverman.",
         "fr": "Fernando Zorrilla a fondé Padre Huerto après son retour d'Europe, motivé par le fossé entre les personnes et la production alimentaire. Il a commencé par sensibiliser les élèves dans les écoles aux origines de la nourriture, aux côtés du cofondateur Dr. Omar Silverman.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2012-2014",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Padre Huerto developed four main lines of action: school gardens, backyard gardens, hotels and restaurants, and community gardens, each with distinct educational and production objectives.",
         "fr": "Padre Huerto a développé quatre grands axes d'action : les jardins scolaires, les jardins familiaux, les hôtels et restaurants, et les jardins communautaires, chacun avec des objectifs éducatifs et productifs distincts.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Padre Huerto launched the Tequios Sentipensantes, monthly open community gatherings to discuss food, environment, and social issues, which began during the pandemic and grew to include both in-person and virtual formats.",
         "fr": "Padre Huerto a lancé les Tequios Sentipensantes, des rassemblements communautaires ouverts mensuels pour discuter de l'alimentation, de l'environnement et des questions sociales, qui ont débuté pendant la pandémie et ont évolué pour inclure des formats en présentiel et virtuels.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Through a connection with the Red de Banco de Alimentos de México, Padre Huerto partnered with Fundación Dr. Simi, which became their largest ongoing project, enabling community garden expansion across Mexico.",
         "fr": "Grâce à un lien avec la Red de Banco de Alimentos de México, Padre Huerto s'est associé à la Fundación Dr. Simi, qui est devenu leur plus grand projet en cours, permettant l'expansion des jardins communautaires à travers le Mexique.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Padre Huerto reached 70 community gardens across 27 of Mexico's 32 states through the Huertos para Todos program, and reported impacting between 35,000 and 40,000 beneficiaries through the Manos al Planeta school program.",
         "fr": "Padre Huerto a atteint 70 jardins communautaires répartis dans 27 des 32 États du Mexique grâce au programme Huertos para Todos, et a déclaré avoir eu un impact sur 35 000 à 40 000 bénéficiaires grâce au programme scolaire Manos al Planeta.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025-2026",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Padre Huerto announced plans to establish five regional agroecological hubs across Mexico and to expand the Tequios Sentipensantes as an itinerant program throughout Latin America.",
         "fr": "Padre Huerto a annoncé des projets visant à établir cinq pôles agroécologiques régionaux à travers le Mexique et à développer les Tequios Sentipensantes en tant que programme itinérant à travers l'Amérique latine.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Community garden programs across Mexico",
         "fr": "Programmes de jardins communautaires à travers le Mexique",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training and capacitation for food production",
         "fr": "Formation et capacitation pour la production alimentaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Agroecological hubs in multiple regions",
         "fr": "Pôles agroécologiques dans plusieurs régions",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Composting workshops reducing household waste",
         "fr": "Ateliers de compostage réduisant les déchets ménagers",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Social investment platform for responsible companies",
         "fr": "Plateforme d'investissement social pour les entreprises responsables",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Online asynchronous courses on ecological food",
         "fr": "Cours en ligne asynchrones sur l'alimentation écologique",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Socially responsible companies for project funding",
         "fr": "Entreprises socialement responsables pour le financement de projets",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Foundations with social investment resources",
         "fr": "Fondations disposant de ressources d'investissement social",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Schools to expand Manos al Planeta program",
         "fr": "Écoles pour étendre le programme Manos al Planeta",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic collaborators to validate health impact data",
         "fr": "Collaborateurs académiques pour valider les données d'impact sur la santé",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Community organizations across Latin America",
         "fr": "Organisations communautaires à travers l'Amérique latine",

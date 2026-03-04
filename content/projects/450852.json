@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754406216,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Las Quinas es una iniciativa innovadora que combina la producción de miel ecológica con la responsabilidad social. Fundada por un antiguo profesional del mundo empresarial, la empresa colabora con productores y cooperativas locales, fomentando la confianza y los beneficios mutuos. A lo largo de los años, Las Quinas ha ampliado su línea de productos para incluir dulce de leche y mermeladas, al tiempo que participa en proyectos comunitarios que empoderan a los grupos vulnerables, en particular a las mujeres. Su compromiso con la sostenibilidad y el impacto social les ha valido el reconocimiento local e internacional.",
     "de": "Las Quinas ist eine innovative Initiative, die organische Honigproduktion mit sozialer Verantwortung verbindet. Das Unternehmen wurde von einem ehemaligen Unternehmensberater gegründet und arbeitet mit lokalen Produzenten und Genossenschaften zusammen, um Vertrauen und gegenseitigen Nutzen zu fördern. Im Laufe der Jahre hat Las Quinas seine Produktlinie um Dulce de Leche und Schinken erweitert und engagiert sich außerdem in Gemeinschaftsprojekten, die benachteiligte Gruppen, insbesondere Frauen, stärken. Ihr Engagement für Nachhaltigkeit und soziale Auswirkungen hat sowohl lokal als auch international Anerkennung gefunden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Parra"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.lasquinas.com.ar/",
   "yt": "fGM5FCgJAd0",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2003",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ricardo Parra founded Las Quinas in General Las Heras, Buenos Aires, after leaving a corporate finance career. The company began producing organic honey, sourcing from borrowed fields in exchange for pollination benefits.",
         "fr": "Ricardo Parra a fondé Las Quinas à General Las Heras, Buenos Aires, après avoir quitté une carrière en finance d'entreprise. La société a commencé à produire du miel biologique, en s'approvisionnant dans des champs empruntés en échange de services de pollinisation.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2005-2009",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Las Quinas joined Argentina's first export group in 2005 and began exporting to Japan in 2009, later expanding to the United States, Denmark, Finland, and Sweden. Japanese market feedback led to the development of a reduced-sugar dulce de leche formula.",
         "fr": "Las Quinas a rejoint le premier groupe exportateur d'Argentine en 2005 et a commencé à exporter vers le Japon en 2009, avant de s'étendre aux États-Unis, au Danemark, en Finlande et en Suède. Les retours du marché japonais ont conduit au développement d'une formule de dulce de leche à teneur réduite en sucre.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2011",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Las Quinas won the Biolmiel prize for best certified organic honey in the world at Apimondia. The company also won best dulce de leche of the year in 2013 and multiple other industry awards throughout this period.",
         "fr": "Las Quinas a remporté le prix Biolmiel du meilleur miel biologique certifié au monde à l'Apimondia. La société a également remporté le prix du meilleur dulce de leche de l'année en 2013 ainsi que de nombreuses autres récompenses professionnelles tout au long de cette période.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2015",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Las Quinas became B Corp certified, becoming the first food-producing company with B Corp certification in Latin America. This formalized their triple-impact model covering economic, environmental, and social dimensions.",
         "fr": "Las Quinas a obtenu la certification B Corp, devenant ainsi la première entreprise agroalimentaire certifiée B Corp en Amérique latine. Cela a formalisé leur modèle à triple impact couvrant les dimensions économique, environnementale et sociale.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2018",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Las Quinas deepened its social impact strategy by committing to source at least one ingredient from cooperatives or NGOs run by women in vulnerable situations. This led to partnerships with Akamazoa Argentina and the Las Mujeres de la Cañada cooperative in Santiago del Estero.",
         "fr": "Las Quinas a renforcé sa stratégie d'impact social en s'engageant à s'approvisionner au moins un ingrédient auprès de coopératives ou d'ONG dirigées par des femmes en situation de vulnérabilité. Cela a conduit à des partenariats avec Akamazoa Argentina et la coopérative Las Mujeres de la Cañada à Santiago del Estero.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2021",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Las Quinas completed a two-phase solar panel installation, achieving 100% solar-powered production. Surplus energy generated on weekends is donated through the local municipality to public institutions such as the library and schools.",
         "fr": "Las Quinas a achevé une installation de panneaux solaires en deux phases, atteignant une production alimentée à 100 % par l'énergie solaire. L'énergie excédentaire produite le week-end est donnée via la municipalité locale à des institutions publiques telles que la bibliothèque et les écoles.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic honey, jams, and dulce de leche",
         "fr": "Miel biologique, confitures et dulce de leche",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Training vulnerable women in food production",
         "fr": "Formation de femmes vulnérables à la production alimentaire",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Formalizing cooperatives with food safety certification",
         "fr": "Formalisation de coopératives avec certification de sécurité alimentaire",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Purchasing all production from women's cooperatives",
         "fr": "Achat de toute la production des coopératives féminines",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "100% solar energy powering entire production",
         "fr": "100% d'énergie solaire alimentant toute la production",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "QR traceability on every product jar",
         "fr": "Traçabilité par QR code sur chaque pot de produit",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies to collaborate on social projects",
         "fr": "Entreprises pour collaborer sur des projets sociaux",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for indigenous community project in Misiones",
         "fr": "Financement pour un projet de communauté indigène à Misiones",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Organic producers for fruit sourcing",
         "fr": "Producteurs biologiques pour l'approvisionnement en fruits",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Sustainable packaging technology partners",
         "fr": "Partenaires en technologie d'emballage durable",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Businesses to replicate triple impact model",
         "fr": "Entreprises pour reproduire le modèle à triple impact",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754991159,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Asociación de Agricultura Biodinámica (ABD) de Colombia promueve prácticas agrícolas sostenibles basadas en principios biodinámicos. Fundada en 2019, la asociación apoya a los agricultores mediante formación, sistemas participativos de garantía y servicios de consultoría. Su objetivo es mejorar la sostenibilidad agrícola tratando la tierra como un organismo vivo, fomentando la biodiversidad y creando canales de comercialización para los productos biodinámicos. ABD también colabora con las comunidades locales para compartir conocimientos y promover prácticas agrícolas ecológicas.",
     "de": "Die Asociación de Agricultura Biodinámica (ABD) in Kolumbien fördert nachhaltige landwirtschaftliche Praktiken auf der Grundlage biologisch-dynamischer Prinzipien. Der 2019 gegründete Verband unterstützt Landwirte durch Schulungen, partizipative Garantiesysteme und Beratungsdienste. Sie zielt darauf ab, die landwirtschaftliche Nachhaltigkeit zu verbessern, indem sie das Land als lebenden Organismus behandelt, die biologische Vielfalt fördert und Vermarktungswege für biodynamische Produkte schafft. ABD arbeitet auch mit lokalen Gemeinschaften zusammen, um Wissen zu teilen und ökologische Anbaumethoden zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Margarita López"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://biodinamica.co/",
   "yt": "d0yVwWE5iVY",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1920",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Rudolf Steiner establishes anthroposophy and creates biodynamic agricultural preparations in Germany, laying the philosophical and practical foundation for biodynamic farming worldwide.",
         "fr": "Rudolf Steiner établit l'anthroposophie et crée les préparations agricoles biodynamiques en Allemagne, posant les bases philosophiques et pratiques de l'agriculture biodynamique dans le monde entier.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "1980s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Biodynamic agriculture arrives in Colombia brought by a German practitioner, taking early root at farms like Finca Gabeno in Cundinamarca and Finca Titania in Valle del Cauca.",
         "fr": "L'agriculture biodynamique arrive en Colombie, apportée par un praticien allemand, et prend racine dans des fermes comme Finca Gabeno à Cundinamarca et Finca Titania dans le Valle del Cauca.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2014",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A German practitioner returns to Colombia to revive and teach biodynamic methods, beginning gatherings with parents from the Luis Horacio Gómez school in Cali who had prior knowledge of anthroposophy.",
         "fr": "Un praticien allemand retourne en Colombie pour relancer et enseigner les méthodes biodynamiques, commençant à rassembler des parents de l'école Luis Horacio Gómez à Cali qui avaient une connaissance préalable de l'anthroposophie.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2017-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The CONAGRECO congress formalizes the founding of the Asociación de Agricultura Biodinámica de Colombia (ABD), with approximately 80 people signing the founding documents and establishing the association's statutes.",
         "fr": "Le congrès CONAGRECO officialise la fondation de l'Asociación de Agricultura Biodinámica de Colombia (ABD), avec environ 80 personnes signant les actes fondateurs et établissant les statuts de l'association.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "ABD wins a KBP cooperative project grant from the German government, partnering with the German Biodynamic Federation to fund the association's growth, training programs, and expansion across Colombia through 2025.",
         "fr": "L'ABD remporte une subvention de projet coopératif KBP du gouvernement allemand, en partenariat avec la Fédération biodynamique allemande pour financer la croissance de l'association, les programmes de formation et l'expansion à travers la Colombie jusqu'en 2025.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2019-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "ABD develops three core service lines—training modules, participatory guarantee systems for the Demeter seal, and farm advisory services—while becoming one of only three countries worldwide (with Chile and South Africa) authorized to award the Demeter certification through participatory guarantees.",
         "fr": "L'ABD développe trois axes de services principaux — des modules de formation, des systèmes de garantie participatifs pour le label Demeter, et des services de conseil aux exploitations — tout en devenant l'un des trois seuls pays au monde (avec le Chili et l'Afrique du Sud) autorisés à décerner la certification Demeter par le biais de garanties participatives.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Four biodynamic agriculture training modules",
         "fr": "Quatre modules de formation en agriculture biodynamique",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Short courses on soils, nutrition, biodynamic preparations",
         "fr": "Cours courts sur les sols, la nutrition, les préparations biodynamiques",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Training programs for campesino and indigenous communities",
         "fr": "Programmes de formation pour les communautés paysannes et autochtones",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Support finding commercialization channels for farmers",
         "fr": "Soutien à la recherche de canaux de commercialisation pour les agriculteurs",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Demeter certification via participatory guarantee systems",
         "fr": "Certification Demeter via des systèmes de garantie participatifs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Farm advisory visits and transition accompaniment",
         "fr": "Visites de conseil agricole et accompagnement à la transition",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Wider recognition of Demeter seal in Colombia",
         "fr": "Reconnaissance plus large du label Demeter en Colombie",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local commercial channels for biodynamic products",
         "fr": "Circuits commerciaux locaux pour les produits biodynamiques",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Campesino and indigenous community partnerships",
         "fr": "Partenariats avec les communautés paysannes et autochtones",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sustainable financing after 2025 German project ends",
         "fr": "Financement durable après la fin du projet allemand en 2025",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government policy support for organic certification",
         "fr": "Soutien politique gouvernemental à la certification biologique",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "New biodynamic trainers for generational knowledge transfer",
         "fr": "Nouveaux formateurs en biodynamie pour le transfert intergénérationnel des savoirs",

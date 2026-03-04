@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1755009199,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Make Eat es una iniciativa innovadora cuyo objetivo es revolucionar la gastronomía integrando el diseño y la creatividad en el mundo culinario. La iniciativa comenzó como una consultoría centrada en aplicar los principios del diseño a la gastronomía, abordando la falta de inversión en innovación dentro de la industria alimentaria.\nUno de sus proyectos destacados es \"Food for Good\", que surgió durante la pandemia para hacer frente al despilfarro de alimentos redistribuyendo los excedentes de comida de los restaurantes entre las poblaciones vulnerables. Esta iniciativa proporcionó con éxito más de 55.000 comidas, incluidos platos de alta calidad de chefs con estrellas Michelin. La iniciativa se caracteriza por su compromiso con la educación, el intercambio de conocimientos de código abierto y un enfoque holístico de la sostenibilidad alimentaria, con el objetivo de influir en los hábitos de consumo y promover una comprensión más profunda de las fuentes de alimentos y su impacto medioambiental.",
     "de": "Make Eat ist eine innovative Initiative, die darauf abzielt, die Gastronomie durch die Integration von Design und Kreativität in die kulinarische Welt zu revolutionieren. Die Initiative begann als Beratungsunternehmen, das sich auf die Anwendung von Designprinzipien in der Gastronomie konzentrierte, um den Mangel an Investitionen in Innovationen in der Lebensmittelindustrie zu beheben.\nEines ihrer bemerkenswerten Projekte ist \"Food for Good\", das während der Pandemie entstand, um die Lebensmittelverschwendung zu bekämpfen, indem überschüssige Lebensmittel von Restaurants an bedürftige Bevölkerungsgruppen weitergegeben wurden. Im Rahmen dieser Initiative wurden mehr als 55.000 Mahlzeiten bereitgestellt, darunter auch hochwertige Gerichte von Sterneköchen. Die Initiative zeichnet sich durch ihr Engagement für Bildung, den Austausch von Open-Source-Wissen und einen ganzheitlichen Ansatz für die Nachhaltigkeit von Lebensmitteln aus, der darauf abzielt, die Verbrauchergewohnheiten zu beeinflussen und ein tieferes Verständnis für Lebensmittelquellen und deren Umweltauswirkungen zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -45,16 +39,14 @@
     "consumption-and-production-patterns"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://tools.makeat.tech/en",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Make EAT was founded approximately 8 years ago by Mariona and Juan on a bus ride home from work, starting with the idea of applying design and creativity to the gastronomy sector using thermoforming and 3D printing with an initial investment of 5,000 euros each.",
         "fr": "Make EAT a été fondée il y a environ 8 ans par Mariona et Juan lors d'un trajet en bus pour rentrer du travail, en partant de l'idée d'appliquer le design et la créativité au secteur de la gastronomie grâce au thermoformage et à l'impression 3D, avec un investissement initial de 5 000 euros chacun.",
@@ -64,7 +56,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "During the pandemic, Make EAT co-founded Food for Good, a non-profit organization that rescued surplus food from restaurants, hotels, and catering companies to feed vulnerable populations, delivering over 55,000 meals including Michelin-star food.",
         "fr": "Durant la pandémie, Make EAT a cofondé Food for Good, une organisation à but non lucratif qui récupérait les surplus alimentaires des restaurants, hôtels et sociétés de restauration pour nourrir les populations vulnérables, en livrant plus de 55 000 repas, dont des plats étoilés au guide Michelin.",
@@ -74,7 +66,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Post-pandemic, Make EAT launched a biomaterials project with Paradiso, the world's number one cocktail bar, developing coasters and trays from organic residues such as orange peels and mint leaves, producing between 100 and 300 units per week at peak.",
         "fr": "Après la pandémie, Make EAT a lancé un projet de biomatériaux avec Paradiso, le meilleur bar à cocktails du monde, en développant des sous-verres et des plateaux à partir de résidus organiques tels que des écorces d'orange et des feuilles de menthe, avec une production comprise entre 100 et 300 unités par semaine aux périodes de pointe.",
@@ -84,7 +76,7 @@
     },
     {
       "date": "2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Make EAT discontinued the biomaterials line after discovering that scaling was economically unviable, clients including Meliá were unwilling to pay production costs, and the living materials developed humidity and mold issues over time.",
         "fr": "Make EAT a abandonné la gamme de biomatériaux après avoir constaté que la mise à l'échelle était économiquement non viable, que des clients comme Meliá refusaient de prendre en charge les coûts de production, et que les matériaux vivants développaient des problèmes d'humidité et de moisissures avec le temps.",
@@ -94,7 +86,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Make EAT partnered with ODS, a Galician startup, to research how fungal fermentation of industrial biomass residues could produce high-protein food products, raising over one million euros in funding for this project.",
         "fr": "Make EAT s'est associée à ODS, une startup galicienne, pour rechercher comment la fermentation fongique de résidus de biomasse industrielle pouvait produire des aliments à haute teneur en protéines, levant plus d'un million d'euros de financement pour ce projet.",
@@ -104,7 +96,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Make EAT grew to approximately 18-20 collaborators and expanded into enzymatic hydrolysis of food residues, solid-state fermentation, and alternative protein products including sausages developed with Viscofán, while contributing to a new food innovation master's program at a Barcelona design school.",
         "fr": "Make EAT a atteint environ 18 à 20 collaborateurs et s'est développée dans l'hydrolyse enzymatique des résidus alimentaires, la fermentation en phase solide et les produits protéinés alternatifs, notamment des saucisses développées avec Viscofán, tout en contribuant à un nouveau master en innovation alimentaire dans une école de design de Barcelone.",
@@ -115,7 +107,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research on fungi-based protein from waste",
         "fr": "Recherche sur les protéines à base de champignons issues des déchets",
@@ -124,7 +116,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Workshops for students and food professionals",
         "fr": "Ateliers pour les étudiants et les professionnels de l'alimentation",
@@ -133,7 +125,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Training program for culinary innovation talent",
         "fr": "Programme de formation pour les talents en innovation culinaire",
@@ -142,7 +134,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial viability consulting for food startups",
         "fr": "Conseil en viabilité commerciale pour les startups alimentaires",
@@ -151,7 +143,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Prototype development for alternative food products",
         "fr": "Développement de prototypes pour des produits alimentaires alternatifs",
@@ -160,7 +152,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Upcycling residues into edible high-protein biomass",
         "fr": "Valorisation des résidus en biomasse comestible riche en protéines",
@@ -171,7 +163,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Startup partners to develop commercial food products",
         "fr": "Partenaires startups pour développer des produits alimentaires commerciaux",
@@ -180,7 +172,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and subsidies for research projects",
         "fr": "Subventions et aides pour les projets de recherche",
@@ -189,7 +181,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University talent for applied food science research",
         "fr": "Talents universitaires pour la recherche appliquée en sciences alimentaires",
@@ -198,7 +190,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Viable market applications for fungal protein biomass",
         "fr": "Applications commerciales viables pour la biomasse de protéines fongiques",
@@ -207,7 +199,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Professionals to adopt enzyme-based upcycling practices",
         "fr": "Professionnels pour adopter des pratiques de valorisation à base d'enzymes",

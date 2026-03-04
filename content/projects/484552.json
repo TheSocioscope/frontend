@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754913307,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa de Alstom se centra en mejorar la biodiversidad y el bienestar de los empleados a través de diversos proyectos. Surgida de un grupo de empleados de Lyon, incluye la creación de espacios verdes, el establecimiento de colmenas y el suministro de cestas de fruta ecológica. Estos esfuerzos se alinean con los objetivos de RSC de la empresa, haciendo hincapié en la calidad de vida en el trabajo. El grupo de biodiversidad actúa de forma voluntaria, con el apoyo de la dirección y la colaboración con organizaciones locales, fomentando una cultura de sostenibilidad y compromiso con la comunidad en el lugar de trabajo.",
     "de": "Die Initiative bei Alstom konzentriert sich auf die Förderung der biologischen Vielfalt und des Wohlbefindens der Mitarbeiter durch verschiedene Projekte. Sie wurde von einer Gruppe von Mitarbeitern in Lyon ins Leben gerufen und umfasst die Schaffung von Grünflächen, die Aufstellung von Bienenstöcken und die Bereitstellung von Bio-Obstkörben. Diese Bemühungen stehen im Einklang mit den CSR-Zielen des Unternehmens, bei denen die Lebensqualität am Arbeitsplatz im Vordergrund steht. Die Biodiversitätsgruppe arbeitet auf freiwilliger Basis und wird von der Unternehmensleitung und Partnerschaften mit lokalen Organisationen unterstützt, um eine Kultur der Nachhaltigkeit und des gesellschaftlichen Engagements am Arbeitsplatz zu fördern."
   },
-  "field": [
-    "ecology-environmental-sciences",
-    "nutrition"
-  ],
+  "field": ["ecology-environmental-sciences", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Lievre"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.alstom.com/fr/groupe/engagements/empreinte-environnementale",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "early 2000s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "An initial agreement was established at Alstom Le Creusot allocating a budget for work-life balance initiatives. This provided the financial foundation for future quality-of-life actions for employees.",
         "fr": "Un accord initial a été établi chez Alstom Le Creusot allouant un budget pour les initiatives d'équilibre vie professionnelle-vie personnelle. Cela a fourni les bases financières pour de futures actions de qualité de vie pour les employés.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The shared company restaurant serving Alstom and other local businesses collapsed due to Covid-19. This crisis forced Alstom to find alternative food solutions for its 800 employees.",
         "fr": "Le restaurant d'entreprise partagé servant Alstom et d'autres entreprises locales s'est effondré en raison du Covid-19. Cette crise a contraint Alstom à trouver des solutions alimentaires alternatives pour ses 800 employés.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alstom partnered with a local ESAT (Les Papillons Blancs) to provide daily catering, supporting the professional integration of workers with disabilities. The work-life balance agreement was also renewed this year.",
         "fr": "Alstom s'est associé à un ESAT local (Les Papillons Blancs) pour assurer une restauration quotidienne, soutenant l'intégration professionnelle des travailleurs en situation de handicap. L'accord sur l'équilibre vie professionnelle-vie personnelle a également été renouvelé cette année.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Biodiversity Collective was informally initiated by a group of Lyon-based employees working at the Le Creusot site, driven by a desire to green the industrial space and improve quality of life at work.",
         "fr": "Le Collectif Biodiversité a été initié de manière informelle par un groupe d'employés basés à Lyon travaillant sur le site du Creusot, animés par le désir de végétaliser l'espace industriel et d'améliorer la qualité de vie au travail.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The LPO (Ligue de Protection des Oiseaux) conducted an official biodiversity audit on site, making Alstom Le Creusot the first Alstom site in France to do so. This audit became the founding pillar of the collective's action plan.",
         "fr": "La LPO (Ligue de Protection des Oiseaux) a réalisé un audit officiel de la biodiversité sur le site, faisant d'Alstom Le Creusot le premier site Alstom en France à le faire. Cet audit est devenu le pilier fondateur du plan d'action du collectif.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The collective expanded its activities to include beehives managed by Kogobi, composting stations, a kitchen garden, bi-weekly organic fruit baskets, and plant swap events. The biodiversity model was subsequently replicated by other Alstom sites across France.",
         "fr": "Le collectif a élargi ses activités pour inclure des ruches gérées par Kogobi, des stations de compostage, un potager, des paniers de fruits biologiques bihebdomadaires et des événements d'échange de plantes. Le modèle de biodiversité a ensuite été reproduit par d'autres sites Alstom à travers la France.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free organic fruit baskets for employees",
         "fr": "Paniers de fruits bio offerts aux employés",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "On-site inclusive catering via ESAT partnership",
         "fr": "Restauration inclusive sur site via partenariat ESAT",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Beehives with honey redistribution to staff",
         "fr": "Ruches avec redistribution du miel au personnel",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "On-site composting using recycled industrial materials",
         "fr": "Compostage sur site à partir de matériaux industriels recyclés",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biodiversity audit and greening of industrial site",
         "fr": "Audit de biodiversité et végétalisation du site industriel",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on biodiversity and climate awareness",
         "fr": "Ateliers sur la biodiversité et la sensibilisation au climat",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Employee volunteers for biodiversity collective",
         "fr": "Bénévoles employés pour le collectif biodiversité",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local partners for food and ecological services",
         "fr": "Partenaires locaux pour les services alimentaires et écologiques",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Employee engagement in biodiversity initiatives",
         "fr": "Engagement des employés dans les initiatives de biodiversité",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Healthier products for on-site vending machines",
         "fr": "Produits plus sains pour les distributeurs automatiques sur site",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Reuse of industrial materials for composting",
         "fr": "Réutilisation des matériaux industriels pour le compostage",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754953823,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Ecoplanet Soluciones Integrales es una empresa pionera de gestión de residuos centrada en maximizar el potencial de los residuos orgánicos. Creada en 2017, la iniciativa comenzó con la agricultura ecológica y evolucionó hasta convertirse en un agroparque medioambiental. La empresa transforma los residuos orgánicos en fertilizantes y piensos de alta calidad, promoviendo la sostenibilidad y reduciendo los residuos de vertedero. Con numerosos premios a la sostenibilidad medioambiental, Ecoplanet aspira a crear una economía circular al tiempo que garantiza la seguridad alimentaria y la protección del medio ambiente.",
     "de": "Ecoplanet Soluciones Integrales ist ein bahnbrechendes Abfallwirtschaftsunternehmen, das sich auf die Maximierung des Potenzials von organischen Abfällen konzentriert. Die 2017 gegründete Initiative begann mit ökologischem Landbau und entwickelte sich zu einem ökologischen Agro-Park. Das Unternehmen wandelt organische Abfälle in hochwertige Düngemittel und Tierfutter um, fördert so die Nachhaltigkeit und reduziert Deponieabfälle. Mit zahlreichen Auszeichnungen für ökologische Nachhaltigkeit will Ecoplanet eine Kreislaufwirtschaft schaffen und gleichzeitig für Ernährungssicherheit und Umweltschutz sorgen."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,9 +39,7 @@
     "consumption-and-production-patterns"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecoplanetsi.com/nosotros/",
   "yt": "aanhB6_Vzoo",
   "editedAt": 1760358658,
@@ -58,14 +49,12 @@
       "at": 1760358658
     }
   ],
-  "updatedAt": [
-    1760358658
-  ],
+  "updatedAt": [1760358658],
   "originalLang": "es",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ecoplanet was founded when Sandra and Hernando purchased a small farm to cultivate organic crops, discovering the potential of organic waste when they noticed Fruber supermarkets discarding residues that could be repurposed.",
         "fr": "Ecoplanet a été fondée lorsque Sandra et Hernando ont acheté une petite ferme pour cultiver des cultures biologiques, découvrant le potentiel des déchets organiques en remarquant que les supermarchés Fruber jetaient des résidus qui pouvaient être réutilisés.",
@@ -75,7 +64,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic severely impacted operations as hotel and restaurant clients closed, but the company survived by pivoting to produce disinfection products and cabins, while competitors in organic waste management shut down.",
         "fr": "La pandémie de COVID-19 a gravement impacté les opérations en raison de la fermeture des clients hôteliers et de restauration, mais l'entreprise a survécu en se reconvertissant dans la production de produits de désinfection et de cabines, tandis que les concurrents dans la gestion des déchets organiques fermaient leurs portes.",
@@ -85,7 +74,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ecoplanet won the Titanes Caracol award in the environmental sustainability and circular economy category, marking a before-and-after moment that put them on the national map and significantly boosted recognition and clients.",
         "fr": "Ecoplanet a remporté le prix Titanes Caracol dans la catégorie durabilité environnementale et économie circulaire, marquant un avant et un après qui les a placés sur la carte nationale et a considérablement renforcé leur notoriété et leur clientèle.",
@@ -95,7 +84,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company won multiple awards including Cartagena con Valores by RCN, Premio Ambiental Gemas in the Bolívar category, and the Premio Gacela as a triple-impact company.",
         "fr": "L'entreprise a remporté plusieurs prix, dont Cartagena con Valores par RCN, le Premio Ambiental Gemas dans la catégorie Bolívar, ainsi que le Premio Gacela en tant qu'entreprise à triple impact.",
@@ -105,7 +94,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ecoplanet won the internationally recognized Premio Verde, advancing from 500 semifinalists to 23 finalists and ultimately winning their category, also securing a second Minciencias innovation grant to develop their torrefaction and filtration press systems.",
         "fr": "Ecoplanet a remporté le Premio Verde, reconnu à l'échelle internationale, en passant de 500 demi-finalistes à 23 finalistes et en remportant finalement leur catégorie, tout en obtenant une deuxième subvention d'innovation Minciencias pour développer leurs systèmes de torréfaction et de presse de filtration.",
@@ -115,7 +104,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Operating as a 18-person team with 25 allied clients and having diverted over 12,000 tons of organic waste from landfills, Ecoplanet is now developing glass processing, hydrogen production, and plans to replicate their model in other municipalities.",
         "fr": "Avec une équipe de 18 personnes, 25 clients partenaires et plus de 12 000 tonnes de déchets organiques détournées des décharges, Ecoplanet développe désormais le traitement du verre, la production d'hydrogène, et prévoit de répliquer son modèle dans d'autres municipalités.",
@@ -126,7 +115,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic and solid waste collection service",
         "fr": "Service de collecte des déchets organiques et solides",
@@ -135,7 +124,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Personalized organic fertilizers for crops",
         "fr": "Engrais organiques personnalisés pour les cultures",
@@ -144,7 +133,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Balanced animal feed for poultry and pigs",
         "fr": "Alimentation animale équilibrée pour la volaille et les porcs",
@@ -153,7 +142,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Soil analysis and custom nutrient formulation",
         "fr": "Analyse des sols et formulation personnalisée de nutriments",
@@ -162,7 +151,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for vulnerable local community members",
         "fr": "Emploi pour les membres vulnérables de la communauté locale",
@@ -171,7 +160,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Biogas and green hydrogen from organic waste",
         "fr": "Biogaz et hydrogène vert issus des déchets organiques",
@@ -182,7 +171,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment to scale factory operations further",
         "fr": "Investissement pour développer davantage les opérations de l'usine",
@@ -191,7 +180,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies generating organic waste daily",
         "fr": "Alliés générant des déchets organiques quotidiennement",
@@ -200,7 +189,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Innovation projects with Minciencias grants",
         "fr": "Projets d'innovation avec des subventions de Minciencias",
@@ -209,7 +198,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Glass waste processing solution locally",
         "fr": "Solution locale de traitement des déchets de verre",
@@ -218,7 +207,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Organic biomass from hotels and restaurants",
         "fr": "Biomasse organique provenant des hôtels et restaurants",
@@ -227,7 +216,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Small farmers needing customized organic fertilizers",
         "fr": "Petits agriculteurs ayant besoin d'engrais organiques personnalisés",

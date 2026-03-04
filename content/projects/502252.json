@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Market and More provides market access and support services for local producers, promoting sustainable food distribution in Costa Rica.",
     "de": "Market and More provides market access and support services for local producers, promoting sustainable food distribution in Costa Rica."
   },
-  "field": [
-    "economics-business"
-  ],
+  "field": ["economics-business"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Ureña"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "http://marketandmorecr.com/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Marketing More was founded just before the pandemic by Jason and his partner Rebecca, initially delivering fresh organic products to residents in Puerto Jimenez after Jason made 2-hour drives to source organic produce from a farm in Dota.",
         "fr": "Marketing More a été fondée juste avant la pandémie par Jason et sa partenaire Rebecca, livrant initialement des produits biologiques frais aux résidents de Puerto Jimenez après que Jason ait effectué des trajets de 2 heures pour s'approvisionner en produits biologiques auprès d'une ferme à Dota.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The business expanded from its original route to nearby areas including Ojochal and Uvita, growing demand led Jason to purchase a first truck and hire a driver, then open a second delivery route in Guanacaste.",
         "fr": "L'entreprise s'est étendue de son itinéraire d'origine aux zones voisines, notamment Ojochal et Uvita. La demande croissante a conduit Jason à acheter un premier camion et à embaucher un chauffeur, puis à ouvrir une deuxième route de livraison au Guanacaste.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After two years of solo operation, Jason sold half the business to Isaac and half to the primary organic farm supplier, marking the first formal ownership restructuring of the company.",
         "fr": "Après deux ans d'exploitation en solo, Jason a vendu la moitié de l'entreprise à Isaac et l'autre moitié au principal fournisseur de produits biologiques, marquant ainsi la première restructuration formelle de la propriété de la société.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Jason repurchased the business and relaunched with Isaac as co-founder, expanding routes to cover approximately 80% of the Puntarenas region and growing the product catalogue to over 3,500 items across 50+ suppliers.",
         "fr": "Jason a racheté l'entreprise et l'a relancée avec Isaac comme co-fondateur, étendant les routes pour couvrir environ 80 % de la région de Puntarenas et faisant passer le catalogue de produits à plus de 3 500 articles auprès de plus de 50 fournisseurs.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The business became self-sustaining with no additional external investment required, achieving consistent annual client growth of 10-13% and gross margins of around 35-40% before operational costs.",
         "fr": "L'entreprise est devenue autonome sans nécessiter d'investissement externe supplémentaire, affichant une croissance annuelle constante de la clientèle de 10 à 13 % et des marges brutes d'environ 35 à 40 % avant les coûts opérationnels.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Marketing More began developing proprietary software and a logistics app aimed at connecting small producers directly with consumers at scale, with ambitions to replicate the model internationally.",
         "fr": "Marketing More a commencé à développer un logiciel propriétaire et une application logistique visant à connecter directement les petits producteurs avec les consommateurs à grande échelle, avec l'ambition de reproduire ce modèle à l'international.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Online supermarket with 3,500+ products",
         "fr": "Supermarché en ligne avec plus de 3 500 produits",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Home delivery of organic and artisanal foods",
         "fr": "Livraison à domicile d'aliments biologiques et artisanaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Zero food waste through pre-sold ordering system",
         "fr": "Zéro gaspillage alimentaire grâce à un système de commande pré-vendu",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Market access for small local producers",
         "fr": "Accès au marché pour les petits producteurs locaux",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Certification guidance for small food producers",
         "fr": "Accompagnement à la certification pour les petits producteurs alimentaires",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Replicable logistics platform model for small producers",
         "fr": "Modèle de plateforme logistique reproductible pour les petits producteurs",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "New small-scale artisan and farm producers",
         "fr": "Nouveaux producteurs artisanaux et agricoles à petite échelle",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Customers for premium organic home delivery",
         "fr": "Clients pour la livraison à domicile de produits biologiques premium",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Tech collaborators to build logistics app",
         "fr": "Collaborateurs technologiques pour développer une application logistique",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into new delivery routes nationwide",
         "fr": "Expansion vers de nouvelles routes de livraison à l'échelle nationale",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Systems to connect provider inventories digitally",
         "fr": "Systèmes pour connecter numériquement les inventaires des fournisseurs",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754954121,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Eco Finca Kanari se centra en transformar el cultivo tradicional del café en un modelo agroecológico sostenible. Desde 2008, han diversificado su producción para incluir cafés especiales, cacao y plátanos, al tiempo que hacen hincapié en la conservación del medio ambiente. Mediante la creación de una reserva natural y la participación en el turismo comunitario, pretenden educar a los consumidores sobre prácticas sostenibles y promover la biodiversidad, al tiempo que sortean los retos de los mercados agroecológicos y mantienen la rentabilidad.",
     "de": "Eco Finca Kanari konzentriert sich auf die Umwandlung des traditionellen Kaffeeanbaus in ein nachhaltiges agroökologisches Modell. Seit 2008 hat die Finca ihre Produktion auf Spezialitätenkaffee, Kakao und Bananen ausgeweitet und legt dabei auch Wert auf den Umweltschutz. Durch die Einrichtung eines Naturschutzgebiets und die Förderung des Tourismus in der Gemeinde sollen die Verbraucher über nachhaltige Praktiken aufgeklärt und die Artenvielfalt gefördert werden, während gleichzeitig die Herausforderungen agrarökologischer Märkte bewältigt und die Rentabilität aufrechterhalten werden."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Gomez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "leisure-tourism"
-  ],
+  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecofincakanari.com",
   "yt": "U9d_AJisoIg",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2005",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Susana, an agronomist, began working with SENA Risaralda on the first Jóvenes Rurales program, where she co-founded a color calla lily production enterprise with two young farmers.",
         "fr": "Susana, agronome, a commencé à travailler avec le SENA Risaralda dans le cadre du premier programme Jóvenes Rurales, où elle a co-fondé une entreprise de production de callas colorées avec deux jeunes agriculteurs.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2009",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Using a family inheritance, Susana purchased a 13-hectare farm in Santa Rosa de Cabal near the Campo Alegre river, beginning the transition from conventional coffee to agroecological production and planting the first shade-giving guamo trees.",
         "fr": "Grâce à un héritage familial, Susana a acheté une ferme de 13 hectares à Santa Rosa de Cabal, près de la rivière Campo Alegre, amorçant ainsi la transition du café conventionnel vers une production agroécologique et plantant les premiers arbres guamo pour l'ombrage.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2009-2011",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm's coffee was fully renewed while lulo was intercropped under a successful partnership with Postobón through the Luleros association, with lulo profits effectively financing the farm's renovation.",
         "fr": "Le café de la ferme a été entièrement renouvelé tandis que le lulo était intercalé dans le cadre d'un partenariat fructueux avec Postobón via l'association Luleros, les bénéfices du lulo finançant efficacement la rénovation de la ferme.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ricardo joined and began connecting with the UTP agroecological markets, and approximately 500 cacao plants were sown as part of the farm's diversification strategy.",
         "fr": "Ricardo a rejoint l'exploitation et a commencé à établir des liens avec les marchés agroécologiques de l'UTP, et environ 500 plants de cacao ont été semés dans le cadre de la stratégie de diversification de la ferme.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2014",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Lulo cultivation was abandoned due to unsustainable pest pressure requiring agrochemicals, and the farm fully committed to specialty coffee, plantain, and cacao under shade, eventually achieving SPG and Negocios Verdes certifications.",
         "fr": "La culture du lulo a été abandonnée en raison d'une pression parasitaire insoutenable nécessitant des agrochimiques, et la ferme s'est pleinement engagée dans le café de spécialité, la banane plantain et le cacao sous ombrage, obtenant finalement les certifications SPG et Negocios Verdes.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "During the pandemic, Susana and Ricardo moved permanently to the farm and formally registered it as a Natural Reserve (RUNAP) under Parques Nacionales, partly as legal protection against private hydroelectric projects threatening the Campo Alegre river.",
         "fr": "Durant la pandémie, Susana et Ricardo se sont installés définitivement à la ferme et l'ont officiellement enregistrée comme Réserve Naturelle (RUNAP) auprès de Parques Nacionales, en partie comme protection juridique contre les projets hydroélectriques privés menaçant la rivière Campo Alegre.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Agroecological coffee, cacao and plantain products",
         "fr": "Produits agroécologiques de café, cacao et plantain",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Artisanal soaps and natural cosmetics",
         "fr": "Savons artisanaux et cosmétiques naturels",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct sales at agroecological weekly markets",
         "fr": "Vente directe dans les marchés hebdomadaires agroécologiques",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot farm showcasing regenerative agriculture practices",
         "fr": "Ferme pilote illustrant les pratiques d'agriculture régénératrice",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops on soap-making and agroecology",
         "fr": "Ateliers sur la fabrication de savons et l'agroécologie",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Promotion of fair trade short supply chains",
         "fr": "Promotion des circuits courts équitables",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair market access for specialty coffee",
         "fr": "Accès équitable au marché pour le café de spécialité",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Conscious consumers supporting agroecological products",
         "fr": "Consommateurs conscients soutenant les produits agroécologiques",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agrotourism and educational workshop collaborators",
         "fr": "Collaborateurs en agrotourisme et ateliers éducatifs",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Processing infrastructure for cacao and chocolate",
         "fr": "Infrastructure de transformation pour le cacao et le chocolat",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Legal protection against hydroelectric projects",
         "fr": "Protection juridique contre les projets hydroélectriques",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Short circuit direct commercialization channels",
         "fr": "Circuits courts de commercialisation directe",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754421592,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Eiru es una startup innovadora que mide la biodiversidad en los campos agrícolas utilizando tecnología avanzada, incluidos micrófonos e inteligencia artificial. Fundada tras ganar el premio Invap a la innovación, Eiru pretende mejorar la producción de alimentos fomentando prácticas sostenibles. Su enfoque ofrece una alternativa más rápida y eficaz a los métodos tradicionales de medición de la biodiversidad, abordando el urgente declive mundial de la misma. La empresa trata de conectar con los productores para mejorar las prácticas agrícolas, garantizando al mismo tiempo la sostenibilidad medioambiental.",
     "de": "Eiru ist ein innovatives Start-up-Unternehmen, das die Artenvielfalt in der Landwirtschaft mithilfe modernster Technologie, einschließlich Mikrophonen und künstlicher Intelligenz, misst. Eiru wurde nach dem Gewinn des Invap-Preises für Innovation gegründet und zielt darauf ab, die Nahrungsmittelproduktion durch die Förderung nachhaltiger Praktiken zu verbessern. Ihr Ansatz bietet eine schnellere, effizientere Alternative zu herkömmlichen Methoden der Biodiversitätsmessung und adressiert den dringenden globalen Rückgang der Biodiversität. Das Unternehmen strebt eine Verbindung zu den Erzeugern an, um die landwirtschaftlichen Praktiken zu verbessern und gleichzeitig die ökologische Nachhaltigkeit zu gewährleisten."
   },
-  "field": [
-    "biology",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["biology", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Garibaldi"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change"
-  ],
+  "thematic": ["ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://eiru.tech/",
   "yt": "2Cp3Z4ZtR5c",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2002-2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Lucas Garibaldi began working on topics related to agronomy, ecology, and biodiversity, building over 20 years of scientific expertise that would later form the foundation of Airú.",
         "fr": "Lucas Garibaldi a commencé à travailler sur des sujets liés à l'agronomie, à l'écologie et à la biodiversité, accumulant plus de 20 ans d'expertise scientifique qui allait plus tard constituer le fondement d'Airú.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Airú won the INVAP innovation prize, a pivotal moment that transformed the project from a scientific initiative into a recognized startup and attracted early investor interest.",
         "fr": "Airú a remporté le prix d'innovation INVAP, un moment charnière qui a transformé le projet d'une initiative scientifique en une startup reconnue et a suscité l'intérêt des premiers investisseurs.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Co-founders Lucas Garibaldi and Fernanda Santibáñez participated in a startup-building program with SF500, an early-stage venture capital fund that provided their first investment and helped shape the business model.",
         "fr": "Les cofondateurs Lucas Garibaldi et Fernanda Santibáñez ont participé à un programme de création de startup avec SF500, un fonds de capital-risque en phase précoce qui a fourni leur premier investissement et contribué à façonner le modèle économique.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Airú expanded its team, onboarding project manager Ailén Ortiz and commercial developer Federico, while also opening a US-based LLC to pursue a global market alongside its Latin American operations.",
         "fr": "Airú a élargi son équipe en intégrant la cheffe de projet Ailén Ortiz et le développeur commercial Federico, tout en ouvrant une LLC basée aux États-Unis pour conquérir un marché mondial en parallèle de ses opérations en Amérique latine.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Airú secured a partnership with The Nature Conservancy to test its bioacoustic sensors in regenerative livestock spaces, and began collaborating with the Ministry of Environment and Biodiversity of Córdoba province as its first government client.",
         "fr": "Airú a conclu un partenariat avec The Nature Conservancy pour tester ses capteurs bioacoustiques dans des espaces d'élevage régénératif, et a commencé à collaborer avec le ministère de l'Environnement et de la Biodiversité de la province de Córdoba en tant que premier client gouvernemental.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "As of May 2025, Airú was closing its second angel investment round, monitoring approximately 4,000 hectares, while navigating the key challenge of market timing and achieving financial sustainability before the biodiversity monitoring market fully matures.",
         "fr": "En mai 2025, Airú finalisait son deuxième tour de financement auprès d'investisseurs providentiels, surveillant environ 4 000 hectares, tout en naviguant le défi clé du timing de marché et en cherchant à atteindre la viabilité financière avant que le marché de la surveillance de la biodiversité n'arrive à pleine maturité.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biodiversity monitoring, reporting and verification services",
         "fr": "Services de surveillance, de rapport et de vérification de la biodiversité",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Acoustic sensor technology for field biodiversity measurement",
         "fr": "Technologie de capteurs acoustiques pour la mesure de la biodiversité sur le terrain",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Satellite imagery models tracking land use changes",
         "fr": "Modèles d'imagerie satellitaire pour le suivi des changements d'utilisation des terres",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Biodiversity data reports for decision-making",
         "fr": "Rapports de données sur la biodiversité pour la prise de décision",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Digital twin simulations to evaluate restoration practices",
         "fr": "Simulations de jumeaux numériques pour évaluer les pratiques de restauration",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Certification support for sustainability standards compliance",
         "fr": "Soutien à la certification pour la conformité aux normes de durabilité",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies with conservation and sustainability commitments",
         "fr": "Entreprises avec des engagements en matière de conservation et de durabilité",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agricultural sector clients for biodiversity monitoring",
         "fr": "Clients du secteur agricole pour le suivi de la biodiversité",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Angel investors for second investment round",
         "fr": "Investisseurs providentiels pour le deuxième tour d'investissement",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Government agencies for public biodiversity projects",
         "fr": "Agences gouvernementales pour les projets publics de biodiversité",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Producers transitioning to regenerative practices",
         "fr": "Producteurs en transition vers des pratiques régénératrices",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic and scientific institutional collaborations",
         "fr": "Collaborations institutionnelles académiques et scientifiques",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A community-driven NPO combating food insecurity through food relief, community gardens, nutrition education, and sustainable farming.",
     "de": "A community-driven NPO combating food insecurity through food relief, community gardens, nutrition education, and sustainable farming."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "Zwelethemba, Worcester",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Zotwana"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2015",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Kulisa organized its first major TB awareness campaign in partnership with the South African TB Vaccine Initiative, involving government departments, schools, SAFA, and SABC in a large community event anchored around World TB Day on 24 March.",
         "fr": "Kulisa a organisé sa première grande campagne de sensibilisation à la tuberculose en partenariat avec l'Initiative sud-africaine pour le vaccin contre la tuberculose, impliquant des départements gouvernementaux, des écoles, la SAFA et la SABC lors d'un grand événement communautaire ancré autour de la Journée mondiale de la tuberculose le 24 mars.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Kulisa formally established itself as an NPO and launched its first food garden at the backyard of the local police station, targeting HIV and TB patients with a history of defaulting on treatment due to food insecurity.",
         "fr": "Kulisa s'est officiellement constituée en ONG et a lancé son premier jardin potager dans la cour arrière du commissariat de police local, ciblant les patients atteints du VIH et de la tuberculose ayant des antécédents d'abandon du traitement en raison de l'insécurité alimentaire.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "With 200,000 rand in funding from the Breede Valley Catchment Management Agency (BGCMA), Kulisa expanded its police station garden and extended support to an elderly center and PJB Primary School by building nursery tunnels and fencing.",
         "fr": "Avec un financement de 200 000 rands de l'Agence de gestion du bassin versant de Breede Valley (BGCMA), Kulisa a agrandi son jardin du commissariat et étendu son soutien à un centre pour personnes âgées et à l'école primaire PJB en construisant des tunnels de pépinière et des clôtures.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The National Development Agency provided Kulisa with 115,000 rand to purchase office equipment, and also supported the organization with financial management training, bookkeeping, and proposal writing capacity.",
         "fr": "L'Agence nationale de développement a fourni à Kulisa 115 000 rands pour l'achat de matériel de bureau, et a également soutenu l'organisation avec une formation en gestion financière, en comptabilité et en rédaction de propositions.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2017-2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Since 2017, Kulisa has installed over 80 rainwater harvesting tanks in household gardens across Zweletimba to address water access challenges faced by backyard food garden beneficiaries.",
         "fr": "Depuis 2017, Kulisa a installé plus de 80 réservoirs de collecte d'eau de pluie dans des jardins familiaux à travers Zweletimba afin de répondre aux difficultés d'accès à l'eau rencontrées par les bénéficiaires des jardins potagers de cour arrière.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Kulisa launched the Kulisa Cooking Competition for school nutrition program cooks, partnered with Drostdy Culinary School for chef training, and installed an aquaponics system capable of producing 1,500 crops, with full fish production planned for September 2025.",
         "fr": "Kulisa a lancé le Concours de cuisine Kulisa destiné aux cuisiniers des programmes de nutrition scolaire, s'est associée à l'École culinaire Drostdy pour la formation de chefs, et a installé un système d'aquaponie capable de produire 1 500 cultures, avec une production complète de poissons prévue pour septembre 2025.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Support for HIV and TB patients via gardens",
         "fr": "Soutien aux patients atteints du VIH et de la tuberculose via des jardins",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Fresh produce from community and backyard gardens",
         "fr": "Produits frais issus des jardins communautaires et des jardins familiaux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Skills development and farming training programs",
         "fr": "Programmes de développement des compétences et de formation agricole",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Annual cooking competition for school nutrition staff",
         "fr": "Concours annuel de cuisine pour le personnel de nutrition scolaire",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Aquaponics backyard farm as sustainable farming model",
         "fr": "Ferme aquaponique familiale comme modèle d'agriculture durable",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Linking informal farmers to local food markets",
         "fr": "Mise en relation des agriculteurs informels avec les marchés alimentaires locaux",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Operational budget and sustained organizational funding",
         "fr": "Budget opérationnel et financement organisationnel durable",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Commercial buyers for fresh herb produce",
         "fr": "Acheteurs commerciaux pour la production d'herbes fraîches",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to schools nutrition program market",
         "fr": "Accès au marché du programme de nutrition scolaire",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Household backyard garden participants in township",
         "fr": "Participants au jardin familial dans le township",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Paid volunteers via presidential employment stimulus fund",
         "fr": "Bénévoles rémunérés via le fonds présidentiel de stimulus à l'emploi",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Land for expanded aquaponics farming system",
         "fr": "Terrain pour l'expansion du système d'aquaponie",

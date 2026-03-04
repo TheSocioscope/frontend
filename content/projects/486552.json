@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754955044,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Fly360, fundada por un médico biomédico, utiliza drones para mejorar la agroecología en Colombia. Desde 2017, la empresa presta servicios de fumigación y fertilización para diversos cultivos, con el objetivo de tecnificar la agricultura y mejorar la eficiencia. Con un enfoque en la sostenibilidad, Fly360 también ofrece capacitación para pilotos de drones y servicios de mantenimiento. La iniciativa busca reducir el uso de químicos y promover alternativas orgánicas, abordando desafíos tanto económicos como ambientales en el sector agrícola.",
     "de": "Das von einem biomedizinischen Arzt gegründete Unternehmen Fly360 setzt Drohnen zur Verbesserung der Agrarökologie in Kolumbien ein. Seit 2017 bietet das Unternehmen Dienstleistungen zur Begasung und Düngung verschiedener Kulturen an, um die Landwirtschaft zu technisieren und die Effizienz zu verbessern. Mit dem Fokus auf Nachhaltigkeit bietet Fly360 auch Schulungen für Drohnenpiloten und Wartungsdienste an. Die Initiative zielt darauf ab, den Einsatz von Chemikalien zu reduzieren und ökologische Alternativen zu fördern, um sowohl die wirtschaftlichen als auch die ökologischen Herausforderungen im Agrarsektor zu bewältigen."
   },
-  "field": [
-    "engineering-and-technology",
-    "nutrition"
-  ],
+  "field": ["engineering-and-technology", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Rueda"
     }
   ],
-  "thematic": [
-    "innovation-rd",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["innovation-rd", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://fly360.com.co/",
   "yt": "SU3F_nJT3sM",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Víctor Rueda, a biomedical professional, discovered agricultural drones while pursuing a personal interest in drone piloting, beginning to explore market possibilities and importation of drones from China.",
         "fr": "Víctor Rueda, un professionnel biomédical, a découvert les drones agricoles en poursuivant un intérêt personnel pour le pilotage de drones, et a commencé à explorer les possibilités du marché et l'importation de drones depuis la Chine.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Fly 360 began conducting market studies and attempting to import agricultural drones from China, which were already experiencing a boom, in order to commercialize them in Colombia.",
         "fr": "Fly 360 a commencé à mener des études de marché et à tenter d'importer des drones agricoles depuis la Chine, qui connaissaient déjà un essor, afin de les commercialiser en Colombie.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The company was formally established as Agropex, offering drone-based fumigation and fertilization solutions for the agricultural sector in Colombia.",
         "fr": "La société a été officiellement créée sous le nom d'Agropex, proposant des solutions de fumigation et de fertilisation par drone pour le secteur agricole en Colombie.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Supply chain disruptions from China, which had closed early due to the pandemic, forced Víctor to develop in-house alternatives for drone repairs and maintenance.",
         "fr": "Les perturbations de la chaîne d'approvisionnement en provenance de Chine, qui avait fermé tôt en raison de la pandémie, ont contraint Víctor à développer des alternatives internes pour la réparation et la maintenance des drones.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2020",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "To reduce dependence on China, the company built alliances with distributors in Spain, the United States, and China, diversifying its supply network.",
         "fr": "Pour réduire la dépendance envers la Chine, la société a noué des alliances avec des distributeurs en Espagne, aux États-Unis et en Chine, diversifiant ainsi son réseau d'approvisionnement.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company rebranded from Agropex to Fly 360 to expand into sectors beyond agriculture, reporting sales of 700 million Colombian pesos with a 15% profit margin.",
         "fr": "La société a changé de nom, passant d'Agropex à Fly 360, afin de s'étendre à des secteurs au-delà de l'agriculture, affichant des ventes de 700 millions de pesos colombiens avec une marge bénéficiaire de 15 %.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Drone fumigation and fertilization services",
         "fr": "Services de fumigation et de fertilisation par drone",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Certified drone pilot training and certification",
         "fr": "Formation et certification de pilotes de drone certifiés",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Agricultural drone equipment sales and import",
         "fr": "Vente et importation d'équipements de drones agricoles",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Crop monitoring for disease and nutritional deficiencies",
         "fr": "Surveillance des cultures pour les maladies et les carences nutritionnelles",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Drone leasing with fumigation service contracts",
         "fr": "Location de drones avec contrats de service de fumigation",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Preventive and corrective drone maintenance services",
         "fr": "Services de maintenance préventive et corrective de drones",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to mid and small-scale farmers",
         "fr": "Accès aux agriculteurs de moyenne et petite échelle",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Official drone distribution partnerships",
         "fr": "Partenariats officiels de distribution de drones",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Organic fertilizer adoption among landowners",
         "fr": "Adoption des engrais organiques parmi les propriétaires terriens",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into coffee and new crops",
         "fr": "Expansion vers le café et de nouvelles cultures",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data-driven crop monitoring and soil analysis",
         "fr": "Surveillance des cultures et analyse des sols basées sur les données",

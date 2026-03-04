@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1755262311,
   "date": null,
   "description": {
@@ -19,11 +15,7 @@
     "es": "La iniciativa se centra en fomentar la gobernanza local mediante presupuestos participativos en Nantes, capacitando a los residentes para proponer y decidir sobre proyectos comunitarios. Al dar prioridad a la colaboración y el consenso, el programa fomenta el compromiso cívico y refuerza los lazos sociales. Hace hincapié en la importancia de contar historias y organizar la información para facilitar la transferencia de conocimientos y experiencias. Este enfoque de base pretende crear un panorama político más integrador y receptivo, mejorando en última instancia el bienestar y la cohesión de la comunidad.",
     "de": "Die Initiative konzentriert sich auf die Förderung der lokalen Verwaltung durch Bürgerhaushalte in Nantes, die es den Einwohnern ermöglichen, kommunale Projekte vorzuschlagen und zu beschließen. Indem das Programm auf Zusammenarbeit und Konsens setzt, fördert es bürgerschaftliches Engagement und stärkt die sozialen Bindungen. Es betont die Bedeutung des Geschichtenerzählens und der organisierten Information, um den Transfer von Wissen und Erfahrungen zu erleichtern. Dieser bürgernahe Ansatz zielt darauf ab, eine integrativere und reaktionsfreudigere politische Landschaft zu schaffen und letztlich das Wohlbefinden und den Zusammenhalt der Gemeinschaft zu verbessern."
   },
-  "field": [
-    "communication-and-media-studies",
-    "sociology",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["communication-and-media-studies", "sociology", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -47,9 +39,7 @@
     "culture-and-the-arts"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://metropole.nantes.fr/ma-ville-ma-metropole-nantes-et-ses-11-quartiers-elus-municipaux/catherine-bassani",
   "yt": "viq8sgvE4KI",
   "editedAt": 1760514909,
@@ -59,14 +49,12 @@
       "at": 1760514909
     }
   ],
-  "updatedAt": [
-    1760514909
-  ],
+  "updatedAt": [1760514909],
   "originalLang": "en",
   "timeline": [
     {
       "date": "1989",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Participatory budgeting was founded in Porto Alegre, Brazil by the Workers' Party, with the goal of giving inhabitants direct power to act and decide on public spending.",
         "fr": "Le budget participatif a été fondé à Porto Alegre, au Brésil, par le Parti des travailleurs, avec pour objectif de donner aux habitants un pouvoir direct d'agir et de décider des dépenses publiques.",
@@ -76,7 +64,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Catherine Bassani received her second mandate as deputy mayor of Nantes, tasked with building a participatory budget system from scratch using a unique consensus-based model.",
         "fr": "Catherine Bassani a reçu son deuxième mandat en tant que maire adjointe de Nantes, chargée de construire un système de budget participatif à partir de zéro en utilisant un modèle unique basé sur le consensus.",
@@ -86,7 +74,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Nantes participatory budget device officially launched in May 2022 after the Covid crisis, featuring open-topic project calls, neighborhood animation committees, and consensus-based decision-making.",
         "fr": "Le dispositif de budget participatif de Nantes a officiellement été lancé en mai 2022 après la crise du Covid, comprenant des appels à projets à thème libre, des comités d'animation de quartier et une prise de décision par consensus.",
@@ -96,7 +84,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Within two years of launch, 180 projects were validated by residents, with 90% already realized and approximately one third related to food, community gardens, and shared meals.",
         "fr": "En deux ans après le lancement, 180 projets ont été validés par les habitants, dont 90 % déjà réalisés et environ un tiers liés à l'alimentation, aux jardins partagés et aux repas collectifs.",
@@ -106,7 +94,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Nantes participatory budget celebrated its two-year anniversary with a week-long 'voyage des budgets participatifs,' including neighborhood project tours and a public philosophy café on the commons and democratic governance.",
         "fr": "Le budget participatif de Nantes a célébré son deuxième anniversaire avec une semaine de « voyage des budgets participatifs », comprenant des visites de projets de quartier et un café philo public sur les communs et la gouvernance démocratique.",
@@ -117,7 +105,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Participatory budgeting for neighborhood projects",
         "fr": "Budget participatif pour les projets de quartier",
@@ -126,7 +114,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Citizen decision-making power via consensus",
         "fr": "Pouvoir décisionnel des citoyens par consensus",
@@ -135,7 +123,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Support for local food sharing initiatives",
         "fr": "Soutien aux initiatives locales de partage alimentaire",
@@ -144,7 +132,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training for resident committee facilitators",
         "fr": "Formation pour les facilitateurs de comités de résidents",
@@ -153,7 +141,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct links between residents and local producers",
         "fr": "Liens directs entre les résidents et les producteurs locaux",
@@ -162,7 +150,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Proof-of-concept experiments for policy change",
         "fr": "Expériences pilotes pour le changement de politique",
@@ -173,7 +161,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Political allies across municipal and regional levels",
         "fr": "Alliés politiques aux niveaux municipal et régional",
@@ -182,7 +170,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Citizen volunteers for neighborhood animation committees",
         "fr": "Bénévoles citoyens pour les comités d'animation de quartier",
@@ -191,7 +179,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Quantitative and qualitative data on participatory projects",
         "fr": "Données quantitatives et qualitatives sur les projets participatifs",
@@ -200,7 +188,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "European budget resources for local initiatives",
         "fr": "Ressources budgétaires européennes pour les initiatives locales",
@@ -209,7 +197,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory changes enabling local experimentation",
         "fr": "Changements réglementaires permettant l'expérimentation locale",
@@ -218,7 +206,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Cross-city knowledge sharing on participatory governance",
         "fr": "Partage de connaissances entre villes sur la gouvernance participative",

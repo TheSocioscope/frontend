@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754573714,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Samwana Natural Foods es una iniciativa destinada a hacer frente a la inseguridad alimentaria en Kenia conectando a los pequeños agricultores con los consumidores. Fundada por un agricultor que pasó de vender productos frescos a crear productos de valor añadido, la empresa se centra en la conservación de alimentos autóctonos. Al transformar productos como la mandioca y el mango en harina, salsa de tomate y aperitivos secos, Samwana garantiza que los agricultores reciban precios justos al tiempo que reduce las pérdidas posteriores a la cosecha. La iniciativa promueve prácticas sostenibles y aspira a formalizar sus operaciones para lograr un mayor impacto.",
     "de": "Samwana Natural Foods ist eine Initiative zur Überwindung der Ernährungsunsicherheit in Kenia, indem sie Kleinbauern mit Verbrauchern verbindet. Das von einem Landwirt gegründete Unternehmen, das vom Verkauf von Frischprodukten zur Herstellung von Mehrwertprodukten überging, konzentriert sich auf den Erhalt einheimischer Lebensmittel. Durch die Verarbeitung von Gegenständen wie Kassava und Mango zu Mehl, Ketchup und getrockneten Snacks stellt Samwana sicher, dass die Bauern faire Preise erhalten und gleichzeitig die Verluste nach der Ernte verringern. Die Initiative fördert nachhaltige Praktiken und strebt eine Formalisierung ihrer Operationen an, um eine größere Wirkung zu erzielen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Asamba"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://samwafoods.co.ke/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Samoa Natural Foods (Loyran Foods Ltd) was founded after a failed sale of half a ton of passion fruit left the founders with unsellable produce. They began making whole passion fruit jam from their own farm harvest as their first product.",
         "fr": "Samoa Natural Foods (Loyran Foods Ltd) a été fondée après l'échec de la vente d'une demi-tonne de fruits de la passion, laissant les fondateurs avec des produits invendables. Ils ont commencé à fabriquer de la confiture de fruits de la passion entiers, issus de leur propre récolte, comme premier produit.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company was formally registered as Loyran Foods Ltd. Early sales to neighbors and a relative who supplied supermarkets confirmed market demand for their products.",
         "fr": "L'entreprise a été officiellement enregistrée sous le nom de Loyran Foods Ltd. Les premières ventes auprès de voisins et d'un proche qui approvisionnait des supermarchés ont confirmé la demande du marché pour leurs produits.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2017-2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Supermarkets required multiple product lines before agreeing to list the brand, prompting the founders to develop additional jams with spices, then tomato ketchup variants and mango ketchup.",
         "fr": "Les supermarchés exigeaient plusieurs gammes de produits avant d'accepter de référencer la marque, ce qui a poussé les fondateurs à développer des confitures supplémentaires aux épices, puis des variantes de ketchup à la tomate et au mangue.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-2021",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Karina developed a range of gluten-free flours from indigenous tubers including cassava, sweet potato, green banana, and pumpkin flour, responding to her own gluten sensitivity and a gap in the affordable local market.",
         "fr": "Karina a développé une gamme de farines sans gluten à base de tubercules indigènes, notamment le manioc, la patate douce, la banane verte et la citrouille, en réponse à sa propre sensibilité au gluten et à un manque de produits abordables sur le marché local.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "After approximately five years of operation, the company secured its first small bank facility, which was used to purchase processing equipment. Cassava flour production grew to over 2 tons per month.",
         "fr": "Après environ cinq ans d'activité, l'entreprise a obtenu sa première petite facilité bancaire, utilisée pour l'achat d'équipements de transformation. La production de farine de manioc a dépassé les 2 tonnes par mois.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The company launched Vital Grain and Vital Plus, flour blends incorporating herbs targeting memory support and blood sugar management, while also pursuing export certification and fielding inquiries from Middle Eastern and German buyers.",
         "fr": "L'entreprise a lancé Vital Grain et Vital Plus, des mélanges de farines incorporant des herbes ciblant le soutien de la mémoire et la gestion de la glycémie, tout en poursuivant la certification à l'exportation et en répondant à des demandes d'acheteurs du Moyen-Orient et d'Allemagne.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair market access for smallholder farmers",
         "fr": "Accès équitable au marché pour les petits agriculteurs",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Reduces post-harvest food loss from farms",
         "fr": "Réduit les pertes alimentaires post-récolte dans les exploitations",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Additive-free indigenous gluten-free food products",
         "fr": "Produits alimentaires indigènes sans gluten ni additifs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Online training on using gluten-free flours",
         "fr": "Formation en ligne sur l'utilisation des farines sans gluten",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for local youth merchandisers",
         "fr": "Emploi pour les jeunes merchandiseurs locaux",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Health-focused flour blends for dietary conditions",
         "fr": "Mélanges de farines axés sur la santé pour les conditions alimentaires",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for machinery and equipment",
         "fr": "Financement pour machines et équipements",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export certification for international markets",
         "fr": "Certification d'exportation pour les marchés internationaux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Contracted smallholder farmers for fresh produce",
         "fr": "Petits agriculteurs contractuels pour les produits frais",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Mainstream media advertising to reach more consumers",
         "fr": "Publicité dans les médias grand public pour atteindre plus de consommateurs",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Companies using products as raw materials",
         "fr": "Entreprises utilisant les produits comme matières premières",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Nutritionist collaboration for new health formulations",
         "fr": "Collaboration avec des nutritionnistes pour de nouvelles formulations de santé",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["south-america"],
+  "country": ["costa-rica"],
   "createdAt": 1739459675,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa descrita es la Finca Laguna Verde, una explotación lechera rotativa regenerativa de pastoreo y ordeño situada en Costa Rica. La explotación lleva en funcionamiento unos 50 años y la actual propietaria se hizo cargo de ella hace unos siete u ocho años. Al asumir la responsabilidad, hizo la transición a prácticas regenerativas, a pesar de la fuerte oposición de la comunidad local e incluso de su propia familia. La motivación de este cambio era principalmente medioambiental, con el objetivo de reducir la contribución al cambio climático y restaurar la salud de la tierra.\n\nLa explotación cuenta con un pequeño rebaño de unas 60 vacas, de las que se ordeñan unas 30 al mismo tiempo. Aunque la producción de leche ha disminuido significativamente -hasta una cuarta parte de los niveles anteriores-, el propietario ha conseguido mantener la estabilidad financiera reduciendo los costes de los insumos asociados a la alimentación y la medicación, lo que ha dado lugar a una explotación marginalmente más rentable. La explotación también genera ingresos adicionales a través del alojamiento y planea diversificar su producción y crear productos de valor añadido en el futuro.",
     "de": "Die beschriebene Initiative ist die Finca Laguna Verde, ein regenerativer, rotierender Milchviehbetrieb mit Weide- und Melkwirtschaft in Costa Rica. Der Betrieb ist seit etwa 50 Jahren in Betrieb, wobei die derzeitige Besitzerin vor etwa sieben bis acht Jahren die Leitung übernommen hat. Upon assigning responsibility, she transitioned the farm to regenerative practices, despiteing significant pushback from the local community and even her own family. Die Motivation hinter dieser Umstellung war vor allem ökologisch, um den Beitrag zum Klimawandel zu reduzieren und die Gesundheit des Landes wiederherzustellen.\n\nDer Hof arbeitet mit einer kleinen Herde von etwa 60 Kühen, von denen zu jeder Zeit etwa 30 gemolken werden. Although the milk production has significantly decreased-down to a quarter of previous levels-the owner has been managed to maintain financial stability by reducing input costs associated with feed and medication, resulting in a marginally more profitable operation. The farm also generates additional income through accommodations and plans to diversify its products and create value-added products in the future."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Stuckney"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.monteverderoots.com/",
   "yt": "ueYirVMNhm4",
   "originalLang": "fr",
   "gallery": [],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Premium dairy milk sold to local cheese factory",
         "fr": "Lait premium vendu à une fromagerie locale",
@@ -62,7 +52,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic coffee and garden produce sold locally",
         "fr": "Café biologique et produits du jardin vendus localement",
@@ -71,7 +61,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Land access for long-term biodiversity studies",
         "fr": "Accès aux terres pour des études à long terme sur la biodiversité",
@@ -80,7 +70,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Farm visits for university students and researchers",
         "fr": "Visites de la ferme pour les étudiants universitaires et les chercheurs",
@@ -89,7 +79,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Farmers association for knowledge and market sharing",
         "fr": "Association d'agriculteurs pour le partage des connaissances et des marchés",
@@ -98,7 +88,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Carbon-negative regenerative model for other farmers",
         "fr": "Modèle régénératif à bilan carbone négatif pour d'autres agriculteurs",
@@ -109,7 +99,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Premium buyers valuing regenerative dairy products",
         "fr": "Acheteurs premium valorisant les produits laitiers régénératifs",
@@ -118,7 +108,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Farmers association for collective market access",
         "fr": "Association d'agriculteurs pour un accès collectif au marché",
@@ -127,7 +117,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Long-term biodiversity and climate change studies",
         "fr": "Études à long terme sur la biodiversité et le changement climatique",
@@ -136,7 +126,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Peer farms transitioning to regenerative practices",
         "fr": "Fermes homologues en transition vers des pratiques régénératives",
@@ -145,7 +135,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Regulatory reform favoring small regenerative farms",
         "fr": "Réforme réglementaire favorisant les petites fermes régénératives",
@@ -157,7 +147,7 @@
   "timeline": [
     {
       "date": "1957",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Finca Laguna Verde began operating as a conventional dairy farm in Monteverde, Costa Rica. The farm was purchased by Sarah Stuckey's family in 1980.",
         "fr": "La Finca Laguna Verde a commencé à fonctionner comme une ferme laitière conventionnelle à Monteverde, au Costa Rica. La ferme a été achetée par la famille de Sarah Stuckey en 1980.",
@@ -167,7 +157,7 @@
     },
     {
       "date": "2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Sarah Stuckey took over farm management and after one year under a conventional model, began transitioning to regenerative agriculture. This included eliminating chemical fertilizers, reducing grain inputs, and shifting to rotational grazing.",
         "fr": "Sarah Stuckey a pris en charge la gestion de la ferme et, après un an sous un modèle conventionnel, a commencé la transition vers l'agriculture régénératrice. Cela comprenait l'élimination des engrais chimiques, la réduction des intrants en céréales et le passage au pâturage tournant.",
@@ -177,7 +167,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Within approximately ten months of transition, dung beetles returned to the pastures and soil health began visibly improving. The farm enrolled in Costa Rica's NAMA carbon neutral certification program.",
         "fr": "En environ dix mois de transition, les bousiers sont revenus dans les pâturages et la santé des sols a commencé à s'améliorer visiblement. La ferme s'est inscrite au programme de certification carbone neutre NAMA du Costa Rica.",
@@ -187,7 +177,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The farm expanded from 60 to 160 smaller pastures based on drone mapping and carrying capacity calculations, and began diversifying into coffee, organic gardens, tilapia, rabbits, and fruit trees.",
         "fr": "La ferme s'est agrandie de 60 à 160 pâturages plus petits grâce à la cartographie par drone et aux calculs de capacité de charge, et a commencé à se diversifier dans le café, les jardins biologiques, le tilapia, les lapins et les arbres fruitiers.",
@@ -197,7 +187,7 @@
     },
     {
       "date": "2022",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Russia-Ukraine war caused fertilizer prices to rise 300% in Costa Rica, catalyzing broader community interest in regenerative practices and validating Stuckey's earlier decision to eliminate chemical inputs.",
         "fr": "La guerre Russie-Ukraine a provoqué une hausse de 300 % des prix des engrais au Costa Rica, suscitant un intérêt plus large de la communauté pour les pratiques régénératrices et validant la décision antérieure de Stuckey d'éliminer les intrants chimiques.",
@@ -207,7 +197,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm achieved carbon negative status, sequestering 302 tons more carbon than its cows emit. Sarah began forming a local farmers association to support peer learning and develop added-value markets.",
         "fr": "La ferme a atteint un statut carbone négatif, séquestrant 302 tonnes de carbone de plus que ce que ses vaches émettent. Sarah a commencé à former une association locale d'agriculteurs pour soutenir l'apprentissage entre pairs et développer des marchés à valeur ajoutée.",

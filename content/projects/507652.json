@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "philippines"
-  ],
+  "continent": ["asia"],
+  "country": ["philippines"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A natural aquaculture facility where fish farmers work with marine biologists to maintain balance across species in a 'sea-cological' system.",
     "de": "A natural aquaculture facility where fish farmers work with marine biologists to maintain balance across species in a 'sea-cological' system."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "Saravia, Negros Occidental",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Torno"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/7Hectares/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Kiko began experimenting with milkfish on an abandoned prawn pond property in the Philippines, marking the earliest roots of what would become 7 Hectares.",
         "fr": "Kiko a commencé à expérimenter avec le chanos sur une propriété de bassin à crevettes abandonné aux Philippines, marquant les premières racines de ce qui allait devenir 7 Hectares.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "A trip to Tuscany, Italy, where Kiko experienced a fully self-sustaining farm-to-table vineyard, inspired the vision for a sustainable aquaculture ecosystem back home.",
         "fr": "Un voyage en Toscane, en Italie, où Kiko a découvert un vignoble entièrement autonome de la ferme à la table, a inspiré la vision d'un écosystème aquacole durable dans son pays natal.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Kiko began actively developing the sea-cological ecosystem at 7 Hectares, starting with one species, sea bass, previously considered a pest, and gradually expanding to eight species.",
         "fr": "Kiko a commencé à développer activement l'écosystème sea-cologique de 7 Hectares, en débutant avec une seule espèce, le bar, auparavant considéré comme un nuisible, et en s'élargissant progressivement à huit espèces.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The Department of Agriculture declared Philippine ocean species approximately 95% depleted, and hatchery collapses deepened the challenge of sourcing stock for the farm.",
         "fr": "Le Département de l'Agriculture a déclaré que les espèces océaniques des Philippines étaient épuisées à environ 95 %, et l'effondrement des écloseries a aggravé la difficulté d'approvisionner la ferme en stock.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "UP Visayas, a leading marine university, declared 7 Hectares the first known self-healing aquaculture facility, validating its sea-cological ecosystem model.",
         "fr": "UP Visayas, une grande université marine, a déclaré 7 Hectares comme la première installation aquacole auto-régénératrice connue, validant ainsi son modèle d'écosystème sea-cologique.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Slow Fish International, under Slow Food, invited Kiko to help write the global guidelines for sustainable seafood, giving 7 Hectares an international platform.",
         "fr": "Slow Fish International, sous l'égide de Slow Food, a invité Kiko à contribuer à la rédaction des lignes directrices mondiales pour les fruits de mer durables, offrant à 7 Hectares une plateforme internationale.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model sustainable aquaculture farm for replication",
         "fr": "Modèle de ferme aquacole durable à reproduire",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Naturally fed seafood supply to restaurants",
         "fr": "Approvisionnement en fruits de mer nourris naturellement pour les restaurants",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Pond-to-table dining experiences on site",
         "fr": "Expériences gastronomiques de l'étang à la table sur place",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "First self-healing aquaculture facility studied",
         "fr": "Première installation aquacole auto-régénérante étudiée",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Net zero aquaculture with no external inputs",
         "fr": "Aquaculture zéro émission nette sans intrants externes",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Traceable seafood with QR code provenance",
         "fr": "Fruits de mer traçables avec provenance par code QR",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investors to scale up production volume",
         "fr": "Investisseurs pour augmenter le volume de production",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Chefs who can tell the farm's story",
         "fr": "Chefs qui peuvent raconter l'histoire de la ferme",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Restaurants needing consistent sustainable seafood supply",
         "fr": "Restaurants ayant besoin d'un approvisionnement durable et constant en fruits de mer",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Marine biologists to support species cultivation",
         "fr": "Biologistes marins pour soutenir l'élevage des espèces",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International collaborators to replicate farm model abroad",
         "fr": "Collaborateurs internationaux pour reproduire le modèle de ferme à l'étranger",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Hatchery establishment to restore depleted fish stocks",
         "fr": "Création d'un écloserie pour restaurer les stocks de poissons épuisés",

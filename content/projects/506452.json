@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Buen Socio is an ethical finance organization empowering entrepreneurs in rural Mexico through micro-credits and technical support.",
     "de": "El Buen Socio is an ethical finance organization empowering entrepreneurs in rural Mexico through micro-credits and technical support."
   },
-  "field": [
-    "economics-business"
-  ],
+  "field": ["economics-business"],
   "lang": "es",
   "location": "Mexico City",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Breceda Elenes"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.elbuensocio.com.mx/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2011-2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Buen Socio was founded by its leader, who began the initiative using her own personal savings to provide small loans after struggling to find partners or external support. The organization was built to provide financial education and ethical credit to rural and indigenous families and producers in Mexico.",
         "fr": "Buen Socio a été fondée par sa dirigeante, qui a lancé l'initiative en utilisant ses économies personnelles pour accorder de petits prêts après avoir eu du mal à trouver des partenaires ou un soutien externe. L'organisation a été créée pour fournir une éducation financière et un crédit éthique aux familles rurales et indigènes ainsi qu'aux producteurs au Mexique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "Early years",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The initiative faced significant early challenges as funders and allies did not understand its organizational model, often mistaking it for a traditional microfinance institution. The founder went without a salary during this period and an early team member left due to lack of income.",
         "fr": "L'initiative a fait face à des défis importants dans ses premières années, car les bailleurs de fonds et les alliés ne comprenaient pas son modèle organisationnel, le confondant souvent avec une institution de microfinance traditionnelle. La fondatrice n'a pas perçu de salaire durant cette période et un membre de l'équipe initiale est parti en raison du manque de revenus.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Early years",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Fundación Kellogg became an important early ally, not through financial donations at first, but by facilitating connections and alliances with other organizations operating in the territories where Buen Socio wanted to work.",
         "fr": "La Fundación Kellogg est devenue un allié précoce important, non pas par des dons financiers dans un premier temps, mais en facilitant des connexions et des alliances avec d'autres organisations opérant dans les territoires où Buen Socio souhaitait travailler.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Growth phase",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Buen Socio reached a turning point when it could demonstrate a track record of having mobilized up to 9 million Mexican pesos in credit, which attracted greater credibility and interest from funders and partners.",
         "fr": "Buen Socio a atteint un tournant décisif lorsqu'elle a pu démontrer un bilan ayant mobilisé jusqu'à 9 millions de pesos mexicains en crédit, ce qui a suscité une plus grande crédibilité et un intérêt accru de la part des bailleurs de fonds et des partenaires.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Present",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The organization now operates with a team of 10 to 15 people and receives donations from multiple funders including Fundación Kellogg, Fundación Merced, FETA, Setul, Carbon Trust, a US-based religious foundation, and individual Mexican philanthropists. The founder considers the initiative's continued survival after more than 12 years to be its greatest achievement.",
         "fr": "L'organisation fonctionne désormais avec une équipe de 10 à 15 personnes et reçoit des dons de plusieurs bailleurs de fonds, dont la Fundación Kellogg, la Fundación Merced, FETA, Setul, Carbon Trust, une fondation religieuse basée aux États-Unis et des philanthropes mexicains individuels. La fondatrice considère la survie continue de l'initiative après plus de 12 ans comme sa plus grande réussite.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Future",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Buen Socio aims to encourage productive diversification among the farmers it supports, moving away from monoculture toward biodiverse landscapes, while also strengthening local food systems and creating conditions that discourage rural migration.",
         "fr": "Buen Socio vise à encourager la diversification productive parmi les agriculteurs qu'elle soutient, en s'éloignant de la monoculture au profit de paysages biodiversifiés, tout en renforçant les systèmes alimentaires locaux et en créant des conditions qui découragent la migration rurale.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Financial education and health workshops for families",
         "fr": "Ateliers d'éducation financière et de santé pour les familles",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Low-interest credits for rural producers",
         "fr": "Crédits à faible taux d'intérêt pour les producteurs ruraux",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical support for productive projects",
         "fr": "Soutien technique pour les projets productifs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Consulting services for other organizations",
         "fr": "Services de conseil pour d'autres organisations",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Banking access and credit history building",
         "fr": "Accès aux services bancaires et constitution d'un historique de crédit",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Guidance on productive diversification and biodiversity",
         "fr": "Conseils sur la diversification productive et la biodiversité",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "More resources to strengthen producer families",
         "fr": "Plus de ressources pour renforcer les familles de producteurs",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Civil society organizations in rural territories",
         "fr": "Organisations de la société civile dans les territoires ruraux",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Data analysis and field research capacity",
         "fr": "Capacité d'analyse des données et de recherche sur le terrain",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Producers willing to diversify beyond monocultures",
         "fr": "Producteurs prêts à diversifier au-delà des monocultures",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Finance professionals committed to social projects",
         "fr": "Professionnels de la finance engagés dans des projets sociaux",

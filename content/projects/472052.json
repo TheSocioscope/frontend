@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1754676030,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La Familia Torres, Bodegas Torres, es una reconocida empresa familiar con más de 150 años de historia, dedicada a la producción y comercialización de vinos en múltiples países. Comprometida con la sostenibilidad, la bodega ha puesto en marcha iniciativas centradas en la agricultura regenerativa y la reducción de su huella medioambiental. La familia Torres participa activamente en la investigación y la colaboración con diversas instituciones para mejorar la biodiversidad y adaptarse al cambio climático, garantizando el legado de la producción de vino de calidad para las generaciones futuras.",
     "de": "The Familia Torres winery, Bodegas Torres, is a renowned family-owned business with over 150 years of history, dedicated to producing and marketing wines across multiple countries. Mit einem Bekenntnis zur Nachhaltigkeit hat die Winery Initiativen eingeführt, die sich auf regenerative Landwirtschaft und die Verringerung der Umweltbelastung konzentrieren. Die Familie Torres engagiert sich aktiv in der Forschung und arbeitet mit verschiedenen Institutionen zusammen, um die Biodiversität zu erhöhen und sich an den Klimawandel anzupassen und so das Erbe der Qualitätsweinproduktion für zukünftige Generationen zu sichern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": [
-    "culture-and-the-arts",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["culture-and-the-arts", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.torres.es/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1980s",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Under the current president Miguel Torres, sustainability became a core priority after watching Al Gore's climate change documentary. A dedicated department was established to study carbon emissions and reduce the environmental footprint of production.",
         "fr": "Sous la direction de l'actuel président Miguel Torres, la durabilité est devenue une priorité fondamentale après avoir regardé le documentaire sur le changement climatique d'Al Gore. Un département dédié a été créé pour étudier les émissions de carbone et réduire l'empreinte environnementale de la production.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Torres co-founded the Asociación de Viticultura Regenerativa alongside three other wineries: Jean León, Clos Mogador, and Huguet de Can Feixes. This group also launched the first two-year regenerative viticulture research project with IRTA.",
         "fr": "Torres a cofondé l'Asociación de Viticultura Regenerativa aux côtés de trois autres domaines viticoles : Jean León, Clos Mogador et Huguet de Can Feixes. Ce groupe a également lancé le premier projet de recherche en viticulture régénératrice sur deux ans avec l'IRTA.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "Early 2020s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Miguel Torres Jr. initiated the transition to regenerative viticulture after watching the Netflix documentary Kiss the Ground, convening staff across departments to begin implementing regenerative practices in two pilot estates in Penedès and Priorat.",
         "fr": "Miguel Torres Jr. a initié la transition vers la viticulture régénératrice après avoir regardé le documentaire Netflix Kiss the Ground, réunissant le personnel de différents départements pour commencer à mettre en œuvre des pratiques régénératrices dans deux domaines pilotes à Penedès et Priorat.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2020s",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Torres expanded regenerative viticulture to cover more than half of its Catalan vineyards, reducing input costs, and launched a four-year multi-site research project with additional wineries and scientific partners across Spain.",
         "fr": "Torres a étendu la viticulture régénératrice à plus de la moitié de ses vignobles catalans, réduisant les coûts d'intrants, et a lancé un projet de recherche multi-sites sur quatre ans avec d'autres domaines viticoles et des partenaires scientifiques à travers l'Espagne.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2020s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Torres helped create a dedicated regenerative viticulture certification standard, audited by external certifier Ecoser, establishing 'Transition' and 'Advanced Certified' tiers covering soil analytics, biodiversity, animal welfare, and labor rights.",
         "fr": "Torres a contribué à la création d'un standard de certification dédié à la viticulture régénératrice, audité par le certificateur externe Ecoser, établissant des niveaux « Transition » et « Certifié Avancé » couvrant l'analyse des sols, la biodiversité, le bien-être animal et les droits du travail.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Torres is pursuing a European-level research project with French and Portuguese wineries, and collaborating with universities including the Politécnica de Madrid, while the Asociación de Viticultura Regenerativa grows its international membership and annual symposium.",
         "fr": "Torres poursuit un projet de recherche à l'échelle européenne avec des domaines viticoles français et portugais, et collabore avec des universités dont la Politécnica de Madrid, tandis que l'Asociación de Viticultura Regenerativa développe ses adhésions internationales et son symposium annuel.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific studies on regenerative viticulture practices",
         "fr": "Études scientifiques sur les pratiques de viticulture régénérative",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Comparative trials regenerative vs conventional vineyards",
         "fr": "Essais comparatifs vignobles régénératifs vs conventionnels",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Founded regional regenerative viticulture association",
         "fr": "Fondation d'une association régionale de viticulture régénérative",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Annual symposium open to public and professionals",
         "fr": "Symposium annuel ouvert au public et aux professionnels",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Monthly webinars for association members",
         "fr": "Webinaires mensuels pour les membres de l'association",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Regenerative viticulture certification seal",
         "fr": "Label de certification en viticulture régénérative",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Long-term studies validating regenerative practices",
         "fr": "Études à long terme validant les pratiques régénératives",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Technology centers and university research collaborators",
         "fr": "Centres technologiques et collaborateurs universitaires en recherche",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "European-level project grants and subsidies",
         "fr": "Subventions et aides à des projets de niveau européen",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Wineries transitioning to regenerative viticulture",
         "fr": "Caves viticoles en transition vers la viticulture régénérative",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Engagement with denominaciones de origen governance",
         "fr": "Engagement auprès de la gouvernance des denominaciones de origen",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consumer communication for regenerative wine certification",
         "fr": "Communication aux consommateurs pour la certification des vins régénératifs",
@@ -257,9 +246,7 @@
     }
   ],
   "editedAt": 1771239373,
-  "updatedAt": [
-    1771239373
-  ],
+  "updatedAt": [1771239373],
   "feedback": [
     {
       "content": false,

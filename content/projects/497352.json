@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "peru"
-  ],
+  "continent": ["south-america"],
+  "country": ["peru"],
   "createdAt": 1755088966,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Santa Perucha es una empresa familiar, inspirada en los más de 30 años de experiencia de sus padres. Creada durante la pandemia, la marca se centra en la producción de carbón vegetal de alta calidad al tiempo que promueve oportunidades de empleo para las trabajadoras peruanas. Comprometida con la sostenibilidad, Santa Perucha utiliza los residuos de los aserraderos, garantizando prácticas respetuosas con el medio ambiente. La iniciativa pretende empoderar a las mujeres del sector y mejorar la calidad de vida de sus comunidades mediante prácticas empresariales responsables.",
     "de": "Santa Perucha ist ein Familienunternehmen, das von der über 30-jährigen Erfahrung ihrer Eltern inspiriert wurde. Die während der Pandemie gegründete Marke konzentriert sich auf die Herstellung hochwertiger Holzkohle und fördert gleichzeitig Beschäftigungsmöglichkeiten für hart arbeitende peruanische Frauen. Santa Perucha hat sich der Nachhaltigkeit verschrieben und verwendet Abfälle aus Sägewerken, um umweltfreundliche Praktiken zu gewährleisten. Die Initiative zielt darauf ab, Frauen in der Branche zu stärken und die Lebensqualität in ihren Gemeinden durch verantwortungsvolle Geschäftspraktiken zu verbessern."
   },
-  "field": [
-    "engineering-and-technology"
-  ],
+  "field": ["engineering-and-technology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,16 +40,14 @@
     "welfare-work-social-protection"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.instagram.com/carbonsantaperucha/",
   "yt": "HZiCSBs1OPk",
   "originalLang": "id",
   "timeline": [
     {
       "date": "30+ years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "María and her husband founded the original charcoal business under the name Santa Isabel, building over 30 years of industry experience and securing key clients like Las Canastas.",
         "fr": "María et son mari ont fondé l'entreprise de charbon de bois originale sous le nom de Santa Isabel, accumulant plus de 30 ans d'expérience dans le secteur et fidélisant des clients clés tels que Las Canastas.",
@@ -65,7 +57,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "During the pandemic, daughters Brisette and Mónica joined the family business and rebranded it as Santa Perucha after being unable to register the Santa Isabel trademark.",
         "fr": "Durant la pandémie, les filles Brisette et Mónica ont rejoint l'entreprise familiale et l'ont rebaptisée Santa Perucha après n'avoir pas pu enregistrer la marque Santa Isabel.",
@@ -75,7 +67,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Within the third month of the sisters joining, sales began growing rapidly; by the second year they opened a second warehouse in Ica, expanding beyond their original Lima plant.",
         "fr": "Dès le troisième mois suivant l'arrivée des sœurs, les ventes ont commencé à croître rapidement ; la deuxième année, elles ont ouvert un second entrepôt à Ica, s'étendant au-delà de leur usine d'origine à Lima.",
@@ -85,7 +77,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Santa Perucha launched its B2C retail product line with 3kg and 5kg packaging, entering supermarkets and minimarkets and winning the Cuna award in the Construyendo Juntos category.",
         "fr": "Santa Perucha a lancé sa gamme de produits B2C avec des emballages de 3 kg et 5 kg, faisant son entrée dans les supermarchés et les épiceries, et remportant le prix Cuna dans la catégorie Construyendo Juntos.",
@@ -95,7 +87,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The company secured the Cerfor sustainability certification, formed an alliance with the Federación Peruana de Fuegos y Parrillas, and won first place in the Intercorp Shark Tank competition under the Perú Pasión program.",
         "fr": "L'entreprise a obtenu la certification de durabilité Cerfor, formé une alliance avec la Federación Peruana de Fuegos y Parrillas, et remporté la première place au concours Intercorp Shark Tank dans le cadre du programme Perú Pasión.",
@@ -105,7 +97,7 @@
     },
     {
       "date": "2025",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Santa Perucha is actively pursuing B Corp certification and FSC forest certification, while planning to import a briquette machine from China and expand capacity to serve larger national and eventual international markets.",
         "fr": "Santa Perucha poursuit activement la certification B Corp et la certification forestière FSC, tout en prévoyant d'importer une machine à briquettes de Chine et d'augmenter sa capacité afin de servir de plus grands marchés nationaux et, à terme, internationaux.",
@@ -116,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Charcoal made from sawmill wood waste",
         "fr": "Charbon fabriqué à partir des déchets de scieries",
@@ -125,7 +117,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Charcoal supply to major rotisserie chains",
         "fr": "Approvisionnement en charbon pour les grandes chaînes de rôtisseries",
@@ -134,7 +126,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Packaged charcoal for retail and supermarkets",
         "fr": "Charbon emballé pour la vente au détail et les supermarchés",
@@ -143,7 +135,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Dignified employment for women workers",
         "fr": "Emploi digne pour les travailleuses",
@@ -152,7 +144,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Mentorship and business development workshops",
         "fr": "Ateliers de mentorat et de développement des affaires",
@@ -161,7 +153,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Sustainable forestry certification for clients",
         "fr": "Certification forestière durable pour les clients",
@@ -172,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand distribution across all Peru regions",
         "fr": "Étendre la distribution dans toutes les régions du Pérou",
@@ -181,7 +173,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government funds like Startup Peru grants",
         "fr": "Fonds gouvernementaux comme les subventions Startup Peru",
@@ -190,7 +182,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic allies in gastronomy and fire culture",
         "fr": "Alliés stratégiques dans la gastronomie et la culture du feu",
@@ -199,7 +191,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Retail and supermarket points of sale",
         "fr": "Points de vente en commerce de détail et supermarchés",
@@ -208,7 +200,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Reduce carbon footprint of charcoal production",
         "fr": "Réduire l'empreinte carbone de la production de charbon de bois",
@@ -217,7 +209,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Briquette machine import from China",
         "fr": "Importation de machines à briquettes depuis la Chine",

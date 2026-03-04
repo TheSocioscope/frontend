@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754475764,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa, Coope Tarrazu, fue fundada en 1960 por 228 pequeños productores de café para hacer frente a las injustas condiciones del mercado. Hoy cuenta con más de 4.500 miembros y procesa unos 250.000 quintales de café al año. Más allá del café, la cooperativa se ha diversificado en varios negocios, contribuyendo significativamente a la economía local. Se centra en prácticas sostenibles, apoyo a la comunidad y proyectos sociales, con el objetivo de mejorar la calidad de vida de sus miembros y promover la protección del medio ambiente.",
     "de": "Die Initiative, Coope Tarrazu, wurde 1960 von 228 kleinen Kaffeebauern gegründet, um unfairen Marktbedingungen entgegenzuwirken. Heute hat sie über 4.500 Mitglieder und verarbeitet jährlich etwa 250.000 Doppelzentner Kaffee. Neben dem Kaffee hat sich die Genossenschaft in verschiedene Unternehmen diversifiziert und leistet damit einen wichtigen Beitrag zur lokalen Wirtschaft. Sie konzentriert sich auf nachhaltige Praktiken, Unterstützung der Gemeinschaft und soziale Projekte, um die Lebensqualität ihrer Mitglieder zu verbessern und das Umweltmanagement zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Porras"
     }
   ],
-  "thematic": [
-    "equality-diversity-studies-and-social-justice",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["equality-diversity-studies-and-social-justice", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://coopetarrazu.com/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1960",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Copetarrazú was founded in October 1960 by 228 small coffee producers in the Los Santos region of Costa Rica. They united to gain fair market conditions, industrial ownership, and better prices for their coffee.",
         "fr": "Copetarrazú a été fondée en octobre 1960 par 228 petits producteurs de café dans la région de Los Santos, au Costa Rica. Ils se sont unis pour obtenir des conditions de marché équitables, la propriété industrielle et de meilleurs prix pour leur café.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "1960s",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Banco Nacional de Costa Rica provided the initial credit to purchase the processing facility and supported the cooperative movement through its office for cooperative development. Copevictoria, the first cooperative in Costa Rica, served as a reference model.",
         "fr": "La Banco Nacional de Costa Rica a fourni le crédit initial pour l'achat de l'installation de transformation et a soutenu le mouvement coopératif par l'intermédiaire de son bureau pour le développement coopératif. Copevictoria, la première coopérative du Costa Rica, a servi de modèle de référence.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "post-1960s",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The cooperative faced the coffee leaf rust crisis (roya), which caused significant production losses and forced a transformation of agricultural practices. Water consumption in processing was also reduced from 3,000 liters per quintal to approximately 150 liters.",
         "fr": "La coopérative a fait face à la crise de la rouille du caféier (roya), qui a causé des pertes de production significatives et a imposé une transformation des pratiques agricoles. La consommation d'eau lors du traitement a également été réduite de 3 000 litres par quintal à environ 150 litres.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "recent decades",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Copetarrazú launched its Center for Organic Alternatives (SEDAO), developing biological inputs using specialized microorganisms to reduce chemical use. They became the first cooperative in Costa Rica to receive environmental labeling for their coffee.",
         "fr": "Copetarrazú a lancé son Centre pour les Alternatives Biologiques (SEDAO), développant des intrants biologiques à base de micro-organismes spécialisés afin de réduire l'utilisation de produits chimiques. Elle est devenue la première coopérative au Costa Rica à recevoir un label environnemental pour son café.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "recent",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Copetarrazú became the first cooperative in the world to complete a deforestation-free export under the European Green Deal regulations, and was published as a global case study. The cooperative grew to over 4,500 associates and processes approximately 250,000 quintals of coffee per harvest.",
         "fr": "Copetarrazú est devenue la première coopérative au monde à réaliser une exportation sans déforestation dans le cadre des réglementations du Pacte vert européen, et a été publiée en tant qu'étude de cas mondiale. La coopérative a grandi pour dépasser 4 500 associés et traite environ 250 000 quintaux de café par récolte.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cooperative operates 15 commercial businesses including supermarkets, hardware stores, and a coffee roaster, with these ventures representing 45% of total income. Future plans focus on value-added products such as cosmetics, nutraceuticals, and energy generation from coffee byproducts.",
         "fr": "La coopérative exploite 15 commerces incluant des supermarchés, des quincailleries et un torréfacteur de café, ces activités représentant 45 % du revenu total. Les projets futurs se concentrent sur des produits à valeur ajoutée tels que les cosmétiques, les nutraceutiques et la production d'énergie à partir des sous-produits du café.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Fair coffee marketing and export services",
         "fr": "Services équitables de commercialisation et d'exportation du café",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical assistance and agronomic advisory for producers",
         "fr": "Assistance technique et conseil agronomique aux producteurs",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Credit and financing access for associated farmers",
         "fr": "Accès au crédit et au financement pour les agriculteurs associés",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biological inputs and organic alternatives development",
         "fr": "Développement d'intrants biologiques et d'alternatives organiques",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Coffee byproduct composting returned to farms",
         "fr": "Compostage des sous-produits du café restitué aux exploitations",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Social programs for sports and cultural groups",
         "fr": "Programmes sociaux pour les groupes sportifs et culturels",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New export markets for roasted coffee",
         "fr": "Nouveaux marchés d'exportation pour le café torréfié",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop value-added coffee byproducts",
         "fr": "Développer des sous-produits du café à valeur ajoutée",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Engage younger generations in coffee farming",
         "fr": "Impliquer les jeunes générations dans la culture du café",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaboration with universities for innovation",
         "fr": "Collaboration avec les universités pour l'innovation",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Scale circular economy and bioeconomy models",
         "fr": "Développer les modèles d'économie circulaire et de bioéconomie",

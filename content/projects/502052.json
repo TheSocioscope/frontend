@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "SAN is an international organization headquartered in Costa Rica developing standards and certification systems for sustainable agricultural practices.",
     "de": "SAN is an international organization headquartered in Costa Rica developing standards and certification systems for sustainable agricultural practices."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.sustainableagriculture.eco/",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "Early 1990s",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The Sustainable Agriculture Network (SAN) was established as the origin of the Rainforest Alliance certification system, forming a network of 11 member organizations all working in certification across the Americas, Europe, and Africa.",
         "fr": "Le Réseau pour l'Agriculture Durable (SAN) a été créé en tant qu'origine du système de certification Rainforest Alliance, formant un réseau de 11 organisations membres travaillant toutes dans la certification à travers les Amériques, l'Europe et l'Afrique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Rainforest Alliance merged with UTZ, the two largest agricultural certification systems in the world, leading to a major restructuring of SAN and the departure of its former CEO.",
         "fr": "Rainforest Alliance a fusionné avec UTZ, les deux plus grands systèmes de certification agricole au monde, entraînant une restructuration majeure du SAN et le départ de son ancien PDG.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Jose Campos joined as CEO, shifting SAN's business model from certification-based revenue toward a broader network mission of transforming agriculture to be sustainable and equitable, starting with 11 members.",
         "fr": "Jose Campos a rejoint l'organisation en tant que PDG, faisant évoluer le modèle économique du SAN d'un revenu basé sur la certification vers une mission de réseau plus large visant à transformer l'agriculture pour la rendre durable et équitable, en commençant avec 11 membres.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2019-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "SAN grew from 11 to 34 members covering approximately 120 countries, with secretariat revenues increasing approximately tenfold, driven largely by a major corporate partnership that grew from $100,000 to over $7 million annually.",
         "fr": "Le SAN est passé de 11 à 34 membres couvrant environ 120 pays, avec des revenus du secrétariat multipliés par environ dix, portés en grande partie par un partenariat majeur avec une entreprise qui est passé de 100 000 $ à plus de 7 millions de dollars par an.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The closure of USAID and European donors redirecting funds toward defense budgets significantly reduced available grant funding, forcing SAN to accelerate its transition toward corporate and private sector funding sources.",
         "fr": "La fermeture de l'USAID et la réorientation des fonds des donateurs européens vers les budgets de défense ont considérablement réduit les financements sous forme de subventions disponibles, forçant le SAN à accélérer sa transition vers des sources de financement corporatives et du secteur privé.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "SAN piloted a collaboration token system to replace monetary membership fees and expanded to 38 members, while planning a major technical conference and general assembly in São Paulo, Brazil for 2026.",
         "fr": "Le SAN a expérimenté un système de jetons de collaboration pour remplacer les cotisations d'adhésion monétaires et s'est élargi à 38 membres, tout en planifiant une grande conférence technique et une assemblée générale à São Paulo, au Brésil, pour 2026.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Global network connecting 34+ member organizations",
         "fr": "Réseau mondial connectant plus de 34 organisations membres",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical assistance and capacity building for farmers",
         "fr": "Assistance technique et renforcement des capacités pour les agriculteurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge management system for sharing tools and methodologies",
         "fr": "Système de gestion des connaissances pour le partage d'outils et de méthodologies",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Collaborative leadership development and training",
         "fr": "Développement du leadership collaboratif et formation",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Facilitation of funding streams to implementing members",
         "fr": "Facilitation des flux de financement vers les membres exécutants",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Community monitoring and assurance systems for local data",
         "fr": "Systèmes de surveillance communautaire et d'assurance pour les données locales",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "New members especially in Africa and Asia",
         "fr": "Nouveaux membres notamment en Afrique et en Asie",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Corporate and private sector funding sources",
         "fr": "Sources de financement des entreprises et du secteur privé",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial institutions for sustainable agriculture finance",
         "fr": "Institutions financières pour le financement de l'agriculture durable",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Organizations committed to transforming agriculture",
         "fr": "Organisations engagées dans la transformation de l'agriculture",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Value chain partnerships for regenerative products",
         "fr": "Partenariats de chaîne de valeur pour les produits régénératifs",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Monitoring and evaluation data to demonstrate impact",
         "fr": "Données de suivi et d'évaluation pour démontrer l'impact",

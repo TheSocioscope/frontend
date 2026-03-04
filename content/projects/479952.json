@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "asia"
-  ],
-  "country": [
-    "armenia"
-  ],
+  "continent": ["asia"],
+  "country": ["armenia"],
   "createdAt": 1754656697,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Alluria Wines comenzó como un apreciado pasatiempo familiar en Armenia y pasó a la producción comercial de vino. Haciendo hincapié en la elaboración natural, Aluria produce vinos de alta calidad a partir de variedades de uva locales. El objetivo de la bodega es dar a conocer el patrimonio vinícola armenio manteniendo un enfoque de boutique y limitando la producción para preservar la calidad. Alluria también ofrece visitas enológicas y gestiona un restaurante que destaca la cocina centrada en la uva, fomentando una profunda conexión con sus raíces y promoviendo el vino armenio a escala mundial.",
     "de": "Alluria Wines begann als geliebtes Familienhobby in Armenien und ging dann zur kommerziellen Weinherstellung über. Aluria legt den Schwerpunkt auf eine natürliche Weinherstellung und produziert hochwertige Weine aus lokalen Rebsorten. Das Weingut möchte das armenische Weinbauerbe präsentieren und gleichzeitig einen Boutique-Ansatz verfolgen, indem es die Produktion begrenzt, um die Qualität zu erhalten. Alluria bietet auch Weintouren an und betreibt ein Restaurant, in dem die Traubenküche im Mittelpunkt steht, um die tiefe Verbundenheit mit den eigenen Wurzeln zu fördern und den armenischen Wein auf globaler Ebene bekannt zu machen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Sánchez Cedillo"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "leisure-tourism"
-  ],
+  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://alluria.wine/",
   "yt": "AEmVXE-a1fo",
   "originalLang": "et",
   "timeline": [
     {
       "date": "2013",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Samvel Machanyan gave two bottles of family wine to a professional sommelier in Armenia to evaluate quality. Her positive feedback sparked the idea of sharing their wine beyond the family circle.",
         "fr": "Samvel Machanyan a remis deux bouteilles de vin familial à une sommelière professionnelle en Arménie pour en évaluer la qualité. Ses retours positifs ont fait naître l'idée de partager leur vin au-delà du cercle familial.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "On December 2nd, Aluria wine was officially presented to the public, named after the river Aluria near the family's ancestral village of Alur in present-day Turkey.",
         "fr": "Le 2 décembre, le vin Aluria a été officiellement présenté au public, nommé d'après la rivière Aluria, près du village ancestral de la famille, Alur, situé dans la Turquie actuelle.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2017",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Samvel left his banking career on July 1st to dedicate himself fully to winemaking, and the family began planting new vineyards, starting with 2 hectares and eventually reaching 7-8 hectares.",
         "fr": "Samvel a quitté sa carrière bancaire le 1er juillet pour se consacrer entièrement à la vinification, et la famille a commencé à planter de nouveaux vignobles, débutant avec 2 hectares pour atteindre finalement 7 à 8 hectares.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2017",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The family launched wine tourism and hospitality services, which became the primary revenue stream, eventually accounting for approximately 80% of total income.",
         "fr": "La famille a lancé des services d'œnotourisme et d'hospitalité, qui sont devenus la principale source de revenus, représentant finalement environ 80 % du revenu total.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2016-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Aluria expanded from winemaking into a grape-centric ecosystem producing grape seed oil, vinegar, aged balsamic, distillates, and opened a restaurant where every dish contains grape in some form.",
         "fr": "Aluria s'est développée au-delà de la vinification pour former un écosystème centré sur le raisin, produisant de l'huile de pépins de raisin, du vinaigre, du balsamique vieilli, des distillats, et a ouvert un restaurant où chaque plat contient du raisin sous une forme ou une autre.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The family began restructuring from two companies into a group with one parent holding company overseeing four subsidiaries covering raw materials, production, tourism, and restaurant operations.",
         "fr": "La famille a entrepris une restructuration, passant de deux sociétés à un groupe composé d'une société mère chapeautant quatre filiales couvrant les matières premières, la production, le tourisme et la restauration.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Natural wine from local Armenian grape varieties",
         "fr": "Vin naturel issu de cépages arméniens locaux",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Grape-based products: oil, vinegar, distillate",
         "fr": "Produits à base de raisin : huile, vinaigre, distillat",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Armenian-style restaurant with grape-focused menu",
         "fr": "Restaurant de style arménien avec menu axé sur le raisin",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Wine exports to hotels and specialty wine boutiques",
         "fr": "Exportation de vins vers des hôtels et des boutiques spécialisées",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Wine tours on vineyard grounds",
         "fr": "Visites œnotouristiques sur le domaine viticole",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Events and celebrations hosted on-site",
         "fr": "Événements et célébrations organisés sur place",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Distributors in hotels, restaurants, wine boutiques",
         "fr": "Distributeurs dans les hôtels, restaurants, boutiques de vins",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand Armenian wine presence globally",
         "fr": "Développer la présence du vin arménien à l'échelle mondiale",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Membership in state winery development fund",
         "fr": "Adhésion au fonds de développement des caves viticoles d'État",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Network via Armenian business club worldwide",
         "fr": "Réseau via le club d'affaires arménien dans le monde entier",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Popularize Armenian autochthonous grape varieties",
         "fr": "Populariser les cépages autochtones arméniens",

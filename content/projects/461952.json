@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754564861,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa pretende crear un sistema alimentario sostenible en Copenhague conectando directamente a los agricultores locales con los consumidores. Inspirada en las experiencias de la panadería Lille y el mercado Grandmago, la iniciativa ha creado una tienda sin ánimo de lucro que da prioridad a los productos frescos y ecológicos procedentes de pequeñas explotaciones. El proyecto pretende educar a la comunidad sobre la importancia de apoyar la agricultura local y, al mismo tiempo, poner al alcance de todos alimentos de alta calidad cultivados de forma sostenible, fomentando el sentido de comunidad y la responsabilidad medioambiental.",
     "de": "Die Initiative zielt auf die Schaffung eines nachhaltigen Lebensmittelsystems in Kopenhagen ab, indem sie lokale Bauern direkt mit den Verbrauchern verbindet. Inspiriert von den Erfahrungen in der Lille Bakery und dem Grandmago-Markt, gründete die Initiative einen gemeinnützigen Laden, der frische, organische Produkte von kleinen Bauernhöfen bevorzugt. Das Projekt will die Gemeinde darüber aufklären, wie wichtig es ist, die lokale Landwirtschaft zu unterstützen und gleichzeitig hochwertige, nachhaltig produzierte Lebensmittel für jedermann zugänglich zu machen, wodurch ein Gefühl von Gemeinschaft und Umweltverantwortung entsteht."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Ravn"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.gronnebonner.dk",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~60 years ago",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Denmark had approximately 100,000 farms, which declined to around 6,000 today as farms consolidated or closed due to competition from large-scale and foreign agricultural firms.",
         "fr": "Le Danemark comptait environ 100 000 fermes, un chiffre qui a diminué à environ 6 000 aujourd'hui, les exploitations s'étant regroupées ou fermées en raison de la concurrence des grandes entreprises agricoles nationales et étrangères.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "~2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Grandmarked, a Sunday farmers market in Copenhagen, was established approximately four to five years before the interview, becoming a key inspiration for Otto's project by connecting city residents directly with local farmers.",
         "fr": "Grandmarked, un marché fermier dominical à Copenhague, a été créé environ quatre à cinq ans avant l'entretien, devenant une source d'inspiration majeure pour le projet d'Otto en mettant directement en relation les habitants de la ville avec les agriculteurs locaux.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "~2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Otto began working at Lille Bakery roughly five years before the interview, where he discovered local organic produce and built direct relationships with small regenerative farmers around Copenhagen.",
         "fr": "Otto a commencé à travailler à la Lille Bakery environ cinq ans avant l'entretien, où il a découvert des produits biologiques locaux et noué des relations directes avec de petits agriculteurs régénératifs autour de Copenhague.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "January 2024",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Otto received the keys to two shipping containers and began a six-month renovation to create Grønner Bonner, borrowing startup funds from his grandmother and brother.",
         "fr": "Otto a reçu les clés de deux conteneurs maritimes et a entamé une rénovation de six mois pour créer Grønner Bonner, en empruntant les fonds de démarrage à sa grand-mère et à son frère.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "July 8, 2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Grønner Bonner officially opened as a non-profit vegetable shop where farmers sell directly to customers and retain all sales revenue, funded separately through monthly public donations.",
         "fr": "Grønner Bonner a officiellement ouvert ses portes en tant qu'épicerie de légumes à but non lucratif, où les agriculteurs vendent directement aux clients et conservent l'intégralité des recettes, le financement étant assuré séparément par des dons publics mensuels.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "May 2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The shop reopened for its second season after closing through winter, with a growing donor base, a part-time paid staff member, and twice as many farms participating compared to opening.",
         "fr": "La boutique a rouvert pour sa deuxième saison après une fermeture hivernale, avec une base de donateurs en croissance, un membre du personnel rémunéré à temps partiel, et deux fois plus de fermes participantes qu'à l'ouverture.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct farm-to-consumer vegetable sales daily",
         "fr": "Vente directe de légumes de la ferme au consommateur chaque jour",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Local regenerative farm produce access",
         "fr": "Accès aux produits de fermes locales régénératives",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free Saturday community lunches from leftovers",
         "fr": "Déjeuners communautaires gratuits le samedi à partir des invendus",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Weekly talks and workshops on regenerative farming",
         "fr": "Conférences et ateliers hebdomadaires sur l'agriculture régénérative",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Leftover produce redistribution to minimize waste",
         "fr": "Redistribution des invendus pour minimiser le gaspillage",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Test space proving sustainable food retail viability",
         "fr": "Espace test prouvant la viabilité d'un commerce alimentaire durable",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Monthly donations from Copenhagen residents",
         "fr": "Dons mensuels des habitants de Copenhague",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for daily operational costs",
         "fr": "Subventions pour les coûts opérationnels quotidiens",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "More small regenerative farms to supply",
         "fr": "Plus de petites fermes régénératives pour s'approvisionner",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Passionate people to help run the shop",
         "fr": "Des personnes passionnées pour aider à gérer la boutique",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Young climate-conscious people buying local",
         "fr": "Des jeunes sensibles au climat qui achètent local",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Commune support to replicate model citywide",
         "fr": "Soutien de la commune pour reproduire le modèle à l'échelle de la ville",

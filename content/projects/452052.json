@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1754421709,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa se centra en la denominación de origen de la cabra criolla del norte de Neuquén (Argentina). Este proyecto pretende valorizar la producción caprina local, mejorar las estrategias de comercialización y preservar las prácticas tradicionales de cría. Establecido en 2010, implica la colaboración entre los criadores locales, el Instituto Nacional de Tecnología Agropecuaria y las autoridades regionales. La iniciativa pretende promover las cualidades únicas de la cabra criolla, garantizando al mismo tiempo métodos de producción sostenibles y fomentando la identidad de la comunidad.",
     "de": "Die Initiative konzentriert sich auf die Herkunftsbezeichnung für die Criollo-Ziege aus Nord-Neuquén, Argentinien. Ziel des Projekts ist es, den Wert der lokalen Ziegenproduktion zu steigern, die Marketingstrategien zu verbessern und traditionelle Zuchtverfahren zu erhalten. Das Projekt wurde 2010 ins Leben gerufen und umfasst die Zusammenarbeit zwischen lokalen Züchtern, dem National Institute of Agricultural Technology und regionalen Behörden. Die Initiative zielt darauf ab, die einzigartigen Eigenschaften der Criollo-Ziege zu fördern und gleichzeitig nachhaltige Produktionsmethoden zu gewährleisten und die Identität der Gemeinschaft zu stärken."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Barrientos"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "pre-2004",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Families in northern Neuquén have practiced goat herding for generations using traditional transhumance between summer and winter pastures. The criollo goat breed developed over centuries through this ancestral production system.",
         "fr": "Les familles du nord du Neuquén pratiquent l'élevage caprin depuis des générations selon une transhumance traditionnelle entre pâturages d'été et d'hiver. La race caprine criollo s'est développée au fil des siècles grâce à ce système de production ancestral.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2004-2005",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Work formally began to valorize local chivito production and improve commercialization. Producers, families, INTA, and other institutions began collaborating to define quality protocols and pursue a denomination of origin.",
         "fr": "Des travaux ont officiellement débuté pour valoriser la production locale de chivito et améliorer sa commercialisation. Les producteurs, les familles, l'INTA et d'autres institutions ont commencé à collaborer pour définir des protocoles de qualité et obtenir une appellation d'origine.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2007-2008",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Consejo Regulador of the Denominación de Origen was formally structured, with founding members including Graciela Moya as secretary. The denomination of origin seal was obtained, becoming one of the first food DOPs nationally recognized in Argentina.",
         "fr": "Le Consejo Regulador de la Denominación de Origen a été formellement structuré, avec parmi ses membres fondateurs Graciela Moya en tant que secrétaire. Le label d'appellation d'origine a été obtenu, devenant l'une des premières DOP alimentaires reconnues au niveau national en Argentine.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Denominación de Origen Chivito Criollo del Norte Neuquino achieved official national recognition under Argentine law regulating denominations of origin and geographical indications.",
         "fr": "La Denominación de Origen Chivito Criollo del Norte Neuquino a obtenu une reconnaissance nationale officielle en vertu de la loi argentine réglementant les appellations d'origine et les indications géographiques.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2014-2015",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The denomination entered a period of decline due to lack of state support and volunteer burnout. Members could no longer sustain operations without institutional backing, and active use of the seal dropped significantly.",
         "fr": "L'appellation est entrée dans une période de déclin en raison du manque de soutien de l'État et de l'épuisement des bénévoles. Les membres ne pouvaient plus maintenir les activités sans appui institutionnel, et l'utilisation active du label a considérablement diminué.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2022",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Province of Neuquén relaunched its support, funding administrative renewal of the association's legal paperwork. CORDEC joined as a commercial partner, and for the first time the DO began generating its own revenue through certified chivito sales.",
         "fr": "La province du Neuquén a relancé son soutien en finançant le renouvellement administratif des documents juridiques de l'association. CORDEC a rejoint l'initiative en tant que partenaire commercial, et pour la première fois, l'appellation d'origine a commencé à générer ses propres revenus grâce aux ventes de chivito certifié.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Certified quality seal for criollo goat meat",
         "fr": "Label de qualité certifié pour la viande de chèvre criollo",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Collective organization for goat farming families",
         "fr": "Organisation collective pour les familles d'éleveurs de chèvres",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Traditional transhumance production system preserved",
         "fr": "Système de production de transhumance traditionnelle préservé",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Technical support from INTA for producers",
         "fr": "Soutien technique de l'INTA aux producteurs",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to formal commercial distribution channels",
         "fr": "Accès aux circuits de distribution commerciale formels",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "FAO-recognized breed identification and protocol",
         "fr": "Identification de race et protocole reconnus par la FAO",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to more demanding markets for certified chivito",
         "fr": "Accès à des marchés plus exigeants pour le chivito certifié",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Provincial quality incentive bonus for certified producers",
         "fr": "Prime provinciale d'incitation à la qualité pour les producteurs certifiés",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More producers joining and using the DO seal",
         "fr": "Plus de producteurs adhérant et utilisant le sceau DO",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Institutional support from province and INTA",
         "fr": "Soutien institutionnel de la province et de l'INTA",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Legal land tenure for criancero families",
         "fr": "Régularisation foncière pour les familles de crianceros",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Modernize traditional goat farming practices",
         "fr": "Moderniser les pratiques traditionnelles d'élevage caprin",
@@ -257,9 +247,7 @@
     }
   ],
   "editedAt": 1771238895,
-  "updatedAt": [
-    1771238895
-  ],
+  "updatedAt": [1771238895],
   "feedback": [
     {
       "content": false,

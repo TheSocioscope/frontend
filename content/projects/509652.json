@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "africa"
-  ],
-  "country": [
-    "south-africa"
-  ],
+  "continent": ["africa"],
+  "country": ["south-africa"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Eric Xolani Memani's pig farm supplying pork to local businesses, demonstrating small-scale livestock farming for food security.",
     "de": "Eric Xolani Memani's pig farm supplying pork to local businesses, demonstrating small-scale livestock farming for food security."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "Zwelethemba",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Memani"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Eric founded Langalinya Mixed Farming, initially combining vegetable growing, piggery, and animal farming driven by a passion for agriculture and economic resilience.",
         "fr": "Eric a fondé Langalinya Mixed Farming, combinant initialement la culture maraîchère, l'élevage porcin et l'élevage animal, motivé par une passion pour l'agriculture et la résilience économique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "An African Swine Flu pandemic forced a six-month quarantine, halting pig farming operations and resulting in approximately 30 pigs dying within 20 days.",
         "fr": "Une pandémie de peste porcine africaine a imposé une quarantaine de six mois, interrompant les activités d'élevage porcin et entraînant la mort d'environ 30 cochons en 20 jours.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Following advice from a contact named Zanzi, Eric diversified into broiler chickens as a practical alternative while piggery operations recovered, completing a formal training course in the process.",
         "fr": "Suite aux conseils d'un contact nommé Zanzi, Eric s'est diversifié dans l'élevage de poulets de chair comme alternative pratique pendant la reprise des activités porcines, en suivant au passage une formation formelle.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "After losing his formal job, Eric used UIF and pension fund payouts to construct improved farm infrastructure, including farrowing crates costing 28,000 rand, professionalizing his piggery operations.",
         "fr": "Après avoir perdu son emploi formel, Eric a utilisé les versements de l'UIF et du fonds de pension pour construire une infrastructure agricole améliorée, incluant des cages de mise bas coûtant 28 000 rands, professionnalisant ainsi ses activités porcines.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Eric hired two permanent workers to manage daily cleaning, feeding, and animal monitoring, while he continued working a formal job during weekdays and overseeing farm operations on weekends.",
         "fr": "Eric a embauché deux travailleurs permanents pour gérer le nettoyage quotidien, l'alimentation et la surveillance des animaux, tout en continuant à occuper un emploi formel en semaine et en supervisant les opérations de la ferme le week-end.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Eric began supplying live pigs and processed pork to local vendors and buy-and-sell shops in Zwelitemba's CBD, establishing consistent revenue streams while planning future expansion into sheep and goat farming.",
         "fr": "Eric a commencé à approvisionner des vendeurs locaux et des commerces d'achat-revente du centre-ville de Zwelitemba en porcs vivants et en porc transformé, établissant des sources de revenus régulières tout en planifiant une future expansion vers l'élevage de moutons et de chèvres.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable pork supply to local community",
         "fr": "Approvisionnement en porc abordable pour la communauté locale",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Live and processed pork sales to vendors",
         "fr": "Vente de porc vivant et transformé aux vendeurs",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Flexible credit-based sales to households",
         "fr": "Ventes à crédit flexibles aux ménages",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Pig farming knowledge shared freely",
         "fr": "Connaissances en élevage porcin partagées librement",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Guidance to aspiring township farmers",
         "fr": "Accompagnement des agriculteurs urbains en herbe",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Model of informal urban livestock farming",
         "fr": "Modèle d'élevage urbain informel de bétail",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Government funding accessible to informal farmers",
         "fr": "Financement gouvernemental accessible aux agriculteurs informels",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Land ownership or long-term lease rights",
         "fr": "Droits de propriété foncière ou de bail à long terme",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Larger markets beyond local township",
         "fr": "Marchés plus larges au-delà du canton local",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Reliable buyers for live pigs and pork",
         "fr": "Acheteurs fiables pour les porcs vivants et la viande de porc",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Agricultural training and farming knowledge",
         "fr": "Formation agricole et connaissances en matière d'élevage",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Technology like artificial insemination adoption",
         "fr": "Adoption de technologies telles que l'insémination artificielle",

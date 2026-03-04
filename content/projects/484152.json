@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754912516,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa L'Ecole Comestible (La Escuela Comestible), fundada en 2019, tiene como objetivo educar a los niños sobre prácticas alimentarias sostenibles. Al ofrecer talleres que conectan a los niños con la naturaleza y sus sentidos, el programa promueve mejores hábitos alimenticios y anima a las familias a elegir alimentos más saludables. Operando en siete regiones de Francia, la iniciativa colabora con profesores, autoridades locales y empresas comprometidas para crear programas educativos impactantes que fomenten una comprensión más profunda del papel de los alimentos en la salud y el medio ambiente.",
     "de": "Die 2019 ins Leben gerufene Initiative L'Ecole Comestible (Die essbare Schule) hat zum Ziel, Kinder über nachhaltige Ernährungspraktiken aufzuklären. Durch Workshops, die Kinder mit der Natur und ihren Sinnen in Kontakt bringen, fördert das Programm bessere Essgewohnheiten und ermutigt Familien zu einer gesünderen Lebensmittelauswahl. In sieben Regionen Frankreichs arbeitet die Initiative mit Lehrern, lokalen Behörden und engagierten Unternehmen zusammen, um wirkungsvolle Bildungsprogramme zu entwickeln, die ein tieferes Verständnis der Rolle von Lebensmitteln für Gesundheit und Umwelt fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -54,21 +48,16 @@
       "lastname": ""
     }
   ],
-  "thematic": [
-    "education",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["education", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.ecolecomestible.org/",
   "yt": "PKHUiIuiaHY",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1995",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Alice Waters founded the Edible Schoolyard in Berkeley, California, which directly inspired the creation of L'École Comestible. Camille Labrault has personal ties to Alice Waters, whom she describes as her godmother.",
         "fr": "Alice Waters a fondé l'Edible Schoolyard à Berkeley, en Californie, qui a directement inspiré la création de L'École Comestible. Camille Labrault entretient des liens personnels avec Alice Waters, qu'elle décrit comme sa marraine.",
@@ -78,7 +67,7 @@
     },
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Camille Labrault, a culinary journalist, founded L'École Comestible as a non-profit association. Its mission is to educate children about healthy, sustainable, and flavorful food through hands-on workshops in public schools.",
         "fr": "Camille Labrault, journaliste culinaire, a fondé L'École Comestible en tant qu'association à but non lucratif. Sa mission est d'éduquer les enfants à une alimentation saine, durable et savoureuse à travers des ateliers pratiques dans les écoles publiques.",
@@ -88,7 +77,7 @@
     },
     {
       "date": "2019-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The association expanded to seven regions across France, operating in approximately 50 schools in Île-de-France alone and additional schools in Aix-Marseille, Bourgogne, Nantes, Rennes, Lille, and Toulouse.",
         "fr": "L'association s'est développée dans sept régions de France, intervenant dans environ 50 écoles en Île-de-France ainsi que dans des écoles supplémentaires à Aix-Marseille, en Bourgogne, à Nantes, Rennes, Lille et Toulouse.",
@@ -98,7 +87,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization grew to a team of 8 salaried employees, roughly 50 service contractors, and approximately 200 active volunteers delivering workshops and training programs.",
         "fr": "L'organisation a grandi pour former une équipe de 8 salariés, d'environ 50 prestataires de services, et d'approximativement 200 bénévoles actifs assurant des ateliers et des programmes de formation.",
@@ -108,7 +97,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "L'École Comestible entered discussions with UNESCO about internationally distributing one of its educational tools, potentially under a UNESCO label.",
         "fr": "L'École Comestible a engagé des discussions avec l'UNESCO concernant la diffusion internationale de l'un de ses outils pédagogiques, potentiellement sous un label UNESCO.",
@@ -119,7 +108,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Workshops teaching children sustainable food habits",
         "fr": "Ateliers apprenant aux enfants les habitudes alimentaires durables",
@@ -128,7 +117,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training programs for teachers and educators",
         "fr": "Programmes de formation pour les enseignants et les éducateurs",
@@ -137,7 +126,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Farm visits connecting children to producers",
         "fr": "Visites de fermes reliant les enfants aux producteurs",
@@ -146,7 +135,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Volunteer network supporting school food ateliers",
         "fr": "Réseau de bénévoles soutenant les ateliers alimentaires scolaires",
@@ -155,7 +144,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Educational kits and pedagogical resource materials",
         "fr": "Kits pédagogiques et matériels de ressources didactiques",
@@ -164,7 +153,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Anti-food waste cooking workshops for children",
         "fr": "Ateliers de cuisine anti-gaspillage alimentaire pour les enfants",
@@ -175,7 +164,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Large private donors or foundations (100k+/year)",
         "fr": "Grands donateurs privés ou fondations (100k+/an)",
@@ -184,7 +173,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research partner to measure long-term impact",
         "fr": "Partenaire de recherche pour mesurer l'impact à long terme",
@@ -193,7 +182,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Similar initiatives worldwide to connect with",
         "fr": "Initiatives similaires dans le monde entier avec lesquelles se connecter",
@@ -202,7 +191,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Trained volunteers to support workshop delivery",
         "fr": "Bénévoles formés pour soutenir l'animation des ateliers",
@@ -211,7 +200,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Public institutional support from national ministries",
         "fr": "Soutien institutionnel public des ministères nationaux",
@@ -220,7 +209,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Teachers to adopt sustainable food education",
         "fr": "Enseignants pour adopter l'éducation alimentaire durable",

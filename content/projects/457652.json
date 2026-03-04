@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754337195,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Les petites cantines es una red de restaurantes de barrio participativos fundada en 2016, que promueve la alimentación sostenible, la libertad de precios y la implicación de la comunidad. Con 14 cantinas en toda Francia, sirve más de 60.000 comidas al año y acoge a unos 19.000 comensales cada año. La iniciativa fomenta el compromiso local y pretende transformar las relaciones sociales a través de las comidas compartidas, fomentando la confianza y la conexión entre los diversos miembros de la comunidad. Cada comedor funciona como una asociación independiente, guiada por los valores fundamentales de la red.",
     "de": "Les petites cantines ist ein 2016 gegründetes Netzwerk von partizipatorischen Nachbarschaftsrestaurants, die nachhaltiges Essen, freie Preise und die Beteiligung der Gemeinschaft fördern. Mit 14 Kantinen in ganz Frankreich serviert es jährlich über 60.000 Mahlzeiten und empfängt rund 19.000 Dinner pro Jahr. Die Initiative fördert das lokale Engagement und zielt darauf ab, gesellschaftliche Beziehungen durch gemeinsame Mahlzeiten umzugestalten, indem sie Vertrauen und Verbindungen zwischen verschiedenen Gemeindemitgliedern aufbaut. Jede Kantine operiert als unabhängiger Verein, der von den Kernwerten des Netzwerks geleitet wird."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Jacquemin"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.lespetitescantines.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Les Petites Cantines sont fondées à Lyon dans le quartier de Vaise (9e arrondissement) par une cofondatrice, Diane Dupré-Latour, inspirée par la solidarité de voisins qui lui apportaient des repas lors d'un deuil. Le projet n'était pas initialement conçu comme un réseau.",
         "fr": "Les Petites Cantines sont fondées à Lyon dans le quartier de Vaise (9e arrondissement) par une cofondatrice, Diane Dupré-Latour, inspirée par la solidarité de voisins qui lui apportaient des repas lors d'un deuil. Le projet n'était pas initialement conçu comme un réseau.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2023",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ouverture des Petites Cantines du Vieux Lyon, illustrant l'essaimage progressif du réseau au sein même de la ville de Lyon.",
         "fr": "Ouverture des Petites Cantines du Vieux Lyon, illustrant l'essaimage progressif du réseau au sein même de la ville de Lyon.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Le réseau compte 14 cantines en France, accueille plus de 19 000 convives et sert plus de 60 000 repas dans l'année. De nouvelles cantines ouvrent, dont une à Paris-Bagnolet.",
         "fr": "Le réseau compte 14 cantines en France, accueille plus de 19 000 convives et sert plus de 60 000 repas dans l'année. De nouvelles cantines ouvrent, dont une à Paris-Bagnolet.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Le premier trimestre 2025 s'avère difficile pour une majorité des cantines en termes de fréquentation, illustrant la fragilité du modèle économique fondé sur le prix libre et le bénévolat.",
         "fr": "Le premier trimestre 2025 s'avère difficile pour une majorité des cantines en termes de fréquentation, illustrant la fragilité du modèle économique fondé sur le prix libre et le bénévolat.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2026",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Une nouvelle mesure d'impact social est planifiée pour 2026, faisant suite à celle de 2023 qui révélait que 88% des convives découvraient de nouvelles recettes et que 55% transformaient leur comportement d'achat alimentaire.",
         "fr": "Une nouvelle mesure d'impact social est planifiée pour 2026, faisant suite à celle de 2023 qui révélait que 88% des convives découvraient de nouvelles recettes et que 55% transformaient leur comportement d'achat alimentaire.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2030",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "L'objectif fixé est d'atteindre 30 cantines en France d'ici 2030, afin de prouver la viabilité du modèle participatif et son impact sur le lien social, sans dépasser un réseau de 50 cantines au total.",
         "fr": "L'objectif fixé est d'atteindre 30 cantines en France d'ici 2030, afin de prouver la viabilité du modèle participatif et son impact sur le lien social, sans dépasser un réseau de 50 cantines au total.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Participatory neighborhood restaurants open to all",
         "fr": "Restaurants de quartier participatifs ouverts à tous",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Seasonal vegetarian meals with local sourcing",
         "fr": "Repas végétariens de saison avec approvisionnement local",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Anti-waste meals using unsold food donations",
         "fr": "Repas anti-gaspi à partir de dons d'invendus alimentaires",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Pay-what-you-can pricing for accessible meals",
         "fr": "Tarification libre pour des repas accessibles à tous",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Support for new cooperative restaurant project founders",
         "fr": "Accompagnement des nouveaux porteurs de projets de restaurants coopératifs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Proof that social trust transforms communities",
         "fr": "La preuve que la confiance sociale transforme les communautés",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Bénévoles pour les sessions de cuisine quotidiennes",
         "fr": "Bénévoles pour les sessions de cuisine quotidiennes",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Porteurs de projets pour ouvrir nouvelles cantines",
         "fr": "Porteurs de projets pour ouvrir nouvelles cantines",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Maraîchers et fournisseurs locaux et bio",
         "fr": "Maraîchers et fournisseurs locaux et bio",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financements philanthropiques pour le réseau national",
         "fr": "Financements philanthropiques pour le réseau national",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Entreprises pour privatisations et cohésion d'équipe",
         "fr": "Entreprises pour privatisations et cohésion d'équipe",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Convives réguliers pour stabiliser le chiffre d'affaires",
         "fr": "Convives réguliers pour stabiliser le chiffre d'affaires",
@@ -256,9 +246,7 @@
     }
   ],
   "editedAt": 1771238932,
-  "updatedAt": [
-    1771238932
-  ],
+  "updatedAt": [1771238932],
   "feedback": [
     {
       "content": false,

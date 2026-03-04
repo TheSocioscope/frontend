@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1755006947,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Zafran es una empresa alimentaria socialmente responsable fundada en 2011, centrada en la creación de aperitivos saludables de alta calidad con ingredientes mínimos. La iniciativa hace hincapié en la inclusión mediante la contratación de personas que se enfrentan a barreras laborales, incluidas aquellas con discapacidades y procedentes de entornos vulnerables. Zafran está comprometida con la sostenibilidad, el abastecimiento responsable de ingredientes y la promoción de un enfoque holístico de la nutrición. La empresa aspira a inspirar un cambio hacia hábitos alimentarios más sanos, fomentando al mismo tiempo la comunidad y la colaboración en el sector alimentario.",
     "de": "Zafran ist ein 2011 gegründetes, sozial verantwortliches Lebensmittelunternehmen, das sich auf die Herstellung hochwertiger, gesunder Snacks mit wenigen Zutaten konzentriert. Die Initiative legt Wert auf Inklusion, indem sie Menschen mit Beschäftigungshindernissen beschäftigt, darunter Menschen mit Behinderungen und aus sozial schwachen Verhältnissen. Zafran engagiert sich für Nachhaltigkeit, eine verantwortungsvolle Beschaffung von Zutaten und die Förderung eines ganzheitlichen Ansatzes in der Ernährung. Das Unternehmen möchte zu einem Wandel hin zu gesünderen Essgewohnheiten anregen und gleichzeitig die Gemeinschaft und Zusammenarbeit innerhalb der Lebensmittelindustrie fördern."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,9 +39,7 @@
     "equality-diversity-studies-and-social-justice"
   ],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.zafran.com.ar/?srsltid=AfmBOoqGu_L-ylNVxlbtZv8Iq-3ebUGkyio8B5P2rEr_lBfz2zyI2jYF",
   "yt": "tLe22yUucRw",
   "editedAt": 1760358605,
@@ -58,14 +49,12 @@
       "at": 1760358605
     }
   ],
-  "updatedAt": [
-    1760358605
-  ],
+  "updatedAt": [1760358605],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2011",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mariano Anello and Charly Rivero Aedo co-founded Safran and simultaneously launched Emprending, a free entrepreneurship course at UBA's engineering faculty that became a key networking community for the company's growth.",
         "fr": "Mariano Anello et Charly Rivero Aedo ont cofondé Safran et lancé simultanément Emprending, un cours d'entrepreneuriat gratuit à la faculté d'ingénierie de l'UBA, qui est devenu une communauté de réseautage clé pour la croissance de l'entreprise.",
@@ -75,7 +64,7 @@
     },
     {
       "date": "2012",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Safran began selling premium dried fruit snack mixes, starting with a failed online subscription model before pivoting to sales through kiosks and health food stores.",
         "fr": "Safran a commencé à vendre des mélanges de fruits secs premium, débutant avec un modèle d'abonnement en ligne qui a échoué avant de se réorienter vers la vente dans des kiosques et des magasins d'alimentation naturelle.",
@@ -85,7 +74,7 @@
     },
     {
       "date": "2014",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Safran began producing with Granja Andar, a foundation employing people with disabilities, marking the start of their inclusive labor focus and allowing entry into larger retail chains like Pharmacity and Shell.",
         "fr": "Safran a commencé à produire avec Granja Andar, une fondation employant des personnes handicapées, marquant le début de leur engagement en faveur du travail inclusif et permettant l'entrée dans de plus grandes chaînes de distribution comme Pharmacity et Shell.",
@@ -95,7 +84,7 @@
     },
     {
       "date": "2017-2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Diego Salmain joined as a partner, and Safran launched its fruit and seed bars, which became the company's top-selling product and drove significant commercial expansion.",
         "fr": "Diego Salmain a rejoint l'entreprise en tant qu'associé, et Safran a lancé ses barres de fruits et de graines, qui sont devenues le produit le plus vendu de l'entreprise et ont entraîné une expansion commerciale significative.",
@@ -105,7 +94,7 @@
     },
     {
       "date": "2018",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Safran became a certified B Corporation, legally amending its corporate statutes to include social and environmental impact alongside economic objectives.",
         "fr": "Safran est devenue une entreprise certifiée B Corporation, modifiant légalement ses statuts pour inclure l'impact social et environnemental aux côtés des objectifs économiques.",
@@ -115,7 +104,7 @@
     },
     {
       "date": "2019-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Safran installed its own production line in a 1,000 m² facility, hired its first factory workers through Fundación Espartanos, and launched Safranito, an organic children's food brand, just before the COVID-19 pandemic.",
         "fr": "Safran a installé sa propre ligne de production dans un local de 1 000 m², embauché ses premiers ouvriers d'usine via la Fundación Espartanos, et lancé Safranito, une marque d'alimentation biologique pour enfants, juste avant la pandémie de COVID-19.",
@@ -126,7 +115,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Natural snacks bars granolas and cookies",
         "fr": "Barres de céréales, granolas et biscuits naturels",
@@ -135,7 +124,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Inclusive employment for vulnerable groups",
         "fr": "Emploi inclusif pour les groupes vulnérables",
@@ -144,7 +133,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Entrepreneurship course open to public",
         "fr": "Cours d'entrepreneuriat ouvert au public",
@@ -153,7 +142,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Toolkit on inclusive labor practices",
         "fr": "Guide sur les pratiques de travail inclusives",
@@ -162,7 +151,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Agroecological sourcing from local producers",
         "fr": "Approvisionnement agroécologique auprès de producteurs locaux",
@@ -171,7 +160,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Donations to agroecological education organizations",
         "fr": "Dons aux organisations d'éducation agroécologique",
@@ -182,7 +171,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Agroecological and organic raw material suppliers",
         "fr": "Fournisseurs de matières premières agroécologiques et biologiques",
@@ -191,7 +180,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Inclusive employment foundations and NGOs",
         "fr": "Fondations et ONG pour l'emploi inclusif",
@@ -200,7 +189,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Certified B Corp companies to collaborate with",
         "fr": "Entreprises certifiées B Corp avec lesquelles collaborer",
@@ -209,7 +198,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Compostable or biodegradable packaging solution",
         "fr": "Solution d'emballage compostable ou biodégradable",
@@ -218,7 +207,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Kiosk distribution channel expansion",
         "fr": "Expansion du canal de distribution par kiosque",
@@ -227,7 +216,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Toolkit documenting inclusive labor practices",
         "fr": "Boîte à outils documentant les pratiques de travail inclusives",

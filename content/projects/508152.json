@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "united-states"
-  ],
+  "continent": ["north-america"],
+  "country": ["united-states"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "A nonprofit creating community gardens in food deserts, providing education on horticulture and nutrition to youth.",
     "de": "A nonprofit creating community gardens in food deserts, providing education on horticulture and nutrition to youth."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "Miami, FL",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Palacios"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.greenhavenproject.org",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jorge and co-founder David launched the Green Haven Project in Overtown, Miami, initially connecting with the space through a friend from Talent for Change. The organization was formally founded with nine people as a 501(c3) nonprofit.",
         "fr": "Jorge et le co-fondateur David ont lancé le Green Haven Project à Overtown, Miami, en prenant contact avec l'espace initialement par l'intermédiaire d'un ami de Talent for Change. L'organisation a été officiellement fondée avec neuf personnes en tant qu'organisme à but non lucratif 501(c3).",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Early partnerships formed with organizations including Save the Kids, which held the master lease on the property, and Talent for Change, which facilitated the original introduction to the space.",
         "fr": "Des partenariats précoces ont été établis avec des organisations telles que Save the Kids, qui détenait le bail principal de la propriété, et Talent for Change, qui a facilité la présentation originale à l'espace.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Approximately a year and a half after initial operations began, the Green Haven Project was officially established with nine founding members, later stabilizing to four active board members.",
         "fr": "Environ un an et demi après le début des opérations initiales, le Green Haven Project a été officiellement établi avec neuf membres fondateurs, se stabilisant ensuite à quatre membres actifs du conseil d'administration.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2020-2023",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The garden experienced recurring break-ins three to four times per year during its first several years, with tools, equipment, and materials stolen, forcing the organization to repeatedly replenish resources out of pocket.",
         "fr": "Le jardin a connu des cambriolages récurrents trois à quatre fois par an durant ses premières années, avec des outils, équipements et matériaux volés, obligeant l'organisation à renouveler à plusieurs reprises les ressources à ses propres frais.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2021-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Through FIU, Green Haven connected with iCare and BankUnited, securing additional funding and resources, while Cafe Namaste began monthly volunteer visits and Smile Trust began monthly houseless feedings on the property.",
         "fr": "Par l'intermédiaire de la FIU, Green Haven a établi des liens avec iCare et BankUnited, obtenant des financements et des ressources supplémentaires, tandis que le Café Namaste a commencé des visites bénévoles mensuelles et que Smile Trust a débuté des distributions alimentaires mensuelles aux personnes sans abri sur la propriété.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2023-2026",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Using Community Redevelopment Agency of Overtown funding, Green Haven completed a full property re-fencing to address security issues, and began planning a nursery redesign in partnership with FIU to serve as an educational center.",
         "fr": "Grâce au financement de la Community Redevelopment Agency d'Overtown, Green Haven a réalisé une clôture complète de la propriété pour répondre aux problèmes de sécurité, et a commencé à planifier une refonte de la pépinière en partenariat avec la FIU pour en faire un centre éducatif.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free vegetables and produce to community",
         "fr": "Légumes et produits frais gratuits pour la communauté",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Space for houseless feedings by partners",
         "fr": "Espace pour les repas des sans-abri organisés par des partenaires",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Back to school and holiday drives",
         "fr": "Collectes pour la rentrée scolaire et les fêtes",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Nursery for student gardening learning",
         "fr": "Pépinière pour l'apprentissage du jardinage par les élèves",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Open sanctuary space for all visitors",
         "fr": "Espace sanctuaire ouvert à tous les visiteurs",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic food grown without harmful chemicals",
         "fr": "Aliments biologiques cultivés sans produits chimiques nocifs",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants for garden operations and resources",
         "fr": "Subventions pour les opérations et les ressources du jardin",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Regular volunteers for garden maintenance",
         "fr": "Bénévoles réguliers pour l'entretien du jardin",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Community orgs to use space as vessel",
         "fr": "Organisations communautaires pour utiliser l'espace comme lieu d'accueil",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "More community members to grow own food",
         "fr": "Plus de membres de la communauté pour cultiver leur propre nourriture",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "University partnerships for nursery education",
         "fr": "Partenariats universitaires pour l'éducation en pépinière",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Governmental support for Overtown food access",
         "fr": "Soutien gouvernemental pour l'accès à la nourriture à Overtown",
@@ -256,9 +246,7 @@
     }
   ],
   "editedAt": 1771255565,
-  "updatedAt": [
-    1771255565
-  ],
+  "updatedAt": [1771255565],
   "feedback": [
     {
       "content": false,

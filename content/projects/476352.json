@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754647506,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de la Galería Maxxy Artistry en Kenia se centra en transformar botellas desechadas en piezas de arte únicas, abordando tanto cuestiones medioambientales como recuerdos personales. Su fundador, que dejó la informática para dedicarse a su pasión por el arte, afirma que el proyecto no sólo embellece los hogares, sino que también ofrece oportunidades de empleo. Al colaborar con equipos locales para la recogida de botellas y participar en la formación de la comunidad, la iniciativa fomenta la creatividad al tiempo que promueve la sostenibilidad y la concienciación medioambiental.",
     "de": "Die Initiative Maxxy Artistry Gallery in Kenia konzentriert sich darauf, ausrangierte Flaschen in einzigartige Kunstwerke zu verwandeln und dabei sowohl Umweltprobleme als auch persönliche Erinnerungen anzusprechen. Der Gründer, der von der IT-Branche zu seiner Leidenschaft für Kunst gewechselt ist, sagt, dass das Projekt nicht nur Wohnhäuser verschönert, sondern auch Beschäftigungsmöglichkeiten bietet. Durch die Zusammenarbeit mit lokalen Teams für die Flaschensammlung und die Teilnahme an Gemeinschaftsschulungen fördert die Initiative die Kreativität und gleichzeitig die Nachhaltigkeit und das Umweltbewusstsein."
   },
-  "field": [
-    "arts-architecture-and-museology"
-  ],
+  "field": ["arts-architecture-and-museology"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Peter Macharia Kinuthia"
     }
   ],
-  "thematic": [
-    "culture-and-the-arts"
-  ],
+  "thematic": ["culture-and-the-arts"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://vm.tiktok.com/ZMBHEaXXE/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "High school",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Max Peter began developing artistic skills in high school, filling notebooks with sketches during class.",
         "fr": "Max Peter a commencé à développer ses compétences artistiques au lycée, remplissant des cahiers de croquis pendant les cours.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "~1 year before interview",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Max created his first bottle art piece in memory of his late uncle, using a beer bottle they had shared before the uncle's death. Friends' overwhelmingly positive reactions convinced him the concept had broader appeal.",
         "fr": "Max a créé sa première œuvre d'art sur bouteille en mémoire de son défunt oncle, en utilisant une bouteille de bière qu'ils avaient partagée avant le décès de ce dernier. Les réactions extrêmement positives de ses amis l'ont convaincu que le concept avait un attrait plus large.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "Early phase",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "While still employed as an IT sales and repair worker, Max began selling bottle art as a side hustle, saving all proceeds from his first roughly 100 pieces, eventually accumulating enough to invest 20,000 shillings into the business.",
         "fr": "Tout en travaillant encore comme technicien en vente et réparation informatique, Max a commencé à vendre des œuvres sur bouteilles comme activité secondaire, économisant tous les bénéfices de ses quelque 100 premières pièces, accumulant finalement assez pour investir 20 000 shillings dans l'entreprise.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Before quitting job",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Max was invited to the Nairobi Trade Expo by the Nairobi City Council in recognition of his environmental contribution, where he connected with new clients and fellow artists.",
         "fr": "Max a été invité à l'Expo commerciale de Nairobi par le Conseil municipal de Nairobi en reconnaissance de sa contribution environnementale, où il a rencontré de nouveaux clients et d'autres artistes.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~Day 17 before interview",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Max quit his IT job to pursue Maxi Artistry Gallery full time, hiring five people including bottle collectors, a delivery person, a carpenter for frames, and a cleaner. By day 17 he had already earned double his former salary.",
         "fr": "Max a quitté son emploi en informatique pour se consacrer à plein temps à Maxi Artistry Gallery, en embauchant cinq personnes, dont des collecteurs de bouteilles, un livreur, un charpentier pour les cadres et un agent d'entretien. Au 17e jour, il avait déjà gagné le double de son ancien salaire.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "At time of interview",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Max had trained approximately 100 people in his craft and was partnering informally with a recycling company run by a friend named Juma, donating glass offcuts in exchange for sourcing bottles.",
         "fr": "Max avait formé environ 100 personnes à son art et collaborait de manière informelle avec une entreprise de recyclage dirigée par un ami nommé Juma, faisant don de chutes de verre en échange d'un approvisionnement en bouteilles.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Upcycled glass bottle art pieces",
         "fr": "Œuvres d'art créées à partir de bouteilles en verre recyclées",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Employment for local bottle collectors",
         "fr": "Emploi pour les collecteurs locaux de bouteilles",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Art training for approximately 100 youth",
         "fr": "Formation artistique pour environ 100 jeunes",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Glass recycling leftover materials to processing plant",
         "fr": "Matériaux résiduels du recyclage du verre vers une usine de traitement",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Custom memorial art from personal bottles",
         "fr": "Art commémoratif personnalisé à partir de bouteilles personnelles",
@@ -160,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Reach target customers beyond door-to-door sales",
         "fr": "Atteindre les clients cibles au-delà de la vente porte-à-porte",
@@ -169,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Partnership with environmental organizations or brands",
         "fr": "Partenariat avec des organisations ou des marques environnementales",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financial support to establish larger workshop",
         "fr": "Soutien financier pour établir un atelier plus grand",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Expand glass collection from streets and dump sites",
         "fr": "Élargir la collecte de verre dans les rues et les décharges",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Train youth team to scale production",
         "fr": "Former une équipe de jeunes pour augmenter la production",

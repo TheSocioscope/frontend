@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754649078,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Eco Bristo Limited, creada en 2022, es una plataforma agrotecnológica centrada en soluciones sostenibles de gestión de plagas mediante energía solar. La empresa ha desarrollado una trampa para insectos que funciona con energía solar, diseñada específicamente para erradicar la falsa polilla del aguacate, una importante plaga que afecta a los cultivos de aguacate. Mediante la colaboración con los agricultores, Eco Bristo pretende aumentar la productividad agrícola al tiempo que promueve prácticas respetuosas con el medio ambiente, mejorando en última instancia los sistemas alimentarios en Kenia y más allá.                        ",
     "de": "Eco Bristo Limited, gegründet im Jahr 2022, ist eine Agritech-Plattform, die sich auf nachhaltige Schädlingsbekämpfungslösungen mit Hilfe von Solarenergie konzentriert. Das Unternehmen hat eine solarbetriebene Insektenfalle entwickelt, die speziell auf die Ausrottung der Falschen Apfelwickler ausgerichtet ist, einem bedeutenden Schädling, der Avocadokulturen befällt. Durch die Zusammenarbeit mit Landwirten will Eco Bristo die landwirtschaftliche Produktivität steigern und gleichzeitig umweltfreundliche Praktiken fördern, um letztlich die Lebensmittelsysteme in Kenia und darüber hinaus zu verbessern.                        "
   },
-  "field": [
-    "engineering-and-technology",
-    "nutrition"
-  ],
+  "field": ["engineering-and-technology", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "Muriuki"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "innovation-rd"
-  ],
+  "thematic": ["food-agriculture-fishery", "innovation-rd"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecobristo.com/",
   "yt": "",
   "originalLang": "pt",
   "timeline": [
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Mutuma Murioki founded Ecobristo, beginning groundwork to develop a solar-powered insect trap aimed at eradicating the False Codling Moth affecting avocado farms in Kenya. He self-funded the venture by selling personal assets and receiving support from family and friends.",
         "fr": "Mutuma Murioki a fondé Ecobristo, commençant à poser les bases pour développer un piège à insectes alimenté par l'énergie solaire, visant à éradiquer le Faux Carpocapse affectant les fermes d'avocats au Kenya. Il a autofinancé l'entreprise en vendant des biens personnels et en recevant le soutien de sa famille et de ses amis.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Ecobristo won the best idea award from IUT International, a turning point that came when Mutuma was on the brink of giving up. This recognition provided momentum and external validation for the startup.",
         "fr": "Ecobristo a remporté le prix de la meilleure idée de l'IUT International, un tournant survenu alors que Mutuma était sur le point d'abandonner. Cette reconnaissance a fourni un élan et une validation externe à la startup.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ecobristo began collaborating with the Rodenberry Foundation, which supported the development of a market-ready MVP. The company also started working directly with avocado cooperatives in the Meru and Meru-Montenegro regions to expand farmer reach.",
         "fr": "Ecobristo a commencé à collaborer avec la Fondation Rodenberry, qui a soutenu le développement d'un MVP prêt pour le marché. L'entreprise a également commencé à travailler directement avec des coopératives d'avocats dans les régions de Meru et Meru-Montenegro pour élargir sa portée auprès des agriculteurs.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Over three years, Ecobristo iterated from version one to version two of the solar trap, improving water resistance and energy efficiency based on direct farmer feedback. One farmer reported a yield increase of ten tons, equivalent to approximately 500,000 Kenyan shillings.",
         "fr": "Sur trois ans, Ecobristo a fait évoluer le piège solaire de la version un à la version deux, améliorant la résistance à l'eau et l'efficacité énergétique sur la base des retours directs des agriculteurs. Un agriculteur a signalé une augmentation de rendement de dix tonnes, équivalant à environ 500 000 shillings kenyans.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ecobristo began receiving orders from Uganda and Tanzania and gained recognition at the World Agritech Summit in Dubai, signaling early expansion beyond Kenya. Partnerships with the Horticulture Crop Development Authority and online platform Tecira were also established.",
         "fr": "Ecobristo a commencé à recevoir des commandes d'Ouganda et de Tanzanie et a été reconnu au Sommet Mondial de l'Agritech à Dubaï, signalant une expansion précoce au-delà du Kenya. Des partenariats avec l'Autorité de Développement des Cultures Horticoles et la plateforme en ligne Tecira ont également été établis.",
@@ -106,7 +94,7 @@
   ],
   "offers": [
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Solar-powered insect traps for pest control",
         "fr": "Pièges à insectes solaires pour la lutte antiparasitaire",
@@ -115,7 +103,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Chemical-free avocado pest management solution",
         "fr": "Solution de gestion des ravageurs de l'avocat sans produits chimiques",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Access to export markets via clean produce",
         "fr": "Accès aux marchés d'exportation grâce à des produits propres",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Farmer education through cooperatives and field visits",
         "fr": "Formation des agriculteurs par les coopératives et les visites de terrain",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biochar-based organic fertilizer for soil health",
         "fr": "Engrais organique à base de biochar pour la santé des sols",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Co-creation of solutions with farmer cooperatives",
         "fr": "Co-création de solutions avec les coopératives d'agriculteurs",
@@ -162,7 +150,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Investment to scale mass production",
         "fr": "Investissement pour développer la production de masse",
@@ -171,7 +159,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Financial institutions for cooperative financing",
         "fr": "Institutions financières pour le financement coopératif",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Distribution partners for farmer logistics",
         "fr": "Partenaires de distribution pour la logistique agricole",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion into Uganda and Tanzania markets",
         "fr": "Expansion sur les marchés ougandais et tanzaniens",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmer cooperatives to adopt solar traps",
         "fr": "Coopératives agricoles pour adopter les pièges solaires",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Organizations aligned with farmer-first philosophy",
         "fr": "Organisations alignées sur la philosophie du agriculteur en priorité",

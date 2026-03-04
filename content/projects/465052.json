@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754475214,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Finca Luna Nueva es una granja agroecológica y destino turístico en Costa Rica, que combina la agricultura sostenible con el ecoturismo. Fundada a principios de la década de 2000, produce una amplia gama de alimentos y especias que cubren alrededor del 70% de las necesidades de su restaurante. La iniciativa hace hincapié en la gestión de la tierra y las prácticas regenerativas, con el objetivo de educar a los visitantes sobre la agricultura sostenible. Centrada en el compromiso con la comunidad y la alta retención de empleados, busca equilibrar la viabilidad económica con la responsabilidad medioambiental.",
     "de": "Die Finca Luna Nueva ist ein agrarökologischer Bauernhof und Tourismusziel in Costa Rica, das nachhaltige Landwirtschaft mit Ökotourismus verbindet. Das in den frühen 2000er Jahren gegründete Unternehmen produziert eine Vielzahl von Lebensmitteln und Gewürzen und deckt damit rund 70% des Bedarfs seines Restaurants. Die Initiative betont die Landbewirtschaftung und regenerative Praktiken, um Besucher über nachhaltige Landwirtschaft aufzuklären. Mit einem Schwerpunkt auf kommunalem Engagement und hoher Mitarbeiterbindung versucht sie, wirtschaftliche Nachhaltigkeit mit ökologischer Verantwortung in Einklang zu bringen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Calderón"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://fincalunanuevalodge.com/",
   "yt": "LHgMtlYWIjw",
   "editedAt": 1755739225,
@@ -55,14 +45,12 @@
       "at": 1755739225
     }
   ],
-  "updatedAt": [
-    1755739225
-  ],
+  "updatedAt": [1755739225],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1994",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Finca Luna Nueva was founded by Steven Farrell, beginning with organic agriculture and production of turmeric and ginger for export to a US medical supplements company.",
         "fr": "Finca Luna Nueva a été fondée par Steven Farrell, en commençant par l'agriculture biologique et la production de curcuma et de gingembre destinés à l'exportation vers une entreprise américaine de compléments médicaux.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "2008",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The finca opened to tourism, initially receiving biologists and researchers interested in studying the local ecosystem near the Bosque Eterno de los Niños, before expanding to general tourism around 2010.",
         "fr": "La finca s'est ouverte au tourisme, accueillant d'abord des biologistes et des chercheurs désireux d'étudier l'écosystème local près du Bosque Eterno de los Niños, avant de s'ouvrir au tourisme général vers 2010.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "2018-2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Advisor Scott Gallan introduced syntropic agroforestry systems to the finca, marking a strategic turning point in production philosophy and long-term land planning.",
         "fr": "Le conseiller Scott Gallan a introduit des systèmes d'agroforesterie syntropique à la finca, marquant un tournant stratégique dans la philosophie de production et la planification à long terme des terres.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The farm and hotel were formally separated into two distinct legal entities, allowing the finca to establish its own independent accounting and commercial operations for the first time.",
         "fr": "La ferme et l'hôtel ont été formellement séparés en deux entités juridiques distinctes, permettant à la finca d'établir pour la première fois sa propre comptabilité indépendante et ses propres opérations commerciales.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2024-2031",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The finca is currently subsidized by hotel revenues and covers approximately 50% of its own costs, with a plan to reach full economic self-sufficiency within six to seven years and profitability within ten.",
         "fr": "La finca est actuellement subventionnée par les revenus de l'hôtel et couvre environ 50 % de ses propres coûts, avec un plan pour atteindre une pleine autonomie économique dans six à sept ans et la rentabilité dans dix ans.",
@@ -113,7 +101,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Farm-to-table produce for on-site restaurant",
         "fr": "Produits de la ferme à la table pour le restaurant sur place",
@@ -122,7 +110,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Ecotourism farm tours for hotel guests",
         "fr": "Visites écotouristiques de la ferme pour les clients de l'hôtel",
@@ -131,7 +119,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Apprenticeships and mentorships in regenerative agriculture",
         "fr": "Apprentissages et mentorats en agriculture régénératrice",
@@ -140,7 +128,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Accessible tours for local university students",
         "fr": "Visites accessibles pour les étudiants des universités locales",
@@ -149,7 +137,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Local sale of spices and surplus produce",
         "fr": "Vente locale d'épices et de surplus de production",
@@ -158,7 +146,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Stable local employment for community members",
         "fr": "Emploi local stable pour les membres de la communauté",
@@ -169,7 +157,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Develop structured education and training programs",
         "fr": "Développer des programmes structurés d'éducation et de formation",
@@ -178,7 +166,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Position farm products beyond restaurant sales",
         "fr": "Positionner les produits de la ferme au-delà des ventes en restaurant",
@@ -187,7 +175,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborate with universities and research institutions",
         "fr": "Collaborer avec des universités et des institutions de recherche",
@@ -196,7 +184,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Access carbon market and environmental services payments",
         "fr": "Accéder au marché du carbone et aux paiements pour services environnementaux",
@@ -205,7 +193,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Source from local producers sharing regenerative values",
         "fr": "S'approvisionner auprès de producteurs locaux partageant des valeurs régénératives",
@@ -214,7 +202,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Replicate syntropic agroforestry knowledge regionally",
         "fr": "Répliquer les connaissances en agroforesterie syntropique à l'échelle régionale",

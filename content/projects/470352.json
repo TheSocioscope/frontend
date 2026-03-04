@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "poland"
-  ],
+  "continent": ["europe"],
+  "country": ["poland"],
   "createdAt": 1754658817,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Bazar Natury es una iniciativa que pone en contacto a agricultores locales y productores de alimentos ecológicos con los residentes de la ciudad, promoviendo el acceso a productos de alta calidad y libres de pesticidas. El mercado opera en Gdańsk y Gdynia y ofrece una gran variedad de productos, como carne, verduras y productos artesanales. Los clientes, preocupados por la salud y que valoran la calidad, se benefician de la interacción directa con los productores. El bazar fomenta los lazos comunitarios, apoya las prácticas sostenibles y estimula la colaboración entre productores, garantizando un ecosistema vibrante para una alimentación sana y el emprendimiento local.",
     "de": "Bazar Natury ist eine Initiative, die lokale Bauern und Bio-Lebensmittelproduzenten mit den Stadtbewohnern verbindet und den Zugang zu hochwertigen, pestizidfreien Produkten fördert. Der Markt ist in Gdańsk und Gdynia tätig und bietet eine Vielzahl von Waren an, darunter Fleisch, Gemüse und handwerklich hergestellte Artikel. Kunden, die gesundheitsbewusst und qualitätsbewusst sind, profitieren von der direkten Interaktion mit den Erzeugern. Der Basar fördert die Beziehungen zwischen den Gemeinden, unterstützt nachhaltige Praktiken und fördert die Zusammenarbeit zwischen den Erzeugern, wodurch ein lebendiges Ökosystem für gesunde Ernährung und lokales Unternehmertum entsteht."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -44,14 +38,9 @@
       "lastname": "van de Merwe"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "economy-business-markets-finance"
-  ],
+  "thematic": ["food-agriculture-fishery", "economy-business-markets-finance"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://bazarnatury.pl/o-nas/",
   "yt": "BghI4YbnI2U",
   "editedAt": 1755736683,
@@ -61,14 +50,12 @@
       "at": 1755736683
     }
   ],
-  "updatedAt": [
-    1755736683
-  ],
+  "updatedAt": [1755736683],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~2009",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Bazar Natury was founded by Jakub Szymański and Aleksander Ziemniewicz, initially operating in the Oliwa district of Gdańsk. The initiative aimed to bring natural, organic products from the countryside to city residents.",
         "fr": "Bazar Natury a été fondé par Jakub Szymański et Aleksander Ziemniewicz, opérant initialement dans le quartier d'Oliwa à Gdańsk. L'initiative visait à apporter des produits naturels et biologiques de la campagne aux habitants de la ville.",
@@ -78,7 +65,7 @@
     },
     {
       "date": "~2015",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Bazar Natury relocated to the Garnizon district (Gdańsk Wrzeszcz), a newly developing residential neighborhood. The market established itself in this prestigious area from the very start of the estate's construction, occupying approximately 600 square meters.",
         "fr": "Bazar Natury a déménagé dans le quartier Garnizon (Gdańsk Wrzeszcz), un nouveau quartier résidentiel en plein développement. Le marché s'est établi dans cette zone prestigieuse dès le début de la construction du domaine, occupant environ 600 mètres carrés.",
@@ -88,7 +75,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic forced the closure of the physical market. The organizers responded by launching an online shop and home delivery service, allowing the market to survive with reduced revenues.",
         "fr": "La pandémie de COVID-19 a contraint à la fermeture du marché physique. Les organisateurs ont réagi en lançant une boutique en ligne et un service de livraison à domicile, permettant au marché de survivre avec des revenus réduits.",
@@ -98,7 +85,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Bazar Natury took over a second market space called Jadłostajnia in Gdynia, located in a historic former stable. This smaller venue (150 square meters) operates on the same twice-weekly schedule.",
         "fr": "Bazar Natury a repris un deuxième espace de marché appelé Jadłostajnia à Gdynia, situé dans une ancienne écurie historique. Ce lieu plus petit (150 mètres carrés) fonctionne selon le même calendrier de deux fois par semaine.",
@@ -108,7 +95,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Plans are underway to rebrand and beautify the Garnizon market, while the Gdynia location is set to expand its surface area by three to four times, significantly increasing the number of exhibitors.",
         "fr": "Des projets sont en cours pour remodeler et embellir le marché de Garnizon, tandis que le site de Gdynia devrait agrandir sa superficie de trois à quatre fois, augmentant considérablement le nombre d'exposants.",
@@ -119,7 +106,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Physical marketplace open twice weekly",
         "fr": "Marché physique ouvert deux fois par semaine",
@@ -128,7 +115,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Access to certified organic local products",
         "fr": "Accès à des produits locaux biologiques certifiés",
@@ -137,7 +124,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Vendor networking and collective selling support",
         "fr": "Réseautage entre vendeurs et soutien à la vente collective",
@@ -146,7 +133,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consumer education on natural food practices",
         "fr": "Éducation des consommateurs sur les pratiques alimentaires naturelles",
@@ -155,7 +142,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seasonal events, picnics, and yoga activities",
         "fr": "Événements saisonniers, pique-niques et activités de yoga",
@@ -164,7 +151,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "EU funding and grant access for small producers",
         "fr": "Financement européen et accès aux subventions pour les petits producteurs",
@@ -175,7 +162,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local small-scale organic farmers and producers",
         "fr": "Agriculteurs et producteurs biologiques locaux à petite échelle",
@@ -184,7 +171,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "European and local funding project specialists",
         "fr": "Spécialistes en projets de financement européens et locaux",
@@ -193,7 +180,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Health-conscious consumers seeking natural products",
         "fr": "Consommateurs soucieux de leur santé à la recherche de produits naturels",
@@ -202,7 +189,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expansion of Gdynia market space 3-4x",
         "fr": "Expansion de l'espace du marché de Gdynia de 3 à 4 fois",
@@ -211,7 +198,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "New staff to support market growth",
         "fr": "Nouveau personnel pour soutenir la croissance du marché",

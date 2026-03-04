@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "EcoScience Lab develops biotechnology solutions using microalgae and bio-stimulants to capture CO₂, improve soil health, and support regenerative agriculture.",
     "de": "EcoScience Lab develops biotechnology solutions using microalgae and bio-stimulants to capture CO₂, improve soil health, and support regenerative agriculture."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Leon, Guanajuato",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Daniel Lira Lopez"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ecosciencelab.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ecoscience Lab was founded by three biotechnology students from the Instituto Politécnico Nacional, Luis Daniel, Nicolás, and Lisbeth, inspired by visible environmental pollution and a desire to develop solutions for climate change.",
         "fr": "Ecoscience Lab a été fondée par trois étudiants en biotechnologie de l'Instituto Politécnico Nacional, Luis Daniel, Nicolás et Lisbeth, inspirés par la pollution environnementale visible et le désir de développer des solutions contre le changement climatique.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The three founders graduated and officially began operations, partnering with Agrobiotech in Irapuato, which provided incubation support, a 90% scholarship for their incorporation costs, entrepreneurship mentoring, and laboratory infrastructure.",
         "fr": "Les trois fondateurs ont obtenu leur diplôme et ont officiellement démarré leurs activités, en s'associant avec Agrobiotech à Irapuato, qui leur a fourni un soutien à l'incubation, une bourse de 90 % pour leurs frais d'incorporation, un accompagnement entrepreneurial et une infrastructure de laboratoire.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ecoscience Lab won first place in the Calatam competition organized by the Buenos Aires Institute of Technology with MIT support, earning approximately 500,000 pesos in seed capital as the first Mexican team to win the award.",
         "fr": "Ecoscience Lab a remporté la première place du concours Calatam organisé par l'Institut de technologie de Buenos Aires avec le soutien du MIT, gagnant environ 500 000 pesos en capital d'amorçage en tant que première équipe mexicaine à remporter ce prix.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The company became finalists in the Heineken Green Challenge and received recognition from Santander and Banamex among the top outstanding innovation and sustainability ventures in Latin America.",
         "fr": "L'entreprise est devenue finaliste du Heineken Green Challenge et a reçu une reconnaissance de Santander et Banamex parmi les meilleures initiatives d'innovation et de développement durable en Amérique latine.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Ecoscience Lab traveled to Japan through the Hika program between Guanajuato state and Japan to make contacts and explore technology exchange, while operating a small production facility in Querétaro.",
         "fr": "Ecoscience Lab s'est rendue au Japon dans le cadre du programme Hika entre l'État de Guanajuato et le Japon pour établir des contacts et explorer des échanges technologiques, tout en exploitant une petite unité de production à Querétaro.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The company, now with 15 staff members and three core partners, is actively planning to open a larger production plant in León, driven by market demand exceeding their current production capacity and a new carbon bond business model linked to their Regenera bioestimulant product.",
         "fr": "L'entreprise, qui compte désormais 15 employés et trois associés principaux, planifie activement l'ouverture d'une plus grande usine de production à León, portée par une demande du marché dépassant sa capacité de production actuelle et un nouveau modèle commercial de crédits carbone lié à son produit bioestimulant Regenera.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Biotechnology solutions for climate change agriculture",
         "fr": "Solutions biotechnologiques pour l'agriculture face au changement climatique",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic biostimulants improving soil health",
         "fr": "Biostimulants organiques améliorant la santé des sols",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Carbon bond model generating dual farmer income",
         "fr": "Modèle de crédit carbone générant un double revenu pour les agriculteurs",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Bioreactors capturing industrial CO2 emissions",
         "fr": "Bioréacteurs capturant les émissions industrielles de CO2",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Entrepreneurship mentoring for science students",
         "fr": "Mentorat en entrepreneuriat pour les étudiants en sciences",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Shared client network with strategic partner startups",
         "fr": "Réseau de clients partagé avec des startups partenaires stratégiques",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private investors aligned with agricultural vision",
         "fr": "Investisseurs privés alignés avec la vision agricole",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic partners for carbon bond market",
         "fr": "Partenaires stratégiques pour le marché des obligations carbone",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Small-scale farmers as product buyers",
         "fr": "Petits agriculteurs en tant qu'acheteurs de produits",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific institutions for technical collaboration",
         "fr": "Institutions scientifiques pour la collaboration technique",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Larger production facility in León",
         "fr": "Installation de production plus grande à León",

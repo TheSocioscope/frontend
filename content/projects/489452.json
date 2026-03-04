@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754989900,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Grupo Smile, fundado en 2019, es un grupo de restaurantes en Bogotá que hace hincapié en la sostenibilidad y las experiencias gastronómicas de calidad. Con cuatro restaurantes diversos y un servicio de catering, la iniciativa tiene como objetivo proporcionar alimentos saludables al tiempo que impacta positivamente en la comunidad. El grupo se centra en el abastecimiento responsable, el crecimiento de los empleados y las prácticas ambientales, esforzándose por convertirse en una B Corp certificada. Su misión es nutrir a las personas mediante alimentos de calidad y experiencias que fomenten el desarrollo personal y social.",
     "de": "Die 2019 gegründete Grupo Smile ist eine Restaurantgruppe in Bogotá, die Wert auf Nachhaltigkeit und hochwertige Essenserlebnisse legt. Mit vier verschiedenen Restaurants und einem Cateringservice will die Initiative gesundes Essen anbieten und gleichzeitig einen positiven Einfluss auf die Gemeinschaft ausüben. Die Gruppe konzentriert sich auf verantwortungsvolle Beschaffung, Mitarbeiterentwicklung und Umweltpraktiken und strebt an, eine zertifizierte B-Corp zu werden. Ihr Ziel ist es, Menschen durch qualitativ hochwertiges Essen und Erlebnisse, die die persönliche und soziale Entwicklung fördern, zu unterstützen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Palacio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "leisure-tourism"
-  ],
+  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://gruposmile.co/sostenibilidad/",
   "yt": "I63X__uDGjg",
   "originalLang": "es",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Grupo Smile was founded when María Camila de Francisco left law to open La Pinta, the first restaurant, focused on Spanish Mediterranean cuisine and quality food at accessible prices.",
         "fr": "Grupo Smile a été fondé lorsque María Camila de Francisco a quitté le droit pour ouvrir La Pinta, le premier restaurant, axé sur la cuisine méditerranéenne espagnole et des aliments de qualité à des prix accessibles.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The COVID-19 pandemic hit just as the group was gaining momentum, forcing them to pivot to delivery services to survive while retaining all employees, funded by investor capital rather than bank loans.",
         "fr": "La pandémie de COVID-19 a frappé alors que le groupe prenait de l'élan, les forçant à se tourner vers les services de livraison pour survivre tout en conservant tous leurs employés, financés par des capitaux d'investisseurs plutôt que par des prêts bancaires.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following the pandemic, Grupo Smile resumed expansion and opened three additional restaurants: Ideal, Tercer Piso, and Verano, growing to four concepts across Bogotá.",
         "fr": "À la suite de la pandémie, Grupo Smile a repris son expansion et a ouvert trois restaurants supplémentaires : Ideal, Tercer Piso et Verano, portant à quatre le nombre de concepts à travers Bogotá.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Grupo Smile engaged sustainability consultancy Actual Consulting to build their sustainability strategy and formally began the B Corp certification process, also launching the Academia program to train restaurant service staff.",
         "fr": "Grupo Smile a fait appel au cabinet de conseil en durabilité Actual Consulting pour élaborer sa stratégie de durabilité et a officiellement entamé le processus de certification B Corp, lançant également le programme Academia pour former le personnel de service des restaurants.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Grupo Smile obtained B Corp certification in approximately August 2024, completing the process in roughly one year from application, significantly faster than the industry average of two years.",
         "fr": "Grupo Smile a obtenu la certification B Corp aux alentours d'août 2024, finalisant le processus en environ un an à compter de la candidature, ce qui est nettement plus rapide que la moyenne du secteur de deux ans.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Grupo Smile partnered with WWF and Bacardí to support the Piqueros fishing community in Chocó, with proceeds from a new cocktail dedicated to improving the community's sustainable fishing infrastructure.",
         "fr": "Grupo Smile s'est associé à WWF et Bacardí pour soutenir la communauté de pêcheurs Piqueros au Chocó, les bénéfices d'un nouveau cocktail étant dédiés à l'amélioration des infrastructures de pêche durable de la communauté.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free certified training platform for table service",
         "fr": "Plateforme de formation certifiée gratuite pour le service en salle",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "2000 scholarships for restaurant industry workers",
         "fr": "2000 bourses pour les travailleurs de la restauration",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Direct purchasing from small local farmers",
         "fr": "Achats directs auprès de petits agriculteurs locaux",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Daily organic waste composting with external partner",
         "fr": "Compostage quotidien des déchets organiques avec un partenaire externe",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Cocktail proceeds donated to Pacific fishing community",
         "fr": "Les recettes des cocktails sont reversées à la communauté de pêcheurs du Pacifique",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Catering and chef-at-home service for events",
         "fr": "Service de traiteur et de chef à domicile pour les événements",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Small local producers with sustainable practices",
         "fr": "Petits producteurs locaux aux pratiques durables",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Restaurant groups to co-create academy content",
         "fr": "Groupes de restauration pour co-créer le contenu de l'académie",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Sponsors and donors to fund academy scholarships",
         "fr": "Sponsors et donateurs pour financer les bourses de l'académie",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Organic waste composting and circular economy partners",
         "fr": "Compostage des déchets organiques et partenaires de l'économie circulaire",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers committed to responsible fishing communities",
         "fr": "Acheteurs engagés envers les communautés de pêche responsable",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Restaurants adopting certified table service training",
         "fr": "Restaurants adoptant une formation certifiée au service en salle",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754910511,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa \"Le Potager d'un Curieux\", fundada en la región de Luberon, se centra en el cultivo de una variada colección de plantas y la conservación de semillas autóctonas. Inspirado en una obra botánica del siglo XIX, el proyecto hace hincapié en la conservación dinámica, permitiendo que las semillas prosperen y se adapten mediante el cultivo. Su objetivo es promover la biodiversidad, educar a la comunidad y fomentar la conexión con la naturaleza, además de abordar la soberanía alimentaria y la importancia de las prácticas agrícolas tradicionales.            ",
     "de": "Die im Luberon gegründete Initiative \"Le Potager d'un Curieux\" konzentriert sich auf die Kultivierung einer vielfältigen Pflanzensammlung und die Erhaltung von Erbgut. Inspiriert von einem botanischen Werk aus dem 19. Jahrhundert, legt das Projekt den Schwerpunkt auf eine dynamische Erhaltung, bei der das Saatgut durch den Anbau gedeihen und sich anpassen kann. Es zielt darauf ab, die biologische Vielfalt zu fördern, die Gemeinschaft zu schulen und eine Verbindung zur Natur zu schaffen, während es gleichzeitig die Ernährungssouveränität und die Bedeutung traditioneller landwirtschaftlicher Praktiken thematisiert.            "
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Danneyolles"
     }
   ],
-  "thematic": [
-    "ecology-environmental-change",
-    "education"
-  ],
+  "thematic": ["ecology-environmental-change", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://lepotagerduncurieux.fr/index.php",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "1986",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jean-Luc Danerolle founded Le Potager d'un Curieux in the Luberon, Vaucluse, with the vision of cultivating biodiversity and preserving rare seed varieties. The project began as a family initiative focused on heirloom seeds, pepinières, and market gardening.",
         "fr": "Jean-Luc Danerolle a fondé Le Potager d'un Curieux dans le Luberon, Vaucluse, avec la vision de cultiver la biodiversité et de préserver des variétés de semences rares. Le projet a débuté comme une initiative familiale axée sur les semences anciennes, les pépinières et le maraîchage.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "1980s",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Semences Paysannes network and other seed-saving producers emerged during the same period, and Jean-Luc became an active participant in these militant agricultural networks. He was considered avant-garde in the region for his diverse tomato varieties.",
         "fr": "Le réseau Semences Paysannes et d'autres producteurs pratiquant la conservation des semences ont émergé durant la même période, et Jean-Luc est devenu un participant actif de ces réseaux agricoles militants. Il était considéré comme avant-gardiste dans la région pour la diversité de ses variétés de tomates.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following personal changes, Jean-Luc traveled through Spain documenting around thirty alternative agricultural and social projects, exchanging seeds along the way. Upon returning, he developed the site into a place of collective welcome, adding a yurt, outdoor kitchen, and communal living infrastructure.",
         "fr": "À la suite de changements personnels, Jean-Luc a voyagé à travers l'Espagne en documentant une trentaine de projets agricoles et sociaux alternatifs, échangeant des semences en chemin. À son retour, il a développé le site en un lieu d'accueil collectif, en ajoutant une yourte, une cuisine extérieure et des infrastructures de vie communautaire.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "Approx. 2015-2020",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Violette, Jean-Luc's youngest daughter, began progressively taking on responsibilities at the site, working to organize the seed inventory and create transmissible management systems. The transition was gradual, with Jean-Luc slowly passing operational decisions to her.",
         "fr": "Violette, la fille cadette de Jean-Luc, a commencé à prendre progressivement des responsabilités sur le site, s'efforçant d'organiser l'inventaire des semences et de créer des systèmes de gestion transmissibles. La transition a été graduelle, Jean-Luc lui cédant peu à peu les décisions opérationnelles.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Violette participated in the International Peasant Seed Encounters and took custody of Palestinian seed varieties to multiply and eventually return. The site also formalized its volunteer activities through a parallel association called Brouillon de Culture.",
         "fr": "Violette a participé aux Rencontres Internationales des Semences Paysannes et a pris en charge des variétés de semences palestiniennes pour les multiplier et les restituer à terme. Le site a également formalisé ses activités bénévoles à travers une association parallèle appelée Brouillon de Culture.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Violette officially became head of the operation, managing a catalog of approximately 300 seed references sold across France and part of Europe. The project continues with no paid employees, relying on volunteers, interns, and market sales for its economic survival.",
         "fr": "Violette est officiellement devenue responsable de l'exploitation, gérant un catalogue d'environ 300 références de semences vendues à travers la France et une partie de l'Europe. Le projet se poursuit sans aucun salarié, reposant sur des bénévoles, des stagiaires et les ventes sur les marchés pour sa survie économique.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Seasonal vegetables and flowers for sale",
         "fr": "Légumes et fleurs de saison à vendre",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Heirloom seed packets for amateur gardeners",
         "fr": "Sachets de graines anciennes pour jardiniers amateurs",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Seedling nursery plants in spring",
         "fr": "Plants de semis en pépinière au printemps",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Open garden visits and workshops",
         "fr": "Visites de jardin ouvert et ateliers",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Internships in sustainable agriculture",
         "fr": "Stages en agriculture durable",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seed donations to conflict zones",
         "fr": "Dons de graines aux zones de conflit",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Volunteers and interns for seasonal farm work",
         "fr": "Bénévoles et stagiaires pour les travaux agricoles saisonniers",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Amateur gardeners buying seeds and seedlings",
         "fr": "Jardiniers amateurs achetant des graines et des plants",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Informal seed exchange networks internationally",
         "fr": "Réseaux informels d'échange de semences à l'international",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Young farmer installation grant DJA",
         "fr": "Aide à l'installation des jeunes agriculteurs DJA",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Trainees learning full seed-to-harvest cycle",
         "fr": "Stagiaires apprenant le cycle complet de la graine à la récolte",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Expand pedagogy and knowledge transmission activities",
         "fr": "Développer les activités pédagogiques et de transmission des savoirs",

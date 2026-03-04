@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1741095470,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Det Fælles Bedste es una organización paraguas situada en una pequeña ciudad, centrada en unir diversas iniciativas ecológicas en Dinamarca. Sus principales objetivos son promover la sostenibilidad en los sistemas de transporte y alimentación. La organización funciona con un pequeño equipo, que incluye al fundador y su esposa, junto a miembros de la junta directiva y ONG colaboradoras. Hacen hincapié en la colaboración y la equidad, con el objetivo de democratizar el conocimiento científico e involucrar a las voces marginadas. La iniciativa también organiza actos para fomentar la creación de redes y la concienciación, al tiempo que colabora estrechamente con investigadores y partes interesadas locales para influir en las políticas e impulsar prácticas sostenibles.",
     "de": "Det Fælles Bedste ist eine in einer Kleinstadt ansässige Dachorganisation, die sich darauf konzentriert, verschiedene grüne Initiativen in Dänemark zu vereinen. Zu ihren primären Zielen gehört die Förderung der Nachhaltigkeit im Transportwesen und in den Ernährungssystemen. Die Organisation arbeitet mit einem kleinen Team, zu dem der Gründer und seine Frau gehören, neben Vorstandsmitgliedern und kooperierenden NGOs. Sie legen Wert auf Zusammenarbeit und Fairness, um wissenschaftliches Wissen zu demokratisieren und marginalisierte Stimmen einzubeziehen. Die Initiative organisiert auch Veranstaltungen, um die Vernetzung und das Bewusstsein zu fördern, während sie gleichzeitig mit Forschern und lokalen Akteuren zusammenarbeitet, um die Politik zu beeinflussen und nachhaltige Praktiken zu fördern."
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "fr",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Aagaard"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://detfaellesbedste.dk/wp-content/uploads/2023/10/Hvad-er-Det-Faelles-Bedste.pdf",
   "yt": "7TBkl07PPwE",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The initiative began informally as a network of five green organizations holding unofficial meetings with no formal structure or name.",
         "fr": "L'initiative a débuté de manière informelle sous la forme d'un réseau de cinq organisations écologiques tenant des réunions non officielles sans structure ni nom formels.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "2014",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The network became more structured with regular meetings, set agendas, and a larger gathering on the island of Samsø to test collaborative interest.",
         "fr": "Le réseau s'est structuré davantage avec des réunions régulières, des ordres du jour définis, et un grand rassemblement sur l'île de Samsø pour tester l'intérêt collaboratif.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "2016",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A nationwide three-day sustainability folk meeting was held featuring 175 workshops and attracting between 2,500 and 3,000 participants.",
         "fr": "Une rencontre populaire nationale sur la durabilité de trois jours a été organisée, proposant 175 ateliers et attirant entre 2 500 et 3 000 participants.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "2018",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "A second major national gathering was held in Vejle, broadening the scope and leading to the decision to formally establish an umbrella organization.",
         "fr": "Un deuxième grand rassemblement national a eu lieu à Vejle, élargissant la portée de l'initiative et conduisant à la décision de créer formellement une organisation faîtière.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The organization was formally founded with statutes and a board, and a think tank of approximately 27 researchers and practitioners was created.",
         "fr": "L'organisation a été officiellement fondée avec des statuts et un conseil d'administration, et un groupe de réflexion composé d'environ 27 chercheurs et praticiens a été créé.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "A nine-month knowledge-building seminar series on food and agriculture was conducted with 18 partner organizations, resulting in a National Action Plan for Food and Farming Transition presented at a conference in the Danish Parliament in March 2023.",
         "fr": "Une série de séminaires de neuf mois axés sur le développement des connaissances en matière d'alimentation et d'agriculture a été menée avec 18 organisations partenaires, aboutissant à un Plan d'action national pour la transition alimentaire et agricole présenté lors d'une conférence au Parlement danois en mars 2023.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Umbrella network connecting green NGOs Denmark",
         "fr": "Réseau fédérateur des ONG vertes au Danemark",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Think tank bridging science and public action",
         "fr": "Think tank faisant le lien entre la science et l'action publique",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge seminars with researchers and practitioners",
         "fr": "Séminaires de connaissances avec des chercheurs et des praticiens",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "National action plan for food system transition",
         "fr": "Plan d'action national pour la transition du système alimentaire",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Lobbying and policy reports for politicians",
         "fr": "Lobbying et rapports politiques destinés aux élus",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Large public sustainability gatherings and workshops",
         "fr": "Grands rassemblements publics et ateliers sur la durabilité",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGOs working toward same sustainability goals",
         "fr": "ONG travaillant vers les mêmes objectifs de durabilité",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers to bridge science and action",
         "fr": "Chercheurs pour faire le lien entre la science et l'action",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Political influence for food and transport reform",
         "fr": "Influence politique pour la réforme de l'alimentation et des transports",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Private foundation grants for project work",
         "fr": "Subventions de fondations privées pour les projets",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Broader public engagement in sustainability transition",
         "fr": "Engagement public plus large dans la transition vers la durabilité",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Businesses to join green transition as first movers",
         "fr": "Entreprises rejoignant la transition verte en tant que premiers adoptants",

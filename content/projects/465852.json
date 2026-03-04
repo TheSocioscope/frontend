@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "costa-rica"
-  ],
+  "continent": ["north-america"],
+  "country": ["costa-rica"],
   "createdAt": 1754476383,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": " Esta iniciativa se centra en explorar prácticas de agricultura regenerativa en una comunidad rural. Comenzó con un proyecto comunitario que implicaba a varias familias en la agricultura sostenible, pero se enfrentó a dificultades debido a la disminución de la participación y al aumento de los costes de la tierra. El proyecto original ha cesado sus operaciones, lo que ha dado lugar a un esfuerzo individual más pequeño por parte de un agricultor dedicado que ahora cultiva productos orgánicos. A pesar de enfrentarse a obstáculos como el acceso limitado al mercado y la necesidad de tierras seguras, el agricultor sigue comprometido con las prácticas sostenibles y aspira a continuar su trabajo en un entorno más estable.",
     "de": " Diese Initiative konzentriert sich auf die Erforschung regenerativer Landwirtschaftspraktiken in einer ländlichen Gemeinde. Sie begann mit einem Gemeinschaftsprojekt, das mehrere Familien in die nachhaltige Landwirtschaft einbezog, aber aufgrund sinkender Beteiligung und steigender Grundstückskosten vor Herausforderungen stand. Das ursprüngliche Projekt wurde eingestellt und führte zu einer kleineren, individuellen Anstrengung eines engagierten Landwirts, der nun organische Produkte anbaut. Despite facing obstacles such as limited market access and the need for secure land, the farmer remains committed to sustainable practices and aims to continue his work in a more stable environment."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "del Carmen Monte"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "rl5xOwJeYRo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "~40 years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "José began learning organic farming and reforestation, planting trees across the region to support wildlife and protect water sources. He worked for 30 years in a forest fire prevention group, which deepened his commitment to reforestation.",
         "fr": "José a commencé à apprendre l'agriculture biologique et le reboisement, plantant des arbres dans toute la région pour soutenir la faune et protéger les sources d'eau. Il a travaillé pendant 30 ans au sein d'un groupe de prévention des incendies de forêt, ce qui a renforcé son engagement envers le reboisement.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "COVID-19 period",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Huerta Tierra Mágica was founded as a community response to food insecurity, with up to 30 families contributing labor and sharing the harvest. The project gained national and international recognition, including visits from groups in the United States.",
         "fr": "Huerta Tierra Mágica a été fondée en réponse communautaire à l'insécurité alimentaire, avec jusqu'à 30 familles contribuant au travail et partageant la récolte. Le projet a obtenu une reconnaissance nationale et internationale, notamment des visites de groupes venus des États-Unis.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "~4 years running",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Community participation gradually declined as pandemic conditions eased and people returned to regular work. Losses of produce during COVID lockdowns, including entire harvests of lettuce, tomato, and chile that had to be discarded, also weakened the project.",
         "fr": "La participation communautaire a progressivement diminué à mesure que les conditions de la pandémie s'assouplissaient et que les gens reprenaient leur travail habituel. Les pertes de produits durant les confinements liés au COVID, notamment des récoltes entières de laitue, de tomate et de piment qui ont dû être jetées, ont également fragilisé le projet.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "~1 year ago",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Huerta Tierra Mágica shut down after the landowner began charging rent of approximately 125,000 colones per month, which the project could not sustain. All planted fruit trees and infrastructure were left behind on the land.",
         "fr": "Huerta Tierra Mágica a fermé ses portes après que le propriétaire du terrain a commencé à exiger un loyer d'environ 125 000 colones par mois, ce que le projet ne pouvait pas supporter. Tous les arbres fruitiers plantés et les infrastructures ont été laissés sur place.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "~1 year ago to present",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "José restarted on a new one-hectare plot under a new informal land arrangement, naming the project Huerta Pan de Azúcar after a nearby hill. He continued growing tomatoes, chile, sandía, and lettuce using only organic inputs and homemade pest-deterrent preparations.",
         "fr": "José a redémarré sur une nouvelle parcelle d'un hectare dans le cadre d'un nouvel arrangement foncier informel, nommant le projet Huerta Pan de Azúcar d'après une colline voisine. Il a continué à cultiver des tomates, du piment, de la pastèque et de la laitue en utilisant uniquement des intrants biologiques et des préparations maison pour repousser les nuisibles.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Present",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The project faces potential collapse due to equipment costs, crop losses from rain, the departure of a co-worker, and the prospect of new land rental fees. José is unable to continue alone and has repeatedly requested land donation from the government or an institution without success.",
         "fr": "Le projet risque de s'effondrer en raison des coûts des équipements, des pertes de récoltes causées par la pluie, du départ d'un collaborateur et de la perspective de nouveaux frais de location de terrain. José est incapable de continuer seul et a demandé à plusieurs reprises un don de terrain au gouvernement ou à une institution, sans succès.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Pesticide-free vegetables and fruits for sale",
         "fr": "Vente de légumes et fruits sans pesticides",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Hands-on planting workshops for schoolchildren",
         "fr": "Ateliers de plantation pratiques pour les écoliers",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Shared harvest among community members",
         "fr": "Récolte partagée entre les membres de la communauté",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Organic compost and natural pest control brews",
         "fr": "Compost organique et préparations naturelles contre les nuisibles",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Organic farming demonstration on one hectare",
         "fr": "Démonstration d'agriculture biologique sur un hectare",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Food provision to families during COVID crisis",
         "fr": "Fourniture alimentaire aux familles durant la crise COVID",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Collaborators to work land together",
         "fr": "Collaborateurs pour travailler la terre ensemble",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Institutional or government donation of land",
         "fr": "Don institutionnel ou gouvernemental de terrain",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Buyers for organic produce locally",
         "fr": "Acheteurs de produits biologiques localement",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Community members to join garden work",
         "fr": "Membres de la communauté pour rejoindre les travaux du jardin",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Seeds and irrigation equipment support",
         "fr": "Soutien en semences et équipements d'irrigation",

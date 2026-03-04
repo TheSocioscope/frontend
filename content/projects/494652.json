@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "argentina"
-  ],
+  "continent": ["south-america"],
+  "country": ["argentina"],
   "createdAt": 1755006744,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Proyecto Rural Integrador Janus, iniciado por dos agrónomos, tiene como objetivo revitalizar tierras agrícolas abandonadas en el Alto Valle de Río Negro, Neuquén. Creado en 2009, el proyecto se centra en prácticas biodinámicas y agroecológicas para producir alimentos sanos y promover la vida rural. Mediante el fomento de la agricultura apoyada por la comunidad (CSA), Janus conecta a los consumidores urbanos con los agricultores locales, fomentando prácticas sostenibles y mejorando la relación entre las ciudades y el campo.    ",
     "de": "Das von zwei Agrarwissenschaftlern initiierte Projekt Janus Integrating Rural Project zielt auf die Wiederbelebung verlassener landwirtschaftlicher Flächen im Alto Valle de Río Negro, Neuquén. Das 2009 gegründete Projekt konzentriert sich auf biodynamische und agrarökologische Praktiken, um gesunde Lebensmittel zu erzeugen und gleichzeitig das Leben auf dem Land zu fördern. Durch die Förderung der gemeinschaftsgetragenen Landwirtschaft (CSA) bringt Janus die städtischen Verbraucher mit den örtlichen Landwirten zusammen, fördert nachhaltige Praktiken und verbessert die Beziehung zwischen Stadt und Land.    "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Torno"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "consumption-and-production-patterns"
-  ],
+  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://janus.bio/",
   "yt": "gdyuaYWtEqo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2000",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jorge and Cecilia, both agronomists, began developing their biodynamic agricultural vision. They had previously co-purchased a shared property in Plotier with 10 families, forming an intentional community rooted in anthroposophy.",
         "fr": "Jorge et Cecilia, tous deux agronomes, ont commencé à développer leur vision agricole biodynamique. Ils avaient auparavant co-acheté une propriété partagée à Plotier avec 10 familles, formant une communauté intentionnelle enracinée dans l'anthroposophie.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2009-2010",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The couple purchased an 8-hectare abandoned fruit orchard in Contralmirante Cordero using savings and inherited funds, beginning the transformation of the land into a biodynamic farm.",
         "fr": "Le couple a acheté un verger abandonné de 8 hectares à Contralmirante Cordero grâce à des économies et des fonds hérités, entamant la transformation du terrain en ferme biodynamique.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2012",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Jorge and Cecilia established permanent residence at the farm, committing fully to rural life and launching the CSA system with their existing Plotier community as the founding consumer base.",
         "fr": "Jorge et Cecilia ont établi leur résidence permanente à la ferme, s'engageant pleinement dans la vie rurale et lançant le système d'AMAP avec leur communauté de Plotier existante comme base de consommateurs fondateurs.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2019",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Janus launched its agrotourism program, offering weekly guided farm visits and hosting training courses on biodynamic agriculture, attracting over 1,000 visitors per year and diversifying income.",
         "fr": "Janus a lancé son programme d'agrotourisme, proposant des visites guidées hebdomadaires de la ferme et organisant des formations sur l'agriculture biodynamique, attirant plus de 1 000 visiteurs par an et diversifiant les revenus.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Janus received participatory certification through the SPG system, backed by the Argentine Association of Biodynamic Agriculture and internationally recognized by Demeter, as one of four certified farms in the region.",
         "fr": "Janus a reçu une certification participative via le système SPG, soutenue par l'Association argentine d'agriculture biodynamique et reconnue internationalement par Demeter, en tant que l'une des quatre fermes certifiées de la région.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "December 2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The municipality of Contralmirante Cordero approved an ordinance enabling the creation of the Agroecological Village project, allowing up to 20 co-owner families to live and produce collectively on the Janus property.",
         "fr": "La municipalité de Contralmirante Cordero a approuvé une ordonnance permettant la création du projet de Village Agroécologique, autorisant jusqu'à 20 familles copropriétaires à vivre et produire collectivement sur la propriété de Janus.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Seasonal fresh and processed food boxes",
         "fr": "Paniers de produits frais et transformés de saison",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "CSA subscription system for local consumers",
         "fr": "Système d'abonnement AMAP pour les consommateurs locaux",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Guided farm tours every Saturday",
         "fr": "Visites guidées de la ferme chaque samedi",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Biodynamic agriculture training courses",
         "fr": "Formations en agriculture biodynamique",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Direct online sales to individual buyers",
         "fr": "Vente directe en ligne aux particuliers",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Knowledge sharing on replicable agroecological model",
         "fr": "Partage de connaissances sur un modèle agroécologique reproductible",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "New families to join agroecological village",
         "fr": "Nouvelles familles à rejoindre le village agroécologique",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Replication of CSA model by other producers",
         "fr": "Réplication du modèle AMAP par d'autres producteurs",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Residents willing to live and work on farm",
         "fr": "Résidents prêts à vivre et travailler à la ferme",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Committed local consumers for food baskets",
         "fr": "Consommateurs locaux engagés pour les paniers alimentaires",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "State promotion of agroecological production",
         "fr": "Promotion étatique de la production agroécologique",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific institutions for technical assistance",
         "fr": "Institutions scientifiques pour l'assistance technique",

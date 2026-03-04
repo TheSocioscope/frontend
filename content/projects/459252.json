@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "ecuador"
-  ],
+  "continent": ["south-america"],
+  "country": ["ecuador"],
   "createdAt": 1754403017,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Agrovivas es una innovadora iniciativa de recogida de residuos orgánicos que comenzó durante la pandemia, centrándose en el compostaje para reducir los residuos de los vertederos. El proyecto, que presta servicio a 500 familias y 40 empresas de Quito, Cuenca y Guayaquil, transforma los residuos orgánicos en compost, que luego se devuelve a las familias para la jardinería urbana y se utiliza en labores de reforestación. Mediante la promoción de prácticas sostenibles, Agrovivas pretende educar a las comunidades sobre el valor del compostaje y contribuir a la conservación del medio ambiente.",
     "de": "Agrovivas ist eine innovative Initiative zur Sammlung organischer Abfälle, die während der Pandemie begann und sich auf die Kompostierung zur Reduzierung von Siedlungsabfällen konzentrierte. Das Projekt, das 500 Familien und 40 Unternehmen in Quito, Cuenca und Guayaquil bedient, verwandelt organische Abfälle in Kompost, der dann an die Familien für die Stadtbegrünung zurückgegeben und in Wiederaufforstungsbemühungen eingesetzt wird. Durch die Förderung nachhaltiger Praktiken möchte Agrovivas die Gemeinden über den Wert der Kompostierung aufklären und zum Umweltschutz beitragen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Vivas"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Agrovivas was founded during the COVID-19 pandemic in the San Isidro de Puengasí neighborhood of Quito. Ledny Vivas and her family began collecting organic waste by wheelbarrow from 60 households for free, composting 6 tons of organic residues and returning compost to participants.",
         "fr": "Agrovivas a été fondée pendant la pandémie de COVID-19 dans le quartier San Isidro de Puengasí à Quito. Ledny Vivas et sa famille ont commencé à collecter des déchets organiques en brouette auprès de 60 foyers gratuitement, compostant 6 tonnes de résidus organiques et redistribuant le compost aux participants.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The service expanded beyond the founding neighborhood to surrounding districts of Quito using public buses to transport collection containers. The number of households served grew from 60 to 160 families.",
         "fr": "Le service s'est étendu au-delà du quartier fondateur aux districts environnants de Quito, en utilisant des bus publics pour transporter les conteneurs de collecte. Le nombre de foyers desservis est passé de 60 à 160 familles.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Agrovivas won first place in Conquito's Capital Semilla fund competition, using the prize money to purchase their first collection truck. This enabled broader collection routes across multiple Quito districts and the creation of the first composting vocational program at Escuela Taller Quito.",
         "fr": "Agrovivas a remporté la première place au concours du fonds Capital Semilla de Conquito, utilisant la récompense pour acquérir leur premier camion de collecte. Cela a permis d'élargir les circuits de collecte à plusieurs districts de Quito et de créer le premier programme de formation professionnelle en compostage à l'Escuela Taller Quito.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Agrovivas formally registered as a SAS company, began serving corporate clients including hotels and supermarkets, and consolidated its composting operations under official Ministry of Environment certification as a medium-scale organic waste manager.",
         "fr": "Agrovivas s'est officiellement enregistrée en tant que société SAS, a commencé à servir des clients professionnels dont des hôtels et des supermarchés, et a consolidé ses opérations de compostage sous la certification officielle du Ministère de l'Environnement en tant que gestionnaire de déchets organiques à moyenne échelle.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Operations expanded to Guayaquil and Cuenca through a revenue-sharing partnership model with local composting leaders trained through the Agrovivas network. A new pet waste composting service (poposta) was also launched in partnership with the Amigos de Lucas animal rescue foundation.",
         "fr": "Les opérations se sont étendues à Guayaquil et Cuenca grâce à un modèle de partenariat à partage de revenus avec des responsables locaux du compostage formés par le réseau Agrovivas. Un nouveau service de compostage des déchets d'animaux de compagnie (poposta) a également été lancé en partenariat avec la fondation de sauvetage animal Amigos de Lucas.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Agrovivas currently serves 500 households and 40 companies across three cities, processing 30 tonnes of organic waste per month. The company is in active negotiations with the Quito Municipality for a land grant to expand composting infrastructure and is pursuing expansion into Ambato.",
         "fr": "Agrovivas dessert actuellement 500 foyers et 40 entreprises dans trois villes, traitant 30 tonnes de déchets organiques par mois. La société est en négociations actives avec la Municipalité de Quito pour l'obtention d'un terrain afin d'étendre ses infrastructures de compostage et envisage une expansion vers Ambato.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Weekly organic waste collection service at home",
         "fr": "Service de collecte hebdomadaire des déchets organiques à domicile",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Compost returned to subscribing families",
         "fr": "Compost restitué aux familles abonnées",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Six-month composting technician training program",
         "fr": "Programme de formation de technicien en compostage de six mois",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Zero waste principles workshops for businesses",
         "fr": "Ateliers sur les principes zéro déchet pour les entreprises",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Compost donated for urban reforestation campaigns",
         "fr": "Compost offert pour les campagnes de reforestation urbaine",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Pet waste composting service with animal rescue",
         "fr": "Service de compostage des déjections animales avec refuge pour animaux",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Non-reimbursable international climate change funds",
         "fr": "Fonds internationaux non remboursables pour la lutte contre les changements climatiques",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "New household and business composting subscribers",
         "fr": "Nouveaux abonnés au compostage domestique et commercial",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Organizations aligned with Zero Waste ODS 13",
         "fr": "Organisations alignées sur Zéro Déchet ODS 13",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Technology to modernize composting processes",
         "fr": "Technologie pour moderniser les processus de compostage",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Municipal land via comodato for expansion",
         "fr": "Terrain municipal via comodato pour l'expansion",
@@ -215,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Organic waste impact metrics and data partners",
         "fr": "Indicateurs d'impact des déchets organiques et partenaires de données",

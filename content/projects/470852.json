@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "united-kingdom"
-  ],
+  "continent": ["europe"],
+  "country": ["united-kingdom"],
   "createdAt": 1754663177,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Jollof Cafe es una iniciativa comunitaria de Brighton que fomenta el compromiso social entre inmigrantes, refugiados, solicitantes de asilo y residentes locales a través de comidas compartidas. Lanzado en 2015, aborda la inseguridad alimentaria al tiempo que promueve la solidaridad y el intercambio cultural. La cafetería, que funciona con un sistema de pago por cubierto, permite a los participantes disfrutar de comidas vegetarianas de alta calidad, conectar con sus comunidades y desarrollar habilidades de liderazgo, al tiempo que crea un espacio acogedor para diversas interacciones culturales.",
     "de": "Das Jollof Cafe ist eine gemeinschaftsgetriebene Initiative in Brighton, die durch gemeinsame Mahlzeiten soziales Engagement unter Migranten, Flüchtlingen, Asylbewerbern und Einheimischen fördert. Die 2015 ins Leben gerufene Initiative bekämpft Ernährungsunsicherheiten und fördert gleichzeitig Solidarität und kulturellen Austausch. Das Café, das auf einer Pay-as-you-feel-Basis betrieben wird, ermöglicht es den Teilnehmern, hochwertige, vegetarische Mahlzeiten zu genießen, sich mit ihren Gemeinden zu verbinden und Führungsqualitäten zu entwickeln, während gleichzeitig ein einladender Raum für verschiedene kulturelle Interaktionen geschaffen wird."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,21 +33,16 @@
       "lastname": "Temitayo Onikosi"
     }
   ],
-  "thematic": [
-    "inequalities-poverty-development",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "RJlRjzyIwQs",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The UK's hostile environment policy began, with its effects felt by 2014-2015 as migrants and asylum seekers faced increasing pressure and reduced support.",
         "fr": "La politique d'environnement hostile du Royaume-Uni a débuté, avec ses effets ressentis dès 2014-2015 alors que les migrants et les demandeurs d'asile faisaient face à une pression croissante et à une réduction du soutien.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2015-2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Yolof Cafe launched at the Cowley Club in Brighton as a solidarity movement, bringing migrants and settled communities together through shared food cooked from countries of origin.",
         "fr": "Le Yolof Cafe a été lancé au Cowley Club à Brighton en tant que mouvement de solidarité, réunissant migrants et communautés établies autour de repas partagés cuisinés à partir des pays d'origine.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "COVID-19 forced the cafe to pause in-person activities, though the group maintained weekly Zoom check-ins to support members and prevent isolation.",
         "fr": "La COVID-19 a contraint le café à suspendre ses activités en personne, bien que le groupe ait maintenu des réunions hebdomadaires sur Zoom pour soutenir les membres et prévenir l'isolement.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "Post-2020",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The group formally constituted itself as a community group with a written constitution, elected executive committee, and opened a bank account, enabling them to apply for council grants.",
         "fr": "Le groupe s'est officiellement constitué en association communautaire avec une charte écrite, un comité exécutif élu, et a ouvert un compte bancaire, lui permettant de solliciter des subventions municipales.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "Post-2020",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "After the asylum hotel influx brought up to 100 people weekly and highlighted food poverty, the cafe relocated to West Hill Hall and began attracting other migrant support organizations as a hub.",
         "fr": "Après l'afflux lié aux hôtels d'asile qui amenait jusqu'à 100 personnes par semaine et mettait en évidence la précarité alimentaire, le café a déménagé au West Hill Hall et a commencé à attirer d'autres organisations de soutien aux migrants en tant que hub.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "Ongoing",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The cafe now feeds 30-50 people weekly on a £50 budget using a pay-as-you-feel model, while hosting partner organizations offering housing, immigration, and mental health support services.",
         "fr": "Le café nourrit désormais 30 à 50 personnes chaque semaine avec un budget de 50 £ grâce à un modèle de paiement libre, tout en accueillant des organisations partenaires proposant des services d'aide au logement, à l'immigration et à la santé mentale.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Weekly shared meals for migrants and locals",
         "fr": "Repas partagés hebdomadaires pour migrants et locaux",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "High quality ethnic vegetarian food",
         "fr": "Nourriture végétarienne ethnique de haute qualité",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Free or pay-as-you-feel accessible meals",
         "fr": "Repas gratuits ou à prix libre et accessibles",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Safe social space to reduce isolation",
         "fr": "Espace social sûr pour réduire l'isolement",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Leadership roles for migrants on governing board",
         "fr": "Rôles de leadership pour les migrants au conseil d'administration",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Hub connecting migrants to support organizations",
         "fr": "Plateforme reliant les migrants aux organisations de soutien",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Stable base of regular volunteers",
         "fr": "Base stable de bénévoles réguliers",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants and donations for operations",
         "fr": "Subventions et dons pour les opérations",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Migrant support organizations as collaborators",
         "fr": "Organisations de soutien aux migrants en tant que collaborateurs",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Wider community attendance at weekly cafe",
         "fr": "Participation élargie de la communauté au café hebdomadaire",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Own building or kitchen space",
         "fr": "Bâtiment propre ou espace cuisine",

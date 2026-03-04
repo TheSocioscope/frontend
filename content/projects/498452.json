@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "spain"
-  ],
+  "continent": ["europe"],
+  "country": ["spain"],
   "createdAt": 1755099006,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Eixarcolant, fundada en 2016, es una iniciativa destinada a recuperar plantas olvidadas, en particular especies silvestres comestibles y variedades agrícolas tradicionales. Nacida de la investigación etnobotánica en la región de Noya, busca transformar los sistemas agroalimentarios mediante la reintegración de estas plantas en las prácticas culinarias locales. La iniciativa fomenta la participación de la comunidad mediante talleres, investigación y un banco de semillas, promoviendo la biodiversidad y las prácticas alimentarias sostenibles al tiempo que preserva el patrimonio cultural vinculado a estas plantas olvidadas.",
     "de": "Eixarcolant wurde 2016 gegründet und ist eine Initiative zur Wiederherstellung vergessener Pflanzen, insbesondere essbarer Wildarten und traditioneller landwirtschaftlicher Sorten. Sie geht auf ethnobotanische Forschungen in der Region Noya zurück und will die Agrar- und Ernährungssysteme durch die Wiedereingliederung dieser Pflanzen in lokale kulinarische Praktiken verändern. Die Initiative fördert das Engagement der Gemeinschaft durch Workshops, Forschung und eine Saatgutbank, um die biologische Vielfalt und nachhaltige Ernährungspraktiken zu fördern und gleichzeitig das mit diesen vergessenen Pflanzen verbundene kulturelle Erbe zu bewahren."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -41,21 +34,16 @@
       "lastname": "Reguera"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "ecology-environmental-change"
-  ],
+  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://eixarcolant.cat/com-ho-fem/",
   "yt": "Cnd9lAK3KKg",
   "originalLang": "it",
   "timeline": [
     {
       "date": "2016",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Charcolàn was founded in the Anoia region of Catalonia, emerging from doctoral research in ethnobotany led by Marc Talavera, focusing on recovering forgotten plants and traditional agricultural varieties.",
         "fr": "Charcolàn a été fondée dans la région de l'Anoia en Catalogne, issue d'une recherche doctorale en ethnobotanique menée par Marc Talavera, axée sur la récupération de plantes oubliées et de variétés agricoles traditionnelles.",
@@ -65,7 +53,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The first Jornada de les Plantes Oblidades was held, attracting far more participants than expected, with around 300 people attending and confirming strong public interest in the initiative.",
         "fr": "La première Jornada de les Plantes Oblidades a eu lieu, attirant bien plus de participants que prévu, avec environ 300 personnes présentes, confirmant l'intérêt marqué du public pour l'initiative.",
@@ -75,7 +63,7 @@
     },
     {
       "date": "2016-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The seed bank grew to 700 different species and traditional agricultural varieties, supported by six multiplication gardens and an active community of 1,500 members organized in 20 territorial nodes.",
         "fr": "La banque de semences a atteint 700 espèces différentes et variétés agricoles traditionnelles, soutenue par six jardins de multiplication et une communauté active de 1 500 membres organisés en 20 nœuds territoriaux.",
@@ -85,7 +73,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "A pilot project was launched in the Bellmunt-Almenara area of Lleida with multiple farmers cultivating three wild edible species, marking the initiative's first move toward larger-scale agricultural production.",
         "fr": "Un projet pilote a été lancé dans la zone de Bellmunt-Almenara à Lleida, avec plusieurs agriculteurs cultivant trois espèces sauvages comestibles, marquant le premier pas de l'initiative vers une production agricole à plus grande échelle.",
@@ -95,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Charcolàn submitted approximately 300 plant files to the Spanish Ministry of Agriculture to begin the legal registration of wild edible plants as recognized food ingredients, a key step toward broader commercialization.",
         "fr": "Charcolàn a soumis environ 300 fiches de plantes au ministère espagnol de l'Agriculture afin d'entamer l'enregistrement légal de plantes sauvages comestibles en tant qu'ingrédients alimentaires reconnus, une étape clé vers une commercialisation plus large.",
@@ -105,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The Singulars project was in advanced planning, aiming to connect around 400 agroecological producers with 100 local points of sale across Catalonia through a centralized logistics and administrative platform.",
         "fr": "Le projet Singulars était en phase de planification avancée, visant à connecter environ 400 producteurs agroécologiques avec 100 points de vente locaux à travers la Catalogne via une plateforme logistique et administrative centralisée.",
@@ -116,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ethnobotanical research on forgotten plants",
         "fr": "Recherche ethnobotanique sur les plantes oubliées",
@@ -125,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "500+ annual awareness and outreach activities",
         "fr": "500+ activités annuelles de sensibilisation et de vulgarisation",
@@ -134,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seed bank with 700 traditional varieties",
         "fr": "Banque de semences avec 700 variétés traditionnelles",
@@ -143,7 +131,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Native seeds and seedlings for sale",
         "fr": "Semences et plants indigènes à vendre",
@@ -152,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Advisory services for farmers and growers",
         "fr": "Services de conseil pour les agriculteurs et les producteurs",
@@ -161,7 +149,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Pilot cultivation trials with local producers",
         "fr": "Essais de culture pilotes avec des producteurs locaux",
@@ -172,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Ethnobotanical prospection of remaining Catalan territory",
         "fr": "Prospection ethnobotanique du territoire catalan restant",
@@ -181,7 +169,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Create commercial markets for forgotten plants",
         "fr": "Créer des marchés commerciaux pour les plantes oubliées",
@@ -190,7 +178,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Legal registration of wild plants as food ingredients",
         "fr": "Enregistrement légal des plantes sauvages comme ingrédients alimentaires",
@@ -199,7 +187,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Agricultural producers for pilot cultivation projects",
         "fr": "Producteurs agricoles pour des projets pilotes de culture",
@@ -208,7 +196,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Financing for Singulars agroecological logistics network",
         "fr": "Financement pour le réseau logistique agroécologique Singulars",
@@ -217,7 +205,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Elderly informants with traditional seed knowledge",
         "fr": "Informateurs âgés possédant des connaissances traditionnelles sur les semences",

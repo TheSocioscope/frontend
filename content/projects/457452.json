@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754312535,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Foodbiome es una iniciativa de cuatro años que pretende restablecer el vínculo entre la alimentación y el territorio tanto a nivel físico como cultural. Fundada por Jean-Philippe Guérard, fomenta la colaboración entre diversas partes interesadas, incluidos agricultores, autoridades locales y empresarios, para crear un ecosistema en red para la transición alimentaria. Mediante el asesoramiento y el apoyo a la creación de redes, Foodbiome trata de optimizar las iniciativas locales y nacionales, garantizando que colaboren eficazmente para promover sistemas alimentarios y modelos económicos sostenibles.",
     "de": "Foodbiome ist eine vierjährige Initiative, die die Verbindung zwischen Lebensmitteln und Territorium auf physischer und kultureller Ebene wiederherstellen will. Die von Jean-Philippe Guérard gegründete Initiative fördert die Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter Landwirte, lokale Behörden und Unternehmer, um ein vernetztes Ökosystem für den Übergang von Lebensmitteln zu schaffen. Durch die Bereitstellung von Beratungs- und Vernetzungsunterstützung will Foodbiome lokale und nationale Initiativen optimieren und sicherstellen, dass sie effektiv zusammenarbeiten, um nachhaltige Nahrungsmittelsysteme und Wirtschaftsmodelle zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,13 +33,9 @@
       "lastname": "Querand"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://foodbiome.fr/",
   "yt": "PitUea6KQeE",
   "editedAt": 1755735575,
@@ -55,14 +45,12 @@
       "at": 1755735575
     }
   ],
-  "updatedAt": [
-    1755735575
-  ],
+  "updatedAt": [1755735575],
   "originalLang": "fr",
   "timeline": [
     {
       "date": "Before 2017",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Jean-Philippe spent 8 years at Mars Group and worked in food, logistics, and e-commerce, including at Bertelsmann and Cronenbourg breweries. He later joined Elior as head of marketing, innovation, and purchasing for the collective catering group.",
         "fr": "Jean-Philippe a passé 8 ans au groupe Mars et a travaillé dans l'alimentation, la logistique et le e-commerce, notamment chez Bertelsmann et les brasseries Cronenbourg. Il a ensuite rejoint Elior en tant que responsable du marketing, de l'innovation et des achats pour le groupe de restauration collective.",
@@ -72,7 +60,7 @@
     },
     {
       "date": "Before 2017",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "While at Elior, Jean-Philippe created an internal investment fund, invested in around fifteen startups, and structured a consortium of agroecology stakeholders including SystemU, AccorHotels, and Invivo.",
         "fr": "Chez Elior, Jean-Philippe a créé un fonds d'investissement interne, investi dans une quinzaine de startups, et structuré un consortium d'acteurs de l'agroécologie incluant SystemU, AccorHotels et Invivo.",
@@ -82,7 +70,7 @@
     },
     {
       "date": "circa 2017",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "After leaving Elior, Jean-Philippe launched Pour une Agriculture du Vivant, an association he presided over for 7 years, which today federates more than 120 members across the agri-food chain to accelerate the transition to regenerative agriculture.",
         "fr": "Après avoir quitté Elior, Jean-Philippe a lancé Pour une Agriculture du Vivant, une association qu'il a présidée pendant 7 ans, et qui fédère aujourd'hui plus de 120 membres tout au long de la chaîne agroalimentaire pour accélérer la transition vers l'agriculture régénérative.",
@@ -92,7 +80,7 @@
     },
     {
       "date": "circa 2021",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Jean-Philippe co-founded Foodbiome with his partner Adrien, a mission-driven company aimed at restoring the food-territory link by structuring local food chains and incubating innovative startups.",
         "fr": "Jean-Philippe a co-fondé Foodbiome avec son associé Adrien, une entreprise à mission visant à restaurer le lien alimentation-territoire en structurant des filières alimentaires locales et en incubant des startups innovantes.",
@@ -102,7 +90,7 @@
     },
     {
       "date": "2021-2025",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Foodbiome grew to a team of 8 people, developed a network of légumerie-conserveries by taking over struggling facilities, incubated around ten projects, and began structuring investment vehicles including Foodbiome Partners.",
         "fr": "Foodbiome a grandi pour atteindre une équipe de 8 personnes, a développé un réseau de légumerie-conserveries en reprenant des installations en difficulté, a incubé une dizaine de projets, et a commencé à structurer des véhicules d'investissement dont Foodbiome Partners.",
@@ -112,7 +100,7 @@
     },
     {
       "date": "ongoing",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Foodbiome launched the Foodbiome Academy to help leaders and elected officials understand systemic food transition, while expanding its ecosystem of entrepreneurs, territorial projects, and financial partners.",
         "fr": "Foodbiome a lancé la Foodbiome Academy pour aider les dirigeants et les élus à comprendre la transition alimentaire systémique, tout en développant son écosystème d'entrepreneurs, de projets territoriaux et de partenaires financiers.",
@@ -123,7 +111,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Connecting diverse food system stakeholders",
         "fr": "Connecter les parties prenantes diversifiées du système alimentaire",
@@ -132,7 +120,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Acculturation programs for executives and elected officials",
         "fr": "Programmes d'acculturation pour les dirigeants et les élus",
@@ -141,7 +129,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Consulting for territorial food infrastructure projects",
         "fr": "Conseil en projets d'infrastructures alimentaires territoriales",
@@ -150,7 +138,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Startup incubation for scalable food solutions",
         "fr": "Incubation de startups pour des solutions alimentaires évolutives",
@@ -159,7 +147,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food school network training responsible entrepreneurs",
         "fr": "Réseau d'écoles alimentaires formant des entrepreneurs responsables",
@@ -168,7 +156,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Impact investment vehicles for agri-food transition",
         "fr": "Véhicules d'investissement à impact pour la transition agri-alimentaire",
@@ -179,7 +167,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Entrepreneurs aligned with food-territory transition",
         "fr": "Entrepreneurs engagés dans la transition alimentaire territoriale",
@@ -188,7 +176,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Impact investors for long-term food projects",
         "fr": "Investisseurs à impact pour des projets alimentaires à long terme",
@@ -197,7 +185,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Real estate developers for territorial food infrastructure",
         "fr": "Promoteurs immobiliers pour les infrastructures alimentaires territoriales",
@@ -206,7 +194,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Executives and elected officials for systemic awareness",
         "fr": "Dirigeants et élus pour une prise de conscience systémique",
@@ -215,7 +203,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Pioneer farmers willing to share and scale practices",
         "fr": "Agriculteurs pionniers prêts à partager et à diffuser leurs pratiques",
@@ -224,7 +212,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Researchers on soil microbiome and human health links",
         "fr": "Chercheurs sur les liens entre microbiome des sols et santé humaine",

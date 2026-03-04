@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "denmark"
-  ],
+  "continent": ["europe"],
+  "country": ["denmark"],
   "createdAt": 1754431101,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La iniciativa, conocida como Gronne Nabofaellesskaber o Comunidades de Vecinos Verdes, es una organización de ámbito nacional en Dinamarca centrada en el fomento de valores sostenibles a través del compromiso comunitario. Fundada en 2020, ha crecido hasta englobar a unos 310 grupos locales y 3.500 miembros. La organización promueve diversas actividades, como la cocina y la jardinería comunitarias, para activar las comunidades locales y fomentar una vida sostenible. Su enfoque de base se basa en representantes locales apasionados para impulsar el compromiso y la colaboración con los municipios y otras partes interesadas.",
     "de": "Die Initiative, bekannt als Gronne Nabofaellesskaber oder Green Neighborhood Communities, ist eine landesweite Organisation in Dänemark, die sich auf die Förderung nachhaltiger Werte durch kommunales Engagement konzentriert. Sie wurde im Jahr 2020 gegründet und ist auf rund 310 lokale Gruppen und 3.500 Mitglieder angewachsen. Die Organisation fördert verschiedene Aktivitäten, wie gemeinschaftliches Kochen und Gärtnern, um lokale Gemeinschaften zu aktivieren und ein nachhaltiges Leben zu fördern. Its grassroots approach relies on passionate local representatives to drive engagement and collaboration with municipalities and other stakeholders."
   },
-  "field": [
-    "other-social-sciences-and-humanities",
-    "nutrition"
-  ],
+  "field": ["other-social-sciences-and-humanities", "nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -46,21 +39,16 @@
       "lastname": "Mathiesen"
     }
   ],
-  "thematic": [
-    "cities-mobility-urban-planning",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["cities-mobility-urban-planning", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://gnf.green",
   "yt": "mPgGNoI2swo",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Bent founded Green Neighborhood Communities in March 2020, initially launching on Facebook after COVID-19 prevented planned in-person events. Within a year, 60 local groups had formed across 40 municipalities.",
         "fr": "Bent a fondé Green Neighborhood Communities en mars 2020, en lançant initialement le projet sur Facebook après que la COVID-19 ait empêché les événements en personne prévus. En moins d'un an, 60 groupes locaux s'étaient formés dans 40 municipalités.",
@@ -70,7 +58,7 @@
     },
     {
       "date": "2021",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "In August 2021, Bent was hired part-time by Democracy X (then called Deltal Danmark) after they received a 35 million grant from foundations including Velux and Novo for sustainability community projects. This provided the first paid support for the organization.",
         "fr": "En août 2021, Bent a été embauché à temps partiel par Democracy X (alors appelée Deltal Danmark) après qu'ils aient reçu une subvention de 35 millions de la part de fondations dont Velux et Novo, destinée à des projets communautaires de durabilité. Cela a fourni le premier soutien rémunéré à l'organisation.",
@@ -80,7 +68,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Green Neighborhood Communities was officially registered as a formal association in March 2023. A dedicated secretariat was established within Democracy X, growing to 11 employees working across green communities and climate action initiatives.",
         "fr": "Green Neighborhood Communities a été officiellement enregistrée en tant qu'association formelle en mars 2023. Un secrétariat dédié a été créé au sein de Democracy X, comptant jusqu'à 11 employés travaillant sur des initiatives de communautés vertes et d'action climatique.",
@@ -90,7 +78,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The organization expanded its municipal partnerships beyond the pilot in Brøndby Kommune, with several municipalities including Rødovre, Sorø, and Herning hiring local organizers under the Green Neighborhood Communities structure.",
         "fr": "L'organisation a élargi ses partenariats municipaux au-delà du projet pilote à Brøndby Kommune, plusieurs municipalités dont Rødovre, Sorø et Herning ayant recruté des organisateurs locaux dans le cadre de la structure de Green Neighborhood Communities.",
@@ -100,7 +88,7 @@
     },
     {
       "date": "2024-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The organization reached 310 local groups across all Danish municipalities and approximately 35,000 mobilized members. The National Day of Climate Action attracted 250,000 participants, double the 125,000 from the previous year.",
         "fr": "L'organisation a atteint 310 groupes locaux répartis dans toutes les municipalités danoises et environ 35 000 membres mobilisés. La Journée nationale d'action pour le climat a attiré 250 000 participants, soit le double des 125 000 de l'année précédente.",
@@ -110,7 +98,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Green Neighborhood Communities secured 16 million from the Underfrens Foundation to launch the Green Folk High School program, aimed at training citizen ambassadors in community organizing and green transition leadership.",
         "fr": "Green Neighborhood Communities a obtenu 16 millions de la part de la Fondation Underfrens pour lancer le programme de la Green Folk High School, visant à former des ambassadeurs citoyens en organisation communautaire et en leadership pour la transition verte.",
@@ -121,7 +109,7 @@
   ],
   "offers": [
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local green communities around sustainable values",
         "fr": "Communautés vertes locales autour de valeurs durables",
@@ -130,7 +118,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Shared meals and plant-based cooking together",
         "fr": "Repas partagés et cuisine végétale ensemble",
@@ -139,7 +127,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Repair cafes and dumpster diving activities",
         "fr": "Cafés de réparation et activités de récupération dans les poubelles",
@@ -148,7 +136,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Seed library for free seed exchange",
         "fr": "Bibliothèque de graines pour l'échange gratuit de semences",
@@ -157,7 +145,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Green ambassador education through folk high school",
         "fr": "Formation d'ambassadeurs verts via une école populaire",
@@ -166,7 +154,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Centralized funding access for local group projects",
         "fr": "Accès centralisé aux financements pour les projets de groupes locaux",
@@ -177,7 +165,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Local community representatives to lead groups",
         "fr": "Des représentants de la communauté locale pour diriger les groupes",
@@ -186,7 +174,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Municipal partnerships for local organizers",
         "fr": "Partenariats municipaux pour les organisateurs locaux",
@@ -195,7 +183,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Foundation grants for local initiatives",
         "fr": "Subventions de fondations pour les initiatives locales",
@@ -204,7 +192,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Reach 600,000 Danes by 2030",
         "fr": "Atteindre 600 000 Danois d'ici 2030",
@@ -213,7 +201,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Libraries and institutions for community space",
         "fr": "Bibliothèques et institutions pour les espaces communautaires",
@@ -222,7 +210,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Promote plant-based food and shared gardens",
         "fr": "Promouvoir l'alimentation végétale et les jardins partagés",
@@ -274,9 +262,7 @@
     }
   ],
   "editedAt": 1771239010,
-  "updatedAt": [
-    1771239010
-  ],
+  "updatedAt": [1771239010],
   "feedback": [
     {
       "content": false,

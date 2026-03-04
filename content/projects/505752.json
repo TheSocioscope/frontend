@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "north-america"
-  ],
-  "country": [
-    "mexico"
-  ],
+  "continent": ["north-america"],
+  "country": ["mexico"],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "IXTI produces aguamiel, pulque, and maguey products under an ecological model utilizing 100% of the maguey plant.",
     "de": "IXTI produces aguamiel, pulque, and maguey products under an ecological model utilizing 100% of the maguey plant."
   },
-  "field": [
-    "ecology-environmental-sciences"
-  ],
+  "field": ["ecology-environmental-sciences"],
   "lang": "es",
   "location": "Huitzilac, Morelos",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Acosta"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://ixtimaguey.com/",
   "yt": "",
   "originalLang": "es",
   "timeline": [
     {
       "date": "1928",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The family's pulque-making tradition began with Miryam's great-grandparents, establishing nearly a century of maguey cultivation and pulque production in Huitzilac, Morelos.",
         "fr": "La tradition familiale de production de pulque a commencé avec les arrière-grands-parents de Miryam, établissant près d'un siècle de culture du maguey et de production de pulque à Huitzilac, Morelos.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "A severe forest fire in the Chichinautzin biological corridor prompted Miryam and community members to raise alarms publicly, accelerating pressure on authorities to respond and deepening her environmental commitment.",
         "fr": "Un grave incendie de forêt dans le corridor biologique de Chichinautzin a poussé Miryam et des membres de la communauté à lancer des alertes publiques, accélérant la pression sur les autorités pour qu'elles réagissent et renforçant son engagement environnemental.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2022",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Ixti was founded under the original name Corazón de Maguey, and in the same year received a scholarship from Vía Orgánica and Universidad de Guanajuato for a six-month agave and agroecology diploma, and joined Mercadito Verde.",
         "fr": "Ixti a été fondée sous le nom original Corazón de Maguey, et la même année a reçu une bourse de Vía Orgánica et de l'Universidad de Guanajuato pour un diplôme de six mois en agave et agroécologie, et a rejoint le Mercadito Verde.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2023",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The brand was renamed Ixti after three trademark rejections, and was selected for the New Venture-Bayer agroecological systems program and a sustainability diploma offered through Spain's Chamber of Commerce.",
         "fr": "La marque a été renommée Ixti après trois refus de dépôt de marque, et a été sélectionnée pour le programme de systèmes agroécologiques New Venture-Bayer ainsi que pour un diplôme en développement durable proposé par la Chambre de commerce d'Espagne.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Ixti was approved for a CONAFOR-linked ecological center project, signed a service-learning agreement with UAM, and was selected for the Cultivadoras de Agua y Clima program funded by German Development Cooperation, Heineken, and Grupo Salinas.",
         "fr": "Ixti a été approuvée pour un projet de centre écologique lié au CONAFOR, a signé un accord d'apprentissage par le service avec l'UAM, et a été sélectionnée pour le programme Cultivadoras de Agua y Clima financé par la Coopération allemande au développement, Heineken et Grupo Salinas.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Ixti secured equipment funding from Sedagro to expand cosmetics production and shifted its primary commercial focus toward natural cosmetics, identifying this line as the most financially sustainable product category.",
         "fr": "Ixti a obtenu un financement en équipement de la part de Sedagro pour développer sa production de cosmétiques et a réorienté son activité commerciale principale vers les cosmétiques naturels, identifiant cette gamme comme la catégorie de produits la plus financièrement viable.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Traditional cuisine using seasonal local ingredients",
         "fr": "Cuisine traditionnelle à base d'ingrédients locaux de saison",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental workshops on composting and dry toilets",
         "fr": "Ateliers environnementaux sur le compostage et les toilettes sèches",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Guided tours of maguey agroecological space",
         "fr": "Visites guidées de l'espace agroécologique du maguey",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Natural cosmetics made from maguey plant",
         "fr": "Cosmétiques naturels fabriqués à partir de la plante maguey",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Prehispanic cultural ceremonies and experiences",
         "fr": "Cérémonies et expériences culturelles préhispaniques",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Service social placements for university students",
         "fr": "Stages de service social pour les étudiants universitaires",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "More distribution points for cosmetic products",
         "fr": "Plus de points de distribution pour les produits cosmétiques",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Green Fund grants for protected natural areas",
         "fr": "Subventions du Fonds Vert pour les zones naturelles protégées",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Visitors to agroecological and cultural tours",
         "fr": "Visiteurs pour les circuits agroécologiques et culturels",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific partnerships for maguey plant knowledge",
         "fr": "Partenariats scientifiques pour la connaissance de la plante maguey",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Allies to amplify environmental awareness workshops",
         "fr": "Alliés pour amplifier les ateliers de sensibilisation environnementale",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government support for community productive projects",
         "fr": "Soutien gouvernemental aux projets productifs communautaires",

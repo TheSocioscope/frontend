@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1755007499,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "La granja Two Pixis Brothers se dedica a la cría y venta de plantones de cítricos de alta calidad, como naranjas, mandarinas y limones, en el condado de Makueni. La granja no solo ofrece servicios de injerto y consulta a los agricultores locales, sino que también se centra en formar y capacitar a la comunidad para mejorar las prácticas agrícolas. a granja pretende mejorar la seguridad alimentaria local proporcionando plantones de alta calidad más productivos y resistentes a la sequía y las enfermedades en comparación con las variedades tradicionales.",
     "de": "Die Two Pixis Brothers Farm widmet sich der Aufzucht und dem Verkauf von hochwertigen Zitrusfruchtsetzlingen, darunter Orangen, Mandarinen und Zitronen, im Bezirk Makueni. Die Farm bietet nicht nur Veredelungs- und Beratungsdienste für lokale Landwirte an, sondern konzentriert sich auch auf die Schulung und Befähigung der Gemeinschaft zur Verbesserung der landwirtschaftlichen Praktiken. Die Farm will die lokale Ernährungssicherheit verbessern, indem sie hochwertige Setzlinge bereitstellt, die im Vergleich zu herkömmlichen Sorten produktiver und widerstandsfähiger gegen Dürre und Krankheiten sind."
   },
-  "field": [
-    "nutrition",
-    "ecology-environmental-sciences"
-  ],
+  "field": ["nutrition", "ecology-environmental-sciences"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +33,16 @@
       "lastname": "Kalandi Kiio"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "2020",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Gideon Kalandi Kiyo and his brother founded Two Brothers Pixie Farm in Makueni County during the COVID-19 pandemic. Initial capital came from selling a bull provided by their father, which was used to purchase basic equipment and supplies.",
         "fr": "Gideon Kalandi Kiyo et son frère ont fondé Two Brothers Pixie Farm dans le comté de Makueni pendant la pandémie de COVID-19. Le capital initial provient de la vente d'un taureau fourni par leur père, qui a servi à acheter du matériel et des fournitures de base.",
@@ -63,7 +52,7 @@
     },
     {
       "date": "2020",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "The farm faced early obstacles including water shortages, limited access to inputs, emergence of new crop diseases, and difficulty convincing community members to adopt grafted seedlings over indigenous varieties.",
         "fr": "La ferme a rencontré des obstacles précoces, notamment des pénuries d'eau, un accès limité aux intrants, l'apparition de nouvelles maladies des cultures et la difficulté à convaincre les membres de la communauté d'adopter des plants greffés plutôt que des variétés indigènes.",
@@ -73,7 +62,7 @@
     },
     {
       "date": "2020-2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "In the first year of operations, the farm produced 7,000 seedlings, which were reinvested into establishing an on-site orchard of 500 grafted citrus trees rather than sold commercially.",
         "fr": "Au cours de la première année d'exploitation, la ferme a produit 7 000 plants, qui ont été réinvestis dans la création d'un verger de 500 agrumes greffés sur le site, plutôt que d'être vendus commercialement.",
@@ -83,7 +72,7 @@
     },
     {
       "date": "2021-2022",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Seedling production doubled to approximately 15,000 in the second year as revenue from sales was reinvested into the farm, and the farm grew to a current stock of 30,000 seedlings.",
         "fr": "La production de plants a doublé pour atteindre environ 15 000 unités la deuxième année, grâce au réinvestissement des revenus des ventes dans la ferme, et le stock actuel de la ferme a atteint 30 000 plants.",
@@ -93,7 +82,7 @@
     },
     {
       "date": "2022-2023",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The farm obtained official certification from the Kenya Plant Health Inspectorate Service (KEPHIS) and began collaborating with the agency to train farmer groups on nursery and orchard management.",
         "fr": "La ferme a obtenu la certification officielle du Service d'inspection de la santé des plantes du Kenya (KEPHIS) et a commencé à collaborer avec cet organisme pour former des groupes d'agriculteurs à la gestion des pépinières et des vergers.",
@@ -103,7 +92,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The farm began exploring export markets in the UAE and Europe for Pixie oranges, participated in county and NGO-organized trade conferences, and started supplying water to surrounding homesteads using a solar-powered pumping system.",
         "fr": "La ferme a commencé à explorer les marchés d'exportation aux Émirats arabes unis et en Europe pour les oranges Pixie, a participé à des conférences commerciales organisées par le comté et des ONG, et a commencé à approvisionner en eau les foyers environnants grâce à un système de pompage solaire.",
@@ -114,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Grafted citrus seedlings sold to farmers",
         "fr": "Semis d'agrumes greffés vendus aux agriculteurs",
@@ -123,7 +112,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training farmer groups on nursery management",
         "fr": "Formation de groupes d'agriculteurs sur la gestion des pépinières",
@@ -132,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Free seedling donations to schools and churches",
         "fr": "Dons gratuits de semis aux écoles et aux églises",
@@ -141,7 +130,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Linking farmers to local market buyers",
         "fr": "Mise en relation des agriculteurs avec les acheteurs du marché local",
@@ -150,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Farm visits and grafting technique demonstrations",
         "fr": "Visites de fermes et démonstrations de techniques de greffage",
@@ -159,7 +148,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Consultation on pesticides and orchard management",
         "fr": "Consultation sur les pesticides et la gestion des vergers",
@@ -170,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants or loans to scale production",
         "fr": "Subventions ou prêts pour augmenter la production",
@@ -179,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Export markets in UAE and Europe",
         "fr": "Marchés d'exportation aux Émirats arabes unis et en Europe",
@@ -188,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Farmers adopting grafted citrus seedlings",
         "fr": "Agriculteurs adoptant des plants d'agrumes greffés",
@@ -197,7 +186,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "NGO and government partnerships for distribution",
         "fr": "Partenariats avec des ONG et le gouvernement pour la distribution",
@@ -206,7 +195,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Youth and women groups to join farming",
         "fr": "Groupes de jeunes et de femmes pour rejoindre l'agriculture",

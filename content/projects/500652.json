@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "",
     "de": ""
   },
-  "field": [
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Echavarría"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.postobon.com/sala-prensa/noticias/presentamos-el-programa-faro-iniciativa-que-busca-el-fortalecimiento-los",
   "yt": "",
   "originalLang": "en",
   "timeline": [
     {
       "date": "1994",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Law 142 established the regulatory framework for public waste management services in Colombia, requiring companies to contract with recycling associations and setting the tariff structure for waste collection.",
         "fr": "La loi 142 a établi le cadre réglementaire pour les services publics de gestion des déchets en Colombie, obligeant les entreprises à contracter avec des associations de recyclage et fixant la structure tarifaire pour la collecte des déchets.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2016",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Decree 100596 introduced open competition in waste management services, allowing both community recycling associations and private companies to compete for collection contracts.",
         "fr": "Le décret 100596 a introduit la concurrence ouverte dans les services de gestion des déchets, permettant aux associations communautaires de recyclage et aux entreprises privées de concourir pour les contrats de collecte.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2018",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Resolution 1408 (Responsabilidad Extendida del Productor) required companies to demonstrate that a percentage of their packaging materials were being recycled, prompting Postobon to develop the Faro program.",
         "fr": "La résolution 1408 (Responsabilidad Extendida del Productor) a exigé que les entreprises démontrent qu'un pourcentage de leurs emballages était recyclé, incitant Postobon à développer le programme Faro.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2022",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Law 2270 specifically targeted single-use plastics, mandating that companies achieve up to 42% recycling compliance by 2030, with bottle-to-bottle reincorporation goals reaching 90% for water bottles.",
         "fr": "La loi 2270 a spécifiquement ciblé les plastiques à usage unique, imposant aux entreprises d'atteindre jusqu'à 42 % de conformité en matière de recyclage d'ici 2030, avec des objectifs de réincorporation bouteille à bouteille atteignant 90 % pour les bouteilles d'eau.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2022-2025",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Faro program scaled to support 50 recycling associations and over 200 recyclers, collecting 108,000 tons of multi-material waste annually at a cost of 1.27 million euros versus 2.9 million euros to buy equivalent certificates on the open market.",
         "fr": "Le programme Faro a évolué pour soutenir 50 associations de recyclage et plus de 200 recycleurs, collectant 108 000 tonnes de déchets multimatériaux par an pour un coût de 1,27 million d'euros, contre 2,9 millions d'euros pour l'achat de certificats équivalents sur le marché libre.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2025",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "PepsiCo and Crown joined as co-funders of the Faro program, contributing approximately 125,000 euros annually for well-being and logistics support, reducing Postobon's net program cost while expanding social impact for recyclers.",
         "fr": "PepsiCo et Crown ont rejoint le programme Faro en tant que cofinanceurs, contribuant environ 125 000 euros par an pour le soutien au bien-être et à la logistique, réduisant le coût net du programme pour Postobon tout en élargissant l'impact social pour les recycleurs.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Academic case study documentation and analysis",
         "fr": "Documentation et analyse académique d'études de cas",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Network connecting 600+ sustainability initiatives worldwide",
         "fr": "Réseau connectant plus de 600 initiatives de durabilité dans le monde",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Blog posts and policy reports for public inspiration",
         "fr": "Articles de blog et rapports politiques pour inspirer le public",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Socioscope website with video case study library",
         "fr": "Site web Socioscope avec une bibliothèque de vidéos d'études de cas",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Scientific legitimacy and naming for sustainability strategies",
         "fr": "Légitimité scientifique et dénomination des stratégies de durabilité",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "AI-powered analysis across 600 global food cases",
         "fr": "Analyse propulsée par l'IA à travers 600 cas alimentaires mondiaux",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Detailed case study of sustainability strategy",
         "fr": "Étude de cas détaillée sur la stratégie de durabilité",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Large company sustainability cases in Colombia",
         "fr": "Cas de durabilité des grandes entreprises en Colombie",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Economic valuation of recycling program costs",
         "fr": "Évaluation économique des coûts du programme de recyclage",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government engagement on recycling regulation",
         "fr": "Engagement gouvernemental sur la réglementation du recyclage",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "recycling",
+      "icon": "mdi-recycle",
       "label": {
         "en": "Traceability data across recycling value chain",
         "fr": "Données de traçabilité tout au long de la chaîne de valeur du recyclage",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Co-funding partners for Faro program expansion",
         "fr": "Partenaires de cofinancement pour l'expansion du programme Faro",

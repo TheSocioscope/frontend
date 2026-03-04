@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "france"
-  ],
+  "continent": ["europe"],
+  "country": ["france"],
   "createdAt": 1754909870,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa de Ungersheim se centra en la agricultura sostenible y la soberanía alimentaria. A lo largo de ocho años, el proyecto ha evolucionado de un único hortelano a un equipo de colaboración, haciendo hincapié en la producción local de alimentos, la independencia energética y la participación de la comunidad. La granja no sólo abastece al comedor local, sino que también distribuye cestas de verduras gratuitas a los hogares, fomentando la concienciación sobre la agricultura ecológica. Este modelo innovador pretende educar y capacitar a la comunidad al tiempo que promueve prácticas ecológicas.",
     "de": "Die Initiative in Ungersheim konzentriert sich auf nachhaltige Landwirtschaft und Ernährungssouveränität. Im Laufe von acht Jahren hat sich das Projekt von einem einzelnen Gärtner zu einem kollaborativen Team entwickelt, das den Schwerpunkt auf lokale Lebensmittelproduktion, Energieunabhängigkeit und Engagement für die Gemeinschaft legt. Die Farm beliefert nicht nur die örtliche Kantine, sondern verteilt auch kostenlose Gemüsekörbe an Haushalte und fördert so das Bewusstsein für den ökologischen Landbau. Dieses innovative Modell zielt darauf ab, die Gemeinschaft aufzuklären und zu befähigen und gleichzeitig ökologische Praktiken zu fördern."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,20 +34,16 @@
       "lastname": "Sakai"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.mairie-ungersheim.fr/village-en-transition-1/",
   "yt": "i_sglE5alEk",
   "originalLang": "ro",
   "timeline": [
     {
       "date": "~30 years ago",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "The mayor of Ungersheim began initiating a village-wide transition project built on three pillars: food sovereignty, energy independence, and intellectual autonomy.",
         "fr": "Le maire d'Ungersheim a commencé à initier un projet de transition à l'échelle du village, fondé sur trois piliers : la souveraineté alimentaire, l'indépendance énergétique et l'autonomie intellectuelle.",
@@ -63,7 +53,7 @@
     },
     {
       "date": "~8 years ago",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Kenji Sakai was hired as the commune's first market gardener and head of the agricultural régie, starting nearly from scratch on empty parcels with a municipal budget.",
         "fr": "Kenji Sakai a été embauché comme premier maraîcher de la commune et responsable de la régie agricole, en repartant presque de zéro sur des parcelles vides avec un budget municipal.",
@@ -73,7 +63,7 @@
     },
     {
       "date": "early years",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "The Jardin du Coquelicot was co-built with communal workshop staff and became the first operational site of the agricultural régie, equipped with solar panels and a wind turbine for energy autonomy.",
         "fr": "Le Jardin du Coquelicot a été co-construit avec le personnel des ateliers communaux et est devenu le premier site opérationnel de la régie agricole, équipé de panneaux solaires et d'une éolienne pour l'autonomie énergétique.",
@@ -83,7 +73,7 @@
     },
     {
       "date": "~5-6 years ago",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Jardin du Trèfle Rouge was taken over by the commune after the bankruptcy of the insertion association that previously managed it, becoming the new operational hub with full cold-storage and conditioning infrastructure.",
         "fr": "Le Jardin du Trèfle Rouge a été repris par la commune après la faillite de l'association d'insertion qui le gérait auparavant, devenant le nouveau pôle opérationnel avec une infrastructure complète de stockage à froid et de conditionnement.",
@@ -93,7 +83,7 @@
     },
     {
       "date": "recent",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The régie expanded further by absorbing 4 hectares of agricultural land from the Écomusée d'Alsace, with a new colleague hired to manage this site with a combined food production and pedagogical mission.",
         "fr": "La régie s'est encore développée en absorbant 4 hectares de terres agricoles de l'Écomusée d'Alsace, avec l'embauche d'un nouveau collègue pour gérer ce site avec une mission combinant production alimentaire et vocation pédagogique.",
@@ -103,7 +93,7 @@
     },
     {
       "date": "future",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "The team plans to launch a food forest project on the écomusée land, produce their own seeds, and further develop agroecological training and demonstration activities, contingent on continued political support.",
         "fr": "L'équipe prévoit de lancer un projet de forêt nourricière sur les terres de l'écomusée, de produire ses propres semences et de développer davantage les activités de formation et de démonstration agroécologiques, sous réserve d'un soutien politique continu.",
@@ -114,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Free vegetable baskets to all village households",
         "fr": "Paniers de légumes gratuits pour tous les foyers du village",
@@ -123,7 +113,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Affordable produce to local school canteen",
         "fr": "Produits abordables pour la cantine scolaire locale",
@@ -132,7 +122,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Below-wholesale pricing for local market gardeners",
         "fr": "Tarification inférieure au prix de gros pour les maraîchers locaux",
@@ -141,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Surplus vegetables supplied to local cannery",
         "fr": "Légumes en surplus fournis à la conserverie locale",
@@ -150,7 +140,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Local grocery store supplied with fresh produce",
         "fr": "L'épicerie locale approvisionnée en produits frais",
@@ -159,7 +149,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Food education through distributed harvest baskets",
         "fr": "Éducation alimentaire à travers des paniers de récolte distribués",
@@ -170,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Stable political support for agricultural continuity",
         "fr": "Soutien politique stable pour la continuité agricole",
@@ -179,7 +169,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Engaged citizens and village volunteers",
         "fr": "Citoyens engagés et bénévoles villageois",
@@ -188,7 +178,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Local associations and eco-museum partnerships",
         "fr": "Partenariats avec des associations locales et des écomusées",
@@ -197,7 +187,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Public subsidies from region and agglomeration",
         "fr": "Subventions publiques de la région et de l'agglomération",
@@ -206,7 +196,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Experimentation in agroecology and edible forests",
         "fr": "Expérimentation en agroécologie et forêts comestibles",
@@ -215,7 +205,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Other communes replicating communal farming model",
         "fr": "D'autres communes reproduisant le modèle d'agriculture communale",

@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754482467,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "Agroprovidencia es una iniciativa destinada a mejorar la seguridad y la soberanía alimentarias en las islas de Providencia. Creada en 2019, se centra en empoderar a las familias agricultoras locales a través de la educación, la gestión de proyectos y la participación de la comunidad. La iniciativa promueve el cultivo de cosechas tradicionales, apoya los mercados locales y fomenta la transferencia generacional de conocimientos entre niños y adultos. Mediante la colaboración con diversas organizaciones, Agroprovidencia busca revitalizar las prácticas agrícolas y garantizar la producción sostenible de alimentos para la comunidad.",
     "de": "Agroprovidencia ist eine Initiative zur Verbesserung der Ernährungssicherheit und -souveränität auf den Inseln von Providencia. Die 2019 gegründete Initiative konzentriert sich auf die Stärkung lokaler Bauernfamilien durch Bildung, Projektmanagement und kommunales Engagement. Die Initiative fördert den Anbau traditioneller Feldfrüchte, unterstützt lokale Märkte und fördert den generationalen Wissenstransfer unter Kindern und Erwachsenen. Durch die Zusammenarbeit mit verschiedenen Organisationen will Agroprovidencia die landwirtschaftlichen Praktiken wiederbeleben und eine nachhaltige Nahrungsmittelproduktion für die Gemeinde sicherstellen."
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Sjgreen"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://www.facebook.com/agroprovidenciassociation/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2018",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "In December 2018, a founding meeting was held with family members, cousins, uncles, and some neighbors to begin organizing the association.",
         "fr": "En décembre 2018, une réunion fondatrice a été organisée avec des membres de la famille, des cousins, des oncles et quelques voisins pour commencer à structurer l'association.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2019",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "In May 2019, Agroprovidencia was formally registered with the Cámara de Comercio, and the association began organizing activities, seed libraries, and using social media to promote local products.",
         "fr": "En mai 2019, Agroprovidencia a été officiellement enregistrée auprès de la Cámara de Comercio, et l'association a commencé à organiser des activités, des bibliothèques de semences et à utiliser les réseaux sociaux pour promouvoir les produits locaux.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2010",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "Fiwi Root School initiated its educational program in 2010 in partnership with the María Inmaculada school, focusing on reconnecting children with traditional agricultural and cultural practices.",
         "fr": "Fiwi Root School a lancé son programme éducatif en 2010 en partenariat avec l'école María Inmaculada, en mettant l'accent sur la reconnexion des enfants avec les pratiques agricoles et culturelles traditionnelles.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "Post-hurricane",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "After a hurricane devastated the island, Agroprovidencia became the only active agricultural organization and was required by the national government to enroll all local producers, growing to approximately 300 registered members.",
         "fr": "Après qu'un ouragan a dévasté l'île, Agroprovidencia est devenue la seule organisation agricole active et a été contrainte par le gouvernement national d'inscrire tous les producteurs locaux, atteignant environ 300 membres enregistrés.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "Post-hurricane",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Following the hurricane, Agroprovidencia expanded its work to include product transformation, the Raizal U Cards youth movement, and The Moonlight Company as a commercialization brand for transformed local products.",
         "fr": "À la suite de l'ouragan, Agroprovidencia a élargi ses activités pour inclure la transformation de produits, le mouvement jeunesse Raizal U Cards, et The Moonlight Company en tant que marque de commercialisation pour les produits locaux transformés.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "Recent",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "A project funded by Fondo Acción financed the design and pilot execution of the Raizal U Cards children's movement, aimed at preserving ancestral agricultural knowledge to face emergencies such as hurricanes and droughts.",
         "fr": "Un projet financé par Fondo Acción a permis de financer la conception et l'exécution pilote du mouvement pour enfants Raizal U Cards, visant à préserver les savoirs agricoles ancestraux pour faire face à des situations d'urgence telles que les ouragans et les sécheresses.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Point of sale for local agricultural products",
         "fr": "Point de vente de produits agricoles locaux",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free educational workshops for children and families",
         "fr": "Ateliers éducatifs gratuits pour les enfants et les familles",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Seed library and seed exchange for community",
         "fr": "Bibliothèque de semences et échange de semences pour la communauté",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Recipes and promotion of traditional local foods",
         "fr": "Recettes et promotion des aliments locaux traditionnels",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Demonstration garden with medicinal and native plants",
         "fr": "Jardin de démonstration avec des plantes médicinales et indigènes",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Training on food transformation and commercialization",
         "fr": "Formation sur la transformation et la commercialisation des aliments",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Project grants for organizational sustainability",
         "fr": "Subventions de projets pour la durabilité organisationnelle",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Strategic alliances beyond Providencia island",
         "fr": "Alliances stratégiques au-delà de l'île de Providencia",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Younger generations engaged in agriculture",
         "fr": "Jeunes générations engagées dans l'agriculture",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Formal distribution channels for local crops",
         "fr": "Circuits de distribution formels pour les cultures locales",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Food transformation and preservation strategies",
         "fr": "Stratégies de transformation et de conservation des aliments",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "volunteers",
+      "icon": "mdi-human-capacity-increase",
       "label": {
         "en": "Committed associates respecting membership rules",
         "fr": "Associés engagés respectant les règles d'adhésion",

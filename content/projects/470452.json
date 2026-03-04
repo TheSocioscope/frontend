@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "europe"
-  ],
-  "country": [
-    "poland"
-  ],
+  "continent": ["europe"],
+  "country": ["poland"],
   "createdAt": 1754658898,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "La iniciativa Eko Spichlerz, en Gdansk (Polonia), es una tienda de comestibles y dietética orientada a la comunidad. Ofrece productos ecológicos y orgánicos y promueve una alimentación sana mediante talleres para niños. La iniciativa hace hincapié en la educación, la sostenibilidad y el apoyo a la comunidad, proporcionando orientación dietética personalizada para adultos y fomentando una cultura de cocina sana entre los niños. Eco Spichlech pretende reconectar a la gente con las prácticas alimentarias naturales y mejorar el bienestar local.    ",
     "de": "Die Eko Spichlerz-Initiative in Danzig, Polen, ist ein gemeindeorientierter Grocery Shop und eine Ernährungspraxis. Sie bietet organische und umweltfreundliche Produkte an, die durch Workshops für Kinder eine gesunde Ernährung fördern. Die Initiative legt Wert auf Bildung, Nachhaltigkeit und Unterstützung der Gemeinschaft, indem sie eine individuelle Ernährungsberatung für Erwachsene anbietet und eine Kultur des gesunden Kochens unter Kindern fördert. Eco Spichlech möchte die Menschen wieder mit natürlichen Ernährungspraktiken verbinden und das lokale Wohlbefinden steigern.    "
   },
-  "field": [
-    "nutrition"
-  ],
+  "field": ["nutrition"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +34,16 @@
       "lastname": "Moses"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery",
-    "education"
-  ],
+  "thematic": ["food-agriculture-fishery", "education"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "ekospichlerz.pl",
   "yt": "yFVIX_oXTb4",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2012-2013",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Katarzyna Wielińska launched Eco Spichlech as an online store from her home, initially buying organic products wholesale through her existing business registration. She transitioned to renting a 300 sqm physical space in the Strzyża district of Gdańsk after determining the home operation was unprofessional.",
         "fr": "Katarzyna Wielińska a lancé Eco Spichlech en tant que boutique en ligne depuis son domicile, achetant initialement des produits biologiques en gros via son enregistrement commercial existant. Elle a ensuite loué un espace physique de 300 m² dans le quartier Strzyża de Gdańsk, après avoir conclu que le fonctionnement à domicile manquait de professionnalisme.",
@@ -64,7 +53,7 @@
     },
     {
       "date": "2013-2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Katarzyna left her corporate job within the first few months of opening the physical store, after a confrontation with her boss. The store took approximately 3-4 years to become financially self-sustaining.",
         "fr": "Katarzyna a quitté son emploi en entreprise dans les premiers mois suivant l'ouverture du magasin physique, après un affrontement avec son supérieur. Le magasin a mis environ 3 à 4 ans à devenir financièrement autonome.",
@@ -74,7 +63,7 @@
     },
     {
       "date": "2019",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Polish parliamentary debates began on regulating the dietitian profession, motivating Katarzyna to pursue formal academic credentials rather than rely on self-taught knowledge from books and films.",
         "fr": "Les débats parlementaires polonais sur la réglementation de la profession de diététicien ont commencé, motivant Katarzyna à poursuivre des diplômes académiques officiels plutôt que de s'appuyer sur des connaissances autodidactes acquises à travers des livres et des films.",
@@ -84,7 +73,7 @@
     },
     {
       "date": "2020",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Katarzyna completed her bachelor's degree in dietetics and subsequently enrolled in a master's program in psycho-dietetics, combining nutrition with psychological approaches to eating.",
         "fr": "Katarzyna a obtenu sa licence en diététique et s'est ensuite inscrite à un master en psycho-diététique, combinant la nutrition avec des approches psychologiques de l'alimentation.",
@@ -94,7 +83,7 @@
     },
     {
       "date": "2024",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "Katarzyna defended her master's thesis in April and opened her dietetic practice in February 2024, transitioning from shared cabinet space to her own dedicated practice with a colleague.",
         "fr": "Katarzyna a soutenu sa thèse de master en avril et a ouvert son cabinet diététique en février 2024, passant d'un espace de cabinet partagé à son propre cabinet dédié avec une collègue.",
@@ -104,7 +93,7 @@
     },
     {
       "date": "2025",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Katarzyna announced plans to establish a foundation to fund free educational workshops for children from low-income families, and to move her cabinet to a fully private space, with a doctoral thesis on ketogenic diet as a longer-term personal goal.",
         "fr": "Katarzyna a annoncé son intention de créer une fondation pour financer des ateliers éducatifs gratuits destinés aux enfants issus de familles à faibles revenus, ainsi que de déménager son cabinet dans un espace entièrement privé, avec comme objectif personnel à long terme la rédaction d'une thèse de doctorat sur le régime cétogène.",
@@ -115,7 +104,7 @@
   ],
   "offers": [
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Organic food and eco products for sale",
         "fr": "Alimentation biologique et produits écologiques à vendre",
@@ -124,7 +113,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Practical cooking workshops for children",
         "fr": "Ateliers de cuisine pratiques pour les enfants",
@@ -133,7 +122,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Personalized nutritional guidance for adults",
         "fr": "Accompagnement nutritionnel personnalisé pour les adultes",
@@ -142,7 +131,7 @@
       }
     },
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Free food box to prevent waste",
         "fr": "Boîte alimentaire gratuite pour éviter le gaspillage",
@@ -151,7 +140,7 @@
       }
     },
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Health and nutrition lectures for schools",
         "fr": "Conférences sur la santé et la nutrition pour les écoles",
@@ -160,7 +149,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Knowledge-sharing with psychotraumatology experts",
         "fr": "Partage de connaissances avec des experts en psychotraumatologie",
@@ -171,7 +160,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Grants to fund free children workshops",
         "fr": "Subventions pour financer des ateliers gratuits pour enfants",
@@ -180,7 +169,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Co-founders for planned educational foundation",
         "fr": "Co-fondateurs pour une fondation éducative en projet",
@@ -189,7 +178,7 @@
       }
     },
     {
-      "icon": "suppliers",
+      "icon": "mdi-truck-delivery",
       "label": {
         "en": "Local ecological farm suppliers with logistics solutions",
         "fr": "Fournisseurs agricoles écologiques locaux avec des solutions logistiques",
@@ -198,7 +187,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Schools and kindergartens for nutrition workshops",
         "fr": "Écoles et jardins d'enfants pour des ateliers sur la nutrition",
@@ -207,7 +196,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Reliable long-term employees sharing health values",
         "fr": "Employés fiables à long terme partageant les valeurs de santé",
@@ -216,7 +205,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Doctoral research on ketogenic diet",
         "fr": "Recherche doctorale sur le régime cétogène",

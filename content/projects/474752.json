@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "sub-saharian-africa"
-  ],
-  "country": [
-    "kenya"
-  ],
+  "continent": ["sub-saharian-africa"],
+  "country": ["kenya"],
   "createdAt": 1754575584,
   "date": null,
   "description": {
@@ -19,9 +15,7 @@
     "es": "El Programa de Comunicación Farmacéutica de Biovision Africa Trust se centra en capacitar a los pequeños agricultores de Kenia y Tanzania mediante prácticas agrícolas sostenibles. Creado en 2015, utiliza diversos canales de comunicación, como revistas, programas de radio y centros de divulgación, para difundir conocimientos y formación. El programa pretende mejorar las habilidades de los agricultores, promover la agricultura ecológica y, en última instancia, mejorar la seguridad alimentaria y los medios de subsistencia. Mediante el fomento de asociaciones y la colaboración con las comunidades locales, pretende crear un ecosistema agrícola más sostenible.",
     "de": "Biovision Africa Trust's Pharma Communication Program konzentriert sich auf die Stärkung von Kleinbauern in Kenia und Tansania durch nachhaltige Landwirtschaftspraktiken. Das 2015 gegründete Programm nutzt verschiedene Kommunikationskanäle, darunter Zeitschriften, Radioprogramme und Outreach-Zentren, um Wissen und Ausbildung zu verbreiten. Das Programm zielt darauf ab, die Fähigkeiten der Landwirte zu verbessern, ökologischen Landbau zu fördern und letztendlich die Ernährungssicherheit und den Lebensunterhalt zu verbessern. Durch die Förderung von Partnerschaften und die Einbeziehung lokaler Gemeinschaften soll ein nachhaltigeres landwirtschaftliches Ökosystem geschaffen werden."
   },
-  "field": [
-    "communication-and-media-studies"
-  ],
+  "field": ["communication-and-media-studies"],
   "lang": "en",
   "location": "",
   "name": {
@@ -39,20 +33,16 @@
       "lastname": "Ochieng"
     }
   ],
-  "thematic": [
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://biovisionafricatrust.org/",
   "yt": "",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2005",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Biovision Africa Trust began operations under ICIPE, launching the Organic Farmer magazine and Infonet as early knowledge dissemination tools for smallholder farmers on sustainable agricultural practices.",
         "fr": "Biovision Africa Trust a commencé ses activités sous l'égide de l'ICIPE, lançant le magazine Organic Farmer et Infonet comme premiers outils de diffusion des connaissances destinés aux petits agriculteurs en matière de pratiques agricoles durables.",
@@ -62,7 +52,7 @@
     },
     {
       "date": "2009",
-      "icon": "expansion",
+      "icon": "mdi-arrow-expand-all",
       "text": {
         "en": "The Farmer Communication Program expanded its outreach component, adding the Organic Farmer Radio program broadcasting in multiple local languages to reach farmers across Kenya.",
         "fr": "Le Programme de communication agricole a élargi sa composante de sensibilisation, en ajoutant l'émission de radio Organic Farmer diffusée en plusieurs langues locales pour atteindre les agriculteurs à travers le Kenya.",
@@ -72,7 +62,7 @@
     },
     {
       "date": "2010",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The Ecological Organic Agriculture initiative was established with continental scope, eventually leading to Biovision Africa Trust being appointed secretariat under the African Union's blessing.",
         "fr": "L'initiative d'agriculture écologique et biologique a été établie avec une portée continentale, conduisant finalement à la nomination de Biovision Africa Trust comme secrétariat sous l'égide de l'Union africaine.",
@@ -82,7 +72,7 @@
     },
     {
       "date": "2015",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "Biovision Africa Trust was formally registered as an independent Kenyan trust, separating administratively from ICIPE while retaining its physical location within the ICIPE complex.",
         "fr": "Biovision Africa Trust a été officiellement enregistré en tant que trust kényan indépendant, se séparant administrativement de l'ICIPE tout en conservant son emplacement physique au sein du complexe de l'ICIPE.",
@@ -92,7 +82,7 @@
     },
     {
       "date": "2019",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Frederick Ochin joined the organization as head of the Farmer Communication Program, and the Norway Centre for Organic Agriculture (KCOA) program entered Phase One with Biovision as lead agency for Eastern Africa.",
         "fr": "Frederick Ochin a rejoint l'organisation en tant que responsable du Programme de communication agricole, et le programme du Centre norvégien pour l'agriculture biologique (KCOA) est entré dans sa première phase avec Biovision comme agence chef de file pour l'Afrique de l'Est.",
@@ -102,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "Kenya launched its first National Agroecology Strategy, a milestone Biovision helped shape through years of policy engagement, while the organization simultaneously faced significant budgetary cuts from Western donor partners.",
         "fr": "Le Kenya a lancé sa première Stratégie nationale d'agroécologie, une étape importante que Biovision a contribué à façonner grâce à des années d'engagement politique, tandis que l'organisation faisait simultanément face à des réductions budgétaires significatives de la part de partenaires donateurs occidentaux.",
@@ -113,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "training",
+      "icon": "mdi-weight-lifter",
       "label": {
         "en": "Hands-on farmer training in ecological practices",
         "fr": "Formation pratique des agriculteurs aux pratiques écologiques",
@@ -122,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Organic farming radio programs in local languages",
         "fr": "Programmes radio sur l'agriculture biologique en langues locales",
@@ -131,7 +121,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Free organic farming magazine in print and digital",
         "fr": "Magazine gratuit sur l'agriculture biologique en version imprimée et numérique",
@@ -140,7 +130,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Web-based knowledge repository for sustainable farming",
         "fr": "Référentiel de connaissances en ligne pour l'agriculture durable",
@@ -149,7 +139,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Interactive voice response mobile farming training",
         "fr": "Formation agricole mobile par réponse vocale interactive",
@@ -158,7 +148,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "County-level co-design workshops with multi-stakeholders",
         "fr": "Ateliers de co-conception au niveau du comté avec plusieurs parties prenantes",
@@ -169,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Diversified long-term donor funding sources",
         "fr": "Sources de financement diversifiées à long terme par des donateurs",
@@ -178,7 +168,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "Country implementing partners in new African nations",
         "fr": "Partenaires de mise en œuvre dans de nouveaux pays africains",
@@ -187,7 +177,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Smallholder farmers to adopt agroecological practices",
         "fr": "Petits agriculteurs adoptant des pratiques agroécologiques",
@@ -196,7 +186,7 @@
       }
     },
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Government policy support for agroecology mainstreaming",
         "fr": "Soutien des politiques gouvernementales pour l'intégration de l'agroécologie",
@@ -205,7 +195,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Research collaboration for farmer knowledge products",
         "fr": "Collaboration en recherche pour les produits de connaissance des agriculteurs",
@@ -214,7 +204,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Market development for organic produce",
         "fr": "Développement du marché pour les produits biologiques",

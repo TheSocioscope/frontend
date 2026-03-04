@@ -5,12 +5,8 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": [
-    "south-america"
-  ],
-  "country": [
-    "colombia"
-  ],
+  "continent": ["south-america"],
+  "country": ["colombia"],
   "createdAt": 1754990293,
   "date": null,
   "description": {
@@ -19,10 +15,7 @@
     "es": "Los Raíces Piangueras, fundados en 2019, empoderan a más de 11.000 mujeres de Buenaventura (Colombia) para preservar los ecosistemas de manglar y el molusco piangua. Esta iniciativa se centra en la conservación del medio ambiente, la educación y las prácticas económicas sostenibles, lo que permite a las mujeres liderar los procesos de toma de decisiones tradicionalmente dominados por los hombres. Mediante la formación y la participación de la comunidad, la organización promueve la importancia cultural y gastronómica de la piangua, fomentando tanto la sostenibilidad medioambiental como la independencia económica de las mujeres.",
     "de": "Die 2019 gegründeten Raices Piangueras unterstützen über 11 000 Frauen in Buenaventura, Kolumbien, bei der Erhaltung der Mangroven-Ökosysteme und der Piangua-Muschel. Diese Initiative konzentriert sich auf Umweltschutz, Bildung und nachhaltige Wirtschaftspraktiken und befähigt Frauen, in Entscheidungsprozessen, die traditionell von Männern dominiert werden, eine führende Rolle zu übernehmen. Durch Schulungen und Engagement in der Gemeinde fördert die Organisation die kulturelle und gastronomische Bedeutung der Piangua und unterstützt sowohl die ökologische Nachhaltigkeit als auch die wirtschaftliche Unabhängigkeit der Frauen."
   },
-  "field": [
-    "nutrition",
-    "other-social-sciences-and-humanities"
-  ],
+  "field": ["nutrition", "other-social-sciences-and-humanities"],
   "lang": "en",
   "location": "",
   "name": {
@@ -40,21 +33,16 @@
       "lastname": "Mosquera"
     }
   ],
-  "thematic": [
-    "equality-diversity-studies-and-social-justice",
-    "food-agriculture-fishery"
-  ],
+  "thematic": ["equality-diversity-studies-and-social-justice", "food-agriculture-fishery"],
   "time": "",
-  "type": [
-    "case-study"
-  ],
+  "type": ["case-study"],
   "url": "https://raicespiangueras.com/",
   "yt": "01-gYen4kbA",
   "originalLang": "fr",
   "timeline": [
     {
       "date": "2019",
-      "icon": "start",
+      "icon": "mdi-flag-checkered",
       "text": {
         "en": "Raíces Piangüeras was formally founded with 15 women in Bahía Málaga, Buenaventura, with the goal of preserving mangrove ecosystems and the piangua mollusk through sustainable extraction practices.",
         "fr": "Raíces Piangüeras a été officiellement fondée avec 15 femmes à Bahía Málaga, Buenaventura, avec pour objectif de préserver les écosystèmes de mangrove et le mollusque piangua grâce à des pratiques d'extraction durables.",
@@ -64,7 +52,7 @@
     },
     {
       "date": "2021",
-      "icon": "sustainability",
+      "icon": "mdi-leaf",
       "text": {
         "en": "A team of 12 women was established and funded through environmental payment services to conduct mangrove monitoring, surveillance, and environmental education in local schools.",
         "fr": "Une équipe de 12 femmes a été constituée et financée par des services de paiement environnemental pour assurer le suivi des mangroves, la surveillance et l'éducation environnementale dans les écoles locales.",
@@ -74,7 +62,7 @@
     },
     {
       "date": "2021",
-      "icon": "milestone",
+      "icon": "mdi-sign-direction",
       "text": {
         "en": "The organization secured a fund that sustained operations for years, and launched product transformation into empanadas and tamales after drug-related extortion fees made direct piangua commercialization economically unviable.",
         "fr": "L'organisation a obtenu un fonds qui a soutenu ses activités pendant plusieurs années, et a lancé la transformation de produits en empanadas et tamales après que des frais d'extorsion liés au trafic de drogue ont rendu la commercialisation directe de la piangua économiquement non viable.",
@@ -84,7 +72,7 @@
     },
     {
       "date": "2022-2024",
-      "icon": "growth",
+      "icon": "mdi-trending-up",
       "text": {
         "en": "Piangua extraction averages grew from 18 dozen per outing in 2022 to 22 dozen by 2024, while the association grew from 15 to 28 legal members with plans to expand to 58.",
         "fr": "Les moyennes d'extraction de piangua sont passées de 18 douzaines par sortie en 2022 à 22 douzaines en 2024, tandis que l'association est passée de 15 à 28 membres officiels avec des projets d'expansion à 58.",
@@ -94,7 +82,7 @@
     },
     {
       "date": "2023-2024",
-      "icon": "partnership",
+      "icon": "mdi-handshake",
       "text": {
         "en": "The organization formalized alliances with Conservation International, Fundación Compás, and the EU, and launched the Piangua Tourist Route, which became one of their most successful income-generating initiatives.",
         "fr": "L'organisation a formalisé des alliances avec Conservation International, la Fundación Compás et l'UE, et a lancé la Route Touristique de la Piangua, qui est devenue l'une de leurs initiatives génératrices de revenus les plus réussies.",
@@ -104,7 +92,7 @@
     },
     {
       "date": "2024",
-      "icon": "challenge",
+      "icon": "mdi-fencing",
       "text": {
         "en": "Piangua extraction dropped sharply to 5-15 dozen per outing, prompting soil and water studies to identify causes, while the organization began advocating for a national piangua protection law and sought to have piangua harvesting declared intangible cultural heritage.",
         "fr": "L'extraction de piangua a chuté brutalement à 5-15 douzaines par sortie, ce qui a conduit à des études sur le sol et l'eau pour en identifier les causes, tandis que l'organisation a commencé à plaider pour une loi nationale de protection de la piangua et a cherché à faire reconnaître la récolte de piangua comme patrimoine culturel immatériel.",
@@ -115,7 +103,7 @@
   ],
   "offers": [
     {
-      "icon": "zerowaste",
+      "icon": "mdi-delete-restore",
       "label": {
         "en": "Sustainable extraction and conservation of piangua mollusk",
         "fr": "Extraction durable et conservation du mollusque piangua",
@@ -124,7 +112,7 @@
       }
     },
     {
-      "icon": "education",
+      "icon": "mdi-book-education",
       "label": {
         "en": "Environmental education in local schools",
         "fr": "Éducation environnementale dans les écoles locales",
@@ -133,7 +121,7 @@
       }
     },
     {
-      "icon": "demonstration",
+      "icon": "mdi-lock-open",
       "label": {
         "en": "Ecotourism route showing piangua harvest process",
         "fr": "Route écotouristique montrant le processus de récolte du piangua",
@@ -142,7 +130,7 @@
       }
     },
     {
-      "icon": "localfood",
+      "icon": "mdi-apple-food",
       "label": {
         "en": "Transformed piangua food products for commercialization",
         "fr": "Produits alimentaires à base de piangua transformé pour la commercialisation",
@@ -151,7 +139,7 @@
       }
     },
     {
-      "icon": "community",
+      "icon": "mdi-account-group",
       "label": {
         "en": "Emergency fund and support for member women",
         "fr": "Fonds d'urgence et soutien aux femmes membres",
@@ -160,7 +148,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial channels to sell piangua across Colombia",
         "fr": "Canaux commerciaux pour vendre le piangua dans toute la Colombie",
@@ -171,7 +159,7 @@
   ],
   "lookingFor": [
     {
-      "icon": "policy",
+      "icon": "mdi-gavel",
       "label": {
         "en": "Policy law recognizing piangua harvesters",
         "fr": "Loi politique reconnaissant les collecteurs de piangua",
@@ -180,7 +168,7 @@
       }
     },
     {
-      "icon": "market",
+      "icon": "mdi-shopping",
       "label": {
         "en": "Commercial channels to sell piangua in Colombia",
         "fr": "Canaux commerciaux pour vendre la piangua en Colombie",
@@ -189,7 +177,7 @@
       }
     },
     {
-      "icon": "partners",
+      "icon": "mdi-handshake",
       "label": {
         "en": "International and national strategic alliances",
         "fr": "Alliances stratégiques internationales et nationales",
@@ -198,7 +186,7 @@
       }
     },
     {
-      "icon": "funding",
+      "icon": "mdi-cash-multiple",
       "label": {
         "en": "Economic investment for production infrastructure",
         "fr": "Investissement économique pour l'infrastructure de production",
@@ -207,7 +195,7 @@
       }
     },
     {
-      "icon": "adoption",
+      "icon": "mdi-human-male-child",
       "label": {
         "en": "Include piangua in Colombian household food basket",
         "fr": "Inclure la piangua dans le panier alimentaire des ménages colombiens",
@@ -216,7 +204,7 @@
       }
     },
     {
-      "icon": "research",
+      "icon": "mdi-flask",
       "label": {
         "en": "Scientific studies on mangrove ecosystem decline",
         "fr": "Études scientifiques sur le déclin de l'écosystème de mangrove",
