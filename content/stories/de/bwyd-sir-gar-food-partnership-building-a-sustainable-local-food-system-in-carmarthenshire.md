@@ -1,7 +1,7 @@
 ---
 location: null
 author: null
-image: null
+image: 2024_09_26_ccc_bremenda_isaf_4800-scaled.jpg
 video: null
 featured: true
 published: true
