@@ -18,7 +18,7 @@ excerpt: Postobón, a Colombian beverage company with more than 120 years of
   products, promoting active lifestyles, advancing circular economy practices,
   managing water resources, and supporting communities across its supply chain.
 location: Colombia
-image: /images/stories/tokyo-urban-farming.jpg
+image: postobon.png
 video: ""
 featured: true
 published: true

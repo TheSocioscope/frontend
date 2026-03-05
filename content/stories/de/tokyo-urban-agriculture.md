@@ -3,7 +3,7 @@ title: Städtische Landwirtschaft in Tokio
 description: Wie Dachgärten städtische Ernährungssysteme transformieren
 location: Colombia
 author: null
-image: /images/stories/tokyo-urban-farming.jpg
+image: postobon.png
 video: ""
 featured: true
 published: true

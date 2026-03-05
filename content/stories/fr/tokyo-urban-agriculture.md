@@ -4,7 +4,7 @@ description: Comment les jardins sur les toits transforment les systèmes
   alimentaires urbains
 location: Colombia
 author: null
-image: /images/stories/tokyo-urban-farming.jpg
+image: postobon.png
 video: ""
 featured: true
 published: true
