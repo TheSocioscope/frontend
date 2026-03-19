@@ -66,10 +66,10 @@
         <ProjectTeam v-if="project.team && project.team.length > 0" :project="project" />
 
         <!-- Gallery Component -->
-        <ProjectGallery
+        <!--<ProjectGallery
           v-if="localizedGallery && localizedGallery.length > 0"
           :localized-gallery="localizedGallery"
-        />
+        />-->
 
         <!-- Share Component -->
         <ProjectShare :project-name="localizedName" :project-url="currentUrl" />
