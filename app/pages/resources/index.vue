@@ -8,7 +8,7 @@
       <template #cta>
         <div class="hero-cta">
           <a href="#resources" class="btn">{{ $t('resources.hero.browseCta') }}</a>
-          <a href="mailto:contact@thesocioscope.org" class="btn btn-secondary">
+          <a href="mailto:info@thesocioscope.org" class="btn btn-secondary">
             {{ $t('resources.hero.submitCta') }}
           </a>
         </div>

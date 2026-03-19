@@ -1,17 +1,28 @@
 <template>
   <div>
-    <PageHero :title="$t('contact.hero.title')" :subtitle="$t('contact.hero.subtitle')" icon="mdi-email-outline" />
+    <PageHero
+      :title="$t('contact.hero.title')"
+      :subtitle="$t('contact.hero.subtitle')"
+      icon="mdi-email-outline"
+    />
+
     <section class="section">
       <div class="container">
-        <div class="contact-grid">
-          <div class="contact-main">
-            <h2>{{ $t('contact.form.title') }}</h2>
-            <p>{{ $t('contact.hero.subtitle') }}</p>
-            <a href="mailto:contact@thesocioscope.org" class="mailto-btn">
-              contact@thesocioscope.org
+        <div class="contact-wrapper">
+
+          <!-- Primary email CTA -->
+          <div class="email-block">
+            <p class="email-label">{{ $t('contact.info.email.title') }}</p>
+            <a href="mailto:info@thesocioscope.org" class="email-link">
+              info@thesocioscope.org
             </a>
           </div>
+
+          <div class="divider" />
+
+          <!-- Info row -->
           <ContactInfo />
+
         </div>
       </div>
     </section>
@@ -23,12 +34,7 @@ const { t: $t } = useI18n()
 
 useHead({
   title: $t('contact.meta.title'),
-  meta: [
-    {
-      name: 'description',
-      content: $t('contact.meta.description')
-    }
-  ]
+  meta: [{ name: 'description', content: $t('contact.meta.description') }]
 })
 </script>
 
@@ -36,57 +42,55 @@ useHead({
 @use '~~/assets/styles/variables' as *;
 
 .section {
-  padding: 5rem 0;
+  padding: 6rem 0;
+  background: $cream;
 }
 
 .container {
-  max-width: 1400px;
+  max-width: 760px;
   margin: 0 auto;
   padding: 0 2rem;
 }
 
-.contact-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4rem;
-  align-items: start;
-
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr;
-    gap: 3rem;
-  }
+.contact-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
 }
 
-.contact-main {
-  h2 {
-    font-family: $font-family-display;
-    font-size: 2rem;
-    font-weight: $font-weight-bold;
-    color: $brown-dark;
-    margin-bottom: 1rem;
-  }
-
-  p {
-    font-size: 1.1rem;
-    line-height: 1.7;
-    color: $brown-dark;
-    opacity: 0.85;
-    margin-bottom: 2rem;
-  }
+.email-block {
+  text-align: center;
 }
 
-.mailto-btn {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: $green-bright;
-  color: white;
-  text-decoration: none;
+.email-label {
+  font-family: $font-family-display;
+  font-size: 0.85rem;
   font-weight: $font-weight-semibold;
-  font-size: 1.05rem;
-  transition: background 0.3s;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: $brown-dark;
+  opacity: 0.6;
+  margin-bottom: 0.75rem;
+}
+
+.email-link {
+  display: inline-block;
+  font-family: $font-family-display;
+  font-size: clamp(1.4rem, 3vw, 2rem);
+  font-weight: $font-weight-bold;
+  color: $green-bright;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.3s, color 0.3s;
 
   &:hover {
-    background: $forest-green;
+    color: $forest-green;
+    border-bottom-color: $forest-green;
   }
+}
+
+.divider {
+  height: 1px;
+  background: $warm-beige;
 }
 </style>

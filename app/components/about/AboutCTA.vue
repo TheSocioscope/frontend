@@ -6,7 +6,7 @@
         <p>{{ $t('about.cta.description') }}</p>
         <div class="btn-group">
           <v-btn :to="localePath('/projects')" class="btn-primary" size="large" elevation="0">
-            {{ $t('about.cta.submitButton') }}
+            {{ $t('nav.projects') }}
           </v-btn>
           <v-btn
             :to="localePath('/contact')"

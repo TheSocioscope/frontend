@@ -14,23 +14,25 @@
       </div>
 
       <v-row class="contributions-grid mt-12">
-        <v-col v-for="i in 3" :key="i" cols="12" md="4">
+        <v-col v-for="(icon, i) in contributionIcons" :key="i" cols="12" md="4">
           <v-card class="contribution-card h-100" elevation="2">
             <v-card-text>
-              <div class="contribution-icon">{{ $t(`contributions.card${i}.icon`) }}</div>
+              <div class="contribution-icon" aria-hidden="true">
+                <v-icon size="2.5rem">{{ icon }}</v-icon>
+              </div>
               <h3 class="text-h5 font-weight-medium mb-4">
-                {{ $t(`contributions.card${i}.title`) }}
+                {{ $t(`contributions.card${i + 1}.title`) }}
               </h3>
-              <p class="text-body-2 mb-3">{{ $t(`contributions.card${i}.description`) }}</p>
-              <p v-if="$t(`contributions.card${i}.description2`)" class="text-body-2 mb-3">
-                {{ $t(`contributions.card${i}.description2`) }}
+              <p class="text-body-2 mb-3">{{ $t(`contributions.card${i + 1}.description`) }}</p>
+              <p v-if="$t(`contributions.card${i + 1}.description2`)" class="text-body-2 mb-3">
+                {{ $t(`contributions.card${i + 1}.description2`) }}
               </p>
               <a
-                v-if="$t(`contributions.card${i}.link`)"
+                v-if="$t(`contributions.card${i + 1}.link`)"
                 href="#"
                 class="contribution-link text-body-2 font-weight-medium"
               >
-                {{ $t(`contributions.card${i}.link`) }}
+                {{ $t(`contributions.card${i + 1}.link`) }}
               </a>
             </v-card-text>
           </v-card>
@@ -42,6 +44,8 @@
 
 <script setup lang="ts">
 const { t: $t } = useI18n()
+
+const contributionIcons = ['mdi-database-outline', 'mdi-chip', 'mdi-chart-line']
 </script>
 
 <style scoped lang="scss">
@@ -76,9 +80,9 @@ const { t: $t } = useI18n()
 }
 
 .contribution-icon {
-  font-size: 3rem;
   margin-bottom: $spacing-md;
   display: block;
+  color: $green-bright;
 }
 
 .contribution-card h3 {
