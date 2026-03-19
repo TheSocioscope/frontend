@@ -12,7 +12,7 @@
       <!-- Desktop Navigation -->
       <ul class="nav-links d-none d-md-flex">
         <li class="dropdown">
-          <a href="#about">{{ $t('nav.about') }}</a>
+          <a href="#about" :class="{ 'nav-active': isAboutActive }">{{ $t('nav.about') }}</a>
           <div class="dropdown-content">
             <NuxtLink :to="localePath('/about')">{{ $t('nav.socioscope') }}</NuxtLink>
             <NuxtLink :to="localePath('/team')">{{ $t('nav.team') }}</NuxtLink>
@@ -42,7 +42,7 @@
           </div>-->
         </li>
         <li class="dropdown">
-          <a href="#contact">{{ $t('nav.contact') }}</a>
+          <a href="#contact" :class="{ 'nav-active': isContactActive }">{{ $t('nav.contact') }}</a>
           <div class="dropdown-content">
             <NuxtLink :to="localePath('/contact')">{{ $t('nav.contactUs') }}</NuxtLink>
             <NuxtLink :to="localePath('/press')">{{ $t('nav.press') }}</NuxtLink>
@@ -54,8 +54,8 @@
       <LanguageSelector class="language-selector-wrapper" />
 
       <!-- Mobile Menu Toggle -->
-      <button class="mobile-menu-toggle d-md-none" @click="drawer = !drawer">
-        <span class="menu-icon">☰</span>
+      <button class="mobile-menu-toggle d-md-none" @click="drawer = !drawer" :aria-label="$t('nav.menu')">
+        <v-icon>mdi-menu</v-icon>
       </button>
     </nav>
   </header>
@@ -78,6 +78,7 @@
 <script setup lang="ts">
 const { t: $t } = useI18n()
 const localePath = useLocalePath()
+const route = useRoute()
 const drawer = ref(false)
 
 const navItems = [
@@ -86,6 +87,13 @@ const navItems = [
   { key: 'products', to: '/products' },
   { key: 'contact', to: '/contact' }
 ]
+
+const isAboutActive = computed(() =>
+  ['/about', '/team', '/faq'].some((p) => route.path.endsWith(p))
+)
+const isContactActive = computed(() =>
+  ['/contact', '/press'].some((p) => route.path.endsWith(p))
+)
 </script>
 
 <style scoped lang="scss">
@@ -187,9 +195,18 @@ const navItems = [
     font-weight: $font-weight-medium;
     font-size: 1.3rem;
     transition: color 0.3s;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.3s, border-color 0.3s;
 
     &:hover {
       color: $green-bright;
+    }
+
+    &.router-link-active,
+    &.nav-active {
+      color: $green-bright;
+      border-bottom-color: $green-bright;
     }
   }
 }

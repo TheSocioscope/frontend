@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -r \"TODO\\\\|FIXME\\\\|placeholder\\\\|XXX\" C:UsersssekhsariaDocumentssocioscope-websiteapp --include=*.vue --include=*.ts --include=*.scss)",
+      "Bash(find C:UsersssekhsariaDocumentssocioscope-websiteapppagesprojects -type f -name *.vue)",
+      "Bash(ls:*)",
+      "Bash(grep -n '\"\"press\"\"' /c/Users/ssekhsaria/Documents/socioscope-website/i18n/locales/fr.json)",
+      "Bash(grep -n '\"\"press\"\"' /c/Users/ssekhsaria/Documents/socioscope-website/i18n/locales/es.json)",
+      "Bash(grep -n '\"\"press\"\"' /c/Users/ssekhsaria/Documents/socioscope-website/i18n/locales/de.json)"
+    ]
+  }
+}

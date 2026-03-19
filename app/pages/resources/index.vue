@@ -3,14 +3,14 @@
     <PageHero
       :title="$t('resources.hero.title')"
       :subtitle="$t('resources.hero.subtitle')"
-      icon="📚"
+      icon="mdi-bookshelf"
     >
       <template #cta>
         <div class="hero-cta">
           <a href="#resources" class="btn">{{ $t('resources.hero.browseCta') }}</a>
-          <button class="btn btn-secondary" @click="openModal">
+          <a href="mailto:contact@thesocioscope.org" class="btn btn-secondary">
             {{ $t('resources.hero.submitCta') }}
-          </button>
+          </a>
         </div>
       </template>
     </PageHero>
@@ -91,7 +91,7 @@
         />
       </div>
     </section>
-    <ResourcesSubmitModal :is-open="isModalOpen" @close="closeModal" />
+    <!--<ResourcesSubmitModal :is-open="isModalOpen" @close="closeModal" />-->
   </div>
 </template>
 
@@ -105,7 +105,6 @@ useHead({
 
 const activeFilter = ref('all')
 const searchQuery = ref('')
-const isModalOpen = ref(false)
 const isMobile = ref(false)
 
 const validFilters = ['article', 'book', 'event', 'funding', 'organization', 'policy', 'socioscope']
@@ -158,14 +157,6 @@ const hasActiveFilters = computed(() => {
 const resetFilters = () => {
   activeFilter.value = 'all'
   searchQuery.value = ''
-}
-
-const openModal = () => {
-  isModalOpen.value = true
-}
-
-const closeModal = () => {
-  isModalOpen.value = false
 }
 
 // Use the localized collection composable

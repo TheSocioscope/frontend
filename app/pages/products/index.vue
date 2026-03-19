@@ -3,7 +3,7 @@
     <PageHero
       :title="$t('products.hero.title')"
       :subtitle="$t('products.hero.subtitle')"
-      icon="🛒"
+      icon="mdi-package-variant-closed"
     />
     <section class="section">
       <div class="container">

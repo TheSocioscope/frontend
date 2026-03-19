@@ -94,6 +94,15 @@
 const route = useRoute()
 const { t: $t, locale } = useI18n()
 const localePath = useLocalePath()
+
+const slugify = (text: string) =>
+  text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 80)
 const {
   getStatusLabel,
   getContinentLabel,
@@ -108,7 +117,7 @@ const { isTranslated: checkIsTranslated } = useMultilingual()
 // State for toggling between current locale and original language
 const showOriginal = ref(false)
 
-const projectId = computed(() => route.params.id as string)
+const projectSlug = computed(() => route.params.id as string)
 
 // Current URL for sharing
 const currentUrl = computed(() => {
@@ -120,13 +129,14 @@ const currentUrl = computed(() => {
 
 // Fetch project
 const { data: project, error: projectError } = await useAsyncData(
-  `project-${projectId.value}`,
+  `project-${projectSlug.value}`,
   async () => {
     try {
       const projects = await queryCollection('projects').all()
-      const foundProject = projects.find(
-        (p: any) => String(p.pubId) === projectId.value || p._path?.includes(projectId.value)
-      )
+      const foundProject = projects.find((p: any) => {
+        const name = typeof p.name === 'string' ? p.name : p.name?.en || ''
+        return slugify(name) === projectSlug.value
+      })
 
       if (!foundProject) {
         throw new Error('Project not found')

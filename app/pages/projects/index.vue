@@ -3,7 +3,7 @@
     <PageHero
       :title="$t('projects.hero.title')"
       :subtitle="$t('projects.hero.subtitle')"
-      icon="🗺️"
+      icon="mdi-earth"
     />
     <section class="section">
       <div class="container">
@@ -129,6 +129,7 @@ const currentPage = ref(1)
 const itemsPerPage = ref(12)
 const sortBy = ref('score')
 const sortOrder = ref<'asc' | 'desc'>('desc')
+const shuffleIndex = ref<Map<number, number>>(new Map())
 const isMobile = ref(false)
 const mobileDisplayCount = ref(12)
 
@@ -144,6 +145,13 @@ onMounted(() => {
   window.addEventListener('resize', () => {
     isMobile.value = window.innerWidth < 768
   })
+
+  // Build a random shuffle order once per page load
+  if (projectsData.value) {
+    const ids = (projectsData.value as any[]).map((p) => p.pubId)
+    const shuffled = [...ids].sort(() => Math.random() - 0.5)
+    shuffleIndex.value = new Map(shuffled.map((id, i) => [id, i]))
+  }
 
   const { countries, continent, status, thematics, fields, types } = route.query
 
@@ -318,7 +326,8 @@ const filteredProjects = computed(() => {
     let comparison = 0
 
     if (sortBy.value === 'score') {
-      comparison = (b.score || 0) - (a.score || 0)
+      // "Random" — use the per-session shuffle order
+      comparison = (shuffleIndex.value.get(a.pubId) ?? 0) - (shuffleIndex.value.get(b.pubId) ?? 0)
     } else if (sortBy.value === 'name') {
       const aName = typeof a.name === 'string' ? a.name : a.name?.en || ''
       const bName = typeof b.name === 'string' ? b.name : b.name?.en || ''
@@ -385,10 +394,21 @@ watch(
   { deep: true }
 )
 
+// Converts a project name to a URL slug
+const slugify = (text: string) =>
+  text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 80)
+
 // Navigation handler
-const handleProjectClick = (project: { stem: string }) => {
-  const projectId = project.stem.replace('projects/', '')
-  navigateTo(localePath(`/projects/${projectId}`))
+const handleProjectClick = (project: any) => {
+  const name = typeof project.name === 'string' ? project.name : project.name?.en || ''
+  const slug = slugify(name)
+  navigateTo(localePath(`/projects/${slug}`))
 }
 
 // Reset all filters

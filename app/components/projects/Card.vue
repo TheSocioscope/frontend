@@ -57,6 +57,9 @@
     <v-card v-else class="project-card project-card-traditional" hover @click="handleClick">
       <div class="traditional-content">
         <div class="traditional-top">
+          <div class="project-initials" :style="{ background: initialsBackground }">
+            {{ projectInitials }}
+          </div>
         </div>
         <div class="traditional-middle">
           <h3 class="text-h6 mb-3 font-weight-bold text-grey-darken-4">{{ localizedName }}</h3>
@@ -163,6 +166,18 @@ const getStatusColor = (status: string) => {
 const handleClick = () => {
   emit('click', props.project)
 }
+
+const projectInitials = computed(() => {
+  const words = localizedName.value.trim().split(/\s+/)
+  return words.length >= 2
+    ? (words[0][0] + words[1][0]).toUpperCase()
+    : localizedName.value.slice(0, 2).toUpperCase()
+})
+
+const initialsBackground = computed(() => {
+  const colors = ['#27421d', '#4ca049', '#5c4a2f', '#6b8e23', '#8b6f47']
+  return colors[props.project.pubId % colors.length]
+})
 </script>
 
 <style scoped>
@@ -331,6 +346,21 @@ const handleClick = () => {
 .traditional-top {
   display: flex;
   align-items: flex-start;
+  margin-bottom: 12px;
+}
+
+.project-initials {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 1rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  flex-shrink: 0;
 }
 
 .traditional-middle {

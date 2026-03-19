@@ -16,8 +16,8 @@
             <div class="floating-element floating-element-1" />
             <div class="floating-element floating-element-2" />
             <div class="floating-element floating-element-3" />
-            <div v-if="icon" class="icon-container">
-              <div class="icon">{{ icon }}</div>
+            <div v-if="icon" class="icon-container" aria-hidden="true">
+              <v-icon class="hero-icon">{{ icon }}</v-icon>
             </div>
             <slot name="custom-icon" />
           </div>
@@ -154,12 +154,18 @@ defineProps<{
   z-index: 1;
 }
 
-.icon {
-  font-size: 6rem;
+.hero-icon {
+  font-size: 6rem !important;
+  width: 6rem !important;
+  height: 6rem !important;
+  color: $forest-green;
   animation: bounce 3s ease-in-out infinite;
+  opacity: 0.85;
 
   @media (max-width: 768px) {
-    font-size: 4rem;
+    font-size: 4rem !important;
+    width: 4rem !important;
+    height: 4rem !important;
   }
 }
 
