@@ -8,7 +8,16 @@
       "Bash(grep -n '\"\"press\"\"' /c/Users/ssekhsaria/Documents/socioscope-website/i18n/locales/es.json)",
       "Bash(grep -n '\"\"press\"\"' /c/Users/ssekhsaria/Documents/socioscope-website/i18n/locales/de.json)",
       "Bash(grep:*)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Users/ssekhsaria/Documents/socioscope-website/**)",
+      "Bash(done)",
+      "Bash(mkdir -p en fr de es)",
+      "Bash(cp *.md en/)",
+      "Bash(cp *.md fr/)",
+      "Bash(cp *.md de/)",
+      "Bash(cp *.md es/)"
     ]
   }
 }

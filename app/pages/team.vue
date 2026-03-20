@@ -213,8 +213,8 @@ useHead({
 
 const { resolveImagePath } = useImagePath()
 
-const { data: allTeamMembers } = await useAsyncData('all-team-members', () =>
-  queryCollection('team').all(),
+const { data: allTeamMembers } = await useAsyncData(`all-team-members-${locale.value}`, () =>
+  queryCollection('team').where('path', 'LIKE', `/team/${locale.value}/%`).all(),
   { default: () => [] }
 )
 
@@ -243,28 +243,24 @@ const operations = computed(() => {
 })
 
 const { data: allPartners } = await useAsyncData(`all-partners-${locale.value}`, () =>
-  queryCollection('partners').all(),
+  queryCollection('partners').where('path', 'LIKE', `/partners/${locale.value}/%`).all(),
   { default: () => [] }
 )
 
-const localePartners = computed(() =>
-  (allPartners.value || []).filter((p: any) => p._path?.includes(`/${locale.value}/`))
-)
-
 const institutionalPartners = computed(() =>
-  localePartners.value.find(
+  (allPartners.value || []).find(
     (p: any) => p.category === 'institutional-partners' && p.partners && Array.isArray(p.partners)
   ) ?? null
 )
 
 const designLegalPartners = computed(() =>
-  localePartners.value.find(
+  (allPartners.value || []).find(
     (p: any) => p.category === 'design-legal-partners' && p.partners && Array.isArray(p.partners)
   ) ?? null
 )
 
 const dataCollectionPartners = computed(() =>
-  localePartners.value.find(
+  (allPartners.value || []).find(
     (p: any) => p.category === 'data-collection-partners' && p.partners && Array.isArray(p.partners)
   ) ?? null
 )
