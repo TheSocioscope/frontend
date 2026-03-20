@@ -242,31 +242,32 @@ const operations = computed(() => {
   return allTeamMembers.value?.filter((m: any) => m.category === 'operations') || []
 })
 
-const { data: allPartners } = await useAsyncData('all-partners', () =>
+const { data: allPartners } = await useAsyncData(`all-partners-${locale.value}`, () =>
   queryCollection('partners').all(),
   { default: () => [] }
 )
 
-const institutionalPartners = computed(() => {
-  if (!allPartners.value) return null
-  return allPartners.value.find(
+const localePartners = computed(() =>
+  (allPartners.value || []).filter((p: any) => p._path?.includes(`/${locale.value}/`))
+)
+
+const institutionalPartners = computed(() =>
+  localePartners.value.find(
     (p: any) => p.category === 'institutional-partners' && p.partners && Array.isArray(p.partners)
-  )
-})
+  ) ?? null
+)
 
-const designLegalPartners = computed(() => {
-  if (!allPartners.value) return null
-  return allPartners.value.find(
+const designLegalPartners = computed(() =>
+  localePartners.value.find(
     (p: any) => p.category === 'design-legal-partners' && p.partners && Array.isArray(p.partners)
-  )
-})
+  ) ?? null
+)
 
-const dataCollectionPartners = computed(() => {
-  if (!allPartners.value) return null
-  return allPartners.value.find(
+const dataCollectionPartners = computed(() =>
+  localePartners.value.find(
     (p: any) => p.category === 'data-collection-partners' && p.partners && Array.isArray(p.partners)
-  )
-})
+  ) ?? null
+)
 
 const { data: allInterviewers } = await useAsyncData('all-interviewers', () =>
   queryCollection('interviewers').all(),
