@@ -85,6 +85,7 @@ const navItems = [
   { key: 'about', to: '/about' },
   { key: 'projects', to: '/projects' },
   { key: 'products', to: '/products' },
+  { key: 'resources', to: '/resources' },
   { key: 'contact', to: '/contact' }
 ]
 

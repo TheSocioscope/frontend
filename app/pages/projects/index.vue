@@ -21,17 +21,39 @@
           @reset="resetFilters"
         />
 
-        <!-- Sort and Per Page Controls -->
-        <ListControls
-          v-model:sort-by="sortBy"
-          v-model:sort-order="sortOrder"
-          v-model:items-per-page="itemsPerPage"
-          :sort-options="sortOptions"
-          :per-page-options="[12, 24, 36, 48]"
-          :sort-label="$t('projects.sortBy')"
-          :per-page-label="$t('projects.perPage')"
-          :show-per-page="!isMobile"
-        />
+        <!-- Sort, Per Page Controls + View Toggle -->
+        <div class="controls-row">
+          <ListControls
+            v-model:sort-by="sortBy"
+            v-model:sort-order="sortOrder"
+            v-model:items-per-page="itemsPerPage"
+            :sort-options="sortOptions"
+            :per-page-options="[12, 24, 36, 48]"
+            :sort-label="$t('projects.sortBy')"
+            :per-page-label="$t('projects.perPage')"
+            :show-per-page="!isMobile"
+          />
+          <div class="view-toggle" role="group" :aria-label="$t('projects.viewMode', 'View mode')">
+            <button
+              class="view-btn"
+              :class="{ active: viewMode === 'grid' }"
+              :aria-pressed="viewMode === 'grid'"
+              :aria-label="$t('projects.gridView', 'Grid view')"
+              @click="viewMode = 'grid'"
+            >
+              <v-icon>mdi-view-grid-outline</v-icon>
+            </button>
+            <button
+              class="view-btn"
+              :class="{ active: viewMode === 'list' }"
+              :aria-pressed="viewMode === 'list'"
+              :aria-label="$t('projects.listView', 'List view')"
+              @click="viewMode = 'list'"
+            >
+              <v-icon>mdi-view-list-outline</v-icon>
+            </button>
+          </div>
+        </div>
 
         <!-- Results count -->
         <ListResultsInfo
@@ -41,14 +63,46 @@
           :message="`${$t('projects.projectsFound')}: ${filteredProjects.length}`"
         />
 
-        <!-- Desktop: Project list -->
-        <div v-if="!isMobile && filteredProjects.length > 0" class="projects-grid">
+        <!-- Desktop: Grid view -->
+        <div v-if="!isMobile && filteredProjects.length > 0 && viewMode === 'grid'" class="projects-grid">
           <ProjectsCard
             v-for="project in paginatedProjects"
             :key="project.pubId"
             :project="project"
             @click="handleProjectClick"
           />
+        </div>
+
+        <!-- Desktop: List view -->
+        <div v-else-if="!isMobile && filteredProjects.length > 0 && viewMode === 'list'" class="projects-list">
+          <div
+            v-for="project in paginatedProjects"
+            :key="project.pubId"
+            class="project-row"
+            role="button"
+            tabindex="0"
+            @click="handleProjectClick(project)"
+            @keyup.enter="handleProjectClick(project)"
+          >
+            <div class="row-avatar" :style="{ background: getRowBackground(project) }">
+              {{ getRowInitials(project) }}
+            </div>
+            <div class="row-body">
+              <h3 class="row-name">{{ getRowName(project) }}</h3>
+              <p v-if="project.location" class="row-location">
+                <v-icon size="x-small">mdi-map-marker</v-icon> {{ project.location }}
+              </p>
+            </div>
+            <div class="row-tags">
+              <v-chip
+                v-for="c in project.continent?.slice(0, 2) || []"
+                :key="c"
+                size="x-small"
+                class="mr-1"
+              >{{ getContinentLabel(c) }}</v-chip>
+            </div>
+            <v-icon class="row-arrow">mdi-chevron-right</v-icon>
+          </div>
         </div>
 
         <!-- Mobile: Project list with lazy loading -->
@@ -130,6 +184,7 @@ const itemsPerPage = ref(12)
 const sortBy = ref('score')
 const sortOrder = ref<'asc' | 'desc'>('desc')
 const shuffleIndex = ref<Map<number, number>>(new Map())
+const viewMode = ref<'grid' | 'list'>('grid')
 const isMobile = ref(false)
 const mobileDisplayCount = ref(12)
 
@@ -426,6 +481,24 @@ const resetFilters = () => {
   router.push({ query: {} })
 }
 
+// List view helpers
+const { getLocalizedText } = useMultilingual()
+const rowColors = ['#27421d', '#4ca049', '#5c4a2f', '#6b8e23', '#8b6f47']
+
+const getRowName = (project: any) => {
+  const name = project.name
+  return typeof name === 'string' ? name : getLocalizedText(name, project.originalLang)
+}
+
+const getRowInitials = (project: any) => {
+  const words = getRowName(project).trim().split(/\s+/)
+  return words.length >= 2
+    ? (words[0][0] + words[1][0]).toUpperCase()
+    : getRowName(project).slice(0, 2).toUpperCase()
+}
+
+const getRowBackground = (project: any) => rowColors[project.pubId % rowColors.length]
+
 useHead({
   title: $t('nav.projects')
 })
@@ -433,6 +506,7 @@ useHead({
 
 <style scoped lang="scss">
 @use '~~/assets/styles/pagination' as *;
+@use '~~/assets/styles/variables' as *;
 
 .section {
   padding: 4rem 0;
@@ -444,11 +518,124 @@ useHead({
   padding: 0 2rem;
 }
 
+.controls-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.view-toggle {
+  display: flex;
+  border: 1px solid #ddd;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.view-btn {
+  background: white;
+  border: none;
+  padding: 0.45rem 0.65rem;
+  cursor: pointer;
+  color: #888;
+  transition: background 0.2s, color 0.2s;
+
+  &:hover {
+    background: #f5f5f5;
+    color: #444;
+  }
+
+  &.active {
+    background: $green-bright;
+    color: white;
+  }
+}
+
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
   gap: 2rem;
   margin: 2rem 0;
+}
+
+.projects-list {
+  margin: 2rem 0;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.project-row {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1rem 1.25rem;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background 0.2s;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  &:hover {
+    background: #fafafa;
+  }
+}
+
+.row-avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.row-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.row-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: $brown-dark;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0.2rem;
+}
+
+.row-location {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.row-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  flex-shrink: 0;
+
+  @media (max-width: 600px) {
+    display: none;
+  }
+}
+
+.row-arrow {
+  color: #ccc;
+  flex-shrink: 0;
 }
 
 .results-info {
