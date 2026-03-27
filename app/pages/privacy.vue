@@ -29,32 +29,24 @@ useHead({
 })
 
 // Fetch the privacy policy content based on current locale
-const { data: page } = await useAsyncData(`privacy-${locale.value}`, async () => {
-  const allPages = await queryCollection('pages').all()
+const { data: page } = await useAsyncData(
+  `privacy-${locale.value}`,
+  async () => {
+    const localized = await queryCollection('pages')
+      .where('path', 'LIKE', `/pages/${locale.value}/privacy-policy%`)
+      .first()
 
-  // Find the privacy policy for the current locale
-  const localizedPage = allPages.find((item: any) => {
-    const isPrivacyPolicy =
-      item.slug === 'privacy-policy' ||
-      item._path?.includes('privacy-policy') ||
-      item.stem?.includes('privacy-policy')
-    const isCurrentLocale =
-      item._path?.includes(`/${locale.value}/`) || item.stem?.includes(`${locale.value}/`)
-    return isPrivacyPolicy && isCurrentLocale
-  })
+    if (localized) return localized
 
-  if (localizedPage) return localizedPage
-
-  // Fallback to English if no localized version found
-  return (
-    allPages.find((item: any) => {
-      const isPrivacyPolicy =
-        item.slug === 'privacy-policy' || item._path?.includes('privacy-policy')
-      const isEnglish = item._path?.includes('/en/') || item.stem?.includes('en/')
-      return isPrivacyPolicy && isEnglish
-    }) || null
-  )
-})
+    // Fallback to English if no localized version found
+    return (
+      (await queryCollection('pages')
+        .where('path', 'LIKE', '/pages/en/privacy-policy%')
+        .first()) || null
+    )
+  },
+  { watch: [locale] }
+)
 </script>
 
 <style scoped lang="scss">

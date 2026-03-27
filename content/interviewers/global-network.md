@@ -22,7 +22,7 @@ interviewers:
   - name: Amélie Peuteuil
     country: France
     picture: '/images/team/Amélie Peuteuil.jpg'
-  - name: Ana Maria Mandoza
+  - name: Ana Maria Mendoza
     country: Colombia
     picture: '/images/team/Ana Maria.jpg'
   - name: Andrea Padilla

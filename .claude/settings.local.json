@@ -17,7 +17,8 @@
       "Bash(cp *.md en/)",
       "Bash(cp *.md fr/)",
       "Bash(cp *.md de/)",
-      "Bash(cp *.md es/)"
+      "Bash(cp *.md es/)",
+      "Bash(find /c/Users/ssekhsaria/Documents/socioscope-website/content/team -type f -name *.md -o -name *.json)"
     ]
   }
 }
