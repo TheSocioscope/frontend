@@ -68,7 +68,7 @@ const { t: $t } = useI18n()
   text-align: center;
 
   h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     font-weight: 700;
@@ -102,7 +102,7 @@ const { t: $t } = useI18n()
   }
 
   h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     font-size: 1.4rem;
     margin-bottom: 1rem;
     color: $forest-green;

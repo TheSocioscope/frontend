@@ -5,7 +5,7 @@
     "team": "L'équipe",
     "faq": "FAQ",
     "projects": "Projets",
-    "database": "Base de données des initiatives",
+    "database": "Répertoire des initiatives",
     "submitInitiative": "Enregistrer votre projet",
     "products": "Produits",
     "resources": "Ressources",
@@ -14,38 +14,38 @@
     "events": "Événements/Conférences",
     "contact": "Contact",
     "contactUs": "Nous contacter",
-    "press": "Salle de presse",
+    "press": "Espace presse",
     "menu": "Ouvrir le menu de navigation"
   },
   "hero": {
     "title": "THE SOCIOSCOPE",
-    "subtitle": "Voir comment le changement social prend forme"
+    "subtitle": "Quand le changement social prend forme"
   },
   "vision": {
     "title": "Un microscope social sur le changement des systèmes alimentaires",
-    "statement1": "Grâce à la collecte de données à grande échelle dans le monde entier et à la recherche pilotée par LLM, le Socioscope analyse comment les comportements, normes et pratiques évoluent dans les transitions alimentaires durables.",
-    "statement2": "Nous construisons une méthode systématique pour rendre les schémas sociaux complexes mesurables, comparables et compréhensibles."
+    "statement1": "À travers une collecte de données à grande échelle à travers le monde et des analyses fondées sur des modèles de langage (LLM), le Socioscope étudie comment les comportements, les normes et les pratiques évoluent dans le cadre des transitions vers des systèmes alimentaires durables.",
+    "statement2": "Nous construisons une approche systémique pour rendre les dynamiques sociales complexes mesurables, comparables et compréhensibles."
   },
   "contributions": {
     "card1": {
       "icon": "📊",
       "title": "Données",
-      "description": "Collecte de données sophistiquée sur le terrain dans plus de 35 pays, capturant non seulement ce que font les initiatives, mais comment elles transforment les écosystèmes économiques, écologiques, culturels et de gouvernance.",
-      "description2": "Nos enquêteurs et responsables de terrain locaux, bien formés, effectuent du travail de terrain ethnographique, des entretiens qualitatifs semi-structurés et de l'observation participative pour construire l'ensemble de données le plus complet sur les transformations des systèmes alimentaires.",
+      "description": "Collecte de données de terrain sophistiquée dans plus de 35 pays, capturant non seulement ce que font les initiatives, mais aussi la manière dont elles transforment les systèmes économiques, écologiques, culturels et de gouvernance.",
+      "description2": "Nos enquêteurs locaux et responsables de terrain, hautement qualifiés, mènent des enquêtes ethnographiques, des entretiens qualitatifs semi-directifs et des observations participatives afin de constituer l'un des ensembles de données les plus complets sur les transformations des systèmes alimentaires.",
       "link": ""
     },
     "card2": {
       "icon": "🤖",
       "title": "Technologie",
-      "description": "Établissement d'une méthodologie de recherche pilotée par LLM qui peut traiter des données qualitatives à grande échelle tout en préservant les nuances contextuelles et la spécificité culturelle.",
-      "description2": "Notre suite d'outils technologiques classiques et basés sur les LLM aide les chercheurs à analyser les données de centaines de cas de manière valide et fiable.",
+      "description": "Mise en place d'une méthodologie de recherche fondée sur des modèles de langage (LLM), capable de traiter des données qualitatives à grande échelle tout en préservant la richesse du contexte et les spécificités culturelles.",
+      "description2": "Notre ensemble d'outils, alliant approches classiques et technologies basées sur les LLM, permet aux chercheurs d'analyser des données issues de centaines de cas de manière rigoureuse et fiable.",
       "link": ""
     },
     "card3": {
       "icon": "🌾",
       "title": "Analyse",
-      "description": "Développement de nouveaux cadres et voies pour comprendre la transformation des systèmes alimentaires à travers les secteurs et contextes, examinant les dimensions économiques, politiques et culturelles.",
-      "description2": "Analyse de la façon dont les parties prenantes travaillent ensemble, des motivations et valeurs qui les incitent, et des défis clés ; une approche stratifiée pour cartographier comment les systèmes alimentaires évoluent.",
+      "description": "Développement de nouveaux cadres d'analyse et de trajectoires pour comprendre les transformations des systèmes alimentaires à travers différents contextes et secteurs, en examinant leurs dimensions économiques, politiques et culturelles.",
+      "description2": "Analyse approfondie des dynamiques entre parties prenantes, des motivations et des valeurs qui les animent, ainsi que des principaux défis rencontrés ; une approche à plusieurs niveaux pour cartographier l'évolution des systèmes alimentaires.",
       "link": ""
     }
   },
@@ -65,11 +65,11 @@
       "label": "Continents"
     },
     "card4": {
-      "label": "Enquêteurs mondiaux"
+      "label": "Enquêteurs internationaux"
     }
   },
   "stories": {
-    "title": "Histoires du terrain",
+    "title": "Récits de terrain",
     "videoPlaceholder": "▶",
     "video1": {
       "title": "Agriculture urbaine à Tokyo",
@@ -118,7 +118,7 @@
   "projects": {
     "hero": {
       "title": "Carte du changement",
-      "subtitle": "Explorez les initiatives transformatrices qui refaçonnent nos systèmes alimentaires dans le monde entier"
+      "subtitle": "Explorez les initiatives transformatrices qui redéfinissent nos systèmes alimentaires à travers le monde."
     },
     "detail": {
       "about": "À propos de cette initiative"
@@ -353,16 +353,16 @@
   "team": {
     "meta": {
       "title": "Notre équipe - The Socioscope",
-      "description": "Un réseau mondial de chercheurs, développeurs et enquêteurs de terrain dédiés à la compréhension du comportement collectif"
+      "description": "Un réseau mondial de chercheurs, de développeurs et d'acteurs de terrain engagé dans la compréhension des dynamiques collectives."
     },
     "hero": {
       "title": "Notre équipe",
-      "subtitle": "Un réseau mondial de chercheurs, développeurs et enquêteurs de terrain dédiés à la compréhension du comportement collectif"
+      "subtitle": "Un réseau mondial de chercheurs, de développeurs et d'acteurs de terrain engagé dans la compréhension des dynamiques collectives."
     },
     "categories": {
       "principalInvestigators": {
-        "title": "Chercheurs principaux",
-        "description": "Dirigeant notre vision et stratégie de recherche"
+        "title": "Investigateurs principaux",
+        "description": "Ils portent et orientent notre vision et notre stratégie de recherche."
       },
       "coInvestigators": {
         "title": "Co-chercheurs et post-doctorants",
@@ -386,7 +386,7 @@
       },
       "institutionalPartners": {
         "title": "Partenaires institutionnels",
-        "description": "Organisations fournissant un soutien institutionnel et de la collaboration"
+        "description": "Organisations fournissant un soutien institutionnel"
       },
       "designLegalPartners": {
         "title": "Partenaires design et juridiques",
@@ -505,22 +505,22 @@
   },
   "press": {
     "meta": {
-      "title": "Salle de presse - The Socioscope",
+      "title": "Espace presse - The Socioscope",
       "description": "Ressources médiatiques, actifs de marque et informations sur The Socioscope"
     },
     "hero": {
-      "title": "Salle de presse",
+      "title": "Espace presse",
       "subtitle": "Ressources médiatiques, actifs de marque et informations sur The Socioscope"
     },
     "resources": {
       "title": "Ressources médiatiques",
-      "description": "Bienvenue dans la salle de presse du Socioscope. Vous y trouverez notre kit média, les faits clés et des ressources pour les journalistes, partenaires et parties prenantes intéressés par notre travail sur les systèmes alimentaires durables."
+      "description": "Bienvenue dans l'espace presse du Socioscope. Vous y trouverez notre kit média, les faits clés et des ressources pour les journalistes, partenaires et parties prenantes intéressés par notre travail sur les systèmes alimentaires durables."
     },
     "mediaKit": {
       "title": "Kit média 2024",
       "description": "Informations complètes sur The Socioscope, notre impact et les opportunités de partenariat",
       "stats": {
-        "countries": "36+",
+        "countries": "35+",
         "countriesLabel": "Pays couverts",
         "initiatives": "700+",
         "initiativesLabel": "Initiatives",
@@ -548,7 +548,7 @@
         "title": "Informations clés",
         "founded": "Fondé : 2022",
         "headquarters": "Siège : Paris, France",
-        "reach": "Portée de recherche : 36+ pays",
+        "reach": "Portée de recherche : 35+ pays",
         "website": "Site web : thesocioscope.org"
       },
       "audience": {
@@ -650,8 +650,8 @@
   "microscope": {
     "icon": "🔬",
     "title": "Un microscope social sur le changement des systèmes alimentaires",
-    "description1": "Grâce à la collecte de données à grande échelle dans le monde entier et à la recherche pilotée par LLM, le Socioscope analyse comment les comportements, normes et pratiques évoluent dans les transitions alimentaires durables.",
-    "description2": "Nous construisons une méthode systématique pour rendre les schémas sociaux complexes mesurables, comparables et compréhensibles."
+    "description1": "À travers une collecte de données à grande échelle à travers le monde et des analyses fondées sur des modèles de langage (LLM), le Socioscope étudie comment les comportements, les normes et les pratiques évoluent dans le cadre des transitions vers des systèmes alimentaires durables.",
+    "description2": "Nous construisons une approche systémique pour rendre les dynamiques sociales complexes mesurables, comparables et compréhensibles."
   },
   "breakthroughs": {
     "title": "Percées scientifiques",
@@ -689,7 +689,7 @@
     "button": "Soumettre votre initiative"
   },
   "leadingResearch": {
-    "title": "Mener la recherche",
+    "title": "À la tête de la recherche",
     "eth": {
       "title": "ETH Zurich",
       "description": "Chaire des réseaux sociaux"
@@ -709,12 +709,12 @@
     },
     "hero": {
       "title": "À propos du Socioscope",
-      "subtitle": "Comprendre ce qui stimule vraiment le changement durable"
+      "subtitle": "Comprendre les véritables moteurs du changement durable"
     },
     "mission": {
       "title": "Notre mission",
-      "paragraph1": "The Socioscope est un projet de recherche qualitative transformatif qui cartographie comment les comportements, normes et communautés influencent la transition vers des systèmes alimentaires durables.",
-      "paragraph2": "The Socioscope sert d'observatoire complet de ces efforts, rendant les connaissances accessibles aux chercheurs, décideurs politiques et praticiens du monde entier. Tout aussi important, il met en lumière les initiatives locales qui mènent le changement sur le terrain et conduisent la transition vers un système alimentaire plus durable."
+      "paragraph1": "Le Socioscope est un projet de recherche qualitative transformateur qui cartographie la manière dont les comportements, les normes et les communautés influencent la transition vers des systèmes alimentaires durables.",
+      "paragraph2": "Le Socioscope agit comme un observatoire complet de ces dynamiques, en rendant les connaissances accessibles aux chercheurs, aux décideurs publics et aux praticiens à travers le monde. Il est tout aussi essentiel de mettre en lumière les initiatives locales qui portent le changement sur le terrain et contribuent à accélérer la transition vers un système alimentaire plus durable."
     },
     "info": {
       "established": {
@@ -723,7 +723,7 @@
         "detail": "En croissance depuis le premier jour"
       },
       "location": {
-        "label": "Base d'attache",
+        "label": "Siège",
         "value": "Paris, France",
         "detail": "Où les idées rencontrent les croissants"
       },
@@ -735,46 +735,46 @@
     },
     "whatWeDo": {
       "title": "Ce que nous faisons",
-      "paragraph1": "The Socioscope explore comment le changement durable se produit sur le terrain, en se concentrant sur les systèmes alimentaires. Nous documentons les solutions locales, parlons avec les praticiens et analysons les insights à l'aide de l'IA pour révéler les modèles derrière l'innovation impactante.",
-      "paragraph2": "Grâce à la recherche systématique et à l'engagement communautaire, nous identifions, documentons et analysons les initiatives qui incarnent les principes de transformation durable. Notre base de données comprend des mouvements de base, des projets communautaires, des expériences de gouvernance participative et des plateformes de résolution collaborative de problèmes de tous les continents."
+      "paragraph1": "Le Socioscope explore comment le changement durable se construit sur le terrain, avec un focus sur les systèmes alimentaires. Nous documentons des solutions locales, échangeons avec les acteurs de terrain et analysons les données grâce à l'IA afin de faire émerger les dynamiques à l'origine des innovations à fort impact.",
+      "paragraph2": "À travers une recherche systématique et un engagement auprès des communautés, nous identifions, documentons et analysons des initiatives qui incarnent les principes de la transformation durable. Notre base de données rassemble des mouvements de terrain, des projets portés par les communautés, des expérimentations de gouvernance participative et des plateformes de résolution collaborative de problèmes, issus de tous les continents."
     },
     "methodology": {
       "title": "Notre méthodologie",
-      "subtitle": "Allier rigueur académique et approches de recherche participative",
+      "subtitle": "Allier rigueur académique et approches de recherche participatives",
       "step1": {
         "title": "Identification",
-        "desc": "Par l'analyse de réseau, les recommandations d'experts et les nominations communautaires, nous identifions les initiatives qui démontrent des principes de transformation durable."
+        "desc": "Grâce à l'analyse de réseaux, aux recommandations d'experts et aux nominations par les communautés, nous identifions des initiatives qui illustrent les principes de la transformation durable."
       },
       "step2": {
         "title": "Documentation",
-        "desc": "Nos enquêteurs formés mènent des conversations approfondies avec les responsables d'initiatives et les participants, capturant des données qualitatives riches sur les systèmes alimentaires locaux."
+        "desc": "Nos enquêteurs formés mènent des entretiens approfondis avec les porteurs d'initiatives et les participants, afin de recueillir des données qualitatives riches sur les systèmes alimentaires locaux."
       },
       "step3": {
         "title": "Analyse",
-        "desc": "Utilisant des méthodes mixtes alimentées par l'IA, nous analysons les modèles à travers les initiatives, identifiant les facteurs de succès, les défis et les insights transférables."
+        "desc": "À l'aide de méthodes mixtes appuyées par l'IA, nous analysons les dynamiques entre initiatives, en identifiant les facteurs de réussite, les défis et les enseignements transférables."
       },
       "step4": {
         "title": "Diffusion",
-        "desc": "Nous partageons les résultats par des publications, les médias sociaux et l'engagement communautaire, garantissant que les connaissances atteignent des publics divers dans le monde entier."
+        "desc": "Nous partageons les résultats via des publications, les réseaux sociaux et des actions d'engagement communautaire, afin de rendre les connaissances accessibles à des publics variés à travers le monde."
       }
     },
     "values": {
       "title": "Nos valeurs",
       "global": {
-        "title": "Perspective mondiale",
-        "desc": "Nous reconnaissons que le changement durable se manifeste différemment selon les cultures et les contextes, et nous valorisons cette diversité comme source d'apprentissage et d'innovation."
+        "title": "Perspective globale",
+        "desc": "Nous reconnaissons que le changement durable prend des formes différentes selon les cultures et les contextes, et nous considérons cette diversité comme une source d'apprentissage et d'innovation."
       },
       "collaboration": {
         "title": "Collaboration",
-        "desc": "Nous pratiquons ce que nous étudions, travaillant en collaboration avec des partenaires de recherche, des membres de la communauté et des initiatives pour co-créer des connaissances sur les systèmes alimentaires."
+        "desc": "Nous appliquons les principes que nous étudions en travaillant de manière collaborative avec des partenaires de recherche, des membres des communautés et des initiatives, afin de co-construire les connaissances sur les systèmes alimentaires."
       },
       "open": {
         "title": "Ouverture",
-        "desc": "Nous croyons que la connaissance devrait être librement accessible. Notre base de données est ouverte à tous, soutenant les biens communs mondiaux de la recherche sur la durabilité."
+        "desc": "Nous croyons que la connaissance doit être librement accessible. Notre base de données est ouverte à tous, contribuant au bien commun de la recherche sur la durabilité."
       },
       "ethical": {
-        "title": "Pratique éthique",
-        "desc": "Nous menons des recherches avec intégrité, en respectant l'autonomie des participants, en maintenant la confidentialité et en veillant à ce que notre travail profite aux communautés que nous étudions."
+        "title": "Pratiques éthiques",
+        "desc": "Nous menons nos recherches avec intégrité, en respectant l'autonomie des participants, en garantissant la confidentialité et en veillant à ce que nos travaux bénéficient aux communautés étudiées."
       }
     },
     "cta": {

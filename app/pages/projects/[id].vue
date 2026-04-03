@@ -29,15 +29,6 @@
       />
 
       <v-container class="content-container">
-        <!-- Translation Disclaimer -->
-        <ProjectTranslationDisclaimer
-          v-if="showDisclaimer"
-          :original-lang="project.originalLang"
-          :current-locale="String(locale)"
-          :showing-original="showOriginal"
-          @toggle-original="toggleOriginal"
-        />
-
         <!-- About Component -->
         <ProjectAbout :project="project" :localized-description="localizedDescription" />
 
@@ -160,7 +151,7 @@ const localizedName = computed(() => {
   const proj = project.value as any
   if (!proj) return ''
   if (typeof proj.name === 'string') return proj.name
-  return proj.name?.[currentLocale.value] || proj.name?.en || proj.name || ''
+  return proj.name?.en || proj.name?.[proj.originalLang || proj.lang] || Object.values(proj.name)[0] || ''
 })
 
 const localizedDescription = computed(() => {

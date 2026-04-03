@@ -407,7 +407,7 @@ const filteredGlobalInterviewers = computed(() => {
   border-radius: 0;
   background: white;
   font-size: 1rem;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   transition: border-color 0.3s;
 
   &:focus {

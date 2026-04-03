@@ -112,7 +112,7 @@ const shareMediaKit = () => {
   text-align: center;
 
   h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     font-weight: 700;
@@ -159,7 +159,7 @@ const shareMediaKit = () => {
 
 .media-kit-info {
   h3 {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     font-size: 2rem;
     margin-bottom: 0.5rem;
     color: $forest-green;
@@ -220,7 +220,7 @@ const shareMediaKit = () => {
   padding: 1rem 2rem;
   font-weight: 600;
   text-decoration: none;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   transition: all 0.3s ease;
   border: 2px solid transparent;

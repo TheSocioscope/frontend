@@ -38,7 +38,7 @@ defineProps<{
 
 .section-title {
   text-align: center;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 2.5rem;
   margin-bottom: 0.5rem;
   font-weight: 700;

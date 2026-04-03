@@ -118,7 +118,9 @@ const { getLocalizedText } = useMultilingual()
 
 const localizedName = computed(() => {
   const name = props.project.name
-  return typeof name === 'string' ? name : getLocalizedText(name, props.project.originalLang)
+  if (typeof name === 'string') return name
+  const nameObj = name as Record<string, string>
+  return nameObj.en || nameObj[(props.project.originalLang as string) || ''] || Object.values(nameObj)[0] || ''
 })
 
 const localizedDescription = computed(() => {

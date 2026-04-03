@@ -6,31 +6,6 @@
     <v-card-text>
       <div class="description-content" v-html="localizedDescription" />
 
-      <v-divider v-if="project.contact" class="my-4" />
-
-      <div v-if="project.contact" class="contact-info">
-        <h3 class="contact-title">{{ $t('nav.contact') }}</h3>
-        <div class="contact-details">
-          <div v-if="project.contact.entity">
-            <strong>{{ $t('common.organization') }}:</strong> {{ project.contact.entity }}
-          </div>
-          <div v-if="project.contact.firstname || project.contact.lastname">
-            <strong>{{ $t('common.contact') }}:</strong>
-            {{ project.contact.firstname }} {{ project.contact.lastname }}
-          </div>
-          <div v-if="project.contact.contact_url">
-            <v-btn
-              :href="project.contact.contact_url"
-              target="_blank"
-              variant="outlined"
-              size="small"
-              prepend-icon="mdi-email"
-            >
-              {{ $t('nav.contactUs') }}
-            </v-btn>
-          </div>
-        </div>
-      </div>
     </v-card-text>
   </v-card>
 </template>

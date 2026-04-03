@@ -64,7 +64,7 @@ const { t: $t } = useI18n()
 }
 
 .hero h1 {
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: clamp(2.5rem, 5vw, 4rem);
   margin-bottom: 1rem;
   font-weight: 700;

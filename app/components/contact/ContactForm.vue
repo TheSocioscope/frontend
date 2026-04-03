@@ -136,7 +136,7 @@ const handleSubmit = async () => {
 .form-section h2 {
   margin-bottom: 2rem;
   font-size: 2.5rem;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
 }
 
@@ -162,7 +162,7 @@ textarea {
   width: 100%;
   padding: 1rem;
   font-size: 1rem;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   border: 2px solid $warm-beige;
   background: white;
   color: $brown-dark;
@@ -187,7 +187,7 @@ textarea {
   border: none;
   font-size: 1rem;
   font-weight: 600;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   cursor: pointer;
   transition: all 0.3s;
 

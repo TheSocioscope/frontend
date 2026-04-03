@@ -62,7 +62,7 @@ const resolvedPicture = computed(() => {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 3rem;
   font-weight: 600;
   color: $forest-green;
@@ -74,7 +74,7 @@ const resolvedPicture = computed(() => {
   padding: 1.5rem;
 }
 .team-name {
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 1.25rem;
   margin-bottom: 0.35rem;
   font-weight: 700;

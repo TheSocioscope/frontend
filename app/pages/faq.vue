@@ -208,7 +208,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
 @use '~~/assets/styles/variables' as *;
 
 .faq-page {
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   background-color: $cream;
   color: $brown-dark;
 }
@@ -253,7 +253,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
 }
 
 .category-chip {
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
@@ -261,7 +261,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
   border-radius: 0 !important;
 
   :deep(.v-chip__content) {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
   }
 }
 
@@ -274,7 +274,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
 
   &:deep(.v-expansion-panel-title) {
     padding: 1.5rem 2rem;
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     transition: all 0.3s ease;
 
     &:hover {
@@ -291,7 +291,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
   font-size: 1.15rem;
   font-weight: 600;
   color: $brown-dark;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
 }
 
 .faq-answer {
@@ -305,7 +305,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
   line-height: 1.8;
   color: $brown-dark;
   opacity: 0.85;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
 
   :deep(p) {
     margin-bottom: 1rem;
@@ -364,7 +364,7 @@ const getCategoryItemIndex = (category: string, localIndex: number) => {
   padding: 1rem 2.5rem;
   font-weight: 600;
   text-decoration: none;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   transition: all 0.3s ease;
   border: 2px solid transparent;

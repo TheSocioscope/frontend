@@ -55,7 +55,7 @@ const localePath = useLocalePath()
   margin: 0 auto;
 
   h2 {
-    font-family: 'Playfair Display', serif;
+    font-family: Arial, sans-serif;
     font-size: 2.5rem;
     margin-bottom: 1.5rem;
     font-weight: 700;
@@ -112,7 +112,7 @@ const localePath = useLocalePath()
   padding: 1rem 2rem;
   font-weight: 600;
   text-decoration: none;
-  font-family: 'Playfair Display', serif;
+  font-family: Arial, sans-serif;
   font-size: 1rem;
   transition: all 0.3s ease;
   border: 2px solid transparent;
