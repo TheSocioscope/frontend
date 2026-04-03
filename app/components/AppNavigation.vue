@@ -130,7 +130,7 @@ const isContactActive = computed(() =>
 }
 
 .logo-text {
-  font-family: $font-family-display;
+  font-family: 'Playfair Display', serif;
   font-size: 1.3rem;
   font-weight: $font-weight-bold;
   letter-spacing: 0.05em;
