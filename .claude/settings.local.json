@@ -20,7 +20,9 @@
       "Bash(cp *.md es/)",
       "Bash(find /c/Users/ssekhsaria/Documents/socioscope-website/content/team -type f -name *.md -o -name *.json)",
       "Bash(find /c/Users/ssekhsaria/Documents/socioscope-website/content/projects -type f -name \"*.json\" -exec grep -l \"\\\\\"timeline\\\\\"\" {} \\\\;)",
-      "Bash(find \"C:\\\\Users\\\\ssekhsaria\\\\Documents\\\\socioscope-website/content/projects\" -type f -name \"*.json\" -exec grep -l '\"timeline\"' {} \\\\;)"
+      "Bash(find \"C:\\\\Users\\\\ssekhsaria\\\\Documents\\\\socioscope-website/content/projects\" -type f -name \"*.json\" -exec grep -l '\"timeline\"' {} \\\\;)",
+      "Bash(python3:*)",
+      "Bash(py:*)"
     ]
   }
 }
