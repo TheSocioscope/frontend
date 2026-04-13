@@ -259,6 +259,34 @@ const submitting = ref(false)
 const submitError = ref('')
 const showValidation = ref(false)
 
+const wordDiff = (original: string, current: string): string => {
+  const a = original.split(/\s+/).filter(Boolean)
+  const b = current.split(/\s+/).filter(Boolean)
+  const m = a.length
+  const n = b.length
+  const dp: number[][] = Array.from({ length: m + 1 }, () => new Array(n + 1).fill(0))
+  for (let i = 1; i <= m; i++)
+    for (let j = 1; j <= n; j++)
+      dp[i][j] = a[i - 1] === b[j - 1] ? dp[i - 1][j - 1] + 1 : Math.max(dp[i - 1][j], dp[i][j - 1])
+  const parts: string[] = []
+  let i = m
+  let j = n
+  while (i > 0 || j > 0) {
+    if (i > 0 && j > 0 && a[i - 1] === b[j - 1]) {
+      parts.unshift(a[i - 1])
+      i--
+      j--
+    } else if (j > 0 && (i === 0 || dp[i][j - 1] >= dp[i - 1][j])) {
+      parts.unshift(`{+${b[j - 1]}+}`)
+      j--
+    } else {
+      parts.unshift(`[-${a[i - 1]}-]`)
+      i--
+    }
+  }
+  return parts.join(' ')
+}
+
 const buildEmailBody = (): string => {
   const proj = props.project as any
   const lines: string[] = []
@@ -276,18 +304,20 @@ const buildEmailBody = (): string => {
 
   if (isChanged('description')) {
     changed.push(
-      `DESCRIPTION\nBefore:\n${originals.value.description}\n\nAfter:\n${edits.value.description}`,
+      `DESCRIPTION\nBefore:\n${originals.value.description}\n\nAfter:\n${edits.value.description}\n\nDiff:\n${wordDiff(originals.value.description, edits.value.description)}`,
     )
   }
 
   if (isChanged('url')) {
-    changed.push(`WEBSITE\nBefore: ${originals.value.url}\nAfter: ${edits.value.url}`)
+    changed.push(
+      `WEBSITE\nBefore: ${originals.value.url}\nAfter: ${edits.value.url}\nDiff: ${wordDiff(originals.value.url, edits.value.url)}`,
+    )
   }
 
   for (const entry of timelineEdits.value) {
     if (entry.current !== entry.original) {
       changed.push(
-        `TIMELINE — ${entry.date}\nBefore:\n${entry.original}\n\nAfter:\n${entry.current}`,
+        `TIMELINE — ${entry.date}\nBefore:\n${entry.original}\n\nAfter:\n${entry.current}\n\nDiff:\n${wordDiff(entry.original, entry.current)}`,
       )
     }
   }
@@ -295,14 +325,18 @@ const buildEmailBody = (): string => {
   for (let i = 0; i < offerEdits.value.length; i++) {
     const o = offerEdits.value[i]
     if (o.current !== o.original) {
-      changed.push(`OFFER ${i + 1}\nBefore: ${o.original}\nAfter: ${o.current}`)
+      changed.push(
+        `OFFER ${i + 1}\nBefore: ${o.original}\nAfter: ${o.current}\nDiff: ${wordDiff(o.original, o.current)}`,
+      )
     }
   }
 
   for (let i = 0; i < lookingForEdits.value.length; i++) {
     const l = lookingForEdits.value[i]
     if (l.current !== l.original) {
-      changed.push(`LOOKING FOR ${i + 1}\nBefore: ${l.original}\nAfter: ${l.current}`)
+      changed.push(
+        `LOOKING FOR ${i + 1}\nBefore: ${l.original}\nAfter: ${l.current}\nDiff: ${wordDiff(l.original, l.current)}`,
+      )
     }
   }
 
