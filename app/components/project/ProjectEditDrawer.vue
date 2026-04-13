@@ -172,7 +172,7 @@
 </template>
 
 <script setup lang="ts">
-import { web3formsKey } from '~/static.config'
+import { web3formsKey } from '~~/static.config'
 
 const props = defineProps<{
   isOpen: boolean
