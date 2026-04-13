@@ -16,6 +16,7 @@ A modern, multilingual website built with Nuxt 4, Vuetify 3, and Nuxt Content to
 - ⚡ **SSG** - Static site generation for optimal performance
 - 🔍 **SEO Optimized** - Meta tags, sitemap, and structured data
 - 🎭 **Nuxt Studio Ready** - CMS integration for content management
+- **Forms** for initiative editing built using Web3
 
 ## Setup
 
