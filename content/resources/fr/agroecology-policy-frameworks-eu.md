@@ -1,14 +1,14 @@
 ---
-title: "Cadres politiques pour le développement de l'agroécologie : Perspectives
-  de l'Union européenne"
+title: 'Le Food Socioscope : un nouvel instrument pour mieux comprendre les transitions
+  vers une plus grande durabilité.'
 authors: Socioscope Team
 category: socioscope
 date: 15/10/2024
-abstract: Un document de politique complète analysant les initiatives réussies
-  de mise à l'échelle de l'agroécologie dans l'UE, avec des recommandations pour
-  les décideurs politiques sur le soutien de la transition vers une agriculture
-  durable par des cadres réglementaires efficaces et des incitations
-  financières.
+abstract: >-
+  Le projet Food Socioscope vise à comprendre la transition systémique vers une plus
+  grande durabilité dans le secteur alimentaire. Il comporte deux composantes principales :
+  une collecte de données participative avec un répertoire communautaire, et un effort
+  de recherche complet.
 link: https://paris.pias.science/pdfs/socioscope.pdf
 order: 1
 published: true

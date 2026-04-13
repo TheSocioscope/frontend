@@ -1,13 +1,13 @@
 ---
-title: "El manual del suelo vivo: Construyendo materia orgánica para la
-  agricultura regenerativa"
+title: 'Por qué la gente hace lo que hace: Y cómo lograr que cambie'
 authors: Saadi Lahlou
 category: book
-date: "2024"
-abstract: Una guía completa para agricultores que transicionan a prácticas
-  regenerativas. Basándose en entrevistas con agricultores pioneros y la última
-  investigación en ciencia del suelo, este libro proporciona estrategias
-  prácticas para mejorar la salud del suelo y la resiliencia agrícola.
+date: '2024'
+abstract: 'Basándose en un amplio corpus de investigación empírica, Lahlou demuestra
+  que el comportamiento de las personas es predecible y está moldeado por ''instalaciones''
+  que combinan tres conjuntos de factores: lo que es técnicamente posible (affordances
+  del entorno), lo que las personas son capaces de hacer (competencias encarnadas),
+  y lo que monitorea y controla el comportamiento (regulación social).'
 link: https://www.amazon.com/Why-People-Do-What-They/dp/1509559507
 order: 2
 published: true

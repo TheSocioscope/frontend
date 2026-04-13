@@ -1,13 +1,14 @@
 ---
-title: "Politische Rahmenwerke zur Skalierung der Agroökologie: Perspektiven der
-  Europäischen Union"
+title: 'Das Food Socioscope: ein neues Instrument zum besseren Verständnis von Übergängen
+  zu mehr Nachhaltigkeit.'
 authors: Socioscope Team
 category: socioscope
 date: 15/10/2024
-abstract: Ein umfassendes Politikdokument, das erfolgreiche
-  Skalierungsinitiativen der Agroökologie in der EU analysiert, mit Empfehlungen
-  für politische Entscheidungsträger zur Unterstützung des Übergangs zu
-  nachhaltiger Landwirtschaft durch wirksame Regelungsrahmen und Finanzanreize.
+abstract: >-
+  Das Food-Socioscope-Projekt zielt darauf ab, den systemischen Übergang zu mehr
+  Nachhaltigkeit im Lebensmittelsektor zu verstehen. Es hat zwei Hauptkomponenten:
+  eine partizipative Datenerhebung mit einem Gemeinschaftsverzeichnis und eine
+  umfassende Forschungsarbeit.
 link: https://paris.pias.science/pdfs/socioscope.pdf
 order: 1
 published: true

@@ -16,6 +16,8 @@ export const contact = {
   address: ''
 }
 
+export const web3formsKey = '90ee10e4-b524-4268-a89f-d652cc06b73d'
+
 export default {
   socials,
   contact

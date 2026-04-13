@@ -77,6 +77,32 @@
       >
         <v-icon>mdi-arrow-left</v-icon>
       </v-btn>
+
+      <!-- Edit FAB -->
+      <v-btn
+        class="floating-edit-btn"
+        color="secondary"
+        icon
+        size="large"
+        elevation="8"
+        :title="$t('editDrawer.title')"
+        @click="editDrawerOpen = true"
+      >
+        <v-icon>mdi-pencil</v-icon>
+      </v-btn>
+
+      <!-- Edit Drawer -->
+      <ProjectEditDrawer
+        :is-open="editDrawerOpen"
+        :project="project"
+        :localized-name="localizedName"
+        :localized-description="localizedDescription"
+        :localized-timeline="localizedTimeline"
+        :localized-offers="localizedOffers"
+        :localized-looking-for="localizedLookingFor"
+        :page-url="currentUrl"
+        @close="editDrawerOpen = false"
+      />
     </div>
   </div>
 </template>
@@ -107,6 +133,7 @@ const { isTranslated: checkIsTranslated } = useMultilingual()
 
 // State for toggling between current locale and original language
 const showOriginal = ref(false)
+const editDrawerOpen = ref(false)
 
 const projectSlug = computed(() => route.params.id as string)
 
@@ -337,6 +364,13 @@ watchEffect(() => {
   z-index: 100;
 }
 
+.floating-edit-btn {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 100;
+}
+
 @media (max-width: 768px) {
   .content-container {
     padding: 1rem 0.5rem;
@@ -345,6 +379,11 @@ watchEffect(() => {
   .floating-back-btn {
     bottom: 1rem;
     left: 1rem;
+  }
+
+  .floating-edit-btn {
+    bottom: 1rem;
+    right: 1rem;
   }
 }
 </style>
