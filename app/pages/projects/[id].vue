@@ -366,7 +366,7 @@ watchEffect(() => {
 
 .floating-edit-btn {
   position: fixed;
-  bottom: 2rem;
+  bottom: 5.5rem;
   right: 2rem;
   z-index: 100;
 }
@@ -382,7 +382,7 @@ watchEffect(() => {
   }
 
   .floating-edit-btn {
-    bottom: 1rem;
+    bottom: 4.5rem;
     right: 1rem;
   }
 }
