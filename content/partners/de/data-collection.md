@@ -12,7 +12,7 @@ partners:
     country: Netherlands
     logo: ''
     website: ''
-    role: Feldkoordination
+    role: Feldforschungskoordination
   - name: Data Quality Labs
     country: Switzerland
     logo: ''
