@@ -4,6 +4,6 @@ lastname: Nosulenko
 picture: '/images/team/Irina.jpg'
 country: France
 category: operations
-role: Leiterin Operations, IEA Paris
+role: Büroleitung, IEA Paris
 details: ''
 ---
