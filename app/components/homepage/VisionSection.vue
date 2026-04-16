@@ -8,7 +8,7 @@
         <p class="vision-statement">
           {{ $t('vision.statement1') }}
         </p>
-        <p class="vision-statement mt-4">
+        <p v-if="$t('vision.statement2')" class="vision-statement mt-4">
           {{ $t('vision.statement2') }}
         </p>
       </div>

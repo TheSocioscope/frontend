@@ -3,7 +3,7 @@ firstname: Valentine
 lastname: Fournand
 picture: '/images/team/Valentine.jpg'
 country: France
-category: project-management
+category: fieldwork
 role: Panel-Managerin
 details: ''
 ---

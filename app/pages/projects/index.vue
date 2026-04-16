@@ -75,14 +75,12 @@
 
         <!-- Desktop: List view -->
         <div v-else-if="!isMobile && filteredProjects.length > 0 && viewMode === 'list'" class="projects-list">
-          <div
+          <a
             v-for="project in paginatedProjects"
             :key="project.pubId"
+            :href="getProjectUrl(project)"
             class="project-row"
-            role="button"
-            tabindex="0"
-            @click="handleProjectClick(project)"
-            @keyup.enter="handleProjectClick(project)"
+            @click="handleProjectClick(project, $event)"
           >
             <div class="row-avatar" :style="{ background: getRowBackground(project) }">
               {{ getRowInitials(project) }}
@@ -102,7 +100,7 @@
               >{{ getContinentLabel(c) }}</v-chip>
             </div>
             <v-icon class="row-arrow">mdi-chevron-right</v-icon>
-          </div>
+          </a>
         </div>
 
         <!-- Mobile: Project list with lazy loading -->
@@ -459,11 +457,19 @@ const slugify = (text: string) =>
     .replace(/^-|-$/g, '')
     .slice(0, 80)
 
-// Navigation handler
-const handleProjectClick = (project: any) => {
+// Build a full URL for a project (for right-click → open in new tab)
+const getProjectUrl = (project: any) => {
   const name = typeof project.name === 'string' ? project.name : project.name?.en || ''
   const slug = slugify(name)
-  navigateTo(localePath(`/projects/${slug}`))
+  return localePath(`/projects/${slug}`)
+}
+
+// Navigation handler
+const handleProjectClick = (project: any, event?: MouseEvent) => {
+  // Let middle-click and ctrl/cmd-click pass through to the browser
+  if (event && (event.ctrlKey || event.metaKey || event.button === 1)) return
+  event?.preventDefault()
+  navigateTo(getProjectUrl(project))
 }
 
 // Reset all filters
@@ -574,6 +580,8 @@ useHead({
   border-bottom: 1px solid #f0f0f0;
   cursor: pointer;
   transition: background 0.2s;
+  text-decoration: none;
+  color: inherit;
 
   &:last-child {
     border-bottom: none;

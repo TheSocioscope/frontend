@@ -28,6 +28,20 @@
         :show-disclaimer="showDisclaimer"
       />
 
+      <!-- Under Construction Banner -->
+      <v-alert
+        class="construction-banner"
+        color="warning"
+        variant="tonal"
+        icon="mdi-construction"
+        rounded="0"
+      >
+        {{ $t('editDrawer.underConstruction') }}
+        <a class="construction-link" href="#" @click.prevent="editDrawerOpen = true">
+          {{ $t('editDrawer.clickHere') }}
+        </a>
+      </v-alert>
+
       <v-container class="content-container">
         <!-- About Component -->
         <ProjectAbout :project="project" :localized-description="localizedDescription" />
@@ -350,6 +364,18 @@ watchEffect(() => {
 
 .project-container {
   position: relative;
+}
+
+.construction-banner {
+  border-radius: 0 !important;
+
+  .construction-link {
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 0.25rem;
+    color: inherit;
+  }
 }
 
 .content-container {

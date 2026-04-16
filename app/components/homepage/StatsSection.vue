@@ -4,7 +4,7 @@
       <div class="metrics-grid">
         <div v-for="(stat, index) in stats" :key="index" class="metric-card">
           <div class="metric-number">
-            <span v-if="isVisible">{{ animatedValues[index] }}</span>
+            <span v-if="isVisible">{{ animatedValues[index] }}{{ index < 2 ? '+' : '' }}</span>
             <span v-else>{{ stat.number }}</span>
           </div>
           <div class="metric-label">{{ stat.label }}</div>
@@ -67,12 +67,12 @@ const stats = computed(() => {
 
   return [
     {
-      number: `${overallStats.value.totalProjects}`,
+      number: `${overallStats.value.totalProjects}+`,
       label: $t('stats.card1.label'),
       target: overallStats.value.totalProjects
     },
     {
-      number: `${overallStats.value.totalCountries}`,
+      number: `${overallStats.value.totalCountries}+`,
       label: $t('stats.card2.label'),
       target: overallStats.value.totalCountries
     },
