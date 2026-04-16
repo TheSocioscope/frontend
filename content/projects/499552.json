@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -15,7 +19,9 @@
     "es": "WËIA ofrece soluciones financieras para las cadenas de suministro agrícolas, permitiendo a los agricultores acceder a insumos agrícolas esenciales (como semillas, fertilizantes y pesticidas) en el momento de la siembra y pagarlos después de la cosecha. Su modelo \"Siembra ahora, paga después\" apoya a los agricultores al vincular los costos de los insumos con las ventas de cultivos, reduciendo las cargas financieras y aumentando la productividad.",
     "de": "WËIA bietet Finanzlösungen für landwirtschaftliche Lieferketten und ermöglicht es Landwirten, zum Zeitpunkt der Aussaat auf wichtige landwirtschaftliche Betriebsmittel (wie Saatgut, Düngemittel und Pestizide) zuzugreifen und diese nach der Ernte zu bezahlen. Ihr Modell „Jetzt anbauen, später bezahlen\" unterstützt Landwirte, indem es die Kosten für Betriebsmittel mit dem Ernteverkauf verknüpft, finanzielle Belastungen reduziert und die Produktivität steigert."
   },
-  "field": ["economics-business"],
+  "field": [
+    "economics-business"
+  ],
   "lang": "en",
   "location": "",
   "name": {
@@ -43,9 +49,13 @@
       "lastname": "Harker Roa"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.weia.com.co/",
   "yt": "HXS8EsM065M",
   "originalLang": "en",
@@ -256,11 +266,14 @@
     }
   ],
   "editedAt": 1771254917,
-  "updatedAt": [1771254917],
+  "updatedAt": [
+    1771254917
+  ],
   "feedback": [
     {
       "content": false,
       "at": 1771254917
     }
-  ]
+  ],
+  "about": "WËIA is a Colombian agri-fintech startup based in Bogotá, founded around two years ago to make agricultural supply chains more transparent and ease cash-flow constraints for farmers. Co-founded by Jairo and Arturo and later joined by former vice-minister of agriculture Javier, the company first traced food waste in restaurants before pivoting to track the origin and environmental footprint of raw materials using blockchain. Its \"siembra ahora, paga después\" (sow now, pay later) model supplies agricultural inputs to small and medium producers, who repay at harvest through corporate buyers such as Alpina and Krebs rather than from personal cash. WËIA also uses agricultural forward contracts that fix prices in advance, reducing the volatility that has historically pushed farmers to mortgage their homes. Although the model remains difficult to explain to small farmers, the team is backed by seed funding, Alpina's private equity arm, and partners including the Universidad de los Andes, with current efforts focused on scaling the portfolio through pilots such as a mushroom-growing operation in La Calera supplying Krebs."
 }
