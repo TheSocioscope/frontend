@@ -72,9 +72,9 @@ const stats = computed(() => {
       target: overallStats.value.totalProjects
     },
     {
-      number: `${overallStats.value.totalCountries}+`,
+      number: '35+',
       label: $t('stats.card2.label'),
-      target: overallStats.value.totalCountries
+      target: 35
     },
     {
       number: `${overallStats.value.totalInterviewers}`,

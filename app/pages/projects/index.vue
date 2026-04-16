@@ -321,24 +321,31 @@ const filteredProjects = computed(() => {
   } = filters.value
 
   if (searchQuery) {
-    const query = searchQuery.toLowerCase()
+    // Normalise: strip diacritics so "ceviche" matches "Céviche", "dudu" matches "Dûdû", etc.
+    const normalize = (s: string) =>
+      s
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+
+    const query = normalize(searchQuery)
+
     filtered = filtered.filter((p) => {
-      // Helper function to get searchable text from multilingual fields
       const getSearchableText = (field: any): string => {
         if (!field) return ''
-        if (typeof field === 'string') return field.toLowerCase()
+        if (typeof field === 'string') return normalize(field)
         if (typeof field === 'object') {
           return Object.values(field)
             .filter((v) => typeof v === 'string')
+            .map((v) => normalize(v as string))
             .join(' ')
-            .toLowerCase()
         }
         return ''
       }
 
       const searchableName = getSearchableText(p.name)
       const searchableDescription = getSearchableText(p.description)
-      const searchableLocation = p.location?.toLowerCase() || ''
+      const searchableLocation = normalize(p.location || '')
 
       return (
         searchableName.includes(query) ||

@@ -52,7 +52,8 @@ export default defineNitroPlugin(async (nitroApp) => {
 
     // Process each project
     for (const file of jsonFiles) {
-      const content = await readFile(join(projectsDir, file), 'utf-8')
+      const raw = await readFile(join(projectsDir, file), 'utf-8')
+      const content = raw.replace(/^\uFEFF/, '') // strip BOM if present
       const project: Project = JSON.parse(content)
 
       if (project.country && Array.isArray(project.country)) {
