@@ -26,7 +26,8 @@
       "Bash(npm install *)",
       "Bash(powershell *)",
       "Bash(powershell.exe *)",
-      "Bash(node -e ' *)"
+      "Bash(node -e ' *)",
+      "Bash(find \"/c/Users/ssekhsaria/Documents/socioscope-website/content/projects\" -name \"*.json\" -exec wc -c {} +)"
     ]
   }
 }
