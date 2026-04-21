@@ -1,5 +1,5 @@
 <template>
-  <section class="hero-section">
+  <section class="hero-section" :class="{ 'hero-section--compact': compact }">
     <div class="container">
       <div class="hero-content">
         <div class="hero-text">
@@ -32,6 +32,7 @@ defineProps<{
   title: string
   subtitle: string
   icon?: string
+  compact?: boolean
 }>()
 </script>
 
@@ -61,6 +62,38 @@ defineProps<{
     grid-template-columns: 1fr;
     min-height: auto;
   }
+}
+
+.hero-section--compact .hero-content {
+  min-height: 220px;
+
+  @media (max-width: 768px) {
+    min-height: auto;
+  }
+}
+
+.hero-section--compact .hero-image {
+  min-height: 220px;
+
+  @media (max-width: 768px) {
+    min-height: 160px;
+  }
+}
+
+.hero-section--compact .hero-text {
+  padding: 2rem 2rem 2rem 0;
+
+  @media (max-width: 768px) {
+    padding: 1.5rem 0 1rem;
+  }
+}
+
+.hero-section--compact .hero-title {
+  font-size: clamp(1.8rem, 3.5vw, 2.5rem);
+}
+
+.hero-section--compact .hero-subtitle {
+  font-size: clamp(1rem, 1.5vw, 1.2rem);
 }
 
 .hero-text {

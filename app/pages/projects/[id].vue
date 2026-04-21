@@ -28,6 +28,20 @@
         :show-disclaimer="showDisclaimer"
       />
 
+      <!-- Under Construction Banner -->
+      <v-alert
+        class="construction-banner"
+        color="success"
+        variant="tonal"
+        icon="mdi-construction"
+        rounded="0"
+      >
+        {{ $t('editDrawer.underConstruction') }}
+        <a class="construction-link" href="#" @click.prevent="editDrawerOpen = true">
+          {{ $t('editDrawer.clickHere') }}
+        </a>
+      </v-alert>
+
       <v-container class="content-container">
         <!-- About Component -->
         <ProjectAbout :project="project" :localized-description="localizedDescription" />
@@ -145,22 +159,27 @@ const currentUrl = computed(() => {
   return ''
 })
 
-// Fetch project
+// Fetch project — two-stage query to avoid loading all 848 projects.
+// Stage 1: lightweight index (pubId + name only) to resolve slug → pubId.
+// Stage 2: targeted single-row fetch by pubId.
 const { data: project, error: projectError } = await useAsyncData(
   `project-${projectSlug.value}`,
   async () => {
     try {
-      const projects = await queryCollection('projects').all()
-      const foundProject = projects.find((p: any) => {
+      const nameIndex = await queryCollection('projects').select('pubId', 'name').all()
+      const found = nameIndex.find((p: any) => {
         const name = typeof p.name === 'string' ? p.name : p.name?.en || ''
         return slugify(name) === projectSlug.value
       })
 
-      if (!foundProject) {
-        throw new Error('Project not found')
-      }
+      if (!found) throw new Error('Project not found')
 
-      return foundProject
+      const fullProject = await queryCollection('projects')
+        .where('pubId', '=', found.pubId)
+        .first()
+
+      if (!fullProject) throw new Error('Project not found')
+      return fullProject
     } catch (e) {
       console.error('Error loading project:', e)
       return null
@@ -350,6 +369,18 @@ watchEffect(() => {
 
 .project-container {
   position: relative;
+}
+
+.construction-banner {
+  border-radius: 0 !important;
+
+  .construction-link {
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-left: 0.25rem;
+    color: inherit;
+  }
 }
 
 .content-container {

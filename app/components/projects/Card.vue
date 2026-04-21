@@ -3,9 +3,10 @@
     <!-- Card with YouTube thumbnail -->
     <v-card
       v-if="project.yt && thumbnailUrl"
+      :href="projectUrl"
       class="project-card project-card-video"
       hover
-      @click="handleClick"
+      @click="handleClick($event)"
     >
       <!-- Background Image (YouTube thumbnail) -->
       <div
@@ -54,7 +55,7 @@
     </v-card>
 
     <!-- Card without YouTube (traditional style) -->
-    <v-card v-else class="project-card project-card-traditional" hover @click="handleClick">
+    <v-card v-else :href="projectUrl" class="project-card project-card-traditional" hover @click="handleClick($event)">
       <div class="traditional-content">
         <div class="traditional-top">
           <div class="project-initials" :style="{ background: initialsBackground }">
@@ -112,9 +113,24 @@ const emit = defineEmits<{
   click: [project: Project]
 }>()
 
+const localePath = useLocalePath()
 const { getThumbnailUrl } = useYouTubeThumbnail()
 const { getStatusLabel, getContinentLabel } = useProjectMappings()
 const { getLocalizedText } = useMultilingual()
+
+const slugify = (text: string) =>
+  text
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')
+    .slice(0, 80)
+
+const projectUrl = computed(() => {
+  const name = typeof props.project.name === 'string' ? props.project.name : (props.project.name as Record<string, string>)?.en || ''
+  return localePath(`/projects/${slugify(name)}`)
+})
 
 const localizedName = computed(() => {
   const name = props.project.name
@@ -165,7 +181,11 @@ const getStatusColor = (status: string) => {
   }
 }
 
-const handleClick = () => {
+const handleClick = (event?: MouseEvent) => {
+  if (event && (event.ctrlKey || event.metaKey || event.button === 1)) {
+    window.open(projectUrl.value, '_blank')
+    return
+  }
   emit('click', props.project)
 }
 

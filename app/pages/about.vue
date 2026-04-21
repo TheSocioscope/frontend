@@ -2,7 +2,6 @@
   <div>
     <PageHero :title="$t('about.hero.title')" :subtitle="$t('about.hero.subtitle')" icon="mdi-leaf" />
     <AboutMission />
-    <AboutWhatWeDo />
     <AboutMethodology />
     <AboutValues />
     <AboutCTA />

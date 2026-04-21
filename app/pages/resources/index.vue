@@ -4,6 +4,7 @@
       :title="$t('resources.hero.title')"
       :subtitle="$t('resources.hero.subtitle')"
       icon="mdi-bookshelf"
+      compact
     >
       <template #cta>
         <div class="hero-cta">

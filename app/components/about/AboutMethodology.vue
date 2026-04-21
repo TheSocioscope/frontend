@@ -1,10 +1,6 @@
 <template>
   <section class="section methodology-section">
     <v-container>
-      <div class="section-header">
-        <h2>{{ $t('about.methodology.title') }}</h2>
-        <p class="subtitle">{{ $t('about.methodology.subtitle') }}</p>
-      </div>
       <div class="method-grid">
         <div v-for="(method, index) in methods" :key="index" class="method-card">
           <div class="method-number">{{ String(index + 1).padStart(2, '0') }}</div>

@@ -18,39 +18,39 @@
     "menu": "Open navigation menu"
   },
   "hero": {
-    "title": "THE SOCIOSCOPE",
-    "subtitle": "Seeing How Social Change Takes Shape"
+    "title": "The Food Socioscope",
+    "subtitle": "Analysing societal transition"
   },
   "vision": {
-    "title": "A Social Microscope on Food Systems Change",
-    "statement1": "Through large scale data collection around the world and LLM-driven research, the Socioscope analyses how behaviours, norms, and practices evolve within sustainable food transitions.",
-    "statement2": "We're building a systemic way to help make complex social patterns measurable, comparable, and understandable."
+    "title": "Transition in the food system",
+    "statement1": "We study initiatives worldwide that make the food system more sustainable. Using AI, the Socioscope analyses, over hundreds of cases in dozens of countries, how business models and behaviours can change towards a more sustainable system.",
+    "statement2": ""
   },
   "contributions": {
     "card1": {
       "icon": "📊",
       "title": "Data",
-      "description": "Sophisticated on-the-ground data collection across 35+ countries, capturing not just what initiatives do, but how they transform economic, ecological, cultural and governance ecosystems.",
-      "description2": "Our well-trained local interviewers and field mangagers conduct ethnographic fieldwork, semi-structured qualitative interviews, and participatory observation to build the most comprehensive data set of food system transformations.",
+      "description": "Our local interviewers visit initiatives and collect data on how they address the challenges they face: how they organise, how they interact with their environment and other stakeholders.",
+      "description2": "With films, we present these initiatives and help them to share good practices and meet like-minded people. The Socioscope is the world's largest qualitative dataset of its kind.",
       "link": ""
     },
     "card2": {
       "icon": "🤖",
       "title": "Technology",
       "description": "Establishing an LLM-driven research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity.",
-      "description2": "Our suite of classic and LLM-driven technology tools helps researchers analyze data across hundreds of cases in a valid and reliable way.",
+      "description2": "Our suite of classic and LLM-driven technology tools helps researchers process data across hundreds of cases in a valid and reliable way.",
       "link": ""
     },
     "card3": {
       "icon": "🌾",
       "title": "Analysis",
-      "description": "Developing new frameworks and pathways to understand food systems transformation across sectors and contexts examining economic, political and cultural dimensions.",
-      "description2": "Unpacking how stakeholders work together, the motivations and values that incentivize them, and key challenges; a layered approach to mapping how food systems transition.",
+      "description": "The Socioscope develops Large Scale Qualitative Analysis, a new research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity.",
+      "description2": "Our team of scientists analyses the processes of change, the strategies that are implemented, the solutions that work. We compare across geographies and make models to help stakeholders.",
       "link": ""
     }
   },
   "map": {
-    "title": "Global Reach, Local Impact",
+    "title": "Map of case studies",
     "projects": "projects",
     "clickToView": "Click to view projects"
   },
@@ -353,11 +353,11 @@
   "team": {
     "meta": {
       "title": "Our Team - The Socioscope",
-      "description": "A global network of researchers, developers, and field workers dedicated to understanding collective behavior"
+      "description": "A global network of researchers, developers, and field interviewers."
     },
     "hero": {
       "title": "Our Team",
-      "subtitle": "A global network of researchers, developers, and field workers dedicated to understanding collective behavior"
+      "subtitle": "A global network of researchers, developers, and field interviewers."
     },
     "categories": {
       "principalInvestigators": {
@@ -365,7 +365,7 @@
         "description": "Leading our research vision and strategy"
       },
       "coInvestigators": {
-        "title": "Co-Investigators & Post-Docs",
+        "title": "Researchers",
         "description": "Senior researchers driving our scientific agenda"
       },
       "technology": {
@@ -713,8 +713,8 @@
     },
     "mission": {
       "title": "Our Mission",
-      "paragraph1": "The Socioscope is a transformative qualitative research project that maps how behaviours, norms, and communities influence the transition toward sustainable food systems.",
-      "paragraph2": "The Socioscope serves as a comprehensive observatory of these efforts, making knowledge accessible to researchers, policymakers, and practitioners worldwide. Equally important is shining a light on local initiatives that lead change on the ground and drive the shift toward a more sustainable food system."
+      "paragraph1": "The Socioscope is a scientific research project to understand the transition toward more sustainable food systems. Through systematic research and community engagement, we identify, document, and analyze initiatives that embody sustainable transformation principles. Our database includes all types of food producers and transformers, grassroots movements, community-led projects, small and big industry, participatory governance experiments, collaborative problem-solving platforms from every continent — and more generally all initiatives that have impact on the transformation of the food system.",
+      "paragraph2": "We collect data, analyse them, and produce models and recommendations. We publish our results in open access for the scientific community, the changemakers of the food system, and the general public. The Socioscope is non-profit, funded by the NOMIS research foundation and managed by two major scientific institutions: the Paris Institute for Advanced Study and the Vienna Complexity Science Hub."
     },
     "info": {
       "established": {
@@ -770,7 +770,7 @@
       },
       "open": {
         "title": "Openness",
-        "desc": "We believe knowledge should be freely accessible. Our database is open to all, supporting the global commons of sustainability research."
+        "desc": "We believe knowledge should be freely accessible. Our presentation of cases is open to all, supporting the global commons of sustainability research."
       },
       "ethical": {
         "title": "Ethical Practice",
@@ -779,7 +779,7 @@
     },
     "cta": {
       "title": "Get Involved",
-      "description": "Whether you're a researcher, practitioner, or community organizer, there are many ways to engage with The Socioscope and contribute to our shared understanding of sustainable food systems.",
+      "description": "If you're a practitioner or community organizer, you can contribute to our shared understanding of sustainable food systems. Contact us if you want to become a member of the Socioscope community (it is free).",
       "submitButton": "Submit an Initiative",
       "contactButton": "Contact Us"
     }
@@ -848,6 +848,8 @@
     "commentsPlaceholder": "Optional — share any context, sources, or corrections here.",
     "item": "Item",
     "modified": "Modified",
+    "underConstruction": "This page is under construction. To suggest edits,",
+    "clickHere": "click here",
     "submit": "Submit suggestion",
     "submitting": "Sending…",
     "success": "Thank you! Your suggestion has been sent.",

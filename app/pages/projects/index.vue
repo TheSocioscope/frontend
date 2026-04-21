@@ -75,14 +75,12 @@
 
         <!-- Desktop: List view -->
         <div v-else-if="!isMobile && filteredProjects.length > 0 && viewMode === 'list'" class="projects-list">
-          <div
+          <a
             v-for="project in paginatedProjects"
             :key="project.pubId"
+            :href="getProjectUrl(project)"
             class="project-row"
-            role="button"
-            tabindex="0"
-            @click="handleProjectClick(project)"
-            @keyup.enter="handleProjectClick(project)"
+            @click="handleProjectClick(project, $event)"
           >
             <div class="row-avatar" :style="{ background: getRowBackground(project) }">
               {{ getRowInitials(project) }}
@@ -102,7 +100,7 @@
               >{{ getContinentLabel(c) }}</v-chip>
             </div>
             <v-icon class="row-arrow">mdi-chevron-right</v-icon>
-          </div>
+          </a>
         </div>
 
         <!-- Mobile: Project list with lazy loading -->
@@ -323,24 +321,31 @@ const filteredProjects = computed(() => {
   } = filters.value
 
   if (searchQuery) {
-    const query = searchQuery.toLowerCase()
+    // Normalise: strip diacritics so "ceviche" matches "Céviche", "dudu" matches "Dûdû", etc.
+    const normalize = (s: string) =>
+      s
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .toLowerCase()
+
+    const query = normalize(searchQuery)
+
     filtered = filtered.filter((p) => {
-      // Helper function to get searchable text from multilingual fields
       const getSearchableText = (field: any): string => {
         if (!field) return ''
-        if (typeof field === 'string') return field.toLowerCase()
+        if (typeof field === 'string') return normalize(field)
         if (typeof field === 'object') {
           return Object.values(field)
             .filter((v) => typeof v === 'string')
+            .map((v) => normalize(v as string))
             .join(' ')
-            .toLowerCase()
         }
         return ''
       }
 
       const searchableName = getSearchableText(p.name)
       const searchableDescription = getSearchableText(p.description)
-      const searchableLocation = p.location?.toLowerCase() || ''
+      const searchableLocation = normalize(p.location || '')
 
       return (
         searchableName.includes(query) ||
@@ -459,11 +464,19 @@ const slugify = (text: string) =>
     .replace(/^-|-$/g, '')
     .slice(0, 80)
 
-// Navigation handler
-const handleProjectClick = (project: any) => {
+// Build a full URL for a project (for right-click → open in new tab)
+const getProjectUrl = (project: any) => {
   const name = typeof project.name === 'string' ? project.name : project.name?.en || ''
   const slug = slugify(name)
-  navigateTo(localePath(`/projects/${slug}`))
+  return localePath(`/projects/${slug}`)
+}
+
+// Navigation handler
+const handleProjectClick = (project: any, event?: MouseEvent) => {
+  // Let middle-click and ctrl/cmd-click pass through to the browser
+  if (event && (event.ctrlKey || event.metaKey || event.button === 1)) return
+  event?.preventDefault()
+  navigateTo(getProjectUrl(project))
 }
 
 // Reset all filters
@@ -574,6 +587,8 @@ useHead({
   border-bottom: 1px solid #f0f0f0;
   cursor: pointer;
   transition: background 0.2s;
+  text-decoration: none;
+  color: inherit;
 
   &:last-child {
     border-bottom: none;

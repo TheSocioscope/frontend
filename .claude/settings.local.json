@@ -22,7 +22,13 @@
       "Bash(find /c/Users/ssekhsaria/Documents/socioscope-website/content/projects -type f -name \"*.json\" -exec grep -l \"\\\\\"timeline\\\\\"\" {} \\\\;)",
       "Bash(find \"C:\\\\Users\\\\ssekhsaria\\\\Documents\\\\socioscope-website/content/projects\" -type f -name \"*.json\" -exec grep -l '\"timeline\"' {} \\\\;)",
       "Bash(python3:*)",
-      "Bash(py:*)"
+      "Bash(py:*)",
+      "Bash(npm install *)",
+      "Bash(powershell *)",
+      "Bash(powershell.exe *)",
+      "Bash(node -e ' *)",
+      "Bash(find \"/c/Users/ssekhsaria/Documents/socioscope-website/content/projects\" -name \"*.json\" -exec wc -c {} +)",
+      "Bash(node -e *)"
     ]
   }
 }

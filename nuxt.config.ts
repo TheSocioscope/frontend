@@ -117,6 +117,15 @@ export default defineNuxtConfig({
     pageTransition: { name: 'page', mode: 'out-in' }
   },
 
+  // Prerender concurrency — limits simultaneous page renders to avoid OOM
+  // when each project page loads the full 14MB projects collection
+  nitro: {
+    prerender: {
+      concurrency: 10,
+      interval: 50
+    }
+  },
+
   // TypeScript configuration
   typescript: {
     strict: false,

@@ -1,218 +1,230 @@
 {
-  "contact": {
-    "entity": "",
-    "firstname": "",
-    "lastname": "",
-    "contact_url": ""
-  },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
-  "createdAt": 1754384375,
-  "date": null,
-  "description": {
-    "en": "The Food Bank of Paraguay, created in the 1990s and formalized in 2004, aims to combat food waste and hunger. With a dedicated team of six people, they collect and distribute surplus food to more than 100 organizations, serving mainly vulnerable communities. Their operations are based on donations, partnerships and international cooperation, focusing on logistics and advocacy to enhance their impact. Future plans include expanding collection centers and improving food processing capacity.",
-    "fr": "La Banque alimentaire du Paraguay, créée dans les années 1990 et officialisée en 2004, a pour objectif de lutter contre le gaspillage alimentaire et la faim. Avec une équipe dévouée de six personnes, elle collecte et distribue les excédents alimentaires à plus de 100 organisations, principalement au service des communautés vulnérables. Ses opérations sont basées sur les dons, les partenariats et la coopération internationale, et se concentrent sur la logistique et le plaidoyer afin d'améliorer leur impact. Les projets futurs comprennent l'expansion des centres de collecte et l'amélioration de la capacité de traitement des aliments.",
-    "es": "El Banco de Alimentos de Paraguay, creado en la década de 1990 y formalizado en 2004, tiene como objetivo combatir el despilfarro de alimentos y el hambre. Con un equipo dedicado de seis personas, recogen y distribuyen excedentes de alimentos a más de 100 organizaciones, que atienden principalmente a comunidades vulnerables. Sus operaciones se basan en donaciones, asociaciones y cooperación internacional, centrándose en la logística y la promoción para mejorar su impacto. Sus planes de futuro incluyen ampliar los centros de recogida y mejorar la capacidad de procesamiento de alimentos.",
-    "de": "Die Banco de Alimentos in Paraguay, die 1990 gegründet und 2004 formalisiert wurde, zielt darauf ab, Lebensmittelabfälle und Hunger zu bekämpfen. Mit einem engagierten Team von sechs Mitarbeitern sammeln und verteilen sie Lebensmittelüberschüsse an über 100 Organisationen, die vor allem gefährdete Gemeinden bedienen. Ihre Operationen basieren auf Spenden, Partnerschaften und internationaler Zusammenarbeit, wobei sie sich auf Logistik und Advocacy konzentrieren, um ihre Wirkung zu steigern. Zukünftige Pläne beinhalten die Erweiterung von Sammelzentren und die Verbesserung der Lebensmittelverarbeitungskapazitäten."
-  },
-  "field": ["nutrition"],
-  "lang": "en",
-  "location": "",
-  "name": {
-    "pt": "Banco de Alimentos",
-    "en": "Food Bank",
-    "fr": "Banque alimentaire",
-    "es": "Banco de alimentos",
-    "de": "Lebensmittelbank"
-  },
-  "pubId": 457852,
-  "state": "ongoing-project",
-  "team": [
-    {
-      "entity": "",
-      "firstname": "Monica",
-      "lastname": "Rivas"
-    }
-  ],
-  "thematic": ["food-agriculture-fishery"],
-  "time": "",
-  "type": ["case-study"],
-  "url": "https://bancodealimentos.org.py/nosotros/",
-  "yt": "",
-  "originalLang": "fr",
-  "timeline": [
-    {
-      "date": "1996",
-      "icon": "mdi-flag-checkered",
-      "text": {
-        "en": "A group of enthusiastic volunteers, influenced by the experience of food banks in Italy, began informal food collection and distribution operations in Paraguay without any legal formalization.",
-        "fr": "Un groupe de bénévoles enthousiastes, inspirés par l'expérience des banques alimentaires en Italie, a commencé des opérations informelles de collecte et de distribution de nourriture au Paraguay, sans aucune formalisation juridique.",
-        "es": "Un grupo de voluntarios entusiastas, influenciados por la experiencia de los bancos de alimentos en Italia, comenzó operaciones informales de recolección y distribución de alimentos en Paraguay sin ninguna formalización legal.",
-        "de": "Eine Gruppe enthusiastischer Freiwilliger, beeinflusst durch die Erfahrungen von Lebensmittelbanken in Italien, begann in Paraguay mit informellen Lebensmittelsammlungs- und Verteilungsaktivitäten ohne jegliche rechtliche Formalisierung."
-      }
-    },
-    {
-      "date": "2004",
-      "icon": "mdi-sign-direction",
-      "text": {
-        "en": "The Fundación Banco de Alimentos was formally constituted as a nonprofit organization by executive decree, becoming the only food bank operating at the national level in Paraguay.",
-        "fr": "La Fundación Banco de Alimentos a été officiellement constituée en tant qu'organisation à but non lucratif par décret exécutif, devenant la seule banque alimentaire opérant à l'échelle nationale au Paraguay.",
-        "es": "La Fundación Banco de Alimentos fue constituida formalmente como organización sin fines de lucro mediante decreto ejecutivo, convirtiéndose en el único banco de alimentos que opera a nivel nacional en Paraguay.",
-        "de": "Die Fundación Banco de Alimentos wurde durch Erlass offiziell als gemeinnützige Organisation gegründet und ist damit die einzige Lebensmittelbank, die auf nationaler Ebene in Paraguay tätig ist."
-      }
-    },
-    {
-      "date": "2012",
-      "icon": "mdi-handshake",
-      "text": {
-        "en": "The foundation became a member of the Global Food Banking Network, through which it receives subventions, monitoring, methodological tools, and capacity-building support for its operations.",
-        "fr": "La fondation est devenue membre du Réseau mondial des banques alimentaires, par l'intermédiaire duquel elle reçoit des subventions, un suivi, des outils méthodologiques et un soutien au renforcement des capacités pour ses opérations.",
-        "es": "La fundación se convirtió en miembro de la Red Global de Bancos de Alimentos, a través de la cual recibe subvenciones, seguimiento, herramientas metodológicas y apoyo para el fortalecimiento de capacidades en sus operaciones.",
-        "de": "Die Stiftung wurde Mitglied des Global Food Banking Network, über das sie Subventionen, Monitoring, methodische Werkzeuge und Kapazitätsaufbau-Unterstützung für ihre Arbeit erhält."
-      }
-    },
-    {
-      "date": "~2022",
-      "icon": "mdi-leaf",
-      "text": {
-        "en": "The foundation reactivated daily fruit and vegetable collection inside the Mercado de Abasto, driven by a group of women from Bañado Sur, achieving that 70% of annual food deliveries are now fresh produce.",
-        "fr": "La fondation a réactivé la collecte quotidienne de fruits et légumes au sein du Mercado de Abasto, portée par un groupe de femmes du Bañado Sur, permettant que 70 % des livraisons alimentaires annuelles soient désormais des produits frais.",
-        "es": "La fundación reactivó la recolección diaria de frutas y verduras dentro del Mercado de Abasto, impulsada por un grupo de mujeres del Bañado Sur, logrando que el 70% de las entregas anuales de alimentos sean productos frescos.",
-        "de": "Die Stiftung reaktivierte die tägliche Obst- und Gemüsesammlung im Mercado de Abasto, angetrieben von einer Gruppe von Frauen aus Bañado Sur, und erreichte, dass 70 % der jährlichen Lebensmittellieferungen nun aus frischen Produkten bestehen."
-      }
-    },
-    {
-      "date": "2025",
-      "icon": "mdi-arrow-expand-all",
-      "text": {
-        "en": "The foundation opened its first distribution and storage center in Alto Paraná, supported by a private company, as part of a strategy to decentralize operations and build a national network of food banks.",
-        "fr": "La fondation a inauguré son premier centre de distribution et de stockage à Alto Paraná, soutenu par une entreprise privée, dans le cadre d'une stratégie visant à décentraliser les opérations et à construire un réseau national de banques alimentaires.",
-        "es": "La fundación inauguró su primer centro de distribución y almacenamiento en Alto Paraná, con el apoyo de una empresa privada, como parte de una estrategia para descentralizar las operaciones y construir una red nacional de bancos de alimentos.",
-        "de": "Die Stiftung eröffnete ihr erstes Verteilungs- und Lagerzentrum in Alto Paraná, unterstützt von einem privaten Unternehmen, als Teil einer Strategie zur Dezentralisierung der Aktivitäten und zum Aufbau eines nationalen Netzwerks von Lebensmittelbanken."
-      }
-    },
-    {
-      "date": "2025",
-      "icon": "mdi-trending-up",
-      "text": {
-        "en": "For the first time, the foundation received state funding through Itaipú Binacional after successfully applying to a national call, while also working toward the regulation of Law 6601 on food donation to incentivize greater corporate participation.",
-        "fr": "Pour la première fois, la fondation a reçu un financement public d'Itaipú Binacional après avoir répondu avec succès à un appel national, tout en œuvrant à la réglementation de la loi 6601 sur le don alimentaire afin d'encourager une plus grande participation des entreprises.",
-        "es": "Por primera vez, la fundación recibió financiamiento estatal a través de Itaipú Binacional tras postularse exitosamente a una convocatoria nacional, al mismo tiempo que trabaja en la reglamentación de la Ley 6601 sobre donación de alimentos para incentivar una mayor participación empresarial.",
-        "de": "Zum ersten Mal erhielt die Stiftung staatliche Förderung durch Itaipú Binacional, nachdem sie sich erfolgreich auf einen nationalen Aufruf beworben hatte, und arbeitet gleichzeitig an der Umsetzung des Gesetzes 6601 über Lebensmittelspenden, um eine stärkere Beteiligung von Unternehmen zu fördern."
-      }
-    }
-  ],
-  "offers": [
-    {
-      "icon": "mdi-delete-restore",
-      "label": {
-        "en": "Recovery of surplus food from companies",
-        "fr": "Récupération des surplus alimentaires auprès des entreprises",
-        "es": "Recuperación de alimentos excedentes de empresas",
-        "de": "Rückgewinnung von überschüssigen Lebensmitteln aus Unternehmen"
-      }
-    },
-    {
-      "icon": "mdi-account-group",
-      "label": {
-        "en": "Monthly food kit delivery to vulnerable organizations",
-        "fr": "Livraison mensuelle de paniers alimentaires aux organisations vulnérables",
-        "es": "Entrega mensual de canastas de alimentos a organizaciones vulnerables",
-        "de": "Monatliche Lebensmittelpaketlieferung an bedürftige Organisationen"
-      }
-    },
-    {
-      "icon": "mdi-apple-food",
-      "label": {
-        "en": "Fresh produce rescue from field producers",
-        "fr": "Sauvetage de produits frais auprès des producteurs locaux",
-        "es": "Rescate de productos frescos de productores del campo",
-        "de": "Rettung von Frischprodukten bei Felderzeugern"
-      }
-    },
-    {
-      "icon": "mdi-weight-lifter",
-      "label": {
-        "en": "Food safety and nutrition workshops for communities",
-        "fr": "Ateliers sur la sécurité alimentaire et la nutrition pour les communautés",
-        "es": "Talleres de seguridad alimentaria y nutrición para comunidades",
-        "de": "Lebensmittelsicherheits- und Ernährungsworkshops für Gemeinschaften"
-      }
-    },
-    {
-      "icon": "mdi-shopping",
-      "label": {
-        "en": "Donation receipts for corporate tax deductions",
-        "fr": "Reçus de dons pour les déductions fiscales des entreprises",
-        "es": "Recibos de donación para deducciones fiscales corporativas",
-        "de": "Spendenquittungen für steuerliche Abzüge von Unternehmen"
-      }
-    },
-    {
-      "icon": "mdi-flask",
-      "label": {
-        "en": "Monitoring and reporting on food distribution impact",
-        "fr": "Suivi et rapport sur l'impact de la distribution alimentaire",
-        "es": "Seguimiento e informes sobre el impacto de la distribución de alimentos",
-        "de": "Überwachung und Berichterstattung über die Auswirkungen der Lebensmittelverteilung"
-      }
-    }
-  ],
-  "lookingFor": [
-    {
-      "icon": "mdi-handshake",
-      "label": {
-        "en": "Corporate donors to manage food surplus",
-        "fr": "Donateurs corporatifs pour gérer les surplus alimentaires",
-        "es": "Donantes corporativos para gestionar el excedente de alimentos",
-        "de": "Unternehmensdonatoren zur Verwaltung von Lebensmittelüberschüssen"
-      }
-    },
-    {
-      "icon": "mdi-human-capacity-increase",
-      "label": {
-        "en": "Volunteers for daily operations and collections",
-        "fr": "Bénévoles pour les opérations quotidiennes et les collectes",
-        "es": "Voluntarios para operaciones diarias y recolecciones",
-        "de": "Freiwillige für den täglichen Betrieb und die Sammlungen"
-      }
-    },
-    {
-      "icon": "mdi-truck-delivery",
-      "label": {
-        "en": "Food producers donating agricultural surplus",
-        "fr": "Producteurs alimentaires faisant don de surplus agricoles",
-        "es": "Productores de alimentos que donan excedentes agrícolas",
-        "de": "Lebensmittelproduzenten, die landwirtschaftliche Überschüsse spenden"
-      }
-    },
-    {
-      "icon": "mdi-cash-multiple",
-      "label": {
-        "en": "Project-based international cooperation funding",
-        "fr": "Financement de coopération internationale basé sur des projets",
-        "es": "Financiamiento de cooperación internacional por proyectos",
-        "de": "Projektbasierte internationale Kooperationsfinanzierung"
-      }
-    },
-    {
-      "icon": "mdi-gavel",
-      "label": {
-        "en": "Regulation of food donation law 6601",
-        "fr": "Réglementation de la loi sur le don alimentaire 6601",
-        "es": "Regulación de la ley de donación de alimentos 6601",
-        "de": "Regulierung des Lebensmittelspenderechts 6601"
-      }
-    },
-    {
-      "icon": "mdi-human-male-child",
-      "label": {
-        "en": "Expansion to new departments via collection centers",
-        "fr": "Extension vers de nouveaux départements via des centres de collecte",
-        "es": "Expansión a nuevos departamentos mediante centros de recolección",
-        "de": "Ausweitung auf neue Abteilungen über Sammelzentren"
-      }
-    }
-  ],
-  "gallery": []
+    "contact":  {
+                    "entity":  "",
+                    "firstname":  "",
+                    "lastname":  "",
+                    "contact_url":  ""
+                },
+    "continent":  [
+                      "south-america"
+                  ],
+    "country":  [
+                    "paraguay"
+                ],
+    "createdAt":  1754384375,
+    "date":  null,
+    "description":  {
+                        "en":  "The Food Bank of Paraguay, created in the 1990s and formalized in 2004, aims to combat food waste and hunger. With a dedicated team of six people, they collect and distribute surplus food to more than 100 organizations, serving mainly vulnerable communities. Their operations are based on donations, partnerships and international cooperation, focusing on logistics and advocacy to enhance their impact. Future plans include expanding collection centers and improving food processing capacity.",
+                        "fr":  "La Banque alimentaire du Paraguay, créée dans les années 1990 et officialisée en 2004, a pour objectif de lutter contre le gaspillage alimentaire et la faim. Avec une équipe dévouée de six personnes, elle collecte et distribue les excédents alimentaires à plus de 100 organisations, principalement au service des communautés vulnérables. Ses opérations sont basées sur les dons, les partenariats et la coopération internationale, et se concentrent sur la logistique et le plaidoyer afin d\u0027améliorer leur impact. Les projets futurs comprennent l\u0027expansion des centres de collecte et l\u0027amélioration de la capacité de traitement des aliments.",
+                        "es":  "El Banco de Alimentos de Paraguay, creado en la década de 1990 y formalizado en 2004, tiene como objetivo combatir el despilfarro de alimentos y el hambre. Con un equipo dedicado de seis personas, recogen y distribuyen excedentes de alimentos a más de 100 organizaciones, que atienden principalmente a comunidades vulnerables. Sus operaciones se basan en donaciones, asociaciones y cooperación internacional, centrándose en la logística y la promoción para mejorar su impacto. Sus planes de futuro incluyen ampliar los centros de recogida y mejorar la capacidad de procesamiento de alimentos.",
+                        "de":  "Die Banco de Alimentos in Paraguay, die 1990 gegründet und 2004 formalisiert wurde, zielt darauf ab, Lebensmittelabfälle und Hunger zu bekämpfen. Mit einem engagierten Team von sechs Mitarbeitern sammeln und verteilen sie Lebensmittelüberschüsse an über 100 Organisationen, die vor allem gefährdete Gemeinden bedienen. Ihre Operationen basieren auf Spenden, Partnerschaften und internationaler Zusammenarbeit, wobei sie sich auf Logistik und Advocacy konzentrieren, um ihre Wirkung zu steigern. Zukünftige Pläne beinhalten die Erweiterung von Sammelzentren und die Verbesserung der Lebensmittelverarbeitungskapazitäten."
+                    },
+    "field":  [
+                  "nutrition"
+              ],
+    "lang":  "en",
+    "location":  "",
+    "name":  {
+                 "pt":  "Banco de Alimentos",
+                 "en":  "Banco de Alimentos Paraguay",
+                 "fr":  "Banco de Alimentos Paraguay",
+                 "es":  "Banco de Alimentos Paraguay",
+                 "de":  "Banco de Alimentos Paraguay"
+             },
+    "pubId":  457852,
+    "state":  "ongoing-project",
+    "team":  [
+                 {
+                     "entity":  "",
+                     "firstname":  "Monica",
+                     "lastname":  "Rivas"
+                 }
+             ],
+    "thematic":  [
+                     "food-agriculture-fishery"
+                 ],
+    "time":  "",
+    "type":  [
+                 "case-study"
+             ],
+    "url":  "https://bancodealimentos.org.py/nosotros/",
+    "yt":  "",
+    "originalLang":  "fr",
+    "timeline":  [
+                     {
+                         "date":  "1996",
+                         "icon":  "mdi-flag-checkered",
+                         "text":  {
+                                      "en":  "A group of enthusiastic volunteers, influenced by the experience of food banks in Italy, began informal food collection and distribution operations in Paraguay without any legal formalization.",
+                                      "fr":  "Un groupe de bénévoles enthousiastes, inspirés par l\u0027expérience des banques alimentaires en Italie, a commencé des opérations informelles de collecte et de distribution de nourriture au Paraguay, sans aucune formalisation juridique.",
+                                      "es":  "Un grupo de voluntarios entusiastas, influenciados por la experiencia de los bancos de alimentos en Italia, comenzó operaciones informales de recolección y distribución de alimentos en Paraguay sin ninguna formalización legal.",
+                                      "de":  "Eine Gruppe enthusiastischer Freiwilliger, beeinflusst durch die Erfahrungen von Lebensmittelbanken in Italien, begann in Paraguay mit informellen Lebensmittelsammlungs- und Verteilungsaktivitäten ohne jegliche rechtliche Formalisierung."
+                                  }
+                     },
+                     {
+                         "date":  "2004",
+                         "icon":  "mdi-sign-direction",
+                         "text":  {
+                                      "en":  "The Fundación Banco de Alimentos was formally constituted as a nonprofit organization by executive decree, becoming the only food bank operating at the national level in Paraguay.",
+                                      "fr":  "La Fundación Banco de Alimentos a été officiellement constituée en tant qu\u0027organisation à but non lucratif par décret exécutif, devenant la seule banque alimentaire opérant à l\u0027échelle nationale au Paraguay.",
+                                      "es":  "La Fundación Banco de Alimentos fue constituida formalmente como organización sin fines de lucro mediante decreto ejecutivo, convirtiéndose en el único banco de alimentos que opera a nivel nacional en Paraguay.",
+                                      "de":  "Die Fundación Banco de Alimentos wurde durch Erlass offiziell als gemeinnützige Organisation gegründet und ist damit die einzige Lebensmittelbank, die auf nationaler Ebene in Paraguay tätig ist."
+                                  }
+                     },
+                     {
+                         "date":  "2012",
+                         "icon":  "mdi-handshake",
+                         "text":  {
+                                      "en":  "The foundation became a member of the Global Food Banking Network, through which it receives subventions, monitoring, methodological tools, and capacity-building support for its operations.",
+                                      "fr":  "La fondation est devenue membre du Réseau mondial des banques alimentaires, par l\u0027intermédiaire duquel elle reçoit des subventions, un suivi, des outils méthodologiques et un soutien au renforcement des capacités pour ses opérations.",
+                                      "es":  "La fundación se convirtió en miembro de la Red Global de Bancos de Alimentos, a través de la cual recibe subvenciones, seguimiento, herramientas metodológicas y apoyo para el fortalecimiento de capacidades en sus operaciones.",
+                                      "de":  "Die Stiftung wurde Mitglied des Global Food Banking Network, über das sie Subventionen, Monitoring, methodische Werkzeuge und Kapazitätsaufbau-Unterstützung für ihre Arbeit erhält."
+                                  }
+                     },
+                     {
+                         "date":  "~2022",
+                         "icon":  "mdi-leaf",
+                         "text":  {
+                                      "en":  "The foundation reactivated daily fruit and vegetable collection inside the Mercado de Abasto, driven by a group of women from Bañado Sur, achieving that 70% of annual food deliveries are now fresh produce.",
+                                      "fr":  "La fondation a réactivé la collecte quotidienne de fruits et légumes au sein du Mercado de Abasto, portée par un groupe de femmes du Bañado Sur, permettant que 70 % des livraisons alimentaires annuelles soient désormais des produits frais.",
+                                      "es":  "La fundación reactivó la recolección diaria de frutas y verduras dentro del Mercado de Abasto, impulsada por un grupo de mujeres del Bañado Sur, logrando que el 70% de las entregas anuales de alimentos sean productos frescos.",
+                                      "de":  "Die Stiftung reaktivierte die tägliche Obst- und Gemüsesammlung im Mercado de Abasto, angetrieben von einer Gruppe von Frauen aus Bañado Sur, und erreichte, dass 70 % der jährlichen Lebensmittellieferungen nun aus frischen Produkten bestehen."
+                                  }
+                     },
+                     {
+                         "date":  "2025",
+                         "icon":  "mdi-arrow-expand-all",
+                         "text":  {
+                                      "en":  "The foundation opened its first distribution and storage center in Alto Paraná, supported by a private company, as part of a strategy to decentralize operations and build a national network of food banks.",
+                                      "fr":  "La fondation a inauguré son premier centre de distribution et de stockage à Alto Paraná, soutenu par une entreprise privée, dans le cadre d\u0027une stratégie visant à décentraliser les opérations et à construire un réseau national de banques alimentaires.",
+                                      "es":  "La fundación inauguró su primer centro de distribución y almacenamiento en Alto Paraná, con el apoyo de una empresa privada, como parte de una estrategia para descentralizar las operaciones y construir una red nacional de bancos de alimentos.",
+                                      "de":  "Die Stiftung eröffnete ihr erstes Verteilungs- und Lagerzentrum in Alto Paraná, unterstützt von einem privaten Unternehmen, als Teil einer Strategie zur Dezentralisierung der Aktivitäten und zum Aufbau eines nationalen Netzwerks von Lebensmittelbanken."
+                                  }
+                     },
+                     {
+                         "date":  "2025",
+                         "icon":  "mdi-trending-up",
+                         "text":  {
+                                      "en":  "For the first time, the foundation received state funding through Itaipú Binacional after successfully applying to a national call, while also working toward the regulation of Law 6601 on food donation to incentivize greater corporate participation.",
+                                      "fr":  "Pour la première fois, la fondation a reçu un financement public d\u0027Itaipú Binacional après avoir répondu avec succès à un appel national, tout en œuvrant à la réglementation de la loi 6601 sur le don alimentaire afin d\u0027encourager une plus grande participation des entreprises.",
+                                      "es":  "Por primera vez, la fundación recibió financiamiento estatal a través de Itaipú Binacional tras postularse exitosamente a una convocatoria nacional, al mismo tiempo que trabaja en la reglamentación de la Ley 6601 sobre donación de alimentos para incentivar una mayor participación empresarial.",
+                                      "de":  "Zum ersten Mal erhielt die Stiftung staatliche Förderung durch Itaipú Binacional, nachdem sie sich erfolgreich auf einen nationalen Aufruf beworben hatte, und arbeitet gleichzeitig an der Umsetzung des Gesetzes 6601 über Lebensmittelspenden, um eine stärkere Beteiligung von Unternehmen zu fördern."
+                                  }
+                     }
+                 ],
+    "offers":  [
+                   {
+                       "icon":  "mdi-delete-restore",
+                       "label":  {
+                                     "en":  "Recovery of surplus food from companies",
+                                     "fr":  "Récupération des surplus alimentaires auprès des entreprises",
+                                     "es":  "Recuperación de alimentos excedentes de empresas",
+                                     "de":  "Rückgewinnung von überschüssigen Lebensmitteln aus Unternehmen"
+                                 }
+                   },
+                   {
+                       "icon":  "mdi-account-group",
+                       "label":  {
+                                     "en":  "Monthly food kit delivery to vulnerable organizations",
+                                     "fr":  "Livraison mensuelle de paniers alimentaires aux organisations vulnérables",
+                                     "es":  "Entrega mensual de canastas de alimentos a organizaciones vulnerables",
+                                     "de":  "Monatliche Lebensmittelpaketlieferung an bedürftige Organisationen"
+                                 }
+                   },
+                   {
+                       "icon":  "mdi-apple-food",
+                       "label":  {
+                                     "en":  "Fresh produce rescue from field producers",
+                                     "fr":  "Sauvetage de produits frais auprès des producteurs locaux",
+                                     "es":  "Rescate de productos frescos de productores del campo",
+                                     "de":  "Rettung von Frischprodukten bei Felderzeugern"
+                                 }
+                   },
+                   {
+                       "icon":  "mdi-weight-lifter",
+                       "label":  {
+                                     "en":  "Food safety and nutrition workshops for communities",
+                                     "fr":  "Ateliers sur la sécurité alimentaire et la nutrition pour les communautés",
+                                     "es":  "Talleres de seguridad alimentaria y nutrición para comunidades",
+                                     "de":  "Lebensmittelsicherheits- und Ernährungsworkshops für Gemeinschaften"
+                                 }
+                   },
+                   {
+                       "icon":  "mdi-shopping",
+                       "label":  {
+                                     "en":  "Donation receipts for corporate tax deductions",
+                                     "fr":  "Reçus de dons pour les déductions fiscales des entreprises",
+                                     "es":  "Recibos de donación para deducciones fiscales corporativas",
+                                     "de":  "Spendenquittungen für steuerliche Abzüge von Unternehmen"
+                                 }
+                   },
+                   {
+                       "icon":  "mdi-flask",
+                       "label":  {
+                                     "en":  "Monitoring and reporting on food distribution impact",
+                                     "fr":  "Suivi et rapport sur l\u0027impact de la distribution alimentaire",
+                                     "es":  "Seguimiento e informes sobre el impacto de la distribución de alimentos",
+                                     "de":  "Überwachung und Berichterstattung über die Auswirkungen der Lebensmittelverteilung"
+                                 }
+                   }
+               ],
+    "lookingFor":  [
+                       {
+                           "icon":  "mdi-handshake",
+                           "label":  {
+                                         "en":  "Corporate donors to manage food surplus",
+                                         "fr":  "Donateurs corporatifs pour gérer les surplus alimentaires",
+                                         "es":  "Donantes corporativos para gestionar el excedente de alimentos",
+                                         "de":  "Unternehmensdonatoren zur Verwaltung von Lebensmittelüberschüssen"
+                                     }
+                       },
+                       {
+                           "icon":  "mdi-human-capacity-increase",
+                           "label":  {
+                                         "en":  "Volunteers for daily operations and collections",
+                                         "fr":  "Bénévoles pour les opérations quotidiennes et les collectes",
+                                         "es":  "Voluntarios para operaciones diarias y recolecciones",
+                                         "de":  "Freiwillige für den täglichen Betrieb und die Sammlungen"
+                                     }
+                       },
+                       {
+                           "icon":  "mdi-truck-delivery",
+                           "label":  {
+                                         "en":  "Food producers donating agricultural surplus",
+                                         "fr":  "Producteurs alimentaires faisant don de surplus agricoles",
+                                         "es":  "Productores de alimentos que donan excedentes agrícolas",
+                                         "de":  "Lebensmittelproduzenten, die landwirtschaftliche Überschüsse spenden"
+                                     }
+                       },
+                       {
+                           "icon":  "mdi-cash-multiple",
+                           "label":  {
+                                         "en":  "Project-based international cooperation funding",
+                                         "fr":  "Financement de coopération internationale basé sur des projets",
+                                         "es":  "Financiamiento de cooperación internacional por proyectos",
+                                         "de":  "Projektbasierte internationale Kooperationsfinanzierung"
+                                     }
+                       },
+                       {
+                           "icon":  "mdi-gavel",
+                           "label":  {
+                                         "en":  "Regulation of food donation law 6601",
+                                         "fr":  "Réglementation de la loi sur le don alimentaire 6601",
+                                         "es":  "Regulación de la ley de donación de alimentos 6601",
+                                         "de":  "Regulierung des Lebensmittelspenderechts 6601"
+                                     }
+                       },
+                       {
+                           "icon":  "mdi-human-male-child",
+                           "label":  {
+                                         "en":  "Expansion to new departments via collection centers",
+                                         "fr":  "Extension vers de nouveaux départements via des centres de collecte",
+                                         "es":  "Expansión a nuevos departamentos mediante centros de recolección",
+                                         "de":  "Ausweitung auf neue Abteilungen über Sammelzentren"
+                                     }
+                       }
+                   ],
+    "gallery":  [
+
+                ]
 }
