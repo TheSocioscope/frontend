@@ -1,23 +1,23 @@
 ---
-title: Partenaires Design et Juridiques
-description: Partenaires fournissant une expertise en design et des conseils juridiques
+title: Design and Legal Partners
+description: Partners providing design expertise and legal guidance
 category: design-legal-partners
 partners:
-  - name: Studio Graphique
+  - name: EarthBlink Ltd
+    country: United Kingdom
+    logo: ''
+    website: ''
+    role: Design
+  - name: Monarca
+    country: Colombia
+    logo: ''
+    website: ''
+    role: Design
+  - name: Plasseraud
     country: France
     logo: ''
     website: ''
-    role: Identité Visuelle et Design
-  - name: Legal Advisory Group
-    country: France
-    logo: ''
-    website: ''
-    role: Conformité Légale et Protection des Données
-  - name: UX Research Lab
-    country: Germany
-    logo: ''
-    website: ''
-    role: Conception d'Expérience Utilisateur
+    role: Legal
 ---
 
-Nos partenaires design et juridiques garantissent que The Socioscope maintient les normes les plus élevées en communication visuelle et conformité légale.
+Our design and legal partners ensure The Socioscope maintains the highest standards in visual communication and legal compliance.

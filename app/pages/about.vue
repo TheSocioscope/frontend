@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageHero :title="$t('about.hero.title')" :subtitle="$t('about.hero.subtitle')" icon="mdi-leaf" />
+    <PageHero :title="$t('about.hero.title')" :subtitle="$t('about.hero.subtitle')" icon="mdi-leaf" compact />
     <AboutMission />
     <AboutMethodology />
     <AboutValues />

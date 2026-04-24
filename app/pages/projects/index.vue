@@ -4,6 +4,7 @@
       :title="$t('projects.hero.title')"
       :subtitle="$t('projects.hero.subtitle')"
       icon="mdi-earth"
+      compact
     />
     <section class="section">
       <div class="container">
@@ -87,7 +88,8 @@
             </div>
             <div class="row-body">
               <h3 class="row-name">{{ getRowName(project) }}</h3>
-              <p v-if="project.location" class="row-location">
+              <p v-if="getRowDescription(project)" class="row-description">{{ getRowDescription(project) }}</p>
+              <p v-else-if="project.location" class="row-location">
                 <v-icon size="x-small">mdi-map-marker</v-icon> {{ project.location }}
               </p>
             </div>
@@ -179,8 +181,8 @@ const filters = ref({
 
 const currentPage = ref(1)
 const itemsPerPage = ref(12)
-const sortBy = ref('score')
-const sortOrder = ref<'asc' | 'desc'>('desc')
+const sortBy = ref('name')
+const sortOrder = ref<'asc' | 'desc'>('asc')
 const shuffleIndex = ref<Map<number, number>>(new Map())
 const viewMode = ref<'grid' | 'list'>('grid')
 const isMobile = ref(false)
@@ -512,6 +514,15 @@ const getRowInitials = (project: any) => {
 
 const getRowBackground = (project: any) => rowColors[project.pubId % rowColors.length]
 
+const getRowDescription = (project: any) => {
+  const desc = project.abstract || project.description
+  if (!desc) return ''
+  const text = typeof desc === 'string' ? desc : getLocalizedText(desc, project.originalLang)
+  if (!text) return ''
+  const firstLine = text.split(/[\n.]/)[0].trim()
+  return firstLine.length > 120 ? firstLine.slice(0, 120) + '…' : firstLine
+}
+
 useHead({
   title: $t('nav.projects')
 })
@@ -635,6 +646,16 @@ useHead({
   display: flex;
   align-items: center;
   gap: 2px;
+}
+
+.row-description {
+  font-size: 0.8rem;
+  color: #888;
+  margin: 0;
+  line-height: 1.4;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .row-tags {

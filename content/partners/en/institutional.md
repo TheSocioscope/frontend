@@ -23,6 +23,21 @@ partners:
     logo: ''
     website: 'https://www.lse.ac.uk'
     role: Academic Partner
+  - name: DSI-NRF Centre of Excellence in Food Security
+    country: South Africa
+    logo: ''
+    website: ''
+    role: Academic Partner
+  - name: TEC Monterrey
+    country: Mexico
+    logo: ''
+    website: ''
+    role: Academic Partner
+  - name: The Chinese University of Hong Kong
+    country: Hong Kong
+    logo: ''
+    website: ''
+    role: Academic Partner
 ---
 
 Our institutional partners provide crucial support, expertise, and collaboration opportunities for The Socioscope project.

@@ -4,6 +4,7 @@
       :title="$t('products.hero.title')"
       :subtitle="$t('products.hero.subtitle')"
       icon="mdi-package-variant-closed"
+      compact
     />
     <section class="section">
       <div class="container">

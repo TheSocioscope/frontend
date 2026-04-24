@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageHero :title="$t('privacy.hero.title')" :subtitle="$t('privacy.hero.subtitle')" icon="mdi-shield-lock-outline" />
+    <PageHero :title="$t('privacy.hero.title')" :subtitle="$t('privacy.hero.subtitle')" icon="mdi-shield-lock-outline" compact />
 
     <section class="section privacy-section">
       <div class="container">

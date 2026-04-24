@@ -23,29 +23,29 @@
   },
   "vision": {
     "title": "Transition in the food system",
-    "statement1": "We study initiatives worldwide that make the food system more sustainable. Using AI, the Socioscope analyses, over hundreds of cases in dozens of countries, how business models and behaviours can change towards a more sustainable system.",
+    "statement1": "Through large scale data collection around the world and LLM-driven research, the Socioscope analyses how behaviours, norms, and practices evolve within sustainable food transitions. We're building a systemic way to help make complex social patterns measurable, comparable, and understandable. >  We study initiatives worldwide that make the food system mor sustainable. Using AI, the Socioscope analyses, over hundreds oof cases in dozens of countries, how business models and behaviours can change towards a more sustainable system. ",
     "statement2": ""
   },
   "contributions": {
     "card1": {
       "icon": "📊",
       "title": "Data",
-      "description": "Our local interviewers visit initiatives and collect data on how they address the challenges they face: how they organise, how they interact with their environment and other stakeholders.",
-      "description2": "With films, we present these initiatives and help them to share good practices and meet like-minded people. The Socioscope is the world's largest qualitative dataset of its kind.",
+      "description": "Sophisticated on-the-ground data collection across 35+ countries, capturing not just what initiatives do, but how they transform economic, ecological, cultural and governance ecosystems. Our well-trained local interviewers and field mangagers conduct ethnographic fieldwork, semi-structured qualitative interviews, and participatory observation to build the most comprehensive data set of food system transformations.",
+      "description2": "Our local interviewers visit initiatives and collect data on how they address the challenges they face: how they organise, how they interact with their environmnt and other stakeholders. With films, we present these initiatives and help them to share good practices and meet like-minded people. The Socioscope is the world's larger qualitative dataset of its kind.",
       "link": ""
     },
     "card2": {
       "icon": "🤖",
       "title": "Technology",
-      "description": "Establishing an LLM-driven research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity.",
+      "description": "Establishing an LLM-driven research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity. Our suite of classic and LLM-driven technology tools helps researchers analyze data across hundreds of cases in a valid and reliable way.",
       "description2": "Our suite of classic and LLM-driven technology tools helps researchers process data across hundreds of cases in a valid and reliable way.",
       "link": ""
     },
     "card3": {
       "icon": "🌾",
       "title": "Analysis",
-      "description": "The Socioscope develops Large Scale Qualitative Analysis, a new research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity.",
-      "description2": "Our team of scientists analyses the processes of change, the strategies that are implemented, the solutions that work. We compare across geographies and make models to help stakeholders.",
+      "description": "Unpacking how stakeholders work together, the motivations and values that incentivize them, and key challenges; a layered approach to mapping how food systems transition. Developing new frameworks and pathways to understand food systems transformation across sectors and contexts examining economic, political and cultural dimensions.",
+      "description2": "The Socioscope develops Large Scale Qualitative Analysis, a new research methodology that can process qualitative data at large scale while preserving contextual nuance and cultural specificity. Our team of scientists analyses the processes of change, the strategies that are implemented,  the solutions that work. We compare across geographies and make models to help stakeholders.",
       "link": ""
     }
   },
@@ -117,11 +117,18 @@
   },
   "projects": {
     "hero": {
-      "title": "Map of Change",
+      "title": "Projects",
       "subtitle": "Explore transformative initiatives reshaping our food systems worldwide"
     },
     "detail": {
-      "about": "About This Initiative"
+      "video": "Watch our story",
+      "about": "About",
+      "timeline": "Our journey",
+      "offers": "What We Offer",
+      "lookingFor": "What We're Looking For",
+      "team": "Our Team",
+      "share": "Share This Initiative",
+      "gallery": "Gallery"
     },
     "continents": {
       "asia": "Asia",
@@ -181,7 +188,10 @@
       "ukraine": "Ukraine",
       "united-kingdom": "United Kingdom",
       "united-states": "United States",
-      "uruguay": "Uruguay"
+      "uruguay": "Uruguay",
+      "south-africa": "South Africa",
+      "hong-kong": "Hong Kong",
+      "philippines": "Philippines"
     },
     "fields": {
       "anthropology": "Anthropology",
@@ -327,16 +337,6 @@
     "translationDisclaimer": "This project was originally submitted in {language}. The content shown here has been automatically translated to {currentLanguage}.",
     "viewingOriginal": "You are viewing this project in its original language: {language}.",
     "viewInOriginal": "View in original language",
-    "detail": {
-      "video": "Watch our story",
-      "about": "About",
-      "timeline": "Our journey",
-      "offers": "What We Offer",
-      "lookingFor": "What We're Looking For",
-      "team": "Our Team",
-      "share": "Share This Initiative",
-      "gallery": "Gallery"
-    },
     "submit": {
       "title": "Submit Your Initiative",
       "subtitle": "Share your sustainable food system transformation project",
@@ -403,6 +403,14 @@
       "globalInterviewerNetwork": {
         "title": "Global Interviewer Network",
         "description": "Our worldwide network of trained interviewers"
+      },
+      "scientificAdvisoryBoard": {
+        "title": "Scientific Advisory Board",
+        "description": "Distinguished experts providing scientific guidance and oversight"
+      },
+      "communicationDissemination": {
+        "title": "Communication and Dissemination",
+        "description": "Managing our outreach, media, and content strategy"
       }
     },
     "searchPlaceholder": "Search by name or country..."
@@ -520,7 +528,7 @@
       "title": "Media Kit 2024",
       "description": "Complete information about The Socioscope, our impact, and partnership opportunities",
       "stats": {
-        "countries": "36+",
+        "countries": "35+",
         "countriesLabel": "Countries Covered",
         "initiatives": "700+",
         "initiativesLabel": "Initiatives",
@@ -548,7 +556,7 @@
         "title": "Key Information",
         "founded": "Founded: 2022",
         "headquarters": "Headquarters: Paris, France",
-        "reach": "Research Reach: 36+ countries",
+        "reach": "Research Reach: 35+ countries",
         "website": "Website: thesocioscope.org"
       },
       "audience": {
@@ -595,7 +603,7 @@
       },
       "location": {
         "title": "Location",
-        "address": "Institute of Advanced Study\nHôtel de Lauzun\n17 Quai d'Anjou\n75004 Paris, France"
+        "address": "Institute of Advanced Study\n17 Quai d'Anjou\n75004 Paris, France"
       },
       "social": {
         "title": "Social Media",

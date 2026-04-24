@@ -1,28 +1,38 @@
 ---
-title: Datenerfassungspartner
-description: Organisationen, die unsere Datenerfassungsbemühungen unterstützen
+title: Data Collection Partners
+description: Organizations supporting our data collection efforts
 category: data-collection-partners
 partners:
-  - name: Global Survey Institute
-    country: United States
+  - name: Instintivo
+    country: Colombia
     logo: ''
     website: ''
-    role: Umfragemethodik
-  - name: Fieldwork Solutions Europe
-    country: Netherlands
-    logo: ''
-    website: ''
-    role: Feldforschungskoordination
-  - name: Data Quality Labs
-    country: Switzerland
-    logo: ''
-    website: ''
-    role: Qualitätssicherung
-  - name: Research Sampling Group
+    role: Data Collection
+  - name: Habitus Insights
     country: United Kingdom
     logo: ''
     website: ''
-    role: Stichprobendesign
+    role: Data Collection
+  - name: HIJINK Ltd
+    country: United Kingdom
+    logo: ''
+    website: ''
+    role: Data Collection
+  - name: Kilimo Source Ltd
+    country: Kenya
+    logo: ''
+    website: ''
+    role: Data Collection
+  - name: Equilibrium
+    country: Paraguay
+    logo: ''
+    website: ''
+    role: Data Collection
+  - name: 1LAB Consulting
+    country: United States
+    logo: ''
+    website: ''
+    role: Data Collection
 ---
 
-Unsere Datenerfassungspartner bieten Expertise und Infrastruktur für die Sammlung hochwertiger Forschungsdaten in mehreren Ländern.
+Our data collection partners provide expertise and infrastructure for gathering high-quality research data across multiple countries.

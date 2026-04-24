@@ -1,6 +1,6 @@
 <template>
   <div>
-    <PageHero :title="$t('press.hero.title')" :subtitle="$t('press.hero.subtitle')" icon="mdi-newspaper-variant-outline" />
+    <PageHero :title="$t('press.hero.title')" :subtitle="$t('press.hero.subtitle')" icon="mdi-newspaper-variant-outline" compact />
     <PressResources />
     <PressQuickFacts />
     <PressContact />

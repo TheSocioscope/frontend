@@ -1,28 +1,43 @@
 ---
-title: Partenaires Institutionnels
-description: Organisations fournissant un soutien institutionnel et une collaboration
+title: Institutional Partners
+description: Organizations providing institutional support and collaboration
 category: institutional-partners
 partners:
   - name: Institut d'Études Avancées de Paris (IEA)
     country: France
     logo: ''
     website: 'https://www.paris-iea.fr'
-    role: Institution d'accueil
+    role: Host Institution
   - name: Complexity Science Hub Vienna (CSH)
     country: Austria
     logo: ''
     website: 'https://www.csh.ac.at'
-    role: Partenaire de recherche
+    role: Research Partner
   - name: Santa Fe Institute (SFI)
     country: United States
     logo: ''
     website: 'https://www.santafe.edu'
-    role: Partenaire de recherche
+    role: Research Partner
   - name: London School of Economics (LSE)
     country: United Kingdom
     logo: ''
     website: 'https://www.lse.ac.uk'
-    role: Partenaire académique
+    role: Academic Partner
+  - name: DSI-NRF Centre of Excellence in Food Security
+    country: South Africa
+    logo: ''
+    website: ''
+    role: Academic Partner
+  - name: TEC Monterrey
+    country: Mexico
+    logo: ''
+    website: ''
+    role: Academic Partner
+  - name: The Chinese University of Hong Kong
+    country: Hong Kong
+    logo: ''
+    website: ''
+    role: Academic Partner
 ---
 
-Nos partenaires institutionnels fournissent un soutien, une expertise et des opportunités de collaboration cruciaux pour le projet The Socioscope.
+Our institutional partners provide crucial support, expertise, and collaboration opportunities for The Socioscope project.

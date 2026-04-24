@@ -10,16 +10,6 @@
             <div class="contact-icon">📧</div>
             <a href="mailto:info@thesocioscope.org">info@thesocioscope.org</a>
           </div>
-          <div class="contact-item">
-            <div class="contact-icon">🌐</div>
-            <a href="https://thesocioscope.org" target="_blank">thesocioscope.org</a>
-          </div>
-        </div>
-
-        <div class="contact-action">
-          <NuxtLink :to="localePath('/contact')" class="btn btn-primary">
-            {{ $t('press.contact.button') }}
-          </NuxtLink>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="faq-page">
     <!-- Hero Section -->
-    <PageHero :title="$t('faq.title')" :subtitle="$t('faq.subtitle')" icon="mdi-help-circle-outline" />
+    <PageHero :title="$t('faq.title')" :subtitle="$t('faq.subtitle')" icon="mdi-help-circle-outline" compact />
 
     <!-- FAQ Section -->
     <section class="section">

@@ -91,15 +91,51 @@
       />
     </TeamSection>
 
+    <!-- Communication and Dissemination -->
+    <TeamSection
+      v-if="communicationDissemination.length"
+      :title="$t('team.categories.communicationDissemination.title')"
+      :description="$t('team.categories.communicationDissemination.description')"
+      beige
+    >
+      <TeamMemberCard
+        v-for="member in communicationDissemination"
+        :key="member._path"
+        :firstname="member.firstname"
+        :lastname="member.lastname"
+        :role="member.role"
+        :details="member.details"
+        :picture="member.picture"
+        beige
+      />
+    </TeamSection>
+
     <!-- Operations -->
     <TeamSection
       v-if="operations.length"
       :title="$t('team.categories.operations.title')"
       :description="$t('team.categories.operations.description')"
-      beige
     >
       <TeamMemberCard
         v-for="member in operations"
+        :key="member._path"
+        :firstname="member.firstname"
+        :lastname="member.lastname"
+        :role="member.role"
+        :details="member.details"
+        :picture="member.picture"
+      />
+    </TeamSection>
+
+    <!-- Scientific Advisory Board -->
+    <TeamSection
+      v-if="scientificAdvisoryBoard.length"
+      :title="$t('team.categories.scientificAdvisoryBoard.title')"
+      :description="$t('team.categories.scientificAdvisoryBoard.description')"
+      beige
+    >
+      <TeamMemberCard
+        v-for="member in scientificAdvisoryBoard"
         :key="member._path"
         :firstname="member.firstname"
         :lastname="member.lastname"
@@ -240,6 +276,14 @@ const fieldwork = computed(() => {
 
 const operations = computed(() => {
   return allTeamMembers.value?.filter((m: any) => m.category === 'operations') || []
+})
+
+const scientificAdvisoryBoard = computed(() => {
+  return allTeamMembers.value?.filter((m: any) => m.category === 'scientific-advisory-board') || []
+})
+
+const communicationDissemination = computed(() => {
+  return allTeamMembers.value?.filter((m: any) => m.category === 'communication-dissemination') || []
 })
 
 const { data: allPartners } = await useAsyncData(`all-partners-${locale.value}`, () =>

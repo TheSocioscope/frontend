@@ -28,7 +28,14 @@
       "Bash(powershell.exe *)",
       "Bash(node -e ' *)",
       "Bash(find \"/c/Users/ssekhsaria/Documents/socioscope-website/content/projects\" -name \"*.json\" -exec wc -c {} +)",
-      "Bash(node -e *)"
+      "Bash(node -e *)",
+      "Bash(python -c ' *)",
+      "Bash(echo \"Exit: $?\")",
+      "Read(//tmp/**)",
+      "Bash(sed 's/firstname: //')",
+      "Bash(sed 's/lastname: //')",
+      "Bash(sed 's/role: //')",
+      "Bash(python *)"
     ]
   }
 }

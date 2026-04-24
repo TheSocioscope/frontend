@@ -12,9 +12,6 @@
     <!-- World Map -->
     <HomepageWorldMapSection />
 
-    <!-- Stories from the Field -->
-    <HomepageStoriesSection />
-
     <!-- Call to Join -->
     <!--<HomepageCallToJoinSection />-->
 
