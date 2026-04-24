@@ -400,7 +400,7 @@ const filteredProjects = computed(() => {
       comparison = bDate - aDate
     }
 
-    return sortOrder.value === 'asc' ? -comparison : comparison
+    return sortOrder.value === 'asc' ? comparison : -comparison
   })
 
   return sorted
