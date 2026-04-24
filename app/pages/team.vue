@@ -2,11 +2,29 @@
   <div>
     <TeamHero />
 
+    <!-- Scientific Advisory Board -->
+    <TeamSection
+      v-if="scientificAdvisoryBoard.length"
+      :title="$t('team.categories.scientificAdvisoryBoard.title')"
+      :description="$t('team.categories.scientificAdvisoryBoard.description')"
+    >
+      <TeamMemberCard
+        v-for="member in scientificAdvisoryBoard"
+        :key="member._path"
+        :firstname="member.firstname"
+        :lastname="member.lastname"
+        :role="member.role"
+        :details="member.details"
+        :picture="member.picture"
+      />
+    </TeamSection>
+
     <!-- Principal Investigators -->
     <TeamSection
       v-if="principalInvestigators.length"
       :title="$t('team.categories.principalInvestigators.title')"
       :description="$t('team.categories.principalInvestigators.description')"
+      beige
     >
       <TeamMemberCard
         v-for="member in principalInvestigators"
@@ -16,6 +34,7 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
+        beige
       />
     </TeamSection>
 
@@ -124,25 +143,6 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
-      />
-    </TeamSection>
-
-    <!-- Scientific Advisory Board -->
-    <TeamSection
-      v-if="scientificAdvisoryBoard.length"
-      :title="$t('team.categories.scientificAdvisoryBoard.title')"
-      :description="$t('team.categories.scientificAdvisoryBoard.description')"
-      beige
-    >
-      <TeamMemberCard
-        v-for="member in scientificAdvisoryBoard"
-        :key="member._path"
-        :firstname="member.firstname"
-        :lastname="member.lastname"
-        :role="member.role"
-        :details="member.details"
-        :picture="member.picture"
-        beige
       />
     </TeamSection>
 

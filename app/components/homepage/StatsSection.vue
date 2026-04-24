@@ -67,9 +67,9 @@ const stats = computed(() => {
 
   return [
     {
-      number: `${overallStats.value.totalProjects}+`,
+      number: '700+',
       label: $t('stats.card1.label'),
-      target: overallStats.value.totalProjects
+      target: 700
     },
     {
       number: '35+',
@@ -82,9 +82,9 @@ const stats = computed(() => {
       target: overallStats.value.totalInterviewers
     },
     {
-      number: '6',
+      number: '8+',
       label: $t('stats.card3.label'),
-      target: 6
+      target: 8
     }
   ]
 })
