@@ -43,7 +43,6 @@
       v-if="coInvestigators.length"
       :title="$t('team.categories.coInvestigators.title')"
       :description="$t('team.categories.coInvestigators.description')"
-      beige
     >
       <TeamMemberCard
         v-for="member in coInvestigators"
@@ -53,7 +52,6 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
-        beige
       />
     </TeamSection>
 
@@ -62,6 +60,7 @@
       v-if="technology.length"
       :title="$t('team.categories.technology.title')"
       :description="$t('team.categories.technology.description')"
+      beige
     >
       <TeamMemberCard
         v-for="member in technology"
@@ -71,6 +70,7 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
+        beige
       />
     </TeamSection>
 
@@ -79,7 +79,6 @@
       v-if="projectManagement.length"
       :title="$t('team.categories.projectManagement.title')"
       :description="$t('team.categories.projectManagement.description')"
-      beige
     >
       <TeamMemberCard
         v-for="member in projectManagement"
@@ -89,7 +88,6 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
-        beige
       />
     </TeamSection>
 
@@ -98,6 +96,7 @@
       v-if="fieldwork.length"
       :title="$t('team.categories.fieldwork.title')"
       :description="$t('team.categories.fieldwork.description')"
+      beige
     >
       <TeamMemberCard
         v-for="member in fieldwork"
@@ -107,6 +106,7 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
+        beige
       />
     </TeamSection>
 
@@ -115,7 +115,6 @@
       v-if="communicationDissemination.length"
       :title="$t('team.categories.communicationDissemination.title')"
       :description="$t('team.categories.communicationDissemination.description')"
-      beige
     >
       <TeamMemberCard
         v-for="member in communicationDissemination"
@@ -125,7 +124,6 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
-        beige
       />
     </TeamSection>
 
@@ -134,6 +132,7 @@
       v-if="operations.length"
       :title="$t('team.categories.operations.title')"
       :description="$t('team.categories.operations.description')"
+      beige
     >
       <TeamMemberCard
         v-for="member in operations"
@@ -143,6 +142,7 @@
         :role="member.role"
         :details="member.details"
         :picture="member.picture"
+        beige
       />
     </TeamSection>
 
