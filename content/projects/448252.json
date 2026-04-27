@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1739454633,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Nordic Harvest es una iniciativa de agricultura vertical situada en las afueras de Copenhague. La iniciativa pretende hacer frente a los importantes retos medioambientales que plantean los métodos de cultivo tradicionales, en particular la deforestación y los problemas climáticos derivados de las prácticas agrícolas convencionales.\n\nLa misión de Nordic Harvest es cultivar más alimentos en menos espacio, utilizando tecnologías innovadoras como la iluminación LED y un entorno controlado para maximizar el rendimiento de los cultivos. La granja funciona según un modelo de prueba de concepto, y actualmente produce cultivos como lechuga, hierbas y col rizada en unas instalaciones de 3.500 metros cuadrados, con planes de ampliación a 66.000 metros cuadrados, lo que permitiría producir 1.000 toneladas de productos al año.\n\nNordic Harvest hace hincapié en la investigación y el desarrollo, y emplea a un equipo de expertos, entre ellos doctores y especialistas en microbiología y agricultura sostenible, para garantizar unas condiciones de cultivo óptimas e innovar en la producción de cultivos.\n",
     "de": "Nordic Harvest ist eine Initiative für vertikale Landwirtschaft am Stadtrand von Kopenhagen. Die Initiative will die erheblichen ökologischen Herausforderungen angehen, die durch die traditionelle Landwirtschaft entstehen, insbesondere die Entwaldung und die Klimaproblematik, die sich aus den konventionellen landwirtschaftlichen Praktiken ergeben.\n\nDie Mission von Nordic Harvest ist es, mehr Lebensmittel auf weniger Fläche anzubauen und dabei innovative Technologien wie LED-Beleuchtung und ein kontrolliertes Umfeld zu nutzen, um die Ernteerträge zu maximieren. Der Betrieb arbeitet nach einem Proof-of-Concept-Modell und produziert derzeit Pflanzen wie Lettuce, Kräuter und Grünkohl in einer Anlage, die sich über 3.500 Quadratmeter erstreckt. Es ist geplant, die Anlage auf 66.000 Quadratmeter zu erweitern, was die Produktion von jährlich 1.000 Tonnen Erzeugnissen ermöglichen würde.\n\nNordic Harvest legt großen Wert auf Forschung und Entwicklung und beschäftigt ein Team von Experten, darunter Doktoranden und Spezialisten für Mikrobiologie und nachhaltige Landwirtschaft, um optimale Wachstumsbedingungen zu gewährleisten und Innovationen in der Pflanzenproduktion voranzutreiben.\n"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "da": "Nordic Harvest",
-    "en": "Nordic Harvest",
-    "fr": "Récolte nordique",
-    "es": "Cosecha nórdica",
-    "de": "Nordische Ernte"
-  },
+  "name": "Nordic Harvest",
   "pubId": 448252,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Riemann"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.nordicharvest.com/",
   "yt": "BUO_FmW8eT8",
   "originalLang": "fr",
@@ -214,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-021",
+  "entityDescription": "Vertical farm growing lettuce, herbs and kale in stacked layers using LED lights and controlled environment systems.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

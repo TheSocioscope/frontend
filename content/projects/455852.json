@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1741187616,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Esta iniciativa se centra en transformar los subproductos del café en una fuente de energía ecológica mediante la producción de pellets. El proyecto pretende abordar los problemas medioambientales utilizando materiales de desecho que, de otro modo, contribuirían a la contaminación. El proceso está diseñado para ser sostenible, incorporando envases ecológicos y prácticas de reciclaje. El fundador, un joven biólogo, se inspiró en la necesidad de reducir los residuos en la industria del café y ha establecido con éxito un modelo de negocio que no sólo promueve la responsabilidad medioambiental, sino que también crea oportunidades económicas a través de las exportaciones y las posibles franquicias.",
     "de": "Diese Initiative konzentriert sich auf die Umwandlung von Kaffee-Nebenprodukten in eine umweltfreundliche Energiequelle durch die Herstellung von Pellets. Das Projekt zielt darauf ab, Umweltprobleme durch die Verwendung von Abfallmaterialien zu lösen, die ansonsten zur Umweltverschmutzung beitragen würden. Der Prozess soll nachhaltig sein, indem er umweltfreundliche Verpackungs- und Recyclingpraktiken einbezieht. Der Gründer, ein junger Biologe, wurde von der Notwendigkeit der Abfallreduzierung in der Kaffeebranche inspiriert und hat erfolgreich ein Geschäftsmodell etabliert, das nicht nur die Umweltverantwortung fördert, sondern auch wirtschaftliche Chancen durch Exporte und potenzielles Franchising schafft."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "GARCABAS",
-    "fr": "GARCABAS",
-    "es": "GARCABAS",
-    "de": "GARCABAS"
-  },
+  "name": "Garcabas",
   "pubId": 455852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Daniel Garcia"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.garcabas.com/",
   "yt": "4zBQbilEXYc",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-085",
+  "entityDescription": "Produces renewable energy pellets from coffee waste subproducts to replace traditional fuels like coal and wood.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Energy",
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

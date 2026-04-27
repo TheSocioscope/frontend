@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["united-states"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "united-states"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Circular Philadelphia works with food recovery organizations to reduce food waste, increase composting, and develop reusable packaging systems.",
     "de": "Circular Philadelphia works with food recovery organizations to reduce food waste, increase composting, and develop reusable packaging systems."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "Philadelphia, PA",
-  "name": {
-    "en": "Circular Philadelphia",
-    "fr": "Circular Philadelphia",
-    "es": "Circular Philadelphia",
-    "de": "Circular Philadelphia"
-  },
+  "name": "Circular Philadelphia",
   "pubId": 508352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Lawton, Timothy Bennet"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://circularphiladelphia.org/programs/market-transformation/food-systems/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "US-083",
+  "entityDescription": "A nonprofit organization transforming Philadelphia from a linear to circular economy through policy advocacy and stakeholder convening.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Policy & Advocacy",
+    "Waste & Circular Economy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

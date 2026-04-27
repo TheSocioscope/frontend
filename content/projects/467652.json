@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754480727,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Finca Macaní es una granja basada en la permacultura en Sotaquirá, Boyacá, dedicada a la sostenibilidad alimentaria y al compromiso con la comunidad. La iniciativa hace hincapié en trabajar en armonía con la naturaleza al tiempo que promueve el comercio local y la educación. Los visitantes pueden participar en talleres, aprender sobre prácticas alimentarias tradicionales y experimentar los diversos procesos agrícolas de la granja. Macaní pretende fomentar una comprensión más profunda de la producción de alimentos y su significado cultural, contribuyendo a un futuro más sostenible para la comunidad.",
     "de": "Die Finca Macaní ist ein Permakultur-Bauernhof in Sotaquirá, Boyacá, der sich der Nachhaltigkeit von Lebensmitteln und dem Engagement der Gemeinschaft verschrieben hat. Die Initiative legt Wert darauf, harmonisch mit der Natur zu arbeiten und gleichzeitig den lokalen Handel und die Bildung zu fördern. Besucher können an Workshops teilnehmen, etwas über traditionelle Ernährungspraktiken lernen und die vielfältigen landwirtschaftlichen Prozesse des Hofes erleben. Macaní möchte ein tieferes Verständnis der Lebensmittelproduktion und ihrer kulturellen Bedeutung fördern und so zu einer nachhaltigeren Zukunft für die Gemeinde beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "pt": "Finca Macaní",
-    "en": "Finca Macaní",
-    "fr": "Finca Macaní",
-    "es": "Finca Macaní",
-    "de": "Finca Macaní"
-  },
+  "name": "Finca Macaní",
   "pubId": 467652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Sandoval"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.youtube.com/watch?v=cELstpNjudI",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-548",
+  "entityDescription": "Permaculture farm in Boyacá offering eco-tourism, dairy products, organic vegetables, and educational workshops on sustainable agriculture.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Food Service/Hospitality",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

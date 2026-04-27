@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754913409,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa FORGENT, también conocida como Le Fourgon, es una empresa francesa centrada en la reutilización de envases, concretamente tarros de cristal, para la entrega de comestibles y productos de cuidado personal. Su objetivo es eliminar los residuos plásticos ofreciendo una experiencia de supermercado en línea sostenible. Los clientes reciben sus pedidos en envases de vidrio reutilizables, que posteriormente se recogen, limpian y reutilizan. Fundada en 2021, Le Fourgon se ha convertido rápidamente en líder del sector de la reutilización en Francia, haciendo hincapié en la responsabilidad medioambiental y el compromiso con el cliente.",
     "de": "Die Initiative FORGENT, auch bekannt als Le Fourgon, ist ein französisches Unternehmen, das sich auf die Wiederverwendung von Verpackungen, insbesondere von Gläsern, für die Lieferung von Lebensmitteln und Körperpflegeprodukten konzentriert. Ihr Ziel ist es, Plastikmüll zu vermeiden, indem sie ein nachhaltiges Online-Supermarkt-Erlebnis bieten. Die Kunden erhalten ihre Bestellungen in wiederverwendbaren Glasbehältern, die später eingesammelt, gereinigt und wiederverwendet werden. Le Fourgon wurde 2021 gegründet und hat sich in Frankreich schnell zu einem führenden Unternehmen im Bereich der Wiederverwendung entwickelt, das auf Umweltverantwortung und Kundenbindung setzt."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "fr": "Le Fourgon",
-    "en": "Le Fourgon",
-    "es": "La furgoneta",
-    "de": "Der Kastenwagen"
-  },
+  "name": "Le Fourgon",
   "pubId": 484652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Bellaubine"
     }
   ],
-  "thematic": ["economy-business-markets-finance", "food-agriculture-fishery"],
+  "thematic": [
+    "economy-business-markets-finance",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.lefourgon.com/page/lhistoire-du-fourgon?_gl=1*1sab4eo*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwzrzABhD8ARIsANlSWNOj6SpUiH9Zt2hb1LWayWIWu0xonSKyM0hQMu5BOJ3HCYpDgy5Ro5oaAioTEALw_wcB&gbraid=0AAAAABKLZUPE1jWV1_JKykk6pUCsXWh8F",
   "yt": "j6F9D0LfVlA",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-193",
+  "entityDescription": "Online reuse-focused supermarket delivering groceries and cosmetics in glass containers with collection and cleaning services",
+  "entityRole": [
+    "Retail",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Distribution & Logistics",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Del Comalli Nixtamal cultivates and transforms native maize varieties using traditional nixtamalization practices, preserving culinary heritage.",
     "de": "Del Comalli Nixtamal cultivates and transforms native maize varieties using traditional nixtamalization practices, preserving culinary heritage."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Del Comalli",
-    "fr": "Del Comalli",
-    "es": "Del Comalli",
-    "de": "Del Comalli"
-  },
+  "name": "Del comalli",
   "pubId": 505152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Mauro Felipe González"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/delcomalli/?hl=es",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-019",
+  "entityDescription": "Family agricultural enterprise producing native corn varieties and transforming them into traditional foods like tortillas, tlacoyos, and other corn-based products.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

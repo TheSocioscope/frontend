@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754336402,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Cap Veggie es una iniciativa fundada por Laure Mardoc, cuyo objetivo es modernizar la cocina francesa integrando opciones vegetarianas de calidad en la restauración institucional y comercial. Centrada en la formación de chefs y equipos de cocina, la creación de recetas innovadoras y la prestación de servicios de consultoría, Cap Veggie pretende conciliar la gastronomía francesa tradicional con la cocina basada en plantas. La iniciativa responde a la creciente demanda de prácticas alimentarias sostenibles, al tiempo que garantiza que las comidas vegetarianas sigan siendo agradables y accesibles. En la próxima década, Cap Veggie aspira a garantizar que todos los restaurantes de Francia ofrezcan opciones vegetarianas de alta calidad, contribuyendo así significativamente a la transición alimentaria.",
     "de": "Cap Veggie ist eine von Laure Mardoc gegründete Initiative, die die Modernisierung der französischen Küche durch die Integration qualitativ hochwertiger vegetarischer Optionen in institutionelle und kommerzielle Cateringunternehmen anstrebt. Mit einem Schwerpunkt auf der Ausbildung von Köchen und Küchenteams, der Entwicklung innovativer Rezepte und der Bereitstellung von Beratungsdiensten strebt Cap Veggie danach, die traditionelle französische Gastronomie wieder mit der pflanzlichen Küche in Einklang zu bringen. Die Initiative adressiert die wachsende Nachfrage nach nachhaltigen Ernährungspraktiken, während sie gleichzeitig sicherstellt, dass vegetarische Gerichte genussvoll und zugänglich bleiben. In den nächsten zehn Jahren möchte Cap Veggie sicherstellen, dass jedes Restaurant in Frankreich qualitativ hochwertige vegetarische Gerichte anbietet und damit einen wichtigen Beitrag zur Ernährungsumstellung leistet."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nb": "Cap Veggie",
-    "en": "Cap Veggie",
-    "fr": "Cap Veggie",
-    "es": "Cap Veggie",
-    "de": "Kappe Veggie"
-  },
+  "name": "Cap Veggie",
   "pubId": 457552,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Mardoc"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://capveggie.com",
   "yt": "ylk1kxpJHO0",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-107",
+  "entityDescription": "Partner supporting professional food service in menu vegetarianization through training, recipe creation, and consulting services.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Policy & Advocacy",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Services"
 }

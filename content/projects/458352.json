@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754385494,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Larvia es una startup innovadora surgida de un proyecto universitario en Ecuador, centrada en el sector de la acuicultura, especialmente en la cría de camarones. Fundada entre 2018 y 2020 con el apoyo de LANEC Corporation, Larvia aprovecha la inteligencia artificial para proporcionar datos biométricos y análisis, lo que permite a los criadores de camarones tomar decisiones informadas. Para 2025, la compañía ha expandido sus servicios a 18 países, con el objetivo de mejorar la sostenibilidad y la eficiencia en la producción de camarones, al tiempo que democratiza el acceso a información vital para los agricultores.",
     "de": "Larvia ist ein innovatives Start-up-Unternehmen, das aus einem Universitätsprojekt in Ecuador hervorgegangen ist und sich auf den Aquakultursektor, insbesondere die Krabbenzucht, konzentriert. Larvia wurde zwischen 2018 und 2020 mit Unterstützung der LANEC Corporation gegründet und hebt künstliche Intelligenz auf, um biometrische Daten und Analysen zu liefern, die es den Schrimpsfarmern ermöglichen, informierte Entscheidungen zu treffen. Bis 2025 hat das Unternehmen seine Dienstleistungen auf 18 Länder ausgeweitet, um die Nachhaltigkeit und Effizienz der Schrimps-Produktion zu steigern, indem es den Zugang der Landwirte zu wichtigen Informationen demokratisiert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Larvia",
-    "fr": "Larvia",
-    "es": "Larvia",
-    "de": "Larvia"
-  },
+  "name": "LARVIA",
   "pubId": 458352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Martinez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://larvia.ai/",
   "yt": "",
   "originalLang": "fr",
@@ -194,5 +199,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-005",
+  "entityDescription": "AI-powered startup providing biometric analysis and business intelligence services for shrimp aquaculture through mobile app technology.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

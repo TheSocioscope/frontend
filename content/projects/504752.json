@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CDIL supports day laborers and indigenous families in accessing nutritious food, promoting traditional food knowledge and defending farmworkers' rights.",
     "de": "CDIL supports day laborers and indigenous families in accessing nutritious food, promoting traditional food knowledge and defending farmworkers' rights."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "es",
   "location": "Leon, Guanajuato",
-  "name": {
-    "en": "Centro de Desarrollo Indígena Loyola (CDIL)",
-    "fr": "Centre de Développement Indigène Loyola (CDIL)",
-    "es": "Centro de Desarrollo Indígena Loyola (CDIL)",
-    "de": "Loyola Indigenes Entwicklungszentrum (CDIL)"
-  },
+  "name": "Centro de Desarrollo Indígena Loyola (CDIL)",
   "pubId": 504752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Martínez Sánchez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/centroindigenaloyola/?locale=es_LA",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-008",
+  "entityDescription": "Organization supporting indigenous families through education, agricultural worker assistance, and artisan programs in urban León, Guanajuato.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Social & Community",
+    "Health & Nutrition",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

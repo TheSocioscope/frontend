@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754988343,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Cacao Hunters es una iniciativa dedicada a transformar la industria colombiana del cacao centrándose en la calidad y la sostenibilidad. Creada en 2011, conecta a pequeños agricultores con centros de procesamiento para producir cacao especial. La organización hace hincapié en la investigación genética, la fermentación adecuada y la colaboración entre productores para mejorar la calidad del cacao. Mediante el fomento de asociaciones y la inversión en tecnología, Cacao Hunters pretende elevar el cacao colombiano en el mercado mundial, garantizando al mismo tiempo una compensación justa para los agricultores.",
     "de": "Cacao Hunters ist eine Initiative, die sich der Umgestaltung der kolumbianischen Kakaobranche widmet und dabei auf Qualität und Nachhaltigkeit setzt. Sie wurde 2011 gegründet und bringt Kleinbauern mit Verarbeitungszentren zusammen, um Spezialkakao zu produzieren. Die Organisation legt den Schwerpunkt auf genetische Forschung, ordnungsgemäße Fermentierung und die Zusammenarbeit zwischen den Erzeugern, um die Kakaoqualität zu verbessern. Durch die Förderung von Partnerschaften und Investitionen in Technologien will Cacao Hunters den kolumbianischen Kakao auf dem Weltmarkt aufwerten und gleichzeitig eine faire Entlohnung der Bauern sicherstellen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Cacao Hunters",
-    "fr": "Chasseurs de cacao",
-    "es": "Cazadores de cacao",
-    "de": "Kakaojäger"
-  },
+  "name": "Cacao Hunters",
   "pubId": 488952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Figueroa"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://cacaohunters.com/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-355",
+  "entityDescription": "Chocolate producer specializing in fine cacao sourcing from Colombian producers and exporting premium chocolate products",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Governance & Regulation"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

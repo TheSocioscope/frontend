@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754390825,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Paccari es una marca de chocolate ecuatoriana comprometida con la sostenibilidad, las prácticas ecológicas y el comercio justo. Fundada hace 23 años, su objetivo es revitalizar el planeta apoyando a los pequeños agricultores y transformando el cacao fino de aroma en chocolate de primera calidad. La filosofía de Paccari se basa en un modelo de triple impacto -económico, social y medioambiental- que garantiza que sus prácticas benefician a los agricultores, los consumidores y el planeta. La empresa se dedica a la agricultura ecológica y exige a los agricultores que eviten los productos químicos durante tres años para conseguir la certificación ecológica, lo que inicialmente puede reducir el rendimiento pero, en última instancia, favorece la sostenibilidad a largo plazo. Paccari se ha convertido en una referencia en el sector, subrayando la importancia del consumo consciente y la relación intrínseca entre el ser humano y la naturaleza.",
     "de": "Paccari ist eine ecuadorianische Schokoladenmarke, die sich der Nachhaltigkeit, organischen Praktiken und dem fairen Handel verpflichtet hat. Das Unternehmen wurde vor 23 Jahren gegründet und zielt darauf ab, den Planeten durch die Unterstützung kleinbäuerlicher Betriebe und die Verarbeitung von feinem Aromakakao zu Premiumschokolade wiederzubeleben. Die Philosophie von Paccari beruht auf einem dreifachen Wirkungsmodell - wirtschaftlich, sozial und ökologisch - und gewährleistet, dass ihre Praktiken den Bauern, den Verbrauchern und dem Planeten zugute kommen. Das Unternehmen widmet sich dem ökologischen Landbau und verlangt von den Landwirten, drei Jahre lang auf Chemikalien zu verzichten, um eine ökologische Zertifizierung zu erreichen, die zunächst die Erträge reduzieren kann, aber letztendlich die langfristige Nachhaltigkeit unterstützt. Paccari hat sich zu einer Benchmark in der Branche entwickelt und betont die Bedeutung des bewussten Konsums und der inneren Beziehung zwischen Mensch und Natur."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Paccari",
-    "fr": "Paccari",
-    "es": "Paccari",
-    "de": "Paccari"
-  },
+  "name": "PACCARI",
   "pubId": 459052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Noboa"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.paccari.com/",
   "yt": "5Z4ix_OYof0",
   "originalLang": "fr",
@@ -204,5 +209,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-024",
+  "entityDescription": "Ecuadorian premium organic chocolate company that transforms fine aroma cacao into finished chocolate products using organic and fair trade practices.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754575763,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Eco Post, con sede en Nairobi (Kenia), es una empresa social dedicada a reciclar plástico y fabricar productos de construcción duraderos, principalmente postes para ventanas y señalización. Fundada en 2009, la iniciativa pretende combatir el cambio climático proporcionando alternativas ecológicas a los postes de madera, salvando así más de 5.000 hectáreas de tierras y bosques. Además, Eco Post empodera a mujeres marginadas ofreciéndoles oportunidades laborales y formación profesional, fomentando tanto la sostenibilidad medioambiental como la mejora social.",
     "de": "Eco Post mit Sitz in Nairobi, Kenia, ist ein soziales Unternehmen, das sich dem Recycling von Kunststoffen und der Herstellung nachhaltiger Bauprodukte widmet, vor allem Fenster- und Beschilderungspaneele. Die 2009 gegründete Initiative will den Klimawandel bekämpfen, indem sie umweltfreundliche Alternativen zu Holzpostern anbietet und so über 5.000 Hektar Land und Wälder einspart. Darüber hinaus stärkt Eco Post marginalisierte Frauen, indem es ihnen Arbeitsmöglichkeiten und Schulungen anbietet und damit sowohl die ökologische Nachhaltigkeit als auch die soziale Aufwertung fördert."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "ro": "Eco Post Limited",
-    "en": "Eco Post Limited",
-    "fr": "Eco Post Limited",
-    "es": "Eco Post Limited",
-    "de": "Eco Post Limited"
-  },
+  "name": "Eco Post Limited",
   "pubId": 474852,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Miusyoka"
     }
   ],
-  "thematic": ["industry", "equality-diversity-studies-and-social-justice"],
+  "thematic": [
+    "industry",
+    "equality-diversity-studies-and-social-justice"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "http://ecopost.co.ke/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-077",
+  "entityDescription": "A social enterprise that recycles plastic waste into construction products like fencing posts and pellets while empowering women waste collectors.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

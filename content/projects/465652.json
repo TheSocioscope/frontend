@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754476018,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa de Rancho Mastatal se centra en las prácticas regenerativas, la vida sostenible y la educación en permacultura en Costa Rica. Fundado por un entregado equipo de extranjeros, el centro ofrece programas de formación, aprendizaje y experiencias de ecoturismo, fomentando una comunidad que hace hincapié en la armonía con la naturaleza. Con un compromiso con el abastecimiento local y la integración en la comunidad, su objetivo es inspirar a los visitantes a adoptar estilos de vida sostenibles, creando un efecto dominó que se extiende más allá de su entorno inmediato.",
     "de": "Die Initiative auf Rancho Mastatal konzentriert sich auf regenerative Praktiken, nachhaltiges Leben und Permakultur-Erziehung in Costa Rica. Das von einem engagierten Team von Ausländern gegründete Zentrum bietet Trainingsprogramme, Lehrlingsausbildungen und Öko-Tourismus-Erfahrungen an und fördert eine Gemeinschaft, die Harmonie mit der Natur betont. Mit ihrem Engagement für die lokale Beschaffung und die Integration der Gemeinschaft wollen sie Besucher dazu inspirieren, nachhaltige Lebensstile anzunehmen und so einen Ripple-Effekt zu erzeugen, der über ihre unmittelbare Umgebung hinausgeht."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Rancho Mastatal",
-    "en": "Rancho Mastatal",
-    "fr": "Rancho Mastatal",
-    "es": "Rancho Mastatal",
-    "de": "Rancho Mastatal"
-  },
+  "name": "Rancho Mastatal",
   "pubId": 465652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Ann Nunes"
     }
   ],
-  "thematic": ["ecology-environmental-change"],
+  "thematic": [
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ranchomastatal.com/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-014",
+  "entityDescription": "An education center offering sustainability and permaculture training while stewarding a 300-acre wildlife refuge in rural Costa Rica.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Knowledge & Information"
 }

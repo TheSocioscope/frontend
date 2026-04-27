@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754477825,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, Verdenergia, es un proyecto centrado en la comunidad de Costa Rica que combina la agricultura sostenible con la visión de un estilo de vida saludable. Copropiedad de Joshua y un grupo de amigos y familiares, su objetivo es regenerar la tierra al tiempo que se fomentan las relaciones positivas con los agricultores locales. El proyecto hace hincapié en las prácticas de permacultura, la participación de la comunidad y las oportunidades educativas, al tiempo que promueve la biodiversidad y la seguridad alimentaria. Verdana sirve de modelo para integrar la sostenibilidad ecológica con la responsabilidad social.",
     "de": "Die Initiative, Verdenergia, ist ein gemeindebasiertes Projekt in Costa Rica, das nachhaltige Landwirtschaft mit einer Vision für einen gesunden Lebensstil verbindet. Das von Joshua und einer Gruppe von Freunden und Familie mitbetriebene Projekt zielt darauf ab, das Land zu regenerieren und dabei positive Beziehungen zu lokalen Bauern zu fördern. Das Projekt betont Permakultur-Praktiken, kommunales Engagement und Bildungsmöglichkeiten, während es gleichzeitig die Artenvielfalt und die Lebensmittelsicherheit fördert. Verdana dient als Modell für die Integration von ökologischer Nachhaltigkeit und sozialer Verantwortung."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "de": "Verdenergia",
-    "en": "Verdenergia",
-    "fr": "Verdenergia",
-    "es": "Verdenergia"
-  },
+  "name": "VerdEnergia",
   "pubId": 466452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Hughes"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.verdenergia.org/",
   "yt": "t71n9MDRi1k",
   "originalLang": "fr",
@@ -213,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-057",
+  "entityDescription": "Reforestation farm and impact center offering permaculture training, hosting visitors, and regenerating degraded cattle land.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

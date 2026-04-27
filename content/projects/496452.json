@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1755009737,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa, fundada en 1974, empezó como un proyecto social de una comunidad religiosa destinado a crear un espacio inclusivo para personas con discapacidad. Trasladado de Barcelona a la Cataluña rural, el proyecto fomentó la vida y el trabajo en comunidad, integrando a personas a menudo marginadas por la sociedad. Con los años, evolucionó hasta convertirse en una cooperativa centrada en la agricultura sostenible, que produce vino y aceite de oliva al tiempo que promueve la inclusión social y ofrece oportunidades de empleo significativas a sus miembros.",
     "de": "Die 1974 gegründete Initiative begann als soziales Projekt einer religiösen Gemeinschaft mit dem Ziel, einen integrativen Raum für Menschen mit Behinderungen zu schaffen. Mit dem Umzug von Barcelona ins ländliche Katalonien förderte das Projekt das Gemeinschaftsleben und die Arbeit und integrierte Menschen, die oft von der Gesellschaft ausgegrenzt wurden. Im Laufe der Jahre entwickelte es sich zu einer Genossenschaft, die sich auf nachhaltige Landwirtschaft konzentriert, Wein und Olivenöl produziert und gleichzeitig die soziale Eingliederung fördert und sinnvolle Beschäftigungsmöglichkeiten für ihre Mitglieder bietet."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "l'Olivera",
-    "fr": "l'Olivera",
-    "es": "l'Olivera",
-    "de": "die Olivera"
-  },
+  "name": "L'Olivera",
   "pubId": 496452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Monfort Morillo"
     }
   ],
-  "thematic": ["equality-diversity-studies-and-social-justice", "food-agriculture-fishery"],
+  "thematic": [
+    "equality-diversity-studies-and-social-justice",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://olivera.org/es/el-proyecto/",
   "yt": "pxL1-_cBTso",
   "originalLang": "fr",
@@ -213,5 +220,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-043",
+  "entityDescription": "Cooperative producing wine and olive oil while providing employment and social integration for people with disabilities.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

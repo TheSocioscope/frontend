@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1755009199,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Make Eat es una iniciativa innovadora cuyo objetivo es revolucionar la gastronomía integrando el diseño y la creatividad en el mundo culinario. La iniciativa comenzó como una consultoría centrada en aplicar los principios del diseño a la gastronomía, abordando la falta de inversión en innovación dentro de la industria alimentaria.\nUno de sus proyectos destacados es \"Food for Good\", que surgió durante la pandemia para hacer frente al despilfarro de alimentos redistribuyendo los excedentes de comida de los restaurantes entre las poblaciones vulnerables. Esta iniciativa proporcionó con éxito más de 55.000 comidas, incluidos platos de alta calidad de chefs con estrellas Michelin. La iniciativa se caracteriza por su compromiso con la educación, el intercambio de conocimientos de código abierto y un enfoque holístico de la sostenibilidad alimentaria, con el objetivo de influir en los hábitos de consumo y promover una comprensión más profunda de las fuentes de alimentos y su impacto medioambiental.",
     "de": "Make Eat ist eine innovative Initiative, die darauf abzielt, die Gastronomie durch die Integration von Design und Kreativität in die kulinarische Welt zu revolutionieren. Die Initiative begann als Beratungsunternehmen, das sich auf die Anwendung von Designprinzipien in der Gastronomie konzentrierte, um den Mangel an Investitionen in Innovationen in der Lebensmittelindustrie zu beheben.\nEines ihrer bemerkenswerten Projekte ist \"Food for Good\", das während der Pandemie entstand, um die Lebensmittelverschwendung zu bekämpfen, indem überschüssige Lebensmittel von Restaurants an bedürftige Bevölkerungsgruppen weitergegeben wurden. Im Rahmen dieser Initiative wurden mehr als 55.000 Mahlzeiten bereitgestellt, darunter auch hochwertige Gerichte von Sterneköchen. Die Initiative zeichnet sich durch ihr Engagement für Bildung, den Austausch von Open-Source-Wissen und einen ganzheitlichen Ansatz für die Nachhaltigkeit von Lebensmitteln aus, der darauf abzielt, die Verbrauchergewohnheiten zu beeinflussen und ein tieferes Verständnis für Lebensmittelquellen und deren Umweltauswirkungen zu fördern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Make Eat BCN",
-    "fr": "Make Eat BCN",
-    "es": "Make Eat BCN",
-    "de": "Make Eat BCN"
-  },
+  "name": "Make Eat BCN",
   "pubId": 495952,
   "state": "ongoing-project",
   "team": [
@@ -39,7 +40,9 @@
     "consumption-and-production-patterns"
   ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://tools.makeat.tech/en",
   "yt": "",
   "originalLang": "en",
@@ -208,5 +211,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-026",
+  "entityDescription": "Innovation consultancy applying design, technology and creativity to gastronomy, developing new food products and sustainable solutions.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Services"
 }

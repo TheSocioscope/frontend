@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "An agricultural services company supporting vegetable production in the Hex River Valley region.",
     "de": "An agricultural services company supporting vegetable production in the Hex River Valley region."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Hex River Valley",
-  "name": {
-    "en": "Hexvalley Vegetables and Agri Services",
-    "fr": "Hexvalley Vegetables and Agri Services",
-    "es": "Hexvalley Vegetables and Agri Services",
-    "de": "Hexvalley Vegetables and Agri Services"
-  },
+  "name": "Hexvalley Vegetables and Agri Services",
   "pubId": 509552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Kidelo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -195,5 +200,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-017",
+  "entityDescription": "A small-scale mixed farm producing seasonal vegetables and table grapes, run as a side business for supplementary income.",
+  "entityRole": [
+    "Primary Production"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

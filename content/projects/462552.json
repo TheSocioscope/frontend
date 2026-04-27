@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["uganda"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "uganda"
+  ],
   "createdAt": 1754566873,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Slow Food es una organización mundial de base dedicada a promover el acceso a alimentos buenos, limpios y justos. Fundada en 1989 en Italia y establecida en Uganda en 2015, se centra en defender la biodiversidad, educar a las comunidades sobre sistemas alimentarios sostenibles y abogar por prácticas justas. A través de diversas iniciativas, como huertos comunitarios, mercados de agricultores y alianzas alimentarias locales, Slow Food empodera a los pequeños agricultores y fomenta una cultura de consumo responsable y agroecología.",
     "de": "Slow Food ist eine globale Graswurzel-Organisation, die sich der Förderung des Zugangs zu guten, sauberen und fairen Lebensmitteln widmet. Die 1989 in Italien gegründete und 2015 in Uganda gegründete Organisation konzentriert sich auf den Schutz der biologischen Vielfalt, die Aufklärung der Bevölkerung über nachhaltige Lebensmittelsysteme und die Förderung fairer Praktiken. Durch verschiedene Initiativen, darunter Gemeinschaftsgärten, Bauernmärkte und lokale Lebensmittelbündnisse, stärkt Slow Food Kleinbauern und fördert eine Kultur des verantwortungsbewussten Konsums und der Agrarökologie."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Slow Food Uganda",
-    "fr": "Slow Food Uganda",
-    "es": "Slow Food Uganda",
-    "de": "Slow Food Uganda"
-  },
+  "name": "Slow Food Uganda",
   "pubId": 462552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Sio"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "http://www.slowfooduganda.org",
   "yt": "",
   "originalLang": "fr",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "UG-014",
+  "entityDescription": "Non-profit organization promoting access to good, clean and fair food through agroecology, biodiversity conservation, education and advocacy.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

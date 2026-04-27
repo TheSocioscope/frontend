@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1754654365,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa \"No Food Waste\" pretende combatir el despilfarro de alimentos recogiendo el exceso de comida de eventos, instituciones y restaurantes, y redistribuyéndola entre quienes la necesitan. Fundada en 2014 en Coimbatore, se ha expandido a múltiples ciudades, entre ellas Chennai, donde gestiona una cocina para preparar comidas nutritivas y ofrece apoyo en comestibles. La organización hace hincapié en la sostenibilidad medioambiental y la participación de la comunidad, y se esfuerza por concienciar sobre el desperdicio de alimentos y su impacto en la sociedad.         ",
     "de": "Die Initiative \"No Food Waste\" will die Lebensmittelverschwendung bekämpfen, indem sie überschüssige Lebensmittel von Veranstaltungen, Einrichtungen und Restaurants einsammelt und an Bedürftige weitergibt. Sie wurde 2014 in Coimbatore gegründet und hat sich inzwischen auf mehrere Städte ausgeweitet, darunter auch Chennai, wo sie eine Küche betreibt, in der sie nahrhafte Mahlzeiten zubereitet und Unterstützung bei der Beschaffung von Lebensmitteln bietet. Die Organisation legt großen Wert auf ökologische Nachhaltigkeit und gesellschaftliches Engagement und möchte das Bewusstsein für Lebensmittelverschwendung und deren Auswirkungen auf die Gesellschaft schärfen.         "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "No Food Waste",
-    "fr": "Pas de gaspillage alimentaire",
-    "es": "Sin desperdicio de alimentos",
-    "de": "Keine Lebensmittelverschwendung"
-  },
+  "name": "No Food Waste",
   "pubId": 479352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Leticia Camacho"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://nofoodwaste.org/index.html",
   "yt": "LRAhcDHGXeA",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-005",
+  "entityDescription": "NGO recovering excess food from events, institutions and corporates to redistribute to hunger hotspots and preparing fresh nutritious meals",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

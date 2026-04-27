@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754482467,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Agroprovidencia es una iniciativa destinada a mejorar la seguridad y la soberanía alimentarias en las islas de Providencia. Creada en 2019, se centra en empoderar a las familias agricultoras locales a través de la educación, la gestión de proyectos y la participación de la comunidad. La iniciativa promueve el cultivo de cosechas tradicionales, apoya los mercados locales y fomenta la transferencia generacional de conocimientos entre niños y adultos. Mediante la colaboración con diversas organizaciones, Agroprovidencia busca revitalizar las prácticas agrícolas y garantizar la producción sostenible de alimentos para la comunidad.",
     "de": "Agroprovidencia ist eine Initiative zur Verbesserung der Ernährungssicherheit und -souveränität auf den Inseln von Providencia. Die 2019 gegründete Initiative konzentriert sich auf die Stärkung lokaler Bauernfamilien durch Bildung, Projektmanagement und kommunales Engagement. Die Initiative fördert den Anbau traditioneller Feldfrüchte, unterstützt lokale Märkte und fördert den generationalen Wissenstransfer unter Kindern und Erwachsenen. Durch die Zusammenarbeit mit verschiedenen Organisationen will Agroprovidencia die landwirtschaftlichen Praktiken wiederbeleben und eine nachhaltige Nahrungsmittelproduktion für die Gemeinde sicherstellen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "es": "Agroprovidencia",
-    "en": "Agroprovidencia",
-    "fr": "Agroprovidencia",
-    "de": "Agroprovidencia"
-  },
+  "name": "Agroprovidencia",
   "pubId": 468152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Sjgreen"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/agroprovidenciassociation/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-492",
+  "entityDescription": "Agricultural cooperative in Providencia Island promoting traditional Raizal food production and cultural preservation through farming and education.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Large",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Goods & Products"
 }

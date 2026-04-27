@@ -6,7 +6,9 @@
     "contact_url": ""
   },
   "continent": [],
-  "country": ["morocco"],
+  "country": [
+    "morocco"
+  ],
   "createdAt": 1739871726,
   "date": null,
   "description": {
@@ -15,16 +17,12 @@
     "es": "Zitouna Life es una granja agroecológica situada a unos 60 kilómetros de Rabat, en una región semiárida. La explotación, de 4 hectáreas, se fundó en 2020 y destaca por su compromiso con la promoción de prácticas agrícolas sostenibles y respetuosas con el medio ambiente, en particular mediante la cría de pollos y el cultivo de algarrobos e higueras. La granja utiliza técnicas de optimización del agua para hacer frente a los retos climáticos y a la sequía, al tiempo que crea un espacio verde en medio de un entorno degradado. Además de sus actividades agrícolas, la granja es activa en las redes sociales, concienciando al público sobre las prácticas ecológicas y compartiendo consejos sobre agroecología.",
     "de": "Zitouna Life ist ein Agrarökologiebetrieb, der sich etwa 60 km von Rabat entfernt in einer semiariden Region befindet. Der 4 Hektar große Betrieb wurde 2020 gegründet und zeichnet sich durch sein Engagement für die Förderung nachhaltiger, umweltfreundlicher landwirtschaftlicher Praktiken aus, insbesondere durch die Zucht von Ziegen und den Anbau von Karob- und Feigenbäumen. Die Farm nutzt Wasseroptimierungstechniken, um klimatischen Herausforderungen und Dürre zu begegnen und gleichzeitig einen grünen Raum inmitten einer degradierten Umwelt zu schaffen. Zusätzlich zu seinen landwirtschaftlichen Aktivitäten ist der Hof in sozialen Netzwerken aktiv, um das öffentliche Bewusstsein für ökologische Praktiken zu schärfen und Ratschläge zur Agrarökologie weiterzugeben."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "it": "Zitouna Life",
-    "en": "Zitouna Life",
-    "fr": "Zitouna Life",
-    "es": "Vida en Zitouna",
-    "de": "Zitouna Leben"
-  },
+  "name": "zitouna life",
   "pubId": 442652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +32,13 @@
       "lastname": "Socioscope"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://zitounalife.com/",
   "yt": "xgQshnrEiRQ",
   "originalLang": "fr",
@@ -214,5 +216,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MA-005",
+  "entityDescription": "Agroecological farm practicing agroforestry and sustainable agriculture with strong social media presence for education and outreach.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

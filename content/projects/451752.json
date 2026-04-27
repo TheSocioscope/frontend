@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754421256,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El Catena Institute of Wine, una rama de la renombrada empresa vinícola argentina Catena Zapata, se centra en mejorar la calidad del vino a través de la investigación científica y la innovación. Fundado por la familia Catena, su objetivo es posicionar los vinos argentinos a escala mundial, abordando al mismo tiempo los retos de la sostenibilidad y el cambio climático. El instituto colabora con diversas instituciones académicas y de investigación para desarrollar nuevas técnicas en viticultura, asegurando el futuro de la vinicultura en Argentina y promoviendo el legado de la variedad Malbec.",
     "de": "Das Catena Institute of Wine, ein Arm des renommierten argentinischen Winzerunternehmens Catena Zapata, konzentriert sich auf die Verbesserung der Weinqualität durch wissenschaftliche Forschung und Innovation. Das von der Familie Catena gegründete Institut zielt darauf ab, argentinische Weine global zu positionieren und gleichzeitig die Herausforderungen der Nachhaltigkeit und des Klimawandels zu bewältigen. Das Institut arbeitet mit verschiedenen akademischen und Forschungsinstitutionen zusammen, um neue Techniken im Weinbau zu entwickeln, die Zukunft des Weinbaus in Argentinien zu sichern und das Erbe der Sorte Malbec zu fördern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Catena Institute of Wine",
-    "fr": "Catena Institute of Wine",
-    "es": "Instituto del Vino de Catena",
-    "de": "Catena Institute of Wine"
-  },
+  "name": "Catena Institute of Wine",
   "pubId": 451752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Buscema"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.catenainstitute.com/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-048",
+  "entityDescription": "Research institute within a family winery conducting scientific research to produce world-class Argentine wines for 200 years.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Knowledge & Information"
 }

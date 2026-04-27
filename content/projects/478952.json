@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["sri-lanka"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "sri-lanka"
+  ],
   "createdAt": 1754653620,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Eko Land Produce es una empresa de exportación ecológica con sede en Sri Lanka, especializada en especias de cultivo ecológico como pimienta, canela y nuez moscada. Fundada durante la pandemia, su objetivo es apoyar a los agricultores locales garantizándoles precios justos y prácticas sostenibles. La iniciativa hace hincapié en la protección del medio ambiente y el bienestar de la comunidad, al tiempo que promueve el agroturismo. Al integrar la agricultura ecológica con el ecoturismo, Eko Land pretende mostrar el potencial de Sri Lanka para la producción de especias de alta calidad y fomentar una cadena de suministro responsable.",
     "de": "Eko Land Produce ist ein umweltfreundliches Exportunternehmen mit Sitz in Sri Lanka, das sich auf biologisch angebaute Gewürze wie Pfeffer, Zimt und Muskatnuss spezialisiert hat. Das Unternehmen wurde während der Pandemie gegründet und hat sich zum Ziel gesetzt, die lokalen Landwirte zu unterstützen, indem es für faire Preise und nachhaltige Praktiken sorgt. Die Initiative legt den Schwerpunkt auf den Umweltschutz und das Wohlergehen der Gemeinschaft, fördert aber auch den Agrotourismus. Durch die Verbindung von ökologischem Landbau und Ökotourismus will Eko Land das Potenzial Sri Lankas für die Produktion hochwertiger Gewürze aufzeigen und eine verantwortungsvolle Lieferkette fördern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Eko Land",
-    "fr": "Eko Land ",
-    "es": "Eko Land",
-    "de": "Eko Land"
-  },
+  "name": "Eko Land",
   "pubId": 478952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Lawton, Timothy Bennet"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.ekoland.lk/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "LK-005",
+  "entityDescription": "Small-scale organic spice producer and exporter from Sri Lanka combining sustainable farming with eco-tourism operations.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

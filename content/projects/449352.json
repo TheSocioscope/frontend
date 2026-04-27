@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["united-kingdom"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "united-kingdom"
+  ],
   "createdAt": 1739456677,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa Zero Dig, con sede en Stroud, es una organización sin ánimo de lucro centrada en la agricultura sostenible mediante un método conocido como \"excavación cero\" o \"sin excavación\". Este enfoque hace hincapié en la mínima perturbación del suelo, preservando la red de micelio y fomentando la biodiversidad, lo que mejora la densidad de nutrientes en los cultivos. Fundada por el filántropo Mario, que buscaba utilizar su riqueza de forma significativa después de la crisis, la iniciativa pretende producir alimentos de alta calidad a nivel local, fomentando al mismo tiempo el compromiso de la comunidad y la creación de empleo.\n\nLa organización funciona con un modelo que combina la investigación científica con estrategias empresariales, lo que le permite explorar asociaciones comerciales y ampliar su alcance. Zero Dig ha establecido relaciones con restaurantes locales y ha empezado a atraer la atención de entidades más grandes, incluidas posibles colaboraciones con supermercados y urbanizaciones. La iniciativa también se centra en educar a la comunidad sobre los beneficios de los alimentos ricos en nutrientes y las prácticas agrícolas sostenibles.",
     "de": "Die in Stroud ansässige Zero Dig Initiative ist eine gemeinnützige Organisation, die sich auf nachhaltige Landwirtschaft durch eine Methode konzentriert, die als \"zero dig\" oder \"no dig\" bekannt ist. Dieser Ansatz betont die minimale Störung des Bodens, bewahrt das Myzelium-Netzwerk und fördert die Artenvielfalt, die die Nährstoffdichte in den Kulturen erhöht. Die Initiative wurde von dem Philanthropen Mario gegründet, der sein Vermögen nach dem Tod des Präsidenten sinnvoll einsetzen wollte. Ziel der Initiative ist es, hochwertige Lebensmittel vor Ort zu produzieren und gleichzeitig das Engagement der Gemeinschaft und die Schaffung von Arbeitsplätzen zu fördern.\n\nDie Organisation arbeitet nach einem Modell, das wissenschaftliche Forschung mit unternehmerischen Strategien verbindet und es ihr ermöglicht, kommerzielle Partnerschaften zu erforschen und ihre Reichweite zu erweitern. Zero Dig hat Beziehungen zu lokalen Restaurants aufgebaut und begonnen, die Aufmerksamkeit größerer Unternehmen auf sich zu ziehen, darunter potenzielle Kooperationen mit Supermärkten und Wohnungsbauprojekten. Die Initiative konzentriert sich auch auf die Aufklärung der Gemeinde über die Vorteile von nährstoffreichem Essen und nachhaltigen landwirtschaftlichen Praktiken."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Zero Dig",
-    "fr": "Zero Dig",
-    "es": "Cero Dig",
-    "de": "Zero Dig"
-  },
+  "name": "Zero Dig",
   "pubId": 449352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Peters"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://zerodig.earth/",
   "yt": "4eDEhkyVytk",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "GB-003",
+  "entityDescription": "A non-profit social enterprise developing scalable no-dig regenerative farming systems with open-source sharing and social employment focus.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Health & Nutrition",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1754564984,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ark es un restaurante basado en plantas, centrado en la sostenibilidad y la cocina innovadora. Fundado en 2020, pasó de ser una cafetería vegana informal a convertirse en un restaurante de alta cocina, impulsado por su compromiso con los ingredientes de alta calidad y la minimización de residuos. El restaurante hace hincapié en el abastecimiento local y la búsqueda de alimentos, creando una experiencia gastronómica única que desafía las percepciones de la comida basada en plantas. Con múltiples premios, Ark aspira a redefinir la excelencia culinaria al tiempo que promueve la responsabilidad medioambiental.         ",
     "de": "Ark ist ein Restaurant auf Plantagenbasis, das sich auf Nachhaltigkeit und innovative Küche konzentriert. Es wurde 2020 gegründet und entwickelte sich von einem lässigen veganen Café zu einem feinen Ess-Erlebnis, das von einem Engagement für hochwertige Zutaten und Abfallminimierung geprägt ist. Das Restaurant legt großen Wert auf lokale Beschaffung und Forstwirtschaft und schafft so ein einzigartiges Ess-Erlebnis, das die Vorstellungen von pflanzlichen Lebensmitteln herausfordert. Mit mehreren Auszeichnungen möchte Ark die kulinarische Exzellenz neu definieren und gleichzeitig die Umweltverantwortung fördern.         "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ark",
-    "fr": "Ark ",
-    "es": "Arca",
-    "de": "Ark"
-  },
+  "name": "Ark",
   "pubId": 462052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Renwick"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.restaurantark.dk/sustainability",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-079",
+  "entityDescription": "Fine dining plant-based restaurant group in Copenhagen with three restaurants, street food, and two mushroom farms.",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Waste & Circular Economy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

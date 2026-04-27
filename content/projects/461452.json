@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754563533,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Roll Food es una empresa innovadora fundada hace menos de cinco años, centrada en el procesamiento sostenible de alimentos. Surgió de un proyecto de cooperativas en Argentina, con el objetivo de revitalizar las economías locales mediante la utilización de productos desechados. Con un compromiso con la calidad, Roll Food se especializa en productos deshidratados y enlatados, aprovechando la tecnología avanzada y la energía renovable. La empresa hace hincapié en democratizar el acceso a alimentos sanos manteniendo al mismo tiempo unos estándares elevados, y ha recibido múltiples premios por sus contribuciones a la industria alimentaria.",
     "de": "Roll Food ist ein innovatives Unternehmen, das vor knapp fünf Jahren gegründet wurde und sich auf die nachhaltige Verarbeitung von Lebensmitteln konzentriert. Es entstand aus einem Projekt, an dem Genossenschaften in Argentinien beteiligt waren und das darauf abzielte, die lokale Wirtschaft durch die Verwendung von Abfallprodukten wiederzubeleben. Mit einem Bekenntnis zur Qualität spezialisiert sich Roll Food auf dehydrierte und Rohrzuckerprodukte und setzt dabei auf fortschrittliche Technologien und erneuerbare Energien. Das Unternehmen betont die Demokratisierung des Zugangs zu gesunden Lebensmitteln unter Wahrung hoher Standards und hat für seine Beiträge zur Lebensmittelindustrie zahlreiche Auszeichnungen erhalten."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Roll Food",
-    "fr": "Roll Food",
-    "es": "Roll Food",
-    "de": "Roll Food"
-  },
+  "name": "Roll Food",
   "pubId": 461452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://rollfood.com.ar/",
   "yt": "6bvQkp2xKXE",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-146",
+  "entityDescription": "Industrial food processor specializing in sustainable dehydrated products using self-designed machinery and recovered raw materials.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["oceania"],
-  "country": ["new-zealand"],
+  "continent": [
+    "oceania"
+  ],
+  "country": [
+    "new-zealand"
+  ],
   "createdAt": 1739457717,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El proyecto Te Kakano se centra principalmente en la restauración de hábitats y la participación comunitaria en Nueva Zelanda. Se inició hace unos 16 años con el objetivo de reintroducir plantas autóctonas y restaurar ecosistemas alterados o dañados por el paso del tiempo. El proyecto hace hincapié en la importancia de conectar a la comunidad local con su entorno implicándola en actividades prácticas como la plantación y el cuidado de plantas autóctonas. La iniciativa también se centra en el abastecimiento ecológico, utilizando semillas de origen local para garantizar que las plantas se adapten bien al clima y al ecosistema locales. Mediante programas educativos y oportunidades de voluntariado, Te Kakano pretende fomentar un sentimiento de propiedad y administración entre los miembros de la comunidad, contribuyendo en última instancia a preservar la flora y fauna únicas de Nueva Zelanda.",
     "de": "Das Te Kakano-Projekt befasst sich in erster Linie mit der Wiederherstellung von Lebensräumen und dem Engagement der Gemeinschaft in Neuseeland. Es wurde vor etwa 16 Jahren mit dem Ziel initiiert, einheimische Pflanzen wieder einzuführen und Ökosysteme wiederherzustellen, die im Laufe der Zeit verändert oder geschädigt wurden. Das Projekt betont die Wichtigkeit, die lokale Gemeinschaft mit ihrer Umwelt zu verbinden, indem man sie in Hands-on-Aktivitäten wie Pflanzung und Pflege einheimischer Pflanzen einbezieht. Die Initiative konzentriert sich auch auf Öko-Sourcing, indem sie lokal geerntetes Saatgut verwendet, um sicherzustellen, dass die Pflanzen gut an das lokale Klima und Ökosystem angepasst sind. Durch Bildungsprogramme und Freiwilligenarbeit will Te Kakano ein Gefühl der Eigenverantwortung und Fürsorge unter den Gemeindemitgliedern fördern und so letztendlich zum Erhalt der einzigartigen Flora und Fauna Neuseelands beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Te Kakano",
-    "fr": "Te Kakano",
-    "es": "Te Kakano",
-    "de": "Te Kakano"
-  },
+  "name": "TE KAKANO",
   "pubId": 440052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "& Kris & Loran"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://tekakano.org.nz/",
   "yt": "zFv0O65Ve5c",
   "originalLang": "fr",
@@ -203,5 +208,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "NZ-002",
+  "entityDescription": "Community native plant nursery that grows local New Zealand plants and restores native ecosystems through volunteer-led habitat restoration projects.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

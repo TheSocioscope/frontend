@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754909681,
   "date": null,
   "description": {
@@ -15,15 +19,14 @@
     "es": "Veragrow es una start-up innovadora con sede en Normandía, fundada en 2019 por tres ingenieros apasionados por el impacto ecológico. Se especializan en la creación de bioestimulantes derivados del compost de lombriz, con el objetivo de mejorar la productividad agrícola al tiempo que promueven la sostenibilidad. Sus productos estrella, Veraspida y Veralif, mejoran el crecimiento de las plantas y su resiliencia frente al estrés ambiental. Centrada en la investigación y la colaboración, Veragro está preparada para crecer, dirigiéndose a los mercados locales e internacionales para revolucionar las prácticas agrícolas.",
     "de": "Veragrow ist ein innovatives Start-up-Unternehmen mit Sitz in der Normandie, das 2019 von drei Ingenieuren gegründet wurde, die sich für ökologische Auswirkungen begeistern. Sie haben sich auf die Entwicklung von Biostimulanzien auf Basis von Regenwurmkompost spezialisiert, um die landwirtschaftliche Produktivität zu steigern und gleichzeitig die Nachhaltigkeit zu fördern. Ihre Vorzeigeprodukte, Veraspida und Veralif, verbessern das Pflanzenwachstum und die Widerstandsfähigkeit gegenüber Umweltbelastungen. Mit dem Schwerpunkt auf Forschung und Zusammenarbeit ist Veragro auf Wachstum eingestellt und zielt sowohl auf lokale als auch internationale Märkte ab, um die landwirtschaftlichen Praktiken zu revolutionieren."
   },
-  "field": ["nutrition", "engineering-and-technology", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "engineering-and-technology",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Veragrow",
-    "fr": "Veragrow",
-    "es": "Veragrow",
-    "de": "Veragrow"
-  },
+  "name": "VeraGrow",
   "pubId": 483252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +36,14 @@
       "lastname": "Thierry"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://veragrow.fr/contact/",
   "yt": "xkp2HNiJiDI",
   "originalLang": "fr",
@@ -203,5 +211,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-158",
+  "entityDescription": "A startup that produces biostimulant agricultural solutions made from vermicompost to improve plant growth and stress resistance.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

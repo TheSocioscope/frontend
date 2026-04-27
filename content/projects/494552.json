@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1755006664,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Keclon es una empresa de biotecnología fundada en 2011 por científicos del CONICET, centrada en el desarrollo de biosoluciones, en particular enzimas, para mejorar los procesos industriales de producción de alimentos. Mediante la mejora de la eficiencia y la reducción del impacto ambiental, Keclon pretende transformar la industria alimentaria al tiempo que aborda los retos de la sostenibilidad. La empresa opera una planta de fermentación única en San Lorenzo, Argentina, y está comprometida con la innovación, la colaboración con el cliente y la expansión de su presencia en el mercado tanto a nivel local como internacional.",
     "de": "Keclon ist ein Biotechnologieunternehmen, das 2011 von Wissenschaftlern des CONICET gegründet wurde und sich auf die Entwicklung von Biolösungen, insbesondere Enzymen, konzentriert, um industrielle Lebensmittelproduktionsprozesse zu verbessern. Durch die Verbesserung der Effizienz und die Verringerung der Umweltauswirkungen will Keclon die Lebensmittelindustrie verändern und sich gleichzeitig den Herausforderungen der Nachhaltigkeit stellen. Das Unternehmen betreibt eine einzigartige Fermentationsanlage in San Lorenzo, Argentinien, und engagiert sich für Innovation, die Zusammenarbeit mit Kunden und die Ausweitung seiner Marktpräsenz sowohl auf lokaler als auch auf internationaler Ebene."
   },
-  "field": ["biology", "nutrition"],
+  "field": [
+    "biology",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Keclon",
-    "fr": "Keclon",
-    "es": "Keclon",
-    "de": "Keclon"
-  },
+  "name": "Keclon",
   "pubId": 494552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,13 @@
       "lastname": "Tan (founder, based in LA)"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://keclon.com/",
   "yt": "QhkwF3ob22g",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-077",
+  "entityDescription": "Argentina's first technology-based company from CONICET developing biotechnological solutions, specifically enzymes, for food industry processes.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Public-private partnership",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

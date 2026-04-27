@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739449535,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Nona es una iniciativa de nueva creación que pretende transformar el sector de la restauración, en particular el de los comedores, mediante una aplicación de gestión integral. La iniciativa pretende ofrecer apoyo operativo a los comedores optimizando sus pedidos de comida, el diseño de menús y los procesos generales de gestión. La aplicación de Nona sirve de herramienta centralizada que conecta a los cocineros de los comedores con los proveedores locales, permitiéndoles acceder a una amplia base de datos de productos alimentarios, incluidas opciones estacionales y sostenibles.\n\nLa iniciativa también se centra en fomentar la colaboración entre diversas partes interesadas, como autoridades locales, productores y proveedores, para crear un ecosistema de apoyo a los comedores.\n\nAdemás, Nona lleva a cabo evaluaciones de las prácticas de compra en los comedores, realiza un seguimiento estadístico y ayuda en la adquisición de equipos para facilitar la transición a prácticas alimentarias sostenibles. Al reunir a todos los agentes implicados en la cadena de suministro alimentario, Nona pretende crear asociaciones que mejoren la calidad y la sostenibilidad de las comidas servidas en los comedores, contribuyendo en última instancia a una transición alimentaria más amplia en la sociedad.",
     "de": "Nona ist eine Start-up-Initiative, die darauf abzielt, die Cateringbranche, insbesondere in Kantinen, durch eine umfassende Managementanwendung umzugestalten. Die Initiative will Kantinen operativ unterstützen, indem sie die Bestellung von Lebensmitteln, die Gestaltung von Menüs und allgemeine Managementprozesse optimiert. Nonas Anwendung dient als zentrales Werkzeug, das die Küchenchefs mit lokalen Lieferanten verbindet und ihnen den Zugriff auf eine große Datenbank mit Lebensmitteln ermöglicht, darunter auch saisonale und nachhaltige Optionen.\n\nDie Initiative konzentriert sich auch auf die Förderung der Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter lokale Behörden, Produzenten und Lieferanten, um ein unterstützendes Ökosystem für Kantinen zu schaffen.\n\nDarüber hinaus führt Nona Bewertungen der Einkaufspraktiken von Kantinen durch, bietet statistisches Monitoring und unterstützt die Beschaffung von Geräten, um den Übergang zu nachhaltigen Ernährungspraktiken zu erleichtern. Durch die Zusammenführung aller an der Lebensmittelversorgungskette beteiligten Akteure will Nona Partnerschaften aufbauen, die die Qualität und Nachhaltigkeit der in Kantinen servierten Mahlzeiten verbessern und so letztendlich zu einem breiteren Übergang von Lebensmitteln in der Gesellschaft beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Nona",
-    "fr": "Nona",
-    "es": "Nona",
-    "de": "Nona"
-  },
+  "name": "Nona",
   "pubId": 446652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Sibille"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.nona.fr",
   "yt": "uuyEkNVaVZo",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-006",
+  "entityDescription": "Software company providing digital management tools and consulting to help collective catering kitchens transition to sustainable food practices.",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

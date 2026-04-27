@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["philippines"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "philippines"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A natural aquaculture facility where fish farmers work with marine biologists to maintain balance across species in a 'sea-cological' system.",
     "de": "A natural aquaculture facility where fish farmers work with marine biologists to maintain balance across species in a 'sea-cological' system."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "Saravia, Negros Occidental",
-  "name": {
-    "en": "7 Hectares",
-    "fr": "7 Hectares",
-    "es": "7 Hectáreas",
-    "de": "7 Hektar"
-  },
+  "name": "7 Hectares",
   "pubId": 507652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Torno"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/7Hectares/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PH-011",
+  "entityDescription": "Sustainable aquaculture farm using ecosystem-based approach with natural feeding through kitchen ponds for marine species conservation.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1741093959,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Eat Wasted se centra en abordar el despilfarro de alimentos y la inseguridad alimentaria transformando el pan desechado en pasta. Inspirado en historias personales y en el compromiso con la sostenibilidad, su objetivo es crear una comunidad en torno a comidas compartidas y conexiones significativas. El proyecto comenzó con cenas a pequeña escala para probar el producto y fomentar el compromiso de la comunidad. A medida que crecía el interés, la iniciativa amplió su alcance, colaborando con panaderías y chefs locales para perfeccionar su oferta. En última instancia, pretende ampliar la producción manteniendo su misión de reducir los residuos y atender a los necesitados.",
     "de": "Eat Wasted konzentriert sich auf die Bekämpfung von Lebensmittelabfällen und Ernährungsunsicherheit durch die Verarbeitung von ausrangiertem Brot zu Pasta. Inspiriert von persönlichen Geschichten und einem Bekenntnis zur Nachhaltigkeit soll eine Gemeinschaft rund um gemeinsame Mahlzeiten und sinnvolle Verbindungen geschaffen werden. Das Projekt begann mit kleinräumigen Abendessen, um das Produkt zu testen und das Engagement der Gemeinschaft zu fördern. Als das Interesse wuchs, weitete die Initiative ihre Reichweite aus und arbeitete mit lokalen Bäckereien und Köchen zusammen, um ihre Angebote zu überarbeiten. Letztendlich strebt sie eine Skalierung der Produktion an, während sie ihre Mission, Abfall zu reduzieren und Bedürftige zu betreuen, beibehält."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "Eat Wasted",
-    "fr": "Eat Wasted",
-    "es": "Comer desperdiciado",
-    "de": "Eat Wasted"
-  },
+  "name": "Eat Wasted",
   "pubId": 454052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Friedmann"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://eatwasted.com/pages/wasted-pasta",
   "yt": "rUg0NbXD6pE",
   "originalLang": "fr",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-027",
+  "entityDescription": "Social venture producing pasta from bread waste with giving model to feed food insecure communities.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

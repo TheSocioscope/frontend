@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ecozen develops climate-smart agriculture solutions including Ecofrost solar-powered cold-storage and Ecotron intelligent solar pump controller.",
     "de": "Ecozen develops climate-smart agriculture solutions including Ecofrost solar-powered cold-storage and Ecotron intelligent solar pump controller."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ecozen",
-    "fr": "Ecozen",
-    "es": "Ecozen",
-    "de": "Ecozen"
-  },
+  "name": "Ecozen",
   "pubId": 503952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Singhal"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.ecozensolutions.com/about-us",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-025",
+  "entityDescription": "Clean technology company developing solar-powered irrigation systems and cold storage solutions for farmers and decentralized energy applications.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Energy"
+  ],
+  "resourceType": "Goods & Products"
 }

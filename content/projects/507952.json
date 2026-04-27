@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "paraguay"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ñandete produces yerba mate and herbal blends sustainably, partnering with local producers and the Moisés Bertoni Foundation.",
     "de": "Ñandete produces yerba mate and herbal blends sustainably, partnering with local producers and the Moisés Bertoni Foundation."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Asunción, Paraguay",
-  "name": {
-    "en": "Ñandete",
-    "fr": "Ñandete",
-    "es": "Ñandete",
-    "de": "Ñandete"
-  },
+  "name": "Ñandete",
   "pubId": 507952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Snaider"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.nandete.com/blank-3",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PY-014",
+  "entityDescription": "Paraguayan company producing functional herbal tea blends and organic yerba mate using natural ingredients and biodegradable packaging.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

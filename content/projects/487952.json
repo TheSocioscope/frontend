@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754987015,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en transformar los residuos orgánicos en humus mediante diversos métodos de compostaje, como el anaeróbico, el aeróbico y la lombricultura. Hace hincapié en la participación de la comunidad, la sostenibilidad y la importancia de mantener buenas relaciones con los vecinos y la familia. Al fomentar la cooperación y la concienciación, la iniciativa pretende promover la soberanía alimentaria y la responsabilidad medioambiental, reconectando en última instancia a las personas con la naturaleza y su papel dentro del ecosistema.",
     "de": "Die Initiative konzentriert sich auf die Umwandlung von organischen Abfällen in Humus durch verschiedene Kompostierungsmethoden, darunter anaerobe Kompostierung, aerobe Kompostierung und Vermiculture. Der Schwerpunkt liegt auf der Einbeziehung der Gemeinschaft, der Nachhaltigkeit und der Bedeutung guter Beziehungen zu Nachbarn und Familie. Durch die Förderung der Zusammenarbeit und des Bewusstseins zielt die Initiative darauf ab, Ernährungssouveränität und ökologisches Verantwortungsbewusstsein zu fördern und letztlich den Einzelnen wieder mit der Natur und seiner Rolle im Ökosystem zu verbinden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Sembramos",
-    "fr": "Sembramos",
-    "es": "Sembramos",
-    "de": "Sembramos"
-  },
+  "name": "Sembramos",
   "pubId": 487952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Gomez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://sembramos.com.co/",
   "yt": "-2Hv6431twU",
   "originalLang": "fr",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-300",
+  "entityDescription": "Urban eco-commerce and composting company selling plants, organic products and teaching environmental practices in Medellín",
+  "entityRole": [
+    "Retail",
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754908426,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa Greniers d'Abondance, creada en 2019, se centra en mejorar la resiliencia alimentaria en los territorios locales. Lleva a cabo investigaciones, produce recursos accesibles y apoya a las partes interesadas en el sistema alimentario. La iniciativa tiene como objetivo empoderar a las autoridades y comunidades locales proporcionando herramientas y conocimientos para abordar los desafíos de la seguridad alimentaria, particularmente en el contexto del cambio climático. Mediante esfuerzos de colaboración, fomenta la concienciación y la defensa de prácticas alimentarias sostenibles en diversas regiones.",
     "de": "Die 2019 gegründete Initiative Greniers d'Abondance konzentriert sich auf die Stärkung der Widerstandsfähigkeit von Lebensmitteln in lokalen Gebieten. Sie führt Forschung durch, produziert zugängliche Ressourcen und unterstützt Stakeholder im Ernährungssystem. Die Initiative zielt darauf ab, lokale Behörden und Gemeinden zu stärken, indem sie Werkzeuge und Wissen bereitstellt, um Herausforderungen der Ernährungssicherheit, insbesondere im Kontext des Klimawandels, zu bewältigen. Through collaborative efforts, it fosters awareness and advocacy for sustainable food practices across various regions."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "fr": "Les Greniers d'Abondance",
-    "en": "Les Greniers d'Abondance",
-    "es": "Les Greniers d'Abondance",
-    "de": "Les Greniers d'Abondance (Die Kornkammern von Abondance)"
-  },
+  "name": "Les Greniers d'Abondance",
   "pubId": 472552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Anh Vu Huong"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://resiliencealimentaire.org/",
   "yt": "G5CK_zcqNiI",
   "editedAt": 1755735379,
@@ -45,7 +50,9 @@
       "at": 1755735379
     }
   ],
-  "updatedAt": [1755735379],
+  "updatedAt": [
+    1755735379
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +228,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-118",
+  "entityDescription": "Association qui fait de la recherche et produit des ressources gratuites pour augmenter la résilience alimentaire des territoires.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Knowledge & Information"
 }

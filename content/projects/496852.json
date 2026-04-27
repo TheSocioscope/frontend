@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755088108,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Agrayu es una plataforma innovadora, destinada a mejorar la rentabilidad de los agricultores familiares de Perú. Al proporcionar insumos agrícolas trazables y asesoramiento técnico personalizado, Agrayu empodera a los agricultores a través de programas agrícolas especializados. La iniciativa pretende democratizar la competitividad agrícola, garantizando que los pequeños agricultores tengan acceso a los mismos recursos que las grandes empresas agrícolas. Centrada en la sostenibilidad y el impacto comunitario, Agros está transformando el panorama agrícola para innumerables familias.",
     "de": "Agrayu ist eine innovative Plattform, die darauf abzielt, die Rentabilität von Familienbetrieben in Peru zu steigern. Durch die Bereitstellung von rückverfolgbaren landwirtschaftlichen Betriebsmitteln und maßgeschneiderter technischer Beratung stärkt Agrayu die Landwirte durch spezialisierte Agrarprogramme. Die Initiative zielt darauf ab, die Wettbewerbsfähigkeit der Landwirtschaft zu demokratisieren und sicherzustellen, dass Kleinbauern Zugang zu denselben Ressourcen haben wie größere Agrarunternehmen. Mit dem Schwerpunkt auf Nachhaltigkeit und Auswirkungen auf die Gemeinschaft verändert Agros die landwirtschaftliche Landschaft für unzählige Familien."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Agrayu",
-    "fr": "Agrayu",
-    "es": "Agrayu",
-    "de": "Agrayu"
-  },
+  "name": "Agrayu",
   "pubId": 496852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "PIÑARRETA MEZA"
     }
   ],
-  "thematic": ["economy-business-markets-finance", "food-agriculture-fishery"],
+  "thematic": [
+    "economy-business-markets-finance",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://agros.tech/",
   "yt": "NPTaVn3ptnY",
   "editedAt": 1756738118,
@@ -45,7 +51,9 @@
       "at": 1756738118
     }
   ],
-  "updatedAt": [1756738118],
+  "updatedAt": [
+    1756738118
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +229,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-011",
+  "entityDescription": "Agricultural technology platform providing technical assistance and agricultural inputs to family farmers through voice-based digital identity system and franchise distribution model",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

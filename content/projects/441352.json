@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739462258,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, Trulab, es una consultora y aceleradora con sede en Cali, Colombia, centrada en potenciar modelos de negocio sostenibles dentro del sector alimentario. Creada hace ocho años, Trulab pretende apoyar a las pequeñas empresas emergentes relacionadas con la alimentación proporcionándoles asistencia técnica, fomentando los vínculos empresariales y facilitando la financiación de impacto. La organización hace hincapié en una distribución justa de los beneficios a lo largo de la cadena de producción alimentaria y ha conseguido aumentar los ingresos de sus clientes en un 20%. Trulab opera con un equipo de 35 a 50 profesionales contratados que se relacionan directamente con los beneficiarios en diversas regiones, ofreciéndoles apoyo y orientación personalizados. La iniciativa está comprometida con la generación de un impacto social medible y aspira a movilizar una inversión significativa en los próximos años, al tiempo que mantiene una estructura organizativa flexible y horizontal para adaptarse a los retos del panorama empresarial en Colombia.",
     "de": "The initiative, Trulab, is a consultancy and accelerator based in Cali, Colombia, focused on enhancing sustainable business models within the food sector. Trulab wurde vor acht Jahren gegründet und soll kleine und aufstrebende Lebensmittelunternehmen unterstützen, indem es technische Hilfe leistet, Geschäftsverbindungen fördert und die Finanzierung von Auswirkungen erleichtert. Die Organisation legt Wert auf eine gerechte Verteilung der Vorteile in der gesamten Nahrungsmittelproduktionskette und hat das Einkommen ihrer Kunden erfolgreich um 20% gesteigert. Trulab arbeitet mit einem Team aus 35 bis 50 vertraglich gebundenen Fachkräften, die in verschiedenen Regionen direkt mit den Begünstigten in Kontakt treten und persönliche Unterstützung und Beratung anbieten. The initiative is committed to generating measurable social impact and aims to mobilize significant investment in the coming years, while maintaining a flexible and horizontal organizational structure to adapt to the challenges of the entrepreneurial landscape in Colombia."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Trulab",
-    "fr": "Trulab",
-    "es": "Trulab",
-    "de": "Trulab"
-  },
+  "name": "TRULAB",
   "pubId": 441352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Gomez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://trulab.co/en/",
   "yt": "a_TRyi-3LCM",
   "editedAt": 1741098672,
@@ -45,7 +50,9 @@
       "at": 1741098672
     }
   ],
-  "updatedAt": [1741098672],
+  "updatedAt": [
+    1741098672
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +228,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-062",
+  "entityDescription": "A food system accelerator providing business strengthening, commercial linkages, and impact investment to small agri-food enterprises in Colombia.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Services"
 }

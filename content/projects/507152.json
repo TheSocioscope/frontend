@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Preservados revitalizes ancestral food processing techniques using wind, temperatures, solar radiation and water to guarantee survival of harvests.",
     "de": "Preservados revitalizes ancestral food processing techniques using wind, temperatures, solar radiation and water to guarantee survival of harvests."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "es",
   "location": "Cusco, Lima",
-  "name": {
-    "en": "Preservados",
-    "fr": "Preservados",
-    "es": "Preservados",
-    "de": "Preservados"
-  },
+  "name": "Preservados",
   "pubId": 507152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "MARTINEZ VELIZ"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://materiniciativa.com/proyectos/preservados",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-132",
+  "entityDescription": "Research project recovering ancestral food preservation techniques to transform and store agricultural products while creating innovative culinary ingredients.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Knowledge & Information"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754993928,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "La iniciativa, Santo Aroma, se centra en transformar el cacao en productos de chocolate de alta calidad, proporcionando a los agricultores una alternativa sostenible al cultivo tradicional del café. Al pasar del café al cacao debido a los problemas climáticos, el proyecto hace hincapié en la producción local, los métodos artesanales y la participación de la comunidad. Participando en ferias y aprovechando la experiencia familiar, Santo Aroma pretende aumentar la visibilidad y el alcance del mercado, promoviendo opciones saludables de chocolate y apoyando al mismo tiempo la economía local.",
     "de": "Die Initiative Santo Aroma konzentriert sich auf die Verarbeitung von Kakao zu hochwertigen Schokoladenprodukten und bietet den Bauern eine nachhaltige Alternative zum traditionellen Kaffeeanbau. Das Projekt, das aufgrund der klimatischen Herausforderungen von Kaffee auf Kakao umgestellt wurde, legt den Schwerpunkt auf lokale Produktion, handwerkliche Methoden und das Engagement der Gemeinschaft. Durch die Teilnahme an Messen und die Nutzung des Fachwissens der Familie will Santo Aroma die Sichtbarkeit und die Marktreichweite erhöhen, gesunde Schokoladenoptionen fördern und gleichzeitig die lokale Wirtschaft unterstützen."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "pt": "Santo Aroma ",
-    "en": "Santo Aroma",
-    "fr": "Santo Aroma",
-    "es": "Santo Aroma",
-    "de": "Santo Aroma"
-  },
+  "name": "Santo Aroma",
   "pubId": 481352,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "Giraldo"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/ChocolatesSantoAroma",
   "yt": "3VSmWq2OtIk",
   "originalLang": "pt",
@@ -187,5 +193,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-510",
+  "entityDescription": "Family-owned chocolate company that grows cacao and transforms it into chocolate products including chocolate de mesa and chocolate bars.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

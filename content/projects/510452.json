@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A transport company supporting agricultural logistics and food distribution in the Breede Valley.",
     "de": "A transport company supporting agricultural logistics and food distribution in the Breede Valley."
   },
-  "field": ["economics-business"],
+  "field": [
+    "economics-business"
+  ],
   "lang": "en",
   "location": "Worcester",
-  "name": {
-    "en": "Pool Transport",
-    "fr": "Pool Transport",
-    "es": "Pool Transport",
-    "de": "Pool Transport"
-  },
+  "name": "Pool Transport",
   "pubId": 510452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Pieterse"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.pooltransport.co.za/index.php/pool-today/today",
   "yt": "",
   "originalLang": "en",
@@ -203,5 +208,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-033",
+  "entityDescription": "Private logistics company providing road transport services for food products and agricultural goods across South Africa",
+  "entityRole": [
+    "Distribution/Logistics"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Distribution & Logistics",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

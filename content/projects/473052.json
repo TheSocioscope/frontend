@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754568353,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Zuhura Solutions es una iniciativa innovadora centrada en la creación de carritos inteligentes de venta ambulante, conocidos como carritos Hallease, para empoderar a los vendedores de alimentos de Kenia. Estos carritos utilizan energías renovables, como la energía solar y el etanol, para ofrecer una solución de cocina sostenible al tiempo que mejoran la seguridad y la higiene de los alimentos. Al ofrecer un modelo de pago por uso, Zuhura permite a los vendedores pasar del carbón vegetal a una energía más limpia, mejorando en última instancia sus ingresos y contribuyendo a la sostenibilidad medioambiental.",
     "de": "Zuhura Solutions ist eine innovative Initiative, die sich auf die Entwicklung intelligenter Straßenverkaufstrolleys, den sogenannten Hallease Trolley, konzentriert, um die Lebensmittelverkäufer in Kenia zu stärken. Diese Trolleys nutzen erneuerbare Energie, einschließlich Solarenergie und Ethanol, um eine nachhaltige Kochlösung zu bieten und gleichzeitig die Lebensmittelsicherheit und -hygiene zu verbessern. Durch das Angebot eines Pay-as-you-go-Modells ermöglicht Zuhura den Verkäufern den Übergang von Kohle zu sauberer Energie, was letztendlich ihr Einkommen verbessert und zur ökologischen Nachhaltigkeit beiträgt."
   },
-  "field": ["engineering-and-technology", "nutrition"],
+  "field": [
+    "engineering-and-technology",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Zuhura Solutions",
-    "fr": "Zuhura Solutions",
-    "es": "Soluciones Zuhura",
-    "de": "Zuhura Lösungen"
-  },
+  "name": "Zuhura Solutions",
   "pubId": 473052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,13 @@
       "lastname": "KIBITI"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://zuhurasolutions.com/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-008",
+  "entityDescription": "A Kenyan startup developing solar-powered mobile food carts to help street food vendors transition away from charcoal cooking.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Energy",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

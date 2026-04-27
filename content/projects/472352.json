@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1754676500,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "Verdcamp Fruits es una empresa familiar de cinco generaciones situada cerca de Tarragona (España) y especializada en agricultura regenerativa. Con unas 300 hectáreas, han pasado de la agricultura convencional a la ecológica y ahora a la regenerativa. Sus técnicas innovadoras, como los cultivos intercalados florales y el laboreo mínimo, fomentan la biodiversidad y la salud del suelo. A pesar de producir hortalizas ecológicas de alta calidad, se enfrentan a problemas de valoración y fijación de precios en el mercado, y se esfuerzan por educar a los consumidores sobre los beneficios de sus prácticas sostenibles.",
     "de": "Verdcamp Fruits ist ein Fünf-Generationen-Familienunternehmen in der Nähe von Tarragona, Spanien, das sich auf regenerative Landwirtschaft spezialisiert hat. Mit rund 300 Hektar haben sie von konventionellen zu ökologischen und nun regenerativen Anbaumethoden gewechselt. Ihre innovativen Techniken, wie z. B. die blumige Zwischenfrucht und die Minimalbodenbearbeitung, fördern die Artenvielfalt und die Bodengesundheit. Trotz der Produktion von hochwertigem Biogemüse stehen sie vor Herausforderungen bei der Marktbewertung und Preisgestaltung und bemühen sich, die Verbraucher über die Vorteile ihrer nachhaltigen Praktiken aufzuklären."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nl": "Verdcamp Fruits",
-    "en": "Verdcamp Fruits",
-    "fr": "Verdcamp Fruits",
-    "es": "Verdcamp Frutas",
-    "de": "Verdcamp-Früchte"
-  },
+  "name": "Verdcamp Fruits",
   "pubId": 472352,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "Pieterse"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://verdcampfruits.com/es/",
   "yt": "",
   "originalLang": "fr",
@@ -205,5 +211,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-064",
+  "entityDescription": "Family-owned horticultural company transitioning from conventional to organic and regenerative farming practices across 300 hectares in Catalonia.",
+  "entityRole": [
+    "Primary Production"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

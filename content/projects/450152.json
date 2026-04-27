@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754404150,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Utmach es una iniciativa centrada en mejorar la gestión del suelo y la nutrición de las plantas en la agricultura, especialmente en cultivos como el plátano y el cacao. En estrecha colaboración con la Universidad Técnica de Machala, en particular a través de su Facultad de Ciencias Agrícolas, Utmach pretende tender un puente entre el mundo académico y las prácticas agrícolas locales, promoviendo técnicas agrícolas sostenibles. La facultad colabora con diversas organizaciones para llevar a cabo investigaciones, impartir formación y abordar problemas medioambientales, contribuyendo en última instancia a la seguridad alimentaria y la sostenibilidad agrícola de la región.",
     "de": "Utmach ist eine Initiative, die sich auf die Verbesserung des Bodenmanagements und der Pflanzenernährung in der Landwirtschaft konzentriert, insbesondere bei Kulturen wie Bananen und Kokos. Utmach arbeitet eng mit der Technischen Universität Machala zusammen, insbesondere über ihre Fakultät für Agrarwissenschaften, und will die Lücke zwischen akademischen und lokalen landwirtschaftlichen Praktiken überbrücken und nachhaltige Anbaumethoden fördern. Die Fakultät arbeitet mit verschiedenen Organisationen zusammen, um Forschung zu betreiben, Schulungen anzubieten und Umweltprobleme anzugehen, was letztendlich zur Ernährungssicherheit und landwirtschaftlichen Nachhaltigkeit in der Region beiträgt."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Utmach",
-    "fr": "Utmach",
-    "es": "Utmach",
-    "de": "Utmach"
-  },
+  "name": "UTMACH",
   "pubId": 450152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Villaseñor"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.utmachala.edu.ec/portalwp/",
   "yt": "pqy_y_IDOLQ",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-074",
+  "entityDescription": "Public university faculty providing agricultural education, research, and extension services in Ecuador's El Oro province.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Large",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Knowledge & Information"
 }

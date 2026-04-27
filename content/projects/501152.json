@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Suelos Vivos promotes soil health and regenerative agricultural practices to improve food production sustainability in Costa Rica.",
     "de": "Suelos Vivos promotes soil health and regenerative agricultural practices to improve food production sustainability in Costa Rica."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Suelos Vivos",
-    "fr": "Sols Vivants",
-    "es": "Suelos Vivos",
-    "de": "Lebendige Böden"
-  },
+  "name": "Suelos Vivos",
   "pubId": 501152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Sio"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.suelosvivos.org/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-027",
+  "entityDescription": "Regenerative cattle management hub implementing holistic grazing practices and biodiversity conservation in Costa Rica.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

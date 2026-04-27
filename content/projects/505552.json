@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Padre Huerto promotes urban gardens and agroecological education throughout Mexico through workshops on health, nutrition, and sustainability.",
     "de": "Padre Huerto promotes urban gardens and agroecological education throughout Mexico through workshops on health, nutrition, and sustainability."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "es",
   "location": "Cuernavaca, Morelos",
-  "name": {
-    "en": "Padre Huerto",
-    "fr": "Padre Huerto",
-    "es": "Padre Huerto",
-    "de": "Padre Huerto"
-  },
+  "name": "Padre Huerto",
   "pubId": 505552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Zorrilla"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.padrehuerto.com/",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-031",
+  "entityDescription": "Social enterprise promoting food sovereignty and environmental resilience through community garden programs and training initiatives across Mexico.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

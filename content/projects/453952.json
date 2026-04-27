@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1741087359,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Finca Bello Amanecer se centra en promover prácticas agrícolas sostenibles, especialmente en la ganadería lechera, fomentando la transición a métodos regenerativos. Su objetivo es ayudar a los agricultores locales a mejorar su productividad, dando prioridad al mismo tiempo a la salud medioambiental y al bienestar de la comunidad. Mediante una comunicación y colaboración eficaces, la iniciativa pretende crear una red de productores con ideas afines, fomentando el ecoturismo y fuentes de ingresos alternativas, como visitas a granjas y alojamientos. Al compartir conocimientos y recursos, la iniciativa aspira a revitalizar la agricultura local, garantizando su viabilidad para las generaciones futuras y manteniendo al mismo tiempo una fuerte conexión con la tierra.",
     "de": "Die Finca Bello Amanacer konzentriert sich auf die Förderung nachhaltiger landwirtschaftlicher Praktiken, insbesondere in der Milchwirtschaft, indem sie den Übergang zu regenerativen Methoden fördert. Ziel ist es, lokale Landwirte bei der Steigerung ihrer Produktivität zu unterstützen, wobei der Umweltgesundheit und dem Wohlbefinden der Gemeinschaft Priorität eingeräumt wird. Durch effektive Kommunikation und Zusammenarbeit strebt die Initiative den Aufbau eines Netzwerks gleichgesinnter Produzenten an und fördert so den Ökotourismus und alternative Einkommensströme, wie z. B. Bauernhoftouren und Unterkünfte. Durch den Austausch von Wissen und Ressourcen strebt die Initiative die Wiederbelebung der lokalen Landwirtschaft an und sichert ihre Lebensfähigkeit für zukünftige Generationen, während sie gleichzeitig eine starke Verbindung zum Land aufrechterhält."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "it": "Finca Bello Amanacer",
-    "en": "Finca Bello Amanacer",
-    "fr": "Finca Bello Amanacer",
-    "es": "Finca Bello Amanecer",
-    "de": "Finca Bello Amanacer"
-  },
+  "name": "Finca Bello Amanacer",
   "pubId": 453952,
   "state": "ongoing-project",
   "team": [
@@ -36,7 +36,9 @@
   ],
   "thematic": [],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "d2OqJPL6Txw",
   "originalLang": "fr",
@@ -205,5 +207,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-002",
+  "entityDescription": "A 70-year-old family dairy farm that transitioned to regenerative cattle grazing three years ago in Monteverde.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

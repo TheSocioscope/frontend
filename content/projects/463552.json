@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754424925,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La Pebeta es una iniciativa única de la granja a la mesa que hace hincapié en la producción sostenible de alimentos y la gastronomía gourmet. Fundado por un financiero con profundas raíces en las tradiciones culinarias italianas, el proyecto integra la agricultura ecológica con un restaurante que sirve platos elaborados con sus propios productos. Su objetivo es concienciar sobre el abastecimiento de alimentos, promover los ingredientes locales y fomentar una conexión entre los comensales y la tierra, todo ello manteniendo un compromiso con las prácticas éticas y respetuosas con el medio ambiente.   ",
     "de": "La Pebeta ist eine einzigartige Bauernhof-zu-Tisch-Initiative, die Wert auf nachhaltige Lebensmittelproduktion und Gourmet-Dining legt. Gegründet von einem Finanzier mit tiefen Wurzeln in der italienischen Kochtradition, integriert das Projekt organischen Landbau mit einem Restaurant, das Gerichte aus eigenen Produkten serviert. Ziel ist es, das Bewusstsein für die Beschaffung von Lebensmitteln zu schärfen, lokale Zutaten zu fördern und eine Verbindung zwischen den Gästen und dem Land herzustellen, während gleichzeitig ein Bekenntnis zu ethischen und umweltfreundlichen Praktiken aufrechterhalten wird.   "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "La Pebeta",
-    "fr": "La Pebeta",
-    "es": "La Pebeta",
-    "de": "La Pebeta"
-  },
+  "name": "La Pebeta",
   "pubId": 463552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "González"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://lapebeta.ar/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-082",
+  "entityDescription": "Farm-to-table restaurant and organic farm producing food, managing animals, and offering agrotourism experiences on 110 hectares.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail",
+    "Food Service/Hospitality",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

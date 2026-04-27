@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403425,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Biocompost es una empresa de gestión de residuos calificada con sede en Quito, establecida en 2018. Nos centramos en transformar los residuos orgánicos en compost, promoviendo un modelo de economía circular. Mediante la recolección de residuos de hogares y empresas, no solo reducimos las contribuciones a los vertederos, sino que también devolvemos el compost a nuestros clientes para la reforestación y las prácticas sostenibles. Nuestra iniciativa hace hincapié en la educación medioambiental y la implicación de la comunidad, con el objetivo de fomentar un compromiso colectivo para reducir la huella de carbono y mejorar la sostenibilidad alimentaria.",
     "de": "Biocompost ist ein qualifiziertes Abfallentsorgungsunternehmen mit Sitz in Quito, das 2018 gegründet wurde. Wir konzentrieren uns auf die Umwandlung von organischen Abfällen in Kompost und fördern damit ein zirkuläres Wirtschaftsmodell. Durch das Sammeln von Abfällen aus Haushalten und Unternehmen reduzieren wir nicht nur die Deponiebeiträge, sondern geben auch Kompost an unsere Kunden zur Wiederaufforstung und für nachhaltige Praktiken zurück. Our initiative emphasises environmental education and community involvement, aiming to foster a collective commitment to reducing carbon footprints and enhancing food sustainability."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Biocompost",
-    "en": "Biocompost",
-    "fr": "Biocompost",
-    "es": "Biocompost",
-    "de": "Biokompost"
-  },
+  "name": "Biocompost",
   "pubId": 459652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Mayorga"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.biocompost.net/",
   "yt": "U4S5M4p58Lc",
   "originalLang": "fr",
@@ -205,5 +210,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-049",
+  "entityDescription": "A qualified organic waste management company that collects and transforms organic waste into compost for families and businesses in Quito.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

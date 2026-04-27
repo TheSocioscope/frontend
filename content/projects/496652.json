@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755087801,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, CCORI, se centra en promover la gastronomía sostenible educando a individuos y comunidades en los principios de la cocina óptima. Esta metodología hace hincapié en el máximo aprovechamiento de los ingredientes alimentarios, abogando por la conservación, el reciclaje culinario y el uso innovador de todas las partes de los alimentos para minimizar el desperdicio. La iniciativa pretende transformar la percepción de los alimentos, en particular de las partes que suelen desecharse, demostrando su potencial culinario y su valor nutritivo. El CCORI colabora con diversas partes interesadas, como instituciones académicas, centros de investigación científica y empresas privadas, para poner en marcha programas de formación para cocineros de comedores sociales y otros entornos de servicios alimentarios. Estos programas no sólo enseñan prácticas culinarias sostenibles, sino que también pretenden mejorar los resultados económicos de los participantes reduciendo los costes de los alimentos mediante una mejor utilización de los ingredientes.",
     "de": "Die Initiative CCORI konzentriert sich auf die Förderung einer nachhaltigen Gastronomie, indem sie Einzelpersonen und Gemeinschaften über die Grundsätze des optimalen Kochens aufklärt. Diese Methode legt den Schwerpunkt auf die maximale Nutzung von Lebensmittelzutaten und setzt sich für die Erhaltung, das kulinarische Recycling und die innovative Nutzung aller Teile von Lebensmitteln ein, um die Verschwendung zu minimieren. Die Initiative zielt darauf ab, die Wahrnehmung von Lebensmitteln, insbesondere von Teilen, die häufig weggeworfen werden, zu verändern, indem ihr kulinarisches Potenzial und ihr Nährwert aufgezeigt werden. CCORI arbeitet mit verschiedenen Interessengruppen zusammen, darunter akademische Einrichtungen, wissenschaftliche Forschungszentren und private Unternehmen, um Schulungsprogramme für Köche in Suppenküchen und anderen Einrichtungen der Lebensmittelversorgung durchzuführen. Diese Programme vermitteln nicht nur nachhaltige Kochpraktiken, sondern zielen auch darauf ab, die wirtschaftlichen Ergebnisse für die Teilnehmer zu verbessern, indem die Lebensmittelkosten durch eine bessere Nutzung der Zutaten gesenkt werden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "CCORI",
-    "fr": "CCORI",
-    "es": "CCORI",
-    "de": "CCORI"
-  },
+  "name": "CCORI",
   "pubId": 496652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "OCAMPO GREY"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.palmiroocampo.com/en",
   "yt": "r4kRjwp6gHM",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-002",
+  "entityDescription": "Restaurant and NGO promoting sustainable gastronomy through optimal cooking methodology that maximizes ingredient use and reduces waste",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

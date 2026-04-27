@@ -36,19 +36,34 @@
               {{ getCountryLabel(country) }}
             </span>
 
-            <span v-for="field in project.field" :key="field" class="tag">
-              <v-icon size="small">mdi-book-open-variant</v-icon>
-              {{ getFieldLabel(field) }}
+            <span v-for="role in project.entityRole" :key="role" class="tag">
+              <v-icon size="small">mdi-account-hard-hat</v-icon>
+              {{ role }}
             </span>
 
-            <span v-for="thematic in project.thematic" :key="thematic" class="tag">
-              <v-icon size="small">mdi-tag</v-icon>
-              {{ getThematicLabel(thematic) }}
+            <span v-if="project.bizModel" class="tag">
+              <v-icon size="small">mdi-domain</v-icon>
+              {{ project.bizModel }}
             </span>
 
-            <span v-for="type in project.type" :key="type" class="tag">
-              <v-icon size="small">mdi-shape</v-icon>
-              {{ getTypeLabel(type) }}
+            <span v-if="project.entitySize" class="tag">
+              <v-icon size="small">mdi-resize</v-icon>
+              {{ project.entitySize }}
+            </span>
+
+            <span v-if="project.geoReach" class="tag">
+              <v-icon size="small">mdi-map-search</v-icon>
+              {{ project.geoReach }}
+            </span>
+
+            <span v-for="sector in project.sectorFocus" :key="sector" class="tag">
+              <v-icon size="small">mdi-sprout</v-icon>
+              {{ sector }}
+            </span>
+
+            <span v-if="project.resourceType" class="tag">
+              <v-icon size="small">mdi-package-variant</v-icon>
+              {{ project.resourceType }}
             </span>
           </div>
 
@@ -86,14 +101,7 @@ defineEmits<{
 
 const { t: $t } = useI18n()
 const { resolveImagePath } = useImagePath()
-const {
-  /*   getStatusLabel, */
-  getContinentLabel,
-  getCountryLabel,
-  getFieldLabel,
-  getThematicLabel,
-  getTypeLabel
-} = useProjectMappings()
+const { getContinentLabel, getCountryLabel } = useProjectMappings()
 </script>
 
 <style scoped lang="scss">

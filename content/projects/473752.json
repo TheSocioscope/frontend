@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754573224,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa Mwamweni Mart, en Mombasa (Kenia), se centra en capacitar a la comunidad local transformando los residuos de coco en hermosas esteras hechas a mano. El proyecto no sólo crea puestos de trabajo, sino que también promueve la sostenibilidad medioambiental utilizando materiales que de otro modo se desecharían. La iniciativa funciona con un modelo basado en la comunidad, en el marketing boca a boca y en la demanda local, con el objetivo de ampliar su alcance y formalizar sus operaciones para lograr un mayor impacto.                          ",
     "de": "Die Mwamweni Mart Initiative in Mombasa, Kenia, konzentriert sich auf die Stärkung der lokalen Gemeinschaft durch die Wiederverwertung von Kokosnussabfällen in schöne handgefertigte Matten. Das Projekt schafft nicht nur Arbeitsplätze, sondern fördert auch die ökologische Nachhaltigkeit durch die Verwendung von Materialien, die ansonsten entsorgt würden. The initiative operates on a community-based model, relying on word-of-mouth marketing and local demand, while aiming to expand its reach and formalise its operations for greater impact.                          "
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Mwamweni Mart",
-    "en": "Mwamweni Mart",
-    "fr": "Mwamweni Mart",
-    "es": "Mwamweni Mart",
-    "de": "Mwamweni-Markt"
-  },
+  "name": "mwamweni mart",
   "pubId": 473752,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Mwangusu"
     }
   ],
-  "thematic": ["economy-business-markets-finance"],
+  "thematic": [
+    "economy-business-markets-finance"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-025",
+  "entityDescription": "Community initiative led by Oscar making doormats from coconut fiber waste while providing employment and environmental benefits.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

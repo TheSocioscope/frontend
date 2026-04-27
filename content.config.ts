@@ -215,7 +215,46 @@ export default defineContentConfig({
               lastname: z.string().optional()
             })
           )
-          .optional()
+          .optional(),
+        caseCode: z.string().optional(),
+        entityDescription: z.string().optional(),
+        entityRole: z.array(z.string()).optional(),
+        bizModel: z.string().optional(),
+        entitySize: z.string().optional(),
+        geoReach: z.string().optional(),
+        sectorFocus: z.array(z.string()).optional(),
+        resourceType: z.string().optional()
+      })
+    }),
+
+    nonProjects: defineCollection({
+      type: 'data',
+      source: 'non-projects/*.json',
+      schema: z.object({
+        pubId: z.number(),
+        name: z.union([
+          z.string(),
+          z.object({
+            en: z.string(),
+            fr: z.string(),
+            es: z.string(),
+            de: z.string()
+          })
+        ]),
+        description: z
+          .union([
+            z.string(),
+            z.object({
+              en: z.string(),
+              fr: z.string(),
+              es: z.string(),
+              de: z.string()
+            })
+          ])
+          .optional(),
+        type: z.array(z.string()).optional(),
+        status: z.string().optional(),
+        removedAt: z.number().nullable().optional()
       })
     })
   }

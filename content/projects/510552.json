@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A creative media company dedicated to storytelling within agricultural and food systems through video production and digital storytelling.",
     "de": "A creative media company dedicated to storytelling within agricultural and food systems through video production and digital storytelling."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Worcester",
-  "name": {
-    "en": "Lucentlands Media",
-    "fr": "Lucentlands Media",
-    "es": "Lucentlands Media",
-    "de": "Lucentlands Media"
-  },
+  "name": "Lucentlands Media",
   "pubId": 510552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Brodie"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://lucentlands.co.za;",
   "yt": "",
   "originalLang": "en",
@@ -184,5 +189,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-034",
+  "entityDescription": "Agricultural media company producing videos, documentaries, podcasts and social media content exclusively about farming and food systems.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

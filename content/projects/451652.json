@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754421048,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Wakas es una empresa de consumo masivo con sede en Argentina especializada en la producción de pasta sin gluten con ingredientes no tradicionales como judías, quinoa, amaranto, chía y col rizada. El objetivo de la empresa es mejorar la seguridad alimentaria transformando estos ingredientes nutritivos pero menos consumidos en productos de pasta de fácil acceso. Wakas obtiene el 100% de sus ingredientes de productores locales, fomentando las relaciones con diversas comunidades de Argentina para apoyar la agricultura local. Wakas no sólo se centra en el mercado nacional, sino que también ha ampliado su alcance internacional, exportando productos a países como Chile, Paraguay, Brasil y Estados Unidos. La empresa hace hincapié en la innovación y la calidad, y participa en ferias internacionales de alimentación para mostrar su oferta única y crear reconocimiento de marca.\n\n",
     "de": "Wakas ist ein in Argentinien ansässiges Massenkonsumunternehmen, das sich auf die Herstellung von glutenfreier Pasta aus nicht-traditionellen Zutaten wie Bohnen, Quinoa, Amaranth, Chia und Grünkohl spezialisiert hat. Das Unternehmen möchte die Ernährungssicherheit erhöhen, indem es diese nahrhaften, aber weniger häufig verzehrten Zutaten in leicht zugängliche Pastaprodukte umwandelt. Wakas bezieht 100% seiner Zutaten von lokalen Bauern und baut Beziehungen zu verschiedenen Gemeinden in ganz Argentinien auf, um die lokale Landwirtschaft zu unterstützen. Wakas konzentriert sich nicht nur auf den heimischen Markt, sondern hat seine Reichweite auch international ausgeweitet und exportiert seine Produkte in Länder wie Chile, Paraguay, Brasilien und die USA. Das Unternehmen legt Wert auf Innovation und Qualität und nimmt an internationalen Lebensmittelmessen teil, um seine einzigartigen Angebote zu präsentieren und Markenbekanntheit aufzubauen.\n\n"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Wakas",
-    "fr": "Wakas",
-    "es": "Wakas",
-    "de": "Wakas"
-  },
+  "name": "Wakas",
   "pubId": 451652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Cruz Valenzuela"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://wakas.com.ar/",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +209,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-046",
+  "entityDescription": "Gluten-free pasta manufacturer using non-traditional local ingredients like beans, quinoa, amaranth, and chia for domestic and international markets.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

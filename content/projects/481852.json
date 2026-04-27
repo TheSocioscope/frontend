@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754995272,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La cooperativa Coopamat, fundada en 2017, está formada por 48 productores de caña de azúcar y panela de San Sebastián de Mariquita (Colombia). Opera una planta de miel construida con el apoyo de los gobiernos local y nacional. La cooperativa transforma la miel de caña en diversos productos de panela, proporcionando oportunidades de empleo, especialmente para las mujeres. A pesar de problemas como las limitaciones financieras y la competencia del mercado, Coopamat aspira a aumentar su presencia en los mercados nacionales e internacionales, garantizando al mismo tiempo prácticas sostenibles y el apoyo de la comunidad.",
     "de": "Die 2017 gegründete Genossenschaft Coopamat besteht aus 48 Zuckerrohr- und Panela-Erzeugern aus San Sebastián de Mariquita, Kolumbien. Sie betreibt eine Honigfabrik, die mit Unterstützung der lokalen und nationalen Regierungen errichtet wurde. Die Kooperative verarbeitet Rohrhonig zu verschiedenen Panela-Produkten und bietet Beschäftigungsmöglichkeiten, insbesondere für Frauen. Trotz finanzieller Engpässe und des Wettbewerbs auf dem Markt ist Coopamat bestrebt, ihre Präsenz auf den nationalen und internationalen Märkten auszubauen und gleichzeitig nachhaltige Praktiken und die Unterstützung der Gemeinschaft sicherzustellen."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Coopamat",
-    "fr": "Coopamat",
-    "es": "Coopamat",
-    "de": "Coopamat"
-  },
+  "name": "Coopamat",
   "pubId": 481852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Martinez"
     }
   ],
-  "thematic": ["welfare-work-social-protection", "food-agriculture-fishery"],
+  "thematic": [
+    "welfare-work-social-protection",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/Coopamatmariquitatolima/",
   "yt": "EZnW8BFi6ss",
   "originalLang": "fr",
@@ -213,5 +220,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-540",
+  "entityDescription": "A cooperative of 48 sugarcane growers that operates a government-built processing plant to produce powdered panela.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

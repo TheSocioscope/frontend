@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1741097330,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Projecte Sepia se centra en la conservación marina, concretamente en el declive de las poblaciones de sepia y calamar, cruciales para la pesca y la gastronomía locales. Para ello, los pescadores locales y un biólogo marino colaboran en la creación de estructuras submarinas para la puesta de huevos y la sensibilización sobre prácticas pesqueras sostenibles. El proyecto pretende educar a la comunidad, incluidas escuelas y turistas, sobre la importancia de preservar los ecosistemas marinos. Al implicar a las partes interesadas locales, pretende fomentar un sentido de responsabilidad hacia el medio ambiente y promover el consumo responsable de marisco.",
     "de": "Projecte Sepia konzentriert sich auf die Erhaltung der Meere, insbesondere auf die Bekämpfung des Rückgangs der für den lokalen Fischfang und die Gastronomie entscheidenden Bestände an Tintenfischen und Tintenfischen. Es beinhaltet die Zusammenarbeit zwischen lokalen Fischern und einem Meeresbiologen, um Unterwasserstrukturen für das Eierlegen zu schaffen und gleichzeitig das Bewusstsein für nachhaltige Fischfangpraktiken zu schärfen. Das Projekt zielt darauf ab, die Gemeinschaft, einschließlich Schulen und Touristen, über die Bedeutung des Schutzes von Meeresökosystemen aufzuklären. By engaging local stakeholders, it seeks to foster a sense of responsibility towards the environment and promote responsible consumption of seafood."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "nl": "Projecte Sepia ",
-    "en": "Projecte Sepia",
-    "fr": "Projecte Sepia",
-    "es": "Proyecto Sepia",
-    "de": "Projecte Sepia"
-  },
+  "name": "Projecte Sepia",
   "pubId": 454852,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Weitzmann"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "http://www.projectesepia.com/blog/",
   "yt": "NqH0DNkXRjY",
   "editedAt": 1746438274,
@@ -46,7 +50,9 @@
       "at": 1746438274
     }
   ],
-  "updatedAt": [1746438274],
+  "updatedAt": [
+    1746438274
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -222,5 +228,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-005",
+  "entityDescription": "A fisheries project improving cephalopod stocks through collaboration with artisanal fishers and environmental education",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

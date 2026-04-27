@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754648561,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Zipporah Ochoi es una criadora de pollos de la región costera de Kenia cuyo objetivo es mejorar las comunidades locales proporcionando pollos gratis a mujeres y jóvenes. Su iniciativa funciona como una subvención empresarial que permite a los beneficiarios poner en marcha sus propias empresas de cría de pollos. Este modelo no sólo fomenta el espíritu empresarial, sino que también responde a las necesidades de suministro de alimentos en una zona muy dependiente del turismo. Los esfuerzos de Zipporah están transformando vidas, permitiendo a los miembros de la comunidad convertirse en criadores de pollos autosuficientes.               ",
     "de": "Zipporah Ochoi ist eine Hühnerfarmerin in Kenias Küstenregion, die sich zum Ziel gesetzt hat, lokale Gemeinschaften zu stärken, indem sie Frauen und Jugendlichen kostenlose Küken anbietet. Ihre Initiative fungiert als Unternehmenszuschuss und ermöglicht es den Empfängern, ihr eigenes Hühnerfarming-Unternehmen zu gründen. Dieses Modell fördert nicht nur das Unternehmertum, sondern adressiert auch den Bedarf an Nahrungsmitteln in einer Region, die stark auf den Tourismus angewiesen ist. Zipporahs Bemühungen sind lebensverändernd, indem sie Gemeindemitglieder zu selbstständigen Hühnerfarmern macht.               "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Zippora Ochoi",
-    "en": "Zippora Ochoi",
-    "fr": "Zippora Ochoi",
-    "es": "Zippora Ochoi",
-    "de": "Zippora Ochoi"
-  },
+  "name": "Zippora Ochoi",
   "pubId": 477152,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Ochoi"
     }
   ],
-  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
+  "thematic": [
+    "inequalities-poverty-development",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -205,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-232",
+  "entityDescription": "Community-based poultry farming project providing free chickens and training to women and youth for livelihood development",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

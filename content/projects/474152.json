@@ -5,8 +5,12 @@
     "lastname": "Kimama",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754573838,
   "date": "2024-04-23",
   "description": {
@@ -15,16 +19,13 @@
     "es": "Shambani Pro es una empresa social pionera en Kenia centrada en eliminar las pérdidas postcosecha de los pequeños agricultores mediante una red de microfábricas descentralizadas. Fundada en 2022 y construida por el venture builder Enviu (Países Bajos), la empresa procesa excedentes y productos de segunda calidad —actualmente mangos— en productos secos de alta calidad que retienen entre el 60 y el 70% de su valor nutricional. Operando en el condado de Makueni, la principal región productora de mangos de Kenia, Shambani Pro ofrece a los agricultores una compra garantizada a precios superiores a los de los intermediarios, generando aumentos de ingresos superiores al 200%.",
     "de": "Shambani Pro ist ein bahnbrechendes Sozialunternehmen in Kenia, das auf die Beseitigung von Nachernteverlusten für Kleinbauern durch ein Netzwerk dezentraler Mikrofabriken ausgerichtet ist. 2022 gegründet und vom Venture Builder Enviu (Niederlande) aufgebaut, verarbeitet das Unternehmen überschüssige Ernte und Produkte zweiter Wahl – derzeit Mangos – zu hochwertigen getrockneten Produkten, die 60–70 % ihres Nährwerts behalten. Im Makueni County tätig, Kenias führender Mangoanbauregion, garantiert Shambani Pro den Bauern einen Abnahme zu Preisen über dem Maklerniveau und erzielt über 200 % Einkommenssteigerung."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "Makueni County, Kenya",
-  "name": {
-    "et": "Shambani Pro",
-    "en": "Shambani Pro",
-    "fr": "Shambani Pro",
-    "es": "Shambani Pro",
-    "de": "Shambani Pro"
-  },
+  "name": "Shambani Pro",
   "pubId": 474152,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "Kimama"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "2022–present",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://enviu.org/agrifood/",
   "yt": "",
   "originalLang": "en",
@@ -226,5 +232,20 @@
         "de": "Shambani Pro investierte in einen gewerblichen Trockner, die bisher effektivste Technologie. Ruth Kimama trat im Juli 2024 als CEO und Venture Builder bei. In der ersten vollständigen Mangosaison mit dem Gewerbstrockner lieferten 50 Bauern rund 70 Tonnen Mangos, aus denen 5 Tonnen getrocknete Mangos produziert wurden. Das Unternehmen arbeitete insgesamt mit über 300 Kleinbauern und erzielte 200%+ Einkommensverbesserungen. Die Gesamtfinanzierung erreichte rund USD 450.000."
       }
     }
-  ]
+  ],
+  "caseCode": "KE-037",
+  "entityDescription": "A social enterprise creating decentralized microfactories to process surplus produce from smallholder farmers into value-added products like dried mangoes.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Services"
 }

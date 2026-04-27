@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754649078,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "Eco Bristo Limited, creada en 2022, es una plataforma agrotecnológica centrada en soluciones sostenibles de gestión de plagas mediante energía solar. La empresa ha desarrollado una trampa para insectos que funciona con energía solar, diseñada específicamente para erradicar la falsa polilla del aguacate, una importante plaga que afecta a los cultivos de aguacate. Mediante la colaboración con los agricultores, Eco Bristo pretende aumentar la productividad agrícola al tiempo que promueve prácticas respetuosas con el medio ambiente, mejorando en última instancia los sistemas alimentarios en Kenia y más allá.                        ",
     "de": "Eco Bristo Limited, gegründet im Jahr 2022, ist eine Agritech-Plattform, die sich auf nachhaltige Schädlingsbekämpfungslösungen mit Hilfe von Solarenergie konzentriert. Das Unternehmen hat eine solarbetriebene Insektenfalle entwickelt, die speziell auf die Ausrottung der Falschen Apfelwickler ausgerichtet ist, einem bedeutenden Schädling, der Avocadokulturen befällt. Durch die Zusammenarbeit mit Landwirten will Eco Bristo die landwirtschaftliche Produktivität steigern und gleichzeitig umweltfreundliche Praktiken fördern, um letztlich die Lebensmittelsysteme in Kenia und darüber hinaus zu verbessern.                        "
   },
-  "field": ["engineering-and-technology", "nutrition"],
+  "field": [
+    "engineering-and-technology",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "pt": "Eco Bristo",
-    "en": "Eco Bristo",
-    "fr": "Eco Bristo",
-    "es": "Eco Bristo",
-    "de": "Öko-Bristo"
-  },
+  "name": "Eco Bristo",
   "pubId": 477252,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "Muriuki"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "innovation-rd"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "innovation-rd"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ecobristo.com/",
   "yt": "",
   "originalLang": "pt",
@@ -204,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-233",
+  "entityDescription": "An agritech startup developing solar-powered traps to eradicate false codling moth in avocado farms using environmentally friendly pest management.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

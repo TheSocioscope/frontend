@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754424732,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Colonia Jaime es una comunidad única de Santiago del Estero (Argentina), fundada en 1932, donde un centenar de residentes viven según principios filosóficos que hacen hincapié en la coexistencia, la educación y las prácticas sostenibles. Esta emblemática colonia ha sido estudiada por sus innovadores métodos agrícolas y tecnologías sociales, como los biodigestores y el riego por goteo. Centrada en la participación y la formación de la comunidad, la Colonia Jaime es un modelo de vida sostenible que combina los valores tradicionales con los avances modernos.",
     "de": "Colonia Jaime ist eine einzigartige Gemeinde in Santiago del Estero, Argentinien, die 1932 gegründet wurde und in der rund 100 Bewohner nach philosophischen Grundsätzen leben, die Koexistenz, Bildung und nachhaltige Praktiken betonen. Diese emblematische Siedlung wurde wegen ihrer innovativen landwirtschaftlichen Methoden und sozialen Technologien, wie Biogasanlagen und Drip-Bewässerung, untersucht. Die Colonia Jaime dient als Vorbild für nachhaltiges Leben und verbindet traditionelle Werte mit modernen Fortschritten."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Colonia Jaime",
-    "fr": "Colonia Jaime",
-    "es": "Colonia Jaime",
-    "de": "Colonia Jaime"
-  },
+  "name": "Colonia Jaime",
   "pubId": 463352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Lazo"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "governance-democracy-civil-society"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "governance-democracy-civil-society"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://coloniajaime.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-079",
+  "entityDescription": "A civil association operating an intentional community of 100 people in Santiago del Estero practicing communal living and agricultural production.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CIDPRO leads development of sustainable proteins and functional ingredients, Mexico's leading hub for sustainable food innovation.",
     "de": "CIDPRO leads development of sustainable proteins and functional ingredients, Mexico's leading hub for sustainable food innovation."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "es",
   "location": "Monterrey, Nuevo León",
-  "name": {
-    "en": "CIDPRO",
-    "fr": "CIDPRO",
-    "es": "CIDPRO",
-    "de": "CIDPRO"
-  },
+  "name": "CIDPRO",
   "pubId": 505952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "del Pino Espinosa"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.linkedin.com/company/cidpro-centro-de-investigaci%C3%B3n-y-desarrollo-de-prote%C3%ADnas/posts/",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-037",
+  "entityDescription": "Research center developing protein ingredients and functional foods with enhanced nutritional benefits for consumers.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Knowledge & Information"
 }

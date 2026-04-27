@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1718368609,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Kedelaï es un fabricante de tempeh con sede en Île-de-France desde 2019. Fundada con un socio, la empresa comercializa tempeh, un alimento indonesio elaborado mediante la fermentación de habas de soja, en restaurantes y tiendas ecológicas de la región parisina.\n\nLa empresa se centra principalmente en la producción de tempeh, con una especialidad y un saber hacer en este campo. Kedelaï trabaja actualmente en un ambicioso proyecto: la creación del primer taller de producción de tempeh de París, situado en el distrito 18, en un lugar insólito llamado La Caverne. Estos antiguos aparcamientos subterráneos se han reconvertido en una granja urbana, donde crecerán setas, microbrotes y, muy pronto, tempeh.",
     "de": "Kedelaï ist ein Tempeh-Hersteller, der seit 2019 in der Region Île-de-France ansässig ist. Das mit einem Partner gegründete Unternehmen vertreibt Tempeh, ein indonesisches Lebensmittel, das aus der Fermentation von Sojabohnen gewonnen wird, an Restaurants und Bioläden im Großraum Paris.\n\nDas Unternehmen konzentriert sich hauptsächlich auf die Herstellung von Tempeh, wobei es sich auf diesen Bereich spezialisiert hat und über entsprechendes Know-how verfügt. Derzeit arbeitet Kedelaï an einem ehrgeizigen Projekt: der Einrichtung der ersten Tempeh-Herstellungswerkstatt in Paris, die sich im 18. Arrondissement an einem atypischen Ort namens La Caverne befindet. Dabei handelt es sich um ehemalige Tiefgaragen, die zu einer urbanen Farm umgebaut wurden, in der Pilze, Mikropflanzen und bald auch Tempeh wachsen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Kedelaï",
-    "fr": "Kedelaï",
-    "es": "Kedelaï",
-    "de": "Kedelaï"
-  },
+  "name": "KedelaÏ",
   "pubId": 445152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "& Aurélie"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.kedelai.fr/",
   "yt": "6wGcbVSqMgM",
   "editedAt": 1739530125,
@@ -45,7 +50,9 @@
       "at": 1739530125
     }
   ],
-  "updatedAt": [1739530125],
+  "updatedAt": [
+    1739530125
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +228,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-013",
+  "entityDescription": "A tempeh producer creating fermented soy-based protein products for restaurants and organic stores in Paris region.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754480866,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Pan Rebelde es una iniciativa de la Fundación Educar de Ida y Vuelta que promueve la soberanía alimentaria a través del uso culinario de frutas tradicionales de la región del Quindío. Lanzada en 2014, fomenta el compromiso de la comunidad invitando a familias y personas a compartir recetas y participar en talleres culinarios. La iniciativa pretende sensibilizar sobre el patrimonio dietético, apoyar a los productores locales de alimentos y fomentar prácticas alimentarias sostenibles, creando un espacio de aprendizaje colectivo y resistencia contra las dietas homogeneizadas.",
     "de": "Pan Rebelde (Rebel Bread) ist eine Initiative der Educar de Ida y Vuelta Foundation, die die Nahrungsmittelsouveränität durch die kulinarische Verwendung traditioneller Früchte aus der Region Quindío fördert. Die 2014 ins Leben gerufene Initiative fördert das Engagement der Gemeinschaft, indem sie Familien und Einzelpersonen dazu einlädt, Rezepte zu teilen und an kulinarischen Workshops teilzunehmen. Die Initiative zielt darauf ab, das Bewusstsein für das Ernährungserbe zu schärfen, lokale Lebensmittelproduzenten zu unterstützen und nachhaltige Esspraktiken zu fördern, indem sie einen Raum für kollektives Lernen und Widerstand gegen homogenisierte Diäten schafft."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nl": "Pan Rebelde",
-    "en": "Pan Rebelde",
-    "fr": "Pan Rebelde",
-    "es": "Pan Rebelde",
-    "de": "Pan Rebelde"
-  },
+  "name": "Pan Rebelde",
   "pubId": 467752,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Felipe Giraldo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://fundacioneducardidayvuelta.com/page1.html",
   "yt": "vxbBkk2Rm9k",
   "originalLang": "fr",
@@ -204,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-546",
+  "entityDescription": "A volunteer-run food sovereignty initiative promoting culinary use of traditional territorial fruits through bimonthly community gatherings.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Knowledge & Information"
 }

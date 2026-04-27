@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754991419,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa se centra en transformar una explotación cacaotera familiar en una empresa sostenible que da prioridad a la responsabilidad medioambiental y al compromiso con la comunidad. Mediante el cultivo de cacao y la creación de productos de chocolate de alta calidad, la granja pretende educar a los consumidores sobre los beneficios del cacao al tiempo que promueve prácticas agrícolas sostenibles. La iniciativa también hace hincapié en la importancia de las relaciones directas con los consumidores, garantizando que los beneficios económicos de la producción de cacao apoyen a la comunidad local y contribuyan a la viabilidad de la granja a largo plazo.",
     "de": "Die Initiative konzentriert sich darauf, eine Kakaofarm in Familienbesitz in ein nachhaltiges Unternehmen umzuwandeln, bei dem die Verantwortung für die Umwelt und das Engagement für die Gemeinschaft im Vordergrund stehen. Durch den Anbau von Kakao und die Herstellung hochwertiger Schokoladenprodukte will die Farm die Verbraucher über die Vorteile von Kakao aufklären und gleichzeitig nachhaltige landwirtschaftliche Praktiken fördern. Die Initiative betont auch die Bedeutung direkter Verbraucherbeziehungen, um sicherzustellen, dass die wirtschaftlichen Vorteile der Kakaoproduktion die lokale Gemeinschaft unterstützen und zur langfristigen Lebensfähigkeit der Farm beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "pt": "Cinco Cacao",
-    "en": "Cinco Cacao",
-    "fr": "Cinco Cacao",
-    "es": "Cinco Cacao",
-    "de": "Cinco Kakao"
-  },
+  "name": "Cinco cacao",
   "pubId": 480452,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Gallo Pérez"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "consumption-and-production-patterns"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.cincocacao.com/sostenibilidad",
   "yt": "lJPA-vCcFGM",
   "originalLang": "pt",
@@ -214,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-469",
+  "entityDescription": "Family farm that grows cacao organically and transforms it into chocolate products while offering agrotourism experiences.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

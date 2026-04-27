@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739463827,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Tacay se centra en transformar una empresa familiar que originalmente se dedicaba a la ganadería en una empresa sostenible centrada en la producción de aceites cosméticos y productos alimenticios derivados de la nuez de cacay y las semillas de cacao. En los últimos 16 años, la empresa ha reorientado sus operaciones para promover el cultivo de estos árboles autóctonos, antes infravalorados y a menudo talados. Educando a los agricultores locales sobre los beneficios del cultivo del cacao y comprando sus productos, la iniciativa no sólo ha revitalizado la economía local, sino que también ha contribuido a la restauración del medio ambiente, lo que ha aumentado la biodiversidad de la zona. La empresa aspira a ampliar su alcance en el mercado, sobre todo en Francia, al tiempo que explora nuevas líneas de productos alimentarios, revalorizando así recursos antes desatendidos y fomentando un modelo agrícola sostenible en la región.",
     "de": "Tacay konzentriert sich darauf, ein Familienunternehmen, das ursprünglich in der Viehzucht tätig war, in ein nachhaltiges Unternehmen umzuwandeln, das sich auf die Herstellung von Kosmetikölen und Lebensmitteln aus der Kakaonuss und den Kokosnusskernen konzentriert. In den letzten 16 Jahren hat das Unternehmen seine Tätigkeit auf die Förderung des Anbaus dieser einheimischen Bäume verlagert, die zuvor unterbewertet und oftmals abgeschnitten wurden. Durch die Aufklärung lokaler Bauern über die Vorteile des Kokosanbaus und den Kauf ihrer Produkte hat die Initiative nicht nur die lokale Wirtschaft wiederbelebt, sondern auch zur Umweltsanierung beigetragen, die zu einer erhöhten Artenvielfalt in der Region führt. The company aims to expand its market reach, particularly in France, while exploring new food product lines, thereby enhancing the value of previously neglected resources and fostering a sustainable agricultural model in the region."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Tacay",
-    "fr": "Tacay",
-    "es": "Tacay",
-    "de": "Tacay"
-  },
+  "name": "TACAY",
   "pubId": 442152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Ivan Martinez Balggurra"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://tacay.co/nosotros/",
   "yt": "AAF4dDDyBQE",
   "originalLang": "fr",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-185",
+  "entityDescription": "Family agribusiness producing cosmetic oils and food products from cacay nuts, exporting internationally while supporting local farmers.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

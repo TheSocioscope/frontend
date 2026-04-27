@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Farmer Didi cultivates onions and vegetables, employing local residents and supplying fresh produce to community initiatives.",
     "de": "Farmer Didi cultivates onions and vegetables, employing local residents and supplying fresh produce to community initiatives."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Touwsriver",
-  "name": {
-    "en": "Matroosberg Karoo",
-    "fr": "Matroosberg Karoo",
-    "es": "Matroosberg Karoo",
-    "de": "Matroosberg Karoo"
-  },
+  "name": "Matroosberg Karoo",
   "pubId": 509952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": ""
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-027",
+  "entityDescription": "Female-owned seed production farm in the Karoo cultivating onion and carrot seeds for export and local distribution.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Fisheries & Aquaculture"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["united-kingdom"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "united-kingdom"
+  ],
   "createdAt": 1739457107,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Street Goat es una iniciativa comunitaria con sede en Bristol (Inglaterra) que comenzó en 2016. El proyecto se centra en el pastoreo de cabras en espacios urbanos actualmente infrautilizados, con el objetivo de proporcionar acceso a leche, fibra y carne a los miembros de la comunidad que participan en el cuidado y mantenimiento de las cabras. La iniciativa funciona con una estructura flexible e informal sin registro formal, lo que permite una rápida toma de decisiones y adaptabilidad.\n\nEl proyecto consta de unas cuatro o cinco zonas de pastoreo alrededor de Bristol, que albergan entre 30 y 40 cabras. Atrae a un grupo diverso de voluntarios, entre los que se encuentran tanto jóvenes que buscan acceso a alimentos de alta calidad como jubilados con más tiempo para dedicar. Los participantes se benefician de un acceso asequible a alimentos sanos, fomentando un sentimiento de soberanía alimentaria y de conexión con los animales que cuidan.\n\nStreet Goat hace hincapié en la importancia de comprender el proceso de producción de alimentos, ofreciendo oportunidades educativas sobre la cría de animales y las realidades del abastecimiento de alimentos. La iniciativa también aborda los beneficios para la salud mental a través de la interacción con las cabras, creando un espacio comunitario único que fomenta el bienestar.\n",
     "de": "Street Goat ist eine in Bristol, England, angesiedelte Community-run-Initiative, die 2016 begann. Das Projekt konzentriert sich auf die Weidehaltung von Ziegen in städtischen Räumen, die derzeit nicht genutzt werden, um Gemeindemitgliedern, die sich an der Pflege und Wartung der Ziegen beteiligen, Zugang zu Milch, Fasern und Fleisch zu verschaffen. Die Initiative operiert auf einer losen, informellen Struktur ohne formale Registrierung, die eine schnelle Entscheidungsfindung und Anpassungsfähigkeit ermöglicht.\n\nDas Projekt besteht aus etwa vier bis fünf Weideflächen in der Umgebung von Bristol, die etwa 30 bis 40 Ziegen beherbergen. Es zieht eine vielfältige Gruppe von Freiwilligen an, darunter sowohl jüngere Menschen, die Zugang zu hochwertigen Lebensmitteln suchen, als auch ältere, pensionierte Menschen, die mehr Zeit haben, sich zu widmen. Die Teilnehmer profitieren von einem erschwinglichen Zugang zu gesunden Lebensmitteln, fördern ein Gefühl der Nahrungsmittelsouveränität und eine Verbindung zu den Tieren, um die sie sich kümmern.\n\nStreet Goat betont, wie wichtig es ist, den Prozess der Lebensmittelproduktion zu verstehen, und bietet Bildungsmöglichkeiten über die Tierhaltung und die Realitäten der Lebensmittelbeschaffung. Die Initiative adressiert auch mentale Gesundheitsvorteile durch die Interaktion mit den Ziegen und schafft einen einzigartigen Gemeinschaftsraum, der das Wohlbefinden fördert.\n"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nl": "Street Goat",
-    "en": "Street Goat",
-    "fr": "Chèvre de rue",
-    "es": "Cabra callejera",
-    "de": "Straßenziege"
-  },
+  "name": "Street Goat",
   "pubId": 449652,
   "state": "ongoing-project",
   "team": [
@@ -39,9 +39,13 @@
       "lastname": "Dobbing"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://streetgoat.co.uk/about/",
   "yt": "ybV-UvUrBAs",
   "originalLang": "fr",
@@ -200,5 +204,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "GB-025",
+  "entityDescription": "A community-run urban goat grazing project providing local access to milk, meat and fiber in Bristol.",
+  "entityRole": [
+    "Primary Production",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

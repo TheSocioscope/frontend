@@ -5,8 +5,12 @@
     "lastname": "Socioscooe",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754647383,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Rural Link AI es una iniciativa innovadora concebida para ayudar a los pequeños agricultores africanos proporcionándoles información agrícola accesible por SMS. Reconociendo los retos a los que se enfrentan los agricultores de las zonas rurales, el proyecto permite a los usuarios acceder a recursos vitales, como actualizaciones meteorológicas e información sobre proveedores, sin necesidad de teléfonos inteligentes ni conexión a Internet. Con más de 10.000 agricultores, Rural Link AI pretende mejorar la productividad agrícola y conectar a los agricultores con los servicios esenciales.",
     "de": "Rural Link AI ist eine innovative Initiative, die Kleinbauern in Afrika unterstützen soll, indem sie ihnen über SMS zugängliche landwirtschaftliche Informationen zur Verfügung stellt. Das Projekt erkennt die Herausforderungen, mit denen Landwirte in ländlichen Gebieten konfrontiert sind, und ermöglicht es Nutzern, auf wichtige Ressourcen wie Wettervorhersagen und Lieferanteninformationen zuzugreifen, ohne Smartphones oder Internetverbindung zu benötigen. Mit über 10.000 derzeit engagierten Landwirten zielt Rural Link AI darauf ab, die landwirtschaftliche Produktivität zu steigern und die Landwirte mit wichtigen Dienstleistungen zu verbinden."
   },
-  "field": ["nutrition", "information-technology"],
+  "field": [
+    "nutrition",
+    "information-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Rural Link AI",
-    "fr": "Rural Link AI",
-    "es": "Enlace rural AI",
-    "de": "Rural Link AI"
-  },
+  "name": "Rural Link Ai",
   "pubId": 476252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Socioscooe"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "data-information-and-computing"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "data-information-and-computing"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://rurallink.africa/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +220,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-154",
+  "entityDescription": "SMS-based AI service providing agricultural information to rural farmers using basic feature phones without internet access.",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

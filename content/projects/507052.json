@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Sierra Encantada is Morelos' first certified goat farm producing artisanal organic cheeses, awarded Super Gold at the World Cheese Awards.",
     "de": "Sierra Encantada is Morelos' first certified goat farm producing artisanal organic cheeses, awarded Super Gold at the World Cheese Awards."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "es",
   "location": "Huitzilac, Morelos",
-  "name": {
-    "en": "Sierra Encantada",
-    "fr": "Sierra Encantada",
-    "es": "Sierra Encantada",
-    "de": "Sierra Encantada"
-  },
+  "name": "Sierra Encantada",
   "pubId": 507052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Alvarez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.sierra-encantada.com/#intro",
   "yt": "",
   "originalLang": "es",
@@ -186,5 +191,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-060",
+  "entityDescription": "Artisanal goat cheese ranch that produces cheese, sells organic fertilizer, and offers guided tours in Huitzilac, Morelos.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

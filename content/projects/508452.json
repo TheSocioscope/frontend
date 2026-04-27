@@ -1,54 +1,65 @@
 {
-    "contact":  {
-                    "entity":  "IEA",
-                    "firstname":  "Food",
-                    "lastname":  "Socioscope",
-                    "contact_url":  ""
-                },
-    "continent":  [
-                      "africa"
-                  ],
-    "country":  [
-                    "south-africa"
-                ],
-    "createdAt":  1770735858,
-    "date":  null,
-    "description":  {
-                        "en":  "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
-                        "fr":  "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
-                        "es":  "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
-                        "de":  "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens."
-                    },
-    "field":  [
-                  "other-social-sciences-and-humanities"
-              ],
-    "lang":  "en",
-    "location":  "Touwsriver",
-    "name":  {
-                 "en":  "Compassionate Hearts (Touwsrivier)",
-                 "fr":  "Compassionate Hearts (Touwsrivier)",
-                 "es":  "Compassionate Hearts (Touwsrivier)",
-                 "de":  "Compassionate Hearts (Touwsrivier)"
-             },
-    "pubId":  508452,
-    "score":  0,
-    "state":  "ongoing-project",
-    "status":  "published",
-    "team":  [
-                 {
-                     "entity":  "IEA",
-                     "firstname":  "Food",
-                     "lastname":  "Socioscope"
-                 }
-             ],
-    "thematic":  [
-                     "food-agriculture-fishery"
-                 ],
-    "time":  "",
-    "type":  [
-                 "case-study"
-             ],
-    "url":  "https://chtr.org.za/",
-    "yt":  "",
-    "originalLang":  "en"
+  "contact": {
+    "entity": "IEA",
+    "firstname": "Food",
+    "lastname": "Socioscope",
+    "contact_url": ""
+  },
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
+  "createdAt": 1770735858,
+  "date": null,
+  "description": {
+    "en": "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
+    "fr": "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
+    "es": "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens.",
+    "de": "A community initiative addressing hunger in Touwsriver, providing meals to 800-850 residents twice weekly and running community gardens."
+  },
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
+  "lang": "en",
+  "location": "Touwsriver",
+  "name": "Compassionate Hearts (Touwsrivier)",
+  "pubId": 508452,
+  "score": 0,
+  "state": "ongoing-project",
+  "status": "published",
+  "team": [
+    {
+      "entity": "IEA",
+      "firstname": "Food",
+      "lastname": "Socioscope"
+    }
+  ],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
+  "time": "",
+  "type": [
+    "case-study"
+  ],
+  "url": "https://chtr.org.za/",
+  "yt": "",
+  "originalLang": "en",
+  "caseCode": "ZA-001",
+  "entityDescription": "A nonprofit organization providing daily meals to 950-1000 people and running community development projects in Touws River, South Africa.",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Support Services",
+    "Primary Production"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Social & Community",
+    "Health & Nutrition",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

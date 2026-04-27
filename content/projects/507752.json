@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "paraguay"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "ECO AGRO is a marketer of agroecological and organic products serving 250 associated families through fairs, delivery, and supermarkets.",
     "de": "ECO AGRO is a marketer of agroecological and organic products serving 250 associated families through fairs, delivery, and supermarkets."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Itauguá, Paraguay",
-  "name": {
-    "en": "ECO AGRO Naturalmente",
-    "fr": "ECO AGRO Naturellement",
-    "es": "ECO AGRO Naturalmente",
-    "de": "ECO AGRO Natürlich"
-  },
+  "name": "ECO AGRO Naturalmente",
   "pubId": 507752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Ferreira"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ecoagro.org.py/historia/",
   "yt": "-h3NAzMf31w",
   "originalLang": "es",
@@ -204,5 +209,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PY-002",
+  "entityDescription": "Association of organic producers that collects, processes, and commercializes organic agricultural products through multiple channels including own stores and distributors.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Goods & Products"
 }

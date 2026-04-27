@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403914,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Veggie Lover Food es una bioempresa pionera que fusiona naturaleza y tecnología para mejorar nuestra calidad de vida mediante alimentos innovadores de origen vegetal. Su misión principal es combinar naturaleza y tecnología para mejorar la calidad de vida mediante prácticas sostenibles. La iniciativa se centra en la utilización de materias primas silvestres y exóticas, en particular el jackfruit, para crear productos nutritivos. Comprometida con la sostenibilidad, Veggie Lover se adhiere a los principios de responsabilidad social, empoderando a las comunidades y promoviendo los beneficios para la salud a través de sus ofertas, todo ello minimizando el impacto medioambiental.",
     "de": "Veggie Lover Food ist ein bahnbrechendes Bio-Venture, das Natur und Technologie zusammenbringt, um unsere Lebensqualität durch innovative pflanzliche Lebensmittel zu verbessern. Die Kernaufgabe besteht darin, Natur und Technologie zu kombinieren, um die Lebensqualität durch nachhaltige Praktiken zu verbessern. Die Initiative konzentriert sich auf die Verwendung von wilden und exotischen Rohstoffen, insbesondere Jackfruit, um nahrhafte Produkte herzustellen. Der Nachhaltigkeit verpflichtet, hält sich Veggie Lover an die Grundsätze der sozialen Verantwortung, stärkt Gemeinschaften und fördert durch seine Angebote gesundheitliche Vorteile, wobei die Auswirkungen auf die Umwelt so gering wie möglich gehalten werden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nb": "Veggie Lover",
-    "en": "Veggie Lover",
-    "fr": "Amoureux des légumes",
-    "es": "Veggie Lover",
-    "de": "Veggie-Liebhaber"
-  },
+  "name": "Veggie Lover",
   "pubId": 450052,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Stephanie Taborga"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "khtYRKYnQF0",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-070",
+  "entityDescription": "Bioemprendimiento que desarrolla alimentos plant-based usando jackfruit silvestre amazónico con herramientas biotecnológicas e inteligencia artificial.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

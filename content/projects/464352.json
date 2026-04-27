@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1754429048,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, Foodshare Copenhague, tiene como objetivo combatir el desperdicio de alimentos mediante la redistribución de los excedentes de alimentos a personas y familias necesitadas. Fundada en 2018, opera a través de esfuerzos voluntarios, recogiendo alimentos de supermercados y panaderías, y distribuyéndolos en eventos comunitarios. La organización fomenta un sentido de comunidad entre los ecologistas y promueve la sostenibilidad, alentando a los participantes a compartir alimentos en lugar de desperdiciarlos. Su misión hace hincapié en la educación y la colaboración para crear un sistema alimentario más sostenible.",
     "de": "Die Initiative Foodshare Copenhagen will Lebensmittelabfälle bekämpfen, indem sie überschüssiges Essen an bedürftige Einzelpersonen und Familien weiterverteilt. Die 2018 gegründete Organisation arbeitet ehrenamtlich, sammelt Lebensmittel von Supermärkten und Bäckereien ein und verteilt sie bei Gemeinschaftsveranstaltungen. The organization fosters a sense of community among environmentalists and promotes sustainability, encouraging participants to share food rather than waste it. Its mission emphasis education and collaboration to create a more sustainable food system."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Food Sharing",
-    "fr": "Food Sharing",
-    "es": "Compartir alimentos",
-    "de": "Food Sharing"
-  },
+  "name": "Food Sharing",
   "pubId": 464352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Aleksandrova"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://foodsharingcph.org",
   "yt": "ZV2qZRSYuOY",
   "editedAt": 1760065605,
@@ -45,7 +50,9 @@
       "at": 1760065605
     }
   ],
-  "updatedAt": [1760065605],
+  "updatedAt": [
+    1760065605
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -212,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-036",
+  "entityDescription": "Activist organization fighting food waste by collecting surplus food from shops and redistributing it to community members",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

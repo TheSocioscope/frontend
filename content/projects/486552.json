@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754955044,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Fly360, fundada por un médico biomédico, utiliza drones para mejorar la agroecología en Colombia. Desde 2017, la empresa presta servicios de fumigación y fertilización para diversos cultivos, con el objetivo de tecnificar la agricultura y mejorar la eficiencia. Con un enfoque en la sostenibilidad, Fly360 también ofrece capacitación para pilotos de drones y servicios de mantenimiento. La iniciativa busca reducir el uso de químicos y promover alternativas orgánicas, abordando desafíos tanto económicos como ambientales en el sector agrícola.",
     "de": "Das von einem biomedizinischen Arzt gegründete Unternehmen Fly360 setzt Drohnen zur Verbesserung der Agrarökologie in Kolumbien ein. Seit 2017 bietet das Unternehmen Dienstleistungen zur Begasung und Düngung verschiedener Kulturen an, um die Landwirtschaft zu technisieren und die Effizienz zu verbessern. Mit dem Fokus auf Nachhaltigkeit bietet Fly360 auch Schulungen für Drohnenpiloten und Wartungsdienste an. Die Initiative zielt darauf ab, den Einsatz von Chemikalien zu reduzieren und ökologische Alternativen zu fördern, um sowohl die wirtschaftlichen als auch die ökologischen Herausforderungen im Agrarsektor zu bewältigen."
   },
-  "field": ["engineering-and-technology", "nutrition"],
+  "field": [
+    "engineering-and-technology",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Fly360",
-    "fr": "Fly360",
-    "es": "Fly360",
-    "de": "Fly360"
-  },
+  "name": "FLY360",
   "pubId": 486552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Rueda"
     }
   ],
-  "thematic": ["innovation-rd", "food-agriculture-fishery"],
+  "thematic": [
+    "innovation-rd",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://fly360.com.co/",
   "yt": "SU3F_nJT3sM",
   "originalLang": "fr",
@@ -204,5 +211,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-217",
+  "entityDescription": "Technology company providing drone services for agriculture including fumigation, fertilization, monitoring and equipment sales.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

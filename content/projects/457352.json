@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754296469,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "La iniciativa supone la creación de un taller ecológico en la APF France Handicap de Calais, centrado en la producción de productos a base de insectos como fuente sostenible de proteínas. El proyecto pretende crear una gama de productos, entre ellos harina de insectos deshidratada y galletas que incorporen proteínas de insectos, atendiendo a la creciente demanda de fuentes alternativas de proteínas. El taller emplea a 68 personas discapacitadas, proporcionándoles un trabajo significativo al tiempo que promueve prácticas ecológicas. La iniciativa también explora el uso de desechos de insectos como fertilizante natural, contribuyendo aún más a la agricultura sostenible. En general, el proyecto busca la transición hacia dietas más sanas introduciendo opciones proteínicas innovadoras y respetuosas con el medio ambiente.",
     "de": "Die Initiative beinhaltet die Einrichtung eines ökologischen Workshops bei APF France Handicap in Calais, der sich auf die Herstellung von Insektenprodukten als nachhaltige Proteinquelle konzentriert. The project aims to create a range of products, including dehydrated insect flour and biscuits that incorporate insect protein, catering to the growing demand for alternative protein sources. Die Werkstatt beschäftigt 68 behinderte Menschen und bietet ihnen eine sinnvolle Arbeit, während sie gleichzeitig ökologische Praktiken fördert. The initiative also explores the use of insect waste as a natural fertilizer, further contributing to sustainable agriculture. Insgesamt strebt das Projekt einen Übergang zu gesünderen Diäten an, indem es innovative Proteinoptionen einführt, die umweltfreundlich sind."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Minus Farm",
-    "en": "Minus Farm",
-    "fr": "Ferme Minus",
-    "es": "Granja Minus",
-    "de": "Minus Bauernhof"
-  },
+  "name": "Minus Farm",
   "pubId": 457352,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,13 @@
       "lastname": "Soullieux"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://minusfarm.fr",
   "yt": "M3RViYv_l1E",
   "editedAt": 1755734422,
@@ -46,7 +51,9 @@
       "at": 1755734422
     }
   ],
-  "updatedAt": [1755734422],
+  "updatedAt": [
+    1755734422
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -203,5 +210,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-094",
+  "entityDescription": "Workshop within a disability services organization producing mealworms for food products and fertilizer",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

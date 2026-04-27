@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754991959,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Mamma Mia es un restaurante que hace hincapié en la importancia de la calidad y el servicio personalizado, optando por un restaurante pequeño con sólo dos mesas. Se centra en ofrecer un menú limitado pero especial, con la langosta como plato estrella debido a su popularidad entre los turistas. El restaurante funciona con reservas, lo que le permite gestionar el número de comensales y mantener un alto nivel de servicio. El restaurante pretende mantener su exclusividad y su reputación como lugar de visita obligada en Providencia.",
     "de": "Mamma Mia ist ein Restaurant, das Wert auf Qualität und persönlichen Service legt und sich für ein kleines Restaurant mit nur zwei Tischen entschieden hat. Es konzentriert sich darauf, eine begrenzte, aber spezielle Speisekarte anzubieten, wobei Hummer aufgrund seiner Beliebtheit bei den Touristen zu einem typischen Gericht wird. Das Restaurant arbeitet auf Reservierungsbasis, was es ihr ermöglicht, die Anzahl der Gäste zu kontrollieren und einen hohen Servicestandard aufrechtzuerhalten. Das Restaurant ist bestrebt, seine Exklusivität und seinen Ruf als ein Muss in Providencia aufrechtzuerhalten."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Mamma Mia",
-    "fr": "Mamma Mia",
-    "es": "Mamma Mia",
-    "de": "Mamma Mia"
-  },
+  "name": "Mamma mia",
   "pubId": 480752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Pavina Alvarez"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "leisure-tourism"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://oldprovidence.co/directorio/mamma-mia-2/",
   "yt": "",
   "originalLang": "fr",
@@ -167,5 +173,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-491",
+  "entityDescription": "Small family restaurant serving gourmet seafood with personalized service and local ingredients in Providencia Island.",
+  "entityRole": [
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Individual/Solo",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

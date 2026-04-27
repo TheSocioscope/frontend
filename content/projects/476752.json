@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754647948,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Lizsa Farmer Service Centre, fundado en marzo de 2023, pretende empoderar a las madres jóvenes del condado de Makwene mediante el cultivo y el valor añadido de la judía Nyota, tolerante a la sequía. La iniciativa se centra en mejorar la nutrición y los ingresos de los agricultores proporcionándoles formación, semillas certificadas y diversos productos, como alubias precocinadas y harina de alubias. Mediante la promoción de la agricultura regenerativa y de técnicas agrícolas innovadoras, Lisa pretende mejorar la seguridad alimentaria y las oportunidades económicas de la comunidad.",
     "de": "Das im März 2023 gegründete Lizsa Farmer Service Centre zielt darauf ab, junge Mütter in Makwene County durch den Anbau und die Wertschöpfung der trostlosen Nyota-Banane zu stärken. Die Initiative konzentriert sich auf die Verbesserung der Ernährung und des Einkommens von Landwirten durch die Bereitstellung von Schulungen, zertifiziertem Saatgut und verschiedenen Produkten, darunter vorgekochte Beans und Bean Flour. Durch die Förderung der regenerativen Landwirtschaft und innovativer Anbautechniken will Lisa die Ernährungssicherheit und die wirtschaftlichen Chancen in der Gemeinde verbessern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Lizsa Farmer Service Centre",
-    "fr": "Lizsa Farmer Service Centre",
-    "es": "Centro de servicios Lizsa Farmer",
-    "de": "Lizsa Farmer Service Centre"
-  },
+  "name": "Lizsa farmer service centre",
   "pubId": 476752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Mulika"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-182",
+  "entityDescription": "Agricultural enterprise providing drought-resistant bean seeds, training, and value-added products to farmers in semi-arid areas",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

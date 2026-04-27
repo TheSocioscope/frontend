@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "An ECD centre integrating education and nutrition with a food garden producing spinach, pumpkins, and beetroot, supported by the Do More Foundation.",
     "de": "An ECD centre integrating education and nutrition with a food garden producing spinach, pumpkins, and beetroot, supported by the Do More Foundation."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "en",
   "location": "Zwelethemba",
-  "name": {
-    "en": "Siyahluma Creche",
-    "fr": "Siyahluma Creche",
-    "es": "Siyahluma Creche",
-    "de": "Siyahluma Creche"
-  },
+  "name": "Siyahluma Creche",
   "pubId": 508752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Madaka"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-004",
+  "entityDescription": "Early childhood development center serving children aged 0-5 years with food garden and aftercare services in Zolweltemba community.",
+  "entityRole": [
+    "Support Services",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

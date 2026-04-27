@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1755099006,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "Eixarcolant, fundada en 2016, es una iniciativa destinada a recuperar plantas olvidadas, en particular especies silvestres comestibles y variedades agrícolas tradicionales. Nacida de la investigación etnobotánica en la región de Noya, busca transformar los sistemas agroalimentarios mediante la reintegración de estas plantas en las prácticas culinarias locales. La iniciativa fomenta la participación de la comunidad mediante talleres, investigación y un banco de semillas, promoviendo la biodiversidad y las prácticas alimentarias sostenibles al tiempo que preserva el patrimonio cultural vinculado a estas plantas olvidadas.",
     "de": "Eixarcolant wurde 2016 gegründet und ist eine Initiative zur Wiederherstellung vergessener Pflanzen, insbesondere essbarer Wildarten und traditioneller landwirtschaftlicher Sorten. Sie geht auf ethnobotanische Forschungen in der Region Noya zurück und will die Agrar- und Ernährungssysteme durch die Wiedereingliederung dieser Pflanzen in lokale kulinarische Praktiken verändern. Die Initiative fördert das Engagement der Gemeinschaft durch Workshops, Forschung und eine Saatgutbank, um die biologische Vielfalt und nachhaltige Ernährungspraktiken zu fördern und gleichzeitig das mit diesen vergessenen Pflanzen verbundene kulturelle Erbe zu bewahren."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Eixarcolant",
-    "en": "Eixarcolant",
-    "fr": "Eixarcolant",
-    "es": "Eixarcolant",
-    "de": "Eixarcolant"
-  },
+  "name": "Eixarcolant",
   "pubId": 498452,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "Reguera"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://eixarcolant.cat/com-ho-fem/",
   "yt": "Cnd9lAK3KKg",
   "originalLang": "it",
@@ -214,5 +220,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-012",
+  "entityDescription": "Cooperative organization recovering forgotten traditional plant varieties and wild edibles through ethnobotanical research, seed banking, and market creation.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Knowledge & Information"
 }

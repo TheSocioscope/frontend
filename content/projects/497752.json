@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755092694,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa pretende empoderar a los Yahweh, un pueblo nativo amazónico, recuperando su identidad cultural a través de la alimentación. En colaboración con Biokusharo y bajo la dirección de la nutricionista Carol Zabaleta, el proyecto se centra en preservar los cultivos autóctonos, en particular las raíces y tubérculos shawi, al tiempo que se abordan las deficiencias nutricionales. Mediante la creación de un catálogo de estos productos, la iniciativa pretende comercializarlos, garantizando la sostenibilidad económica y la visibilidad de la comunidad, mejorando en última instancia su calidad de vida.",
     "de": "Die Initiative zielt darauf ab, die Yahweh, ein indigenes Volk im Amazonasgebiet, zu stärken, indem sie ihre kulturelle Identität durch Lebensmittel wiedererlangen. In Zusammenarbeit mit Biokusharo und unter der Leitung der Ernährungswissenschaftlerin Carol Zabaleta konzentriert sich das Projekt auf die Erhaltung einheimischer Kultursorten, insbesondere der Shawi-Wurzeln und -Knollen, und die Behebung von Ernährungsmängeln. Durch die Erstellung eines Katalogs dieser Produkte sollen sie vermarktet werden, um die wirtschaftliche Nachhaltigkeit und die Sichtbarkeit der Gemeinschaft zu gewährleisten und letztlich ihre Lebensqualität zu verbessern."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Shawi",
-    "fr": "Shawi",
-    "es": "Shawi",
-    "de": "Shawi"
-  },
+  "name": "Shawi",
   "pubId": 497752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,15 @@
       "lastname": "MARTINEZ VELIZ"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "culture-and-the-arts", "public-health"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "culture-and-the-arts",
+    "public-health"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://materiniciativa.com/proyectos/shawi",
   "yt": "",
   "originalLang": "fr",
@@ -176,5 +184,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-130",
+  "entityDescription": "Research center of Central restaurant that develops collaborative projects with indigenous communities to preserve ancestral knowledge and create commercial opportunities for traditional foods.",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Financial"
 }

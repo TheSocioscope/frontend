@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Bioflora is a cooperative of 150+ beekeepers producing certified organic honey and derivatives, exported under International Fair Trade system.",
     "de": "Bioflora is a cooperative of 150+ beekeepers producing certified organic honey and derivatives, exported under International Fair Trade system."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Cuernavaca, Morelos",
-  "name": {
-    "en": "Bioflora",
-    "fr": "Bioflora",
-    "es": "Bioflora",
-    "de": "Bioflora"
-  },
+  "name": "Bioflora",
   "pubId": 505652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Hermes"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://mielbioflora.mx/pages/nosotros",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-032",
+  "entityDescription": "Cooperative of small organic beekeepers producing and marketing honey through fair trade principles across multiple Mexican states.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

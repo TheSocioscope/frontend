@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754647637,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa de bombeo de agua Hydrolic en Kenia aborda el grave problema de la escasez de agua al que se enfrentan muchas comunidades. Utilizando un sencillo sistema de bombeo por gravedad, ofrece una solución sostenible para acceder a agua limpia sin necesidad de costosas fuentes de energía. Este proyecto pretende aliviar la carga que soportan las mujeres y los niños que a menudo recorren largas distancias para conseguir agua, mejorando en última instancia su calidad de vida y apoyando las actividades agrícolas en las regiones áridas.           ",
     "de": "Die Hydrolic-Wasserpumpen-Initiative in Kenia ist eine Antwort auf die kritische Herausforderung der Wasserknappheit in vielen Gemeinden. Durch den Einsatz eines einfachen, schwerkraftbetriebenen Pumpensystems bietet sie eine nachhaltige Lösung für den Zugang zu sauberem Wasser, ohne dass teure Energiequellen benötigt werden. Das Projekt zielt darauf ab, die Belastung von Frauen und Kindern zu verringern, die oft weite Strecken für Wasser zurücklegen müssen, und so ihre Lebensqualität zu verbessern und die landwirtschaftlichen Aktivitäten in den Trockengebieten zu unterstützen.           "
   },
-  "field": ["engineering-and-technology"],
+  "field": [
+    "engineering-and-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Hydrolic Water Pumping",
-    "fr": "Hydrolic Water Pumping",
-    "es": "Bombeo hidráulico de agua",
-    "de": "Hydrolic Water Pumping"
-  },
+  "name": "Hydrolic water pumping",
   "pubId": 476452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Lukoye Onyango"
     }
   ],
-  "thematic": ["inequalities-poverty-development", "cities-mobility-urban-planning"],
+  "thematic": [
+    "inequalities-poverty-development",
+    "cities-mobility-urban-planning"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-166",
+  "entityDescription": "Water pump company installing hydram pumps that use kinetic energy to provide free water pumping for farming and communities",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Water",
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

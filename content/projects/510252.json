@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A major food rescue and distribution organization addressing food insecurity across South Africa.",
     "de": "A major food rescue and distribution organization addressing food insecurity across South Africa."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "South Africa",
-  "name": {
-    "en": "FoodForward South Africa (FFSA)",
-    "fr": "FoodForward South Africa (FFSA)",
-    "es": "FoodForward South Africa (FFSA)",
-    "de": "FoodForward South Africa (FFSA)"
-  },
+  "name": "FoodForward South Africa (FFSA)",
   "pubId": 510252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Du Plessis"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://foodforwardsa.org/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-031",
+  "entityDescription": "Non-profit organization recovering surplus food from supply chains and redistributing it to vulnerable communities nationwide through vetted beneficiary organizations.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

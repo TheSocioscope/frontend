@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754406216,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Las Quinas es una iniciativa innovadora que combina la producción de miel ecológica con la responsabilidad social. Fundada por un antiguo profesional del mundo empresarial, la empresa colabora con productores y cooperativas locales, fomentando la confianza y los beneficios mutuos. A lo largo de los años, Las Quinas ha ampliado su línea de productos para incluir dulce de leche y mermeladas, al tiempo que participa en proyectos comunitarios que empoderan a los grupos vulnerables, en particular a las mujeres. Su compromiso con la sostenibilidad y el impacto social les ha valido el reconocimiento local e internacional.",
     "de": "Las Quinas ist eine innovative Initiative, die organische Honigproduktion mit sozialer Verantwortung verbindet. Das Unternehmen wurde von einem ehemaligen Unternehmensberater gegründet und arbeitet mit lokalen Produzenten und Genossenschaften zusammen, um Vertrauen und gegenseitigen Nutzen zu fördern. Im Laufe der Jahre hat Las Quinas seine Produktlinie um Dulce de Leche und Schinken erweitert und engagiert sich außerdem in Gemeinschaftsprojekten, die benachteiligte Gruppen, insbesondere Frauen, stärken. Ihr Engagement für Nachhaltigkeit und soziale Auswirkungen hat sowohl lokal als auch international Anerkennung gefunden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "es": "Las Quinas",
-    "en": "Las Quinas",
-    "fr": "Las Quinas",
-    "de": "Las Quinas"
-  },
+  "name": "Las Quinas",
   "pubId": 450852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Parra"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.lasquinas.com.ar/",
   "yt": "fGM5FCgJAd0",
   "originalLang": "fr",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-006",
+  "entityDescription": "Organic food company producing honey, dulce de leche, and preserves with integrated social impact projects and cooperative partnerships.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

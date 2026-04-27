@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Arca Tierra revitalizes the ancient chinampa system, promoting agroecology, fair trade, and local food distribution in Mexico City.",
     "de": "Arca Tierra revitalizes the ancient chinampa system, promoting agroecology, fair trade, and local food distribution in Mexico City."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Arca Tierra",
-    "fr": "Arche Terre",
-    "es": "Arca Tierra",
-    "de": "Erde Arche"
-  },
+  "name": "Arca Tierra",
   "pubId": 506552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "G. Hernández"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.arcatierra.com/",
   "yt": "",
   "originalLang": "es",
@@ -203,5 +208,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-047",
+  "entityDescription": "A network promoting sustainable food through regenerative agriculture, providing agroecological produce to restaurants and homes while offering agritourism experiences in Xochimilco.",
+  "entityRole": [
+    "Primary Production",
+    "Distribution/Logistics",
+    "Retail",
+    "Support Services",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Goods & Products"
 }

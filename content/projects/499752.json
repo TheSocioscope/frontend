@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Finca San José es una de las mayores fincas productoras de leche en la región central de Colombia (Cundinamarca). Ubicada en Mosquera, la finca opera con más de 200 cabezas de ganado activas produciendo leche, contribuyendo significativamente a la cadena de suministro lácteo regional y a la seguridad alimentaria local.",
     "de": "Finca San José ist einer der größten Milchviehbetriebe in der zentralen Region Kolumbiens (Cundinamarca). Der in Mosquera gelegene Betrieb verfügt über mehr als 200 aktive Milchkühe und leistet einen wichtigen Beitrag zur regionalen Milchversorgungskette und zur lokalen Ernährungssicherheit."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "Mosquera",
-  "name": {
-    "en": "Finca San José - Mosquera",
-    "fr": "Ferme San José - Mosquera",
-    "es": "Finca San José - Mosquera",
-    "de": "Finca San José - Mosquera"
-  },
+  "name": "Finca San José - Mosquera",
   "pubId": 499752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Vargas"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -195,5 +200,17 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-349",
+  "entityDescription": "Finca familiar de 90 hectáreas con 200 vacas en ordeño que produce leche cruda en la Sabana de Bogotá",
+  "entityRole": [
+    "Primary Production"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Livestock & Dairy"
+  ],
+  "resourceType": "Goods & Products"
 }

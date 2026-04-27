@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754955265,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Pangea es una iniciativa innovadora centrada en la agricultura sostenible a través del compostaje. Creada hace seis años, Pangea transforma residuos agroindustriales en fertilizantes orgánicos de alta calidad, promoviendo prácticas agrícolas regenerativas. Utilizando técnicas avanzadas de compostaje, la empresa reduce el tiempo de producción y el impacto ambiental, al tiempo que apoya a los cultivadores locales con productos a medida. Pangea pretende mejorar la salud del suelo y contribuir a una economía circular, fomentando un paisaje agrícola más sostenible.",
     "de": "Pangea ist eine innovative Initiative, die sich auf nachhaltige Landwirtschaft durch Kompostierung konzentriert. Pangea wurde vor sechs Jahren gegründet und verwandelt agroindustrielle Abfälle in hochwertige organische Düngemittel, die regenerative Anbaumethoden fördern. Durch den Einsatz fortschrittlicher Kompostierungstechniken reduziert das Unternehmen den Produktionsaufwand und die Umweltbelastung und unterstützt gleichzeitig lokale Landwirte mit maßgeschneiderten Produkten. Pangea möchte die Gesundheit der Böden verbessern und zu einer Kreislaufwirtschaft beitragen, um eine nachhaltigere Landwirtschaft zu fördern."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Pangea",
-    "fr": "Pangea",
-    "es": "Pangea",
-    "de": "Pangea"
-  },
+  "name": "PANGEA",
   "pubId": 486652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Cortes Ramirez"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://pangeacompost.com/",
   "yt": "6VqlsE5MtJY",
   "originalLang": "fr",
@@ -213,5 +220,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-222",
+  "entityDescription": "Produces organic fertilizer through accelerated 17-day composting process using agricultural waste residues",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

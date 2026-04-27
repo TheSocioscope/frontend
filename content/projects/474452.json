@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754574395,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Joka Farm Resources se centra en la gestión de residuos en la industria de la caña de azúcar, con el objetivo de producir bebidas seguras y saludables para los niños. La iniciativa transforma los residuos de la caña de azúcar en productos valiosos como biofertilizantes y piensos, promoviendo una economía circular. Al colaborar con agricultores y procesadores de zumos locales, Joka Farm no solo aborda los problemas de eliminación de residuos, sino que también mejora la salud del suelo y la productividad agrícola. El proyecto ejemplifica la sostenibilidad y la innovación en los sistemas alimentarios, beneficiando tanto al medio ambiente como a la comunidad.",
     "de": "Joka Farm Resources konzentriert sich auf das Abfallmanagement in der Zuckerrohrindustrie, um sichere, gesunde Getränke für Kinder zu produzieren. Die Initiative verwandelt Zuckerrohrabfälle in wertvolle Produkte wie Biofertilizide und Tierfutter und fördert so eine zirkuläre Wirtschaft. Durch die Zusammenarbeit mit lokalen Bauern und Saftverarbeitern löst Joka Farm nicht nur Probleme bei der Abfallentsorgung, sondern verbessert auch die Bodengesundheit und die landwirtschaftliche Produktivität. Das Projekt ist ein Beispiel für Nachhaltigkeit und Innovation in Lebensmittelsystemen, was sowohl der Umwelt als auch der Gemeinde zugute kommt."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Joka Farm Resources",
-    "fr": "Joka Farm Resources",
-    "es": "Recursos de la granja Joka",
-    "de": "Joka Farm Resources"
-  },
+  "name": "Joka Farm Resources",
   "pubId": 474452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Mwangi Kanyi"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://jokafarm.co.ke/",
   "yt": "",
   "editedAt": 1754575148,
@@ -45,7 +52,9 @@
       "at": 1754575148
     }
   ],
-  "updatedAt": [1754575148],
+  "updatedAt": [
+    1754575148
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +230,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-046",
+  "entityDescription": "A family business processing sugarcane juice and converting agricultural waste into organic fertilizers, animal feed, and machinery.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

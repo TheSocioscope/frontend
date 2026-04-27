@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754560576,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa se centra en la reutilización innovadora de efluentes industriales mediante un modelo de biorrefinería en Mendoza (Argentina). Con una superficie dedicada de 100 hectáreas, se han plantado más de 110.000 árboles de Eucalyptus camaldulensis para absorber los residuos líquidos, transformándolos en valiosos biofertilizantes. Este enfoque pionero, desarrollado en colaboración con universidades locales, aborda los retos medioambientales al tiempo que promueve la sostenibilidad en la industria vitivinícola y más allá, mostrando un compromiso con las prácticas de economía circular.",
     "de": "Die Initiative konzentriert sich auf die innovative Wiederverwendung von Industrieabwässern durch ein Bioraffinerie-Modell in Mendoza, Argentinien. Auf einer Fläche von 100 Hektar wurden über 110.000 Eucalyptus camaldulensis-Bäume gepflanzt, um flüssige Abfälle zu absorbieren und sie in wertvolle Biofertilizer umzuwandeln. Dieser wegweisende Ansatz, der in Zusammenarbeit mit lokalen Universitäten entwickelt wurde, adressiert Umweltherausforderungen, während er die Nachhaltigkeit in der Weinindustrie und darüber hinaus fördert und ein Engagement für die Kreislaufwirtschaftspraktiken zeigt."
   },
-  "field": ["ecology-environmental-sciences", "engineering-and-technology"],
+  "field": [
+    "ecology-environmental-sciences",
+    "engineering-and-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Dervinsa",
-    "fr": "Dervinsa",
-    "es": "Dervinsa",
-    "de": "Dervinsa"
-  },
+  "name": "Dervinsa",
   "pubId": 460352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Urigen"
     }
   ],
-  "thematic": ["ecology-environmental-change", "innovation-rd"],
+  "thematic": [
+    "ecology-environmental-change",
+    "innovation-rd"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://dervinsa.com.ar/english/",
   "yt": "wvfknr2zzOA",
   "originalLang": "fr",
@@ -203,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-047",
+  "entityDescription": "Biorefinery that processes wine industry by-products into value-added products like tartaric acid, grape seed oil, and alcohol.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

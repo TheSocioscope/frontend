@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A community-driven NPO combating food insecurity through food relief, community gardens, nutrition education, and sustainable farming.",
     "de": "A community-driven NPO combating food insecurity through food relief, community gardens, nutrition education, and sustainable farming."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "Zwelethemba, Worcester",
-  "name": {
-    "en": "Khulisa Food and Nutrition NPO",
-    "fr": "Khulisa Food and Nutrition NPO",
-    "es": "Khulisa Food and Nutrition NPO",
-    "de": "Khulisa Food and Nutrition NPO"
-  },
+  "name": "Khulisa Food and Nutrition NPO",
   "pubId": 509452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Zotwana"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-015",
+  "entityDescription": "A non-profit organization that helps community members start food gardens, provides skills development programs, and operates aquaponics farming to support food security.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Services"
 }

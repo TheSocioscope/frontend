@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Biofutura is a Costa Rican company focused on developing sustainable and innovative solutions for agriculture and food systems.",
     "de": "Biofutura is a Costa Rican company focused on developing sustainable and innovative solutions for agriculture and food systems."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Biofutura",
-    "fr": "Biofutura",
-    "es": "Biofutura",
-    "de": "Biofutura"
-  },
+  "name": "Biofutura",
   "pubId": 500952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Rodríguez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://biofuturacr.com/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-021",
+  "entityDescription": "Waste management company specializing in organic waste collection, composting with forced air injection technology, and consulting for municipalities.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Individual/Solo",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

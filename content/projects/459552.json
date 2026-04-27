@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403343,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en el programa Agrupar de Quito (Ecuador), cuyo objetivo es mejorar la seguridad alimentaria y promover el espíritu empresarial a través de huertos urbanos. Creado en 2003, funciona como una entidad sin ánimo de lucro, que moviliza fondos públicos y privados. El programa ofrece formación, asistencia técnica y acceso al mercado a los participantes, y se dirige principalmente a poblaciones vulnerables, como los adultos mayores y los desempleados. Con más de 1.200 huertos y 5.200 beneficiarios, ha contribuido significativamente a reducir las tasas de malnutrición en la comunidad.",
     "de": "Die Initiative konzentriert sich auf das Agrupar-Programm in Quito, Ecuador, das die Ernährungssicherheit erhöhen und das Unternehmertum durch städtische Gemüsegärten fördern soll. Das 2003 gegründete Programm arbeitet als gemeinnütziges Unternehmen, das sowohl öffentliche als auch private Gelder aufbringt. Das Programm bietet Schulungen, technische Unterstützung und Marktzugang für Teilnehmer, die sich vor allem an besonders gefährdete Bevölkerungsgruppen richten, darunter ältere Erwachsene und Arbeitslose. Mit über 1.200 Gärten und 5.200 Begünstigten hat das Projekt erheblich zur Verringerung der Unterernährungsraten in der Gemeinde beigetragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Conquito",
-    "fr": "Conquito",
-    "es": "Conquito",
-    "de": "Conquito"
-  },
+  "name": "Conquito",
   "pubId": 459552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Garófalo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "conquito.org.ec",
   "yt": "",
   "originalLang": "fr",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-046",
+  "entityDescription": "Municipal development agency running urban agriculture program providing training and technical assistance for urban food gardens in Quito.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Huerto Roma Verde fosters an active community committed to biosocial regeneration through projects creating spaces for reflection and regenerative practices.",
     "de": "Huerto Roma Verde fosters an active community committed to biosocial regeneration through projects creating spaces for reflection and regenerative practices."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Huerto Roma Verde",
-    "fr": "Huerto Roma Verde",
-    "es": "Huerto Roma Verde",
-    "de": "Huerto Roma Verde"
-  },
+  "name": "Huerto Roma Verde",
   "pubId": 504452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "José Ayala G."
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.huertoromaverde.org/quienes-somos",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-005",
+  "entityDescription": "A community-run urban garden and regenerative socio-environmental project operating on occupied land in Mexico City.",
+  "entityRole": [
+    "Primary Production",
+    "Waste & Circular Economy",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

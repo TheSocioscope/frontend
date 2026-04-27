@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754479895,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Frutalia es una empresa familiar especializada en la transformación de frutas en productos innovadores, especialmente en aromas líquidos de frutas. Fundada en Boyacá hace más de 26 años, la empresa ha crecido hasta cubrir el mercado nacional, centrándose en la calidad y la sostenibilidad. La empresa opera desde unas instalaciones de 1.800 metros cuadrados donde transforma la fruta fresca en pulpa de fruta concentrada, que luego se envasa para su distribución. Con un compromiso con los proveedores locales y las energías renovables, Frutalia sigue evolucionando bajo la segunda generación, ampliando su cartera de productos y mejorando su eficiencia operativa.",
     "de": "Frutalia ist ein familiengeführtes Unternehmen, das sich auf die Verarbeitung von Obst zu innovativen Produkten, insbesondere flüssigen Fruchtaromen, spezialisiert hat. Das Unternehmen wurde vor 26 Jahren in Boyacá gegründet und ist mittlerweile auf den nationalen Markt gewachsen, wobei der Schwerpunkt auf Qualität und Nachhaltigkeit liegt. Das Unternehmen betreibt eine 1.800 Quadratmeter große Anlage, in der es frisches Obst zu konzentriertem Fruchtmark verarbeitet, das dann für den Vertrieb verpackt wird. Mit einem Bekenntnis zu lokalen Lieferanten und erneuerbarer Energie entwickelt sich Frutalia auch unter der zweiten Generation weiter, erweitert sein Produktportfolio und steigert seine betriebliche Effizienz."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Frutalia",
-    "fr": "Frutalia",
-    "es": "Frutalia",
-    "de": "Frutalia"
-  },
+  "name": "Frutalia",
   "pubId": 467052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Morales"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.frutalia.com.co/responsabilidad-social/",
   "yt": "",
   "originalLang": "fr",
@@ -194,5 +199,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-602",
+  "entityDescription": "Family food processing company that produces liquid fruit aromatics and industrial food ingredients using local ingredients and renewable energy.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

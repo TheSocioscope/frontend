@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754479753,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "El proyecto Asoprocvilla pretende fortalecer la producción local y conectar directamente a los consumidores con los productores de Villa de Leyva. Establecida hace más de 15 años durante una huelga agraria, la iniciativa fomenta un mercado alternativo donde los productores locales y regionales pueden vender productos orgánicos, artesanales y sostenibles directamente a los consumidores. Este proyecto no sólo aborda la escasez de alimentos, sino que también promueve la participación de la comunidad, la interacción social y el compromiso con una vida sana, creando un tejido social vibrante dentro de la comunidad.",
     "de": "Das Asoprocvilla-Projekt zielt darauf ab, die lokale Produktion zu stärken und die Verbraucher direkt mit den Erzeugern in Villa de Leyva zu verbinden. Die Initiative wurde vor 15 Jahren während eines Streiks in der Landwirtschaft gegründet und fördert einen alternativen Markt, auf dem lokale und regionale Erzeuger organische, handwerkliche und nachhaltige Produkte direkt an die Verbraucher verkaufen können. Das Projekt adressiert nicht nur Lebensmittelengpässe, sondern fördert auch das Engagement der Gemeinschaft, soziale Interaktion und ein Bekenntnis zu einem gesunden Lebensstil und schafft so ein lebendiges soziales Gefüge innerhalb der Gemeinde."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Asoprocvilla",
-    "en": "Asoprocvilla",
-    "fr": "Asoprocvilla",
-    "es": "Asoprocvilla",
-    "de": "Asoprocvilla"
-  },
+  "name": "Asoprocvilla",
   "pubId": 466952,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Feoli"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://asoprocvilla.com/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-606",
+  "entityDescription": "A cooperative market connecting local organic producers directly with consumers in Villa de Leyva, Colombia",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Retail",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Mitti Labs combines satellite technology, AI and ground operations to permanently reduce methane emissions from rice farming by 50%.",
     "de": "Mitti Labs combines satellite technology, AI and ground operations to permanently reduce methane emissions from rice farming by 50%."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Mitti Labs",
-    "fr": "Mitti Labs",
-    "es": "Mitti Labs",
-    "de": "Mitti Labs"
-  },
+  "name": "Mitti Labs",
   "pubId": 503752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Dalal"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.mittilabs.earth/#hero",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-021",
+  "entityDescription": "Tech-enabled carbon project developer focused on rice methane reduction through alternate wetting and drying practices with smallholder farmers.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Financial"
 }

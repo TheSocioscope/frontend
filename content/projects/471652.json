@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1754675061,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Mescladis es una iniciativa con sede en Barcelona fundada para apoyar a los inmigrantes mediante la formación laboral en el sector de la hostelería. Creada por un empresario argentino, gestiona varios bares-restaurantes que sirven como centros de formación, centrándose en la sostenibilidad social y la diversidad cultural. El programa no sólo capacita a los participantes, sino que también hace hincapié en unas condiciones de trabajo éticas y en la colaboración con proveedores ecológicos locales, fomentando una comunidad que valora la inclusión y la sostenibilidad alimentaria.",
     "de": "Mescladis ist eine Barcelona-basierte Initiative, die gegründet wurde, um Migranten durch Jobtraining im Gastgewerbe zu unterstützen. Die von einem argentinischen Unternehmer gegründete Organisation betreibt mehrere Bar-Restaurants, die als Ausbildungsstätten dienen und sich auf soziale Nachhaltigkeit und kulturelle Vielfalt konzentrieren. Das Programm stattet die Teilnehmer nicht nur mit Fertigkeiten aus, sondern betont auch ethische Arbeitsbedingungen und die Zusammenarbeit mit lokalen Bio-Lieferanten, wodurch eine Gemeinschaft gefördert wird, die Inklusion und Nachhaltigkeit bei Lebensmitteln schätzt."
   },
-  "field": ["other-social-sciences-and-humanities", "nutrition"],
+  "field": [
+    "other-social-sciences-and-humanities",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Mescladis",
-    "fr": "Mescladis",
-    "es": "Mescladis",
-    "de": "Mescladis"
-  },
+  "name": "Mescladis",
   "pubId": 471652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,15 @@
       "lastname": "Boer"
     }
   ],
-  "thematic": ["migrations-and-diasporas", "leisure-tourism", "food-agriculture-fishery"],
+  "thematic": [
+    "migrations-and-diasporas",
+    "leisure-tourism",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://mescladis.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +221,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-029",
+  "entityDescription": "Social producer operating restaurants and training programs for migrant integration through hospitality sector employment.",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Large",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Social & Community",
+    "Food Processing/Products",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

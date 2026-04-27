@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754422684,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Elementa Foods es una empresa innovadora con sede en el Gran Buenos Aires, especializada en el desarrollo de harinas funcionales, en particular harina de altramuz, rica en proteínas y sin sabor residual amargo. Fundada por un grupo de antiguos profesionales de empresa, Elementa pretende crear productos alimentarios sostenibles y de alta calidad integrando conocimientos ancestrales con prácticas agrícolas modernas. Su misión se centra en mejorar la nutrición y adaptarse a los estilos de vida contemporáneos, fomentando al mismo tiempo las asociaciones locales y la sostenibilidad en la industria alimentaria.",
     "de": "Elementa Foods ist ein innovatives Unternehmen mit Sitz in Greater Buenos Aires, das sich auf die Entwicklung funktioneller Flours spezialisiert hat, insbesondere Lupinenflour, das reich an Proteinen und frei von bitterem Restgeschmack ist. Elementa wurde von einer Gruppe ehemaliger Unternehmensfachleute gegründet und zielt auf die Schaffung nachhaltiger, hochwertiger Lebensmittelprodukte durch die Integration von überliefertem Wissen und modernen landwirtschaftlichen Praktiken ab. Ihre Mission konzentriert sich auf die Verbesserung der Ernährung und die Anpassung an zeitgemäße Lebensweisen, wobei sie lokale Partnerschaften und Nachhaltigkeit in der Lebensmittelindustrie fördert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Elementa Foods",
-    "en": "Elementa Foods",
-    "fr": "Elementa Foods",
-    "es": "Alimentos Elementa",
-    "de": "Elementa-Nahrungsmittel"
-  },
+  "name": "Elementa Foods",
   "pubId": 452852,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Benito"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://elementafoods.com/",
   "yt": "",
   "originalLang": "fr",
@@ -205,5 +209,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-143",
+  "entityDescription": "Food ingredient company producing functional flours and proteins from legumes like lupin, pea, and chickpea for the food industry.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

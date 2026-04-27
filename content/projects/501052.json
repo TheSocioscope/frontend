@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Costa Rica Regenerativa promotes regenerative agriculture and sustainable land use practices to restore ecosystems and enhance food security.",
     "de": "Costa Rica Regenerativa promotes regenerative agriculture and sustainable land use practices to restore ecosystems and enhance food security."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Costa Rica Regenerativa",
-    "fr": "Costa Rica Régénératif",
-    "es": "Costa Rica Regenerativa",
-    "de": "Costa Rica Regenerativ"
-  },
+  "name": "Costa Rica Regenerativa",
   "pubId": 501052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Muller"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.costaricaregenerativa.org/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-026",
+  "entityDescription": "Initiative demonstrating regenerative practices in agriculture, biodiversity restoration, and holistic ecosystem management throughout Costa Rica.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Knowledge & Information"
 }

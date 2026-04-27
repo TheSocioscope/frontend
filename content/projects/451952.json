@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754421592,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Eiru es una startup innovadora que mide la biodiversidad en los campos agrícolas utilizando tecnología avanzada, incluidos micrófonos e inteligencia artificial. Fundada tras ganar el premio Invap a la innovación, Eiru pretende mejorar la producción de alimentos fomentando prácticas sostenibles. Su enfoque ofrece una alternativa más rápida y eficaz a los métodos tradicionales de medición de la biodiversidad, abordando el urgente declive mundial de la misma. La empresa trata de conectar con los productores para mejorar las prácticas agrícolas, garantizando al mismo tiempo la sostenibilidad medioambiental.",
     "de": "Eiru ist ein innovatives Start-up-Unternehmen, das die Artenvielfalt in der Landwirtschaft mithilfe modernster Technologie, einschließlich Mikrophonen und künstlicher Intelligenz, misst. Eiru wurde nach dem Gewinn des Invap-Preises für Innovation gegründet und zielt darauf ab, die Nahrungsmittelproduktion durch die Förderung nachhaltiger Praktiken zu verbessern. Ihr Ansatz bietet eine schnellere, effizientere Alternative zu herkömmlichen Methoden der Biodiversitätsmessung und adressiert den dringenden globalen Rückgang der Biodiversität. Das Unternehmen strebt eine Verbindung zu den Erzeugern an, um die landwirtschaftlichen Praktiken zu verbessern und gleichzeitig die ökologische Nachhaltigkeit zu gewährleisten."
   },
-  "field": ["biology", "ecology-environmental-sciences"],
+  "field": [
+    "biology",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Eiru Tech",
-    "fr": "Eiru Tech",
-    "es": "Eiru Tech",
-    "de": "Eiru Tech"
-  },
+  "name": "Eiru Tech",
   "pubId": 451952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,13 @@
       "lastname": "Garibaldi"
     }
   ],
-  "thematic": ["ecology-environmental-change"],
+  "thematic": [
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://eiru.tech/",
   "yt": "2Cp3Z4ZtR5c",
   "originalLang": "fr",
@@ -213,5 +219,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-054",
+  "entityDescription": "Technology company that provides monitoring, reporting and verification of biodiversity using acoustic sensors and satellite imaging models.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Environment & Biodiversity",
+    "Technology & Innovation",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

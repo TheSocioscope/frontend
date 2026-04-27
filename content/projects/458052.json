@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754385034,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Waylla Kuri es una asociación indígena de Ecuador centrada en la producción de café orgánico, sobre todo robusta. Con 33 socios legales y 300 socios comerciales, gestionan 42.000 hectáreas utilizando el sistema ancestral de chacra, que promueve la biodiversidad y la sostenibilidad. La iniciativa pretende lograr la seguridad alimentaria y la sostenibilidad financiera de la comunidad, haciendo hincapié en la solidaridad, los valores comunitarios y las prácticas de comercio justo. Pretenden ampliar su presencia en el mercado preservando al mismo tiempo su patrimonio cultural y sus prácticas medioambientales.",
     "de": "Waylla Kuri ist ein indigener Verein in Ecuador, der sich auf die organische Kaffeeproduktion, insbesondere Robusta-Kaffee, konzentriert. Mit 33 Rechts- und 300 Geschäftspartnern bewirtschaften sie 42.000 Hektar Land nach dem uralten Chacra-System, das Biodiversität und Nachhaltigkeit fördert. Die Initiative zielt darauf ab, Nahrungsmittelsicherheit und finanzielle Nachhaltigkeit für die Gemeinschaft zu erreichen, indem sie Solidarität, Gemeinschaftswerte und faire Handelspraktiken betont. Sie wollen ihre Marktpräsenz ausbauen, während sie ihr kulturelles Erbe und ihre Umweltpraktiken bewahren."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Waylla Kuri",
-    "en": "Waylla Kuri",
-    "fr": "Waylla Kuri",
-    "es": "Waylla Kuri"
-  },
+  "name": "Waylla Kuri",
   "pubId": 458052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Snaider"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://wayllakuri.com/quienes-somos/",
   "yt": "",
   "originalLang": "fr",
@@ -203,5 +208,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-002",
+  "entityDescription": "Indigenous association producing organic specialty robusta coffee under ancestral chacra system for export and domestic markets.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

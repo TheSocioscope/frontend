@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754500282,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "ATTA es una iniciativa centrada en promover el consumo sostenible de la hormiga culona, un alimento tradicional de Santander (Colombia). Mediante la transformación de esta fuente única de proteínas en productos innovadores como las galletas, ATTA pretende potenciar la sostenibilidad alimentaria preservando al mismo tiempo el patrimonio cultural. El proyecto no sólo destaca los beneficios nutricionales de la hormiga, sino que también busca crear una fuerte identidad regional, fomentando el consumo local y apoyando a los agricultores mediante prácticas sostenibles.    ",
     "de": "ATTA ist eine Initiative, die sich auf die Förderung des nachhaltigen Konsums des Culona-Ant, eines traditionellen Nahrungsmittels in Santander, Kolumbien, konzentriert. Durch die Umwandlung dieser einzigartigen Proteinquelle in innovative Produkte wie Kekse will ATTA die Nachhaltigkeit der Ernährung verbessern und gleichzeitig das kulturelle Erbe bewahren. Das Projekt hebt nicht nur die ernährungsphysiologischen Vorteile des Ants hervor, sondern zielt auch darauf ab, eine starke regionale Identität zu schaffen, den lokalen Konsum zu fördern und Landwirte durch nachhaltige Praktiken zu unterstützen.    "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "ATTA",
-    "fr": "ATTA",
-    "es": "ATTA",
-    "de": "ATTA"
-  },
+  "name": "ATTA",
   "pubId": 468952,
   "state": "ongoing-project",
   "team": [
@@ -38,9 +39,13 @@
       "lastname": "Parra"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/attasantander/",
   "yt": "MQtNXNiLbjs",
   "originalLang": "fr",
@@ -218,5 +223,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-320",
+  "entityDescription": "Social enterprise producing ant cookies and traditional food products to promote Santander's culinary heritage.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Goods & Products"
 }

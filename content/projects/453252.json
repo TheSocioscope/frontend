@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1741084175,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "C'est Bio L'Anjou es una iniciativa de alimentación situada en Rochefort-sur-Loire. El proyecto pretende abordar los retos a los que se enfrentan los comedores y productores locales creando una plataforma logística que los conecte, facilitando la entrega de productos ecológicos y locales. La iniciativa también se centra en la formación y la educación, la promoción de prácticas culinarias sostenibles y el fomento de un ecosistema de colaboración entre las partes interesadas locales. Mediante el establecimiento de asociaciones con diversos productores y chefs, C'est Bio L'Anjou pretende crear un sistema alimentario más virtuoso que respete el medio ambiente y mejore el bienestar de la comunidad.",
     "de": "C'est Bio L'Anjou ist eine Pflegeinitiative mit Sitz in Rochefort-sur-Loire. Das Projekt zielt darauf ab, die Herausforderungen der lokalen Kantinen und Erzeuger zu bewältigen, indem eine Logistikplattform geschaffen wird, die sie miteinander verbindet und die Lieferung von organischen und lokalen Produkten erleichtert. Die Initiative konzentriert sich außerdem auf Schulung und Ausbildung, die Förderung nachhaltiger Kochpraktiken und die Unterstützung eines kollaborativen Ökosystems unter den lokalen Akteuren. By establishing partnerships with various producers and chefs, C'est Bio L'Anjou aims to create a more virtuous food system that respects the environment and enhances community well-being."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "fr": "C'est Bio L'Anjou",
-    "en": "C'est Bio L'Anjou",
-    "es": "C'est Bio L'Anjou",
-    "de": "C'est Bio L'Anjou"
-  },
+  "name": "C'est Bio l'Anjou",
   "pubId": 453252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Gaste"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.cress-pdl.org/cest-bio-lanjou-un-tiers-lieu-dedie-aux-papilles/",
   "yt": "5p4VPubUMO8",
   "originalLang": "fr",
@@ -203,5 +208,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-053",
+  "entityDescription": "Tiers lieu dédié à la transition alimentaire offrant formation, plateforme logistique, conserverie et espace partagé pour artisans alimentaires",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Distribution & Logistics",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

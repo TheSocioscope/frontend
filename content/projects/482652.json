@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755002003,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Spirux es una empresa dedicada al cultivo y venta de espirulina, a la seguridad alimentaria y a la lucha contra la anemia. Surgida de un proyecto del Club Rotario, la empresa hace hincapié en la responsabilidad social y la innovación creando atractivos productos a base de espirulina, como gominolas, para fomentar su consumo entre los niños y otros grupos demográficos. La empresa gestiona granjas, emplea a familias locales y explora canales de venta entre empresas, al tiempo que aborda retos relacionados con la diferenciación de marcas y la sostenibilidad medioambiental en la producción de espirulina.",
     "de": "Spirux ist ein Unternehmen, das sich dem Anbau und dem Verkauf von Spirulina widmet und sich für Lebensmittelsicherheit und die Bekämpfung von Anämie einsetzt. Das aus einem Projekt des Rotary Clubs hervorgegangene Unternehmen setzt auf soziale Verantwortung und Innovation, indem es ansprechende Spirulina-Produkte wie Gummibärchen herstellt, um den Konsum bei Kindern und anderen Bevölkerungsgruppen zu fördern. Das Unternehmen betreibt landwirtschaftliche Betriebe, beschäftigt lokale Familien und erkundet Business-to-Business-Vertriebskanäle, während es sich gleichzeitig den Herausforderungen der Markendifferenzierung und der ökologischen Nachhaltigkeit bei der Spirulina-Produktion stellt."
   },
-  "field": ["nutrition", "medicine"],
+  "field": [
+    "nutrition",
+    "medicine"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Spirux",
-    "fr": "Spirux",
-    "es": "Spirux",
-    "de": "Spirux"
-  },
+  "name": "SpiruX",
   "pubId": 482652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "MARTIN PALMA GUTIERREZ"
     }
   ],
-  "thematic": ["public-health", "food-agriculture-fishery"],
+  "thematic": [
+    "public-health",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://spiru-x.com/",
   "yt": "T6gVbjxPoHw",
   "originalLang": "fr",
@@ -203,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-040",
+  "entityDescription": "Company that cultivates spirulina microalgae and commercializes co-products like gummies to address anemia and food insecurity",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Health & Nutrition",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

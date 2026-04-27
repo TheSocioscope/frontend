@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754647222,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa SERM Smart Farm Kenya, dirigida por un joven empresario, se centra en el cultivo de hortalizas autóctonas locales para hacer frente al desempleo y promover la agricultura sostenible. Al formar a los jóvenes de la zona, sobre todo a los que luchan contra el consumo de drogas, el proyecto fomenta la capacitación económica a través de la agricultura ecológica. La granja funciona en terrenos familiares y colabora con diversas partes interesadas, como escuelas y empresas locales, para crear un modelo autosuficiente que no sólo proporcione productos frescos, sino que también rehabilite a la comunidad.",
     "de": "Die von einem Jugendunternehmer geleitete Initiative SERM Smart Farm Kenya konzentriert sich auf den Anbau einheimischer einheimischer Gemüse, um die Arbeitslosigkeit zu bekämpfen und eine nachhaltige Landwirtschaft zu fördern. Durch die Ausbildung lokaler Jugendlicher, insbesondere solcher, die mit dem Drogenkonsum zu kämpfen haben, fördert das Projekt die wirtschaftliche Ermächtigung durch organische Landwirtschaft. Die Farm arbeitet auf Familienland und kooperiert mit verschiedenen Stakeholdern, darunter Schulen und lokale Unternehmen, um ein Selbstversorgermodell zu schaffen, das nicht nur frische Produkte liefert, sondern auch die Gemeinschaft rehabilitiert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "nb": "SERM Smart Farm ",
-    "en": "SERM Smart Farm",
-    "fr": "SERM Smart Farm",
-    "es": "Granja inteligente SERM",
-    "de": "SERM Smart Farm"
-  },
+  "name": "Serm Smart Farm",
   "pubId": 476052,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Ndungu"
     }
   ],
-  "thematic": ["inequalities-poverty-development", "food-agriculture-fishery"],
+  "thematic": [
+    "inequalities-poverty-development",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/smartfarmingkenya/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-125",
+  "entityDescription": "Organic vegetable farm producing indigenous and modern vegetables, providing seedlings, training, and aggregating produce for farmers.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

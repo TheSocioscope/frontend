@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754563325,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Agrojusto es una iniciativa innovadora centrada en transformar el panorama de la comercialización de alimentos para crear un sistema más justo y eficiente para los pequeños agricultores y comerciantes. La organización aprovecha la tecnología para mejorar la conexión entre los pequeños productores y toda la cadena de valor, con el objetivo de mejorar los procesos de comercialización. Agrojusto ofrece un servicio de suscripción tanto para comercializadores como para productores, adaptando su modelo de negocio a distintos países, como Argentina y México, donde colabora con ONG para poner en marcha programas a medida que respondan a las necesidades locales.",
     "de": "Agrojusto ist eine innovative Initiative, die sich auf die Umgestaltung der Lebensmittelvermarktungslandschaft konzentriert, um ein faires und effizienteres System für Kleinbauern und Händler zu schaffen. Die Organisation setzt Technologien ein, um die Verbindung zwischen Kleinbauern und der gesamten Wertschöpfungskette zu verbessern und so die Vermarktungsprozesse zu optimieren. Agrojusto bietet einen abonnierten Service sowohl für Vermarkter als auch für Produzenten an und passt sein Geschäftsmodell an verschiedene Länder wie Argentinien und Mexiko an, wo es mit NGOs zusammenarbeitet, um maßgeschneiderte Programme zu implementieren, die den lokalen Bedürfnissen entsprechen."
   },
-  "field": ["nutrition", "information-technology"],
+  "field": [
+    "nutrition",
+    "information-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Agrojusto",
-    "fr": "Agrojusto",
-    "es": "Agrojusto",
-    "de": "Agrojusto"
-  },
+  "name": "AgroJusto",
   "pubId": 461252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,13 @@
       "lastname": "Bonesso"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://agrojusto.com.ar/",
   "yt": "dkphie3yCRw",
   "originalLang": "fr",
@@ -213,5 +219,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-100",
+  "entityDescription": "Technology platform providing blockchain-based traceability and digital commerce solutions for small-scale farmers and food commercialization.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Services"
 }

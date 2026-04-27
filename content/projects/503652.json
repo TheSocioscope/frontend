@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Eeki is a Global GAP-certified agri-tech startup pioneering climate-resilient hydroponic farming with proprietary growing chambers and IoT-based controls.",
     "de": "Eeki is a Global GAP-certified agri-tech startup pioneering climate-resilient hydroponic farming with proprietary growing chambers and IoT-based controls."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Kota, Rajasthan",
-  "name": {
-    "en": "Eeki",
-    "fr": "Eeki",
-    "es": "Eeki",
-    "de": "Eeki"
-  },
+  "name": "Eeki",
   "pubId": 503652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Singh"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://eeki.com/",
   "yt": "c1OD5FdA8w4",
   "originalLang": "en",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-017",
+  "entityDescription": "Agricultural technology company developing aeroponic farming systems to maximize crop yields using minimal resources and space.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

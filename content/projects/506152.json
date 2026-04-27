@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "The Institute fosters innovation and social entrepreneurship in the agro-food sector through initiatives like Agrohackathon and alternative protein ventures.",
     "de": "The Institute fosters innovation and social entrepreneurship in the agro-food sector through initiatives like Agrohackathon and alternative protein ventures."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "es",
   "location": "Monterrey, Nuevo León",
-  "name": {
-    "en": "Instituto de Emprendimiento Eugenio Garza Lagüera",
-    "fr": "Institut d'Entrepreneuriat Eugenio Garza Lagüera",
-    "es": "Instituto de Emprendimiento Eugenio Garza Lagüera",
-    "de": "Eugenio Garza Lagüera Entrepreneurship Institut"
-  },
+  "name": "Instituto de emprendimiento Eugenio Garza Lagüera",
   "pubId": 506152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Carbajal"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://emprendimiento.tec.mx/es/social",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-040",
+  "entityDescription": "University institute that develops entrepreneurial spirit, generates high-value companies, and builds entrepreneurship ecosystems",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Large",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Financial"
 }

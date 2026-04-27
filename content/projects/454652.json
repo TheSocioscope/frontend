@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1741095896,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Happy Food Forest se centra en la creación de un sistema agrícola regenerativo que hace hincapié en las prácticas sostenibles y la participación de la comunidad. Su objetivo es cultivar un bosque alimentario diverso y un vivero de árboles al tiempo que se exploran técnicas agrícolas innovadoras. El proyecto se basa en la investigación científica y pretende mejorar la salud del suelo y la resistencia de las plantas. Además, fomenta las conexiones dentro de la comunidad agrícola local y colabora con instituciones educativas para promover la concienciación sobre la agricultura regenerativa. En general, la iniciativa encarna un enfoque holístico de la sostenibilidad, con el objetivo de equilibrar la salud ecológica con el bienestar de la comunidad.",
     "de": "Happy Food Forest konzentriert sich auf die Schaffung eines regenerativen Landwirtschaftssystems, das nachhaltige Praktiken und kommunales Engagement betont. Es zielt darauf ab, einen vielfältigen Nahrungswald und eine Baumschule zu kultivieren und dabei innovative landwirtschaftliche Techniken zu erforschen. Das Projekt ist in der wissenschaftlichen Forschung verwurzelt und zielt darauf ab, die Bodengesundheit und die Widerstandsfähigkeit der Pflanzen zu verbessern. Darüber hinaus fördert es Verbindungen innerhalb der lokalen landwirtschaftlichen Gemeinschaft und arbeitet mit Bildungseinrichtungen zusammen, um das Bewusstsein für die regenerative Landwirtschaft zu fördern. Overall, the initiative embodies a holistic approach to sustainability, aiming to balance ecological health with community well-being."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "Happy Food Forest",
-    "fr": "Happy Food Forest",
-    "es": "Bosque de alimentos felices",
-    "de": "Happy Food Forest"
-  },
+  "name": "Happy Food Forest",
   "pubId": 454652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Wortmann"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.happyfoodforest.com",
   "yt": "Tb7Z-788phg",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-054",
+  "entityDescription": "Regenerative farm and tree nursery developing food forest systems with focus on living soil and community building.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

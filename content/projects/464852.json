@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1754430912,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, fundada por dos licenciados en biología, pretende hacer frente a la creciente escasez de proteínas en la acuicultura desarrollando un suplemento proteínico sostenible para la alimentación animal. Utilizando recursos infrautilizados, como los cangrejos, el proyecto pretende crear una alternativa más respetuosa con el medio ambiente que la harina de pescado tradicional. Centrado en la innovación y la colaboración, el equipo ha conseguido financiación y asociaciones para avanzar en su misión de promover la sostenibilidad en el sector de la producción de alimentos.     ",
     "de": "Die von zwei Biologieabsolventen gegründete Initiative zielt darauf ab, den wachsenden Proteinmangel in der Aquakultur durch die Entwicklung eines nachhaltigen Proteinzusatzes für Tierfutter zu beheben. Durch die Verwendung von ungenutzten Ressourcen wie Krabben soll eine umweltfreundlichere Alternative zu traditionellem Fischmehl geschaffen werden. With a focus on innovation and collaboration, the team has secured funding and partnerships to advance their mission of promoting sustainability in the food production sector.     "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Decameal",
-    "fr": "Decameal",
-    "es": "Calcomanía",
-    "de": "Decameal"
-  },
+  "name": "Decameal",
   "pubId": 464852,
   "state": "ongoing-project",
   "team": [
@@ -38,9 +39,13 @@
       "lastname": "Happylan"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://decameal.com",
   "yt": "",
   "originalLang": "fr",
@@ -218,5 +223,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-125",
+  "entityDescription": "Biotechnology company processing crustacean shells into sustainable protein supplements for animal feed",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754569346,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Eco Scapes es una iniciativa agroecológica innovadora. Creada en 2015, se centra en la agricultura ecológica y la conservación de la vida salvaje en torno al lago Naivasha. Eco Scapes combina la producción ecológica de hortalizas con la conservación de la vida silvestre, operando en 150 acres, de los cuales 20 son de cultivo ecológico. El objetivo de la granja es proporcionar alimentos sanos a las familias locales al tiempo que se abordan cuestiones medioambientales relacionadas con el uso de pesticidas y el cambio climático.  La iniciativa también sirve como granja de demostración, que exhibe diversos cultivos y ofrece oportunidades educativas a la comunidad sobre agricultura ecológica y esfuerzos de conservación.",
     "de": "Eco Scapes ist eine innovative agroökologische Initiative. Sie wurde 2015 gegründet und konzentriert sich auf organischen Landbau und Wildtierschutz in der Umgebung des Lake Naivasha. Eco Scapes verbindet organische Pflanzenproduktion mit dem Schutz von Wildtieren und ist auf 150 Acres tätig, von denen 20 unter organischem Anbau stehen. Der Betrieb zielt darauf ab, gesunde Lebensmittel für lokale Familien zu liefern und gleichzeitig Umweltprobleme im Zusammenhang mit dem Einsatz von Pestiziden und dem Klimawandel anzugehen.  Die Initiative dient auch als Demonstrationsbetrieb, der verschiedene Feldfrüchte vorführt und der Gemeinde Bildungsmöglichkeiten über den ökologischen Landbau und Naturschutzbemühungen bietet."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Eco Scapes",
-    "en": "Eco Scapes",
-    "fr": "Paysages écologiques",
-    "es": "Paisajes ecológicos",
-    "de": "Öko-Landschaften"
-  },
+  "name": "Eco Scapes",
   "pubId": 473552,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Wageer, James Kimiri, Florence, Alexandra"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ecoscapes.co.ke/",
   "yt": "",
   "originalLang": "fr",
@@ -195,5 +199,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-020",
+  "entityDescription": "Agroecological farm combining organic vegetable production, wildlife conservation, and ecotourism on 150 acres near Lake Naivasha.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Food Service/Hospitality",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Large",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

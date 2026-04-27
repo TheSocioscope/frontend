@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754913658,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa Au Coin Bio se centra en la promoción de productos ecológicos en el Marché des Enfants Rouges de París, un mercado histórico. Como iniciativa gestionada por madre e hija, el proyecto hace hincapié en los valores familiares y las prácticas sostenibles. Con un compromiso con los productos libres de pesticidas, Aucoin Bio se ha convertido en un producto básico local, que atrae tanto a residentes como a turistas. La iniciativa no sólo apoya la agricultura local, sino que también fomenta sólidas relaciones con la comunidad a través de sus puestos ecológicos y sus servicios de catering.",
     "de": "Die Initiative Au Coin Bio konzentriert sich auf die Förderung von Bioprodukten auf dem Marché des Enfants Rouges in Paris, einem historischen Markt. Als Initiative, die von Mutter und Tochter geleitet wird, legt das Projekt Wert auf familiäre Werte und nachhaltige Praktiken. Mit seinem Engagement für pestizidfreie Produkte ist Aucoin Bio zu einem lokalen Grundnahrungsmittel geworden, das sowohl Einwohner als auch Touristen anzieht. Die Initiative unterstützt nicht nur die lokale Landwirtschaft, sondern fördert durch ihre Bio-Stände und Catering-Services auch starke Beziehungen zur Gemeinde."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Au Coin Bio",
-    "fr": "Au Coin Bio",
-    "es": "Biografía de Au Coin",
-    "de": "Au Coin Bio"
-  },
+  "name": "Au Coin Bio",
   "pubId": 484852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Piercot"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://aucoinbio-restaurant.fr/",
   "yt": "OCTFJbABXoA",
   "originalLang": "en",
@@ -194,5 +199,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-210",
+  "entityDescription": "Family organic fruit and vegetable retail business with restaurant at Marché des Enfants Rouges market in Paris",
+  "entityRole": [
+    "Retail",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

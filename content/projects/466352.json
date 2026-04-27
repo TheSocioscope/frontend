@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754477725,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Rewild Organics es una marca centrada en la creación y venta de productos para la salud a base de cúrcuma, como leche dorada en polvo y tinturas. Operan principalmente en Costa Rica y hacen hincapié en la compensación justa a los agricultores y en las prácticas sostenibles. Su misión es promover la salud garantizando al mismo tiempo un abastecimiento y una producción éticos, y dirigirse a los mercados de gama alta de Estados Unidos y Canadá. A pesar de las dificultades de ampliación y visibilidad en el mercado, siguen comprometidos con el consumo responsable y la integridad de su cadena de suministro.",
     "de": "Rewild Organics ist eine Marke, die sich auf die Herstellung und den Verkauf von Kurkuma-Gesundheitsprodukten konzentriert, darunter Goldmilchpulver und Tinkturen. Sie sind hauptsächlich in Costa Rica tätig und legen Wert auf faire Entschädigungen für Bauern und nachhaltige Praktiken. Ihr Ziel ist es, die Gesundheit zu fördern und gleichzeitig die ethische Beschaffung und Produktion sicherzustellen, wobei sie sich an High-End-Märkte in den USA und Kanada richten. Trotz Herausforderungen bei der Skalierung und Marktvisibilität bleiben sie einem verantwortungsvollen Konsumverhalten und der Integrität ihrer Lieferkette verpflichtet."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "de": "Rewild Organics",
-    "en": "Rewild Organics",
-    "fr": "Rewild Organics",
-    "es": "Rewild Organics"
-  },
+  "name": "Rewild Organics",
   "pubId": 466352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Hughes"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://rewildorganics.org/",
   "yt": "",
   "originalLang": "fr",
@@ -194,5 +199,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-048",
+  "entityDescription": "Retail and wholesale brand selling turmeric and ginger-based health products from regenerative farms in Costa Rica.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

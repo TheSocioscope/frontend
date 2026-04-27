@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CoopeCuna is a Costa Rican cooperative organization supporting local farmers and promoting sustainable agricultural practices.",
     "de": "CoopeCuna is a Costa Rican cooperative organization supporting local farmers and promoting sustainable agricultural practices."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "CoopeCuna",
-    "fr": "CoopeCuna",
-    "es": "CoopeCuna",
-    "de": "CoopeCuna"
-  },
+  "name": "CoopeCuna",
   "pubId": 501252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Julio"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-046",
+  "entityDescription": "Agricultural cooperative producing organic crops, essential oils, cacao and offering agrotourism services with 24 member families.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

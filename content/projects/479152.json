@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["sri-lanka"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "sri-lanka"
+  ],
   "createdAt": 1754653786,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Honest Greens es una iniciativa pionera de agricultura vertical en Sri Lanka, fundada en 2015 para hacer frente a los problemas de seguridad alimentaria. Utilizando tecnología avanzada, la granja cultiva diversos productos, principalmente lechugas y hierbas, en un entorno controlado. Este enfoque innovador permite la producción durante todo el año, reduciendo significativamente el uso de la tierra y el impacto ambiental. Centrada en la sostenibilidad, Honest Greens aspira a ampliar sus operaciones y compartir su modelo a escala mundial, promoviendo la autosuficiencia en la producción de alimentos.",
     "de": "Honest Greens ist eine bahnbrechende Initiative für vertikale Landwirtschaft in Sri Lanka, die 2015 gegründet wurde, um den Herausforderungen der Ernährungssicherheit zu begegnen. Mithilfe fortschrittlicher Technologie baut die Farm eine Vielzahl von Pflanzen, vor allem Salat und Kräuter, in einer kontrollierten Umgebung an. Dieser innovative Ansatz ermöglicht eine ganzjährige Produktion und reduziert den Landverbrauch und die Umweltbelastung erheblich. Mit dem Fokus auf Nachhaltigkeit will Honest Greens seine Aktivitäten ausweiten und sein Modell weltweit verbreiten, um die Selbstversorgung mit Lebensmitteln zu fördern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Honest Greens",
-    "fr": "Les Verts honnêtes",
-    "es": "Verdes honestos",
-    "de": "Ehrliche Grüne"
-  },
+  "name": "Honest Greens",
   "pubId": 479152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Lopez del Rio"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://honestgreens.asia/",
   "yt": "CwaFZC2kG9s",
   "originalLang": "en",
@@ -194,5 +199,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "LK-008",
+  "entityDescription": "A vertical farming company in Sri Lanka producing leafy greens using high-tech climate-controlled indoor facilities.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

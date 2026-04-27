@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1754654618,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El objetivo de Farmizen es abordar el maltrecho sistema alimentario reconectando a los consumidores con la fuente de sus alimentos y mejorando los medios de subsistencia de los agricultores. Al promover prácticas sostenibles y permitir a los particulares cultivar sus propios alimentos, incluso en espacios reducidos, Farmizen fomenta un enfoque orientado a la comunidad. La iniciativa hace hincapié en la transparencia, la trazabilidad y la educación, garantizando que tanto consumidores como productores comprendan la importancia de la nutrición y la agricultura sostenible. En última instancia, Farmizen pretende crear un ecosistema alimentario más sano y equitativo para todas las partes interesadas.",
     "de": "Farmizen hat sich zum Ziel gesetzt, das kaputte Lebensmittelsystem zu verbessern, indem es die Verbraucher wieder mit der Quelle ihrer Lebensmittel in Verbindung bringt und den Lebensunterhalt der Landwirte verbessert. Durch die Förderung nachhaltiger Praktiken und die Ermöglichung des Anbaus eigener Lebensmittel, auch auf kleinem Raum, unterstützt Farmizen einen gemeinschaftsorientierten Ansatz. Die Initiative setzt auf Transparenz, Rückverfolgbarkeit und Aufklärung, um sicherzustellen, dass sowohl Verbraucher als auch Erzeuger die Bedeutung von Ernährung und nachhaltiger Landwirtschaft verstehen. Letztlich will Farmizen ein gesünderes, gerechteres Lebensmittel-Ökosystem für alle Beteiligten schaffen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Farmizen",
-    "fr": "Farmizen",
-    "es": "Farmizen",
-    "de": "Farmizen"
-  },
+  "name": "Farmizen",
   "pubId": 479552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Daniel Lira Lopez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.farmizen.com/",
   "yt": "LRX7pAsWWeU",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-008",
+  "entityDescription": "A digital platform connecting urban consumers with peri-urban organic farmers through contract farming and subscription-based produce delivery services.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754422890,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Prodeman, fundada en 1984, ha pasado de ser una pequeña empresa agrícola a convertirse en un actor importante en la industria del cacahuete. Ubicada en General Cabrera, Córdoba, la empresa gestiona actualmente más de 40.000 hectáreas y emplea a 650 personas. Con un enfoque en la sostenibilidad y la innovación, Prodeman tiene como objetivo producir productos alimenticios acabados, incluyendo aperitivos y harinas, mientras que también genera energía a partir de residuos de cáscara de cacahuete, mostrando un compromiso con las prácticas de economía circular. Destacan la importancia de la educación y la participación de la comunidad, incluida la creación de una escuela secundaria local.",
     "de": "Das 1984 gegründete Unternehmen Prodeman hat sich von einem kleinen landwirtschaftlichen Unternehmen zu einem bedeutenden Akteur in der Peanut-Industrie entwickelt. Das Unternehmen mit Sitz in General Cabrera, Córdoba, bewirtschaftet mittlerweile über 40.000 Hektar und beschäftigt 650 Mitarbeiter. Mit einem Fokus auf Nachhaltigkeit und Innovation strebt Prodeman die Herstellung von Fertignahrungsmitteln an, darunter Snacks und Flours, und erzeugt außerdem Energie aus Erdnussschalenabfällen, was ein Bekenntnis zu Praktiken der Kreislaufwirtschaft zeigt. Sie betonen die Bedeutung von Bildung und kommunaler Beteiligung, einschließlich der Einrichtung einer örtlichen Sekundarschule."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Prodeman",
-    "fr": "Prodeman",
-    "es": "Prodeman",
-    "de": "Prodeman"
-  },
+  "name": "Prodeman",
   "pubId": 452952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Cristofolini"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.prodeman.com/es/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-142",
+  "entityDescription": "Family-owned agricultural company that cultivates, processes, and exports peanuts and derivative products globally.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Large",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Energy"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "NUUP is a Mexican NGO that designs, incubates, and supports agricultural initiatives promoting regenerative agriculture that restores landscapes and ecosystems.",
     "de": "NUUP is a Mexican NGO that designs, incubates, and supports agricultural initiatives promoting regenerative agriculture that restores landscapes and ecosystems."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "NUUP",
-    "fr": "NUUP",
-    "es": "NUUP",
-    "de": "NUUP"
-  },
+  "name": "NUUP",
   "pubId": 504252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Luisa Duque"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://nuup.org/",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-001",
+  "entityDescription": "A civil society organization working with small-scale farmers to build more just, transparent, and environmentally sustainable agri-food systems.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

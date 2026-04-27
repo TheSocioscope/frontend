@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["hong-kong"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "hong-kong"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Mr. Terence Choi operates indoor aqua farming ponds and teaches in the 'Diploma in Modernised Aquaculture' programme, sharing experience on sustaining Hong Kong's fishery industry.",
     "de": "Mr. Terence Choi operates indoor aqua farming ponds and teaches in the 'Diploma in Modernised Aquaculture' programme, sharing experience on sustaining Hong Kong's fishery industry."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "en",
   "location": "Hong Kong",
-  "name": {
-    "en": "Yau Tam Mei Holiday Camp Limited",
-    "fr": "Yau Tam Mei Holiday Camp Limited",
-    "es": "Yau Tam Mei Holiday Camp Limited",
-    "de": "Yau Tam Mei Holiday Camp Limited"
-  },
+  "name": "Yau Tam Mei Holiday Camp Limited",
   "pubId": 503152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Choi"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.hkaffs.org/english/registered.html",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "HK-008",
+  "entityDescription": "A campsite that combines aquaculture education, modern fish farming demonstrations, and training programs for local fishery development.",
+  "entityRole": [
+    "Support Services",
+    "Primary Production",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Knowledge & Information"
 }

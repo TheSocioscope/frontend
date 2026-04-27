@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Eric Xolani Memani's pig farm supplying pork to local businesses, demonstrating small-scale livestock farming for food security.",
     "de": "Eric Xolani Memani's pig farm supplying pork to local businesses, demonstrating small-scale livestock farming for food security."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "Zwelethemba",
-  "name": {
-    "en": "Zwelethemba Pig Farming",
-    "fr": "Zwelethemba Pig Farming",
-    "es": "Zwelethemba Pig Farming",
-    "de": "Zwelethemba Pig Farming"
-  },
+  "name": "Zwelethemba Pig Farming",
   "pubId": 509652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Memani"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-019",
+  "entityDescription": "Small-scale pig farm providing breeding, raising, slaughtering and meat supply to local markets and communities",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Goods & Products"
 }

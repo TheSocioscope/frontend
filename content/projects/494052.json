@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755005248,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Boss Woman es una iniciativa de la ONG APPB, Asociación Protección Vulnerable, destinada a empoderar a las mujeres vulnerables, especialmente las inmigrantes, mediante un programa estructurado. Ofrece apoyo psicológico mediante terapia de grupo, recursos educativos sobre derechos humanos y feminismo, y formación práctica en medios de subsistencia, incluida la educación financiera. Las participantes pueden elegir entre módulos sobre empleabilidad, espíritu empresarial o seguridad alimentaria, fomentando el crecimiento personal y la autosuficiencia de mujeres que se han enfrentado a retos importantes.",
     "de": "Boss Woman ist eine Initiative der NRO APPB (Asociación Protección Vulnerable), die darauf abzielt, gefährdete Frauen, insbesondere Migrantinnen, durch ein strukturiertes Programm zu stärken. Sie bietet psychologische Unterstützung durch Gruppentherapie, Bildungsressourcen zu Menschenrechten und Feminismus sowie praktische Schulungen zur Existenzsicherung, einschließlich Finanzbildung. Die Teilnehmerinnen können aus Modulen zur Beschäftigungsfähigkeit, zum Unternehmertum oder zur Ernährungssicherheit wählen, um die persönliche Entwicklung und die Selbstversorgung von Frauen zu fördern, die mit großen Herausforderungen konfrontiert waren."
   },
-  "field": ["gender-studies", "other-social-sciences-and-humanities"],
+  "field": [
+    "gender-studies",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Boss Woman",
-    "fr": "Femme patronne",
-    "es": "Mujer Jefa",
-    "de": "Boss Frau"
-  },
+  "name": "Boss woman",
   "pubId": 494052,
   "state": "ongoing-project",
   "team": [
@@ -39,7 +41,9 @@
     "equality-diversity-studies-and-social-justice"
   ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -207,5 +211,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-219",
+  "entityDescription": "A women's empowerment program by NGO APPB that supports vulnerable migrant women through psychological support, education, and livelihood training including food security.",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Social & Community",
+    "Agriculture/Agroecology",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Services"
 }

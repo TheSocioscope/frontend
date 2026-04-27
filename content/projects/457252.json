@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754295493,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Les Anges Gardins es una iniciativa centrada en la educación popular y la integración a través de la actividad económica, principalmente en la horticultura ecológica. Creada para hacer frente a la inseguridad alimentaria y promover la justicia social, su objetivo es crear sistemas alimentarios locales sostenibles. Al estructurar las cadenas de suministro y apoyar la participación de la comunidad, la iniciativa fomenta la accesibilidad de los alimentos y el bienestar. Mediante la colaboración con diversas partes interesadas, pretende redefinir los modelos económicos y mejorar la ciudadanía alimentaria, contribuyendo en última instancia a dietas más sanas y a la inclusión social.",
     "de": "Les Anges Gardins ist eine Initiative, die sich auf Volksbildung und Integration durch wirtschaftliche Aktivitäten konzentriert, vor allem in der organischen Marktgärtnerei. Established to address food insecurity and promote social justice, it aims to create sustainable local food systems. By structuring supply chains and supporting community engagement, the initiative fosters food accessibility and well-being. Through collaboration with various stakeholders, it seeks to redefine economic models and enhance food citizenship, ultimately contributing to healthier diets and social inclusion."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "fr": "Les Anges Gardins",
-    "en": "Les Anges Gardins",
-    "es": "Los ángeles de la guarda",
-    "de": "Die Schutzengel"
-  },
+  "name": "Les Anges Gardins",
   "pubId": 457252,
   "state": "ongoing-project",
   "team": [
@@ -35,7 +36,9 @@
   ],
   "thematic": [],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://angesgardins.fr",
   "yt": "39K6L8cLaw4",
   "originalLang": "fr",
@@ -213,5 +216,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-043",
+  "entityDescription": "Social enterprise combining job integration through organic market gardening with sustainable food system development and citizen food empowerment",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739520438,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La Ruche qui dit Oui es una iniciativa que conecta directamente a agricultores y artesanos alimentarios con los consumidores a través de una red de comunidades locales llamadas \"colmenas\". Creada en 2011, la iniciativa opera en siete países europeos y hace hincapié en la venta directa, el abastecimiento local y la participación de la comunidad. El objetivo de la iniciativa es promover un sistema alimentario justo mediante la creación de un modelo de negocio descentralizado que ofrezca a las comunidades la posibilidad de vender sus productos directamente. Promueve la transparencia en la fijación de precios, garantizando que los productores reciban una parte significativa de las ventas, y fomenta las conexiones sociales entre los miembros de la comunidad.",
     "de": "La Ruche qui dit Oui ist eine Initiative, die Bauern und Lebensmittelhandwerker über ein Netzwerk lokaler Gemeinschaften, sogenannter \"hives\", direkt mit den Verbrauchern verbindet. Die 2011 gegründete Initiative ist in sieben europäischen Ländern tätig und legt Wert auf Direktvertrieb, lokale Beschaffung und kommunales Engagement. Die Initiative will ein faires Lebensmittelsystem fördern, indem sie ein dezentralisiertes Geschäftsmodell schafft, das den Gemeinden die Möglichkeit gibt, ihre Produkte direkt zu verkaufen. Sie fördert die Transparenz bei der Preisgestaltung, stellt sicher, dass die Erzeuger einen bedeutenden Anteil des Umsatzes erhalten, und fördert soziale Verbindungen unter den Gemeindemitgliedern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "La Ruche Qui Dit Oui",
-    "en": "La Ruche Qui Dit Oui",
-    "fr": "La Ruche Qui Dit Oui",
-    "es": "La Ruche Qui Dit Oui",
-    "de": "La Ruche Qui Dit Oui"
-  },
+  "name": "La Ruche qui dit Oui",
   "pubId": 442352,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Fernier"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://laruchequiditoui.fr",
   "yt": "5PAANWDCwmA",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-102",
+  "entityDescription": "Digital platform connecting local producers with consumers through community-based distribution points called ruches across multiple European countries.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Distribution & Logistics",
+    "Technology & Innovation",
+    "Social & Community"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

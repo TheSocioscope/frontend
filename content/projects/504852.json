@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Cerro Verde promotes organic cultivation of native nopales, offering local and nutritious foods based on cultural traditions.",
     "de": "Cerro Verde promotes organic cultivation of native nopales, offering local and nutritious foods based on cultural traditions."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "es",
   "location": "Valtierrilla, Guanajuato",
-  "name": {
-    "en": "Cerro Verde",
-    "fr": "Cerro Verde",
-    "es": "Cerro Verde",
-    "de": "Cerro Verde"
-  },
+  "name": "Cerro verde",
   "pubId": 504852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Andrés Robles Martínez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/people/Cerro-Verde-Celaya/100064141749307/",
   "yt": "",
   "originalLang": "es",
@@ -194,5 +199,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-010",
+  "entityDescription": "Family company producing organic nopal (cactus pads) fresh and processed into tortillas, pickles, fiber and other derivatives.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

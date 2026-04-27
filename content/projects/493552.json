@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755003374,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa Evands se centra en la lucha contra la anemia, especialmente en zonas de bajos ingresos como Tingo María, donde las tasas son alarmantemente altas. Con una fundadora que se inspiró en sus problemas personales de salud, la iniciativa produce chocolates y papillas nutritivas enriquecidos con hemoglobina en polvo. Mediante la colaboración con los municipios locales, la iniciativa pretende proporcionar estos productos gratuitamente a las familias afectadas, al tiempo que promueve la educación dietética y las prácticas alimentarias sostenibles.      ",
     "de": "Die Initiative Evands konzentriert sich auf die Bekämpfung von Anämie, insbesondere in einkommensschwachen Gebieten wie Tingo María, wo die Anämierate alarmierend hoch ist. Die Gründerin der Initiative, die durch ihre persönlichen gesundheitlichen Probleme inspiriert wurde, stellt nahrhafte Schokolade und Brei her, die mit Hämoglobinpulver angereichert sind. Durch die Zusammenarbeit mit lokalen Gemeinden will die Initiative diese Produkte kostenlos an betroffene Familien abgeben und gleichzeitig die Ernährungserziehung und nachhaltige Ernährungspraktiken fördern.      "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Evands",
-    "fr": "Evands",
-    "es": "Evands",
-    "de": "Evands"
-  },
+  "name": "EVANDS",
   "pubId": 493552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "VIRGINIA RAMOS CASTELLANOS"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://evands.com.pe/contact.php",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-176",
+  "entityDescription": "Food company producing iron-fortified chocolates and porridges to combat anemia in children and pregnant women",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

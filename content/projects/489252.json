@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754988758,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa se centra en promover la agricultura biodinámica, un enfoque holístico que integra las fuerzas cósmicas y terrestres para mejorar la vitalidad del suelo y la calidad de los alimentos. Hace hincapié en la interconexión de todas las formas de vida dentro de un ecosistema agrícola, con preparaciones que se cree que aprovechan las fuerzas cósmicas y promueven un suministro de alimentos más vibrante y rico en nutrientes. La iniciativa pretende crear una comunidad de agricultores y consumidores dedicados a prácticas sostenibles, libres de productos agroquímicos, al tiempo que fomenta una comprensión más profunda del papel de los alimentos en la salud humana y el cuidado del medio ambiente.",
     "de": "Die Initiative konzentriert sich auf die Förderung der biologisch-dynamischen Landwirtschaft, einem ganzheitlichen Ansatz, der kosmische und irdische Kräfte integriert, um die Vitalität des Bodens und die Lebensmittelqualität zu verbessern. Sie betont die Vernetzung aller Lebensformen innerhalb eines landwirtschaftlichen Ökosystems mit Präparaten, von denen angenommen wird, dass sie die kosmischen Kräfte nutzen und eine lebendigere und nährstoffreichere Lebensmittelversorgung fördern. Die Initiative zielt darauf ab, eine Gemeinschaft von Landwirten und Verbrauchern zu schaffen, die sich für nachhaltige Praktiken ohne Agrochemikalien einsetzen und gleichzeitig ein tieferes Verständnis für die Rolle von Lebensmitteln in Bezug auf die menschliche Gesundheit und den Schutz der Umwelt entwickeln."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Totta Terra",
-    "en": "Totta Terra",
-    "fr": "Totta Terra",
-    "es": "Totta Terra",
-    "de": "Totta Terra"
-  },
+  "name": "Totta Terra",
   "pubId": 489252,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Patino"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.tottaterra.com/",
   "yt": "Nige7FIYOCs",
   "editedAt": 1755739103,
@@ -46,7 +50,9 @@
       "at": 1755739103
     }
   ],
-  "updatedAt": [1755739103],
+  "updatedAt": [
+    1755739103
+  ],
   "originalLang": "it",
   "timeline": [
     {
@@ -222,5 +228,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-368",
+  "entityDescription": "A biodynamic farm near Bogotá producing organic vegetables using Rudolf Steiner's biodynamic principles and special preparations.",
+  "entityRole": [
+    "Primary Production",
+    "Retail"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Individual/Solo",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

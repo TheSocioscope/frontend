@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739453966,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La Asociación Semailles está reconocida como uno de los jardines de cocagne pioneros. La asociación se centra en la integración social a través de la actividad económica, prestando apoyo a unas 70 personas en transición profesional cada año. La Asociación Semailles se dedica a la horticultura, la venta de productos a través de una pequeña tienda de comestibles y la oferta de cestas solidarias a los abonados, promoviendo prácticas alimentarias sostenibles. Desde 1997, estamos orgullosos de contribuir activamente a la necesaria reubicación de nuestro abastecimiento alimentario. Cada año producimos más de 70 toneladas de frutas y verduras ecológicas, que distribuimos al mayor número posible de personas.",
     "de": "Association Semailles ist als einer der Pioniere unter den Cocagne-Gärten anerkannt. Der Verein konzentriert sich auf die soziale Integration durch wirtschaftliche Aktivitäten und unterstützt jedes Jahr rund 70 Personen, die sich im beruflichen Übergang befinden. Association Semailles engages in market gardening, selling produce through a small grocery shop and offering solidarity baskets to subscribers, promoting sustainable food practices. Wir sind stolz darauf, seit 1997 aktiv zur notwendigen Relokalisierung unserer Ernährung beizutragen. Wir produzieren jedes Jahr über 70 Tonnen BIO-Obst und -Gemüse, das wir über kurze Wege an möglichst viele Menschen verteilen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Association Semailles",
-    "fr": "Association Semailles",
-    "es": "Asociación Semailles",
-    "de": "Verein Semailles"
-  },
+  "name": "Association Semailles",
   "pubId": 448052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Capgras"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://semaillesavignon.fr/manger-bio-local-solidaire/",
   "yt": "YJ76lS2_wSQ",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-085",
+  "entityDescription": "A 27-year-old social enterprise combining organic market gardening with job reintegration services and environmental education near Avignon.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Goods & Products"
 }

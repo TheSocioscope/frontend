@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "SAN is an international organization headquartered in Costa Rica developing standards and certification systems for sustainable agricultural practices.",
     "de": "SAN is an international organization headquartered in Costa Rica developing standards and certification systems for sustainable agricultural practices."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Sustainable Agriculture Network (SAN)",
-    "fr": "Réseau d'Agriculture Durable (SAN)",
-    "es": "Red de Agricultura Sostenible (SAN)",
-    "de": "Netzwerk für Nachhaltige Landwirtschaft (SAN)"
-  },
+  "name": "Sustainable Agriculture Network (SAN)",
   "pubId": 502052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.sustainableagriculture.eco/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-095",
+  "entityDescription": "Global network of 34 organizations promoting regenerative agriculture transformation through radical collaboration and multi-stakeholder partnerships.",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

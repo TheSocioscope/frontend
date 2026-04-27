@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1755009023,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Rasoterra es una iniciativa de restauración fundada en 2013 a partir de experiencias previas en el sector de la alimentación. La motivación de Rasoterra fue abordar la falta de opciones gastronómicas centradas en la sostenibilidad en Barcelona, en particular dentro de las escenas vegetariana y vegana, que no estaban tan desarrolladas en ese momento. El restaurante se basa en tres pilares fundamentales: agua microfiltrada, abastecimiento de productores locales y promoción del vegetarianismo, con un fuerte énfasis en la sostenibilidad. El restaurante da prioridad a trabajar con productores locales que compartan sus valores, entablando un diálogo sobre qué plantar y cómo cultivar de forma sostenible. Se centran en ingredientes de temporada y tratan de minimizar su huella ecológica compostando los residuos orgánicos y reduciendo el uso de plásticos.",
     "de": "Rasoterra ist eine 2013 gegründete Restaurantinitiative, die sich aus früheren Erfahrungen in der Lebensmittelbranche entwickelt hat. Die Motivation hinter Rasoterra war, den Mangel an auf Nachhaltigkeit ausgerichteten Essensangeboten in Barcelona zu beheben, insbesondere in der vegetarischen und veganen Szene, die zu dieser Zeit noch nicht so weit entwickelt war. Das Restaurant stützt sich auf drei Säulen: mikrofiltriertes Wasser, Bezug von lokalen Erzeugern und Förderung des Vegetarismus, wobei der Schwerpunkt auf der Nachhaltigkeit liegt. Das Restaurant arbeitet vorrangig mit lokalen Erzeugern zusammen, die seine Werte teilen, und führt einen Dialog darüber, was angebaut werden soll und wie die Pflanzen nachhaltig angebaut werden können. Das Restaurant konzentriert sich auf saisonale Zutaten und ist bestrebt, seinen ökologischen Fußabdruck zu minimieren, indem es organische Abfälle kompostiert und den Plastikverbrauch reduziert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Rasoterra",
-    "fr": "Rasoterra",
-    "es": "Rasoterra",
-    "de": "Rasoterra"
-  },
+  "name": "Rasoterra",
   "pubId": 495852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Rossi"
     }
   ],
-  "thematic": ["leisure-tourism", "food-agriculture-fishery"],
+  "thematic": [
+    "leisure-tourism",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.rasoterra.cat/qui-som/",
   "yt": "OvSCpsi8UZM",
   "editedAt": 1760066220,
@@ -45,7 +51,9 @@
       "at": 1760066220
     }
   ],
-  "updatedAt": [1760066220],
+  "updatedAt": [
+    1760066220
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -212,5 +220,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-015",
+  "entityDescription": "Vegan restaurant in Barcelona focused on seasonal, local products and comprehensive sustainability practices",
+  "entityRole": [
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

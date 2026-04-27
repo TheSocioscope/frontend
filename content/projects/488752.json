@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754988122,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa, Casa Luker, pretende transformar la cadena de valor del cacao en Colombia mejorando los medios de subsistencia de las familias productoras. Creada por Luker, una empresa familiar, se centra en la sostenibilidad a través de la diversificación económica, los programas educativos y la participación de la comunidad. La iniciativa promueve precios justos, prácticas medioambientales y bienestar social, garantizando que los cacaocultores prosperen al tiempo que preservan sus ecosistemas. Mediante la colaboración con diversas partes interesadas, busca crear valor compartido e impacto a largo plazo en las comunidades rurales.",
     "de": "Die Initiative Casa Luker zielt darauf ab, die Kakao-Wertschöpfungskette in Kolumbien zu verändern, indem sie den Lebensunterhalt von Kakao produzierenden Familien verbessert. Sie wurde von Luker, einem Familienunternehmen, gegründet und konzentriert sich auf Nachhaltigkeit durch wirtschaftliche Diversifizierung, Bildungsprogramme und Engagement in der Gemeinde. Die Initiative fördert faire Preise, ökologische Praktiken und soziales Wohlergehen, um sicherzustellen, dass die Kakaobauern gedeihen und gleichzeitig ihre Ökosysteme erhalten bleiben. Durch die Zusammenarbeit mit verschiedenen Interessengruppen soll ein gemeinsamer Wert und eine langfristige Wirkung in ländlichen Gemeinden geschaffen werden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Casa Luker",
-    "en": "Casa Luker",
-    "fr": "Casa Luker",
-    "es": "Casa Luker",
-    "de": "Haus Luker"
-  },
+  "name": "Casa Luker",
   "pubId": 488752,
   "state": "ongoing-project",
   "team": [
@@ -39,9 +39,14 @@
       "lastname": "Camacho"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "education"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "education"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.casaluker.com/",
   "yt": "r_RK6mcp3hc",
   "editedAt": 1760068348,
@@ -51,7 +56,9 @@
       "at": 1760068348
     }
   ],
-  "updatedAt": [1760068348],
+  "updatedAt": [
+    1760068348
+  ],
   "originalLang": "et",
   "timeline": [
     {
@@ -227,5 +234,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-346",
+  "entityDescription": "119-year-old Colombian family chocolate company with B2B operations in coffee, cleaning products, and sustainable chocolate manufacturing for international clients.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Large",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

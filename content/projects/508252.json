@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["united-states"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "united-states"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Philly Food Rescue fights food insecurity and waste using volunteers to rescue surplus food from businesses and deliver to community organizations.",
     "de": "Philly Food Rescue fights food insecurity and waste using volunteers to rescue surplus food from businesses and deliver to community organizations."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Philadelphia, PA",
-  "name": {
-    "en": "Philly Food Rescue",
-    "fr": "Sauvetage Alimentaire Philly",
-    "es": "Rescate Alimentario Philly",
-    "de": "Philly Lebensmittelrettung"
-  },
+  "name": "Philly Food Rescue",
   "pubId": 508252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Korn, Azza Bushra, George Matysik"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.sharefoodprogram.org/philly-food-rescue/",
   "yt": "",
   "originalLang": "en",
@@ -204,5 +209,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "US-070",
+  "entityDescription": "Food recovery program that rescues surplus food from retailers and redistributes it to community organizations through volunteers.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

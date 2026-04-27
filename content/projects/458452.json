@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754385609,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Latbio, fundada el 31 de octubre de 2019, es una iniciativa innovadora nacida de un grupo de amigos apasionados por la agricultura. Centrada en prácticas biodinámicas, la empresa tiene como objetivo comercializar productos orgánicos, principalmente plátanos, al tiempo que promueve métodos de cultivo sostenibles. A través de su ecosistema de empresas, entre las que se encuentran Latitude Provisions y Caupa, Latbio procesa frutas no exportables y ofrece servicios de consultoría. La iniciativa aspira a ser líder mundial en agricultura orgánica, haciendo hincapié en la responsabilidad medioambiental y el apoyo a la comunidad.",
     "de": "Latbio, gegründet am 31. Oktober 2019, ist eine innovative Initiative, die aus einer Gruppe von Freunden mit einer Leidenschaft für die Landwirtschaft hervorgegangen ist. Das Unternehmen ist auf biodynamische Praktiken fokussiert und will organische Produkte, vor allem Bananen, vermarkten und dabei nachhaltige Anbaumethoden fördern. Über ein System von Unternehmen, darunter Latitude Provisions und Caupa, verarbeitet Latbio nicht exportierbares Obst und bietet Beratungsdienste an. The initiative strives to be a global leader in organic agriculture, emphasizing environmental responsibility and community support."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Latbio",
-    "fr": "Latbio",
-    "es": "Latbio",
-    "de": "Latbio"
-  },
+  "name": "LATBIO",
   "pubId": 458452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Erazo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://latbio.com.ec/",
   "yt": "4xcdtHuCnEs",
   "originalLang": "fr",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-006",
+  "entityDescription": "Organic fruit exporter founded in 2019, specializing in biodynamic and regenerative agriculture with multiple integrated companies",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

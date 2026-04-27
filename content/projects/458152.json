@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754385143,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en una asociación a gran escala en la que participan 395 socios legales, 776 productores comerciales y 1.200 familias beneficiarias. Hace hincapié en las prácticas sostenibles, como la energía solar y los sistemas de secado de biocombustibles, y promueve el liderazgo femenino. La organización aspira a mejorar la educación dentro de la comunidad, garantizando que sus miembros puedan cursar estudios superiores. Además, pretende establecer una presencia mundial en la producción de cacao orgánico, al tiempo que aborda retos como el cambio climático y la minería ilegal en la región.",
     "de": "Die Initiative konzentriert sich auf eine groß angelegte Partnerschaft, an der 395 Rechtspartner, 776 kommerzielle Produzenten und 1.200 begünstigte Familien beteiligt sind. Sie betont nachhaltige Praktiken, einschließlich Solarenergie- und Biokraftstoff-Trocknungssystemen, und fördert weibliche Führungsqualitäten. Die Organisation zielt darauf ab, die Bildung innerhalb der Gemeinde zu verbessern, damit ihre Mitglieder eine höhere Bildung erlangen können. Darüber hinaus strebt sie eine globale Präsenz in der organischen Kokosproduktion an, während sie Herausforderungen wie den Klimawandel und illegalen Bergbau in der Region adressiert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Kallari",
-    "fr": "Kallari",
-    "es": "Kallari",
-    "de": "Kallari"
-  },
+  "name": "Kallari",
   "pubId": 458152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Thivent"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://kallari.com.ec/#",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-003",
+  "entityDescription": "Indigenous association producing and exporting organic cacao, vanilla, and guayusa through ancestral chakra farming systems.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

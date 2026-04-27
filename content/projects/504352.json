@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "De la Chinampa rescues and conserves the traditional chinampa system in the ecological reserve of Xochimilco, a pre-hispanic sustainable agricultural system.",
     "de": "De la Chinampa rescues and conserves the traditional chinampa system in the ecological reserve of Xochimilco, a pre-hispanic sustainable agricultural system."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "De la Chinampa",
-    "fr": "De la Chinampa",
-    "es": "De la Chinampa",
-    "de": "De la Chinampa"
-  },
+  "name": "De la Chinampa",
   "pubId": 504352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Rodríguez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://delachinampa.mx/",
   "yt": "",
   "originalLang": "es",
@@ -195,5 +200,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-002",
+  "entityDescription": "Tourism and distribution company offering ecological experiences and fair trade vegetable sales in Mexico City's Xochimilco chinampas",
+  "entityRole": [
+    "Support Services",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

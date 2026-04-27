@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754575584,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El Programa de Comunicación Farmacéutica de Biovision Africa Trust se centra en capacitar a los pequeños agricultores de Kenia y Tanzania mediante prácticas agrícolas sostenibles. Creado en 2015, utiliza diversos canales de comunicación, como revistas, programas de radio y centros de divulgación, para difundir conocimientos y formación. El programa pretende mejorar las habilidades de los agricultores, promover la agricultura ecológica y, en última instancia, mejorar la seguridad alimentaria y los medios de subsistencia. Mediante el fomento de asociaciones y la colaboración con las comunidades locales, pretende crear un ecosistema agrícola más sostenible.",
     "de": "Biovision Africa Trust's Pharma Communication Program konzentriert sich auf die Stärkung von Kleinbauern in Kenia und Tansania durch nachhaltige Landwirtschaftspraktiken. Das 2015 gegründete Programm nutzt verschiedene Kommunikationskanäle, darunter Zeitschriften, Radioprogramme und Outreach-Zentren, um Wissen und Ausbildung zu verbreiten. Das Programm zielt darauf ab, die Fähigkeiten der Landwirte zu verbessern, ökologischen Landbau zu fördern und letztendlich die Ernährungssicherheit und den Lebensunterhalt zu verbessern. Durch die Förderung von Partnerschaften und die Einbeziehung lokaler Gemeinschaften soll ein nachhaltigeres landwirtschaftliches Ökosystem geschaffen werden."
   },
-  "field": ["communication-and-media-studies"],
+  "field": [
+    "communication-and-media-studies"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Biovision Africa Trust",
-    "fr": "Biovision Africa Trust",
-    "es": "Fundación Biovision Africa",
-    "de": "Biovision Africa Trust"
-  },
+  "name": "Biovision Africa Trust",
   "pubId": 474752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Ochieng"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://biovisionafricatrust.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-073",
+  "entityDescription": "A Kenyan non-profit organization promoting agroecology and sustainable agriculture across Kenya and continental Africa through training and communication programs.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Knowledge & Information"
 }

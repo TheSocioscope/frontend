@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754908286,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Crisalim es una iniciativa fundada en 2021-2022 destinada a empoderar a los jóvenes y las comunidades vulnerables a través de la alimentación y la cocina. Ofrece talleres que combinan debates sobre nutrición con comidas compartidas, abordando la resiliencia alimentaria y promoviendo hábitos alimentarios saludables. Los proyectos clave incluyen \"Parcours Alim\" para estudiantes y \"ANAP\", un programa de restaurantes solidarios. Al fomentar el compromiso y la colaboración de la comunidad, Crisalim pretende hacer frente a la inseguridad alimentaria y mejorar las conexiones sociales entre los participantes.",
     "de": "Crisalim ist eine 2021-2022 gegründete Initiative, die junge Menschen und benachteiligte Gemeinschaften durch Essen und Kochen stärken möchte. Sie bietet Workshops an, die Diskussionen über Ernährung mit gemeinsamen Mahlzeiten verbinden, die Widerstandsfähigkeit von Lebensmitteln adressieren und gesunde Essgewohnheiten fördern. Zu den wichtigsten Projekten gehören \"Parcours Alim\" für Studenten und \"ANAP\", ein solidarisches Restaurantprogramm. Durch die Förderung des Engagements und der Zusammenarbeit in der Gemeinschaft will Crisalim die Ernährungsunsicherheit bekämpfen und die sozialen Beziehungen unter den Teilnehmern stärken."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Crisalim",
-    "fr": "Crisalim",
-    "es": "Crisalim",
-    "de": "Crisalim"
-  },
+  "name": "Crisalim",
   "pubId": 472452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Brodie"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "equality-diversity-studies-and-social-justice"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "equality-diversity-studies-and-social-justice"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.crisalim.co/",
   "yt": "FvGUlanwF1E",
   "editedAt": 1760065200,
@@ -45,7 +52,9 @@
       "at": 1760065200
     }
   ],
-  "updatedAt": [1760065200],
+  "updatedAt": [
+    1760065200
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -212,5 +221,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-117",
+  "entityDescription": "Association d'éducation populaire proposant ateliers alimentaires et restaurants éphémères solidaires pour jeunes en précarité",
+  "entityRole": [
+    "Support Services",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Social & Community",
+    "Health & Nutrition",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

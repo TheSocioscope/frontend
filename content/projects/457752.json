@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "paraguay"
+  ],
   "createdAt": 1754384243,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en la gestión de los recursos alimentarios excedentes en Paraguay, especialmente del sector gastronómico, para combatir el desperdicio de alimentos. Fundada por Jimena Mendoza en 2017, funciona como una empresa social, haciendo hincapié en la sostenibilidad y el impacto social. La organización colabora con supermercados, restaurantes y eventos para recolectar alimentos sobrantes, redistribuyéndolos a comunidades vulnerables. Con un pequeño equipo, aspiran a expandir su modelo a otras ciudades mientras abordan desafíos relacionados con las regulaciones y la competencia.",
     "de": "Die Initiative konzentriert sich auf die Verwaltung überschüssiger Lebensmittelressourcen in Paraguay, insbesondere aus dem gastronomischen Sektor, um Lebensmittelabfälle zu bekämpfen. Sie wurde 2017 von Jimena Mendoza gegründet und operiert als soziales Unternehmen, das auf Nachhaltigkeit und soziale Auswirkungen Wert legt. Die Organisation arbeitet mit Supermärkten, Restaurants und Veranstaltungen zusammen, um überschüssige Lebensmittel einzusammeln und sie an benachteiligte Gemeinden zu verteilen. Mit einem kleinen Team wollen sie ihr Modell auf andere Städte ausdehnen und dabei Herausforderungen in Bezug auf Vorschriften und Wettbewerb bewältigen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Mboja'o",
-    "fr": "Mboja'o",
-    "es": "Mboja'o",
-    "de": "Mboja'o"
-  },
+  "name": "Mboja'o",
   "pubId": 457752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Mendoza Renaut"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://mbojao.com.py/nosotros",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PY-001",
+  "entityDescription": "Social enterprise that provides food waste management services by collecting surplus food from businesses and delivering it to social organizations.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Social & Community",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403017,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Agrovivas es una innovadora iniciativa de recogida de residuos orgánicos que comenzó durante la pandemia, centrándose en el compostaje para reducir los residuos de los vertederos. El proyecto, que presta servicio a 500 familias y 40 empresas de Quito, Cuenca y Guayaquil, transforma los residuos orgánicos en compost, que luego se devuelve a las familias para la jardinería urbana y se utiliza en labores de reforestación. Mediante la promoción de prácticas sostenibles, Agrovivas pretende educar a las comunidades sobre el valor del compostaje y contribuir a la conservación del medio ambiente.",
     "de": "Agrovivas ist eine innovative Initiative zur Sammlung organischer Abfälle, die während der Pandemie begann und sich auf die Kompostierung zur Reduzierung von Siedlungsabfällen konzentrierte. Das Projekt, das 500 Familien und 40 Unternehmen in Quito, Cuenca und Guayaquil bedient, verwandelt organische Abfälle in Kompost, der dann an die Familien für die Stadtbegrünung zurückgegeben und in Wiederaufforstungsbemühungen eingesetzt wird. Durch die Förderung nachhaltiger Praktiken möchte Agrovivas die Gemeinden über den Wert der Kompostierung aufklären und zum Umweltschutz beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Agrovivas",
-    "fr": "Agrovivas",
-    "es": "Agrovivas",
-    "de": "Agrovivas"
-  },
+  "name": "Agrovivas",
   "pubId": 459252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Vivas"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-040",
+  "entityDescription": "A family business providing organic waste collection and composting services to households and businesses in Ecuador.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Environment & Biodiversity",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

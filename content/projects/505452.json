@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "EcoScience Lab develops biotechnology solutions using microalgae and bio-stimulants to capture CO₂, improve soil health, and support regenerative agriculture.",
     "de": "EcoScience Lab develops biotechnology solutions using microalgae and bio-stimulants to capture CO₂, improve soil health, and support regenerative agriculture."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Leon, Guanajuato",
-  "name": {
-    "en": "EcoScience Lab",
-    "fr": "EcoScience Lab",
-    "es": "EcoScience Lab",
-    "de": "EcoScience Lab"
-  },
+  "name": "EcoScience Lab",
   "pubId": 505452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Daniel Lira Lopez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ecosciencelab.com/",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-027",
+  "entityDescription": "Biotechnology company developing bioestimulants from microalgae for agriculture and CO2 capture systems for industrial emissions",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

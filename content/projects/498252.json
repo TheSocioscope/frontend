@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755093546,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El proyecto Dosojin se centra en la producción y distribución de té peruano ecológico de alta calidad. El proyecto hace hincapié en el uso de ingredientes 100% naturales sin aditivos, ofreciendo un producto que es a la vez artesanal y beneficioso para la salud, incluyendo propiedades anticancerígenas y apoyo digestivo. La empresa pretende educar a los consumidores sobre el valor del té peruano, que tiene un significado histórico y a menudo se malinterpreta en el mercado. Se diferencian de sus competidores por ofrecer un producto sin microplásticos ni aditivos químicos, que utiliza una mayor cantidad de hojas de té para conseguir un perfil de sabor más sutil. El té procede de proveedores fiables de Cusco y Arequipa, que garantizan la calidad y la sostenibilidad mediante prácticas de agricultura ecológica.",
     "de": "Das Dosojin-Projekt konzentriert sich auf die Herstellung und den Vertrieb von hochwertigem, biologischem peruanischem Tee. Das Projekt legt Wert auf die Verwendung von 100 % natürlichen Zutaten ohne Zusatzstoffe und bietet ein Produkt an, das sowohl handwerklich hergestellt als auch gesundheitsfördernd ist und unter anderem krebshemmend und verdauungsfördernd wirkt. Das Unternehmen möchte die Verbraucher über den Wert des peruanischen Tees aufklären, der eine historische Bedeutung hat und auf dem Markt oft missverstanden wird. Das Unternehmen hebt sich von seinen Mitbewerbern ab, indem es ein Produkt anbietet, das frei von Mikroplastik und chemischen Zusätzen ist und eine größere Menge an Teeblättern für ein subtileres Geschmacksprofil verwendet. Der Tee wird von zuverlässigen Lieferanten in Cusco und Arequipa bezogen, die durch ökologische Anbaumethoden Qualität und Nachhaltigkeit gewährleisten."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Dosojin",
-    "fr": "Dosojin",
-    "es": "Dosojin",
-    "de": "Dosojin"
-  },
+  "name": "Dosojin",
   "pubId": 498252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "ANTHONY BARBOZA MARQUEZ"
     }
   ],
-  "thematic": ["public-health", "food-agriculture-fishery"],
+  "thematic": [
+    "public-health",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "LVD7l6Y2lwA",
   "editedAt": 1760067239,
@@ -45,7 +51,9 @@
       "at": 1760067239
     }
   ],
-  "updatedAt": [1760067239],
+  "updatedAt": [
+    1760067239
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +229,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-169",
+  "entityDescription": "Tea and herbal infusions company selling organic, 100% Peruvian loose-leaf tea directly to cafeterías, hotels and restaurants",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

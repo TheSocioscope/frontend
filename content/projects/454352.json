@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1741094774,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, Madland, pretende crear un punto de encuentro vibrante para diversos actores del sistema alimentario, fomentando la colaboración y la comunicación entre varios sectores. Mediante la participación de ciudadanos, profesionales y organizaciones del sector alimentario, pretende promover la concienciación y la responsabilidad en relación con las opciones alimentarias y la sostenibilidad. A través de eventos, talleres y plataformas digitales, la iniciativa fomenta el intercambio de conocimientos y muestra prácticas innovadoras. Hace hincapié en la importancia de los enfoques holísticos de la política alimentaria, con el objetivo de salvar las distancias entre las comunidades rurales y urbanas, al tiempo que destaca las contribuciones de los actores más pequeños, a menudo ignorados, en el panorama alimentario.",
     "de": "Die Initiative Madland zielt darauf ab, einen pulsierenden Treffpunkt für verschiedene Akteure innerhalb des Lebensmittelsystems zu schaffen und die Zusammenarbeit und Kommunikation über verschiedene Sektoren hinweg zu fördern. Durch die Einbindung von Bürgern, Fachleuten und Organisationen aus der Lebensmittelbranche soll das Bewusstsein und die Verantwortung für die Wahl von Lebensmitteln und die Nachhaltigkeit gefördert werden. Durch Veranstaltungen, Workshops und digitale Plattformen fördert die Initiative den Wissensaustausch und zeigt innovative Praktiken. Sie betont die Bedeutung ganzheitlicher Ansätze in der Lebensmittelpolitik, die darauf abzielen, Lücken zwischen ländlichen und städtischen Gemeinden zu überbrücken und gleichzeitig die Beiträge kleinerer, oftmals übersehener Akteure in der Lebensmittellandschaft hervorzuheben."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "Madland",
-    "fr": "Madland",
-    "es": "Madland",
-    "de": "Madland"
-  },
+  "name": "Madland",
   "pubId": 454352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Sainabou Jeng"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://madland.dk",
   "yt": "teG6X7XYiVk",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-035",
+  "entityDescription": "Food political community gathering and empowering frontrunner actors across the food system through events, media production, and advocacy.",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Policy & Advocacy",
+    "Social & Community",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

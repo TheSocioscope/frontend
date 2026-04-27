@@ -35,7 +35,10 @@
       "Bash(sed 's/firstname: //')",
       "Bash(sed 's/lastname: //')",
       "Bash(sed 's/role: //')",
-      "Bash(python *)"
+      "Bash(python *)",
+      "PowerShell(py *)",
+      "PowerShell(cd \"C:\\\\Users\\\\ssekhsaria\\\\Documents\\\\socioscope-website\"; $d = Get-Content content/projects/479752.json | ConvertFrom-Json; Write-Output \"name: $\\($d.name\\)\"; Write-Output \"caseCode: $\\($d.caseCode\\)\"; Write-Output \"entityRole: $\\($d.entityRole -join ', '\\)\"; Write-Output \"bizModel: $\\($d.bizModel\\)\"; Write-Output \"entitySize: $\\($d.entitySize\\)\"; Write-Output \"geoReach: $\\($d.geoReach\\)\"; Write-Output \"sectorFocus: $\\($d.sectorFocus -join ', '\\)\"; Write-Output \"resourceType: $\\($d.resourceType\\)\"; Write-Output \"entityDescription: $\\($d.entityDescription.Substring\\(0, [Math]::Min\\(80, $d.entityDescription.Length\\)\\)\\)\")",
+      "Bash(yarn build *)"
     ]
   }
 }

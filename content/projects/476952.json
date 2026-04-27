@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754648136,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Coast Baobab es una iniciativa de la región costera de Kenia centrada en promover los aperitivos locales, en particular los productos del baobab y la kashata. Colaborando con diversas partes interesadas, mejoran la disponibilidad y el atractivo de estos aperitivos tradicionales, haciéndolos accesibles en todo Kenia y más allá. La iniciativa aspira a apoyar la sostenibilidad alimentaria al tiempo que aborda los retos de la producción y la distribución, fomentando en última instancia un mercado próspero para estas delicias costeras únicas.                 ",
     "de": "Coast Baobab ist eine Initiative in Kenias Küstenregion, die sich auf die Förderung lokaler Snacks, insbesondere Baobab-Produkte und Kashata, konzentriert. Durch die Zusammenarbeit mit verschiedenen Stakeholdern steigern sie die Verfügbarkeit und Attraktivität dieser traditionellen Snacks und machen sie in ganz Kenia und darüber hinaus zugänglich. The initiative aims to support food sustainability while addressing challenges in production and distribution, ultimately fostering a thriving market for these unique coastal delicacies.                 "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Coast Baobab",
-    "fr": "Coast Baobab",
-    "es": "Baobab de la costa",
-    "de": "Coast Baobab"
-  },
+  "name": "Coast Baobab",
   "pubId": 476952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Ubah"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -185,5 +190,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-203",
+  "entityDescription": "An umbrella organization working with different companies to make coastal snacks available beyond the coast region.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

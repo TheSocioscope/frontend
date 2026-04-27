@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754475894,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa es un proyecto agroecológico comunitario centrado en la educación medioambiental y la vida sostenible. Fundado en 1998, ha evolucionado hasta incluir programas de voluntariado, talleres y retiros que promueven la autosuficiencia y la responsabilidad social. El proyecto hace hincapié en la importancia de fomentar las conexiones entre las personas y la naturaleza, al tiempo que aborda retos relacionados con la gobernanza, la sostenibilidad económica y el compromiso de la comunidad. Sus planes de futuro incluyen el desarrollo de una ecoaldea para aumentar su impacto y alcance.",
     "de": "The initiative is a community-driven agroecological project focused on environmental education and sustainable living. Sie wurde 1998 gegründet und hat sich zu Freiwilligenprogrammen, Workshops und Rückzugsorten entwickelt, die Selbstversorgung und soziale Verantwortung fördern. Das Projekt betont die Bedeutung der Förderung von Verbindungen zwischen Mensch und Natur, während es gleichzeitig Herausforderungen in Bezug auf Governance, wirtschaftliche Nachhaltigkeit und kommunales Engagement adressiert. Ihre Zukunftspläne beinhalten die Entwicklung eines Öko-Dorfes, um ihre Wirkung und Reichweite zu erhöhen."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Finca Agroecologica La Flor",
-    "en": "Finca Agroecologica La Flor",
-    "fr": "Finca Agroecologica La Flor",
-    "es": "Finca Agroecológica La Flor",
-    "de": "Landwirtschaftliche Finca La Flor"
-  },
+  "name": "Finca Agroecologica La Flor",
   "pubId": 465552,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": ["ecology-environmental-change"],
+  "thematic": [
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.fincalaflor.org/",
   "yt": "dElnwP7RDB8",
   "originalLang": "fr",
@@ -205,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-013",
+  "entityDescription": "A nonprofit farm offering environmental education, volunteer programs, and agroecological training with accommodation facilities.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Zagos es una empresa colombiana que tiene 50 años de experiencia y generación tras generación ha evolucionado. Su enfoque es la producción de alimentos frescos, deshidratados, encurtidos, pastas y purés. Cuentan con un fuerte compromiso con la sostenibilidad ambiental, social y económica. En territorios como el Cauca, han liderado la transición de cultivos ilícitos hacia el cultivo responsable de ají, promoviendo el desarrollo rural. Implementan prácticas sostenibles como el riego por goteo para optimizar el uso del agua, un manejo cero agroquímicos, y procesos de producción que protegen la microbiología del suelo desde la siembra. Cuentan con una escuela de siembra para capacitar agricultores en buenas prácticas agrícolas y análisis de suelos, y utilizan canastillas reutilizables para reemplazar costales, reduciendo la contaminación.",
     "de": "Zagos ist ein kolumbianisches Unternehmen mit 50 Jahren Erfahrung, das sich von Generation zu Generation weiterentwickelt hat. Der Schwerpunkt liegt auf der Produktion von frischen, getrockneten, eingelegten Lebensmitteln, Nudeln und Pürees. Sie haben ein starkes Engagement für ökologische, soziale und wirtschaftliche Nachhaltigkeit. In Gebieten wie Cauca haben sie den Übergang von illegalen Kulturen zum verantwortungsvollen Chili-Anbau geleitet und damit die ländliche Entwicklung gefördert. Sie setzen nachhaltige Praktiken wie Tröpfchenbewässerung zur Optimierung des Wasserverbrauchs, agrochemiefreies Management und Produktionsprozesse ein, die die Bodenmikrobiologie ab der Aussaat schützen. Sie verfügen über eine Pflanzschule, um Landwirte in guten landwirtschaftlichen Praktiken und Bodenanalyse zu schulen, und verwenden wiederverwendbare Kisten anstelle von Säcken, um die Umweltverschmutzung zu reduzieren."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Cauca",
-  "name": {
-    "en": "Zagos",
-    "fr": "Zagos",
-    "es": "Zagos",
-    "de": "Zagos"
-  },
+  "name": "Zagos",
   "pubId": 500452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Zuluaga"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://zagos.com.co/es/",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-604",
+  "entityDescription": "Agricultural processing company that dehydrates spices and vegetables, working with contracted small farmers to export premium products.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

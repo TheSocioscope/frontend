@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A community initiative bringing together producers, consumers, and organizations around agroecological practices, fair trade, and food sovereignty.",
     "de": "A community initiative bringing together producers, consumers, and organizations around agroecological practices, fair trade, and food sovereignty."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Amealco, Querétaro",
-  "name": {
-    "en": "Red Socioambiental Amealco",
-    "fr": "Réseau Socio-environnemental Amealco",
-    "es": "Red Socioambiental Amealco",
-    "de": "Sozio-Umwelt Netzwerk Amealco"
-  },
+  "name": "Red socioambiental Amealco",
   "pubId": 504952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Rosina Bara"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/groups/168313896938001/",
   "yt": "",
   "originalLang": "es",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-011",
+  "entityDescription": "WhatsApp-based network of 275 people organizing events and actions around social and environmental issues in rural Querétaro",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Unknown",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Environment & Biodiversity",
+    "Social & Community",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Knowledge & Information"
 }

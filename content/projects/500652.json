@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739145600,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "",
     "de": ""
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Faro",
-    "fr": "Faro",
-    "es": "Faro",
-    "de": "Faro"
-  },
+  "name": "Faro",
   "pubId": 500652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Echavarría"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.postobon.com/sala-prensa/noticias/presentamos-el-programa-faro-iniciativa-que-busca-el-fortalecimiento-los",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-646",
+  "entityDescription": "Colombian beverage company implementing sustainability strategies through circular economy and value chain partnerships with recyclers and farmers.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Retail"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Very Large",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Waste & Circular Economy",
+    "Social & Community"
+  ],
+  "resourceType": "Financial"
 }

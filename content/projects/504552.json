@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Mercado Alternativo de Tlalpan provides a community space where producers sell directly to consumers, promoting fairer food distribution.",
     "de": "Mercado Alternativo de Tlalpan provides a community space where producers sell directly to consumers, promoting fairer food distribution."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Mercado Alternativo de Tlalpan",
-    "fr": "Marché Alternatif de Tlalpan",
-    "es": "Mercado Alternativo de Tlalpan",
-    "de": "Alternativer Markt Tlalpan"
-  },
+  "name": "Mercado Alternativo de Tlalpan",
   "pubId": 504552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Vera Tenorio"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://mercadoalternativo.org/pages/mercado-alternativo-de-tlalpan",
   "yt": "",
   "originalLang": "es",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-006",
+  "entityDescription": "Citizen initiative creating spaces for small-scale food producers to sell agroecological products to urban consumers in Mexico City.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Distribution & Logistics",
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

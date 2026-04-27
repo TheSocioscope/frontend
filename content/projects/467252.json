@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754480088,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Troutco es una innovadora iniciativa de acuicultura centrada en la exportación de trucha arco iris de alta calidad al tiempo que promueve la sostenibilidad y la responsabilidad social. Fundada hace más de 16 años, opera principalmente en la región centro-occidental de Colombia, empoderando a las mujeres rurales locales y utilizando los recursos hídricos de manera eficiente. Con un compromiso con las prácticas de economía circular, Troutco produce varios productos de trucha, asegurando que el 80% de su producción se exporte, principalmente a los EE.UU. y Canadá, al tiempo que contribuye a las comunidades locales a través de donaciones de alimentos y apoyo educativo.",
     "de": "Troutco ist eine innovative Aquakulturinitiative, die sich auf den Export hochwertiger Regenbogenforellen konzentriert und dabei Nachhaltigkeit und soziale Verantwortung fördert. Sie wurde vor 16 Jahren gegründet und operiert hauptsächlich in Kolumbiens zentralem Western, stärkt lokale Landfrauen und nutzt die Wasserressourcen effizient. With a commitment to circular economy practices, Troutco produces various trout products, ensuring 80% of its output is exported, primarily to the USA and Canada, while also contributing to local communities through food donations and educational support."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Troutco",
-    "fr": "Troutco",
-    "es": "Troutco",
-    "de": "Troutco"
-  },
+  "name": "TroutCo",
   "pubId": 467252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Campos"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://trout-co.com/certificaciones/",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +211,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-598",
+  "entityDescription": "Fish farming and processing company specializing in rainbow trout production and export from Colombia.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Goods & Products"
 }

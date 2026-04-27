@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Nuvedo grows functional mushrooms on agricultural waste, developing mushroom-based foods and extracts as sustainable protein alternatives.",
     "de": "Nuvedo grows functional mushrooms on agricultural waste, developing mushroom-based foods and extracts as sustainable protein alternatives."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "Bengaluru, Karnataka",
-  "name": {
-    "en": "Nuvedo",
-    "fr": "Nuvedo",
-    "es": "Nuvedo",
-    "de": "Nuvedo"
-  },
+  "name": "Nuvedo",
   "pubId": 504152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Kini"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://nuvedo.com/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-033",
+  "entityDescription": "A mushroom cultivation and processing company producing functional mushroom extracts and products for health and wellness markets.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

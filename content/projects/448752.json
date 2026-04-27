@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["denmark"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "denmark"
+  ],
   "createdAt": 1739455416,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Kitchen Collective es una iniciativa de Copenhague cuyo objetivo es apoyar a los nuevos empresarios alimentarios a través de una cocina compartida y un espacio para eventos. Creada hace más de una década, funciona según un modelo inspirado en los principios cooperativos, que permite a las empresas alimentarias empezar con menos riesgos al facilitar el acceso a instalaciones de cocina certificadas, que suelen ser una barrera importante para los aspirantes a empresarios alimentarios. La iniciativa hace hincapié en la inclusividad, permitiendo a diversos chefs de distintos orígenes culturales probar y desarrollar sus ideas culinarias sin la presión de la rentabilidad inmediata.\n\nKitchen Collective fomenta un entorno orientado a la comunidad en el que los residentes se apoyan mutuamente, comparten conocimientos y colaboran en eventos. El espacio está diseñado para ser flexible y dar cabida a diversas actividades, como restaurantes pop-up, clases de cocina y servicios de catering. La iniciativa ha ayudado con éxito a poner en marcha unas 700 empresas alimentarias, promoviendo una escena gastronómica más democrática en Copenhague.",
     "de": "Kitchen Collective ist eine Initiative in Kopenhagen, die neue Lebensmittelunternehmer durch eine gemeinsam genutzte Küche und einen Veranstaltungsraum unterstützen will. Established over a decade, it operates on a model inspired by cooperative principles, allowing food businesses to start with lower risks by providing access to certified kitchen facilities, which often are a significant barrier for aspiring food entrepreneurs. Die Initiative betont die Inklusivität und ermöglicht es verschiedenen Köchen mit unterschiedlichem kulturellem Hintergrund, ihre kulinarischen Ideen ohne den Druck der unmittelbaren Rentabilität zu testen und weiterzuentwickeln.\n\nKitchen Collective fördert ein gemeinschaftsorientiertes Umfeld, in dem sich die Bewohner gegenseitig unterstützen, Wissen teilen und bei Veranstaltungen zusammenarbeiten. Die Räumlichkeiten sind flexibel gestaltet und bieten Platz für verschiedene Aktivitäten wie Pop-up-Restaurants, Kochkurse und Catering-Dienste. Die Initiative hat erfolgreich rund 700 Lebensmittelunternehmen gegründet und damit eine demokratischere Gastronomieszene in Kopenhagen gefördert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Kitchen Collective",
-    "fr": "Kitchen Collective",
-    "es": "Colectivo de cocina",
-    "de": "Kitchen Collective"
-  },
+  "name": "Kitchen Collective",
   "pubId": 448752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Maja Haussen"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.foodspace.nu/find-os",
   "yt": "U9QZ-0a-TiY",
   "originalLang": "fr",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "DK-028",
+  "entityDescription": "A shareable kitchen collective supporting food entrepreneurs in Copenhagen to test business ideas and build community-based food companies.",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

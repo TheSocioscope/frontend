@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1754654776,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Swayyam, creada en 2012, es una fundación dedicada a la permacultura y la agrosilvicultura en Karnataka (India). Su objetivo es regenerar la tierra y apoyar los medios de vida locales mediante prácticas agrícolas sostenibles. La iniciativa incluye la granja de conchas abiertas, un lugar de demostración de técnicas agrícolas innovadoras, y el Proyecto de los Mil Árboles, que ayuda a los agricultores locales en la transición a la agricultura ecológica. Swayyam también hace hincapié en la participación de la comunidad, la educación y la capacitación de las mujeres mediante iniciativas de productos de valor añadido.",
     "de": "Swayyam wurde 2012 gegründet und ist eine Stiftung, die sich auf Permakultur und Agroforstwirtschaft in Karnataka, Indien, konzentriert. Ihr Ziel ist es, durch nachhaltige Anbaumethoden Land zu regenerieren und den lokalen Lebensunterhalt zu sichern. Die Initiative umfasst die Open Shell Farm, eine Demonstrationsanlage für innovative landwirtschaftliche Techniken, und das Thousand Trees Project, das lokalen Landwirten bei der Umstellung auf ökologischen Landbau hilft. Swayyam legt außerdem großen Wert auf das Engagement in der Gemeinde, auf Bildung und die Stärkung der Rolle der Frauen durch Initiativen zur Schaffung von Mehrwertprodukten."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Swayyam",
-    "fr": "Swayyam",
-    "es": "Swayyam",
-    "de": "Swayyam"
-  },
+  "name": "Swayyam",
   "pubId": 479652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Zorrilla"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://swayyam.org/about-swayyam/",
   "yt": "npY19cdwg9E",
   "originalLang": "fr",
@@ -213,5 +220,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-015",
+  "entityDescription": "Trust registered in 2012 operating a demonstration farm and supporting rural farmers through agroecological training and food systems work",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

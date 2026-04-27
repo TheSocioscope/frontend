@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["rwanda"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "rwanda"
+  ],
   "createdAt": 1754650670,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La Green Walker Farm (GWF), creada en 2017, se centra en la agricultura sostenible mediante prácticas innovadoras como el cultivo de la mosca soldado negra. La GWF produce plátanos, bananas, aves de corral y piensos para animales con el objetivo de mejorar la productividad y mecanizar las operaciones. En colaboración con expertos e instituciones, la granja aborda los retos del sistema alimentario reduciendo la competencia por recursos como la soja y la harina de pescado, promoviendo la sostenibilidad medioambiental y el crecimiento económico de la comunidad.   ",
     "de": "Die Green Walker Farm (GWF) wurde 2017 gegründet und konzentriert sich auf nachhaltige Landwirtschaft durch innovative Praktiken wie die Bekämpfung der Schwarzen Soldatenfliege (BSF). Die GWF produziert Kochbananen, Bananen, Geflügel und Tierfutter und strebt dabei eine höhere Produktivität und eine Mechanisierung der Abläufe an. In Zusammenarbeit mit Experten und Institutionen geht die Farm die Herausforderungen des Lebensmittelsystems an, indem sie den Wettbewerb um Ressourcen wie Soja und Fischmehl reduziert und die ökologische Nachhaltigkeit und das Wirtschaftswachstum in der Gemeinde fördert.   "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "de": "Green Walker Farm",
-    "en": "Green Walker Farm",
-    "fr": "Ferme Green Walker",
-    "es": "Granja Green Walker"
-  },
+  "name": "Green Walker Farm",
   "pubId": 477852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Musafiri"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://greenwalkerfarm.com/",
   "yt": "",
   "originalLang": "de",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "RW-012",
+  "entityDescription": "Agricultural business combining black soldier fly farming, livestock, plantain banana cultivation, and organic waste processing into animal feeds and fertilizer.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

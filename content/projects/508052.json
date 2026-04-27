@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["united-states"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "united-states"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A composting initiative in Miami that has diverted over 6.1 million lbs of organics from landfills since October 2020.",
     "de": "A composting initiative in Miami that has diverted over 6.1 million lbs of organics from landfills since October 2020."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "Miami, FL",
-  "name": {
-    "en": "Compost for Life",
-    "fr": "Compost pour la Vie",
-    "es": "Compost para la Vida",
-    "de": "Kompost fürs Leben"
-  },
+  "name": "Compost for Life",
   "pubId": 508052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Torres"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.compostforlifemiami.com",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "US-065",
+  "entityDescription": "A community composting service offering residential and commercial food scrap pickup to divert organic waste from landfills",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

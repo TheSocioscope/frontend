@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754649169,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Organic Fields Limited, creada en 2018, es una iniciativa keniana centrada en transformar los residuos de alimentos en abono orgánico. El proyecto aborda los problemas de limpieza de los mercados mediante la recogida y el compostaje de los residuos de los mercados locales. Con un compromiso con la sostenibilidad, producen fertilizante orgánico de alta calidad, empleando a más de 70 personas y colaborando con cooperativas e instituciones agrícolas. Su enfoque innovador no sólo mejora la salud del suelo, sino que también promueve el compromiso de la comunidad y la responsabilidad medioambiental.",
     "de": "Organic Fields Limited, gegründet 2018, ist eine kenianische Initiative, die sich auf die Umwandlung von Lebensmittelabfällen in organischen Dünger konzentriert. Das Projekt befasst sich mit Fragen der Marktreinheit, indem es Abfälle von lokalen Märkten sammelt und kompostiert. Mit ihrem Engagement für Nachhaltigkeit stellen sie hochwertigen organischen Dünger her, beschäftigen über 70 Mitarbeiter und arbeiten mit Kooperativen und landwirtschaftlichen Einrichtungen zusammen. Ihr innovativer Ansatz verbessert nicht nur die Bodengesundheit, sondern fördert auch das Engagement der Gemeinschaft und die Verantwortung für die Umwelt."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Organic Fields Limited",
-    "fr": "Organic Fields Limited",
-    "es": "Organic Fields Limited",
-    "de": "Organic Fields Limited"
-  },
+  "name": "ORGANIC FIELDS LIMITED",
   "pubId": 477352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Mujangi"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "organicfields.co.ke",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-235",
+  "entityDescription": "A social, environmental and agricultural enterprise converting market food waste into organic fertilizer for smallholder farmers.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

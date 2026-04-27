@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754908756,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Open Food Facts es una iniciativa sin ánimo de lucro y de código abierto que recopila y comparte datos sobre productos alimenticios en todo el mundo. Fundada en 2012, permite a consumidores e investigadores acceder a información sobre nutrición e impacto medioambiental. El proyecto depende de las contribuciones de la comunidad para mejorar su base de datos, que actualmente incluye millones de productos de más de 160 países. Al promover la transparencia y la toma de decisiones informadas, Open Food Facts pretende fomentar hábitos alimentarios más saludables y hacer frente a las injusticias relacionadas con la alimentación.",
     "de": "Open Food Facts ist eine gemeinnützige, Open-Source-Initiative, die weltweit Daten über Lebensmittelprodukte sammelt und weitergibt. Sie wurde 2012 gegründet und stärkt Verbraucher und Forscher, indem sie zugängliche Informationen über Ernährung und Umweltauswirkungen bereitstellt. Das Projekt stützt sich auf Beiträge der Gemeinschaft, um seine Datenbank zu erweitern, die derzeit Millionen von Produkten aus über 160 Ländern umfasst. Durch die Förderung von Transparenz und informierten Entscheidungen will Open Food Facts gesündere Essgewohnheiten fördern und Ungerechtigkeiten bei Lebensmitteln beseitigen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Open Food Facts",
-    "fr": "Open Food Facts",
-    "es": "Open Food Facts",
-    "de": "Open Food Facts"
-  },
+  "name": "Open Food Facts",
   "pubId": 472752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Solomon"
     }
   ],
-  "thematic": ["data-information-and-computing", "food-agriculture-fishery"],
+  "thematic": [
+    "data-information-and-computing",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://world.openfoodfacts.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-137",
+  "entityDescription": "Non-profit association building an open database of food products through citizen science and volunteer contributions.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Knowledge & Information"
 }

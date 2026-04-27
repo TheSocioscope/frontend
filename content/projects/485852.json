@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754954215,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa se centra en el desarrollo y la comercialización de hongos micorrícicos, que mejoran la salud del suelo y la productividad de los cultivos. Fundada hace 20 años por una familia apasionada por la agricultura, la empresa ha evolucionado de las prácticas tradicionales a soluciones biotecnológicas innovadoras. Comprometidos con la agricultura ecológica, producen micorrizas de alta calidad que mejoran la absorción de nutrientes en diversos cultivos. Su objetivo es restaurar los suelos, promover la agricultura sostenible y ampliar su presencia en el mercado nacional e internacional.",
     "de": "Die Initiative konzentriert sich auf die Entwicklung und Vermarktung von Mykorrhizapilzen, die die Bodengesundheit und die Pflanzenproduktivität verbessern. Das Unternehmen wurde vor 20 Jahren von einer Familie mit Leidenschaft für die Landwirtschaft gegründet und hat sich von traditionellen Praktiken zu innovativen biotechnologischen Lösungen entwickelt. Das Unternehmen, das sich dem ökologischen Landbau verschrieben hat, stellt hochwertige Mykorrhizapilze her, die die Nährstoffaufnahme in verschiedenen Kulturen verbessern. Ihr Ziel ist die Wiederherstellung von Böden, die Förderung einer nachhaltigen Landwirtschaft und die Ausweitung ihrer Marktpräsenz auf nationaler und internationaler Ebene."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Suppra",
-    "fr": "Suppra",
-    "es": "Suppra",
-    "de": "Suppra"
-  },
+  "name": "SUPPRA",
   "pubId": 485852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Seplano Prada"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/suppracolombia/",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +211,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-144",
+  "entityDescription": "Colombian biotechnology company specializing in mycorrhizal fungi production for organic agriculture and soil restoration.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754953974,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en crear productos ecológicos, concretamente platos germinables fabricados con residuos agrícolas. Lanzado en 2009, el proyecto pretende reducir la contaminación causada por los artículos desechables tradicionales. Con su compromiso con la sostenibilidad, la iniciativa también ayuda a poblaciones vulnerables, como madres solteras y personas encarceladas, ofreciéndoles oportunidades laborales. A lo largo de los años, ha cosechado múltiples premios y reconocimientos por su enfoque innovador de la protección del medio ambiente y la responsabilidad social.",
     "de": "Die Initiative konzentriert sich auf die Herstellung umweltfreundlicher Produkte, insbesondere keimfähiger Teller aus landwirtschaftlichen Abfällen. Das 2009 gestartete Projekt zielt darauf ab, die durch herkömmliche Einwegartikel verursachte Umweltverschmutzung zu verringern. Mit ihrem Engagement für Nachhaltigkeit unterstützt die Initiative auch sozial schwache Bevölkerungsgruppen, darunter alleinerziehende Mütter und inhaftierte Personen, indem sie ihnen Arbeitsmöglichkeiten bietet. Im Laufe der Jahre hat die Initiative mehrere Auszeichnungen und Anerkennungen für ihren innovativen Ansatz in Sachen Umweltschutz und soziale Verantwortung erhalten."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Lifepack",
-    "fr": "Lifepack",
-    "es": "Lifepack",
-    "de": "Lifepack"
-  },
+  "name": "LIFEPACK",
   "pubId": 485652,
   "state": "ongoing-project",
   "team": [
@@ -39,7 +40,9 @@
     "consumption-and-production-patterns"
   ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://lifepack.com.co",
   "yt": "CaM6zbit3tE",
   "editedAt": 1760453597,
@@ -49,7 +52,9 @@
       "at": 1760453597
     }
   ],
-  "updatedAt": [1760453597],
+  "updatedAt": [
+    1760453597
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -216,5 +221,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-089",
+  "entityDescription": "Company producing biodegradable packaging from organic waste (pineapple peels, cacao hulls) with embedded germinable seeds.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

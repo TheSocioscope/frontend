@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El Buen Socio is an ethical finance organization empowering entrepreneurs in rural Mexico through micro-credits and technical support.",
     "de": "El Buen Socio is an ethical finance organization empowering entrepreneurs in rural Mexico through micro-credits and technical support."
   },
-  "field": ["economics-business"],
+  "field": [
+    "economics-business"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "El Buen Socio",
-    "fr": "Le Bon Partenaire",
-    "es": "El Buen Socio",
-    "de": "Der Gute Partner"
-  },
+  "name": "El buen socio",
   "pubId": 506452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Breceda Elenes"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.elbuensocio.com.mx/",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-046",
+  "entityDescription": "A social enterprise providing financial education, low-interest credit, and technical support to rural and indigenous producers in Mexico.",
+  "entityRole": [
+    "Finance & Investment",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Financial"
 }

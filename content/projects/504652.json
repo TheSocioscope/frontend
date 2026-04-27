@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Milpa Azul has over 20 years of experience in alternative and environmental education, working at the intersection of children, education, and agriculture.",
     "de": "Milpa Azul has over 20 years of experience in alternative and environmental education, working at the intersection of children, education, and agriculture."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Milpa Azul",
-    "fr": "Milpa Azul",
-    "es": "Milpa Azul",
-    "de": "Milpa Azul"
-  },
+  "name": "Milpa Azul",
   "pubId": 504652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Malika Ginon"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://huertosmilpazul.com/",
   "yt": "",
   "originalLang": "es",
@@ -194,5 +199,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-007",
+  "entityDescription": "Civil association that provides educational garden methodology and training to schools and educators for children's food sovereignty.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

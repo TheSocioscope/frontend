@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739391973,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "EDENN es una asociación mixta centrada en la protección y gestión de los ecosistemas fluviales de la región de Anthèse, especialmente en lo que respecta a la cuenca que alimenta a Nantes a través de los ríos Erdre y Loira. Creada a finales de la década de 1990, la iniciativa pasó de coordinar diversos usos del río, como la pesca y la navegación, a abordar objetivos medioambientales, especialmente tras convertirse en una estructura administrativa en 2018. Entre sus principales misiones figuran garantizar la salud ecológica de las masas de agua de acuerdo con las directivas europeas, gestionar los espacios Natura 2000 para la protección de la biodiversidad y coordinar los usos recreativos del agua.\n\nEDENN hace hincapié en la colaboración con los agricultores locales para reducir los insumos químicos que contaminan las fuentes de agua, promoviendo prácticas agrícolas sostenibles. Su objetivo es fomentar el diálogo entre las diversas partes interesadas, equilibrando las necesidades ecológicas con los intereses económicos, mientras navegan por las complejidades de la gobernanza medioambiental.",
     "de": "EDENN is a joint association focused on the protection and management of river ecosystems in the Anthèse region, particularly concerning the catchment area that feeds into Nantes via the Erdre and Loire rivers. Established in the late 1990s, the initiative evolved from coordinating various river uses, such as fishing and boating, to addressing environmental objectives, especially after becoming a administrative structure in 2018. The primary missions include ensuring the ecological health of water bodies in line with European directives, managing Natura 2000 sites for biodiversity protection, and coordinating recreational water uses.\n\nEDENN betont die Zusammenarbeit mit lokalen Landwirten, um den Einsatz von Chemikalien, die Wasserquellen verschmutzen, zu reduzieren und nachhaltige landwirtschaftliche Praktiken zu fördern. They aim to foster dialogue between various stakeholders, balancing ecological needs with economic interests, while navigating the complexities of environmental governance."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Edenn",
-    "fr": "Edenn",
-    "es": "Edenn",
-    "de": "Edenn"
-  },
+  "name": "Edenn",
   "pubId": 446252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Fenard"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.edenn.fr/",
   "yt": "eYxK23hHn58",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-002",
+  "entityDescription": "Public water management syndicate responsible for restoring ecological health of Erdre river basin through coordination and direct interventions.",
+  "entityRole": [
+    "Governance & Regulation",
+    "Support Services"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Environment & Biodiversity",
+    "Water",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

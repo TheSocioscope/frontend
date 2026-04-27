@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754909541,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Les Cols Vert es una asociación innovadora con sede en París centrada en la agricultura urbana y la transición alimentaria. La asociación se dedica a la agricultura urbana y la transición alimentaria. Funciona como una institución híbrida, que combina elementos tanto de una empresa social como de una red de asociaciones independientes. La iniciativa pretende apoyar a las autoridades locales y educar a los ciudadanos en prácticas sostenibles, ofreciendo formación, experiencia y servicios para promover las granjas urbanas y una transición alimentaria integral en toda Francia.     ",
     "de": "Les Cols Vert ist eine innovative Vereinigung mit Sitz in Paris, die sich mit städtischer Landwirtschaft und Ernährungsumstellung befasst. Der Verein widmet sich der städtischen Landwirtschaft und der Ernährungsumstellung. Es handelt sich um eine hybride Einrichtung, die Elemente eines Sozialunternehmens und eines Netzwerks unabhängiger Vereinigungen kombiniert. Ziel der Initiative ist es, die lokalen Behörden zu unterstützen und die Bürger über nachhaltige Praktiken aufzuklären. Sie bietet Schulungen, Fachwissen und Dienstleistungen an, um urbane Landwirtschaftsbetriebe und eine umfassende Ernährungsumstellung in ganz Frankreich zu fördern.     "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "de": "Les Cols Vert",
-    "en": "Les Cols Vert",
-    "fr": "Les Cols Vert",
-    "es": "Les Cols Vert"
-  },
+  "name": "Les Cols Vert",
   "pubId": 483152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Marcel"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.lescolsverts.fr/",
   "yt": "hRxvpJEZtJM",
   "originalLang": "de",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-144",
+  "entityDescription": "National network of associations focused on urban agriculture education, training, and systemic food transition support across France.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

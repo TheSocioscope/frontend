@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1741097552,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Del Peix Al Plat se centra en concienciar sobre el consumo de pescado local y las prácticas pesqueras sostenibles. Partiendo de una motivación personal, pretende educar a la comunidad sobre la importancia del marisco local y el impacto medioambiental de la pesca. Mediante charlas informativas, visitas guiadas a los muelles pesqueros y clases de cocina, la iniciativa pretende poner en contacto a los consumidores con los pescadores locales y promover el consumo de especies de pescado menos conocidas. A pesar de enfrentarse a los desafíos de algunos sectores de la comunidad pesquera, se esfuerza por fomentar una comprensión más profunda de la sostenibilidad marina y la importancia de los recursos locales.",
     "de": "Del Peix Al Plat konzentriert sich darauf, das Bewusstsein für den lokalen Fischkonsum und nachhaltige Fischfangpraktiken zu schärfen. Das aus einer persönlichen Motivation heraus entstandene Projekt will die Gemeinschaft über die Bedeutung von lokalem Fisch und die Umweltauswirkungen des Fischfangs aufklären. Through informative talks, guided visits to fishing quays, and cooking classes, the initiative seeks to connect consumers with local fishermen and promote the consumption of less-known fish species. Trotz der Herausforderungen, denen sich einige Sektoren der Fischereigemeinschaft gegenübersehen, bemüht sich die Initiative um die Förderung eines besseren Verständnisses der Nachhaltigkeit der Meere und der Bedeutung der lokalen Ressourcen."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "it": "Del Peix Al Plat",
-    "en": "Del Peix Al Plat",
-    "fr": "Del Peix Al Plat",
-    "es": "Del Peix Al Plat",
-    "de": "Del Peix Al Plat"
-  },
+  "name": "Del Peix Al Plat",
   "pubId": 454952,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Bozzano"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://delpeixalplat.com/",
   "yt": "q-2cIk7bPjo",
   "originalLang": "fr",
@@ -205,5 +209,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-008",
+  "entityDescription": "Educational project promoting local fish consumption and valorizing professional fishing work in Barcelona through visits, talks and cooking classes.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Individual/Solo",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

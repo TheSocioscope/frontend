@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754424266,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Nehuen es un animado mercado situado en Mallín Ahogado, Patagonia, que exhibe una variada gama de productos de productores locales. Ofrece productos caseros y artesanales, como cerveza artesanal, mermeladas, hierbas medicinales y cosméticos naturales. La iniciativa fomenta una estrecha relación entre productores y consumidores, haciendo hincapié en las prácticas agroecológicas y la participación de la comunidad. Nehuen sirve de punto de encuentro para vecinos y turistas, promoviendo economías locales sostenibles y eventos culturales al tiempo que refuerza los lazos dentro de la comunidad.",
     "de": "Nehuen ist ein pulsierender Markt in Mallín Ahogado, Patagonien, der eine breite Palette an Produkten von lokalen Produzenten anbietet. Er bietet selbstgemachte und handgefertigte Waren an, darunter Craft Beer, Schinken, Heilkräuter und Naturkosmetik. Die Initiative fördert eine enge Beziehung zwischen Erzeugern und Verbrauchern, betont agrarökologische Praktiken und kommunales Engagement. Nehuen dient als Treffpunkt für Nachbarn und Touristen, fördert die nachhaltige lokale Wirtschaft und kulturelle Veranstaltungen, während die Bindungen innerhalb der Gemeinde gestärkt werden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Nehuen",
-    "fr": "Nehuen",
-    "es": "Nehuen",
-    "de": "Nehuen"
-  },
+  "name": "Nehuen",
   "pubId": 463152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "López"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "economy-business-markets-finance"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "economy-business-markets-finance"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "lAtUieLSPq4",
   "originalLang": "fr",
@@ -203,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-069",
+  "entityDescription": "A community-managed rural market in Mallín Ahogado selling local agricultural and artisanal products while organizing cultural events and workshops.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Retail",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Distribution & Logistics",
+    "Social & Community"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "EARTH University is dedicated to education in agricultural sciences and natural resource management, training leaders in sustainable development for the tropics.",
     "de": "EARTH University is dedicated to education in agricultural sciences and natural resource management, training leaders in sustainable development for the tropics."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "EARTH University",
-    "fr": "Université EARTH",
-    "es": "Universidad EARTH",
-    "de": "EARTH Universität"
-  },
+  "name": "EARTH University",
   "pubId": 502152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Condo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.earth.ac.cr/",
   "yt": "",
   "originalLang": "en",
@@ -203,5 +208,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-096",
+  "entityDescription": "A Costa Rican university training diverse young leaders in sustainable agriculture, entrepreneurship and community development for rural transformation.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

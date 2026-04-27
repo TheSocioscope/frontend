@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754477616,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Santa Anita Estate Coffee es una empresa familiar productora de café en Costa Rica, centrada en el café de alta calidad mediante prácticas sostenibles. Aunque no son totalmente orgánicos, aplican métodos regenerativos, como el riego eficiente y la mejora de la biodiversidad del suelo. La finca da prioridad a la calidad sobre la cantidad, y produce café especial principalmente para la exportación. Su objetivo es reducir el impacto ambiental manteniendo la viabilidad comercial, y están estudiando la posibilidad de añadir valor tostando su propio café en el futuro.",
     "de": "Santa Anita Estate Coffee ist ein familiengeführter Kaffeeproduzent in Costa Rica, der sich auf qualitativ hochwertigen Kaffee durch nachhaltige Praktiken konzentriert. Auch wenn sie nicht vollständig organisch sind, setzen sie regenerative Methoden wie effiziente Bewässerung und die Förderung der biologischen Vielfalt des Bodens ein. The estate prioritizes quality over quantity, producing specialty coffee primarily for export. They aim to reduce their environmental impact while maintaining commercial viability, and they are exploring further value addition by potentially roasting their own coffee in the future."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Santa Anita Estate Coffee ",
-    "en": "Santa Anita Estate Coffee",
-    "fr": "Café du domaine Santa Anita",
-    "es": "Café de la finca Santa Anita",
-    "de": "Santa Anita Estate Kaffee"
-  },
+  "name": "Santa Anita Estate Coffee",
   "pubId": 466252,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Carvajal"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "QDOIwUYpQHw",
   "editedAt": 1755739340,
@@ -46,7 +50,9 @@
       "at": 1755739340
     }
   ],
-  "updatedAt": [1755739340],
+  "updatedAt": [
+    1755739340
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -222,5 +228,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-030",
+  "entityDescription": "Multi-generational family coffee estate producing high-quality specialty coffee with carbon neutral certification and sustainable practices.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

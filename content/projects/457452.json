@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754312535,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Foodbiome es una iniciativa de cuatro años que pretende restablecer el vínculo entre la alimentación y el territorio tanto a nivel físico como cultural. Fundada por Jean-Philippe Guérard, fomenta la colaboración entre diversas partes interesadas, incluidos agricultores, autoridades locales y empresarios, para crear un ecosistema en red para la transición alimentaria. Mediante el asesoramiento y el apoyo a la creación de redes, Foodbiome trata de optimizar las iniciativas locales y nacionales, garantizando que colaboren eficazmente para promover sistemas alimentarios y modelos económicos sostenibles.",
     "de": "Foodbiome ist eine vierjährige Initiative, die die Verbindung zwischen Lebensmitteln und Territorium auf physischer und kultureller Ebene wiederherstellen will. Die von Jean-Philippe Guérard gegründete Initiative fördert die Zusammenarbeit zwischen verschiedenen Stakeholdern, darunter Landwirte, lokale Behörden und Unternehmer, um ein vernetztes Ökosystem für den Übergang von Lebensmitteln zu schaffen. Durch die Bereitstellung von Beratungs- und Vernetzungsunterstützung will Foodbiome lokale und nationale Initiativen optimieren und sicherstellen, dass sie effektiv zusammenarbeiten, um nachhaltige Nahrungsmittelsysteme und Wirtschaftsmodelle zu fördern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Foodbiome",
-    "fr": "Foodbiome",
-    "es": "Foodbiome",
-    "de": "Foodbiome"
-  },
+  "name": "Foodbiome",
   "pubId": 457452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Querand"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://foodbiome.fr/",
   "yt": "PitUea6KQeE",
   "editedAt": 1755735575,
@@ -45,7 +50,9 @@
       "at": 1755735575
     }
   ],
-  "updatedAt": [1755735575],
+  "updatedAt": [
+    1755735575
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +228,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-123",
+  "entityDescription": "Enterprise à mission that facilitates food system transition by connecting diverse stakeholders and incubating innovative food/agriculture startups.",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

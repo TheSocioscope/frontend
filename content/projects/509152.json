@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,21 +19,22 @@
     "es": "An ECD centre providing daycare and nutritious meals for children, supported by the Do More Foundation and LunchBox.",
     "de": "An ECD centre providing daycare and nutritious meals for children, supported by the Do More Foundation and LunchBox."
   },
-  "field": ["educational-sciences"],
+  "field": [
+    "educational-sciences"
+  ],
   "lang": "en",
   "location": "Zwelethemba",
-  "name": {
-    "en": "Sinethemba Care Centre",
-    "fr": "Sinethemba Care Centre",
-    "es": "Sinethemba Care Centre",
-    "de": "Sinethemba Care Centre"
-  },
+  "name": "",
   "pubId": 509152,
   "state": "ongoing-project",
   "team": [],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -198,5 +203,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-008",
+  "entityDescription": "An early childhood development center providing daycare, aftercare and educational services to young children in an underserved community.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Social & Community",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Services"
 }

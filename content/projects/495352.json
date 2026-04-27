@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["canada"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "canada"
+  ],
   "createdAt": 1755007917,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa se centra en crear un cambio sistémico en los sectores de la producción y distribución de alimentos, especialmente en Montreal y Quebec. La organización, cofundada por dos mujeres, pretende apoyar a las empresas alimentarias y abordar la inseguridad alimentaria mediante la creación conjunta de soluciones con diversas partes interesadas, como productores, municipios y organizaciones comunitarias. La organización opera con un enfoque ecosistémico, haciendo hincapié en la colaboración y escuchando las necesidades de todos los actores implicados en el sistema alimentario. Prestan una serie de servicios, como consultoría, desarrollo de competencias y aplicación de soluciones innovadoras, como una plataforma informática para gestionar programas de cupones alimentarios.",
     "de": "Die Initiative konzentriert sich auf die Schaffung eines systemischen Wandels in den Bereichen Lebensmittelproduktion und -vertrieb, insbesondere in Montreal und Quebec. Die von zwei Frauen mitbegründete Organisation hat sich zum Ziel gesetzt, Lebensmittelunternehmen zu unterstützen und die Ernährungsunsicherheit zu bekämpfen, indem sie gemeinsam mit verschiedenen Akteuren, darunter Erzeugern, Gemeinden und Gemeindeorganisationen, Lösungen erarbeitet. Die Organisation verfolgt einen ökosystemischen Ansatz, bei dem die Zusammenarbeit und das Eingehen auf die Bedürfnisse aller am Lebensmittelsystem beteiligten Akteure im Vordergrund stehen. Sie bietet eine Reihe von Dienstleistungen an, darunter Beratung, Kompetenzentwicklung und die Umsetzung innovativer Lösungen, wie etwa eine IT-Plattform für die Verwaltung von Lebensmittelgutscheinprogrammen."
   },
-  "field": ["nutrition", "other-social-sciences-and-humanities"],
+  "field": [
+    "nutrition",
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "fr": "Collectif Recolte ",
-    "en": "Collectif Recolte",
-    "es": "Colectivo Recolte",
-    "de": "Collectif Recolte"
-  },
+  "name": "Collectif Recolte",
   "pubId": 495352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,15 @@
       "lastname": "Lalonde"
     }
   ],
-  "thematic": ["education", "welfare-work-social-protection", "food-agriculture-fishery"],
+  "thematic": [
+    "education",
+    "welfare-work-social-protection",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://recolte.ca/accueil/",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +212,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CA-003",
+  "entityDescription": "Non-profit organization that supports food system initiatives through B2B services, ecosystem analysis, and collaborative solution creation.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

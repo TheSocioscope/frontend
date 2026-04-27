@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1755262791,
   "date": null,
   "description": {
@@ -15,15 +19,14 @@
     "es": "Let's Food es una asociación dedicada a apoyar a las autoridades locales francesas y extranjeras en el desarrollo de políticas alimentarias sostenibles, resilientes y equitativas. La iniciativa se centra en tres áreas principales: ayudar a las autoridades locales, crear un centro de recursos para iniciativas alimentarias innovadoras y ofrecer formación a estudiantes y cargos electos locales en temas de agricultura y alimentación sostenibles. La iniciativa pretende crear marcos de actuación que faciliten la transición alimentaria permitiendo a las autoridades locales activar diversas palancas, como la financiación y las asociaciones, para aplicar políticas públicas eficaces. Let's Food también hace hincapié en la importancia de la colaboración interdisciplinar, trabajando con diversos ministerios y sectores para abordar las complejidades de los sistemas alimentarios.",
     "de": "Let's Food ist ein Verein, der lokale Behörden in Frankreich und im Ausland bei der Entwicklung einer nachhaltigen, widerstandsfähigen und gerechten Lebensmittelpolitik unterstützt. Die Initiative konzentriert sich auf drei Hauptbereiche: die Unterstützung lokaler Behörden, die Einrichtung eines Ressourcenzentrums für innovative Lebensmittelinitiativen und die Schulung von Studenten und lokalen Mandatsträgern in Fragen der nachhaltigen Landwirtschaft und Ernährung. Die Initiative zielt darauf ab, Handlungsrahmen zu schaffen, die den Übergang zur Ernährung erleichtern, indem die lokalen Behörden in die Lage versetzt werden, verschiedene Hebel, wie z. B. Finanzierung und Partnerschaften, zu aktivieren, um wirksame öffentliche Maßnahmen umzusetzen. Let's Food unterstreicht auch die Bedeutung der interdisziplinären Zusammenarbeit mit verschiedenen Ministerien und Sektoren, um die Komplexität der Lebensmittelsysteme zu bewältigen."
   },
-  "field": ["other-social-sciences-and-humanities", "political-science", "nutrition"],
+  "field": [
+    "other-social-sciences-and-humanities",
+    "political-science",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Let's Food",
-    "fr": "Alimentation",
-    "es": "Comamos",
-    "de": "Let's Food"
-  },
+  "name": "Let's Food",
   "pubId": 499052,
   "state": "ongoing-project",
   "team": [
@@ -39,7 +42,9 @@
     "public-policy-evaluation-impact"
   ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.letsfood.fr/",
   "yt": "",
   "originalLang": "en",
@@ -208,5 +213,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-125",
+  "entityDescription": "Association accompagnant les collectivités territoriales dans le développement de politiques alimentaires durables via diagnostic, formation et coopération internationale.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Policy & Advocacy",
+    "Agriculture/Agroecology",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

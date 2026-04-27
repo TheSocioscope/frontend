@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739451887,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "ANDES es una asociación nacional de tiendas de comestibles solidarias de Francia, fundada en 2000. Su objetivo es proporcionar ayuda alimentaria a personas en situación precaria permitiéndoles comprar en tiendas de comestibles donde pagan una cuota simbólica del 10 al 20% del precio básico del producto. Este planteamiento pretende mantener la dignidad de los beneficiarios permitiéndoles elegir sus alimentos y hacer una pequeña contribución económica.\n\nAndès gestiona más de 600 tiendas de comestibles solidarias, que distribuyen unos 40 millones de comidas al año a unas 230.000 personas, lo que la convierte en el quinto proveedor de ayuda alimentaria de Francia. La red apoya a estas tiendas de comestibles mediante asistencia logística, formación y gobernanza, ayudándoles a gestionar los suministros y a crear un entorno acogedor que fomente las conexiones sociales y la confianza en sí mismos de los beneficiarios.\n\nLa iniciativa también se centra en la capacitación de las personas, implicándolas en la gestión de las tiendas y ofreciéndoles talleres para compartir conocimientos, como cocina y costura. Además, Andès lleva a cabo actividades contra el despilfarro recogiendo los alimentos no vendidos de los mayoristas y redistribuyéndolos entre las tiendas de comestibles y otras organizaciones de ayuda.\n\nLa organización aspira a ampliar su alcance a zonas desatendidas y modernizar su oferta, promoviendo prácticas alimentarias sostenibles y la participación de la comunidad a través de diversos programas, como actividades culturales y visitas a granjas.\n",
     "de": "ANDES ist ein im Jahr 2000 gegründeter nationaler Verband von Solidaritätsgrocery Shops in Frankreich. Sie zielt darauf ab, Menschen in prekären Situationen Nahrungsmittelhilfe zukommen zu lassen, indem sie ihnen ermöglicht, in Lebensmittelgeschäften einzukaufen, wo sie eine symbolische Gebühr von 10 bis 20 % des Grundpreises des Produkts zahlen. Mit diesem Ansatz soll die Würde der Begünstigten gewahrt werden, indem sie ihr Essen auswählen und einen kleinen finanziellen Beitrag leisten können.\n\nAndès betreibt über 600 solidarische Lebensmittelgeschäfte und verteilt jährlich rund 40 Millionen Mahlzeiten an etwa 230.000 Menschen, was ihn zum fünftgrößten Anbieter von Nahrungsmittelhilfe in Frankreich macht. The network supports these grocery shops through logistics, training, and governance assistance, helping them to manage supplies and create a welcoming environment that fosters social connections and self-confidence among beneficiaries.\n\nDie Initiative konzentriert sich auch auf die Stärkung von Einzelpersonen, indem sie diese in die Leitung der Grocery-Shops einbezieht und Workshops anbietet, um Fähigkeiten wie Kochen und Nähen zu teilen. Darüber hinaus engagiert sich Andès in Anti-Waste-Aktivitäten, indem sie unsold food von Großhändlern sammelt und an Grocery Shops und andere Hilfsorganisationen weiterverteilt.\n\nThe organization aims to expand its range to underserved areas and modernize its offerings, promoting sustainable food practices and community engagement through various programs, including cultural activities and farm visits.\n"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Andes",
-    "fr": "Andes",
-    "es": "Andes",
-    "de": "Anden"
-  },
+  "name": "Andes",
   "pubId": 447152,
   "state": "ongoing-project",
   "team": [
@@ -38,9 +39,13 @@
       "lastname": "Perrin"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://andes-france.com",
   "yt": "CVg5E0esmaQ",
   "originalLang": "fr",
@@ -218,5 +223,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-015",
+  "entityDescription": "National network supporting 600+ solidarity grocery stores fighting food poverty through dignified access to affordable food",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Social & Community",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

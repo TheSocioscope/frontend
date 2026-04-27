@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755089309,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa, Tara, se centra en el cultivo y procesamiento de la tara, una fruta de los Andes que ofrece numerosos beneficios farmacéuticos y contribuye a la seguridad alimentaria. Al potenciar el valor de la tara, la organización pretende apoyar a más de 25.000 familias dedicadas a su cultivo, al tiempo que promueve la sostenibilidad ecológica. El proyecto también pretende abordar los problemas de salud relacionados con la acrilamida en los alimentos, aprovechando las propiedades de la tara para crear productos alimentarios más seguros y mejorar los medios de subsistencia de los agricultores locales.",
     "de": "Die Initiative Tara konzentriert sich auf den Anbau und die Verarbeitung von Tara, einer Frucht aus den Anden, die zahlreiche pharmazeutische Vorteile bietet und zur Ernährungssicherheit beiträgt. Durch die Aufwertung der Tara will die Organisation über 25.000 Familien unterstützen, die mit dem Anbau beschäftigt sind, und gleichzeitig die ökologische Nachhaltigkeit fördern. Das Projekt zielt auch darauf ab, gesundheitliche Bedenken im Zusammenhang mit Acrylamid in Lebensmitteln zu zerstreuen, indem die Eigenschaften der Tara genutzt werden, um sicherere Lebensmittel zu erzeugen und die Lebensgrundlage der örtlichen Bauern zu verbessern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Tara",
-    "fr": "Tara",
-    "es": "Tara",
-    "de": "Tara"
-  },
+  "name": "Tara",
   "pubId": 497652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "TELGE NORIEGA"
     }
   ],
-  "thematic": ["public-health", "food-agriculture-fishery"],
+  "thematic": [
+    "public-health",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://molinosasociados.com/",
   "yt": "c02TD4YNN50",
   "originalLang": "fr",
@@ -213,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-112",
+  "entityDescription": "Family-owned company processing and exporting tara fruit while developing value-added products and conducting R&D on applications.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

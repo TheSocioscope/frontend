@@ -4,8 +4,10 @@
       {{ $t('projects.detail.about') }}
     </ProjectSectionHeader>
     <v-card-text>
+      <p v-if="project.entityDescription" class="entity-summary">
+        {{ project.entityDescription }}
+      </p>
       <div class="description-content" v-html="localizedDescription" />
-
     </v-card-text>
   </v-card>
 </template>
@@ -22,6 +24,16 @@ const { t: $t } = useI18n()
 <style scoped lang="scss">
 .project-about {
   margin-bottom: 2rem;
+}
+
+.entity-summary {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #27421d;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #4ca04933;
 }
 
 .description-content {

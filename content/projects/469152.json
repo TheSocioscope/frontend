@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754500572,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Acta es una asociación científica de Colombia que celebra 50 años de avances en ciencia y tecnología de los alimentos. Su misión se centra en la transferencia de conocimientos para mejorar los sectores agroindustrial y agroalimentario. Acta colabora con entidades internacionales y ofrece afiliación a empresas de producción de alimentos, universidades e instituciones públicas. La organización hace hincapié en la seguridad alimentaria, los asuntos reglamentarios y el análisis sensorial, con el objetivo de fortalecer los sistemas alimentarios y promover la comprensión científica dentro de la industria y entre los consumidores.",
     "de": "Acta ist eine wissenschaftliche Vereinigung in Kolumbien, die 50 Jahre Förderung von Wissenschaft und Technologie in der Lebensmittelindustrie feiert. Seine Mission konzentriert sich auf den Wissenstransfer zur Verbesserung der Agrarindustrie und des Agrar- und Ernährungssektors. Acta arbeitet mit internationalen Organisationen zusammen und bietet Mitgliedschaften für Unternehmen der Lebensmittelproduktion, Universitäten und öffentliche Einrichtungen an. Die Organisation legt Wert auf Lebensmittelsicherheit, regulatorische Angelegenheiten und sensorische Analysen, um die Lebensmittelsysteme zu stärken und das wissenschaftliche Verständnis in der Industrie und unter den Verbrauchern zu fördern."
   },
-  "field": ["nutrition", "engineering-and-technology"],
+  "field": [
+    "nutrition",
+    "engineering-and-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Acta",
-    "fr": "Acta",
-    "es": "Acta",
-    "de": "Acta"
-  },
+  "name": "ACTA",
   "pubId": 469152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,13 @@
       "lastname": "Liliana Peralta Baquero"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://portal.acta.org.co/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +220,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-312",
+  "entityDescription": "Scientific association providing knowledge transfer in food science and technology to Colombia's agri-food sector.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Policy & Advocacy",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Knowledge & Information"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "GanBos Costa Rica is a silvopastoral initiative combining livestock farming with forestry to restore ecosystems on the Nicoya Peninsula.",
     "de": "GanBos Costa Rica is a silvopastoral initiative combining livestock farming with forestry to restore ecosystems on the Nicoya Peninsula."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "GanBos Costa Rica",
-    "fr": "GanBos Costa Rica",
-    "es": "GanBos Costa Rica",
-    "de": "GanBos Costa Rica"
-  },
+  "name": "GanBos Costa Rica",
   "pubId": 501952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Artiñano"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.ganbos-costarica.com/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-094",
+  "entityDescription": "A project combining rotational grazing and reforestation for biodiversity conservation and carbon credit production with cattle farmers.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

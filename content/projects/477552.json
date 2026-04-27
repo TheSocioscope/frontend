@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754649562,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Dennis dirige la Regional Coalition for Farmers Markets, que crea espacios comunitarios para que los agricultores vendan directamente a los consumidores, eliminando intermediarios. Este modelo acorta la cadena de suministro y promueve un sistema alimentario más sano al fomentar las relaciones entre productores y consumidores. La coalición aspira a ampliar los mercados de agricultores en todas las comunidades, abogando por la producción local de alimentos y el valor añadido. Dennis cree que la demanda de los consumidores de transparencia en el abastecimiento de alimentos puede impulsar el cambio de las prácticas agrícolas.",
     "de": "Dennis leitet die Regional Coalition for Farmers Markets (Regionale Koalition für Bauernmärkte), die Gemeinschaftsräume für Landwirte schafft, damit diese direkt an die Verbraucher verkaufen können, ohne Zwischenhändler zu benötigen. Dieses Modell verkürzt die Lieferkette und fördert ein gesünderes Lebensmittelsystem, indem es die Beziehungen zwischen Erzeugern und Verbrauchern stärkt. Die Koalition zielt darauf ab, die Bauernmärkte in den Gemeinden auszuweiten und sich für die lokale Lebensmittelproduktion und Wertschöpfung einzusetzen. Dennis ist davon überzeugt, dass die Nachfrage der Verbraucher nach Transparenz bei der Beschaffung von Lebensmitteln einen Wandel der landwirtschaftlichen Praktiken bewirken kann."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Dennis Andaye",
-    "en": "Dennis Andaye",
-    "fr": "Dennis Andaye",
-    "es": "Dennis Andaye",
-    "de": "Dennis Andaye"
-  },
+  "name": "Dennis Andaye",
   "pubId": 477552,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Andaye"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ke.linkedin.com/in/dennis-andaye-9a17b744",
   "yt": "",
   "originalLang": "et",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-257",
+  "entityDescription": "Organization that establishes and operates direct-to-consumer farmers markets connecting producers with communities in Nairobi.",
+  "entityRole": [
+    "Distribution/Logistics",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Distribution & Logistics",
+    "Agriculture/Agroecology",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

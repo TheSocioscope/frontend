@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739452064,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Olimpe Technology es una empresa innovadora fundada en 2015 que se especializa en una revolucionaria tecnología de purificación del agua basada en la electrólisis. Esta tecnología genera ácido hipocloroso a partir de las sales minerales del agua, proporcionando una solución desinfectante natural eficaz para diversas aplicaciones, especialmente en los sectores agroalimentario y ganadero. La iniciativa pretende reducir la dependencia de los desinfectantes químicos, que tienen importantes repercusiones medioambientales y riesgos para la salud.\n\nInicialmente centrada en el mercado de las piscinas, Olimpe Technology ha cambiado su enfoque hacia la industria agroalimentaria, las autoridades locales y los establecimientos públicos, abordando problemas recurrentes relacionados con la calidad del agua. La empresa ha desarrollado cerca de 300 instalaciones en el sector ganadero y ahora trabaja para ampliar su presencia en el mercado agroalimentario, donde pretende proporcionar agua segura y libre de productos químicos para la producción y transformación de alimentos.",
     "de": "Olimpe Technology ist ein innovatives, 2015 gegründetes Unternehmen, das sich auf eine bahnbrechende Wasserreinigungstechnologie auf der Grundlage von Elektrolyse spezialisiert hat. Diese Technologie erzeugt Hypochlorsäure aus Mineralsalzen im Wasser und bietet eine natürliche Desinfektionslösung, die für verschiedene Anwendungen wirksam ist, insbesondere in den Sektoren Landwirtschaft, Ernährung und Viehzucht. Die Initiative zielt darauf ab, die Abhängigkeit von chemischen Desinfektionsmitteln zu verringern, die erhebliche Umweltauswirkungen und Gesundheitsrisiken mit sich bringen.\n\nOlimpe Technology konzentrierte sich ursprünglich auf den Markt für Swimmingpools und hat seinen Fokus auf die Agrar- und Lebensmittelindustrie, lokale Behörden und öffentliche Einrichtungen verlagert, um wiederkehrende Probleme der Wasserqualität anzugehen. Das Unternehmen hat fast 300 Anlagen im Viehsektor entwickelt und arbeitet nun daran, seine Präsenz auf dem Agrar- und Lebensmittelmarkt auszubauen, wo es sicheres, chemikalienfreies Wasser für die Lebensmittelproduktion und -verarbeitung bereitstellen möchte."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Olimpe Technology",
-    "fr": "Olimpe Technology",
-    "es": "Tecnología Olimpe",
-    "de": "Olimpe Technology"
-  },
+  "name": "Olimpe Technology",
   "pubId": 447252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Loiseau"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://olimpe-technology.com/",
   "yt": "DAXTYbXGJYU",
   "originalLang": "fr",
@@ -194,5 +199,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-023",
+  "entityDescription": "Technology company that develops electrolysis equipment producing natural disinfectant water without chemicals for food industry and other sectors.",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Food Processing/Products",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

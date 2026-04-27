@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1755009640,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La Cooperativa de Viver, fundada en 1990, empezó como almazara y desde entonces ha diversificado su producción para aumentar su resistencia frente a las incertidumbres agrícolas. Con 530 socios, produce aceite de oliva virgen extra, vino, frutos secos y diversas frutas y verduras. La cooperativa también aborda la despoblación rural proporcionando servicios esenciales como supermercados y soluciones energéticas, fomentando el crecimiento económico local al tiempo que promueve prácticas agrícolas sostenibles y el compromiso de la comunidad.      ",
     "de": "Die 1990 gegründete Cooperativa de Viver begann als Ölmühle und hat seither ihre Produktion diversifiziert, um die Widerstandsfähigkeit gegenüber landwirtschaftlichen Unsicherheiten zu erhöhen. Mit 530 Mitgliedern produziert sie natives Olivenöl extra, Wein, Nüsse sowie verschiedene Obst- und Gemüsesorten. Die Genossenschaft wirkt auch der Landflucht entgegen, indem sie wichtige Dienstleistungen wie Supermärkte und Energielösungen anbietet, das lokale Wirtschaftswachstum fördert und gleichzeitig nachhaltige landwirtschaftliche Praktiken und das Engagement der Gemeinschaft unterstützt.      "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "pt": "Cooperativa de Viver",
-    "en": "Cooperativa de Viver",
-    "fr": "Coopérative de vie",
-    "es": "Cooperativa de vida",
-    "de": "Lebendige Genossenschaft"
-  },
+  "name": "Cooperativa de Viver",
   "pubId": 496352,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Marco Carrasco"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "welfare-work-social-protection"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "welfare-work-social-protection"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.cooperativaviver.es/sobre-nosotros/?_gl=1*b3qx7k*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjwna6_BhCbARIsALId2Z3ONr_OaTWhnmxE_sJoGlpHhrJd3RPQuNXvM6-aJdl1YHwido2pMRYaAofcEALw_wcB",
   "yt": "",
   "originalLang": "pt",
@@ -205,5 +210,23 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-042",
+  "entityDescription": "First-grade agrifood cooperative producing olive oil, nuts, wine, and fruits while providing rural services",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739451465,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CoopCircuits es una cooperativa de interés colectivo que pretende reconectar a productores y consumidores a través de una plataforma digital diseñada para la venta a corta distancia. Lanzada en marzo de 2020, se inspira en un proyecto que comenzó en 2012 en Victoria (Australia), donde los horticultores buscaban vender directamente sus productos. La iniciativa combina el software de código abierto con la producción agrícola local, fomentando la resiliencia y la tendencia de comer localmente, que ha ganado tracción tras el COVID.\n\nLa plataforma funciona con el software Open Food Network, que se comparte internacionalmente y permite a diversas partes interesadas -como productores individuales, grupos de compra, autoridades locales y tiendas de comestibles- gestionar sus ventas y distribución de forma eficiente. Los usuarios pueden crear sus tiendas en línea gratuitamente, siempre que se adhieran a una carta de valores que garantice precios justos tanto para los productores como para los consumidores.\n\nA pesar de su crecimiento y del establecimiento de una comunidad de apoyo, CoopCircuits se enfrenta a retos como la inercia en la toma de decisiones y la necesidad de una estrategia comercial más definida. La iniciativa se posiciona como una respuesta a las disfunciones del sistema alimentario actual, con el objetivo de crear una red de distribución sostenible que beneficie tanto a los productores como a los consumidores, al tiempo que fomenta las economías locales.\n",
     "de": "CoopCircuits ist eine gemeinnützige Genossenschaft, die Erzeuger und Verbraucher über eine digitale Plattform für Kurzstreckenverkäufe wieder miteinander verbinden will. Die im März 2020 gestartete Initiative wurde von einem Projekt inspiriert, das 2012 in Victoria, Australien, begann, wo Marktgärtner ihre Produkte direkt verkaufen wollten. Die Initiative verbindet Open-Source-Software mit lokaler landwirtschaftlicher Produktion und fördert so die Widerstandsfähigkeit und den Trend zum Essen vor Ort, der nach dem COVID an Zugkraft gewonnen hat.\n\nDie Plattform basiert auf der Software des Open Food Network, die international geteilt wird und es verschiedenen Akteuren - wie einzelnen Produzenten, Einkaufsgruppen, lokalen Behörden und Großhändlern - ermöglicht, ihren Verkauf und Vertrieb effizient zu verwalten. Die Nutzer können ihre Online-Shops kostenlos einrichten, sofern sie sich an eine Wertschöpfungskette halten, die faire Preise für Produzenten und Verbraucher gewährleistet.\n\nTrotz seines Wachstums und des Aufbaus einer unterstützenden Gemeinschaft steht CoopCircuits vor Herausforderungen wie der Trägheit bei der Entscheidungsfindung und dem Bedarf an einer genauer definierten Geschäftsstrategie. Die Initiative ist als Antwort auf die Dysfunktionen des derzeitigen Lebensmittelsystems positioniert und zielt auf die Schaffung eines nachhaltigen Vertriebsnetzes ab, das sowohl den Erzeugern als auch den Verbrauchern zugute kommt und gleichzeitig die lokale Wirtschaft fördert.\n"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Coop Circuits",
-    "fr": "Coop Circuits",
-    "es": "Circuitos cooperativos",
-    "de": "Coop Rundreisen"
-  },
+  "name": "Coop Circuits",
   "pubId": 446952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Batiot"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://coopcircuits.fr/",
   "yt": "dlFEs_8XGeQ",
   "originalLang": "fr",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-009",
+  "entityDescription": "A cooperative platform providing open-source e-commerce tools for short food supply chains across France.",
+  "entityRole": [
+    "Support Services",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Distribution & Logistics",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Services"
 }

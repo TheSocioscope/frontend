@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739453753,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El objetivo de La Basse Cour es promover la agricultura y la alimentación sostenibles mediante un planteamiento de colaboración en el que participen diversas partes interesadas, como agricultores locales, investigadores y miembros de la comunidad. El proyecto se estructura como una federación de actores que trabajan juntos para abordar cuestiones relacionadas con la agricultura y la alimentación.La Basse Cour es la antigua granja del castillo de la Prévalaye, en Rennes, reconvertida en espacio compartido. Dedicado a la alimentación sana, sostenible y convivial, ofrece un lugar de encuentro abierto a todos. Es un lugar para comer, bailar, aprender y compartir, ¡en la encrucijada de lo social, lo medioambiental y lo cultural!",
     "de": "La Basse Cour zielt darauf ab, nachhaltige Lebensmittel und Landwirtschaft durch einen kooperativen Ansatz zu fördern, an dem verschiedene Akteure beteiligt sind, darunter lokale Bauern, Forscher und Gemeindemitglieder. Das Projekt ist wie ein Zusammenschluss von Akteuren strukturiert, die gemeinsam daran arbeiten, landwirtschaftliche und lebensmittelbezogene Probleme anzugehen.La Basse Cour ist der ehemalige Bauernhof des Château de la Prévalaye in Rennes, der zu einem gemeinsam genutzten Ort umgebaut wurde. Er ist der gesunden, nachhaltigen und geselligen Ernährung gewidmet und bietet einen Treffpunkt, der für alle offen ist. Hier wird gegessen, getanzt und man trifft sich, um zu lernen und sich auszutauschen - an der Schnittstelle zwischen sozialen, ökologischen und kulturellen Herausforderungen!"
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "fr": "La Basse Cour",
-    "en": "La Basse Cour",
-    "es": "La Basse Cour",
-    "de": "La Basse Cour"
-  },
+  "name": "La Basse Cour",
   "pubId": 447952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Bon"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://labassecour.org",
   "yt": "yNyEaPupqcQ",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-068",
+  "entityDescription": "Tiers-lieu alimentaire combinant restaurant-bar, formation, animation autour de l'agriculture et transition alimentaire territoriale.",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Public-private partnership",
+  "entitySize": "Small",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

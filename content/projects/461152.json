@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754563115,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ghretek Sustratos Inteligentes es una empresa innovadora centrada en la producción de bioproductos y bioinsumos para la agricultura mediante la transformación de subproductos agroindustriales. Fundada por un equipo de experimentados emprendedores, Ghretek pretende dar respuesta a las necesidades del sector de los viveros, crucial para la multiplicación de las plantas. Mediante el desarrollo de sustratos inteligentes adaptados a especies vegetales específicas, la empresa promueve prácticas sostenibles y mejora la productividad agrícola, al tiempo que contribuye a la economía circular a través de la valorización de materiales de desecho.",
     "de": "Ghretek Sustratos Inteligentes ist ein innovatives Unternehmen, das sich auf die Herstellung von Bioprodukten und Bioinputs für die Landwirtschaft durch die Verarbeitung agro-industrieller Nebenprodukte konzentriert. Das von einem Team erfahrener Unternehmer gegründete Unternehmen Ghretek zielt darauf ab, die Bedürfnisse des Kindergartensektors zu erfüllen, der für die Pflanzenvermehrung von entscheidender Bedeutung ist. By developing intelligent substrates tailored to specific plant species, the company promotes sustainable practices and enhances agricultural productivity while contributing to the circular economy through the valorization of waste materials."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ghretek",
-    "fr": "Ghretek",
-    "es": "Ghretek",
-    "de": "Ghretek"
-  },
+  "name": "Ghretek",
   "pubId": 461152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Cecilia Celinas Palmieri"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ghretek.com/",
   "yt": "WsKPbc7YtTo",
   "originalLang": "fr",
@@ -204,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-094",
+  "entityDescription": "Empresa que elabora bioproductos y bioinsumos para agricultura mediante transformación biotecnológica de residuos agroindustriales en sustratos inteligentes.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Waste & Circular Economy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

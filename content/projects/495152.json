@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-africa"],
-  "country": ["morocco"],
+  "continent": [
+    "north-africa"
+  ],
+  "country": [
+    "morocco"
+  ],
   "createdAt": 1755007639,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Niya Casablanca, el primer restaurante vegano de Marruecos, forma parte de una iniciativa internacional centrada en proyectos de alimentación sostenible. El restaurante pretende transformar los hábitos alimentarios fomentando el consumo ético y la concienciación medioambiental. A través de una cocina vegana innovadora, Niya pretende cuestionar los conceptos erróneos sobre las dietas basadas en plantas, al tiempo que fomenta una comunidad en torno a una vida sana y sostenible. La iniciativa pone de relieve la intersección entre alimentación, cultura y responsabilidad social en un panorama culinario en rápida evolución.",
     "de": "Niya Casablanca, das erste vegane Restaurant Marokkos, ist Teil einer internationalen Initiative, die sich auf nachhaltige Lebensmittelprojekte konzentriert. Ziel des Restaurants ist es, die Essgewohnheiten durch die Förderung von ethischem Konsum und Umweltbewusstsein zu verändern. Mit innovativer veganer Küche will Nia falsche Vorstellungen über pflanzliche Ernährung widerlegen und gleichzeitig eine Gemeinschaft für ein gesundes, nachhaltiges Leben aufbauen. Die Initiative beleuchtet die Überschneidung von Essen, Kultur und sozialer Verantwortung in einer sich schnell verändernden kulinarischen Landschaft."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Niya",
-    "fr": "Niya",
-    "es": "Niya",
-    "de": "Niya"
-  },
+  "name": "niya",
   "pubId": 495152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Tahiri Ivorra"
     }
   ],
-  "thematic": ["leisure-tourism", "food-agriculture-fishery"],
+  "thematic": [
+    "leisure-tourism",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://niya-casablanca.com/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MA-026",
+  "entityDescription": "First vegan restaurant in Morocco, serving plant-based food with cultural events and community building activities.",
+  "entityRole": [
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

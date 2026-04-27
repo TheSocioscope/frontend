@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["uganda"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "uganda"
+  ],
   "createdAt": 1754566685,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Zoe Farms and Fisheries, fundada en 2021, empezó como un pequeño huerto en el patio trasero, cultivando hortalizas para consumo doméstico, y ha crecido hasta convertirse en una próspera granja de cuatro acres. La iniciativa se centra en el cultivo de hortalizas y el empoderamiento de la comunidad, en particular de las mujeres, proporcionándoles formación y recursos. Mediante la reinversión de los beneficios, la granja pretende combatir el hambre y mejorar la seguridad alimentaria de la comunidad, al tiempo que aborda la violencia de género a través de la independencia económica.                                   ",
     "de": "Zoe Farms and Fisheries, gegründet 2021, begann als kleiner Hinterhofgarten, in dem Gemüse für den Hausgebrauch angebaut wurde, und hat sich zu einem dreistöckigen Vier-Acker-Hof entwickelt. Die Initiative konzentriert sich auf den Gemüseanbau und die Stärkung der Gemeinschaft, insbesondere von Frauen, durch die Bereitstellung von Schulungen und Ressourcen. Durch die Reinvestition von Gewinnen will die Farm den Hunger bekämpfen und die Ernährungssicherheit in der Gemeinde verbessern, wobei auch die Bekämpfung von geschlechtsspezifischer Gewalt durch wirtschaftliche Unabhängigkeit im Vordergrund steht.                                   "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Zoe Farms",
-    "fr": "Zoe Farms",
-    "es": "Granjas Zoe",
-    "de": "Zoe Farms"
-  },
+  "name": "Zoe Farms",
   "pubId": 462452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Josephine"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "http://zoefarmsandfisheries.com/",
   "yt": "qGCYgATLuyU",
   "editedAt": 1755737263,
@@ -45,7 +50,9 @@
       "at": 1755737263
     }
   ],
-  "updatedAt": [1755737263],
+  "updatedAt": [
+    1755737263
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +228,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "UG-010",
+  "entityDescription": "Multi-enterprise farm doing aquaculture, poultry, vegetables, and bee-keeping while training community members in modern farming techniques.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754997219,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Awaecoco, con sede en Cartagena, se especializa en agua de coco embotellada de lujo, haciendo hincapié en ingredientes 100% naturales y sabores únicos. Fundada por un diseñador industrial y chef, la iniciativa refleja un compromiso con la salud y la sostenibilidad. El producto se elabora mediante un meticuloso proceso que garantiza su frescura y calidad. Awaecoco se centra en el abastecimiento local y el envasado respetuoso con el medio ambiente, y su objetivo es ofrecer una experiencia de primera calidad al tiempo que promueve la hidratación natural y apoya a las comunidades locales.",
     "de": "Awaecoco mit Sitz in Cartagena ist auf luxuriöses Kokosnusswasser in Flaschen spezialisiert und legt Wert auf 100 % natürliche Zutaten und einzigartige Geschmacksrichtungen. Die von einem Industriedesigner und Küchenchef gegründete Initiative spiegelt ein Engagement für Gesundheit und Nachhaltigkeit wider. Das Produkt wird in einem sorgfältigen Verfahren hergestellt, um Frische und Qualität zu gewährleisten. Mit dem Schwerpunkt auf lokaler Beschaffung und umweltfreundlicher Verpackung möchte Awaecoco ein erstklassiges Erlebnis bieten und gleichzeitig die natürliche Flüssigkeitszufuhr fördern und lokale Gemeinschaften unterstützen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Awaecoco",
-    "fr": "Awaecoco",
-    "es": "Awaecoco",
-    "de": "Awaecoco"
-  },
+  "name": "Awaecoco",
   "pubId": 482452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Alberto Álvarez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/awaecoco/",
   "yt": "T78zXNDxxcE",
   "originalLang": "fr",
@@ -195,5 +200,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-400",
+  "entityDescription": "Colombian company producing premium 100% natural coconut water and coconut products in glass bottles without additives or preservatives.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

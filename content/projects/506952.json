@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CEPROBI is a research center specializing in biotechnology, agroecology, and nutrition, developing biotic products and ecological pest management.",
     "de": "CEPROBI is a research center specializing in biotechnology, agroecology, and nutrition, developing biotic products and ecological pest management."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "es",
   "location": "Yautepec, Morelos",
-  "name": {
-    "en": "CEPROBI",
-    "fr": "CEPROBI",
-    "es": "CEPROBI",
-    "de": "CEPROBI"
-  },
+  "name": "CEPROBI",
   "pubId": 506952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Bermúdez Torres"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.ceprobi.ipn.mx/",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-055",
+  "entityDescription": "Research center developing biotic products from native Mexican plants for industry, agriculture, and nutrition.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Knowledge & Information"
 }

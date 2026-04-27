@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1741188753,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en crear una plataforma global destinada a fortalecer las empresas y fomentar los ecosistemas en torno a temas comunes como el clima, la agricultura y el género. Opera en Colombia, especialmente en Medellín, donde colabora con entidades locales para empoderar a las comunidades y mejorar las prácticas agrícolas. El programa hace hincapié en los objetivos de desarrollo sostenible y trata de abordar necesidades territoriales específicas. Mediante la provisión de recursos y apoyo técnico, la iniciativa pretende mejorar los métodos de producción, promover la independencia económica y facilitar el acceso a los mercados, contribuyendo en última instancia a un ecosistema agroalimentario más resiliente.",
     "de": "Die Initiative konzentriert sich auf die Schaffung einer globalen Plattform zur Stärkung von Unternehmen und zur Förderung von Ökosystemen rund um gemeinsame Themen wie Klima, Landwirtschaft und Gender. Es operiert in Kolumbien, insbesondere in Medellín, wo es mit lokalen Stellen zusammenarbeitet, um die Gemeinden zu stärken und die landwirtschaftlichen Praktiken zu verbessern. Das Programm betont nachhaltige Entwicklungsziele und versucht, spezifische territoriale Bedürfnisse zu adressieren. Durch die Bereitstellung von Ressourcen und technischer Unterstützung will die Initiative Produktionsmethoden verbessern, die wirtschaftliche Unabhängigkeit fördern und den Zugang zu Märkten erleichtern, was letztendlich zu einem widerstandsfähigeren Agrar- und Lebensmittelökosystem beiträgt."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "Impact Hub",
-    "fr": "Impact Hub",
-    "es": "Impact Hub",
-    "de": "Impact Hub"
-  },
+  "name": "Impact Hub",
   "pubId": 456152,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Mauricio Duque"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://medellin.impacthub.net/",
   "yt": "v4EguyF3eKo",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-108",
+  "entityDescription": "Global platform for entrepreneurship development and ecosystem building focused on sustainable development goals across climate, agro, gender and internationalization",
+  "entityRole": [
+    "Support Services",
+    "Finance & Investment"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A Black Economic Empowerment table grape enterprise producing 80,000-100,000 cartons annually for export to EU and Far East.",
     "de": "A Black Economic Empowerment table grape enterprise producing 80,000-100,000 cartons annually for export to EU and Far East."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "De Doorns",
-  "name": {
-    "en": "Siyazama Klipland Table Grapes Farm",
-    "fr": "Siyazama Klipland Table Grapes Farm",
-    "es": "Siyazama Klipland Table Grapes Farm",
-    "de": "Siyazama Klipland Table Grapes Farm"
-  },
+  "name": "Siyazama Klipland Table Grapes Farm",
   "pubId": 509352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Abrahams"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -204,5 +209,17 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-012",
+  "entityDescription": "Black Economic Empowerment table grape farm producing seedless grapes primarily for international export markets.",
+  "entityRole": [
+    "Primary Production"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754990153,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa Cultivando Esperanza pretende mejorar las instituciones educativas del norte del Cauca mediante la integración de prácticas agrícolas en los programas escolares. En colaboración con las escuelas locales, el proyecto se centra en mejorar la nutrición de los estudiantes mediante huertos escolares y promover hábitos alimentarios saludables entre las familias. Al empoderar a los padres y a los líderes comunitarios, Coli fomenta la producción sostenible de alimentos y refuerza los conocimientos agrícolas locales, mejorando en última instancia el bienestar de los estudiantes y sus comunidades.",
     "de": "Die Initiative \"Growing Hope\" (Wachsende Hoffnung) zielt darauf ab, Bildungseinrichtungen in Nord-Cauca zu verbessern, indem landwirtschaftliche Praktiken in die Lehrpläne integriert werden. In Zusammenarbeit mit lokalen Schulen konzentriert sich das Projekt auf die Verbesserung der Ernährung der Schüler durch Schulgärten und die Förderung gesunder Ernährungsgewohnheiten in den Familien. Durch die Befähigung von Eltern und Gemeindeleitern fördert Coli die nachhaltige Lebensmittelproduktion und stärkt das lokale landwirtschaftliche Wissen, was letztlich das Wohlergehen der Schüler und ihrer Gemeinden verbessert."
   },
-  "field": ["education-sciences", "nutrition"],
+  "field": [
+    "education-sciences",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Growing Hope - Schools",
-    "fr": "Growing Hope - Écoles",
-    "es": "Esperanza creciente - Escuelas",
-    "de": "Wachsende Hoffnung - Schulen"
-  },
+  "name": "Growing Hope - Schools",
   "pubId": 489652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Correa"
     }
   ],
-  "thematic": ["education", "food-agriculture-fishery"],
+  "thematic": [
+    "education",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.rockefellerfoundation.org/grantee-impact-stories/desperate-to-heal-the-soil-colombias-smallholder-farmers-go-regenerative/",
   "yt": "90AmfU9Awzc",
   "originalLang": "en",
@@ -213,5 +220,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-380",
+  "entityDescription": "Educational agroecology program developing healthy eating and sustainable farming practices in rural schools and communities.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Health & Nutrition",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Knowledge & Information"
 }

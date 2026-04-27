@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755002534,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "Chacra Mil es una iniciativa destinada a conectar con las comunidades agrícolas andinas a través de tierras de cultivo experimentales. Creada en 2017, sirve de plataforma para probar la eficiencia de diversos cultivares andinos, centrándose en la recuperación de cultivos potencialmente amenazados. El proyecto no solo mejora las dietas locales con productos nutricionalmente densos, sino que también fomenta la participación de la comunidad y la innovación agrícola, abordando retos como el cambio climático y la escasez de agua, al tiempo que promueve la agrobiodiversidad y la identidad cultural.",
     "de": "Chacra Mil ist eine Initiative, die darauf abzielt, mit den bäuerlichen Gemeinschaften der Anden durch landwirtschaftliche Versuchsflächen in Kontakt zu treten. Sie wurde 2017 gegründet und dient als Plattform für die Erprobung der Effizienz verschiedener Anbausorten in den Anden, wobei der Schwerpunkt auf der Wiederherstellung potenziell gefährdeter Kulturen liegt. Das Projekt verbessert nicht nur die lokale Ernährung mit nährstoffreichen Produkten, sondern fördert auch das Engagement der Gemeinschaft und landwirtschaftliche Innovationen, um Herausforderungen wie Klimawandel und Wasserknappheit zu bewältigen und gleichzeitig die Agrobiodiversität und kulturelle Identität zu fördern."
   },
-  "field": ["ecology-environmental-sciences", "nutrition"],
+  "field": [
+    "ecology-environmental-sciences",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Chacra Mil",
-    "en": "Chacra Mil",
-    "fr": "Chacra Mil",
-    "es": "Chacra Mil",
-    "de": "Chacra Mil"
-  },
+  "name": "Chacra Mil",
   "pubId": 482952,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "MARTINEZ VELIZ"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://materiniciativa.com/proyectos/chacra",
   "yt": "",
   "originalLang": "it",
@@ -214,5 +220,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-133",
+  "entityDescription": "Experimental agricultural lands operated by Mater Iniciativa to test Andean cultivars and recover endangered native varieties",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754910511,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa \"Le Potager d'un Curieux\", fundada en la región de Luberon, se centra en el cultivo de una variada colección de plantas y la conservación de semillas autóctonas. Inspirado en una obra botánica del siglo XIX, el proyecto hace hincapié en la conservación dinámica, permitiendo que las semillas prosperen y se adapten mediante el cultivo. Su objetivo es promover la biodiversidad, educar a la comunidad y fomentar la conexión con la naturaleza, además de abordar la soberanía alimentaria y la importancia de las prácticas agrícolas tradicionales.            ",
     "de": "Die im Luberon gegründete Initiative \"Le Potager d'un Curieux\" konzentriert sich auf die Kultivierung einer vielfältigen Pflanzensammlung und die Erhaltung von Erbgut. Inspiriert von einem botanischen Werk aus dem 19. Jahrhundert, legt das Projekt den Schwerpunkt auf eine dynamische Erhaltung, bei der das Saatgut durch den Anbau gedeihen und sich anpassen kann. Es zielt darauf ab, die biologische Vielfalt zu fördern, die Gemeinschaft zu schulen und eine Verbindung zur Natur zu schaffen, während es gleichzeitig die Ernährungssouveränität und die Bedeutung traditioneller landwirtschaftlicher Praktiken thematisiert.            "
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "fr": "Le Potager d'un Curieux",
-    "en": "Le Potager d'un Curieux",
-    "es": "Le Potager d'un Curieux",
-    "de": "Der Gemüsegarten eines Neugierigen"
-  },
+  "name": "Le potager d'un curieux",
   "pubId": 483852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Danneyolles"
     }
   ],
-  "thematic": ["ecology-environmental-change", "education"],
+  "thematic": [
+    "ecology-environmental-change",
+    "education"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://lepotagerduncurieux.fr/index.php",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +219,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-173",
+  "entityDescription": "Family-run seed conservation farm maintaining 300+ heritage vegetable varieties through dynamic conservation and direct sales",
+  "entityRole": [
+    "Primary Production",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Individual/Solo",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754481679,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) es una asociación de productores de cacao situada en Limón, Tolima. Creada en 2008, su objetivo es unir a los agricultores locales para aumentar la producción de cacao y mejorar los medios de subsistencia. Con 82 miembros, la asociación se centra en prácticas sostenibles, incluida la transformación del cacao en productos finales. Fomenta la colaboración comunitaria, apoya el crecimiento económico y trata de conseguir la certificación orgánica al tiempo que afronta retos como el cambio climático y las fluctuaciones del mercado.   ",
     "de": "APROCASURT (Asociación de productores de cacao del Sur del Tolimais) ist eine Vereinigung von Kakaobauern in Limón, Tolima. Sie wurde 2008 gegründet und zielt darauf ab, lokale Landwirte zu vereinen, um die Kokosproduktion zu steigern und die Lebensbedingungen zu verbessern. Mit 82 Mitgliedern konzentriert sich der Verband auf nachhaltige Praktiken, einschließlich der Verarbeitung von Kokos zu Endprodukten. Sie fördert die Zusammenarbeit mit der Gemeinschaft, unterstützt das Wirtschaftswachstum und strebt eine Bio-Zertifizierung an, wobei Herausforderungen wie Klimawandel und Marktschwankungen bewältigt werden sollen.   "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "es": "APROCASURT",
-    "en": "APROCASURT",
-    "fr": "APROCASURT",
-    "de": "APROCASURT"
-  },
+  "name": "APROCASURT",
   "pubId": 467852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Carlos Peralta"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/aprocasurt.cacao",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-531",
+  "entityDescription": "Cacao producers' association with 82 members providing fermented dried cacao beans to chocolate companies",
+  "entityRole": [
+    "Primary Production",
+    "Distribution/Logistics"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

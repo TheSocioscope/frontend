@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["spain"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "spain"
+  ],
   "createdAt": 1754675531,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa se centra en el control sostenible de plagas mediante la lucha biológica de conservación, en Almería (España). Utilizando depredadores naturales y creando un ecosistema equilibrado en sus invernaderos, reduce al mínimo la necesidad de plaguicidas químicos. Este enfoque innovador no sólo fomenta la biodiversidad, sino que también mejora la salud de los cultivos. El trabajo de Esther, apoyado por instituciones de investigación, pretende educar a otros en el sector agrícola sobre métodos alternativos de gestión de plagas, fomentando una comunidad agrícola más sostenible.",
     "de": "Die Initiative konzentriert sich auf nachhaltige Schädlingsbekämpfung durch biologische Naturschutzmaßnahmen in Almería, Spanien. Durch den Einsatz natürlicher Feinde und die Schaffung eines ausgewogenen Ökosystems innerhalb ihrer Greenhouses minimiert sie den Bedarf an chemischen Pestiziden. Dieser innovative Ansatz fördert nicht nur die Artenvielfalt, sondern verbessert auch die Gesundheit der Pflanzen. Esthers Arbeit, die von Forschungseinrichtungen unterstützt wird, zielt darauf ab, andere in der Landwirtschaft über alternative Schädlingsbekämpfungsmethoden aufzuklären und so eine nachhaltigere Landwirtschaft zu fördern."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Alvelal",
-    "fr": "Alvelal",
-    "es": "Alvelal",
-    "de": "Alvelal"
-  },
+  "name": "Alvelal",
   "pubId": 471852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,15 @@
       "lastname": ""
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery", "innovation-rd"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery",
+    "innovation-rd"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://alvelal.es",
   "yt": "HCQB2zyW4cw",
   "originalLang": "fr",
@@ -213,5 +221,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ES-036",
+  "entityDescription": "Territorial association promoting regenerative agriculture across 83 municipalities in southern Spain, connecting farmers and restoring degraded landscapes",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

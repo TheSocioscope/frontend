@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754954932,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ubees se dedica a desarrollar proyectos apícolas que promueven la agricultura regenerativa. Con operaciones en 12 países, incluido Colombia, la empresa se centra en mejorar los servicios de polinización y diversificar los ingresos de los pequeños productores a través de la venta de miel. Fundada en 2017, Ubees combina la tecnología con la apicultura para mejorar la gestión y la productividad de las colmenas. Sus iniciativas tienen como objetivo proteger las poblaciones de abejas, que son cruciales para la producción de alimentos, al tiempo que aumentan los ingresos de los agricultores locales.",
     "de": "Ubees widmet sich der Entwicklung von Imkereiprojekten, die eine regenerative Landwirtschaft fördern. Das Unternehmen, das in 12 Ländern, darunter Kolumbien, tätig ist, konzentriert sich auf die Verbesserung der Bestäubungsleistung und die Diversifizierung des Einkommens von Kleinproduzenten durch den Verkauf von Honig. Ubees wurde 2017 gegründet und kombiniert Technologie mit Bienenzucht, um das Bienenstockmanagement und die Produktivität zu verbessern. Ihre Initiativen zielen darauf ab, die Bienenpopulationen zu schützen, die für die Nahrungsmittelproduktion von entscheidender Bedeutung sind, und gleichzeitig das Einkommen der lokalen Landwirte zu erhöhen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ubees",
-    "fr": "Ubees",
-    "es": "Ubees",
-    "de": "Ubees"
-  },
+  "name": "UBEES",
   "pubId": 486452,
   "state": "ongoing-project",
   "team": [
@@ -38,9 +39,14 @@
       "lastname": "Pacheco"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.linkedin.com/company/ubees/",
   "yt": "UuJ4SBudtUg",
   "editedAt": 1755738938,
@@ -50,7 +56,9 @@
       "at": 1755738938
     }
   ],
-  "updatedAt": [1755738938],
+  "updatedAt": [
+    1755738938
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -226,5 +234,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-209",
+  "entityDescription": "French agtech company providing regenerative beekeeping services through IoT technology for pollination and honey production projects.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

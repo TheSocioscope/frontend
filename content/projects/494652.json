@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1755006744,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El Proyecto Rural Integrador Janus, iniciado por dos agrónomos, tiene como objetivo revitalizar tierras agrícolas abandonadas en el Alto Valle de Río Negro, Neuquén. Creado en 2009, el proyecto se centra en prácticas biodinámicas y agroecológicas para producir alimentos sanos y promover la vida rural. Mediante el fomento de la agricultura apoyada por la comunidad (CSA), Janus conecta a los consumidores urbanos con los agricultores locales, fomentando prácticas sostenibles y mejorando la relación entre las ciudades y el campo.    ",
     "de": "Das von zwei Agrarwissenschaftlern initiierte Projekt Janus Integrating Rural Project zielt auf die Wiederbelebung verlassener landwirtschaftlicher Flächen im Alto Valle de Río Negro, Neuquén. Das 2009 gegründete Projekt konzentriert sich auf biodynamische und agrarökologische Praktiken, um gesunde Lebensmittel zu erzeugen und gleichzeitig das Leben auf dem Land zu fördern. Durch die Förderung der gemeinschaftsgetragenen Landwirtschaft (CSA) bringt Janus die städtischen Verbraucher mit den örtlichen Landwirten zusammen, fördert nachhaltige Praktiken und verbessert die Beziehung zwischen Stadt und Land.    "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Janus",
-    "fr": "Janus",
-    "es": "Janus",
-    "de": "Janus"
-  },
+  "name": "Janus",
   "pubId": 494652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Torno"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "consumption-and-production-patterns"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://janus.bio/",
   "yt": "gdyuaYWtEqo",
   "originalLang": "fr",
@@ -213,5 +219,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-073",
+  "entityDescription": "A biodynamic farm and agroecological project offering food production, rural tourism, and community-supported agriculture.",
+  "entityRole": [
+    "Primary Production",
+    "Support Services",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "VELOZBIO develops animal-free proteins using plant-based metabolic processes, replicating functional properties of egg and dairy proteins.",
     "de": "VELOZBIO develops animal-free proteins using plant-based metabolic processes, replicating functional properties of egg and dairy proteins."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "es",
   "location": "Monterrey, Nuevo León",
-  "name": {
-    "en": "Velozbio",
-    "fr": "Velozbio",
-    "es": "Velozbio",
-    "de": "Velozbio"
-  },
+  "name": "Velozbio",
   "pubId": 506252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Margarita López"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.velozbio.com/",
   "yt": "",
   "originalLang": "es",
@@ -195,5 +200,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-044",
+  "entityDescription": "Biotechnology company developing plant-based protein alternatives (caseins) from legumes for dairy-alternative food products",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

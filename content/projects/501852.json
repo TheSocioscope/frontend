@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Del Campo Al Plato connects local farmers directly with consumers, promoting short supply chains and sustainable food systems in Costa Rica.",
     "de": "Del Campo Al Plato connects local farmers directly with consumers, promoting short supply chains and sustainable food systems in Costa Rica."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Del Campo Al Plato",
-    "fr": "Du Champ à l'Assiette",
-    "es": "Del Campo Al Plato",
-    "de": "Vom Feld zum Teller"
-  },
+  "name": "Del Campo Al Plato",
   "pubId": 501852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Morales"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.delcampoalplato.com/es/sobre-del-campo-al-plato/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-093",
+  "entityDescription": "GIZ project integrating biodiversity into pineapple and banana value chains in Costa Rica and Dominican Republic",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Public body",
+  "entitySize": "Unknown",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "paraguay"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Tu Kokue produces preserves, jams, and yoghurts with an agroecological line sourcing from small local producers without pesticides.",
     "de": "Tu Kokue produces preserves, jams, and yoghurts with an agroecological line sourcing from small local producers without pesticides."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "es",
   "location": "Luque, Paraguay",
-  "name": {
-    "en": "Tu Kokue",
-    "fr": "Tu Kokue",
-    "es": "Tu Kokue",
-    "de": "Tu Kokue"
-  },
+  "name": "Tu Kokue",
   "pubId": 507852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": ""
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://tukokue.com.py/index.php/about/",
   "yt": "",
   "originalLang": "es",
@@ -204,5 +209,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PY-006",
+  "entityDescription": "Food manufacturing company producing natural yogurt, jams and dulce de leche using artisanal methods and minimal ingredients",
+  "entityRole": [
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

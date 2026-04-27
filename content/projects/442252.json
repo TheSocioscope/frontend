@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739463953,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Groenlandia es una iniciativa surgida de la colaboración de 36 fincas bananeras de Apartadó (Colombia), destinada a fomentar la sostenibilidad social y medioambiental de la región. Establecida hace más de 30 años, la fundación opera sobre cuatro pilares clave: salud, vivienda, deportes y educación, centrándose en mejorar las condiciones de vida y el bienestar de sus trabajadores y sus familias. La fundación no sólo proporciona asistencia en materia de vivienda y atención sanitaria, sino que también participa en la inversión comunitaria mediante la creación de infraestructuras y el apoyo a programas deportivos locales. Además, aborda la seguridad alimentaria utilizando los excedentes de plátanos para producir harina de plátano, que se distribuye a zonas desfavorecidas.",
     "de": "Greenland ist eine Initiative, die aus einer Zusammenarbeit von 36 Bananenfarmen in Apartado, Kolumbien, hervorgegangen ist und die soziale und ökologische Nachhaltigkeit in der Region fördern soll. Die Stiftung wurde vor über 30 Jahren gegründet und arbeitet auf vier Säulen: Gesundheit, Wohnen, Sport und Bildung, wobei sie sich auf die Verbesserung der Lebensbedingungen und des Wohlbefindens ihrer Beschäftigten und deren Familien konzentriert. Die Stiftung bietet nicht nur Wohnraum und Gesundheitsversorgung, sondern engagiert sich auch in der Gemeinde, indem sie Infrastruktur schafft und lokale Sportprogramme unterstützt. Darüber hinaus adressiert sie die Ernährungssicherheit, indem sie überschüssige Bananen zur Herstellung von Bananenmehl verwendet, das an unterprivilegierte Gebiete verteilt wird."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Greenland",
-    "fr": "Greenland",
-    "es": "Groenlandia",
-    "de": "Greenland"
-  },
+  "name": "GREENLAND",
   "pubId": 442252,
   "state": "ongoing-project",
   "team": [
@@ -38,9 +39,13 @@
       "lastname": "Pineda Rojas"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://greenland.co/",
   "yt": "to55jFBzr-o",
   "originalLang": "fr",
@@ -209,5 +214,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-192",
+  "entityDescription": "Foundation providing social programs in housing, health, sports and education for company employees and surrounding communities.",
+  "entityRole": [
+    "Civil Society & Networks",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Social & Community",
+    "Health & Nutrition",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

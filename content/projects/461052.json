@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754561688,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "Deep Agro es una empresa innovadora que aprovecha la inteligencia artificial para hacer frente a los retos de la agricultura, especialmente en el control de las malas hierbas. Fundada en 2017, su objetivo es optimizar el uso de productos agroquímicos, reduciendo los residuos y el impacto medioambiental. Mediante el desarrollo de tecnologías y algoritmos avanzados, Deep Agro permite aplicaciones de herbicidas específicas, mejorando significativamente la eficiencia para los agricultores. Con un enfoque en la sostenibilidad, la empresa está expandiendo sus soluciones a diversos cultivos y mercados, esforzándose por revolucionar las prácticas agrícolas a nivel mundial.",
     "de": "Deep Agro ist ein innovatives Unternehmen, das künstliche Intelligenz einsetzt, um Herausforderungen in der Landwirtschaft zu bewältigen, insbesondere bei der Unkrautbekämpfung. Das 2017 gegründete Unternehmen zielt darauf ab, den Einsatz von Agrochemikalien zu optimieren, Abfall zu reduzieren und die Umweltbelastung zu verringern. Durch die Entwicklung fortschrittlicher Technologien und Algorithmen ermöglicht Deep Agro gezielte Herbizidanwendungen, wodurch die Effizienz für Landwirte deutlich verbessert wird. Mit einem Fokus auf Nachhaltigkeit erweitert das Unternehmen seine Lösungen auf verschiedene Kulturpflanzen und Märkte und strebt danach, die landwirtschaftlichen Praktiken weltweit zu revolutionieren."
   },
-  "field": ["nutrition", "information-technology"],
+  "field": [
+    "nutrition",
+    "information-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Deep Agro",
-    "fr": "Deep Agro",
-    "es": "Deep Agro",
-    "de": "Deep Agro"
-  },
+  "name": "DEEP AGRO",
   "pubId": 461052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Regali"
     }
   ],
-  "thematic": ["innovation-rd", "food-agriculture-fishery"],
+  "thematic": [
+    "innovation-rd",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.deepagro.com.ar/index.html#counts",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +220,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-091",
+  "entityDescription": "Technology startup developing AI algorithms to detect weeds and optimize agricultural chemical application for sustainable farming.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

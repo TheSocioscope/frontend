@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["armenia"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "armenia"
+  ],
   "createdAt": 1754656697,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Alluria Wines comenzó como un apreciado pasatiempo familiar en Armenia y pasó a la producción comercial de vino. Haciendo hincapié en la elaboración natural, Aluria produce vinos de alta calidad a partir de variedades de uva locales. El objetivo de la bodega es dar a conocer el patrimonio vinícola armenio manteniendo un enfoque de boutique y limitando la producción para preservar la calidad. Alluria también ofrece visitas enológicas y gestiona un restaurante que destaca la cocina centrada en la uva, fomentando una profunda conexión con sus raíces y promoviendo el vino armenio a escala mundial.",
     "de": "Alluria Wines begann als geliebtes Familienhobby in Armenien und ging dann zur kommerziellen Weinherstellung über. Aluria legt den Schwerpunkt auf eine natürliche Weinherstellung und produziert hochwertige Weine aus lokalen Rebsorten. Das Weingut möchte das armenische Weinbauerbe präsentieren und gleichzeitig einen Boutique-Ansatz verfolgen, indem es die Produktion begrenzt, um die Qualität zu erhalten. Alluria bietet auch Weintouren an und betreibt ein Restaurant, in dem die Traubenküche im Mittelpunkt steht, um die tiefe Verbundenheit mit den eigenen Wurzeln zu fördern und den armenischen Wein auf globaler Ebene bekannt zu machen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Alluria Wines",
-    "en": "Alluria Wines",
-    "fr": "Vins Alluria",
-    "es": "Vinos Alluria",
-    "de": "Alluria-Weine"
-  },
+  "name": "Alluria wines",
   "pubId": 479952,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Sánchez Cedillo"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "leisure-tourism"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "leisure-tourism"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://alluria.wine/",
   "yt": "AEmVXE-a1fo",
   "originalLang": "et",
@@ -205,5 +210,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AM-006",
+  "entityDescription": "Family-owned natural winery producing artisanal wines from Armenian grape varieties using traditional methods.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Goods & Products"
 }

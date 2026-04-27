@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Solidaridad SREC India promotes sustainable supply chains, having trained over 1M farmers in regenerative farming and brought over 1.1M hectares under sustainable management.",
     "de": "Solidaridad SREC India promotes sustainable supply chains, having trained over 1M farmers in regenerative farming and brought over 1.1M hectares under sustainable management."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "Delhi, India",
-  "name": {
-    "en": "Solidaridad India (SREC)",
-    "fr": "Solidaridad Inde (SREC)",
-    "es": "Solidaridad India (SREC)",
-    "de": "Solidaridad Indien (SREC)"
-  },
+  "name": "Solidaridad India (SREC)",
   "pubId": 503552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Chattopadhayay"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://solidaridad.in/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-016",
+  "entityDescription": "NGO working with 2+ million smallholder farmers on sustainable agriculture, market linkages, and policy advocacy across multiple Indian states.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Medium",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

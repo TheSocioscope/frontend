@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["united-kingdom"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "united-kingdom"
+  ],
   "createdAt": 1741085931,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Tyddynteg se centra en una granja regenerativa de gestión cooperativa que lleva funcionando casi una década. Se centra en el cultivo sostenible de hortalizas sin ganado, fomentando la participación de la comunidad a través de un sistema de cajas de hortalizas y una tienda in situ. La estructura cooperativa promueve la propiedad compartida y la retribución equitativa entre sus miembros, garantizando que todas las tareas se valoren por igual. La granja se inspira en prácticas regenerativas arraigadas en la cultura palestina, con el objetivo de crear resiliencia frente a los cambios políticos y económicos. Además, es un activo de la comunidad, que organiza actos para reforzar los lazos sociales y promover la concienciación sobre los sistemas alimentarios.",
     "de": "Tyddynteg konzentriert sich auf eine genossenschaftlich geführte regenerative Farm, die seit fast einem Jahrzehnt in Betrieb ist. Sie betont die nachhaltige Förderung von Gemüse ohne Viehbestand und fördert das Engagement der Gemeinschaft durch ein Gemüsekistensystem und einen Vor-Ort-Shop. Die genossenschaftliche Struktur fördert den gemeinsamen Besitz und die gerechte Bezahlung unter den Mitgliedern, sodass alle Aufgaben gleichwertig bewertet werden. Der Hof lässt sich von regenerativen Praktiken inspirieren, die in der palästinensischen Kultur verwurzelt sind und darauf abzielen, Widerstandsfähigkeit gegen politische und wirtschaftliche Veränderungen aufzubauen. Darüber hinaus fungiert der Hof als Aktivposten der Gemeinschaft, indem er Veranstaltungen zur Stärkung sozialer Bindungen und zur Förderung des Bewusstseins für Ernährungssysteme ausrichtet."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "Tyddynteg",
-    "fr": "Tyddynteg",
-    "es": "Tyddynteg",
-    "de": "Tyddynteg"
-  },
+  "name": "Tyddynteg",
   "pubId": 453752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Gray"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.tyddynteg.com/",
   "yt": "oniTHdmIsZw",
   "originalLang": "fr",
@@ -203,5 +208,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "GB-040",
+  "entityDescription": "A workers' cooperative running a 30-acre regenerative vegetable farm with veg box scheme, shop, and bakery in North Wales.",
+  "entityRole": [
+    "Primary Production",
+    "Retail"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

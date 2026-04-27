@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739458351,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Urban Farmers Pro es una innovadora startup de agrotecnología con sede en Bogotá especializada en agricultura hidropónica, que utiliza inteligencia artificial para el control centralizado de sus sistemas de producción. Esta iniciativa permite la agricultura urbana en espacios limitados, maximizando el uso de agua y fertilizantes y produciendo verduras de forma limpia y sin productos químicos. La startup opera unidades de producción hidropónicas, inicialmente alojadas en contenedores de carga, que han sido adaptadas para optimizar el espacio y los recursos. Centrándose en la alta productividad, pueden producir el equivalente de la agricultura tradicional en una superficie mucho menor, garantizando al mismo tiempo que sus productos no contienen pesticidas y se riegan con agua potable limpia. A medida que amplían sus operaciones para incluir la agricultura vertical, Urban Farmers Pro pretende ampliar su alcance de mercado, dirigiéndose tanto a consumidores particulares como a empresas del sector de la hostelería, al tiempo que explora asociaciones para llevar su modelo de agricultura sostenible a regiones con acceso limitado a productos frescos.",
     "de": "Urban Farmers Pro ist ein innovatives Agrotechnologie-Start-up aus Bogotá, das sich auf hydroponische Landwirtschaft spezialisiert hat und künstliche Intelligenz zur zentralen Steuerung seiner Produktionssysteme nutzt. Diese Initiative ermöglicht urbane Landwirtschaft auf begrenztem Raum, maximiert die Nutzung von Wasser und Düngemitteln und produziert gleichzeitig Gemüse in einer sauberen und chemikalienfreien Weise. Das Startup betreibt hydroponische Produktionseinheiten, die ursprünglich in Frachtcontainern untergebracht waren und nun so angepasst wurden, dass Platz und Ressourcen optimal genutzt werden. Mit einem Fokus auf hohe Produktivität können sie aus einem viel kleineren Gebiet die gleiche Leistung wie die traditionelle Landwirtschaft erbringen und gleichzeitig sicherstellen, dass ihre Produkte frei von Pestiziden sind und mit sauberem Trinkwasser bewässert werden. Die Urban Farmers Pro wollen ihre Marktreichweite ausbauen, indem sie sowohl Einzelverbraucher als auch Unternehmen im Gastgewerbe ansprechen und gleichzeitig Partnerschaften erkunden, um ihr nachhaltiges Landwirtschaftsmodell in Regionen mit begrenztem Zugang zu frischen Produkten zu bringen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Urban Farmers Pro",
-    "fr": "Urban Farmers Pro",
-    "es": "Agricultores urbanos profesionales",
-    "de": "Urban Farmers Pro"
-  },
+  "name": "Urban Farmers Pro",
   "pubId": 440252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Garzón"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.urbanfarmerspro.com/",
   "yt": "gP1mV_82Uso",
   "originalLang": "fr",
@@ -203,5 +208,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-006",
+  "entityDescription": "Agtech company operating hydroponic containers (BIOS) for 365-day production of chemical-free vegetables in Colombia.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

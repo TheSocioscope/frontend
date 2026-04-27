@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754648402,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Shambah Dairies es una granja situada en la aldea de Mukarara, en el condado de Muranga. El objetivo principal de la iniciativa es provocar un cambio positivo en la comunidad mediante una ganadería lechera sostenible, centrada en la producción de leche de cabra y sus diversos productos de valor añadido, como el yogur y el kéfir. La iniciativa también hace hincapié en la importancia de la educación y la formación, ofreciendo programas para que agricultores, estudiantes y grupos comunitarios aprendan sobre prácticas agrícolas sostenibles y los beneficios de la leche de cabra para la salud.",
     "de": "Shambah Dairies ist ein Bauernhof in Mukarara Village, Muranga County. Das Hauptziel der Initiative ist es, durch nachhaltige Milchwirtschaft positive Veränderungen in der Gemeinde herbeizuführen. Der Schwerpunkt liegt dabei auf der Produktion von Ziegenmilch und ihren verschiedenen Mehrwertprodukten wie Joghurt und Kefir. Die Initiative betont auch die Bedeutung von Bildung und Ausbildung und bietet Programme für Landwirte, Schüler und Gemeindegruppen an, um etwas über nachhaltige landwirtschaftliche Praktiken und die gesundheitlichen Vorteile der Ziegenmilch zu lernen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "id": "Shambah Dairies",
-    "en": "Shambah Dairies",
-    "fr": "Laiteries Shambah",
-    "es": "Lecherías Shambah",
-    "de": "Shambah Molkereien"
-  },
+  "name": "Shambah Dairies",
   "pubId": 477052,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Heller"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-211",
+  "entityDescription": "A dairy goat farm that produces goat milk and value-added products for health benefits and creates awareness about goat farming.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Food Processing/Products",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

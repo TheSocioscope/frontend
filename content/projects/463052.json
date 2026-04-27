@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754423028,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La Troja, una empresa familiar de Oncativo, Córdoba, lleva más de 25 años dedicada a añadir valor a los cereales argentinos. Fundada por Lucas Marín Salda y su padre, la empresa está especializada en soja desactivada y diversos ingredientes de origen vegetal, incluidas harinas sin gluten. Exporta a países como Chile y Uruguay y está desarrollando nuevas unidades de negocio, como harinas de legumbres y productos sin gluten. Comprometida con la sostenibilidad y la innovación, La Troja aspira a mejorar la cadena alimentaria ofreciendo productos de alta calidad y diferenciados para los mercados nacional e internacional.",
     "de": "La Troja, ein familiengeführtes Unternehmen in Oncativo, Córdoba, widmet sich seit über 25 Jahren der Wertsteigerung von argentinischem Getreide. Das von Lucas Marín Salda und seinem Vater gegründete Unternehmen spezialisiert sich auf deaktivierten Soja und eine Vielzahl von pflanzlichen Zutaten, darunter glutenfreie Flours. Das Unternehmen exportiert in Länder wie Chile und Uruguay und baut neue Geschäftsbereiche auf, darunter Gemüseflocken und glutenfreie Produkte. La Troja ist der Nachhaltigkeit und Innovation verpflichtet und möchte die Lebensmittelkette durch die Bereitstellung hochwertiger, differenzierter Produkte für den inländischen und internationalen Markt verbessern."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "La Troja",
-    "fr": "La Troja",
-    "es": "La Troja",
-    "de": "La Troja"
-  },
+  "name": "La Troja",
   "pubId": 463052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Marinsalda"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://latroja.net/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,13 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-141",
+  "entityDescription": "",
+  "entityRole": [],
+  "bizModel": "",
+  "entitySize": "",
+  "geoReach": "",
+  "sectorFocus": [],
+  "resourceType": ""
 }

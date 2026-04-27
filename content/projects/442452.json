@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739520551,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Asodeleite es una asociación de mujeres que han creado una marca llamada Atornitas, especializada en la producción de chips de plátano a partir de plátanos cultivados localmente. Esta empresa surgió durante la pandemia, cuando muchos miembros se enfrentaban al desempleo y buscaban formas de utilizar sus recursos agrícolas con eficacia. La asociación comenzó como un esfuerzo de base para hacer frente a los retos económicos, lo que llevó al desarrollo de un producto 100% natural y sin aditivos. A lo largo de ocho años, la empresa ha sido reconocida a nivel nacional e internacional por su compromiso con la sustentabilidad y la economía circular, destacando su incursión en el mercado mexicano. Además, destaca la importancia de crear productos sanos y orgánicos, con una cuidadosa trazabilidad desde la producción hasta el consumidor.",
     "de": "Asodeleite ist ein Zusammenschluss von Frauen, die eine Marke namens Atornitas gegründet haben, die sich auf die Herstellung von Bananenchips aus lokal angebauten Kochbananen spezialisiert hat. Das Unternehmen entstand während der Pandemie, als viele Mitglieder arbeitslos wurden und nach Wegen suchten, ihre landwirtschaftlichen Ressourcen effektiv zu nutzen. Die Vereinigung begann als Graswurzelversuch, um wirtschaftliche Herausforderungen zu bewältigen, und führte zur Entwicklung eines Produkts, das zu 100 % natürlich und frei von Zusatzstoffen ist. Im Laufe von acht Jahren wurde das Unternehmen sowohl national als auch international für sein Engagement für Nachhaltigkeit und die Kreislaufwirtschaft anerkannt, was seinen Vorstoß in den mexikanischen Markt hervorhebt. Darüber hinaus betont das Unternehmen die Bedeutung der Schaffung gesunder und organischer Produkte mit sorgfältiger Rückverfolgbarkeit von der Produktion bis zum Verbraucher."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "de": "Asodeleite",
-    "en": "Asodeleite",
-    "fr": "Asodeleite",
-    "es": "Asodeleite"
-  },
+  "name": "ASODELEITE",
   "pubId": 442452,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Gonzalez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/watch/?v=135952531690414",
   "yt": "9jCxYbYehzU",
   "originalLang": "fr",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-080",
+  "entityDescription": "Women's association producing healthy plantain chips with various flavors, focused on clean production and social impact.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Primary Production"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Agriculture/Agroecology"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403739,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Nunalabs es una iniciativa innovadora fundada por una ecologista colombiana y su marido holandés, centrada en la extracción y exportación sostenibles de plantas medicinales de Ecuador. Fundada en 2010, da prioridad al comercio justo y al abastecimiento responsable, colaborando con las comunidades indígenas locales. Utilizando técnicas avanzadas de extracción por ultrasonidos, producen extractos botánicos de alta calidad para las industrias alimentaria y farmacéutica. Su compromiso con la preservación del medio ambiente y el empoderamiento de la comunidad impulsa su misión de combinar los conocimientos ancestrales con la ciencia moderna.",
     "de": "Nunalabs ist eine innovative Initiative, die von einer kolumbianischen Umweltschützerin und ihrer niederländischen Ehefrau gegründet wurde und sich auf die nachhaltige Gewinnung und den Export von Heilpflanzen aus Ecuador konzentriert. Das 2010 gegründete Unternehmen legt Wert auf fairen Handel und verantwortungsvolle Beschaffung und arbeitet mit lokalen indigenen Gemeinschaften zusammen. Mithilfe fortschrittlicher Ultraschall-Extraktionstechniken stellen sie hochwertige botanische Extrakte für die Lebensmittel- und Pharmaindustrie her. Ihr Engagement für den Umweltschutz und die Stärkung der Gemeinschaft treibt ihre Mission an, uraltes Wissen mit moderner Wissenschaft zu verbinden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Nunalabs",
-    "fr": "Nunalabs",
-    "es": "Nunalabs",
-    "de": "Nunalabs"
-  },
+  "name": "Nunalabs",
   "pubId": 459952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "María Alayon"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "www.nunalabs.com",
   "yt": "gi_fpyBuP7w",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-069",
+  "entityDescription": "Botanical extraction company producing functional plant extracts from indigenous plants using ultrasound green extraction technology.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Technology & Innovation",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

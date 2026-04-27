@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1718366299,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Feedbac está especializada en la gestión de residuos alimentarios y ofrece servicios de instalación y ayuda a la clasificación para profesionales que producen residuos, empresas con empleados que almuerzan in situ y autoridades locales.\n\nEl objetivo es realizar un diagnóstico de los residuos alimentarios, conociendo su origen, cantidad y localización. Feedbac proporciona el equipo necesario y organiza las recogidas en función de la producción, hasta seis veces por semana. A continuación, realizan un seguimiento y facilitan información a los profesionales sobre su producción de residuos.\n\nComo intermediario, Feedbac trabaja con profesionales de la recuperación de residuos que los transforman en compost, que luego se redistribuye a agricultores, espacios verdes urbanos y plataformas de venta en línea para particulares.",
     "de": "Feedbac hat sich auf die Entsorgung von Lebensmittelabfällen spezialisiert und bietet Dienstleistungen zur Einrichtung und Begleitung der Mülltrennung für abfallerzeugende Gewerbetreibende, Unternehmen mit Mitarbeitern, die dort zu Mittag essen, und Kommunen an.\n\nZiel ist es, eine Diagnose der Lebensmittelabfälle zu erstellen und deren Herkunft, Menge und Standort zu verstehen. Feedbac stellt die erforderliche Ausrüstung zur Verfügung und organisiert die Abholungen entsprechend der Produktion, die bis zu sechsmal pro Woche stattfinden können. Anschließend führen sie ein Monitoring durch und versorgen die Gewerbetreibenden mit Informationen über ihre Abfallproduktion.\n\nAls Vermittler arbeitet Feedbac mit professionellen Verwertern zusammen, die den Abfall zu Kompost verarbeiten, der dann an Landwirte, städtische Grünflächen und auf Online-Verkaufsplattformen für Privatpersonen weitergegeben wird."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Feedbac",
-    "fr": "Feedbac",
-    "es": "Feedbac",
-    "de": "Feedbac"
-  },
+  "name": "Feedbac",
   "pubId": 444852,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Bonnet"
     }
   ],
-  "thematic": ["innovation-rd", "food-agriculture-fishery"],
+  "thematic": [
+    "innovation-rd",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.feedbac.fr/",
   "yt": "w0iyIUDuB9c",
   "editedAt": 1739530084,
@@ -45,7 +51,9 @@
       "at": 1739530084
     }
   ],
-  "updatedAt": [1739530084],
+  "updatedAt": [
+    1739530084
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +229,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-029",
+  "entityDescription": "Startup spécialisée dans la collecte, tri et traitement des déchets alimentaires pour professionnels et collectivités",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Food Processing/Products",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

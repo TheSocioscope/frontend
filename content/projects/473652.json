@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754569568,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La granja Iviani, situada en el condado de Makueni (Kenia), es una iniciativa transformadora destinada a empoderar a la comunidad local mediante la agricultura sostenible. Al abordar la sobreproducción y el despilfarro, la granja proporciona un mercado a los agricultores locales, centrándose especialmente en los mangos y otras frutas. Hace hincapié en la capacitación de las mujeres, ofreciéndoles formación y oportunidades de empleo. Comprometida con la sostenibilidad alimentaria, Iviani Farm procesa y exporta sus productos al tiempo que garantiza la satisfacción de las necesidades locales, fomentando el crecimiento económico y el desarrollo de la comunidad.",
     "de": "Die Iviani Farm in Makueni County, Kenia, ist eine transformative Initiative, die die lokale Gemeinschaft durch nachhaltige Landwirtschaft stärken soll. Durch die Bekämpfung von Überproduktion und Abfall bietet die Farm einen Markt für lokale Bauern, der sich vor allem auf Mangos und andere Früchte konzentriert. Sie betont die Stärkung der Frauen, indem sie Ausbildungs- und Beschäftigungsmöglichkeiten anbietet. With a commitment to food sustainability, Iviani Farm processes and exports its products while ensuring that local needs are met, fostering economic growth and community development."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Iviani Farm",
-    "en": "Iviani Farm",
-    "fr": "Ferme d'Iviani",
-    "es": "Granja Iviani",
-    "de": "Bauernhof Iviani"
-  },
+  "name": "Iviani farm",
   "pubId": 473652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Mismo"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ivianifarm.co.ke/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-022",
+  "entityDescription": "Agricultural enterprise doing aquaculture, fruit/vegetable processing, and animal feed production while empowering local farmers in Makweni County.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Food Processing/Products",
+    "Fisheries & Aquaculture"
+  ],
+  "resourceType": "Goods & Products"
 }

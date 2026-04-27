@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754579343,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Silver Oak Mazingira se dedica a plantar árboles autóctonos en zonas urbanas para mejorar el medio ambiente y la biodiversidad. En colaboración con una organización comunitaria fundada por estudiantes universitarios, han plantado más de 600 árboles de más de 60 especies en un pequeño espacio urbano. El proyecto pretende educar a los niños en el cuidado del medio ambiente y en la importancia de los árboles autóctonos, que sostienen los ecosistemas locales, atraen a los polinizadores y contribuyen a unos sistemas alimentarios sostenibles.                       ",
     "de": "The Silver Oak Mazingira konzentriert sich auf die Anpflanzung einheimischer Bäume in städtischen Gebieten, um die Umwelt und die Artenvielfalt zu verbessern. In Zusammenarbeit mit einer von Universitätsstudenten gegründeten gemeinschaftsbasierten Organisation haben sie über 600 Bäume von mehr als 60 Arten in einem kleinen städtischen Gebiet gepflanzt. Das Projekt zielt darauf ab, Kinder über Umweltmanagement und die Bedeutung einheimischer Bäume aufzuklären, die lokale Ökosysteme unterstützen, Bestäuber anziehen und zu nachhaltigen Ernährungssystemen beitragen.                       "
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Silver Oak Mazingira",
-    "en": "Silver Oak Mazingira",
-    "fr": "Chêne argenté Mazingira",
-    "es": "Roble plateado Mazingira",
-    "de": "Silber-Eiche Mazingira"
-  },
+  "name": "Silver oak mazingira",
   "pubId": 475852,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,14 @@
       "lastname": "Ochwangi"
     }
   ],
-  "thematic": ["ecology-environmental-change", "education"],
+  "thematic": [
+    "ecology-environmental-change",
+    "education"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/MazingiraHub/",
   "yt": "",
   "originalLang": "fr",
@@ -214,5 +219,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-114",
+  "entityDescription": "A community-based organization that researches, propagates, conserves, and consults on indigenous trees in Kenya.",
+  "entityRole": [
+    "Support Services",
+    "Primary Production"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

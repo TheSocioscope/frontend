@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754991031,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa de la Universidad EAFIT se centra en potenciar los sectores agrícolas mediante un enfoque multidisciplinar. Creada hace más de seis años, su objetivo es integrar la tecnología y la investigación en agronomía, fomentando sistemas agroalimentarios sostenibles. La universidad se ha reestructurado para abordar complejos retos regionales, haciendo hincapié en la colaboración con diversas partes interesadas, incluidos los sectores público y privado. Esta iniciativa no sólo promueve la educación y la investigación, sino que también pretende transformar las comunidades locales mejorando los sistemas alimentarios y las prácticas de sostenibilidad.",
     "de": "Die Initiative an der EAFIT-Hochschule konzentriert sich auf die Verbesserung des Agrarsektors durch einen multidisziplinären Ansatz. Sie wurde vor über sechs Jahren gegründet und zielt darauf ab, Technologie und Forschung in die Agrarwissenschaft zu integrieren und nachhaltige Agrar- und Ernährungssysteme zu fördern. Die Universität hat sich neu strukturiert, um komplexe regionale Herausforderungen zu bewältigen, und setzt dabei auf die Zusammenarbeit mit verschiedenen Interessengruppen, einschließlich des privaten und öffentlichen Sektors. Diese Initiative dient nicht nur der Förderung von Bildung und Forschung, sondern zielt auch darauf ab, lokale Gemeinschaften durch die Verbesserung von Lebensmittelsystemen und Nachhaltigkeitspraktiken zu verändern."
   },
-  "field": ["nutrition", "engineering-and-technology"],
+  "field": [
+    "nutrition",
+    "engineering-and-technology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "EAFIT",
-    "fr": "EAFIT",
-    "es": "EAFIT",
-    "de": "EAFIT"
-  },
+  "name": "EAFIT",
   "pubId": 480252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Carbajal"
     }
   ],
-  "thematic": ["innovation-rd", "food-agriculture-fishery"],
+  "thematic": [
+    "innovation-rd",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.eafit.edu.co/",
   "yt": "7KVJOuL7y-M",
   "originalLang": "fr",
@@ -204,5 +211,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-417",
+  "entityDescription": "University research hub consolidating agrifood system capacities across disciplines through education, research, and territorial transformation",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Very Large",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Knowledge & Information"
 }

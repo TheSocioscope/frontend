@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "A commercial hydroponics enterprise producing lettuce, celery, basil, and coriander with capacity for up to 37,600 plants.",
     "de": "A commercial hydroponics enterprise producing lettuce, celery, basil, and coriander with capacity for up to 37,600 plants."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Touwsriver",
-  "name": {
-    "en": "Touwsrivier Commercial Hydroponic Farm",
-    "fr": "Touwsrivier Commercial Hydroponic Farm",
-    "es": "Touwsrivier Commercial Hydroponic Farm",
-    "de": "Touwsrivier Commercial Hydroponic Farm"
-  },
+  "name": "Touwsrivier Commercial Hydroponic Farm",
   "pubId": 508552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Moses"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "www.knowledgepele.com",
   "yt": "",
   "originalLang": "en",
@@ -195,5 +200,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-002",
+  "entityDescription": "A commercial hydroponic farm producing lettuce varieties and herbs using soilless cultivation in controlled greenhouse environments.",
+  "entityRole": [
+    "Primary Production"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

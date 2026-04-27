@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754991740,
   "date": null,
   "description": {
@@ -15,16 +19,13 @@
     "es": "Kandelo Cocktails celebra la rica tradición de las bebidas ancestrales del Pacífico. Con más de 15 años de experiencia, elaboran bebidas medicinales únicas a base de biche y hierbas locales, con el objetivo de curar y mejorar el bienestar. Su compromiso con la calidad y el patrimonio cultural les ha valido el reconocimiento, con premios e interés internacional. Producen diversos productos, entre ellos cremas y cócteles, y se han comprometido a mantener la esencia de sus recetas tradicionales al tiempo que exploran oportunidades de expansión internacional.",
     "de": "Kandelo Cocktails zelebriert die reiche Tradition der Getränke der pazifischen Vorfahren. Mit mehr als 15 Jahren Erfahrung stellen sie einzigartige, medizinische Getränke aus Biche und lokalen Kräutern her, die heilen und das Wohlbefinden steigern sollen. Ihr Engagement für Qualität und kulturelles Erbe hat ihnen Anerkennung eingebracht, darunter Auszeichnungen und internationales Interesse. Sie stellen eine Vielzahl von Produkten her, darunter Cremes und Cocktails, und sind bestrebt, die Essenz ihrer traditionellen Rezepte beizubehalten und gleichzeitig Möglichkeiten für eine internationale Expansion zu erkunden."
   },
-  "field": ["nutrition", "medicine"],
+  "field": [
+    "nutrition",
+    "medicine"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "et": "Cocteles Kandelo",
-    "en": "Cocteles Kandelo",
-    "fr": "Cocteles Kandelo",
-    "es": "Cocteles Kandelo",
-    "de": "Cocteles Kandelo"
-  },
+  "name": "COCTELES KANDELO",
   "pubId": 480652,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +35,14 @@
       "lastname": "G. Hernández"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "public-health"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "public-health"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/cocteleskandelo/",
   "yt": "ONLsJ6hyW38",
   "originalLang": "et",
@@ -195,5 +201,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-488",
+  "entityDescription": "Family business producing traditional Pacific coast beverages and cocktails using ancestral medicinal recipes.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Retail"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Health & Nutrition"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1754909208,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Esta iniciativa se centra en la educación medioambiental y la vida sostenible a través de diversas actividades. Ofrece clases de descubrimiento para niños, cursos de formación sobre el uso alternativo de la tierra y vacaciones en régimen de autoservicio. La organización colabora con escuelas y centros comunitarios locales para promover la educación alimentaria y hábitos alimenticios saludables. Al involucrar a los participantes en experiencias prácticas, pretende fomentar una conexión con los productos locales y alentar elecciones alimentarias más sanas, contribuyendo en última instancia a un esfuerzo más amplio de transición alimentaria.",
     "de": "Diese Initiative konzentriert sich auf Umwelterziehung und nachhaltige Lebensweise durch verschiedene Aktivitäten. Sie bietet Entdeckungskurse für Kinder, Schulungen über alternative Landnutzung und Ferien für Selbstversorger an. Die Organisation arbeitet mit örtlichen Schulen und Gemeindezentren zusammen, um Ernährungserziehung und gesunde Essgewohnheiten zu fördern. Indem sie den Teilnehmern praktische Erfahrungen vermittelt, will sie die Verbindung zu lokalen Produkten fördern und zu einer gesünderen Ernährung ermutigen und damit letztlich zu einer breiteren Ernährungsumstellung beitragen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Loubatas",
-    "fr": "Loubatas",
-    "es": "Loubatas",
-    "de": "Loubatas"
-  },
+  "name": "Loubatas",
   "pubId": 483052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Rabourdin"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "education"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "education"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.loubatas.org",
   "yt": "OLqZdy-B4MU",
   "editedAt": 1755735829,
@@ -45,7 +51,9 @@
       "at": 1755735829
     }
   ],
-  "updatedAt": [1755735829],
+  "updatedAt": [
+    1755735829
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -221,5 +229,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-143",
+  "entityDescription": "Association d'éducation et de formation à l'environnement gérant un éco-gîte et proposant formations et accompagnement territorial.",
+  "entityRole": [
+    "Support Services",
+    "Food Service/Hospitality"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Environment & Biodiversity",
+    "Food Processing/Products",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Services"
 }

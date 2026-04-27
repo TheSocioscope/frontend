@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["asia"],
-  "country": ["india"],
+  "continent": [
+    "asia"
+  ],
+  "country": [
+    "india"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Promethean Power Systems designs refrigeration systems for cold-storage and milk chilling in off-grid areas, empowering smallholder farmers through sustainable cold storage solutions.",
     "de": "Promethean Power Systems designs refrigeration systems for cold-storage and milk chilling in off-grid areas, empowering smallholder farmers through sustainable cold storage solutions."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "en",
   "location": "Pune, India",
-  "name": {
-    "en": "Promethean Power Systems",
-    "fr": "Promethean Power Systems",
-    "es": "Promethean Power Systems",
-    "de": "Promethean Power Systems"
-  },
+  "name": "Promethean Power Systems",
   "pubId": 503352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Joseph"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://coolectrica.com/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "IN-010",
+  "entityDescription": "A thermal battery technology company that provides cold storage solutions for dairy and food products",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Livestock & Dairy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

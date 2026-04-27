@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "CAMAPEZ focuses on sustainable fisheries and aquaculture, promoting responsible practices in Costa Rica's fishing industry.",
     "de": "CAMAPEZ focuses on sustainable fisheries and aquaculture, promoting responsible practices in Costa Rica's fishing industry."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "CAMAPEZ",
-    "fr": "CAMAPEZ",
-    "es": "CAMAPEZ",
-    "de": "CAMAPEZ"
-  },
+  "name": "CAMAPEZ",
   "pubId": 501352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Alonso"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "http://www.camapez.com/",
   "yt": "",
   "originalLang": "en",
@@ -194,5 +199,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-068",
+  "entityDescription": "Private fish processing business that sources sustainably-caught seafood from artisanal fishermen in Gulf of Nicoya",
+  "entityRole": [
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

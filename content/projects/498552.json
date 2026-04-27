@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1755262072,
   "date": null,
   "description": {
@@ -15,15 +19,14 @@
     "es": "La iniciativa se centra en fomentar la colaboración entre diversas partes interesadas para abordar los retos energéticos y medioambientales de la zona de Chantrerie, en Nantes. Con un fuerte énfasis en la acción colectiva, la asociación participa en proyectos relacionados con la producción de energía, la gestión de residuos y los sistemas alimentarios sostenibles. Aprovechando la experiencia de sus miembros, incluidas instituciones educativas y organizaciones locales, la iniciativa pretende promover transiciones ecológicas y sociales al tiempo que mejora la resiliencia de la comunidad.",
     "de": "Die Initiative konzentriert sich auf die Förderung der Zusammenarbeit zwischen verschiedenen Interessengruppen, um Energie- und Umweltherausforderungen in der Region Chantrerie in Nantes zu bewältigen. Mit dem Schwerpunkt auf kollektivem Handeln engagiert sich der Verein in Projekten in den Bereichen Energieerzeugung, Abfallmanagement und nachhaltige Lebensmittelsysteme. Durch die Nutzung des Fachwissens ihrer Mitglieder, darunter Bildungseinrichtungen und lokale Organisationen, will die Initiative den ökologischen und gesellschaftlichen Wandel fördern und gleichzeitig die Widerstandsfähigkeit der Gemeinschaft stärken."
   },
-  "field": ["political-science", "nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "political-science",
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Aful",
-    "fr": "Aful ",
-    "es": "Aful",
-    "de": "Aful"
-  },
+  "name": "Aful",
   "pubId": 498552,
   "state": "ongoing-project",
   "team": [
@@ -39,7 +42,9 @@
     "ecology-environmental-change"
   ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://aful-chantrerie.fr/commission-agriculture-biodiversite-et-alimentation/",
   "yt": "",
   "originalLang": "fr",
@@ -217,5 +222,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-001",
+  "entityDescription": "Territorial collective experimenting with sustainable transitions through energy, food, and circular economy initiatives at Chantrerie site in Nantes.",
+  "entityRole": [
+    "Support Services",
+    "Governance & Regulation"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Energy",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

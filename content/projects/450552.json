@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754404789,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Rikolto, una ONG belga, se centra en la transformación de los sistemas alimentarios sostenibles a través de la acción colectiva, haciendo hincapié en la colaboración con diversas partes interesadas, incluidos los gobiernos locales, el mundo académico y las organizaciones de productores; para promover dietas saludables, nutritivas y asequibles para todos, centrándose especialmente en las mujeres, los jóvenes y los migrantes. Mediante la creación de alianzas con los gobiernos locales, el mundo académico y las organizaciones comunitarias, Rikolto pretende transformar los sistemas alimentarios a través de iniciativas como el emprendimiento juvenil y las economías alimentarias circulares, garantizando el acceso sostenible a los alimentos y abordando al mismo tiempo los retos locales.",
     "de": "Rikolto, eine belgische NGO, konzentriert sich auf die Umwandlung nachhaltiger Nahrungsmittelsysteme durch gemeinsames Handeln, wobei die Zusammenarbeit mit verschiedenen Interessengruppen, einschließlich lokaler Behörden, Akademien und Produktionsorganisationen, betont wird, um gesunde, nahrhafte, erschwingliche und nahrhafte Diäten für alle zu fördern, insbesondere mit Schwerpunkt auf Frauen, Jugendlichen und Migranten. Durch die Bildung von Allianzen mit lokalen Regierungen, Akademikern und Gemeindeorganisationen will Rikolto die Lebensmittelsysteme durch Initiativen wie Jugendunternehmertum und zirkuläre Lebensmittelwirtschaft umgestalten und so einen nachhaltigen Zugang zu Lebensmitteln gewährleisten, während gleichzeitig lokale Herausforderungen angegangen werden."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Rikolto",
-    "fr": "Rikolto",
-    "es": "Rikolto",
-    "de": "Rikolto"
-  },
+  "name": "RIKOLTO",
   "pubId": 450552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Salazar"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.rikolto.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-136",
+  "entityDescription": "Belgian NGO implementing sustainable food systems programs through multi-actor platforms and partnerships in Ecuador for over 40 years.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Policy & Advocacy",
+    "Social & Community"
+  ],
+  "resourceType": "Financial"
 }

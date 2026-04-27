@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754647506,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa de la Galería Maxxy Artistry en Kenia se centra en transformar botellas desechadas en piezas de arte únicas, abordando tanto cuestiones medioambientales como recuerdos personales. Su fundador, que dejó la informática para dedicarse a su pasión por el arte, afirma que el proyecto no sólo embellece los hogares, sino que también ofrece oportunidades de empleo. Al colaborar con equipos locales para la recogida de botellas y participar en la formación de la comunidad, la iniciativa fomenta la creatividad al tiempo que promueve la sostenibilidad y la concienciación medioambiental.",
     "de": "Die Initiative Maxxy Artistry Gallery in Kenia konzentriert sich darauf, ausrangierte Flaschen in einzigartige Kunstwerke zu verwandeln und dabei sowohl Umweltprobleme als auch persönliche Erinnerungen anzusprechen. Der Gründer, der von der IT-Branche zu seiner Leidenschaft für Kunst gewechselt ist, sagt, dass das Projekt nicht nur Wohnhäuser verschönert, sondern auch Beschäftigungsmöglichkeiten bietet. Durch die Zusammenarbeit mit lokalen Teams für die Flaschensammlung und die Teilnahme an Gemeinschaftsschulungen fördert die Initiative die Kreativität und gleichzeitig die Nachhaltigkeit und das Umweltbewusstsein."
   },
-  "field": ["arts-architecture-and-museology"],
+  "field": [
+    "arts-architecture-and-museology"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Maxxy Artistry Gallery",
-    "fr": "Maxxy Artistry Gallery",
-    "es": "Galería Maxxy Artistry",
-    "de": "Maxxy Artistry Gallery"
-  },
+  "name": "Maxxy Artistry gallery",
   "pubId": 476352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Peter Macharia Kinuthia"
     }
   ],
-  "thematic": ["culture-and-the-arts"],
+  "thematic": [
+    "culture-and-the-arts"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://vm.tiktok.com/ZMBHEaXXE/",
   "yt": "",
   "originalLang": "fr",
@@ -195,5 +200,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-161",
+  "entityDescription": "Art gallery creating decorative pieces from recycled glass bottles, solving environmental waste while preserving memories.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

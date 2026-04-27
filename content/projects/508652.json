@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["africa"],
-  "country": ["south-africa"],
+  "continent": [
+    "africa"
+  ],
+  "country": [
+    "south-africa"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,21 +19,22 @@
     "es": "Yanga Mtayi runs an informal food stall contributing to food security in Zwelethemba through local food retail.",
     "de": "Yanga Mtayi runs an informal food stall contributing to food security in Zwelethemba through local food retail."
   },
-  "field": ["economics-business"],
+  "field": [
+    "economics-business"
+  ],
   "lang": "en",
   "location": "Zwelethemba, Worcester",
-  "name": {
-    "en": "Ta Veg",
-    "fr": "Ta Veg",
-    "es": "Ta Veg",
-    "de": "Ta Veg"
-  },
+  "name": "",
   "pubId": 508652,
   "state": "ongoing-project",
   "team": [],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "",
   "originalLang": "en",
@@ -179,5 +184,18 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "ZA-003",
+  "entityDescription": "Informal trader selling fruits and vegetables from roadside stand in Zulu Tembo community",
+  "entityRole": [
+    "Retail"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Individual/Solo",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Distribution & Logistics"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754504061,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Fish and Farm Cooperative se creó en 2001 para ayudar a los pescadores locales a comercializar sus capturas. A pesar de las dificultades, incluido un devastador huracán en 2020 que dañó las infraestructuras y redujo el número de miembros de más de 100 a unos 45, la cooperativa ha avanzado en la reconstrucción y el mantenimiento de las operaciones. La iniciativa hace hincapié en la importancia del apoyo comunitario, las prácticas pesqueras responsables y la necesidad de aumentar la producción para satisfacer la demanda. La cooperativa también intenta implicar a las generaciones más jóvenes en la pesca y ha establecido asociaciones con organizaciones como la ONU para obtener apoyo.",
     "de": "Die Fish and Farm Cooperative wurde 2001 gegründet, um lokale Fischer bei der Vermarktung ihres Fangs zu unterstützen. Trotz Herausforderungen, darunter ein verheerender Hurrikan im Jahr 2020, der die Infrastruktur beschädigte und die Mitgliederzahl von über 100 auf rund 45 reduzierte, hat die Genossenschaft beim Wiederaufbau und der Aufrechterhaltung der Betriebe große Anstrengungen unternommen. Die Initiative unterstreicht die Bedeutung der Unterstützung der Gemeinschaft, verantwortungsvoller Angelpraktiken und der Notwendigkeit einer höheren Produktion, um die Nachfrage zu befriedigen. Die Genossenschaft will auch jüngere Generationen für den Fischfang gewinnen und hat zur Unterstützung Partnerschaften mit Organisationen wie den Vereinten Nationen geschlossen."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Fish & Farm Coop",
-    "fr": "Fish & Farm Coop",
-    "es": "Fish & Farm Coop",
-    "de": "Fish & Farm Coop"
-  },
+  "name": "Fish & Farm Coop",
   "pubId": 469652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Hooker"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.facebook.com/profile.php?id=61559606795569",
   "yt": "nYdTIeYJhI4",
   "originalLang": "fr",
@@ -204,5 +209,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-181",
+  "entityDescription": "A fishers' cooperative in Providencia Island that processes and commercializes marine products caught by artisanal fishing methods.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Distribution/Logistics",
+    "Retail"
+  ],
+  "bizModel": "Cooperative/mutual",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

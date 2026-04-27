@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1754566296,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Harmony Projects es una iniciativa multifacética centrada en la hostelería sostenible y el compromiso comunitario en Nosara, Costa Rica. Fundada en 2004, abarca hoteles y restaurantes, dando prioridad al abastecimiento local y a la gestión medioambiental. Con un compromiso con las prácticas regenerativas, Harmony Projects pretende fomentar la resiliencia económica apoyando a los productores locales y mejorando el bienestar de la comunidad. La organización hace hincapié en la educación, la preservación cultural y la conservación del medio ambiente, esforzándose por crear un impacto positivo tanto en los huéspedes como en la comunidad circundante.",
     "de": "Harmony Projects ist eine facettenreiche Initiative, die sich auf nachhaltige Gastfreundschaft und kommunales Engagement in Nosara, Costa Rica, konzentriert. Die 2004 gegründete Initiative umfasst Hotels und Restaurants und legt Wert auf lokale Beschaffung und Umweltverantwortung. With a commitment to regenerative practices, Harmony Projects aims to foster economic resilience by supporting local producers and enhancing community well-being. Die Organisation legt Wert auf Bildung, Kultur- und Umweltschutz und bemüht sich, positive Auswirkungen auf die Gäste und die umliegende Gemeinde zu erzielen."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Harmony Hotel",
-    "fr": "Harmony Hotel",
-    "es": "Hotel Harmony",
-    "de": "Harmony Hotel"
-  },
+  "name": "Harmony Hotel",
   "pubId": 462352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Arias"
     }
   ],
-  "thematic": ["economy-business-markets-finance", "leisure-tourism"],
+  "thematic": [
+    "economy-business-markets-finance",
+    "leisure-tourism"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.harmonynosara.com/",
   "yt": "",
   "originalLang": "fr",
@@ -203,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-024",
+  "entityDescription": "A sustainable hotel and restaurant business with community development programs and local sourcing in Nosara, Costa Rica",
+  "entityRole": [
+    "Food Service/Hospitality",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Medium",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Social & Community",
+    "Environment & Biodiversity",
+    "Policy & Advocacy"
+  ],
+  "resourceType": "Financial"
 }

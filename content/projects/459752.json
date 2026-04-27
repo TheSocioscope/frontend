@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["ecuador"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "ecuador"
+  ],
   "createdAt": 1754403531,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa ecuatoriana Pacchar se centra en la agricultura regenerativa, concretamente mediante la producción de biocarbón para mejorar la salud del suelo. Fundado por un equipo de agrónomos, el proyecto pretende convertir los residuos orgánicos en biocarbón, mejorando la captura de carbono y la fertilidad del suelo. Colaboran con agricultores y municipios locales, proporcionándoles formación y equipos al tiempo que promueven prácticas sostenibles. Su objetivo es hacer frente a la degradación del suelo y contribuir a la reducción de la huella de carbono, beneficiando en última instancia tanto al medio ambiente como a las comunidades locales.",
     "de": "Die Initiative Ecuador Pacchar konzentriert sich auf regenerative Landwirtschaft, insbesondere durch die Produktion von Biokohle zur Verbesserung der Bodengesundheit. Das von einem Team von Agrarwissenschaftlern gegründete Projekt zielt darauf ab, organische Abfälle in Biokohle umzuwandeln und so die Kohlenstoffbindung und die Bodenfruchtbarkeit zu verbessern. Sie arbeiten mit lokalen Landwirten und Gemeinden zusammen, bieten Schulungen und Geräte an und fördern nachhaltige Praktiken. Ihr Ziel ist es, die Bodendegradation zu bekämpfen und zur Reduzierung des Kohlenstoffausstoßes beizutragen, was letztendlich sowohl der Umwelt als auch den lokalen Gemeinden zugute kommt."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Pacchar",
-    "fr": "Pacchar",
-    "es": "Pacchar",
-    "de": "Pacchar"
-  },
+  "name": "Pacchar",
   "pubId": 459752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Gonzalez"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "ecology-environmental-change"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "www.pacchar.com",
   "yt": "HuovSEpK_qs",
   "originalLang": "fr",
@@ -203,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "EC-063",
+  "entityDescription": "Company that transforms agricultural and forestry waste into biochar using pyrolysis reactors for soil enhancement and carbon sequestration.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Waste & Circular Economy"
+  ],
+  "resourceType": "Goods & Products"
 }

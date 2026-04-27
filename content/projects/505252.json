@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Hagamos Composta collects organic residues and transforms them into compost, reducing landfill waste and returning nutrients to soils.",
     "de": "Hagamos Composta collects organic residues and transforms them into compost, reducing landfill waste and returning nutrients to soils."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Mexico City",
-  "name": {
-    "en": "Hagamos Composta",
-    "fr": "Faisons du Compost",
-    "es": "Hagamos Composta",
-    "de": "Lasst uns Kompostieren"
-  },
+  "name": "Hagamos composta",
   "pubId": 505252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Leticia Camacho"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://hagamoscomposta.org/",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-020",
+  "entityDescription": "A community-based organic waste management project that collects household organic waste for composting and returns finished compost to users.",
+  "entityRole": [
+    "Waste & Circular Economy",
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754993512,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "La iniciativa se centra en la piscicultura sostenible, especialmente de truchas, a través de PezFresco, una empresa con más de 40 años de experiencia. La empresa ha transformado sus prácticas para dar prioridad a la responsabilidad medioambiental, incluida la conservación del agua y la gestión de residuos. Pez Fresco hace hincapié en la producción de trucha blanca natural, de la que exporta el 85% de su producción, al tiempo que realiza contribuciones sociales, como donaciones a bancos de alimentos y la creación de productos de valor añadido para los mercados locales.        ",
     "de": "Die Initiative konzentriert sich auf die nachhaltige Fischzucht, insbesondere von Forellen, durch PezFresco, ein Unternehmen mit über 40 Jahren Erfahrung. Das Unternehmen hat seine Praktiken umgestellt, um der Umweltverantwortung Vorrang einzuräumen, einschließlich Wasserschutz und Abfallmanagement. Pez Fresco legt den Schwerpunkt auf die Produktion von naturbelassenen weißen Forellen, die zu 85 % exportiert werden, und leistet gleichzeitig einen sozialen Beitrag, indem es z. B. an Lebensmittelbanken spendet und Produkte mit Mehrwert für den lokalen Markt herstellt.        "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Pezfresco",
-    "fr": "Pezfresco",
-    "es": "Pezfresco",
-    "de": "Pezfresco"
-  },
+  "name": "Pezfresco",
   "pubId": 481052,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Bermúdez Torres"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.pezfrescosas.com/sostenibilidad",
   "yt": "ZUdh-PCiiSI",
   "originalLang": "fr",
@@ -213,5 +218,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-506",
+  "entityDescription": "Aquaculture company producing and exporting trout with focus on environmental sustainability and circular economy practices.",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Retail"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Small",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Fisheries & Aquaculture",
+    "Environment & Biodiversity",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

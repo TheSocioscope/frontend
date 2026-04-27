@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755088242,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Cirkula es una plataforma innovadora diseñada para ayudar a la industria alimentaria a minimizar los residuos conectando a las empresas con excedentes de alimentos con los consumidores. Fundada en 2019, Cirkula tiene como objetivo mejorar la sostenibilidad evitando que alimentos en perfecto estado acaben en vertederos, donde emiten gases nocivos de efecto invernadero. Con una red creciente de más de 600 socios, Cirkula se compromete a expandir su impacto en toda América Latina, promoviendo tanto la eficiencia alimentaria como la responsabilidad ambiental. La plataforma está tratando de diversificar su oferta para incluir otros productos perecederos además de los alimentos, como flores y medicamentos, y se centra en la construcción de una sólida red de socios para mejorar su impacto.",
     "de": "Cirkula ist eine innovative Plattform, die der Lebensmittelindustrie helfen soll, Abfall zu minimieren, indem sie Unternehmen mit überschüssigen Lebensmitteln mit Verbrauchern verbindet. Cirkula wurde 2019 gegründet und hat sich zum Ziel gesetzt, die Nachhaltigkeit zu verbessern, indem es verhindert, dass einwandfreie Lebensmittel auf Mülldeponien landen, wo sie schädliche Treibhausgase freisetzen. Mit einem wachsenden Netzwerk von über 600 Partnern ist Cirkula bestrebt, seinen Einfluss in ganz Lateinamerika auszuweiten und sowohl die Lebensmitteleffizienz als auch die Umweltverantwortung zu fördern. Die Plattform ist bestrebt, ihr Angebot zu diversifizieren, um neben Lebensmitteln auch andere verderbliche Waren wie Blumen und Medikamente anzubieten, und konzentriert sich auf den Aufbau eines starken Partnernetzwerks, um ihre Wirkung zu verstärken."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Cirkula",
-    "fr": "Cirkula",
-    "es": "Cirkula",
-    "de": "Cirkula"
-  },
+  "name": "Cirkula",
   "pubId": 496952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "BAUDTS"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "consumption-and-production-patterns"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "consumption-and-production-patterns"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.cirkulaapp.com/",
   "yt": "JYuid5ARFtI",
   "editedAt": 1760067094,
@@ -45,7 +51,9 @@
       "at": 1760067094
     }
   ],
-  "updatedAt": [1760067094],
+  "updatedAt": [
+    1760067094
+  ],
   "originalLang": "fr",
   "timeline": [
     {
@@ -212,5 +220,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-012",
+  "entityDescription": "Digital platform connecting food businesses with consumers to sell surplus food at discounts, reducing food waste.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Technology & Innovation",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Access & Infrastructure"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["paraguay"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "paraguay"
+  ],
   "createdAt": 1754384542,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "High Farm es una innovadora granja urbana fundada en 2019, centrada en la producción sostenible de alimentos mediante técnicas de cultivo vertical. Mediante el cultivo de microgreens, flores comestibles y verduras en entornos controlados, High Farm pretende acercar los productos frescos y sin pesticidas a los consumidores urbanos. La iniciativa hace hincapié en la armonía entre tecnología, naturaleza y sociedad, fomentando la diversidad gastronómica al tiempo que se minimiza el impacto medioambiental. Con un compromiso con la investigación y el desarrollo, High Farm aspira a ser líder en prácticas agrícolas sostenibles en América Latina.",
     "de": "High Farm ist ein 2019 gegründeter innovativer städtischer Bauernhof, der sich auf die nachhaltige Lebensmittelproduktion durch vertikale Anbautechniken konzentriert. Durch den Anbau von Mikrogreens, essbaren Blumen und Greens in kontrollierten Umgebungen will High Farm frische, pestizidfreie Produkte näher an die städtischen Verbraucher heranbringen. Die Initiative betont die Harmonie zwischen Technologie, Natur und Gesellschaft und fördert die gastronomische Vielfalt bei gleichzeitiger Minimierung der Umweltauswirkungen. High Farm hat sich der Forschung und Entwicklung verschrieben und strebt eine führende Rolle bei nachhaltigen landwirtschaftlichen Praktiken in Lateinamerika an."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "High Farm",
-    "fr": "High Farm",
-    "es": "Granja Alta",
-    "de": "High Farm"
-  },
+  "name": "High Farm",
   "pubId": 457952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": ""
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://highfarm.com.py/about-us/",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PY-008",
+  "entityDescription": "Urban vertical farm producing microgreens and edible flowers using controlled environment technology in Asunción",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Food Processing/Products"
+  ],
+  "resourceType": "Goods & Products"
 }

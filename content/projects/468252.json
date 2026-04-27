@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754482986,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Amara Botanical Experience formula productos cosméticos naturales y crea experiencias sensoriales que reconectan a las personas con la naturaleza. Enfatizan el uso de ingredientes orgánicos de origen local, incluidas plantas cultivadas en la isla de San Andrés, para crear productos como jabones, champús y acondicionadores; con el objetivo de promover el bienestar y la conciencia medioambiental. Al ofrecer talleres y consultas personalizadas, Amara fomenta una comunidad centrada en la salud holística y la importancia de los ingredientes naturales en el cuidado personal.",
     "de": "Amara Botanical Experience formuliert Naturkosmetikprodukte und schafft sensorische Erfahrungen, die Menschen wieder mit der Natur verbinden. They emphasis the use of locally sourced, organic ingredients, including plants grown on the island of San Andrés, to create products such as soaps, shampoos, and conditioners; aiming to promote wellness and environmental consciousness. Durch das Angebot von Workshops und persönlichen Beratungen fördert Amara eine Gemeinschaft, die sich auf ganzheitliche Gesundheit und die Bedeutung natürlicher Inhaltsstoffe in der Körperpflege konzentriert."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Amara Botanical Experience",
-    "fr": "Amara Botanical Experience",
-    "es": "Experiencia Botánica Amara",
-    "de": "Amara Botanical Experience"
-  },
+  "name": "Amara Botanical Experience",
   "pubId": 468252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "Moreno"
     }
   ],
-  "thematic": ["ecology-environmental-change", "public-health"],
+  "thematic": [
+    "ecology-environmental-change",
+    "public-health"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/amarabotanicalexperience/",
   "yt": "QWRlIyrKbnU",
   "originalLang": "fr",
@@ -204,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-489",
+  "entityDescription": "Creates natural cosmetic products using plants from San Andrés and offers sensory experiences to connect people with nature.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Food Processing/Products",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

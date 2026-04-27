@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754568183,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ustawi, fundada en 2019, tiene su sede en el condado de Laikipia (Kenia) y su sede en Newquay Town. La iniciativa se centra en empoderar a las mujeres rurales a través de la agricultura, mejorar la producción de alimentos y garantizar la seguridad alimentaria. Ustawi ofrece servicios como acceso a recursos agrícolas, formación en prácticas sostenibles y apoyo financiero, con el objetivo de transformar las comunidades y promover el empoderamiento económico al tiempo que aborda desafíos como el cambio climático y los prejuicios culturales.                   ",
     "de": "Ustawi wurde 2019 gegründet und hat ihren Sitz in Laikipia County, Kenia, mit Hauptquartier in Newquay Town. Die Initiative konzentriert sich auf die Stärkung von Landfrauen durch die Landwirtschaft, die Steigerung der Nahrungsmittelproduktion und die Gewährleistung der Ernährungssicherheit. Ustawi bietet Dienstleistungen wie Zugang zu landwirtschaftlichen Ressourcen, Schulungen in nachhaltigen Praktiken und finanzielle Unterstützung an, um Gemeinden umzugestalten und die wirtschaftliche Stärkung zu fördern und gleichzeitig Herausforderungen wie den Klimawandel und kulturelle Vorbehalte zu bewältigen.                   "
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ustawi",
-    "fr": "Ustawi",
-    "es": "Ustawi",
-    "de": "Ustawi"
-  },
+  "name": "Ustawi",
   "pubId": 462952,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Irungu"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.ustawihubs.org/",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-006",
+  "entityDescription": "A social enterprise training 6,000 rural farmers on conservation agriculture, water harvesting, and mindset transformation across five Kenyan counties.",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Knowledge & Information"
 }

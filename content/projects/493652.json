@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["peru"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "peru"
+  ],
   "createdAt": 1755004770,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "El proyecto Qumir Sunqu se centra en la formación en jardinería urbana y la producción de kits de cultivo biodegradables para hortalizas y plantas ornamentales. Dirigida por un agrónomo, la iniciativa pretende mejorar la seguridad alimentaria en Lima, afrontando los retos que plantean la urbanización y la migración. Con valores de responsabilidad y coherencia, el proyecto hace hincapié en las prácticas respetuosas con el medio ambiente en todos sus procesos, desde la formación hasta la producción, fomentando la autosuficiencia en la producción de alimentos entre las comunidades vulnerables.",
     "de": "Das Projekt Qumir Sunqu konzentriert sich auf die Ausbildung im städtischen Gartenbau und die Herstellung von biologisch abbaubaren Anbausätzen für Gemüse und Zierpflanzen. Die von einem Agrarwissenschaftler geleitete Initiative zielt darauf ab, die Ernährungssicherheit in Lima zu verbessern und die Herausforderungen der Urbanisierung und Migration zu bewältigen. Das Projekt, das auf Verantwortung und Kohärenz setzt, betont umweltfreundliche Praktiken in allen seinen Prozessen, von der Ausbildung bis zur Produktion, und fördert die Selbstversorgung mit Nahrungsmitteln in gefährdeten Gemeinschaften."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "es": "Qumir Sunqu",
-    "en": "Qumir Sunqu",
-    "fr": "Qumir Sunqu",
-    "de": "Qumir Sunqu"
-  },
+  "name": "Qumir Sunqu",
   "pubId": 493652,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,14 @@
       "lastname": "LOAYZA PAREDES"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "cities-mobility-urban-planning"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "cities-mobility-urban-planning"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "hX1wWqxD_-0",
   "originalLang": "es",
@@ -204,5 +210,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "PE-179",
+  "entityDescription": "Educational initiative providing urban gardening workshops and biodegradable growing kits to promote sustainable food production.",
+  "entityRole": [
+    "Support Services",
+    "Transformation/Processing"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

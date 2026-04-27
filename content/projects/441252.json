@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1739462051,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ekuox se centra en promover la sostenibilidad medioambiental mediante la producción y venta de productos ecológicos para la gestión de residuos. La empresa está especializada en la fabricación de bolsas biodegradables hechas con materiales orgánicos, como el maíz, y ofrece una gama de productos diseñados para facilitar la separación de residuos y el compostaje tanto en los hogares como en las empresas. Reconociendo la importancia de reducir los residuos plásticos, la iniciativa también explora el uso de plástico reciclado para crear productos adicionales, como bolsas de residuos para mascotas y cajas de compostaje. El modelo empresarial hace hincapié en la educación y la concienciación, animando a los clientes a adoptar prácticas sostenibles al tiempo que ofrece soluciones prácticas para la gestión de residuos. Mediante asociaciones estratégicas y enfoques innovadores, la iniciativa pretende ampliar su alcance e impacto, contribuyendo a una economía circular y fomentando una cultura de responsabilidad medioambiental.",
     "de": "Ekuox konzentriert sich auf die Förderung der ökologischen Nachhaltigkeit durch die Herstellung und den Verkauf von umweltfreundlichen Abfallentsorgungsprodukten. Das Unternehmen ist auf die Herstellung von biologisch abbaubaren Beuteln aus organischen Materialien wie Horn spezialisiert und bietet eine Reihe von Produkten an, die die Abfalltrennung und Kompostierung sowohl in Privathaushalten als auch in Unternehmen erleichtern sollen. Da die Initiative die Bedeutung der Reduzierung von Plastikmüll erkennt, erforscht sie auch die Verwendung von recyceltem Plastik, um zusätzliche Produkte zu schaffen, darunter Hausmülltüten und Kompostierboxen. Das Geschäftsmodell betont Aufklärung und Bewusstsein und ermutigt die Kunden, nachhaltige Praktiken einzuführen, während es praktische Lösungen für die Abfallentsorgung bietet. Through strategic partnerships and innovative approaches, the initiative aims to expand its reach and impact, contributing to a circular economy and fostering a culture of environmental responsibility."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ekuox",
-    "fr": "Ekuox",
-    "es": "Ekuox",
-    "de": "Ekuox"
-  },
+  "name": "Ekuox",
   "pubId": 441252,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Ramirez"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ekuox.com",
   "yt": "brFTrbOA-mc",
   "originalLang": "fr",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-060",
+  "entityDescription": "Manufacturer of bags for waste separation and biodegradable bags made from corn material for circular economy.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

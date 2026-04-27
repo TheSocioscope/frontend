@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["costa-rica"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "costa-rica"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Fundecooperación promotes sustainable development through financing and technical support for environmental and social projects including sustainable agriculture.",
     "de": "Fundecooperación promotes sustainable development through financing and technical support for environmental and social projects including sustainable agriculture."
   },
-  "field": ["economics-business"],
+  "field": [
+    "economics-business"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Fundecooperación",
-    "fr": "Fundecooperación",
-    "es": "Fundecooperación",
-    "de": "Fundecooperación"
-  },
+  "name": "Fundecooperación",
   "pubId": 501752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Feoli"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://fundecooperacion.org/",
   "yt": "",
   "originalLang": "en",
@@ -213,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CR-089",
+  "entityDescription": "Foundation providing microfinance and technical assistance for sustainable development projects across Costa Rica",
+  "entityRole": [
+    "Finance & Investment",
+    "Support Services"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Small",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Financial"
 }

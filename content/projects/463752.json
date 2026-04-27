@@ -25,12 +25,7 @@
   ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Taxon",
-    "fr": "Taxon",
-    "es": "Taxón",
-    "de": "Taxon"
-  },
+  "name": "TAXON",
   "pubId": 463752,
   "score": -225.55397951113932,
   "state": "ongoing-project",
@@ -51,5 +46,20 @@
   ],
   "url": "",
   "yt": "",
-  "originalLang": "fr"
+  "originalLang": "fr",
+  "caseCode": "AR-090",
+  "entityDescription": "A biotech company using AI and genomics to develop bioinputs for regenerative agriculture and soil health improvement.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

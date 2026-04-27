@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["europe"],
-  "country": ["france"],
+  "continent": [
+    "europe"
+  ],
+  "country": [
+    "france"
+  ],
   "createdAt": 1739453345,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "Pic'Assiette es una asociación con sede en los suburbios de Montpellier, centrada en mejorar la accesibilidad y sostenibilidad de los alimentos en una región a menudo olvidada por las iniciativas existentes. Pic'Assiette pretende abordar los problemas alimentarios combinando componentes de agricultura, ordenación del territorio y salud. Fundada en 2010, Pic'Assiette es una asociación dedicada a la educación alimentaria sostenible, que promueve una alimentación en armonía con el medio ambiente, la salud y la región, como una cadena que va de la tierra a nuestros platos.",
     "de": "Pic'Assiette ist ein in den Vororten von Montpellier ansässiger Verein, der sich auf die Verbesserung des Zugangs zu Lebensmitteln und der Nachhaltigkeit in einer Region konzentriert, die von bestehenden Initiativen oft übersehen wird. Pic'Assiette will Ernährungsprobleme durch die Kombination von Landwirtschaft, Regionalplanung und Gesundheitskomponenten angehen. Pic'Assiette wurde 2010 gegründet und ist ein Verein, der sich der nachhaltigen Ernährungserziehung verschrieben hat. Er fördert Lebensmittel, die im Einklang mit der Umwelt, der Gesundheit und der Region stehen, wie eine Kette, die von der Erde bis zu unseren Tellern verläuft."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "it": "Pic'Assiette",
-    "en": "Pic'Assiette",
-    "fr": "Pic'Assiette",
-    "es": "Pic'Assiette",
-    "de": "Pic'Assiette"
-  },
+  "name": "Pic'Assiette",
   "pubId": 447852,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Viala"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://letsfoodideas.com/fr/initiative/alimentation-durable-association/",
   "yt": "jWlXNAHbcwo",
   "originalLang": "fr",
@@ -214,5 +218,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "FR-067",
+  "entityDescription": "Association d'éducation à l'alimentation durable qui allie agriculture, aménagement du territoire et alimentation avec un volet nutrition santé",
+  "entityRole": [
+    "Support Services",
+    "Civil Society & Networks"
+  ],
+  "bizModel": "Non-profit/charity",
+  "entitySize": "Micro",
+  "geoReach": "Regional",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Health & Nutrition",
+    "Social & Community"
+  ],
+  "resourceType": "Services"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["argentina"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "argentina"
+  ],
   "createdAt": 1754563427,
   "date": null,
   "description": {
@@ -15,15 +19,14 @@
     "es": "Indegap es una empresa científica y tecnológica con sede en Mendoza, Argentina, centrada en proporcionar conocimientos aplicados a las empresas agrícolas. Mediante el uso de sensores avanzados y análisis de datos, Indegap ayuda a reducir la incertidumbre en las inversiones agrícolas, permitiendo a los productores tomar decisiones más seguras e informadas. Con una gama de servicios, especialmente en estudios de microclima, Indegap pretende mejorar la rentabilidad y la sostenibilidad en la agricultura, beneficiando en última instancia a la cadena de suministro de alimentos y al medio ambiente.",
     "de": "Indegap ist ein Wissenschafts- und Technologieunternehmen mit Sitz in Mendoza, Argentinien, das sich auf die Bereitstellung von angewandtem Wissen für die Agrarwirtschaft konzentriert. Durch den Einsatz fortschrittlicher Sensoren und Datenanalysen trägt Indegap dazu bei, Unsicherheiten bei landwirtschaftlichen Investitionen zu verringern und ermöglicht es den Landwirten, bessere, informiertere Entscheidungen zu treffen. Mit einer Reihe von Dienstleistungen, insbesondere im Bereich der Mikroklimastudien, will Indegap die Rentabilität und Nachhaltigkeit in der Landwirtschaft steigern, was letztlich der Nahrungsmittelkette und der Umwelt zugute kommt."
   },
-  "field": ["engineering-and-technology", "information-technology", "nutrition"],
+  "field": [
+    "engineering-and-technology",
+    "information-technology",
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Indegap",
-    "fr": "Indegap",
-    "es": "Indegap",
-    "de": "Indegap"
-  },
+  "name": "INDEGAP",
   "pubId": 461352,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +36,14 @@
       "lastname": "Gonzalez"
     }
   ],
-  "thematic": ["food-agriculture-fishery", "innovation-rd"],
+  "thematic": [
+    "food-agriculture-fishery",
+    "innovation-rd"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "",
   "yt": "s76Pj8wd-3I",
   "originalLang": "fr",
@@ -194,5 +202,19 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "AR-102",
+  "entityDescription": "Scientific-technological company providing applied knowledge through microclimate monitoring and mapping services for agricultural decision-making in intensive crops.",
+  "entityRole": [
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Services"
 }

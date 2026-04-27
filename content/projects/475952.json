@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754579456,
   "date": null,
   "description": {
@@ -15,16 +19,12 @@
     "es": "La iniciativa, dirigida por Kapi Limited, se centra en mejorar la seguridad alimentaria en Kenia mediante el desarrollo y la distribución de biopesticidas. Al abastecerse de ingredientes naturales procedentes de pequeños agricultores locales, Kapi pretende ofrecer alternativas eficaces y sin residuos a los productos químicos sintéticos. Este enfoque no sólo apoya la agricultura local, sino que también promueve alimentos más seguros para los consumidores. La iniciativa hace hincapié en la educación y la accesibilidad, garantizando que los agricultores puedan elegir con conocimiento de causa prácticas agrícolas sostenibles.",
     "de": "Die von Kapi Limited geleitete Initiative konzentriert sich auf die Verbesserung der Lebensmittelsicherheit in Kenia durch die Entwicklung und den Vertrieb von Biopestiziden. Durch die Beschaffung natürlicher Inhaltsstoffe von lokalen Kleinbauern will Kapi effektive, residuenfreie Alternativen zu synthetischen Chemikalien bieten. Dieser Ansatz unterstützt nicht nur die lokale Landwirtschaft, sondern fördert auch sichere Lebensmittel für die Verbraucher. Die Initiative legt Wert auf Bildung und Zugänglichkeit und stellt sicher, dass die Landwirte informierte Entscheidungen für nachhaltige Anbaumethoden treffen können."
   },
-  "field": ["nutrition"],
+  "field": [
+    "nutrition"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "id": "Kapi Limited",
-    "en": "Kapi Limited",
-    "fr": "Kapi Limited",
-    "es": "Kapi Limited",
-    "de": "Kapi Limited"
-  },
+  "name": "kapi limited",
   "pubId": 475952,
   "state": "ongoing-project",
   "team": [
@@ -34,9 +34,13 @@
       "lastname": "Shaw"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://flowerbrand.co.ke/",
   "yt": "",
   "originalLang": "fr",
@@ -205,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-119",
+  "entityDescription": "Kenyan manufacturer of bio-insecticides and pesticides using natural ingredients like pyrethrum, croton oil, and neem oil",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Medium",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Technology & Innovation",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

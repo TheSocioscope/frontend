@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1741177572,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Esta iniciativa se centra en la capacitación de las mujeres de una comunidad rural mediante la promoción de una marca única que transforma las frutas amazónicas en accesorios y ropa de moda. Nació de la idea de combinar la artesanía tradicional con el diseño moderno, fomentando la independencia económica de las mujeres locales. El proyecto no sólo pone de relieve la riqueza cultural del Amazonas, sino que también hace hincapié en la sostenibilidad utilizando materiales naturales. Mediante la creación de talleres y la formación, pretende elevar el nivel de vida de la comunidad, mejorar los sistemas alimentarios locales y preservar los conocimientos ancestrales, contribuyendo en última instancia al bienestar social y medioambiental.",
     "de": "Diese Initiative konzentriert sich auf die Stärkung von Frauen in einer ländlichen Gemeinde durch die Förderung einer einzigartigen Marke, die Amazonasfrüchte in modische Accessoires und Bekleidung verwandelt. Das Projekt entstand aus der Vision, traditionelles Handwerk mit modernem Design zu verbinden und so die wirtschaftliche Unabhängigkeit der Frauen vor Ort zu fördern. Das Projekt hebt nicht nur den kulturellen Reichtum des Amazonas hervor, sondern betont auch die Nachhaltigkeit durch die Verwendung natürlicher Materialien. Durch die Einrichtung von Workshops und die Bereitstellung von Schulungen soll die Gemeinschaft gestärkt, lokale Nahrungsmittelsysteme verbessert und uraltes Wissen bewahrt werden, was letztendlich zum sozialen und ökologischen Wohlbefinden beiträgt."
   },
-  "field": ["other-social-sciences-and-humanities"],
+  "field": [
+    "other-social-sciences-and-humanities"
+  ],
   "lang": "fr",
   "location": "",
-  "name": {
-    "en": "SHUSKA",
-    "fr": "SHUSKA",
-    "es": "SHUSKA",
-    "de": "SHUSKA"
-  },
+  "name": "Shuska",
   "pubId": 455552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Preciado"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://www.instagram.com/shuskacol/",
   "yt": "VVb7hx6wC-Y",
   "originalLang": "fr",
@@ -203,5 +208,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-034",
+  "entityDescription": "Marca de moda y accesorios que usa semillas y frutos amazónicos para crear biojoyas, empoderando mujeres rurales.",
+  "entityRole": [
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "Social enterprise",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Technology & Innovation",
+    "Social & Community",
+    "Environment & Biodiversity"
+  ],
+  "resourceType": "Goods & Products"
 }

@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["sub-saharian-africa"],
-  "country": ["kenya"],
+  "continent": [
+    "sub-saharian-africa"
+  ],
+  "country": [
+    "kenya"
+  ],
   "createdAt": 1754574533,
   "date": null,
   "description": {
@@ -15,15 +19,13 @@
     "es": "La iniciativa se centra en la cría de abejas reina en el centro de Kenia, para hacer frente al declive de las poblaciones naturales de abejas debido a la degradación del medio ambiente. El fundador, un antiguo agricultor, inició este proyecto para garantizar la polinización de los cultivos. No sólo cría abejas reinas, sino que también proporciona colmenas y formación a los agricultores locales, fomentando la concienciación medioambiental. Este modelo sostenible mejora el rendimiento agrícola al tiempo que produce miel y otros productos apícolas, fomentando en última instancia un ecosistema más sano y el compromiso de la comunidad.",
     "de": "Die Initiative konzentriert sich auf Queen Bee Rearing in Zentralkenia und adressiert den Rückgang der natürlichen Bienenpopulationen aufgrund von Umweltzerstörung. Der Gründer, ein ehemaliger Landwirt, begann das Projekt, um die Bestäubung von Nutzpflanzen sicherzustellen. Er züchtet nicht nur Bienen, sondern bietet auch Bienen und Schulungen für lokale Landwirte an und fördert das Umweltbewusstsein. Dieses nachhaltige Modell steigert die landwirtschaftlichen Erträge, während Honig und andere Bienenprodukte produziert werden, was letztendlich ein gesünderes Ökosystem und das Engagement der Gemeinschaft fördert."
   },
-  "field": ["nutrition", "ecology-environmental-sciences"],
+  "field": [
+    "nutrition",
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Maianke",
-    "fr": "Maianke",
-    "es": "Maianke",
-    "de": "Maianke"
-  },
+  "name": "Maianke",
   "pubId": 474552,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +35,14 @@
       "lastname": "Maina Machira"
     }
   ],
-  "thematic": ["ecology-environmental-change", "food-agriculture-fishery"],
+  "thematic": [
+    "ecology-environmental-change",
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ke.linkedin.com/in/peter-machira-71921288",
   "yt": "",
   "originalLang": "fr",
@@ -213,5 +220,21 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "KE-054",
+  "entityDescription": "A beekeeping enterprise specializing in queen rearing, bee packages, honey production, and beehive manufacturing",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Support Services"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "National",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Goods & Products"
 }

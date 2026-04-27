@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["south-america"],
-  "country": ["colombia"],
+  "continent": [
+    "south-america"
+  ],
+  "country": [
+    "colombia"
+  ],
   "createdAt": 1754479546,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "Ecobot es una iniciativa innovadora que combina el reciclaje con la publicidad ecológica. Opera máquinas que recogen materiales reciclables, recompensando a los usuarios con vales de descuento. El modelo de negocio se centra en ofrecer espacios publicitarios a empresas comprometidas con la sostenibilidad, generando ingresos al tiempo que promueve prácticas ecológicas. Al asociarse con asociaciones de reciclaje, Ecobot también apoya a los recicladores locales, mejorando el compromiso de la comunidad. Su objetivo es expandirse tanto a escala nacional como internacional, fomentando una cultura de reciclaje y responsabilidad medioambiental.",
     "de": "Ecobot ist eine innovative Initiative, die Recycling mit grüner Werbung verbindet. Sie betreibt Maschinen, die wiederverwertbare Materialien sammeln und belohnt die Nutzer mit Rabattgutscheinen. Das Geschäftsmodell konzentriert sich auf die Bereitstellung von Werbeflächen für Unternehmen, die sich der Nachhaltigkeit verpflichtet fühlen, und generiert so Einkommen, während es gleichzeitig umweltfreundliche Praktiken fördert. Durch die Partnerschaft mit Recyclingverbänden unterstützt Ecobot auch lokale Müllsammler und fördert so das Engagement der Gemeinschaft. Ihr Ziel ist es, sowohl national als auch international zu expandieren und eine Kultur des Recyclings und der Umweltverantwortung zu fördern."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "en",
   "location": "",
-  "name": {
-    "en": "Ecobot",
-    "fr": "Ecobot",
-    "es": "Ecobot",
-    "de": "Ecobot"
-  },
+  "name": "Ecobot",
   "pubId": 466752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": ""
     }
   ],
-  "thematic": ["ecology-environmental-change"],
+  "thematic": [
+    "ecology-environmental-change"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "www.ecobot.com.co",
   "yt": "",
   "originalLang": "fr",
@@ -204,5 +209,20 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "CO-609",
+  "entityDescription": "A green advertising company that operates reverse vending machines offering discount coupons for recycling to promote recycling culture.",
+  "entityRole": [
+    "Support Services",
+    "Waste & Circular Economy"
+  ],
+  "bizModel": "For-profit private",
+  "entitySize": "Micro",
+  "geoReach": "International",
+  "sectorFocus": [
+    "Waste & Circular Economy",
+    "Policy & Advocacy",
+    "Technology & Innovation"
+  ],
+  "resourceType": "Services"
 }

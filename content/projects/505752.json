@@ -5,8 +5,12 @@
     "lastname": "",
     "contact_url": ""
   },
-  "continent": ["north-america"],
-  "country": ["mexico"],
+  "continent": [
+    "north-america"
+  ],
+  "country": [
+    "mexico"
+  ],
   "createdAt": 1770735858,
   "date": null,
   "description": {
@@ -15,15 +19,12 @@
     "es": "IXTI produces aguamiel, pulque, and maguey products under an ecological model utilizing 100% of the maguey plant.",
     "de": "IXTI produces aguamiel, pulque, and maguey products under an ecological model utilizing 100% of the maguey plant."
   },
-  "field": ["ecology-environmental-sciences"],
+  "field": [
+    "ecology-environmental-sciences"
+  ],
   "lang": "es",
   "location": "Huitzilac, Morelos",
-  "name": {
-    "en": "Ixti",
-    "fr": "Ixti",
-    "es": "Ixti",
-    "de": "Ixti"
-  },
+  "name": "Ixti",
   "pubId": 505752,
   "state": "ongoing-project",
   "team": [
@@ -33,9 +34,13 @@
       "lastname": "Acosta"
     }
   ],
-  "thematic": ["food-agriculture-fishery"],
+  "thematic": [
+    "food-agriculture-fishery"
+  ],
   "time": "",
-  "type": ["case-study"],
+  "type": [
+    "case-study"
+  ],
   "url": "https://ixtimaguey.com/",
   "yt": "",
   "originalLang": "es",
@@ -213,5 +218,22 @@
       }
     }
   ],
-  "gallery": []
+  "gallery": [],
+  "caseCode": "MX-034",
+  "entityDescription": "A family-run project in Huitzilac promoting maguey culture through cosmetics, tours, and traditional knowledge preservation",
+  "entityRole": [
+    "Primary Production",
+    "Transformation/Processing",
+    "Food Service/Hospitality",
+    "Support Services"
+  ],
+  "bizModel": "Individual/informal",
+  "entitySize": "Micro",
+  "geoReach": "Local",
+  "sectorFocus": [
+    "Agriculture/Agroecology",
+    "Environment & Biodiversity",
+    "Social & Community"
+  ],
+  "resourceType": "Goods & Products"
 }

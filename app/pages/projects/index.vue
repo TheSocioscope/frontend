@@ -14,9 +14,12 @@
           :continent-options="continentOptions"
           :country-options="countryOptions"
           :status-options="statusOptions"
-          :thematic-options="thematicOptions"
-          :field-options="fieldOptions"
-          :type-options="typeOptions"
+          :role-options="roleOptions"
+          :biz-model-options="bizModelOptions"
+          :size-options="sizeOptions"
+          :geo-reach-options="geoReachOptions"
+          :sector-options="sectorOptions"
+          :resource-type-options="resourceTypeOptions"
           class="mb-8"
           @update:model-value="filters = $event"
           @reset="resetFilters"
@@ -149,14 +152,7 @@ const { t: $t } = useI18n()
 const localePath = useLocalePath()
 const route = useRoute()
 const router = useRouter()
-const {
-  getContinentLabel,
-  getCountryLabel,
-  getThematicLabel,
-  getFieldLabel,
-  getTypeLabel,
-  getStatusLabel
-} = useProjectMappings()
+const { getContinentLabel, getCountryLabel, getStatusLabel } = useProjectMappings()
 
 // Fetch all projects
 const { data: projectsData } = await useAsyncData('projects', () =>
@@ -174,9 +170,12 @@ const filters = ref({
   selectedContinent: null as string | null,
   selectedCountries: [] as string[],
   selectedStatus: null as string | null,
-  selectedThematics: [] as string[],
-  selectedFields: [] as string[],
-  selectedTypes: [] as string[]
+  selectedRoles: [] as string[],
+  selectedBizModels: [] as string[],
+  selectedSizes: [] as string[],
+  selectedGeoReach: [] as string[],
+  selectedSectors: [] as string[],
+  selectedResourceTypes: [] as string[]
 })
 
 const currentPage = ref(1)
@@ -208,22 +207,27 @@ onMounted(() => {
     shuffleIndex.value = new Map(shuffled.map((id, i) => [id, i]))
   }
 
-  const { countries, continent, status, thematics, fields, types } = route.query
+  const { countries, continent, status, roles, bizModels, sizes, geoReach, sectors, resourceTypes } =
+    route.query
 
-  if (countries) {
+  if (countries)
     filters.value.selectedCountries = Array.isArray(countries) ? countries : [countries as string]
-  }
   if (continent) filters.value.selectedContinent = continent as string
   if (status) filters.value.selectedStatus = status as string
-  if (thematics) {
-    filters.value.selectedThematics = Array.isArray(thematics) ? thematics : [thematics as string]
-  }
-  if (fields) {
-    filters.value.selectedFields = Array.isArray(fields) ? fields : [fields as string]
-  }
-  if (types) {
-    filters.value.selectedTypes = Array.isArray(types) ? types : [types as string]
-  }
+  if (roles)
+    filters.value.selectedRoles = Array.isArray(roles) ? roles : [roles as string]
+  if (bizModels)
+    filters.value.selectedBizModels = Array.isArray(bizModels) ? bizModels : [bizModels as string]
+  if (sizes)
+    filters.value.selectedSizes = Array.isArray(sizes) ? sizes : [sizes as string]
+  if (geoReach)
+    filters.value.selectedGeoReach = Array.isArray(geoReach) ? geoReach : [geoReach as string]
+  if (sectors)
+    filters.value.selectedSectors = Array.isArray(sectors) ? sectors : [sectors as string]
+  if (resourceTypes)
+    filters.value.selectedResourceTypes = Array.isArray(resourceTypes)
+      ? resourceTypes
+      : [resourceTypes as string]
 })
 
 const toggleSortOrder = () => {
@@ -239,9 +243,13 @@ watch(
     if (filters.value.selectedCountries.length) query.countries = filters.value.selectedCountries
     if (filters.value.selectedContinent) query.continent = filters.value.selectedContinent
     if (filters.value.selectedStatus) query.status = filters.value.selectedStatus
-    if (filters.value.selectedThematics.length) query.thematics = filters.value.selectedThematics
-    if (filters.value.selectedFields.length) query.fields = filters.value.selectedFields
-    if (filters.value.selectedTypes.length) query.types = filters.value.selectedTypes
+    if (filters.value.selectedRoles.length) query.roles = filters.value.selectedRoles
+    if (filters.value.selectedBizModels.length) query.bizModels = filters.value.selectedBizModels
+    if (filters.value.selectedSizes.length) query.sizes = filters.value.selectedSizes
+    if (filters.value.selectedGeoReach.length) query.geoReach = filters.value.selectedGeoReach
+    if (filters.value.selectedSectors.length) query.sectors = filters.value.selectedSectors
+    if (filters.value.selectedResourceTypes.length)
+      query.resourceTypes = filters.value.selectedResourceTypes
 
     router.push({ query })
   },
@@ -290,23 +298,72 @@ const statusOptions = computed(() => {
   ]
 })
 
-// Get unique options from projects
-const getUniqueOptions = (field: string, labelFn: (code: string) => string) => {
-  const items = new Set<string>()
-  projects.value.forEach((project) => {
-    const values = project[field]
-    if (values && Array.isArray(values)) {
-      values.forEach((v: string) => items.add(v))
-    }
-  })
-  return Array.from(items)
-    .sort()
-    .map((code) => ({ value: code, title: labelFn(code) }))
-}
+// Fixed option lists for entity coding filters
+const roleOptions = [
+  'Primary Production',
+  'Transformation/Processing',
+  'Distribution/Logistics',
+  'Retail',
+  'Food Service/Hospitality',
+  'Waste & Circular Economy',
+  'Support Services',
+  'Finance & Investment',
+  'Governance & Regulation',
+  'Civil Society & Networks',
+  'Other Role'
+]
 
-const thematicOptions = computed(() => getUniqueOptions('thematic', getThematicLabel))
-const fieldOptions = computed(() => getUniqueOptions('field', getFieldLabel))
-const typeOptions = computed(() => getUniqueOptions('type', getTypeLabel))
+const bizModelOptions = [
+  'For-profit private',
+  'Cooperative/mutual',
+  'Social enterprise',
+  'Non-profit/charity',
+  'Public body',
+  'Public-private partnership',
+  'Individual/informal',
+  'Other model'
+]
+
+const sizeOptions = [
+  'Individual/Solo',
+  'Micro',
+  'Small',
+  'Medium',
+  'Large',
+  'Very Large',
+  'Unknown'
+]
+
+const geoReachOptions = ['Local', 'Regional', 'National', 'International', 'Unknown']
+
+const sectorOptions = [
+  'Agriculture/Agroecology',
+  'Fisheries & Aquaculture',
+  'Livestock & Dairy',
+  'Food Processing/Products',
+  'Distribution & Logistics',
+  'Waste & Circular Economy',
+  'Energy',
+  'Water',
+  'Technology & Innovation',
+  'Health & Nutrition',
+  'Environment & Biodiversity',
+  'Policy & Advocacy',
+  'Social & Community',
+  'Other sector'
+]
+
+const resourceTypeOptions = [
+  'Goods & Products',
+  'Services',
+  'Financial',
+  'Access & Infrastructure',
+  'Knowledge & Information',
+  'Licences & Permissions',
+  'Restriction & Obligation',
+  'Support & Endorsement',
+  'Other resource'
+]
 
 // Filtered projects
 const filteredProjects = computed(() => {
@@ -317,9 +374,12 @@ const filteredProjects = computed(() => {
     selectedContinent,
     selectedCountries,
     selectedStatus,
-    selectedThematics,
-    selectedFields,
-    selectedTypes
+    selectedRoles,
+    selectedBizModels,
+    selectedSizes,
+    selectedGeoReach,
+    selectedSectors,
+    selectedResourceTypes
   } = filters.value
 
   if (searchQuery) {
@@ -369,18 +429,34 @@ const filteredProjects = computed(() => {
     filtered = filtered.filter((p) => p.status === selectedStatus)
   }
 
-  if (selectedThematics.length) {
+  if (selectedRoles.length) {
     filtered = filtered.filter((p) =>
-      p.thematic?.some((t: string) => selectedThematics.includes(t))
+      p.entityRole?.some((r: string) => selectedRoles.includes(r))
     )
   }
 
-  if (selectedFields.length) {
-    filtered = filtered.filter((p) => p.field?.some((f: string) => selectedFields.includes(f)))
+  if (selectedBizModels.length) {
+    filtered = filtered.filter((p) => p.bizModel && selectedBizModels.includes(p.bizModel))
   }
 
-  if (selectedTypes.length) {
-    filtered = filtered.filter((p) => p.type?.some((t: string) => selectedTypes.includes(t)))
+  if (selectedSizes.length) {
+    filtered = filtered.filter((p) => p.entitySize && selectedSizes.includes(p.entitySize))
+  }
+
+  if (selectedGeoReach.length) {
+    filtered = filtered.filter((p) => p.geoReach && selectedGeoReach.includes(p.geoReach))
+  }
+
+  if (selectedSectors.length) {
+    filtered = filtered.filter((p) =>
+      p.sectorFocus?.some((s: string) => selectedSectors.includes(s))
+    )
+  }
+
+  if (selectedResourceTypes.length) {
+    filtered = filtered.filter(
+      (p) => p.resourceType && selectedResourceTypes.includes(p.resourceType)
+    )
   }
 
   // Sort filtered projects
@@ -488,9 +564,12 @@ const resetFilters = () => {
     selectedContinent: null,
     selectedCountries: [],
     selectedStatus: null,
-    selectedThematics: [],
-    selectedFields: [],
-    selectedTypes: []
+    selectedRoles: [],
+    selectedBizModels: [],
+    selectedSizes: [],
+    selectedGeoReach: [],
+    selectedSectors: [],
+    selectedResourceTypes: []
   }
   // Also clear URL query parameters
   router.push({ query: {} })
