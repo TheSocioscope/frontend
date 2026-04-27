@@ -26,6 +26,7 @@
         :localized-name="localizedName"
         :show-original="showOriginal"
         :show-disclaimer="showDisclaimer"
+        @connect="connectDrawerOpen = true"
       />
 
       <!-- Under Construction Banner -->
@@ -45,6 +46,19 @@
       <v-container class="content-container">
         <!-- About Component -->
         <ProjectAbout :project="project" :localized-description="localizedDescription" />
+
+        <!-- Connect CTA under About -->
+        <div class="connect-under-about">
+          <v-btn
+            color="success"
+            variant="tonal"
+            prepend-icon="mdi-human-greeting-proximity"
+            size="large"
+            @click="connectDrawerOpen = true"
+          >
+            Connect with this initiative
+          </v-btn>
+        </div>
 
         <!-- Video Component -->
         <ProjectVideo v-if="project.yt" :project="project" />
@@ -76,6 +90,19 @@
           :localized-gallery="localizedGallery"
         />-->
 
+        <!-- Connect row near Share -->
+        <div class="connect-near-share">
+          <span class="connect-near-share-label">Interested in this initiative?</span>
+          <v-btn
+            color="success"
+            variant="outlined"
+            prepend-icon="mdi-human-greeting-proximity"
+            @click="connectDrawerOpen = true"
+          >
+            Connect with this initiative
+          </v-btn>
+        </div>
+
         <!-- Share Component -->
         <ProjectShare :project-name="localizedName" :project-url="currentUrl" />
       </v-container>
@@ -102,7 +129,7 @@
         title="Connect with this initiative"
         @click="connectDrawerOpen = true"
       >
-        <v-icon>mdi-handshake</v-icon>
+        <v-icon>mdi-human-greeting-proximity</v-icon>
       </v-btn>
 
       <!-- Edit FAB -->
@@ -411,6 +438,27 @@ watchEffect(() => {
   padding: 2rem 1rem;
 }
 
+.connect-under-about {
+  margin: -0.75rem 0 2rem;
+}
+
+.connect-near-share {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding: 1.25rem 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  margin-bottom: 0.5rem;
+}
+
+.connect-near-share-label {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: rgba(0, 0, 0, 0.7);
+  white-space: nowrap;
+}
+
 .floating-back-btn {
   position: fixed;
   bottom: 2rem;
@@ -420,7 +468,7 @@ watchEffect(() => {
 
 .floating-connect-btn {
   position: fixed;
-  bottom: 9rem;
+  bottom: 12rem;
   right: 2rem;
   z-index: 100;
 }
@@ -443,7 +491,7 @@ watchEffect(() => {
   }
 
   .floating-connect-btn {
-    bottom: 8rem;
+    bottom: 10.5rem;
     right: 1rem;
   }
 
