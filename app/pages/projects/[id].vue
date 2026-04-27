@@ -92,6 +92,19 @@
         <v-icon>mdi-arrow-left</v-icon>
       </v-btn>
 
+      <!-- Connect FAB -->
+      <v-btn
+        class="floating-connect-btn"
+        color="success"
+        icon
+        size="large"
+        elevation="8"
+        title="Connect with this initiative"
+        @click="connectDrawerOpen = true"
+      >
+        <v-icon>mdi-handshake</v-icon>
+      </v-btn>
+
       <!-- Edit FAB -->
       <v-btn
         class="floating-edit-btn"
@@ -104,6 +117,15 @@
       >
         <v-icon>mdi-pencil</v-icon>
       </v-btn>
+
+      <!-- Connect Drawer -->
+      <ProjectConnectDrawer
+        :is-open="connectDrawerOpen"
+        :project="project"
+        :localized-name="localizedName"
+        :page-url="currentUrl"
+        @close="connectDrawerOpen = false"
+      />
 
       <!-- Edit Drawer -->
       <ProjectEditDrawer
@@ -148,6 +170,7 @@ const { isTranslated: checkIsTranslated } = useMultilingual()
 // State for toggling between current locale and original language
 const showOriginal = ref(false)
 const editDrawerOpen = ref(false)
+const connectDrawerOpen = ref(false)
 
 const projectSlug = computed(() => route.params.id as string)
 
@@ -395,6 +418,13 @@ watchEffect(() => {
   z-index: 100;
 }
 
+.floating-connect-btn {
+  position: fixed;
+  bottom: 9rem;
+  right: 2rem;
+  z-index: 100;
+}
+
 .floating-edit-btn {
   position: fixed;
   bottom: 5.5rem;
@@ -410,6 +440,11 @@ watchEffect(() => {
   .floating-back-btn {
     bottom: 1rem;
     left: 1rem;
+  }
+
+  .floating-connect-btn {
+    bottom: 8rem;
+    right: 1rem;
   }
 
   .floating-edit-btn {
