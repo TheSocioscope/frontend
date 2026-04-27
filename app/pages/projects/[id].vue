@@ -26,7 +26,6 @@
         :localized-name="localizedName"
         :show-original="showOriginal"
         :show-disclaimer="showDisclaimer"
-        @connect="connectDrawerOpen = true"
       />
 
       <!-- Under Construction Banner -->
@@ -117,19 +116,6 @@
         elevation="8"
       >
         <v-icon>mdi-arrow-left</v-icon>
-      </v-btn>
-
-      <!-- Connect FAB -->
-      <v-btn
-        class="floating-connect-btn"
-        color="success"
-        icon
-        size="large"
-        elevation="8"
-        title="Connect with this initiative"
-        @click="connectDrawerOpen = true"
-      >
-        <v-icon>mdi-human-greeting-proximity</v-icon>
       </v-btn>
 
       <!-- Edit FAB -->
@@ -466,13 +452,6 @@ watchEffect(() => {
   z-index: 100;
 }
 
-.floating-connect-btn {
-  position: fixed;
-  bottom: 12rem;
-  right: 2rem;
-  z-index: 100;
-}
-
 .floating-edit-btn {
   position: fixed;
   bottom: 5.5rem;
@@ -488,11 +467,6 @@ watchEffect(() => {
   .floating-back-btn {
     bottom: 1rem;
     left: 1rem;
-  }
-
-  .floating-connect-btn {
-    bottom: 10.5rem;
-    right: 1rem;
   }
 
   .floating-edit-btn {

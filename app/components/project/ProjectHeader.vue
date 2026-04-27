@@ -67,8 +67,8 @@
             </span>
           </div>
 
-          <div class="social-links">
-            <a v-if="project.url" :href="project.url" target="_blank" class="social-link" title="Visit website">
+          <div v-if="project.url || project.contact" class="social-links">
+            <a v-if="project.url" :href="project.url" target="_blank" class="social-link">
               <v-icon>mdi-web</v-icon>
             </a>
 
@@ -77,14 +77,9 @@
               :href="project.contact.contact_url"
               target="_blank"
               class="social-link"
-              title="Email"
             >
               <v-icon>mdi-email</v-icon>
             </a>
-
-            <button class="social-link connect-link" title="Connect with this initiative" @click="$emit('connect')">
-              <v-icon>mdi-human-greeting-proximity</v-icon>
-            </button>
           </div>
         </div>
       </div>
@@ -102,7 +97,6 @@ const props = defineProps<{
 
 defineEmits<{
   'toggle-language': []
-  'connect': []
 }>()
 
 const { t: $t } = useI18n()
@@ -198,14 +192,6 @@ const { getContinentLabel, getCountryLabel } = useProjectMappings()
   }
 }
 
-.connect-link {
-  background: none;
-  border: none;
-  cursor: pointer;
-  padding: 0;
-  display: inline-flex;
-  align-items: center;
-}
 
 @media (max-width: 768px) {
   .header-content {
