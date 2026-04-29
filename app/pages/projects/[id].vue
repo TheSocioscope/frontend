@@ -55,7 +55,7 @@
             size="large"
             @click="connectDrawerOpen = true"
           >
-            Connect with this initiative
+            {{ $t('common.connectButton') }}
           </v-btn>
         </div>
 
@@ -91,14 +91,14 @@
 
         <!-- Connect row near Share -->
         <div class="connect-near-share">
-          <span class="connect-near-share-label">Interested in this initiative?</span>
+          <span class="connect-near-share-label">{{ $t('common.interestedLabel') }}</span>
           <v-btn
             color="success"
             variant="outlined"
             prepend-icon="mdi-human-greeting-proximity"
             @click="connectDrawerOpen = true"
           >
-            Connect with this initiative
+            {{ $t('common.connectButton') }}
           </v-btn>
         </div>
 
