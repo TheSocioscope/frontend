@@ -1,9 +1,11 @@
 <template>
   <section class="section cta-section">
     <div class="container">
-      <div class="cta-content">
-        <h2>{{ $t('products.cta.title') }}</h2>
-        <p>{{ $t('products.cta.description') }}</p>
+      <div class="cta-row section-reveal">
+        <div class="cta-text">
+          <h2>{{ $t('products.cta.title') }}</h2>
+          <p>{{ $t('products.cta.description') }}</p>
+        </div>
         <div class="btn-group">
           <v-btn
             :to="localePath('/about')"
@@ -29,12 +31,11 @@ const localePath = useLocalePath()
 
 .cta-section {
   background: $warm-beige;
-  text-align: center;
   border-top: 3px solid $green-bright;
-  padding: 5rem 0;
+  padding: 2.5rem 0;
 
   @media (max-width: 768px) {
-    padding: 4rem 0;
+    padding: 2rem 0;
   }
 }
 
@@ -42,41 +43,56 @@ const localePath = useLocalePath()
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
+
+  @media (max-width: 768px) {
+    padding: 0 1rem;
+  }
 }
 
-.cta-content {
-  max-width: 700px;
-  margin: 0 auto;
+.cta-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: center;
 
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+}
+
+.cta-text {
   h2 {
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
+    font-size: 1.875rem;
+    margin: 0 0 0.5rem;
     font-family: $font-family-display;
     font-weight: $font-weight-bold;
     color: $brown-dark;
+    line-height: 1.2;
 
     @media (max-width: 768px) {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
   }
 
   p {
-    font-size: 1.2rem;
-    margin-bottom: 2.5rem;
-    line-height: 1.7;
+    font-size: 1rem;
+    line-height: 1.55;
     font-family: $font-family-display;
     color: $brown-dark;
+    opacity: 0.85;
+    margin: 0;
   }
 }
 
 .btn-group {
   display: flex;
-  gap: 1.5rem;
-  justify-content: center;
+  gap: 0.75rem;
   flex-wrap: wrap;
+  justify-content: flex-end;
 
   @media (max-width: 768px) {
-    flex-direction: column;
+    justify-content: stretch;
   }
 }
 

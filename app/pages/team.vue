@@ -146,56 +146,43 @@
       />
     </TeamSection>
 
-    <!-- Institutional Partners -->
+    <!-- Partner sections — Institutional · Design & Legal · Data Collection.
+         Logo on top (real logo file → site favicon → monogram fallback), then
+         the partner name, country and role below. -->
     <TeamSection
-      v-if="institutionalPartners"
-      :title="$t('team.categories.institutionalPartners.title')"
-      :description="$t('team.categories.institutionalPartners.description')"
+      v-for="(group, gi) in partnerGroups"
+      :key="group.key"
+      :title="$t(group.titleKey)"
+      :description="$t(group.descKey)"
+      :beige="gi % 2 === 1"
     >
-      <div
-        v-for="partner in institutionalPartners?.partners || []"
+      <component
+        :is="partner.website ? 'a' : 'div'"
+        v-for="partner in group.partners"
         :key="partner.name"
         class="partner-card"
+        :href="partner.website || undefined"
+        :target="partner.website ? '_blank' : undefined"
+        :rel="partner.website ? 'noopener noreferrer' : undefined"
       >
-        <h3>{{ partner.name }}</h3>
-        <p class="partner-country">{{ partner.country }}</p>
-        <p class="partner-role">{{ partner.role }}</p>
-      </div>
-    </TeamSection>
-
-    <!-- Design and Legal Partners -->
-    <TeamSection
-      v-if="designLegalPartners"
-      :title="$t('team.categories.designLegalPartners.title')"
-      :description="$t('team.categories.designLegalPartners.description')"
-      beige
-    >
-      <div
-        v-for="partner in designLegalPartners?.partners || []"
-        :key="partner.name"
-        class="partner-card"
-      >
-        <h3>{{ partner.name }}</h3>
-        <p class="partner-country">{{ partner.country }}</p>
-        <p class="partner-role">{{ partner.role }}</p>
-      </div>
-    </TeamSection>
-
-    <!-- Data Collection Partners -->
-    <TeamSection
-      v-if="dataCollectionPartners"
-      :title="$t('team.categories.dataCollectionPartners.title')"
-      :description="$t('team.categories.dataCollectionPartners.description')"
-    >
-      <div
-        v-for="partner in dataCollectionPartners?.partners || []"
-        :key="partner.name"
-        class="partner-card"
-      >
-        <h3>{{ partner.name }}</h3>
-        <p class="partner-country">{{ partner.country }}</p>
-        <p class="partner-role">{{ partner.role }}</p>
-      </div>
+        <div v-if="partnerLogo(partner)" class="partner-logo">
+          <img
+            :src="partnerLogo(partner)"
+            :alt="partner.name"
+            class="partner-logo-img"
+            loading="lazy"
+            @error="onLogoError(partner.name)"
+          />
+        </div>
+        <div v-else class="partner-logo partner-logo--monogram" aria-hidden="true">
+          {{ partnerMonogram(partner.name) }}
+        </div>
+        <div class="partner-content">
+          <h3 class="partner-name">{{ partner.name }}</h3>
+          <span v-if="partner.role" class="partner-role">{{ partner.role }}</span>
+          <p class="partner-country">{{ partner.country }}</p>
+        </div>
+      </component>
     </TeamSection>
 
     <!-- Global Interviewer Network -->
@@ -309,6 +296,87 @@ const dataCollectionPartners = computed(() =>
   ) ?? null
 )
 
+// The three partner sections, in display order. Empty groups are dropped so
+// the beige/cream alternation (gi % 2) stays predictable.
+const partnerGroups = computed(() =>
+  [
+    {
+      key: 'institutional',
+      titleKey: 'team.categories.institutionalPartners.title',
+      descKey: 'team.categories.institutionalPartners.description',
+      partners: institutionalPartners.value?.partners
+    },
+    {
+      key: 'design-legal',
+      titleKey: 'team.categories.designLegalPartners.title',
+      descKey: 'team.categories.designLegalPartners.description',
+      partners: designLegalPartners.value?.partners
+    },
+    {
+      key: 'data-collection',
+      titleKey: 'team.categories.dataCollectionPartners.title',
+      descKey: 'team.categories.dataCollectionPartners.description',
+      partners: dataCollectionPartners.value?.partners
+    }
+  ]
+    .filter((g) => Array.isArray(g.partners) && g.partners.length > 0)
+    .map((g) => ({ ...g, partners: g.partners as any[] }))
+)
+
+// Partner logo, best → fallback:
+//   0. the `logo:` from the entry — either a local file in /public or an
+//      absolute URL to the org's own logo (set per-partner where we could find
+//      one); failing that, the largest icon icon.horse has for the domain
+//   1. the Google favicon for that domain (lower res, always available)
+//   2. nothing → the component shows a monogram instead
+// A couple of domains only return a generic placeholder from icon.horse and
+// have no logo on file — denylist those so they go straight to a clean
+// monogram. `logoStage` bumps a card down a step on image error.
+const LOGO_DENYLIST = new Set(['habitusinsight.com', 'hijink.co', '1labconsulting.com'])
+const logoStage = reactive<Record<string, number>>({})
+const onLogoError = (name: string) => {
+  logoStage[name] = (logoStage[name] ?? 0) + 1
+}
+
+const resolveLogo = (logo: string): string =>
+  /^https?:\/\//i.test(logo) ? logo : resolveImagePath(logo)
+
+const partnerLogo = (p: { name: string; logo?: string; website?: string }): string => {
+  const stage = logoStage[p.name] ?? 0
+  if (p.logo) return stage === 0 ? resolveLogo(p.logo) : ''
+  if (!p.website) return ''
+  let host: string
+  try {
+    host = new URL(p.website).hostname.replace(/^www\./, '')
+  } catch {
+    return ''
+  }
+  if (LOGO_DENYLIST.has(host)) return ''
+  if (stage === 0) return `https://icon.horse/icon/${host}`
+  if (stage === 1) return `https://www.google.com/s2/favicons?domain=${host}&sz=256`
+  return ''
+}
+
+const partnerMonogram = (name: string): string => {
+  const acronym = name.match(/\(([A-Za-z0-9][A-Za-z0-9.\-&]{1,7})\)/)
+  if (acronym) return acronym[1].replace(/[^A-Za-z0-9]/g, '').toUpperCase().slice(0, 5)
+  const stop = new Set([
+    'the', 'of', 'and', 'de', 'in', 'a', 'an', 'for',
+    'ltd', 'inc', 'llc', 'co', 'gmbh', 'sas'
+  ])
+  const words = name
+    .replace(/[(),]/g, ' ')
+    .split(/\s+/)
+    .filter((w) => w && !stop.has(w.toLowerCase()))
+  if (!words.length) return name.replace(/[^A-Za-z0-9]/g, '').slice(0, 2).toUpperCase() || '•'
+  const first = words[0]!
+  if (/[A-Z]/.test(first) && /^[A-Z0-9][A-Z0-9.\-&]+$/.test(first)) {
+    return first.replace(/[^A-Za-z0-9]/g, '').toUpperCase().slice(0, 4)
+  }
+  if (words.length === 1) return first.toUpperCase().slice(0, 2)
+  return (first[0]! + words[1]![0]!).toUpperCase()
+}
+
 const { data: allInterviewers } = await useAsyncData('all-interviewers', () =>
   queryCollection('interviewers').all(),
   { default: () => [] }
@@ -348,23 +416,65 @@ const filteredGlobalInterviewers = computed(() => {
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
 
+/* No card frame — just the logo, then the name, tag and location stacked
+   beneath it. The whole thing links to the partner's site when one is on file. */
 .partner-card {
-  background: white;
-  padding: 2rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-  transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.25s ease;
 
   &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+    transform: translateY(-3px);
   }
 
-  h3 {
-    color: $brown-dark;
-    font-size: 1.25rem;
-    margin-bottom: 0.75rem;
-    font-weight: 600;
+  &:focus-visible {
+    outline: 2px solid $green-dark;
+    outline-offset: 4px;
   }
+}
+
+/* The logo only — no box, border, background or padding. It's sized to fill a
+   square slot so the cards line up, with object-fit keeping it undistorted. */
+.partner-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1;
+}
+
+.partner-logo-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.partner-logo--monogram {
+  color: $green-forest;
+  font-family: $font-family-display;
+  font-size: clamp(2rem, 5vw, 2.75rem);
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.partner-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.4rem;
+  padding: 0.875rem 0.25rem 0;
+}
+
+.partner-name {
+  margin: 0;
+  font-family: $font-family-base;
+  font-size: 1.0625rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: $brown-dark;
 }
 
 .interviewer-card {
@@ -422,9 +532,11 @@ const filteredGlobalInterviewers = computed(() => {
 }
 
 .partner-country {
-  color: #666;
-  font-size: 0.95rem;
-  margin-bottom: 0.5rem;
+  margin: 0;
+  font-size: 0.8125rem;
+  line-height: 1.4;
+  color: $brown-dark;
+  opacity: 0.7;
 }
 
 .interviewer-country {
@@ -433,9 +545,16 @@ const filteredGlobalInterviewers = computed(() => {
 }
 
 .partner-role {
-  color: $green-bright;
+  display: inline-block;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: rgba(76, 160, 73, 0.1);
+  color: $green-forest;
+  font-family: $font-family-base;
+  font-size: 0.6875rem;
   font-weight: 600;
-  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
 .search-box {
@@ -451,7 +570,7 @@ const filteredGlobalInterviewers = computed(() => {
   border-radius: 0;
   background: white;
   font-size: 1rem;
-  font-family: Arial, sans-serif;
+  font-family: $font-family-base;
   transition: border-color 0.3s;
 
   &:focus {

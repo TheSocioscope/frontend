@@ -5,6 +5,7 @@
       :subtitle="$t('contact.hero.subtitle')"
       icon="mdi-email-outline"
       compact
+      centered
     />
 
     <section class="section">

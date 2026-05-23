@@ -1,30 +1,85 @@
-// Color palette based on the reference design
-$cream: #fffbf0;
-$cream-lightest: #f5edd6;
-$cream-light: #f5edd6;
-$cream-medium: #a68968;
-$cream-dark: #e5d9c1;
-$warm-beige: #f5edd6;
-$brown-dark: #2c2416;
-$brown-medium: #5c4a2f;
-$brown-light: #8b6f47;
+// =============================================================
+// Color system — green + earth (food-and-society theme)
+// Structural color is earth-tinted brown; action color is green;
+// warm accent is saffron. See owidPatterns.md for the rationale.
+// =============================================================
 
-$green-light: #fffbf0;
+// --- FOUNDATION: earth-tinted neutral scale -----------------
+// Use these for ALL text, borders, surfaces. Never raw black/gray.
+$earth-95: #1f1a10; // headlines (almost-black, warm)
+$earth-90: #2c2416; // primary text  (= legacy $brown-dark)
+$earth-80: #3f352a; // strong text on cream
+$earth-70: #5c4a2f; // secondary text  (= legacy $brown-medium)
+$earth-60: #6f5b3c;
+$earth-50: #8b6f47; // captions, metadata  (= legacy $brown-light)
+$earth-40: #a68968; // disabled  (= legacy $cream-medium)
+$earth-30: #c8b68a; // strong borders, dividers
+$earth-20: #d6c9a1;
+$earth-15: #e5d9c1; // soft borders  (= legacy $cream-dark)
+$earth-10: #f0e7cf; // subtle background tint
+$earth-5: #f5edd6; // surface, sidebar bg  (= legacy $warm-beige)
+$earth-2: #fffbf0; // page background  (= legacy $cream)
+
+// Semantic aliases — prefer these over numeric stops in components
+$text-primary: $earth-90;
+$text-secondary: $earth-70;
+$text-caption: $earth-50;
+$text-disabled: $earth-40;
+$border-strong: $earth-30;
+$border-soft: $earth-15;
+$surface-page: $earth-2;
+$surface-card: white;
+$surface-rest: $earth-5;
+
+// --- ACTION: green layer (use sparingly) --------------------
+// Bright green should appear on a page fewer than 5 times.
+$green-leaf: #4ca049; // primary action  (= legacy $green-bright)
+$green-leaf-dark: #3a8c3a; // primary hover
+$green-forest: #27421d; // strong, headings, dark accents  (= legacy $green-dark)
+$green-olive: #6b8e23; // secondary action
+$green-sage: #8fbc8f; // tertiary / soft hover  (= legacy $green-light-olive)
+
+// --- ACCENT: saffron + clay (warm punctuation) --------------
+$saffron: #d49b3a; // harvest gold; callouts, badges, "important but not action"
+$saffron-pale: #f7e9c4; // callout backgrounds
+$saffron-dark: #a87420; // saffron text on cream
+$clay: #b8552a; // alert / external / urgent (sparingly)
+$clay-pale: #f5dcc8;
+
+// --- LEGACY ALIASES -----------------------------------------
+// Existing components reference these names. Keep until the audit
+// migrates them. New components should NOT use these.
+$cream: $earth-2;
+$cream-lightest: $earth-5;
+$cream-light: $earth-5;
+$cream-medium: $earth-40;
+$cream-dark: $earth-15;
+$warm-beige: $earth-5;
+$brown-dark: $earth-90;
+$brown-medium: $earth-70;
+$brown-light: $earth-50;
+
+$green-light: $earth-2;
 $green-medium: #4caf50;
-$green-bright: #4ca049;
-$green-olive: #6b8e23;
-$green-light-olive: #8fbc8f;
-$green-dark: #27421d;
-$forest-green: #27421d;
+$green-bright: $green-leaf;
+$green-light-olive: $green-sage;
+$green-dark: $green-forest;
+$forest-green: $green-forest;
 
-$background-cream: #fffbf0;
-$surface-cream: #fffbf0;
-$border-cream: #e5d9c1;
+$background-cream: $earth-2;
+$surface-cream: $earth-2;
+$border-cream: $earth-15;
 
-// Typography - Arial
-$font-family-base: Arial, sans-serif;
-$font-family-display: Arial, sans-serif;
-$font-family-serif: Arial, sans-serif;
+// =============================================================
+// Typography — Lato (sans) + Playfair Display (serif)
+// Lato carries body, controls, captions, navigation.
+// Playfair carries display sizes and most headings (h1–h3).
+// font-feature-settings is applied on body in main.scss.
+// =============================================================
+$font-family-base: Lato, 'Helvetica Neue', Helvetica, Arial, 'Liberation Sans', sans-serif;
+$font-family-display: 'Playfair Display', Georgia, 'Times New Roman', 'Liberation Serif', serif;
+$font-family-serif: 'Playfair Display', Georgia, 'Times New Roman', 'Liberation Serif', serif;
+$font-family-mono: Menlo, 'Courier New', Courier, monospace;
 $font-weight-light: 300;
 $font-weight-regular: 400;
 $font-weight-medium: 500;
@@ -70,8 +125,50 @@ $z-dropdown: 1000;
 $z-modal: 2000;
 
 // Breakpoints (Vuetify defaults, for reference)
+// NOTE: $breakpoint-* values are reserved for legacy components.
+// New project-detail components must use $detail-bp-* below.
 $breakpoint-xs: 0;
 $breakpoint-sm: 600px;
 $breakpoint-md: 960px;
 $breakpoint-lg: 1280px;
 $breakpoint-xl: 1920px;
+
+// =============================================================
+// Project detail page redesign (layout.md) — design tokens
+// New project-detail components read ONLY from these tokens.
+// =============================================================
+
+// Layout container
+$container-max-detail: 1280px;
+$gutter-desktop: 24px;
+$gutter-mobile: 16px;
+
+// 8px vertical rhythm — the only allowed spacing values in new components
+$rhythm-1: 8px;
+$rhythm-2: 16px;
+$rhythm-3: 24px;
+$rhythm-4: 32px;
+$rhythm-6: 48px;
+$rhythm-8: 64px;
+$rhythm-12: 96px;
+
+// Sticky offsets
+// NOTE: $sticky-site-header reflects the CURRENT AppNavigation height (~108px,
+// 60px logo + 1.5rem vertical padding). Per the homeLayout.md slim-header
+// phase this should drop to 64px once that ships.
+$sticky-site-header: 108px;
+$sticky-breadcrumb: 40px;
+$sticky-section-nav: 48px;
+$sticky-sidebar-top: $sticky-site-header + $rhythm-2; // 124px
+
+// Detail-page breakpoints
+$detail-bp-tablet: 768px;
+$detail-bp-desktop: 1024px;
+
+// Logo sizes
+$logo-desktop: 80px;
+$logo-tablet: 64px;
+$logo-mobile: 48px;
+
+// Sidebar width
+$sidebar-width: 320px;

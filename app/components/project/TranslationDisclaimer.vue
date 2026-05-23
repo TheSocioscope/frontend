@@ -75,7 +75,7 @@ const displayMessage = computed(() => {
 .disclaimer-text {
   flex: 1;
   min-width: 200px;
-  font-family: 'Playfair Display', serif;
+  font-family: $font-family-display;
   color: $brown-dark;
   line-height: 1.6;
 }
@@ -85,7 +85,7 @@ const displayMessage = computed(() => {
   border: 2px solid $green-bright;
   background-color: transparent;
   color: $brown-dark;
-  font-family: 'Playfair Display', serif;
+  font-family: $font-family-display;
   font-size: 0.95rem;
   font-weight: 600;
   cursor: pointer;

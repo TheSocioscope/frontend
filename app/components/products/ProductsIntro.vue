@@ -13,28 +13,34 @@ const { t: $t } = useI18n()
 @use '../../../assets/styles/variables' as *;
 
 .intro-section {
-  max-width: 800px;
-  margin: 0 auto 4rem;
+  max-width: 760px;
+  margin: 0 auto 1.75rem;
   text-align: center;
 
   h2 {
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    margin: 0 0 0.75rem;
     font-family: $font-family-display;
     font-weight: $font-weight-bold;
     color: $brown-dark;
+    line-height: 1.15;
 
     @media (max-width: 768px) {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
   }
 
   p {
-    font-size: 1.15rem;
-    line-height: 1.8;
-    opacity: 0.85;
+    font-size: 1rem;
+    line-height: 1.65;
+    opacity: 0.8;
     font-family: $font-family-display;
     color: $brown-dark;
+    margin: 0;
+
+    @media (max-width: 768px) {
+      font-size: 0.9375rem;
+    }
   }
 }
 </style>

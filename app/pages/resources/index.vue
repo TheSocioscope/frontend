@@ -5,11 +5,14 @@
       :subtitle="$t('resources.hero.subtitle')"
       icon="mdi-bookshelf"
       compact
+      centered
     >
       <template #cta>
         <div class="hero-cta">
-          <a href="mailto:info@thesocioscope.org" class="btn btn-secondary">
-            {{ $t('resources.hero.submitCta') }}
+          <a href="mailto:info@thesocioscope.org" class="submit-cta">
+            <v-icon size="small">mdi-plus-circle-outline</v-icon>
+            <span>{{ $t('resources.hero.submitCta') }}</span>
+            <v-icon size="small" class="cta-arrow">mdi-arrow-right</v-icon>
           </a>
         </div>
       </template>
@@ -44,6 +47,7 @@
           :resources="items || []"
           :active-filter="activeFilter"
           :search-query="searchQuery"
+          class="section-reveal"
         />
 
         <!-- Mobile: Lazy Loading Grid -->
@@ -52,6 +56,7 @@
           :resources="displayedItems || []"
           :active-filter="activeFilter"
           :search-query="searchQuery"
+          class="section-reveal"
         />
 
         <!-- Desktop Pagination -->
@@ -184,49 +189,62 @@ const {
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
 
+/* Hero CTA — centered, sleek pill button matching the site's arrow-chip
+   vocabulary. Centered both visually (text-align) and structurally
+   (margin: 0 auto on the link itself). */
 .hero-cta {
   display: flex;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-top: 2rem;
-}
+  justify-content: center;
+  margin-top: 1.25rem;
 
-.btn {
-  padding: 1rem 2rem;
-  font-size: 1.1rem;
-  font-weight: 600;
-  border-radius: 0;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  display: inline-block;
-  background: $green-bright;
-  color: white;
-  border: none;
-  cursor: pointer;
-
-  &:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  @media (max-width: 768px) {
+    margin-top: 1rem;
   }
 }
 
-.btn-secondary {
-  background: transparent;
+.submit-cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem 0.625rem 1.125rem;
+  background: white;
+  border: 1px solid rgba(44, 36, 22, 0.2);
+  border-radius: 999px;
   color: $brown-dark;
-  border: 2px solid $brown-dark;
+  font-family: $font-family-display;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
 
-  &:hover {
-    background: $brown-dark;
+  .cta-arrow {
+    transition: transform 0.2s ease;
+  }
+
+  &:hover,
+  &:focus-visible {
+    background: $green-bright;
     color: white;
+    border-color: $green-bright;
+    transform: translateY(-2px);
+
+    .cta-arrow {
+      transform: translateX(2px);
+    }
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-bright;
+    outline-offset: 2px;
   }
 }
 
 .section {
-  padding: 5rem 0;
+  padding: 2.5rem 0 3rem;
   background: $cream;
 
   @media (max-width: 768px) {
-    padding: 4rem 0;
+    padding: 2rem 0 2.5rem;
   }
 }
 
@@ -234,5 +252,9 @@ const {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
+
+  @media (max-width: 768px) {
+    padding: 0 1rem;
+  }
 }
 </style>

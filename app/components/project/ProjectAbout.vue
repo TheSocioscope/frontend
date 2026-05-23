@@ -1,15 +1,13 @@
 <template>
-  <v-card id="about" class="project-about">
+  <section id="about" class="project-about">
     <ProjectSectionHeader icon="mdi-information-outline">
       {{ $t('projects.detail.about') }}
     </ProjectSectionHeader>
-    <v-card-text>
-      <p v-if="project.entityDescription" class="entity-summary">
-        {{ project.entityDescription }}
-      </p>
-      <div class="description-content" v-html="localizedDescription" />
-    </v-card-text>
-  </v-card>
+    <p v-if="project.entityDescription" class="entity-summary">
+      {{ project.entityDescription }}
+    </p>
+    <div class="description-content" v-html="localizedDescription" />
+  </section>
 </template>
 
 <script setup lang="ts">
@@ -22,59 +20,58 @@ const { t: $t } = useI18n()
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .project-about {
-  margin-bottom: 2rem;
+  margin-bottom: $rhythm-6;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    margin-bottom: $rhythm-3;
+  }
 }
 
 .entity-summary {
   font-size: 1.15rem;
   font-weight: 600;
-  color: #27421d;
+  color: $green-dark;
   line-height: 1.6;
-  margin-bottom: 1.25rem;
-  padding-bottom: 1rem;
-  border-bottom: 2px solid #4ca04933;
+  margin: 0 0 $rhythm-2;
+  padding-bottom: $rhythm-2;
+  border-bottom: 2px solid rgba(76, 160, 73, 0.2);
+
+  /* Tighter sizing on mobile — this is now the only place the entity
+     description shows on phone (page header drops it). */
+  @media (max-width: $detail-bp-tablet - 1) {
+    font-size: 1rem;
+    line-height: 1.45;
+    padding-bottom: $rhythm-1;
+    margin-bottom: $rhythm-2;
+  }
 }
 
 .description-content {
-  font-size: 1.1rem;
-  line-height: 1.8;
-  color: rgba(0, 0, 0, 0.87);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: $text-primary;
 
   :deep(p) {
-    margin-bottom: 1rem;
+    margin-bottom: $rhythm-2;
   }
 
   :deep(ul),
   :deep(ol) {
-    margin-left: 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-
-.contact-info {
-  margin-top: 1rem;
-}
-
-.contact-title {
-  font-size: 1.2rem;
-  font-weight: 600;
-  margin-bottom: 1rem;
-  color: rgba(0, 0, 0, 0.87);
-}
-
-.contact-details {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-
-  div {
-    font-size: 1rem;
+    margin-left: $rhythm-3;
+    margin-bottom: $rhythm-2;
   }
 
-  strong {
-    color: rgba(0, 0, 0, 0.87);
-    margin-right: 0.5rem;
+  @media (max-width: $detail-bp-tablet - 1) {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+
+    :deep(p) {
+      margin-bottom: 8px;
+    }
   }
 }
 </style>
