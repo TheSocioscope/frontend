@@ -1,9 +1,11 @@
 <template>
   <section class="section cta-section">
     <v-container>
-      <div class="cta-content">
-        <h2>{{ $t('about.cta.title') }}</h2>
-        <p>{{ $t('about.cta.description') }}</p>
+      <div class="cta-row section-reveal">
+        <div class="cta-text">
+          <h2>{{ $t('about.cta.title') }}</h2>
+          <p>{{ $t('about.cta.description') }}</p>
+        </div>
         <div class="btn-group">
           <v-btn :to="localePath('/projects')" class="btn-primary" size="large" elevation="0">
             {{ $t('nav.projects') }}
@@ -35,47 +37,58 @@ const localePath = useLocalePath()
   background: $warm-beige;
   color: $brown-dark;
   border-top: 3px solid $green-bright;
-  padding: 5rem 0;
+  padding: 2.5rem 0;
 
   @media (max-width: 768px) {
-    padding: 4rem 0;
+    padding: 2rem 0;
   }
 }
 
-.cta-content {
-  text-align: center;
-  max-width: 700px;
-  margin: 0 auto;
+.cta-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2rem;
+  align-items: center;
 
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+    text-align: center;
+  }
+}
+
+.cta-text {
   h2 {
-    font-size: 2.5rem;
-    margin-bottom: 1.5rem;
+    font-size: 1.875rem;
+    margin: 0 0 0.5rem;
     color: $brown-dark;
     font-family: $font-family-display;
     font-weight: $font-weight-bold;
+    line-height: 1.2;
 
     @media (max-width: 768px) {
-      font-size: 2rem;
+      font-size: 1.5rem;
     }
   }
 
   p {
-    font-size: 1.2rem;
-    margin-bottom: 2.5rem;
+    font-size: 1rem;
+    margin: 0;
     color: $brown-dark;
-    line-height: 1.7;
+    line-height: 1.55;
     font-family: $font-family-display;
+    opacity: 0.85;
   }
 }
 
 .btn-group {
   display: flex;
-  gap: 1.5rem;
-  justify-content: center;
+  gap: 0.75rem;
   flex-wrap: wrap;
+  justify-content: flex-end;
 
   @media (max-width: 768px) {
-    flex-direction: column;
+    justify-content: stretch;
   }
 }
 

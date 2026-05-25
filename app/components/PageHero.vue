@@ -1,5 +1,8 @@
 <template>
-  <section class="hero-section" :class="{ 'hero-section--compact': compact }">
+  <section
+    class="hero-section"
+    :class="{ 'hero-section--compact': compact, 'hero-section--centered': centered }"
+  >
     <div class="container">
       <div class="hero-content">
         <div class="hero-text">
@@ -33,6 +36,8 @@ defineProps<{
   subtitle: string
   icon?: string
   compact?: boolean
+  /** Single-column hero: title/subtitle centered, animation sits behind the text. */
+  centered?: boolean
 }>()
 </script>
 
@@ -200,6 +205,50 @@ defineProps<{
     width: 4rem !important;
     height: 4rem !important;
   }
+}
+
+/* Centered variant — single column, title/subtitle centered, animation sits behind the text */
+.hero-section--centered .hero-content {
+  grid-template-columns: 1fr;
+  position: relative;
+}
+
+.hero-section--centered .hero-text {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  padding: 4rem 1.5rem;
+
+  @media (max-width: 768px) {
+    padding: 3rem 1rem;
+  }
+}
+
+.hero-section--centered.hero-section--compact .hero-text {
+  padding: 2.5rem 1.5rem;
+
+  @media (max-width: 768px) {
+    padding: 2rem 1rem;
+  }
+}
+
+.hero-section--centered .hero-image,
+.hero-section--centered.hero-section--compact .hero-image {
+  position: absolute;
+  inset: 0;
+  min-height: 0;
+  z-index: 0;
+  background: transparent;
+}
+
+.hero-section--centered .hero-animation {
+  background: transparent;
+}
+
+.hero-section--centered .hero-icon {
+  opacity: 0.18;
 }
 
 @keyframes float {

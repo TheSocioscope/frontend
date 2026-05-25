@@ -92,6 +92,13 @@ export default defineNuxtConfig({
     baseURL: process.env.NODE_ENV === 'production' ? 'https://thesocioscope.org' : ''
   },
 
+  // Runtime config — feature flags
+  runtimeConfig: {
+    public: {
+      detailV2: true
+    }
+  },
+
   // App configuration
   app: {
     baseURL: '/',
@@ -111,6 +118,15 @@ export default defineNuxtConfig({
           rel: 'icon',
           type: 'image/x-icon',
           href: '/favicon.ico'
+        },
+        // Google Fonts — Lato + Playfair Display.
+        // Direct link because @nuxt/fonts' Google provider currently throws
+        // "provider.resolveFontFaces is not a function" in this version.
+        { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
+        { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' },
+        {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap'
         }
       ]
     },
@@ -123,6 +139,19 @@ export default defineNuxtConfig({
     prerender: {
       concurrency: 10,
       interval: 50
+    },
+    watchOptions: {
+      ignored: ['**/public/data/**']
+    }
+  },
+
+  watch: ['!public/data/**'],
+
+  vite: {
+    server: {
+      watch: {
+        ignored: ['**/public/data/**']
+      }
     }
   },
 

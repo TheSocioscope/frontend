@@ -336,12 +336,13 @@ onBeforeUnmount(() => {
 @use '~~/assets/styles/variables' as *;
 
 .hero {
-  padding: 8rem 0 6rem;
+  padding: 6rem 0 4rem;
   background: radial-gradient(ellipse at 50% 30%, $cream 0%, $warm-beige 50%, $cream-dark 100%);
   position: relative;
   overflow: hidden;
-  // 96% of viewport height minus navigation bar height (typically 80px)
-  min-height: calc(97.4vh - 80px);
+  /* Trim from full-viewport to ~78vh so the stats counter peeks above
+     the fold — gives the hero presence without monopolising the page. */
+  min-height: calc(78vh - 80px);
   display: flex;
   align-items: center;
   justify-content: center;

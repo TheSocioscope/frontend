@@ -35,31 +35,56 @@ const filters = [
 <style scoped lang="scss">
 @use '../../../assets/styles/variables' as *;
 
+/* Compact pill row — sleeker than the big block buttons. Centered on
+   desktop; on mobile it scrolls horizontally so the row stays one line. */
 .filter-section {
-  max-width: 800px;
-  margin: 0 auto 3rem;
+  margin: 0 auto 1.25rem;
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   justify-content: center;
   flex-wrap: wrap;
+
+  @media (max-width: 600px) {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+    padding-bottom: 0.25rem;
+    scrollbar-width: none;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+  }
 }
 
 .filter-btn {
-  padding: 0.75rem 1.75rem;
+  padding: 0.5rem 1rem;
   background: white;
-  border: 2px solid $warm-beige;
+  border: 1px solid $cream-dark;
+  border-radius: 999px;
   color: $brown-dark;
   font-family: $font-family-display;
-  font-size: 1rem;
+  font-size: 0.875rem;
   font-weight: $font-weight-semibold;
   cursor: pointer;
-  transition: all 0.3s ease;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  white-space: nowrap;
+  flex-shrink: 0;
 
-  &:hover,
+  &:hover {
+    border-color: $green-bright;
+    color: $green-bright;
+  }
+
   &.active {
     background: $green-bright;
     color: white;
     border-color: $green-bright;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-bright;
+    outline-offset: 2px;
   }
 }
 </style>

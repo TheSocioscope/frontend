@@ -1,20 +1,18 @@
 <template>
-  <v-card v-if="project.yt" class="project-video">
+  <section v-if="project.yt" id="video" class="project-video">
     <ProjectSectionHeader icon="mdi-video-outline">
       {{ $t('projects.detail.video') }}
     </ProjectSectionHeader>
-    <v-card-text>
-      <div class="video-container">
-        <iframe
-          :src="`https://www.youtube.com/embed/${project.yt}`"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-          class="video-iframe"
-        />
-      </div>
-    </v-card-text>
-  </v-card>
+    <div class="video-container">
+      <iframe
+        :src="`https://www.youtube.com/embed/${project.yt}`"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        class="video-iframe"
+      />
+    </div>
+  </section>
 </template>
 
 <script setup lang="ts">
@@ -26,13 +24,16 @@ const { t: $t } = useI18n()
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .project-video {
-  margin-bottom: 2rem;
+  margin-bottom: $rhythm-6;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
 }
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   border-radius: 8px;

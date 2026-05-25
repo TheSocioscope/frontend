@@ -1,96 +1,31 @@
 <template>
-  <div class="project-header">
+  <header id="about" class="project-header">
     <v-container>
-      <div class="header-content">
-        <div class="logo">
-          <v-img
-            v-if="project.logo"
-            :src="resolveImagePath(project.logo)"
-            :alt="localizedName"
-            cover
-          />
-          <div v-else class="logo-placeholder">🌱</div>
-        </div>
+      <h1 class="initiative-name">{{ localizedName }}</h1>
 
-        <div class="header-info">
-          <h1 class="initiative-name">{{ localizedName }}</h1>
-
-          <div v-if="project.location" class="location">
-            <v-icon size="small">mdi-map-marker</v-icon>
-            {{ project.location }}
-          </div>
-
-          <div class="tags">
-            <!--             <span v-if="project.status" class="tag">
-              <v-icon size="small">mdi-check-circle</v-icon>
-              {{ getStatusLabel(project.status) }}
-            </span> -->
-
-            <span v-for="continent in project.continent" :key="continent" class="tag">
-              <v-icon size="small">mdi-earth</v-icon>
-              {{ getContinentLabel(continent) }}
-            </span>
-
-            <span v-for="country in project.country" :key="country" class="tag">
-              <v-icon size="small">mdi-map-marker</v-icon>
-              {{ getCountryLabel(country) }}
-            </span>
-
-            <span v-for="role in project.entityRole" :key="role" class="tag">
-              <v-icon size="small">mdi-account-hard-hat</v-icon>
-              {{ role }}
-            </span>
-
-            <span v-if="project.bizModel" class="tag">
-              <v-icon size="small">mdi-domain</v-icon>
-              {{ project.bizModel }}
-            </span>
-
-            <span v-if="project.entitySize" class="tag">
-              <v-icon size="small">mdi-resize</v-icon>
-              {{ project.entitySize }}
-            </span>
-
-            <span v-if="project.geoReach" class="tag">
-              <v-icon size="small">mdi-map-search</v-icon>
-              {{ project.geoReach }}
-            </span>
-
-            <span v-for="sector in project.sectorFocus" :key="sector" class="tag">
-              <v-icon size="small">mdi-sprout</v-icon>
-              {{ sector }}
-            </span>
-
-            <span v-if="project.resourceType" class="tag">
-              <v-icon size="small">mdi-package-variant</v-icon>
-              {{ project.resourceType }}
-            </span>
-          </div>
-
-          <div v-if="project.url || project.contact" class="social-links">
-            <a v-if="project.url" :href="project.url" target="_blank" class="social-link">
-              <v-icon>mdi-web</v-icon>
-            </a>
-
-            <a
-              v-if="project.contact?.contact_url"
-              :href="project.contact.contact_url"
-              target="_blank"
-              class="social-link"
-            >
-              <v-icon>mdi-email</v-icon>
-            </a>
-          </div>
-        </div>
+      <div v-if="project.location" class="location">
+        <v-icon size="small">mdi-map-marker</v-icon>
+        <span>{{ project.location }}</span>
       </div>
+
+      <p v-if="project.entityDescription" class="entity-summary">
+        {{ project.entityDescription }}
+      </p>
+
+      <div
+        v-if="localizedDescription"
+        class="description-content"
+        v-html="localizedDescription"
+      />
     </v-container>
-  </div>
+  </header>
 </template>
 
 <script setup lang="ts">
-const props = defineProps<{
+defineProps<{
   project: any
   localizedName: string
+  localizedDescription?: string
   showOriginal: boolean
   showDisclaimer: boolean
 }>()
@@ -98,108 +33,106 @@ const props = defineProps<{
 defineEmits<{
   'toggle-language': []
 }>()
-
-const { t: $t } = useI18n()
-const { resolveImagePath } = useImagePath()
-const { getContinentLabel, getCountryLabel } = useProjectMappings()
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .project-header {
-  background-color: #f5edd6;
-  padding: 60px 0 40px;
+  background-color: $warm-beige;
+  padding: $rhythm-4;
+  border-radius: 8px;
+  margin-bottom: $rhythm-3;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
+
   :deep(.v-container) {
-    max-width: 1400px;
+    /* The header lives inside the main column of detail-grid; let the
+       column define the width and the v-container be a simple flow box. */
+    max-width: 100%;
+    padding: 0;
   }
-}
 
-.header-content {
-  display: flex;
-  align-items: flex-start;
-  gap: 30px;
-  flex-wrap: wrap;
-}
-
-.logo {
-  width: 120px;
-  height: 120px;
-  background-color: #fffbf0;
-  border-radius: 12px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border: 2px solid #4ca049;
-  flex-shrink: 0;
-  overflow: hidden;
-}
-
-.logo-placeholder {
-  font-size: 48px;
-}
-
-.header-info {
-  flex: 1;
-  min-width: 250px;
+  @media (max-width: $detail-bp-tablet - 1) {
+    padding: $rhythm-2 $rhythm-2 $rhythm-3;
+    border-radius: 0;
+    margin-left: -$gutter-mobile;
+    margin-right: -$gutter-mobile;
+    margin-bottom: $rhythm-2;
+  }
 }
 
 .initiative-name {
-  font-size: 2.5em;
+  font-size: 2.25rem;
+  line-height: 1.15;
   font-weight: 700;
-  color: #27421d;
-  margin-bottom: 10px;
+  color: $green-dark;
+  margin: 0 0 $rhythm-1;
 }
 
 .location {
-  font-size: 1.2em;
-  color: #2c2416;
-  margin-bottom: 15px;
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: $rhythm-1;
+  font-size: 1rem;
+  color: $brown-dark;
+  margin-bottom: $rhythm-3;
 }
 
-.tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin-bottom: 20px;
+.entity-summary {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: $green-dark;
+  line-height: 1.55;
+  margin: 0 0 $rhythm-2;
+  padding-bottom: $rhythm-2;
+  border-bottom: 2px solid rgba(76, 160, 73, 0.2);
 }
 
-.tag {
-  background-color: #4ca049;
-  color: #fffbf0;
-  padding: 8px 16px;
-  border-radius: 20px;
-  font-size: 0.9em;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
+.description-content {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: $text-primary;
 
-.social-links {
-  display: flex;
-  gap: 15px;
-}
+  :deep(p) {
+    margin-bottom: $rhythm-2;
+  }
 
-.social-link {
-  color: #27421d;
-  font-size: 1.5em;
-  transition: color 0.3s;
-  text-decoration: none;
+  :deep(p:last-child) {
+    margin-bottom: 0;
+  }
 
-  &:hover {
-    color: #4ca049;
+  :deep(ul),
+  :deep(ol) {
+    margin-left: $rhythm-3;
+    margin-bottom: $rhythm-2;
   }
 }
 
-
-@media (max-width: 768px) {
-  .header-content {
-    flex-direction: column;
-  }
-
+@media (max-width: $detail-bp-tablet - 1) {
   .initiative-name {
-    font-size: 1.8em;
+    font-size: 1.4rem;
+    line-height: 1.2;
+  }
+
+  .location {
+    font-size: 0.875rem;
+    margin-bottom: $rhythm-2;
+  }
+
+  .entity-summary {
+    font-size: 1rem;
+    line-height: 1.45;
+    padding-bottom: $rhythm-1;
+    margin-bottom: $rhythm-2;
+  }
+
+  .description-content {
+    font-size: 0.9375rem;
+    line-height: 1.6;
+
+    :deep(p) {
+      margin-bottom: 8px;
+    }
   }
 }
 </style>

@@ -20,116 +20,103 @@
 
     <!-- Project content -->
     <div v-else-if="project" class="project-container">
-      <!-- Header Component -->
-      <ProjectHeader
-        :project="project"
+      <!-- Breadcrumb (Phase 2) -->
+      <ProjectBreadcrumb
+        v-if="detailV2"
         :localized-name="localizedName"
-        :show-original="showOriginal"
-        :show-disclaimer="showDisclaimer"
+        :page-url="currentUrl"
+        @edit="editDrawerOpen = true"
       />
 
-      <!-- Under Construction Banner -->
-      <v-alert
-        class="construction-banner"
-        color="success"
-        variant="tonal"
-        icon="mdi-construction"
-        rounded="0"
-      >
-        {{ $t('editDrawer.underConstruction') }}
-        <a class="construction-link" href="#" @click.prevent="editDrawerOpen = true">
-          {{ $t('editDrawer.clickHere') }}
-        </a>
-      </v-alert>
+      <div class="detail-grid">
+        <main class="detail-main">
+          <!-- Header card — title + location + the entire "About" body
+               (entity-summary + description) live inside this card.
+               No separate ProjectAbout section beneath. -->
+          <ProjectHeader
+            :project="project"
+            :localized-name="localizedName"
+            :localized-description="localizedDescription"
+            :show-original="showOriginal"
+            :show-disclaimer="showDisclaimer"
+          />
 
-      <v-container class="content-container">
-        <!-- About Component -->
-        <ProjectAbout :project="project" :localized-description="localizedDescription" />
+          <!-- Primary action bar — placed AFTER About so the user reads
+               the project description first, then chooses to Connect /
+               visit Website. -->
+          <div class="action-bar" v-if="detailV2">
+            <v-btn
+              class="action-connect"
+              color="success"
+              variant="flat"
+              prepend-icon="mdi-account-plus-outline"
+              size="default"
+              density="comfortable"
+              @click="connectDrawerOpen = true"
+            >
+              {{ $t('projects.detail.connect', 'Connect') }}
+            </v-btn>
+            <v-btn
+              v-if="project.url"
+              class="action-website"
+              :href="project.url"
+              target="_blank"
+              rel="noopener noreferrer"
+              color="primary"
+              variant="outlined"
+              append-icon="mdi-open-in-new"
+              size="default"
+              density="comfortable"
+            >
+              {{ $t('projects.detail.website', 'Website') }}
+            </v-btn>
+          </div>
 
-        <!-- Connect CTA under About -->
-        <div class="connect-under-about">
-          <v-btn
-            color="success"
-            variant="tonal"
-            prepend-icon="mdi-human-greeting-proximity"
-            size="large"
-            @click="connectDrawerOpen = true"
-          >
-            {{ $t('common.connectButton') }}
-          </v-btn>
+          <!-- Video Component -->
+          <ProjectVideo v-if="project.yt" :project="project" />
+
+          <!-- Team Component -->
+          <ProjectTeam v-if="project.team && project.team.length > 0" :project="project" />
+
+          <!-- Timeline Component -->
+          <ProjectTimeline
+            v-if="localizedTimeline && localizedTimeline.length > 0"
+            :localized-timeline="localizedTimeline"
+          />
+
+          <!-- Offers Component -->
+          <ProjectOffers
+            v-if="localizedOffers && localizedOffers.length > 0"
+            :localized-offers="localizedOffers"
+          />
+
+          <!-- Looking For Component -->
+          <ProjectLookingFor
+            v-if="localizedLookingFor && localizedLookingFor.length > 0"
+            :localized-looking-for="localizedLookingFor"
+          />
+
+          <!-- Share Component (mobile fallback; hidden on desktop where sidebar carries it) -->
+          <ProjectShare class="share-mobile-fallback" :project-name="localizedName" :project-url="currentUrl" />
+        </main>
+
+        <!-- Meta sidebar + similar initiatives — right column on desktop,
+             below content on tablet/mobile. Wrapped together so they
+             stay in the same grid track. -->
+        <div class="detail-sidebar-column">
+          <ProjectMetaSidebar
+            v-if="detailV2"
+            :project="project"
+            :localized-name="localizedName"
+            :page-url="currentUrl"
+            class="detail-sidebar"
+            @connect="connectDrawerOpen = true"
+            @edit="editDrawerOpen = true"
+          />
+
+          <ProjectRelated :current-project="project" />
         </div>
-
-        <!-- Video Component -->
-        <ProjectVideo v-if="project.yt" :project="project" />
-
-        <!-- Timeline Component -->
-        <ProjectTimeline
-          v-if="localizedTimeline && localizedTimeline.length > 0"
-          :localized-timeline="localizedTimeline"
-        />
-
-        <!-- Offers Component -->
-        <ProjectOffers
-          v-if="localizedOffers && localizedOffers.length > 0"
-          :localized-offers="localizedOffers"
-        />
-
-        <!-- Looking For Component -->
-        <ProjectLookingFor
-          v-if="localizedLookingFor && localizedLookingFor.length > 0"
-          :localized-looking-for="localizedLookingFor"
-        />
-
-        <!-- Team Component -->
-        <ProjectTeam v-if="project.team && project.team.length > 0" :project="project" />
-
-        <!-- Gallery Component -->
-        <!--<ProjectGallery
-          v-if="localizedGallery && localizedGallery.length > 0"
-          :localized-gallery="localizedGallery"
-        />-->
-
-        <!-- Connect row near Share -->
-        <div class="connect-near-share">
-          <span class="connect-near-share-label">{{ $t('common.interestedLabel') }}</span>
-          <v-btn
-            color="success"
-            variant="outlined"
-            prepend-icon="mdi-human-greeting-proximity"
-            @click="connectDrawerOpen = true"
-          >
-            {{ $t('common.connectButton') }}
-          </v-btn>
-        </div>
-
-        <!-- Share Component -->
-        <ProjectShare :project-name="localizedName" :project-url="currentUrl" />
-      </v-container>
-
-      <!-- Floating Action Button -->
-      <v-btn
-        :to="localePath('/projects')"
-        class="floating-back-btn"
-        color="primary"
-        icon
-        size="large"
-        elevation="8"
-      >
-        <v-icon>mdi-arrow-left</v-icon>
-      </v-btn>
-
-      <!-- Edit FAB -->
-      <v-btn
-        class="floating-edit-btn"
-        color="secondary"
-        icon
-        size="large"
-        elevation="8"
-        :title="$t('editDrawer.title')"
-        @click="editDrawerOpen = true"
-      >
-        <v-icon>mdi-pencil</v-icon>
-      </v-btn>
+      </div>
 
       <!-- Connect Drawer -->
       <ProjectConnectDrawer
@@ -160,6 +147,8 @@
 const route = useRoute()
 const { t: $t, locale } = useI18n()
 const localePath = useLocalePath()
+const runtimeConfig = useRuntimeConfig()
+const detailV2 = computed(() => Boolean(runtimeConfig.public?.detailV2))
 
 const slugify = (text: string) =>
   text
@@ -327,6 +316,26 @@ const showDisclaimer = computed(() => {
   return proj?.originalLang && proj.originalLang !== locale.value
 })
 
+// Section nav: derived from data presence, in spec order
+// (About, Video, Team, Timeline, Offers, Looking for)
+const availableSections = computed(() => {
+  const proj = project.value as any
+  if (!proj) return []
+  const list: { id: string; label: string }[] = []
+  if (proj.entityDescription || localizedDescription.value)
+    list.push({ id: 'about', label: $t('projects.detail.about') })
+  if (proj.yt) list.push({ id: 'video', label: $t('projects.detail.video') })
+  if (proj.team && proj.team.length > 0)
+    list.push({ id: 'team', label: $t('projects.detail.team') })
+  if (localizedTimeline.value.length > 0)
+    list.push({ id: 'timeline', label: $t('projects.detail.timeline') })
+  if (localizedOffers.value.length > 0)
+    list.push({ id: 'offers', label: $t('projects.detail.offers') })
+  if (localizedLookingFor.value.length > 0)
+    list.push({ id: 'looking-for', label: $t('projects.detail.lookingFor') })
+  return list
+})
+
 // Toggle between original and translated version
 const toggleOriginal = () => {
   showOriginal.value = !showOriginal.value
@@ -371,6 +380,8 @@ watchEffect(() => {
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .project-detail {
   min-height: 100vh;
   background: #f8f9fa;
@@ -407,8 +418,60 @@ watchEffect(() => {
   position: relative;
 }
 
+/* Primary action bar — mobile/tablet only. Sits inside .detail-main
+   after About. On desktop the right-rail sidebar already exposes
+   Connect + Website + Edit + Share, so the inline duplicate is hidden. */
+.action-bar {
+  display: flex;
+  gap: 6px;
+  align-items: stretch;
+  margin: 0 0 $rhythm-3;
+
+  @media (min-width: $detail-bp-desktop) {
+    display: none;
+  }
+
+  .action-connect {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .action-website {
+    flex: 0 0 auto;
+  }
+}
+
 .construction-banner {
-  border-radius: 0 !important;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.625rem 1rem;
+  background: $saffron-pale;
+  border-top: 1px solid $saffron;
+  border-bottom: 1px solid $saffron;
+  color: $saffron-dark;
+  font-size: 0.9375rem;
+  margin-top: $rhythm-2;
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    margin-top: 8px;
+  }
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    padding: 6px 12px;
+    font-size: 0.8125rem;
+    gap: 6px;
+  }
+
+  .construction-icon {
+    color: $saffron-dark;
+    flex-shrink: 0;
+  }
+
+  .construction-text {
+    flex: 1;
+    line-height: 1.45;
+  }
 
   .construction-link {
     font-weight: 600;
@@ -416,62 +479,63 @@ watchEffect(() => {
     cursor: pointer;
     margin-left: 0.25rem;
     color: inherit;
+
+    &:hover {
+      color: $clay;
+    }
+
+    &:focus-visible {
+      outline: 2px solid $saffron-dark;
+      outline-offset: 2px;
+      border-radius: 2px;
+    }
   }
 }
 
-.content-container {
-  max-width: 1400px;
-  padding: 2rem 1rem;
+.detail-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 8fr) minmax(0, 4fr);
+  gap: $gutter-desktop;
+  max-width: $container-max-detail;
+  margin: 0 auto;
+  padding: $rhythm-4 $gutter-desktop;
 }
 
-.connect-under-about {
-  margin: -0.75rem 0 2rem;
+.detail-main {
+  grid-column: 1;
+  min-width: 0;
 }
 
-.connect-near-share {
+.detail-sidebar-column {
+  grid-column: 2;
   display: flex;
-  align-items: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-  padding: 1.25rem 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
-  margin-bottom: 0.5rem;
+  flex-direction: column;
+  gap: $rhythm-3;
+  min-width: 0;
 }
 
-.connect-near-share-label {
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: rgba(0, 0, 0, 0.7);
-  white-space: nowrap;
-}
-
-.floating-back-btn {
-  position: fixed;
-  bottom: 2rem;
-  left: 2rem;
-  z-index: 100;
-}
-
-.floating-edit-btn {
-  position: fixed;
-  bottom: 5.5rem;
-  right: 2rem;
-  z-index: 100;
-}
-
-@media (max-width: 768px) {
-  .content-container {
-    padding: 1rem 0.5rem;
+@media (max-width: $detail-bp-desktop - 1) {
+  .detail-grid {
+    grid-template-columns: 1fr;
+    padding: $rhythm-2 $gutter-mobile $rhythm-3;
+    gap: $rhythm-3;
   }
 
-  .floating-back-btn {
-    bottom: 1rem;
-    left: 1rem;
+  .detail-main,
+  .detail-sidebar-column {
+    grid-column: 1;
   }
 
-  .floating-edit-btn {
-    bottom: 4.5rem;
-    right: 1rem;
+  /* Sidebar + related lives BELOW content on mobile — main content is
+     what the user came for; key facts and related are supplementary. */
+  .detail-sidebar-column {
+    order: 1;
   }
+}
+
+/* The sidebar's share-strip carries share on every viewport now —
+   the in-flow ProjectShare is fully redundant. */
+.share-mobile-fallback {
+  display: none;
 }
 </style>

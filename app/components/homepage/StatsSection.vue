@@ -1,7 +1,7 @@
 <template>
-  <section class="metrics">
+  <section class="metrics edge-soften">
     <div class="container">
-      <div class="metrics-grid">
+      <div class="metrics-grid section-reveal">
         <div v-for="(stat, index) in stats" :key="index" class="metric-card">
           <div class="metric-number">
             <span v-if="isVisible">{{ animatedValues[index] }}{{ index < 2 ? '+' : '' }}</span>
@@ -197,12 +197,21 @@ watch(
   background: $green-bright;
   color: $cream;
   padding: 4rem 0;
+
+  @media (max-width: 768px) {
+    /* Tighter on phones — the grass image above already pads visually */
+    padding: 2rem 0;
+  }
 }
 
 .container {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
+
+  @media (max-width: 768px) {
+    padding: 0 1rem;
+  }
 }
 
 .metrics-grid {
@@ -213,15 +222,17 @@ watch(
 
   @media (max-width: 968px) {
     grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem 1rem;
   }
-
-  @media (max-width: 600px) {
-    grid-template-columns: 1fr;
-  }
+  /* Stay 2x2 on phones — vertical 1-col was the screen-eating mistake */
 }
 
 .metric-card {
   padding: 1rem;
+
+  @media (max-width: 768px) {
+    padding: 0.5rem;
+  }
 }
 
 .metric-number {
@@ -230,10 +241,14 @@ watch(
   font-weight: $font-weight-bold;
   color: $cream;
   margin-bottom: 0.5rem;
-  line-height: 1.2;
+  line-height: 1.1;
 
   @media (max-width: 968px) {
-    font-size: 2.5rem;
+    font-size: 2rem;
+  }
+
+  @media (max-width: 480px) {
+    font-size: 1.75rem;
   }
 }
 
@@ -242,5 +257,11 @@ watch(
   text-transform: uppercase;
   letter-spacing: 0.1em;
   color: $warm-beige;
+
+  @media (max-width: 768px) {
+    font-size: 0.7rem;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
+  }
 }
 </style>

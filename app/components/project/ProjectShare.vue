@@ -85,6 +85,8 @@ const copyLink = async () => {
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .project-share {
   display: flex;
   align-items: center;
@@ -92,13 +94,13 @@ const copyLink = async () => {
   gap: 0.75rem;
   margin-bottom: 2rem;
   padding: 1rem 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 1px solid $border-soft;
 }
 
 .share-label {
   font-size: 0.95rem;
   font-weight: 600;
-  color: rgba(0, 0, 0, 0.7);
+  color: $text-secondary;
   white-space: nowrap;
 }
 

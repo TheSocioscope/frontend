@@ -1,0 +1,126 @@
+// Typography mixins — adapted from OWID's type scale, palette-neutral.
+// Components should @include these mixins instead of inventing per-component
+// font sizes. See owidPatterns.md section 1 for the rationale.
+//
+// Usage:
+//   @use '~~/assets/styles/variables' as *;
+//   @use '~~/assets/styles/type' as *;
+//
+//   .my-heading { @include h2; }
+
+@use 'variables' as *;
+
+// Display sizes — for hero titles, large statistics, oversized labels.
+// Negative letter-spacing tightens large display lines.
+@mixin display-1 {
+  font-family: $font-family-display;
+  font-size: 2.5rem;
+  line-height: 1.15;
+  font-weight: 600;
+  letter-spacing: -0.01rem;
+
+  @media (min-width: 768px) {
+    font-size: 3.5rem;
+    line-height: 1.4;
+  }
+}
+
+@mixin display-2 {
+  font-family: $font-family-display;
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: 600;
+  letter-spacing: -0.01rem;
+
+  @media (min-width: 768px) {
+    font-size: 2.5rem;
+  }
+}
+
+// display-3 is intentionally sans, not serif — for high-information
+// labels (chart titles, dashboard counters, large statistics).
+@mixin display-3 {
+  font-family: $font-family-base;
+  font-size: 1.75rem;
+  line-height: 1.1875;
+  font-weight: 500;
+
+  @media (min-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+// Heading mixins — pages and sections. Mobile-first.
+@mixin h1 {
+  font-family: $font-family-display;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  font-weight: 600;
+
+  @media (min-width: 768px) {
+    font-size: 2rem;
+  }
+}
+
+@mixin h2 {
+  font-family: $font-family-display;
+  font-size: 1.25rem;
+  line-height: 1.333;
+  font-weight: 700;
+
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+  }
+}
+
+@mixin h3 {
+  font-family: $font-family-display;
+  font-size: 1.125rem;
+  line-height: 1.333;
+  font-weight: 700;
+}
+
+// Body sizes — sans-serif. Numerals are lining (lnum) globally via main.scss.
+@mixin body-1 {
+  font-family: $font-family-base;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+@mixin body-2 {
+  font-family: $font-family-base;
+  font-size: 1rem;
+  line-height: 1.6;
+  font-weight: 400;
+}
+
+@mixin body-3 {
+  font-family: $font-family-base;
+  font-size: 0.875rem;
+  line-height: 1.55;
+  font-weight: 400;
+}
+
+@mixin body-3-medium {
+  @include body-3;
+  font-weight: 500;
+}
+
+// Caption / micro-label — uppercase mini-labels above filter inputs,
+// metadata rows, sidebar key facts. Use $text-caption color.
+@mixin overline {
+  font-family: $font-family-base;
+  font-size: 0.6875rem; // 11px
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+}
+
+@mixin caption {
+  font-family: $font-family-base;
+  font-size: 0.8125rem; // 13px
+  line-height: 1.4;
+  font-weight: 400;
+}

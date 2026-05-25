@@ -1,0 +1,6504 @@
+{
+  "version": 1,
+  "generatedAt": "2026-05-23T18:17:06.322Z",
+  "contentHash": "05a04d355e8c5b61",
+  "domain": {
+    "x": [
+      -583.67,
+      433.55
+    ],
+    "y": [
+      -475.52,
+      413.29
+    ]
+  },
+  "sectors": [
+    {
+      "key": "Agriculture",
+      "centroid": [
+        280,
+        0
+      ]
+    },
+    {
+      "key": "Agriculture/Agroecology",
+      "centroid": [
+        264.83,
+        90.92
+      ]
+    },
+    {
+      "key": "DIS",
+      "centroid": [
+        220.96,
+        171.98
+      ]
+    },
+    {
+      "key": "Distribution & Logistics",
+      "centroid": [
+        153.15,
+        234.41
+      ]
+    },
+    {
+      "key": "Energy",
+      "centroid": [
+        68.74,
+        271.43
+      ]
+    },
+    {
+      "key": "Environment & Biodiversity",
+      "centroid": [
+        -23.12,
+        279.04
+      ]
+    },
+    {
+      "key": "Fisheries",
+      "centroid": [
+        -112.47,
+        256.42
+      ]
+    },
+    {
+      "key": "Fisheries & Aquaculture",
+      "centroid": [
+        -189.64,
+        206
+      ]
+    },
+    {
+      "key": "Food Processing",
+      "centroid": [
+        -246.25,
+        133.27
+      ]
+    },
+    {
+      "key": "Food Processing/Products",
+      "centroid": [
+        -276.18,
+        46.09
+      ]
+    },
+    {
+      "key": "Health & Nutrition",
+      "centroid": [
+        -276.18,
+        -46.09
+      ]
+    },
+    {
+      "key": "Livestock & Dairy",
+      "centroid": [
+        -246.25,
+        -133.27
+      ]
+    },
+    {
+      "key": "Other sector",
+      "centroid": [
+        -189.64,
+        -206
+      ]
+    },
+    {
+      "key": "Policy",
+      "centroid": [
+        -112.47,
+        -256.42
+      ]
+    },
+    {
+      "key": "Policy & Advocacy",
+      "centroid": [
+        -23.12,
+        -279.04
+      ]
+    },
+    {
+      "key": "Social & Community",
+      "centroid": [
+        68.74,
+        -271.43
+      ]
+    },
+    {
+      "key": "Technology & Innovation",
+      "centroid": [
+        153.15,
+        -234.41
+      ]
+    },
+    {
+      "key": "Waste & Circular Economy",
+      "centroid": [
+        220.96,
+        -171.98
+      ]
+    },
+    {
+      "key": "Water",
+      "centroid": [
+        264.83,
+        -90.92
+      ]
+    }
+  ],
+  "continentColors": {
+    "africa": "#e57373",
+    "asia": "#ffb74d",
+    "europe": "#64b5f6",
+    "north-america": "#9575cd",
+    "south-america": "#4db6ac",
+    "latin-america": "#4db6ac",
+    "oceania": "#a1887f",
+    "north-africa": "#f06292",
+    "sub-saharian-africa": "#e57373",
+    "worldwide-intercontinental": "#90a4ae"
+  },
+  "nodes": [
+    {
+      "id": 440052,
+      "slug": "te-kakano",
+      "x": 321.82,
+      "y": 66.44,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "oceania",
+      "size": "medium"
+    },
+    {
+      "id": 440152,
+      "slug": "afo-acuaponia-intl-sas",
+      "x": 224.17,
+      "y": 198.78,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440252,
+      "slug": "urban-farmers-pro",
+      "x": 298.13,
+      "y": 163.66,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440352,
+      "slug": "biosos",
+      "x": 258.06,
+      "y": -348.29,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440552,
+      "slug": "amaca-grande-sas",
+      "x": 367.02,
+      "y": 118.71,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440652,
+      "slug": "fundacion-soydoy",
+      "x": -509.28,
+      "y": -142.68,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440752,
+      "slug": "fundacion-pan-vivo",
+      "x": -60.24,
+      "y": -375.31,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440852,
+      "slug": "alpina",
+      "x": -450.94,
+      "y": -226.75,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 440952,
+      "slug": "villa-claudia-farm",
+      "x": 279.17,
+      "y": 30.35,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441052,
+      "slug": "la-huerta-hotel",
+      "x": 117.82,
+      "y": 29.13,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441152,
+      "slug": "finca-laguna-verde-stuckey",
+      "x": 380.86,
+      "y": 188.54,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441252,
+      "slug": "ekuox",
+      "x": 118.55,
+      "y": -297.01,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441352,
+      "slug": "trulab",
+      "x": 182.13,
+      "y": 154.61,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441452,
+      "slug": "maquinnovacion-s-a-s",
+      "x": 93.57,
+      "y": -410.53,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441552,
+      "slug": "diego-miel-s",
+      "x": 360.68,
+      "y": 138.85,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441652,
+      "slug": "asociacion-cafe-sello-mujer",
+      "x": 291.65,
+      "y": -12.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441752,
+      "slug": "eco-brasas-de-colombia",
+      "x": 155.91,
+      "y": -344.17,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441852,
+      "slug": "acuaponia-eje-raiz",
+      "x": 259.92,
+      "y": 223.93,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 441952,
+      "slug": "nutribanana-de-uraba-s-a-s",
+      "x": -441.92,
+      "y": 109.8,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 442052,
+      "slug": "pinas-del-llano",
+      "x": -557.16,
+      "y": 72.28,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 442152,
+      "slug": "tacay",
+      "x": 47.67,
+      "y": 36.56,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 442252,
+      "slug": "greenland",
+      "x": -41.75,
+      "y": -411.44,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 442352,
+      "slug": "la-ruche-qui-dit-oui",
+      "x": 44.43,
+      "y": 379.83,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 442452,
+      "slug": "asodeleite",
+      "x": -491.21,
+      "y": -52.67,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 443952,
+      "slug": "nanofreeze-biocold-technologies-s-a-s-bic",
+      "x": 59.07,
+      "y": -342.62,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 444352,
+      "slug": "organic-denmark",
+      "x": 350.34,
+      "y": 99.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 444552,
+      "slug": "recup-et-gamelles",
+      "x": 218.08,
+      "y": -324.27,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 444652,
+      "slug": "laiterie-la-chapelle",
+      "x": -420.66,
+      "y": -2.77,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 444752,
+      "slug": "ecotable-label",
+      "x": -429.58,
+      "y": 92.49,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 444852,
+      "slug": "feedbac",
+      "x": 226.73,
+      "y": -363.67,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 445152,
+      "slug": "kedelai",
+      "x": -453.46,
+      "y": 158.42,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 445252,
+      "slug": "merci-les-algues",
+      "x": 83.11,
+      "y": -17.4,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 445352,
+      "slug": "mam-ayoka",
+      "x": -462.23,
+      "y": 0.42,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 445452,
+      "slug": "les-marmites-volantes",
+      "x": -410.25,
+      "y": 91.58,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446252,
+      "slug": "edenn",
+      "x": -176.35,
+      "y": 390.75,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446352,
+      "slug": "ferme-blanc-verger",
+      "x": 187.88,
+      "y": 96.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446452,
+      "slug": "bandes-de-cheffes",
+      "x": -373.24,
+      "y": -49.13,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446552,
+      "slug": "le-champs-des-possibles",
+      "x": 144.37,
+      "y": 218.58,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446652,
+      "slug": "nona",
+      "x": -407.87,
+      "y": -23.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446752,
+      "slug": "la-chorba",
+      "x": -65.66,
+      "y": -412.15,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446852,
+      "slug": "refettorio-paris",
+      "x": -432.77,
+      "y": 149.37,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 446952,
+      "slug": "coop-circuits",
+      "x": 50.71,
+      "y": -367.2,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447052,
+      "slug": "reseau-cocagne",
+      "x": 311.91,
+      "y": 223.31,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447152,
+      "slug": "andes",
+      "x": -38.54,
+      "y": -475.52,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447252,
+      "slug": "olimpe-technology",
+      "x": 75.85,
+      "y": -399.89,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447352,
+      "slug": "bio-lo",
+      "x": 203.69,
+      "y": 313.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447452,
+      "slug": "nutreets",
+      "x": 381.09,
+      "y": 142.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447552,
+      "slug": "re-belle",
+      "x": 237.94,
+      "y": -327.01,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447652,
+      "slug": "les-rateleurs",
+      "x": -44.19,
+      "y": -431.17,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447752,
+      "slug": "reseau-marguerite",
+      "x": -208.33,
+      "y": -368.26,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447852,
+      "slug": "pic-assiette",
+      "x": 324.53,
+      "y": -78.95,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 447952,
+      "slug": "la-basse-cour",
+      "x": -583.67,
+      "y": 38.43,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448052,
+      "slug": "association-semailles",
+      "x": 154.54,
+      "y": 270.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448252,
+      "slug": "nordic-harvest",
+      "x": 115.5,
+      "y": -53.58,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448352,
+      "slug": "linser-for-livet",
+      "x": 352.73,
+      "y": 14.88,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448452,
+      "slug": "changing-food",
+      "x": -477.98,
+      "y": 71.68,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448652,
+      "slug": "mellemfolkeligt-samvirke",
+      "x": -184.2,
+      "y": -428.13,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448752,
+      "slug": "kitchen-collective",
+      "x": -345.59,
+      "y": 23.41,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448852,
+      "slug": "dansk-vegetarisk-landsforening",
+      "x": -449.78,
+      "y": -149.47,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 448952,
+      "slug": "ferme-des-vergers-la-feve",
+      "x": 54.81,
+      "y": 55.57,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449052,
+      "slug": "les-vergers-d-epicure",
+      "x": 279.93,
+      "y": 289.53,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449152,
+      "slug": "swiss-food-academy",
+      "x": -483.9,
+      "y": -162.51,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449252,
+      "slug": "eaternity",
+      "x": 27.2,
+      "y": -373.81,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449352,
+      "slug": "zero-dig",
+      "x": 133.71,
+      "y": -38.73,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449452,
+      "slug": "the-long-table",
+      "x": -365.94,
+      "y": 18.88,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449552,
+      "slug": "landworks",
+      "x": 364,
+      "y": -1.47,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449652,
+      "slug": "street-goat",
+      "x": 20.72,
+      "y": 142.6,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449752,
+      "slug": "avocado-vegan-store-more-avocado-vegan-bistro",
+      "x": -513.18,
+      "y": 155.3,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449852,
+      "slug": "fundacja-twoja-rola-manufaktura-sitowie-gardens",
+      "x": 44.22,
+      "y": -6.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 449952,
+      "slug": "norwida-2-concept",
+      "x": -413.86,
+      "y": 139.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 450052,
+      "slug": "veggie-lover",
+      "x": -401.33,
+      "y": 3.28,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450152,
+      "slug": "utmach",
+      "x": 79.38,
+      "y": 71.9,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450352,
+      "slug": "la-cuica-cosmica",
+      "x": 284.96,
+      "y": -51.19,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450452,
+      "slug": "crick",
+      "x": -580.27,
+      "y": 60.84,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450552,
+      "slug": "rikolto",
+      "x": -542.52,
+      "y": -64.09,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450652,
+      "slug": "instituto-nacional-de-tecnologia-industrial",
+      "x": -386.8,
+      "y": -22.69,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450752,
+      "slug": "fundacion-alimentaris",
+      "x": 429.79,
+      "y": 51.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450852,
+      "slug": "las-quinas",
+      "x": -470.36,
+      "y": 22.68,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 450952,
+      "slug": "el-comahue-beekeepers",
+      "x": 230.73,
+      "y": 257.18,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451052,
+      "slug": "federation-of-fruit-producers-of-rio-negro",
+      "x": 205.39,
+      "y": 109.1,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451152,
+      "slug": "gordon-s-farm",
+      "x": 279.01,
+      "y": 202.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451252,
+      "slug": "zopilote",
+      "x": 396.49,
+      "y": 30.35,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451352,
+      "slug": "la-choza",
+      "x": -428.78,
+      "y": -224.99,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451452,
+      "slug": "turba-agroecologia",
+      "x": 262.02,
+      "y": -38.23,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451552,
+      "slug": "unibaio",
+      "x": 87.64,
+      "y": -370.33,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451652,
+      "slug": "wakas",
+      "x": -528.4,
+      "y": 109.14,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451752,
+      "slug": "catena-institute-of-wine",
+      "x": 324.45,
+      "y": -51.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451852,
+      "slug": "bio-h41start-up",
+      "x": 9.52,
+      "y": -364.21,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 451952,
+      "slug": "eiru-tech",
+      "x": -193.16,
+      "y": 399.51,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452052,
+      "slug": "denominacion-de-origen-del-chivito-criollo-del-norte-neuquino",
+      "x": -452.39,
+      "y": -286.28,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452152,
+      "slug": "bodega-des-de-la-torre",
+      "x": 164.5,
+      "y": 102.58,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452252,
+      "slug": "finca-maria-del-pilar",
+      "x": 135.46,
+      "y": 39.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452352,
+      "slug": "proda",
+      "x": 342.2,
+      "y": 60.18,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452452,
+      "slug": "aabda-asociacion-para-la-agricultura-biologico-dinamica-de-argentina",
+      "x": 349.4,
+      "y": 40.09,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452552,
+      "slug": "caliz-bio",
+      "x": 124.59,
+      "y": -425.6,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452652,
+      "slug": "aromaticas-del-valle",
+      "x": 254.45,
+      "y": -83.5,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452752,
+      "slug": "colectivo-agroecologico-del-rio-negro",
+      "x": 369.31,
+      "y": 31.88,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452852,
+      "slug": "elementa-foods",
+      "x": -456.93,
+      "y": 37.67,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 452952,
+      "slug": "prodeman",
+      "x": 320.87,
+      "y": -22.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 453252,
+      "slug": "c-est-bio-l-anjou",
+      "x": -465.32,
+      "y": -19.61,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453352,
+      "slug": "les-cuisines-nourricieres",
+      "x": -521.87,
+      "y": -156.03,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453452,
+      "slug": "ferme-urbaine-du-trichon",
+      "x": 55.2,
+      "y": 202.71,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453552,
+      "slug": "loop-frome",
+      "x": 137.82,
+      "y": -259.66,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453652,
+      "slug": "henbant-fferm-paramaethu",
+      "x": 238.3,
+      "y": 77.01,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453752,
+      "slug": "tyddynteg",
+      "x": 76.79,
+      "y": 93.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 453852,
+      "slug": "life-monteverde-aka-cafe-monteverde",
+      "x": 62.38,
+      "y": 137.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 453952,
+      "slug": "finca-bello-amanacer",
+      "x": -434.37,
+      "y": -266.56,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 454052,
+      "slug": "eat-wasted",
+      "x": 113.26,
+      "y": -253.27,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454252,
+      "slug": "madf-llesskabet",
+      "x": 37.15,
+      "y": 399.39,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454352,
+      "slug": "madland",
+      "x": -169.8,
+      "y": -412.92,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454452,
+      "slug": "frej",
+      "x": -155.6,
+      "y": -448.04,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454552,
+      "slug": "det-f-lles-bedste",
+      "x": -195.26,
+      "y": -456.94,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454652,
+      "slug": "happy-food-forest",
+      "x": 113.95,
+      "y": 222.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454852,
+      "slug": "projecte-sepia",
+      "x": -316.1,
+      "y": 267.78,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 454952,
+      "slug": "del-peix-al-plat",
+      "x": -343.39,
+      "y": 323.37,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 455052,
+      "slug": "irta-cipa-centro-de-innovacion-en-proteinas-alternativas",
+      "x": 174.29,
+      "y": -65.76,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 455152,
+      "slug": "cityhuerta",
+      "x": 102.23,
+      "y": 16.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455252,
+      "slug": "agro-solidaria-florencia-utai",
+      "x": 271.75,
+      "y": 126.63,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455352,
+      "slug": "asored-asociacion-de-operadores-de-reciclaje-economia-circular-y-desarrollo-sost",
+      "x": 221.62,
+      "y": -281.84,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455452,
+      "slug": "mundo-eco-soluciones",
+      "x": 258.96,
+      "y": -283.47,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455552,
+      "slug": "shuska",
+      "x": 114.92,
+      "y": -402.47,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455652,
+      "slug": "corporacion-colombiana-de-investigacion-agropecuaria-agrosavia",
+      "x": 180.53,
+      "y": -85.55,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455752,
+      "slug": "fundacion-saciar",
+      "x": 61.31,
+      "y": 401.32,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455852,
+      "slug": "garcabas",
+      "x": -73.53,
+      "y": 365.4,
+      "r": 4,
+      "sector": "Energy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 455952,
+      "slug": "ruta-del-chocolate",
+      "x": 385.15,
+      "y": 69.11,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456052,
+      "slug": "corporacion-ama-s-a-s",
+      "x": 374.76,
+      "y": -55.47,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456152,
+      "slug": "impact-hub",
+      "x": 116.4,
+      "y": -26.1,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456252,
+      "slug": "asapiv",
+      "x": 311,
+      "y": -4.75,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456352,
+      "slug": "apicultura-el-rey",
+      "x": 219.61,
+      "y": -31.11,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456452,
+      "slug": "corporacion-regional-agroecologica-cora",
+      "x": 88.99,
+      "y": 220.37,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456552,
+      "slug": "primitivo-mushroom-coffee",
+      "x": 302.5,
+      "y": 63.47,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 456652,
+      "slug": "rva-colombia-s-a",
+      "x": 224.48,
+      "y": -380.95,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 457252,
+      "slug": "les-anges-gardins",
+      "x": 177.53,
+      "y": 199.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 457352,
+      "slug": "minus-farm",
+      "x": 168.89,
+      "y": 257.88,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 457452,
+      "slug": "foodbiome",
+      "x": 383.63,
+      "y": 165.46,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 457552,
+      "slug": "cap-veggie",
+      "x": -418.93,
+      "y": 63.4,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 457652,
+      "slug": "les-petites-cantines-cantines-de-quartier-a-prix-libre",
+      "x": -495.29,
+      "y": 164.03,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 457752,
+      "slug": "mboja-o",
+      "x": 118.39,
+      "y": -274.13,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 457852,
+      "slug": "banco-de-alimentos-paraguay",
+      "x": 167.11,
+      "y": -360.83,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 457952,
+      "slug": "high-farm",
+      "x": 289.35,
+      "y": 78.09,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458052,
+      "slug": "waylla-kuri",
+      "x": 231.2,
+      "y": 43.42,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458152,
+      "slug": "kallari",
+      "x": 248.6,
+      "y": 305.73,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458252,
+      "slug": "red-de-guardianes-de-semillas",
+      "x": 341.48,
+      "y": 161.4,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458352,
+      "slug": "larvia",
+      "x": -354.96,
+      "y": 304,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458452,
+      "slug": "latbio",
+      "x": 327.19,
+      "y": 104.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458552,
+      "slug": "cluster-bananero-del-ecuador",
+      "x": 79.7,
+      "y": 127.65,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458652,
+      "slug": "el-panc-ecuador",
+      "x": 35.9,
+      "y": 105.92,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458752,
+      "slug": "asociacion-anagavec",
+      "x": 208.68,
+      "y": 259.2,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458852,
+      "slug": "fundacion-imaymana",
+      "x": 403.23,
+      "y": 9.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 458952,
+      "slug": "huertomanias",
+      "x": 95.85,
+      "y": 261.03,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459052,
+      "slug": "paccari",
+      "x": -369.28,
+      "y": 67.96,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459152,
+      "slug": "arch-bio",
+      "x": -169.77,
+      "y": 373.45,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459252,
+      "slug": "agrovivas",
+      "x": 179.25,
+      "y": -299.75,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459352,
+      "slug": "accion-ecologica",
+      "x": -218.39,
+      "y": -406.68,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459452,
+      "slug": "cusi-gourmetandino",
+      "x": -455.53,
+      "y": -75.45,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459552,
+      "slug": "conquito",
+      "x": 187.34,
+      "y": 248.81,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459652,
+      "slug": "biocompost",
+      "x": 143.49,
+      "y": -301.68,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459752,
+      "slug": "pacchar",
+      "x": 47.57,
+      "y": 121.91,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459852,
+      "slug": "la-divina-papaya",
+      "x": -503.22,
+      "y": -2.08,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 459952,
+      "slug": "nunalabs",
+      "x": -440.98,
+      "y": -8.38,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460052,
+      "slug": "molino-mayal",
+      "x": -538.09,
+      "y": 26.6,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460152,
+      "slug": "bio-4-bioetanol",
+      "x": -80.66,
+      "y": 383.85,
+      "r": 4,
+      "sector": "Energy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460252,
+      "slug": "el-almacen-andante",
+      "x": -7.23,
+      "y": 339.94,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460352,
+      "slug": "dervinsa",
+      "x": 242.91,
+      "y": -301.2,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460452,
+      "slug": "universo-vigil",
+      "x": -523.96,
+      "y": 76.29,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460552,
+      "slug": "cooperativa-de-trabajadores-de-la-tierra",
+      "x": 104.91,
+      "y": 133.22,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460652,
+      "slug": "queseria-ventimiglia",
+      "x": -424.99,
+      "y": -245.46,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460752,
+      "slug": "ecomarcal-participatory-guarantee-system",
+      "x": 370.93,
+      "y": 91.58,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460852,
+      "slug": "red-de-alimentos-cooperativos-patagonicos",
+      "x": 2.63,
+      "y": 365.53,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 460952,
+      "slug": "grupo-chiavassa-tambo-modelo",
+      "x": -473.1,
+      "y": -243.09,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461052,
+      "slug": "deep-agro",
+      "x": 20.4,
+      "y": -395.3,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461152,
+      "slug": "ghretek",
+      "x": 319.25,
+      "y": 263.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461252,
+      "slug": "agrojusto",
+      "x": 33.22,
+      "y": -417.09,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461352,
+      "slug": "indegap",
+      "x": 67.26,
+      "y": 183.01,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461452,
+      "slug": "roll-food",
+      "x": -541.85,
+      "y": 58.54,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461552,
+      "slug": "la-ciudad-posible",
+      "x": -208.32,
+      "y": -388.52,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 461652,
+      "slug": "jordbrugets-uddannelses-center-aarhus",
+      "x": 48.75,
+      "y": 93.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 461752,
+      "slug": "jordbruget-soldug",
+      "x": 210.95,
+      "y": 5.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 461952,
+      "slug": "gr-nner-b-nner",
+      "x": 319.35,
+      "y": 158.74,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 462052,
+      "slug": "ark",
+      "x": -476.53,
+      "y": 105.17,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 462152,
+      "slug": "lille-bakery",
+      "x": -411.46,
+      "y": 22.31,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 462352,
+      "slug": "harmony-hotel",
+      "x": -76.55,
+      "y": -389.14,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 462452,
+      "slug": "zoe-farms",
+      "x": 169.25,
+      "y": 7.75,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 462552,
+      "slug": "slow-food-uganda",
+      "x": 403.53,
+      "y": 145.48,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 462652,
+      "slug": "teso-women-development-initiative-tewdi",
+      "x": 222.48,
+      "y": 154.9,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 462752,
+      "slug": "drive-inn-group",
+      "x": 207.93,
+      "y": 214.12,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 462852,
+      "slug": "biobuu-recycler",
+      "x": 178.12,
+      "y": -319.36,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 462952,
+      "slug": "ustawi",
+      "x": 335.01,
+      "y": 25.92,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 463152,
+      "slug": "nehuen",
+      "x": 144.23,
+      "y": 188.23,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463252,
+      "slug": "cooperativa-ganadera-indigena",
+      "x": -474.27,
+      "y": -265.01,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463352,
+      "slug": "colonia-jaime",
+      "x": 234.59,
+      "y": 281.91,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463452,
+      "slug": "alcaparras-argentinas",
+      "x": 27.87,
+      "y": 42.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463552,
+      "slug": "la-pebeta",
+      "x": 169.09,
+      "y": 288.08,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463652,
+      "slug": "micelio-bio",
+      "x": 355.99,
+      "y": 226.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463752,
+      "slug": "taxon",
+      "x": 197.98,
+      "y": -68.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463852,
+      "slug": "beam-croptech",
+      "x": 321,
+      "y": 283.51,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 463952,
+      "slug": "casa-vegana",
+      "x": -370.58,
+      "y": 41.8,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 464152,
+      "slug": "ecas-empresa-cooperativa-de-alimento-soberano",
+      "x": 19.99,
+      "y": 362.09,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 464252,
+      "slug": "food-print-nordic",
+      "x": 96.96,
+      "y": 61.48,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 464352,
+      "slug": "food-sharing",
+      "x": 179.57,
+      "y": -377.91,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 464552,
+      "slug": "restaurant-domestic",
+      "x": -348.58,
+      "y": -1.61,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 464752,
+      "slug": "hegnstrup",
+      "x": 280.16,
+      "y": 222.29,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 464852,
+      "slug": "decameal",
+      "x": 91.64,
+      "y": 150.57,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 464952,
+      "slug": "gr-nne-nabof-llesskaber",
+      "x": -86.79,
+      "y": -439.07,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 465052,
+      "slug": "finca-luna-nueva",
+      "x": 356.73,
+      "y": 251.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465152,
+      "slug": "valle-escondido",
+      "x": 44.68,
+      "y": -436.25,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465252,
+      "slug": "hotel-belmar",
+      "x": -532.57,
+      "y": 127.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465352,
+      "slug": "armonia-ambiental",
+      "x": 130.06,
+      "y": 204.84,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465452,
+      "slug": "coopetarrazu-rl",
+      "x": 401.12,
+      "y": 171.85,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465552,
+      "slug": "finca-agroecologica-la-flor",
+      "x": 308.91,
+      "y": 88.9,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465652,
+      "slug": "rancho-mastatal",
+      "x": 126.75,
+      "y": 94.99,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465752,
+      "slug": "centro-alba-nueva-new-dawn-center",
+      "x": 191.76,
+      "y": 55.05,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465852,
+      "slug": "huerta-tierra-magica",
+      "x": 151.47,
+      "y": 295.02,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 465952,
+      "slug": "finca-sol-y-valle",
+      "x": 318.41,
+      "y": 180.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466052,
+      "slug": "blacksheep-regenerative-resource-management",
+      "x": 98.97,
+      "y": 116.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466152,
+      "slug": "finca-organica-san-luis",
+      "x": 116.92,
+      "y": 145.03,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466252,
+      "slug": "santa-anita-estate-coffee",
+      "x": 61.28,
+      "y": 157.25,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466352,
+      "slug": "rewild-organics",
+      "x": -450.46,
+      "y": 87.24,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466452,
+      "slug": "verdenergia",
+      "x": 358.56,
+      "y": -69.77,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466552,
+      "slug": "instituto-nacional-de-apredizaje-ina-centro-nacional-especializado-en-agricultur",
+      "x": 383.23,
+      "y": 221.44,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 466652,
+      "slug": "fundacion-botellas-de-amor",
+      "x": 279.59,
+      "y": -306.46,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 466752,
+      "slug": "ecobot",
+      "x": 159.63,
+      "y": -265.16,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 466852,
+      "slug": "preserva",
+      "x": 307.33,
+      "y": 29.47,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 466952,
+      "slug": "asoprocvilla",
+      "x": 15.45,
+      "y": 101.02,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467052,
+      "slug": "frutalia",
+      "x": -496.81,
+      "y": -75.09,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467152,
+      "slug": "blue-indigo-foundation",
+      "x": -150.58,
+      "y": 383.92,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467252,
+      "slug": "troutco",
+      "x": -335.41,
+      "y": 262.72,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467352,
+      "slug": "setasfresh-s-a-s",
+      "x": 242.05,
+      "y": 184.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467452,
+      "slug": "quinua-de-los-andes",
+      "x": 218.87,
+      "y": 65.5,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467552,
+      "slug": "organicos-villa-aurora",
+      "x": 152.82,
+      "y": 51.35,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467652,
+      "slug": "finca-macani",
+      "x": 131.19,
+      "y": 234.84,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467752,
+      "slug": "pan-rebelde",
+      "x": 263.21,
+      "y": 107.2,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467852,
+      "slug": "aprocasurt",
+      "x": 250.01,
+      "y": 262.74,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 467952,
+      "slug": "agrosolidaria-charala",
+      "x": 419.3,
+      "y": 34.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468052,
+      "slug": "raizal-youth-organization-ryouth",
+      "x": 69.67,
+      "y": 235.65,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468152,
+      "slug": "agroprovidencia",
+      "x": 159.28,
+      "y": 29.85,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468252,
+      "slug": "amara-botanical-experience",
+      "x": -432.1,
+      "y": 22.89,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468352,
+      "slug": "unidad-agroecologica-de-la-universidad-la-gran-colombia",
+      "x": -172.4,
+      "y": 341.61,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468452,
+      "slug": "tecnologia-simeh",
+      "x": 99.59,
+      "y": -448.35,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468552,
+      "slug": "zetas-la-calera",
+      "x": -533.99,
+      "y": -44.35,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468652,
+      "slug": "growing-hope-demostrative-regenerative-farm",
+      "x": 268,
+      "y": -20.8,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468752,
+      "slug": "finca-la-canela",
+      "x": 184.43,
+      "y": 74.25,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468852,
+      "slug": "iniciativa-cacao-bosques-y-paz",
+      "x": 163.96,
+      "y": 179.05,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 468952,
+      "slug": "atta",
+      "x": -569.37,
+      "y": -31.84,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469052,
+      "slug": "grupo-de-diseno-de-productos-y-procesos-gdpp-de-la-universidad-de-los-andes",
+      "x": 218.81,
+      "y": 178.27,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469152,
+      "slug": "acta",
+      "x": 40.33,
+      "y": -391.55,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469252,
+      "slug": "postobon",
+      "x": -532.99,
+      "y": 147.89,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469452,
+      "slug": "tierra-viva-bio-abonos-y-medio-ambiente",
+      "x": 158.54,
+      "y": -315.54,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469552,
+      "slug": "comproagro-sas",
+      "x": 349.43,
+      "y": -17.19,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469652,
+      "slug": "fish-farm-coop",
+      "x": -354.64,
+      "y": 274.8,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469752,
+      "slug": "honeyland",
+      "x": 386.63,
+      "y": -9.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469852,
+      "slug": "andes-resilientes-al-cambio-climatico",
+      "x": -183.03,
+      "y": -394.45,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 469952,
+      "slug": "direccion-de-organicos-de-agrocalidad",
+      "x": 75.04,
+      "y": -38.87,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 470052,
+      "slug": "cider-club-bazaleti",
+      "x": -360.07,
+      "y": -29.82,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 470152,
+      "slug": "parki-ar-minda",
+      "x": 228.58,
+      "y": -345.51,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470252,
+      "slug": "bwyd-sir-gar-food-local-food-partnership",
+      "x": -436.48,
+      "y": 129.35,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470352,
+      "slug": "bazar-natury",
+      "x": -495.53,
+      "y": 63.85,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470452,
+      "slug": "eko-spichlerz",
+      "x": -350.6,
+      "y": 46.37,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470552,
+      "slug": "oatbrook-farm",
+      "x": 40.38,
+      "y": 144.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470652,
+      "slug": "no-mise-en-plastic",
+      "x": -350.11,
+      "y": 69.26,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470752,
+      "slug": "the-bevy-pub",
+      "x": -53.04,
+      "y": -393.95,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470852,
+      "slug": "jollof-cafe",
+      "x": -86.23,
+      "y": -418.18,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 470952,
+      "slug": "harriets-of-hove",
+      "x": -383.97,
+      "y": 86.66,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471052,
+      "slug": "pasture-for-life",
+      "x": 244.54,
+      "y": 239.38,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471152,
+      "slug": "global-salmon-inititiative",
+      "x": -366.27,
+      "y": 324.08,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471252,
+      "slug": "infinity-foods-wholesale",
+      "x": -459.97,
+      "y": 140.02,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471352,
+      "slug": "pescartes",
+      "x": -317.13,
+      "y": 290.17,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471552,
+      "slug": "poseidona",
+      "x": 81.21,
+      "y": 165.78,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471652,
+      "slug": "mescladis",
+      "x": -91.73,
+      "y": -371.97,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471752,
+      "slug": "biograssfed",
+      "x": 363.9,
+      "y": 161.75,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 471852,
+      "slug": "alvelal",
+      "x": 292.4,
+      "y": 12.26,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472052,
+      "slug": "familia-torres",
+      "x": 274.78,
+      "y": -88.4,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472152,
+      "slug": "raoul-ferrer-fernandez",
+      "x": 29.78,
+      "y": 20.26,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472252,
+      "slug": "al-barrio",
+      "x": -426.11,
+      "y": -151.63,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472352,
+      "slug": "verdcamp-fruits",
+      "x": 193.39,
+      "y": -24.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472452,
+      "slug": "crisalim",
+      "x": -65.6,
+      "y": -435.16,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472552,
+      "slug": "les-greniers-d-abondance",
+      "x": 174.32,
+      "y": 46.98,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472652,
+      "slug": "terres-en-villes",
+      "x": 67.46,
+      "y": 26.95,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472752,
+      "slug": "open-food-facts",
+      "x": -459.3,
+      "y": 61.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472852,
+      "slug": "aux-gouts-du-jour",
+      "x": -433.5,
+      "y": -136.06,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 472952,
+      "slug": "le-paysan-urbain",
+      "x": 233.15,
+      "y": 218.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 473052,
+      "slug": "zuhura-solutions",
+      "x": -72.38,
+      "y": 406.43,
+      "r": 4,
+      "sector": "Energy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473152,
+      "slug": "forestfoods",
+      "x": 190.67,
+      "y": 1.18,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473252,
+      "slug": "dudu-masters",
+      "x": 199.55,
+      "y": -287.99,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473352,
+      "slug": "amazing-grace-center",
+      "x": -70.15,
+      "y": -359.15,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473552,
+      "slug": "eco-scapes",
+      "x": 269.05,
+      "y": 305.42,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473652,
+      "slug": "iviani-farm",
+      "x": 238.88,
+      "y": -21.76,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473752,
+      "slug": "mwamweni-mart",
+      "x": 207.39,
+      "y": -348.67,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473852,
+      "slug": "kilifi-beauty-jewel",
+      "x": 100.04,
+      "y": -239.91,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 473952,
+      "slug": "kibois-breeders",
+      "x": -399.66,
+      "y": -235.97,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474052,
+      "slug": "samwananaturalfoods",
+      "x": -397.46,
+      "y": 131.58,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474152,
+      "slug": "shambani-pro",
+      "x": 271.63,
+      "y": 268.48,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474252,
+      "slug": "kuza-one-kuza-biashara",
+      "x": 341.97,
+      "y": 267.79,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474352,
+      "slug": "the-allure-of-soil",
+      "x": 275.88,
+      "y": 149.51,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474452,
+      "slug": "joka-farm-resources",
+      "x": 82.24,
+      "y": -253.68,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474552,
+      "slug": "maianke",
+      "x": 321.8,
+      "y": 201.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474652,
+      "slug": "wangechi-kuria",
+      "x": 83.22,
+      "y": 15.63,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474752,
+      "slug": "biovision-africa-trust",
+      "x": 278.83,
+      "y": 174.07,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474852,
+      "slug": "eco-post-limited",
+      "x": 223.5,
+      "y": -302.21,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 474952,
+      "slug": "organic-agriculture-centre-of-kenya",
+      "x": 203.19,
+      "y": 141.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475052,
+      "slug": "ubuntu-kreative-village",
+      "x": 166.58,
+      "y": 75.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475152,
+      "slug": "feed-back-the-future",
+      "x": 419.49,
+      "y": 161.91,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475252,
+      "slug": "farm-with-fred",
+      "x": 117,
+      "y": 166.99,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475352,
+      "slug": "charlies-winery-limited",
+      "x": -482.55,
+      "y": 124.72,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475452,
+      "slug": "rabbitcrew-kenya",
+      "x": -430.05,
+      "y": -289.92,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475552,
+      "slug": "soil-fertility-clinik",
+      "x": 181.75,
+      "y": 23.21,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475652,
+      "slug": "dehytech-east-africa-limited",
+      "x": 8.69,
+      "y": -303.42,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475752,
+      "slug": "moo-fodder",
+      "x": 18.55,
+      "y": 59.49,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475852,
+      "slug": "silver-oak-mazingira",
+      "x": 193.12,
+      "y": 126.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 475952,
+      "slug": "kapi-limited",
+      "x": 359.47,
+      "y": 181.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476052,
+      "slug": "serm-smart-farm",
+      "x": 412.48,
+      "y": -9.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476152,
+      "slug": "bella-fam",
+      "x": 148.5,
+      "y": 134.22,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476252,
+      "slug": "rural-link-ai",
+      "x": 18.6,
+      "y": -339.92,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476352,
+      "slug": "maxxy-artistry-gallery",
+      "x": 142.74,
+      "y": -329.44,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476452,
+      "slug": "hydrolic-water-pumping",
+      "x": 292.6,
+      "y": -224.59,
+      "r": 4,
+      "sector": "Water",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476552,
+      "slug": "rafiki-eco-solutions-ltd",
+      "x": 131.84,
+      "y": -240.58,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476652,
+      "slug": "baridi",
+      "x": 82.37,
+      "y": -429.63,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476752,
+      "slug": "lizsa-farmer-service-centre",
+      "x": 58.91,
+      "y": 76.98,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476852,
+      "slug": "mycelia-and-foods-ltd",
+      "x": 144.89,
+      "y": 68.72,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 476952,
+      "slug": "coast-baobab",
+      "x": -401.89,
+      "y": 72.77,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477052,
+      "slug": "shambah-dairies",
+      "x": -389.48,
+      "y": -210.47,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477152,
+      "slug": "zippora-ochoi",
+      "x": 319.54,
+      "y": 12.19,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477252,
+      "slug": "eco-bristo",
+      "x": 117.59,
+      "y": -447.36,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477352,
+      "slug": "organic-fields-limited",
+      "x": 321.53,
+      "y": 44.37,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477452,
+      "slug": "kefir-kenya",
+      "x": -386.13,
+      "y": 23.64,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477552,
+      "slug": "dennis-andaye",
+      "x": 20.15,
+      "y": 385.43,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477652,
+      "slug": "institute-of-food-justice-and-development",
+      "x": -176.84,
+      "y": -446.7,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477752,
+      "slug": "karobia-njai",
+      "x": -489.22,
+      "y": -140.94,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477852,
+      "slug": "green-walker-farm",
+      "x": 134.65,
+      "y": 282.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 477952,
+      "slug": "incuti-foods",
+      "x": -541.4,
+      "y": 88.09,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 478052,
+      "slug": "cooperative-agricole-et-oleicole-ariaf-kissane",
+      "x": 240.66,
+      "y": 163.09,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-africa",
+      "size": "medium"
+    },
+    {
+      "id": 478152,
+      "slug": "mouzouna-poulaillers",
+      "x": -372.72,
+      "y": -218.73,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "north-africa",
+      "size": "medium"
+    },
+    {
+      "id": 478252,
+      "slug": "high-atlas-foundation",
+      "x": 391.75,
+      "y": 122.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-africa",
+      "size": "medium"
+    },
+    {
+      "id": 478352,
+      "slug": "terre-humanisme-maroc",
+      "x": 315,
+      "y": 244.89,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-africa",
+      "size": "medium"
+    },
+    {
+      "id": 478452,
+      "slug": "mad-agriculture",
+      "x": 293.74,
+      "y": 236.31,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 478552,
+      "slug": "the-colorado-grain-train",
+      "x": 118.42,
+      "y": -0.6,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 478652,
+      "slug": "pow-bar",
+      "x": -576.76,
+      "y": 81.98,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 478752,
+      "slug": "matayoshi-coffee-farm",
+      "x": 413.16,
+      "y": 71.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 478852,
+      "slug": "robin-hood-army",
+      "x": -510.91,
+      "y": 132.96,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 478952,
+      "slug": "eko-land",
+      "x": 139.62,
+      "y": 168.01,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479052,
+      "slug": "seashore-garden",
+      "x": 98.82,
+      "y": -6.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479152,
+      "slug": "honest-greens",
+      "x": 296.94,
+      "y": 273.34,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479252,
+      "slug": "solitude-farm",
+      "x": 201.55,
+      "y": 164.01,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479352,
+      "slug": "no-food-waste",
+      "x": 155.86,
+      "y": -244.38,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479452,
+      "slug": "earth-focus-foundation",
+      "x": 95.41,
+      "y": 179.6,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479552,
+      "slug": "farmizen",
+      "x": 198.96,
+      "y": 28.46,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479652,
+      "slug": "swayyam",
+      "x": 251.1,
+      "y": 206.3,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479752,
+      "slug": "steakarar-restaurant",
+      "x": -396.1,
+      "y": 41.01,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479852,
+      "slug": "artlunch-food",
+      "x": -476.27,
+      "y": -68.04,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 479952,
+      "slug": "alluria-wines",
+      "x": 153.63,
+      "y": -75.81,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 480152,
+      "slug": "procolcacao",
+      "x": 96.22,
+      "y": 99.44,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480252,
+      "slug": "eafit",
+      "x": 135.11,
+      "y": -14.8,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480352,
+      "slug": "abd-colombia-asociacion-de-agricultura-biodinamica",
+      "x": 225.51,
+      "y": 115.81,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480452,
+      "slug": "cinco-cacao",
+      "x": 343.94,
+      "y": 119.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480552,
+      "slug": "asochip",
+      "x": 259.49,
+      "y": 164.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480652,
+      "slug": "cocteles-kandelo",
+      "x": -475.49,
+      "y": 159.83,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480752,
+      "slug": "mamma-mia",
+      "x": -515.09,
+      "y": 59.45,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480852,
+      "slug": "fundacion-club-campestre",
+      "x": -25.67,
+      "y": -462.15,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 480952,
+      "slug": "verdes-pensamientos",
+      "x": 19.63,
+      "y": 81.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481052,
+      "slug": "pezfresco",
+      "x": -337.52,
+      "y": 287.26,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481152,
+      "slug": "beeco-sas",
+      "x": 274.88,
+      "y": -333.93,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481252,
+      "slug": "fundacion-milenaria",
+      "x": -152.91,
+      "y": 405.3,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481352,
+      "slug": "santo-aroma",
+      "x": 187.51,
+      "y": 271.61,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481552,
+      "slug": "aproemsur",
+      "x": 262.53,
+      "y": 17.39,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481652,
+      "slug": "quivicol-quimica-y-ciencias-de-la-vida-de-colombia",
+      "x": 116.58,
+      "y": 269.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481752,
+      "slug": "urapanes-del-bosque",
+      "x": 318.84,
+      "y": 136.1,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481852,
+      "slug": "coopamat",
+      "x": 112.57,
+      "y": 246.1,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 481952,
+      "slug": "agroindustria-la-ceiba-sas",
+      "x": 89.7,
+      "y": 241.71,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482052,
+      "slug": "huao-sas",
+      "x": 202.94,
+      "y": -380.49,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482152,
+      "slug": "arroz-la-reserva-de-la-hacienda-con-denominacion-de-origen-protegida",
+      "x": 200.25,
+      "y": 193.66,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482252,
+      "slug": "cafe-quindio",
+      "x": -561.54,
+      "y": 48.61,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482352,
+      "slug": "escuela-viva",
+      "x": -169.48,
+      "y": -465.64,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482452,
+      "slug": "awaecoco",
+      "x": -459.98,
+      "y": 119.93,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482652,
+      "slug": "spirux",
+      "x": 379.76,
+      "y": 13.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482752,
+      "slug": "chandrika",
+      "x": -413.12,
+      "y": -48.5,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482852,
+      "slug": "biomateriales",
+      "x": 247.91,
+      "y": -364.81,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 482952,
+      "slug": "chacra-mil",
+      "x": 63.68,
+      "y": 218.46,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 483052,
+      "slug": "loubatas",
+      "x": -185.85,
+      "y": 355.81,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483152,
+      "slug": "les-cols-vert",
+      "x": 246.4,
+      "y": 57.96,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483252,
+      "slug": "veragrow",
+      "x": 81.81,
+      "y": 198.49,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483352,
+      "slug": "defis-foyers-a-alimentation-positive",
+      "x": -163.85,
+      "y": -375.99,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483452,
+      "slug": "la-regie-agricole-village-en-transition",
+      "x": 204.77,
+      "y": 78.49,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483552,
+      "slug": "myfood-serres-innovantes-aquaponiques",
+      "x": 158.45,
+      "y": 157.54,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483652,
+      "slug": "les-recoltants",
+      "x": 192.8,
+      "y": 291.3,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483752,
+      "slug": "les-glaneuses",
+      "x": -528.11,
+      "y": 43.05,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483852,
+      "slug": "le-potager-d-un-curieux",
+      "x": 210.09,
+      "y": 45.93,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 483952,
+      "slug": "c-est-qui-le-patron",
+      "x": 134.89,
+      "y": 258.49,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484052,
+      "slug": "sophie-nicklaus",
+      "x": 134.13,
+      "y": 15.87,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484152,
+      "slug": "l-ecole-comestible",
+      "x": -468.27,
+      "y": -139.2,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484252,
+      "slug": "securite-sociale-alimentaire",
+      "x": -186.74,
+      "y": -374.6,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484352,
+      "slug": "aux-arbres-citoyens",
+      "x": 177.9,
+      "y": -341.21,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484452,
+      "slug": "ferme-de-l-abbe-rozier",
+      "x": 336.89,
+      "y": 244.9,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484552,
+      "slug": "groupe-biodiversite-alstom",
+      "x": -197.16,
+      "y": 374.8,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484652,
+      "slug": "le-fourgon",
+      "x": 139.32,
+      "y": -281.27,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484752,
+      "slug": "les-retoques",
+      "x": 239.76,
+      "y": -272.57,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484852,
+      "slug": "au-coin-bio",
+      "x": 45.75,
+      "y": 171.67,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 484952,
+      "slug": "amap",
+      "x": 38.85,
+      "y": 190.96,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 485052,
+      "slug": "the-montpellier-process",
+      "x": -214.81,
+      "y": -427.39,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 485152,
+      "slug": "agrocluster-co-sinergy-latam-cg-sas",
+      "x": 299.7,
+      "y": -84.14,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485252,
+      "slug": "granja-tarapaca",
+      "x": 149.52,
+      "y": 2.21,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485352,
+      "slug": "hotel-ecoturistico-villa-lucy",
+      "x": -171.4,
+      "y": 413.29,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485452,
+      "slug": "safer-agrobiologicos-s-a-s",
+      "x": 404.1,
+      "y": 53.06,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485552,
+      "slug": "ecoplanet-soluciones-integrales-s-a-s",
+      "x": 161.14,
+      "y": -286.43,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485652,
+      "slug": "lifepack",
+      "x": 179.82,
+      "y": -275.23,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485752,
+      "slug": "reserva-natural-ecofinca-kanari",
+      "x": 144.96,
+      "y": -56.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485852,
+      "slug": "suppra",
+      "x": 370.53,
+      "y": -25.51,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 485952,
+      "slug": "delicias-del-platano",
+      "x": -367.62,
+      "y": -10.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486052,
+      "slug": "lynks-s-a",
+      "x": -0.16,
+      "y": -340.89,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486152,
+      "slug": "bosque-comestible-agroecologia",
+      "x": 27.24,
+      "y": 165.15,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486252,
+      "slug": "acuaponicos-comfuturo",
+      "x": 244.53,
+      "y": 96.8,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486352,
+      "slug": "biotropical-sa-ideas-biologicas",
+      "x": 37.83,
+      "y": 69.95,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486452,
+      "slug": "ubees",
+      "x": 368.74,
+      "y": 204.82,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486552,
+      "slug": "fly360",
+      "x": 36.63,
+      "y": -353.96,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486652,
+      "slug": "pangea",
+      "x": 75.09,
+      "y": 47.77,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486752,
+      "slug": "fundacion-tirreza",
+      "x": 262.46,
+      "y": 73.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486852,
+      "slug": "molinillito",
+      "x": -438.05,
+      "y": 71.05,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 486952,
+      "slug": "ticsa-takal-sas",
+      "x": -359.82,
+      "y": 90.79,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487052,
+      "slug": "profesor-hass",
+      "x": 243.72,
+      "y": 23.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487152,
+      "slug": "sabores-y-vida",
+      "x": -440.28,
+      "y": -64.98,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487252,
+      "slug": "sabores-sixtatulia",
+      "x": -494.54,
+      "y": -23.68,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487352,
+      "slug": "semillas-de-vida",
+      "x": -388.3,
+      "y": 58.81,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487452,
+      "slug": "escuela-de-semillas-aseas-san-rafael",
+      "x": 198.22,
+      "y": 233.56,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487552,
+      "slug": "hugo-restrepo-y-cia-s-a",
+      "x": 259.41,
+      "y": 41.78,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487652,
+      "slug": "herbolario-de-gaia-valeria-borrero",
+      "x": 339.73,
+      "y": 184.68,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487752,
+      "slug": "sembrando-confianza",
+      "x": 226.46,
+      "y": 135.3,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487852,
+      "slug": "friese-aromatizate",
+      "x": 291.69,
+      "y": 103.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 487952,
+      "slug": "sembramos",
+      "x": 179.54,
+      "y": 307.65,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488052,
+      "slug": "alimentando-el-manana",
+      "x": -540.91,
+      "y": -4.51,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488152,
+      "slug": "selva-nevada",
+      "x": -478.99,
+      "y": -35.38,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488252,
+      "slug": "agroinpa",
+      "x": -469.21,
+      "y": 88.85,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488352,
+      "slug": "municipio-de-tenjo",
+      "x": 386.32,
+      "y": -40.25,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488452,
+      "slug": "alqueria",
+      "x": -450.35,
+      "y": -245.96,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488552,
+      "slug": "oda",
+      "x": -502.53,
+      "y": 41.24,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488752,
+      "slug": "casa-luker",
+      "x": -489.28,
+      "y": 142.4,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488852,
+      "slug": "plasa-colombia",
+      "x": -190.26,
+      "y": -352.12,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 488952,
+      "slug": "cacao-hunters",
+      "x": -559.13,
+      "y": 29.25,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489052,
+      "slug": "growing-hope-fundaec",
+      "x": 145.99,
+      "y": 114.81,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489152,
+      "slug": "pura-fruta",
+      "x": -370.12,
+      "y": 107.19,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489252,
+      "slug": "totta-terra",
+      "x": 299.59,
+      "y": 205.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489352,
+      "slug": "ambientados-s-a-s-bic",
+      "x": 256.75,
+      "y": -325.57,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489452,
+      "slug": "grupo-smile",
+      "x": -520.4,
+      "y": -14.67,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489552,
+      "slug": "growing-hope-satelite-farms",
+      "x": 130.42,
+      "y": -69.27,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489652,
+      "slug": "growing-hope-schools",
+      "x": 174.49,
+      "y": -16.51,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489752,
+      "slug": "raices-piangueras",
+      "x": -379.93,
+      "y": 306.95,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489852,
+      "slug": "cerveceria-la-trocha",
+      "x": -551.42,
+      "y": 109.4,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 489952,
+      "slug": "biofertil-vital",
+      "x": 99.81,
+      "y": -289.29,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493052,
+      "slug": "cocina-optimista-cocina-optima",
+      "x": -514.19,
+      "y": 95.97,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493152,
+      "slug": "frigorifico-manu",
+      "x": -388.93,
+      "y": -274.45,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493252,
+      "slug": "sembrando-habitos-y-cosechando-salud-en-preescolares-programa-integral-de-nutric",
+      "x": 230.81,
+      "y": 310.89,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493352,
+      "slug": "mucilago-atomizado-de-sanky-y-su-aplicacion-como-aditivo-en-procesos-alimentario",
+      "x": -447.79,
+      "y": 14.3,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493552,
+      "slug": "evands",
+      "x": -418.65,
+      "y": 42.07,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493652,
+      "slug": "qumir-sunqu",
+      "x": 263.93,
+      "y": 189.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493752,
+      "slug": "hidrotec-sothelo",
+      "x": 336.27,
+      "y": -2.03,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493852,
+      "slug": "bns-bio-natural-solutions",
+      "x": -450.57,
+      "y": -34.94,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 493952,
+      "slug": "caliente-cafe",
+      "x": -483.15,
+      "y": -0.86,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494052,
+      "slug": "boss-woman",
+      "x": -92.84,
+      "y": -397.77,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494152,
+      "slug": "tucuy",
+      "x": -429.41,
+      "y": -26.16,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494252,
+      "slug": "resto-zero",
+      "x": 424.59,
+      "y": 15.74,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494352,
+      "slug": "caracterizacion-y-extraccion-de-antioxidantes-de-la-papa-nativa",
+      "x": 268.07,
+      "y": 244.88,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494452,
+      "slug": "fecundis",
+      "x": -377.43,
+      "y": -252.45,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494552,
+      "slug": "keclon",
+      "x": 37.42,
+      "y": -334.75,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494652,
+      "slug": "janus",
+      "x": 426.98,
+      "y": 139.98,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494752,
+      "slug": "programa-alimentos-de-interes-social-planta-de-alimentos-nutritivos-unl",
+      "x": -512.97,
+      "y": -33.65,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494852,
+      "slug": "zafran-recetas-honestas",
+      "x": -395.07,
+      "y": 106.91,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 494952,
+      "slug": "uruhimbi-kageyo-cooperative",
+      "x": 292.86,
+      "y": 44.47,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 495052,
+      "slug": "two-brothers-pixis-farm",
+      "x": 433.55,
+      "y": 71.99,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "sub-saharian-africa",
+      "size": "medium"
+    },
+    {
+      "id": 495152,
+      "slug": "niya",
+      "x": -525.81,
+      "y": 9.53,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-africa",
+      "size": "medium"
+    },
+    {
+      "id": 495252,
+      "slug": "lufa-farms",
+      "x": 104.68,
+      "y": 82.18,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 495352,
+      "slug": "collectif-recolte",
+      "x": -564.14,
+      "y": -13.85,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 495452,
+      "slug": "drylands-agroecology-research",
+      "x": 160.96,
+      "y": 208.29,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 495652,
+      "slug": "espigoladors",
+      "x": 201.92,
+      "y": -308.24,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 495752,
+      "slug": "slow-food-educa",
+      "x": 246.74,
+      "y": 121.78,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 495852,
+      "slug": "rasoterra",
+      "x": -541.66,
+      "y": -24.95,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 495952,
+      "slug": "make-eat-bcn",
+      "x": -432.25,
+      "y": -47.99,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496052,
+      "slug": "the-regen-academy",
+      "x": 373.46,
+      "y": 239.49,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496152,
+      "slug": "esther-molina",
+      "x": 70.27,
+      "y": 0.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496252,
+      "slug": "cooperativa-bejis",
+      "x": 409.61,
+      "y": 188.35,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496352,
+      "slug": "cooperativa-de-viver",
+      "x": 222.01,
+      "y": 23.08,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496452,
+      "slug": "l-olivera",
+      "x": 60.71,
+      "y": -21.13,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 496552,
+      "slug": "huerta-pelcan",
+      "x": 296.45,
+      "y": 143.8,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 496652,
+      "slug": "ccori",
+      "x": -490.21,
+      "y": 23.2,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 496752,
+      "slug": "greencycle",
+      "x": -5.05,
+      "y": -318.56,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 496852,
+      "slug": "agrayu",
+      "x": 154.31,
+      "y": -23.71,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 496952,
+      "slug": "cirkula",
+      "x": 179.45,
+      "y": -249.69,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497052,
+      "slug": "fungivoro",
+      "x": 432.59,
+      "y": 114.05,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497152,
+      "slug": "nuwa-muun-by-machu-picchu-foods",
+      "x": -394.16,
+      "y": -42.64,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497252,
+      "slug": "abejita-peru",
+      "x": -382.16,
+      "y": 1.45,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497352,
+      "slug": "santa-perucha",
+      "x": -463.13,
+      "y": -51.55,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497452,
+      "slug": "bioflash",
+      "x": 196.81,
+      "y": -264.31,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497552,
+      "slug": "tarwifoods",
+      "x": -581.97,
+      "y": -2.84,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497652,
+      "slug": "tara",
+      "x": 220.05,
+      "y": 236.31,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497752,
+      "slug": "shawi",
+      "x": 161.05,
+      "y": -43.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497852,
+      "slug": "la-chacra-de-d-dago",
+      "x": 117.02,
+      "y": 52.16,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 497952,
+      "slug": "mosca-soldado-negra",
+      "x": 23.56,
+      "y": -314.5,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 498052,
+      "slug": "genipina-del-huito-y-su-uso-como-aditivo-en-la-industria-alimentaria",
+      "x": 62.63,
+      "y": -446.45,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 498152,
+      "slug": "desarrollo-de-micro-y-nano-aditivos-funcionales-para-la-industria-alimentaria-a-",
+      "x": 125.46,
+      "y": -315.85,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 498252,
+      "slug": "dosojin",
+      "x": -512.24,
+      "y": -54.51,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 498352,
+      "slug": "proyecto-la-panaderia-el-tacarpino",
+      "x": -351.4,
+      "y": -331.49,
+      "r": 4,
+      "sector": "Other sector",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 498452,
+      "slug": "eixarcolant",
+      "x": 103.83,
+      "y": 202.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 498552,
+      "slug": "aful",
+      "x": -52.62,
+      "y": 411.95,
+      "r": 4,
+      "sector": "Energy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 498652,
+      "slug": "symbiose-serre-bio",
+      "x": 410.62,
+      "y": 102.33,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 498752,
+      "slug": "catherine-bassani",
+      "x": -203.77,
+      "y": -440.99,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 498852,
+      "slug": "les-pieds-dans-le-plat",
+      "x": -419.52,
+      "y": -70.28,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 498952,
+      "slug": "the-agri-food-collage",
+      "x": 413.3,
+      "y": 124.03,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 499052,
+      "slug": "let-s-food",
+      "x": -170.28,
+      "y": -356.08,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 499252,
+      "slug": "la-brasserie-de-l-etre",
+      "x": -580.19,
+      "y": 17.93,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 499352,
+      "slug": "veni-verdi",
+      "x": 308.1,
+      "y": -40.44,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 499552,
+      "slug": "weia",
+      "x": 123.71,
+      "y": 71.26,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 499652,
+      "slug": "crepes-waffles",
+      "x": -501.61,
+      "y": 113.27,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 499752,
+      "slug": "finca-san-jose-mosquera",
+      "x": -400.75,
+      "y": -254.82,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 499852,
+      "slug": "proyecto-utopia",
+      "x": 233.81,
+      "y": 2.86,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 499952,
+      "slug": "folu",
+      "x": 125.22,
+      "y": 115.76,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500052,
+      "slug": "gdpp-departamento-de-ingenieria-quimica-y-de-alimentos",
+      "x": -556.73,
+      "y": -46.18,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500152,
+      "slug": "gdpp-diseno-de-productos-con-base-en-alimentos-no-convencionales",
+      "x": 398.46,
+      "y": 84.33,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500252,
+      "slug": "gdpp-desarrollo-de-alimentos-funcionales",
+      "x": -557.79,
+      "y": 8.03,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500352,
+      "slug": "gdpp-lpe-laboratorio-de-productos-y-experiencias",
+      "x": 72.56,
+      "y": -357.24,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500452,
+      "slug": "zagos",
+      "x": 201.97,
+      "y": -46.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500552,
+      "slug": "siembra-ahora-confianza-siempre",
+      "x": 117.83,
+      "y": 187.05,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500652,
+      "slug": "faro",
+      "x": -417.18,
+      "y": 115,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500752,
+      "slug": "hit-social",
+      "x": 49.79,
+      "y": 12.48,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500852,
+      "slug": "fundacion-alpina",
+      "x": 401.35,
+      "y": -27.58,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 500952,
+      "slug": "biofutura",
+      "x": 197.37,
+      "y": -329.71,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501052,
+      "slug": "costa-rica-regenerativa",
+      "x": 211.36,
+      "y": -13.74,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501152,
+      "slug": "suelos-vivos",
+      "x": -410.61,
+      "y": -217.46,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501252,
+      "slug": "coopecuna",
+      "x": 260.18,
+      "y": -58.08,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501352,
+      "slug": "camapez",
+      "x": -369.93,
+      "y": 289.05,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501452,
+      "slug": "fundacion-costaricense-de-gastronomia-fucoga",
+      "x": -510.09,
+      "y": 21.02,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501552,
+      "slug": "ministerio-de-agricultura-y-ganadaria-mag-departamento-de-produccion-organica",
+      "x": -413.99,
+      "y": -268.05,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501652,
+      "slug": "bioeco",
+      "x": 338.77,
+      "y": -34.64,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501752,
+      "slug": "fundecooperacion",
+      "x": 296.95,
+      "y": 185.24,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501852,
+      "slug": "del-campo-al-plato",
+      "x": 290.48,
+      "y": 255.6,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 501952,
+      "slug": "ganbos-costa-rica",
+      "x": 186.26,
+      "y": 177.98,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 502052,
+      "slug": "sustainable-agriculture-network-san",
+      "x": 313.05,
+      "y": 116.67,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 502152,
+      "slug": "earth-university",
+      "x": 339.31,
+      "y": 139.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 502252,
+      "slug": "market-and-more",
+      "x": 347.34,
+      "y": 205.4,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 502352,
+      "slug": "philippe-lemanceau",
+      "x": -154.86,
+      "y": -425.11,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502452,
+      "slug": "frederic-imbert",
+      "x": 339.3,
+      "y": -64.54,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502552,
+      "slug": "liselore-martin",
+      "x": 94.99,
+      "y": -53.74,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502652,
+      "slug": "freddy-thiburce",
+      "x": 106.71,
+      "y": -426.91,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502752,
+      "slug": "etienne-kayser",
+      "x": 96.04,
+      "y": -388.53,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502852,
+      "slug": "aurelien-thivent",
+      "x": -197.16,
+      "y": -410.32,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 502952,
+      "slug": "jose-fatien",
+      "x": -396.4,
+      "y": -64.06,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 503052,
+      "slug": "gabriel-martinez",
+      "x": -439.43,
+      "y": 47.7,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 503152,
+      "slug": "yau-tam-mei-holiday-camp-limited",
+      "x": 386.62,
+      "y": 103.01,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503252,
+      "slug": "team-river-corporation-limited",
+      "x": 275.68,
+      "y": 57.72,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503352,
+      "slug": "promethean-power-systems",
+      "x": -369.12,
+      "y": -236.24,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503452,
+      "slug": "greenway-grameen",
+      "x": -58.95,
+      "y": 388.68,
+      "r": 4,
+      "sector": "Energy",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503552,
+      "slug": "solidaridad-india-srec",
+      "x": 277.45,
+      "y": -69.32,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503652,
+      "slug": "eeki",
+      "x": 240.37,
+      "y": -43.41,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503752,
+      "slug": "mitti-labs",
+      "x": 251.69,
+      "y": -5.31,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503852,
+      "slug": "agrisavant",
+      "x": 45.73,
+      "y": -319.82,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 503952,
+      "slug": "ecozen",
+      "x": 252.8,
+      "y": 141.73,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 504052,
+      "slug": "plume-ashoka-trust-for-research-in-ecology-and-the-environment-atree",
+      "x": 273.92,
+      "y": 90.77,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 504152,
+      "slug": "nuvedo",
+      "x": 383.77,
+      "y": 47.11,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 504252,
+      "slug": "nuup",
+      "x": 333.17,
+      "y": 222.54,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504352,
+      "slug": "de-la-chinampa",
+      "x": 293.58,
+      "y": 124.28,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504452,
+      "slug": "huerto-roma-verde",
+      "x": 147.94,
+      "y": 90.76,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504552,
+      "slug": "mercado-alternativo-de-tlalpan",
+      "x": 12.74,
+      "y": 341.83,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504652,
+      "slug": "milpa-azul",
+      "x": 304.89,
+      "y": -64.97,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504752,
+      "slug": "centro-de-desarrollo-indigena-loyola-cdil",
+      "x": -86.54,
+      "y": -349.37,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504852,
+      "slug": "cerro-verde",
+      "x": 219.78,
+      "y": -78.46,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 504952,
+      "slug": "red-socioambiental-amealco",
+      "x": -157.53,
+      "y": 358.59,
+      "r": 4,
+      "sector": "Environment & Biodiversity",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505052,
+      "slug": "mux",
+      "x": -565.18,
+      "y": 97.41,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505152,
+      "slug": "del-comalli",
+      "x": 220.09,
+      "y": -56.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505252,
+      "slug": "hagamos-composta",
+      "x": 93.64,
+      "y": -269.46,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505352,
+      "slug": "banco-de-leche",
+      "x": -503.21,
+      "y": -168.3,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505452,
+      "slug": "ecoscience-lab",
+      "x": 169.64,
+      "y": 138.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505552,
+      "slug": "padre-huerto",
+      "x": 215.11,
+      "y": 277.61,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505652,
+      "slug": "bioflora",
+      "x": 95.19,
+      "y": 39.24,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505752,
+      "slug": "ixti",
+      "x": 332.51,
+      "y": 84.43,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505852,
+      "slug": "solar",
+      "x": 133.58,
+      "y": 147.78,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 505952,
+      "slug": "cidpro",
+      "x": -555.05,
+      "y": 128.01,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506052,
+      "slug": "microterra",
+      "x": 53.65,
+      "y": -406.16,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506152,
+      "slug": "instituto-de-emprendimiento-eugenio-garza-laguera",
+      "x": 64.36,
+      "y": -381.62,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506252,
+      "slug": "velozbio",
+      "x": 81.06,
+      "y": -453.56,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506452,
+      "slug": "el-buen-socio",
+      "x": 396.54,
+      "y": 205.94,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506552,
+      "slug": "arca-tierra",
+      "x": 430.28,
+      "y": 93.59,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506652,
+      "slug": "apical-biotech",
+      "x": 98.9,
+      "y": -32.85,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506752,
+      "slug": "cosechando-soberania",
+      "x": 167.66,
+      "y": 232.23,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506852,
+      "slug": "liga-de-la-leche",
+      "x": -464.35,
+      "y": -162.52,
+      "r": 4,
+      "sector": "Health & Nutrition",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 506952,
+      "slug": "ceprobi",
+      "x": 62.83,
+      "y": -423.33,
+      "r": 4,
+      "sector": "Technology & Innovation",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 507052,
+      "slug": "sierra-encantada",
+      "x": -408.41,
+      "y": -288.02,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 507152,
+      "slug": "preservados",
+      "x": 176.15,
+      "y": 117.56,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507252,
+      "slug": "huevos-para-el-ande-seguridad-alimentaria-en-comunidades-rurales",
+      "x": -520.81,
+      "y": -71.6,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507352,
+      "slug": "tangara-cafe",
+      "x": 20.97,
+      "y": 122.15,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507452,
+      "slug": "si-huyro-innovacion-sostenible-para-transformar-territorios",
+      "x": 182.28,
+      "y": -44.87,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507552,
+      "slug": "good-food-community",
+      "x": 151.09,
+      "y": 243.15,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 507652,
+      "slug": "7-hectares",
+      "x": -329.68,
+      "y": 308.1,
+      "r": 4,
+      "sector": "Fisheries & Aquaculture",
+      "continent": "asia",
+      "size": "medium"
+    },
+    {
+      "id": 507752,
+      "slug": "eco-agro-naturalmente",
+      "x": 65.68,
+      "y": 110.48,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507852,
+      "slug": "tu-kokue",
+      "x": -478.57,
+      "y": 46.75,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 507952,
+      "slug": "nandete",
+      "x": -379.31,
+      "y": 123.96,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 508052,
+      "slug": "compost-for-life",
+      "x": 215.53,
+      "y": -261.97,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 508152,
+      "slug": "overtown-green-haven-project",
+      "x": 299.91,
+      "y": 294.62,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 508252,
+      "slug": "philly-food-rescue",
+      "x": 192.86,
+      "y": -361.63,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 508352,
+      "slug": "circular-philadelphia",
+      "x": -158.41,
+      "y": -396.31,
+      "r": 4,
+      "sector": "Policy & Advocacy",
+      "continent": "north-america",
+      "size": "medium"
+    },
+    {
+      "id": 508452,
+      "slug": "compassionate-hearts-touwsrivier",
+      "x": -53.6,
+      "y": -453.41,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 508552,
+      "slug": "touwsrivier-commercial-hydroponic-farm",
+      "x": 235.41,
+      "y": -92.33,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 508752,
+      "slug": "siyahluma-creche",
+      "x": 203.93,
+      "y": -90.92,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509252,
+      "slug": "glen-heatlie-primary-school-worcester",
+      "x": 215.37,
+      "y": 297.3,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509352,
+      "slug": "siyazama-klipland-table-grapes-farm",
+      "x": 239.72,
+      "y": -66.1,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509452,
+      "slug": "khulisa-food-and-nutrition-npo",
+      "x": 364.16,
+      "y": 58.82,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509552,
+      "slug": "hexvalley-vegetables-and-agri-services",
+      "x": 355.57,
+      "y": -45.2,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509652,
+      "slug": "zwelethemba-pig-farming",
+      "x": -454.87,
+      "y": -266.41,
+      "r": 4,
+      "sector": "Livestock & Dairy",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509752,
+      "slug": "imdawo-ekuhle-pty-ltd-operates-vergelegen-farm",
+      "x": 185.05,
+      "y": 217.69,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509852,
+      "slug": "the-do-more-foundation-dmf",
+      "x": -496.01,
+      "y": 87.28,
+      "r": 4,
+      "sector": "Food Processing/Products",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 509952,
+      "slug": "matroosberg-karoo",
+      "x": 220.41,
+      "y": 92.42,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510052,
+      "slug": "the-sundum-farm-riverland-whole-unity-farm-touwsriver",
+      "x": 290.6,
+      "y": -31.85,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510152,
+      "slug": "sarel-and-hettie-pool-welwillendheidstrust-pool-family-trust-breede-valley",
+      "x": -59.83,
+      "y": -474.04,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510252,
+      "slug": "foodforward-south-africa-ffsa",
+      "x": 262.33,
+      "y": -305.1,
+      "r": 4,
+      "sector": "Waste & Circular Economy",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510352,
+      "slug": "de-hoop-boerdery-de-hoop-farm-breede-valley",
+      "x": 356.69,
+      "y": 77.81,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510452,
+      "slug": "pool-transport",
+      "x": 38.63,
+      "y": 359.77,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510552,
+      "slug": "lucentlands-media",
+      "x": 254.75,
+      "y": 284.87,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510652,
+      "slug": "the-gift-of-the-givers-foundation",
+      "x": -76.5,
+      "y": -458.74,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510752,
+      "slug": "the-cape-town-market",
+      "x": 65.1,
+      "y": 382.16,
+      "r": 4,
+      "sector": "Distribution & Logistics",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510852,
+      "slug": "women-on-farms-project-wfp",
+      "x": -28.37,
+      "y": -442.76,
+      "r": 4,
+      "sector": "Social & Community",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 510952,
+      "slug": "making-kos",
+      "x": 273.56,
+      "y": -0.04,
+      "r": 4,
+      "sector": "Agriculture/Agroecology",
+      "continent": "africa",
+      "size": "medium"
+    },
+    {
+      "id": 511052,
+      "slug": "la-julia",
+      "x": 348.54,
+      "y": -147.13,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511152,
+      "slug": "nutriraw",
+      "x": -381.13,
+      "y": 206.73,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511252,
+      "slug": "agropac-asociacion-agropecuaria-de-acacias",
+      "x": 265.44,
+      "y": -152.08,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511352,
+      "slug": "asociacion-agropecuaria-ambiental-del-sur-del-tolima",
+      "x": 329.49,
+      "y": -146.51,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511452,
+      "slug": "ccb-cluster-seguridad-alimentaria",
+      "x": 302.55,
+      "y": -148.91,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511552,
+      "slug": "banco-de-alimentos-bogota",
+      "x": -438.1,
+      "y": 243.93,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511652,
+      "slug": "food-click-project-aarhus-municipality",
+      "x": -420.23,
+      "y": 233.23,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 511752,
+      "slug": "coop-sur-siendo-redes-y-sabores",
+      "x": 114.87,
+      "y": 343.91,
+      "r": 4,
+      "sector": "DIS",
+      "continent": "south-america",
+      "size": "medium"
+    },
+    {
+      "id": 511852,
+      "slug": "empesca-t",
+      "x": -262.89,
+      "y": 338.43,
+      "r": 4,
+      "sector": "Fisheries",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 511952,
+      "slug": "la-platjeta",
+      "x": -270.49,
+      "y": 357.07,
+      "r": 4,
+      "sector": "Fisheries",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512052,
+      "slug": "green-leka-can-valldaura",
+      "x": -399.87,
+      "y": 227.07,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512152,
+      "slug": "slow-food-barcelona",
+      "x": -431.53,
+      "y": 217.43,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512252,
+      "slug": "vacka",
+      "x": -452.6,
+      "y": 229.67,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512352,
+      "slug": "programa-sustentta",
+      "x": -289.66,
+      "y": -386.18,
+      "r": 4,
+      "sector": "Policy",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512452,
+      "slug": "fundacion-carrasso",
+      "x": 317.46,
+      "y": -161.05,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512552,
+      "slug": "terra-alimenta",
+      "x": 285.14,
+      "y": -157.35,
+      "r": 4,
+      "sector": "Agriculture",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512652,
+      "slug": "la-calma",
+      "x": -404.34,
+      "y": 209.01,
+      "r": 4,
+      "sector": "Food Processing",
+      "continent": "europe",
+      "size": "medium"
+    },
+    {
+      "id": 512752,
+      "slug": "marie-helene-riamon-dijon-metropole",
+      "x": -283.43,
+      "y": -366.62,
+      "r": 4,
+      "sector": "Policy",
+      "continent": "europe",
+      "size": "medium"
+    }
+  ]
+}

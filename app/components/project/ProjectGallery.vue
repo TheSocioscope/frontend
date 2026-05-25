@@ -136,6 +136,9 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+ '~~/assets/styles/variables' as *;
+
 .project-gallery {
   margin-bottom: 2rem;
 }
@@ -178,7 +181,7 @@ onMounted(() => {
 .gallery-caption {
   font-size: 0.9rem;
   line-height: 1.4;
-  color: rgba(0, 0, 0, 0.7);
+  color: $text-secondary;
   padding: 0.75rem;
 }
 

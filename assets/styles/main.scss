@@ -7,6 +7,18 @@
   box-sizing: border-box;
 }
 
+// Global CSS custom properties — viewport-responsive design tokens.
+// Components reference these via `gap: var(--grid-gap)` so they don't
+// need their own media queries.
+:root {
+  --grid-gap: 24px;
+  --v-btn-border-radius: 4px;
+
+  @media (max-width: 768px) {
+    --grid-gap: 16px;
+  }
+}
+
 // Utility classes
 .gradient-green {
   background: $green-bright;
@@ -18,10 +30,55 @@
 
 body {
   font-family: $font-family-base;
-  background-color: $cream;
-  color: $brown-dark;
+  background-color: $surface-page;
+  color: $text-primary;
   line-height: 1.7;
   overflow-x: hidden;
+  // OWID-style typographic features: ligatures, kerning, contextual
+  // alternates, and lining numerals as default. Free polish.
+  font-feature-settings: 'liga', 'kern', 'calt', 'lnum';
+}
+
+// When the Customize bottom sheet is open, reserve scroll room so the
+// last items on the page aren't permanently hidden behind it. The Filters
+// component toggles this class via a watcher.
+body.has-customize-sheet-open {
+  padding-bottom: 62vh;
+}
+
+// Force the OWID-style font pair onto every Vuetify component. Vuetify
+// defaults to Roboto via its CSS variable; override at root so buttons,
+// inputs, chips, dialogs etc. all read in Lato.
+:root {
+  --v-font-family: #{$font-family-base};
+}
+
+.v-application,
+.v-application *,
+.v-overlay__content,
+.v-overlay__content * {
+  font-family: $font-family-base !important;
+}
+
+// Headings + .h-* utility classes inside Vuetify components keep the
+// serif voice for editorial display.
+.v-application h1,
+.v-application h2,
+.v-application h3,
+.v-application h4,
+.v-application h5,
+.v-application h6,
+.v-application .text-h1,
+.v-application .text-h2,
+.v-application .text-h3,
+.v-application .text-h4,
+.v-application .text-h5,
+.v-application .text-h6,
+.v-application .text-display-1,
+.v-application .text-display-2,
+.v-application .text-display-3,
+.v-application .text-display-4 {
+  font-family: $font-family-display !important;
 }
 
 // Smooth scrolling
@@ -99,14 +156,15 @@ a {
   }
 }
 
-// Container
+// Container — generous outer padding on desktop (OWID pattern). Content
+// doesn't touch the page edges; the page breathes.
 .container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 24px;
 
-  @media (max-width: 768px) {
-    padding: 0 $spacing-sm;
+  @media (min-width: 769px) {
+    padding: 0 80px;
   }
 }
 
@@ -153,6 +211,65 @@ a {
 
 .fade-in {
   animation: fadeIn 0.6s ease-out;
+}
+
+// Scroll-driven section reveal — sections fade + drift up as they enter
+// the viewport. Uses modern CSS scroll-driven animations where supported
+// (Chrome 115+, Edge, Safari TP), with a graceful no-op fallback so older
+// browsers just render content immediately. Honour reduced-motion users.
+@keyframes sectionReveal {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .section-reveal {
+      animation: sectionReveal linear both;
+      animation-timeline: view();
+      // Trigger as the element enters; finish ~30% of the way in so users
+      // don't have to wait for it to be fully on-screen.
+      animation-range: entry 0% entry 35%;
+      will-change: opacity, transform;
+    }
+  }
+}
+
+// Section-edge softeners — used when a strongly-coloured band (e.g. the
+// green Stats counter) butts up against a cream section. Apply a subtle
+// inner shadow at the top + bottom edge so the colour blends rather than
+// slamming into the next section. Inherit-friendly: any element using
+// .edge-soften gets the gradient overlay regardless of its base colour.
+.edge-soften {
+  position: relative;
+  isolation: isolate;
+
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 24px;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  &::before {
+    top: 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.08), transparent);
+  }
+
+  &::after {
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.08), transparent);
+  }
 }
 
 // Shimmer effect

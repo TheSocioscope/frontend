@@ -1,8 +1,8 @@
 <template>
-  <v-card-title class="section-title">
-    <v-icon class="mr-2">{{ icon }}</v-icon>
-    <slot />
-  </v-card-title>
+  <h2 class="section-title">
+    <v-icon class="section-icon" size="small">{{ icon }}</v-icon>
+    <span><slot /></span>
+  </h2>
 </template>
 
 <script setup lang="ts">
@@ -12,12 +12,26 @@ defineProps<{
 </script>
 
 <style scoped lang="scss">
+@use '~~/assets/styles/variables' as *;
+
 .section-title {
-  font-size: 1.5rem;
-  font-weight: 700;
   display: flex;
   align-items: center;
-  padding: 1.5rem;
-  background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
+  gap: $rhythm-1;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: $green-dark;
+  line-height: 1.2;
+  margin: 0 0 $rhythm-3;
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    font-size: 1.125rem;
+    margin-bottom: $rhythm-2;
+  }
+}
+
+.section-icon {
+  color: $green-bright;
+  flex-shrink: 0;
 }
 </style>

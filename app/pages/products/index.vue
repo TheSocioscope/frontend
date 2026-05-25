@@ -5,10 +5,13 @@
       :subtitle="$t('products.hero.subtitle')"
       icon="mdi-package-variant-closed"
       compact
+      centered
     />
     <section class="section">
       <div class="container">
-        <ProductsIntro />
+        <div class="section-reveal">
+          <ProductsIntro />
+        </div>
         <ProductsFilter :active-filter="activeFilter" @filter-change="handleFilterChange" />
 
         <!-- Sort and Per Page Controls with Reset Button -->
@@ -27,10 +30,20 @@
         </ListControls>
 
         <!-- Desktop: Paginated Grid -->
-        <ProductsGrid v-if="!isMobile" :products="items" :active-filter="activeFilter" />
+        <ProductsGrid
+          v-if="!isMobile"
+          :products="items"
+          :active-filter="activeFilter"
+          class="section-reveal"
+        />
 
         <!-- Mobile: Lazy Loading Grid -->
-        <ProductsGrid v-else :products="displayedItems" :active-filter="activeFilter" />
+        <ProductsGrid
+          v-else
+          :products="displayedItems"
+          :active-filter="activeFilter"
+          class="section-reveal"
+        />
 
         <!-- Desktop Pagination -->
         <ListPagination
@@ -138,11 +151,11 @@ const {
 @use '~~/assets/styles/variables' as *;
 
 .section {
-  padding: 5rem 0;
+  padding: 2.5rem 0 3rem;
   background: $cream;
 
   @media (max-width: 768px) {
-    padding: 4rem 0;
+    padding: 2rem 0 2.5rem;
   }
 }
 
@@ -150,5 +163,9 @@ const {
   max-width: 1400px;
   margin: 0 auto;
   padding: 0 2rem;
+
+  @media (max-width: 768px) {
+    padding: 0 1rem;
+  }
 }
 </style>
