@@ -2,6 +2,9 @@
   <div>
     <!-- Slim title bar (replaces the marketing-y PageHero per the OWID pattern) -->
     <header class="projects-title-bar">
+      <div class="floating-element floating-element-1" aria-hidden="true" />
+      <div class="floating-element floating-element-2" aria-hidden="true" />
+      <div class="floating-element floating-element-3" aria-hidden="true" />
       <div class="container title-row">
         <div class="title-block">
           <h1 class="page-title">{{ $t('projects.hero.title') }}</h1>
@@ -936,6 +939,59 @@ useHead({
   background: $surface-cream;
   border-bottom: 1px solid $border-soft;
   padding: 1.5rem 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.floating-element {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.12;
+  animation: float 6s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.floating-element-1 {
+  width: 120px;
+  height: 120px;
+  background: $green-bright;
+  top: 10%;
+  right: 5%;
+  animation-delay: 0s;
+}
+
+.floating-element-2 {
+  width: 80px;
+  height: 80px;
+  background: $brown-dark;
+  top: 50%;
+  right: 18%;
+  animation-delay: 1s;
+}
+
+.floating-element-3 {
+  width: 100px;
+  height: 100px;
+  background: $green-bright;
+  top: -20%;
+  right: 30%;
+  animation-delay: 2s;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(-20px) translateX(10px);
+  }
+  50% {
+    transform: translateY(-10px) translateX(-10px);
+  }
+  75% {
+    transform: translateY(-25px) translateX(5px);
+  }
 }
 
 .title-row {
@@ -944,6 +1000,8 @@ useHead({
   justify-content: space-between;
   gap: 1rem;
   flex-wrap: wrap;
+  position: relative;
+  z-index: 1;
 }
 
 .title-block {
