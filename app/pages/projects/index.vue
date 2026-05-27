@@ -1,25 +1,19 @@
 <template>
   <div>
-    <!-- Slim title bar (replaces the marketing-y PageHero per the OWID pattern) -->
-    <header class="projects-title-bar">
-      <div class="floating-element floating-element-1" aria-hidden="true" />
-      <div class="floating-element floating-element-2" aria-hidden="true" />
-      <div class="floating-element floating-element-3" aria-hidden="true" />
-      <div class="container title-row">
-        <div class="title-block">
-          <h1 class="page-title">{{ $t('projects.hero.title') }}</h1>
-        </div>
-        <button
-          v-if="hasActiveFilters"
-          type="button"
-          class="clear-all-btn"
-          @click="resetFilters"
-        >
+    <PageHero
+      :title="$t('projects.hero.title')"
+      :subtitle="$t('projects.hero.subtitle')"
+      icon="mdi-sprout"
+      compact
+      centered
+    >
+      <template v-if="hasActiveFilters" #cta>
+        <button type="button" class="clear-all-btn" @click="resetFilters">
           <v-icon size="small">mdi-close-circle-outline</v-icon>
           {{ $t('projects.clearAllFilters', 'Clear all filters') }}
         </button>
-      </div>
-    </header>
+      </template>
+    </PageHero>
 
     <section class="section">
       <div class="container">
@@ -934,91 +928,6 @@ useHead({
   padding: 0 2rem;
 }
 
-// Slim OWID-style title bar (replaces the old PageHero)
-.projects-title-bar {
-  background: $surface-cream;
-  border-bottom: 1px solid $border-soft;
-  padding: 1.5rem 0;
-  position: relative;
-  overflow: hidden;
-}
-
-.floating-element {
-  position: absolute;
-  border-radius: 50%;
-  opacity: 0.12;
-  animation: float 6s ease-in-out infinite;
-  pointer-events: none;
-}
-
-.floating-element-1 {
-  width: 120px;
-  height: 120px;
-  background: $green-bright;
-  top: 10%;
-  right: 5%;
-  animation-delay: 0s;
-}
-
-.floating-element-2 {
-  width: 80px;
-  height: 80px;
-  background: $brown-dark;
-  top: 50%;
-  right: 18%;
-  animation-delay: 1s;
-}
-
-.floating-element-3 {
-  width: 100px;
-  height: 100px;
-  background: $green-bright;
-  top: -20%;
-  right: 30%;
-  animation-delay: 2s;
-}
-
-@keyframes float {
-  0%,
-  100% {
-    transform: translateY(0) translateX(0);
-  }
-  25% {
-    transform: translateY(-20px) translateX(10px);
-  }
-  50% {
-    transform: translateY(-10px) translateX(-10px);
-  }
-  75% {
-    transform: translateY(-25px) translateX(5px);
-  }
-}
-
-.title-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
-  position: relative;
-  z-index: 1;
-}
-
-.title-block {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  min-width: 0;
-}
-
-.page-title {
-  margin: 0;
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: $green-dark;
-  line-height: 1.15;
-}
-
 /* Clear all filters — only renders when any filter is active. */
 .clear-all-btn {
   display: inline-flex;
@@ -1034,6 +943,7 @@ useHead({
   font-weight: 600;
   cursor: pointer;
   flex-shrink: 0;
+  margin-top: 1rem;
   transition: border-color 0.15s, color 0.15s, background 0.15s;
 
   &:hover {
@@ -1045,21 +955,6 @@ useHead({
   &:focus-visible {
     outline: 2px solid $green-bright;
     outline-offset: 2px;
-  }
-}
-
-@media (max-width: 600px) {
-  .projects-title-bar {
-    padding: 1rem 0;
-  }
-  .page-title {
-    font-size: 1.25rem;
-  }
-  .clear-all-btn {
-    /* Wrap onto its own line on phones so the title doesn't get cramped */
-    width: 100%;
-    justify-content: center;
-    margin-top: 0.25rem;
   }
 }
 
