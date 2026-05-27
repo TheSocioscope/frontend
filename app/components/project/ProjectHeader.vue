@@ -1,5 +1,8 @@
 <template>
   <header id="about" class="project-header">
+    <div class="floating-element floating-element-1" aria-hidden="true" />
+    <div class="floating-element floating-element-2" aria-hidden="true" />
+    <div class="floating-element floating-element-3" aria-hidden="true" />
     <v-container>
       <h1 class="initiative-name">{{ localizedName }}</h1>
 
@@ -43,6 +46,8 @@ defineEmits<{
   padding: $rhythm-4;
   border-radius: 8px;
   margin-bottom: $rhythm-3;
+  position: relative;
+  overflow: hidden;
   scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
 
   :deep(.v-container) {
@@ -50,6 +55,8 @@ defineEmits<{
        column define the width and the v-container be a simple flow box. */
     max-width: 100%;
     padding: 0;
+    position: relative;
+    z-index: 1;
   }
 
   @media (max-width: $detail-bp-tablet - 1) {
@@ -133,6 +140,57 @@ defineEmits<{
     :deep(p) {
       margin-bottom: 8px;
     }
+  }
+}
+
+.floating-element {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.12;
+  animation: float 6s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.floating-element-1 {
+  width: 120px;
+  height: 120px;
+  background: $green-bright;
+  top: 10%;
+  right: 8%;
+  animation-delay: 0s;
+}
+
+.floating-element-2 {
+  width: 80px;
+  height: 80px;
+  background: $brown-dark;
+  bottom: 15%;
+  right: 20%;
+  animation-delay: 1s;
+}
+
+.floating-element-3 {
+  width: 100px;
+  height: 100px;
+  background: $green-bright;
+  top: 30%;
+  right: 35%;
+  animation-delay: 2s;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0) translateX(0);
+  }
+  25% {
+    transform: translateY(-20px) translateX(10px);
+  }
+  50% {
+    transform: translateY(-10px) translateX(-10px);
+  }
+  75% {
+    transform: translateY(-25px) translateX(5px);
   }
 }
 </style>
