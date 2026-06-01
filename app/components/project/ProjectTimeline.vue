@@ -10,13 +10,6 @@
           @click="toggle(index)"
         >
           <span class="acc-year">{{ item.date }}</span>
-          <div
-            class="acc-icon-badge"
-            :style="{ background: accentBg(index), color: accentColor(index) }"
-            aria-hidden="true"
-          >
-            <v-icon size="x-small">{{ getIcon(item) }}</v-icon>
-          </div>
           <span class="acc-title">{{ getTitle(item) }}</span>
           <v-icon class="acc-chevron" :class="{ open: openItems.has(index) }" size="small">
             mdi-chevron-down
@@ -58,56 +51,6 @@ const getTitle = (item: any): string => {
   else if (dashIdx > 10 && dashIdx < 80) cutoff = dashIdx
   return text.slice(0, cutoff) + '…'
 }
-
-// Alternating green / warm / blue accents
-const BG = ['#e4f2d6', '#f3ede0', '#e4f2d6', '#e0ecf3', '#faeeda', '#e4f2d6', '#f3ede0']
-const FG = ['#2d5a0e', '#854F0B', '#2d5a0e', '#185FA5', '#854F0B', '#2d5a0e', '#854F0B']
-const accentBg = (i: number) => BG[i % BG.length]
-const accentColor = (i: number) => FG[i % FG.length]
-
-const ICON_MAP: Record<string, string> = {
-  launch: 'mdi-rocket-launch-outline',
-  founding: 'mdi-flag-checkered',
-  founded: 'mdi-flag-checkered',
-  start: 'mdi-play-circle-outline',
-  award: 'mdi-trophy-outline',
-  prize: 'mdi-trophy-outline',
-  partnership: 'mdi-handshake-outline',
-  funding: 'mdi-cash-multiple',
-  grant: 'mdi-cash-multiple',
-  expansion: 'mdi-map-marker-radius-outline',
-  growth: 'mdi-trending-up',
-  research: 'mdi-flask-outline',
-  publication: 'mdi-book-open-outline',
-  harvest: 'mdi-sprout',
-  certification: 'mdi-certificate-outline',
-  event: 'mdi-calendar-star',
-  milestone: 'mdi-star-circle-outline',
-  community: 'mdi-account-group-outline',
-  training: 'mdi-school-outline',
-  product: 'mdi-package-variant-closed',
-  pilot: 'mdi-test-tube',
-  legal: 'mdi-gavel',
-}
-
-const getIcon = (item: any): string => {
-  const iconVal: string = item.icon || ''
-  // If already a full MDI icon name, use it directly
-  if (iconVal.startsWith('mdi-')) return iconVal
-  // Look up short key in map
-  if (ICON_MAP[iconVal]) return ICON_MAP[iconVal]
-  // Try to infer from text content
-  const text = (item.text || item.title || '').toLowerCase()
-  if (text.includes('launch') || text.includes('lancé') || text.includes('lanzam')) return 'mdi-rocket-launch-outline'
-  if (text.includes('found') || text.includes('créat') || text.includes('creat')) return 'mdi-flag-checkered'
-  if (text.includes('award') || text.includes('prix') || text.includes('premio')) return 'mdi-trophy-outline'
-  if (text.includes('partner') || text.includes('partenaire')) return 'mdi-handshake-outline'
-  if (text.includes('fund') || text.includes('grant') || text.includes('financ')) return 'mdi-cash-multiple'
-  if (text.includes('harvest') || text.includes('récolte')) return 'mdi-sprout'
-  if (text.includes('certif')) return 'mdi-certificate-outline'
-  if (text.includes('train') || text.includes('school') || text.includes('formation')) return 'mdi-school-outline'
-  return 'mdi-circle-medium'
-}
 </script>
 
 <style scoped lang="scss">
@@ -137,11 +80,11 @@ const getIcon = (item: any): string => {
 }
 
 .acc-header {
-  /* Grid gives each column a fixed lane so dates, icons, and titles
-     stay vertically aligned regardless of date string length. */
+  /* auto date column expands to fit the widest date (e.g. "1970s-1980s")
+     and all rows share that same width — no truncation. */
   display: grid;
-  grid-template-columns: 96px 28px 1fr auto;
-  column-gap: $rhythm-2;
+  grid-template-columns: auto 1fr auto;
+  column-gap: $rhythm-3;
   align-items: center;
   width: 100%;
   padding: 14px 4px;
@@ -167,18 +110,7 @@ const getIcon = (item: any): string => {
   font-weight: $font-weight-semibold; /* 600 — only loaded weight for Playfair */
   color: $green-forest;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
   line-height: 1;
-}
-
-.acc-icon-badge {
-  width: 28px;
-  height: 28px;
-  border-radius: 7px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .acc-title {
@@ -201,17 +133,12 @@ const getIcon = (item: any): string => {
   }
 }
 
-/* Indent body to align with title column */
 .acc-body {
   display: none;
-  padding: 0 4px $rhythm-3 calc(96px + #{$rhythm-2} + 28px + #{$rhythm-2});
+  padding: 0 4px $rhythm-3 $rhythm-1;
 
   &.open {
     display: block;
-  }
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    padding-left: $rhythm-3;
   }
 }
 
