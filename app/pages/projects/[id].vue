@@ -200,7 +200,8 @@ const localizedDescription = computed(() => {
   const proj = project.value as any
   if (!proj) return ''
   if (typeof proj.description === 'string') return proj.description
-  return proj.description?.[currentLocale.value] || proj.description?.en || proj.description || ''
+  const raw = proj.description?.[currentLocale.value] || proj.description?.en || ''
+  return typeof raw === 'string' ? raw : ''
 })
 
 // Convert plain-text newlines to HTML paragraphs for the about section
