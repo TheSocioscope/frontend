@@ -127,6 +127,12 @@ const getTitle = (item: any): string => {
   text-overflow: ellipsis;
   white-space: nowrap;
   transition: color $transition-fast;
+
+  .acc-header[aria-expanded='true'] & {
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
+  }
 }
 
 .acc-chevron {
