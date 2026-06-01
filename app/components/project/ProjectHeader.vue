@@ -20,6 +20,9 @@
         <p v-if="project.entityDescription" class="hero-entity">
           {{ project.entityDescription }}
         </p>
+        <p v-if="localizedDescription" class="hero-description">
+          {{ localizedDescription }}
+        </p>
       </div>
 
       <div class="hero-actions">
@@ -60,6 +63,7 @@
 const props = defineProps<{
   project: any
   localizedName: string
+  localizedDescription?: string
 }>()
 
 defineEmits<{ connect: [] }>()
@@ -195,8 +199,15 @@ const socialLinks = computed(() => {
   font-size: 12px;
   font-weight: 600;
   color: $green-forest;
-  margin: 0;
+  margin: 0 0 6px;
   line-height: 1.4;
+}
+
+.hero-description {
+  font-size: 13px;
+  color: $text-secondary;
+  margin: 0;
+  line-height: 1.6;
 }
 
 /* Action column */

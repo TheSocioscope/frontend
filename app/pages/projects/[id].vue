@@ -32,6 +32,7 @@
         <ProjectHeader
           :project="project"
           :localized-name="localizedName"
+          :localized-description="localizedDescription"
           @connect="connectDrawerOpen = true"
         />
 
