@@ -102,6 +102,7 @@
         :is-open="editDrawerOpen"
         :project="project"
         :localized-name="localizedName"
+        :localized-tagline="localizedTagline"
         :localized-description="localizedDescription"
         :localized-timeline="localizedTimeline"
         :localized-offers="localizedOffers"

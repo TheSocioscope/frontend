@@ -18,7 +18,7 @@
           <div class="drawer-body">
             <p class="drawer-intro">{{ $t('editDrawer.intro') }}</p>
 
-            <!-- Contact details -->
+            <!-- 1. Contact details -->
             <section class="edit-section">
               <h3 class="section-title">{{ $t('editDrawer.yourDetails') }}</h3>
               <div class="form-group">
@@ -43,7 +43,27 @@
 
             <div class="section-divider" />
 
-            <!-- Description -->
+            <!-- 2. Name & tagline -->
+            <section class="edit-section">
+              <div class="section-header-row">
+                <h3 class="section-title">{{ $t('editDrawer.nameTagline', 'Name & tagline') }}</h3>
+                <span v-if="isChanged('name') || isChanged('tagline')" class="changed-badge">
+                  {{ $t('editDrawer.modified') }}
+                </span>
+              </div>
+              <div class="form-group">
+                <label>{{ $t('editDrawer.projectName', 'Project name') }}</label>
+                <input v-model="edits.name" type="text" class="edit-input" />
+              </div>
+              <div class="form-group">
+                <label>{{ $t('editDrawer.tagline', 'Tagline') }}</label>
+                <input v-model="edits.tagline" type="text" class="edit-input" :placeholder="$t('editDrawer.taglinePlaceholder', 'Short summary sentence')" />
+              </div>
+            </section>
+
+            <div class="section-divider" />
+
+            <!-- 3. Description -->
             <section class="edit-section">
               <div class="section-header-row">
                 <h3 class="section-title">{{ $t('editDrawer.description') }}</h3>
@@ -54,55 +74,140 @@
 
             <div class="section-divider" />
 
-            <!-- Timeline -->
-            <section v-if="timelineEdits.length" class="edit-section">
-              <h3 class="section-title">{{ $t('editDrawer.timeline') }}</h3>
-              <div v-for="(entry, i) in timelineEdits" :key="i" class="list-entry">
-                <div class="entry-header-row">
-                  <label class="entry-label">{{ entry.date || '—' }}</label>
-                  <span v-if="entry.current !== entry.original" class="changed-badge">
-                    {{ $t('editDrawer.modified') }}
-                  </span>
+            <!-- 4. Team members -->
+            <section class="edit-section">
+              <h3 class="section-title">{{ $t('editDrawer.team', 'Team members') }}</h3>
+
+              <!-- Existing team read-only -->
+              <div v-if="existingTeam.length" class="team-ref-list">
+                <span v-for="(member, i) in existingTeam" :key="i" class="team-ref-chip">
+                  {{ member.firstname }} {{ member.lastname }}<template v-if="member.role"> — {{ member.role }}</template>
+                </span>
+              </div>
+
+              <!-- New member entries -->
+              <div
+                v-for="(member, i) in newTeamMembers"
+                :key="i"
+                class="new-member-entry"
+              >
+                <div class="form-row">
+                  <div class="form-group">
+                    <label>{{ $t('editDrawer.teamFirstname', 'First name') }}</label>
+                    <input v-model="member.firstname" type="text" class="edit-input" />
+                  </div>
+                  <div class="form-group">
+                    <label>{{ $t('editDrawer.teamLastname', 'Last name') }}</label>
+                    <input v-model="member.lastname" type="text" class="edit-input" />
+                  </div>
                 </div>
-                <textarea v-model="entry.current" rows="3" class="edit-textarea" />
+                <div class="form-row">
+                  <div class="form-group">
+                    <label>{{ $t('editDrawer.teamRole', 'Role') }}</label>
+                    <input v-model="member.role" type="text" class="edit-input" />
+                  </div>
+                  <div class="form-group">
+                    <label>{{ $t('editDrawer.teamEntity', 'Entity / organisation') }}</label>
+                    <input v-model="member.entity" type="text" class="edit-input" />
+                  </div>
+                </div>
+                <button type="button" class="entry-remove-btn" @click="removeTeamMember(i)">
+                  {{ $t('editDrawer.remove', 'Remove') }}
+                </button>
+              </div>
+
+              <button type="button" class="add-member-btn" @click="addTeamMember">
+                <v-icon size="16">mdi-plus</v-icon>
+                {{ $t('editDrawer.addTeamMember', '+ Add team member') }}
+              </button>
+            </section>
+
+            <!-- 5. Offers -->
+            <template v-if="offerEdits.length">
+              <div class="section-divider" />
+              <section class="edit-section">
+                <h3 class="section-title">{{ $t('editDrawer.offers') }}</h3>
+                <div v-for="(offer, i) in offerEdits" :key="i" class="list-entry">
+                  <div class="entry-header-row">
+                    <label class="entry-label">{{ $t('editDrawer.item') }} {{ i + 1 }}</label>
+                    <span v-if="offer.current !== offer.original" class="changed-badge">
+                      {{ $t('editDrawer.modified') }}
+                    </span>
+                  </div>
+                  <textarea v-model="offer.current" rows="2" class="edit-textarea" />
+                </div>
+              </section>
+            </template>
+
+            <!-- 6. Looking for -->
+            <template v-if="lookingForEdits.length">
+              <div class="section-divider" />
+              <section class="edit-section">
+                <h3 class="section-title">{{ $t('editDrawer.lookingFor') }}</h3>
+                <div v-for="(item, i) in lookingForEdits" :key="i" class="list-entry">
+                  <div class="entry-header-row">
+                    <label class="entry-label">{{ $t('editDrawer.item') }} {{ i + 1 }}</label>
+                    <span v-if="item.current !== item.original" class="changed-badge">
+                      {{ $t('editDrawer.modified') }}
+                    </span>
+                  </div>
+                  <textarea v-model="item.current" rows="2" class="edit-textarea" />
+                </div>
+              </section>
+            </template>
+
+            <!-- 7. Timeline -->
+            <template v-if="timelineEdits.length">
+              <div class="section-divider" />
+              <section class="edit-section">
+                <h3 class="section-title">{{ $t('editDrawer.timeline') }}</h3>
+                <div v-for="(entry, i) in timelineEdits" :key="i" class="list-entry">
+                  <div class="entry-header-row">
+                    <label class="entry-label">{{ entry.date || '—' }}</label>
+                    <span v-if="entry.current !== entry.original" class="changed-badge">
+                      {{ $t('editDrawer.modified') }}
+                    </span>
+                  </div>
+                  <textarea v-model="entry.current" rows="3" class="edit-textarea" />
+                </div>
+              </section>
+            </template>
+
+            <div class="section-divider" />
+
+            <!-- 8. Photos -->
+            <section class="edit-section">
+              <h3 class="section-title">{{ $t('editDrawer.photos', 'Photos') }}</h3>
+              <label class="file-upload-area" for="photo-upload">
+                <v-icon class="file-upload-icon">mdi-image-plus</v-icon>
+                <span class="file-upload-text">
+                  {{ $t('editDrawer.choosePhotos', 'Choose photos or drag and drop') }}
+                </span>
+                <span class="file-upload-hint">
+                  {{ $t('editDrawer.photoHint', 'Up to 5 files · max 5 MB each · images only') }}
+                </span>
+              </label>
+              <input
+                id="photo-upload"
+                type="file"
+                accept="image/*"
+                multiple
+                class="file-input-hidden"
+                @change="handleFileChange"
+              />
+              <p v-if="fileError" class="file-error">{{ fileError }}</p>
+              <div v-if="attachedFiles.length" class="file-list">
+                <div v-for="(file, i) in attachedFiles" :key="i" class="file-chip">
+                  <v-icon size="14">mdi-image</v-icon>
+                  <span class="file-chip-name">{{ file.name }}</span>
+                  <button type="button" class="file-chip-remove" @click="removeFile(i)">&times;</button>
+                </div>
               </div>
             </section>
 
-            <div v-if="timelineEdits.length" class="section-divider" />
+            <div class="section-divider" />
 
-            <!-- Offers -->
-            <section v-if="offerEdits.length" class="edit-section">
-              <h3 class="section-title">{{ $t('editDrawer.offers') }}</h3>
-              <div v-for="(offer, i) in offerEdits" :key="i" class="list-entry">
-                <div class="entry-header-row">
-                  <label class="entry-label">{{ $t('editDrawer.item') }} {{ i + 1 }}</label>
-                  <span v-if="offer.current !== offer.original" class="changed-badge">
-                    {{ $t('editDrawer.modified') }}
-                  </span>
-                </div>
-                <textarea v-model="offer.current" rows="2" class="edit-textarea" />
-              </div>
-            </section>
-
-            <div v-if="offerEdits.length" class="section-divider" />
-
-            <!-- Looking for -->
-            <section v-if="lookingForEdits.length" class="edit-section">
-              <h3 class="section-title">{{ $t('editDrawer.lookingFor') }}</h3>
-              <div v-for="(item, i) in lookingForEdits" :key="i" class="list-entry">
-                <div class="entry-header-row">
-                  <label class="entry-label">{{ $t('editDrawer.item') }} {{ i + 1 }}</label>
-                  <span v-if="item.current !== item.original" class="changed-badge">
-                    {{ $t('editDrawer.modified') }}
-                  </span>
-                </div>
-                <textarea v-model="item.current" rows="2" class="edit-textarea" />
-              </div>
-            </section>
-
-            <div v-if="lookingForEdits.length" class="section-divider" />
-
-            <!-- Website URL -->
+            <!-- 9. Website URL -->
             <section class="edit-section">
               <div class="section-header-row">
                 <h3 class="section-title">{{ $t('editDrawer.website') }}</h3>
@@ -113,7 +218,7 @@
 
             <div class="section-divider" />
 
-            <!-- Comments + speech-to-text -->
+            <!-- 10. Comments + speech-to-text -->
             <section class="edit-section">
               <h3 class="section-title">{{ $t('editDrawer.comments') }}</h3>
               <p class="field-hint">{{ $t('editDrawer.commentsHint') }}</p>
@@ -178,6 +283,7 @@ const props = defineProps<{
   isOpen: boolean
   project: any
   localizedName: string
+  localizedTagline?: string
   localizedDescription: string
   localizedTimeline: { date: string; icon: string; text: string }[]
   localizedOffers: { title: string; icon: string }[]
@@ -192,19 +298,39 @@ const { t, locale } = useI18n()
 const contact = ref({ name: '', email: '', phone: '' })
 
 // ── Editable state ─────────────────────────────────────────────────────────
-const edits = ref({ description: '', url: '' })
-const originals = ref({ description: '', url: '' })
+const edits = ref({ description: '', url: '', name: '', tagline: '' })
+const originals = ref({ description: '', url: '', name: '', tagline: '' })
 const timelineEdits = ref<{ date: string; original: string; current: string }[]>([])
 const offerEdits = ref<{ original: string; current: string }[]>([])
 const lookingForEdits = ref<{ original: string; current: string }[]>([])
 const comments = ref('')
 
+// ── Team & file state ──────────────────────────────────────────────────────
+const newTeamMembers = ref<{ firstname: string; lastname: string; role: string; entity: string }[]>([])
+const attachedFiles = ref<File[]>([])
+const fileError = ref('')
+const MAX_FILES = 5
+const MAX_SIZE_MB = 5
+
+// ── Existing team (read-only display) ─────────────────────────────────────
+const existingTeam = computed(() => {
+  const proj = props.project as any
+  if (!proj?.team || !Array.isArray(proj.team)) return []
+  return proj.team.map((m: any) => ({
+    firstname: m.firstname || m.first_name || '',
+    lastname: m.lastname || m.last_name || '',
+    role: m.role || '',
+  }))
+})
+
 const initEdits = () => {
   const proj = props.project as any
   const desc = props.localizedDescription || ''
   const url = proj?.url || ''
-  originals.value = { description: desc, url }
-  edits.value = { description: desc, url }
+  const name = props.localizedName || ''
+  const tagline = props.localizedTagline || ''
+  originals.value = { description: desc, url, name, tagline }
+  edits.value = { ...originals.value }
 
   timelineEdits.value = (props.localizedTimeline || []).map((e) => ({
     date: e.date,
@@ -227,22 +353,29 @@ const initEdits = () => {
   submitted.value = false
   submitError.value = ''
   showValidation.value = false
+  newTeamMembers.value = []
+  attachedFiles.value = []
+  fileError.value = ''
 }
 
 watch(() => props.isOpen, (open) => { if (open) initEdits() })
 
 // ── Change detection ───────────────────────────────────────────────────────
-const isChanged = (field: 'description' | 'url') =>
+const isChanged = (field: 'description' | 'url' | 'name' | 'tagline') =>
   edits.value[field] !== originals.value[field]
 
 const hasChanges = computed(
   () =>
     isChanged('description') ||
     isChanged('url') ||
+    isChanged('name') ||
+    isChanged('tagline') ||
     timelineEdits.value.some((e) => e.current !== e.original) ||
     offerEdits.value.some((o) => o.current !== o.original) ||
     lookingForEdits.value.some((l) => l.current !== l.original) ||
-    comments.value.trim().length > 0,
+    comments.value.trim().length > 0 ||
+    newTeamMembers.value.some((m) => m.firstname.trim() || m.lastname.trim()) ||
+    attachedFiles.value.length > 0,
 )
 
 const isContactValid = computed(
@@ -252,6 +385,44 @@ const isContactValid = computed(
 const isValid = computed(
   () => contact.value.name.trim() && isContactValid.value && hasChanges.value,
 )
+
+// ── Team member helpers ────────────────────────────────────────────────────
+const addTeamMember = () => {
+  newTeamMembers.value.push({ firstname: '', lastname: '', role: '', entity: '' })
+}
+
+const removeTeamMember = (index: number) => {
+  newTeamMembers.value.splice(index, 1)
+}
+
+// ── File upload helpers ────────────────────────────────────────────────────
+const handleFileChange = (event: Event) => {
+  fileError.value = ''
+  const input = event.target as HTMLInputElement
+  if (!input.files) return
+
+  const incoming = Array.from(input.files)
+  const oversized = incoming.filter((f) => f.size > MAX_SIZE_MB * 1024 * 1024)
+  if (oversized.length) {
+    fileError.value = `${oversized.map((f) => f.name).join(', ')} exceed${oversized.length === 1 ? 's' : ''} the ${MAX_SIZE_MB} MB limit.`
+    input.value = ''
+    return
+  }
+
+  const combined = [...attachedFiles.value, ...incoming]
+  if (combined.length > MAX_FILES) {
+    fileError.value = `You can attach at most ${MAX_FILES} photos. ${combined.length - MAX_FILES} file(s) were not added.`
+    attachedFiles.value = combined.slice(0, MAX_FILES)
+  } else {
+    attachedFiles.value = combined
+  }
+  input.value = ''
+}
+
+const removeFile = (index: number) => {
+  attachedFiles.value.splice(index, 1)
+  fileError.value = ''
+}
 
 // ── Submit ─────────────────────────────────────────────────────────────────
 const submitted = ref(false)
@@ -302,6 +473,18 @@ const buildEmailBody = (): string => {
 
   const changed: string[] = []
 
+  if (isChanged('name')) {
+    changed.push(
+      `NAME\nBefore: ${originals.value.name}\nAfter: ${edits.value.name}`,
+    )
+  }
+
+  if (isChanged('tagline')) {
+    changed.push(
+      `TAGLINE\nBefore: ${originals.value.tagline}\nAfter: ${edits.value.tagline}`,
+    )
+  }
+
   if (isChanged('description')) {
     changed.push(
       `DESCRIPTION\nBefore:\n${originals.value.description}\n\nAfter:\n${edits.value.description}\n\nDiff:\n${wordDiff(originals.value.description, edits.value.description)}`,
@@ -322,26 +505,45 @@ const buildEmailBody = (): string => {
     }
   }
 
-  for (let i = 0; i < offerEdits.value.length; i++) {
-    const o = offerEdits.value[i]
+  for (let idx = 0; idx < offerEdits.value.length; idx++) {
+    const o = offerEdits.value[idx]
     if (o.current !== o.original) {
       changed.push(
-        `OFFER ${i + 1}\nBefore: ${o.original}\nAfter: ${o.current}\nDiff: ${wordDiff(o.original, o.current)}`,
+        `OFFER ${idx + 1}\nBefore: ${o.original}\nAfter: ${o.current}\nDiff: ${wordDiff(o.original, o.current)}`,
       )
     }
   }
 
-  for (let i = 0; i < lookingForEdits.value.length; i++) {
-    const l = lookingForEdits.value[i]
+  for (let idx = 0; idx < lookingForEdits.value.length; idx++) {
+    const l = lookingForEdits.value[idx]
     if (l.current !== l.original) {
       changed.push(
-        `LOOKING FOR ${i + 1}\nBefore: ${l.original}\nAfter: ${l.current}\nDiff: ${wordDiff(l.original, l.current)}`,
+        `LOOKING FOR ${idx + 1}\nBefore: ${l.original}\nAfter: ${l.current}\nDiff: ${wordDiff(l.original, l.current)}`,
       )
     }
   }
 
   if (changed.length) {
     lines.push('--- CHANGES ---', '', changed.join('\n\n---\n\n'), '')
+  }
+
+  const newMembersToReport = newTeamMembers.value.filter(
+    (m) => m.firstname.trim() || m.lastname.trim(),
+  )
+  if (newMembersToReport.length) {
+    lines.push('--- NEW TEAM MEMBERS SUGGESTED ---')
+    for (const m of newMembersToReport) {
+      const fullName = [m.firstname.trim(), m.lastname.trim()].filter(Boolean).join(' ')
+      const rolePart = m.role.trim() ? ` (${m.role.trim()})` : ''
+      const entityPart = m.entity.trim() ? ` — ${m.entity.trim()}` : ''
+      lines.push(`  - ${fullName}${rolePart}${entityPart}`)
+    }
+    lines.push('')
+  }
+
+  if (attachedFiles.value.length) {
+    lines.push(`PHOTOS ATTACHED: ${attachedFiles.value.length} file(s) — see email attachments`)
+    lines.push('')
   }
 
   if (comments.value.trim()) {
@@ -360,18 +562,17 @@ const handleSubmit = async () => {
 
   try {
     const proj = props.project as any
-    const res = await fetch('https://api.web3forms.com/submit', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        access_key: web3formsKey,
-        subject: `Edit suggestion — ${props.localizedName} (#${proj?.pubId ?? ''})`,
-        from_name: contact.value.name,
-        email: contact.value.email || 'noreply@thesocioscope.org',
-        replyto: contact.value.email || '',
-        message: buildEmailBody(),
-      }),
-    })
+    const formData = new FormData()
+    formData.append('access_key', web3formsKey)
+    formData.append('to', 'thesocioscope.org@gmail.com')
+    formData.append('subject', `Edit suggestion — ${props.localizedName} (#${proj?.pubId ?? ''})`)
+    formData.append('from_name', contact.value.name)
+    formData.append('email', contact.value.email || 'noreply@thesocioscope.org')
+    if (contact.value.email) formData.append('replyto', contact.value.email)
+    formData.append('message', buildEmailBody())
+    attachedFiles.value.forEach((file) => formData.append('attachment[]', file, file.name))
+
+    const res = await fetch('https://api.web3forms.com/submit', { method: 'POST', body: formData })
     const data = await res.json()
     if (data.success) {
       submitted.value = true
@@ -785,5 +986,161 @@ const toggleSpeech = () => {
 .fade-enter-from,
 .fade-leave-to {
   opacity: 0;
+}
+
+/* ── Team section ────────────────────────────────────────────── */
+.team-ref-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 0.75rem;
+}
+
+.team-ref-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  background: rgba(76, 160, 73, 0.1);
+  color: #27421d;
+  border: 0.5px solid rgba(76, 160, 73, 0.3);
+  border-radius: 999px;
+  padding: 3px 10px;
+}
+
+.new-member-entry {
+  border: 1px dashed $border-cream;
+  border-radius: $border-radius-md;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: $cream-dark;
+}
+
+.entry-remove-btn {
+  background: none;
+  border: none;
+  font-size: 0.78rem;
+  color: #c0392b;
+  cursor: pointer;
+  padding: 0.2rem 0;
+  margin-top: 0.25rem;
+  text-decoration: underline;
+  font-family: $font-family-base;
+
+  &:hover {
+    color: darken(#c0392b, 10%);
+  }
+}
+
+.add-member-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: 1.5px dashed $border-cream;
+  border-radius: $border-radius-md;
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+  font-family: $font-family-base;
+  color: $brown-medium;
+  cursor: pointer;
+  width: 100%;
+  justify-content: center;
+  transition: border-color $transition-fast, color $transition-fast;
+
+  &:hover {
+    border-color: $green-bright;
+    color: $green-bright;
+  }
+}
+
+/* ── Photo upload section ────────────────────────────────────── */
+.file-upload-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  border: 1.5px dashed $border-cream;
+  border-radius: $border-radius-md;
+  padding: 1.25rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color $transition-fast, background $transition-fast;
+  background: $cream-dark;
+
+  &:hover {
+    border-color: $green-bright;
+    background: rgba(76, 160, 73, 0.04);
+  }
+}
+
+.file-upload-icon {
+  font-size: 1.5rem;
+  color: $green-bright;
+}
+
+.file-upload-text {
+  font-size: 0.85rem;
+  color: $brown-medium;
+  font-weight: 500;
+}
+
+.file-upload-hint {
+  font-size: 0.75rem;
+  color: $text-caption;
+}
+
+.file-input-hidden {
+  display: none;
+}
+
+.file-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-top: 0.5rem;
+}
+
+.file-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: white;
+  border: 0.5px solid $border-cream;
+  border-radius: $border-radius-md;
+  padding: 5px 10px;
+  font-size: 0.82rem;
+  color: $brown-dark;
+}
+
+.file-chip-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.file-chip-remove {
+  background: none;
+  border: none;
+  color: $brown-medium;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0;
+  flex-shrink: 0;
+
+  &:hover {
+    color: #c0392b;
+  }
+}
+
+.file-error {
+  font-size: 0.78rem;
+  color: #c0392b;
+  margin-top: 0.3rem;
 }
 </style>
