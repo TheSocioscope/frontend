@@ -212,7 +212,13 @@ export default defineContentConfig({
             z.object({
               entity: z.string().optional(),
               firstname: z.string().optional(),
-              lastname: z.string().optional()
+              lastname: z.string().optional(),
+              name: z.string().optional(),
+              role: z.string().optional(),
+              bio: z.string().optional(),
+              photo: z.string().optional(),
+              url: z.string().optional(),
+              email: z.string().optional()
             })
           )
           .optional(),
