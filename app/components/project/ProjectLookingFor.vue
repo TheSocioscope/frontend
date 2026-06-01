@@ -185,8 +185,8 @@ const getEmoji = (icon?: string): string => {
 
 .need-card {
   display: flex;
-  align-items: flex-start;
-  gap: 10px;
+  align-items: center;
+  gap: 12px;
   background: $saffron-pale;
   border: 0.5px solid $saffron;
   border-radius: 12px;
@@ -194,14 +194,14 @@ const getEmoji = (icon?: string): string => {
 }
 
 .need-icon {
-  width: 30px;
-  height: 30px;
-  border-radius: 7px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  background: rgba(133, 79, 11, 0.1);
+  background: rgba(133, 79, 11, 0.15);
 }
 
 .need-body {
@@ -211,10 +211,10 @@ const getEmoji = (icon?: string): string => {
 
 .need-title {
   font-size: 13px;
-  font-weight: 700;
+  font-weight: 600;
   color: #5a3200;
-  margin: 0 0 1px;
-  line-height: 1.3;
+  margin: 0;
+  line-height: 1.4;
 }
 
 .need-desc {

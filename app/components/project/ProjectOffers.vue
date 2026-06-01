@@ -141,8 +141,8 @@ const getMdiIcon = (icon?: string): string => {
 
 .offer-card {
   display: flex;
-  align-items: flex-start;
-  gap: 10px;
+  align-items: center;
+  gap: 12px;
   border-radius: 12px;
   padding: 12px 14px;
 
@@ -153,16 +153,16 @@ const getMdiIcon = (icon?: string): string => {
 }
 
 .offer-icon {
-  width: 30px;
-  height: 30px;
-  border-radius: 7px;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
 
   &--green {
-    background: rgba(76, 160, 73, 0.12);
+    background: rgba(76, 160, 73, 0.18);
   }
 }
 
@@ -173,9 +173,9 @@ const getMdiIcon = (icon?: string): string => {
 
 .offer-title {
   font-size: 13px;
-  font-weight: 700;
-  margin: 0 0 1px;
-  line-height: 1.3;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.4;
 
   &--green {
     color: $earth-90;
