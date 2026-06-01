@@ -29,8 +29,8 @@ const props = defineProps<{
 
 const { t: $t } = useI18n()
 
-// First item open by default
-const openItems = ref<Set<number>>(new Set([0]))
+// All items closed on initial load
+const openItems = ref<Set<number>>(new Set())
 
 const toggle = (i: number) => {
   const s = new Set(openItems.value)

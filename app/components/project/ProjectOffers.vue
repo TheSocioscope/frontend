@@ -11,14 +11,14 @@
     </div>
     <div class="offers-list">
       <component
-        :is="offer.url ? 'a' : 'div'"
+        :is="offer.url ? 'a' : 'button'"
         v-for="(offer, index) in localizedOffers"
         :key="index"
-        class="offer-card offer-card--green"
-        :class="{ 'offer-card--link': offer.url }"
+        class="offer-card offer-card--green offer-card--link"
         :href="offer.url || undefined"
         :target="offer.url ? '_blank' : undefined"
         :rel="offer.url ? 'noopener noreferrer' : undefined"
+        @click="!offer.url && emit('connect')"
       >
         <div class="offer-icon offer-icon--green" aria-hidden="true">
           <img v-if="offer.image" :src="offer.image" :alt="offer.title" class="offer-photo" />
@@ -28,7 +28,7 @@
           <p class="offer-title offer-title--green">{{ offer.title }}</p>
           <p v-if="offer.description" class="offer-desc">{{ offer.description }}</p>
         </div>
-        <v-icon v-if="offer.url" class="offer-link-icon" size="14">mdi-open-in-new</v-icon>
+        <v-icon class="offer-link-icon" size="14">{{ offer.url ? 'mdi-open-in-new' : 'mdi-email-outline' }}</v-icon>
       </component>
     </div>
   </div>
@@ -38,14 +38,14 @@
     <span class="section-label">{{ $t('projects.detail.offers') }}</span>
     <div class="offers-list">
       <component
-        :is="offer.url ? 'a' : 'div'"
+        :is="offer.url ? 'a' : 'button'"
         v-for="(offer, index) in localizedOffers"
         :key="index"
-        class="offer-card offer-card--green"
-        :class="{ 'offer-card--link': offer.url }"
+        class="offer-card offer-card--green offer-card--link"
         :href="offer.url || undefined"
         :target="offer.url ? '_blank' : undefined"
         :rel="offer.url ? 'noopener noreferrer' : undefined"
+        @click="!offer.url && emit('connect')"
       >
         <div class="offer-icon offer-icon--green" aria-hidden="true">
           <img v-if="offer.image" :src="offer.image" :alt="offer.title" class="offer-photo" />
@@ -55,7 +55,7 @@
           <h3 class="offer-title offer-title--green">{{ offer.title }}</h3>
           <p v-if="offer.description" class="offer-desc">{{ offer.description }}</p>
         </div>
-        <v-icon v-if="offer.url" class="offer-link-icon" size="14">mdi-open-in-new</v-icon>
+        <v-icon class="offer-link-icon" size="14">{{ offer.url ? 'mdi-open-in-new' : 'mdi-email-outline' }}</v-icon>
       </component>
     </div>
   </section>
@@ -72,6 +72,8 @@ defineProps<{
   }>
   column?: boolean
 }>()
+
+const emit = defineEmits<{ connect: [] }>()
 
 const { t: $t } = useI18n()
 
@@ -253,11 +255,25 @@ const getMdiIcon = (icon?: string): string => {
   line-height: 1.4;
 }
 
-/* External link indicator — visible only on hover */
+/* Link / connect indicator — always subtly visible, brighter on hover */
 .offer-link-icon {
   color: $green-forest;
-  opacity: 0;
+  opacity: 0.4;
   flex-shrink: 0;
   transition: opacity $transition-fast;
+}
+
+/* Reset <button> browser defaults so it looks identical to the <a> card */
+button.offer-card {
+  width: 100%;
+  text-align: left;
+  font-family: $font-family-base;
+  font-size: inherit;
+  cursor: pointer;
+  appearance: none;
+}
+
+.offer-card--link:hover .offer-link-icon {
+  opacity: 1;
 }
 </style>

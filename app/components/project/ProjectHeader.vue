@@ -175,16 +175,16 @@ const socialLinks = computed(() => {
 
 .hero-title {
   font-family: $font-family-display;
-  font-size: 2.25rem; /* 36px — matches mockup */
+  font-size: 1.625rem; /* 26px */
   font-weight: $font-weight-semibold; /* 600 — loaded weight */
-  line-height: 1.1;
+  line-height: 1.2;
   color: $earth-95;
   text-transform: uppercase;
   letter-spacing: 0.01em;
   margin: 0 0 $rhythm-1;
 
   @media (max-width: $detail-bp-tablet - 1) {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
   }
 }
 

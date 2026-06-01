@@ -10,7 +10,12 @@
       </span>
     </div>
     <div class="needs-list">
-      <div v-for="(item, index) in localizedLookingFor" :key="index" class="need-card">
+      <button
+        v-for="(item, index) in localizedLookingFor"
+        :key="index"
+        class="need-card need-card--link"
+        @click="emit('connect')"
+      >
         <div class="need-icon" aria-hidden="true">
           <v-icon size="small" color="#854F0B">{{ getMdiIcon(item.icon) }}</v-icon>
         </div>
@@ -18,23 +23,30 @@
           <p class="need-title">{{ item.title }}</p>
           <p v-if="item.description" class="need-desc">{{ item.description }}</p>
         </div>
-      </div>
+        <v-icon class="need-link-icon" size="14">mdi-email-outline</v-icon>
+      </button>
     </div>
   </div>
 
   <!-- Standalone section mode (default) -->
   <section v-else id="looking-for" class="project-looking-for">
     <span class="section-label">{{ $t('projects.detail.lookingFor') }}</span>
-    <div class="chips-grid">
-      <div
+    <div class="needs-list">
+      <button
         v-for="(item, index) in localizedLookingFor"
         :key="index"
-        class="chip"
-        :class="`tone-${index % 2}`"
+        class="need-card need-card--link"
+        @click="emit('connect')"
       >
-        <span class="chip-emoji" aria-hidden="true">{{ getEmoji(item.icon) }}</span>
-        <span class="chip-text">{{ item.title }}</span>
-      </div>
+        <div class="need-icon" aria-hidden="true">
+          <v-icon size="small" color="#854F0B">{{ getMdiIcon(item.icon) }}</v-icon>
+        </div>
+        <div class="need-body">
+          <h3 class="need-title">{{ item.title }}</h3>
+          <p v-if="item.description" class="need-desc">{{ item.description }}</p>
+        </div>
+        <v-icon class="need-link-icon" size="14">mdi-email-outline</v-icon>
+      </button>
     </div>
   </section>
 </template>
@@ -44,6 +56,8 @@ defineProps<{
   localizedLookingFor: Array<{ title: string; description?: string; icon?: string }>
   column?: boolean
 }>()
+
+const emit = defineEmits<{ connect: [] }>()
 
 const { t: $t } = useI18n()
 
@@ -66,19 +80,6 @@ const getMdiIcon = (icon?: string): string => {
   }
   return map[icon] || 'mdi-magnify'
 }
-
-const getEmoji = (icon?: string): string => {
-  const map: Record<string, string> = {
-    funding: '💰',
-    awareness: '📢',
-    partnership: '🤝',
-    collaboration: '👥',
-    certification: '📜',
-    'tech-funding': '💻',
-    cooperative: '🌾',
-  }
-  return map[icon || ''] || '🔍'
-}
 </script>
 
 <style scoped lang="scss">
@@ -100,46 +101,7 @@ const getEmoji = (icon?: string): string => {
   margin-bottom: $rhythm-2;
 }
 
-.chips-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    grid-template-columns: 1fr;
-    gap: 8px;
-  }
-}
-
-.chip {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 11px 16px;
-  border-radius: 12px;
-  font-size: 0.9375rem;
-  font-weight: 500;
-
-  &.tone-0 {
-    background: $earth-10;
-  }
-
-  &.tone-1 {
-    background: $saffron-pale;
-  }
-}
-
-.chip-emoji {
-  font-size: 1.05em;
-  flex-shrink: 0;
-}
-
-.chip-text {
-  min-width: 0;
-  word-break: break-word;
-}
-
-/* ── Column mode ─────────────────────────────────────────────── */
+/* ── Column mode header ─────────────────────────────────────── */
 .needs-column {
   display: flex;
   flex-direction: column;
@@ -177,6 +139,7 @@ const getEmoji = (icon?: string): string => {
   }
 }
 
+/* ── Shared list + cards ────────────────────────────────────── */
 .needs-list {
   display: flex;
   flex-direction: column;
@@ -191,6 +154,38 @@ const getEmoji = (icon?: string): string => {
   border: 0.5px solid $saffron;
   border-radius: 12px;
   padding: 12px 14px;
+  text-decoration: none;
+
+  /* Clickable card: pointer + hover lift */
+  &--link {
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    font-family: $font-family-base;
+    font-size: inherit;
+    appearance: none;
+    transition:
+      background $transition-fast,
+      border-color $transition-fast,
+      box-shadow $transition-fast,
+      transform $transition-fast;
+
+    &:hover {
+      background: rgba(133, 79, 11, 0.1);
+      border-color: rgba(133, 79, 11, 0.45);
+      box-shadow: 0 2px 8px rgba(133, 79, 11, 0.1);
+      transform: translateY(-1px);
+
+      .need-link-icon {
+        opacity: 1;
+      }
+    }
+
+    &:focus-visible {
+      outline: 2px solid #854f0b;
+      outline-offset: 2px;
+    }
+  }
 }
 
 .need-icon {
@@ -222,5 +217,17 @@ const getEmoji = (icon?: string): string => {
   color: #7a5020;
   margin: 0;
   line-height: 1.4;
+}
+
+/* Contact indicator — always subtly visible, brighter on hover */
+.need-link-icon {
+  color: #854f0b;
+  opacity: 0.4;
+  flex-shrink: 0;
+  transition: opacity $transition-fast;
+}
+
+.need-card--link:hover .need-link-icon {
+  opacity: 1;
 }
 </style>
