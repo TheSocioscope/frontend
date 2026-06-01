@@ -37,6 +37,20 @@
           <v-icon size="small">mdi-web</v-icon>
           {{ $t('projects.detail.website', 'Website') }}
         </a>
+        <!-- Social icons row -->
+        <div v-if="socialLinks.length" class="social-row">
+          <a
+            v-for="link in socialLinks"
+            :key="link.platform"
+            :href="link.url"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="social-icon"
+            :aria-label="link.platform"
+          >
+            <v-icon size="18">{{ link.icon }}</v-icon>
+          </a>
+        </div>
       </div>
     </div>
   </header>
@@ -60,6 +74,35 @@ const primarySector = computed(() => {
 const sizeLabel = computed(() => {
   const parts = [props.project?.entitySize, props.project?.entityRole?.[0]].filter(Boolean)
   return parts.length ? parts.join(' · ') : null
+})
+
+const detectPlatform = (url: string): { platform: string; icon: string } | null => {
+  if (!url) return null
+  if (url.includes('facebook.com') || url.includes('fb.com'))
+    return { platform: 'Facebook', icon: 'mdi-facebook' }
+  if (url.includes('instagram.com'))
+    return { platform: 'Instagram', icon: 'mdi-instagram' }
+  if (url.includes('twitter.com') || url.includes('x.com'))
+    return { platform: 'Twitter / X', icon: 'mdi-twitter' }
+  if (url.includes('linkedin.com'))
+    return { platform: 'LinkedIn', icon: 'mdi-linkedin' }
+  if (url.includes('youtube.com') || url.includes('youtu.be'))
+    return { platform: 'YouTube', icon: 'mdi-youtube' }
+  return null
+}
+
+const socialLinks = computed(() => {
+  const links: { platform: string; icon: string; url: string }[] = []
+  // Detect social platform from the url field
+  if (props.project?.url) {
+    const detected = detectPlatform(props.project.url)
+    if (detected) links.push({ ...detected, url: props.project.url })
+  }
+  // YouTube from the yt field
+  if (props.project?.yt) {
+    links.push({ platform: 'YouTube', icon: 'mdi-youtube', url: props.project.yt })
+  }
+  return links
 })
 </script>
 
@@ -128,11 +171,15 @@ const sizeLabel = computed(() => {
 
 .hero-title {
   font-family: $font-family-display;
-  font-size: clamp(1.75rem, 4vw, 2.5rem);
-  font-weight: $font-weight-medium;
+  font-size: 2.25rem; /* 36px — matches mockup */
+  font-weight: $font-weight-semibold; /* 600 — loaded weight */
   line-height: 1.1;
   color: $earth-95;
   margin: 0 0 $rhythm-1;
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    font-size: 1.5rem;
+  }
 }
 
 .hero-entity {
@@ -220,6 +267,41 @@ const sizeLabel = computed(() => {
   @media (max-width: $detail-bp-tablet - 1) {
     flex: 1;
     width: auto;
+  }
+}
+
+/* Social icons row */
+.social-row {
+  display: flex;
+  gap: 6px;
+  width: 100%;
+}
+
+.social-icon {
+  flex: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 34px;
+  background: $earth-5;
+  border: 0.5px solid $border-soft;
+  border-radius: 8px;
+  color: $text-secondary;
+  text-decoration: none;
+  transition:
+    border-color $transition-fast,
+    color $transition-fast,
+    background $transition-fast;
+
+  &:hover {
+    border-color: $border-strong;
+    color: $text-primary;
+    background: $earth-10;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
   }
 }
 </style>
