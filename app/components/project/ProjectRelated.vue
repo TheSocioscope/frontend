@@ -13,18 +13,28 @@
         :to="localePath(`/projects/${getSlug(p)}`)"
         class="sim-card"
       >
-        <div class="sim-card-left">
-          <div class="sim-dot" :style="{ background: avatarBg(p.pubId) }">
+        <div class="sim-thumb">
+          <img
+            v-if="p.yt"
+            :src="`https://img.youtube.com/vi/${p.yt}/mqdefault.jpg`"
+            class="sim-thumb-img"
+            alt=""
+            loading="lazy"
+          />
+          <div
+            v-else
+            class="sim-thumb-placeholder"
+            :style="{ background: avatarBg(p.pubId) }"
+          >
             {{ getInitials(getName(p)) }}
           </div>
-          <div class="sim-info">
-            <p class="sim-name">{{ getName(p) }}</p>
-            <p v-if="p.location || p.country?.length" class="sim-meta">
-              {{ p.location || getCountryLabel((p.country || [])[0]) }}
-            </p>
-          </div>
         </div>
-        <v-icon class="sim-arrow" size="small">mdi-arrow-right</v-icon>
+        <div class="sim-body">
+          <p class="sim-name">{{ getName(p) }}</p>
+          <p v-if="p.location || p.country?.length" class="sim-meta">
+            {{ p.location || getCountryLabel((p.country || [])[0]) }}
+          </p>
+        </div>
       </NuxtLink>
     </div>
   </section>
@@ -72,7 +82,7 @@ const { data: candidates } = await useAsyncData(
   `related-${props.currentProject?.pubId ?? 0}`,
   () =>
     queryCollection('projects')
-      .select('pubId', 'name', 'country', 'continent', 'sectorFocus', 'location')
+      .select('pubId', 'name', 'country', 'continent', 'sectorFocus', 'location', 'yt')
       .all() as Promise<any[]>
 )
 
@@ -143,26 +153,32 @@ const related = computed(() => {
   }
 
   @media (max-width: $detail-bp-tablet - 1) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+
+  @media (max-width: 400px) {
     grid-template-columns: 1fr;
   }
 }
 
+/* Vertical card with thumbnail on top */
 .sim-card {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: $rhythm-2;
-  padding: 14px 16px;
+  flex-direction: column;
   background: white;
   border: 0.5px solid $border-soft;
   border-radius: 12px;
   text-decoration: none;
   color: inherit;
-  cursor: pointer;
-  transition: border-color $transition-fast;
+  overflow: hidden;
+  transition:
+    border-color $transition-fast,
+    box-shadow $transition-fast;
 
   &:hover {
     border-color: $green-forest;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.07);
   }
 
   &:focus-visible {
@@ -171,38 +187,54 @@ const related = computed(() => {
   }
 }
 
-.sim-card-left {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  min-width: 0;
-}
-
-.sim-dot {
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 13px;
-  font-weight: 700;
-  color: white;
+.sim-thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: $earth-10;
   flex-shrink: 0;
 }
 
-.sim-info {
-  min-width: 0;
+.sim-thumb-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+
+  .sim-card:hover & {
+    transform: scale(1.04);
+  }
+}
+
+.sim-thumb-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: $font-family-display;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+}
+
+.sim-body {
+  padding: 10px 12px 12px;
+  flex: 1;
 }
 
 .sim-name {
   font-size: 13px;
   font-weight: 700;
   color: $text-primary;
-  margin: 0 0 2px;
-  white-space: nowrap;
+  margin: 0 0 3px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
   overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.35;
 }
 
 .sim-meta {
@@ -212,10 +244,5 @@ const related = computed(() => {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-}
-
-.sim-arrow {
-  color: $text-caption;
-  flex-shrink: 0;
 }
 </style>

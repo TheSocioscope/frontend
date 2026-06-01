@@ -1,8 +1,6 @@
 <template>
   <section v-if="project.team && project.team.length > 0" id="team" class="project-team">
-    <ProjectSectionHeader icon="mdi-account-group-outline">
-      {{ $t('projects.detail.team') }}
-    </ProjectSectionHeader>
+    <span class="section-label">{{ $t('projects.detail.team') }}</span>
 
     <ul class="team-grid">
       <li
@@ -69,9 +67,19 @@ const fullName = (member: any): string => {
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
 
+.section-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: $rhythm-2;
+}
+
 .project-team {
   margin-bottom: $rhythm-6;
-  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $rhythm-2;
 
   @media (max-width: $detail-bp-tablet - 1) {
     margin-bottom: $rhythm-3;

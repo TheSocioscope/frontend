@@ -38,13 +38,22 @@
         <!-- Media -->
         <ProjectVideo v-if="project.yt" :project="project" />
 
+        <!-- Gallery -->
+        <ProjectGallery v-if="localizedGallery.length" :localized-gallery="localizedGallery" />
+
         <!-- À propos -->
         <template v-if="localizedDescription">
           <hr class="dvd" />
           <div class="about-section">
             <span class="section-label">{{ $t('projects.detail.about') }}</span>
-            <div class="about-content" v-html="localizedDescription" />
+            <div class="about-content" v-html="processedDescription" />
           </div>
+        </template>
+
+        <!-- Team (after About, before Exchange) -->
+        <template v-if="project.team && project.team.length > 0">
+          <hr class="dvd" />
+          <ProjectTeam :project="project" />
         </template>
 
         <!-- Exchange board: offers + looking-for side by side -->
@@ -65,12 +74,6 @@
               />
             </div>
           </div>
-        </template>
-
-        <!-- Team -->
-        <template v-if="project.team && project.team.length > 0">
-          <hr class="dvd" />
-          <ProjectTeam :project="project" />
         </template>
 
         <!-- Timeline -->
@@ -198,6 +201,20 @@ const localizedDescription = computed(() => {
   if (!proj) return ''
   if (typeof proj.description === 'string') return proj.description
   return proj.description?.[currentLocale.value] || proj.description?.en || proj.description || ''
+})
+
+// Convert plain-text newlines to HTML paragraphs for the about section
+const processedDescription = computed(() => {
+  const desc = localizedDescription.value
+  if (!desc) return ''
+  // If it already contains HTML tags, return as-is
+  if (/<[a-z][\s\S]*>/i.test(desc)) return desc
+  // Split on double newlines → paragraphs; single newlines → <br>
+  return desc
+    .trim()
+    .split(/\n\n+/)
+    .map((p) => `<p>${p.replace(/\n/g, '<br>')}</p>`)
+    .join('')
 })
 
 const localizedTimeline = computed(() => {

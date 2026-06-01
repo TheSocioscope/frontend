@@ -1,8 +1,6 @@
 <template>
   <section v-if="project.yt" id="video" class="project-video">
-    <ProjectSectionHeader icon="mdi-video-outline">
-      {{ $t('projects.detail.video') }}
-    </ProjectSectionHeader>
+    <span class="section-label">{{ $t('projects.detail.video') }}</span>
     <div class="video-container">
       <iframe
         :src="`https://www.youtube.com/embed/${project.yt}`"
@@ -28,7 +26,17 @@ const { t: $t } = useI18n()
 
 .project-video {
   margin-bottom: $rhythm-6;
-  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $sticky-section-nav + $rhythm-2;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $rhythm-2;
+}
+
+.section-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: $rhythm-2;
 }
 
 .video-container {

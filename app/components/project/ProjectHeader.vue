@@ -6,9 +6,9 @@
         <v-icon size="x-small">mdi-leaf</v-icon>
         {{ primarySector }}
       </span>
-      <span v-if="project.location" class="tag">
+      <span v-if="locationLabel" class="tag">
         <v-icon size="x-small">mdi-map-pin</v-icon>
-        {{ project.location }}
+        {{ locationLabel }}
       </span>
       <span v-if="sizeLabel" class="tag tag--muted">{{ sizeLabel }}</span>
     </div>
@@ -65,6 +65,13 @@ const props = defineProps<{
 defineEmits<{ connect: [] }>()
 
 const { t: $t } = useI18n()
+
+const locationLabel = computed(() => {
+  if (props.project?.location) return props.project.location
+  const countries = props.project?.country
+  if (Array.isArray(countries) && countries.length) return countries[0]
+  return null
+})
 
 const primarySector = computed(() => {
   const sectors = props.project?.sectorFocus
@@ -175,6 +182,8 @@ const socialLinks = computed(() => {
   font-weight: $font-weight-semibold; /* 600 — loaded weight */
   line-height: 1.1;
   color: $earth-95;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
   margin: 0 0 $rhythm-1;
 
   @media (max-width: $detail-bp-tablet - 1) {
@@ -183,8 +192,8 @@ const socialLinks = computed(() => {
 }
 
 .hero-entity {
-  font-size: 13px;
-  font-weight: 700;
+  font-size: 12px;
+  font-weight: 600;
   color: $green-forest;
   margin: 0;
   line-height: 1.4;
@@ -255,8 +264,8 @@ const socialLinks = computed(() => {
     color $transition-fast;
 
   &:hover {
-    border-color: $border-strong;
-    color: $text-primary;
+    border-color: $green-leaf;
+    color: $green-leaf;
   }
 
   &:focus-visible {
@@ -294,9 +303,9 @@ const socialLinks = computed(() => {
     background $transition-fast;
 
   &:hover {
-    border-color: $border-strong;
-    color: $text-primary;
-    background: $earth-10;
+    border-color: rgba(76, 160, 73, 0.5);
+    color: $green-leaf;
+    background: rgba(76, 160, 73, 0.06);
   }
 
   &:focus-visible {

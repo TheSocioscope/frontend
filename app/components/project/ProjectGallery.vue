@@ -137,7 +137,6 @@ onMounted(() => {
 
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
- '~~/assets/styles/variables' as *;
 
 .project-gallery {
   margin-bottom: 2rem;

@@ -15,7 +15,7 @@
             :style="{ background: accentBg(index), color: accentColor(index) }"
             aria-hidden="true"
           >
-            <v-icon size="x-small">{{ item.icon || 'mdi-circle-small' }}</v-icon>
+            <v-icon size="x-small">{{ getIcon(item) }}</v-icon>
           </div>
           <span class="acc-title">{{ getTitle(item) }}</span>
           <v-icon class="acc-chevron" :class="{ open: openItems.has(index) }" size="small">
@@ -64,6 +64,46 @@ const BG = ['#e4f2d6', '#f3ede0', '#e4f2d6', '#e0ecf3', '#faeeda', '#e4f2d6', '#
 const FG = ['#2d5a0e', '#854F0B', '#2d5a0e', '#185FA5', '#854F0B', '#2d5a0e', '#854F0B']
 const accentBg = (i: number) => BG[i % BG.length]
 const accentColor = (i: number) => FG[i % FG.length]
+
+const ICON_MAP: Record<string, string> = {
+  launch: 'mdi-rocket-launch-outline',
+  founding: 'mdi-flag-checkered',
+  founded: 'mdi-flag-checkered',
+  start: 'mdi-play-circle-outline',
+  award: 'mdi-trophy-outline',
+  prize: 'mdi-trophy-outline',
+  partnership: 'mdi-handshake-outline',
+  funding: 'mdi-cash-multiple',
+  grant: 'mdi-cash-multiple',
+  expansion: 'mdi-map-marker-radius-outline',
+  growth: 'mdi-trending-up',
+  research: 'mdi-flask-outline',
+  publication: 'mdi-book-open-outline',
+  harvest: 'mdi-sprout',
+  certification: 'mdi-certificate-outline',
+  event: 'mdi-calendar-star',
+  milestone: 'mdi-star-circle-outline',
+  community: 'mdi-account-group-outline',
+  training: 'mdi-school-outline',
+  product: 'mdi-package-variant-closed',
+  pilot: 'mdi-test-tube',
+  legal: 'mdi-gavel',
+}
+
+const getIcon = (item: any): string => {
+  if (item.icon && ICON_MAP[item.icon]) return ICON_MAP[item.icon]
+  // Try to infer from text content
+  const text = (item.text || item.title || '').toLowerCase()
+  if (text.includes('launch') || text.includes('lancé') || text.includes('lanzam')) return 'mdi-rocket-launch-outline'
+  if (text.includes('found') || text.includes('créat') || text.includes('creat')) return 'mdi-flag-checkered'
+  if (text.includes('award') || text.includes('prix') || text.includes('premio')) return 'mdi-trophy-outline'
+  if (text.includes('partner') || text.includes('partenaire')) return 'mdi-handshake-outline'
+  if (text.includes('fund') || text.includes('grant') || text.includes('financ')) return 'mdi-cash-multiple'
+  if (text.includes('harvest') || text.includes('récolte')) return 'mdi-sprout'
+  if (text.includes('certif')) return 'mdi-certificate-outline'
+  if (text.includes('train') || text.includes('school') || text.includes('formation')) return 'mdi-school-outline'
+  return 'mdi-circle-medium'
+}
 </script>
 
 <style scoped lang="scss">
@@ -116,10 +156,10 @@ const accentColor = (i: number) => FG[i % FG.length]
 
 .acc-year {
   font-family: $font-family-display;
-  font-size: 1.375rem;
-  font-weight: $font-weight-medium;
+  font-size: 1.25rem;
+  font-weight: $font-weight-semibold; /* 600 — only loaded weight for Playfair */
   color: $green-forest;
-  min-width: 64px;
+  min-width: 56px;
   flex-shrink: 0;
   line-height: 1;
 }
