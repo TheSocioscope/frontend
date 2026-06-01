@@ -2,7 +2,7 @@
   <header id="about" class="project-header">
     <!-- Tags row -->
     <div class="tags-row">
-      <span v-if="primarySector" class="tag tag--green">
+      <span v-if="primarySector" class="tag">
         <v-icon size="x-small">mdi-leaf</v-icon>
         {{ primarySector }}
       </span>
@@ -10,7 +10,7 @@
         <v-icon size="x-small">mdi-map-pin</v-icon>
         {{ locationLabel }}
       </span>
-      <span v-if="sizeLabel" class="tag tag--muted">{{ sizeLabel }}</span>
+      <span v-if="sizeLabel" class="tag">{{ sizeLabel }}</span>
     </div>
 
     <!-- Hero grid: text left, actions right -->
@@ -139,28 +139,19 @@ const socialLinks = computed(() => {
 .tag {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 4px;
   font-size: 11px;
   font-family: $font-family-base;
-  border: 0.5px solid $border-soft;
   border-radius: 999px;
   padding: 3px 10px;
-  color: $text-secondary;
-  background: $earth-5;
   white-space: nowrap;
-}
-
-.tag--green {
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: $green-forest;
   background: rgba(76, 160, 73, 0.1);
-  border-color: rgba(76, 160, 73, 0.3);
-}
-
-.tag--muted {
-  color: $text-caption;
+  border: 0.5px solid rgba(76, 160, 73, 0.3);
 }
 
 /* Hero grid: text left, actions right */
