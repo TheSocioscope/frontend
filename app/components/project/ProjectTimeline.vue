@@ -9,7 +9,7 @@
           :aria-expanded="openItems.has(index)"
           @click="toggle(index)"
         >
-          <span class="acc-year">{{ item.date }}</span>
+          <span class="acc-year" :style="{ color: dateColor(index) }">{{ item.date }}</span>
           <span class="acc-title">{{ getTitle(item) }}</span>
           <v-icon class="acc-chevron" :class="{ open: openItems.has(index) }" size="small">
             mdi-chevron-down
@@ -39,6 +39,10 @@ const toggle = (i: number) => {
   else s.add(i)
   openItems.value = s
 }
+
+// Cycle blue → pink → green for each date
+const DATE_COLORS = ['#185FA5', '#C74B8E', '#2d7a2d']
+const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 
 const getTitle = (item: any): string => {
   if (item.title) return typeof item.title === 'string' ? item.title : (item.title.en ?? '')
@@ -80,10 +84,11 @@ const getTitle = (item: any): string => {
 }
 
 .acc-header {
-  /* auto date column expands to fit the widest date (e.g. "1970s-1980s")
-     and all rows share that same width — no truncation. */
+  /* Fixed date column — each button has its own grid, so "auto" would
+     give each row a different column width. 130px safely fits the
+     widest date ("1970s-1980s") and keeps all titles aligned. */
   display: grid;
-  grid-template-columns: auto 1fr auto;
+  grid-template-columns: 130px 1fr auto;
   column-gap: $rhythm-3;
   align-items: center;
   width: 100%;
@@ -108,7 +113,7 @@ const getTitle = (item: any): string => {
   font-family: $font-family-display;
   font-size: 1.25rem;
   font-weight: $font-weight-semibold; /* 600 — only loaded weight for Playfair */
-  color: $green-forest;
+  /* color is set per-row via inline style */
   white-space: nowrap;
   line-height: 1;
 }
@@ -135,7 +140,7 @@ const getTitle = (item: any): string => {
 
 .acc-body {
   display: none;
-  padding: 0 4px $rhythm-3 $rhythm-1;
+  padding: 0 4px $rhythm-3 calc(130px + #{$rhythm-3});
 
   &.open {
     display: block;
