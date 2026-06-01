@@ -85,7 +85,7 @@ onBeforeUnmount(() => document.removeEventListener('click', onOutsideClick))
 
 .fab-wrapper {
   position: fixed;
-  bottom: 1.5rem;
+  bottom: 5.5rem; /* clears the back-to-top FAB (24px + ~52px btn + 12px gap) */
   right: 1.5rem;
   z-index: $z-dropdown;
 }

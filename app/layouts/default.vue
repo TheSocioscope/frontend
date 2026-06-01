@@ -70,13 +70,14 @@ onUnmounted(() => {
   bottom: 24px !important;
   right: 24px !important;
   z-index: 1000 !important;
-  border-radius: 0 !important;
-  border: 2px solid green !important;
+  border-radius: 50% !important;
   background-color: white !important;
+  border: 0.5px solid #d0d0d0 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12) !important;
 }
 
 .scroll-to-top-btn :deep(.v-icon) {
-  color: green !important;
+  color: #27421d !important;
 }
 
 @media (max-width: 600px) {
