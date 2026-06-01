@@ -1,73 +1,77 @@
 <template>
-  <section v-if="yt || resolvedGallery.length > 0" id="gallery" class="project-gallery">
+  <section v-if="items.length" id="gallery" class="project-gallery">
     <span class="section-label">{{ $t('projects.detail.video') }}</span>
 
-    <!-- YouTube embed -->
-    <div v-if="yt" class="video-wrap">
-      <iframe
-        :src="`https://www.youtube.com/embed/${yt}`"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-        class="video-iframe"
-      />
-    </div>
+    <div class="carousel">
+      <!-- ── Main display ─────────────────────────────── -->
+      <div class="carousel-main">
 
-    <!-- Photo grid -->
-    <div v-if="resolvedGallery.length > 0" class="photo-grid" :class="{ 'photo-grid--below-video': yt }">
-      <button
-        v-for="(item, index) in resolvedGallery"
-        :key="index"
-        class="photo-item"
-        type="button"
-        @click="openLightbox(index)"
-      >
-        <img :src="item.url" :alt="item.caption || `Photo ${index + 1}`" class="photo-img" loading="lazy" />
-        <div class="photo-overlay" aria-hidden="true">
-          <v-icon size="22" color="white">mdi-magnify-plus-outline</v-icon>
+        <!-- Video -->
+        <template v-if="current.type === 'video'">
+          <iframe
+            :key="current.id"
+            :src="`https://www.youtube.com/embed/${current.id}`"
+            class="carousel-iframe"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          />
+        </template>
+
+        <!-- Photo -->
+        <template v-else>
+          <img
+            :key="current.url"
+            :src="current.url"
+            :alt="current.caption || `Photo ${activeIndex}`"
+            class="carousel-img"
+          />
+        </template>
+
+        <!-- Prev arrow -->
+        <button
+          v-if="activeIndex > 0"
+          class="carousel-arrow carousel-arrow--prev"
+          type="button"
+          aria-label="Previous"
+          @click="prev"
+        >
+          <v-icon color="white" size="22">mdi-chevron-left</v-icon>
+        </button>
+
+        <!-- Next arrow -->
+        <button
+          v-if="activeIndex < items.length - 1"
+          class="carousel-arrow carousel-arrow--next"
+          type="button"
+          aria-label="Next"
+          @click="next"
+        >
+          <v-icon color="white" size="22">mdi-chevron-right</v-icon>
+        </button>
+
+        <!-- Thumbnail strip — bottom-left overlay -->
+        <div class="thumb-strip">
+          <button
+            v-for="(item, i) in items"
+            :key="i"
+            class="thumb-btn"
+            :class="{ 'thumb-btn--active': i === activeIndex }"
+            type="button"
+            :aria-label="`Go to item ${i + 1}`"
+            @click="activeIndex = i"
+          >
+            <img :src="item.thumb" alt="" class="thumb-img" />
+            <div v-if="item.type === 'video'" class="thumb-play" aria-hidden="true">
+              <v-icon size="12" color="white">mdi-play</v-icon>
+            </div>
+          </button>
         </div>
-        <p v-if="item.caption" class="photo-caption">{{ item.caption }}</p>
-      </button>
+      </div>
     </div>
 
-    <!-- Lightbox -->
-    <div
-      v-if="lightboxOpen"
-      class="lightbox"
-      role="dialog"
-      aria-modal="true"
-      @click.self="closeLightbox"
-    >
-      <button class="lightbox-close" type="button" aria-label="Close" @click="closeLightbox">
-        <v-icon color="white" size="22">mdi-close</v-icon>
-      </button>
-      <button
-        v-if="currentIndex > 0"
-        class="lightbox-nav lightbox-nav--prev"
-        type="button"
-        aria-label="Previous"
-        @click="prevImage"
-      >
-        <v-icon color="white" size="28">mdi-chevron-left</v-icon>
-      </button>
-      <img
-        :src="resolvedGallery[currentIndex].url"
-        :alt="resolvedGallery[currentIndex].caption"
-        class="lightbox-img"
-      />
-      <button
-        v-if="currentIndex < resolvedGallery.length - 1"
-        class="lightbox-nav lightbox-nav--next"
-        type="button"
-        aria-label="Next"
-        @click="nextImage"
-      >
-        <v-icon color="white" size="28">mdi-chevron-right</v-icon>
-      </button>
-      <p v-if="resolvedGallery[currentIndex].caption" class="lightbox-caption">
-        {{ resolvedGallery[currentIndex].caption }}
-      </p>
-    </div>
+    <!-- Caption below -->
+    <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
   </section>
 </template>
 
@@ -86,38 +90,40 @@ const resolveUrl = (url: string) =>
     ? url
     : `${baseURL}${url.startsWith('/') ? url : `/${url}`}`
 
-const resolvedGallery = computed(() =>
-  (props.localizedGallery ?? []).map((item) => ({ ...item, url: resolveUrl(item.url) }))
-)
+type MediaItem =
+  | { type: 'video'; id: string; thumb: string; caption?: undefined; url?: undefined }
+  | { type: 'photo'; url: string; thumb: string; caption?: string; id?: undefined }
 
-const lightboxOpen = ref(false)
-const currentIndex = ref(0)
+const items = computed<MediaItem[]>(() => {
+  const list: MediaItem[] = []
+  if (props.yt) {
+    list.push({
+      type: 'video',
+      id: props.yt,
+      thumb: `https://img.youtube.com/vi/${props.yt}/mqdefault.jpg`,
+    })
+  }
+  for (const photo of props.localizedGallery ?? []) {
+    const url = resolveUrl(photo.url)
+    list.push({ type: 'photo', url, thumb: url, caption: photo.caption })
+  }
+  return list
+})
 
-const openLightbox = (index: number) => {
-  currentIndex.value = index
-  lightboxOpen.value = true
+const activeIndex = ref(0)
+const current = computed(() => items.value[activeIndex.value] ?? items.value[0])
+
+const prev = () => {
+  if (activeIndex.value > 0) activeIndex.value = activeIndex.value - 1
 }
-
-const closeLightbox = () => {
-  lightboxOpen.value = false
-}
-
-const prevImage = () => {
-  if (currentIndex.value > 0) currentIndex.value = currentIndex.value - 1
-}
-
-const nextImage = () => {
-  if (currentIndex.value < resolvedGallery.value.length - 1)
-    currentIndex.value = currentIndex.value + 1
+const next = () => {
+  if (activeIndex.value < items.value.length - 1) activeIndex.value = activeIndex.value + 1
 }
 
 const handleKey = (e: KeyboardEvent) => {
-  if (!lightboxOpen.value) return
-  if (e.key === 'Escape') closeLightbox()
-  else if (e.key === 'ArrowLeft') prevImage()
-  else if (e.key === 'ArrowRight') nextImage()
+  if (e.key === 'ArrowLeft') prev()
+  else if (e.key === 'ArrowRight') next()
 }
-
 onMounted(() => window.addEventListener('keydown', handleKey))
 onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
 </script>
@@ -140,53 +146,111 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   margin-bottom: $rhythm-2;
 }
 
-/* ── Video embed ───────────────────────────────────── */
-.video-wrap {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
+/* ── Carousel shell ─────────────────────────────── */
+.carousel {
   border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  background: #000;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
-.video-iframe {
+.carousel-main {
+  position: relative;
+  aspect-ratio: 16/9;
+  overflow: hidden;
+}
+
+/* ── Media items ────────────────────────────────── */
+.carousel-iframe {
   position: absolute;
-  top: 0;
-  left: 0;
+  inset: 0;
   width: 100%;
   height: 100%;
-  border-radius: 10px;
   border: none;
+  display: block;
 }
 
-/* ── Photo grid ────────────────────────────────────── */
-.photo-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
-
-  &--below-video {
-    margin-top: $rhythm-3;
-  }
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    grid-template-columns: repeat(2, 1fr);
-  }
+.carousel-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
-.photo-item {
-  position: relative;
-  aspect-ratio: 4/3;
-  overflow: hidden;
+/* ── Navigation arrows ──────────────────────────── */
+.carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.4);
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease;
+  z-index: 2;
+
+  /* Keep arrows above the thumb strip */
+  margin-bottom: 68px;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.7);
+  }
+
+  &--prev { left: 10px; }
+  &--next { right: 10px; }
+}
+
+/* ── Thumbnail strip ────────────────────────────── */
+.thumb-strip {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  right: 12px;
+  display: flex;
+  gap: 5px;
+  justify-content: flex-start;
+  padding: 6px 8px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
   border-radius: 8px;
-  border: none;
+  overflow-x: auto;
+  scrollbar-width: none;
+  z-index: 1;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.thumb-btn {
+  position: relative;
+  flex-shrink: 0;
+  width: 54px;
+  height: 38px;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 2px solid transparent;
   padding: 0;
   cursor: pointer;
-  background: $earth-10;
+  background: $earth-30;
+  transition: border-color 0.15s ease, opacity 0.15s ease;
+  opacity: 0.65;
 
-  &:hover .photo-overlay {
+  &--active {
+    border-color: white;
     opacity: 1;
+  }
+
+  &:hover:not(&--active) {
+    opacity: 0.9;
   }
 
   &:focus-visible {
@@ -195,121 +259,28 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   }
 }
 
-.photo-img {
+.thumb-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
-  transition: transform 0.3s ease;
-
-  .photo-item:hover & {
-    transform: scale(1.04);
-  }
 }
 
-.photo-overlay {
+.thumb-play {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.4);
   display: flex;
   align-items: center;
   justify-content: center;
-  opacity: 0;
-  transition: opacity 0.2s ease;
+  background: rgba(0, 0, 0, 0.35);
 }
 
-.photo-caption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.55);
-  color: white;
-  font-size: 11px;
-  padding: 4px 8px;
-  margin: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-/* ── Lightbox ──────────────────────────────────────── */
-.lightbox {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.92);
-  z-index: $z-modal;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.lightbox-close {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  background: rgba(255, 255, 255, 0.15);
-  border: none;
-  border-radius: 50%;
-  width: 38px;
-  height: 38px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: background 0.15s ease;
-
-  &:hover {
-    background: rgba(255, 255, 255, 0.3);
-  }
-}
-
-.lightbox-nav {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(255, 255, 255, 0.15);
-  border: none;
-  border-radius: 50%;
-  width: 48px;
-  height: 48px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  transition: background 0.15s ease;
-
-  &:hover {
-    background: rgba(255, 255, 255, 0.3);
-  }
-
-  &--prev {
-    left: 1rem;
-  }
-
-  &--next {
-    right: 1rem;
-  }
-}
-
-.lightbox-img {
-  max-width: 90vw;
-  max-height: 85vh;
-  object-fit: contain;
-  border-radius: 4px;
-}
-
-.lightbox-caption {
-  position: absolute;
-  bottom: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
-  color: rgba(255, 255, 255, 0.85);
-  font-size: 13px;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 4px 12px;
-  border-radius: 4px;
-  margin: 0;
-  white-space: nowrap;
+/* ── Caption ────────────────────────────────────── */
+.carousel-caption {
+  margin: $rhythm-1 0 0;
+  font-size: 12px;
+  color: $text-caption;
+  text-align: center;
+  min-height: 1.4em;
 }
 </style>
