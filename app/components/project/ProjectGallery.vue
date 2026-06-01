@@ -28,7 +28,7 @@
         class="lightbox-nav lightbox-nav--prev"
         type="button"
         aria-label="Previous"
-        @click="currentIndex--"
+        @click="prevImage"
       >
         <v-icon color="white" size="28">mdi-chevron-left</v-icon>
       </button>
@@ -42,7 +42,7 @@
         class="lightbox-nav lightbox-nav--next"
         type="button"
         aria-label="Next"
-        @click="currentIndex++"
+        @click="nextImage"
       >
         <v-icon color="white" size="28">mdi-chevron-right</v-icon>
       </button>
@@ -83,13 +83,21 @@ const closeLightbox = () => {
   lightboxOpen.value = false
 }
 
+const prevImage = () => {
+  if (currentIndex.value > 0) currentIndex.value = currentIndex.value - 1
+}
+
+const nextImage = () => {
+  if (currentIndex.value < resolvedGallery.value.length - 1)
+    currentIndex.value = currentIndex.value + 1
+}
+
 // Keyboard navigation — registered directly in setup, cleaned up with onBeforeUnmount
 const handleKey = (e: KeyboardEvent) => {
   if (!lightboxOpen.value) return
   if (e.key === 'Escape') closeLightbox()
-  else if (e.key === 'ArrowLeft' && currentIndex.value > 0) currentIndex.value--
-  else if (e.key === 'ArrowRight' && currentIndex.value < resolvedGallery.value.length - 1)
-    currentIndex.value++
+  else if (e.key === 'ArrowLeft') prevImage()
+  else if (e.key === 'ArrowRight') nextImage()
 }
 
 onMounted(() => window.addEventListener('keydown', handleKey))

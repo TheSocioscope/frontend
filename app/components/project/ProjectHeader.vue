@@ -107,7 +107,7 @@ const socialLinks = computed(() => {
   }
   // YouTube from the yt field
   if (props.project?.yt) {
-    links.push({ platform: 'YouTube', icon: 'mdi-youtube', url: props.project.yt })
+    links.push({ platform: 'YouTube', icon: 'mdi-youtube', url: `https://www.youtube.com/watch?v=${props.project.yt}` })
   }
   return links
 })

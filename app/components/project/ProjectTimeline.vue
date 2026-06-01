@@ -91,7 +91,11 @@ const ICON_MAP: Record<string, string> = {
 }
 
 const getIcon = (item: any): string => {
-  if (item.icon && ICON_MAP[item.icon]) return ICON_MAP[item.icon]
+  const iconVal: string = item.icon || ''
+  // If already a full MDI icon name, use it directly
+  if (iconVal.startsWith('mdi-')) return iconVal
+  // Look up short key in map
+  if (ICON_MAP[iconVal]) return ICON_MAP[iconVal]
   // Try to infer from text content
   const text = (item.text || item.title || '').toLowerCase()
   if (text.includes('launch') || text.includes('lancé') || text.includes('lanzam')) return 'mdi-rocket-launch-outline'
@@ -199,7 +203,7 @@ const getIcon = (item: any): string => {
 /* Indent body to align with title column */
 .acc-body {
   display: none;
-  padding: 0 4px $rhythm-3 calc(64px + #{$rhythm-2} + 28px + #{$rhythm-2});
+  padding: 0 4px $rhythm-3 calc(56px + #{$rhythm-2} + 28px + #{$rhythm-2});
 
   &.open {
     display: block;

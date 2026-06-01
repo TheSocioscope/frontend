@@ -54,6 +54,9 @@ defineProps<{
 const { t: $t } = useI18n()
 
 const getMdiIcon = (icon?: string): string => {
+  if (!icon) return 'mdi-package-variant-closed'
+  // If already a full MDI icon name, use it directly
+  if (icon.startsWith('mdi-')) return icon
   const map: Record<string, string> = {
     fertilizer: 'mdi-sprout',
     feed: 'mdi-food-drumstick',
@@ -68,7 +71,7 @@ const getMdiIcon = (icon?: string): string => {
     school: 'mdi-school-outline',
     map: 'mdi-map-outline',
   }
-  return map[icon || ''] || 'mdi-package-variant-closed'
+  return map[icon] || 'mdi-package-variant-closed'
 }
 </script>
 

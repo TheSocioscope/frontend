@@ -48,6 +48,9 @@ defineProps<{
 const { t: $t } = useI18n()
 
 const getMdiIcon = (icon?: string): string => {
+  if (!icon) return 'mdi-magnify'
+  // If already a full MDI icon name, use it directly
+  if (icon.startsWith('mdi-')) return icon
   const map: Record<string, string> = {
     funding: 'mdi-cash-multiple',
     awareness: 'mdi-bullhorn-outline',
@@ -61,7 +64,7 @@ const getMdiIcon = (icon?: string): string => {
     coin: 'mdi-currency-usd',
     tool: 'mdi-tools',
   }
-  return map[icon || ''] || 'mdi-magnify'
+  return map[icon] || 'mdi-magnify'
 }
 
 const getEmoji = (icon?: string): string => {

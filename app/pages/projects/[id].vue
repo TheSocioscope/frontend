@@ -39,7 +39,7 @@
         <ProjectVideo v-if="project.yt" :project="project" />
 
         <!-- Gallery (shown when data exists) -->
-        <!-- <ProjectGallery v-if="localizedGallery.length" :localized-gallery="localizedGallery" /> -->
+        <ProjectGallery v-if="localizedGallery.length" :localized-gallery="localizedGallery" />
 
         <!-- À propos -->
         <template v-if="localizedDescription">
