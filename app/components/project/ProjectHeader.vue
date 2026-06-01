@@ -6,10 +6,7 @@
         <v-icon size="x-small">mdi-leaf</v-icon>
         {{ primarySector }}
       </span>
-      <span v-if="locationLabel" class="tag">
-        <v-icon size="x-small">mdi-map-pin</v-icon>
-        {{ locationLabel }}
-      </span>
+      <span v-if="locationLabel" class="tag">{{ locationLabel }}</span>
       <span v-if="sizeLabel" class="tag">{{ sizeLabel }}</span>
     </div>
 
