@@ -1,26 +1,32 @@
 <template>
   <section v-if="related.length > 0" class="project-related">
-    <h3 class="related-title">{{ $t('projects.related', 'Similar initiatives') }}</h3>
-    <p class="related-subtitle">
-      {{ $t('projects.relatedHint', 'By country, sector, and region') }}
-    </p>
-    <ul class="related-list">
-      <li v-for="p in related" :key="p.pubId">
-        <NuxtLink :to="localePath(`/projects/${getSlug(p)}`)" class="related-row">
-          <span class="related-avatar" :style="{ background: avatarBg(p.pubId) }">
+    <div class="related-header">
+      <span class="section-label">{{ $t('projects.related', 'Similar initiatives') }}</span>
+      <p class="related-subtitle">
+        {{ $t('projects.relatedHint', 'By country, sector, and region') }}
+      </p>
+    </div>
+    <div class="related-grid">
+      <NuxtLink
+        v-for="p in related"
+        :key="p.pubId"
+        :to="localePath(`/projects/${getSlug(p)}`)"
+        class="sim-card"
+      >
+        <div class="sim-card-left">
+          <div class="sim-dot" :style="{ background: avatarBg(p.pubId) }">
             {{ getInitials(getName(p)) }}
-          </span>
-          <span class="related-body">
-            <span class="related-name">{{ getName(p) }}</span>
-            <span v-if="p.location || p.country?.length" class="related-meta">
-              <v-icon size="x-small">mdi-map-marker</v-icon>
+          </div>
+          <div class="sim-info">
+            <p class="sim-name">{{ getName(p) }}</p>
+            <p v-if="p.location || p.country?.length" class="sim-meta">
               {{ p.location || getCountryLabel((p.country || [])[0]) }}
-            </span>
-          </span>
-          <v-icon class="related-arrow" size="small">mdi-chevron-right</v-icon>
-        </NuxtLink>
-      </li>
-    </ul>
+            </p>
+          </div>
+        </div>
+        <v-icon class="sim-arrow" size="small">mdi-arrow-right</v-icon>
+      </NuxtLink>
+    </div>
   </section>
 </template>
 
@@ -62,7 +68,6 @@ const avatarBg = (pubId: number): string => {
   return colors[pubId % colors.length]
 }
 
-// Lightweight fetch — just the fields we need to score and render rows.
 const { data: candidates } = await useAsyncData(
   `related-${props.currentProject?.pubId ?? 0}`,
   () =>
@@ -71,8 +76,6 @@ const { data: candidates } = await useAsyncData(
       .all() as Promise<any[]>
 )
 
-// Score candidates by relevance to the current project. Country is the
-// strongest signal; shared sectors next; same continent is a tiebreaker.
 const related = computed(() => {
   if (!candidates.value || !props.currentProject) return []
   const cur = props.currentProject
@@ -80,25 +83,19 @@ const related = computed(() => {
   const curContinents = new Set(cur.continent || [])
   const curSectors = new Set(cur.sectorFocus || [])
 
-  const scored = candidates.value
+  return candidates.value
     .filter((p) => p.pubId !== cur.pubId)
     .map((p) => {
       let score = 0
-      const sharedCountries = (p.country || []).filter((c: string) => curCountries.has(c)).length
-      const sharedSectors = (p.sectorFocus || []).filter((s: string) => curSectors.has(s)).length
-      const sharedContinents = (p.continent || []).filter((c: string) => curContinents.has(c))
-        .length
-      score += sharedCountries * 3
-      score += sharedSectors * 2
-      score += sharedContinents * 1
+      score += (p.country || []).filter((c: string) => curCountries.has(c)).length * 3
+      score += (p.sectorFocus || []).filter((s: string) => curSectors.has(s)).length * 2
+      score += (p.continent || []).filter((c: string) => curContinents.has(c)).length * 1
       return { project: p, score }
     })
-    .filter((entry) => entry.score > 0)
+    .filter((e) => e.score > 0)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 5)
-    .map((entry) => entry.project)
-
-  return scored
+    .slice(0, 4)
+    .map((e) => e.project)
 })
 </script>
 
@@ -106,111 +103,119 @@ const related = computed(() => {
 @use '~~/assets/styles/variables' as *;
 
 .project-related {
-  margin-top: $rhythm-3;
-  padding: $rhythm-2 $rhythm-3 $rhythm-3;
-  background: white;
-  border: 1px solid $border-soft;
-  border-radius: 12px;
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    border-radius: 8px;
-    padding: $rhythm-2;
-  }
+  margin-top: $rhythm-6;
+  padding-top: $rhythm-4;
+  border-top: 0.5px solid $border-soft;
 }
 
-.related-title {
-  margin: 0 0 2px;
-  font-family: $font-family-display;
-  font-size: 1rem;
+.related-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: $rhythm-3;
+  flex-wrap: wrap;
+  gap: $rhythm-1;
+}
+
+.section-label {
+  display: block;
+  font-size: 10px;
   font-weight: 700;
-  color: $green-forest;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: 2px;
 }
 
 .related-subtitle {
-  margin: 0 0 $rhythm-2;
-  font-size: 0.75rem;
+  font-size: 13px;
   color: $text-caption;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.related-list {
-  list-style: none;
   margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
 }
 
-.related-row {
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+
+  @media (max-width: $detail-bp-desktop - 1) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.sim-card {
   display: flex;
   align-items: center;
-  gap: 10px;
-  padding: 8px 6px;
-  border-radius: 6px;
+  justify-content: space-between;
+  gap: $rhythm-2;
+  padding: 14px 16px;
+  background: white;
+  border: 0.5px solid $border-soft;
+  border-radius: 12px;
   text-decoration: none;
   color: inherit;
-  transition: background 0.15s;
+  cursor: pointer;
+  transition: border-color $transition-fast;
 
   &:hover {
-    background: $earth-10;
+    border-color: $green-forest;
   }
 
   &:focus-visible {
-    outline: 2px solid $green-forest;
+    outline: 2px solid $green-leaf;
     outline-offset: 2px;
-  }
-
-  & + .related-row {
-    border-top: 1px solid $border-soft;
   }
 }
 
-.related-avatar {
-  width: 32px;
-  height: 32px;
+.sim-card-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+.sim-dot {
+  width: 36px;
+  height: 36px;
   border-radius: 50%;
-  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: white;
-  font-size: 0.75rem;
+  font-size: 13px;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  color: white;
+  flex-shrink: 0;
 }
 
-.related-body {
-  flex: 1;
+.sim-info {
   min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2px;
 }
 
-.related-name {
-  font-size: 0.875rem;
-  font-weight: 600;
+.sim-name {
+  font-size: 13px;
+  font-weight: 700;
   color: $text-primary;
+  margin: 0 0 2px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-.related-meta {
-  font-size: 0.75rem;
+.sim-meta {
+  font-size: 11px;
+  color: $text-secondary;
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sim-arrow {
   color: $text-caption;
-  display: inline-flex;
-  align-items: center;
-  gap: 2px;
-}
-
-.related-arrow {
-  color: $text-disabled;
   flex-shrink: 0;
-}
-
-li:not(:first-child) .related-row {
-  border-top: 1px solid $border-soft;
 }
 </style>
