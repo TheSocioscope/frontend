@@ -222,6 +222,14 @@ export default defineContentConfig({
             })
           )
           .optional(),
+        gallery: z
+          .array(
+            z.object({
+              url: z.string(),
+              caption: z.string().optional()
+            })
+          )
+          .optional(),
         caseCode: z.string().optional(),
         entityDescription: z.string().optional(),
         entityRole: z.array(z.string()).optional(),
