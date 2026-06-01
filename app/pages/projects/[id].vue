@@ -35,11 +35,12 @@
           @connect="connectDrawerOpen = true"
         />
 
-        <!-- Media -->
-        <ProjectVideo v-if="project.yt" :project="project" />
-
-        <!-- Gallery (shown when data exists) -->
-        <ProjectGallery v-if="localizedGallery.length" :localized-gallery="localizedGallery" />
+        <!-- Photos & Videos (video embed + photo grid, unified) -->
+        <ProjectGallery
+          v-if="project.yt || localizedGallery.length"
+          :yt="project.yt"
+          :localized-gallery="localizedGallery"
+        />
 
         <!-- À propos -->
         <template v-if="localizedDescription">
@@ -310,7 +311,8 @@ const availableSections = computed(() => {
   const list: { id: string; label: string }[] = []
   if (proj.entityDescription || localizedDescription.value)
     list.push({ id: 'about', label: $t('projects.detail.about') })
-  if (proj.yt) list.push({ id: 'video', label: $t('projects.detail.video') })
+  if (proj.yt || localizedGallery.value.length > 0)
+    list.push({ id: 'gallery', label: $t('projects.detail.video') })
   if (proj.team && proj.team.length > 0)
     list.push({ id: 'team', label: $t('projects.detail.team') })
   if (localizedTimeline.value.length > 0)

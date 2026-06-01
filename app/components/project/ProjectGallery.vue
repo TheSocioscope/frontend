@@ -1,27 +1,45 @@
 <template>
-  <div v-if="resolvedGallery.length > 0" id="gallery" class="project-gallery">
-    <span class="section-label">{{ $t('projects.detail.gallery') }}</span>
+  <section v-if="yt || resolvedGallery.length > 0" id="gallery" class="project-gallery">
+    <span class="section-label">{{ $t('projects.detail.video') }}</span>
 
-    <div class="gallery-grid">
+    <!-- YouTube embed -->
+    <div v-if="yt" class="video-wrap">
+      <iframe
+        :src="`https://www.youtube.com/embed/${yt}`"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+        class="video-iframe"
+      />
+    </div>
+
+    <!-- Photo grid -->
+    <div v-if="resolvedGallery.length > 0" class="photo-grid" :class="{ 'photo-grid--below-video': yt }">
       <button
         v-for="(item, index) in resolvedGallery"
         :key="index"
-        class="gallery-item"
+        class="photo-item"
         type="button"
         @click="openLightbox(index)"
       >
-        <img :src="item.url" :alt="item.caption || `Photo ${index + 1}`" class="gallery-img" loading="lazy" />
-        <div class="gallery-overlay" aria-hidden="true">
-          <v-icon size="24" color="white">mdi-magnify-plus-outline</v-icon>
+        <img :src="item.url" :alt="item.caption || `Photo ${index + 1}`" class="photo-img" loading="lazy" />
+        <div class="photo-overlay" aria-hidden="true">
+          <v-icon size="22" color="white">mdi-magnify-plus-outline</v-icon>
         </div>
-        <p v-if="item.caption" class="gallery-caption">{{ item.caption }}</p>
+        <p v-if="item.caption" class="photo-caption">{{ item.caption }}</p>
       </button>
     </div>
 
     <!-- Lightbox -->
-    <div v-if="lightboxOpen" class="lightbox" role="dialog" aria-modal="true" @click.self="closeLightbox">
+    <div
+      v-if="lightboxOpen"
+      class="lightbox"
+      role="dialog"
+      aria-modal="true"
+      @click.self="closeLightbox"
+    >
       <button class="lightbox-close" type="button" aria-label="Close" @click="closeLightbox">
-        <v-icon color="white" size="24">mdi-close</v-icon>
+        <v-icon color="white" size="22">mdi-close</v-icon>
       </button>
       <button
         v-if="currentIndex > 0"
@@ -50,11 +68,12 @@
         {{ resolvedGallery[currentIndex].caption }}
       </p>
     </div>
-  </div>
+  </section>
 </template>
 
 <script setup lang="ts">
 const props = defineProps<{
+  yt?: string
   localizedGallery: Array<{ url: string; caption?: string }>
 }>()
 
@@ -92,7 +111,6 @@ const nextImage = () => {
     currentIndex.value = currentIndex.value + 1
 }
 
-// Keyboard navigation — registered directly in setup, cleaned up with onBeforeUnmount
 const handleKey = (e: KeyboardEvent) => {
   if (!lightboxOpen.value) return
   if (e.key === 'Escape') closeLightbox()
@@ -109,6 +127,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
 
 .project-gallery {
   margin-bottom: $rhythm-6;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $rhythm-2;
 }
 
 .section-label {
@@ -121,17 +140,42 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   margin-bottom: $rhythm-2;
 }
 
-.gallery-grid {
+/* ── Video embed ───────────────────────────────────── */
+.video-wrap {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.video-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  border: none;
+}
+
+/* ── Photo grid ────────────────────────────────────── */
+.photo-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 8px;
+
+  &--below-video {
+    margin-top: $rhythm-3;
+  }
 
   @media (max-width: $detail-bp-tablet - 1) {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
-.gallery-item {
+.photo-item {
   position: relative;
   aspect-ratio: 4/3;
   overflow: hidden;
@@ -141,7 +185,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   cursor: pointer;
   background: $earth-10;
 
-  &:hover .gallery-overlay {
+  &:hover .photo-overlay {
     opacity: 1;
   }
 
@@ -151,22 +195,22 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   }
 }
 
-.gallery-img {
+.photo-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   display: block;
   transition: transform 0.3s ease;
 
-  .gallery-item:hover & {
+  .photo-item:hover & {
     transform: scale(1.04);
   }
 }
 
-.gallery-overlay {
+.photo-overlay {
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.45);
+  background: rgba(0, 0, 0, 0.4);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -174,7 +218,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   transition: opacity 0.2s ease;
 }
 
-.gallery-caption {
+.photo-caption {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -184,17 +228,16 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   font-size: 11px;
   padding: 4px 8px;
   margin: 0;
-  text-align: left;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-/* Lightbox */
+/* ── Lightbox ──────────────────────────────────────── */
 .lightbox {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.92);
   z-index: $z-modal;
   display: flex;
   align-items: center;
@@ -208,8 +251,8 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   background: rgba(255, 255, 255, 0.15);
   border: none;
   border-radius: 50%;
-  width: 40px;
-  height: 40px;
+  width: 38px;
+  height: 38px;
   display: flex;
   align-items: center;
   justify-content: center;
