@@ -137,9 +137,12 @@ const getIcon = (item: any): string => {
 }
 
 .acc-header {
-  display: flex;
+  /* Grid gives each column a fixed lane so dates, icons, and titles
+     stay vertically aligned regardless of date string length. */
+  display: grid;
+  grid-template-columns: 96px 28px 1fr auto;
+  column-gap: $rhythm-2;
   align-items: center;
-  gap: $rhythm-2;
   width: 100%;
   padding: 14px 4px;
   background: none;
@@ -163,8 +166,9 @@ const getIcon = (item: any): string => {
   font-size: 1.25rem;
   font-weight: $font-weight-semibold; /* 600 — only loaded weight for Playfair */
   color: $green-forest;
-  min-width: 56px;
-  flex-shrink: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   line-height: 1;
 }
 
@@ -172,14 +176,12 @@ const getIcon = (item: any): string => {
   width: 28px;
   height: 28px;
   border-radius: 7px;
-  flex-shrink: 0;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .acc-title {
-  flex: 1;
   font-size: 14px;
   font-weight: 700;
   color: $text-primary;
@@ -192,7 +194,6 @@ const getIcon = (item: any): string => {
 
 .acc-chevron {
   color: $text-caption;
-  flex-shrink: 0;
   transition: transform 0.2s ease;
 
   &.open {
@@ -203,7 +204,7 @@ const getIcon = (item: any): string => {
 /* Indent body to align with title column */
 .acc-body {
   display: none;
-  padding: 0 4px $rhythm-3 calc(56px + #{$rhythm-2} + 28px + #{$rhythm-2});
+  padding: 0 4px $rhythm-3 calc(96px + #{$rhythm-2} + 28px + #{$rhythm-2});
 
   &.open {
     display: block;
