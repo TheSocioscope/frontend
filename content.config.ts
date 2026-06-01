@@ -186,6 +186,17 @@ export default defineContentConfig({
         ]),
         originalLang: z.string().optional(),
         lang: z.string().optional(),
+        tagline: z
+          .union([
+            z.string(),
+            z.object({
+              en: z.string(),
+              fr: z.string().optional(),
+              es: z.string().optional(),
+              de: z.string().optional()
+            })
+          ])
+          .optional(),
         location: z.string().optional(),
         url: z.string().optional(),
         yt: z.string().optional(),
