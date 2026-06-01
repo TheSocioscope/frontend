@@ -1,77 +1,56 @@
 <template>
-  <v-card v-if="resolvedGallery && resolvedGallery.length > 0" id="gallery" class="project-gallery">
-    <ProjectSectionHeader icon="mdi-image-multiple-outline">
-      {{ $t('projects.detail.gallery') }}
-    </ProjectSectionHeader>
-    <v-card-text>
-      <v-row>
-        <v-col v-for="(item, index) in resolvedGallery" :key="index" cols="12" sm="6" md="4">
-          <v-card class="gallery-item" elevation="2" @click="openLightbox(index)">
-            <v-img
-              :src="item.url"
-              :alt="item.caption || `Gallery image ${index + 1}`"
-              aspect-ratio="1"
-              cover
-              class="gallery-image"
-            >
-              <div class="image-overlay">
-                <v-icon size="large" color="white">mdi-magnify-plus-outline</v-icon>
-              </div>
-            </v-img>
+  <div v-if="resolvedGallery.length > 0" id="gallery" class="project-gallery">
+    <span class="section-label">{{ $t('projects.detail.gallery') }}</span>
 
-            <v-card-text v-if="item.caption" class="gallery-caption">
-              {{ item.caption }}
-            </v-card-text>
-          </v-card>
-        </v-col>
-      </v-row>
+    <div class="gallery-grid">
+      <button
+        v-for="(item, index) in resolvedGallery"
+        :key="index"
+        class="gallery-item"
+        type="button"
+        @click="openLightbox(index)"
+      >
+        <img :src="item.url" :alt="item.caption || `Photo ${index + 1}`" class="gallery-img" loading="lazy" />
+        <div class="gallery-overlay" aria-hidden="true">
+          <v-icon size="24" color="white">mdi-magnify-plus-outline</v-icon>
+        </div>
+        <p v-if="item.caption" class="gallery-caption">{{ item.caption }}</p>
+      </button>
+    </div>
 
-      <!-- Lightbox Dialog -->
-      <v-dialog v-model="lightboxOpen" max-width="1200">
-        <v-card>
-          <v-card-text class="pa-0">
-            <div class="lightbox-container">
-              <v-btn icon class="lightbox-close" size="large" @click="lightboxOpen = false">
-                <v-icon>mdi-close</v-icon>
-              </v-btn>
-
-              <v-btn
-                v-if="currentIndex > 0"
-                icon
-                class="lightbox-nav lightbox-prev"
-                size="large"
-                @click="previousImage"
-              >
-                <v-icon>mdi-chevron-left</v-icon>
-              </v-btn>
-
-              <v-img
-                :src="resolvedGallery[currentIndex].url"
-                :alt="resolvedGallery[currentIndex].caption"
-                max-height="80vh"
-                contain
-                class="lightbox-image"
-              />
-
-              <v-btn
-                v-if="currentIndex < resolvedGallery.length - 1"
-                icon
-                class="lightbox-nav lightbox-next"
-                size="large"
-                @click="nextImage"
-              >
-                <v-icon>mdi-chevron-right</v-icon>
-              </v-btn>
-
-              <div v-if="resolvedGallery[currentIndex].caption" class="lightbox-caption">
-                {{ resolvedGallery[currentIndex].caption }}
-              </div>
-            </div>
-          </v-card-text>
-        </v-card>
-      </v-dialog>
-    </v-card-text>
-  </v-card>
+    <!-- Lightbox -->
+    <div v-if="lightboxOpen" class="lightbox" role="dialog" aria-modal="true" @click.self="closeLightbox">
+      <button class="lightbox-close" type="button" aria-label="Close" @click="closeLightbox">
+        <v-icon color="white" size="24">mdi-close</v-icon>
+      </button>
+      <button
+        v-if="currentIndex > 0"
+        class="lightbox-nav lightbox-nav--prev"
+        type="button"
+        aria-label="Previous"
+        @click="currentIndex--"
+      >
+        <v-icon color="white" size="28">mdi-chevron-left</v-icon>
+      </button>
+      <img
+        :src="resolvedGallery[currentIndex].url"
+        :alt="resolvedGallery[currentIndex].caption"
+        class="lightbox-img"
+      />
+      <button
+        v-if="currentIndex < resolvedGallery.length - 1"
+        class="lightbox-nav lightbox-nav--next"
+        type="button"
+        aria-label="Next"
+        @click="currentIndex++"
+      >
+        <v-icon color="white" size="28">mdi-chevron-right</v-icon>
+      </button>
+      <p v-if="resolvedGallery[currentIndex].caption" class="lightbox-caption">
+        {{ resolvedGallery[currentIndex].caption }}
+      </p>
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts">
@@ -80,9 +59,8 @@ const props = defineProps<{
 }>()
 
 const { t: $t } = useI18n()
-
-const { app } = useRuntimeConfig()
-const baseURL = app.baseURL?.replace(/\/$/, '') ?? ''
+const runtimeConfig = useRuntimeConfig()
+const baseURL = (runtimeConfig.app?.baseURL ?? '/').replace(/\/$/, '')
 
 const resolveUrl = (url: string) =>
   url.startsWith('http://') || url.startsWith('https://') || url.startsWith('//')
@@ -90,7 +68,7 @@ const resolveUrl = (url: string) =>
     : `${baseURL}${url.startsWith('/') ? url : `/${url}`}`
 
 const resolvedGallery = computed(() =>
-  props.localizedGallery?.map((item) => ({ ...item, url: resolveUrl(item.url) }))
+  (props.localizedGallery ?? []).map((item) => ({ ...item, url: resolveUrl(item.url) }))
 )
 
 const lightboxOpen = ref(false)
@@ -101,75 +79,86 @@ const openLightbox = (index: number) => {
   lightboxOpen.value = true
 }
 
-const previousImage = () => {
-  if (currentIndex.value > 0) {
-    currentIndex.value--
-  }
+const closeLightbox = () => {
+  lightboxOpen.value = false
 }
 
-const nextImage = () => {
-  if (currentIndex.value < props.localizedGallery.length - 1) {
+// Keyboard navigation — registered directly in setup, cleaned up with onBeforeUnmount
+const handleKey = (e: KeyboardEvent) => {
+  if (!lightboxOpen.value) return
+  if (e.key === 'Escape') closeLightbox()
+  else if (e.key === 'ArrowLeft' && currentIndex.value > 0) currentIndex.value--
+  else if (e.key === 'ArrowRight' && currentIndex.value < resolvedGallery.value.length - 1)
     currentIndex.value++
-  }
 }
 
-// Keyboard navigation
-onMounted(() => {
-  const handleKeyPress = (e: KeyboardEvent) => {
-    if (!lightboxOpen.value) return
-
-    if (e.key === 'Escape') {
-      lightboxOpen.value = false
-    } else if (e.key === 'ArrowLeft') {
-      previousImage()
-    } else if (e.key === 'ArrowRight') {
-      nextImage()
-    }
-  }
-
-  window.addEventListener('keydown', handleKeyPress)
-
-  onUnmounted(() => {
-    window.removeEventListener('keydown', handleKeyPress)
-  })
-})
+onMounted(() => window.addEventListener('keydown', handleKey))
+onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
 </script>
 
 <style scoped lang="scss">
 @use '~~/assets/styles/variables' as *;
 
 .project-gallery {
-  margin-bottom: 2rem;
+  margin-bottom: $rhythm-6;
 }
 
-.gallery-item {
-  cursor: pointer;
-  transition:
-    transform 0.2s ease,
-    box-shadow 0.2s ease;
-  overflow: hidden;
+.section-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: $rhythm-2;
+}
 
-  &:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2) !important;
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
 
-    .image-overlay {
-      opacity: 1;
-    }
+  @media (max-width: $detail-bp-tablet - 1) {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-.gallery-image {
+.gallery-item {
   position: relative;
+  aspect-ratio: 4/3;
+  overflow: hidden;
+  border-radius: 8px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  background: $earth-10;
+
+  &:hover .gallery-overlay {
+    opacity: 1;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
 }
 
-.image-overlay {
+.gallery-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.3s ease;
+
+  .gallery-item:hover & {
+    transform: scale(1.04);
+  }
+}
+
+.gallery-overlay {
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  inset: 0;
+  background: rgba(0, 0, 0, 0.45);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -178,28 +167,49 @@ onMounted(() => {
 }
 
 .gallery-caption {
-  font-size: 0.9rem;
-  line-height: 1.4;
-  color: $text-secondary;
-  padding: 0.75rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.55);
+  color: white;
+  font-size: 11px;
+  padding: 4px 8px;
+  margin: 0;
+  text-align: left;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.lightbox-container {
-  position: relative;
-  background: #000;
-  min-height: 400px;
+/* Lightbox */
+.lightbox {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: $z-modal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .lightbox-close {
   position: absolute;
   top: 1rem;
   right: 1rem;
-  z-index: 10;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease;
 
   &:hover {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(255, 255, 255, 0.3);
   }
 }
 
@@ -207,36 +217,48 @@ onMounted(() => {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  z-index: 10;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  border-radius: 50%;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease;
 
   &:hover {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(255, 255, 255, 0.3);
+  }
+
+  &--prev {
+    left: 1rem;
+  }
+
+  &--next {
+    right: 1rem;
   }
 }
 
-.lightbox-prev {
-  left: 1rem;
-}
-
-.lightbox-next {
-  right: 1rem;
-}
-
-.lightbox-image {
-  width: 100%;
+.lightbox-img {
+  max-width: 90vw;
+  max-height: 85vh;
+  object-fit: contain;
+  border-radius: 4px;
 }
 
 .lightbox-caption {
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  color: white;
-  padding: 1rem;
-  text-align: center;
-  font-size: 1rem;
+  bottom: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 13px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 4px 12px;
+  border-radius: 4px;
+  margin: 0;
+  white-space: nowrap;
 }
 </style>
