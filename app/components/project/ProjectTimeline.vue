@@ -10,14 +10,13 @@
           @click="toggle(index)"
         >
           <span class="acc-year" :style="{ color: dateColor(index) }">{{ item.date }}</span>
-          <span class="acc-title">{{ getTitle(item) }}</span>
+          <span class="acc-title" :class="{ 'acc-title--open': openItems.has(index) }">
+            {{ openItems.has(index) ? item.text : getTitle(item) }}
+          </span>
           <v-icon class="acc-chevron" :class="{ open: openItems.has(index) }" size="small">
             mdi-chevron-down
           </v-icon>
         </button>
-        <div class="acc-body" :class="{ open: openItems.has(index) }">
-          <p class="acc-text">{{ item.text }}</p>
-        </div>
       </div>
     </div>
   </section>
@@ -84,13 +83,10 @@ const getTitle = (item: any): string => {
 }
 
 .acc-header {
-  /* Fixed date column — each button has its own grid, so "auto" would
-     give each row a different column width. 130px safely fits the
-     widest date ("1970s-1980s") and keeps all titles aligned. */
   display: grid;
   grid-template-columns: 130px 1fr auto;
   column-gap: $rhythm-3;
-  align-items: center;
+  align-items: start;
   width: 100%;
   padding: 14px 4px;
   background: none;
@@ -112,10 +108,9 @@ const getTitle = (item: any): string => {
 .acc-year {
   font-family: $font-family-display;
   font-size: 1.25rem;
-  font-weight: $font-weight-semibold; /* 600 — only loaded weight for Playfair */
-  /* color is set per-row via inline style */
+  font-weight: $font-weight-semibold;
   white-space: nowrap;
-  line-height: 1;
+  line-height: 1.4;
 }
 
 .acc-title {
@@ -126,37 +121,25 @@ const getTitle = (item: any): string => {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  line-height: 1.5;
   transition: color $transition-fast;
 
-  .acc-header[aria-expanded='true'] & {
+  &--open {
     white-space: normal;
     overflow: visible;
     text-overflow: unset;
+    font-weight: 400;
+    color: $text-secondary;
   }
 }
 
 .acc-chevron {
   color: $text-caption;
   transition: transform 0.2s ease;
+  margin-top: 2px;
 
   &.open {
     transform: rotate(180deg);
   }
-}
-
-.acc-body {
-  display: none;
-  padding: 0 4px $rhythm-3 calc(130px + #{$rhythm-3});
-
-  &.open {
-    display: block;
-  }
-}
-
-.acc-text {
-  font-size: 13px;
-  color: $text-secondary;
-  line-height: 1.7;
-  margin: 0;
 }
 </style>
