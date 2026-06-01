@@ -24,7 +24,6 @@
       <ProjectBreadcrumb
         :localized-name="localizedName"
         :page-url="currentUrl"
-        @edit="editDrawerOpen = true"
       />
 
       <div class="project-body">
@@ -34,6 +33,7 @@
           :localized-name="localizedName"
           :localized-description="localizedTagline"
           @connect="connectDrawerOpen = true"
+          @edit="editDrawerOpen = true"
         />
 
         <!-- Photos & Videos (video embed + photo grid, unified) -->

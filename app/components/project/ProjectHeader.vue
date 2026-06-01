@@ -51,6 +51,11 @@
             <v-icon size="18">{{ link.icon }}</v-icon>
           </a>
         </div>
+        <!-- Suggest edit -->
+        <button class="btn-edit" @click="$emit('edit')">
+          <v-icon size="small">mdi-pencil-outline</v-icon>
+          {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
+        </button>
       </div>
     </div>
   </header>
@@ -63,7 +68,7 @@ const props = defineProps<{
   localizedDescription?: string
 }>()
 
-defineEmits<{ connect: [] }>()
+defineEmits<{ connect: []; edit: [] }>()
 
 const { t: $t } = useI18n()
 
@@ -265,6 +270,42 @@ const socialLinks = computed(() => {
   &:hover {
     border-color: $green-leaf;
     color: $green-leaf;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    flex: 1;
+    width: auto;
+  }
+}
+
+.btn-edit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: none;
+  border: 0.5px solid $border-soft;
+  border-radius: 10px;
+  padding: 7px 14px;
+  font-family: $font-family-base;
+  font-size: 11px;
+  font-weight: 600;
+  color: $text-caption;
+  cursor: pointer;
+  width: 100%;
+  letter-spacing: 0.03em;
+  transition:
+    border-color $transition-fast,
+    color $transition-fast;
+
+  &:hover {
+    border-color: $green-leaf;
+    color: $green-forest;
   }
 
   &:focus-visible {

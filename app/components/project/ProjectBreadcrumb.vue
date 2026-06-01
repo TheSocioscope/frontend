@@ -8,35 +8,10 @@
       <span class="separator" aria-hidden="true">·</span>
       <span class="current">{{ localizedName }}</span>
 
-      <v-menu location="bottom end">
-        <template #activator="{ props: activator }">
-          <v-btn
-            class="kebab"
-            icon="mdi-dots-vertical"
-            variant="text"
-            size="small"
-            density="comfortable"
-            v-bind="activator"
-            :aria-label="$t('editDrawer.title')"
-          />
-        </template>
-        <v-list density="compact">
-          <v-list-item @click="emit('edit')">
-            <template #prepend>
-              <v-icon size="small">mdi-pencil</v-icon>
-            </template>
-            <v-list-item-title>{{ $t('editDrawer.title') }}</v-list-item-title>
-          </v-list-item>
-          <v-list-item @click="copyLink">
-            <template #prepend>
-              <v-icon size="small">mdi-content-copy</v-icon>
-            </template>
-            <v-list-item-title>
-              {{ copied ? $t('common.copied') : $t('common.copyLink') }}
-            </v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-menu>
+      <button class="copy-link-btn" :aria-label="$t('common.copyLink')" @click="copyLink">
+        <v-icon size="small">{{ copied ? 'mdi-check' : 'mdi-content-copy' }}</v-icon>
+        {{ copied ? $t('common.copied') : $t('common.copyLink') }}
+      </button>
     </v-container>
   </nav>
 </template>
@@ -46,8 +21,6 @@ const props = defineProps<{
   localizedName: string
   pageUrl: string
 }>()
-
-const emit = defineEmits<{ edit: [] }>()
 
 const { t: $t } = useI18n()
 const localePath = useLocalePath()
@@ -118,7 +91,30 @@ const copyLink = async () => {
   min-width: 0;
 }
 
-.kebab {
+.copy-link-btn {
   margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  background: none;
+  border: none;
+  font-family: $font-family-base;
+  font-size: 0.8rem;
+  color: $text-secondary;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  white-space: nowrap;
+  transition: color $transition-fast, background $transition-fast;
+
+  &:hover {
+    color: $green-forest;
+    background: rgba(76, 160, 73, 0.07);
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
 }
 </style>
