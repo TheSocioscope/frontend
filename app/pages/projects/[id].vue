@@ -115,6 +115,24 @@
         @close="editDrawerOpen = false"
       />
 
+      <!-- Action FABs (Contact & Edit) -->
+      <div class="action-fabs">
+        <button
+          class="action-fab action-fab--contact"
+          :aria-label="$t('projects.detail.connect', 'Contact')"
+          @click="connectDrawerOpen = true"
+        >
+          <v-icon size="20">mdi-email-outline</v-icon>
+        </button>
+        <button
+          class="action-fab action-fab--edit"
+          :aria-label="$t('projects.detail.suggestEdit', 'Suggest an edit')"
+          @click="editDrawerOpen = true"
+        >
+          <v-icon size="20">mdi-pencil-outline</v-icon>
+        </button>
+      </div>
+
       <!-- Share FAB -->
       <ProjectShare :project-name="localizedName" :project-url="currentUrl" />
     </div>
@@ -488,6 +506,57 @@ watchEffect(() => {
   @media (max-width: $detail-bp-tablet - 1) {
     grid-template-columns: 1fr;
     gap: $rhythm-3;
+  }
+}
+
+/* Action FABs */
+.action-fabs {
+  position: fixed;
+  bottom: 10rem;
+  right: 1.5rem;
+  z-index: $z-dropdown;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.action-fab {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  &:focus-visible {
+    outline: 2px solid white;
+    outline-offset: 3px;
+  }
+
+  &--contact {
+    background: #85C49A; /* pastel green */
+
+    &:hover {
+      background: #7ab88b;
+    }
+  }
+
+  &--edit {
+    background: #C4A890; /* pastel brown */
+
+    &:hover {
+      background: #b89a7f;
+    }
   }
 }
 </style>

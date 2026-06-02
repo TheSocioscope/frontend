@@ -22,10 +22,6 @@
       </div>
 
       <div class="hero-actions">
-        <button class="btn-contact" @click="$emit('connect')">
-          <v-icon size="small">mdi-email-outline</v-icon>
-          {{ $t('projects.detail.connect', 'Contact') }}
-        </button>
         <a
           v-if="project.url"
           :href="project.url"
@@ -50,11 +46,6 @@
             <v-icon size="18">{{ link.icon }}</v-icon>
           </a>
         </div>
-        <!-- Suggest edit -->
-        <button class="btn-edit" @click="$emit('edit')">
-          <v-icon size="small">mdi-pencil-outline</v-icon>
-          {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
-        </button>
       </div>
     </div>
   </header>
