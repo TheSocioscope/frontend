@@ -161,7 +161,7 @@ const socialLinks = computed(() => {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: $rhythm-6;
-  align-items: flex-start;
+  align-items: center;
 
   @media (max-width: $detail-bp-tablet - 1) {
     grid-template-columns: 1fr;
