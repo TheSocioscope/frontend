@@ -26,7 +26,7 @@ const localePath = useLocalePath()
   position: sticky;
   top: $sticky-site-header;
   z-index: 9;
-  background: var(--page-bg, #f8f9fa);
+  background: rgba(76, 160, 73, 0.08);
   height: $sticky-breadcrumb;
   display: flex;
   align-items: center;
