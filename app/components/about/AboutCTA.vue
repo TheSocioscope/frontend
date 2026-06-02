@@ -45,16 +45,9 @@ const localePath = useLocalePath()
 }
 
 .cta-row {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 2rem;
-  align-items: center;
-
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr;
-    gap: 1.25rem;
-    text-align: center;
-  }
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
 .cta-text {
@@ -85,11 +78,7 @@ const localePath = useLocalePath()
   display: flex;
   gap: 0.75rem;
   flex-wrap: wrap;
-  justify-content: flex-end;
-
-  @media (max-width: 768px) {
-    justify-content: stretch;
-  }
+  justify-content: flex-start;
 }
 
 .btn-primary {
