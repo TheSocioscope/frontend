@@ -133,6 +133,11 @@
                   <button type="button" class="file-chip-remove" @click="removeMedia(fi)">&times;</button>
                 </div>
               </div>
+              <div class="form-group">
+                <label>Video publication date</label>
+                <input v-model="videoDate" type="text" placeholder="e.g. March 15, 2023" />
+                <p class="field-hint">If you've uploaded a video, add the date it was published.</p>
+              </div>
             </section>
 
             <div class="section-divider" />
@@ -346,6 +351,7 @@ const intro = ref({ name: '', subtitle: '', tagline: '', url: '' })
 const socials = ref({ instagram: '', facebook: '', linkedin: '', youtube: '' })
 const mediaFiles = ref<File[]>([])
 const mediaError = ref('')
+const videoDate = ref('')
 const description = ref('')
 const teamMembers = ref<TeamMember[]>([])
 const offerItems = ref<ExchangeItem[]>([])
@@ -492,6 +498,9 @@ const buildEmailBody = (): string => {
   // Media files
   if (mediaFiles.value.length) {
     lines.push(`MEDIA FILES ATTACHED: ${mediaFiles.value.length} file(s) — see email attachments`)
+    if (videoDate.value.trim()) {
+      lines.push(`Video publication date: ${videoDate.value}`)
+    }
     lines.push('')
   }
 
@@ -568,6 +577,9 @@ const handleSubmit = async () => {
 
     // Media files
     mediaFiles.value.forEach((file) => formData.append('attachment[]', file, file.name))
+
+    // Video date
+    if (videoDate.value.trim()) formData.append('videoDate', videoDate.value)
 
     // Team photos
     teamMembers.value.forEach((m, i) => {
