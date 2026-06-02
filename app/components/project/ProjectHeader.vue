@@ -1,9 +1,8 @@
 <template>
   <header id="about" class="project-header">
-    <!-- Hero grid: text left, actions right -->
     <div class="hero-grid">
-      <div class="hero-text">
-        <!-- Tags sit directly above the title, aligned with the contact button -->
+      <div class="hero-content">
+        <!-- Tags sit directly above the title -->
         <div class="tags-row">
           <span v-if="primarySector" class="tag">
             <v-icon size="x-small">mdi-leaf</v-icon>
@@ -45,17 +44,18 @@
             </a>
           </div>
         </div>
-      </div>
 
-      <div class="hero-actions">
-        <button class="btn-contact" @click="$emit('connect')">
-          <v-icon size="small">mdi-email-outline</v-icon>
-          {{ $t('projects.detail.connect', 'Contact') }}
-        </button>
-        <button class="btn-edit" @click="$emit('edit')">
-          <v-icon size="small">mdi-pencil-outline</v-icon>
-          {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
-        </button>
+        <!-- Centered action buttons below content -->
+        <div class="hero-actions">
+          <button class="btn-contact" @click="$emit('connect')">
+            <v-icon size="small">mdi-email-outline</v-icon>
+            {{ $t('projects.detail.connect', 'Contact') }}
+          </button>
+          <button class="btn-edit" @click="$emit('edit')">
+            <v-icon size="small">mdi-pencil-outline</v-icon>
+            {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
+          </button>
+        </div>
       </div>
     </div>
   </header>
@@ -156,21 +156,18 @@ const socialLinks = computed(() => {
   border: 0.5px solid rgba(76, 160, 73, 0.3);
 }
 
-/* Hero grid: text left, actions right */
+/* Hero grid: centered content */
 .hero-grid {
-  display: grid;
-  grid-template-columns: 1fr auto;
-  gap: $rhythm-6;
-  align-items: flex-start;
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    grid-template-columns: 1fr;
-    gap: $rhythm-3;
-  }
+  display: flex;
+  justify-content: center;
 }
 
-.hero-text {
-  min-width: 0;
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 600px;
+  text-align: center;
 }
 
 .hero-title {
@@ -263,19 +260,17 @@ const socialLinks = computed(() => {
   }
 }
 
-/* Action column */
+/* Action buttons */
 .hero-actions {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
-  gap: $rhythm-1;
-  min-width: 160px;
+  gap: 12px;
+  margin-top: $rhythm-3;
+  justify-content: center;
 
   @media (max-width: $detail-bp-tablet - 1) {
-    flex-direction: row;
     flex-wrap: wrap;
-    min-width: 0;
-    justify-content: center;
   }
 }
 
