@@ -7,7 +7,7 @@
       <v-icon size="64" color="#4ca049">mdi-image-plus</v-icon>
       <h3>Add photos &amp; videos</h3>
       <p>Share visual content to showcase your initiative</p>
-      <button class="placeholder-btn" @click="$emit('edit')">
+      <button type="button" class="placeholder-btn" @click="emit('edit')">
         <v-icon size="small">mdi-pencil-outline</v-icon>
         Edit page
       </button>
