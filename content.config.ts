@@ -200,6 +200,7 @@ export default defineContentConfig({
         location: z.string().optional(),
         url: z.string().optional(),
         yt: z.string().optional(),
+        videoDate: z.string().optional(),
         contact: z
           .object({
             entity: z.string().optional(),

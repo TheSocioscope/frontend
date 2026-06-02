@@ -40,6 +40,7 @@
         <ProjectGallery
           v-if="project.yt || localizedGallery.length"
           :yt="project.yt"
+          :video-date="project.videoDate"
           :localized-gallery="localizedGallery"
         />
 

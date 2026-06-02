@@ -70,14 +70,16 @@
       </div>
     </div>
 
-    <!-- Caption below -->
+    <!-- Caption and video date below -->
     <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
+    <p v-if="current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
   </section>
 </template>
 
 <script setup lang="ts">
 const props = defineProps<{
   yt?: string
+  videoDate?: string
   localizedGallery: Array<{ url: string; caption?: string }>
 }>()
 
@@ -282,5 +284,13 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   color: $text-caption;
   text-align: center;
   min-height: 1.4em;
+}
+
+.carousel-date {
+  margin: 4px 0 0;
+  font-size: 11px;
+  color: $text-secondary;
+  text-align: center;
+  font-weight: 500;
 }
 </style>
