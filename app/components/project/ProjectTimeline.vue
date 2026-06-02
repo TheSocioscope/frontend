@@ -10,9 +10,14 @@
           @click="toggle(index)"
         >
           <span class="acc-year" :style="{ color: dateColor(index) }">{{ item.date }}</span>
-          <span class="acc-title" :class="{ 'acc-title--open': openItems.has(index) }">
-            {{ openItems.has(index) ? item.text : getTitle(item) }}
-          </span>
+          <div class="acc-title-wrapper">
+            <span class="acc-title">
+              {{ item.summary || getSummary(item) }}
+            </span>
+            <span v-if="openItems.has(index)" class="acc-text">
+              {{ item.text }}
+            </span>
+          </div>
           <v-icon class="acc-chevron" :class="{ open: openItems.has(index) }" size="small">
             mdi-chevron-down
           </v-icon>
@@ -24,7 +29,13 @@
 
 <script setup lang="ts">
 const props = defineProps<{
-  localizedTimeline: Array<{ date: string; text: string; icon?: string; title?: string }>
+  localizedTimeline: Array<{
+    date: string
+    text: string
+    summary?: string
+    icon?: string
+    title?: string
+  }>
 }>()
 
 const { t: $t } = useI18n()
@@ -43,16 +54,22 @@ const toggle = (i: number) => {
 const DATE_COLORS = ['#85C49A', '#E8C47A', '#C4A890']
 const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 
-const getTitle = (item: any): string => {
-  if (item.title) return typeof item.title === 'string' ? item.title : (item.title.en ?? '')
+const getSummary = (item: any): string => {
+  // If summary field exists, use it
+  if (item.summary) return item.summary
+
   const text: string = item.text || ''
   if (text.length <= 60) return text
+
+  // Try to find sentence boundary
   const dotIdx = text.indexOf('. ')
   const dashIdx = text.indexOf(' — ')
+
   let cutoff = 60
-  if (dotIdx > 10 && dotIdx < 80) cutoff = dotIdx
-  else if (dashIdx > 10 && dashIdx < 80) cutoff = dashIdx
-  return text.slice(0, cutoff) + '…'
+  if (dotIdx > 10 && dotIdx < 100) cutoff = dotIdx
+  else if (dashIdx > 10 && dashIdx < 100) cutoff = dashIdx
+
+  return text.slice(0, cutoff)
 }
 </script>
 
@@ -60,7 +77,7 @@ const getTitle = (item: any): string => {
 @use '~~/assets/styles/variables' as *;
 
 .project-timeline {
-  margin-bottom: $rhythm-6;
+  margin-bottom: $rhythm-4;
   scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $rhythm-2;
 }
 
@@ -117,24 +134,29 @@ const getTitle = (item: any): string => {
   line-height: 1.4;
 }
 
+.acc-title-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 0;
+  flex: 1;
+}
+
 .acc-title {
   font-size: 14px;
   font-weight: 700;
   color: $text-primary;
   min-width: 0;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
   line-height: 1.5;
   transition: color $transition-fast;
+}
 
-  &--open {
-    white-space: normal;
-    overflow: visible;
-    text-overflow: unset;
-    font-weight: 400;
-    color: $text-secondary;
-  }
+.acc-text {
+  font-size: 13px;
+  font-weight: 400;
+  color: $text-secondary;
+  line-height: 1.6;
+  white-space: normal;
 }
 
 .acc-chevron {

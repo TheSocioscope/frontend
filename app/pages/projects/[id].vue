@@ -83,9 +83,23 @@
         </template>
 
         <!-- Timeline -->
+        <hr class="dvd" />
         <template v-if="localizedTimeline && localizedTimeline.length > 0">
-          <hr class="dvd" />
           <ProjectTimeline :localized-timeline="localizedTimeline" />
+        </template>
+        <template v-else>
+          <section class="project-timeline-empty">
+            <span class="section-label">{{ $t('projects.detail.timeline') }}</span>
+            <div class="empty-state">
+              <v-icon size="48" color="#4ca049">mdi-calendar-blank-outline</v-icon>
+              <h3>{{ $t('projects.detail.noTimeline', 'No journey yet') }}</h3>
+              <p>{{ $t('projects.detail.noTimelineHint', 'Help us document this initiative\'s timeline') }}</p>
+              <button class="edit-btn" @click="editDrawerOpen = true">
+                <v-icon size="small">mdi-pencil-outline</v-icon>
+                {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
+              </button>
+            </div>
+          </section>
         </template>
 
         <!-- Similar initiatives -->
@@ -266,10 +280,18 @@ const localizedTimeline = computed(() => {
   return timelineData.map((item: any) => ({
     date: item.date || '',
     icon: item.icon || '',
+    title:
+      typeof item.title === 'string'
+        ? item.title
+        : item.title?.[currentLocale.value] || item.title?.en || '',
     text:
       typeof item.text === 'string'
         ? item.text
-        : item.text?.[currentLocale.value] || item.text?.en || ''
+        : item.text?.[currentLocale.value] || item.text?.en || '',
+    summary:
+      typeof item.summary === 'string'
+        ? item.summary
+        : item.summary?.[currentLocale.value] || item.summary?.en || ''
   }))
 })
 
@@ -569,6 +591,73 @@ watchEffect(() => {
     &:hover {
       background: #b89a7f;
     }
+  }
+}
+
+/* Empty timeline state */
+.project-timeline-empty {
+  margin-bottom: $rhythm-4;
+  scroll-margin-top: $sticky-site-header + $sticky-breadcrumb + $rhythm-2;
+}
+
+.section-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $text-secondary;
+  margin-bottom: $rhythm-2;
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 3rem 2rem;
+  background: rgba(76, 160, 73, 0.05);
+  border: 1px dashed rgba(76, 160, 73, 0.3);
+  border-radius: 10px;
+  text-align: center;
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: $earth-90;
+    margin: 0;
+  }
+
+  p {
+    font-size: 0.875rem;
+    color: $text-secondary;
+    margin: 0;
+  }
+}
+
+.edit-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: $green-forest;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-family: $font-family-base;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: $green-leaf;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
   }
 }
 

@@ -38,7 +38,14 @@
       "Bash(python *)",
       "PowerShell(py *)",
       "PowerShell(cd \"C:\\\\Users\\\\ssekhsaria\\\\Documents\\\\socioscope-website\"; $d = Get-Content content/projects/479752.json | ConvertFrom-Json; Write-Output \"name: $\\($d.name\\)\"; Write-Output \"caseCode: $\\($d.caseCode\\)\"; Write-Output \"entityRole: $\\($d.entityRole -join ', '\\)\"; Write-Output \"bizModel: $\\($d.bizModel\\)\"; Write-Output \"entitySize: $\\($d.entitySize\\)\"; Write-Output \"geoReach: $\\($d.geoReach\\)\"; Write-Output \"sectorFocus: $\\($d.sectorFocus -join ', '\\)\"; Write-Output \"resourceType: $\\($d.resourceType\\)\"; Write-Output \"entityDescription: $\\($d.entityDescription.Substring\\(0, [Math]::Min\\(80, $d.entityDescription.Length\\)\\)\\)\")",
-      "Bash(yarn build *)"
+      "Bash(yarn build *)",
+      "Bash(gh run *)",
+      "Bash(cd /c/Users/vfournand/Documents/socioscope-website/frontend && grep -l '\"status\":\"published\"' content/projects/*.json | wc -l)",
+      "Bash(xargs -I{} sh -c 'grep -o \"\\\\\"caseCode\\\\\":\\\\\"[^\\\\\"]*\\\\\"\" {} | head -1; grep -o \"\\\\\"name\\\\\":\\\\\"[^\\\\\"]*\\\\\"\" {} | head -1; grep -o \"\\\\\"country\\\\\":\\\\[\\\\\"[^\\\\\"]*\\\\\"\" {} | head -1; echo \"---\"')",
+      "Bash(find /c/Users/vfournand -name \"*.pptx\" -o -name \"certificate*\" 2>/dev/null | grep -v AppData | head -20)",
+      "Bash(npm list *)",
+      "PowerShell(node --version)",
+      "PowerShell(npm list -g pptxgenjs 2>$null)"
     ]
   }
 }

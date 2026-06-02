@@ -134,12 +134,13 @@ const related = computed(() => {
       const sectorMatches = (p.sectorFocus || []).filter((s: string) => curSectors.has(s)).length
       const continentMatches = (p.continent || []).filter((c: string) => curContinents.has(c)).length
 
-      // Give higher score for items matching BOTH country and sector
-      if (countryMatches > 0 && sectorMatches > 0) {
-        score += countryMatches * 5 + sectorMatches * 4
-      } else {
-        score += countryMatches * 3 + sectorMatches * 3
-      }
+      // Give higher score for items matching sectors (important!)
+      score += sectorMatches * 5
+
+      // Add country matches but slightly lower weight
+      score += countryMatches * 4
+
+      // Continental matches as tiebreaker
       score += continentMatches * 1
 
       return { project: p, score }
