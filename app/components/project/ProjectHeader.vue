@@ -206,8 +206,8 @@ const socialLinks = computed(() => {
 /* Website and social links */
 .hero-links {
   display: flex;
-  flex-direction: column;
-  gap: $rhythm-2;
+  align-items: center;
+  gap: 12px;
   margin-top: $rhythm-2;
 }
 
@@ -220,6 +220,7 @@ const socialLinks = computed(() => {
   color: $green-forest;
   text-decoration: none;
   transition: color 0.2s ease;
+  white-space: nowrap;
 
   &:hover {
     color: $green-leaf;
@@ -249,6 +250,7 @@ const socialLinks = computed(() => {
   color: $text-secondary;
   text-decoration: none;
   transition: color 0.2s ease, background 0.2s ease;
+  flex-shrink: 0;
 
   &:hover {
     background: rgba(76, 160, 73, 0.08);
@@ -265,7 +267,7 @@ const socialLinks = computed(() => {
 .hero-actions {
   display: flex;
   flex-direction: column;
-  align-items: stretch;
+  align-items: center;
   gap: $rhythm-1;
   min-width: 160px;
 
@@ -273,6 +275,7 @@ const socialLinks = computed(() => {
     flex-direction: row;
     flex-wrap: wrap;
     min-width: 0;
+    justify-content: center;
   }
 }
 
