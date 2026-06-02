@@ -6,7 +6,7 @@
         <v-icon size="x-small" color="#2d5a0e">mdi-arrow-top-right</v-icon>
       </div>
       <span class="col-header-label col-header-label--green">
-        {{ localizedName }} {{ $t('projects.detail.offers') }}
+        {{ $t('projects.detail.offers') }}
       </span>
     </div>
     <div class="offers-list">
