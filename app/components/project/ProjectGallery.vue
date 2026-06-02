@@ -82,8 +82,8 @@
     </div>
 
     <!-- Caption and video date below -->
-    <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
-    <p v-if="current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
+    <p v-if="current && current.caption" class="carousel-caption">{{ current.caption }}</p>
+    <p v-if="current && current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
     </div>
   </section>
 </template>
@@ -127,7 +127,7 @@ const items = computed<MediaItem[]>(() => {
 })
 
 const activeIndex = ref(0)
-const current = computed(() => items.value[activeIndex.value] ?? items.value[0])
+const current = computed(() => items.value[activeIndex.value])
 
 const prev = () => {
   if (activeIndex.value > 0) activeIndex.value = activeIndex.value - 1
