@@ -40,7 +40,7 @@ const toggle = (i: number) => {
 }
 
 // Cycle blue → pink → green for each date
-const DATE_COLORS = ['#7EB5D6', '#E8A0B4', '#85C49A', '#C4A8D4', '#E8C47A']
+const DATE_COLORS = ['#85C49A', '#E8C47A', '#C4A890']
 const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 
 const getTitle = (item: any): string => {
