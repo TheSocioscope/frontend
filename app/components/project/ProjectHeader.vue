@@ -1,7 +1,7 @@
 <template>
   <header id="about" class="project-header">
     <div class="hero-grid">
-      <div class="hero-content">
+      <div class="hero-text">
         <!-- Tags sit directly above the title -->
         <div class="tags-row">
           <span v-if="primarySector" class="tag">
@@ -12,13 +12,10 @@
           <span v-if="sizeLabel" class="tag">{{ sizeLabel }}</span>
         </div>
         <h1 class="hero-title">{{ localizedName }}</h1>
-        <p v-if="project.entityDescription" class="hero-entity">
-          {{ project.entityDescription }}
-        </p>
         <p v-if="localizedDescription" class="hero-description">
           {{ localizedDescription }}
         </p>
-        <!-- Website and social links under tagline -->
+        <!-- Website and social links -->
         <div class="hero-links">
           <a
             v-if="project.url"
@@ -44,18 +41,17 @@
             </a>
           </div>
         </div>
+      </div>
 
-        <!-- Centered action buttons below content -->
-        <div class="hero-actions">
-          <button class="btn-contact" @click="$emit('connect')">
-            <v-icon size="small">mdi-email-outline</v-icon>
-            {{ $t('projects.detail.connect', 'Contact') }}
-          </button>
-          <button class="btn-edit" @click="$emit('edit')">
-            <v-icon size="small">mdi-pencil-outline</v-icon>
-            {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
-          </button>
-        </div>
+      <div class="hero-actions">
+        <button class="btn-contact" @click="$emit('connect')">
+          <v-icon size="small">mdi-email-outline</v-icon>
+          {{ $t('projects.detail.connect', 'Contact') }}
+        </button>
+        <button class="btn-edit" @click="$emit('edit')">
+          <v-icon size="small">mdi-pencil-outline</v-icon>
+          {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
+        </button>
       </div>
     </div>
   </header>
@@ -156,18 +152,21 @@ const socialLinks = computed(() => {
   border: 0.5px solid rgba(76, 160, 73, 0.3);
 }
 
-/* Hero grid: centered content */
+/* Hero grid: text left, actions right */
 .hero-grid {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: $rhythm-6;
+  align-items: center;
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    grid-template-columns: 1fr;
+    gap: $rhythm-3;
+  }
 }
 
-.hero-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  max-width: 600px;
-  text-align: center;
+.hero-text {
+  min-width: 0;
 }
 
 .hero-title {
@@ -260,17 +259,19 @@ const socialLinks = computed(() => {
   }
 }
 
-/* Action buttons */
+/* Action column */
 .hero-actions {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
-  gap: 12px;
-  margin-top: $rhythm-3;
-  justify-content: center;
+  gap: $rhythm-1;
+  min-width: 160px;
 
   @media (max-width: $detail-bp-tablet - 1) {
+    flex-direction: row;
     flex-wrap: wrap;
+    min-width: 0;
+    justify-content: center;
   }
 }
 
