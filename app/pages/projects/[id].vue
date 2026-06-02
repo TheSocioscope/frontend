@@ -38,10 +38,10 @@
 
         <!-- Photos & Videos (video embed + photo grid, unified) -->
         <ProjectGallery
+          v-if="project.yt || localizedGallery.length"
           :yt="project.yt"
           :video-date="project.videoDate"
           :localized-gallery="localizedGallery"
-          @edit="editDrawerOpen = true"
         />
 
         <!-- À propos -->
