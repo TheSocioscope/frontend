@@ -57,15 +57,9 @@ const values = [
 }
 
 .values-wrapper {
-  display: grid;
-  grid-template-columns: minmax(0, 220px) minmax(0, 1fr);
-  gap: 2.5rem;
-  align-items: start;
-
-  @media (max-width: 960px) {
-    grid-template-columns: 1fr;
-    gap: 1.25rem;
-  }
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
 }
 
 .values-title {
@@ -75,13 +69,10 @@ const values = [
   font-family: $font-family-display;
   font-weight: $font-weight-bold;
   line-height: 1.15;
-  position: sticky;
-  top: 1rem;
+  text-align: center;
 
   @media (max-width: 960px) {
     font-size: 1.625rem;
-    position: static;
-    text-align: center;
   }
 }
 
