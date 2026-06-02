@@ -80,6 +80,10 @@ const getTitle = (item: any): string => {
 
 .acc-item {
   border-bottom: 0.5px solid $border-soft;
+
+  &:last-child {
+    border-bottom: none;
+  }
 }
 
 .acc-header {
