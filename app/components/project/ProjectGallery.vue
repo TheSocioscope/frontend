@@ -1,8 +1,19 @@
 <template>
-  <section v-if="items.length" id="gallery" class="project-gallery">
+  <section id="gallery" class="project-gallery">
     <span class="section-label">{{ $t('projects.detail.video') }}</span>
 
-    <div class="carousel">
+    <!-- Placeholder when no media -->
+    <div v-if="!items.length" class="gallery-placeholder">
+      <v-icon size="64" color="#4ca049">mdi-image-plus</v-icon>
+      <h3>Add photos &amp; videos</h3>
+      <p>Share visual content to showcase your initiative</p>
+      <button class="placeholder-btn" @click="$emit('edit')">
+        <v-icon size="small">mdi-pencil-outline</v-icon>
+        Edit page
+      </button>
+    </div>
+
+    <div v-else class="carousel">
       <!-- ── Main display ─────────────────────────────── -->
       <div class="carousel-main">
 
@@ -73,6 +84,7 @@
     <!-- Caption and video date below -->
     <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
     <p v-if="current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
+    </div>
   </section>
 </template>
 
@@ -82,6 +94,8 @@ const props = defineProps<{
   videoDate?: string
   localizedGallery: Array<{ url: string; caption?: string }>
 }>()
+
+const emit = defineEmits<{ edit: [] }>()
 
 const { t: $t } = useI18n()
 const runtimeConfig = useRuntimeConfig()
@@ -146,6 +160,59 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
   text-transform: uppercase;
   color: $text-secondary;
   margin-bottom: $rhythm-2;
+}
+
+/* ── Gallery placeholder ───────────────────────── */
+.gallery-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  min-height: 280px;
+  padding: 2rem;
+  background: rgba(76, 160, 73, 0.05);
+  border: 1px dashed rgba(76, 160, 73, 0.3);
+  border-radius: 10px;
+  text-align: center;
+
+  h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: $earth-90;
+    margin: 0;
+  }
+
+  p {
+    font-size: 0.875rem;
+    color: $text-secondary;
+    margin: 0;
+  }
+}
+
+.placeholder-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: $green-forest;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-family: $font-family-base;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+
+  &:hover {
+    background: $green-leaf;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
 }
 
 /* ── Carousel shell ─────────────────────────────── */
