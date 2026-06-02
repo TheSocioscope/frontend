@@ -72,9 +72,10 @@
     </div>
 
     <!-- Caption and video date below -->
-    <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
-    <p v-if="current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
-    </div>
+    <template v-if="items.length">
+      <p v-if="current.caption" class="carousel-caption">{{ current.caption }}</p>
+      <p v-if="current.type === 'video' && videoDate" class="carousel-date">{{ videoDate }}</p>
+    </template>
 
     <!-- Placeholder when no items -->
     <div v-else class="gallery-placeholder">
