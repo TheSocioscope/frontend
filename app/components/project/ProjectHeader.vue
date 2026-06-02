@@ -1,18 +1,17 @@
 <template>
   <header id="about" class="project-header">
-    <!-- Tags row -->
-    <div class="tags-row">
-      <span v-if="primarySector" class="tag">
-        <v-icon size="x-small">mdi-leaf</v-icon>
-        {{ primarySector }}
-      </span>
-      <span v-if="locationLabel" class="tag">{{ locationLabel }}</span>
-      <span v-if="sizeLabel" class="tag">{{ sizeLabel }}</span>
-    </div>
-
     <!-- Hero grid: text left, actions right -->
     <div class="hero-grid">
       <div class="hero-text">
+        <!-- Tags sit directly above the title, aligned with the contact button -->
+        <div class="tags-row">
+          <span v-if="primarySector" class="tag">
+            <v-icon size="x-small">mdi-leaf</v-icon>
+            {{ primarySector }}
+          </span>
+          <span v-if="locationLabel" class="tag">{{ locationLabel }}</span>
+          <span v-if="sizeLabel" class="tag">{{ sizeLabel }}</span>
+        </div>
         <h1 class="hero-title">{{ localizedName }}</h1>
         <p v-if="project.entityDescription" class="hero-entity">
           {{ project.entityDescription }}
@@ -135,7 +134,7 @@ const socialLinks = computed(() => {
   flex-wrap: wrap;
   align-items: center;
   gap: 6px;
-  margin-bottom: $rhythm-3;
+  margin-bottom: $rhythm-2;
 }
 
 .tag {
@@ -161,7 +160,7 @@ const socialLinks = computed(() => {
   display: grid;
   grid-template-columns: 1fr auto;
   gap: $rhythm-6;
-  align-items: center;
+  align-items: flex-start;
 
   @media (max-width: $detail-bp-tablet - 1) {
     grid-template-columns: 1fr;
