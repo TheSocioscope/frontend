@@ -78,7 +78,7 @@ const localePath = useLocalePath()
   display: flex;
   gap: 0.75rem;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: center;
 }
 
 .btn-primary {
