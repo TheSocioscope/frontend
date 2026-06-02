@@ -68,11 +68,13 @@
               <ProjectOffers
                 v-if="localizedOffers.length"
                 :localized-offers="localizedOffers"
+                :localized-name="localizedName"
                 :column="true"
               />
               <ProjectLookingFor
                 v-if="localizedLookingFor.length"
                 :localized-looking-for="localizedLookingFor"
+                :localized-name="localizedName"
                 :column="true"
                 @connect="connectDrawerOpen = true"
               />

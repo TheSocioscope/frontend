@@ -6,7 +6,7 @@
         <v-icon size="x-small" color="#2d5a0e">mdi-arrow-top-right</v-icon>
       </div>
       <span class="col-header-label col-header-label--green">
-        {{ $t('projects.detail.offers') }}
+        {{ localizedName }} {{ $t('projects.detail.offers') }}
       </span>
     </div>
     <div class="offers-list">
@@ -70,6 +70,7 @@ defineProps<{
     url?: string
     icon?: string
   }>
+  localizedName?: string
   column?: boolean
 }>()
 

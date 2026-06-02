@@ -6,7 +6,7 @@
         <v-icon size="x-small" color="#854F0B">mdi-magnify</v-icon>
       </div>
       <span class="col-header-label col-header-label--warm">
-        {{ $t('projects.detail.lookingFor') }}
+        {{ localizedName }} {{ $t('projects.detail.lookingFor') }}
       </span>
     </div>
     <div class="needs-list">
@@ -54,6 +54,7 @@
 <script setup lang="ts">
 defineProps<{
   localizedLookingFor: Array<{ title: string; description?: string; icon?: string }>
+  localizedName?: string
   column?: boolean
 }>()
 
