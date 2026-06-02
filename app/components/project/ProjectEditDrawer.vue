@@ -61,10 +61,6 @@
                 <input v-model="intro.name" type="text" />
               </div>
               <div class="form-group">
-                <label>Subtitle</label>
-                <input v-model="intro.subtitle" type="text" />
-              </div>
-              <div class="form-group">
                 <label>Tagline</label>
                 <input v-model="intro.tagline" type="text" placeholder="Short summary sentence" />
               </div>
@@ -347,7 +343,7 @@ type TimelineEntry = { year: string; description: string }
 
 // ── Reactive state ──────────────────────────────────────────────────────────
 const contacts = ref<Contact[]>([{ name: '', email: '', phone: '' }])
-const intro = ref({ name: '', subtitle: '', tagline: '', url: '' })
+const intro = ref({ name: '', tagline: '', url: '' })
 const socials = ref({ instagram: '', facebook: '', linkedin: '', youtube: '' })
 const mediaFiles = ref<File[]>([])
 const mediaError = ref('')
@@ -482,7 +478,6 @@ const buildEmailBody = (): string => {
   // Intro
   lines.push('--- INTRO ---')
   lines.push(`Project name: ${intro.value.name}`)
-  lines.push(`Subtitle: ${intro.value.subtitle}`)
   lines.push(`Tagline: ${intro.value.tagline}`)
   lines.push(`Website URL: ${intro.value.url}`)
   lines.push('')

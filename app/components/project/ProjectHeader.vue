@@ -19,33 +19,43 @@
         <p v-if="localizedDescription" class="hero-description">
           {{ localizedDescription }}
         </p>
+        <!-- Website and social links under tagline -->
+        <div class="hero-links">
+          <a
+            v-if="project.url"
+            :href="project.url"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="hero-website-link"
+          >
+            <v-icon size="small">mdi-web</v-icon>
+            {{ $t('projects.detail.website', 'Website') }}
+          </a>
+          <div v-if="socialLinks.length" class="hero-social-row">
+            <a
+              v-for="link in socialLinks"
+              :key="link.platform"
+              :href="link.url"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="hero-social-icon"
+              :aria-label="link.platform"
+            >
+              <v-icon size="18">{{ link.icon }}</v-icon>
+            </a>
+          </div>
+        </div>
       </div>
 
       <div class="hero-actions">
-        <a
-          v-if="project.url"
-          :href="project.url"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="btn-website"
-        >
-          <v-icon size="small">mdi-web</v-icon>
-          {{ $t('projects.detail.website', 'Website') }}
-        </a>
-        <!-- Social icons row -->
-        <div v-if="socialLinks.length" class="social-row">
-          <a
-            v-for="link in socialLinks"
-            :key="link.platform"
-            :href="link.url"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="social-icon"
-            :aria-label="link.platform"
-          >
-            <v-icon size="18">{{ link.icon }}</v-icon>
-          </a>
-        </div>
+        <button class="btn-contact" @click="$emit('connect')">
+          <v-icon size="small">mdi-email-outline</v-icon>
+          {{ $t('projects.detail.connect', 'Contact') }}
+        </button>
+        <button class="btn-edit" @click="$emit('edit')">
+          <v-icon size="small">mdi-pencil-outline</v-icon>
+          {{ $t('projects.detail.suggestEdit', 'Suggest an edit') }}
+        </button>
       </div>
     </div>
   </header>
@@ -191,6 +201,64 @@ const socialLinks = computed(() => {
   color: $text-secondary;
   margin: 0;
   line-height: 1.6;
+}
+
+/* Website and social links */
+.hero-links {
+  display: flex;
+  flex-direction: column;
+  gap: $rhythm-2;
+  margin-top: $rhythm-2;
+}
+
+.hero-website-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: $green-forest;
+  text-decoration: none;
+  transition: color 0.2s ease;
+
+  &:hover {
+    color: $green-leaf;
+    text-decoration: underline;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+}
+
+.hero-social-row {
+  display: flex;
+  gap: 8px;
+}
+
+.hero-social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: $earth-5;
+  color: $text-secondary;
+  text-decoration: none;
+  transition: color 0.2s ease, background 0.2s ease;
+
+  &:hover {
+    background: rgba(76, 160, 73, 0.08);
+    color: $green-leaf;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
 }
 
 /* Action column */
