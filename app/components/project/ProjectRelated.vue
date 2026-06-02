@@ -6,36 +6,60 @@
         {{ $t('projects.relatedHint', 'By country, sector, and region') }}
       </p>
     </div>
-    <div class="related-grid">
-      <NuxtLink
-        v-for="p in related"
-        :key="p.pubId"
-        :to="localePath(`/projects/${getSlug(p)}`)"
-        class="sim-card"
-      >
-        <div class="sim-thumb">
-          <img
-            v-if="p.yt"
-            :src="`https://img.youtube.com/vi/${p.yt}/mqdefault.jpg`"
-            class="sim-thumb-img"
-            alt=""
-            loading="lazy"
-          />
-          <div
-            v-else
-            class="sim-thumb-placeholder"
-            :style="{ background: avatarBg(p.pubId) }"
+
+    <div class="carousel-wrapper">
+      <!-- Carousel container -->
+      <div class="carousel-container" ref="carouselRef">
+        <div class="carousel-track" :style="{ transform: `translateX(${carouselOffset}px)` }">
+          <NuxtLink
+            v-for="p in related"
+            :key="p.pubId"
+            :to="localePath(`/projects/${getSlug(p)}`)"
+            class="sim-card"
           >
-            {{ getInitials(getName(p)) }}
-          </div>
+            <div class="sim-thumb">
+              <img
+                v-if="p.yt"
+                :src="`https://img.youtube.com/vi/${p.yt}/mqdefault.jpg`"
+                class="sim-thumb-img"
+                alt=""
+                loading="lazy"
+              />
+              <div
+                v-else
+                class="sim-thumb-placeholder"
+                :style="{ background: avatarBg(p.pubId) }"
+              >
+                {{ getInitials(getName(p)) }}
+              </div>
+            </div>
+            <div class="sim-body">
+              <p class="sim-name">{{ getName(p) }}</p>
+              <p v-if="p.location || p.country?.length" class="sim-meta">
+                {{ p.location || getCountryLabel((p.country || [])[0]) }}
+              </p>
+            </div>
+          </NuxtLink>
         </div>
-        <div class="sim-body">
-          <p class="sim-name">{{ getName(p) }}</p>
-          <p v-if="p.location || p.country?.length" class="sim-meta">
-            {{ p.location || getCountryLabel((p.country || [])[0]) }}
-          </p>
-        </div>
-      </NuxtLink>
+      </div>
+
+      <!-- Navigation arrows -->
+      <button
+        v-if="canScrollLeft"
+        class="carousel-arrow carousel-arrow--prev"
+        @click="scrollLeft"
+        :aria-label="$t('common.previous', 'Previous')"
+      >
+        <v-icon>mdi-chevron-left</v-icon>
+      </button>
+      <button
+        v-if="canScrollRight"
+        class="carousel-arrow carousel-arrow--next"
+        @click="scrollRight"
+        :aria-label="$t('common.next', 'Next')"
+      >
+        <v-icon>mdi-chevron-right</v-icon>
+      </button>
     </div>
   </section>
 </template>
@@ -48,6 +72,14 @@ const props = defineProps<{
 const { t: $t } = useI18n()
 const localePath = useLocalePath()
 const { getCountryLabel } = useProjectMappings()
+
+const carouselRef = ref<HTMLElement | null>(null)
+const carouselOffset = ref(0)
+const canScrollLeft = ref(false)
+const canScrollRight = ref(true)
+
+const CARD_WIDTH = 220 // Width of each card + gap
+const VISIBLE_CARDS = 4 // Number of cards visible at once
 
 const slugify = (text: string) =>
   text
@@ -97,15 +129,49 @@ const related = computed(() => {
     .filter((p) => p.pubId !== cur.pubId)
     .map((p) => {
       let score = 0
-      score += (p.country || []).filter((c: string) => curCountries.has(c)).length * 3
-      score += (p.sectorFocus || []).filter((s: string) => curSectors.has(s)).length * 2
-      score += (p.continent || []).filter((c: string) => curContinents.has(c)).length * 1
+      // Prioritize matches in BOTH country and sector
+      const countryMatches = (p.country || []).filter((c: string) => curCountries.has(c)).length
+      const sectorMatches = (p.sectorFocus || []).filter((s: string) => curSectors.has(s)).length
+      const continentMatches = (p.continent || []).filter((c: string) => curContinents.has(c)).length
+
+      // Give higher score for items matching BOTH country and sector
+      if (countryMatches > 0 && sectorMatches > 0) {
+        score += countryMatches * 5 + sectorMatches * 4
+      } else {
+        score += countryMatches * 3 + sectorMatches * 3
+      }
+      score += continentMatches * 1
+
       return { project: p, score }
     })
     .filter((e) => e.score > 0)
     .sort((a, b) => b.score - a.score)
-    .slice(0, 4)
+    .slice(0, 12) // Show up to 12 items
     .map((e) => e.project)
+})
+
+// Update scroll button visibility
+const updateScrollButtons = () => {
+  canScrollLeft.value = carouselOffset.value < 0
+  canScrollRight.value =
+    Math.abs(carouselOffset.value) < (related.value.length - VISIBLE_CARDS) * CARD_WIDTH
+}
+
+const scrollLeft = () => {
+  carouselOffset.value = Math.min(carouselOffset.value + CARD_WIDTH * 2, 0)
+  updateScrollButtons()
+}
+
+const scrollRight = () => {
+  const maxScroll = -(related.value.length - VISIBLE_CARDS) * CARD_WIDTH
+  carouselOffset.value = Math.max(carouselOffset.value - CARD_WIDTH * 2, maxScroll)
+  updateScrollButtons()
+}
+
+// Watch related items to update buttons
+watch(related, () => {
+  carouselOffset.value = 0
+  updateScrollButtons()
 })
 </script>
 
@@ -143,23 +209,23 @@ const related = computed(() => {
   margin: 0;
 }
 
-.related-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
+/* Carousel wrapper */
+.carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.carousel-container {
+  overflow: hidden;
+  flex: 1;
+}
+
+.carousel-track {
+  display: flex;
   gap: 10px;
-
-  @media (max-width: $detail-bp-desktop - 1) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  @media (max-width: $detail-bp-tablet - 1) {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 8px;
-  }
-
-  @media (max-width: 400px) {
-    grid-template-columns: 1fr;
-  }
+  transition: transform 0.3s ease-out;
 }
 
 /* Vertical card with thumbnail on top */
@@ -175,6 +241,8 @@ const related = computed(() => {
   transition:
     border-color $transition-fast,
     box-shadow $transition-fast;
+  flex-shrink: 0;
+  width: 200px;
 
   &:hover {
     border-color: $green-forest;
@@ -244,5 +312,52 @@ const related = computed(() => {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+/* Carousel navigation arrows */
+.carousel-arrow {
+  position: relative;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: white;
+  border: 0.5px solid $border-soft;
+  border-radius: 50%;
+  cursor: pointer;
+  transition:
+    background $transition-fast,
+    border-color $transition-fast;
+  color: $green-forest;
+
+  &:hover {
+    background: $earth-5;
+    border-color: $green-forest;
+  }
+
+  &:focus-visible {
+    outline: 2px solid $green-leaf;
+    outline-offset: 2px;
+  }
+
+  &:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+  }
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    width: 36px;
+    height: 36px;
+  }
+}
+
+.carousel-arrow--prev {
+  // Left arrow
+}
+
+.carousel-arrow--next {
+  // Right arrow
 }
 </style>
