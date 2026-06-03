@@ -59,17 +59,37 @@ const getSummary = (item: any): string => {
   if (item.summary) return item.summary
 
   const text: string = item.text || ''
-  if (text.length <= 60) return text
 
-  // Try to find sentence boundary
-  const dotIdx = text.indexOf('. ')
+  // Try to find first sentence (ends with . ! or ?)
+  const sentenceMatch = text.match(/^([^.!?]*[.!?])/);
+  if (sentenceMatch) {
+    const sentence = sentenceMatch[1].trim();
+    if (sentence.length > 15 && sentence.length < 150) {
+      return sentence;
+    }
+  }
+
+  // Try to find dash separator
   const dashIdx = text.indexOf(' — ')
+  if (dashIdx > 15 && dashIdx < 120) {
+    return text.slice(0, dashIdx).trim()
+  }
 
-  let cutoff = 60
-  if (dotIdx > 10 && dotIdx < 100) cutoff = dotIdx
-  else if (dashIdx > 10 && dashIdx < 100) cutoff = dashIdx
+  // If text is short, return as is
+  if (text.length <= 80) return text
 
-  return text.slice(0, cutoff)
+  // Otherwise extract first complete phrase/words up to word boundary
+  const words = text.split(' ')
+  let summary = ''
+  let wordCount = 0
+
+  for (const word of words) {
+    if (wordCount >= 12) break
+    summary += (summary ? ' ' : '') + word
+    wordCount++
+  }
+
+  return summary + (wordCount >= 12 ? '' : '');
 }
 </script>
 
