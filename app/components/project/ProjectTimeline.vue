@@ -12,7 +12,7 @@
           <span class="acc-year" :style="{ color: dateColor(index) }">{{ item.date }}</span>
           <div class="acc-title-wrapper">
             <span class="acc-title">
-              {{ item.summary || getSummary(item) }}
+              {{ item.summary || generateSummary(item.text) }}
             </span>
             <span v-if="openItems.has(index)" class="acc-text">
               {{ item.text }}
@@ -54,18 +54,32 @@ const toggle = (i: number) => {
 const DATE_COLORS = ['#85C49A', '#E8C47A', '#C4A890']
 const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 
-const getSummary = (item: any): string => {
-  // If summary field exists, use it
-  if (item.summary) return item.summary
+const generateSummary = (text: string): string => {
+  if (!text) return ''
 
-  const text: string = item.text || ''
+  // Common pattern: "Started doing X" → "Started doing X"
+  const startPatterns = [
+    /^(Started|Began|Launched|Founded|Created|Established)\s+([^.!?]+[.!?])/i,
+    /^(We\s+)?(launched|opened|started|founded|created|established)\s+([^.!?]+[.!?])/i,
+  ]
 
-  // Try to find first sentence (ends with . ! or ?)
-  const sentenceMatch = text.match(/^([^.!?]*[.!?])/);
+  for (const pattern of startPatterns) {
+    const match = text.match(pattern)
+    if (match) {
+      const captured = match[match.length - 1] || match[2]
+      if (captured.length > 8 && captured.length < 120) {
+        const verb = match[1] || match[3] || 'Started'
+        return `${verb} ${captured}`.trim()
+      }
+    }
+  }
+
+  // Extract first sentence
+  const sentenceMatch = text.match(/^([^.!?]*[.!?])/)
   if (sentenceMatch) {
-    const sentence = sentenceMatch[1].trim();
+    const sentence = sentenceMatch[1].trim()
     if (sentence.length > 15 && sentence.length < 150) {
-      return sentence;
+      return sentence
     }
   }
 
@@ -75,21 +89,54 @@ const getSummary = (item: any): string => {
     return text.slice(0, dashIdx).trim()
   }
 
-  // If text is short, return as is
-  if (text.length <= 80) return text
+  // Extract key words and build a natural summary
+  // Look for action verbs and important nouns
+  const words = text.split(/\s+/)
+  const actionVerbs = [
+    'expanded', 'opened', 'launched', 'created', 'started', 'began', 'founded',
+    'introduced', 'developed', 'implemented', 'established', 'completed', 'finished',
+    'achieved', 'reached', 'became', 'grew', 'scaled', 'built', 'partnered'
+  ]
 
-  // Otherwise extract first complete phrase/words up to word boundary
-  const words = text.split(' ')
   let summary = ''
   let wordCount = 0
+  let foundVerb = false
 
   for (const word of words) {
-    if (wordCount >= 12) break
+    const cleanWord = word.toLowerCase().replace(/[,;:]/g, '')
+
+    // Stop at end of first sentence
+    if (summary && (word.endsWith('.') || word.endsWith('!') || word.endsWith('?'))) {
+      summary += ' ' + word
+      break
+    }
+
+    // Limit to a reasonable length
+    if (wordCount >= 15) {
+      if (!summary.endsWith('.')) summary += '.'
+      break
+    }
+
+    if (actionVerbs.includes(cleanWord)) {
+      foundVerb = true
+    }
+
     summary += (summary ? ' ' : '') + word
     wordCount++
+
+    // If we found a verb and have a few more words, we might have a good summary
+    if (foundVerb && wordCount >= 8) {
+      break
+    }
   }
 
-  return summary + (wordCount >= 12 ? '' : '');
+  // Ensure it ends with proper punctuation
+  const trimmed = summary.trim()
+  if (!trimmed.endsWith('.') && !trimmed.endsWith('!') && !trimmed.endsWith('?')) {
+    return trimmed + '.'
+  }
+
+  return trimmed
 }
 </script>
 
