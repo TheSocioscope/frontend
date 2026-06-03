@@ -122,52 +122,104 @@
                 @change="handleMedia"
               />
               <p v-if="mediaError" class="file-error">{{ mediaError }}</p>
-              <div v-if="mediaFiles.length" class="media-items">
-                <div v-for="(item, mi) in mediaFiles" :key="mi" class="media-item-card">
-                  <div class="media-item-header">
-                    <div class="media-item-info">
-                      <v-icon size="14">{{ item.file?.type?.startsWith('video/') ? 'mdi-video' : 'mdi-image' }}</v-icon>
-                      <span class="media-item-name">{{ item.file?.name || 'File' }}</span>
+
+              <!-- Cover Photo/Video -->
+              <div v-if="mediaFiles.length" class="media-sections">
+                <!-- Cover (First Item) -->
+                <div class="media-cover-section">
+                  <h4 class="media-section-label">
+                    <v-icon size="16">{{ mediaFiles[0].file?.type?.startsWith('video/') ? 'mdi-video' : 'mdi-image' }}</v-icon>
+                    Cover Photo or Video
+                  </h4>
+                  <div class="media-item-card media-item-featured">
+                    <div class="media-item-header">
+                      <div class="media-item-info">
+                        <span class="media-item-name">{{ mediaFiles[0].file?.name || 'File' }}</span>
+                      </div>
+                      <div class="media-item-controls">
+                        <button
+                          v-if="mediaFiles.length > 1"
+                          type="button"
+                          class="reorder-btn"
+                          title="Move down"
+                          @click="moveMediaDown(0)"
+                        >
+                          <v-icon size="16">mdi-chevron-down</v-icon>
+                        </button>
+                        <button type="button" class="remove-btn" @click="removeMedia(0)">&times;</button>
+                      </div>
                     </div>
-                    <div class="media-item-controls">
-                      <button
-                        v-if="mi > 0"
-                        type="button"
-                        class="reorder-btn"
-                        title="Move up"
-                        @click="moveMediaUp(mi)"
-                      >
-                        <v-icon size="16">mdi-chevron-up</v-icon>
-                      </button>
-                      <button
-                        v-if="mi < mediaFiles.length - 1"
-                        type="button"
-                        class="reorder-btn"
-                        title="Move down"
-                        @click="moveMediaDown(mi)"
-                      >
-                        <v-icon size="16">mdi-chevron-down</v-icon>
-                      </button>
-                      <button type="button" class="remove-btn" @click="removeMedia(mi)">&times;</button>
+                    <div class="form-group">
+                      <label>Description (optional)</label>
+                      <input
+                        v-model="mediaFiles[0].description"
+                        type="text"
+                        placeholder="e.g. Hero image of our initiative"
+                        class="media-field"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label>Date (optional)</label>
+                      <input
+                        v-model="mediaFiles[0].date"
+                        type="text"
+                        placeholder="e.g. March 15, 2023"
+                        class="media-field"
+                      />
                     </div>
                   </div>
-                  <div class="form-group">
-                    <label>Description (optional)</label>
-                    <input
-                      v-model="item.description"
-                      type="text"
-                      placeholder="e.g. Workshop in progress"
-                      class="media-field"
-                    />
-                  </div>
-                  <div class="form-group">
-                    <label>Date (optional)</label>
-                    <input
-                      v-model="item.date"
-                      type="text"
-                      placeholder="e.g. March 15, 2023"
-                      class="media-field"
-                    />
+                </div>
+
+                <!-- Additional Content -->
+                <div v-if="mediaFiles.length > 1" class="media-content-section">
+                  <div v-for="(item, mi) in mediaFiles.slice(1)" :key="mi + 1" class="media-item-card">
+                    <h4 class="media-section-label">
+                      <v-icon size="16">{{ item.file?.type?.startsWith('video/') ? 'mdi-video' : 'mdi-image' }}</v-icon>
+                      Content {{ mi + 2 }}
+                    </h4>
+                    <div class="media-item-header">
+                      <div class="media-item-info">
+                        <span class="media-item-name">{{ item.file?.name || 'File' }}</span>
+                      </div>
+                      <div class="media-item-controls">
+                        <button
+                          type="button"
+                          class="reorder-btn"
+                          title="Move up"
+                          @click="moveMediaUp(mi + 1)"
+                        >
+                          <v-icon size="16">mdi-chevron-up</v-icon>
+                        </button>
+                        <button
+                          v-if="mi + 1 < mediaFiles.length - 1"
+                          type="button"
+                          class="reorder-btn"
+                          title="Move down"
+                          @click="moveMediaDown(mi + 1)"
+                        >
+                          <v-icon size="16">mdi-chevron-down</v-icon>
+                        </button>
+                        <button type="button" class="remove-btn" @click="removeMedia(mi + 1)">&times;</button>
+                      </div>
+                    </div>
+                    <div class="form-group">
+                      <label>Description (optional)</label>
+                      <input
+                        v-model="item.description"
+                        type="text"
+                        placeholder="e.g. Workshop in progress"
+                        class="media-field"
+                      />
+                    </div>
+                    <div class="form-group">
+                      <label>Date (optional)</label>
+                      <input
+                        v-model="item.date"
+                        type="text"
+                        placeholder="e.g. March 15, 2023"
+                        class="media-field"
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
@@ -1170,7 +1222,35 @@ const toggleSpeech = () => {
   margin-top: 0.3rem;
 }
 
-// ── Media items (with description & date) ──────────────────────────────────
+// ── Media sections ────────────────────────────────────────────────────────
+.media-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 0.75rem;
+}
+
+.media-cover-section,
+.media-content-section {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.media-section-label {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $green-forest;
+  margin: 0;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid $border-cream;
+}
+
 .media-items {
   display: flex;
   flex-direction: column;
@@ -1183,6 +1263,12 @@ const toggleSpeech = () => {
   border-radius: $border-radius-md;
   padding: 0.75rem;
   background: $cream-dark;
+
+  &.media-item-featured {
+    border: 2px solid $green-forest;
+    background: rgba(76, 160, 73, 0.04);
+    padding: 1rem;
+  }
 }
 
 .media-item-header {
