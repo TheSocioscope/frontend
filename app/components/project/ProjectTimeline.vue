@@ -57,86 +57,28 @@ const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 const generateSummary = (text: string): string => {
   if (!text) return ''
 
-  // Common pattern: "Started doing X" → "Started doing X"
-  const startPatterns = [
-    /^(Started|Began|Launched|Founded|Created|Established)\s+([^.!?]+[.!?])/i,
-    /^(We\s+)?(launched|opened|started|founded|created|established)\s+([^.!?]+[.!?])/i,
-  ]
+  // Split into words and limit to max 5 words
+  const words = text.split(/\s+/).filter((w) => w.trim())
+  const maxWords = Math.min(5, words.length)
+  const summaryWords = []
 
-  for (const pattern of startPatterns) {
-    const match = text.match(pattern)
-    if (match) {
-      const captured = match[match.length - 1] || match[2]
-      if (captured.length > 8 && captured.length < 120) {
-        const verb = match[1] || match[3] || 'Started'
-        return `${verb} ${captured}`.trim()
-      }
+  for (let i = 0; i < maxWords; i++) {
+    let word = words[i].trim()
+    // Remove trailing punctuation except from intentional ellipsis
+    if (i === maxWords - 1) {
+      word = word.replace(/[.!?,;:]+$/, '')
     }
+    summaryWords.push(word)
   }
 
-  // Extract first sentence
-  const sentenceMatch = text.match(/^([^.!?]*[.!?])/)
-  if (sentenceMatch) {
-    const sentence = sentenceMatch[1].trim()
-    if (sentence.length > 15 && sentence.length < 150) {
-      return sentence
-    }
+  const summary = summaryWords.join(' ').trim()
+
+  // Add ellipsis if there's more text
+  if (words.length > maxWords) {
+    return summary + '…'
   }
 
-  // Try to find dash separator
-  const dashIdx = text.indexOf(' — ')
-  if (dashIdx > 15 && dashIdx < 120) {
-    return text.slice(0, dashIdx).trim()
-  }
-
-  // Extract key words and build a natural summary
-  // Look for action verbs and important nouns
-  const words = text.split(/\s+/)
-  const actionVerbs = [
-    'expanded', 'opened', 'launched', 'created', 'started', 'began', 'founded',
-    'introduced', 'developed', 'implemented', 'established', 'completed', 'finished',
-    'achieved', 'reached', 'became', 'grew', 'scaled', 'built', 'partnered'
-  ]
-
-  let summary = ''
-  let wordCount = 0
-  let foundVerb = false
-
-  for (const word of words) {
-    const cleanWord = word.toLowerCase().replace(/[,;:]/g, '')
-
-    // Stop at end of first sentence
-    if (summary && (word.endsWith('.') || word.endsWith('!') || word.endsWith('?'))) {
-      summary += ' ' + word
-      break
-    }
-
-    // Limit to a reasonable length
-    if (wordCount >= 15) {
-      if (!summary.endsWith('.')) summary += '.'
-      break
-    }
-
-    if (actionVerbs.includes(cleanWord)) {
-      foundVerb = true
-    }
-
-    summary += (summary ? ' ' : '') + word
-    wordCount++
-
-    // If we found a verb and have a few more words, we might have a good summary
-    if (foundVerb && wordCount >= 8) {
-      break
-    }
-  }
-
-  // Ensure it ends with proper punctuation
-  const trimmed = summary.trim()
-  if (!trimmed.endsWith('.') && !trimmed.endsWith('!') && !trimmed.endsWith('?')) {
-    return trimmed + '.'
-  }
-
-  return trimmed
+  return summary
 }
 </script>
 
