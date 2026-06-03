@@ -298,7 +298,7 @@ const itemsPerPage = ref(12)
 const sortBy = ref('name')
 const sortOrder = ref<'asc' | 'desc'>('asc')
 const shuffleIndex = ref<Map<number, number>>(new Map())
-const viewMode = ref<'grid' | 'list' | 'map'>('list')
+const viewMode = ref<'grid' | 'list' | 'map'>('grid')
 
 const onSelectCountry = (code: string) => {
   if (!filters.value.selectedCountries.includes(code)) {
@@ -344,11 +344,23 @@ const sortOptions = [
   { value: 'createdAt', label: $t('projects.sort.date') }
 ]
 
-// Detect mobile/desktop
+// Detect mobile/desktop and switch view mode accordingly
 onMounted(() => {
   isMobile.value = window.innerWidth < 768
+  // Set default view mode based on device
+  if (isMobile.value) {
+    viewMode.value = 'list'
+  } else {
+    viewMode.value = 'grid'
+  }
   window.addEventListener('resize', () => {
     isMobile.value = window.innerWidth < 768
+    // Switch view mode when crossing breakpoint
+    if (isMobile.value && viewMode.value === 'grid') {
+      viewMode.value = 'list'
+    } else if (!isMobile.value && viewMode.value === 'list') {
+      viewMode.value = 'grid'
+    }
   })
 
   // Build a random shuffle order once per page load
