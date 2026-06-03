@@ -57,28 +57,37 @@ const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 const generateSummary = (text: string): string => {
   if (!text) return ''
 
-  // Split into words and limit to max 5 words
-  const words = text.split(/\s+/).filter((w) => w.trim())
-  const maxWords = Math.min(5, words.length)
-  const summaryWords = []
+  // Remove extra whitespace
+  const cleanText = text.replace(/\s+/g, ' ').trim()
+  const words = cleanText.split(/\s+/)
 
-  for (let i = 0; i < maxWords; i++) {
-    let word = words[i].trim()
-    // Remove trailing punctuation except from intentional ellipsis
-    if (i === maxWords - 1) {
-      word = word.replace(/[.!?,;:]+$/, '')
+  // Extract first meaningful clause (up to 5 words)
+  // Look for natural breaking points: period, comma after 3+ words, or at 5 words
+  let summary = ''
+  let wordCount = 0
+
+  for (let i = 0; i < words.length && wordCount < 5; i++) {
+    let word = words[i]
+
+    // Remove trailing punctuation
+    if (word.endsWith('.') || word.endsWith(',') || word.endsWith(';')) {
+      word = word.slice(0, -1)
     }
-    summaryWords.push(word)
+
+    summary += (summary ? ' ' : '') + word
+    wordCount++
+
+    // Stop at natural breaking points
+    if (
+      words[i].endsWith('.') ||
+      (wordCount >= 3 && words[i].endsWith(',')) ||
+      wordCount >= 5
+    ) {
+      break
+    }
   }
 
-  const summary = summaryWords.join(' ').trim()
-
-  // Add ellipsis if there's more text
-  if (words.length > maxWords) {
-    return summary + '…'
-  }
-
-  return summary
+  return summary.trim()
 }
 </script>
 
