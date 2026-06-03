@@ -12,7 +12,7 @@
           <span class="acc-year" :style="{ color: dateColor(index) }">{{ item.date }}</span>
           <div class="acc-title-wrapper">
             <span class="acc-title">
-              {{ item.summary || generateSummary(item.text) }}
+              <strong>{{ getFirstSentence(item.text) }}</strong>
             </span>
             <span v-if="openItems.has(index)" class="acc-text">
               {{ item.text }}
@@ -54,40 +54,17 @@ const toggle = (i: number) => {
 const DATE_COLORS = ['#85C49A', '#E8C47A', '#C4A890']
 const dateColor = (i: number) => DATE_COLORS[i % DATE_COLORS.length]
 
-const generateSummary = (text: string): string => {
+const getFirstSentence = (text: string): string => {
   if (!text) return ''
 
-  // Remove extra whitespace
-  const cleanText = text.replace(/\s+/g, ' ').trim()
-  const words = cleanText.split(/\s+/)
-
-  // Extract first meaningful clause (up to 5 words)
-  // Look for natural breaking points: period, comma after 3+ words, or at 5 words
-  let summary = ''
-  let wordCount = 0
-
-  for (let i = 0; i < words.length && wordCount < 5; i++) {
-    let word = words[i]
-
-    // Remove trailing punctuation
-    if (word.endsWith('.') || word.endsWith(',') || word.endsWith(';')) {
-      word = word.slice(0, -1)
-    }
-
-    summary += (summary ? ' ' : '') + word
-    wordCount++
-
-    // Stop at natural breaking points
-    if (
-      words[i].endsWith('.') ||
-      (wordCount >= 3 && words[i].endsWith(',')) ||
-      wordCount >= 5
-    ) {
-      break
-    }
+  // Extract first sentence (everything up to first period, question mark, or exclamation)
+  const match = text.match(/^([^.!?]*[.!?])/)
+  if (match) {
+    return match[1].trim()
   }
 
-  return summary.trim()
+  // If no punctuation, return first line or whole text
+  return text.trim()
 }
 </script>
 
