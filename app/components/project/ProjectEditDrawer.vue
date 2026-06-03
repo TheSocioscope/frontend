@@ -122,17 +122,54 @@
                 @change="handleMedia"
               />
               <p v-if="mediaError" class="file-error">{{ mediaError }}</p>
-              <div v-if="mediaFiles.length" class="media-chips">
-                <div v-for="(file, fi) in mediaFiles" :key="fi" class="media-chip">
-                  <v-icon size="14">{{ file.type.startsWith('video/') ? 'mdi-video' : 'mdi-image' }}</v-icon>
-                  <span class="media-chip-name">{{ file.name }}</span>
-                  <button type="button" class="file-chip-remove" @click="removeMedia(fi)">&times;</button>
+              <div v-if="mediaFiles.length" class="media-items">
+                <div v-for="(item, mi) in mediaFiles" :key="mi" class="media-item-card">
+                  <div class="media-item-header">
+                    <div class="media-item-info">
+                      <v-icon size="14">{{ item.file?.type?.startsWith('video/') ? 'mdi-video' : 'mdi-image' }}</v-icon>
+                      <span class="media-item-name">{{ item.file?.name || 'File' }}</span>
+                    </div>
+                    <div class="media-item-controls">
+                      <button
+                        v-if="mi > 0"
+                        type="button"
+                        class="reorder-btn"
+                        title="Move up"
+                        @click="moveMediaUp(mi)"
+                      >
+                        <v-icon size="16">mdi-chevron-up</v-icon>
+                      </button>
+                      <button
+                        v-if="mi < mediaFiles.length - 1"
+                        type="button"
+                        class="reorder-btn"
+                        title="Move down"
+                        @click="moveMediaDown(mi)"
+                      >
+                        <v-icon size="16">mdi-chevron-down</v-icon>
+                      </button>
+                      <button type="button" class="remove-btn" @click="removeMedia(mi)">&times;</button>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label>Description (optional)</label>
+                    <input
+                      v-model="item.description"
+                      type="text"
+                      placeholder="e.g. Workshop in progress"
+                      class="media-field"
+                    />
+                  </div>
+                  <div class="form-group">
+                    <label>Date (optional)</label>
+                    <input
+                      v-model="item.date"
+                      type="text"
+                      placeholder="e.g. March 15, 2023"
+                      class="media-field"
+                    />
+                  </div>
                 </div>
-              </div>
-              <div class="form-group">
-                <label>Video publication date</label>
-                <input v-model="videoDate" type="text" placeholder="e.g. March 15, 2023" />
-                <p class="field-hint">If you've uploaded a video, add the date it was published.</p>
               </div>
             </section>
 
@@ -337,6 +374,7 @@ const { t, locale } = useI18n()
 
 // ── State types ─────────────────────────────────────────────────────────────
 type Contact = { name: string; email: string; phone: string }
+type MediaItem = { file: File | null; description: string; date: string }
 type TeamMember = { name: string; role: string; photo: File | null; preview: string }
 type ExchangeItem = { name: string; photo: File | null; preview: string }
 type TimelineEntry = { year: string; description: string }
@@ -345,9 +383,8 @@ type TimelineEntry = { year: string; description: string }
 const contacts = ref<Contact[]>([{ name: '', email: '', phone: '' }])
 const intro = ref({ name: '', tagline: '', url: '' })
 const socials = ref({ instagram: '', facebook: '', linkedin: '', youtube: '' })
-const mediaFiles = ref<File[]>([])
+const mediaFiles = ref<MediaItem[]>([])
 const mediaError = ref('')
-const videoDate = ref('')
 const description = ref('')
 const teamMembers = ref<TeamMember[]>([])
 const offerItems = ref<ExchangeItem[]>([])
@@ -437,7 +474,12 @@ const handleMedia = (e: Event) => {
     }
     return true
   })
-  const combined = [...mediaFiles.value, ...valid].slice(0, 10)
+  const newItems = valid.map((file) => ({
+    file,
+    description: '',
+    date: '',
+  }))
+  const combined = [...mediaFiles.value, ...newItems].slice(0, 10)
   mediaFiles.value = combined
   mediaError.value = skipped.length ? `Skipped (too large): ${skipped.join(', ')}` : ''
   ;(e.target as HTMLInputElement).value = ''
@@ -446,6 +488,22 @@ const handleMedia = (e: Event) => {
 const removeMedia = (i: number) => {
   mediaFiles.value.splice(i, 1)
   if (!mediaFiles.value.length) mediaError.value = ''
+}
+
+const moveMediaUp = (i: number) => {
+  if (i > 0) {
+    const temp = mediaFiles.value[i]
+    mediaFiles.value[i] = mediaFiles.value[i - 1]
+    mediaFiles.value[i - 1] = temp
+  }
+}
+
+const moveMediaDown = (i: number) => {
+  if (i < mediaFiles.value.length - 1) {
+    const temp = mediaFiles.value[i]
+    mediaFiles.value[i] = mediaFiles.value[i + 1]
+    mediaFiles.value[i + 1] = temp
+  }
 }
 
 // ── Validation ───────────────────────────────────────────────────────────────
@@ -492,10 +550,14 @@ const buildEmailBody = (): string => {
 
   // Media files
   if (mediaFiles.value.length) {
-    lines.push(`MEDIA FILES ATTACHED: ${mediaFiles.value.length} file(s) — see email attachments`)
-    if (videoDate.value.trim()) {
-      lines.push(`Video publication date: ${videoDate.value}`)
-    }
+    lines.push('--- PHOTOS & VIDEOS ---')
+    mediaFiles.value.forEach((item, i) => {
+      const filename = item.file?.name || 'File'
+      const descText = item.description ? ` — ${item.description}` : ''
+      const dateText = item.date ? ` (${item.date})` : ''
+      lines.push(`  ${i + 1}. ${filename}${descText}${dateText}`)
+    })
+    lines.push('Note: Media files attached in email')
     lines.push('')
   }
 
@@ -570,11 +632,14 @@ const handleSubmit = async () => {
     if (contacts.value[0].email) formData.append('replyto', contacts.value[0].email)
     formData.append('message', buildEmailBody())
 
-    // Media files
-    mediaFiles.value.forEach((file) => formData.append('attachment[]', file, file.name))
-
-    // Video date
-    if (videoDate.value.trim()) formData.append('videoDate', videoDate.value)
+    // Media files with metadata
+    mediaFiles.value.forEach((item, i) => {
+      if (item.file) {
+        formData.append('attachment[]', item.file, item.file.name)
+        if (item.description) formData.append(`media_description_${i}`, item.description)
+        if (item.date) formData.append(`media_date_${i}`, item.date)
+      }
+    })
 
     // Team photos
     teamMembers.value.forEach((m, i) => {
@@ -1103,6 +1168,108 @@ const toggleSpeech = () => {
   font-size: 0.78rem;
   color: #c0392b;
   margin-top: 0.3rem;
+}
+
+// ── Media items (with description & date) ──────────────────────────────────
+.media-items {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 0.75rem;
+}
+
+.media-item-card {
+  border: 1px solid $border-cream;
+  border-radius: $border-radius-md;
+  padding: 0.75rem;
+  background: $cream-dark;
+}
+
+.media-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.media-item-info {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1;
+  min-width: 0;
+}
+
+.media-item-name {
+  flex: 1;
+  font-size: 0.82rem;
+  color: $brown-dark;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.media-item-controls {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.reorder-btn {
+  background: white;
+  border: 1px solid $border-cream;
+  border-radius: $border-radius-sm;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  color: $brown-medium;
+  transition: all $transition-fast;
+  flex-shrink: 0;
+
+  &:hover {
+    border-color: $green-bright;
+    color: $green-bright;
+    background: rgba(76, 160, 73, 0.04);
+  }
+}
+
+.remove-btn {
+  background: none;
+  border: none;
+  color: $brown-medium;
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  padding: 0;
+  flex-shrink: 0;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: #c0392b;
+  }
+}
+
+.media-field {
+  width: 100%;
+  padding: 0.5rem 0.75rem;
+  border: 1.5px solid $border-cream;
+  border-radius: $border-radius-md;
+  font-size: 0.85rem;
+  font-family: $font-family-base;
+  background: white;
+  color: $brown-dark;
+  transition: border-color $transition-fast;
+  box-sizing: border-box;
+
+  &:focus {
+    outline: none;
+    border-color: $green-bright;
+  }
 }
 
 // ── Speech / mic ───────────────────────────────────────────────────────────
