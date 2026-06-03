@@ -103,10 +103,11 @@
       <button
         type="button"
         class="filters-trigger-desktop"
-        @click="filterDialogOpen = true"
+        :class="{ active: expandedFilters }"
+        @click="handleMoreFiltersClick"
       >
         <v-icon size="small">mdi-tune-variant</v-icon>
-        <span>{{ $t('projects.moreFilters', 'More filters') }}</span>
+        <span>{{ expandedFilters ? $t('projects.lessFilters', 'Less filters') : $t('projects.moreFilters', 'More filters') }}</span>
         <span v-if="dialogExtraActiveCount > 0" class="filters-badge">
           {{ dialogExtraActiveCount }}
         </span>
@@ -121,6 +122,92 @@
         <v-icon size="small">mdi-close-circle</v-icon>
         {{ $t('common.resetFilters') }}
       </button>
+    </div>
+
+    <!-- Additional filter row (desktop only - appears when expanded) -->
+    <div v-if="expandedFilters" class="filters-bar-desktop-expanded" role="group">
+      <div class="filter-cell">
+        <span class="filter-label">{{ $t('projects.status', 'Status') }}</span>
+        <v-select
+          :model-value="filters.selectedStatus"
+          :items="statusOptions"
+          :placeholder="$t('common.all', 'All')"
+          clearable
+          density="compact"
+          hide-details
+          variant="outlined"
+          bg-color="white"
+          @update:model-value="updateFilter('selectedStatus', $event)"
+        />
+      </div>
+      <div class="filter-cell">
+        <span class="filter-label">{{ $t('projects.businessModel', 'Business Model') }}</span>
+        <v-autocomplete
+          :model-value="filters.selectedBizModels"
+          :items="bizModelOptions"
+          :placeholder="$t('common.all', 'All')"
+          multiple
+          chips
+          closable-chips
+          clearable
+          density="compact"
+          hide-details
+          variant="outlined"
+          bg-color="white"
+          @update:model-value="updateFilter('selectedBizModels', $event)"
+        />
+      </div>
+      <div class="filter-cell">
+        <span class="filter-label">{{ $t('projects.size', 'Size') }}</span>
+        <v-autocomplete
+          :model-value="filters.selectedSizes"
+          :items="sizeOptions"
+          :placeholder="$t('common.all', 'All')"
+          multiple
+          chips
+          closable-chips
+          clearable
+          density="compact"
+          hide-details
+          variant="outlined"
+          bg-color="white"
+          @update:model-value="updateFilter('selectedSizes', $event)"
+        />
+      </div>
+      <div class="filter-cell">
+        <span class="filter-label">{{ $t('projects.geoReach', 'Geographic Reach') }}</span>
+        <v-autocomplete
+          :model-value="filters.selectedGeoReach"
+          :items="geoReachOptions"
+          :placeholder="$t('common.all', 'All')"
+          multiple
+          chips
+          closable-chips
+          clearable
+          density="compact"
+          hide-details
+          variant="outlined"
+          bg-color="white"
+          @update:model-value="updateFilter('selectedGeoReach', $event)"
+        />
+      </div>
+      <div class="filter-cell">
+        <span class="filter-label">{{ $t('projects.resourceType', 'Resource Type') }}</span>
+        <v-autocomplete
+          :model-value="filters.selectedResourceTypes"
+          :items="resourceTypeOptions"
+          :placeholder="$t('common.all', 'All')"
+          multiple
+          chips
+          closable-chips
+          clearable
+          density="compact"
+          hide-details
+          variant="outlined"
+          bg-color="white"
+          @update:model-value="updateFilter('selectedResourceTypes', $event)"
+        />
+      </div>
     </div>
 
     <!-- Non-modal bottom sheet (OWID Customize pattern). Slides up from
@@ -272,6 +359,31 @@ const emit = defineEmits<{
 const { t: $t } = useI18n()
 
 const filterDialogOpen = ref(false)
+const expandedFilters = ref(false)
+const isMobile = ref(false)
+
+// Detect mobile on mount
+onMounted(() => {
+  isMobile.value = window.innerWidth < 1024
+  window.addEventListener('resize', () => {
+    isMobile.value = window.innerWidth < 1024
+    // Close expanded filters if switching to mobile
+    if (isMobile.value && expandedFilters.value) {
+      expandedFilters.value = false
+    }
+  })
+})
+
+// Handle "More filters" button click
+const handleMoreFiltersClick = () => {
+  if (isMobile.value) {
+    // On mobile: open the customize sheet
+    filterDialogOpen.value = true
+  } else {
+    // On desktop: toggle expanded inline filters
+    expandedFilters.value = !expandedFilters.value
+  }
+}
 
 // Toggle a body class so the page can reserve scroll space below the sheet —
 // otherwise the last cards/pagination get hidden behind the fixed sheet.
@@ -437,6 +549,7 @@ const resetAllFilters = () => {
   white-space: nowrap;
   align-self: end;
   height: 40px;
+  transition: all 0.2s ease;
 
   &:hover {
     border-color: $green-bright;
@@ -446,6 +559,43 @@ const resetAllFilters = () => {
   &:focus-visible {
     outline: 2px solid $green-dark;
     outline-offset: 2px;
+  }
+
+  &.active {
+    background: $green-bright;
+    color: white;
+    border-color: $green-bright;
+
+    &:hover {
+      background: $green-dark;
+      border-color: $green-dark;
+      color: white;
+    }
+  }
+}
+
+// Expanded filter row (appears below main filters when active)
+.filters-bar-desktop-expanded {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(140px, 1fr)) auto auto;
+  gap: $rhythm-2;
+  align-items: end;
+  padding: $rhythm-2;
+  background: $earth-10;
+  border: 1px solid $border-soft;
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  margin-bottom: $rhythm-3;
+  margin-top: -8px;
+  position: relative;
+  z-index: 1;
+
+  @media (max-width: $detail-bp-desktop - 1) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: $detail-bp-tablet - 1) {
+    display: none;
   }
 }
 
