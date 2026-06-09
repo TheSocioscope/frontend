@@ -51,6 +51,9 @@
               <NuxtLink :to="localePath('/products')">{{ $t('nav.products') }}</NuxtLink>
             </li>
             <li>
+              <NuxtLink :to="localePath('/research')">{{ $t('nav.research', 'Research') }}</NuxtLink>
+            </li>
+            <li>
               <NuxtLink :to="localePath('/press')">{{ $t('nav.press') }}</NuxtLink>
             </li>
           </ul>
