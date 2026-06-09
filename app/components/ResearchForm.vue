@@ -3,7 +3,7 @@
     <!-- Instructions -->
     <div class="research-intro">
       <p>
-        <strong>Select all the outputs you are interested in.</strong> We might reach out to get more data from you to be able to produce accurately the documents.
+        We are exploring research offerings for a select group of initiatives. If you are interested in receiving any of the below outputs (free of charge), choose all that apply, and someone from our team will be in touch.
       </p>
     </div>
 
