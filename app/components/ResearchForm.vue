@@ -1,5 +1,12 @@
 <template>
   <div class="research-form-wrapper">
+    <!-- Instructions -->
+    <div class="research-intro">
+      <p>
+        <strong>Select all the outputs you are interested in.</strong> We might reach out to get more data from you to be able to produce accurately the documents.
+      </p>
+    </div>
+
     <!-- Research Selection Section -->
     <div class="research-sections">
       <!-- Strategic Tools -->
@@ -409,6 +416,27 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
 
   @media (max-width: 768px) {
     padding: 1.5rem;
+  }
+}
+
+// Instructions
+.research-intro {
+  background: $cream-dark;
+  padding: 1.25rem;
+  border-radius: $border-radius-md;
+  border-left: 4px solid $green-bright;
+  margin-bottom: 2.5rem;
+
+  p {
+    font-size: 0.95rem;
+    color: $brown-dark;
+    line-height: 1.6;
+    margin: 0;
+
+    strong {
+      font-weight: 700;
+      color: $brown-dark;
+    }
   }
 }
 
