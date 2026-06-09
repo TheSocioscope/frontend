@@ -122,22 +122,6 @@
       </section>
     </div>
 
-    <!-- Additional Info for Selected Items -->
-    <div v-if="selectedItems.length > 0" class="selected-items-section">
-      <h3 class="subsection-title">Tell us more about your interests</h3>
-      <div class="additional-info-cards">
-        <div v-for="itemId in selectedItems" :key="itemId" class="info-card">
-          <h4>{{ getItemLabel(itemId) }}</h4>
-          <textarea
-            v-model="additionalInfo[itemId]"
-            placeholder="How would you use this? What specific questions do you want answered?"
-            rows="3"
-            class="info-textarea"
-          />
-        </div>
-      </div>
-    </div>
-
     <!-- Contact Info Section -->
     <div class="contact-section">
       <h3 class="subsection-title">Your Contact Information</h3>
@@ -309,7 +293,6 @@ const collectiveTools = [
 
 // Form state
 const selectedItems = ref<string[]>([])
-const additionalInfo = ref<Record<string, string>>({})
 const form = ref({
   initiativeName: '',
   name: '',
@@ -354,8 +337,7 @@ const handleSubmit = async () => {
     // Build email body
     const selectedLabels = selectedItems.value.map((id) => {
       const label = getItemLabel(id)
-      const info = additionalInfo.value[id]
-      return `• ${label}${info ? `\n  Details: ${info}` : ''}`
+      return `• ${label}`
     })
 
     const emailBody = `
@@ -390,7 +372,6 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
       // Reset form after 3 seconds
       setTimeout(() => {
         selectedItems.value = []
-        additionalInfo.value = {}
         form.value = { initiativeName: '', name: '', email: '', phone: '', notes: '' }
         submitted.value = false
       }, 3000)
@@ -565,63 +546,6 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
   .checkbox-input:checked ~ .checkmark {
     opacity: 1;
     background: $green-bright;
-  }
-}
-
-// Selected Items Section
-.selected-items-section {
-  background: $cream-dark;
-  padding: 1.5rem;
-  border-radius: $border-radius-md;
-  margin-bottom: 2rem;
-}
-
-.subsection-title {
-  font-size: 1.1rem;
-  font-weight: 700;
-  color: $brown-dark;
-  margin: 0 0 1.25rem;
-}
-
-.additional-info-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
-}
-
-.info-card {
-  background: white;
-  padding: 1rem;
-  border-radius: $border-radius-md;
-  border: 1px solid $border-cream;
-
-  h4 {
-    font-size: 0.9rem;
-    color: $brown-dark;
-    margin: 0 0 0.75rem;
-    line-height: 1.4;
-  }
-}
-
-.info-textarea {
-  width: 100%;
-  padding: 0.75rem;
-  border: 1.5px solid $border-cream;
-  border-radius: $border-radius-md;
-  font-size: 0.85rem;
-  font-family: $font-family-base;
-  color: $brown-dark;
-  resize: vertical;
-  transition: border-color $transition-fast;
-  box-sizing: border-box;
-
-  &:focus {
-    outline: none;
-    border-color: $green-bright;
-  }
-
-  &::placeholder {
-    color: $text-caption;
   }
 }
 
