@@ -2,8 +2,8 @@
   <div>
     <!-- Hero Banner -->
     <PageHero
-      :title="$t('research.hero.title', 'Food Socioscope Research')"
-      :subtitle="$t('research.hero.subtitle', 'What research insights do you need?')"
+      :title="$t('research.hero.title', 'Food Socioscope Research Project')"
+      :subtitle="$t('research.hero.subtitle', 'What research insights are you interested in')"
       icon="mdi-magnify"
       compact
       centered
