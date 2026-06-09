@@ -9,15 +9,26 @@
           Strategic Tools
         </h2>
         <p class="section-desc">Structured assessments and strategic documents built from your data</p>
-        <div class="checkboxes-grid">
-          <label v-for="item in strategicTools" :key="item.id" class="checkbox-label">
+        <div class="cards-grid">
+          <label v-for="item in strategicTools" :key="item.id" class="research-card">
             <input
               v-model="selectedItems"
               type="checkbox"
               :value="item.id"
               class="checkbox-input"
             />
-            <span class="checkbox-text">{{ item.label }}</span>
+            <div class="card-visual" :style="{ backgroundColor: item.color }">
+              <v-icon size="40" color="white">{{ item.icon }}</v-icon>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title">{{ item.shortLabel }}</h3>
+              <p class="card-desc">{{ item.label }}</p>
+            </div>
+            <div class="checkmark">
+              <v-icon v-if="selectedItems.includes(item.id)" size="20" color="white">
+                mdi-check
+              </v-icon>
+            </div>
           </label>
         </div>
       </section>
@@ -29,15 +40,26 @@
           Benchmarking & Research
         </h2>
         <p class="section-desc">Data-driven insights into your positioning and opportunities</p>
-        <div class="checkboxes-grid">
-          <label v-for="item in benchmarkingTools" :key="item.id" class="checkbox-label">
+        <div class="cards-grid">
+          <label v-for="item in benchmarkingTools" :key="item.id" class="research-card">
             <input
               v-model="selectedItems"
               type="checkbox"
               :value="item.id"
               class="checkbox-input"
             />
-            <span class="checkbox-text">{{ item.label }}</span>
+            <div class="card-visual" :style="{ backgroundColor: item.color }">
+              <v-icon size="40" color="white">{{ item.icon }}</v-icon>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title">{{ item.shortLabel }}</h3>
+              <p class="card-desc">{{ item.label }}</p>
+            </div>
+            <div class="checkmark">
+              <v-icon v-if="selectedItems.includes(item.id)" size="20" color="white">
+                mdi-check
+              </v-icon>
+            </div>
           </label>
         </div>
       </section>
@@ -49,15 +71,26 @@
           Visibility & Recognition
         </h2>
         <p class="section-desc">Amplify your story and build external credibility</p>
-        <div class="checkboxes-grid">
-          <label v-for="item in visibilityTools" :key="item.id" class="checkbox-label">
+        <div class="cards-grid">
+          <label v-for="item in visibilityTools" :key="item.id" class="research-card">
             <input
               v-model="selectedItems"
               type="checkbox"
               :value="item.id"
               class="checkbox-input"
             />
-            <span class="checkbox-text">{{ item.label }}</span>
+            <div class="card-visual" :style="{ backgroundColor: item.color }">
+              <v-icon size="40" color="white">{{ item.icon }}</v-icon>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title">{{ item.shortLabel }}</h3>
+              <p class="card-desc">{{ item.label }}</p>
+            </div>
+            <div class="checkmark">
+              <v-icon v-if="selectedItems.includes(item.id)" size="20" color="white">
+                mdi-check
+              </v-icon>
+            </div>
           </label>
         </div>
       </section>
@@ -69,15 +102,26 @@
           Collective & Learning
         </h2>
         <p class="section-desc">Connect with peers and share knowledge</p>
-        <div class="checkboxes-grid">
-          <label v-for="item in collectiveTools" :key="item.id" class="checkbox-label">
+        <div class="cards-grid">
+          <label v-for="item in collectiveTools" :key="item.id" class="research-card">
             <input
               v-model="selectedItems"
               type="checkbox"
               :value="item.id"
               class="checkbox-input"
             />
-            <span class="checkbox-text">{{ item.label }}</span>
+            <div class="card-visual" :style="{ backgroundColor: item.color }">
+              <v-icon size="40" color="white">{{ item.icon }}</v-icon>
+            </div>
+            <div class="card-content">
+              <h3 class="card-title">{{ item.shortLabel }}</h3>
+              <p class="card-desc">{{ item.label }}</p>
+            </div>
+            <div class="checkmark">
+              <v-icon v-if="selectedItems.includes(item.id)" size="20" color="white">
+                mdi-check
+              </v-icon>
+            </div>
           </label>
         </div>
       </section>
@@ -157,31 +201,115 @@
 <script setup lang="ts">
 import { web3formsKey } from '~~/static.config'
 
-// Research items
+// Research items with visual styling
 const strategicTools = [
-  { id: 'swot', label: 'SWOT analysis — Strengths, Weaknesses, Opportunities, Threats' },
-  { id: 'transaction', label: 'Transaction grid — Map exchanges and value flows with partners' },
-  { id: 'stakeholder', label: 'Stakeholder map — Visualise your relational ecosystem' },
-  { id: 'barriers', label: 'Analysis of your specific barriers — What\'s holding you back' },
-  { id: 'whatWorked', label: 'Personalised "what worked elsewhere" memo — 3–4 proven strategies' },
+  {
+    id: 'swot',
+    label: 'SWOT analysis — Strengths, Weaknesses, Opportunities, Threats',
+    shortLabel: 'SWOT Analysis',
+    icon: 'mdi-chart-box-outline',
+    color: '#E8C47A',
+  },
+  {
+    id: 'transaction',
+    label: 'Transaction grid — Map exchanges and value flows with partners',
+    shortLabel: 'Transaction Grid',
+    icon: 'mdi-sitemap',
+    color: '#C4A890',
+  },
+  {
+    id: 'stakeholder',
+    label: 'Stakeholder map — Visualise your relational ecosystem',
+    shortLabel: 'Stakeholder Map',
+    icon: 'mdi-network',
+    color: '#85C49A',
+  },
+  {
+    id: 'barriers',
+    label: 'Analysis of your specific barriers — What\'s holding you back',
+    shortLabel: 'Barriers Analysis',
+    icon: 'mdi-alert-circle-outline',
+    color: '#D4A574',
+  },
+  {
+    id: 'whatWorked',
+    label: 'Personalised "what worked elsewhere" memo — 3–4 proven strategies',
+    shortLabel: 'What Worked Elsewhere',
+    icon: 'mdi-lightbulb-on-outline',
+    color: '#A8D5BA',
+  },
 ]
 
 const benchmarkingTools = [
-  { id: 'positioning', label: 'Positioning benchmark — Where you stand among 600+ initiatives' },
-  { id: 'timeline', label: 'Transition timeline — Your initiative\'s evolution visualised' },
-  { id: 'sectorReport', label: 'Access to a thematic sector report — Tailored to your area' },
-  { id: 'funding', label: 'Funding opportunities analysis — Cross-referenced with your profile' },
+  {
+    id: 'positioning',
+    label: 'Positioning benchmark — Where you stand among 600+ initiatives',
+    shortLabel: 'Positioning Benchmark',
+    icon: 'mdi-chart-line',
+    color: '#7CB8D4',
+  },
+  {
+    id: 'timeline',
+    label: 'Transition timeline — Your initiative\'s evolution visualised',
+    shortLabel: 'Transition Timeline',
+    icon: 'mdi-timeline-outline',
+    color: '#6BA3C8',
+  },
+  {
+    id: 'sectorReport',
+    label: 'Access to a thematic sector report — Tailored to your area',
+    shortLabel: 'Sector Report',
+    icon: 'mdi-file-document-outline',
+    color: '#8EC4D4',
+  },
+  {
+    id: 'funding',
+    label: 'Funding opportunities analysis — Cross-referenced with your profile',
+    shortLabel: 'Funding Opportunities',
+    icon: 'mdi-cash-multiple',
+    color: '#5BA0D0',
+  },
 ]
 
 const visibilityTools = [
-  { id: 'narrative', label: 'Narrative portrait / valorisation sheet — Polished case study' },
-  { id: 'mention', label: 'Mention in publications — Credited as a contributor' },
-  { id: 'certificate', label: '"Food Socioscope Contributor" certificate or label' },
+  {
+    id: 'narrative',
+    label: 'Narrative portrait / valorisation sheet — Polished case study',
+    shortLabel: 'Narrative Portrait',
+    icon: 'mdi-pencil-outline',
+    color: '#E8A8A3',
+  },
+  {
+    id: 'mention',
+    label: 'Mention in publications — Credited as a contributor',
+    shortLabel: 'Publication Mention',
+    icon: 'mdi-newspaper-variant-outline',
+    color: '#D98A88',
+  },
+  {
+    id: 'certificate',
+    label: '"Food Socioscope Contributor" certificate or label',
+    shortLabel: 'Contributor Certificate',
+    icon: 'mdi-medal-outline',
+    color: '#E09898',
+  },
 ]
 
 const collectiveTools = [
-  { id: 'peerLearning', label: 'Peer learning sessions — Small group workshops with 5–6 initiatives' },
-  { id: 'webinar', label: 'Webinar hosting — We host your training session' },
+  {
+    id: 'peerLearning',
+    label: 'Peer learning sessions — Small group workshops with 5–6 initiatives',
+    shortLabel: 'Peer Learning',
+    icon: 'mdi-account-group-outline',
+    color: '#B8A8D4',
+  },
+  {
+    id: 'webinar',
+    label: 'Webinar hosting — We host your training session',
+    shortLabel: 'Webinar Hosting',
+    icon: 'mdi-video-outline',
+    color: '#A896C8',
+  },
 ]
 
 // Form state
@@ -330,43 +458,104 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
   line-height: 1.5;
 }
 
-.checkboxes-grid {
+.cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.25rem;
 
-  @media (max-width: 600px) {
-    grid-template-columns: 1fr;
+  @media (max-width: 768px) {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+  }
+
+  @media (max-width: 500px) {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
-.checkbox-label {
+.research-card {
+  position: relative;
   display: flex;
-  align-items: flex-start;
-  gap: 10px;
-  padding: 0.75rem;
-  border-radius: $border-radius-md;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1.25rem;
+  border: 2px solid $border-cream;
+  border-radius: $border-radius-lg;
+  background: white;
   cursor: pointer;
-  transition: background-color $transition-fast;
-  user-select: none;
+  transition: all $transition-fast;
+  text-align: center;
 
   &:hover {
-    background: $cream-dark;
+    border-color: $green-bright;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-4px);
   }
 
   .checkbox-input {
-    width: 20px;
-    height: 20px;
-    margin-top: 2px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 18px;
+    height: 18px;
     cursor: pointer;
     accent-color: $green-bright;
-    flex-shrink: 0;
   }
 
-  .checkbox-text {
-    font-size: 0.9rem;
+  .card-visual {
+    width: 80px;
+    height: 80px;
+    border-radius: $border-radius-md;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform $transition-fast;
+  }
+
+  &:hover .card-visual {
+    transform: scale(1.1);
+  }
+
+  .card-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .card-title {
+    font-size: 0.95rem;
+    font-weight: 700;
     color: $brown-dark;
+    margin: 0;
+    line-height: 1.3;
+  }
+
+  .card-desc {
+    font-size: 0.75rem;
+    color: $brown-medium;
+    margin: 0;
     line-height: 1.4;
+  }
+
+  .checkmark {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: all $transition-fast;
+  }
+
+  .checkbox-input:checked ~ .checkmark {
+    opacity: 1;
+    background: $green-bright;
   }
 }
 
