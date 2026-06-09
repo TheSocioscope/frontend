@@ -4,10 +4,7 @@
     <div class="research-sections">
       <!-- Strategic Tools -->
       <section class="research-section">
-        <h2 class="section-title">
-          <span class="emoji">🔍</span>
-          Strategic Tools
-        </h2>
+        <h2 class="section-title">Strategic Tools</h2>
         <p class="section-desc">Structured assessments and strategic documents built from your data</p>
         <div class="cards-grid">
           <label v-for="item in strategicTools" :key="item.id" class="research-card">
@@ -35,10 +32,7 @@
 
       <!-- Benchmarking & Research -->
       <section class="research-section">
-        <h2 class="section-title">
-          <span class="emoji">📊</span>
-          Benchmarking & Research
-        </h2>
+        <h2 class="section-title">Benchmarking & Research</h2>
         <p class="section-desc">Data-driven insights into your positioning and opportunities</p>
         <div class="cards-grid">
           <label v-for="item in benchmarkingTools" :key="item.id" class="research-card">
@@ -66,10 +60,7 @@
 
       <!-- Visibility & Recognition -->
       <section class="research-section">
-        <h2 class="section-title">
-          <span class="emoji">📣</span>
-          Visibility & Recognition
-        </h2>
+        <h2 class="section-title">Visibility & Recognition</h2>
         <p class="section-desc">Amplify your story and build external credibility</p>
         <div class="cards-grid">
           <label v-for="item in visibilityTools" :key="item.id" class="research-card">
@@ -97,10 +88,7 @@
 
       <!-- Collective & Learning -->
       <section class="research-section">
-        <h2 class="section-title">
-          <span class="emoji">🤝</span>
-          Collective & Learning
-        </h2>
+        <h2 class="section-title">Collective & Learning</h2>
         <p class="section-desc">Connect with peers and share knowledge</p>
         <div class="cards-grid">
           <label v-for="item in collectiveTools" :key="item.id" class="research-card">
@@ -438,17 +426,10 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
 }
 
 .section-title {
-  display: flex;
-  align-items: center;
-  gap: 10px;
   font-size: 1.25rem;
   font-weight: 700;
   color: $brown-dark;
   margin: 0 0 0.5rem;
-
-  .emoji {
-    font-size: 1.5rem;
-  }
 }
 
 .section-desc {
