@@ -7,6 +7,7 @@
 <script setup lang="ts">
 // Global app configuration
 const { resolveImagePath } = useImagePath()
+const { addOrganizationSchema, addWebsiteSchema } = useStructuredData()
 
 useHead({
   titleTemplate: '%s | The Socioscope',
@@ -17,4 +18,8 @@ useHead({
   ],
   link: [{ rel: 'icon', type: 'image/x-icon', href: resolveImagePath('/favicon.ico') }]
 })
+
+// Add structured data for search engines
+addOrganizationSchema()
+addWebsiteSchema()
 </script>

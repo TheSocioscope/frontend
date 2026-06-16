@@ -23,8 +23,63 @@ definePageMeta({
   layout: 'default',
 })
 
+const pageTitle = t('research.meta.title', 'Food Socioscope Research Project')
+const pageDescription = t('research.meta.description', 'Access free strategic research outputs including SWOT analysis, benchmarking reports, and peer learning sessions. Discover what research insights would be most valuable for your initiative.')
+
 useHead({
-  title: t('research.meta.title', 'Food Socioscope Research'),
+  title: pageTitle,
+  meta: [
+    {
+      name: 'description',
+      content: pageDescription
+    },
+    {
+      name: 'keywords',
+      content: 'research, SWOT analysis, benchmarking, food systems, strategic insights, peer learning, sustainability'
+    },
+    {
+      property: 'og:title',
+      content: pageTitle
+    },
+    {
+      property: 'og:description',
+      content: pageDescription
+    },
+    {
+      property: 'og:type',
+      content: 'website'
+    },
+    {
+      property: 'og:url',
+      content: 'https://thesocioscope.org/research'
+    },
+    {
+      property: 'og:image',
+      content: 'https://thesocioscope.org/og-image.png'
+    },
+    {
+      name: 'twitter:card',
+      content: 'summary_large_image'
+    },
+    {
+      name: 'twitter:title',
+      content: pageTitle
+    },
+    {
+      name: 'twitter:description',
+      content: pageDescription
+    },
+    {
+      name: 'twitter:image',
+      content: 'https://thesocioscope.org/og-image.png'
+    }
+  ],
+  link: [
+    {
+      rel: 'canonical',
+      href: 'https://thesocioscope.org/research'
+    }
+  ]
 })
 </script>
 

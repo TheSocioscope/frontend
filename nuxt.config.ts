@@ -110,8 +110,23 @@ export default defineNuxtConfig({
       viewport: 'width=device-width, initial-scale=1',
       title: 'The Socioscope',
       meta: [
-        { name: 'description', content: 'Seeing How Societies Transform' },
-        { name: 'format-detection', content: 'telephone=no' }
+        { name: 'description', content: 'Seeing How Societies Transform. Explore sustainable food initiatives, access research insights, and learn about transformative projects worldwide.' },
+        { name: 'format-detection', content: 'telephone=no' },
+        { name: 'theme-color', content: '#1B5E20' },
+        { name: 'robots', content: 'index, follow' },
+        { name: 'googlebot', content: 'index, follow' },
+        { property: 'og:title', content: 'The Socioscope' },
+        { property: 'og:description', content: 'Seeing How Societies Transform. Explore sustainable food initiatives, access research insights, and learn about transformative projects worldwide.' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://thesocioscope.org' },
+        { property: 'og:image', content: 'https://thesocioscope.org/og-image.png' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '630' },
+        { property: 'og:locale', content: 'en_US' },
+        { name: 'twitter:card', content: 'summary_large_image' },
+        { name: 'twitter:title', content: 'The Socioscope' },
+        { name: 'twitter:description', content: 'Seeing How Societies Transform. Explore sustainable food initiatives, access research insights, and learn about transformative projects worldwide.' },
+        { name: 'twitter:image', content: 'https://thesocioscope.org/og-image.png' }
       ],
       link: [
         {
