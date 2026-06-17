@@ -46,8 +46,12 @@
       "Bash(npm list *)",
       "PowerShell(node --version)",
       "PowerShell(npm list -g pptxgenjs 2>$null)",
-      "Bash(yarn nuxt *)",
-      "Bash(npx nuxt *)"
+      "Bash(cat > *)",
+      "Bash(node create_summary.js)",
+      "Bash(cd \"C:\\\\Users\\\\vfournand\\\\Desktop\" && python create_summary_doc.py)",
+      "Bash(/c/Users/vfournand/AppData/Local/Programs/Python/Python313/python.exe --version)",
+      "Bash(/c/Users/vfournand/AppData/Local/Programs/Python/Python313/python.exe create_summary_doc.py)",
+      "Bash(yarn dev *)"
     ]
   }
 }
