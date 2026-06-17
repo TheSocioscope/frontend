@@ -189,13 +189,10 @@ const connectDrawerOpen = ref(false)
 
 const projectSlug = computed(() => route.params.id as string)
 
-// Current URL for sharing
-const currentUrl = computed(() => {
-  if (import.meta.client) {
-    return window.location.href
-  }
-  return ''
-})
+const SITE_URL = 'https://thesocioscope.org'
+
+// Canonical URL — constructed server-side so it's present during SSR/build
+const currentUrl = computed(() => `${SITE_URL}/projects/${projectSlug.value}/`)
 
 // Fetch project — two-stage query to avoid loading all 848 projects.
 // Stage 1: lightweight index (pubId + name only) to resolve slug → pubId.
@@ -413,12 +410,30 @@ watchEffect(() => {
   if (project.value) {
     useHead({
       title: localizedName.value,
+      link: [{ rel: 'canonical', href: currentUrl.value }],
       meta: [
         { name: 'description', content: localizedDescription.value },
         { property: 'og:title', content: localizedName.value },
         { property: 'og:description', content: localizedDescription.value },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: currentUrl.value }
+        { property: 'og:url', content: currentUrl.value },
+        { property: 'og:site_name', content: 'The Socioscope' }
+      ],
+      script: [
+        {
+          type: 'application/ld+json',
+          innerHTML: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'ItemPage',
+            name: localizedName.value,
+            description: localizedDescription.value,
+            url: currentUrl.value,
+            isPartOf: { '@type': 'WebSite', name: 'The Socioscope', url: SITE_URL },
+            ...(project.value.country?.length
+              ? { spatialCoverage: { '@type': 'Place', addressCountry: project.value.country[0] } }
+              : {})
+          })
+        }
       ]
     })
   }

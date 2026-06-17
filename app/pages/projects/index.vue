@@ -922,7 +922,24 @@ const getRowDescription = (project: any) => {
 }
 
 useHead({
-  title: $t('nav.projects')
+  title: $t('nav.projects'),
+  link: [{ rel: 'canonical', href: 'https://thesocioscope.org/projects/' }],
+  meta: [
+    {
+      name: 'description',
+      content:
+        'Browse 700+ sustainable food system initiatives from around the world. Filter by country, theme, and sector to discover transformative projects documented by The Socioscope.'
+    },
+    { property: 'og:title', content: `${$t('nav.projects')} – The Socioscope` },
+    {
+      property: 'og:description',
+      content:
+        'Browse 700+ sustainable food system initiatives from around the world. Filter by country, theme, and sector to discover transformative projects documented by The Socioscope.'
+    },
+    { property: 'og:type', content: 'website' },
+    { property: 'og:url', content: 'https://thesocioscope.org/projects/' },
+    { property: 'og:site_name', content: 'The Socioscope' }
+  ]
 })
 </script>
 
