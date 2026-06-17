@@ -34,7 +34,7 @@
 <script setup lang="ts">
 const { t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: t('pages.methodology')
-})
+})))
 </script>

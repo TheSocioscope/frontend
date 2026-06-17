@@ -89,9 +89,9 @@
 <script setup lang="ts">
 const { t, t: $t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: t('products.meta.title')
-})
+})))
 
 const activeFilter = ref('all')
 const isMobile = ref(false)

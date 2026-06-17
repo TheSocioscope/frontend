@@ -45,7 +45,9 @@
       "Bash(find /c/Users/vfournand -name \"*.pptx\" -o -name \"certificate*\" 2>/dev/null | grep -v AppData | head -20)",
       "Bash(npm list *)",
       "PowerShell(node --version)",
-      "PowerShell(npm list -g pptxgenjs 2>$null)"
+      "PowerShell(npm list -g pptxgenjs 2>$null)",
+      "Bash(yarn nuxt *)",
+      "Bash(npx nuxt *)"
     ]
   }
 }

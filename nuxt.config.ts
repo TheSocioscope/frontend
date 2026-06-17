@@ -67,7 +67,8 @@ export default defineNuxtConfig({
 
   // Sitemap configuration
   sitemap: {
-    xsl: false
+    xsl: false,
+    sources: ['/api/__sitemap__/urls']
   },
 
   // Fonts configuration - handle network failures gracefully in CI
