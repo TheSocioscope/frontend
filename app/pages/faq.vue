@@ -112,9 +112,9 @@ interface FaqItem {
 const { t, locale } = useI18n()
 const localePath = useLocalePath()
 
-useHead({
+useHead(computed(() => ({
   title: t('faq.title')
-})
+})))
 
 const selectedCategory = ref<string | null>(null)
 // Single model for all expansion panels (source of truth)

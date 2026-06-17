@@ -16,7 +16,7 @@
 <script setup lang="ts">
 const { t: $t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: $t('press.meta.title'),
   meta: [
     {
@@ -24,5 +24,5 @@ useHead({
       content: $t('press.meta.description')
     }
   ]
-})
+})))
 </script>

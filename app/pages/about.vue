@@ -17,7 +17,7 @@
 <script setup lang="ts">
 const { t, t: $t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: t('about.meta.title')
-})
+})))
 </script>

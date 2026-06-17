@@ -12,7 +12,7 @@
 <script setup lang="ts">
 const { t: $t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: $t('footer.stories')
-})
+})))
 </script>

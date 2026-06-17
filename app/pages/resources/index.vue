@@ -104,9 +104,9 @@
 const { t, t: $t } = useI18n()
 const route = useRoute()
 
-useHead({
+useHead(computed(() => ({
   title: t('resources.meta.title')
-})
+})))
 
 const activeFilter = ref('all')
 const searchQuery = ref('')

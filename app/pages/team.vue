@@ -224,7 +224,7 @@
 <script setup lang="ts">
 const { t: $t, locale } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: $t('team.meta.title'),
   meta: [
     {
@@ -232,7 +232,7 @@ useHead({
       content: $t('team.meta.description')
     }
   ]
-})
+})))
 
 const { resolveImagePath } = useImagePath()
 

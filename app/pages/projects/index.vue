@@ -921,7 +921,7 @@ const getRowDescription = (project: any) => {
   return firstLine.length > 120 ? firstLine.slice(0, 120) + '…' : firstLine
 }
 
-useHead({
+useHead(computed(() => ({
   title: $t('nav.projects'),
   link: [{ rel: 'canonical', href: 'https://thesocioscope.org/projects/' }],
   meta: [
@@ -940,7 +940,7 @@ useHead({
     { property: 'og:url', content: 'https://thesocioscope.org/projects/' },
     { property: 'og:site_name', content: 'The Socioscope' }
   ]
-})
+})))
 </script>
 
 <style scoped lang="scss">

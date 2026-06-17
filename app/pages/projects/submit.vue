@@ -67,9 +67,9 @@
 <script setup lang="ts">
 const { t } = useI18n()
 
-useHead({
+useHead(computed(() => ({
   title: t('projects.submit.title')
-})
+})))
 
 const form = ref()
 const loading = ref(false)
