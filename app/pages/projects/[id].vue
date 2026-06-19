@@ -405,39 +405,49 @@ if (import.meta.client) {
   )
 }
 
-// SEO
-watchEffect(() => {
-  if (project.value) {
-    useHead({
-      title: localizedName.value,
-      link: [{ rel: 'canonical', href: currentUrl.value }],
-      meta: [
-        { name: 'description', content: localizedDescription.value },
-        { property: 'og:title', content: localizedName.value },
-        { property: 'og:description', content: localizedDescription.value },
-        { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: currentUrl.value },
-        { property: 'og:site_name', content: 'The Socioscope' }
-      ],
-      script: [
-        {
-          type: 'application/ld+json',
-          innerHTML: JSON.stringify({
-            '@context': 'https://schema.org',
-            '@type': 'ItemPage',
-            name: localizedName.value,
-            description: localizedDescription.value,
-            url: currentUrl.value,
-            isPartOf: { '@type': 'WebSite', name: 'The Socioscope', url: SITE_URL },
-            ...(project.value.country?.length
-              ? { spatialCoverage: { '@type': 'Place', addressCountry: project.value.country[0] } }
-              : {})
-          })
-        }
-      ]
-    })
-  }
-})
+// SEO — computed refs passed directly so meta is present in pre-rendered HTML
+const seoTitle = computed(() =>
+  localizedName.value ? `${localizedName.value} | The Socioscope` : 'The Socioscope'
+)
+const seoDescription = computed(() => localizedDescription.value || '')
+
+useHead(
+  computed(() => ({
+    title: seoTitle.value,
+    link: [{ rel: 'canonical', href: currentUrl.value }],
+    meta: [
+      { name: 'description', content: seoDescription.value },
+      { property: 'og:title', content: seoTitle.value },
+      { property: 'og:description', content: seoDescription.value },
+      { property: 'og:type', content: 'website' },
+      { property: 'og:url', content: currentUrl.value },
+      { property: 'og:site_name', content: 'The Socioscope' }
+    ],
+    script: project.value
+      ? [
+          {
+            type: 'application/ld+json',
+            innerHTML: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'ItemPage',
+              name: localizedName.value,
+              description: seoDescription.value,
+              url: currentUrl.value,
+              isPartOf: { '@type': 'WebSite', name: 'The Socioscope', url: SITE_URL },
+              ...((project.value as any).country?.length
+                ? {
+                    spatialCoverage: {
+                      '@type': 'Place',
+                      addressCountry: (project.value as any).country[0]
+                    }
+                  }
+                : {})
+            })
+          }
+        ]
+      : []
+  }))
+)
 </script>
 
 <style scoped lang="scss">

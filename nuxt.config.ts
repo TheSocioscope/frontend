@@ -154,10 +154,44 @@ export default defineNuxtConfig({
   nitro: {
     prerender: {
       concurrency: 10,
-      interval: 50
+      interval: 50,
+      routes: ['/sitemap.xml']
     },
     watchOptions: {
       ignored: ['**/public/data/**']
+    }
+  },
+
+  hooks: {
+    async 'nitro:config'(nitroConfig) {
+      const { readdir, readFile } = await import('node:fs/promises')
+      const { join } = await import('node:path')
+
+      const slugify = (text: string) =>
+        text
+          .normalize('NFD')
+          .replace(/[̀-ͯ]/g, '')
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '')
+          .slice(0, 80)
+
+      const projectsDir = join(process.cwd(), 'content', 'projects')
+      const files = await readdir(projectsDir)
+
+      const routes: string[] = []
+      for (const file of files) {
+        if (!file.endsWith('.json')) continue
+        const raw = await readFile(join(projectsDir, file), 'utf-8')
+        const project = JSON.parse(raw)
+        const name = typeof project.name === 'string' ? project.name : project.name?.en || ''
+        if (!name) continue
+        const slug = slugify(name)
+        if (slug) routes.push(`/projects/${slug}/`)
+      }
+
+      nitroConfig.prerender = nitroConfig.prerender || {}
+      nitroConfig.prerender.routes = [...(nitroConfig.prerender.routes || []), ...routes]
     }
   },
 
