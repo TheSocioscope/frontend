@@ -153,9 +153,11 @@ export default defineNuxtConfig({
   // when each project page loads the full 14MB projects collection
   nitro: {
     prerender: {
-      concurrency: 10,
-      interval: 50,
-      routes: ['/sitemap.xml']
+      concurrency: 2,
+      interval: 500,
+      routes: ['/sitemap.xml'],
+      crawlLinks: false,
+      failOnError: false,
     },
     watchOptions: {
       ignored: ['**/public/data/**']
