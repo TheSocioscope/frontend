@@ -4,7 +4,7 @@
       <v-icon class="info-icon" aria-hidden="true">mdi-email-outline</v-icon>
       <div>
         <h3>{{ $t('contact.info.email.title') }}</h3>
-        <a href="mailto:info@thesocioscope.org">info@thesocioscope.org</a>
+        <a href="mailto:thesocioscope.org@gmail.com">thesocioscope.org@gmail.com</a>
       </div>
     </div>
 
