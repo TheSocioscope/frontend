@@ -15,8 +15,8 @@
           <!-- Primary email CTA -->
           <div class="email-block">
             <p class="email-label">{{ $t('contact.info.email.title') }}</p>
-            <a href="mailto:info@thesocioscope.org" class="email-link">
-              info@thesocioscope.org
+            <a href="mailto:thesocioscope.org@gmail.com" class="email-link">
+              thesocioscope.org@gmail.com
             </a>
           </div>
 
