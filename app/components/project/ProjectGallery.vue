@@ -5,7 +5,7 @@
     <!-- Carousel when items exist -->
     <div v-if="items.length" class="carousel">
       <!-- ── Main display ─────────────────────────────── -->
-      <div class="carousel-main">
+      <div class="carousel-main" :class="{ 'carousel-main--video': current.type === 'video' }">
 
         <!-- Video -->
         <template v-if="current.type === 'video'">
@@ -51,7 +51,7 @@
           <v-icon color="white" size="22">mdi-chevron-right</v-icon>
         </button>
 
-        <!-- Thumbnail strip — bottom-left overlay -->
+        <!-- Thumbnail strip — hidden while video is active, shown on hover -->
         <div class="thumb-strip">
           <button
             v-for="(item, i) in items"
@@ -279,6 +279,17 @@ onBeforeUnmount(() => window.removeEventListener('keydown', handleKey))
 }
 
 /* ── Thumbnail strip ────────────────────────────── */
+.carousel-main--video .thumb-strip {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+}
+
+.carousel-main--video:hover .thumb-strip {
+  opacity: 1;
+  pointer-events: auto;
+}
+
 .thumb-strip {
   position: absolute;
   bottom: 12px;
