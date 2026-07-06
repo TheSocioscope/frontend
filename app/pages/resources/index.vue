@@ -9,7 +9,7 @@
     >
       <template #cta>
         <div class="hero-cta">
-          <a href="mailto:info@thesocioscope.org" class="submit-cta">
+          <a href="mailto:thesocioscope.org@gmail.com" class="submit-cta">
             <v-icon size="small">mdi-plus-circle-outline</v-icon>
             <span>{{ $t('resources.hero.submitCta') }}</span>
             <v-icon size="small" class="cta-arrow">mdi-arrow-right</v-icon>

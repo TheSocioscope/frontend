@@ -133,6 +133,10 @@
         <p>
           {{ $t('footer.copyright', { year: currentYear }) }} ·
           <NuxtLink :to="localePath('/privacy')">{{ $t('footer.privacy') }}</NuxtLink>
+          ·
+          <NuxtLink :to="localePath('/terms')">{{ $t('footer.terms') }}</NuxtLink>
+          ·
+          <NuxtLink to="/mentions-legales">{{ $t('footer.mentionsLegales') }}</NuxtLink>
         </p>
       </div>
     </div>

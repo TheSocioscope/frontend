@@ -3,92 +3,82 @@ title: Privacy Policy
 description: How we protect and handle your personal information
 slug: privacy-policy
 published: true
-lastUpdated: 2026-01-30
+lastUpdated: 2026-07-06
 ---
 
 At The Socioscope, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
 
-## Information We Collect
+The Institut d'Études Avancées de Paris (IEA), which is the data controller for the personal data described here. We handle your data in line with the EU GDPR and the French Data Protection Act.
 
-We collect information that you provide directly to us, including:
+Contact for privacy and data matters: [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) is our single point of contact for all questions and for exercising your rights; a Data Protection Officer can be reached at the same address.
 
-- **Personal Information:** Name, email address, institutional affiliation, and other contact details when you subscribe to our newsletter, contact us, or register for events.
-- **Research Data:** Information you submit when participating in our research initiatives or contributing to our database.
-- **Usage Information:** Data about how you interact with our website, including pages visited, time spent, and navigation patterns.
-- **Technical Information:** IP address, browser type, device information, and cookies for website functionality and analytics.
+## Information we collect
 
-## How We Use Your Information
+- **Contact and newsletter data:** name, email, institutional affiliation, and details you give us when you subscribe, contact us, or register for events.
+- **Research data:** information you provide when taking part in our research, collected under a separate research consent form.
+- **Initiative-page editing data:** if you suggest edits to your initiative page, your account details and email, a record of the changes you submit, and any content you send us, including images.
+- **Technical data:** IP address, browser type, device information, and cookies for website functionality and analytics.
 
-We use the information we collect to:
+## How we use your data, and our legal basis
 
-- Provide, maintain, and improve our services and research initiatives
-- Send you newsletters, updates, and information about events and opportunities
-- Respond to your inquiries, comments, and requests for information or support
-- Conduct research and analysis to advance our mission
-- Monitor and analyze usage patterns to enhance user experience
-- Detect, prevent, and address technical issues or security concerns
-- Comply with legal obligations and protect our rights
+- Sending newsletters, event invitations, and updates — your **consent**, withdrawable anytime.
+- Responding to your inquiries — our **legitimate interest** in helping you.
+- Conducting and publishing research — **scientific research / legitimate interest**, with research consent where required; for any sensitive data, the research condition under the GDPR.
+- Running and securing the website — our **legitimate interest** in a safe, working site.
+- Publishing and updating initiative pages (including suggested edits) — our **legitimate interest** in an accurate research record.
+- Meeting legal obligations.
 
-## Information Sharing and Disclosure
+You can object to processing based on legitimate interest, and withdraw any consent, at any time (see **Your rights** below).
 
-We do not sell, trade, or rent your personal information to third parties. We may share your information only in the following circumstances:
+## If you suggest edits to your initiative's page
 
-- **With Your Consent:** When you explicitly authorize us to share your information
-- **Research Partners:** With academic and research institutions for collaborative projects, under strict data protection agreements
-- **Service Providers:** With trusted third-party service providers who assist us in operating our website and conducting our research
-- **Legal Requirements:** When required by law or to protect our rights, safety, or property
+If you suggest changes, we process your account details and email, a record of the changes you submit, and any content you send us, including images — to run the platform and publish your initiative. Our team reviews suggestions before publishing; we do not use automated or language-model tools to make these editing decisions. A person reviews them.
 
-## Data Security
+## Sharing
 
-We implement appropriate technical and organizational security measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. These measures include:
+We do not sell, trade, or rent your personal data. We share it only: with research partners under data-protection agreements; with service providers who help us run the site, as our processors under contract (all currently in the EU/EEA); where required by law; or with your consent.
 
-- Encryption of data in transit and at rest
-- Regular security assessments and updates
-- Access controls and authentication procedures
-- Staff training on data protection and privacy
+## International transfers
 
-However, no method of transmission over the internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
+We currently keep your data within the EU/EEA. If we ever need to transfer it outside, we will use appropriate safeguards (such as the European Commission's Standard Contractual Clauses or a transfer to a country with an adequacy decision) and update this policy.
 
-## Cookies and Tracking Technologies
+## How long we keep your data
 
-We use cookies and similar tracking technologies to enhance your experience on our website. Cookies are small data files stored on your device that help us:
+- **Research data:** 15 years, renewable, as approved by our research ethics committee, then deleted or anonymised.
+- **Newsletter data:** until you unsubscribe.
+- **Initiative-page and account data:** as long as the page is active, can be taken off on demand.
+- **Inquiry/contact data:** as long as needed to handle your request, plus a short period.
 
-- Remember your preferences and settings
-- Understand how you use our website
-- Improve website functionality and performance
-- Provide relevant content and personalized experiences
+## Data security
 
-You can control cookie settings through your browser preferences. However, disabling cookies may limit your ability to use certain features of our website.
+We use appropriate technical and organisational measures, including encryption in transit and at rest, access controls, regular security reviews, and staff training.
 
-## Your Rights and Choices
+## Cookies
 
-You have the following rights regarding your personal information:
+We use only strictly necessary cookies required for the website to work and stay secure. We do not use analytics, advertising, or tracking cookies, and we do not need a consent banner because we set no non-essential cookies. If this ever changes, we will ask for your consent first.
 
-- **Access:** Request access to the personal information we hold about you
-- **Correction:** Request correction of inaccurate or incomplete information
-- **Deletion:** Request deletion of your personal information, subject to legal obligations
-- **Opt-Out:** Unsubscribe from marketing communications at any time
-- **Data Portability:** Request a copy of your data in a structured, machine-readable format
+## Your rights
 
-To exercise these rights, please contact us using the information provided below.
+Under the GDPR and the French Data Protection Act, you can:
 
-## Children's Privacy
+- access your data;
+- correct it;
+- erase it ("right to be forgotten"), subject to legal and research obligations;
+- restrict processing;
+- object to processing based on our legitimate interests, including direct marketing;
+- withdraw consent at any time, as easily as you gave it;
+- receive your data in a portable format.
 
-Our services are not directed to individuals under the age of 16. We do not knowingly collect personal information from children. If you become aware that a child has provided us with personal information, please contact us so we can take appropriate action.
+To exercise any of these, contact [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com).
 
-## International Data Transfers
+## Children's privacy
 
-Your information may be transferred to and processed in countries other than your country of residence. We ensure appropriate safeguards are in place to protect your information in accordance with this Privacy Policy and applicable data protection laws.
+Our services are not directed to children. In France, the minimum age to consent to online services on your own is 15; we do not knowingly collect data from children below this age without parental authorisation.
 
-## Changes to This Privacy Policy
+## Changes to this policy
 
-We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any material changes by posting the updated policy on our website and updating the "Last Updated" date. Your continued use of our services after such changes constitutes acceptance of the updated policy.
+We may update this policy; we will post the new version here and change the "Last updated" date. For significant changes, we will notify you and, where required, ask for your consent again.
 
-## Contact Us
+## Contact
 
-If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
-
-**The Socioscope**  
-Email: privacy@thesocioscope.org
-
-You can also reach us through our [contact form](/contact).
+The Socioscope · [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) · Institut d'Études Avancées de Paris (IEA), 17 quai d'Anjou, 75004 Paris, France.

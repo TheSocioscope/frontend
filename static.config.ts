@@ -12,7 +12,7 @@ export const socials = {
 }
 
 export const contact = {
-  email: 'contact@thesocioscope.org',
+  email: 'thesocioscope.org@gmail.com',
   address: ''
 }
 

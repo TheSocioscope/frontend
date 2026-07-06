@@ -229,7 +229,7 @@ const handleSubmit = async () => {
         access_key: web3formsKey,
         subject: `Connection request — ${props.localizedName} (#${proj?.pubId ?? ''})`,
         from_name: form.value.name,
-        email: form.value.email || 'noreply@thesocioscope.org',
+        email: form.value.email || 'thesocioscope.org@gmail.com',
         replyto: form.value.email || '',
         message: buildEmailBody()
       })

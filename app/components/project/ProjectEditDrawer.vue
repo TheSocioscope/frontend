@@ -680,7 +680,7 @@ const handleSubmit = async () => {
     formData.append('to', 'thesocioscope.org@gmail.com')
     formData.append('subject', `Edit suggestion — ${intro.value.name} (#${proj?.pubId ?? ''})`)
     formData.append('from_name', contacts.value[0].name)
-    formData.append('email', contacts.value[0].email || 'noreply@thesocioscope.org')
+    formData.append('email', contacts.value[0].email || 'thesocioscope.org@gmail.com')
     if (contacts.value[0].email) formData.append('replyto', contacts.value[0].email)
     formData.append('message', buildEmailBody())
 
