@@ -5,10 +5,7 @@
     <section class="section privacy-section">
       <div class="container">
         <div v-if="page" class="privacy-content">
-          <p class="last-updated">
-            {{ $t('privacy.lastUpdated') }}:
-            {{ new Date(page.lastUpdated).toLocaleDateString('fr-FR') }}
-          </p>
+          <p class="last-updated">{{ $t('privacy.lastUpdated') }}: {{ formatDate(page.lastUpdated) }}</p>
 
           <ContentRenderer :value="page" class="prose" />
         </div>
@@ -27,6 +24,15 @@ const localePath = useLocalePath()
 useHead({
   title: t('privacy.meta.title')
 })
+
+const MONTHS = ['January','February','March','April','May','June','July','August','September','October','November','December']
+const formatDate = (val: unknown) => {
+  const str = typeof val === 'string' ? val : String(val ?? '')
+  const parts = str.slice(0, 10).split('-')
+  if (parts.length !== 3) return str
+  const [y, m, d] = parts.map(Number)
+  return `${MONTHS[m - 1]} ${d}, ${y}`
+}
 
 // Fetch the privacy policy content based on current locale
 const { data: page } = await useAsyncData(
