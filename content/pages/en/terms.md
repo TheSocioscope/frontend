@@ -8,8 +8,6 @@ lastUpdated: "2026-07-06"
 
 ## Terms of Use — The Socioscope
 
-Last updated: 6 July 2026
-
 **1. Who we are.** The Socioscope is a research project of the Institut d'Études Avancées de Paris (IEA), 17 quai d'Anjou, 75004 Paris, France ("we", "us"). These Terms govern your use of thesocioscope.org (the "Site"), including suggesting edits to an initiative's page and using the Exchange board. By using the Site or submitting content, you accept these Terms.
 
 **2. Our role.** We author and publish initiative pages. Where an initiative suggests edits, we review every suggestion and decide what to publish. Content we publish is our editorial responsibility.
