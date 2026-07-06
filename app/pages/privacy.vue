@@ -7,7 +7,7 @@
         <div v-if="page" class="privacy-content">
           <p class="last-updated">
             {{ $t('privacy.lastUpdated') }}:
-            {{ new Date(page.lastUpdated).toLocaleDateString(locale) }}
+            {{ new Date(page.lastUpdated).toLocaleDateString('fr-FR') }}
           </p>
 
           <ContentRenderer :value="page" class="prose" />
