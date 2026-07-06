@@ -1,4 +1,4 @@
-﻿import { defineSitemapEventHandler, asSitemapUrl } from '#imports'
+import { defineSitemapEventHandler, asSitemapUrl } from '#imports'
 import { readdir, readFile } from 'node:fs/promises'
 import { join } from 'node:path'
 
