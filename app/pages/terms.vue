@@ -5,7 +5,7 @@
     <section class="section legal-section">
       <div class="container">
         <div v-if="page" class="legal-content">
-          <p class="last-updated">{{ $t('privacy.lastUpdated') }}: {{ formatDate(page.lastUpdated) }}</p>
+          <p class="last-updated">{{ $t('privacy.lastUpdated') }}: July 6, 2026</p>
 
           <ContentRenderer :value="page" class="prose" />
         </div>
