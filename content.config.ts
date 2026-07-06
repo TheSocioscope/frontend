@@ -12,7 +12,8 @@ export default defineContentConfig({
         image: z.string().optional(),
         published: z.boolean().default(true),
         publishedAt: z.date().optional(),
-        updatedAt: z.date().optional()
+        updatedAt: z.date().optional(),
+        lastUpdated: z.string().optional()
       })
     }),
 
