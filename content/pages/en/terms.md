@@ -3,7 +3,7 @@ title: Terms of Use
 description: Terms governing your use of The Socioscope website
 slug: terms
 published: true
-lastUpdated: 2026-07-06
+lastUpdated: "2026-07-06"
 ---
 
 ## Terms of Use — The Socioscope

@@ -3,7 +3,7 @@ title: Mentions légales
 description: Informations légales relatives au site web du Socioscope
 slug: mentions-legales
 published: true
-lastUpdated: 2026-07-06
+lastUpdated: "2026-07-06"
 ---
 
 ## Éditeur du site

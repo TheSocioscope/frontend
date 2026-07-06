@@ -3,7 +3,7 @@ title: Privacy Policy
 description: How we protect and handle your personal information
 slug: privacy-policy
 published: true
-lastUpdated: 2026-07-06
+lastUpdated: "2026-07-06"
 ---
 
 At The Socioscope, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
@@ -37,6 +37,10 @@ If you suggest changes, we process your account details and email, a record of t
 ## Sharing
 
 We do not sell, trade, or rent your personal data. We share it only: with research partners under data-protection agreements; with service providers who help us run the site, as our processors under contract (all currently in the EU/EEA); where required by law; or with your consent.
+
+## Connect requests
+
+If you use the Connect button to reach another initiative, we process your message and your contact details in order to review it and forward it on your behalf. We do this to run the platform and protect privacy.
 
 ## International transfers
 
