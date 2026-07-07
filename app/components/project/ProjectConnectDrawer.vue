@@ -33,18 +33,6 @@
 
           <!-- Body -->
           <div class="drawer-body">
-            <p class="drawer-intro">
-              <v-icon size="small" class="intro-icon">mdi-information-outline</v-icon>
-              <span>
-                {{
-                  $t(
-                    'projects.detail.connectIntro',
-                    "We'll forward your message to the team — they'll respond directly."
-                  )
-                }}
-              </span>
-            </p>
-
             <div class="form-group">
               <label>{{ $t('projects.detail.connectName', 'Your name') }} *</label>
               <input v-model="form.name" type="text" placeholder="Jane Smith" />
@@ -72,8 +60,34 @@
               }}
             </p>
 
-            <div class="form-group">
-              <label>{{ $t('projects.detail.connectReason', 'Why do you want to connect?') }} *</label>
+            <!-- How connecting works box — shown before send, replaced by confirmation after -->
+            <div v-if="!submitted" class="connect-info-box">
+              <p class="connect-info-title">
+                <v-icon size="small" class="connect-info-icon">mdi-information-outline</v-icon>
+                {{ $t('projects.detail.connectHowTitle', 'How connecting works') }}
+              </p>
+              <p class="connect-info-body">
+                {{
+                  $t(
+                    'projects.detail.connectHowBody',
+                    "To protect everyone's privacy, initiatives don't contact each other directly. Your message comes to the Socioscope first — we review it and pass it on to the initiative you'd like to reach. It's then up to them to reply. We don't share anyone's contact details; only the message you choose to send."
+                  )
+                }}
+              </p>
+            </div>
+            <div v-else class="connect-info-box connect-info-box--confirmation">
+              <p class="connect-info-body">
+                {{
+                  $t(
+                    'projects.detail.connectConfirmation',
+                    "Thanks — we've received your message and will forward it to the initiative. If they'd like to connect, they'll get in touch. We never pass on contact details you haven't chosen to share."
+                  )
+                }}
+              </p>
+            </div>
+
+            <div v-if="!submitted" class="form-group">
+              <label>{{ $t('projects.detail.connectReason', 'Your message') }} *</label>
               <textarea
                 v-model="form.reason"
                 rows="3"
@@ -454,6 +468,49 @@ const handleClose = () => emit('close')
     padding: 12px 16px 14px;
     overflow-y: visible;
   }
+}
+
+.connect-info-box {
+  background: $earth-5;
+  border: 1px solid $border-soft;
+  border-left: 3px solid $green-leaf;
+  border-radius: 6px;
+  padding: 12px 14px;
+  margin-bottom: 14px;
+
+  @media (max-width: 600px) {
+    padding: 10px 12px;
+    margin-bottom: 10px;
+  }
+
+  &--confirmation {
+    border-left-color: $green-forest;
+    background: lighten($earth-5, 2%);
+  }
+}
+
+.connect-info-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $green-forest;
+  margin: 0 0 6px;
+}
+
+.connect-info-icon {
+  color: $green-leaf;
+  flex-shrink: 0;
+}
+
+.connect-info-body {
+  font-size: 0.8125rem;
+  line-height: 1.55;
+  color: $text-secondary;
+  margin: 0;
 }
 
 .drawer-intro {
