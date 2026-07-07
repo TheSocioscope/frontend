@@ -379,7 +379,62 @@
               </div>
               <p v-if="listening" class="listening-hint">{{ $t('editDrawer.listeningHint') }}</p>
             </section>
+
+            <div class="section-divider" />
+
+            <!-- ── 10. TERMS ACCEPTANCE ───────────────────────────────────── -->
+            <section class="edit-section terms-section">
+              <label class="terms-checkbox-label">
+                <input v-model="termsAccepted" type="checkbox" class="terms-checkbox" />
+                <span>
+                  I accept the
+                  <button type="button" class="terms-link" @click="showTermsModal = true">terms and conditions</button>
+                </span>
+              </label>
+              <p v-if="showValidation && !termsAccepted" class="validation-error">
+                Please accept the terms and conditions before submitting.
+              </p>
+            </section>
           </div>
+
+          <!-- Terms modal -->
+          <Teleport to="body">
+            <Transition name="fade">
+              <div v-if="showTermsModal" class="terms-modal-overlay" @click="showTermsModal = false">
+                <div class="terms-modal" @click.stop>
+                  <div class="terms-modal-header">
+                    <h3>Terms and Conditions</h3>
+                    <button type="button" class="terms-modal-close" @click="showTermsModal = false">&times;</button>
+                  </div>
+                  <div class="terms-modal-body">
+                    <p><strong>1. Who we are.</strong> The Socioscope is a research project of the Institut d'Études Avancées de Paris (IEA), 17 quai d'Anjou, 75004 Paris, France ("we", "us"). These Terms govern your use of thesocioscope.org (the "Site"), including suggesting edits to an initiative's page and using the Exchange board. By using the Site or submitting content, you accept these Terms.</p>
+                    <p><strong>2. Our role.</strong> We author and publish initiative pages. Where an initiative suggests edits, we review every suggestion and decide what to publish. Content we publish is our editorial responsibility.</p>
+                    <p><strong>3. Suggesting edits to your initiative's page.</strong> You may suggest changes to the page of an initiative you represent. When you do, you agree that:</p>
+                    <ul>
+                      <li>the information is truthful and about your own initiative;</li>
+                      <li>you will not include photos or video of people who have not agreed to appear on the Socioscope and have signed consent forms;</li>
+                      <li>you will not include sensitive personal information about anyone (health, religion, ethnicity, political opinions, trade-union membership, sexual life, or similar);</li>
+                      <li>you will not submit anything unlawful, misleading, defamatory, or infringing.</li>
+                    </ul>
+                    <p>We review suggestions before publishing and may edit, decline, or remove content that doesn't meet these Terms. Submitting a suggestion is a request to publish; it does not guarantee publication.</p>
+                    <p><strong>4. Licence to the content you submit.</strong> So that we can run the Site and carry out and share our research, you grant IEA a non-exclusive, worldwide, royalty-free licence to host, store, reproduce, display, translate, adapt, and use the text, images, and other materials you submit, on the Site and in connection with the Socioscope research project, including sharing with academic research partners under data-protection agreements. This licence continues for materials already used in published research even if your page is later removed; otherwise it ends when the content is removed.</p>
+                    <p><strong>5. The Exchange board.</strong> The Exchange board lets initiatives share what they offer and seek. You must not post unlawful, fraudulent, or misleading listings. We offer the board as a service; we do not vet, endorse, recommend, or facilitate any listing. We review listings before publishing and may decline or remove them.</p>
+                    <p><strong>6. Acceptable use.</strong> Do not misuse the Site: no unlawful, infringing, harmful, or deceptive activity; no attempts to access accounts or data that aren't yours; no disruption of the Site.</p>
+                    <p><strong>7. Intellectual property.</strong> Content we author, including researcher-documented material, belongs to IEA or its licensors and may not be reused without permission, except as the law allows.</p>
+                    <p><strong>8. Disclaimers and liability.</strong> The Site is provided for research and information. To the extent permitted by French law, we make no warranties about the accuracy or completeness of initiative-supplied content and exclude liability for it.</p>
+                    <p><strong>9. Data protection.</strong> We handle personal data as described in our Privacy Policy.</p>
+                    <p><strong>10. Governing law.</strong> These Terms are governed by French law, and disputes fall under the competent French courts.</p>
+                    <p><strong>11. Contact.</strong> thesocioscope.org@gmail.com · IEA, 17 quai d'Anjou, 75004 Paris, France.</p>
+                  </div>
+                  <div class="terms-modal-footer">
+                    <button type="button" class="terms-accept-btn" @click="termsAccepted = true; showTermsModal = false">
+                      Accept and close
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </Transition>
+          </Teleport>
 
           <!-- Footer -->
           <div class="drawer-footer">
@@ -447,6 +502,8 @@ const submitted = ref(false)
 const submitting = ref(false)
 const submitError = ref('')
 const showValidation = ref(false)
+const termsAccepted = ref(false)
+const showTermsModal = ref(false)
 
 // ── initData ─────────────────────────────────────────────────────────────────
 const initData = () => {
@@ -483,6 +540,7 @@ const initData = () => {
   }))
   comments.value = ''
   submitted.value = false
+  termsAccepted.value = false
   submitError.value = ''
   showValidation.value = false
 }
@@ -668,7 +726,7 @@ const buildEmailBody = (): string => {
 // ── handleSubmit ──────────────────────────────────────────────────────────────
 const handleSubmit = async () => {
   showValidation.value = true
-  if (!isValid.value) return
+  if (!isValid.value || !termsAccepted.value) return
 
   submitting.value = true
   submitError.value = ''
@@ -1400,6 +1458,151 @@ const toggleSpeech = () => {
   color: #e53935;
   margin: 0.3rem 0 0;
   font-style: italic;
+}
+
+.terms-section {
+  padding-bottom: 0.5rem;
+}
+
+.terms-checkbox-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 0.9rem;
+  color: $text-primary;
+  cursor: pointer;
+  line-height: 1.5;
+}
+
+.terms-checkbox {
+  margin-top: 2px;
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  accent-color: $green-leaf;
+  cursor: pointer;
+}
+
+.terms-link {
+  background: none;
+  border: none;
+  padding: 0;
+  color: $green-forest;
+  font-size: inherit;
+  font-family: inherit;
+  font-weight: 600;
+  text-decoration: underline;
+  cursor: pointer;
+
+  &:hover {
+    color: $green-leaf;
+  }
+}
+
+.terms-modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(44, 36, 22, 0.55);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.terms-modal {
+  background: white;
+  border-radius: 10px;
+  width: 100%;
+  max-width: 640px;
+  max-height: 85dvh;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 12px 48px rgba(0, 0, 0, 0.22);
+}
+
+.terms-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px 14px;
+  border-bottom: 1px solid $border-soft;
+  flex-shrink: 0;
+
+  h3 {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: $green-forest;
+    font-family: $font-family-display;
+  }
+}
+
+.terms-modal-close {
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  line-height: 1;
+  color: $text-secondary;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 4px;
+
+  &:hover {
+    background: $earth-5;
+    color: $text-primary;
+  }
+}
+
+.terms-modal-body {
+  overflow-y: auto;
+  padding: 20px 24px;
+  flex: 1;
+  font-size: 0.875rem;
+  line-height: 1.7;
+  color: $text-primary;
+
+  p {
+    margin: 0 0 0.85rem;
+  }
+
+  ul {
+    margin: 0.25rem 0 0.85rem 1.5rem;
+    padding: 0;
+
+    li {
+      margin-bottom: 0.35rem;
+    }
+  }
+
+  strong {
+    color: $green-forest;
+  }
+}
+
+.terms-modal-footer {
+  padding: 14px 24px 18px;
+  border-top: 1px solid $border-soft;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.terms-accept-btn {
+  background: $green-leaf;
+  color: white;
+  border: none;
+  padding: 10px 22px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  font-family: $font-family-base;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.15s;
+
+  &:hover {
+    background: $green-leaf-dark;
+  }
 }
 
 @keyframes pulse {
