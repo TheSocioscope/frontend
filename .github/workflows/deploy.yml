@@ -36,6 +36,44 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=6144
 
+      # Prerendering runs with failOnError:false so one bad page cannot sink the
+      # whole build. That also means a silently-empty build would deploy happily,
+      # which is how every top-level page 404'd for two months. Fail loudly instead.
+      - name: Verify prerender output
+        run: |
+          missing=0
+          pages="about contact faq mentions-legales methodology press privacy products projects projects/submit research resources stories team terms"
+          for prefix in "" "fr/" "es/" "de/"; do
+            if [ ! -f ".output/public/${prefix}index.html" ]; then
+              echo "MISSING: /${prefix}"
+              missing=1
+            fi
+            for page in $pages; do
+              if [ ! -f ".output/public/${prefix}${page}/index.html" ]; then
+                echo "MISSING: /${prefix}${page}/"
+                missing=1
+              fi
+            done
+          done
+
+          count=$(find .output/public/projects -mindepth 1 -maxdepth 1 -type d | wc -l)
+          echo "Prerendered project pages: $count"
+          if [ "$count" -lt 600 ]; then
+            echo "MISSING: expected at least 600 project pages, found $count"
+            missing=1
+          fi
+
+          if [ ! -f .output/public/sitemap_index.xml ]; then
+            echo "MISSING: /sitemap_index.xml"
+            missing=1
+          fi
+
+          if [ "$missing" -ne 0 ]; then
+            echo "::error::Prerender output is incomplete — refusing to deploy a broken site."
+            exit 1
+          fi
+          echo "All critical pages present."
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

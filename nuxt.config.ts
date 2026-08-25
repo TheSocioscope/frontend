@@ -88,9 +88,10 @@ export default defineNuxtConfig({
     }
   },
 
-  // Image configuration
+  // Image configuration. GitHub Pages is a static host with no IPX server,
+  // so optimizer URLs (/_ipx/...) 404 in production — serve raw image paths.
   image: {
-    baseURL: process.env.NODE_ENV === 'production' ? 'https://thesocioscope.org' : ''
+    provider: 'none'
   },
 
   // Runtime config — feature flags
@@ -155,7 +156,6 @@ export default defineNuxtConfig({
     prerender: {
       concurrency: 2,
       interval: 500,
-      routes: ['/sitemap.xml'],
       crawlLinks: false,
       failOnError: false,
     },
@@ -181,7 +181,33 @@ export default defineNuxtConfig({
       const projectsDir = join(process.cwd(), 'content', 'projects')
       const files = await readdir(projectsDir)
 
-      const routes: string[] = []
+      // Static pages. crawlLinks is disabled (it caused OOM on the CI runner),
+      // so every route must be listed here explicitly — anything missing from
+      // this list is not written to .output/public and 404s in production.
+      const staticPages = [
+        '/',
+        '/about/',
+        '/contact/',
+        '/faq/',
+        '/mentions-legales/',
+        '/methodology/',
+        '/press/',
+        '/privacy/',
+        '/products/',
+        '/projects/',
+        '/projects/submit/',
+        '/research/',
+        '/resources/',
+        '/stories/',
+        '/team/',
+        '/terms/'
+      ]
+      const prefixedLocales = ['fr', 'es', 'de']
+
+      const routes: string[] = [
+        ...staticPages,
+        ...prefixedLocales.flatMap((locale) => staticPages.map((path) => `/${locale}${path}`))
+      ]
       for (const file of files) {
         if (!file.endsWith('.json')) continue
         const raw = await readFile(join(projectsDir, file), 'utf-8')
