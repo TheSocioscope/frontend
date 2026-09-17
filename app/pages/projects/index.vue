@@ -7,11 +7,32 @@
       compact
       centered
     >
-      <template v-if="hasActiveFilters" #cta>
-        <button type="button" class="clear-all-btn" @click="resetFilters">
-          <v-icon size="small">mdi-close-circle-outline</v-icon>
-          {{ $t('projects.clearAllFilters', 'Clear all filters') }}
-        </button>
+      <template #cta>
+        <!-- Derived from the projects collection, so it updates automatically
+             whenever an initiative JSON file is added or removed -->
+        <div class="hero-meta">
+          <p v-if="projects.length" class="initiative-count" aria-live="polite">
+            <v-icon size="small">mdi-sprout</v-icon>
+            <span v-if="hasActiveFilters">
+              {{
+                $t('projects.filteredCount', {
+                  shown: filteredProjects.length,
+                  total: projects.length
+                })
+              }}
+            </span>
+            <span v-else>{{ $t('projects.totalCount', projects.length) }}</span>
+          </p>
+          <button
+            v-if="hasActiveFilters"
+            type="button"
+            class="clear-all-btn"
+            @click="resetFilters"
+          >
+            <v-icon size="small">mdi-close-circle-outline</v-icon>
+            {{ $t('projects.clearAllFilters', 'Clear all filters') }}
+          </button>
+        </div>
       </template>
     </PageHero>
 
@@ -958,6 +979,28 @@ useHead(computed(() => ({
 }
 
 /* Clear all filters — only renders when any filter is active. */
+.hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  margin-top: 1rem;
+}
+
+.initiative-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0;
+  padding: 0.4rem 0.9rem;
+  background: rgba(76, 160, 73, 0.1);
+  border-radius: 999px;
+  color: $green-bright;
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
 .clear-all-btn {
   display: inline-flex;
   align-items: center;
@@ -972,7 +1015,6 @@ useHead(computed(() => ({
   font-weight: 600;
   cursor: pointer;
   flex-shrink: 0;
-  margin-top: 1rem;
   transition: border-color 0.15s, color 0.15s, background 0.15s;
 
   &:hover {
