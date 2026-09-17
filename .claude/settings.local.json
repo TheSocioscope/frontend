@@ -51,7 +51,14 @@
       "Bash(cd \"C:\\\\Users\\\\vfournand\\\\Desktop\" && python create_summary_doc.py)",
       "Bash(/c/Users/vfournand/AppData/Local/Programs/Python/Python313/python.exe --version)",
       "Bash(/c/Users/vfournand/AppData/Local/Programs/Python/Python313/python.exe create_summary_doc.py)",
-      "Bash(yarn dev *)"
+      "Bash(yarn dev *)",
+      "PowerShell(if \\($LASTEXITCODE -ne 0\\) { \"gh not found\" })",
+      "mcp__visualize__show_widget",
+      "Bash(xxd)",
+      "Read(//c/Users/vfournand/AppData/Roaming/Claude/local-agent-mode-sessions/skills-plugin/758b4c12-10b8-4499-b60d-8adb5eb40b72/f9fd0f3b-a3c6-412e-862d-afd1d08e9883/skills/docx/**)",
+      "Bash(extract-text \"C:\\\\Users\\\\vfournand\\\\Downloads\\\\Socioscope_Website Copy for GDPR and CNIL.docx\")",
+      "PowerShell(pandoc \"C:\\\\Users\\\\vfournand\\\\Downloads\\\\Socioscope_Website Copy for GDPR and CNIL.docx\" -t markdown 2>&1)",
+      "PowerShell(Select-String -Pattern \"postobon|postob\" -List -CaseSensitive:$false)"
     ]
   }
 }
