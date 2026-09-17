@@ -12,7 +12,7 @@ export const socials = {
 }
 
 export const contact = {
-  email: 'thesocioscope.org@gmail.com',
+  email: 'thesocioscope@paris-iea.fr',
   address: ''
 }
 

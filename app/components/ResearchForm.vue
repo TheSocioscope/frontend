@@ -358,7 +358,7 @@ ${form.value.notes ? `\nADDITIONAL NOTES:\n${form.value.notes}` : ''}
 
     const formData = new FormData()
     formData.append('access_key', web3formsKey)
-    formData.append('to', 'thesocioscope.org@gmail.com')
+    formData.append('to', 'thesocioscope@paris-iea.fr')
     formData.append('subject', `Food Socioscope Research Request — ${form.value.initiativeName}`)
     formData.append('from_name', form.value.name)
     formData.append('email', form.value.email)

@@ -89,6 +89,6 @@ Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren, um Ände
 Wenn Sie Fragen, Bedenken oder Anfragen bezüglich dieser Datenschutzerklärung oder unserer Datenpraktiken haben, kontaktieren Sie uns bitte unter:
 
 **The Socioscope**  
-E-Mail: privacy@thesocioscope.org
+E-Mail: thesocioscope@paris-iea.fr
 
 Sie können uns auch über unser [Kontaktformular](/contact) erreichen.

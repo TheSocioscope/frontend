@@ -89,6 +89,6 @@ Nous pouvons mettre à jour cette Politique de confidentialité de temps à autr
 Si vous avez des questions, des préoccupations ou des demandes concernant cette Politique de confidentialité ou nos pratiques en matière de données, veuillez nous contacter à :
 
 **The Socioscope**  
-E-mail : privacy@thesocioscope.org
+E-mail : thesocioscope@paris-iea.fr
 
 Vous pouvez également nous joindre via notre [formulaire de contact](/contact).

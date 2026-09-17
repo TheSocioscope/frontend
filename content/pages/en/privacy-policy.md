@@ -10,7 +10,7 @@ At The Socioscope, we are committed to protecting your privacy and ensuring the 
 
 The Institut d'Études Avancées de Paris (IEA), which is the data controller for the personal data described here. We handle your data in line with the EU GDPR and the French Data Protection Act.
 
-Contact for privacy and data matters: [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) is our single point of contact for all questions and for exercising your rights; a Data Protection Officer can be reached at the same address.
+Contact for privacy and data matters: [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr) is our single point of contact for all questions and for exercising your rights; a Data Protection Officer can be reached at the same address.
 
 ## Information we collect
 
@@ -73,7 +73,7 @@ Under the GDPR and the French Data Protection Act, you can:
 - withdraw consent at any time, as easily as you gave it;
 - receive your data in a portable format.
 
-To exercise any of these, contact [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com).
+To exercise any of these, contact [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr).
 
 ## Children's privacy
 
@@ -85,4 +85,4 @@ We may update this policy; we will post the new version here and change the "Las
 
 ## Contact
 
-The Socioscope · [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) · Institut d'Études Avancées de Paris (IEA), 17 quai d'Anjou, 75004 Paris, France.
+The Socioscope · [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr) · Institut d'Études Avancées de Paris (IEA), 17 quai d'Anjou, 75004 Paris, France.

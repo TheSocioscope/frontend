@@ -16,7 +16,7 @@ export const useStructuredData = () => {
     ],
     contactPoint: {
       '@type': 'ContactPoint',
-      email: 'thesocioscope.org@gmail.com',
+      email: 'thesocioscope@paris-iea.fr',
       contactType: 'Customer Support'
     }
   }

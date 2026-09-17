@@ -89,6 +89,6 @@ Podemos actualizar esta Política de privacidad de vez en cuando para reflejar c
 Si tiene preguntas, inquietudes o solicitudes con respecto a esta Política de privacidad o nuestras prácticas de datos, contáctenos en:
 
 **The Socioscope**  
-Correo electrónico: privacy@thesocioscope.org
+Correo electrónico: thesocioscope@paris-iea.fr
 
 También puede contactarnos a través de nuestro [formulario de contacto](/contact).

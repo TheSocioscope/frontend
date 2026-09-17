@@ -13,7 +13,7 @@ Association loi 1901
 Siège social : 17, quai d'Anjou, 75004 Paris  
 Siret : 530 056 530 000 39  
 Téléphone : + 33 (0)1 56 81 00 52  
-Mail : [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com)
+Mail : [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr)
 
 ## Droit d'auteur – Copyright
 
@@ -25,7 +25,7 @@ L'Institut d'études avancées de Paris (IEA) s'engage à ce que la collecte et 
 
 Les données personnelles recueillies dans le cadre des services proposés sur www.paris-iea.fr sont traitées selon des protocoles sécurisés et permettent à la IEA de gérer les demandes reçues dans ses applications informatiques.
 
-Pour toute information ou exercice de vos droits Informatique et Libertés sur les traitements de données personnelles gérés par la IEA, vous pouvez contacter son correspondant informatique et libertés par mail : [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) ou par courrier signé accompagné de la copie d'un titre d'identité à l'adresse suivante :
+Pour toute information ou exercice de vos droits Informatique et Libertés sur les traitements de données personnelles gérés par la IEA, vous pouvez contacter son correspondant informatique et libertés par mail : [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr) ou par courrier signé accompagné de la copie d'un titre d'identité à l'adresse suivante :
 
 Institut d'études avancées de Paris  
 17 quai d'Anjou  

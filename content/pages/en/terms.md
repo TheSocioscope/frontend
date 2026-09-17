@@ -37,4 +37,4 @@ We review suggestions before publishing and may edit, decline, or remove content
 
 **11. Governing law.** These Terms are governed by French law, and disputes fall under the competent French courts, subject to any mandatory consumer protections.
 
-**12. Contact.** [thesocioscope.org@gmail.com](mailto:thesocioscope.org@gmail.com) · IEA, 17 quai d'Anjou, 75004 Paris, France.
+**12. Contact.** [thesocioscope@paris-iea.fr](mailto:thesocioscope@paris-iea.fr) · IEA, 17 quai d'Anjou, 75004 Paris, France.

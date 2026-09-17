@@ -424,7 +424,7 @@
                     <p><strong>8. Disclaimers and liability.</strong> The Site is provided for research and information. To the extent permitted by French law, we make no warranties about the accuracy or completeness of initiative-supplied content and exclude liability for it.</p>
                     <p><strong>9. Data protection.</strong> We handle personal data as described in our Privacy Policy.</p>
                     <p><strong>10. Governing law.</strong> These Terms are governed by French law, and disputes fall under the competent French courts.</p>
-                    <p><strong>11. Contact.</strong> thesocioscope.org@gmail.com · IEA, 17 quai d'Anjou, 75004 Paris, France.</p>
+                    <p><strong>11. Contact.</strong> thesocioscope@paris-iea.fr · IEA, 17 quai d'Anjou, 75004 Paris, France.</p>
                   </div>
                   <div class="terms-modal-footer">
                     <button type="button" class="terms-accept-btn" @click="termsAccepted = true; showTermsModal = false">
@@ -735,10 +735,10 @@ const handleSubmit = async () => {
     const proj = props.project as any
     const formData = new FormData()
     formData.append('access_key', web3formsKey)
-    formData.append('to', 'thesocioscope.org@gmail.com')
+    formData.append('to', 'thesocioscope@paris-iea.fr')
     formData.append('subject', `Edit suggestion — ${intro.value.name} (#${proj?.pubId ?? ''})`)
     formData.append('from_name', contacts.value[0].name)
-    formData.append('email', contacts.value[0].email || 'thesocioscope.org@gmail.com')
+    formData.append('email', contacts.value[0].email || 'thesocioscope@paris-iea.fr')
     if (contacts.value[0].email) formData.append('replyto', contacts.value[0].email)
     formData.append('message', buildEmailBody())
 
