@@ -26,9 +26,7 @@ const config = useRuntimeConfig()
 
 // Initiative count comes from the projects collection (same source as the
 // projects page), so it updates automatically when an initiative is added
-const { data: projectCount } = await useAsyncData('projects-count', () =>
-  queryCollection('projects').count()
-)
+const projectCount = await useInitiativeCount()
 
 // Load real stats
 const overallStats = ref<OverallStats | null>(null)
@@ -73,9 +71,9 @@ const stats = computed(() => {
 
   return [
     {
-      number: `${projectCount.value ?? 0}`,
+      number: `${projectCount.value}`,
       label: $t('stats.card1.label'),
-      target: projectCount.value ?? 0
+      target: projectCount.value
     },
     {
       number: '35+',

@@ -30,7 +30,7 @@
               <div class="stat-label">{{ $t('press.mediaKit.stats.countriesLabel') }}</div>
             </div>
             <div class="stat-item">
-              <div class="stat-number">{{ $t('press.mediaKit.stats.initiatives') }}</div>
+              <div class="stat-number">{{ initiativeCount }}</div>
               <div class="stat-label">{{ $t('press.mediaKit.stats.initiativesLabel') }}</div>
             </div>
             <div class="stat-item">
@@ -62,6 +62,7 @@
 
 <script setup lang="ts">
 const { t: $t } = useI18n()
+const initiativeCount = await useInitiativeCount()
 
 const shareMediaKit = () => {
   const url = window.location.origin + '/Socioscope Media Kit.pdf'

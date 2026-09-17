@@ -942,20 +942,23 @@ const getRowDescription = (project: any) => {
   return firstLine.length > 120 ? firstLine.slice(0, 120) + '…' : firstLine
 }
 
+const metaDescription = computed(
+  () =>
+    `Browse ${projects.value.length} sustainable food system initiatives from around the world. Filter by country, theme, and sector to discover transformative projects documented by The Socioscope.`
+)
+
 useHead(computed(() => ({
   title: $t('nav.projects'),
   link: [{ rel: 'canonical', href: 'https://thesocioscope.org/projects/' }],
   meta: [
     {
       name: 'description',
-      content:
-        'Browse 700+ sustainable food system initiatives from around the world. Filter by country, theme, and sector to discover transformative projects documented by The Socioscope.'
+      content: metaDescription.value
     },
     { property: 'og:title', content: `${$t('nav.projects')} – The Socioscope` },
     {
       property: 'og:description',
-      content:
-        'Browse 700+ sustainable food system initiatives from around the world. Filter by country, theme, and sector to discover transformative projects documented by The Socioscope.'
+      content: metaDescription.value
     },
     { property: 'og:type', content: 'website' },
     { property: 'og:url', content: 'https://thesocioscope.org/projects/' },
