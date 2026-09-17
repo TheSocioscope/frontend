@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Document / memo sheet -->
+  <rect x="14" y="8" width="44" height="56" rx="3" fill="#fffbf0" stroke="#c8b68a" stroke-width="1.5"/>
+  <!-- Folded corner -->
+  <path d="M46 8 L58 20 L46 20 Z" fill="#e5d9c1"/>
+  <path d="M46 8 L46 20 L58 20" stroke="#c8b68a" stroke-width="1.5" fill="none"/>
+  <!-- Text lines -->
+  <line x1="21" y1="28" x2="51" y2="28" stroke="#c8b68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="21" y1="35" x2="51" y2="35" stroke="#c8b68a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="21" y1="42" x2="44" y2="42" stroke="#c8b68a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Checkmarks -->
+  <circle cx="26" cy="52" r="5" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <path d="M23.5 52 l2 2 l4-4" stroke="#4ca049" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Star badge -->
+  <path d="M44 47 l1.8 3.6 l3.9 0.5 l-2.8 2.8 l0.65 4 L44 55.9 l-3.55 1.9 l0.65-4 L38.3 51l3.9-0.5z" fill="#d49b3a" opacity="0.9"/>
+  <!-- "3-4" mini indicators -->
+  <circle cx="56" cy="62" r="8" fill="#4ca049"/>
+  <text x="56" y="66" font-family="sans-serif" font-size="8" font-weight="700" fill="white" text-anchor="middle">✓</text>
+</svg>

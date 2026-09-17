@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Stack of report pages -->
+  <rect x="18" y="18" width="40" height="50" rx="3" fill="#f0e7cf" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="14" y="14" width="40" height="50" rx="3" fill="#fffbf0" stroke="#c8b68a" stroke-width="1.5"/>
+  <!-- Folded corner -->
+  <path d="M42 14 L54 26 L42 26 Z" fill="#e5d9c1"/>
+  <path d="M42 14 L42 26 L54 26" stroke="#c8b68a" stroke-width="1.5" fill="none"/>
+  <!-- Bar chart inside -->
+  <rect x="20" y="46" width="5" height="10" rx="1" fill="#4ca049" opacity="0.7"/>
+  <rect x="27" y="40" width="5" height="16" rx="1" fill="#4ca049" opacity="0.85"/>
+  <rect x="34" y="36" width="5" height="20" rx="1" fill="#4ca049"/>
+  <rect x="41" y="43" width="5" height="13" rx="1" fill="#6b8e23" opacity="0.8"/>
+  <!-- Title lines -->
+  <line x1="20" y1="32" x2="46" y2="32" stroke="#a68968" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="20" y1="37" x2="38" y2="37" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <!-- "80" badge -->
+  <circle cx="58" cy="62" r="10" fill="#27421d"/>
+  <text x="58" y="66.5" font-family="sans-serif" font-size="8.5" font-weight="700" fill="white" text-anchor="middle">80</text>
+</svg>

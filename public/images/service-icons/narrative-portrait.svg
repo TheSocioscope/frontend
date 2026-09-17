@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Case study document -->
+  <rect x="10" y="8" width="46" height="60" rx="3" fill="#fffbf0" stroke="#c8b68a" stroke-width="1.5"/>
+  <!-- Folded corner -->
+  <path d="M44 8 L56 20 L44 20 Z" fill="#e5d9c1"/>
+  <path d="M44 8 L44 20 L56 20" stroke="#c8b68a" stroke-width="1.5" fill="none"/>
+  <!-- Photo placeholder at top -->
+  <rect x="16" y="15" width="22" height="16" rx="2" fill="#e5f4e5" stroke="#4ca049" stroke-width="1"/>
+  <!-- Person silhouette inside photo -->
+  <circle cx="27" cy="20" r="3.5" fill="#4ca049" opacity="0.6"/>
+  <path d="M19 31 Q27 25 35 31" fill="#4ca049" opacity="0.5"/>
+  <!-- Title line -->
+  <line x1="16" y1="38" x2="50" y2="38" stroke="#27421d" stroke-width="2" stroke-linecap="round"/>
+  <!-- Body text lines -->
+  <line x1="16" y1="44" x2="50" y2="44" stroke="#c8b68a" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="16" y1="49" x2="50" y2="49" stroke="#c8b68a" stroke-width="1.2" stroke-linecap="round"/>
+  <line x1="16" y1="54" x2="42" y2="54" stroke="#c8b68a" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Polish star badge -->
+  <circle cx="62" cy="62" r="12" fill="#d49b3a"/>
+  <path d="M62 54 l1.8 5.5 h5.8 l-4.7 3.4 1.8 5.5L62 65l-4.7 3.4 1.8-5.5-4.7-3.4h5.8z" fill="white" opacity="0.9"/>
+</svg>

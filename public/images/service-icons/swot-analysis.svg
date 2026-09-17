@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- SWOT 2x2 grid -->
+  <rect x="8" y="8" width="30" height="30" rx="3" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <rect x="42" y="8" width="30" height="30" rx="3" fill="#fff8e7" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="8" y="42" width="30" height="30" rx="3" fill="#fff8e7" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="42" y="42" width="30" height="30" rx="3" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <!-- S label — star/check -->
+  <path d="M23 18 l2 4 l4.5 0.5 l-3.25 3.1 l0.75 4.4 L23 27.8 l-4 2.2 l0.75-4.4L16.5 22.5l4.5-0.5z" fill="#4ca049" opacity="0.85"/>
+  <!-- W label — down arrow -->
+  <path d="M57 19 l0 10 M53 25 l4 5 l4-5" stroke="#a87420" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- O label — upward arrow -->
+  <path d="M23 62 l0-10 M19 56 l4-5 l4 5" stroke="#4ca049" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- T label — lightning bolt -->
+  <path d="M60 44 l-4 8 l3 0 l-3 8 l7-9 l-3.5 0 z" fill="#b8552a" opacity="0.85"/>
+  <!-- tiny labels -->
+  <text x="11" y="41.5" font-family="sans-serif" font-size="5.5" font-weight="700" fill="#27421d" opacity="0.6">S</text>
+  <text x="45" y="41.5" font-family="sans-serif" font-size="5.5" font-weight="700" fill="#27421d" opacity="0.6">W</text>
+  <text x="11" y="74" font-family="sans-serif" font-size="5.5" font-weight="700" fill="#27421d" opacity="0.6">O</text>
+  <text x="45" y="74" font-family="sans-serif" font-size="5.5" font-weight="700" fill="#27421d" opacity="0.6">T</text>
+</svg>

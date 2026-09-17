@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Horizontal timeline spine -->
+  <line x1="10" y1="40" x2="70" y2="40" stroke="#c8b68a" stroke-width="2"/>
+  <!-- Arrow end -->
+  <polygon points="70,40 63,36 63,44" fill="#c8b68a"/>
+  <!-- Milestone nodes -->
+  <circle cx="18" cy="40" r="5" fill="#f0e7cf" stroke="#a68968" stroke-width="1.5"/>
+  <circle cx="35" cy="40" r="5" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <circle cx="52" cy="40" r="6" fill="#4ca049" stroke="#27421d" stroke-width="1.5"/>
+  <!-- Vertical connectors + labels above/below -->
+  <line x1="18" y1="35" x2="18" y2="22" stroke="#a68968" stroke-width="1" stroke-dasharray="2 2"/>
+  <rect x="10" y="13" width="17" height="9" rx="2" fill="#f0e7cf" stroke="#a68968" stroke-width="1"/>
+  <line x1="35" y1="35" x2="35" y2="22" stroke="#4ca049" stroke-width="1" stroke-dasharray="2 2"/>
+  <rect x="27" y="13" width="17" height="9" rx="2" fill="#e5f4e5" stroke="#4ca049" stroke-width="1"/>
+  <line x1="52" y1="46" x2="52" y2="59" stroke="#27421d" stroke-width="1" stroke-dasharray="2 2"/>
+  <rect x="42" y="59" width="20" height="9" rx="2" fill="#27421d"/>
+  <!-- dots inside milestone nodes -->
+  <circle cx="18" cy="40" r="2" fill="#a68968"/>
+  <circle cx="35" cy="40" r="2" fill="#4ca049"/>
+  <circle cx="52" cy="40" r="2.5" fill="white"/>
+  <!-- Growing trend line above spine -->
+  <path d="M10 50 Q20 46 35 44 Q50 40 65 30" stroke="#4ca049" stroke-width="1.5" fill="none" stroke-dasharray="none" opacity="0.4"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Open book -->
+  <path d="M10 20 Q10 16 14 16 L38 18 L38 64 L14 62 Q10 62 10 58 Z" fill="#fffbf0" stroke="#c8b68a" stroke-width="1.5"/>
+  <path d="M70 20 Q70 16 66 16 L42 18 L42 64 L66 62 Q70 62 70 58 Z" fill="#fffbf0" stroke="#c8b68a" stroke-width="1.5"/>
+  <!-- Spine -->
+  <line x1="38" y1="18" x2="42" y2="18" stroke="#a68968" stroke-width="1"/>
+  <line x1="38" y1="64" x2="42" y2="64" stroke="#a68968" stroke-width="1"/>
+  <!-- Left page text lines -->
+  <line x1="16" y1="27" x2="36" y2="27" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="16" y1="32" x2="36" y2="32" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="16" y1="37" x2="36" y2="37" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="16" y1="42" x2="30" y2="42" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <!-- Right page — highlighted mention -->
+  <rect x="44" y="34" width="22" height="8" rx="2" fill="#e5f4e5"/>
+  <line x1="44" y1="27" x2="64" y2="27" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="44" y1="32" x2="64" y2="32" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="44" y1="37" x2="64" y2="37" stroke="#4ca049" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="42" x2="64" y2="42" stroke="#4ca049" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="44" y1="47" x2="56" y2="47" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <!-- Pin / tag marker -->
+  <circle cx="65" cy="36" r="5" fill="#4ca049"/>
+  <line x1="65" y1="40" x2="65" y2="46" stroke="#4ca049" stroke-width="1.5"/>
+</svg>

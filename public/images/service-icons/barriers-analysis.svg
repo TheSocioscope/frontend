@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Wall / barrier blocks -->
+  <rect x="8" y="38" width="20" height="9" rx="2" fill="#e5d9c1" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="32" y="38" width="20" height="9" rx="2" fill="#e5d9c1" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="56" y="38" width="16" height="9" rx="2" fill="#e5d9c1" stroke="#c8b68a" stroke-width="1.5"/>
+  <rect x="18" y="29" width="20" height="9" rx="2" fill="#c8b68a" stroke="#a68968" stroke-width="1.5"/>
+  <rect x="42" y="29" width="20" height="9" rx="2" fill="#c8b68a" stroke="#a68968" stroke-width="1.5"/>
+  <!-- Gap in the wall -->
+  <!-- Arrow breaking through -->
+  <path d="M30 55 Q40 48 50 55" stroke="#4ca049" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+  <polygon points="50,55 44,52 46,58" fill="#4ca049"/>
+  <!-- Magnifying glass -->
+  <circle cx="20" cy="62" r="8" fill="none" stroke="#27421d" stroke-width="2"/>
+  <line x1="26" y1="68" x2="32" y2="74" stroke="#27421d" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- X mark inside magnifier -->
+  <line x1="17" y1="59" x2="23" y2="65" stroke="#b8552a" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="23" y1="59" x2="17" y2="65" stroke="#b8552a" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

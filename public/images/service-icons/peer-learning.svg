@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Six person avatars in a circle -->
+  <!-- Person 1 — top -->
+  <circle cx="40" cy="12" r="6" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <circle cx="40" cy="9" r="2.5" fill="#4ca049" opacity="0.7"/>
+  <path d="M34.5 15 Q40 12 45.5 15" fill="#4ca049" opacity="0.5"/>
+  <!-- Person 2 — top-right -->
+  <circle cx="62" cy="26" r="6" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <circle cx="62" cy="23" r="2.5" fill="#4ca049" opacity="0.7"/>
+  <path d="M56.5 29 Q62 26 67.5 29" fill="#4ca049" opacity="0.5"/>
+  <!-- Person 3 — bottom-right -->
+  <circle cx="62" cy="54" r="6" fill="#e5f4e5" stroke="#6b8e23" stroke-width="1.5"/>
+  <circle cx="62" cy="51" r="2.5" fill="#6b8e23" opacity="0.7"/>
+  <path d="M56.5 57 Q62 54 67.5 57" fill="#6b8e23" opacity="0.5"/>
+  <!-- Person 4 — bottom -->
+  <circle cx="40" cy="68" r="6" fill="#e5f4e5" stroke="#6b8e23" stroke-width="1.5"/>
+  <circle cx="40" cy="65" r="2.5" fill="#6b8e23" opacity="0.7"/>
+  <path d="M34.5 71 Q40 68 45.5 71" fill="#6b8e23" opacity="0.5"/>
+  <!-- Person 5 — bottom-left -->
+  <circle cx="18" cy="54" r="6" fill="#e5f4e5" stroke="#6b8e23" stroke-width="1.5"/>
+  <circle cx="18" cy="51" r="2.5" fill="#6b8e23" opacity="0.7"/>
+  <path d="M12.5 57 Q18 54 23.5 57" fill="#6b8e23" opacity="0.5"/>
+  <!-- Person 6 — top-left -->
+  <circle cx="18" cy="26" r="6" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <circle cx="18" cy="23" r="2.5" fill="#4ca049" opacity="0.7"/>
+  <path d="M12.5 29 Q18 26 23.5 29" fill="#4ca049" opacity="0.5"/>
+  <!-- Connection lines between all -->
+  <line x1="40" y1="18" x2="57" y2="28" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <line x1="62" y1="32" x2="62" y2="48" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <line x1="57" y1="52" x2="45" y2="62" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <line x1="35" y1="62" x2="23" y2="52" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <line x1="18" y1="48" x2="18" y2="32" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <line x1="23" y1="28" x2="40" y2="18" stroke="#c8b68a" stroke-width="1" opacity="0.6"/>
+  <!-- Central speech bubble -->
+  <circle cx="40" cy="40" r="9" fill="#27421d"/>
+  <path d="M36 38 Q40 34 44 38 Q44 42 40 44 Q36 42 36 38Z" fill="white" opacity="0.8"/>
+  <path d="M40 44 L39 48 L43 44Z" fill="#27421d"/>
+</svg>

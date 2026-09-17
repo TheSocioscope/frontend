@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Concentric rings -->
+  <circle cx="40" cy="40" r="34" fill="none" stroke="#e5d9c1" stroke-width="1"/>
+  <circle cx="40" cy="40" r="24" fill="none" stroke="#c8b68a" stroke-width="1"/>
+  <circle cx="40" cy="40" r="14" fill="#e5f4e5" stroke="#4ca049" stroke-width="1.5"/>
+  <!-- Core -->
+  <circle cx="40" cy="40" r="5" fill="#4ca049"/>
+  <!-- Stakeholder dots — inner ring -->
+  <circle cx="40" cy="27" r="3.5" fill="#4ca049" opacity="0.8"/>
+  <circle cx="51" cy="47" r="3.5" fill="#4ca049" opacity="0.8"/>
+  <circle cx="29" cy="47" r="3.5" fill="#4ca049" opacity="0.8"/>
+  <!-- Stakeholder dots — outer ring -->
+  <circle cx="40" cy="7" r="4" fill="#6b8e23" opacity="0.7"/>
+  <circle cx="62" cy="23" r="4" fill="#6b8e23" opacity="0.7"/>
+  <circle cx="67" cy="50" r="4" fill="#a87420" opacity="0.7"/>
+  <circle cx="18" cy="23" r="4" fill="#6b8e23" opacity="0.7"/>
+  <circle cx="13" cy="50" r="4" fill="#a87420" opacity="0.7"/>
+  <circle cx="50" cy="70" r="4" fill="#a87420" opacity="0.6"/>
+  <circle cx="30" cy="70" r="4" fill="#a87420" opacity="0.6"/>
+  <!-- Connection lines from center -->
+  <line x1="40" y1="35" x2="40" y2="30" stroke="#4ca049" stroke-width="1" opacity="0.5"/>
+  <line x1="44" y1="43" x2="48" y2="45" stroke="#4ca049" stroke-width="1" opacity="0.5"/>
+  <line x1="36" y1="43" x2="32" y2="45" stroke="#4ca049" stroke-width="1" opacity="0.5"/>
+</svg>

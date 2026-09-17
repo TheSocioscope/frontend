@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <!-- Certificate body -->
+  <rect x="8" y="14" width="56" height="42" rx="4" fill="#fffbf0" stroke="#d49b3a" stroke-width="2"/>
+  <!-- Inner border -->
+  <rect x="13" y="19" width="46" height="32" rx="2" fill="none" stroke="#d49b3a" stroke-width="0.75" stroke-dasharray="3 2"/>
+  <!-- Decorative corners -->
+  <path d="M13 24 L13 19 L18 19" stroke="#d49b3a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M54 19 L59 19 L59 24" stroke="#d49b3a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M13 46 L13 51 L18 51" stroke="#d49b3a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M54 51 L59 51 L59 46" stroke="#d49b3a" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <!-- Title line -->
+  <line x1="22" y1="28" x2="50" y2="28" stroke="#27421d" stroke-width="2" stroke-linecap="round"/>
+  <line x1="26" y1="33" x2="46" y2="33" stroke="#a68968" stroke-width="1.2" stroke-linecap="round"/>
+  <!-- Seal / medal -->
+  <circle cx="36" cy="44" r="7" fill="#d49b3a"/>
+  <circle cx="36" cy="44" r="5" fill="#f7e9c4"/>
+  <path d="M36 39.5 l1.2 3.6 h3.8 l-3.1 2.2 1.2 3.6L36 46.7l-3.1 2.2 1.2-3.6-3.1-2.2h3.8z" fill="#d49b3a"/>
+  <!-- Ribbon tails -->
+  <path d="M31 56 L36 51 L41 56 L39 62 L36 59 L33 62 Z" fill="#d49b3a" opacity="0.8"/>
+  <!-- Signature line -->
+  <line x1="18" y1="47" x2="26" y2="47" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+  <line x1="46" y1="47" x2="54" y2="47" stroke="#c8b68a" stroke-width="1" stroke-linecap="round"/>
+</svg>
