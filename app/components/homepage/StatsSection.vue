@@ -4,7 +4,7 @@
       <div class="metrics-grid section-reveal">
         <div v-for="(stat, index) in stats" :key="index" class="metric-card">
           <div class="metric-number">
-            <span v-if="isVisible">{{ animatedValues[index] }}{{ index < 2 ? '+' : '' }}</span>
+            <span v-if="isVisible">{{ animatedValues[index] }}{{ index === 1 ? '+' : '' }}</span>
             <span v-else>{{ stat.number }}</span>
           </div>
           <div class="metric-label">{{ stat.label }}</div>
@@ -23,6 +23,12 @@ interface OverallStats {
 
 const { t: $t } = useI18n()
 const config = useRuntimeConfig()
+
+// Initiative count comes from the projects collection (same source as the
+// projects page), so it updates automatically when an initiative is added
+const { data: projectCount } = await useAsyncData('projects-count', () =>
+  queryCollection('projects').count()
+)
 
 // Load real stats
 const overallStats = ref<OverallStats | null>(null)
@@ -67,9 +73,9 @@ const stats = computed(() => {
 
   return [
     {
-      number: '700+',
+      number: `${projectCount.value ?? 0}`,
       label: $t('stats.card1.label'),
-      target: 700
+      target: projectCount.value ?? 0
     },
     {
       number: '35+',
