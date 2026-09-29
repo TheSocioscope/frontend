@@ -7,7 +7,7 @@ interviewers:
   - name: Adela Vasku
     country: Czechia
     picture: '/images/team/Adela Vasku.jpg'
-  - name: Albena Shkodorova
+  - name: Albena Shkodrova
     country: Bulgaria
     picture: '/images/team/Albena Shkodrova.jpeg'
   - name: Alejandra Maldonado
