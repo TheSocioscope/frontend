@@ -155,7 +155,7 @@ interviewers:
     country: Cook Islands, French Polynesia
     picture: '/images/team/Lauriane Dos Santos.jpg'
   - name: Leonardo Herrera
-    country: Peru
+    country: Regional Coordinator - Peru
     picture: '/images/team/Leonardo.jpg'
   - name: Loic Bonin
     country: Denmark
