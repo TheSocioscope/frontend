@@ -4,6 +4,6 @@ lastname: Fournand
 picture: '/images/team/Valentine.jpg'
 country: France
 category: fieldwork
-role: Panel-Managerin
+role: Panel- und Kommunikationsmanagerin, Projektkoordinatorin
 details: ''
 ---
