@@ -106,9 +106,9 @@ interviewers:
   - name: Ganesh Radha-Udayakumar
     country: India
     picture: '/images/team/Ganesh.jpg'
-  - name: Gianina Chávarry Minaya
+  - name: Gianilú Chávarry Minaya
     country: Peru
-    picture: '/images/team/Gianina Chávarry Minaya.jpg'
+    picture: '/images/team/Gianilú Chávarry Minaya.jpg'
   - name: Gustavo Grajeda
     country: Paraguay
     picture: '/images/team/Gustavo Grajeda.JPG'
