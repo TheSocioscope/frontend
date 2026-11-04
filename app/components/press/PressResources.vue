@@ -44,13 +44,23 @@
           </div>
 
           <div class="media-kit-actions">
-            <a href="/Socioscope Media Kit.pdf" class="btn btn-primary" download>
+            <a
+              href="/Socioscope Media Kit.pdf"
+              class="btn btn-primary"
+              download
+              data-umami-event="media-kit-download"
+            >
               <span>⬇</span> {{ $t('press.mediaKit.downloadPdf') }}
             </a>
             <button class="btn btn-outline" @click="shareMediaKit">
               <span>🔗</span> {{ $t('press.mediaKit.shareLink') }}
             </button>
-            <a href="/Socioscope Media Kit.pdf" target="_blank" class="btn btn-outline">
+            <a
+              href="/Socioscope Media Kit.pdf"
+              target="_blank"
+              class="btn btn-outline"
+              data-umami-event="media-kit-view"
+            >
               <span>👁</span> {{ $t('press.mediaKit.viewFullSize') }}
             </a>
           </div>

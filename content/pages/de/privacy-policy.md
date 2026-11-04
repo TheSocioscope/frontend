@@ -3,7 +3,7 @@ title: Datenschutzerklärung
 description: Wie wir Ihre persönlichen Daten schützen und verarbeiten
 slug: privacy-policy
 published: true
-lastUpdated: 2026-01-30
+lastUpdated: 2026-11-04
 ---
 
 Bei The Socioscope verpflichten wir uns, Ihre Privatsphäre zu schützen und die Sicherheit Ihrer persönlichen Daten zu gewährleisten. Diese Datenschutzerklärung erklärt, wie wir Ihre Daten erfassen, verwenden, offenlegen und schützen, wenn Sie unsere Website besuchen oder unsere Dienste nutzen.
@@ -14,8 +14,8 @@ Wir erfassen Informationen, die Sie uns direkt zur Verfügung stellen, einschlie
 
 - **Persönliche Informationen:** Name, E-Mail-Adresse, institutionelle Zugehörigkeit und andere Kontaktdaten, wenn Sie unseren Newsletter abonnieren, uns kontaktieren oder sich für Veranstaltungen registrieren.
 - **Forschungsdaten:** Informationen, die Sie einreichen, wenn Sie an unseren Forschungsinitiativen teilnehmen oder zu unserer Datenbank beitragen.
-- **Nutzungsinformationen:** Daten darüber, wie Sie mit unserer Website interagieren, einschließlich besuchter Seiten, verbrachter Zeit und Navigationsmuster.
-- **Technische Informationen:** IP-Adresse, Browsertyp, Geräteinformationen und Cookies für Website-Funktionalität und Analysen.
+- **Nutzungsstatistiken:** Anonyme, zusammengefasste Statistiken über die Besuche unserer Website (siehe „Website-Statistiken“ unten).
+- **Technische Informationen:** IP-Adresse, Browsertyp, Geräteinformationen und Cookies für die Website-Funktionalität.
 
 ## Wie wir Ihre Informationen verwenden
 
@@ -49,16 +49,13 @@ Wir implementieren angemessene technische und organisatorische Sicherheitsmaßna
 
 Keine Methode der Übertragung über das Internet oder elektronischen Speicherung ist jedoch zu 100% sicher. Obwohl wir bestrebt sind, kommerziell akzeptable Mittel zum Schutz Ihrer Informationen zu verwenden, können wir deren absolute Sicherheit nicht garantieren.
 
-## Cookies und Tracking-Technologien
+## Cookies
 
-Wir verwenden Cookies und ähnliche Tracking-Technologien, um Ihre Erfahrung auf unserer Website zu verbessern. Cookies sind kleine Datendateien, die auf Ihrem Gerät gespeichert werden und uns helfen:
+Wir verwenden nur Cookies, die für den Betrieb und die Sicherheit der Website unbedingt erforderlich sind, darunter eines, das Ihre Sprache speichert. Wir verwenden keine Analyse-, Werbe- oder Tracking-Cookies und benötigen kein Einwilligungsbanner, da wir keine nicht notwendigen Cookies setzen. Sollte sich dies ändern, holen wir zuerst Ihre Einwilligung ein.
 
-- Ihre Präferenzen und Einstellungen zu speichern
-- Zu verstehen, wie Sie unsere Website nutzen
-- Website-Funktionalität und -Leistung zu verbessern
-- Relevante Inhalte und personalisierte Erfahrungen bereitzustellen
+## Website-Statistiken
 
-Sie können Cookie-Einstellungen über Ihre Browsereinstellungen steuern. Das Deaktivieren von Cookies kann jedoch Ihre Fähigkeit einschränken, bestimmte Funktionen unserer Website zu nutzen.
+Wir verwenden Umami, ein datenschutzfreundliches Analysetool, um Besuche und Klicks auf Links und Schaltflächen zu zählen und um zu sehen, welche Seiten gelesen werden, von welchen Websites Besucher kommen sowie aus welchem Land und mit welchem Gerätetyp und Browser sie zugreifen. Umami setzt keine Cookies, speichert Ihre IP-Adresse nicht, identifiziert Sie nicht und verfolgt Sie nicht über andere Websites hinweg. Die Statistiken sind anonym und zusammengefasst.
 
 ## Ihre Rechte und Wahlmöglichkeiten
 

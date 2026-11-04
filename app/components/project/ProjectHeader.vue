@@ -23,6 +23,7 @@
             target="_blank"
             rel="noopener noreferrer"
             class="hero-website-link"
+            data-umami-event="initiative-website-click"
           >
             <v-icon size="small">mdi-web</v-icon>
             {{ $t('projects.detail.website', 'Website') }}
@@ -36,6 +37,8 @@
               rel="noopener noreferrer"
               class="hero-social-icon"
               :aria-label="link.platform"
+              data-umami-event="initiative-social-click"
+              :data-umami-event-platform="link.platform"
             >
               <v-icon size="18">{{ link.icon }}</v-icon>
             </a>

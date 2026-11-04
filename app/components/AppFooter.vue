@@ -112,15 +112,34 @@
               <NuxtLink :to="localePath('/contact')">{{ $t('nav.contactUs') }}</NuxtLink>
             </li>
             <li v-if="socials.linkedin">
-              <a :href="socials.linkedin" target="_blank" rel="noopener noreferrer">{{
+              <a
+                :href="socials.linkedin"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-umami-event="social-click"
+                data-umami-event-platform="linkedin"
+                >{{
                 $t('footer.connect.linkedin')
               }}</a>
             </li>
             <li v-if="socials.youtube">
-              <a :href="socials.youtube" target="_blank" rel="noopener noreferrer">YouTube</a>
+              <a
+                :href="socials.youtube"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-umami-event="social-click"
+                data-umami-event-platform="youtube"
+                >YouTube</a
+              >
             </li>
             <li v-if="socials.github">
-              <a :href="socials.github" target="_blank" rel="noopener noreferrer">{{
+              <a
+                :href="socials.github"
+                target="_blank"
+                rel="noopener noreferrer"
+                data-umami-event="social-click"
+                data-umami-event-platform="github"
+                >{{
                 $t('footer.connect.github')
               }}</a>
             </li>

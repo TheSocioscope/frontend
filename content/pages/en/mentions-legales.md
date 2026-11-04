@@ -34,6 +34,6 @@ France
 
 ## À propos des cookies
 
-Nous utilisons des cookies pour améliorer l'interactivité de notre site et de nos services. Les cookies sont utilisées pour assurer le bon fonctionnement de la navigation et pour gérer techniquement les connexions des utilisateurs enregistrées, les inscriptions aux événements et à la lettre d'information et l'établissement de statistiques par Google Analytics. Un utilisateur qui a accepté les cookies peut revenir sur sa décision (lien en bas des pages du site). Le refus des cookies et leur élimination peuvent provoquer des disfonctionnements lors de la navigation sur le site. Les cookies déposés par Google Analytics seront désactivés, pour les éliminer définitivement il faut utiliser les options de suppression des cookies de votre navigateur.
+Nous utilisons uniquement les cookies strictement nécessaires au fonctionnement et à la sécurité du site, dont un cookie qui mémorise votre langue. Les statistiques de fréquentation sont établies avec Umami, un outil d'analyse qui ne dépose aucun cookie. Le refus des cookies et leur élimination, via les options de votre navigateur, peuvent provoquer des dysfonctionnements lors de la navigation sur le site.
 
 **Qu'est-ce qu'un « cookie » ?** Un « cookie » est un fichier de taille limitée, généralement constitué de lettres et de chiffres, envoyé par le serveur internet au fichier cookie du navigateur situé sur le disque dur de votre ordinateur.

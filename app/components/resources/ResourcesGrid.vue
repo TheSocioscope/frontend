@@ -8,6 +8,8 @@
         target="_blank"
         rel="noopener noreferrer"
         class="resource-card"
+        data-umami-event="resource-click"
+        :data-umami-event-resource="resource.title"
       >
         <div class="resource-meta">
           <span class="resource-category">{{ getCategoryLabel(resource.category) }}</span>

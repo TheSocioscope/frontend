@@ -267,6 +267,8 @@ watch(
         .on('click', function (this: any, event: MouseEvent, d: any) {
           const countryName = d.properties.name
           if (countryData.value[countryName]) {
+            // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            ;(window as any).umami?.track('map-country-click', { country: countryName })
             handleCountryClick(countryName)
           }
         })

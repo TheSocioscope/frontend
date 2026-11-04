@@ -8,7 +8,7 @@
         <div class="contact-info">
           <div class="contact-item">
             <div class="contact-icon">📧</div>
-            <a href="mailto:thesocioscope@paris-iea.fr">thesocioscope@paris-iea.fr</a>
+            <a href="mailto:thesocioscope@paris-iea.fr" data-umami-event="contact-email-click">thesocioscope@paris-iea.fr</a>
           </div>
         </div>
       </div>

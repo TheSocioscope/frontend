@@ -16,6 +16,9 @@ export const contact = {
   address: ''
 }
 
+// Umami website ID (umami.is > Settings > Websites). Analytics stay off while empty.
+export const umamiWebsiteId = 'd93ad59a-1fd8-40ad-a242-0519a1a9d263'
+
 export const web3formsKey = '90ee10e4-b524-4268-a89f-d652cc06b73d'
 
 export default {

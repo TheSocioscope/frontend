@@ -9,7 +9,11 @@
     >
       <template #cta>
         <div class="hero-cta">
-          <a href="mailto:thesocioscope@paris-iea.fr" class="submit-cta">
+          <a
+            href="mailto:thesocioscope@paris-iea.fr"
+            class="submit-cta"
+            data-umami-event="resource-suggest-click"
+          >
             <v-icon size="small">mdi-plus-circle-outline</v-icon>
             <span>{{ $t('resources.hero.submitCta') }}</span>
             <v-icon size="small" class="cta-arrow">mdi-arrow-right</v-icon>

@@ -3,7 +3,7 @@ title: Politique de confidentialité
 description: Comment nous protégeons et traitons vos informations personnelles
 slug: privacy-policy
 published: true
-lastUpdated: 2026-01-30
+lastUpdated: 2026-11-04
 ---
 
 Chez The Socioscope, nous nous engageons à protéger votre vie privée et à assurer la sécurité de vos informations personnelles. Cette Politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous visitez notre site web ou utilisez nos services.
@@ -14,8 +14,8 @@ Nous collectons les informations que vous nous fournissez directement, notamment
 
 - **Informations personnelles :** Nom, adresse e-mail, affiliation institutionnelle et autres coordonnées lorsque vous vous abonnez à notre newsletter, nous contactez ou vous inscrivez à des événements.
 - **Données de recherche :** Informations que vous soumettez lorsque vous participez à nos initiatives de recherche ou contribuez à notre base de données.
-- **Informations d'utilisation :** Données sur la façon dont vous interagissez avec notre site web, y compris les pages visitées, le temps passé et les schémas de navigation.
-- **Informations techniques :** Adresse IP, type de navigateur, informations sur l'appareil et cookies pour la fonctionnalité du site web et l'analyse.
+- **Statistiques d'utilisation :** Statistiques anonymes et agrégées sur la fréquentation de notre site web (voir « Statistiques du site web » ci-dessous).
+- **Informations techniques :** Adresse IP, type de navigateur, informations sur l'appareil et cookies pour la fonctionnalité du site web.
 
 ## Comment nous utilisons vos informations
 
@@ -49,16 +49,13 @@ Nous mettons en œuvre des mesures de sécurité techniques et organisationnelle
 
 Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est sécurisée à 100%. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos informations, nous ne pouvons garantir leur sécurité absolue.
 
-## Cookies et technologies de suivi
+## Cookies
 
-Nous utilisons des cookies et des technologies de suivi similaires pour améliorer votre expérience sur notre site web. Les cookies sont de petits fichiers de données stockés sur votre appareil qui nous aident à :
+Nous utilisons uniquement les cookies strictement nécessaires au fonctionnement et à la sécurité du site web, dont un cookie qui mémorise votre langue. Nous n'utilisons aucun cookie d'analyse, de publicité ou de suivi, et aucun bandeau de consentement n'est nécessaire car nous ne déposons aucun cookie non essentiel. Si cela devait changer, nous vous demanderions d'abord votre consentement.
 
-- Mémoriser vos préférences et paramètres
-- Comprendre comment vous utilisez notre site web
-- Améliorer les fonctionnalités et les performances du site web
-- Fournir du contenu pertinent et des expériences personnalisées
+## Statistiques du site web
 
-Vous pouvez contrôler les paramètres des cookies via les préférences de votre navigateur. Cependant, la désactivation des cookies peut limiter votre capacité à utiliser certaines fonctionnalités de notre site web.
+Nous utilisons Umami, un outil d'analyse respectueux de la vie privée, pour compter les visites et les clics sur les liens et les boutons, et pour connaître les pages consultées, les sites d'où viennent les visiteurs, ainsi que leur pays, leur type d'appareil et leur navigateur. Umami ne dépose aucun cookie, ne conserve pas votre adresse IP, ne vous identifie pas et ne vous suit pas d'un site à l'autre. Ces statistiques sont anonymes et agrégées.
 
 ## Vos droits et choix
 

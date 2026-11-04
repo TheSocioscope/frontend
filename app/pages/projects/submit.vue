@@ -48,6 +48,7 @@
 
               <v-btn
                 type="submit"
+                data-umami-event="initiative-submit"
                 color="green-bright"
                 size="large"
                 rounded="pill"

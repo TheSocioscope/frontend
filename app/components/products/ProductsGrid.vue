@@ -7,6 +7,8 @@
       target="_blank"
       rel="noopener noreferrer"
       class="product-card"
+      data-umami-event="product-click"
+      :data-umami-event-product="product.title"
     >
       <div class="product-image">
         <img

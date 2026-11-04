@@ -1,4 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import { umamiWebsiteId } from './static.config'
+
 export default defineNuxtConfig({
   compatibilityDate: '2025-07-15',
   devtools: { enabled: true },
@@ -145,7 +147,19 @@ export default defineNuxtConfig({
           rel: 'stylesheet',
           href: 'https://fonts.googleapis.com/css2?family=Lato:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap'
         }
-      ]
+      ],
+      // Cookieless analytics — production builds only, and only on the live domain
+      script:
+        process.env.NODE_ENV === 'production' && umamiWebsiteId
+          ? [
+              {
+                src: 'https://cloud.umami.is/script.js',
+                defer: true,
+                'data-website-id': umamiWebsiteId,
+                'data-domains': 'thesocioscope.org'
+              }
+            ]
+          : []
     },
     pageTransition: { name: 'page', mode: 'out-in' }
   },

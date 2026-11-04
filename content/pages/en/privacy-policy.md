@@ -3,7 +3,7 @@ title: Privacy Policy
 description: How we protect and handle your personal information
 slug: privacy-policy
 published: true
-lastUpdated: "2026-07-06"
+lastUpdated: "2026-11-04"
 ---
 
 At The Socioscope, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
@@ -17,7 +17,7 @@ Contact for privacy and data matters: [thesocioscope@paris-iea.fr](mailto:thesoc
 - **Contact and newsletter data:** name, email, institutional affiliation, and details you give us when you subscribe, contact us, or register for events.
 - **Research data:** information you provide when taking part in our research, collected under a separate research consent form.
 - **Initiative-page editing data:** if you suggest edits to your initiative page, your account details and email, a record of the changes you submit, and any content you send us, including images.
-- **Technical data:** IP address, browser type, device information, and cookies for website functionality and analytics.
+- **Technical data:** IP address, browser type, device information, and cookies for website functionality. We also keep anonymous website statistics (see below).
 
 ## How we use your data, and our legal basis
 
@@ -59,7 +59,11 @@ We use appropriate technical and organisational measures, including encryption i
 
 ## Cookies
 
-We use only strictly necessary cookies required for the website to work and stay secure. We do not use analytics, advertising, or tracking cookies, and we do not need a consent banner because we set no non-essential cookies. If this ever changes, we will ask for your consent first.
+We use only strictly necessary cookies required for the website to work and stay secure, including one that remembers your language. We do not use analytics, advertising, or tracking cookies, and we do not need a consent banner because we set no non-essential cookies. If this ever changes, we will ask for your consent first.
+
+## Website statistics
+
+We use Umami, a privacy-friendly analytics tool, to count visits and clicks on links and buttons, and to see which pages are read, which sites visitors come from, and their country, device, and browser type. Umami sets no cookies, does not store your IP address, and does not identify you or follow you across websites. The statistics are anonymous and aggregated.
 
 ## Your rights
 

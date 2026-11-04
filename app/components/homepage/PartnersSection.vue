@@ -13,6 +13,8 @@
               :href="partner.url"
               target="_blank"
               rel="noopener noreferrer"
+              data-umami-event="partner-click"
+              :data-umami-event-partner="partner.title"
             >
               <div class="partner-content">
                 <h3 class="partner-title">{{ partner.title }}</h3>

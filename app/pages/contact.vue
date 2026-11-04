@@ -15,7 +15,11 @@
           <!-- Primary email CTA -->
           <div class="email-block">
             <p class="email-label">{{ $t('contact.info.email.title') }}</p>
-            <a href="mailto:thesocioscope@paris-iea.fr" class="email-link">
+            <a
+              href="mailto:thesocioscope@paris-iea.fr"
+              class="email-link"
+              data-umami-event="contact-email-click"
+            >
               thesocioscope@paris-iea.fr
             </a>
           </div>
